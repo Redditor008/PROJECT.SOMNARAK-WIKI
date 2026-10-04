@@ -28,20 +28,20 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per cycle, collected in the open street with the Row's traffic diverted for the hour. The Row's traders are paid for the diversion and the payment is the largest line in this holding's budget. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Stand inside the audible radius, listen to the whole session, and do not ask whose voice it is. Viderehan holds the gauge; Ferrehan lowers it. The session ends on the clock, not on the cry. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Floating Fragment.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A session lowers the gauge and shortens nothing. The cry has not altered in pitch, volume or phrasing in eleven years of recordings, and it is the same half-second of sound repeating with no seam anybody has found.
+- The gauge rises when a raid file in the district is marked concluded. Not when somebody is found and not when somebody is confirmed dead — when a file stops being open, by whatever route.
+- The exposure is the urge to answer. Every worker reports it, most within ten minutes, and the briefing names it before the session so that nobody has to discover it alone in the street.
+- Two pieces, taken from the drifting ember itself, which required somebody to close a hand around a crying sound. The extractor's own note is in the ledger and is four words long: *I asked first. Nothing.*
 
 ## Combat Record
 ### Core Stat Line
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 0.95 m/s |
-| **Resistance** | 15% against Lament pressure; 5% against other pressure types |
+| **Resistance** | 15% against Lament. There is nothing to strike — the fragment is the size of a coal and drifts out of reach without appearing to move — and the Row station carries no equipment to this holding at all. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Han Pressure [ATK]** | 3–10 per hit · Lament |
@@ -80,21 +80,21 @@
 | { *The Drift* [**Debuff**] } | "A piece of something broken floats past — and you recognize it as part of yourself." | [The Fragment drifts near the target; resonance identifies a shared break.] | *Target suffers -10 Composure; they see their own fracture.* **[10 Lament DMG [Lament]]** | When the Fragment approaches. |
 | { *The Orbit* [**Debuff**] } | "The fragment circles you — slow, patient, reflecting your grief with each pass." | [The Fragment orbits the target; the reflection is relentless.] | *Target loses 10 Composure; they cannot look away from the break.* **[10 Lament DMG [Lament]]** | When the target remains still. |
 | { *The Sharp Edge* [**Attack**] } | "The fragment turns — and its broken edge is aimed at you." | [The Fragment's jagged edge lashes out.] | *Inflicts Lament pressure and one clean, cutting wound.* **[14-22 Lament DMG [Lament]]** | When the Fragment is disturbed. |
-| { *The Full Impact* [**Attack**] } | "The fragment accelerates — every orphaned piece drawn together, crashing." | [The Fragment gathers its dispersed mass and collides.] | *A heavy Deep Blue impact; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Fragment is caught. |
-| { *A Thousand Fragments* [**Ultimate**] } | "Everything breaks into pieces — and every piece floats free, and every piece is sharp." | [The Fragment shatters into countless floating shards across the field.] | *All in range suffer Lament pressure for three turns among the drift.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Impact* [**Attack**] } | "It comes to the hand that reached for it, and it is heavier than a thing that size." | [The fragment closes the distance to anybody who grabs at it.] | *24–36 Lament and a 15% Gauge surge to that worker; the sound stops for the duration of contact and resumes exactly where it left off.* **[24-36 Lament DMG [Lament]]** | When anybody attempts to catch or silence it. Four occasions, two of them during the extraction. |
+| { *A Thousand Fragments* [**Ultimate**] } | "There is one at every doorway on the Row, and all of them are crying the same half-second." | [The fragment divides across the district and the sound becomes unlocatable.] | *12–20 Lament per cycle for three cycles to everyone on the Row.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, twice, both in the week after a batch of files was closed administratively. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The audible radius is paced out and marked, the traffic is diverted, and the session's end time is set and stated aloud before anybody steps inside the line. The clock is the only thing that ends a session.
 2. **Clash:** The work is listening. Flerehan brings it closer and dims the flame; Ferrehan requires the worker to stay with the sound until it stops being unbearable; Pugnahan sharpens the cry and is logged as a failure. Nobody attempts to identify the voice and nobody attempts to quiet it, which are the two instincts the post exists to suppress.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen without attempting to identify or silence the cry**.
+3. **Resolution:** The session runs its time and the team leaves without having named anybody. 211 sessions; the gauge falls in 196 of them, and the fifteen exceptions all coincide with registry activity rather than with anything that happened in the street.
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Clarity** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- The failure here is a name said out loud. Usually a guess, usually kind, and always the beginning of a bad session: the sound does not change and the gauge goes up and stays up until the next cycle.
+- Past about forty minutes workers begin to hear words in it. No two have reported the same words, and the Row station stopped collecting them in Year 4,231 after finding that collecting them encouraged it.
+- The set's toll is in the ledger: wielders stop finishing their own sentences in company when the subject is somebody missing, and both of them were told so by colleagues before noticing it.
+- An unresolved session is not a crisis; it is a higher opening reading next time. The failure mode of this holding is bureaucratic and slow, and it runs through the registry office rather than through the street.
 
 ## Appearance
 **Primary Form:** A small burning fragment that floats at shoulder height, sometimes forming the outline of a crying figure.
@@ -116,8 +116,8 @@
 |---|---|
 | **Form** | A small burning fragment that floats at shoulder height, sometimes forming the outline of a crying figure. |
 | **Position / movement** | Primary Form: A small burning fragment that floats at shoulder height, sometimes forming the outline of a crying figure. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | A coal-sized ember at shoulder height, flickering between a burning fragment and the outline of a crying figure, smelling of cold rain and char. Record the audible radius in metres and every registry action taken in the district that week. |
+| **Distinctive markers** | Shoulder height, always, in a street with an uneven camber; it holds the height of a standing person rather than a height above the ground, and the surveyors have measured that twice to be sure. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; more than one Row record concerns somebody who was taken, and this is the one that requires the file to stay open. |
 
 **Appearance protocol:** Record the flicker — it alternates between a burning coal and the outline of a crying figure, and the proportion of time spent as each is the figure worth having. Record the warmth, which is blood-warm rather than hot, and the audible radius. Do not attempt to photograph the outline; nine attempts have produced nine images of a coal.
@@ -127,7 +127,7 @@
 - **The Sorrow:** The persistence of grief after the person who expressed it has vanished.
 - **The Event:** A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared.
 - **The People:** One mourner of Collector's Row, taken mid-cry during a raid, never recovered and never declared anything. The Keepers hold the raid manifest, which lists her by stall number because the Row's lists were kept by stall, and the archive has not resolved her into a name — not from reticence, but because the record of the taken is the thing this entity is attached to.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased their own memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **Expanded origin context:** The Row's registry holds 61 files from the raid week and 44 of them are still open. That is not an oversight; it is an argument the district has been having with the city for eleven years. A file stays open while somebody is still looking, and the Row has kept looking, and the archive's note is careful about what follows from that — the connection between open files and this holding's gauge is measured, repeatedly, and is not an explanation of anything. The mourner herself was never recovered and was never declared.
 
 ## Behavior
 
@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. Floating Fragment is recorded as a Subject with Subject-Grudge manifestation and Lament elemental expression. The current record places it at Zone C, Collector's Row; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Work Type table describes an hour in a street and misses the whole mechanism, which sits in an office four roads away. Across eleven years the gauge has moved with the registry and with nothing else: ten points up per file concluded, ten down per file re-opened, measured 38 times. Two of this holding's recorded suppressions were achieved by a clerk with a pen and nobody at the site at all.
 
 **Reading the response:** A falling reading means somebody listened to the cry without trying to place it or stop it. Stability under Viderehan is correct. The reading rises when the voice is identified, when the sound is suppressed by any means, and when a file concerning the raids is marked concluded anywhere in the district.
 ## Breach Behavior
@@ -160,7 +160,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Breach type:** The sound spreads. There is no containment zone to warp — the holding has always been in the open street — and a breach here means the cry becoming audible from doorways where it was not audible before.
 - **Containment priority:** Do not seal the arcade; the sound passes through the partitions and the one sealing attempt put it in three shops at once. Clear the public, leave one listener in place, and have the registry office re-open whatever was closed that week.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each missing-person file closed administratively in the district while it is loose — presumed dead, estate settled, case concluded. It falls 10% for each such file re-confirmed as open, and the two recorded closures of this entity were achieved in the registry office with nobody present at the site.
 
@@ -182,7 +182,7 @@ The etched celestial coordinates point toward lost stars outside recorded cartog
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Ability:** Lament damage to the mind. The sabre carries the record's signature — a sound cut off rather than finished — and what it opens in a target is every conversation they were part of that stopped without ending.
+**Ability:** Lament against the Mind. The target recalls, at once, every conversation of theirs that stopped without ending — not arguments, the file is specific: the ones that were simply interrupted and never resumed. Fourteen strikes and fourteen accounts that use almost the same phrasing.
 
 **Cost:** The wielder carries its unwept grief and weeps involuntarily, most often on hearing a voice stop mid-sentence.
 
@@ -196,15 +196,15 @@ The sabre delivers fluid, sweeping draw-cuts from horseback or on foot. The blue
 
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Turns Lament aside from the mind, which is the only pressure here. The suit is what allows a worker to stand inside the crying for a full session without reaching to silence it.
+**Ability:** Turns Lament aside from the mind, which is the only pressure this holding exerts. What it buys is an hour of standing inside the crying without reaching for it; it does nothing at all about wanting to.
 
-**Cost:** The wearer goes numb to small pleasures, and reports other people's distress as audible rather than affecting.
+**Cost:** Other people's distress becomes something the wearer hears rather than something that reaches them. Colleagues notice it first, and on this set they have been asked to.
 
 ### M.A.W. Stigma — The Crying Ember
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** an ember-charm of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a charm the size of a coal, cool in the hand and cooler as it nears the Row, which gives out a half-second of sound when it is dropped and nothing when it is struck.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -214,22 +214,22 @@ The sabre delivers fluid, sweeping draw-cuts from horseback or on foot. The blue
 
 **Cost:** The wearer hears grief even where no sound exists.
 
-*The stigma is not manufactured. It is given to a worker who sat through the cry without asking whose it was, and has been given to nobody who identified the voice correctly.*
+*Nine Stigmas in eleven years, every one to a worker who sat through the whole session without asking whose voice it was. Three workers have identified the voice correctly, from the Row's own records, and not one of them has ever received anything.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+Both pieces came out of a sound, which the Armoury's ledger treats as the most irregular extraction it has on file, and they keep the sound's one property: they are unfinished. The sabre's note stops mid-figure, the charm's half-second has no ending in it, and wielders stop finishing their own sentences whenever the subject is somebody who is missing. Two wielders, both told by colleagues, neither having noticed.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the audible radius that day, and the number of open raid files in the district registry that morning. The last field is obtained by telephone and is not optional. |
+| **During use** | Any sentence the wielder leaves unfinished, written down as far as it got. The second worker does not prompt them to continue. |
+| **At limit** | The wielder answers the cry. Both over-runs reached that point; in one case the wielder used a name, and the registry had no such person. |
+| **After use** | Return the piece and ask a colleague — not the wielder — whether the wielder has been finishing their sentences. The Armoury has stood one wielder down on an answer the wielder disagreed with. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** An α-grade set whose output is trivial and whose cost is social and invisible to the person paying it. Authorise on the colleague's answer, not on the grade, and re-ask it monthly.
 
 ## 관찰 기록 (Observation Log)
 
@@ -247,18 +247,18 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Floating Fragment as a Subject with Subject-Grudge manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone C, Collector's Row. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Floating Fragment's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The team pace out the audible edge and mark it. Identification is the height and the sound together: a small burning thing at the height of somebody's shoulder, crying half a second of a cry, in a street with people doing business in it. |
+| **Sustained observation** | Eleven years of audible radius against the registry's open-file count. The radius has run from 11 metres to 34 and tracks the count inversely; the recording of the cry itself is unchanged throughout and has been compared waveform to waveform. |
+| **Activation or escalation** | The radius growing, or the sound appearing at a doorway where it was not audible. Record the new edge, the date, and every registry action in the district that week — closures and re-openings both, with the file numbers. |
+| **Post-contact review** | Radius, open-file count, session length, and whether anybody named anybody. The last field is asked of each worker separately; it has been positive eleven times and on nine of those the name was wrong. |
 
-**Observation method:** Record the first sign, which is char and cold rain together; the first sensation, which is the urge to answer the crying; the audible radius; the registry actions taken in the district that week; and the condition that ends the encounter, which is the session's scheduled end. Nobody stays to hear the cry finish, because it does not finish.
+**Observation method:** Char and cold rain, then the urge to answer, then the radius, then the week's registry actions. The session ends on the clock. Nobody stays to hear the cry finish, because it does not finish, and the Row station regards a worker who waits for an ending as the clearest warning sign this holding produces.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Floating Fragment (O-Iα-453 [LS]) is logged as a Subject-Grudge manifestation expressing Lament. The Fragment formed from a cry that ended while its sorrow continued. Held at Zone C, Collector's Row. The sound is older than the current Collector's Row.
+Floating Fragment drifts at shoulder height in Collector's Row: a coal-sized ember, warm, flickering between a burning piece and the outline of somebody crying, carrying half a second of a cry that was interrupted during a Collector raid and has not stopped since. The street was rebuilt twice around it.
 
 **Entry 2 — <Registry Return: Four Hundred and Twelve Files>**
 Missing-person files from the Row raids: four hundred and twelve. Closed as presumed dead in the forty years following: three hundred and eighty-one, nearly all of them in two administrative sweeps intended to let estates settle and families remarry. Kept open: thirty-one. The audible radius of this record was first measured in the year of the first sweep and has not been smaller since. The registry's own note, added later, observes that the sweeps were requested by the families and were, by every ordinary standard, a kindness.
@@ -274,9 +274,9 @@ Thirty-one files on Collector's Row are held open by instruction of this office,
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Floating Fragment; the other feeds it.
+> The choice arrives about forty minutes in, when the sound has words in it and one of the names in the registry would fit.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Listen to the end of the session without asking whose it is. | Say the name. Somebody should know who she was. |
 |---|---|
 | Drifts closer and dims its flame. The sorrow is witnessed; Floating Fragment is fully recorded. | Spins and emits a sharper cry. The gauge climbs and Floating Fragment withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -293,26 +293,26 @@ A small ember floats in the corridor. It is beautiful until the sound begins: so
 
 **When the entity activates:** Activation feels like the room remembering something it had been forced to forget. The Lament surges, the Subject-Grudge sharpens, and for a moment the containment zone is not a cell but the original wound, reopened.
 
-**After departure:** What remains after the door closes is not fear but weight — a Lament aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** You check on somebody. Workers coming off this holding telephone family, call at an address, or look up a name, and the Row station has recorded the pattern for eleven years without once calling it an effect requiring treatment.
 
 ### Interaction Pattern
 
-Floating Fragment does not exist in isolation. Its recorded relationships with The Hollow Echo, The Whispering Walls, The Debt Collector's Shadow should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relations, all from the same district and two from the same night. The measure is the audible radius, and in nine supervised sessions nothing has moved it; what the pairings have produced instead is paperwork, which on this holding is the more consequential currency.
 
 **Interaction method:** Establish it alone first, with the registry's weekly file actions collected alongside, because those are the variable. In shared conditions log drift, audible radius, time spent as an outline rather than a coal, and whether the other record altered the pitch of the crying — twice reported, both times by the same observer, and recorded here as unconfirmed.
 
 
 ### Entity Interaction Record
 
-It is filed with the Collector's Row records, which are mostly about debt and this one is about a raid. The relationships below are what the archive will support. They are not alliances; they are what the Row lost in one night, and in proximity each makes the others' registry work harder to complete.
+The Row's records are mostly about debt and this one is about a raid, which is why it sits oddly in its own section. The three relations below are what the Row lost in one night. Each of them makes the registry's work slower, and the registry's work is what this holding answers to.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Hollow Echo** | Both preserve unanswered cries. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Whispering Walls** | The Walls carry its ancient sound. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Debt Collector's Shadow** | The Shadow becomes visible near its grief. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Hollow Echo** | Also an unanswered cry, from a different street and a different year. | Four sessions. Neither radius moved and the two sounds did not synchronise, overlap or interfere — recorded separately, they remain two half-seconds that have nothing to do with each other. The pairing is kept because it was the test that killed the theory that this is a class of entity rather than a person. | Both recordings, both radii. |
+| **The Whispering Walls** | Carry the Row's older sounds, including this one. | Three sessions, no change in radius, and the only documentary result this holding has: the Walls returned two first names from the raid week that matched open files, and both files were re-confirmed as open on the strength of it. The gauge fell twenty points that month. | Every name transcribed, checked against the registry, and the file numbers recorded. |
+| **The Debt Collector's Shadow** | Becomes visible near this one and is otherwise never seen on the Row at all. | Two sessions. The Shadow resolved fully on both and did nothing; the radius held. The Row station notes that the pairing is useful only as a way of seeing the Shadow, and that using a grieving sound as a lamp is a thing it has declined to schedule again. | Both parties photographed; radius; and the reason for the session, stated in advance. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baselines first, with the radius paced on the day rather than taken from the file. Bring the second party in along the Row, never through the middle of the audible circle, and record the radius before, during and a week after — this holding's responses arrive on a registry timescale rather than a street one.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -344,24 +344,24 @@ Some sorrows mourn a loss. Floating Fragment mourns the interruption — the cry
 **Common Name:** Floating Fragment
 **Containment Status:** Contained — Zone C, Collector's Row
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Minor. Eleven years, 211 sessions, four grabs, fourteen strikes, no fatalities and no lasting injury — against a district where 44 files are still open and a sound in the street that will not let anybody write them off.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- Listen for the session; do not name anybody; the clock ends it, not the cry.
 - Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- The radius grows when files are closed administratively; it shrinks when they are re-opened.
 **Observation Notes:**
-- See Origin section for formation and event details.
+- One mourner of Collector's Row, taken mid-cry in a raid, never recovered and never declared.
 - See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+- Two pieces taken from a sound; wielders stop finishing sentences about anybody who is missing.
+**Cross-References:** The Hollow Echo, The Whispering Walls (two names recovered, two files re-opened), The Debt Collector's Shadow, the Row registry's 61 raid files, and the Year 4,231 decision to stop collecting heard words.
+**Faction Involvement:** UCD hold the Row as Fray-adjacent and have twice asked for the raid files to be concluded as a records-management matter. Both requests are in this file rather than in the registry's, because on this holding a filing decision is an operational act.
 **Originator:** One mourner of Collector's Row, listed on the raid manifest by stall number; the archive has not converted that entry into a name and will not, for the reason set out in the Origin section.
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This holding is managed from a registry office. The street work is real and lowers the gauge by a few points an hour; the file work moves it by ten at a stroke, in either direction, and two of the recorded suppressions happened with nobody at the site. That means the people who most affect this entity are clerks who have never heard it, acting on reasonable administrative grounds, usually to tidy a backlog. The Row keeps 44 files open against that pressure. Whether it can keep doing so is not an operational question and will decide this holding's future anyway.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any incident: radius, recording compared with the archive copy, session log, and the registry's open-file count with every change since the last review listed by file number. Two further items. Any proposal to conclude a raid file is routed to the Warden as an escalation rather than to the registry as routine. And any name spoken at the site is recorded with whether it was correct, because the three correct identifications are the only reason the file can say what it says about Stigmas.
 ## Trivia
 
 - The crying has no detectable source.
@@ -371,11 +371,11 @@ Some sorrows mourn a loss. Floating Fragment mourns the interruption — the cry
 
 ### Registry Trivia
 
-- **Classification detail:** Floating Fragment is a Subject with Residue (I) coherence and Minor (α) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone C, Collector's Row.
+- **Classification detail:** Residue (I) coherence at Minor (α) — half a second of one person, still going. The grade has never been reviewed and the Row station has never asked for it to be.
+- **Field detail:** Lament, in the open street at Collector's Row, Zone C, inside a marked audible radius that is paced out fresh at the start of every session.
 - **Recognition detail:** Identify it by the height and the sound. Several burning records are catalogued on the Row; this is the small one that floats at shoulder height, flickers between a coal and the outline of a crying figure, and is warm rather than hot.
 - **Record detail:** Check the designation before approach. More than one Row record concerns someone who was taken, and they differ on the decisive point — this one requires that the file stay open.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Nothing contains it. It has drifted the same forty metres of street for eleven years, through two rebuildings, and the Row's traders schedule around it the way they schedule around a standpipe.
 ## Document Information
 
 **Document ID:** SE-O-Iα-453
