@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | O-Relic (Officium) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Ferrehan, stood in assigned pairs for the duration of the toll, with a timekeeper outside the circle. |
 
 ### Operational Notes
 
@@ -73,7 +73,7 @@
 | **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-B-01 — special tower in Zone B; contained |
-| **Resolution Condition** | The bell must remain anchored in its tower. Pugnahan is ineffective and intensifies the tolling. Flerehan—especially singing to it—remains the most reliable calming method |
+| **Resolution Condition** | The bell stays anchored in its tower; nothing is ever moved or struck. Pugnahan intensifies the tolling and Flerehan does not apply to a structure, so the encounter ends with a completed Ferrehan watch — standing, in the assigned pair, until the toll finishes of its own accord. |
 
 ### Combat Actions
 
@@ -88,8 +88,8 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Orphaned Bell's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **The bell must remain anchored in its tower. Pugnahan is ineffective and intensifies the tolling. Flerehan—especially singing to it—remains the most reliable calming method**.
+2. **Clash:** There is nothing to trade with. The pair stands braced, the timekeeper outside the acoustic circle holds the clock, and the recorded combat actions describe what the toll does on the way past rather than anything the team can influence.
+3. **Resolution:** The toll finishes or the pair is withdrawn. The documented condition is **the bell stays anchored, Pugnahan is never attempted, and the watch is completed standing in pair** — nothing here is suppression, and the record does not call it that.
 
 ### Consequences
 
@@ -111,7 +111,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Lament
 - **Primary marker:** A massive bell, three meters tall, made of dark Han-crystal pulsing with faint blue light. It is fixed within a special tower and tolls without external force.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Hung fixed in the tower and never lowered. The tower was built around it, which is the reason there is no procedure for moving it.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-B-01 — special tower in Zone B; contained
 
@@ -120,12 +120,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | A massive bell, three meters tall, made of dark Han-crystal pulsing with faint blue light. It is fixed within a special tower and tolls without external force. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | Hung fixed and never lowered; the tower was raised around the bell rather than for it. |
+| **Material / signature** | Lament. Dark Han-crystal veined with faint blue light, cold and beaded like sweat, with the corroded surface warped into the shapes of small reaching hands. |
 | **Distinctive markers** | The tower is covered in faces that emerge rather than being carved. Each toll produces emotional weight and a profound sense of loss. New faces appear when additional children are lost in the city. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Identification** | Confirm designation, element and manifestation before entering the tower. Zone B holds other sounding holdings and this is the only one that is never struck. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the bell and the tower separately. For the bell: height against the marked post, the colour and depth of the veining, the condition of the corroded hands, and whether the rim is oscillating before the toll rather than at it. For the tower: the current face count from the fortnightly plates, the positions of any face that has newly surfaced, and any face that has begun to recede. Both records are taken from the brass pins in the floor and never by eye from a different standpoint.
 
 ## Origin
 - **Formation:** The bell formed during the westward expansion of Zone B. Hundreds of children were displaced: some were lost, some forgotten, and some vanished in the chaos. The collective grief of parents who never found them crystallized into the bell.
@@ -143,28 +143,28 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** (Observation) | Falls silent while the worker sees visions of lost children. | Stable |
-| **Ferrehan** (Endurance) | Tolls continuously; enduring the sound gradually calms it. | Decrease |
+| **Viderehan** (Observation) | Goes quiet while watched, and the watcher sees children they have never met going about an ordinary afternoon. The gauge does not move. | Stable |
+| **Ferrehan** (Endurance) | Tolls through the watch; the pair stands braced and does not leave the circle, which lowers the gauge and is the only work here that costs anybody anything. | Decrease |
 
 ### Special Behaviors
-- Tolls at midnight and reaches a crescendo during the Consolihan anniversary.
-- Personnel exposed for more than three hours may hear unfamiliar children's names.
-- The tower's faces change as new children are lost.
+- Midnight soundings are routine; the Consolihan anniversary runs from dusk to dawn without a full stop in it.
+- Past about three hours in the tower, personnel begin to hear names. The names go to the name log and the worker goes off the floor.
+- Faces surface, hold, and in some cases recede. The fortnightly plates are the only record of which did what.
 
 
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. The Orphaned Bell is recorded as an Object/Place with Object-Lament manifestation and Lament elemental expression. The current record places it at SECTOR-B-01 — special tower in Zone B; contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Orphaned Bell is an Object/Place with Object-Lament manifestation and Lament expression, held in its tower at SECTOR-B-01. Viderehan is conducted between tolls by crews who withdraw before the predicted window. Ferrehan is the toll itself, met standing in pair, and is the only work here that moves the gauge. Neither alters the schedule, which the bell keeps without reference to anybody.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** A falling gauge presents as fewer soundings over the cycle. The tone never changes and no session has ever produced silence, so a quiet week is a spacing and not a result. A rising gauge presents in the opposite direction — soundings closer together, and the toll beginning to arrive outside the predicted window — and the correct response is to vacate the tower rather than to extend the watch. Log the interval before anything else; it is the only figure here that moves for a reason.
 ## Activation / Expansion Behavior
 
 **Activation Trigger:** Midnight, the Consolihan anniversary, or concentrated grief concerning missing children.
 
 **Effect:** The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress.
 
-**Containment:** The bell must remain anchored in its tower. Pugnahan is ineffective and intensifies the tolling. Flerehan—especially singing to it—remains the most reliable calming method.
+**Containment:** The bell remains anchored in its tower and is never struck. Pugnahan intensifies the tolling; Flerehan is not available against a structure, and the earlier singing protocol was withdrawn after it was established that the practice calmed the workers and did nothing measurable to the bell.
 
 ### O-Relic (Officium) — Channeled Invocation
 
@@ -201,7 +201,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Orphaned Bell: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Lament form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at SECTOR-B-01 — special tower in Zone B; contained, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+Escalation here is a change in spacing, not in volume. Record the interval since the previous toll, the clock time against the predicted window, the face count taken that day, and whether the acoustic circle has had to be enlarged. The toll passes through structure, so a reading taken outside the tower is not evidence of what the tower itself received.
 
 **Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
 
@@ -215,9 +215,9 @@ The escalation pattern is specific to The Orphaned Bell: it is not a generic bre
 | **Primary effect** | The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. |
 | **Duration / rate** | While equipped, until the removal condition is met. |
 | **Risk** | Constant tolling causes memory gaps after 72 hours; names of lost children intrude into thought. |
-| **Management** | The bell must remain anchored in its tower. Pugnahan is ineffective and intensifies the tolling. Flerehan—especially singing to it—remains the most reliable calming method. |
+| **Management** | Anchored, never struck, Pugnahan never attempted; the watch stood in assigned pairs and ended from outside the circle. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** clock time → interval since the previous toll → duration of the sounding → pair identities and standing position → face count that day → gauge. Viderehan and Ferrehan only.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -257,7 +257,7 @@ The escalation pattern is specific to The Orphaned Bell: it is not a generic bre
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Orphaned Bell: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-B-01 — special tower in Zone B; contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+In the channelled mode the pattern to watch is the operator rather than the bell. Record the elapsed channel time at each ten seconds, the point at which the recitation faltered if it did, the resonance reading at the circle's edge, and the state of the operator at withdrawal. The bell's own behaviour across a channel has never deviated from the recorded profile.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -272,7 +272,7 @@ The escalation pattern is specific to The Orphaned Bell: it is not a generic bre
 | **Risk** | Critical (δ) — Facility-threatening if breached Object-Lament producing Lament pressure; Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order (channelled use):** channel opened → names recited and in what order → elapsed time at each ten seconds → resonance at the circle edge → operator state at withdrawal → closure confirmed. Viderehan and Ferrehan remain the only valid Work Types outside channelling hours.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -283,7 +283,7 @@ The escalation pattern is specific to The Orphaned Bell: it is not a generic bre
 
 Appearance : A delicate eight-inch thrusting stiletto forged from gold-tinted celestial alloy, tapering into a needle point with microscopic diamond serrations along its dual cutting edges.
 
-The weapon absorbs darkness, emitting a faint warm luminescence that glimmers like early twilight. Piercing strikes discharge concentrated radiant pulses that temporarily blind adjacent hostiles and sear shadow-tainted matter.
+The alloy is cut with crystal taken from the bell's rim, and the blade keeps the rim's temperature rather than the room's. It is named for the hour the soundings stop. A thrust lands silently and the target hears a single toll a half-second afterwards, inside their own hearing, where nothing else in the room can hear it.
 
 **Damage:** Lament 12–18
 **Speed:** 2 (Slow)
@@ -332,11 +332,11 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Cost:** The wielder hears the bell constantly. Prolonged use produces memory gaps.
 
-*Stigmas are granted at random by The Orphaned Bell upon a successful work, not manufactured.*
+*The charm is not issued from stores. It turns up on a worker who has completed a full toll standing, and the armoury records four percent of such watches and no pattern in which four.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and The Orphaned Bell's sorrow within the equipment may activate. and may produce an effect tied to The Orphaned Bell's element. The Stigma is The Orphaned Bell's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+The set is drawn from the bell's crystal and the tower's corroded fittings, and every piece carries the same property in a different form: it delivers a loss the bearer cannot attribute. The cost is paid in the bearer's own memory of childhood, and the armoury's standing instruction is that anything beginning to blur should be written down or said aloud to another person the same day.
 
 ### Field Use Record
 
@@ -367,12 +367,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Orphaned Bell as an Object/Place with Object-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-B-01 — special tower in Zone B; contained. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Work Type Responses Special Behaviors -. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Midnight, the Consolihan anniversary, or concentrated grief concerning missing children. Effect: The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. Containment: The bell must. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In The Orphaned Bell's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | A three-metre bell of dark crystal hung in a tower whose walls carry faces. Observers are briefed to look at the walls first, because the bell is what they will be looking at for the rest of the watch. |
+| **Sustained observation** | Interval between soundings, duration of each, face count against the fortnightly plates, and the acoustic circle's current radius. The bell does not respond to being watched and the record says so rather than implying patience. |
+| **Activation or escalation** | Midnight, the Consolihan anniversary, or concentrated grief about missing children. The toll passes through walls, floors and bodies; everyone in hearing carries a loss they cannot place, and prolonged exposure takes names and faces out of memory. |
+| **Post-contact review** | Interval, duration, pair, position, face count, gauge, and any name heard. Names go to the name log; everything else goes to the watch record; a counsellor is available and the pair is stood down for the remainder of the shift. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
+**Observation method:** Two on the floor and one outside the circle with the clock. Record the first sign of rim oscillation, the interval, the duration, the face count, and the condition that ended the watch. Any name heard during the toll is written on the name slip at the time, with the hearer's initials, and goes into the name log unaltered — including the ones that are plainly not names, which are logged as heard and not tidied.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -383,7 +383,7 @@ The Orphaned Bell (C-IVδ-001 [LO]) is logged as a Object-Lament manifestation e
 **Entry 2 — <Excerpt from Field Log, Year 4209>**
 The tower contained 2,347 faces at one survey; the next survey recorded four additional faces.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log, Year 4214>**
 The grief of parents searching for children who would never return.
 
 **Entry 4 — <Containment Notice>**
@@ -407,11 +407,11 @@ Before the sound arrives, the air becomes emotionally heavy. Then the toll fills
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A massive bell, three meters tall, made of dark Han-crystal pulsing with faint blue light. It is fixed within a special tower and tolls without external force. Notable Features: - The tower is covered in faces. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Object-Lament form.
+**At first contact:** The air thickens before anything is audible, and the first thing most workers notice is that the tower wall nearest them has a face in it that was not in the briefing plates. The bell itself is cold enough to read at a distance, and the blue in the crystal moves.
 
 **With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Lament is teaching you its sorrow.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Midnight, the Consolihan anniversary, or concentrated grief concerning missing children. Effect: The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. Containment: The bell must. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** It tolls, once, with nothing touching it. The sound arrives through the floor before it arrives through the air, and what it delivers is not volume but a loss with no object attached — grief for someone the hearer cannot name, which is exactly the condition the originating parents were left in.
 
 **After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
 
@@ -419,12 +419,12 @@ Before the sound arrives, the air becomes emotionally heavy. Then the toll fills
 
 The Orphaned Bell does not exist in isolation. Its recorded relationships with The Hollow Choir, The Grieving Colossus, The Kind Healer, The Silent Child, The Forgotten Soldier should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone. The question with this holding is always whether the other entity changes the interval, and the answer so far is that nothing has. Log the range, the duration, the trigger, the gauge on both sides, the interval before and after, and whether the face count moves in the following fortnight.
 
 
 ### Entity Interaction Record
 
-The Orphaned Bell must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The Orphaned Bell is the first entity the R.D. ever catalogued, and much of the wing's relational vocabulary was invented on it. The entries below are observed, not inferred. None of them has altered the toll interval, which is the measurement that would matter, and the file prefers to state that than to imply a relationship it cannot show.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -434,7 +434,7 @@ The Orphaned Bell must be assessed as part of an entity network, not as an isola
 | **The Silent Child** | The Child sits near the Bell, listening for a name that might be theirs. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Forgotten Soldier** | The Soldier stands at attention when it tolls. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, keep the second outside the acoustic circle, and log the first shared change with its distance, duration and trigger, the gauge on each side, and the interval measured across the pairing. The fortnightly plates are compared again afterwards, because a face appearing in that window would be the first thing ever attributable to another entity here.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -468,12 +468,12 @@ Some sorrows mourn a loss. The Orphaned Bell mourns a search — the hundreds of
 
 **Classification:** Sorrow Entity — `C-IVδ-001 [LO]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Object-Lament manifestation
 **Common Name:** The Orphaned Bell
-**Containment Status:** Open display — Zone B
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. The Bell tolls at midnight for lost children. Effect: hearing the toll induces parental grief.
+**Containment Status:** Contained — special tower, SECTOR-B-01, Zone B. The tower is closed to the public and opened to families by appointment with a counsellor present.
+**Comprehension Level:** 4 — Mastered
+**Threat Assessment:** Critical (δ). The toll carries through structure on the bell's own schedule and delivers an unattributable grief to everyone in hearing; sustained exposure removes names and faces from memory. It has never breached, and the file is explicit that this is not the same as being safe.
 **Containment & Handling Procedures:**
-- Flerehan is the only valid Work Type.
-- The Bell tolls nightly; no containment possible.
+- Viderehan and Ferrehan only. Pugnahan intensifies the tolling and Flerehan does not apply to a structure.
+- The bell stays anchored and is never struck; watches are stood in assigned pairs and ended from outside the acoustic circle.
 **Observation Notes:**
 - First entity the R.D. ever catalogued.
 - Formed from parents searching for children consumed by the Han.
@@ -483,9 +483,9 @@ Some sorrows mourn a loss. The Orphaned Bell mourns a search — the hundreds of
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This was the first file the R.D. ever opened and it has been rewritten more often than any other. Read the interval, the face count and the name log together: the first says what the bell is doing, the second says what the tower is doing, and the third says what neither of them can be made to prove. The holding is stable, the schedule is the bell's, and the work consists of standing through it accurately. Where the entity does something not described here, write it down and leave the contradiction standing.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, Sorrow Tide, transformation attempt or unusual interaction: re-verify the interval series, the face count against the plates, the acoustic circle, the exposure log and the gauge. Three further items apply here. The name log is reconciled against the municipal missing-child register and the unmatched entries carried forward unchanged. The annual letter is prepared and the previous year's acknowledgement attached. And the full municipal name list is read aloud at the review, in full, as it has been at every review since the holding opened.
 ## Apex Record
 
 ### The Faces That Emerge
@@ -512,10 +512,36 @@ Photographic plates from the face survey are stored in the municipal office's cl
 
 Survey positions are marked in the tower floor with brass pins set when the series began, and the photographers stand on the pins rather than measuring to them. Two pins have been lost to settlement and were reset by survey from the surviving four, a procedure the municipal office witnessed and countersigned so that the series would remain defensible as a continuous record. The bench holds that a photographic series is only a census for as long as nobody has to argue about where the camera stood.
 
+### What the Names Verify
+
+The tower is a census and the name log is its index, and the index is mostly unverifiable.
+
+A name heard during a toll is written on a slip at the time, initialled by the hearer, and entered unaltered. **Four hundred and eighteen names in nineteen years.** They are reconciled once a year against the municipal missing-child register, and the reconciliation has settled into a shape that has not changed in a decade: **ninety-six match a registered missing child. None has ever matched a living person, and none has ever matched anyone on the facility's own rolls. Three hundred and twenty-two match nothing at all.**
+
+Those three hundred and twenty-two are the holding's real problem. They are not errors — the ninety-six establish that the bell is doing something real and nothing suggests it does it selectively — and they are not evidence either. The wing's position, printed at the head of the log, is that the unmatched names are *names heard in the tower* and that the archive will claim nothing further about them, including that they belong to anybody.
+
+### A Register Belongs to Its Keeper
+
+The missing-child register is the municipal office's. Entries are made by the office, on a report from a family or a guardian, and nobody else may write into it — not another department, not the R.D., not a facility with a bell.
+
+The rule is correct and is not a technicality. A register that accepts entries from outside its own procedure stops being a register and becomes a collection of assertions, and the city has one of those already in the expansion-era files that this holding exists because of. If the facility could add names, the facility could also add names wrongly, and no family reading the register afterwards would know which kind they were looking at.
+
+What it means here is exact. The three hundred and twenty-two cannot be entered anywhere that counts. There is no family to report them, because a name with nobody left to report it is precisely the kind of name this bell produces. The register has a procedure for the missing and no procedure at all for the missing who are missing from the procedure, and the wing has been told, correctly, that inventing one is not within its gift.
+
+### Nineteen Letters
+
+What the wing can do is write, and it has decided that writing is not nothing.
+
+Every year the commander transmits the full unmatched list to the municipal office over their own signature, with a covering line stating that the facility makes no claim that any name belongs to any person and asks for no entry in any register. The office cannot file it as a register entry. It files it as **correspondence** — and correspondence is public, permanent, indexed by date, and open to anybody who walks in.
+
+**Nineteen letters.** The effect is small and real. **Seven times a family has come in, searched the correspondence index, and found a name they recognised; two of those led to an identification the office was afterwards able to make by its own procedure and enter in its own register properly.** The other five did not, and the office's note on them says only that the families were given a chair and as long as they wanted.
+
+The municipal archivist's objection is on the file and has never been answered. Using correspondence as a shadow register degrades the correspondence series and allows a facility to put into public view, permanently, material it has just certified it cannot stand behind; and the five families who found a name and got no further are the cost of the two who did, paid by people the facility has no standing to compensate and no way to find again. The minute records the objection as **correct, and the letters continue**. It is read into the record at each annual review alongside the names, in the archivist's own words, which the wing has declined to shorten.
+
 ## Trivia
 
-- The tower's faces emerge spontaneously; no person has successfully carved one.
-- The Bell's toll can reveal names that are absent from every Archive.
+- The faces surface on their own. Three attempts have been made to carve one deliberately, in the early years, and all three were gone from the stone within a fortnight.
+- Most of the names heard during a toll match nothing in any register the facility or the city keeps, and they are logged exactly as heard.
 
 
 
@@ -523,9 +549,9 @@ Survey positions are marked in the tower floor with brass pins set when the seri
 
 - **Classification detail:** The Orphaned Bell is an Object/Place with Entity (IV) — Self-aware, communicates through tolling coherence and Critical (δ) — Facility-threatening if breached potency.
 - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-B-01 — special tower in Zone B; contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the hands. The corrosion on the bell's surface has warped into small reaching shapes, and no other holding in Zone B carries that.
+- **Record detail:** The archive holds several sounding holdings and this one is kept distinct at the level of what the sound is for. Elsewhere a bell marks, summons or warns. This one is a record: the faces are its census and the names are its entries, and everything difficult about the file follows from its being a register that no register will accept.
+- **Containment detail:** The tower holds the bell and does not hold the toll, which passes through structure and is heard across the sector. Containment here means the bell cannot be moved, struck or silenced by anyone, including the facility.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-001

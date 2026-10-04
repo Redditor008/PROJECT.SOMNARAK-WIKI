@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **177** |
-| Pending — no disposition-bearing line found by scan | 126 |
+| **Classified here, with a quoted line of evidence** | **178** |
+| Pending — no disposition-bearing line found by scan | 125 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 177 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 178 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 126 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 125 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -51,13 +51,17 @@ Dangerous, but the facility is better off with them in it.
 | The Silent Child | `SE-N-Iα-025` | Interaction Record, The Smothering Mother: *"She holds it, and she opens the hold herself after about four minutes — the only grip she has ever released unprompted"* — *"Her reach interval lengthens for roughly a week."* It measurably slackens a Negative δ-grade holding and the effect is one-directional. **Conditional** — only in the Mother's presence; alone it suppresses nothing, attacks nobody, and the Kind Healer and Orphaned Bell pairings move neither gauge. |
 | The Forgotten Soldier | `SE-N-IIβ-033` | Interaction Record, The Maw: *"Observed during a Maw expansion: he placed himself on its edge and held, and the expansion's leading face did not pass him for nine hours. Not repeatable on request and never requested."* He is a β-grade Echo whose breaches destroy doors and frames and approach nobody — *"in every logged breach he has passed personnel without altering course"* — and whose one measured cross-entity effect is holding the edge of a catalogued Negative. **Conditional** — it has never been arranged, cannot be ordered, and the facility has no mechanism for asking. |
 | The Last Warmth of Forty-Two | `SE-O-IVδ-515` | Interaction Record, The Frozen Shard: *"The ice on the shard melts slightly; temperature stabilizes in both rooms. Reduces work difficulty by 1 tier."* |
+| The Orphaned Bell | `SE-C-IVδ-001` | O-Relic channelled use, Log and Method: *"Opening the channel activates The Orphaned Bell ... Adjacent containment units experience stabilized Sorrow Gauges,"* with the beneficial effect recorded as *"a soothing 40-Hertz silver harmonic wave that stabilizes psychological Composure for all squads deployed across the sector."* Nothing else in the file points the other way: it has never breached, no neighbouring entity has ever altered its toll interval, and the Silent Child pairing moves neither gauge. **Conditional** — the stabilisation exists only while an operator kneels in the acoustic circle reciting documented names, lasts at most 180 seconds, and is paid for in the operator's own memory; left alone the bell suppresses nothing and tolls on its own schedule. |
 | A Letter Never Sent | `SE-C-Iα-114` | Interaction Record, Survivor's Span: *"Calms both entities; reduces work difficulty."* Resolution Condition holds a *"single-use emergency benediction"* — a Positive that can be spent exactly once. |
 | The Magistrate's Strike-Through | `SE-N-IIβ-319` | Interaction Record, The Debt Scale: *"Stabilizes both entities during routine shifts; lowers work difficulty."* |
 | The Grieving Maiden | `SE-C-IVβ-041` | Containment priority: *"Reunite the three before anything else. Suppressing her alone raises the gauge on all three."* Re-evidenced at the whole-file clean: the Angry Maiden row now reads *"every metre of separation shows as weeping here and as load there, within the same hour"* — *"the three-way amplification the containment priority exists to prevent"* — while the Silent Maiden pairing *"ease each other measurably, with nothing transferring in either direction."* Positive **only as part of the reunited set**; isolated, she is a three-way amplifier. |
 
-**Pattern.** Every Positive in the archive so far is Positive *in company*. Not one of them suppresses
-anything on its own — the mechanism is always a pairing or a trio, and separating the pair is what turns
-the benefit off. F01 has no self-sufficient asset.
+**Pattern.** No Positive in the archive works on its own. Ten of the eleven are Positive *in company* —
+the mechanism is a pairing or a trio, and separating the pair turns the benefit off. The eleventh, The
+Orphaned Bell, breaks the company pattern and not the rule behind it: its stabilising effect runs only
+while a worker kneels in the acoustic circle reciting names, for no more than 180 seconds, at a
+documented cost to that worker's memory. Either way the benefit has to be held open by something
+outside the entity. F01 has no self-sufficient asset.
 
 ---
 
