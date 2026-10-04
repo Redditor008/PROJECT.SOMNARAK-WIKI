@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **240** |
-| Pending — no disposition-bearing line found by scan | 63 |
+| **Classified here, with a quoted line of evidence** | **241** |
+| Pending — no disposition-bearing line found by scan | 62 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 240 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 241 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 63 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 62 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -244,6 +244,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Screaming Masonry | C-IIIγ-891 | Neutral. Three pairings and nothing operational in any: the Broken Whisper shares no line of content with it after two full corpus comparisons by different transcribers, the Debt Wall *"gained nothing on any of the five"* co-presences so the addition language is *"withdrawn here,"* and the Orphaned Bell association is *"recorded as weak and the direction of it as undetermined"* — it tolled in three of nine, two of those on schedule. It cannot be heard, cannot be held, and suppresses nothing; what F01 gains is a verbatim transcript corpus of 1,906 complaints the district never lodged, used only to keep signing nil-objection certificates. |
 | Beating Relic | C-IIIγ-902 | Neutral. The file records no entity pairing at all; its whole reach is one person's bare hand. It *"does not leave the plinth, has never left the plinth, and cannot,"* and its only escape is a tempo carried out in a handler — *"four cases, all four resolved, the longest at nine days."* It suppresses nothing and frees nothing. What F01 holds from it is a relic that must be gripped to do anything and a page of municipal allocation figures that it refuses to release. |
 | Thinking Engine | C-IIIγ-904 | Neutral. No entity pairing is recorded; its reach is the facility's own paperwork. It *"cannot move, has never harmed a body, and is quieted by stopping work nearby"* — an idle sector *"gives its influence nothing to expand into"* — and its first target is *"a process rather than a person."* It suppresses no entity and assists none. What F01 gains is an unrequested prediction register it is forbidden to act on and uses anyway, for an establishment figure. |
+| Eleven Fifty-Nine | C-IIIγ-912 | Neutral. No entity pairing is recorded and none is possible to run: *"there is no first and no nearest,"* the hour reaches *"every person in the district at once,"* and the gauge *"opens at 50% at 0300 and falls steadily toward 0400 regardless of response — it cannot be suppressed, only outlasted."* It suppresses nothing, frees nothing, and ends on its own whatever anyone does. What F01 takes from it is an operating window: the hour the district is immobilised is now the facility's standard transfer slot. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
