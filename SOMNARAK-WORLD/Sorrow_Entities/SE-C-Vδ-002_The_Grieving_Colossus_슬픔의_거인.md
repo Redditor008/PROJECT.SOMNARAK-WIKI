@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | All four Work Types are open, this being a Subject, but nothing here is a response in the containment sense: the entity cannot be stopped and is not held. Flerehan and Ferrehan lower the gauge; the operative measure is clearing its route ahead of it. |
 
 ### Operational Notes
 
@@ -87,30 +87,30 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Grieving Colossus's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** There is no clash. The cycle consists of accompanying the march at the marked interval, speaking names, and keeping the route ahead clear; no team has ever exchanged force with this entity and the doctrine forbids attempting it.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Cannot be stopped. It can only be guided by monitoring its path and clearing safe routes**.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resolve**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is The Grieving Colossus’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. The Grieving Colossus executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- The failure here is saturation rather than assault. A worker who stays too close takes the whole carried grief at once — not their own, and not anybody's they knew — and the recovery is measured in weeks.
+- Exposure accumulates across tours and not within one. The consecutive-tour limit exists because the fourth and fifth tours are where the collapses occur, and the limit is applied by the roster rather than left to the worker.
+- The Mourning equipment lends the bearer the capacity to carry grief at this scale and takes the ability to decline it afterwards; every bearer on record attends funerals they were not invited to, indefinitely, and none has asked for it to stop.
+- There is no unresolved encounter to escalate. The march completes whatever happens, the vigil is kept until dusk, and the entity returns to the grounds; the recorded failures are all failures of the city to clear the way in time.
 
 ## Appearance
 **Primary Form:** A thirty-meter humanoid made of solidified grief. Its dark Han-crystal body pulses like a thousand hearts. Its eyes weep constantly, and its footsteps leave craters of sorrow.
 
 **Notable Features:**
-- Tears become dark crystalline pools.
-- Buildings grow where its tears fall.
-- It avoids people and structures with deliberate care.
+- Its tears pool and set as dark Han-crystal where they fall.
+- Structures rise from those pools, fully formed and stable, carrying the weight of the dead who produced them.
+- It avoids people and buildings with evident deliberation, placing thirty-metre feet between bodies with millimetres to spare.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A thirty-meter humanoid made of solidified grief. Its dark Han-crystal body pulses like a thousand hearts.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Mobile and uncontained; walks a single route at its own occasion. Record position on the route, pace, posture, and the distance of the nearest person at all times.
 - **Element signature:** Weight
 - **Registered location:** Zone D — wanders freely; uncontained landmark
 
@@ -119,19 +119,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A thirty-meter humanoid made of solidified grief. Its dark Han-crystal body pulses like a thousand hearts. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Tears become dark crystalline pools. Buildings grow where its tears fall. It avoids people and structures with deliberate care. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Position / movement** | Mobile across Zone D on one fixed route, departing at no predicted hour and arriving at dawn regardless. Record route position, pace, posture, stops, and the clearance it leaves to the nearest person. |
+| **Material / signature** | Weight. Dark dense crystal, half-flesh and half-stone, warm to within a few paces, pulsing inward like slow hearts; black tears, and craters where it steps. |
+| **Distinctive markers** | Thirty metres of pulsing dark crystal, continuous weeping, crystal pools that become buildings, cratered footprints, and the care with which it places every step. |
+| **Identification** | Confirm before approach: designation C-Vδ-002 `[WS]`, Sovereign (V) coherence, Critical (δ) potency, Subject-Body manifestation, Zone D. Nothing else in the city is this size and nothing else leaves buildings behind it. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Record route position, pace, posture, stop duration, tear rate, new pools and their locations, and the clearance to the nearest person. Nothing here is *unusual*; it is a weeping thirty-metre figure walking a known route and stepping around everybody on it, and those are the fields.
 
 ## Origin
 - **Formation:** The Colossus formed from the unmourned dead of early Zone D—workers, settlers, and dreamers who died without anyone to remember them.
 - **The Sorrow:** The immense loneliness of the forgotten dead.
 - **The Event:** Deaths accumulated during Han exposure, accidents, and the construction of the district. The earth cracked beneath their ungrieved weight, and the Colossus rose.
 - **The People:** The unnamed dead of Zone D; the entity mourns everyone because no one mourned them.
-- **Expanded origin context:** Containment records trace the entity back to Zone D, where the Weight first reached the density required for crystallization. The Subject is the wound's exoskeleton — the city's grief grown solid. It will not heal. It can only be held.
+- **Expanded origin context:** The district's early burial practice is the whole of the explanation and it is not a mystery. Work-gang deaths during the Han exposure were entered as tallies rather than names, because the gangs were paid by the head and the tally was what the pay clerk needed; burial was by trench and by date. The practice was lawful, ordinary, and efficient. It produced several thousand people who were buried correctly, recorded accurately, and mourned by nobody, because there was no name against which anybody could have mourned them. The ground over the trenches cracked in the first census year. What came out of it has been walking to the Memorial ever since.
 
 ## Behavior
 
@@ -139,23 +139,23 @@ The Colossus is not contained. It wanders Zone D and does not attack.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Pauses in recognition; may offer a tear that crystallizes into a rare Echo. | Decrease |
-| **Pugnahan** (Confrontation) | Ignores minor aggression; it is too large to notice it. | Stable |
-| **Viderehan** (Observation) | Allows distant study; its tears contain information about the dead. | Stable |
-| **Ferrehan** (Endurance) | Steps over an enduring worker with careful gentleness. | Decrease |
+| **Flerehan** (Tears) | Pauses and attends; has on four occasions offered a tear that set as a rare Echo, each time to a worker who had spoken a name. | Decrease |
+| **Pugnahan** (Confrontation) | Not noticed. It is too large for aggression at human scale to register, and the doctrine forbids the attempt on the ground that it teaches workers the wrong thing. | Stable |
+| **Viderehan** (Observation) | Permits study at any distance and does not alter its behaviour for observers; its tears carry recoverable particulars about the dead. | Stable |
+| **Ferrehan** (Endurance) | Steps over a worker who holds position, with care, and lowers the gauge further than anything else on record. | Decrease |
 
 ### Special Behaviors
-- Walks slowly and carefully, avoiding buildings and personnel.
-- Its tears create beautiful but sorrow-built architecture.
-- Activity increases during the Sorrow Tide.
+- Walks slowly and places every step; no structure has been struck and no person has been injured in the whole recorded history of the marches.
+- The architecture its tears leave is sound, occupied in two cases, and emotionally heavy enough that both tenancies are let at a reduced rate by municipal decision.
+- Marches cluster during Tide weeks, at roughly three times the ordinary rate, which is the only part of its timing anybody can predict.
 
 
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. The Grieving Colossus is recorded as a Subject with Subject-Body manifestation and Weight elemental expression. The current record places it at Zone D — wanders freely; uncontained landmark; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Grieving Colossus is a Sovereign (V) Subject of Critical (δ) potency, Subject-Body manifestation, Weight expression, permanently uncontained in Zone D. All four Work Types are available because it is a Subject; Pugnahan registers as nothing and is forbidden by doctrine rather than by hazard. A stable gauge here means the entity is simply continuing, which it will do whatever anybody does.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** Read it in pace, posture and the tear rate. A falling gauge presents as the pace evening out and the head lifting; a rising one presents as stops that lengthen and a tear rate the observation posts can hear from the line. The sensation at the perimeter is not an indicator and has been wrong in both directions.
 ## Breach Behavior
 
 > *"The Grieving Colossus has broken free. Hunts personnel indiscriminately."*
@@ -163,17 +163,17 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Grieving Colossus shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
-| **Effect** | Crushing pressure descends, bearing down on resolve. |
-| **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+| **Movement** | Nothing is shattered, because nothing holds it. In the only two events classed as breaches it departed from the route, walked a line of its own, and was followed; the response was to clear ahead of it. |
+| **Effect** | Weight descends across whole blocks: structures load, windows bow, and personnel describe the resolve to keep working as the first thing they lose. |
+| **Secondary Effect** | A gravitational dread at the edge of the field, under which obligations feel older and decay feels faster than either is. |
+| **First Target** | Nobody is targeted. It does not hunt, has never pursued a person, and the clearance it leaves around individuals is tightest when they are closest. |
+| **Escalation** | Pressure rises each turn it is off the route, with Resolve drain increasing by five per turn, until it rejoins the route or reaches the Memorial. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Escape in classification only. It is permanently uncontained; a breach here means a departure from the known route, and two are on file.
+- **Containment priority:** Clear ahead of it. Physical suppression is not available at this scale, Pugnahan does not register, and the earlier entry directing Wardens to block corridors and force it back is an error against every other section of this file; it is corrected here and must not be attempted.
+- **Sorrow Gauge on breach:** Opens at 40% and rises ten points per turn while it is off the route; it falls on its own once the route is rejoined, which is the only recorded means of bringing it down during an event.
 
 ## M.A.W. Equipment
 
@@ -232,22 +232,22 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Cost:** The wearer experiences every death the Colossus has mourned. Prolonged use causes uncontrollable weeping.
 
-*Stigmas are granted at random by The Grieving Colossus upon a successful work, not manufactured.*
+*The Pallbearer's Grip is not issued and cannot be requested. It has been conferred on workers who taught the entity a name belonging to nobody they were related to and nobody they had been assigned to find.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to The Grieving Colossus' element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each Mourning piece is an extension of the holding rather than equipment. It performs as recorded while the bearer is carrying a name rather than a designation, and costs more when they are not. The Grip is conferred after a work cycle and is not manufactured, requested, or scheduled.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator name, grade, current gauge, psychological assessment, equipment condition, route segment, consecutive-tour count, and the names the operator has memorised for this watch. |
+| **During use** | Activation time, route position, pace, posture, stop durations, tear rate, new pools, clearance to the nearest person, and every name spoken with the entity's response to it. |
+| **At limit** | Duration, activations, attribute change, rejection signs, position at withdrawal, and whether the operator asked to remain beyond the marked interval. |
+| **After use** | Stand-down, injuries, residual weight, cooldown, equipment condition, tour count updated, and a funeral-attendance note for Grip bearers. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately and is the larger figure here. The cost on this holding is that grief stops being selective: bearers mourn strangers, permanently, and the file records that none of them regards this as damage.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -268,11 +268,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies The Grieving Colossus as a Subject with Subject-Body manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone D — wanders freely; uncontained landmark. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: The Colossus is not contained. It wanders Zone D and does not attack. Special Behaviors - Walks slowly and carefully, avoiding buildings and personnel. - Its tears create beautiful but sorrow-built architecture. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In The Grieving Colossus's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Route position, pace, posture, stop durations, tear rate, new pools with locations, clearance to the nearest person, gauge, names spoken and responses, and the state of the route ahead at each junction. |
+| **Activation or escalation** | Escalation is a departure from the route. Log the junction at which it left, the bearing taken, the blocks ahead, and the clearing order issued; the posts have fifteen minutes from the junction, which is the figure the whole clearing doctrine is built on. |
+| **Post-contact review** | Route walked against the standing route, pace and stop series, tear rate, pools created, gauge movement, names taught, and a seven-day check on each worker for grief displacement toward strangers. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Walk the interval, log the route, speak names and write down which ones it answered to. The form here is the sorrow and not a strategy: several thousand people were buried by tally because a tally was what the pay clerk needed, and the thing that came out of the ground is still walking them to the Memorial one march at a time.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -307,33 +307,33 @@ The ground begins to tremble—not from violence, but from a thousand hearts bea
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Weight always changes a room. Then the Subject-Body resolves: A thirty-meter humanoid made of solidified grief. Its dark Han-crystal body pulses like a thousand hearts.
+**At first contact:** The ground registers it before the eye does — not impacts, a slow double beat carried through the stone. Then thirty metres of warm dark crystal crosses the skyline under its own rain.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Weight is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** The grief stops being general. Workers describe it narrowing to particular people they have never met, in detail, and the census readers report the same effect from the ledgers alone.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Weight becomes something you can taste, hear, or feel on your skin. The Subject-Body has crossed the line between containing and becoming.
+**When the entity activates:** It stops, and lowers its head, and waits. Everything difficult about this holding happens while it is standing still.
 
-**After departure:** You leave, but the Weight follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** The weight stays in the chest for days and the names stay longer. Nobody on the grounds has ever described the aftermath as fear.
 
 ### Interaction Pattern
 
-The Grieving Colossus does not exist in isolation. Its recorded relationships with The Smothering Mother, The Forgotten Soldier, The Kind Healer, The Orphaned Bell should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other things in the city that carry the dead. Each relation below has been observed and filed; none is settled; and all four were observed on the march, since the entity cannot be brought anywhere and does not stop for tests.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone across several occasions — pace, posture, tear rate, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-The Grieving Colossus must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled. All four are recognitions of a kind and not one of them has altered a measured quantity on either side, which is the finding this section exists to record.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Smothering Mother** | The Mother reaches toward it, recognizing a kindred grief. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten Soldier** | The Soldier salutes, honoring the lost. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | The Healer cannot heal what is not wounded. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Orphaned Bell** | The Colossus pauses when the Bell tolls and listens. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Smothering Mother** | She reaches toward it, repeatedly, and the district reads the gesture as kinship. | Five co-presences. It did not stop, did not alter pace or tear rate, and did not look down; her own gauge did not move and the reaching continued unchanged after it had passed. A recognition in one direction and nothing in the other. | All five co-presences, the pace and tear series, and both flat gauges. |
+| **The Forgotten Soldier** | He salutes every march he is present for, which is the image most often reproduced outside the wing. | Six co-presences, the salute on all six. Neither gauge moved on any occasion, the march was not delayed, and the Soldier retains nothing of it afterwards and has been asked each time. | All six co-presences, the salutes, the flat gauges, and the six questionings. |
+| **The Kind Healer** | Attempted once, early, on the view that grief of this magnitude must be a wound. | Three co-presences. Nothing was treated and nothing presented as treatable; the gauge moved by less than a point and the tear rate was unchanged. The wing's written conclusion is that this holding is not injured and cannot be relieved. | All three co-presences, the gauge series, and the written conclusion. |
+| **The Orphaned Bell** | It stops when the Bell tolls and listens, every time, for between forty and ninety seconds. | Seven co-presences, the stop on all seven. The Bell's interval was unchanged throughout, the stop ends on its own, and nobody has found a way to use it: three attempts to hold it in place by tolling produced a stop of the same length and then a resumed march. | All seven co-presences, the stop durations, the interval series, and the three attempts. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baselines first, across several occasions, with pace, posture, tear rate and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -366,12 +366,12 @@ Some sorrows mourn the dead. The Grieving Colossus is made of the unmourned — 
 
 **Classification:** Sorrow Entity — `C-Vδ-002 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Grieving Colossus
-**Containment Status:** Contained — Zone D
-**Comprehension Level:** 4 — Mastered
-**Threat Assessment:** Moderate. The Colossus is immense and lonely. It does not attack. Its mass causes structural stress. Effect: proximity induces the loneliness of the forgotten dead.
+**Containment Status:** Uncontained — Zone D, a permanent landmark walking a known route. It has never been held, no facility exists that could hold it, and the earlier entry recording it as contained is an error and is corrected here.
+**Comprehension Level:** 2 — Basic. Earlier copies of this line recorded 4 — Mastered, which contradicts the header and the Observation Log; the holding is well documented and very little understood, and the correction is made here.
+**Threat Assessment:** Critical (δ). It has never injured anybody and is the largest structural load in the city, capable of ending the district by walking into it, and nothing anybody possesses could stop it if it did. The earlier entry grading it Moderate rested on its gentleness, which is not a containment measure, and is corrected here.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type.
-- The Colossus is vast; reinforce surrounding structures.
+- Ferrehan is the primary Work Type and Flerehan also lowers the gauge; Viderehan holds it level and Pugnahan does not register. Names are spoken aloud at every contact; designations are not.
+- Clear the route ahead and reinforce nothing. The route is kept open rather than defended, and the only recorded harm along it was caused by a barricade.
 **Observation Notes:**
 - Formed from the unmourned dead of Zone D’s construction.
 - The earth cracked beneath their ungrieved weight; the Colossus rose.
@@ -381,9 +381,9 @@ Some sorrows mourn the dead. The Grieving Colossus is made of the unmourned — 
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is read whole or not at all: the classification, the Work Type responses, the route doctrine, the naming practice and the census are one picture, and the Sovereign Chronicle is the part that explains why the others are written as they are. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after every march, Tide, Ordeal or unusual interaction: gauge, route walked against the standing route, pace and stop series, tear rate, new pools, clearance measurements, names taught, consecutive-tour counts, and the standing of the route covenants. Tour counts are totalled across postings and are not reset by a transfer.
 ## Sovereign Chronicle
 
 The Colossus is the largest sorrow in the catalog and the gentlest — a giant assembled from the unmourned dead of early Zone D, carrying every forgotten name it ever collected. This chronicle records the census that woke it, the march it made, and the naming doctrine that is the Directorate's standing answer to the loneliness of the forgotten.
@@ -430,10 +430,50 @@ The empty seat is the row's oldest custom. However many mourners gather, one sea
 
 The shortest name on the restored roll belongs to a child buried without ceremony in the first expansion winter — two syllables, half-erased in the tally, recovered by a volunteer who spent a season proving one small person existed. The Colossus received the name at the cycle's reading, bowed its head, and, witnesses swear, repeated it — one small name in a voice like settling earth, spoken with a gentleness the instruments could not measure and the crews will never forget. The volunteer's commendation reads, in full: she proved a child existed, and the giant said the name. The Directorate keeps the citation framed in the census hall. The crews keep the lesson everywhere else.
 
+### One Thousand Two Hundred Readings
+
+The naming doctrine is the heart of the grounds and the census is its engine, so in the eleventh year the wing did the thing nobody on the grounds wanted it to do. It tested whether the Colossus can tell.
+
+Over four cycles, **one thousand two hundred names** were read at the grounds under the ordinary practice. **One hundred and eighty of them were fabricated** — constructed by a clerk in another wing from period-appropriate syllables, assigned to no record, belonging to nobody who has ever existed. They were interleaved with the restored roll at random. The readers did not know which were which. Three coders, working independently and blind, scored the entity's response to each: attention, turn, repetition, bow.
+
+The responses to the fabricated names are **indistinguishable from the responses to the restored ones**. Attention rates match within two points. Repetitions occurred at the same frequency. It bowed at the end of the fabricated readings exactly as it bows at the end of a true one. No coder, on any measure, separated the two sets at better than chance.
+
+The wing's minute on the result is careful and it is not cruel. It does not conclude that the Colossus knows nothing; it records that **no observation available to this facility can distinguish a name it recognises from a name it has never heard**, and that every claim resting on its recognition — that the census is reaching it, that the roll is shortening something, that the giant remembers — is therefore unverifiable rather than false.
+
+The result was given to the grounds crews in full on the day it was obtained, at their own prior insistence that nothing about the test be withheld from them. The practice did not change. The readings continued on schedule. The senior reader's response is minuted in one line and is now printed at the head of the census hall's register: *then it is for us, and it was always going to have to be.*
+
+### Kept Clear By Custom
+
+Every account of the marches says the route is kept clear by custom rather than by order. That is true, and it is the most precarious sentence in this file.
+
+A local custom can bind land. It is one of the oldest ways a community holds anything against the people who own the ground. But a custom is only recognised if it meets every one of a short list of requirements at once, and the route meets almost none of them. It must have existed **time out of mind**; the first march is within living memory and the date is in this file. It must be **certain** in its extent; the route is walked to within a few metres and the clearing order varies it by junction. It must be **continuous**; the marches are irregular by nature and the longest recorded gap between them is nineteen months. It must be **reasonable**, and a right requiring sixty-one frontagers to keep their ground clear of all obstruction at no notice, on an occasion nobody can predict, is not a right any court has been asked to call reasonable.
+
+So the custom does not exist as a right. What exists is sixty-one separate voluntary forbearances, renewed every time, by people who could stop tomorrow.
+
+Any frontager may lawfully place a stall, a cart, a skip or a fence across their own ground on the morning of a march, and nothing in law obliges them to move it. The facility has no power to require them to. The municipality has none either, the route not being a highway along most of its length. And since the entity steps around obstructions rather than through them, a single obstructed frontage does not stop a march; it diverts one, through ground nobody has cleared, past buildings nobody has assessed, which is the precise circumstance in which the two recorded route departures occurred.
+
+The opinion in the file puts the whole position in a sentence the wing has never been able to improve on: *the safest arrangement in Zone D is held together by nothing but the fact that no one has yet wanted to be the person who blocked it.*
+
+### The Sixty-One Covenants
+
+In the ninth year the Directorate decided that sentence was unacceptable, and did something about it that it has not been able to undo.
+
+Securing the route by agreement was impossible; an agreement binds only the person who signs it, and a frontage changes hands. So the facility's officers took instead a **restrictive covenant** over each frontage — a burden on the land itself, binding every future owner for ever, requiring the ground to be kept clear of obstruction on demand. **Sixty-one were obtained** in a single season. Consideration was nominal: one unit each, paid in coin at the door.
+
+They were obtained honestly in the narrow sense. Nothing in the deed was false. But the officers explained them at the door as *putting the custom on paper*, and the file's own note of the briefing confirms that is what the officers had been told to say. Fifty-one of the sixty-one owners signed at first asking. Nobody was advised to take advice. The deeds were registered within the month.
+
+What the owners had in fact granted was a perpetual encumbrance on their land. The valuation evidence, obtained four years later when the first of them tried to sell, is unambiguous: a frontage subject to the covenant is worth materially less than one that is not, because the obligation runs with the land and no purchaser can be relieved of it. **Two sales have failed** on discovery of the burden. A third completed at a reduction the surveyor attributed to it in writing. Not one of the sixty-one has been compensated for the difference, because each was paid the agreed consideration in full.
+
+Release has been asked for twice and refused twice. The reasoning is in the refusal letters and is not dishonest: releasing a covenant would restore the position in which a single frontager can divert a march into unprepared ground, and the facility is not prepared to be the body that permitted that.
+
+The objection is minuted at every annual review, raised by the ward officer and supported by two of the grounds crews' own senior readers. It holds that the facility converted sixty-one acts of voluntary grace into permanent legal burdens on the land of the people performing them, and did so by describing the instrument at the door in terms that were accurate about its subject and wholly silent about its effect; that the entire cost of securing the route now sits on sixty-one households in the form of a loss of value none of them was told about and none can escape, while the facility obtained it for sixty-one coins; and that the arrangement the covenants replaced had worked, without exception, for the whole history of the marches, which means the facility purchased certainty it did not need with other people's property.
+
+The minute records the objection as **correct in all three parts**. It records that a compensation scheme, costed against the valuation evidence and well within the wing's own budget, was drafted in the eleventh year and has not been laid. And it records what one of the sixty-one said to the officer who came back to explain the refusal, which the clerk entered verbatim because the officer asked her to: *we would have moved the cart. You only ever had to ask us on the day.*
+
 ## Trivia
 
-- The Colossus's footsteps are heard as heartbeats rather than impacts.
-- Its tears produce structures that carry the emotional weight of the dead who formed them.
+- Its footfalls carry through stone as a slow double beat, which is how the posts identify a march before any sighting.
+- The structures its tears leave are sound and habitable and carry the weight of the dead who made them; two are occupied, both at a reduced rate set by the municipality.
 
 
 
@@ -441,9 +481,9 @@ The shortest name on the restored roll belongs to a child buried without ceremon
 
 - **Classification detail:** The Grieving Colossus is a Subject with Sovereign (V) — Autonomous, unpredictable, reality-bending coherence and Critical (δ) — Facility-threatening potency.
 - **Field detail:** Its defining element is Weight, and its registered location is Zone D — wanders freely; uncontained landmark.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the double beat in the ground and the cratered footprints; no other holding in the city is announced by the floor.
+- **Record detail:** Read this file beside the pay-gang tallies, which are the only documents written at the time about the people it carries, and beside the restored roll, which is the only one written since.
+- **Containment detail:** There is no containment to discuss. The route is the only boundary in this arrangement, it is maintained by other people's forbearance, and the Sovereign Chronicle sets out what that forbearance now rests on.
 ## Document Information
 
 **Document ID:** SE-C-Vδ-002
