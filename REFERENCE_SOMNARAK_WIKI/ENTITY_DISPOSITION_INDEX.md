@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **274** |
-| Pending — no disposition-bearing line found by scan | 29 |
+| **Classified here, with a quoted line of evidence** | **275** |
+| Pending — no disposition-bearing line found by scan | 28 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 274 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 275 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 29 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 28 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -375,6 +375,7 @@ The ones that cost F01 containment, not just personnel.
 
 | Entity | Code | Evidence |
 |---|---|---|
+| The Wedge That Held | `SE-O-IIIγ-412` | Negative on balance, and the balance is recorded rather than hidden. Two of its three Interaction Record rows are containment-destabilising: Broken Door — *"The wedge vibrates violently toward the door frame"*, effect *"May trigger spontaneous breach attempt; maintain separation"*; and The Vanished Wall — *"Unstable containment interaction; keep separated by 100 meters."* An object that makes a neighbouring holding attempt a breach is Negative by the plain `R-19` test, whatever its history. Against that stands one Positive-shaped row, The Crucible: *"Increases gauge reduction rate by 15% during Ferrehan"* — a genuine lowering of work cost, but for one partner only, and it does not offset a triggered breach. Recorded as conditional counter-evidence under `R-19.4`; the class is set by the breach rows. |
 | Blessing Giver | `SE-C-Iα-071b` | Negative, on conversion of personnel — the one Negative mechanism `R-19` names that has nothing to do with force. Breach Behavior: *"Each touched personnel member is blessed (healed + marked)"*, and the secondary effect is the decisive line — *"Already-marked personnel feel compelled to move toward the entity."* Each blessing recruits the next approach, and *"with each breach-blessing, the entity’s glow intensifies and its speed increases by 0.2 m/s"*, so the breach accelerates on its own output. She is also a step in a chain rather than an endpoint: *"If the chain corrupts (4b), the Blessing Giver’s proto-Hope glow inverts into the Dawn’s cold violet."* An entity that marks staff, draws the marked back, and can terminate in a Sovereign is not a self-contained hazard. The gentleness is real and does not change the class. |
 | The Music Box of Agony | `SE-N-IIγ-903` | Negative, by acoustic amplification rather than by escape — it never leaves the vault. Interaction record, The Hollow Choir: *"A dangerous resonance: the Choir’s unfinished songs and the box’s lullaby can harmonize into a fade-event spanning the whole sector."* A sector-wide fade produced jointly with a neighbouring holding is facility-wide amplification on the `R-19` list. The reach is not theoretical: *"The gardens’ grief-flowers lean toward the vault, as if listening; a few have begun to turn, very slowly, in time with the figurine"* — the box is already moving another entity from inside containment. Note also that three bars hummed in a corridor *"once began a fade in a bystander"*, which is how a vaulted object reaches a sector it cannot enter. |
 | The Ancestral Guilt | `SE-N-Vω-1055` | Negative. A Sovereign kept directly beneath the facility whose top-end behaviour is structural rather than personal: the potency modifier reads *"ω — Capable of crushing an entire sector beneath civic weight"*, and its Ultimate, *Ledger of the Unforgiven*, *"Deals 60-85 Weight damage across entire sector; triggers instant Fracture."* Containment cannot be bought back by force either — *"Do not attempt to burn or shred the entity’s scrolls with fire; each destroyed document doubles the entity’s kinetic mass."* An entity that fractures a sector of F01 and grows from every attempt to remove it meets the `R-19` Negative test on structural collapse, without needing a cross-entity line. Access is already rationed by genealogy rather than by grade, which is itself an institutional cost no other holding imposes. |
