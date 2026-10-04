@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Non-Organic — A suit of ancient plate armor standing upright with nothing inside it — no body, no bones; the armor itself is the entity. It patrols continuously, weapon and shield raised, joints clanking with no flesh to move them. The metal is fever-hot and smells of char. |
-| **Movement** | Stationary — a place or zone; spreads rather than moves. |
+| **Movement** | Mobile on a fixed route. It walks the same sixteen-hour circuit of SECTOR-B-01 every day, surveyed and marked to the metre, and has never once deviated from it. The earlier entry describing it as stationary and spreading is an error and is corrected here. |
 | **Location** | SECTOR-B-01, Zone B — contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | — · γ (Major) |
+| **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Duty Fang, Plate and Shield are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Keep the route clear and work from beside it. Flerehan and Ferrehan lower the gauge; Pugnahan raises it and is not authorised. This is a Subject, so all four Work Types are valid and there is no Object/Place restriction on this holding. |
 
 ### Operational Notes
 
-- The armour stands and moves with nothing inside it, and the articulation is correct in every joint.
-- Work settles the figure. The hollow is unchanged, and no cycle has caused the armour to open or fall.
-- The margin is two conditions. Escalation is a change of stance, and the stance is photographed at the start of every session for comparison.
-- Structural pressure is the hazard rather than aggression; the Knight has not struck, but its mass is treated as live load.
-- Recovery of the implement is a separate authorization.
+- The armour walks with nothing inside it, and every joint articulates correctly. Nothing in nine years of close observation has found a body, a residue, or a mechanism.
+- Work settles the figure and changes nothing about it. The hollow is unchanged, the armour has never opened, and no cycle has shortened the route or the sixteen hours.
+- The margin is two conditions. Escalation shows first as a change of stance, which is why the stance is photographed from the same two marks at the start and end of every session.
+- The hazard is mass and persistence, not aggression. It has never struck anybody. It weighs what a loaded pallet weighs, it will walk through what is in its way, and the corridor is rated as a live-load route for that reason.
+- Recovery of the implement requires its own authorisation and has been granted twice; on both occasions the Knight completed the circuit without it and resumed carrying it when it was returned to the route.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,30 +87,30 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Hollow Knight's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Twelve turns, worked from beside the route and never across it. Flerehan and Ferrehan only; Pugnahan is answered with disciplined, trained violence and is not an authorised approach on this holding.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Salute its duty, acknowledge its sacrifice, and assign a clear completed task**.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks The Hollow Knight’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, The Hollow Knight defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- The failure here is not injury. It is a worker who starts organising their service around being saluted again, and the counsellors can usually date the change to a single shift.
+- Extended contact produces the holding's signature effect: the exhaustion of being responsible for something that no longer exists. Workers describe it as tiredness that sleep does not touch, and it is reliably worse in the fourteenth hour of the circuit than in the fourth.
+- The Duty Fang, Plate and Shield each take composure and give back endurance, and every wielder's debrief in this wing has reported the same involuntary straightening of the back on the first activation.
+- Unresolved, it breaches by Transform rather than Escape: it does not leave, it fills the wing, and the architecture takes the damage first.
 
 ## Appearance
 **Primary Form:** Ancient armor standing upright with no body inside. The armor itself is the entity. It patrols continuously with a weapon and shield.
 
 **Notable Features:**
-- The visor contains only darkness.
-- It patrols the same route for sixteen hours each day.
-- It salutes acts of courage regardless of faction or allegiance.
+- The visor holds darkness and nothing else; lamps do not reflect from inside it, and the corridor crew use that fact to check the lighting.
+- It walks the same route for sixteen hours a day, to the metre, with a gait that lengthens measurably after the tenth hour.
+- It salutes courage wherever it sees it — Warden, Fray, criminal, enemy — and the salute is identical every time.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** Ancient armor standing upright with no body inside. The armor itself is the entity.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** On the route, at a predictable point for the hour. Record the position against the marked stations, the hour of the circuit, and the stance from the two photographic marks.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-B-01, Zone B — contained
 
@@ -119,41 +119,41 @@
 | Field | Detail |
 |---|---|
 | **Form** | Ancient armor standing upright with no body inside. The armor itself is the entity. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The visor contains only darkness. It patrols the same route for sixteen hours each day. It salutes acts of courage regardless of faction or allegiance. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Position / movement** | Walking the surveyed circuit. Record the station, the hour of the circuit, the gait, and the stance against the two fixed photographic marks. |
+| **Material / signature** | Grudge. Ancient plate, immaculate and unmarked, fever-hot to within a hand's width and smelling of char; joints that clank with nothing to move them. |
+| **Distinctive markers** | An empty visor, a sixteen-hour circuit walked to the metre, and a salute given to courage regardless of whose it is. |
+| **Identification** | Confirm before Work or contact: designation C-IVγ-073 `[GS]`, Grudge expression, Subject-Body manifestation, Entity (IV) coherence, SECTOR-B-01 in Zone B. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Photograph the stance from the two marks, log the station and the hour, and time the gait over the measured stretch. The gait and the stance are the holding's earliest indicators and they move before the gauge does. Record distance from the route rather than from the containment boundary, because the route is the containment. Do not write *strange* or *anomalous*; it is hot, immaculate, empty and loud, and those are the fields.
 
 ## Origin
 - **Formation:** The Knight formed from duty without purpose.
 - **The Sorrow:** The grief of a soldier who fought for a cause that no longer exists and remained responsible after the reason for responsibility vanished.
 - **The Event:** An ancient war ended, but one guardian's order never did. The body decayed; the armor and duty remained.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The archive cross-references this entity's sorrow with SECTOR-B-01, Zone B — the same Han density, the same Grudge signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.
+- **The People:** An order of guardians, dissolved so completely that the archive cannot name the cause it served, the body that commanded it, or a single one of its members including this one.
+- **Expanded origin context:** The war ended and the order that fought it was wound up; somewhere in that process one standing order was never cancelled, because the officer who could cancel it was gone and the thing it had been given to was not a person who could be told. The body inside the plate failed at some point that nothing records. The order did not. What stands in SECTOR-B-01 is not a soldier who refuses to stop: it is an instruction with nobody left to receive it, walking a route that leads nowhere, in armour that is now the whole of the obedience.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Pauses and salutes shared sorrow. | Decrease |
-| **Pugnahan** (Confrontation) | Fights with disciplined skill and fury. | Increase |
-| **Viderehan** (Observation) | Allows study; armor reveals a forgotten war. | Stable |
-| **Ferrehan** (Endurance) | Stands guard over the worker for hours. | Decrease |
+| **Flerehan** (Tears) | Pauses mid-stride, turns to face the worker, and salutes shared sorrow before resuming. | Decrease |
+| **Pugnahan** (Confrontation) | Fights back with trained discipline and no anger at all, which is worse; gauge rises and stays risen for days. | Increase |
+| **Viderehan** (Observation) | Permits study without acknowledgement; the plate shows the heraldry of a war no archive can place. | Stable |
+| **Ferrehan** (Endurance) | Leaves the route to stand over the worker for as long as the worker stays, then resumes the circuit at the point it left. | Decrease |
 
 ### Special Behaviors
-- Patrols the same corridors and corners without deviation.
-- Protects personnel even when no threat exists.
-- Cannot understand that its post has ended.
+- Walks the circuit without deviation, through obstructions rather than around them.
+- Guards personnel against nothing, at length, with complete seriousness.
+- Has no apparatus for being relieved; there is nothing in it that could receive the order if the order existed.
 
 
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. The Hollow Knight is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at SECTOR-B-01, Zone B — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and Grudge expression, held at SECTOR-B-01 in Zone B and walking a surveyed circuit for sixteen hours of each day. All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan is the only approach that has ever raised it.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Read it in the stance and the gait before the gauge. A falling gauge presents as a shortened stride and a longer pause at the salute; a rising one presents as the armour squaring up and the circuit speeding. Both are visible from the marks and both precede the instrument by hours. The corridor crew's shift log is the other reading, and the engineers read it first.
 ## Breach Behavior
 
 > *"The Hollow Knight has broken free. Hunts personnel indiscriminately."*
@@ -161,8 +161,8 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | The Hollow Knight seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
-| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
+| **Movement** | It passes through the walls and occupies every corridor of the wing at once. It does not pursue; it occupies, along the line of the route extended through everything in the way. |
+| **Effect** | The Grudge becomes structural. Walls crack along the route first, then everywhere, and personnel in the volume take the same load the architecture does. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
 | **First Target** | Whoever stands on its patrol route. It does not deviate, and the route is documented to the metre. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
@@ -170,7 +170,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Clear the documented route and return the salute at the perimeter. It has never pursued anyone who stepped aside.
+- **Containment priority:** Evacuate outward from the route; do not form an assault element. Return the salute at the perimeter. Nobody who stepped aside has ever been pursued, in nine years and four transformations.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per circuit completed rather than per turn.
 
 ## M.A.W. Equipment
@@ -230,7 +230,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Cost:** The wearer cannot flee from danger. Duty compels them to stand and fight.
 
-*Stigmas are granted at random by The Hollow Knight upon a successful work, not manufactured.*
+*The Duty Shield is not issued and cannot be requested. It has been conferred four times, in each case on a Warden who stood aside from the route to let somebody else pass and was saluted for it.*
 
 ### M.A.W. Use Notes
 
@@ -251,10 +251,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- The armor is empty; no organic body exists inside.
-- It patrols sixteen hours per day and never retreats.
-- The Knight salutes courage in enemies, Frays, and criminals alike.
-- It has never abandoned its post or surrendered.
+- The armour is empty. Nine years of imaging has found no body, no bone and no residue inside the plate.
+- Sixteen hours of circuit, eight hours standing at the first station, every day without variation.
+- It salutes courage in anybody, including people the facility is holding and people who have attacked it.
+- It has never left the route, never surrendered, and never acknowledged an instruction of any kind.
 
 **Personnel Note:**
 > *"It stood guard over me while I slept, protecting me from threats that did not exist. When I woke, it saluted. I saluted back."* — Specialist Hanul Grey, Zone B containment team
@@ -266,11 +266,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies The Hollow Knight as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-B-01, Zone B — contained. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - Patrols the same corridors and corners without deviation. - Protects personnel even when no threat exists. - Cannot understand that its post has ended. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Sustained observation** | Station and hour, gait over the measured stretch, stance from the two marks, salutes given with the recipient named, and the corridor crew's shift log for the same period. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Hollow Knight's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | Stance before and after, gait times, the worker's verbatim account of any salute received, and a counsellor's note at 14 days. The salute is reviewed as an exposure, not as a commendation. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Observe from beside the route, for a whole hour of the circuit rather than a sample of it, and record the station, the gait, the stance, any salute, and the condition that ended the session. The form here is the sorrow and not a strategy: an order that outlived everybody who could cancel it has no shape available to it except a thing that walks and keeps walking.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -305,32 +305,32 @@ The armor stands at attention, ancient and immaculate. The visor is empty, yet y
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: Ancient armor standing upright with no body inside. The armor itself is the entity. It patrols continuously with a weapon and shield. The space does not become generic; it shifts in the specific register of Grudge.
+**At first contact:** Heat first, at about a hand's width, then the smell of char, then the sound — plate articulating with nothing inside it, which the ear refuses to accept for several seconds.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Grudge pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The back straightens without being told to. Workers report an unearned seriousness, as though every small decision in the corridor had become an undertaking.
 
-**When the entity activates:** The Gauge tips. The Subject-Body does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Grudge is no longer atmospheric. It is operational.
+**When the entity activates:** The stance squares. Nothing is said, nothing is faster, and the corridor acquires the specific quality of a place where somebody is on duty.
 
-**After departure:** After contact, the body holds what the mind files away. The Grudge is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The tiredness arrives later, usually that evening, and is the exhaustion of having been responsible for something. It passes in about two days and the counsellors ask about it at fourteen.
 
 ### Interaction Pattern
 
-The Hollow Knight does not exist in isolation. Its recorded relationships with The Forgotten Soldier, The Orphaned Bell, The Kind Healer, The Hollow Choir, The Maw should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other things in the wing that go on performing a duty nobody is left to receive. Each relation below has been observed and filed; none is settled; and each was tested from beside the route, never across it.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone across several circuits before any paired approach. Log the onset of any shared change with its range, duration and trigger, the gauge movement on both sides, the effect on the route, and what persists after separation. Re-verify each cycle; a Tide has overturned settled readings in this wing twice.
 
 
 ### Entity Interaction Record
 
-The Hollow Knight must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled, and the two that look most like cooperation are the two the wing understands least.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Forgotten Soldier** | They stand at attention together: two eras, one duty. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Orphaned Bell** | Guards the Bell's tower. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | Protects the Healer, placing duty beside compassion. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Choir** | The Choir sings the Knight's forgotten war. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Maw** | Guards The Maw's perimeter. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Forgotten Soldier** | They come to attention together, two eras of the same unfinished duty, and hold it for the length of a station. | Seven co-presences, the most of any pairing here. Both gauges fall, by four to six points, and both recover within a day. Nothing is exchanged and neither has ever acknowledged the other in any other way. | The seven co-presences, both gauge series, the station at which it occurs, and the duration of the attention. |
+| **The Orphaned Bell** | The route passes the Bell's tower and the Knight stops under it for a measured interval on every circuit. | Nine years of circuits. The stop is 41 seconds, has never varied by more than two, and happens whether or not the Bell sounds. No effect on either gauge has ever been measured. | The stop time every circuit, the Bell's activity in the same window, and both flat series. |
+| **The Kind Healer** | It stands over the Healer's holding when the route brings it near, which the early file read as protection. | Six observations. The Knight's gauge falls and the Healer's does not move. The wing has stopped describing this as protection, because nothing has ever threatened the Healer and the behaviour is identical at an empty chamber. | The six observations, both series, and the empty-chamber control. |
+| **The Hollow Choir** | The Choir is said to sing the Knight's war, the only source that appears to know anything about it. | Three co-presences. The Choir sang; the Knight did not react in stance, gait or gauge; the transcription was attempted twice and produced nothing an archivist could place. No corroboration obtained. | The three co-presences, both transcription attempts in full, and the null stance record. |
+| **The Maw** | The route's outer leg runs along the Maw's perimeter, which the early file read as the Knight guarding it. | Four years of circuits since the Maw was sited there. The route predates the siting and has not changed by a metre. The wing records the overlap as an accident of survey and not as a relationship. | The pre-siting survey, the post-siting survey, and the unchanged route. |
 
 **Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
@@ -362,20 +362,20 @@ Some sorrows mourn a loss. The Hollow Knight mourns a reason — the cause that 
 > *“No one remembers what the knight protects. The knight does not stop protecting it.”* — Elder, Border District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IVγ-073` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge · Subject-Body manifestation
+**Classification:** Sorrow Entity — `C-IVγ-073 [GS]` · City origin · Entity (IV) coherence · Major (γ) potency · Grudge · Subject-Body manifestation
 **Common Name:** The Hollow Knight
-**Containment Status:** Contained — border district
+**Containment Status:** Contained — SECTOR-B-01, Zone B. The border-district entry in earlier revisions refers to the recovery site and not to the holding.
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. The Knight stands an eternal watch over nothing. Effect: proximity induces the exhaustion of purposeless duty.
+**Threat Assessment:** Major (γ). An Entity-coherence Subject of considerable mass that breaches by Transform and fills a wing when it does, and whose ordinary operation imposes the exhaustion of purposeless duty on everybody working near it. The earlier entry describing the threat as low is an error and is corrected here.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type.
-- The Knight does not move from its post.
+- Flerehan and Ferrehan both lower the gauge and are the authorised approaches. Pugnahan is prohibited on this holding.
+- The post is a route, not a point. Keep it clear and surveyed; the Knight walks it for sixteen hours and stands at the first station for the other eight.
 **Observation Notes:**
-- An ancient order’s guardian, still watching after the order dissolved.
-- The body decayed; the armor and duty remained.
-**Cross-References:** Border District · The Scar · The Occlusihan · The Guarding Bird
+- A guardian of an order that was wound up so thoroughly that nothing identifying it survives, still executing the last instruction it was given.
+- The body is gone and the obedience is not; the plate is now the whole of what is obeying.
+**Cross-References:** SECTOR-B-01 · the surveyed route · the corridor crew's shift log · the standing-order file · the successorship application
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** An ancient knightly order; the guardian outlived the cause.
+**Originator:** An ancient knightly order, dissolved without a successor body; the guardian outlived the cause, the command and the record of both.
 
 ### Registry Addendum
 
@@ -390,7 +390,7 @@ The Hollow Knight patrols the same route for sixteen hours of every day, and the
 
 ### The Salute
 
-It salutes acts of courage regardless of faction or allegiance, and the salute is both the file's best-known detail and its most carefully managed one. Wardens receive it occasionally and remember it permanently. The behaviour is operationally useful — it permits Flerehan work at close range, where it pauses and acknowledges shared sorrow and the gauge falls from its 662 baseline — and it is psychologically hazardous in a way the counselors flag at every briefing. Personnel saluted by the Knight report a durable sense of having been judged and approved by something that cannot be argued with, and a minority have organized their subsequent service around earning it again. The rotation watches for this specifically. The counselors' standing note on the holding reads that the Knight is an excellent judge of courage and a poor one of cost, and that the Directorate must supply the second judgement itself.
+It salutes acts of courage regardless of faction or allegiance, and the salute is both the file's best-known detail and its most carefully managed one. Wardens receive it occasionally and remember it permanently. The behaviour is operationally useful — it permits Flerehan work at close range, where it pauses and acknowledges shared sorrow and the gauge falls from the middle of its 45–65% band — and it is psychologically hazardous in a way the counselors flag at every briefing. Personnel saluted by the Knight report a durable sense of having been judged and approved by something that cannot be argued with, and a minority have organized their subsequent service around earning it again. The rotation watches for this specifically. The counselors' standing note on the holding reads that the Knight is an excellent judge of courage and a poor one of cost, and that the Directorate must supply the second judgement itself.
 
 ### Transform, Not Escape
 
@@ -404,10 +404,44 @@ The corridor crew's log closes each shift with the route's condition in three wo
 
 Replacement lamps for the route are stocked at four times the wing's standard rate, and the overstock is listed in the quartermaster's records under the corridor crew's own requisition number rather than the holding's. The crew asked for it that way. A dark stretch of route has never yet been allowed to occur, and the crew intends the record to show whose doing that is.
 
+### What the Crew Writes Down
+
+The corridor crew's shift log is the best instrument in this wing and it cannot be copied.
+
+Its form is three words. *Clear and lit. Plates sound. Lamps replaced.* Two thousand nine hundred and four shifts have closed that way. **Forty-one have not**, and those forty-one run to a paragraph or more: the fourth-hour pass sounded wrong over plate 19; the gait came back early; the stop under the tower was short; the visor took a reflection it has never taken.
+
+**Thirty-eight of the forty-one preceded a measurable change in the holding**, at a median of two days and never more than six. The gauge found thirty-one of those changes afterwards. It found none of them first.
+
+The wing tried to capture it. In the fifth year an engineer spent four months with the crew and produced a nineteen-item checklist covering everything the crew could articulate — plate resonance, lamp reflection, gait interval, stop duration at the tower. The checklist was run in parallel for a year by wardens who were not corridor crew. **It produced eleven flags, of which two were real.** Over the same year the crew, writing three words a shift, produced seven, of which seven were real.
+
+The engineer's conclusion is the sentence the file is built around: *what they have is not a list of indicators, it is nine years of one corridor, and the moment you write it down as indicators you have something else that performs worse.*
+
+So the holding's earliest warning system is six people, four of whom remain, and the facility has no mechanism for retaining it other than keeping those four in post. The file says so on the front sheet. It also says, in the next line, that four is not a number anybody should be comfortable with, and that nobody has found a way to make it larger without making it worse.
+
+### Nobody Left to Give the Order
+
+It can be relieved. There is a form of words that would do it, and the Knight would almost certainly obey it, because obeying is the only thing it does.
+
+The words have to come from somewhere, and that is the whole of the problem. A standing order is discharged by the authority that gave it or by that authority's lawful successor. The order here was given by the command of a knightly order that was wound up in antiquity, and wound up in the specific way that leaves nothing behind: no surviving body, no transfer instrument, no estate, no one who ever claimed to inherit it. The archive has looked twice, at length. There is no successor because nobody ever became one.
+
+In the sixth year the facility applied to be recognised as the successor authority itself, on the narrow ground of custody. The application was properly made and was refused, and the refusal is the part of the file that gets read aloud at inductions. **Successorship cannot be taken in part.** A body that becomes the successor to a dissolved order succeeds to all of it: its undertakings, its obligations, and whatever it promised to whoever it was protecting, which in this case is unknown, unbounded and ancient. The legal officer's advice was that the facility should not accept an unknown liability of indefinite extent in order to relieve one sentry, and the Directorate accepted the advice.
+
+So the position is settled and will not change. **The facility could end this holding tomorrow if it were willing to inherit a dead war, and it is not.** The decision is reviewed annually, has been affirmed nine times, and the minute of the ninth is one line: *the advice has not changed and neither has our answer, and we should stop pretending this review is open.*
+
+### The Wing Keeps His Hours
+
+In the fourth year the wing stopped scheduling around the entity informally and wrote it into standing orders. **The route is closed to all traffic during the circuit**, and the wing's movements — stores, maintenance, transfers, the night pharmacy run — are timed to the eight standing hours and to the three intervals when the circuit is on the far leg.
+
+The reasoning was sound and remains sound. The Knight walks through obstructions rather than around them; an obstruction is therefore a casualty rather than a delay, and the only reliable way to prevent one is to keep people and equipment off the route when it is in use. Every alternative was tried first and the file records all of them: barriers it walked through, diversions it ignored, a resited corridor it continued through the new wall.
+
+The cost is in the timetable and it falls on people who have nothing to do with the holding. The medical transfer route out of Zone B crosses the circuit at two points. Transfers wait. **In the seventh year a transfer waited nineteen minutes** at the second crossing while the circuit completed its fourth-hour pass, and the patient's outcome was poor; the review found the delay was not causative and said so plainly, and also said that it could not rule out that another nineteen minutes, on another day, would be.
+
+The objection is minuted at every annual review and is raised by the Zone B medical lead, not by the holding's wardens. It holds that the wing has subordinated the movement of sick people to the schedule of a dead war; that the second crossing could have been engineered out in the fourth year for a cost the wing declined to find, and that the figure has not been re-estimated since; and that a standing order which produces a nineteen-minute wait for a stretcher should be reconsidered on each occasion it does so rather than once a year in a room the stretcher never reaches. The minute records the objection as **correct in all three parts**. It records that the crossing works were costed again in the eighth year, approved, and have not yet begun. And it records the corridor crew's own submission, which is three sentences long and asks only that when the works do begin, the crew be told the dates early, because the Knight will walk through the works, and somebody will need to be standing there when it does.
+
 ## Trivia
 
-- The armor has no body, but its footsteps have human weight.
-- It salutes courage even when that courage opposes its orders.
+- The armour is empty and its footsteps register on the plate sensors at the weight of a large man in full harness.
+- It has saluted people obstructing its own route, which is the only recorded instance of it acknowledging an obstruction at all.
 
 
 
@@ -415,9 +449,9 @@ Replacement lamps for the route are stocked at four times the wing's standard ra
 
 - **Classification detail:** The Hollow Knight is a Subject with Entity (IV) — Self-aware, driven by duty coherence and Major (γ) — High danger potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-01, Zone B — contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the empty visor and the gait; the heat and the sound carry further than either and are not diagnostic on their own in a wing this noisy.
+- **Record detail:** Read this file beside the corridor crew's shift log, which is the only record in the wing that has ever predicted this holding, and beside the standing-order file, which explains why it cannot be stood down.
+- **Containment detail:** Containment here is a maintained route rather than a sealed room. Do not equate the quiet of the eight standing hours with dormancy; the stance is still being photographed and the crew is still working.
 ## Document Information
 
 **Document ID:** SE-C-IVγ-073

@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **210** |
-| Pending — no disposition-bearing line found by scan | 93 |
+| **Classified here, with a quoted line of evidence** | **211** |
+| Pending — no disposition-bearing line found by scan | 92 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 210 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 211 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 93 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 92 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -214,6 +214,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Rejector | C-IIIγ-063 | Refuses everything, F01 and entities alike, and acts for nobody. He has *"never breached by force, never struck first,"* and in an escape *"stalls in place entirely unless somebody gives him an instruction."* Nine approaches by the Smothering Mother moved him not at all — *"his gauge did not shift on any of the nine"* — the Forgotten Soldier produced *"No effect in either direction,"* and the Orphaned Bell's pause is recorded as *"real and operationally useless."* What F01 gets is a holding that cannot be ordered, bargained with or deterred, and a refusal register that *"has gained three entries in nine years."* |
 | Learned Your Face | C-IIIγ-195 | A conditional case recorded as Neutral: it does stabilise its neighbours — *"the adjacent gauges fall within ten seconds of the channel opening"* — but only while a person stands at the glass, and the price is permanent: *"every reading is paid for with somebody's face, permanently."* It suppresses nothing on its own, assists nothing, and the single range extension ever caused by another entity cannot be retested. Five co-presences with the Broken Mirror left both records flat; three Memory Well approaches reflected *"Nothing … that the channeller had not brought with them."* Unattended it is inert; attended it costs F01 the four people who hold the rota. |
 | Frozen Echo | C-IIIγ-609 | Inert toward everything. It cannot escape — *"There is no breach counter because it cannot escape"* — and no entity has taken anything from it: the Memory Weaver *"withdrew on all five, at between two and four metres, without contact,"* four Chain of Memories co-presences produced *"No connection demonstrated,"* and the Market Stall's ledger entries settle nothing. Its benefit to F01 is bounded by a two-minute limit and paid for in permanent imprints and identity bleed; the facility's own position is that it holds *"a duty of care with no end date"* over a thing it cannot return, claim or dispose of. |
+| The Hollow Knight | C-IVγ-073 | Guards nothing and assists no one. The relations the early file read as protection are null: the Kind Healer's gauge *"does not move,"* the behaviour is *"identical at an empty chamber,"* the Maw perimeter overlap is *"an accident of survey and not … a relationship,"* and the 41-second stop under the Orphaned Bell's tower happens *"whether or not the Bell sounds."* Nothing is exchanged with the Forgotten Soldier and the Hollow Choir obtained no corroboration. Its only breach mode fills F01's own wing, and its duty cannot be discharged because the facility refuses the successorship that would end it. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
