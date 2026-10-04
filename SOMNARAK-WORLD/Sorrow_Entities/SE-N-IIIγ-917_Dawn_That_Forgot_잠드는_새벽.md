@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Watch from outside the zone and let the morning finish. The gauge falls on episodes observed to their end from the perimeter post; it has never fallen on an episode a party entered, and the four entries on record ended the same way the others did, at the same minute. |
 
 ### Operational Notes
 
@@ -73,7 +73,7 @@
 | **Difficulty** | 917  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-917 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | The district opens its eyes. Mean elapsed time from sunrise, seventy-one minutes; range forty to a hundred and ten; twenty-nine episodes and no exceptions. Nothing has ever shortened one and the file lists what has been tried. |
 
 ### Combat Actions
 
@@ -88,13 +88,13 @@
 
 1. **Tension:** Personnel identify the time manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dawn That Forgot's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+3. **Resolution:** People get up. The post records the minute the first shutter opens and the minute the last one does, and the pair of figures goes into the series. There is no suppression step because there has never been anything to suppress.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented void effect — dream pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- Composure loss belongs to the watchers, not the sleepers. Standing outside a district you can see and cannot reach, for an hour and a quarter, is the documented cost of this posting, and the rotation exists because of it.
+- Exposures accumulate rather than resolving. Totals are kept across a worker’s whole service, not per posting, and the infirmary holds the figures: the facility is given a judgment and no numbers. The division is standing and has been tested twice.
+- A piece carried inside the zone during an episode counts as an exposure for its wielder whether or not it is used. The counting rule was written before the equipment existed and was applied to it unchanged.
 
 ## Appearance
 
@@ -103,7 +103,7 @@
 **Notable Features:**
 - Expresses Void pressure in a dream register.
 - The time form is unmistakable — this is a dream entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Identification is by the silence after sunrise: a lit district with no shutters opening, no traffic, and no one at the windows.
 
 **Identification Profile**
 - **Entity Type:** Time
@@ -118,18 +118,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Time-Dream manifestation is the primary identifying feature. Void pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | Fixed to the district and to the hour after its sunrise. The Warden’s post is outside the affected zone looking in; observation is visual and at distance, and there is no instrument in the holding at all. |
+| **Material / signature** | Light without waking. The sky brightens on schedule, the streetlamps cut out on their timers, and nothing else in the district moves. Photographs of the hour are indistinguishable from photographs of the same street before dawn except for the light. |
+| **Distinctive markers** | The awareness. Sleepers report knowing that morning had come and being unable to open their eyes, and they report it consistently — not confusion, not dreaming, but a morning attended from the wrong side of the eyelids. |
+| **Identification** | Ask what time they knew it was. People who have been through an episode give the hour to within a few minutes, from inside a room they could not see. No ordinary sleep produces that answer. |
 
 ## Origin
 
-Dawn That Forgot was not discovered. It was recognised. The void pressure had been present in SECTOR-N-917, contained for years — measured, logged, filed under 'ambient anomaly.' It took a junior researcher on Floor 4 to point out that the anomaly had a shape. The shape was Time-Dream. The anomaly was alive.
+It was in the logs for years before it was anything. An ambient reading, taken on schedule, filed without comment, carried forward in the summaries by people who had no reason to look at it twice — and the original entries are kept in exactly that form, because the point of them is that they looked like nothing.
 
-Time itself is the medium. Dawn That Forgot does not exist in the way other entities exist — it exists as a moment that carries void sorrow in a dream register. You cannot point at it the way you can point at a Subject entity. You can only point at its effects.
+A junior researcher noticed that the readings clustered after sunrise. She wrote a page about it for herself, informally, and the page was right. It is reproduced in the folder as she wrote it, and the file records that nobody asked her for it.
 
-The effects are cumulative. Each exposure layers void pressure in the dream register until the personnel cannot distinguish their own dream state from the entity's influence. That is when Fracture risk peaks. That is when the protocols engage.
+What the page described is this: the sun comes up over a district and the district does not. People lie in their beds knowing the hour, unable to open their eyes, for an average of seventy-one minutes, and then the morning starts.
 
 ## Behavior
 
@@ -142,7 +142,7 @@ The effects are cumulative. Each exposure layers void pressure in the dream regi
 
 ### Operational Work Notes
 
-The Void pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Time-Dream manifestation means the dream register is the primary channel of contact.
+Nothing here is measurable and the file says so in its first line. Both valid approaches are performed from the perimeter: observation is the watch itself, endurance is holding the post for the length of an episode without sending anyone in. The gauge answers to the watch being kept, which is the only act the holding permits.
 
 ## Breach Behavior
 
@@ -151,15 +151,15 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
-| **Movement** | The entity's dream influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Void pressure radiates — the dream register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | The affected zone takes in streets along its own boundary, by whole blocks, between one episode and the next. Three widenings in seventeen years, each one found by the post noticing shutters that stayed closed a street further out than last time. |
+| **Effect** | Households newly inside the line experience their first episode at the next dawn and every dawn the holding has thereafter. Nobody in the widened streets has ever reported injury; what they report is the loss of the early shift, and the district has rescheduled around it twice. |
+| **First Target** | Whoever sleeps nearest the boundary — geographically, not emotionally. The three widenings took the next street out in each case, in order, with no regard to who lived there, and the post predicted the third correctly from the first two. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per street taken rather than per turn. It has stood at 70% since the third widening and has not moved in nine years.
 
 ## M.A.W. Equipment
 
@@ -173,13 +173,13 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Damage:** Void 14–25 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels void dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.
-**Cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
+**Cost:** The wielder wakes slowly for a week — lucid, aware of the room, several seconds behind their own eyes. It is counted as an exposure on the infirmary’s running total, like everything else here.
 
 ### M.A.W. Suit — Dawn That Forgot's Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a watch-cloak of Void Han-gossamer, near-translucent and almost colourless, cut long because the post is held standing, outdoors, from before sunrise until the district is up.
 
 **Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -194,76 +194,76 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's dream sorrow, crystallized into wearable form.
-*Stigmas are granted at random by Dawn That Forgot upon a successful work, not manufactured.*
+*A Token is found at the perimeter post after an episode has been watched end to end by one person. Six pieces, six unbroken watches; nothing has ever been recovered from inside the zone.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Dawn That Forgot, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+The Dawn That Forgot set is made from the post: the Edge from a boundary marker, the Veil from the watch-cloak issue, the Token from the brass of the post’s own clock. The clock is the instrument that matters here, and it measures the facility rather than the entity.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Record the operator’s running exposure total as held by the infirmary — as a judgment, fit or not fit, with no figure attached. The facility is not given the number and has not asked for it since the division was settled. |
+| **During use** | Log sunrise, first shutter, last shutter. Three times, to the minute, from the post. The whole dataset of this holding is those three columns across twenty-nine rows. |
+| **At limit** | The wielder begins waking late in their own quarters and saying nothing about it. Detected by the infirmary, twice, both times through the exposure total rather than through a complaint. |
+| **After use** | Return the piece and attend the infirmary the same day. Attendance is the requirement; disclosure is not, and the form carries no space for the worker to explain themselves. |
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Void signature confirmed at SECTOR-N-917.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The dream register is the dominant channel of contact.
+- Twenty-nine episodes logged since Y4238, each with its three times. The earlier years of readings are held in their original form as the unremarkable ambient entries they were taken to be.
+- Both valid approaches are performed from the perimeter and both reduce the gauge. Four entries into the zone are on record; none altered an episode and all four are logged as exposures.
+- Nothing has ever woken anybody early. Noise, light, physical contact by district staff, and three separate medical approaches are listed in the folder with their results, and all of the results are the same.
 
 **Personnel Note:**
 
-> *"The dream pressure is different from standard void. It does not press on the body — it presses on the dream itself. You feel it before you understand what is happening."* — Specialist, Field Team 7
+> *"I knew it was ten past six. I knew my wife had already given up trying. You lie there with the morning on the other side of your face and you are not frightened, you are just late."* — Resident, affected zone
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Dawn That Forgot (N-IIIγ-917 [VT]) is logged as a Time-Dream manifestation expressing Void. Held at SECTOR-N-917.
+**Entry 1 — Containment Description** A district in which dawn arrives and the people do not. Watched from a perimeter post, by eye, with a clock. No instruments, no entry during an episode, and a running exposure total held by the infirmary rather than by the facility.
 
-**Entry 2 — Field Log** First contact report: the dream register was immediately apparent. Personnel described it as a dream pressure unlike standard void.
+**Entry 2 — Field Log** The phenomenon was logged for years as an ambient reading before anyone noticed it had a shape. Those earlier logs are kept exactly as they were written, filed as the unremarkable entries they were taken to be, and they are the most-consulted pages in the folder.
 
-**Entry 3 — Counseling Log** The void pressure accumulates in the dream register — this is not standard void; this is void filtered through dream.
+**Entry 3 — Counseling Log** Residents describe lateness rather than fear. The counsellors note that this has made the district slower to report widenings than it might otherwise be, and that the remedy is the perimeter post rather than any appeal to the residents.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The dream register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** Exposure totals are cumulative across a service and are held by the infirmary alone. The facility receives a judgment — fit, not fit — and no figures. The arrangement is standing, has been tested twice, and was upheld both times.
 
-**Entry 5 — Director's Note** This entity's classification as Time-Dream is correct. The dream descriptor is not decorative — it is the operational axis. All containment protocols should account for the dream register as the primary channel.
+**Entry 5 — Director’s Note** The shape of this thing was found by a junior researcher working for herself, on one page, informally and correctly. Her note is reproduced in the folder as she wrote it. She was not asked to present it and the file records that she was not, because the next finding of this kind will also arrive from somebody who was not asked.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold the post — watch it through and write the three times down. | Go in — wake somebody, anybody, and prove it can be done. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| The last shutter opens at seventy-one minutes and the series gains a row. | The episode ends at the minute it was going to end at anyway, and your name goes on the infirmary’s total for nothing. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
 The void arrives in the dream register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes. The space does not become generic or abstract; it changes in the specific way associated with void filtered through dream.
 
-**At first contact:** The dream signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of dream.
+**At first contact:** The light. You are aware of it the way you are aware of a room you have not opened your eyes in yet, and then you stay there.
 
-**With continued exposure:** The void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The hour acquires a shape. People who have been through several describe knowing roughly how far through it they are, which is the only sense in which anybody experiences the episode as passing.
 
-**When the entity activates:** The void becomes a force rather than a feeling. The time was holding; now it releases.
+**When the line moves:** A street that used to get up stops getting up. That is the whole of the signal, and the post has caught all three widenings this way.
 
-**After departure:** The void does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** You get up. The day runs short by an hour and a bit and nothing else about it is different.
 
 ## 이야기 (Narratio) — The Tale
 
-Dawn That Forgot was not discovered. It was recognised. The void pressure had been present in SECTOR-N-917, contained for years — measured, logged, filed under 'ambient anomaly.' It took a junior researcher on Floor 4 to point out that the anomaly had a shape. The shape was Time-Dream. The anomaly was alive.
+Twenty-nine times now, each one watched from a post outside the line by somebody with a clock and no instrument. Sunrise, first shutter, last shutter. There is nothing else to record and the wing has resisted inventing something.
 
-Time itself is the medium. Dawn That Forgot does not exist in the way other entities exist — it exists as a moment that carries void sorrow in a dream register. You cannot point at it the way you can point at a Subject entity. You can only point at its effects.
+The exposures add up and never subtract. That fact decided the one genuinely contested thing in this folder — who keeps the running total — and it was settled in favour of the infirmary, which gives the facility a judgment and no numbers. The arrangement has been challenged twice and upheld twice.
 
-The effects are cumulative. Each exposure layers void pressure in the dream register until the personnel cannot distinguish their own dream state from the entity's influence. That is when Fracture risk peaks. That is when the protocols engage.
+Three streets have been taken into the zone since Y4238. Each time the post noticed shutters staying closed one street further out, and each time the district rescheduled its early shift rather than argue about it.
 
-The entity does not rage. It does not weep. It persists — dream and void, patient and permanent. Dawn That Forgot is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+Nobody has been injured by this holding and nobody has ever been woken early from it. What it costs is an hour of every morning in a district that has stopped expecting the hour back.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -286,17 +286,17 @@ The entity does not rage. It does not weep. It persists — dream and void, pati
 **Threat Assessment:** Major. A Time-Dream entity — the dream register is its defining characteristic. Risk: prolonged exposure to the dream pressure may produce effects not seen in standard void entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the dream register specifically — it is the primary channel of contact.
+- Hold the perimeter post from before sunrise until the last shutter opens, and log the three times.
+- There is nothing present to weep with or confront. The hour has no form, no figure and no voice; it has a schedule.
+- Watch the boundary streets for shutters that stay closed, and send exposure totals to the infirmary rather than to the duty office.
 
 **Cross-References:** Inner Sorrow (내한) · Void · Time-Dream · Manifestation Classification
 
 ### Registry Addendum
 
-**Operational interpretation:** The Time-Dream classification is valid and necessary. The dream descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** Time-Dream is correct and the operational content is three columns and a boundary. Nothing can be measured, nothing can be entered to any effect, and the only decisions available to the facility are where to stand and who to let stand there — which is why the exposure totals, and who holds them, are the substantive part of this file.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and dream pressure readings after every breach or unusual interaction.
+**Review requirement:** Re-read the boundary each cycle against the three widenings, and re-affirm the infirmary’s custody of the totals whenever the personnel office changes hands. It has changed hands twice and the custody has held twice.
 
 ## Warden Record
 
