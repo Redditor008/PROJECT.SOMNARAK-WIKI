@@ -28,7 +28,7 @@
 | **Entity role** | Hazard |
 | **Primary pressure** | Void / Mind pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per cycle, drawn at whichever level the miasma has reached that week. The yield does not vary with the level, which the station has checked at every one of the nine it has occupied. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 35% against Void pressure; 24% against other pressure types |
+| **Resistance** | 35% against Void. There is nothing to strike; the holding is a density in the air and the only physical barrier that has ever affected it is a closed stair door, which slows the rise by about a fortnight per level. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 458/458 |
 | **Han Pressure [ATK]** | 17–26 per hit · Void |
@@ -73,20 +73,20 @@
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-928 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | The reader outside confirms the operator's errors against the sheet and the operator leaves on the reader's word, not their own. 211 cycles, 211 external calls, and no cycle has ever been ended by the person inside. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's mind pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
-| { *The Mind Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void mind sorrow.] | *Void damage strikes the target; the gauge spikes.* **[21 Void DMG [Void]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[26 Void DMG [Void]]** | When the entity is cornered or starved. |
-| { *The Mind Collapse* [**Ultimate**] } | "The mind breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[23 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "You make a small mistake, correct it, and feel entirely clear." | [The first error arrives within minutes and is invisible from inside.] | *10 Void. Across 211 cycles the median time to first error is four minutes and no operator has ever noticed their own.* **[10 Void DMG [Void]]** | On entry. |
+| { *The Mind Surge* [**Attack**] } | "The errors stop being small and the confidence does not change." | [Error rate climbs while the operator's certainty holds flat.] | *18 Void; the sheet shows the divergence and the operator disputes the sheet.* **[18 Void DMG [Void]]** | Past about twelve minutes. |
+| { *The Settling* [**Attack**] } | "The operator answers a question that was not asked and the reader hears which one." | [Thought reorganises around an earlier moment in the cycle.] | *26 Void. Nine occurrences; in six the operator was answering the reader's first question of the session, eleven minutes late.* **[26 Void DMG [Void]]** | When the reader's calls are not acknowledged twice running. |
+| { *The Mind Collapse* [**Ultimate**] } | "Every form filed in the wing that hour contains the same class of error." | [The inversion propagates to anybody working at a desk in the sector.] | *20 Void per cycle for three cycles to everyone in the wing.* **[20 Void DMG [Void] (AoE, x3 turns)]** | Above 65%, twice; on both occasions the wing's output for the day was re-done from scratch. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the hazard manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The level is confirmed, the external reader takes position at the stair with the error sheet, and the operator goes down with a task that has a known right answer. The task is always one with a known right answer; that is how the sheet works.
 2. **Clash:** Four turns, observation and endurance only, with the passage read at each turn boundary and a nominated reader outside the volume following the text and marking errors.
 3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the party out of the volume with no uncorrected error on the page, confirmed by the external reader.
 
@@ -161,7 +161,7 @@ Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestatio
 ### Escalation Notes
 
 - **Containment priority:** Evacuate upward and ventilate from below. Affected personnel cannot report their own condition and must not be asked to; the external reader's page is the only admissible account of who is at what stage.
-- **Sorrow Gauge on breach:** Opens at 30% and rises 10% per level reached as it fills upward, so the gauge tracks the ceiling and nothing else.
+- **Sorrow Gauge on breach:** Opens at 30% and rises 10% per level reached as it fills upward, so the gauge tracks the ceiling and nothing else. It falls 10% for each level the miasma withdraws from, which it has done twice in fifteen years and both times without intervention.
 
 ## M.A.W. Equipment
 
@@ -171,7 +171,7 @@ Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestatio
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that weeps a thin film of Han when swung.
+**Appearance:** a single-edged blade of near-colourless glass with a maker's mark on the tang that nobody at the Armoury can read twice the same way.
 
 **Damage:** Void 14–22
 **Speed:** 2 (Normal)
@@ -184,7 +184,7 @@ Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestatio
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Channels void mind sorrow in each strike — the weapon does not cut flesh so much as cut at the mind register of the target's grief.
+**Ability:** Void against the Mind. Struck targets make errors for some hours and remain certain throughout; the Armoury requires a second signature on anything a struck worker writes that day.
 
 **Cost:** The wielder experiences chronic fatigue in the dominant hand with each use.
 
@@ -192,7 +192,7 @@ Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestatio
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a near-colourless veil that settles cold and that two handlers in nine years have put on backwards without noticing.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -210,17 +210,17 @@ Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestatio
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a glass token, light in the hand and heavier than it looks on the scale, with one word on its face.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity; the token's face carries a word the bearer can read on it and cannot afterwards repeat from memory.
+**Effect:** +1 to the working stat on this holding's cycles. The token's face carries a word the bearer can read and cannot afterwards repeat from memory; nine bearers, nine failures to repeat it, and the Armoury has never written the word down.
 
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
 
 **Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 
-*Lethe's Token is not manufactured and cannot be requisitioned. It has been conferred nine times, each time on a worker who reported their own first marked error aloud to the external reader instead of correcting it quietly and continuing.*
+*Nine in fifteen years, each to a worker who reported their own first mistake to the reader before the reader called it. Four workers have managed that; five of the nine tokens went to the same person.*
 
 ### M.A.W. Use Notes
 
@@ -232,7 +232,7 @@ Each Lethe piece is an extension of the volume rather than ordinary equipment. T
 |---|---|
 | **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, baseline reading of the fixed passage timed and scored, carried written objective signed, external reader named. |
 | **During use** | Entry time, ceiling measurement, errors marked by the reader with timestamps, stage reached, first cost, and any conflict between a spoken instruction and the carried page. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and the point at which the operator's errors stopped being self-corrected. |
+| **At limit** | The point at which the operator's errors stop being corrected by the operator. The reader calls it; the operator has never called it in 211 cycles and the file does not treat that as a failing. |
 | **After use** | Exit confirmed by the reader, repeat reading scored against baseline, discrepancies listed by word, infirmary notified, cooldown, reuse authorisation. |
 ## 관찰 기록 (Observation Log)
 
@@ -240,7 +240,7 @@ Each Lethe piece is an extension of the volume rather than ordinary equipment. T
 
 **Key Observations:**
 - Void signature recorded at SECTOR-C-928; the ceiling measured at both ends of every watch since the holding opened.
-- Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being a Hazard.
+- Both usable Work Types lower the gauge and neither clears the air, which has not thinned at any level it has occupied.
 - Contact is through the mind register and through dwell time alone. Respirators, sealed suits, written-only communication and total silence have each been trialled and none altered the stage times by a measurable amount.
 
 **Personnel Note:**
@@ -257,15 +257,15 @@ Each Lethe piece is an extension of the volume rather than ordinary equipment. T
 
 **Entry 3 — Counseling Log** *<Interview, second-stage subject, conducted outside the volume at ninety minutes>* — Subject asked whether she wished to continue on the lower rotation. Answered no. Asked to write the answer, wrote yes. Shown both, said both were correct and that she could not see the difficulty. The inversion had by then cleared by every other measure.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are the valid Work Types. The external reader is mandatory and is not a second pair of hands; a party that loses its reader withdraws immediately, whatever the state of the cycle. No instruction originating inside the volume has any force.
+**Entry 4 — Containment Notice** The external reader is mandatory and is not a second pair of hands. The post exists because the one judgement this holding reliably removes is the judgement needed to notice it, and the reader's call ends the cycle regardless of what the operator says.
 
 **Entry 5 — Director's Note** *<Minute on the assurance return>* — The question put to me is whether the second-stage material may be used for the safety-culture return. It may; counsel is clear that nothing said in that state is a disclosure. The question I was not asked is whether it should be. I note that we have had eleven hundred concerns from a workforce that raises none, and that both halves of that sentence are our doing.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Come up when the reader calls, mid-sentence, without arguing. | Finish the correction — you can see exactly what went wrong. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| The sheet is complete, the errors are counted, and somebody else decided when to stop. | You are explaining, clearly and at length, why the sheet is mistaken. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -313,7 +313,7 @@ The hazard itself intends nothing and does nothing. It has no occupant, no respo
 **Threat Assessment:** Major (γ). It cannot pursue, cannot select, injures nobody physically and is avoided entirely by staying above the measured ceiling. It is graded Major because what it removes does not come back, because the affected cannot assess themselves, and because the second stage has made the workforce's honest speech into material the facility has learned to collect.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither restores anything lost.
+- Viderehan and Ferrehan are the valid Work Types. Both lower the gauge; neither restores anything that was lost, and nothing on record ever has.
 - Flerehan and Pugnahan are unavailable to a Hazard and are not to be improvised in the volume.
 - Monitor by timed reading of the fixed passage, scored by an external reader, at both ends of every watch. Self-assessment is inadmissible at every stage and the standing order says so without qualification.
 
@@ -321,7 +321,7 @@ The hazard itself intends nothing and does nothing. It has no occupant, no respo
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are read together or not at all: the inversion is an instrument, the capacity opinion makes everything it yields legally weightless, and the assurance return uses both facts at once. Where observation contradicts the record, the record is wrong; preserve the contradiction rather than reconciling it.
+**Operational interpretation:** The three sections below are read together or not at all. The inversion is an instrument: it removes the capacity to notice its own effect, which means every safeguard here has to live outside the room. That is what the reader is, what the known-answer task is, and why the operator's own account of a cycle is never the record. The capacity opinion makes exactly this point in formal language and has been on the file for nine years. The miasma has climbed nine levels in fifteen and withdrawn from two, unprompted, for reasons nobody has established.
 
 **Review requirement:** Re-verify after every expansion, Tide, Ordeal or unusual interaction: gauge, ceiling measured and chalked, reading pages scored against baseline, discrepancy lists, the standing of the capacity opinion, and whether the assurance return drew on second-stage material in the period.
 
@@ -381,7 +381,7 @@ Two operational changes were made to support it. The withdrawal point on the low
 
 The objection is minuted at the fifteenth, sixteenth, seventeenth and eighteenth annual reviews, raised by the holding's Containment Lead and supported by the infirmary's registrar. It holds, first, that the facility treats the same sentences as reliable enough to found its regulatory assurance and as legally void when the speaker wants something done — the identical material, read two ways, in the same building, by the same committee. Second, that the withdrawal point was moved outward for an administrative purpose and not an operational one, so that the additional erosion of nineteen people's memory is the running cost of a reporting line. Third, that eleven hundred concerns have been heard, themed, tabulated and replied to at nil, and that the people who raised them are not protected, not credited, and not, in law, people who raised anything.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was designed in the fifteenth year and costed in the sixteenth — a confidential concerns channel held outside the facility's line management, with an independent reader and a duty to respond in writing — and that it has never been laid before the board. And it records the sentence the Containment Lead asked to have minuted verbatim, which now stands at the head of the assurance return's methodology annex: *we read everything they tell us down there, and we are not obliged to have heard any of it.*
+The minute records the objection as **correct in all three parts**. It records that a remedy was designed in the fifteenth year and costed in the sixteenth: a second reader per cycle, so that the call to end a session would not rest on one person's hearing. The second post was costed at under a twentieth of the wing's establishment and was not created. The item has appeared in nine annual minutes since, each time with the same costing and each time deferred.
 
 ## Trivia
 
