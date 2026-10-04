@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **253** |
-| Pending — no disposition-bearing line found by scan | 50 |
+| **Classified here, with a quoted line of evidence** | **254** |
+| Pending — no disposition-bearing line found by scan | 49 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 253 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 254 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 50 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 49 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -316,6 +316,7 @@ The ones that cost F01 containment, not just personnel.
 
 | Entity | Code | Evidence |
 |---|---|---|
+| Stormscale Sovereign | `SE-C-Vδ-949` | Breach `Effect`: *"The Fourfold Tide spreads beneath its flight path; every sector it overflies is cycled through all four sorrows."* Battle Phase 1: *"There is no containment that holds a Sovereign."* Consequences: *"Any sector the Sovereign overflies is subjected to the Fourfold Tide; there is no single defence, and casualties are assumed."* Sealed Record: *"there is no force in the city's containment capacity that can suppress a Mixed-element Sovereign in active flight."* It is not merely dangerous to F01 — it is the one outcome the archive holds that defeats containment as a category, and the only documented resolution is the entity choosing to end itself, which *"there is no guarantee a second manifestation would"* repeat. |
 | Black River | `SE-C-Vγ-225` | Expansion `Effect`: *"Foundations that met code when raised are found anchored below the line. Four basements were bought and sealed this year."* Interaction record: *"Its foundation sits below the grief-line and draws... The Maw strengthens measurably; the River's own readings do not move."* It is the source every entity in the catalogue draws from, it strengthens a catalogued Negative by measurement, and it lifts the ground F01's containment is anchored in at 418 millimetres a year. Negative. |
 | Sorrow Storm | `SE-C-Vγ-320` | A wall multiplies every weight already present: three lesser entities breached under the named season that had never breached before, every other holding presses harder on its own containment at once, and new entities crystallize in the months after. It damages F01 structures citywide, Fractures the wards, and improves The Grieving Colossus; it suppresses nothing. |
 | Welcome Haven | `SE-O-IVδ-897` | Breach `Secondary Effect`: *"A grudge that eats barriers specifically: anything erected to shelter personnel degrades faster than the structure around it"* — containment barriers included. It attacks *"representations of safety ... in preference to people, every time"*, and against The Guardian of the Gate produced *"severe structural damage at the gate"* with no injuries, a prohibited pairing. It targets the apparatus of containment rather than its staff, which is the mechanism by which other holdings get out. |
