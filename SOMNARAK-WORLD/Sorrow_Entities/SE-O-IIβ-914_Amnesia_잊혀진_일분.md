@@ -28,20 +28,20 @@
 | **Entity role** | Time |
 | **Primary pressure** | Void / Void pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per cycle, collected by instrument rather than by hand, since no worker is inside the radius when the minute runs. The collection rack is bolted at the 200-metre line and has been there eleven years. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Stand outside the radius and let the minute happen. Viderehan from the line reduces the gauge; Ferrehan means staying at the line for the whole watch rather than entering anything. Nobody has worked this holding from inside since Year 4,228. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Amnesia.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A cycle lowers the gauge and shortens nothing. The minute has run 61 times in eleven years and has been between 1159 and 1200 on every one of them, to the second, by three independent clocks that do not otherwise agree.
+- The gauge rises when somebody inside the radius is told who they are during the minute. It has been tried four times, always kindly, and the radius widened by between nine and fourteen metres on each occasion and did not come back.
+- The exposure risk is not injury. In eleven years this holding has caused no wound of any kind; what it has caused is 61 minutes during which 200 metres of facility contained people who could not have told you their own names.
+- Extraction here requires the Director's signature, which has been given twice. Both pieces were taken from the edge of the radius during the minute itself by a mechanism on a timer, with nobody within 200 metres, and the Armoury has described the procedure as the most expensive way the facility has ever acquired two objects.
 
 ## Combat Record
 ### Core Stat Line
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 30% against Void pressure; 21% against other pressure types |
+| **Resistance** | 30% against Void. The second figure is carried from the schedule and is untestable: there is nothing present to strike, and the only physical object at the epicentre is a chair that has been there since before the holding was recognised. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 496/496 |
 | **Han Pressure [ATK]** | 14–26 per hit · Void |
@@ -72,28 +72,28 @@
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-O-914 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | The minute ends by itself at 1200 and the roll call is completed at the line. The cycle closes when every name on the board has been matched to a person; it has never failed to close, and it has twice taken until 1240. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's void pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
-| { *The Void Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void void sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[26 Void DMG [Void]]** | When the entity is cornered or starved. |
-| { *The Void Collapse* [**Ultimate**] } | "The void breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "At 1158 you stop being able to say what you were about to do." | [The approach is a one-minute warning and is the only warning there is.] | *10 Void to anyone inside the radius; intention goes first, name and face follow at 1159.* **[10 Void DMG [Void]]** | At 1158 on a day the clocks do not mark in advance. |
+| { *The Void Surge* [**Attack**] } | "Somebody inside says your name to you, and you hear it as a word." | [Being told who you are during the minute does not restore the name and costs the holding's boundary instead.] | *18 Void to the person told, and the radius widens 9–14 metres permanently.* **[18 Void DMG [Void]]** | Four occasions, all of them someone trying to help a colleague. |
+| { *The Settling* [**Attack**] } | "The chair at the epicentre is occupied, and at 1200 nobody comes out of it." | [The one position inside the radius from which the minute does not end on time.] | *26 Void. Recorded once, in Year 4,228; the occupant was recovered at 1207 and could not account for the seven minutes, which no clock recorded as having passed.* **[26 Void DMG [Void]]** | When anybody sits in the chair. Nobody is permitted to. |
+| { *The Void Collapse* [**Ultimate**] } | "The minute does not stop at 1200 and the corridor outside the line begins to forget as well." | [The radius expands through the cordon while the minute is still running.] | *20 Void per cycle for three cycles to everyone in the expanded area.* **[20 Void DMG [Void] (AoE, x3 turns)]** | Above 65%, which has happened once, during the Year 4,231 Sorrow Tide, and lasted four minutes by the clocks and one by every account from inside. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the time manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Amnesia's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+1. **Tension:** The line is confirmed at 200 metres from the epicentre and walked by two wardens in opposite directions. Everyone who will be near it writes their own name on their forearm in grease pencil before the watch begins. It is a crude measure and it is the one that works.
+2. **Clash:** There is none and the wing has asked for the row to be struck. The team stands at the line and the minute runs. Nobody approaches, nothing is deployed, and the only decision available is whether to go in after somebody, which the standing order forbids.
+3. **Resolution:** 1200, then the roll call. Names off the board, people matched to them, forearms read where a person cannot answer. Median time to complete is nine minutes; the two long ones were both a worker who had sweated the pencil off.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented void effect — void pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- There is nothing to resist and the resistance roll is not used here. What is recorded instead is whether the worker stayed at the line, which is binary and has been failed four times.
+- Wardens posted here past a year check their forearms on days with no watch. The wing records the habit and does not treat it as an injury.
+- Both wielders lost about a sentence's worth of forward intention per month of carry, permanently, and both were stood down when they began answering the ten-minute question with something they had already done.
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Void pressure in a void register.
 - The time form is unmistakable — this is a void entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- There is nothing to see. The painted line, the marked chair and the name board are the holding's only visible parts, and all three were put there by the facility.
 
 **Identification Profile**
 - **Entity Type:** Time
@@ -117,18 +117,17 @@
 | Field | Detail |
 |---|---|
 | **Form** | A single minute — always between 1159 and 1200 on an unmarked day — during which everyone in a 200-metre radius of its epicentre forgets their own name, their face, and their reason for being where they are. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Time-Void manifestation is the primary identifying feature. Void pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | Fixed at the epicentre and expanding only outward: 140 metres in Year 4,226, 200 now, measured at four compass bearings after every occurrence. It has never contracted. |
+| **Material / signature** | Nothing visible, nothing audible, no temperature change and no instrument reading of any kind. Record the three clock readings at the start and the end of the minute, and the radius, measured from the epicentre at four compass bearings after every occurrence. |
+| **Distinctive markers** | Three clocks that agree. Nothing else in the facility produces that result and the wing has twice replaced one of the three to confirm it is not the clocks. |
+| **Identification** | There is nothing to identify and nothing to confuse it with; the holding is a sector, a chair, a painted line and a board of names. The only confirmation anybody has ever needed is that the three clocks agreed, which they do on nothing else in the facility. |
 
 ## Origin
 
-Amnesia was not discovered. It was recognised. The void pressure had been present in SECTOR-O-914, contained for years — measured, logged, filed under 'ambient anomaly.' It took a junior researcher on Floor 4 to point out that the anomaly had a shape. The shape was Time-Void. The anomaly was alive.
-
-The entity is a time — a single minute — always between 1159 and 1200 on an unmarked day — during which — but its void nature sets it apart from every other void entity in the catalogue. Standard void pressure presses, dissolves, burns, or crushes. This one inhabits time. The protocols had to be rewritten.
-
-The R.D. contained it in fourteen hours. Containment holds — barely. The void register is not in the original manual because no one had encountered a Time-Void entity before. Now the manual has a new chapter. The chapter is Amnesia's file.
+- **Formation:** No formation event is recorded and none is believed to exist. The minute was in SECTOR-O-914 before anybody looked at the sector, filed for years under ambient anomaly, and the Year 4,226 report that recognised it is a report about a filing error rather than about a discovery.
+- **The Sorrow:** A minute that nobody owns. The wing's own formulation, from the Floor 4 researcher who first saw the shape, is that every other holding in the archive is somebody's grief and this one is the absence of anyone to have it.
+- **The Event:** The clocks. Three independent movements in the sector agree on this minute and on nothing else, which is how the anomaly was shown to have a shape at all; the agreement is the whole of the evidence and is unexplained after eleven years.
+- **The People:** None identified, and the archive has stopped looking. Four separate searches of the sector's occupancy records before Year 4,226 produced nothing — no incident, no death, no absence. The file's position is that this holding may be the only one in the registry with no human origin, and that the possibility is recorded rather than concluded.
 
 ## Behavior
 
@@ -141,7 +140,7 @@ The R.D. contained it in fourteen hours. Containment holds — barely. The void 
 
 ### Operational Work Notes
 
-The Void pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Time-Void manifestation means the void register is the primary channel of contact.
+Both usable Work Types are performed from the line and amount to standing there with the board and the clocks. The table cannot hold the variable that matters, which is whether anybody crosses: 57 of the 61 minutes passed with nobody inside and cost the facility nothing at all, and the four that did not are the whole of this holding's history.
 
 ## Breach Behavior
 
@@ -152,13 +151,13 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 | **Breach Type** | Expansion |
 | **Movement** | The entity's void influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Void pressure radiates — the void register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
+| **First Target** | Everybody inside the radius at once. It has never selected, graded, or spared anyone, and the file notes this as the holding's one mercy: there is no such thing as being singled out by it. |
+| **Escalation** | +5 Void drain per cycle, and the radius rather than the duration is what grows. It began at 140 metres in Year 4,226 and stands at 200; of the 60 metres added, 47 were added on the four occasions somebody was told their own name. |
 
 ### Escalation Notes
 
 - **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** 40% rising 10% a cycle, read at the line. The gauge is one of the few instruments that works here, and the wing has never established why it works when nothing else does.
 
 ## M.A.W. Equipment
 
@@ -173,14 +172,14 @@ Appearance : An eight-foot sea-pike fashioned from salted driftwood, mounting a 
 The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen upon withdrawal. A twenty-foot braided line attached to the shaft prevents struck quarry from escaping.
 
 **Damage:** Void 11–22 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels void void sorrow in each strike — the weapon does not cut flesh so much as cut at the void register of the target's grief.
+**Ability:** The struck target cannot say, for about a minute afterward, what they were doing immediately before the strike. They retain their name and their face; it is only the intention that goes, which is the holding's first symptom and the only part of it the Armoury was able to take.
 **Cost:** The wielder experiences mild memory fragmentation with each use.
 
 ### M.A.W. Suit — Amnesia's Veil
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a veil so near-colourless that the Armoury stores it on a black cloth to keep from losing it, with a grease-pencil name written on the inner hem by its first wielder and never removed.
 
 **Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -190,71 +189,71 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a glass disc with a minute hand's worth of arc etched into one face, cold, and marked 1159 on the rim in a hand nobody at the Armoury recognises.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect:** +1 to the working stat on this holding's cycles, which means on a watch at the line, which is the only kind of cycle this holding has
 **Ability:** A fragment of the entity's void sorrow, crystallized into wearable form.
-*Stigmas are granted at random by Amnesia upon a successful work, not manufactured.*
+*No Stigma has ever come from this holding. The wing's note is that there is nobody in it to give one, and the Armoury has accepted that as the entry.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Amnesia, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Two pieces, both taken by a timed mechanism during the minute itself with the facility evacuated to 200 metres, both under the Director's signature. The cost is consistent and is the reason there will not be a third: wielders lose the ability to say what they intended to do next, in small amounts, permanently. The first wielder's veil carries her own name on the hem because she wrote it there in the second month and the Armoury has never been willing to take it off.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at the line, and the forearm. Every wielder writes their name before issue, the same as everybody else on the watch, and the Armoury's form has a box for confirming that it is legible. |
+| **During use** | Whether the wielder was able to state their next action when asked. The question is put every ten minutes by the second warden and the answers are logged verbatim, including the pauses. |
+| **At limit** | The wielder answers the question with something they have already done. Both wielders reached this point and both were stood down the same day. |
+| **After use** | Return the piece and re-ask the question an hour later. The loss is small and does not recover; the Armoury's running figure after eleven years is that each wielder lost about a sentence's worth of forward intention per month of carry. |
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
-- Void signature confirmed at SECTOR-O-914.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The void register is the dominant channel of contact.
+- 61 minutes in eleven years, every one of them between 1159 and 1200 by three independent clocks.
+- Radius 140 metres at recognition, 200 now; 47 of the 60 metres added came from the four occasions a person inside was told their own name.
+- No injuries, no fatalities, no lasting memory loss in anyone who was inside the radius during a minute.
 
 **Personnel Note:**
 
-> *"The void pressure is different from standard void. It does not press on the body — it presses on the void itself. You feel it before you understand what is happening."* — Specialist, Field Team 5
+> *"I was inside for the one in Year 4,230. I was holding a door open. I went on holding it. Afterwards somebody read my arm to me and I said, that sounds right. It was the least frightening thing that has ever happened to me and I have not been able to explain to anybody why I asked to be taken off the rota."* — Warden, SECTOR-O-914
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Amnesia (O-IIβ-914 [VT]) is logged as a Time-Void manifestation expressing Void. Held at SECTOR-O-914.
+**Entry 1 — Containment Description** A painted line at 200 metres, a chair at the epicentre that nobody is permitted to sit in, three clocks, and a board of names. The holding itself occupies one minute and has no location inside the sector that can be pointed at.
 
-**Entry 2 — Field Log** First contact report: the void register was immediately apparent. Personnel described it as a void pressure unlike standard void.
+**Entry 2 — Field Log** The first recognised minute, Year 4,226. Nine people inside the radius, all of whom continued doing what they had been doing — walking, writing, holding a door — and none of whom could say afterward why. Not one of them reported distress. The report's closing line is that nobody screamed, and that this was the thing the first team found hardest to write down.
 
-**Entry 3 — Counseling Log** The void pressure accumulates in the void register — this is not standard void; this is void filtered through void.
+**Entry 3 — Counseling Log** Nobody who has been inside a minute reports distress about the minute. What they report, in nine cases out of eleven, is distress about not having been distressed, and counselling's standing position is that this is a reasonable thing to be troubled by and not a symptom.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The void register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** The 200-metre line becomes permanent, the chair is marked out of use, and the forearm practice is written into the procedure after a junior warden does it unprompted and is found, afterward, to be the only person on the watch who knew who she was.
 
-**Entry 5 — Director's Note** This entity's classification as Time-Void is correct. The void descriptor is not decorative — it is the operational axis. All containment protocols should account for the void register as the primary channel.
+**Entry 5 — Director's Note** On the four occasions somebody was told their own name during the minute, the radius grew and did not shrink. The Director's note is three sentences and ends: *The instinct to help is correct and the action is not. Stand at the line. The minute is sixty seconds long and nobody has ever been harmed by it.*
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Stay at the line and let the minute finish. | Go in after the one you can see standing still. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| 1200 arrives, the roll call clears, and the radius is where it was. | Everyone inside is reached and nobody is helped, and the line moves out another twelve metres for good. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-The first sensation is wrongness — not fear, not pain, but the awareness that something in the room is not the room anymore. A single minute — always between 1159 and 1200 on an unmarked day — during which everyone in a 200-metre radius of its epicentre forgets their own name, their face, and their reason for being where they are. The void pressure is present, but it does not behave like standard void. It moves through the void register as if that register were its native element.
+There is no first sensation. That is the finding, stated here because every new warden expects one: from inside, the minute has no onset, no texture and no end, and from the line it is sixty seconds of people continuing to do what they were doing. The only thing anybody has ever noticed is afterward, when a person looks down at their own arm to find out who they are.
 
-**At first contact:** The void signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of void.
+**At first contact:** A corridor, a painted line, an empty chair two hundred metres away, and three clocks ticking in agreement. There is nothing else to see and there will not be.
 
-**With continued exposure:** The void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** You start checking your forearm on days there is no watch. Every warden posted here longer than a year has described doing it, and the wing has stopped treating it as a symptom; the standing note says it is a habit and that habits are not injuries.
 
-**When the entity activates:** The void becomes a force rather than a feeling. The time was holding; now it releases.
+**When the entity activates:** Nothing happens that can be seen from the line. People inside the radius keep doing what they were doing, at the same pace, with the same competence, and when it is over they look at their arms.
 
-**After departure:** The void does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** You check your arm on the way out. Everyone does, including people who were never inside the line, and the grease pencil is kept by the door because of it.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -284,20 +283,20 @@ The entity does not rage. It does not weep. It persists — void and void, patie
 
 **Comprehension Level:** 2 — Basic
 
-**Threat Assessment:** Moderate. A Time-Void entity — the void register is its defining characteristic. Risk: prolonged exposure to the void pressure may produce effects not seen in standard void entities.
+**Threat Assessment:** Moderate, and the grade is for the radius rather than for the harm. Eleven years, 61 minutes, no injuries, no fatalities, no lasting memory loss in anybody who was inside — and a boundary that has grown from 140 metres to 200, almost all of it paid for by people trying to help each other.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the void register specifically — it is the primary channel of contact.
+- Stand at the line. Do not cross it for any reason, including the obvious one.
+- Names on forearms in grease pencil before every watch, legibility confirmed by the second warden.
+- Radius measured at four bearings after every occurrence and compared with the previous reading; any increase is permanent and is reported the same day.
 
 **Cross-References:** Outside Sorrow (외한) · Void · Time-Void · Manifestation Classification
 
 ### Registry Addendum
 
-**Operational interpretation:** The Time-Void classification is valid and necessary. The void descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** This holding has never hurt anybody and has grown by sixty metres, and both of those facts come from the same place. It expands when somebody inside is told who they are, which means it expands when people behave decently toward each other under pressure. The standing order asks personnel to stand still and watch colleagues forget their own names for sixty seconds, and the wing's minute acknowledges in writing that this is a hard thing to ask and asks it anyway.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and void pressure readings after every breach or unusual interaction.
+**Review requirement:** After every minute: the three clock readings, the radius at four bearings, the completed roll call with the time it closed, and the name of anyone who crossed the line and why. The last field has four entries in eleven years and each of them is written out in full, with the person's own account of their reasoning, because the wing considers the reasoning to be the useful part.
 
 ## Watch Record
 
