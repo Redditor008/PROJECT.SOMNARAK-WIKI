@@ -34,14 +34,14 @@
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Count, and do not approach. The gauge falls on occurrences counted independently by both posts and reconciled afterwards; it has never fallen on an occurrence where only one count was taken, including the eleven where the two figures turned out to agree. |
 
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Allhallow.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
+- Both valid approaches are counting disciplines performed from the perimeter line, and the prohibition on approach is absolute.
 - The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- M.A.W. extraction is carried out between occurrences, never during one, and never within the walked line. The line is surveyed and marked; the equipment record cites the marking by post number on every entry.
 
 ## Combat Record
 ### Core Stat Line
@@ -72,7 +72,7 @@
 | **Difficulty** | 916  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-O-916 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | The hour ends. It ends at sixty minutes from the first walker, every time, across thirty-four occurrences; the holding is closed out when both counts are in and the difference between them is recorded. Nothing has ever shortened an hour and nothing has ever extended one. |
 
 ### Combat Actions
 
@@ -87,13 +87,13 @@
 
 1. **Tension:** Personnel identify the time manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Allhallow's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+3. **Resolution:** The last walker is gone at the minute the first one appeared plus sixty. Both posts hand in their tallies without conferring, the difference is written down as a difference and not resolved, and the border reopens.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented lament effect — phantasmal pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- Composure loss belongs to recognition. Of the nineteen cases on file, fourteen are Wardens who believed they identified a walker, and all fourteen were counting the near column, where the faces are legible.
+- Prolonged postings produce a drift in the counts rather than any effect on the Warden. Long-serving counters return lower figures than new ones for the same occurrence, consistently, which is the reason the two posts are rotated on different cycles.
+- The set is used for counting and marking and has never been used against a walker. No interaction of any kind has been attempted in thirty-four occurrences, and the prohibition is one of the oldest instructions in the wing.
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Lament pressure in a phantasmal register.
 - The time form is unmistakable — this is a phantasmal entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Identification is by the gait: a column at walking pace along the border, not fast, not slow, never stopping, never turning its head.
 
 **Identification Profile**
 - **Entity Type:** Time
@@ -117,18 +117,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Time-Phantasmal manifestation is the primary identifying feature. Lament pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | The walkers hold the perimeter course exactly and hold it through anything placed in it. Obstacles have been left in the path four times, by accident and once by design; the column passed through all four without deviation and the obstacles were undisturbed. |
+| **Material / signature** | They look like the dead and they are silent. No sound of footfall, no voice, no disturbance of dust or standing water along a route that crosses both. Photography records them; nothing else does. |
+| **Distinctive markers** | The exactness of the hour. Sixty minutes from the first walker to the last, thirty-four times, with no occurrence shorter and none longer — the most regular figure anywhere in the wing and the one the whole posting is built around. |
+| **Identification** | Take two counts from two posts and compare them afterwards. Allhallow is the only holding on the register where independent counts of the same event differ by as much as they do: the record spread is sixty-one against three hundred and ninety-eight, on the same hour, from opposite ends of the line. |
 
 ## Origin
 
-Nobody knows exactly when Allhallow started. The first recorded incident is dated, but the entity itself is older — lament grief does not announce its birth; it seeps, thickens, and one day the personnel realize the room has changed and cannot remember when it was different.
+The earliest documented occurrence has a date and the thing is older than the date. The border had been avoided at certain hours for a long time before anybody wrote down why — grief thickening at the edge of the Desolate without announcing itself — and the file states this at the front rather than leaving it to be worked out from the gaps.
 
-The phantasmal sorrow that birthed Allhallow is specific. It is not the general lament grief that saturates Somnarak — that ambient, city-wide ache that every citizen carries. This is a particular grief, a particular wound, crystallized into a time form because the phantasmal register was the only shape it could take. Time was the vessel; phantasmal was the content; lament was the pressure.
+What walks is silent and exact. Sixty minutes from the first figure to the last, thirty-four times without variation, along a surveyed line that the column holds through whatever is standing in it. Four obstacles have been left in the path. The column passed through all four and none of the four was moved.
 
-The entity does not rage. It does not weep. It simply persists — phantasmal and lament, patient and permanent.
+Nobody has ever spoken to one of them. Nobody has ever tried. The prohibition on approach is among the oldest instructions the wing holds and it has outlasted every officer who has asked for an exception.
 
 ## Behavior
 
@@ -141,7 +141,7 @@ The entity does not rage. It does not weep. It simply persists — phantasmal an
 
 ### Operational Work Notes
 
-The Lament pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Time-Phantasmal manifestation means the phantasmal register is the primary channel of contact.
+The pressure is not worked; the hour is counted. Observation is the tally, endurance is standing the full sixty minutes at a line you are forbidden to cross while people who look like the dead walk past it. The gauge answers to the counts being taken and reconciled, and to nothing that happens to the walkers, because nothing happens to the walkers.
 
 ## Breach Behavior
 
@@ -150,15 +150,15 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
-| **Movement** | The entity's phantasmal influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Lament pressure radiates — the phantasmal register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | The walked line lengthens along the border rather than widening inward. Two extensions in seventeen years, both out into the Desolate, both found when the far post’s count began rising while the near post’s held steady. |
+| **Effect** | The extension takes in border ground, not buildings and not people; there has never been anybody living on the sections added. What it costs is a longer line to mark, a third post considered and refused, and a count that takes two people most of the hour. |
+| **First Target** | Nobody, and the record is explicit about it. In thirty-four occurrences no walker has ever changed course toward a person, and the four obstacle incidents establish that the column does not acknowledge what stands in its way rather than avoiding it. The danger here has always been the approach, and the approach is ours to make or not. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Lament drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per extension of the walked line rather than per turn. Two extensions, reading 60%, unchanged for eleven years.
 
 ## M.A.W. Equipment
 
@@ -172,13 +172,13 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Damage:** Lament 14–23 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels lament phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.
-**Cost:** The wielder experiences a persistent low-grade headache with each use.
+**Cost:** The wielder counts things afterwards — chairs, windows, people in a corridor — and arrives at a figure before deciding to. It fades within a week and is noted on the sheet because the counting is the job and the habit is therefore hard to see.
 
 ### M.A.W. Suit — Allhallow's Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a flowing veil of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a counting-cloak of Lament Han-silk, cool and faintly luminous, with the tally pockets sewn on the outside so that the Warden never has to look away from the line to use them.
 
 **Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -193,76 +193,76 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.
-*Stigmas are granted at random by Allhallow upon a successful work, not manufactured.*
+*A Token is found at a marker post after an hour in which the two counts differed by fewer than ten. Three pieces, three close reconciliations; nothing has ever been recovered from an hour the posts disagreed about.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Allhallow, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+The Allhallow set is made from the line: the Edge from a marker post, the Veil from the counting-cloak issue, the Token from a tally plate. Every piece comes from the apparatus of counting, which is the only apparatus this holding has ever had.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Record which post the operator is standing at and which post the other counter is standing at. The two are never briefed together and never confer before the hour; the sheet is laid out to make a breach of that visible. |
+| **During use** | Tally only. No photograph is taken by the counter, no description is written during the hour, and nothing is said aloud. The near post counts in tens and the far post counts in tens, and both write their total at the end. |
+| **At limit** | The wielder begins looking at faces instead of counting them. Six cases. All six were in the near column and all six involved somebody the Warden thought they knew. |
+| **After use** | Reconcile, then record the difference as a difference. The two totals are never averaged, never corrected against each other and never discarded; the spread between them is the holding’s principal finding. |
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Lament signature confirmed at SECTOR-O-916.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The phantasmal register is the dominant channel of contact.
+- Thirty-four occurrences since the first dated one, each counted twice from opposite ends of the line. Mean of the paired totals 173; widest single-hour spread 61 against 398.
+- Both valid approaches reduce the gauge and both are performed from behind the marked line. Nothing performed on the line has ever reduced it, and nothing has ever been performed beyond it.
+- No interaction has ever been achieved and none has been attempted. The walkers do not speak, do not stop, and do not acknowledge obstacles, personnel, light, or sound.
 
 **Personnel Note:**
 
-> *"The phantasmal pressure is different from standard lament. It does not press on the body — it presses on the phantasmal itself. You feel it before you understand what is happening."* — Specialist, Field Team 9
+> *"You count in tens because if you count in ones you start looking at them. I have stood that line eleven times and I can tell you the totals and I could not tell you one face."* — Warden, Desolate border
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Allhallow (O-IIIγ-916 [LT]) is logged as a Time-Phantasmal manifestation expressing Lament. Held at SECTOR-O-916.
+**Entry 1 — Containment Description** An hour that descends without warning on the Desolate border, during which the dead — or figures resembling them — walk the perimeter and then are gone. Contained by a marked line, two posts, two independent tallies, and an absolute prohibition on approach.
 
-**Entry 2 — Field Log** First contact report: the phantasmal register was immediately apparent. Personnel described it as a phantasmal pressure unlike standard lament.
+**Entry 2 — Field Log** The precursor search ran for six years and used every method available to the wing. It found nothing. It was closed by a dated decision with a signature on it, rather than being allowed to lapse quietly, and both the methods and the closure are in the folder.
 
-**Entry 3 — Counseling Log** The lament pressure accumulates in the phantasmal register — this is not standard lament; this is lament filtered through phantasmal.
+**Entry 3 — Counseling Log** Wardens who believe they have recognised a walker are stood off the near post and not questioned about it. The wing has declined, in writing, to ask them who they saw — on the ground that the answer would be recorded, and a record of that kind would be read later as evidence.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The phantasmal register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** The prohibition on approach is absolute and is one of the oldest instructions held by the wing. It has never been relaxed for a count, for a photograph, for a visiting officer, or for a relative, and the four refusals of the last request are each recorded with their date.
 
-**Entry 5 — Director's Note** This entity's classification as Time-Phantasmal is correct. The phantasmal descriptor is not decorative — it is the operational axis. All containment protocols should account for the phantasmal register as the primary channel.
+**Entry 5 — Director’s Note** The earliest documented occurrence is dated and the thing itself is older. Grief thickened at that border without announcing itself and nobody noticed until the walking had become something the border did. I would rather that sentence stood at the front of this file than at the back of it.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Count in tens — keep the tally and let the hour pass. | Look at the faces — find out whether you know any of them. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| Two totals, one difference, and a line that nobody crossed. | You are no longer counting, the far post is still counting, and tomorrow the reconciliation will show a hole in the hour exactly the size of your attention. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
 The phantasmal register changes the lament from a classification into an experience. You do not merely register lament pressure on the gauge; you feel it in your phantasmal — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish.
 
-**At first contact:** The phantasmal signature is unmistakable — this is not a general lament entity but one whose sorrow has taken the specific shape of phantasmal.
+**At first contact:** They are simply there, already walking, already at pace, as though the hour had started some distance away.
 
-**With continued exposure:** The lament pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** You stop seeing a crowd and start seeing a column. That is the point at which the tally becomes possible and it takes most counters two or three occurrences to reach.
 
-**When the entity activates:** The lament becomes a force rather than a feeling. The time was holding; now it releases.
+**When the line lengthens:** The far post’s total climbs while the near post’s does not. Both extensions were found this way, in the reconciliation, days after the hour itself.
 
-**After departure:** The lament does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** The border is a border again. The marks in the dust are the ones that were there before, which is the detail most counters mention first.
 
 ## 이야기 (Narratio) — The Tale
 
-Nobody knows exactly when Allhallow started. The first recorded incident is dated, but the entity itself is older — lament grief does not announce its birth; it seeps, thickens, and one day the personnel realize the room has changed and cannot remember when it was different.
+The counting is the work and the counting does not agree with itself. Two Wardens at opposite ends of the same line, counting the same hour, have returned sixty-one and three hundred and ninety-eight. Neither was wrong in any sense anybody has been able to establish, and the pair of figures is filed as a pair.
 
-The phantasmal sorrow that birthed Allhallow is specific. It is not the general lament grief that saturates Somnarak — that ambient, city-wide ache that every citizen carries. This is a particular grief, a particular wound, crystallized into a time form because the phantasmal register was the only shape it could take. Time was the vessel; phantasmal was the content; lament was the pressure.
+The totals are never averaged. That decision is older than most of the series and it is the reason the series is worth anything: an averaged figure would have looked like knowledge, and what this holding actually produces is thirty-four pairs of honest numbers that disagree.
 
-The entity does not rage. It does not weep. It simply persists — phantasmal and lament, patient and permanent.
+A Warden who thinks they have recognised somebody is taken off the near post and is not asked who. The wing has written down why: the answer would be recorded, and a record of that kind gets read, years later, as though it had been evidence.
 
-The entity does not rage. It does not weep. It persists — phantasmal and lament, patient and permanent. Allhallow is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+Thirty-four hours, counted twice each, no contact, no injury, no interaction, and a precursor search that ran six years and was closed with a signature. The border is quiet for the rest of the time.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -285,17 +285,17 @@ The entity does not rage. It does not weep. It persists — phantasmal and lamen
 **Threat Assessment:** Major. A Time-Phantasmal entity — the phantasmal register is its defining characteristic. Risk: prolonged exposure to the phantasmal pressure may produce effects not seen in standard lament entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the phantasmal register specifically — it is the primary channel of contact.
+- Stand both posts, count independently, reconcile afterwards and record the difference.
+- There is nothing to weep with and nothing to confront. The walkers do not stop, and the one thing the wing has never permitted is finding out what happens if somebody stands in front of one.
+- Re-survey the walked line each cycle and treat a rising far-post count against a steady near-post count as an extension until proven otherwise.
 
 **Cross-References:** Outside Sorrow (외한) · Lament · Time-Phantasmal · Manifestation Classification
 
 ### Registry Addendum
 
-**Operational interpretation:** The Time-Phantasmal classification is valid and necessary. The phantasmal descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** Time-Phantasmal is correct and the operational content is arithmetic: an hour that is always an hour, a column that cannot be interacted with, and two counts of it that do not agree. The substantive decisions in this file are about what the facility declines to do — approach, ask, average the totals, or record who anybody thought they saw.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and phantasmal pressure readings after every breach or unusual interaction.
+**Review requirement:** Re-read the paired tallies end to end each cycle and re-affirm the closure of the precursor search rather than reopening it informally. It has been proposed twice and refused twice, both times in writing.
 
 ## Warden Record
 
