@@ -15,7 +15,7 @@
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Mixed — A crystallized sorrow that drifts like a translucent soul through the Alpha Tree vaults — half-light, half-shard, weeping softly as it goes. Salt-damp, it smells of cold rain; a grief that took a body and forgot how to stop moving. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Drifts continuously through the Alpha Tree corridors and has never repeated a route; it is logged as a junction sequence rather than as a position. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -32,17 +32,17 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan from alongside, Ferrehan for the full accompaniment; no door closed ahead of it and no corridor cleared to steer it. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Driftglass.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A cycle lowers the drift pressure for a shift. The wandering is unchanged, and no session has ever ended with it at rest.
+- The gauge rises whenever the route is shaped: a closed door, a cleared corridor, a destination said aloud. It rises identically whether or not the entity takes the suggested turning.
+- Yield is middling for the band and the work is physically easy. The exposure is in the hours: a full accompaniment is a shift spent walking corridors beside something that is looking for an arrival.
+- Extraction is separately authorised and never attached to a good cycle. The pieces are cut from the drift itself, and the Lantern's recorded cost is that its bearer stops recognising the way home.
 
 ## Combat Record
 ### Core Stat Line
@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Clarity** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- A worker who takes the entity's condition on reports it as the loss of any sense of belonging anywhere — not distress, an absence — and the gauge climbs while they are still describing it as nothing much.
+- Long accompaniment produces route-fixation: the worker begins planning the next turning on the entity's behalf, which is the first step toward steering it and is treated as the end of the session.
+- Every piece in the set carries the drift back into the bearer. The armoury's standing instruction is that nobody wears Driftglass equipment on consecutive rotations and that the Lantern is logged against the bearer by name.
+- Where the session is mishandled the entity expands rather than escalates: the drift widens across more of the vault network, taking in corridors that were not previously part of its range, and the range has never afterwards contracted.
 
 ## Appearance
 **Physical Form:** A crystallized sorrow that drifts like a translucent soul through the Alpha Tree vaults.
@@ -116,9 +116,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A crystallized sorrow that drifts like a translucent soul through the Alpha Tree vaults. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | Never fixed. The path is recorded as a list of junctions and checked against the index; none of four hundred transits has duplicated an earlier one. |
+| **Material / signature** | Lament. Half light and half shard, translucent, weeping as it travels, smelling of cold rain in a dry vault and leaving a faint blue trail that fades within the hour. |
+| **Distinctive markers** | It weeps and there is nothing there to weep. No other crystalline holding in these vaults moves of its own accord. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; more than one record in this archive wanders, and this is the one that must not be given a destination. |
 
 **Appearance protocol:** Record it as light and shard together — translucent, half-lit, weeping as it travels, with no body behind the weeping. Record the drift height above the floor and the drift speed, which is the figure that answers to the anchor. Do not describe it as looking for anything; four reports have, and the phrasing has twice led a team to offer it a direction.
@@ -128,7 +128,7 @@
 - **The Sorrow:** The grief of wandering after every destination has become unfamiliar.
 - **The Event:** A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained.
 - **The People:** One traveller from beyond the wall who entered the city carrying nothing else. The Keepers hold no name, no origin settlement and no account of the journey; what survives is the direction of travel, recorded by a gate clerk, and the archive has kept that one word because it is the only fact anybody is sure of.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **Expanded origin context:** The gate register for that season survives, and the entry is four words long: an arrival, a direction of travel, no name, no settlement. The Desolate survey sheets for the region beyond that direction are held with the file. The archivist's note observes that the sheets are included because they correspond to what the entity appears to retain, that the correspondence is inferred and marked as inferred, and that no attempt has been authorised to find out whose journey it was.
 
 ## Behavior
 
@@ -138,13 +138,13 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals routes beyond the city. | Stable |
-| **Ferrehan** | Tests whether the worker can remain with a wanderer. | Decrease |
+| **Viderehan** | Shows roads beyond the city wall, in detail, none of which matches the Desolate as currently surveyed. The gauge does not move. | Stable |
+| **Ferrehan** | The worker walks the whole session beside it without choosing where it goes. The gauge falls, and this is the only work here that costs anybody anything. | Decrease |
 
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. Driftglass is recorded as an Object/Place with Object-Lament manifestation and Lament elemental expression. The current record places it at Zone A, Alpha Tree; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Driftglass is an Object/Place with Object-Lament manifestation and Lament expression, registered to the Alpha Tree vaults and never in one place within them. Viderehan is taken alongside at the drift height. Ferrehan is the accompaniment, which is the whole of the posting and the whole of the hazard. Neither has ever shortened a route or ended one.
 
 **Reading the response:** A falling reading means it was accompanied and not steered, or that an anchor from outside the city was recognised. Stability under Viderehan is correct. The reading rises whenever its route is shaped by anybody — a closed door, a cleared corridor, a destination spoken aloud — and rises identically whether or not it takes the suggested turning.
 ## Activation / Expansion Behavior
@@ -183,7 +183,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Escalation Notes
 
-The escalation pattern is specific to Driftglass: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Lament form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at Zone A, Alpha Tree, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+Escalation here is spatial and quiet. Record the junction sequence, the drift height and speed, the point at which the path entered a corridor outside the mapped range, and whether anybody closed a door, cleared a route, or named a destination in the preceding hour. The last item is the one that explains the others.
 
 **Response sequence:** stand the cordon back rather than across its line, confirm the event is an expansion rather than an activation, remove nonessential personnel, and apply this condition: Provide a memory anchor; do not force a destination. Do not use an unlisted Work Type as an improvised countermeasure.
 
@@ -192,11 +192,11 @@ The escalation pattern is specific to Driftglass: it is not a generic breach eve
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Major (γ) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Trigger** | Any attempt to give it a destination, including a helpful one; also any route shaped on its behalf by closing or clearing. |
 | **Manifestation** | Object-Lament |
-| **Primary effect** | Personnel feel loss of direction and belonging. |
-| **Duration / rate** | Until a resting place is acknowledged. |
-| **Risk** | Misuse increases emotional strain and may destabilize the operator. |
+| **Primary effect** | Personnel lose the sense of belonging anywhere in particular, which presents as mild disorientation and is reported late or not at all. |
+| **Duration / rate** | Until an anchor from outside the city is acknowledged, which slows it; nothing on record stops it. |
+| **Risk** | Major (γ). The operator begins to plan the route and then to believe they are helping. |
 | **Management** | Provide a memory anchor; do not force a destination. |
 
 **Activation reporting order:** junctions taken in sequence → distance covered → any attempt by personnel to open, close or indicate a route → the anchor carried and whether it was recognised → the reading. The third field is the one that moves the figure and is to be entered even where the attempt was reflexive.
@@ -239,7 +239,7 @@ The escalation pattern is specific to Driftglass: it is not a generic breach eve
 
 ### Escalation Notes
 
-The escalation pattern is specific to Driftglass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone A, Alpha Tree, emotional and behavioral indicators must be logged alongside physical telemetry.
+In relic mode the thing to watch is the operator's own navigation. Record the elapsed attachment time, the junctions taken while the relic was live, the first moment the operator proposed a turning, and their state at removal. The entity's own behaviour across a relic session has never deviated from the recorded profile.
 
 **Response sequence:** open the vault doors on its line of travel rather than closing them, confirm the event is an expansion rather than an activation, withdraw personnel who are unfamiliar with the no-steering rule, and then satisfy the management condition, which is an anchor carried alongside it by somebody walking at its pace. Report the anchor and who carried it.
 
@@ -247,11 +247,11 @@ The escalation pattern is specific to Driftglass: it is not a generic breach eve
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | This Major (γ) |
+| **Trigger** | Attachment of the relic to an operator, which begins immediately and does not require the entity's attention. |
 | **Manifestation** | Object-Lament |
-| **Primary effect** | Personnel feel loss of direction and belonging. |
-| **Duration / rate** | Until a resting place is acknowledged. |
-| **Risk** | Major (γ) Object-Lament producing Lament pressure; Misuse increases emotional strain and may destabilize the operator. |
+| **Primary effect** | The operator reads routes as the entity reads them: every road open, none of them arriving anywhere. |
+| **Duration / rate** | While attached, and for some hours after removal in the form of a reluctance to go home. |
+| **Risk** | Major (γ). Prolonged attachment removes the operator's sense of which direction is theirs, and the recorded cost of the Lantern is exactly that. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** anchor presented → whether it was recognised, and how that was judged → junctions taken afterwards → any change in drift speed → the reading. Recognition is judged by the drift slowing and by nothing else; observers' impressions of acknowledgement are not recorded on this sheet.
@@ -313,7 +313,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+The set is cut from the drift rather than from a body, which is why none of the three pieces will stay where it is put: each is found a short distance from where it was stowed, repeatedly, and the armoury has stopped recording this as a loss. Every piece carries the same cost in a different form — the bearer stops knowing which way is home. Issue is logged by name and never on consecutive rotations.
 
 ### Field Use Record
 
@@ -330,11 +330,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It follows no physical map.
-- It is stronger near Alpha Tree roots.
-- Personnel report loss without a specific object.
+- It uses no map the facility holds; the junction index is a record of where it went, not a prediction of where it will go.
+- Pressure rises nearest the Alpha Tree roots, and the deepest corridors are worked in shorter rotations for that reason.
+- Workers report loss with nothing attached to it: no person, no place, no event, only the condition.
 
-**Personnel Note:** *"I felt loss. The Soul was not seeking a person or a place. It was seeking the feeling of arriving."* — Researcher, R.D.
+**Personnel Note:** *"It was not looking for a person or a place. It was looking for the feeling of arriving. I walked eight hours beside it and at the end of the shift I did not want to go back to my own quarters, and I reported that, because they tell you to."* — Researcher, R.D., Alpha Tree
 
 
 
@@ -342,10 +342,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Driftglass as an Object/Place with Object-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Tool Use Profile — I-Relic Operational Rule: The relic remains active while attached to the operator. The tool is not a general-purpose replacement for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan. Log and Method. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Driftglass's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Half-lit crystal drifting at about chest height, weeping, with no body behind the weeping and a blue trail already fading behind it. |
+| **Sustained observation** | Junction sequence, drift height, drift speed, the anchor carried and the speed before and after it was presented. No position is logged, because it does not hold one. |
+| **Activation or escalation** | Escalation is read off the team: the moment somebody closes a door, clears a corridor, or says a place name aloud. Record who, the junction, and the gauge immediately afterwards. |
+| **Post-contact review** | Junction sequence checked against the index, speed series, anchor note, gauge, and the accompaniment hours booked to the walkers. It is not escorted back anywhere, because there is nowhere to escort it to. |
 
 **Observation method:** Record the first sign, which is cold rain-smell in a dry vault; the first sensation, which is the urge to tell it where to go; the junctions in sequence; the anchor carried and the drift speed before and after it was presented; and the condition that ends the encounter, which is the end of the session. It is not walked back to anywhere.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -382,13 +382,13 @@ A translucent soul passes through the vault. It leaves no footsteps, only a fain
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A crystallized sorrow that drifts like a translucent soul through the Alpha Tree vaults. Notable Features: It remembers places outside the city, weeps without a body, and never follows the same route twice. Identification Profile: The. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Object-Lament form.
+**At first contact:** Cold rain-smell in a dry vault, then the light. Most workers feel the urge to tell it where to go within the first minute, and the briefing names that urge as the hazard rather than as a reaction to it.
 
-**With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Lament; it is this entity's Lament — shaped by its origin, its wound, its particular grief.
+**With continued exposure:** The roads arrive. Workers walking alongside begin to see country beyond the wall — specific, detailed, and matching no survey the facility holds — and they describe it afterwards as having been somewhere they had been before.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Tool Use Profile — I-Relic Operational Rule: The relic remains active while attached to the operator. The tool is not a general-purpose replacement for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan. Log and Method. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Nothing dramatic happens. The drift takes a corridor it has not taken, the pressure rises, and the worker beside it discovers they have been deciding the route in their head for some minutes.
 
-**After departure:** What remains after the door closes is not fear but weight — a Lament aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** The reluctance is the residue. Workers off the accompaniment report not wanting to go back to their own quarters, which fades inside a day and is logged every time, because it is the only measurable aftereffect the holding has.
 
 ### Interaction Pattern
 
@@ -403,11 +403,11 @@ Driftglass is filed with the Alpha Tree records, which are mostly things that we
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Exile** | Recognizes the sorrow of Outside Sorrow. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten Shadow** | Both wander without a stable identity. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Sorrow River** | Its memories drift toward the underground current. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Exile** | Both came from beyond the wall and neither can be sent back. | Logged four times in the same corridor, never arranged. Neither gauge moved on any occasion and the drift speed was unchanged; the Exile's own position did change, which the file notes is the Exile's business and not this holding's. | All four co-incidences, both gauge series, and the unchanged speed record. |
+| **The Forgotten Shadow** | Two things without a stable identity, which is not the same as two things that wander. | Paired twice under authorisation. The Shadow's presence shortened nothing and the junction sequences were as unrepeatable as ever; the only recorded effect was on the walkers, who reported the corridor as crowded. | Both pairings, the junction sequences, and the walkers' reports. |
+| **The Sorrow River** | The drift leans toward the underground current when the River is high. | Observed rather than arranged. The lean is consistent and small, the speed is unchanged, and the entity has never approached the River closer than the vault floor allows. | The River's level series against the junction sequences for the same weeks. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline over at least three transits, since one route establishes nothing about a holding defined by never repeating one. In shared conditions log the junction sequence, the drift speed, whether the path approached the other holding, and whether the no-steering rule held throughout. Sessions in which it did not are logged and discarded.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -439,24 +439,24 @@ Some sorrows mourn a home. Driftglass mourns the having-none — the traveler's 
 **Common Name:** Driftglass
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Major (γ). Proximity removes the sense of belonging anywhere; mishandling expands the range permanently, and the range has never contracted once widened.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Viderehan and Ferrehan only; it is an Object/Place and cannot be wept with or confronted.
+- Accompany, never steer: no door closed ahead of it, no corridor cleared, no destination named within hearing.
+- On expansion, stand the cordon back along its line rather than across it and present an anchor; the drift slows and does not stop.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- A traveller came in from the Desolate carrying nothing but sorrow; the body did not remain and the crystallised soul did.
+- No engagement has ever been fought here. Every logged incident is a session in which somebody tried to be helpful about the route.
+- Extraction is taken from the drift; the three pieces will not stay where they are stowed, and the Lantern costs the bearer their own sense of direction home.
+**Cross-References:** Alpha Tree vaults · the gate register entry · the Desolate survey sheets for the region beyond
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** One traveller from beyond the wall, unnamed; the gate clerk's entry records a direction of travel and nothing else, and no further identification has ever been possible.
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This holding is a journey that cannot end, held by an institution that cannot end it. Read the junction index, the speed series and the anchor notes together, and read them for what they do not show: no route repeated, no arrival approached, no measurable progress of any kind in either direction. The work is accompaniment and the discipline is restraint. Where the entity does something not described here, log it and leave the contradiction standing.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any expansion, Sorrow Tide, transformation attempt or unusual interaction: re-verify the junction index, the mapped range, the speed series, the exposure log and the gauge. Three further items apply here. The range is compared with the previous year's and any new corridor is added permanently. The anchor material is confirmed present and in usable condition. And the field office's objection to the accompaniment establishment is re-read in full, unaltered.
 ## Warden Record
 
 ### Never the Same Route
@@ -475,10 +475,38 @@ What it holds are places beyond the city, and the containment file carries the D
 
 Someone came in from the Desolate carrying nothing but sorrow and the body did not remain, and the commissioning record is the gate entry and the medical note that followed it. Both are short. The archivist's note states that the entity has no name in the file because none was given at the gate, that this was ordinary at the time, and that it has not been remedied by invention. Neither has been supplemented since the containment was established, and no search for the traveller's origin has been authorised.
 
+### Four Hundred Routes and No Repeat
+
+Every transit is written down as a sequence of junctions and checked against the index, and the headline is clean: **four hundred and eleven transits, not one duplicate.**
+
+The wing's own note on that figure is the honest part. The Alpha Tree vault network offers enough junctions that four hundred non-repeating paths are what you would expect from something choosing at random, and the archive says so in the index's first paragraph: *at current traffic this claim cannot fail, and a claim that cannot fail is not evidence of anything.* The index is maintained anyway, because the first repeated route — if it ever comes — would be the most important observation the holding has produced, and nobody can recognise it without the index.
+
+The second series is the one that moves. Drift speed is taken at every junction, and it **falls by about eighteen per cent while an anchor from outside the city is being carried**, recovering within the same session once the anchor is put away. That is the only intervention of any kind that has ever changed a measurement here. It changes nothing else: the route is as unrepeatable as ever, the weeping continues, and the eighteen per cent has never been translated into anything a containment report can use.
+
+### Nowhere to Send It Back To
+
+The obvious management option is to put it back where it came from, and that option does not exist — not for want of will, but for want of a counterparty.
+
+A transfer needs someone to transfer to. A release needs a receiving authority: a body that accepts custody, acknowledges the handover, and is answerable afterwards. Inside the walls that machinery exists and is used daily. Beyond them there is no authority of any kind — no office, no register, no signature anybody could obtain — and releasing a catalogued holding into country where nothing can receive it is not a transfer. It is abandonment, and the facility is correctly forbidden from doing it.
+
+So the one destination this entity could plausibly be seeking is the one place the file can never route it to. **Three proposals to walk it out through the gate have been made and all three were refused**, each on the same two-line ground: there is no body beyond the wall to hand it to, and an entity escorted out and left is an entity the facility has abandoned under its own hand.
+
+The file adds the part nobody likes. The traveller crossed that ground in the other direction without anybody's authorisation, which is how arrivals worked then and works now; the asymmetry is not an oversight in the rules, it is what the rules are for.
+
+### Two Wardens, Walking
+
+What the wing could decide was what the watch is, and it decided the watch is company.
+
+The posting is two Wardens on foot for the length of the session, alongside, at drift height, never ahead. They do not shape the route, do not close anything, and do not name a place. They carry the anchor material and present it when the speed series says to. The hours are booked as operational at full rate — **about twelve hundred person-hours a year, spent walking corridors beside something that is not going anywhere.**
+
+**Three efficiency proposals have been made to replace the walkers with fixed sensors at the junctions.** All three were refused with the same sentence, which the current commander did not write and has not altered: *the sensor records the route; the walker is the anchor.*
+
+The field office's objection is on the file and is read at every annual review. The accompaniment is establishment spent on an effect that shows up as a single unexplained percentage and as nothing else, while two postings in the same wing run short-handed, and those postings are where the injuries happen; the wing is buying a kindness for a holding with people it is not providing to the holdings that hurt workers. The minute records the objection as **correct, and the accompaniment continues**, and notes that the wing has never claimed the walking is a containment measure — only that nobody has been willing to be the commander who stopped it.
+
 ## Trivia
 
-- It has no physical body despite its object classification.
-- It drifts toward maps that no longer match the land.
+- Classified as an Object with nothing solid to it; the classification describes what it was made from, not what it is.
+- It is drawn to old survey sheets and not to current ones, and the preference is strong enough that the vault's superseded map store is kept two levels away.
 
 
 
@@ -488,7 +516,7 @@ Someone came in from the Desolate carrying nothing but sorrow and the body did n
 - **Field detail:** Its defining element is Lament, and its registered location is Zone A, Alpha Tree.
 - **Recognition detail:** Identify it by the drift and the weeping. Several crystalline records are held in these vaults; this is the half-light one that moves, weeps without a body, and leaves no fixed position to log.
 - **Record detail:** Check the designation before approach. More than one record in this archive wanders, and they want opposite things — one is eased by being given a room, and this one is made worse by being given a destination.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Nothing is sealed and nothing could be. The vaults bound the range and the range has only ever grown. Containment here means the junctions are logged and nobody shapes the route.
 ## Document Information
 
 **Document ID:** SE-O-IIIγ-914
