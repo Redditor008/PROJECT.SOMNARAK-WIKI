@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Viderehan and Ferrehan only; the entity is a Place and the other two Work Types are unavailable to it. Surface anchor at the entrance, stated intention in writing and read aloud before descent, tended line, timing kept at the surface. |
 
 ### Operational Notes
 
@@ -92,9 +92,9 @@
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented void effect — mind pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- A worker who cannot hold does not panic. They lose the thread of why they came, and the complex gives them corridors that reflect that, and they describe the experience afterwards as reasonable at the time.
+- Prolonged exposure produces no injury on any record. What it produces is a sentence. Entrants come out carrying one line they read off a wall, and they can repeat it years later word for word.
+- The Labyrinth equipment lends the bearer the ability to hold an unresolved question open indefinitely without discomfort, and charges for it in the manner recorded in the equipment section: the bearer stops closing questions, including ones that need closing.
 
 ## Appearance
 
@@ -103,7 +103,7 @@
 **Notable Features:**
 - Expresses Void pressure in a mind register.
 - The place form is unmistakable — this is a mind entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Confirm the entrance by its structural reference and the surveyed portion against the standing plan before descent. The plan is incomplete, and the incomplete sections are marked as incomplete rather than as unexplored, which is a distinction the briefing spends a page on.
 
 **Identification Profile**
 - **Entity Type:** Place
@@ -118,18 +118,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | An underground complex beneath Zone C that reconfigures its corridors based on the thoughts of whoever enters it. The walls are inscribed with text that changes as you read it — your own thoughts, reflected back. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Place-Mind manifestation is the primary identifying feature. Void pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | A fixed underground complex beneath Zone C, entered at one point. The entrance does not move. The interior reconfigures against the thoughts of whoever is inside it, which is why the holding's controlled element is the doorway and not the space. |
+| **Material / signature** | Dressed stone corridors, dry, unlit except by what is carried in. Void expression. Inscriptions on every wall that alter under reading and resolve into the reader's own thinking. Nothing in the complex registers on any instrument that has been carried into it. |
+| **Distinctive markers** | Text that changes as it is read; a floor plan that is incomplete rather than inaccurate; and the three surviving charts, each internally consistent, no two agreeing past the first chamber. |
+| **Identification** | Confirm designation `C-IVδ-909 [VP]`, Entity (IV) coherence, Critical (δ) potency, Place-Mind manifestation, Void element, SECTOR-C-909. Identification is made at the entrance. Nothing below the first chamber may be used to identify anything. |
 
 ## Origin
 
-The first agent to encounter Labyrinth of the Unfinished Mind filed a report that began: 'I do not know how to describe what I saw.' The report was returned with a note from the Director: 'Try again.' The agent tried again. The second report was accepted. It was not more accurate; it was more specific.
+The first account of the complex was filed by a survey party and began by saying the writer did not know how to describe what they had seen. It was returned with a note reading *try again*. The second account was accepted, and is more specific without being more accurate, and both are issued to new personnel in the order they were written.
 
-Floor 4 has studied Labyrinth of the Unfinished Mind for cycles. Their findings are classified, but the summary is available: the mind register is not a secondary characteristic. It is the primary axis. The void element determines the pressure type; the place type determines the physical form; but the mind descriptor determines the *nature* of the contact.
+Floor 4's findings are classified and the summary is not. The mind register is the primary axis rather than a secondary characteristic: the Void element sets the pressure, the Place type sets the form, and the mind descriptor sets what contact *is*. The protocol's entire shape — the anchor, the written intention, the tended line, the surface clock — follows from the third of those.
 
-Personnel who work Labyrinth of the Unfinished Mind do not simply feel void pressure. They feel void pressure filtered through mind — and that filter changes everything. The protocols, the M.A.W. calibration, the recovery time — all of it must account for the mind register or the work will fail.
+The practical consequence is that this holding cannot be screened by gauge, because the gauge describes the complex and the complex is not what is being affected. Screening is by a single question asked in several forms — what are you currently turning over — and the answer determines whether the descent happens at all.
 
 ## Behavior
 
@@ -142,7 +142,7 @@ Personnel who work Labyrinth of the Unfinished Mind do not simply feel void pres
 
 ### Operational Work Notes
 
-The Void pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Place-Mind manifestation means the mind register is the primary channel of contact.
+The Labyrinth is a Place with Place-Mind manifestation and Void expression, held at SECTOR-C-909. Flerehan and Pugnahan are unavailable to a Place. Both valid Work Types stabilise the surveyed portion for a shift and neither has ever extended the plan. Everything difficult about this holding is above ground, in a drawer of transcripts nobody is permitted to read.
 
 ## Breach Behavior
 
@@ -196,47 +196,47 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
-*Stigmas are granted at random by Labyrinth of the Unfinished Mind upon a successful work, not manufactured.*
+*The Labyrinth's Stigma is not manufactured and cannot be requisitioned. It has been conferred twice, in both cases on an anchor who terminated an entry and declined to give a reason when offered the chance to put one on the record.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Labyrinth of the Unfinished Mind, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each Labyrinth piece is an extension of a question somebody never finished asking, rather than ordinary equipment. The grade describes extraction stability. The cost is separate and is always the same: the bearer becomes comfortable with open matters, and the counsellors screen for it because comfort of that kind does not feel like a symptom.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator and grade; gauge; the screening answer to the standing question — what are you currently turning over — recorded in the operator's own words; piece condition; objective; and the anchor's written note of the stated intention, read aloud before descent. |
+| **During use** | Time elapsed, kept at the surface and never by the entrant; line tension, tended continuously; any sentence read from a wall, reported aloud and written verbatim by the anchor without comment; and the first cost. |
+| **At limit** | Duration, attribute change, rejection signs, source behaviour, and the fact of termination. A termination is not reviewable, not appealable, and is never counted against the entrant. |
+| **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and the sealing of the transcript, which goes into the drawer unread by anybody but the entrant and the anchor who wrote it. |
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Deep
 
 **Key Observations:**
-- Void signature confirmed at SECTOR-C-909.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The mind register is the dominant channel of contact.
+- Void signature recorded at SECTOR-C-909; the surveyed portion is re-walked at every watch and the standing plan has not altered in the life of the holding.
+- Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being a Place.
+- Contact runs through the mind register and is dosed by what the entrant brings rather than by time or distance. Entrants with nothing open and entrants with everything settled both report an ordinary set of stone corridors.
 
 **Personnel Note:**
 
-> *"The mind pressure is different from standard void. It does not press on the body — it presses on the mind itself. You feel it before you understand what is happening."* — Specialist, Field Team 11
+> *"It did not show me anything I did not already think. That is the part people get wrong about it. It showed me the one I had been refusing to finish, in my own words, on a wall, at eye height."* — Specialist, Floor 4
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Labyrinth of the Unfinished Mind (C-IVδ-909 [VP]) is logged as a Place-Mind manifestation expressing Void. Held at SECTOR-C-909.
+**Entry 1 — Containment Description** Labyrinth of the Unfinished Mind (`C-IVδ-909 [VP]`) is an underground complex beneath Zone C whose corridors reconfigure against the thoughts of whoever is inside them, with inscriptions that alter under reading. Entry is by one controlled doorway. The full extent is unknown and the wing has stopped trying to establish it.
 
-**Entry 2 — Field Log** First contact report: the mind register was immediately apparent. Personnel described it as a mind pressure unlike standard void.
+**Entry 2 — Field Log** *<Third mapping expedition, on return>* — Chart produced, internally consistent, agreeing with the two earlier charts on the first chamber and on nothing after it. All three charts are retained as evidence of the finding and stamped across the face: not to be used for navigation by any person who did not draw them.
 
-**Entry 3 — Counseling Log** The void pressure accumulates in the mind register — this is not standard void; this is void filtered through mind.
+**Entry 3 — Counseling Log** *<Interview, entrant, after a fourth descent>* — "I would like to know what is in my file. I understand why I cannot be told, and I would like it recorded that I asked, and I would like it recorded that the person I asked agreed with me and still could not do it."
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The mind register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are the valid Work Types. Nobody descends alone and nobody descends without a surface anchor holding the stated intention in writing. Do not read the inscriptions; if one is read, say it aloud to the anchor, who writes it verbatim and does not comment. The anchor may terminate at any point and is not required to say why.
 
-**Entry 5 — Director's Note** This entity's classification as Place-Mind is correct. The mind descriptor is not decorative — it is the operational axis. All containment protocols should account for the mind register as the primary channel.
+**Entry 5 — Director's Note** *<Minute on the transcript study>* — The study reports a correlation I do not think anybody expected. I am advised that its dataset is self-selected, that the defect cannot be cured by any means available to us, and that no finding can therefore issue. I have continued the funding. I am aware of how that reads and I have not been able to think of the alternative.
 
 ## 최종 관찰 (Final Observation)
 
@@ -249,31 +249,31 @@ Each M.A.W. piece is a conditional extension of Labyrinth of the Unfinished Mind
 
 Contact is disorienting. The void pressure is familiar — every agent in Somnarak knows void — but the mind filter makes it alien. An underground complex beneath Zone C that reconfigures its corridors based on the thoughts of whoever enters it. The walls are inscribed with text that changes as you read it — your own thoughts, reflected back. It is the same element in a different language, and the language is mind.
 
-**At first contact:** The mind signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of mind.
+**At first contact:** A doorway, a written note read out loud, a line paid out behind you, and stone corridors that are entirely ordinary for about forty metres.
 
-**With continued exposure:** The void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The text on the walls stops being text. It becomes the sentence you have been not quite saying to yourself, set at eye height in a hand that is not yours.
 
-**When the entity activates:** The void becomes a force rather than a feeling. The place was holding; now it releases.
+**When the entity activates:** Nothing moves while anybody is looking. The corridor behind you is a corridor you have not walked, and you know this calmly, and the calm is the thing the anchor is listening for on the line.
 
-**After departure:** The void does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** You come out with one sentence. Entrants can repeat theirs years afterwards, word for word, and almost none of them have ever told anybody what it was.
 
 ## 이야기 (Narratio) — The Tale
 
-The first agent to encounter Labyrinth of the Unfinished Mind filed a report that began: 'I do not know how to describe what I saw.' The report was returned with a note from the Director: 'Try again.' The agent tried again. The second report was accepted. It was not more accurate; it was more specific.
+Three mapping expeditions were mounted and the attempt has been formally abandoned. The abandonment paper is unusually frank: a chart that is accurate for its maker is not useless, but it is actively dangerous in somebody else's hands, and a holding that produces three true and mutually contradictory maps is not a mapping problem.
 
-Floor 4 has studied Labyrinth of the Unfinished Mind for cycles. Their findings are classified, but the summary is available: the mind register is not a secondary characteristic. It is the primary axis. The void element determines the pressure type; the place type determines the physical form; but the mind descriptor determines the *nature* of the contact.
+The wing's operative position, printed at the head of the file, is that its responsibility is the entrance and not the interior; that the entrance is controllable and the interior demonstrably is not; and that an institution which cannot say how large a thing is should at least be honest in writing about not knowing. Review has twice recommended a renewed survey. Both recommendations were declined and both declinations cite the three charts.
 
-Personnel who work Labyrinth of the Unfinished Mind do not simply feel void pressure. They feel void pressure filtered through mind — and that filter changes everything. The protocols, the M.A.W. calibration, the recovery time — all of it must account for the mind register or the work will fail.
+What has never been resolved is whether the complex is answering the entrant or finishing them. The inscriptions are in the entrant's own thinking and in nobody's handwriting. They are also, consistently, a step further along than the entrant had got. The file states the ambiguity and declines to settle it, and the three sections below are what happened when somebody tried.
 
-The entity does not rage. It does not weep. It persists — mind and void, patient and permanent. Labyrinth of the Unfinished Mind is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+It does not rage and it does not weep. It is a set of corridors under Zone C that gives people back the question they had been avoiding, in their own words, at eye height. Nobody has been injured in it. Twenty-three people have left the facility over what they read in it.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The first Place-Mind entity. The file is short because we are still writing it."* — Archive
-*"Standard void protocols assume the pressure is uniform. It is not. The mind register is specific."* — Researcher
-*"I have never felt void like this. It was as if the element had learned my name."* — Specialist
-*"The entity does not breach. It expands. There is a difference."* — Containment Lead
-*"We contained it. We did not understand it. Those are not the same thing."* — Director
+*"The first Place-Mind holding. The file is long on the doorway and silent on the interior, and the silence is a finding rather than a gap."* — Archive
+*"Standard Void protocol assumes there is an absence to measure. Here the absence is in the entrant, it is specific to them, and the complex has already found it before we have finished the briefing."* — Researcher
+*"I expected to be lost. I was never lost. I was walked, very politely, to the end of a thought I had been leaving unfinished for nine years."* — Specialist
+*"It does not breach. It cannot. The only way anything gets out of there is in somebody's head, and that happens every single time."* — Containment Lead
+*"We contained it with a door and a piece of line. What we have not managed, in forty years, is to decide whether we are allowed to read what it tells people about themselves."* — Director
 
 ## 기록 (Registrum) — The Record
 
@@ -288,17 +288,17 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 **Threat Assessment:** Critical. A Place-Mind entity — the mind register is its defining characteristic. Risk: prolonged exposure to the mind pressure may produce effects not seen in standard void entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the mind register specifically — it is the primary channel of contact.
+- Viderehan and Ferrehan are the valid Work Types; both stabilise the surveyed portion and neither has extended the plan.
+- Flerehan and Pugnahan are unavailable to a Place and are not to be improvised.
+- Monitor by the screening answer, the anchor's written intention, the tended line and the surface clock. Do not monitor by gauge; the gauge describes the corridors and the corridors are not the hazard.
 
 **Cross-References:** City Sorrow (도한) · Void · Place-Mind · Manifestation Classification
 
 ### Registry Addendum
 
-**Operational interpretation:** The Place-Mind classification is valid and necessary. The mind descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** The three sections below are one argument and are read together: the transcripts, compared, predict the matter an entrant eventually resolves their career around; the dataset is self-selected and the law guarantees it can never be anything else; and the facility has funded a study for nine years whose incurable defect is the standing answer to every question about acting on it. Where observation contradicts this record, preserve the contradiction rather than normalising it.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and mind pressure readings after every breach or unusual interaction.
+**Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, recheck containment status, the surveyed portion against the standing plan, the seal on every transcript in the drawer, the anchor list, and the standing of both the study's funding and the transcript-return proposal.
 
 ## Apex Record
 
@@ -329,6 +329,46 @@ The complex's full extent is unknown and the wing has stopped attempting to esta
 ### The Anchor's Standing
 
 The surface anchor may terminate an entry at any point and the termination is not reviewable, not appealable, and not counted against the entrant. Anchors are drawn from the same pool as entrants and most personnel serve in both roles, which was intended to make the authority easier to accept and appears to have worked: no entrant has ever contested a termination, and several have said afterward that they would have stayed down longer than they should have if the decision had been left with them. The file records four terminations. None has a stated reason, and none was asked for one.
+
+### Fifty-Eight of Seventy-One
+
+The transcripts are the sentences entrants read off the walls, written down verbatim by the anchor and sealed. The standing instruction is that they are a record of a worker's mind and are to be handled as such: not analysed, not compared across entrants, not shown to the person who produced them without a counsellor present.
+
+In the forty-second year a counsellor asked whether they could be compared with the consent of the people who made them. The answer was yes, on terms: consent individually given, in writing, revocable, with the comparison done by somebody outside the entrant's chain and the results matched blind.
+
+**Seventy-one entrants consented out of a hundred and nine approached.**
+
+What the comparison found is not about the complex. It is about the people. An individual's transcripts, taken across a career of descents, converge. The sentences change wording and keep circling one thing — not a theme, a matter: a decision, a relationship, a question about the work that the entrant had not finished having with themselves.
+
+The transcripts were then matched, by an assessor who had not read them, against what each of the seventy-one subsequently did. Resignations, transfers, formal objections, requests to leave a holding, one prosecution, two marriages.
+
+**In fifty-eight of the seventy-one, the transcript named the matter, and named it a median of six years before the person acted on it.**
+
+The control is the thirteen. In those the transcripts converge on something the person never did act on, and in every one of the thirteen the matter is still, on the counsellor's note, open. The study is careful here: it does not claim the complex causes anything, and the resignation rate among the seventy-one is indistinguishable from the floor's. It claims only that the wall was saying it first.
+
+Twenty-three of the seventy-one have since left the facility. In nineteen of the twenty-three the matter they left over is the matter their transcripts had been circling for years. None of the nineteen has ever been told this.
+
+### Consent Cannot Be Compelled
+
+The opinion is dated the forty-third year and is the one the study's author describes as having ended the project without closing it.
+
+Nobody may be compelled to produce material that is their own and that exposes them to a detriment. The transcripts are the workers' own: generated by them, recorded on their instruction, sealed in their presence. The facility holds them as custodian and not as owner. No power exists — in the contracts, in the standing orders, in any instrument the facility could draft — to require an entrant to release theirs, and counsel is explicit that an attempt to make release a condition of continued work on the holding would be void and would also be the clearest possible evidence of bad faith.
+
+So the dataset can only ever consist of volunteers. And here is the part of the opinion that the author had not anticipated and has quoted at every review since: **that defect cannot be cured.** Not by a better study design, not by a larger sample, not by time, not by any amount of money. A self-selected sample cannot be made representative by adding more self-selected people to it. The thirty-eight who declined are not a gap that further work will close; they are a permanent and principled hole in the middle of the evidence, and the law put it there deliberately and would put it there again.
+
+Counsel's last line: *you have a finding you cannot validate, about people you cannot ask, and the rule that prevents you is the one protecting them. I do not think there is anything wrong here. I think you should notice how comfortable that is going to be.*
+
+### Nine Years of Funding
+
+The Directorate declined to act on the fifty-eight in the forty-third year, on the ground that the dataset is self-selected and the finding cannot be validated. The ground is correct. It has been given, in the same words, at each of the nine annual reviews since.
+
+**The study's funding has been renewed every one of those nine years.** The research plan describes the work as ongoing. No completion criterion appears anywhere, and counsel's advice that no criterion is capable of being met is annexed to the plan that renews it.
+
+The objection is minuted at the forty-fourth review and at each of the eight since, raised by the study's author and supported by two of the holding's anchors. It holds, first, that the Directorate has treated an incurable defect as a temporary deficiency, funding for nine years a programme that its own annexed advice says can never report, and that the effect of doing so is to maintain the appearance of an open question while guaranteeing it stays open. Second, that nineteen people left the facility over the matter their own sealed transcripts had been naming for years, and were told nothing, because telling them would require the facility to read material it holds as custodian — so the custody that protects them is also the reason none of them was ever offered the one thing in the drawer that was theirs. Third, that the standing instruction and the funding pull in opposite directions and always have: the instruction says the transcripts are a record of a worker's mind, and the budget line says they are a dataset, and both have been signed by the same office every year since the forty-third.
+
+The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-fourth year at rather less than the study's annual line — the study wound up, and a standing right for any entrant to ask for their own sealed transcripts and sit with them and a counsellor for as long as they want — and that it has not been laid before the board in eight years. And it records the sentence the study's author asked to have entered verbatim, which now stands on the inside of the transcript drawer:
+
+*It told nineteen people what they were going to do with their lives, in their own words, and we filed it, and we have spent nine years funding the question of whether we are allowed to look.*
 
 ## Trivia
 
