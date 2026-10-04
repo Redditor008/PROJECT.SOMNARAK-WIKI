@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **290** |
-| Pending — no disposition-bearing line found by scan | 13 |
+| **Classified here, with a quoted line of evidence** | **291** |
+| Pending — no disposition-bearing line found by scan | 12 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 290 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 291 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 13 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 12 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -343,6 +343,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Fallow | `SE-O-Iα-554` | *"Eleven years, three injuries, all to surveyors who tried to lever the casing out."* Wind-driven and incapable of initiating: it has no record of reaching for a person who was not holding a tool, and its damage is to ground and to iron — 1,140 square metres blighted, an equipment ledger, a crate of 61 corroded stakes. Nine supervised encounters across three entities moved the corrosion rate by less than half a millimetre; the Spreading Root closes to two metres and gets nothing, and the Pandora's Jar pairing is closed. The one route to something worse — planting it in sorrow-rich ground — has never been performed and is prohibited, and both proposals to do it are filed under their authors' names. Neutral. |
 | Broken Ruin | `SE-O-IIIγ-559` | *"Nine years, two breaches that both ended in conversation, eleven strikes and no fatalities."* Both breaches consisted of the figure walking into the market, stopping in front of a trader and weeping; it did not resist being walked back either time. Ten supervised sessions across three holdings produced no settling and no transfer — the Memory Lake's own readings moved while this one's did not, so nothing was taken from here — and the one pairing with a plausible relief mechanism therefore failed. The recurring harm is to wardens who try to reconstruct the settlement, which is why the prohibition exists and why a positive finding goes to the briefing rather than to the worker's file. Neutral. |
 | Exiles' Wall | `SE-O-IIIγ-617` | *"Nine years, four injuries, all of them to people who built something."* It has never struck anybody who stayed on the city side of the marked line; the Year 4,233 collapse took the shelter a well-meaning SED detachment had roofed, and the three other injuries were workers who walked onto the shelter ground and started building. It releases nothing: the Rusted Wall pairing is the clearest null in the Zone E file, and the Exile's Gate is the condition of the holding rather than a party it acts on — 71 metres of growth all follow the city's own expulsions or a warden's phrasing. The twice-flooded exile road is damage to ground outside F01 and falls under R-19.2. Neutral. |
+| Animus | `SE-O-Iα-108` | *"Nine years, eleven strikes, all to people standing in the line, no fatalities and no lasting injury."* It has never altered course for a person, approached one, or stopped walking because one was there, and in nine years of transcripts the voice has never accused anybody of anything. Nine supervised sessions produced no transfer — the Rusted Wall-style pairing failed because this holding is an emotion with no contents — and the only rise in clarity on record followed the Forgotten Soldier saluting it, with no third session authorised. The durable harm is to the eleven wardens in the sealed file who left certain of a cause nobody can confirm; it falls on the people who work it. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
