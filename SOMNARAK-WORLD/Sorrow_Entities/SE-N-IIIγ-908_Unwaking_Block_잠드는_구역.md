@@ -34,13 +34,13 @@
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Map, do not manage. The gauge falls on entries that produced a completed plan and returned on the called time; it has never fallen on an entry extended to finish a room. |
 
 ### Operational Notes
 
 - The block holds sleep that does not end, and personnel removed from it do not wake on removal.
 - Work shortens the onset. It does not shorten the sleep itself, and no session has produced a waking inside the block.
-- Viderehan and Ferrehan are the valid approaches to the site.
+- Both valid approaches are survey work, and the block holds 212 sleeping inhabitants who are the district’s charge and not the facility’s. Nursing visits daily, by district staff, under the same timed watch as everybody else.
 - Three ignored conditions escalate it. The dream register carries contact, so crews are paired and each pair holds a timed verbal check.
 - Extraction is a separate risk event under its own authorization and is never attempted by a single operative.
 
@@ -73,7 +73,7 @@
 | **Difficulty** | 908  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-908 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | The survey party is out at the called time with a signed plan of what it walked through. There is no condition under which the block is resolved: nobody has woken, nobody is expected to, and the file does not pretend otherwise. |
 
 ### Combat Actions
 
@@ -88,13 +88,13 @@
 
 1. **Tension:** Personnel identify the place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Unwaking Block's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+3. **Resolution:** The caller outside says the time and the party leaves whatever room it is standing in. Plans are signed at the threshold, not inside. Forty-one plans are on file and no two of them agree.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented lament effect — dream pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- Composure loss attaches to the mapping, not the air: surveyors who find a door onto a room that is not in any plan record the sharpest readings, and the ones who find the same room twice in one entry record the sharpest of all.
+- Over the twenty-five minute limit personnel begin to find the layout reasonable. That is the documented failure mode here — not sleep, not distress, but a surveyor who stops writing things down because the building has started to make sense.
+- No piece may be taken past the second staircase. The rule is geometric rather than cautious: beyond it, no two entries have produced the same route back.
 
 ## Appearance
 
@@ -103,7 +103,7 @@
 **Notable Features:**
 - Expresses Lament pressure in a dream register.
 - The place form is unmistakable — this is a dream entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Identification is domestic: a residential block with every bed occupied, every light off, and laundry on the lines in the yard going grey with age.
 
 **Identification Profile**
 - **Entity Type:** Place
@@ -118,18 +118,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls shift, doors open to rooms that do not exist, and the air carries the texture of deep sleep. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Place-Dream manifestation is the primary identifying feature. Lament pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | The block does not move. Its interior does — walls shift between entries, doors open onto rooms that are not in the municipal plan, and the Warden’s duty inside is mapping rather than guarding. Each entry produces a plan of what that entry walked through, and the plans are filed as a series rather than reconciled. |
+| **Material / signature** | The air carries the texture of deep sleep — heavy, warm, slightly sweet — and it is the one constant between entries. Surveyors describe it the same way in forty-one separate accounts, which is more agreement than they manage about the floor plan. |
+| **Distinctive markers** | The sleepers themselves, 212 of them, in the positions they fell asleep in on the same night. They breathe, they age slowly, they do not stir when a wall moves in the next room. |
+| **Identification** | Compare any two survey plans of the same staircase. If the staircase has a different number of turns in each, the party is inside Unwaking Block and nowhere else on the register. |
 
 ## Origin
 
-The citizens of SECTOR-N-908, contained have a name for Unwaking Block that predates the R.D. classification. They call it the grief that does not pass. The R.D. calls it Place-Dream. Both are correct.
+The district called it the sleeping block before the facility called it anything, and the district’s name is the one in use. Everyone went to bed on an ordinary night in an ordinary street and the street has been asleep ever since — 212 people, in their own beds, in their own rooms, breathing.
 
-The entity is a place — a residential block in zone d where every inhabitant fell asleep on the same nig — but its dream nature sets it apart from every other lament entity in the catalogue. Standard lament pressure presses, dissolves, burns, or crushes. This one corrupts space. The protocols had to be rewritten.
+The building did not stay the shape it was. Walls move between surveys, doors open onto rooms that appear on no municipal plan, and staircases gain and lose a landing. Forty-one plans have been drawn inside it and no two of them agree, which is why they are filed as a series instead of being reconciled into one.
 
-The R.D. contained it in fourteen hours. Containment holds — barely. The dream register is not in the original manual because no one had encountered a Place-Dream entity before. Now the manual has a new chapter. The chapter is Unwaking Block's file.
+Containment took fourteen hours and the margin was narrow. What it contains is not a hazard to the sleepers — nothing has ever harmed one — but the building around them, which is no longer reliably a building.
 
 ## Behavior
 
@@ -142,7 +142,7 @@ The R.D. contained it in fourteen hours. Containment holds — barely. The dream
 
 ### Operational Work Notes
 
-The Lament pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Place-Dream manifestation means the dream register is the primary channel of contact.
+The pressure is not what limits the work; the clock is. Observation is the survey itself, endurance is the discipline of leaving a corridor half-drawn because a voice outside has said the time. The limit is called from outside by somebody who does not enter, and the reason is written into the standing order: the limit cannot be judged by anyone standing in the air it is protecting them from.
 
 ## Breach Behavior
 
@@ -151,15 +151,15 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
-| **Movement** | The entity's dream influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Lament pressure radiates — the dream register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | The block takes the building next door by growing a connecting door that the municipal plan does not have. It has happened once. The neighbouring stair was found to have four turns on the way in and five on the way out, and the adjoining property was added to the holding that week. |
+| **Effect** | Occupants of an annexed building fall asleep where they are, together, during the night of the annexation. Nine people in the one recorded case. They are now part of the 212 and are nursed with the rest. |
+| **First Target** | A doorway, not a person. Every expansion on file began with a door that had not been there at the previous survey, and in each case the door was recorded by the mapping party before anybody was affected. The plans are the warning system. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Lament drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per building annexed rather than per turn. One annexation in seventeen years; the reading returned to 40% once the new wing had been mapped twice.
 
 ## M.A.W. Equipment
 
@@ -184,13 +184,13 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Ability:** Channels lament dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.
 
-**Cost:** The wielder experiences a persistent low-grade headache with each use.
+**Cost:** The wielder sleeps heavily for two nights after use and wakes normally both times. Logged every occasion, never exceeded, and specifically distinguished on the form from the sleep the block itself produces.
 
 ### M.A.W. Suit — Unwaking Block's Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a flowing veil of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a short mantle of Lament Han-silk, cool and faintly luminous, with the block’s municipal plan printed on the lining — the oldest plan, the one the building no longer matches.
 
 **Resistances:**
 - Lament: 0.3 (Resistant)
@@ -218,75 +218,75 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Cost:** The bearer dreams in tears drawn from Unwaking Block's sorrow and wakes with another person's grief still present.
 
-*Stigmas are granted at random by Unwaking Block upon a successful work, not manufactured.*
+*A Token is found in a room that appears on one plan only. The surveyor who finds it marks the room and the room is never found again; four pieces, four unrepeatable rooms, each with its single plan filed beside the recovery note.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Unwaking Block, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+The Unwaking Block set is made from the mapping: the Edge from a surveyor’s rod, the Veil from the lining cloth of the plan case, the Token from a door-number plate taken off a door that was in the plan. Nothing in the set came from a door that was not.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Record who is calling the time from outside and where they are standing. The caller’s name heads the sheet; the wielder’s is second. No entry has ever been made without a named caller. |
+| **During use** | Draw as you go. The plan is the log here — rooms in the order entered, doors in the order opened, with the time against each — and anything not drawn at the time is treated as not seen. |
+| **At limit** | The wielder stops drawing and starts explaining the layout aloud. Seven cases. All seven ended at the called time and none of the seven agreed afterwards that the layout had made sense. |
+| **After use** | File the plan unreconciled. It is not corrected against the previous one, not merged, not averaged. The series is the record and the disagreements in it are the finding. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Lament signature confirmed at SECTOR-N-908.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The dream register is the dominant channel of contact.
+- Forty-one survey plans on file, none identical, all signed at the threshold on the way out.
+- Both valid approaches are survey work on a timed watch and both reduce the gauge on a clean return. An entry that overran has never reduced it, including the three that produced the most complete plans.
+- Nobody has woken. In seventeen years not one of the 212 has stirred, and no action taken inside the block — noise, light, touch, medical intervention by district staff — has produced any change in any sleeper.
 
 **Personnel Note:**
 
-> *"The dream pressure is different from standard lament. It does not press on the body — it presses on the dream itself. You feel it before you understand what is happening."* — Specialist, Field Team 3
+> *"You draw a corridor and you look up and there is a door at the end of it that you would swear was a window when you came in. You write down *door*. You do not go through it. You wait to be called."* — Surveyor, Zone D
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Unwaking Block (N-IIIγ-908 [LP]) is logged as a Place-Dream manifestation expressing Lament. Held at SECTOR-N-908.
+**Entry 1 — Containment Description** A residential block in Zone D whose 212 inhabitants fell asleep on one night and have not woken. Contained as a holding around living people: the district nurses them, the facility maps the building, and nobody stays inside longer than twenty-five minutes.
 
-**Entry 2 — Field Log** First contact report: the dream register was immediately apparent. Personnel described it as a dream pressure unlike standard lament.
+**Entry 2 — Field Log** First entry, Y4238. The party found the stairwell had one landing more than the municipal plan showed and came out on the called time with half a floor drawn. The half-drawn plan is the first sheet in the series and has never been completed.
 
-**Entry 3 — Counseling Log** The lament pressure accumulates in the dream register — this is not standard lament; this is lament filtered through dream.
+**Entry 3 — Counseling Log** The district’s families visit. They are permitted, accompanied, under the same timed watch, and the wing has refused twice to restrict the visits on operational grounds. The counsellors’ note says only that the visits are the reason the block is a holding and not a ruin.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The dream register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** The watch is called from outside and the caller never enters. This is absolute. The limit exists precisely because it cannot be judged by anybody breathing the air it protects them from, and an entry extended by agreement between people inside is treated as an overrun, not an extension.
 
-**Entry 5 — Director's Note** This entity's classification as Place-Dream is correct. The dream descriptor is not decorative — it is the operational axis. All containment protocols should account for the dream register as the primary channel.
+**Entry 5 — Director’s Note** We contained this in fourteen hours and the margin was narrow; the responders’ own account of that night is kept in their words and has not been tidied. What we have not done in seventeen years is wake anybody, and I would rather the file said so at the front than implied otherwise at the back.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Draw the room — record it and move on when you are called. | Open the door — find out where the extra corridor goes. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| A signed plan, an entry inside the limit, and one more sheet in a series that is finally long enough to argue with. | You are four minutes over, the stair you came up has a landing you do not remember, and the caller outside has begun repeating your name. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
 There is a moment — always the same, always brief — when the lament pressure and the dream register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls shift, doors open to rooms that do not exist, and the air carries the texture of deep sleep. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
 
-**At first contact:** The dream signature is unmistakable — this is not a general lament entity but one whose sorrow has taken the specific shape of dream.
+**At first contact:** The warmth. It is the warmth of a room somebody has been sleeping in, and it is the same in the stairwells and in the yard.
 
-**With continued exposure:** The lament pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The building begins to seem well laid out. Surveyors describe this as the moment to leave and are not always the ones who notice it.
 
-**When the entity activates:** The lament becomes a force rather than a feeling. The place was holding; now it releases.
+**When a door appears:** It is unremarkable. Right size, right fittings, right wear on the handle, and not on any plan drawn before that morning.
 
-**After departure:** The lament does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** You sleep well for two nights. Everyone does, and it is written on the form so that nobody has to decide whether to mention it.
 
 ## 이야기 (Narratio) — The Tale
 
-The citizens of SECTOR-N-908, contained have a name for Unwaking Block that predates the R.D. classification. They call it the grief that does not pass. The R.D. calls it Place-Dream. Both are correct.
+Their care is not ours. The district nurses them daily, under the same twenty-five minute watch as everybody else, and the families visit accompanied. Two proposals to restrict the visits on operational grounds have been refused, and the refusals are in the folder with their reasoning intact.
 
-The entity is a place — a residential block in zone d where every inhabitant fell asleep on the same nig — but its dream nature sets it apart from every other lament entity in the catalogue. Standard lament pressure presses, dissolves, burns, or crushes. This one corrupts space. The protocols had to be rewritten.
+The mapping is the work. A party goes in, draws what it walks through, and comes out when a voice outside says the time — and the voice belongs to somebody who has not been inside, because the limit cannot be judged by anyone breathing that air. Entries that overran are logged as overruns even when the plan they produced was the best one of the year.
 
-The R.D. contained it in fourteen hours. Containment holds — barely. The dream register is not in the original manual because no one had encountered a Place-Dream entity before. Now the manual has a new chapter. The chapter is Unwaking Block's file.
+One neighbouring building has been annexed, by a connecting door that was not there the previous week. Nine more people joined the 212 that night. The door is on every plan drawn since.
 
-The entity does not rage. It does not weep. It persists — dream and lament, patient and permanent. Unwaking Block is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+Nobody has woken. The file says so at the front, in the first paragraph, rather than leaving it to be inferred from the absence of good news at the back.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -309,17 +309,17 @@ The entity does not rage. It does not weep. It persists — dream and lament, pa
 **Threat Assessment:** Major. A Place-Dream entity — the dream register is its defining characteristic. Risk: prolonged exposure to the dream pressure may produce effects not seen in standard lament entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the dream register specifically — it is the primary channel of contact.
+- Enter in parties, draw as you go, and leave on the called time with the plan unfinished if necessary.
+- There is nobody awake to weep with and nothing to confront. The inhabitants are asleep and the building is a building.
+- File every plan unreconciled and compare the series for new doors; an expansion shows up on paper before it shows up anywhere else.
 
 **Cross-References:** Inner Sorrow (내한) · Lament · Place-Dream · Manifestation Classification
 
 ### Registry Addendum
 
-**Operational interpretation:** The Place-Dream classification is valid and necessary. The dream descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** Place-Dream is correct and the operational content is custodial: a building that rearranges itself around 212 people who are not in any danger that anybody can measure, nursed by their own district, surveyed by us on a clock we hold from outside. The file is a plan series and a visitors’ log, and that is the honest shape of the work.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and dream pressure readings after every breach or unusual interaction.
+**Review requirement:** Re-walk the exterior plan each cycle looking for connecting doors to neighbouring properties, and re-read the first half-drawn sheet against the most recent one. The two share eleven rooms out of a hundred and nine.
 
 ## Warden Record
 
