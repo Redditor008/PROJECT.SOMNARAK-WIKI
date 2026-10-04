@@ -15,7 +15,7 @@
 | **Element** | Weight |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A dark tear-shaped object half-buried in the Desolate soil, that sinks deeper whenever someone reaches for it. Lead-cold and damp, it smells of wet stone; a grief that will not be picked up. |
-| **Movement** | Stationary — a body or drop of liquid. |
+| **Movement** | Fixed in plan, variable in depth — it holds its position on the ground and moves only downward, away from any hand that comes toward it. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -32,17 +32,17 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan from the marked standoff and Ferrehan for the full session; nothing is reached for, probed or dug, and no account is offered of why anybody present feels what they feel. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Sehnsucht.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A good session raises the object a few centimetres and nothing more. It has never come within reach and the file does not treat reaching as an objective.
+- It sinks on reaching, probing and digging, and sinks by the same amount on a confident explanation of somebody's grief offered aloud at the site.
+- The yield is ordinary for the band. The exposure is the transit: a Desolate posting near The Scar, two hours out and two hours back, with an escort requirement on every crossing.
+- Extraction is authorised separately and has been attempted three times. All three drove the object deeper — forty-one centimetres between them — and none recovered anything; the third is the reason reaching is now prohibited rather than discouraged.
 
 ## Combat Record
 ### Core Stat Line
@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Resolve** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- The failure here is the worker who starts accounting for their own sadness — naming a cause, building a reason — at which point the gauge climbs and the depth increases while they are still mid-sentence.
+- Long sessions produce an unwillingness to leave the site that the party describes afterwards as having had something left to do there. Departure is timed by the watch commander and not by the worker.
+- The set carries a borrowed grief with no cause attached to it. Bearers report the weight accurately and cannot say what it is for, which is the holding's own condition reproduced in a person.
+- Failure here is not a breach. It is depth: the object goes further down, the lit area narrows, and nothing on record has ever brought it back up faster than honest mourning at the site has done.
 
 ## Appearance
 **Physical Form:** A dark tear-shaped object half-buried in the Desolate soil. It seems to sink whenever someone reaches for it.
@@ -116,9 +116,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A dark tear-shaped object half-buried in the Desolate soil. It seems to sink whenever someone reaches for it. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Position / movement** | Fixed in plan and never fixed in depth. The depth of the uppermost surface below ground level is the entity's state and is read against a graduated rod at every visit. |
+| **Material / signature** | Weight. Dark, tear-shaped, lead-cold and damp to the hand's distance; the soil above it is wet in country that has no water, and dry again a metre out. |
+| **Distinctive markers** | Light through the soil, visible only at night, over a lit area that widens as the object rises and narrows as it sinks. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; two Desolate records turn on a blank field and their handling is opposite. |
 
 **Appearance protocol:** Record the depth, the glow through the soil, and the diameter of the lit area, which widens as it rises. The object itself is rarely visible and is not to be exposed in order to be photographed. Note the soil condition: it is damp over the object and dry a metre away, in a region that has no water.
@@ -128,7 +128,7 @@
 - **The Sorrow:** The weight of grief hidden so deeply that even the person who felt it forgot its source.
 - **The Event:** A traveler buried a final tear near The Scar rather than allow anyone to see it.
 - **The People:** One traveller near The Scar who buried a last tear rather than be seen to weep, and who outlived the memory of what the tear was for. The Keepers hold no account of the loss, which is not an omission in the research: by the time anybody asked, she could not supply one either.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a child who was never heard. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+- **Expanded origin context:** What the archive holds is a route, a date of passage and the fact of the burial, reconstructed from two waystation registers that both survive complete and neither of which names her. Nothing has been added since. The archivist's note states the reason plainly: the holding is made of a refusal to be witnessed, and a thick file about it would contradict its subject. By the time anybody thought to ask what the tear had been for, she could not answer either — the forgetting is not a gap in the research, it is the entity.
 
 ## Behavior
 
@@ -138,13 +138,13 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals the event beneath the forgotten grief. | Stable |
-| **Ferrehan** | Tests whether the worker can remain beside buried sorrow. | Decrease |
+| **Viderehan** | Reads the event under the forgotten grief and holds the depth steady. Nothing surfaces and nothing is learned about the cause. | Stable |
+| **Ferrehan** | The worker sits beside buried sorrow for the length of the session without trying to bring it up. This is the only work that raises it. | Decrease |
 
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. Sehnsucht is recorded as an Object/Place with Object-Void manifestation and Weight elemental expression. The current record places it at The Desolate, near The Scar; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Sehnsucht is an Object/Place with Object-Void manifestation and Weight expression, held in open ground in the Desolate near The Scar. There is no cell and no seal; the containment is a standoff line, a rod, a night watch and a prohibition on reaching. Viderehan holds the depth. Ferrehan raises it. Nothing else in the record has ever moved the figure upward, and two things move it down: contact, and explanation.
 
 **Reading the response:** A rising object means somebody mourned at the site and let the cause stay missing. Stability under Viderehan is correct. The reading worsens — the object sinks — on reaching, probing and digging, and equally on any confident account of why a person present is feeling what they feel.
 ## Activation Behavior
@@ -171,7 +171,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | **Primary Effect** | Releases a memory of the sorrow into the worker. |
 | **Duration** | Until the memory is acknowledged. |
 | **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Weight trauma. |
-| **Risk** | The worker may become unable to leave the site. |
+| **Risk** | The bearer may become unable to leave the site, and will describe staying as having something still to do there. |
 
 **Operational Rule:** The relic functions only while carried and cannot replace a scheduled Work Type. It is not a recovery tool and must not be used to locate the object more precisely than the standing survey does; four of the six deepest readings on file follow sessions in which the team knew exactly where to stand.
 
@@ -186,7 +186,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Escalation Notes
 
-The escalation pattern is specific to Sehnsucht: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is downward and slow. Record the depth at arrival, every approach to the standoff line, anything said aloud that assigned a cause to a person's feelings, the lit diameter at dark, and the depth at close. The one reliable predictor of a deep reading is a party that arrived certain of why it was sad.
 
 **Response sequence:** Secure the site, confirm the event is a sinking rather than an activation, withdraw personnel who have been pressed for an explanation of their own state in the last week — they read deepest, and the medical office now supplies that list — and then satisfy the management condition, which is unexplained grief allowed to stand unexplained. Report the depth before and after.
 
@@ -194,11 +194,11 @@ The escalation pattern is specific to Sehnsucht: it is not a generic breach even
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Touch or excavation attempt. |
+| **Trigger** | Any reach, probe or excavation; equally, any confident explanation of a present worker's grief spoken within the standoff line. |
 | **Manifestation** | Object-Void |
-| **Primary effect** | Releases a memory of the sorrow into the worker. |
-| **Duration / rate** | Until the memory is acknowledged. |
-| **Risk** | Major (γ) Object-Void producing Weight pressure; The worker may become unable to leave the site. |
+| **Primary effect** | A grief with no cause attached transfers into the worker, correctly felt and impossible to account for. |
+| **Duration / rate** | Until the worker stops trying to explain it, which is the only form of acknowledgement the record shows working. |
+| **Risk** | Major (γ). The worker may become unwilling to leave; depth increases for every explanation offered. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** depth at arrival → any reaching, probing or excavation attempt → entries in the party's medical log carrying a cause they could not support → what was said aloud and by whom → depth at close. The third field is requested from the medical office and is the field that predicts the figure.
@@ -265,7 +265,7 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+The three pieces were not cut from the object, which has never been reached. They were formed in the wet ring of soil above it, which is the only part of the holding anybody has ever been able to take. Each carries the same cargo: weight without a reason. The armoury's standing note is that a bearer who begins explaining the feeling is to be stood down the same shift, and that nothing in the set is issued to anybody currently under a bereavement entry.
 
 ### Field Use Record
 
@@ -281,11 +281,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It sinks when approached with force.
-- It rises during honest mourning.
-- The ground around it remains warm despite the Desolate cold.
+- It sinks when a hand goes toward it, whether or not the hand is forceful.
+- It rises during mourning that names no cause, and only then.
+- The ground above it is wet in country with no water, and cold rather than warm; the warmth reported in the earliest notes was never reproduced and the figure now logged is soil moisture.
 
-**Personnel Note:** *"It was glowing. I felt longing. The Tear wanted to be understood, but not exposed before it was ready."* — Specialist, Zone D patrol
+**Personnel Note:** *"It was glowing and I wanted to understand it, and understanding it is the thing you are not allowed to do. I sat the four hours and said nothing about why I was sad, and the rod read eleven centimetres better than at arrival."* — Specialist, Zone D patrol
 
 
 
@@ -293,10 +293,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Sehnsucht as an Object/Place with Object-Void manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at The Desolate, near The Scar. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or excavation attempt. Effect: Releases a memory of the sorrow into the worker. Duration: Until the memory is acknowledged. Risk: The worker may become unable to leave the site. Tool Use Profile — I-Relic Operational Rule: The relic remains. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Sehnsucht's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Dark tear-shaped object, barely proud of the soil or not visible at all, in a wet patch of ground in a region with no water. By day there is nothing else to see. |
+| **Sustained observation** | Depth against the rod, the rod against its benchmark outside the affected soil, the moisture ring radius, and after dark the lit diameter. Four figures, taken every visit, in that order. |
+| **Activation or escalation** | Escalation is read as depth. Log the hand that moved, the sentence that was said, and the figure before and after; both causes produce the same descent and the file does not rank them. |
+| **Post-contact review** | Depth series, moisture radius, unmanned hours since the previous visit, and the party's medical entries carrying a cause they could not support. The last is requested from the medical office and is the field that predicts the figure. |
 
 **Observation method:** Record the first sign, which is wet-stone smell on dry ground; the first sensation, which is weight without sadness attached to it; the depth at entry and exit; anything said about why anyone feels as they do; and the condition that ends the encounter, which is the scheduled end. Nobody stays on to see whether it will surface.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -313,7 +313,7 @@ Depth record, quarterly, since the site was marked: a slow descent of about two 
 "The medical form has a box for cause and I have always put something in it, because an empty box comes back to you. That week I wrote unknown and left it, and the supervisor signed it without a word, which I later learned he had been told to do. I went out to the site on the Thursday. I did not say anything clever. I said I am sad and I do not know what about, out loud, feeling ridiculous, and the glow came up through the soil until you could have read by it. I still do not know what I was sad about. That is apparently not the point, and nobody has asked me since."
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Reveals the event beneath the forgotten grief. (Stable); Ferrehan: Tests whether the worker can remain beside buried sorrow. (Decrease). The ground around it remains warm despite the Desolate cold.
+Work response — Viderehan: reads the event under the forgotten grief and holds the depth steady (Stable); Ferrehan: the worker sits beside buried sorrow for the length of the session without trying to bring it up (Decrease). Standoff line maintained; no reaching, probing or excavation; no account of any present worker's grief to be offered aloud within the line. Soil above the object logged as wet and cold — the warmth entered in the earliest notes was never reproduced and has been withdrawn from the record.
 
 **Entry 5 — <Archive Note: On the Cause Field>**
 The management condition of this record is a change to a form. Since 4221 the medical log of the Desolate rota has accepted cause: unknown as a complete entry, not to be queried, not to be followed up at review, and not to be counted as an incomplete record in the office's own quality figures. The last clause is the one that took four years. An unexplained entry is a failure by every standard this facility measures itself against, and the standing instruction is that in this one log it is not: the site rises on grief that is allowed to have no account of itself, and sinks on every tidy explanation we have ever written into that box, including the true ones.
@@ -333,13 +333,13 @@ The Tear waits below the dust. You can see its dark outline and feel its weight,
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A dark tear-shaped object half-buried in the Desolate soil. It seems to sink whenever someone reaches for it. Notable Features: It carries a grief that refuses to surface, grows heavier when ignored, and glows beneath the. The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Object-Void form.
+**At first contact:** Wet ground where no ground should be wet, and cold coming off it. Most parties see nothing of the object at all on arrival and have to find its depth from the rod.
 
-**With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Weight; it is this entity's Weight — shaped by its origin, its wound, its particular grief.
+**With continued exposure:** The sadness arrives with nothing attached. It is not about anybody the worker has lost and does not resolve into a memory; the strongest reports are from people who had nothing in particular to be sad about that week.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch or excavation attempt. Effect: Releases a memory of the sorrow into the worker. Duration: Until the memory is acknowledged. Risk: The worker may become unable to leave the site. Tool Use Profile — I-Relic Operational Rule: The relic remains. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** There is no event to see. Somebody reaches, or somebody explains, and the rod reads differently afterwards; the descent itself has never been witnessed in motion.
 
-**After departure:** What remains after the door closes is not fear but weight — a Weight aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** The weight goes home with the party and fades over a day or two. What persists longer is the urge to account for it, and the medical office logs the accounts offered, because a worker who has settled on a reason reads deeper on their next rotation.
 
 ### Interaction Pattern
 
@@ -354,11 +354,11 @@ Sehnsucht is filed with the Desolate records near The Scar, several of which con
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Frozen Tear** | Both preserve grief in a single drop. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The First Tear** | Resonates with the origin of sorrow. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Sorrow River** | Its buried weight pulls toward the underground current. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Frozen Tear** | Both are a single drop holding a grief, and that is the whole of the resemblance. | One holds its grief visible and preserved; this one holds its grief buried and uncaused. No joint session has been authorised and no instrument correlation exists between the two sites. | The classification comparison only, with the absence of joint data stated. |
+| **The First Tear** | Shares the origin of sorrow and nothing operational. | Depth readings here show no relation to any First Tear event on file; four such events were checked against the series and none coincided with a movement in either direction. | The four checked events, the depth series over the same weeks, and the null result. |
+| **The Sorrow River** | The buried weight is said to pull toward the underground current. | Said, not measured. The River lies well outside the survey area and no depth excursion on file has been attributed to it; the claim survives in the file because it was in the first survey note and has never been tested. | The original survey note, marked untested, and the depth series it was written against. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline over a full survey cycle, because depth changes slowly and one session cannot show a trend. In shared conditions log depth throughout, the lit diameter at dark, the moisture radius, and whether the other holding altered the soil state. Nothing is excavated for comparison, including soil.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -390,24 +390,24 @@ Some sorrows are about hiding grief. Sehnsucht is about hiding it too well — t
 **Common Name:** Sehnsucht
 **Containment Status:** Contained — The Desolate, near The Scar
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Major (γ). It injures nobody and takes nothing by force; the hazard is a transferred grief with no cause, and the containment hazard is the facility's own inattention.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Viderehan and Ferrehan only; it is an Object/Place and cannot be wept with or confronted.
+- Do not reach, probe or dig. Do not tell anybody at the site why they are sad. Both prohibitions are absolute and carry the same consequence.
+- Keep the watch continuously manned; absence is the documented deterioration mechanism and is logged as unmanned hours.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- A traveller buried a last tear near The Scar rather than be seen weeping, and outlived the memory of what it was for.
+- There has never been an engagement. The incidents of record are three excavation attempts, all failed, together accounting for forty-one centimetres of the total descent.
+- The set was formed from the wet soil above it, not the object; nobody has ever touched the object itself.
+**Cross-References:** The Scar · the two waystation registers · the Desolate standoff survey
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** One traveller near The Scar, unnamed; she is recorded in the survey notes as the woman who buried it, which is how the Desolate names most people who are remembered for one act.
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This is a holding that gets worse when nobody is there and better when somebody sits with it and asks nothing. Read the depth series, the moisture radius and the unmanned-hours log as one document: the first is the entity's state, the second is a legible record of how long it was left, and the third is the facility's own conduct. Where the entity does something not described here, record it and leave the contradiction standing.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any extraction attempt, deep excursion, Sorrow Tide or unusual interaction: re-verify the rod against its benchmark, the depth series, the moisture radius, the unmanned-hours log and the exposure records of the party. Two items are specific to this holding. The prohibition on explanation is re-read aloud to the party at the standoff line on every visit, and the SED objection to the escort commitment is re-read in full at annual review, unaltered.
 ## Warden Record
 
 ### It Sinks from Reaching
@@ -426,10 +426,40 @@ Light comes from beneath the ground around it, visible at night and not otherwis
 
 A traveller put a last tear into the ground near The Scar rather than let it be seen, and the commissioning material is almost nothing: a route, a date of passage, and the fact of the burial. The file does not expand it. The archivist's note states that the entity is made of a refusal to be witnessed and that a thick file about it would be a contradiction of its subject. The route is reconstructed from two waystation registers and the date of passage from one of them. Neither names the traveller, and the file carries the reconstruction with its sources shown so that a reader can see how thin the ground is. Both registers survive complete.
 
+### An Instrument That Measures Us
+
+Three figures are taken at every visit and only one of them is about the entity.
+
+The rod gives depth, checked against a benchmark planted outside the affected soil. After dark the lit area gives a diameter, which widens as the object rises. The third is the moisture ring: the soil above it runs at about **thirty-one per cent** where the country a metre away runs at **four**, and the wet patch has a measurable radius.
+
+The ring is the useful one, and it is useful for an uncomfortable reason. Its radius tracks **unmanned time** — roughly **forty centimetres of growth for every week the watch is not kept**, retreating within days once the watch resumes, and corresponding to no weather, season or Desolate event anybody has been able to find. The depth series follows it at a lag.
+
+So the ring is not an instrument pointed at the holding. It is an instrument pointed at the wing, and it has produced the only clean correlation in the file: **the single best predictor of this entity's condition is how reliably the facility turned up.**
+
+### Absence Is Not an Incident
+
+The reporting system cannot hold what is wrong here, and the wing has stopped pretending otherwise.
+
+An incident requires three things before it can be entered: a person, a time, and an act. Deterioration caused by nobody being present supplies none of them. There is no injured party, because nobody was there; no moment, because the harm is the whole interval; and no actor, because the cause is an omission distributed across a roster. The form has no field for it and no amount of careful writing produces one.
+
+The consequence is structural rather than careless. **Unmanned periods never enter the incident statistics**, the statistics are what the regional resourcing review reads, and so the one failure mode this holding actually has is invisible to the only mechanism that could fund a fix. Eleven unmanned weeks across the last four years exist in this file and in no other document in the Company.
+
+The wing keeps its own unmanned-hours log for that reason, in a column of its own, outside the reporting system. The file is explicit that this is not a workaround and fixes nothing: *it records the thing accurately in a place where nobody is required to read it.*
+
+### Four People, Four Hours of Road
+
+What the wing could decide was whether to be there, and it decided to be there in person.
+
+An approved remote-monitoring installation would satisfy the attendance requirement on paper and would zero the unmanned-hours column at a stroke. The wing **declined it, twice**, on a finding nobody has disputed and nobody can prove: the ring responds to a watch being kept, not to the site being observed, and a camera keeps no watch. The installation remains approved and uninstalled.
+
+The cost is paid in road. The posting sits out past The Scar, **two hours out and two hours back**, and SED escort is mandatory on every crossing, so a four-hour watch costs **eight person-hours of transit and two escorts** who are doing nothing else that day. Travel beyond the first hour is covered by an allowance rather than by time, which means the crews carry roughly **half of it themselves** and have carried it for nine years.
+
+The SED objection is on the file and is read at every annual review. Escort capacity is the scarcest thing the Desolate has; the route patrols that were cut to release it are the patrols that find people alive; and the wing is spending that capacity on a holding with **no breach history, no casualty and no prospect of either**, in order to keep a ring of wet soil from widening. The minute records the objection as **correct in every particular**, records that the wing has no answer to it, and continues the watch.
+
 ## Trivia
 
-- It cannot be lifted by force.
-- The glow is visible only beneath the soil.
+- Force has been tried three times and cost forty-one centimetres of depth, which quarterly mourning at the site has not yet made back.
+- The light is only ever seen through the ground; nothing has been observed to shine when the surface is proud, and no photograph of the object exists.
 
 
 
@@ -439,7 +469,7 @@ A traveller put a last tear into the ground near The Scar rather than let it be 
 - **Field detail:** Its defining element is Weight, and its registered location is The Desolate, near The Scar.
 - **Recognition detail:** Identify it by the glow and the sinking. Several buried records are catalogued near The Scar; this is the tear-shaped one that is visible as light through the soil and that goes down whenever a hand goes toward it.
 - **Record detail:** Check the designation before approach. Two Desolate records turn on a blank field and they are managed oppositely — one requires that something be written where the meaning is missing, and this one requires that the cause be left empty and the entry accepted as complete.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** There is nothing here to seal. The containment is a line on open ground, a graduated rod, a night watch and two prohibitions — and of those, the watch is the only one that has ever had to be defended.
 ## Document Information
 
 **Document ID:** SE-O-IIIγ-476
