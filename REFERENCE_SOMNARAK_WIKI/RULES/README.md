@@ -32,6 +32,7 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-24`](R-24_THE_TALE_STANDARD.md) | The Tale Standard — the Narratio section is the benchmark; generic prose measured by 8-gram sharing, clean at ≤ 0.05 |
 | [`R-25`](R-25_FIVE_PER_BATCH.md) | Five Per Batch — five dossiers per prompt through the combined rewrite-and-classify pass, one gate commit each |
 | [`R-26`](R-26_FIVE_THEN_SEVEN_THEN_TEN.md) | Five, Then Seven, Then Ten — the batch floor ratchets when the files are simple and the gate passes first time |
+| [`R-27`](R-27_THE_TALE_STANDARD_IS_PER_SECTION.md) | The Tale Standard Is Per Section, Not Per File — every description-bearing section is measured on its own; Behavior is an example, not the list |
 
 ## Precedence
 
