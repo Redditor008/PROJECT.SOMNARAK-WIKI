@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **200** |
-| Pending — no disposition-bearing line found by scan | 103 |
+| **Classified here, with a quoted line of evidence** | **201** |
+| Pending — no disposition-bearing line found by scan | 102 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 200 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 201 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 103 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 102 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -204,6 +204,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Redcage | `SE-C-IIIγ-120` | Gives other entities nothing. Three authorised attempts to match its additions against the Iron Judge's complete record of proceedings were abandoned — no bar has ever been matched to a case; six co-presences with the Debt Wall moved neither total, the file warning the resemblance *"is thematic rather than operational"*; the Angry Maiden raises its pulse and inner-face temperature on all four approaches but *"the bar count did not change on any of them."* Gives F01 16–22 Han-Energy and an injustice counter that cannot be disaggregated, dated or acted on, and costs it every detention cell within two kilometres. An empty frame with no door that has never harmed anybody physically and whose only action is to take more floor. Neutral. |
 | The Dancing Chains | `SE-C-IIIγ-102` | Gives other entities nothing and takes nothing from them: the apparent synchrony with the Hollow Choir is *"produced by the listener"* and the two rates are unrelated across five co-presences; three co-presences with the Maw moved nothing; the Kind Healer was tried twice with no gauge movement on either occasion. Gives F01 16–22 Han-Energy, obtainable only by binding a worker, and a collapse dataset frozen at fourteen points the ethics board will not let it extend. Costs it nine conduct entries for refusals that were not refusals, each now permanently cross-referenced to this file. It is inert until touched and has never bound anybody who did not make contact with it. Neutral. |
 | Memory Lock | `SE-C-IIIγ-300` | Refuses other entities what it refuses everyone: the Memory Weaver sought access twice and produced *"the largest increments in the series"* of hardening with no reversal, and the wing has entered a standing refusal against a third approach; three co-presences with the Final Door moved nothing in either direction; the Burning Library holds pages about the sealing and not the contents. Gives F01 16–22 Han-Energy and a secret it cannot read, review, or decide about — nine periodic reviews, nine confirmations, no reviewer able to say what was confirmed. Costs it a self-binding so complete that a fire crew entered the adjacent bay without an answer to a single hazard question. It never acts; its danger is realised entirely through its keepers' good intentions. Neutral. |
+| Devouring Bloom | `SE-C-IIIγ-916` | Gives other entities nothing: five co-presences with the Sorrow Flower show *"the two have nothing in common but a shape"*; three with the Broken Whisper produced *"no transfer, no amplification, no change in front rate"*; four with the Debt Wall produced no cross-effect, the file cautioning that two holdings whose totals both rise are not thereby connected. Gives F01 16–22 Han-Energy and takes two posts a year in penalties for a destruction certificate that cannot truthfully be signed, having thinned the very survey that keeps the tunnels safe. It hunts — it closes on whatever is nearest and has taken personnel — but it is slow, confined to the Zone B tunnels, and its breach spreads spores rather than releasing anything. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
