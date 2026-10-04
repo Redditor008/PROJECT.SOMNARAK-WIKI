@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Non-Organic — A dream-figure formed from a whisper crushed beneath layers of static and red light — half-formed, watching from the edge of sleep, never fully arriving. Little body to it; only the pressure of a silenced warning. Fever-cold, it smells of char and dead signals. |
-| **Movement** | Stationary — a device (internal parts may move). |
+| **Movement** | Mobile across the Desolate and never found at its last logged bearing; it does not approach and has never been observed to follow. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | δ (Critical) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan from the sleep layer, in pairs, on the fixed clock; Ferrehan where the distortion is heavy; Pugnahan prohibited. |
 
 ### Operational Notes
 
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Collapsed Whisper's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Nothing is contested. The worker is in the dream layer listening to a sentence that will break, the second worker is there to surface them, and the only decision in the session is when to end it.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Capture fragments without inventing the missing message**.
 
 ### Consequences
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Dream
 - **Primary marker:** A dream-figure formed from a whisper crushed beneath layers of static and red light. It watches from the edge of sleep.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Mobile. Take the bearing and distance at first contact and again at the break, because the displacement between sessions is the only figure here that behaves.
 - **Element signature:** Grudge
 - **Registered location:** The Desolate — mobile
 
@@ -116,36 +116,36 @@
 | Field | Detail |
 |---|---|
 | **Form** | A dream-figure formed from a whisper crushed beneath layers of static and red light. It watches from the edge of sleep. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Position / movement** | Mobile across the Desolate; bearing and distance are taken at contact and at the break, and the two are logged separately. |
+| **Material / signature** | Grudge. Static and red light with little body to it, fever-cold, smelling of char and dead signals; the figure is at the edge of the sleep and never arrives fully in it. |
+| **Distinctive markers** | It begins a sentence and stops. Nothing else in the Desolate register produces speech that breaks at the same point every time. |
+| **Identification** | Confirm designation and manifestation before entering the layer. The register holds several incomplete-message holdings and this is the one that is trying to say something urgent. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** There is no body worth describing, so the protocol is the sentence and the position. Record the bearing and distance at contact, the elapsed time from the first sound to the break, the number of syllables that arrived intact, whether the figure was nearer or further at the break than at contact, and the state of the static at the moment it went. The content goes in the residue log afterwards, in the worker's own words, and nowhere else.
 
 ## Origin
 - **Formation:** The Whisper formed from a warning that collapsed before reaching anyone.
 - **The Sorrow:** The grief of understanding danger too late to communicate it.
 - **The Event:** A Desolate scout tried to warn a caravan of a Han-storm; the message broke apart in the storm.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a healer who absorbed too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **The People:** A scout, and a caravan of families and traders he never reached. Neither is named anywhere in the record. The caravan is known only from a manifest that was filed at departure and never closed.
+- **Expanded origin context:** The storm itself is well documented — the surge is in the Desolate weather series with its onset hour and its track — and the caravan is documented only by its departure manifest. The archivist's note sets the two documents side by side and observes that the facility has the storm in detail, the scout from one line in a patrol roster, and the people he was running toward only as a count.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The whisper reforms and becomes audible. | Decrease |
-| **Pugnahan** | Dream-space collapses into red static. | Increase |
-| **Viderehan** | Shows the danger and the failed warning. | Stable |
-| **Ferrehan** | Tests whether the worker can listen through distortion. | Decrease |
+| **Flerehan** | The whisper holds together and the sentence finishes. It is the only condition in which the entity completes anything, and workers report the completed version as worse than the fragments. | Decrease |
+| **Pugnahan** | The dream layer collapses into red static, the session ends, the worker is injured and nothing is learned. Prohibited. | Increase |
+| **Viderehan** | Shows the storm and the running, up to the point where the voice goes. The gauge does not move. | Stable |
+| **Ferrehan** | The worker stays in the layer through the distortion and does not surface early. The gauge falls, and this is the only work here that costs the worker anything. | Decrease |
 
 
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Collapsed Whisper is recorded as a Subject with Subject-Dream manifestation and Grudge elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Collapsed Whisper is a Subject with Subject-Dream manifestation and Grudge expression, mobile in the Desolate. Nobody works this file awake: contact is made from monitored sleep stations, two in the layer at most, on a fixed clock. Flerehan and Ferrehan both lower the gauge and do it differently — the first lets the sentence finish, the second asks the worker to stay while it does not.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A falling gauge presents as a longer run before the break and a steadier figure at the edge of the layer. Nothing is resolved; the next session starts from the same place. A rising gauge presents as a shorter run and a thickening static, and the usual cause is a worker pressing for the rest of the sentence. The break time is logged before anything else, because it is the one number that answers to how the session was conducted.
 ## Breach Behavior
 
 > *"Collapsed Whisper has broken free. Drives personnel mad with half-heard secrets."*
@@ -153,17 +153,17 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | Collapsed Whisper expands beyond containment like a spreading tide. It drives personnel mad with half-heard secrets. |
+| **Movement** | Expands as a volume rather than as a figure. Inside it, personnel cannot stop attending to something that is not being said; outside it, nothing happens at all. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Nobody is selected. The affected volume takes whoever is standing in it, and the entity has never been observed to move toward a person. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Transform. The volume of ground in which half-heard speech is unavoidable grows; nothing escapes and nothing pursues.
+- **Containment priority:** Map the boundary from outside, hold the Warning Fang at the edge, and recover people as the volume recedes. No entry.
+- **Sorrow Gauge on breach:** Opens at 40% and adds 10% a turn while the boundary is still growing; it levels when the edge stops, not when anybody acts.
 
 ## M.A.W. Equipment
 
@@ -217,11 +217,11 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Cost:** The wearer hears every warning that arrives too late.
 
-*Stigmas are granted at random by Collapsed Whisper upon a successful work, not manufactured.*
+*The thread is not issued. It turns up after a session in which the worker let the sentence break without reaching for the rest of it, which the armoury records as four percent of them and cannot predict.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Collapsed Whisper's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+The set carries the entity's single property into three forms: each piece gives the bearer part of something and never the rest. The fang lands before it is heard, the plate warns a half-second late, the thread tightens at a hazard it cannot name. The cost is uniform — the bearer begins to act on incomplete information and to be right often enough to keep doing it.
 
 ### Field Use Record
 
@@ -238,11 +238,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It sings through dream distortion.
-- Its warnings are fragments, not prophecies.
-- Personnel feel hope before recognizing the danger.
+- Reached only from the sleep layer; the waking chamber holds apparatus and no subject.
+- What arrives is a fragment of an urgent sentence, never a prediction and never a complete instruction.
+- The hope comes first — the sense that something important is about to be said — and the recognition comes after the break.
 
-**Personnel Note:** *"It was singing. I felt hope. The message was broken, but the act of trying to deliver it was still there."* — Researcher, R.D.
+**Personnel Note:** *"It was still trying. That is the part nobody prepares you for. The message was gone a long time ago and it is still running."* — Researcher, R.D., Desolate survey
 
 
 
@@ -251,11 +251,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Collapsed Whisper as a Subject with Subject-Dream manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at The Desolate — mobile. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Collapsed Whisper's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Break time, syllable count, bearing at contact and at the break, and the static's condition. The entity does not respond to being observed and the record says so rather than implying patience. |
+| **Activation or escalation** | Escalation is read off the session rather than the entity: the point at which a worker starts pressing for the rest of the sentence. Record who pressed, the break time that followed, and the clock at which the pair was surfaced. |
+| **Post-contact review** | Break time, syllables, bearings, gauge, and the residue statement in the worker's own words. The statement is logged verbatim and then left alone. Nobody works on it afterwards, including the worker who gave it. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Two in the layer, never more; one monitor awake with the clock and the authority to surface both. Record the first sound, the elapsed time to the break, the intact syllables, and both bearings. Do not ask the entity to repeat itself — it has never once given the same fragment twice — and do not supply a word it did not say, in the layer or in the debrief.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -266,16 +266,17 @@ Collapsed Whisper (C-IVδ-249 [GS]) is logged as a Subject-Dream manifestation e
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through dreams of personnel near the Desolate. Subjects hear warnings that cannot be completed. Its warnings are fragments, not prophecies.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log, Year 4233>**
 The grief of understanding danger too late to communicate it.
 
 **Entry 4 — <Containment Notice>**
 Management: Capture fragments without inventing the missing message. Work response — Flerehan: The whisper reforms and becomes audible. (Decrease); Pugnahan: Dream-space collapses into red static. (Increase); Viderehan: Shows the danger and the failed warning. (Stable); Ferrehan: Tests whether the worker can listen through distortion. (Decrease). Personnel feel hope before recognizing the danger.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
+The Director's note: *"The scout did everything correctly and the storm was louder than he was. We hold the consequence of that and we are forbidden — rightly — to pass on what it says. I have read the objection to that position every year of my tenure and I have never been able to answer it."*
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a healer who absorbed too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
-**Threat rating:** Low. A scout’s warning, dissolved by the storm, repeating eternally. Effect: proximity induces the agony of arriving with the warning too late to be spoken, and a resentful fury that burns through containment barriers.
+**Threat rating:** Critical (δ). Proximity installs the conviction that something vital is almost being said; on breach, a widening volume of ground becomes unworkable for anybody standing in it.
 
 ## 최종 관찰 (Final Observation)
 
@@ -294,9 +295,9 @@ The dream collapses around a voice. You see a caravan falling through red dust, 
 
 **At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Dream resolves: A dream-figure formed from a whisper crushed beneath layers of static and red light. It watches from the edge of sleep.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Grudge is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** The static acquires structure. Workers begin to hear the shape of the sentence — its length, its urgency, the place where the name of the hazard would sit — without any of its content, and the shape is what they bring out with them.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Grudge becomes something you can taste, hear, or feel on your skin. The Subject-Dream has crossed the line between containing and becoming.
+**When the entity activates:** The layer tightens, the red goes flat, and the voice starts. It runs for about a second and a half. Then it stops, and the stopping is not a fade but a cut, and the worker is left holding the part of a sentence that arrived.
 
 **After departure:** You leave, but the Grudge follows — in the hands, in the chest, in the particular silence of the corridor afterward.
 
@@ -304,20 +305,20 @@ The dream collapses around a voice. You see a caravan falling through red dust, 
 
 Collapsed Whisper does not exist in isolation. Its recorded relationships with The Broken Whisper, The Drift Fog, The Observing Bird should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone. The question here is whether another presence lengthens the run before the break, and nothing has. Log the range, the duration, the gauge on both sides, the break time, and both bearings, read afterwards by somebody who was not in the layer.
 
 
 ### Entity Interaction Record
 
-Collapsed Whisper must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Collapsed Whisper sits among the register's incomplete-message holdings and is kept distinct from them by what the incompleteness is for. Here the message is urgent, time-bound and now useless. The entries below are observed; none has lengthened the run before the break, which is the measurement that would matter, and the file says so rather than implying an influence it cannot show.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Broken Whisper** | Both preserve incomplete messages. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Drift Fog** | The Fog obscures the warning's origin. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Observing Bird** | Records fragments the Whisper cannot complete. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Broken Whisper** | Both hold something unfinished and they are unfinished in different ways. | Compared on paper and never paired. That holding is an appeal that the listener completes; this one is a warning that cannot be completed by anybody, because the thing it warned about has already happened. A worker briefed on one is re-briefed here. | The briefing comparison and the standing note that no pairing has been attempted. |
+| **The Drift Fog** | The Fog sits over the ground this one crosses. | Co-incident in the Desolate rather than paired; the two have been logged in the same sector eleven times. Break time, syllable count and gauge are unchanged on every occasion, and the only measurable effect is on the survey crews' own visibility. | The eleven co-incidences with break times, and the survey office's visibility log. |
+| **The Observing Bird** | One records; this one cannot finish. | Attempted twice and abandoned. The Bird withdrew both times at about forty metres and did not return to the sector for some weeks; nothing in the Whisper's series moved. The condition of withdrawal is recorded and the pairing is not scheduled again. | Both withdrawal distances, the Bird's absence period, and the unchanged break series. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, keep the second outside the contact bearing, and record the first shared change with its range, duration and trigger, the gauge on each side, and the break time across the pairing. The syllable count is compared afterwards against the standing series, because a longer sentence would be the first thing ever attributable to another entity here.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -349,12 +350,12 @@ Some sorrows are about the danger. Collapsed Whisper is about the warning — th
 
 **Classification:** Sorrow Entity — `C-IVδ-249 [GS]` · City origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Subject-Dream manifestation
 **Common Name:** Collapsed Whisper
-**Containment Status:** Contained — the Desolate
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. A scout’s warning, dissolved by the storm, repeating eternally. Effect: proximity induces the agony of arriving too late.
+**Containment Status:** Not physically contained — mobile in the Desolate, monitored by bearing and worked from the sleep stations.
+**Comprehension Level:** 2 — Basic
+**Threat Assessment:** Critical (δ). Proximity leaves personnel attending to an unfinished urgent sentence they cannot stop pursuing; on breach the affected volume grows and everyone inside it is affected alike.
 **Containment & Handling Procedures:**
-- Pugnahan is the primary Work Type.
-- The whisper is fragmentary; do not attempt to reconstruct.
+- Flerehan and Ferrehan are the working types; Viderehan for the record; Pugnahan is prohibited.
+- Log the fragment verbatim and stop there. Reconstruction is prohibited for everybody, including the worker who heard it.
 **Observation Notes:**
 - A scout’s warning dissolved in a Han-storm before reaching the caravan.
 **Cross-References:** The Desolate · The Scar · The Torn Whisper
@@ -363,9 +364,9 @@ Some sorrows are about the danger. Collapsed Whisper is about the warning — th
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This holding produces one thing — part of an urgent sentence — and the whole of the file is an argument about what may be done with it. Read the break series, the bearing series and the residue log together, and note that only the first two are ever analysed. The entity is not dangerous because it lies; it is dangerous because it is almost certainly telling the truth about something, and nothing in the record makes that usable. Where it does something not described here, log it and leave the contradiction standing.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, Sorrow Tide, transformation attempt or unusual interaction: re-verify the break series, the bearing series, the exposure log and the gauge. Three further items apply here. The residue log is confirmed intact and unindexed, by somebody who does not read it. The terrain-word count is reconciled against the survey office's brought-forward schedule. And the field office's objection to that arrangement is re-read in full, unaltered.
 ## Apex Record
 
 ### A Voice That Breaks Before Words
@@ -394,10 +395,38 @@ Statements of what workers believe was nearly said are logged verbatim and then 
 
 Sleep stations are run at reduced occupancy, never more than two workers in the layer at once, and the second worker is there to be surfaced if the first cannot be. The pairing has been needed four times in the holding's history and worked on all four occasions.
 
+### What the Break and the Bearing Measure
+
+Two series are analysed here, and neither of them touches the content.
+
+The first is the break. From the first sound to the cut is **about a second and a half, across eight hundred and forty recorded sessions**, with a spread narrow enough that the monitors use it as a clock. **No fragment has ever repeated.** The intact portion runs to **four syllables at the outside** and is usually fewer, and the sentence always cuts before the place where a hazard would be named — which the file reports as an observation and declines to call deliberate.
+
+The second is the bearing. It is taken at contact and again at the break, and reconciled against the next session's. The entity is **never recovered where it was last logged**: the mean displacement between sessions is a little over three kilometres, the direction is indifferent to where the crews are, and in nineteen years it has not once been found closer to an occupied position than the session before. The series is the reason the file can state, flatly, that this holding does not come looking for anybody.
+
+Those two are the whole of the analysis. What was nearly said is written down verbatim and never examined, and the gap between the two practices is deliberate.
+
+### An Alert Must Name Its Hazard
+
+A warning is only a warning if it says what, where and when. Anything less is not a lesser warning; it is noise, and noise issued by an authority is worse than silence because it spends the response discipline that the real alert will need.
+
+The rule binds here absolutely. The wing may not pass a fragment to a field crew, in any form, however urgent it sounded in the layer. It may not circulate them, summarise them, or tell a crew that something was heard. The reasoning is in the protocol and is not evasive: a crew told *something bad was almost said about the ground somewhere in the Desolate* cannot act on it except by treating all ground everywhere as suspect, which is indistinguishable from treating none of it as suspect, and the second time it happens they will carry on walking.
+
+It has cost once in a way nobody has stopped arguing about. **Nine years ago a fragment with two intact syllables was logged on a Tuesday. Eleven days later a footing failure took two surveyors on open ground forty kilometres from the session bearing.** Whether the fragment was about that ground is unknowable and will stay unknowable, since there is no fragment to re-read for meaning and no permission to re-read it. The review found that the rule had been correctly applied and that it would be correctly applied again on the same facts. Both findings are in the file, on the same page, and the file makes no attempt to reconcile them.
+
+### A Survey Brought Forward
+
+What the wing can move is its own schedule, and that is the whole of the remedy.
+
+The survey office already surveys footing in the Desolate on a cycle, and already has discretion over the order. So a clerk — who has read none of the log and is not permitted to — checks each new residue statement for the presence of a terrain word and nothing else, and reports a count. A count above zero moves an already-scheduled survey forward. No new work is commissioned, no sector is named as a concern, and no crew is told why the order changed.
+
+The distinction between counting a word and interpreting a sentence was argued over for a long time before it was allowed, and the ruling is in the protocol: a lexical check performed by somebody with no access to the meaning is not interpretation, and if it ever becomes one the arrangement ends the same day. **Twenty-three counts above zero. Twenty-three surveys brought forward. Two found something that needed doing.**
+
+The field office's objection is on the file and is read at every annual review. Crews are being routed around a hazard by information deliberately withheld from them, by an institution that has decided they cannot be trusted with an imprecise warning — which may well be right, and is still a judgement made about them, in their absence, by people who will not be on that ground. The two finds were the office's own crews walking onto something somebody in the building had a reason to suspect and no permission to name. The minute records the objection as **correct, and the arrangement continues**, and notes that no one has proposed an alternative that does not end with a crew ignoring a real alert.
+
 ## Trivia
 
-- It cannot deliver the same warning twice.
-- Its dream collapses when someone claims complete understanding.
+- No fragment has ever repeated. Eight hundred and forty sessions, eight hundred and forty different broken sentences.
+- The layer goes to static the moment a worker says, aloud or in the dream, that they have understood.
 
 
 
@@ -405,9 +434,9 @@ Sleep stations are run at reduced occupancy, never more than two workers in the 
 
 - **Classification detail:** Collapsed Whisper is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is The Desolate — mobile.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the cut. A sentence that stops at about a second and a half, in static and red light, from a figure that never fully arrives, is this holding and no other.
+- **Record detail:** The register's other unfinished-message holdings are about the message. This one is about the lateness: the content was accurate, the delivery failed, and the people it was for were gone before the first word. A worker trained on the others is re-briefed here, because the procedures diverge at the only point that matters — those may be interpreted, and this one may not.
+- **Containment detail:** Nothing is sealed. The entity is mobile, the contact is made in sleep, and what leaves the session is carried out in the worker's head — which is why the residue log exists and why nobody is allowed to work on it.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-249
