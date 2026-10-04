@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 29 / 303 dossiers free of template residue.**
+**Counter: 36 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,13 +225,27 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  5031   (prose only; R-23 furniture excluded)
-median generic fraction       0.098
-worst                         0.293   SE-N-Iα-686 Torn Window
-clean at <= 0.05               85 / 303
+shared 8-grams (>= 10 files)  4908   (prose only; R-23 furniture excluded)
+median generic fraction       0.095
+worst                         0.292   SE-N-Iα-686 Torn Window
+clean at <= 0.05               95 / 303
 ```
 
-**Counter: 85 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+**Counter: 95 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+
+**Batch under `R-25`, 2026-10-05 — five dossiers, five commits, all gated.**
+
+| Dossier | Before | After | Subs | Disposition |
+|---|---|---|---|---|
+| Frozen Mirror `O-Iα-643` | 0.208 | **0.003** | 58 | Neutral |
+| Amnesia `O-IIβ-914` | 0.194 | **0.000** | 60 | Neutral |
+| Fallow `O-Iα-554` | 0.194 | **0.001** | 50 | Neutral |
+| Broken Ruin `O-IIIγ-559` | 0.191 | **0.009** | 56 | Neutral |
+| Exiles' Wall `O-IIIγ-617` | 0.190 | **0.008** | 52 | Neutral |
+
+Two of the five (Amnesia, and earlier Vellum Man) also lost a verbatim duplication of the Tale
+inside the Origin section, which `verify.py --dupes` had been reporting unaddressed.
+
 
 The threshold is set at 0.05 because that is what the eleven already-bespoke dossiers achieve
 (0.012–0.046) with all their furniture intact. Zero is not reachable at file level and is not the

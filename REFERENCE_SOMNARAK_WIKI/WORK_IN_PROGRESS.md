@@ -16,10 +16,10 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **29 / 303** |
-| **Dossiers at the Tale standard (`R-24`, prose generic fraction ≤ 0.05)** | **85 / 303** |
-| Archive median prose generic fraction | 0.098 |
-| **Dispositions classified (Workstream 5)** | **283 / 303** |
+| **Dossiers free of template residue (Workstream 6)** | **36 / 303** |
+| **Dossiers at the Tale standard (`R-24`, prose generic fraction ≤ 0.05)** | **95 / 303** |
+| Archive median prose generic fraction | 0.095 |
+| **Dispositions classified (Workstream 5)** | **290 / 303** |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
 
@@ -74,7 +74,7 @@ The owner is right and the `0.00%` is also right. `tools/boilerplate_report.py` 
 | Distinct residue lines | 135 |
 | Residue instances | 3382 |
 | Dossiers carrying residue | 278 / 303 |
-| **Dossiers clean (fixed counter)** | **29 / 303** |
+| **Dossiers clean (fixed counter)** | **36 / 303** |
 
 Opening baseline was 146 distinct / 3,745 instances / 11 clean. The first ten entities taken under this workstream were all drawn from the Workstream 5 pending pool, so each one closed a disposition row in the same commit as its clean.
 
@@ -139,7 +139,7 @@ That was the first, furniture-blind cut of the metric. On prose they measure **0
 ten are at the standard; the claim has been corrected here and in `R-24` rather than quietly dropped.
 What survives in a typical unrewritten file is the Combat Actions flavour text, the Battle Phases,
 the M.A.W. appearance and ability lines, the observation-stage cells and the stock interaction
-effects — 218 dossiers still sit above 0.05.
+effects — 208 dossiers still sit above 0.05.
 
 One generator artefact was found and repaired by this pass: 29 dossiers published an unevaluated
 Python expression in the Combat Record `Difficulty` row, with the entity's numeric suffix standing
