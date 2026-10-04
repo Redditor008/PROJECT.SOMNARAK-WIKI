@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **245** |
-| Pending — no disposition-bearing line found by scan | 58 |
+| **Classified here, with a quoted line of evidence** | **246** |
+| Pending — no disposition-bearing line found by scan | 57 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 245 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 246 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 58 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 57 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -249,6 +249,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Cracked Flesh | C-IIIγ-921 | Neutral. It has *"no occupant, no gauge of its own worth reading, and no behaviour beyond a threshold and a rate of expansion,"* cannot pursue, and *"is avoided completely by not standing still"* — it cannot reach another entity and no entity can be staged onto it. What F01 gains is *"ninety-three maps of this field and all of them are on people"*: a survey of the ground that exists only as permanent marks on its own staff, usable for nothing, plus a training site that writes on four hundred recruits a year. |
 | Lethe | C-IIIγ-928 | Neutral. It *"does not select, prefer or pursue"*, pools only in the lowest available volume, and *"has never risen past a sealed floor"* — it cannot reach another entity and nothing can be staged into a volume with no occupant to respond. Sealed suits, silence and written-only contact *"none altered the stage times by a measurable amount."* What F01 holds is management information it has certified as legally void: *"eleven hundred concerns from a workforce that raises none."* |
 | The Foam Flood | C-IIIγ-948 | Neutral. Adjacent holdings were monitored across *"all 212 sanctioned channels and recorded no gauge movement, no behavioural change, and no alteration in breach interval; the field does nothing whatever to any other entity."* Its one cross-flagged pairing is a prohibition rather than an observation — the row *"records a prohibition, not an observation"* — so it is unevidenced in both directions and is not counted here. What F01 gets is Han-Energy from a grief it learned to amplify: *"yield per sanctioned channel rose by twenty-two per cent."* |
+| The Happy Mask | C-IIβ-051 | Neutral. Ninety-one staged pairings across four entities over nineteen years return nulls: with the Maw the pulse *"has no detectable effect on anything"*; with the Kind Healer *"neither helps nor hinders the other"*; with the Masked Dancer *"co-presence changes neither"*; with the Orphaned Bell *"the Bell's own behaviour is unaltered in every trial."* It suppresses nothing and frees nothing. What F01 gains is the one instrument that can measure compelled display — and its only use of it has been to argue for Standing Instruction 9(c). |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
