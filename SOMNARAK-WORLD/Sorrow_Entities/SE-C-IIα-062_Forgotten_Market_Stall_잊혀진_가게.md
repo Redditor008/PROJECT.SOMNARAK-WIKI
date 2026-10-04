@@ -15,7 +15,7 @@
 | **Element** | Void |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A market stall that appears overnight in the abandoned commerce district — wood, cloth, and rusted iron, ordinary-looking, except its shape and inventory change with each appearance and no one is ever tending it. It is bloodless-cold; the goods feel half-remembered, and the air smells of ash. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Stationary while present, but never twice in the same place; position is logged as a bearing and distance from the market gate at every session. |
 | **Location** | Zone B, Forgotten Market — mobile manifestation |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -88,13 +88,13 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Forgotten Market Stall's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Viderehan and Ferrehan only, worked from the public side of the table, through the hours of darkness. Labels are copied and nothing is taken up. A worker who has picked an item up puts it down, says so aloud, and is logged as having done it; the entry carries no fault and exists so that the count stays honest.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Composure** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
+- The failure here is a purchase. Nobody is attacked, nothing is forced, and the price is agreed: a coin, a button, or a small memory the buyer judges unimportant at the time.
+- Standing at the table for a long shift produces a specific and measurable drift. Workers begin to find the goods reasonable — not tempting, reasonable — and start constructing the argument for why one item would be an acceptable acquisition. The argument is always a good one, and the shift ends when it is made aloud.
 - The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
 - If the resolution condition is not fulfilled, Forgotten Market Stall reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
 
@@ -125,13 +125,13 @@
 | **Distinctive markers** | Sells memories, Echoes, and objects that should no longer exist. Goods carry labels describing a lost life or moment. Disappears by morning, leaving a warm patch of ground. |
 | **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Fix the position first — bearing and distance from the market gate, to the nearest metre — because it is the one field that is never the same twice and the one the file would be useless without. Then the frame: how many trestles, what cloth, whether the iron is the same rusted iron as last time, and the height of the table, which has varied by almost half a metre across the record. Then the stock, item by item, with every label copied word for word and nothing lifted or turned over. At first light, chalk the outline, take the ground temperature at the centre and at four marked points on the surrounding pavement, and enter both. Avoid generic descriptors; *strange* and *anomalous* are admissions of not having looked, and on this holding the detail that matters has always been an ordinary one.
 
 ## Origin
 - **Formation:** The Stall formed from the grief of merchants whose livelihoods vanished as the city expanded.
 - **The Sorrow:** The loss of commerce, community, and the ordinary exchanges that made a life feel real.
 - **The Event:** The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** The merchants of the Forgotten Market, named in the ward's tenancy record pitch by pitch, with the date each tenancy lapsed. The lapses cluster in a span of about four years. No closure order was ever issued against any of them, and none of them was ever told the market had ended, because on paper it has not.
 - **Expanded origin context:** The Director's annotation: 'This sorrow is not anomalous. It is representative. The Void at Zone B, Forgotten Market is the same grief, the same refusal, the same wound. The Object/Place is what happens when the city stops pretending it doesn't hurt.'
 
 ## Behavior
@@ -153,9 +153,9 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Forgotten Market Stall is recorded as an Object/Place with Object-Void manifestation and Void elemental expression. The current record places it at Zone B, Forgotten Market — mobile manifestation; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Forgotten Market Stall is an Object/Place with Object-Void manifestation and Void expression, appearing after dark within the Forgotten Market in Zone B and never outside it. Viderehan opens the histories carried by the goods and moves nothing. Ferrehan is the work that matters: the table responds by offering better things, and enduring that is the whole of the cycle. It has never been recorded elsewhere, and aggression ends the encounter immediately by making the stall absent.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Read it in the stock. A falling gauge presents as thinning — fewer items, plainer ones, labels that describe nothing much. A rising gauge presents as improvement: the table gets better, the labels get more specific, and at the top of the curve a worker will find something on it that is addressed to them in all but name. That is the reading, and it is also the only warning the holding gives. Log the stock at the start and end of every watch, and log what the best item on the table was.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -195,7 +195,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Forgotten Market Stall: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at Zone B, Forgotten Market — mobile manifestation, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is commercial rather than physical. Record the bearing at which the stall appeared, the hour, the stock at first sight, the point at which the stock began improving, and what the best item on the table was when the watch ended. Void and nightfall are the conditions; the measurable change is always in the inventory and never in the structure, which is wood, cloth and rusted iron throughout.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to Forgotten Market Stall: it is not a generi
 | **Risk** | Minor (α) — Low danger Object-Void producing Void pressure; The buyer may acquire a memory that never belonged to them or lose a small personal memory as payment. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** bearing from the gate → hour of appearance → stock at first sight → the point at which the stock began improving → best item offered and its label, copied verbatim → any approach by a member of the public → hour of disappearance, taken from the warm patch rather than from a sighting → ground temperature at first light. Viderehan and Ferrehan only, and nothing is taken up.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -263,11 +263,11 @@ The escalation pattern is specific to Forgotten Market Stall: it is not a generi
 
 **Cost:** Takes a coin, button, or minor memory as payment.
 
-*Stigmas are granted at random by Forgotten Market Stall upon a successful work, not manufactured.*
+*The Merchant's Purse is not manufactured and cannot be requisitioned; the stall gives it, rarely, and the armoury has never identified a condition that predicts one.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Forgotten Market Stall's sorrow within the equipment may activate. and may produce an effect tied to Forgotten Market Stall's element. The Stigma is Forgotten Market Stall's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+All three pieces come off a thing that trades, and they trade: each one performs exactly as described and takes its price at the moment of use rather than afterwards, in coin, in small objects, or in something the wielder will not notice is gone until somebody asks them about it. Forcing a piece against its design raises the price rather than breaking the piece. No protocol produces a Stigma here.
 
 ### Field Use Record
 
@@ -351,12 +351,12 @@ You find the Stall where there was only broken pavement the night before. Warm l
 
 Forgotten Market Stall does not exist in isolation. Its recorded relationships with The Maw, The Hollow Choir, The Orphaned Bell should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone over a long series; a single night's reading at this holding is worth nothing, because the stall's stock varies more between its own appearances than it does in company. Log the first mutual change with its distance, duration and trigger, the gauge movement on both sides, the effect on the stock, and whatever persists after separation. Re-verify each cycle rather than relying on a settled result; a Sorrow Tide, an Ordeal or a transformation has overturned stable readings in Zone B before.
 
 
 ### Entity Interaction Record
 
-Forgotten Market Stall must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+This holding is read against the other things in the district that sound, toll, or recognise. The relations below have been observed and filed; none is settled, and all of them are hard to read, because the stall's own variation between nights is larger than any effect yet attributed to another presence. A result obtained once carries no authority during a Sorrow Tide, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -364,7 +364,7 @@ Forgotten Market Stall must be assessed as part of an entity network, not as an 
 | **The Hollow Choir** | Sings a lullaby when the Stall appears. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Orphaned Bell** | Resonates in harmony with the Bell's toll. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baseline both parties alone, approach along the market's own lanes rather than across the open ground, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the district, and whatever persists after separation. The field this holding adds is the stock list, copied before, during and on the following night.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -397,17 +397,17 @@ Some sorrows mourn the extraordinary. Forgotten Market Stall mourns the ordinary
 **Classification:** Sorrow Entity — `C-IIα-062 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void · Object-Void manifestation
 **Common Name:** Forgotten Market Stall
 **Containment Status:** Contained — Forgotten Market site
-**Comprehension Level:** 1 — Initial
-**Threat Assessment:** Low. The Stall sells memories of lost ordinariness. No breach risk. Effect: visitors remember forgotten transactions.
+**Comprehension Level:** 2 — Basic
+**Threat Assessment:** Minor (α). It has never injured anybody and has never been aggressive. It can breach by Transform, which on this holding means appearing somewhere it has not appeared before; the Warden's standing concern is a purchase by a member of the public and not an escape.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- No special containment; the Stall is static.
+- Viderehan and Ferrehan only; copying labels is permitted and acquisition is not.
+- No barrier contains it. The site is held by night watch under the market by-laws, and the stall's position is recorded fresh at every appearance because it is never where it was.
 **Observation Notes:**
-- Formed from merchants’ abandoned hopes when the market emptied.
-- Sells back what was lost.
-**Cross-References:** Forgotten Market · The Three Birds · The Convergence
+- Formed as the commerce district emptied; the ward's tenancy record is the commissioning material and the lapses in it cluster in a span of about four years.
+- It sells back what was lost, to anyone who comes, at a price the buyer sets by agreeing to it.
+**Cross-References:** The Forgotten Market tenancy record · the ward loss registers · the copied-label corpus
 **Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
-**Originator:** Merchants of the Forgotten Market.
+**Originator:** The merchants of the Forgotten Market, named individually in the tenancy record; none of them was ever served with a closure order.
 
 ### Registry Addendum
 
@@ -432,6 +432,38 @@ Some of the stock is of things that are known to be gone, and the copied labels 
 
 The commerce district emptied as the city shifted and the merchants' hopes went with it, and the commissioning material is the ward's own tenancy record for the market — who held which pitch, and the date each lapsed. The lapses cluster in a short span. The archivist's note observes that no closure order was ever issued and that the market simply stopped being somewhere people went.
 
+### Three Thousand One Hundred and Eighteen Labels
+
+Everything on the table carries a written description, and copying is the whole of the method. The corpus now runs to **three thousand one hundred and eighteen labels**, transcribed verbatim, dated, and indexed by the night they were seen.
+
+It is a good record of what was offered. It is not a record of what exists, and the wing is careful about the difference. The stall appears on nights it chooses and the watch attends on nights the budget allows — **roughly one night in three** — so the corpus is a sample of a sample, and the only honest way to estimate the whole is to weight it by attendance.
+
+That estimate has been computed. It comes out near **nine thousand items**, it is printed in the annual return, and it is **excluded by standing instruction from every operational decision the wing takes**. Nothing may be rostered against it, nothing may be requested on the strength of it, and it may not be cited in a case for resources. The instruction is two lines long and the second line is the reason: *the extrapolation assumes the stall does not know when we are watching, and we have no basis for that assumption whatever.*
+
+Eleven labels have matched entries in the district's loss registers. The matches are recorded as matches and nothing has been done with them, because a containment that began returning findings to claimants would be running a service nobody asked it to run and could not stop running once it started.
+
+### An Unlicensed Trader With No Address
+
+The Forgotten Market never closed. It emptied, which is a different thing.
+
+A market is wound up by a closure order, and no closure order was ever made. The tenancies merely lapsed, pitch by pitch, over about four years, and a lapsed tenancy leaves a vacant pitch in an operating market. **The by-laws therefore still bind, the pitches are still lettable, and the market still has a clerk** — and under those by-laws, what stands in the commerce district after dark is a trader occupying a vacant pitch without a licence.
+
+The remedy for unlicensed trading is not seizure. It is notice: the authority serves the trader, the trader applies for a licence, and the matter resolves. The entire enforcement scheme assumes a person to hand a form to. **There is nobody at the table.** No name, no address, no agent, no tenant, nothing that can be served, and service by posting at the pitch has been attempted twice, correctly, to no effect anybody could measure.
+
+Winding the market up would end all of this, and that route is closed too. A closure order requires the authority to consult the existing tenants. The tenancies have lapsed, so there are no tenants to consult, and consulting nobody is not consultation — an order made that way would be set aside on the first challenge. **The market cannot be closed because it is already empty, and cannot be enforced because the trader is not a person**, and both of those sentences are consequences of rules that exist to protect traders from exactly the kind of administration that would otherwise make them disappear.
+
+### Six Applications Refused
+
+What the wing decided was to keep the market open on purpose.
+
+The by-laws are what give the night watch a right of access to the site without a warrant, at any hour, on any night. Lose them and every watch needs an authorisation obtained in advance against a thing that gives no advance notice. So the wing quietly funds the market authority's bare statutory existence — **a register, an annual meeting, and a named clerk, for nine years** — out of its own establishment, in order that a market with no traders should remain a market.
+
+The price is in the same by-laws. An operating market must admit any qualified applicant to a vacant pitch. **Six genuine applications have been received in nine years, from six real traders, and all six were refused.** The grounds given were procedural and were not the real grounds. One refusal was appealed and overturned; the costs were paid; the applicant has still not been admitted, because the pitch was by then recorded as under survey, and it has been under survey since.
+
+Those six people wanted a living in a district that has none, and the wing cannot compensate them, cannot explain to them, and has not approached any of them. Their names are in the file.
+
+The market office's objection is minuted at every annual meeting and has been read into the record nine times. Its officers are being required to refuse lawful applicants, to give reasons in writing that are not the reasons, and to maintain a market in a condition that exists for a purpose no applicant will ever be told. The minute records the objection as **correct in all three parts**, records that no officer has been disciplined for raising it and none will be, and records the only answer the wing has: *the alternative is a warrant for every night of the year, applied for in advance, against something that does not keep appointments.*
+
 ## Trivia
 
 - The Stall's ground remains warm after it disappears.
@@ -443,8 +475,8 @@ The commerce district emptied as the city shifted and the merchants' hopes went 
 
 - **Classification detail:** Forgotten Market Stall is an Object/Place with Echo (II) — Repeats appearing overnight coherence and Minor (α) — Low danger potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone B, Forgotten Market — mobile manifestation.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Identify it by the labels and by the warm ground it leaves behind; never by its shape, which is different at every appearance, and never by its position, which is never repeated.
+- **Record detail:** The Forgotten Market is still an operating market in law, with lapsed pitches and a clerk, and this file should be read alongside the market's by-laws rather than alongside the district closure papers, which do not exist.
 - **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
