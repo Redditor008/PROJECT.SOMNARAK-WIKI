@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Keep the watch and keep the form. The gauge falls on completed watches regardless of what was felt during them, and the two watches in the series with no entries at all reduced it by the same amount as the heaviest. |
 
 ### Operational Notes
 
@@ -73,7 +73,7 @@
 | **Difficulty** | 929  · R.D. Comprehension Level {"I":"1 — Trace","II":"2 — Basic","III":"3 — Advanced","IV":"4 — Deep","V":"5 — Sovereign"}.get("III", "2 — Basic") |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-N-929 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | The watch is sat to its end and the form is filed, blank or not. Containment here is a clerical act: there is nothing to subdue, and the two rooms taken in seventeen years were recovered by redrawing the boundary on the plan, not by any work performed in them. |
 
 ### Combat Actions
 
@@ -88,13 +88,13 @@
 
 1. **Tension:** Personnel identify the hazard manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dead Air's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+3. **Resolution:** The watch ends at the hour. The Warden hands over the form, the relief reads the barometer, and the pressure — both kinds — is where it was. No watch in the series has ever been ended early by the holding; four have been ended early by the Warden.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented weight effect — spirit pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- Composure loss attaches to the Warden who went looking. Of the nineteen cases on file, seventeen are from watches whose form carries an entry in the bearing column before the first hour — that is, from Wardens who had already decided something was there.
+- Prolonged watching produces no physical effect and one reliable cognitive one: the estimates get heavier. A Warden’s mean mass figure rises by roughly four kilograms per consecutive watch until rotation, and resets when they come back.
+- M.A.W. use is recorded against the barometer, not the wearer. Every draw in the set is logged with the station reading at the minute of the draw, because that is the only number in the whole holding that nobody has to estimate.
 
 ## Appearance
 
@@ -103,7 +103,7 @@
 **Notable Features:**
 - Expresses Weight pressure in a spirit register.
 - The hazard form is unmistakable — this is a spirit entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Identification is by what is absent: a Zone A pressure anomaly with no figure, no sound, no cold spot and no visual phenomenon of any kind.
 
 **Identification Profile**
 - **Entity Type:** Hazard
@@ -118,18 +118,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Hazard-Spirit manifestation is the primary identifying feature. Weight pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | Fixed to the registered area and expressed as bearing rather than position. The Warden’s form asks which direction the lean came from; across 2,206 entries the distribution is not uniform and not stable, and the file prints it without interpreting it. |
+| **Material / signature** | Pressure, in both senses, and nothing else. Barometric readings are taken at the municipal station’s hours so the two series can be laid against each other; they have been, repeatedly, and the relationship is loose. Both series are printed in full in the folder. |
+| **Distinctive markers** | The sensation of being leaned on by someone standing behind you, with a direction and an apparent weight, in a room containing nobody. Personnel name a mass without being asked to; the form has a column for it because they did it anyway. |
+| **Identification** | Ask the Warden for the bearing before you ask them what they felt. The sequence is specified on the form itself, which carries a printed caution that both the bearing and the mass are estimates and are recorded as estimates. |
 
 ## Origin
 
-The sector-n-929, contained remembers what the city tries to forget. Dead Air began there — not with a scream or a death, but with the slow accumulation of weight sorrow until the Han could no longer hold it and something new crystallized in the space between one moment and the next.
+Dead Air is four rooms in a Zone A building where the dead are present as weight. Not as apparitions — the file is insistent on this, and says it before it says anything else — but as the plain sensation of being leaned against by somebody standing just behind you, with a direction and an apparent mass, in a room that is empty.
 
-The spirit sorrow that birthed Dead Air is specific. It is not the general weight grief that saturates Somnarak — that ambient, city-wide ache that every citizen carries. This is a particular grief, a particular wound, crystallized into a hazard form because the spirit register was the only shape it could take. The hazard was the vessel; spirit was the content; weight was the pressure.
+What crystallised here is one wound and not the city’s general ache. The commissioning material is correspondingly narrow: a small set of documents concerning a small number of people, held in a thin folder that the archivist has twice refused to pad. The holding is about particular dead, and the people who feel them are the people who knew them.
 
-The entity does not rage. It does not weep. It simply persists — spirit and weight, patient and permanent.
+It does not act. Across seventeen years it has taken two rooms and injured no one, and the only relationship anyone has demonstrated is between what the Warden was told to expect and what the Warden reported feeling.
 
 ## Behavior
 
@@ -142,7 +142,7 @@ The entity does not rage. It does not weep. It simply persists — spirit and we
 
 ### Operational Work Notes
 
-The Weight pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Hazard-Spirit manifestation means the spirit register is the primary channel of contact.
+The weight is reported, not measured, and the archive is careful to keep those two words apart here. Both valid approaches reduce the gauge and neither depends on anything being felt: observation is the watch, endurance is sitting the full six hours of it. The only instrumented quantity in the holding is the barometer, and it has never predicted a contact.
 
 ## Breach Behavior
 
@@ -151,15 +151,15 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
-| **Movement** | The entity's spirit influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Weight pressure radiates — the spirit register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | The anomaly takes in adjacent rooms one at a time, in the order of their shared walls, and has done so twice. Neither expansion crossed an exterior wall of the building, and the file notes this is a description of what happened rather than a rule it expects to hold. |
+| **Effect** | Occupants of the newly taken rooms begin filing the same kind of entry — a bearing and a mass — without having been issued the form. Both expansions were identified this way, from clerical staff describing a lean in their own words before anyone told them the room had changed. |
+| **First Target** | Whoever is expecting it. Contact is reported at roughly three times the rate on watches where the Warden went in looking for a figure, and the briefing now says so out loud, in those words, before a first watch. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
 - **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per room taken, not per turn. Two rooms have been taken in seventeen years and the reading has never exceeded 60%.
 
 ## M.A.W. Equipment
 
@@ -173,7 +173,7 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 **Damage:** Weight 14–25 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels weight spirit sorrow in each strike — the weapon does not cut flesh so much as cut at the spirit register of the target's grief.
-**Cost:** The wielder experiences a persistent low-grade headache with each use.
+**Cost:** The wielder begins estimating weights. Doorways, colleagues, furniture — a figure in kilograms arrives unbidden and is usually close. It fades within a day of setting the piece down and has never been reported as distressing.
 
 ### M.A.W. Suit — Dead Air's Veil
 
@@ -194,76 +194,76 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's spirit sorrow, crystallized into wearable form.
-*Stigmas are granted at random by Dead Air upon a successful work, not manufactured.*
+*A Token is found on the form, weighting the page down, at the end of a watch in which the Warden wrote nothing. Four of the five recovered pieces came from blank watches, and the fifth is annotated as a probable filing error.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Dead Air, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+The Dead Air set is drawn from the watch itself: the Edge from the rail of the Warden’s chair, the Veil from the oilcloth kept over the barometer, the Token from a brass weight out of the station’s own calibration case. Nothing was taken from the room where contact is most often reported, on the grounds that the room is where the forms are filled in.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Record the station pressure, the hour, and whether the operator has worked this holding before. The third field exists because the first two have never once predicted anything and the third does. |
+| **During use** | Log bearing, not effect. The pieces are directional — they are heavier on one side — and the side they are heavy on is written down in degrees, in the same column and the same units the watch form uses. |
+| **At limit** | The wielder starts bracing against a side. Observed four times, each time by a colleague rather than by the wielder, and each time corrected by handing the piece to someone else for a minute. |
+| **After use** | Weigh the piece. All three are weighed in and out on the station’s calibration balance, and in seventeen years no piece has ever returned a different figure, which is recorded every time because the point is the record. |
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Weight signature confirmed at SECTOR-N-929.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The spirit register is the dominant channel of contact.
+- 2,206 watch entries since Y4238, each carrying a bearing and an estimated mass. Both fields are subjective and both are marked as such on the form.
+- Both valid approaches reduce the gauge on completion alone. Watches with no entries reduce it identically to watches with many, which is the clearest statement the holding makes about itself.
+- No apparition has ever been reported here. No figure, no sound, no visual phenomenon of any kind in seventeen years; arriving personnel are told this in advance because the expectation is otherwise universal.
 
 **Personnel Note:**
 
-> *"The spirit pressure is different from standard weight. It does not press on the body — it presses on the spirit itself. You feel it before you understand what is happening."* — Specialist, Field Team 10
+> *"You write down a direction and a weight because the form asks for them. Then you notice you have written seventy-one kilograms again, and you remember that is what your father weighed."* — Warden, Zone A
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Dead Air (N-IIIγ-929 [WH]) is logged as a Hazard-Spirit manifestation expressing Weight. Held at SECTOR-N-929.
+**Entry 1 — Containment Description** A barometric anomaly in a Zone A building, watched in six-hour shifts by a single Warden with a printed form, a barometer read at the municipal station’s hours, and no instrumentation beyond that. Two adjoining rooms have been taken into it since Y4238.
 
-**Entry 2 — Field Log** First contact report: the spirit register was immediately apparent. Personnel described it as a spirit pressure unlike standard weight.
+**Entry 2 — Field Log** Y4239, the series that set the method. Thirty Wardens, half briefed to expect a figure and half briefed to expect nothing. The first group filed contact on 24 of 30 watches; the second on 9 of 30. The briefing was rewritten that month and has not been changed since.
 
-**Entry 3 — Counseling Log** The weight pressure accumulates in the spirit register — this is not standard weight; this is weight filtered through spirit.
+**Entry 3 — Counseling Log** Interviewed Wardens name a specific person about a third of the time and decline to name anyone the rest. Nobody has ever named a stranger. The counsellors’ standing note is that this is the most consistent finding in the folder and the least useful one.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The spirit register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** The bearing and mass columns are to be completed before the Warden writes anything in prose, and a blank watch is to be filed rather than discarded. The blank watches are a third of the series and removing them would change every figure in it.
 
-**Entry 5 — Director's Note** This entity's classification as Hazard-Spirit is correct. The spirit descriptor is not decorative — it is the operational axis. All containment protocols should account for the spirit register as the primary channel.
+**Entry 5 — Director’s Note** We hold a pressure gauge and two and a half thousand pieces of testimony, and the honest statement of what we know is that the testimony correlates with the briefing and not with the gauge. I am not prepared to write that the dead are not here. I am prepared to write that we have never measured them.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Write the bearing down — answer the form before you answer yourself. | Turn around — look for whoever is leaning on you. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| Two estimates on a sheet, filed with the blanks, and the watch closes on time. | There is nobody there, which you knew, and you spend the remaining four hours of the watch confirming it. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
 Contact is disorienting. The weight pressure is familiar — every agent in Somnarak knows weight — but the spirit filter makes it alien. A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. It is the same element in a different language, and the language is spirit.
 
-**At first contact:** The spirit signature is unmistakable — this is not a general weight entity but one whose sorrow has taken the specific shape of spirit.
+**At first contact:** Something leans. You turn around before you have decided to, and the room is the room.
 
-**With continued exposure:** The weight pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The lean acquires a weight and a height, and then a person. Wardens describe this as recognition rather than inference, and the file notes that recognition is exactly what it would feel like either way.
 
-**When the entity activates:** The weight becomes a force rather than a feeling. The hazard was holding; now it releases.
+**When the room changes:** Nothing is felt at the boundary. A clerk two doors down writes a sentence about being leaned on, in a room nobody had told her was part of the holding, and that is how both expansions were found.
 
-**After departure:** The weight does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** The pressure does not follow. What follows is the number — the mass you wrote down — and the reason you chose it.
 
 ## 이야기 (Narratio) — The Tale
 
-The sector-n-929, contained remembers what the city tries to forget. Dead Air began there — not with a scream or a death, but with the slow accumulation of weight sorrow until the Han could no longer hold it and something new crystallized in the space between one moment and the next.
+The form came before the theory. Somebody in the first year decided that if Wardens were going to say *it felt like someone leaning on me*, they could at least say from which side and how heavily, and ruled two columns on a sheet of paper. Two thousand two hundred and six entries later those two columns are the holding’s entire dataset.
 
-The spirit sorrow that birthed Dead Air is specific. It is not the general weight grief that saturates Somnarak — that ambient, city-wide ache that every citizen carries. This is a particular grief, a particular wound, crystallized into a hazard form because the spirit register was the only shape it could take. The hazard was the vessel; spirit was the content; weight was the pressure.
+A third of the sheets are blank. They are filed with the rest, deliberately, because a watch in which nothing happened is the only control the method has. The archivist has written in the margin of the index that removing them would make the holding look haunted and would make the figures false, in that order.
 
-The entity does not rage. It does not weep. It simply persists — spirit and weight, patient and permanent.
+The thing nobody writes on the form, and everybody says in interview, is that the weight is recognised. A third name a person. None has ever named a stranger. Whether that is the holding or the Warden is the question the folder has been unable to close in seventeen years, and it is left open on the page rather than resolved in a summary.
 
-The entity does not rage. It does not weep. It persists — spirit and weight, patient and permanent. Dead Air is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+So it is kept as it is: a barometer, a chair, a printed sheet with two estimated columns, and a briefing that tells you in advance that you will see nothing. Most Wardens see nothing. Those who were told to expect otherwise felt three times as much, and that figure is the most solid number in the file.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -286,17 +286,17 @@ The entity does not rage. It does not weep. It persists — spirit and weight, p
 **Threat Assessment:** Major. A Hazard-Spirit entity — the spirit register is its defining characteristic. Risk: prolonged exposure to the spirit pressure may produce effects not seen in standard weight entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the spirit register specifically — it is the primary channel of contact.
+- Keep the six-hour watch and file the form whether or not anything happened.
+- There is no one present to weep with and no one to confront. Seventeen years of watches have produced no figure to address.
+- Read the barometer on the municipal station’s hours so the two series stay comparable, and brief every first-watch Warden that nothing will be seen.
 
 **Cross-References:** Inner Sorrow (내한) · Weight · Hazard-Spirit · Manifestation Classification
 
 ### Registry Addendum
 
-**Operational interpretation:** The Hazard-Spirit classification is valid and necessary. The spirit descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** Hazard-Spirit is the correct register and the operational fact is narrower: a pressure anomaly in four rooms, a form with two estimated columns, and a documented three-to-one effect of expectation on the rate of reported contact. The folder is thin because the grief in it is small and specific, and proposals to supplement it with general material about the city’s dead have been refused.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and spirit pressure readings after every breach or unusual interaction.
+**Review requirement:** Re-run the briefing comparison every fifth year with new Wardens, and re-plot the watch series against the station series whenever either method changes. The last re-plot was Y4253 and the relationship was loose, as before.
 
 ## Warden Record
 
