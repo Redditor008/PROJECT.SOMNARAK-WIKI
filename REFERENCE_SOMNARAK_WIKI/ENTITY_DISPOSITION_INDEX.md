@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **191** |
-| Pending — no disposition-bearing line found by scan | 112 |
+| **Classified here, with a quoted line of evidence** | **192** |
+| Pending — no disposition-bearing line found by scan | 111 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 191 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 192 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 112 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 111 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -195,6 +195,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Apocrypha | `SE-O-Iα-340` | Gives other entities nothing. Comparison with the Lost Prince was *"twice requested and twice refused"* on the ground that *"two absences are not evidence of each other"*; no joint work with Pandora's Jar is authorised and the two answer to opposite remedies; the only cross-reading with Sealed Rage moved personnel anger on both sides while both frost series were *"unchanged"* — an effect on people, not a transfer to an entity. Gives F01 a 10–14 Han-Energy yield and an O-Relic stillness that costs hypothermia in sixty seconds, and takes back a quarter of the wing's bonded storage through the 1,384-item retention undertaking. Its failure mode is relocation to another abandoned camp, not release. Neutral. |
 | Broken Fragment | `SE-O-IVδ-115` | Gives other entities nothing and takes nothing to give: Viderehan and Ferrehan have *"never altered the displacement series by any amount the instruments can resolve"*, and the three filed relations (Debt Wall, Inherited Debt, Rusted Wall) rest on a single untested lead that it is heavier near active debt disputes. Gives F01 a 20–28 Han-Energy yield against a hazard that is purely geotechnical — *"proximity has never produced a measured effect on anybody"* — while permanently consuming a survey network, a stranded winch that cannot be condemned, and a region-unique exemption from the duty to attempt rescue. It escapes nothing: *"nothing escapes here and nothing needs to"*; the failure mode is the bowl, not release. Neutral. |
 | Relic of a Thousand Owners | `SE-O-IVδ-792` | Gives other entities nothing. Across eleven co-presences with the Guardian of the Gate *"no name has ever passed between them"* and both series were unchanged; the Gate's own readings *"do not move, in either direction, on any occasion recorded"*; pairing with the Returning Relic is refused because the two management conditions are incompatible. Gives F01 a 20–28 Han-Energy yield and a schedule of owners whose traceable proportion is collapsing — 61 matched against 1,247 unverified, one in seven falling to one in forty-one — and takes back a facility-wide one-cycle-per-career rule that guarantees *"no worker in the facility has more than one cycle's experience of this entity."* Its breach cracks the room it stands in and *"does not pursue"*; it releases nothing. Neutral. |
+| Feu Follet | `SE-O-IIβ-301` | Gives other entities nothing. Three authorised approaches with the Vanished Flame left the core series *"unchanged on all three"*; the Happy Mask pairing ends with this entity withdrawing at about eleven metres and no contact ever achieved; under the Frozen Veil the faces stop forming while the core *"continues at its ordinary rate"* — an interruption of perception, not a suppression, and the file says so. Gives F01 a standard 12–18 Han-Energy against an exposure it is legally barred from screening for, since bereavement entries are medical and may not be used in rostering, and costs it one cycle in six stood down inside a day under an unqueried opt-out. It does not pursue; its Corrupt breach warps the zone in place. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |

@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Mind |
 | **Physical Form** | Mixed — A core of pale blue fire that is not fire: it beats like an exposed heart, organic and slow, ringed in charred metal and fused growth. Its heat feels like held anger. It is heavier than it looks. |
-| **Movement** | Stationary — a discrete object. |
+| **Movement** | Stationary — the core holds its position and has never been observed to move; what travels is the perception of it. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | β · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Pugnahan raises it, and the anchors run continuously from entry to withdrawal. |
 
 ### Operational Notes
 
@@ -91,7 +91,7 @@
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
+- The failure here is pleasantness. A worker losing ground does not report pressure; they report a good shift, describe their own grief more smoothly than they did in the corridor, and are identified in debrief rather than in the room.
 - Extended exposure carries a cumulative and deceptive risk. The drift here is not toward panic but toward ease: minute by minute the room feels safer, the figure feels familiar, and the worker's account of their own grief becomes smoother and less accurate. Cognitive Fracture on this holding has been identified in debrief rather than in the room on every occasion so far.
 - The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and there is none here: a flame that burns without heat still consumes, and what it consumes is the capacity to be comforted by anything smaller than itself.
 - If the condition is not met the entity does not pursue anyone. It intensifies where it stands and the zone warps outward around it, which is the Corrupt breach on the classification, and the first personnel to notice are usually in adjacent rooms rather than in this one.
@@ -116,8 +116,8 @@
 |---|---|
 | **Form** | A melting flame perceived inside consciousness as a figure whose face changes with the observer's grief. |
 | **Position / movement** | Holds its position and is perceived rather than approached; record the distance at which the figure resolves for each observer separately, and whose face it was wearing for them. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | Lament. A pale blue fire that is not fire, beating slowly like an exposed heart inside charred metal and fused growth, reading cold on the instrument and warm on the skin. |
+| **Distinctive markers** | A face that is different for every witness, and a core that is identical in every account on file. |
 | **Identification** | Check the designation, the element and the manifestation against the file before proceeding, and verify against the core rather than the figure; if any of the three contradicts, do not proceed. |
 
 **Appearance protocol:** Record the core first, because the core is the only part that does not vary: a pale blue fire that is not fire, beating slowly like an exposed heart, ringed in charred metal and fused growth, heavier than its size accounts for. Take the beat rate, the ring diameter, the rate of melt at the lower edge, and the apparent temperature from an instrument rather than from the skin — it reads cold and feels like held anger, and the discrepancy is logged every cycle rather than noted once. Then record the face, with the understanding that the face is not a property of the entity. It is assembled from the observer's grief, so each witness describes a different person and all of them are correct. Note who they saw. Do not reconcile the accounts, and do not ask the witness to justify theirs — in a market full of masks, this is the one that is made out of the person looking at it.
@@ -127,7 +127,7 @@
 - **The Sorrow:** The fear that comfort itself will melt away.
 - **The Event:** A traveler remembered a fire that saved their life, but the memory decayed into a dangerous mental flame.
 - **The People:** One traveler who survived a night in the Desolate because of a fire, and outlived everyone who sat around it. The record keeps his account of the warmth and nothing about the fire itself — not where it was built, not who lit it. What formed here was not the fire. It was the memory of being warm when the people were still there.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a soldier who died forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **Expanded origin context:** The commissioning file holds what the traveller told the Gate officers, and it is short. One sentence describes the fire. The rest is about the people who did not reach it: who they were, how far back they had been, what was agreed before the group separated. Nothing in the account identifies where the fire was built or who lit it, and the archivist's note says that this is the shape of the record rather than a gap in it — what formed here was never the fire. It was the memory of being warm while they were still alive.
 
 ## Behavior
 
@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Feu Follet is recorded as a Subject with Subject-Mind manifestation and Lament elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Feu Follet is a Subject with Subject-Mind manifestation and Lament expression, held in Zone C at the Mask Market, and perceived inside consciousness rather than seen in the room. All four Work Types apply. Flerehan steadies the flame and opens the remembered warmth, Viderehan settles whether the fire was real or remembered and moves nothing, Ferrehan tests whether a worker can stay as a comfort changes, and Pugnahan melts through the worker's thoughts and raises the gauge every time.
 
 **Reading the response:** Read it in the melt rate and in the team, and weight the team heavily. A falling gauge presents as firming — the lower edge holding, the beat slowing to its recorded rhythm, the cold receding to the instrument reading. The entity is quieter and it is not resolved; it is a memory of comfort and nothing in a work cycle gives it the thing it is a memory of. A rising gauge presents as warmth. The room becomes pleasant, the figure becomes someone the worker is glad to see, and the melting accelerates while everybody present reports feeling better than when they came in. That combination is the reading and it is the only one that matters on this holding. Unusual responses precede breaches here reliably, and the most reliable of all is a team that has stopped using its anchors because the room no longer seems to need them.
 ## Breach Behavior
@@ -227,27 +227,27 @@ Thrusting the brand-head into hostile entities sears deep third-degree burns int
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; a pattern violation is expensive here, the cost scaling with the breach of design, and the sorrow carried in the piece can activate — which on this set presents as a warmth with no source and the sense of being in good company while alone. The Stigma is the entity's prerogative, a random offering after a successful cycle, and no quantity of correct procedure obliges it.
+Every piece in this set gives something genuinely warm and charges for it afterwards, which is the character of the source and not a defect in the extraction. Forced outside its pattern the cost scales with the violation and presents as warmth with no source and the sense of being in good company while alone. What the set takes, in the end, is the capacity to be comforted by anything smaller than itself. The Stigma is the entity's prerogative and no quantity of correct procedure obliges it.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, grade, gauge, the condition of the piece, the objective, and the anchors nominated for the session. The operator's own account of their state is recorded and is not the authorising field. |
+| **During use** | Activation time, effect strength, the area held, the anchor interval actually achieved, and the first cost noticed by somebody other than the wielder. |
+| **At limit** | Duration, activations, attribute movement, rejection signs, and whether the wielder has described the session as pleasant. |
+| **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and any face reported — which goes to the counsellor and not to the line supervisor. |
 
 **Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and on this set the relationship runs the wrong way: the β ratings are unremarkable and the costs are among the quietest and most durable in the wing. A low-rated piece can carry a severe psychological price. Read both columns, authorise on the second, and ask who is carrying it.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It manifests in the minds of people wearing masks.
-- It is calmer when its source is accepted as imperfect.
-- It produces grief after comfort ends.
+- It manifests inside the perception of whoever is present, and the Mask Market's trade in worn faces is why the holding sits here rather than anywhere else.
+- It steadies when a worker allows the remembered warmth to have been partial — a fire that saved one person and not the others — and worsens under any account that makes the memory whole.
+- The grief arrives after the comfort, not during it, and usually after the shift; the room itself is reported as pleasant by almost everybody who works it.
 
-**Personnel Note:** *"It was watching. I felt grief. The Flame was not a monster; it was the memory of safety melting under examination."* — Specialist, Zone D patrol
+**Personnel Note:** *"It was not a monster. It was the memory of being safe, melting while I looked at it, wearing my brother's face. I said the floor was cold and the time was four twenty and my partner said yes, and that is the only reason I am writing this instead of something nicer."* — Specialist, Zone D patrol
 
 
 
@@ -255,10 +255,10 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Feu Follet as a Subject with Subject-Mind manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone C, Mask Market. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Feu Follet's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | A pale blue core beating slowly inside charred metal, and a figure that resolves at a different distance for each observer. Record the core; record the face separately and attribute it to the witness. |
+| **Sustained observation** | Beat rate, ring diameter, melt rate at the lower edge, instrument temperature against reported warmth, and the anchor interval. The gap between the instrument and the skin is logged every cycle rather than noted once. |
+| **Activation or escalation** | Escalation presents as comfort. Record the moment the room was first described as pleasant, the moment anybody reassured anybody, and the length of the last gap in the anchor log. |
+| **Post-contact review** | Core series, anchor log with gaps marked, each witness's face report kept separate and unreconciled, and the agreement coefficient recomputed before the file is closed. |
 
 **Observation method:** Observe with the anchors running, and record the first visible sign, the first emotional sensation, the first instrument-measurable change in the room, and the condition that ended the encounter. Form follows sorrow and not purpose — a flame that melts is what a comfort looks like once it has begun to go, and it says nothing about intent. One warning belongs in the method rather than the escalation notes: the entity dissolves when it is confronted directly, this reads as a result, and it is not one. Nothing has been suppressed. The record of the Corrupt breach begins, on two occasions out of three, with a team reporting that they faced it down and it went out.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -295,17 +295,17 @@ A flame burns behind your eyes. It shows a hand, a shelter, a moment when fear s
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A melting flame perceived inside consciousness as a figure whose face changes with the observer's grief.
+**At first contact:** Recognition rather than fear. The figure resolves as somebody the worker knows, at a distance the worker does not choose, and the first honest sentence in most reports is that it was good to see them.
 
-**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Lament has a history here, and prolonged exposure makes that history legible.
+**With continued exposure:** The room improves. It becomes a place somebody lived in, the cold stops being noticeable, and the worker's account of their own loss becomes fluent and slightly wrong — smoother in the telling each time, with the hard parts rounded off.
 
-**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Lament pressure spikes — not gradually but like a door slamming open. The Subject-Mind shifts from presence to action.
+**When the entity activates:** The melt rate climbs and nothing else does. There is no spike to feel, which is why the gauge and the melt edge are read off instruments while everybody in the room is reporting that they are fine.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** The grief comes later, and it is for the figure rather than for the person it was wearing. Adjacent personnel report pleasant dreams of company, waking warm, and a reluctance to leave their quarters; the pleasantness is why those reports are collected.
 
 ### Interaction Pattern
 
-Feu Follet does not exist in isolation. Its recorded relationships with The Vanished Flame, The Happy Mask, The Frozen Veil should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other records that take their shape from whoever is looking, and the question put to every pairing is whose grief is building the face. A pairing matters here only if the face stops belonging to the observer; everything else is atmosphere and is filed as producing nothing.
 
 **Interaction method:** Baseline each entity alone; without the solo reading an interaction study here is a collection of impressions. The relations on file concern faces, warmth, or things that change according to who is present, so the question to settle is whose grief the figure is drawing on when a second entity is in range — whether the face still belongs to the observer, or has begun to come from somewhere else. Capture range, duration, trigger, gauge delta on both sides, field effect, and post-separation residue. A stable pattern is a hypothesis and not a law: re-verify every cycle, because a Sorrow Tide, an Ordeal or a transformation has reversed settled dynamics in this zone overnight.
 
@@ -316,9 +316,9 @@ Feu Follet must be assessed as one of a group of sorrows that take their shape f
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Vanished Flame** | Shares the sorrow of warmth that disappeared. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Happy Mask** | The Mask hides the fear beneath the Flame. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Frozen Veil** | The Veil extinguishes its emotional warmth. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Vanished Flame** | Both are warmth that went away, and the resemblance is in the origin rather than in the behaviour. | Three authorised approaches. The core series was unchanged on all three — beat, diameter and melt rate within the ordinary band — and the faces continued to belong to the observers. | The three approaches, the core series, and the face reports from each. |
+| **The Happy Mask** | Incompatible. The Mask covers the fear this holding is made of, and the two do not hold together. | Withdrawal occurs at about eleven metres, consistently, and it is this entity that withdraws: the core dims and the perception thins until nothing resolves. No contact has been achieved and none is now attempted. | The withdrawal distance across all attempts, which is the only hard figure the pairing has produced. |
+| **The Frozen Veil** | The Veil puts out the warmth, and the file is careful about what that means. | Under the Veil the faces stop forming while the core continues at its ordinary rate. Nothing has been suppressed; the perception has been interrupted and the holding is unchanged beneath it. The distinction is the reason this row exists. | The core series under the Veil, the absence of faces, and the recovery once the Veil withdraws. |
 
 **Interaction procedure:** Baseline both parties alone, bring them into range with the anchors already running, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the zone, and whatever persists after separation. The field this holding adds is the face record: who each observer saw, before and after, kept unreconciled.
 
@@ -352,18 +352,18 @@ Some sorrows mourn comfort lost. Feu Follet mourns comfort dissolving — the me
 **Common Name:** Feu Follet
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Moderate (β). It harms nobody who is anchored and it does not pursue. The hazard is that the room is pleasant, the figure is welcome, and the damage is identified afterwards.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- All four Work Types valid; Flerehan and Ferrehan lower the gauge and Pugnahan raises it.
+- Anchors stated aloud and confirmed by a second person at intervals; a ten-minute gap in the anchor log ends the cycle regardless of the gauge.
+- Inside a warped zone personnel ground each other and do not comfort each other; every reassurance offered or accepted adds to the gauge.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- A traveller survived a Desolate night by a fire and outlived everyone who sat at it; the memory of the warmth decayed into this.
+- Nothing here has ever been fought. Two Corrupt breaches in three began with a team reporting that they had faced it down and it had gone out.
+- The set gives real warmth and bills afterwards; nothing in it is issued to a worker currently carrying a bereavement entry.
+**Cross-References:** The Gate officers' account of the traveller · the face schedule · the anchor-log review
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** One traveller of the Desolate, unnamed; the surviving account is his own, given at the Gate, and it is mostly about the people who did not reach the fire.
 
 ### Registry Addendum
 
@@ -382,16 +382,46 @@ The fire gives no heat and this is confirmed by the absence of any thermal readi
 
 ### It Dissolves When Faced
 
-Direct confrontation ends the manifestation, which gives personnel a reliable exit and makes the holding unusually safe, and the standing order says so plainly. The method is taught at briefing. The file notes that it works every time, that nobody understands why, and that the second clause has not been allowed to soften the first.
+Direct confrontation ends the manifestation, and the standing order is that this is not a result. The perception stops, the figure goes out, the room empties — and the core's beat rate, ring diameter and melt rate continue through the whole episode without deviation, which is the measurement that settles it. Nothing has been suppressed; the worker has merely stopped being able to see what is still there. The method is taught at briefing as a withdrawal aid and is logged as a withdrawal, never as a suppression, because two Corrupt breaches in three began with a team reporting that they had faced it down and it had gone out.
 
 ### A Fire That Saved Someone
 
 A traveller in the Desolate remembered the fire that kept them alive after everyone else was gone, and the memory decayed, and the commissioning file holds what they later told the Gate officers. It is a short account and mostly concerns the others. The archivist's note observes that the traveller describes the fire in one sentence and the people who did not reach it in all the rest.
 
+### A Statistic Kept at Zero
+
+The face schedule is the strangest document in the wing: three hundred and forty-one sightings, three hundred and forty-one different people seen, and not one duplicate.
+
+Every witness names whoever they saw. The names are recorded as given, never reconciled, never challenged, and never shown to another witness before their own account is taken. The wing then computes what it calls the **agreement coefficient** — the proportion of co-present pairs who reported the same face — and that figure has been **zero since the holding opened**, across one hundred and nine co-presences.
+
+A statistic that never moves is normally a statistic nobody needs. This one is maintained as a tripwire, and the front page of the schedule explains why in a single sentence: *if two people in the same room ever see the same face, the entity has stopped drawing from the observer and started drawing from somewhere else, and nothing in this file would apply any more.* It has never happened. The schedule is recomputed at the close of every cycle anyway, by hand, as the last entry before the file is shut.
+
+The second series is the temperature gap: instrument cold, skin warm, logged every cycle rather than noted once. The gap is reliably present and reliably unexplained, and the wing's position on it is unchanged in eleven years — **it is recorded as a discrepancy and has never been averaged, reconciled, or written up as a property of the entity.**
+
+### The One Question Nobody May Ask
+
+The exposure here is not distributed evenly, and the wing knows exactly which variable predicts it.
+
+Workers who arrive carrying a recent loss draw the same yield at several times the exposure, because the figure is assembled out of whatever grief comes through the door. That is the clearest dose–response relationship in the holding. It is also unusable, and the reason is not squeamishness.
+
+**Health information may not be used to make rostering decisions.** The rule is absolute and it is the right rule: an employer that may read your medical file may act on it, and once it may act on it, the only safe thing a worker can do is disclose nothing. Bereavement entries are medical. So the wing may not ask who has lost somebody, may not consult the entries that exist, and may not roster around them — and if it did, the protection would collapse facility-wide within a season.
+
+The result is a hazard characterised precisely and controlled not at all. **The wing can state the dose and is forbidden to measure it in the one person standing in the room.** The file notes the second half of the trap as well: the entity does not only find the recently bereaved. It presents most strongly to people frightened of losing a comfort they still have, and nothing in any record, medical or otherwise, identifies those people at all.
+
+### Two Hundred and Twelve Withdrawals, None Queried
+
+What the wing could do was hand the decision to the only person holding the information, and it did so without conditions.
+
+Any member of staff may remove themselves from this roster at any notice, for any reason, **without stating one**. No evidence, no form beyond a name and a date, no manager's countersignature, no limit on frequency, and no record kept anywhere that follows the worker — the withdrawal log is held by the wing and is not an input to any appraisal, posting decision, or certification. **Two hundred and twelve withdrawals have been taken in nine years. Not one has ever been queried**, and the file records that the first query would end the arrangement, because an opt-out that might be asked about is not an opt-out.
+
+The cost is planning. Roughly **one cycle in six is stood down inside twenty-four hours**, the wing holds relief staff against a demand it cannot forecast, and this holding is never booked against a yield target because the yield cannot be promised. The slack is paid for by the people who do not withdraw, and the wing does not pretend otherwise.
+
+Workforce planning's objection is minuted and read at every annual review. An unaccountable opt-out cannot be audited; the burden falls silently on colleagues who happen not to be grieving that week; and a wing that cannot forecast its own cycles is exporting instability to every rota that covers for it. The minute records the objection as **correct in all three parts**, records the wing's single-sentence answer — *the alternative is asking*, — and leaves the arrangement unchanged.
+
 ## Trivia
 
-- It burns without physical temperature.
-- The flame is strongest in people afraid of losing comfort.
+- No instrument has ever registered heat from it, and every worker who has stood near it has felt some.
+- It presents most strongly to people who are afraid of losing a comfort they still have, which is a different population from the recently bereaved and is not screened for.
 
 
 
