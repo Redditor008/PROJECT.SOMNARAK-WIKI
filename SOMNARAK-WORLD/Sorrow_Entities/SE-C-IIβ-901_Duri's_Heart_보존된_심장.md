@@ -35,15 +35,15 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Viderehan and Ferrehan only; the entity is an Object and the other two Work Types are unavailable to it. Handler pulse taken at the door going in and coming out; the session ends on convergence, not on the clock. |
 
 ### Operational Notes
 
-- The Heart is preserved and still beating, and the preservation is not the cause of the beat.
-- Work slows the rhythm. It has never stopped it, and no cycle has altered the preserved tissue in any measurable way.
-- Three ignored conditions escalate it. The body register carries contact, so the first sign appears in the handler rather than in the specimen.
-- Handlers have their own pulse recorded at the door, entering and leaving, and a convergence between the two readings ends the session.
-- Extraction is a separate risk event under its own authorization.
+- The organ is preserved and beating, and the preservation does not account for the beat. The amber is inert on every assay; what is inside it is doing the work.
+- A completed cycle slows the rhythm for some hours and has never stopped it. No cycle has altered the tissue by any measurement available, and the tissue has not degraded in forty-eight years.
+- Three ignored conditions escalate it. The channel is the body register, so the first sign appears in the handler and not in the specimen, and the specimen is therefore not the thing being watched.
+- Handlers' pulses are recorded at the door entering and leaving. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads and whatever the task state.
+- Extraction is a separate risk event under its own authorisation, and the authorisation has been sought twice in forty-eight years and granted neither time.
 
 ## Combat Record
 ### Core Stat Line
@@ -88,23 +88,23 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Duri's Heart's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+2. **Clash:** Four turns, observation and endurance only, conducted seated at the marked distance with the handler's pulse called aloud at each turn boundary by somebody outside the cell.
+3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the party out of the cell with the handler's pulse within eight beats of their own door reading.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented weight effect — body pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- A worker who cannot hold does not panic. They become extremely calm, continue working past the point at which they should have stopped, and give an account afterwards that is accurate in every particular except the hour.
+- Prolonged exposure produces a settled, durable composure that does not recede for days and that personnel consistently describe as the most useful thing in the wing. The file records that description and the dose data beside it, in that order.
+- The Duri's Heart equipment lends the bearer that composure on demand and charges for it in the currency the holding always uses: the bearer's own capacity to be alarmed by anything, which does not return on its own.
 
 ## Appearance
 
 **Primary Form:** A human heart suspended in crystallized Han, still beating — slow, wet, unmistakable. The crystal around it is dark amber, warm to the touch, and pulses in time with the organ within.
 
 **Notable Features:**
-- Expresses Weight pressure in a body register.
-- The object form is unmistakable — this is a body entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Expresses Weight as a slow steady beat and a radiating composure; one pulse every three seconds, unvaried in forty-eight years of counting.
+- A human heart in dark amber crystal. The crystal is opaque: the organ cannot be seen and its presence is established by sound, warmth, and the pulse of the amber itself.
+- Confirm the designation `C-IIβ-901 [WO]`, the cell number on Floor 5, and the beat count over a timed minute before any approach. A specimen in amber that does not beat belongs to the Keepers' collection and is not this.
 
 **Identification Profile**
 - **Entity Type:** Object
@@ -119,10 +119,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A human heart suspended in crystallized Han, still beating — slow, wet, unmistakable. The crystal around it is dark amber, warm to the touch, and pulses in time with the organ within. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Object-Body manifestation is the primary identifying feature. Weight pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | Fixed in its cradle in the sealed cell at SECTOR-C-901, Floor 5, and never relocated. It does not move; during an expansion the affected radius grows in discrete steps, one per beat. |
+| **Material / signature** | Dark amber Han-crystal, warm to the touch at blood temperature through cloth, pulsing visibly in time with the organ. Weight expression. The amber darkens measurably on certain dates and lightens again within a day. |
+| **Distinctive markers** | One beat every three seconds, audible at two metres; warmth that matches a living body and not the room; forty-seven dated darkenings a year, each falling on the same calendar day it fell on the year before. |
+| **Identification** | Confirm: designation `C-IIβ-901 [WO]`, Echo (II) coherence, Moderate (β) potency, Object-Body manifestation, Weight element, SECTOR-C-901 on Floor 5. The beat is the identifying feature and is counted, not estimated. |
 
 ## Origin
 
@@ -134,12 +134,12 @@ Duri's Heart belonged to a healer named Duri who could not save everyone. In the
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the body pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Permits study; the darkening series and the beat become legible as a record rather than as behaviour. | Decrease |
+| **Ferrehan** (Endurance) | Recognises patience; the weight settles around a party that sits the full cycle at the marked distance without shortening it. | Decrease |
 
 ### Operational Work Notes
 
-The Weight pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Object-Body manifestation means the body register is the primary channel of contact.
+Duri's Heart is an Object with Object-Body manifestation and Weight expression, held at SECTOR-C-901 on Floor 5. Flerehan and Pugnahan are unavailable to an Object. Both valid Work Types lower the gauge. What distinguishes this holding from every other Weight entity in the wing is that the pressure it applies is pleasant, and the file is built around the consequences of that.
 
 ## Breach Behavior
 
@@ -147,16 +147,16 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | The entity's body influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Weight pressure radiates — the body register makes it personal, targeted, unavoidable. |
-| **First Target** | Whoever stands closest when the beat quickens. The influence expands in pulses rather than selecting a person. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |
+| **Breach Type** | Expansion — in discrete steps, one per beat. |
+| **Movement** | Nothing leaves the cradle. The affected radius grows by a fixed increment on each beat and holds between beats, so an expansion advances in visible steps of about forty centimetres every three seconds and can be outwalked at any point. |
+| **Effect** | Weight in the body register: a deepening composure, a slowing pulse, and a progressive unwillingness to stop working. Nobody inside the radius has ever reported discomfort, which is the hazard. |
+| **First Target** | Whoever is nearest when the beat quickens. It does not select; the radius reaches people in the order distance dictates, and distance is the only variable that has ever mattered. |
+| **Escalation** | Weight drain increases by 5 per turn until suppressed. Because the advance is one step per beat and the beat is invariant, the arrival time at any point in the sector can be calculated in advance — the only holding in the wing of which that is true. |
 
 ### Escalation Notes
 
-- **Containment priority:** Cool the amber and slow the beat. Shattering the crystal releases the expansion rather than ending it.
-- **Sorrow Gauge on breach:** Opens at 50% and rises 5% per beat, which makes the rate of escalation measurable in advance for once.
+- **Containment priority:** Cool the amber and slow the beat. Shattering the crystal does not end an expansion; it removes the only thing setting its pace, and the one attempt is recorded in full in the Watch Record.
+- **Sorrow Gauge on breach:** Opens at 50% and rises 5% per beat. The gauge is therefore a clock, and the response procedure is written in beats rather than in minutes.
 
 ## Activation Behavior
 
@@ -181,25 +181,25 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 | **Activation** | Physical contact and intentional interaction. |
 | **Primary Effect** | Projects concentrated Weight sorrow resonance across the immediate perimeter. |
 | **Duration** | Continuous while equipped |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Weight trauma. |
+| **Termination / Return** | The operator returns the piece and submits to a pulse reading. Early return is permitted and is never questioned; exceeding the dose limit does not injure the bearer in any way they will report, which is why the limit is enforced by the door reading and not by the bearer. |
 | **Risk** | Prolonged contact causes cognitive and emotional fatigue. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic works while carried and cannot be left running in a room. It does not substitute for a work cycle and does not substitute for rest, and the second half of that sentence was added in the thirty-ninth year, after the matter described in the third section below.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Duri's Heart rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Duri's Heart activates its primary resonance: Projects concentrated Weight sorrow resonance across the immediate perimeter. Grants +10% resistance to Weight damage while equipped. |
-| 30 Seconds | The artifact was born from the accumulated grief of unacknowledged weight; the bearer begins perceiving echoes of a crisis in the city where weight went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Duri's Heart begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Duri's Heart too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Prolonged contact causes cognitive and emotional fatigue. |
+| 10 Seconds | The amber warms against the hand at blood temperature and the beat becomes audible through the palm. | Contact opens the resonance. The bearer's pulse begins to move toward the beat; the first interval reading is taken here and compared with the door reading. |
+| 30 Seconds | The composure arrives — flat, steady, entirely unlike relief. Bearers describe it as the state of somebody who has run out of fear and is still working. | Combat and work capacity rise measurably; alarm response falls by the same measure. Both are logged; only the first appears in the yield return. |
+| 1 Minute | The bearer's breathing matches the three-second interval without being directed to. | Past sixty seconds the composure stops being borrowed and starts being substituted for the bearer's own. The handler outside calls the pulse aloud at this point and every fifteen seconds after. |
+| 2 Minutes | The bearer will not stop voluntarily. In every logged case past this mark the bearer judged themselves fit to continue, and in every logged case the external reading disagreed. | Removal is performed by the handler. No bearer has ever resisted removal and no bearer has ever requested it. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Duri's Heart: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Body form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-C-901, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is uniquely predictable. The beat does not vary, the step does not vary, and the radius is therefore a known function of time; record the beat count, the step measurement, the radius at each minute, and the pulse of every person inside it. Because the expression is Weight in the body register, personnel readings are the telemetry and the specimen readings are the control.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Establish the perimeter outside the calculated radius for the duration of the response, confirm whether the event is an expansion or an unauthorised contact, and withdraw everybody whose pulse has moved more than eight beats from their door reading. Do not use a volunteer who has worked this holding in the same cycle. Do not improvise an unlisted Work Type.
 
 ### Detailed Activation Record
 
@@ -210,9 +210,9 @@ The escalation pattern is specific to Duri's Heart: it is not a generic breach e
 | **Primary effect** | Projects concentrated Weight sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | Continuous while equipped |
 | **Risk** | Moderate (β) Object-Body producing Weight pressure; Prolonged contact causes cognitive and emotional fatigue. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Viderehan and Ferrehan only, certified Tool protocol, marked distance, external pulse-caller, door readings in and out, session ended on convergence. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** beat count → door pulse → radius at each minute → composure onset in the bearer's own words → external pulse readings → removal method → pulse at twelve hours. Object entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
@@ -264,52 +264,52 @@ The escalation pattern is specific to Duri's Heart: it is not a generic breach e
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect:** +1 stat bonus when working the source entity; the token keeps blood temperature in any conditions and cools within an hour of being set down.
 
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
 
 **Cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt.
 
-*Stigmas are granted at random by Duri's Heart upon a successful work, not manufactured.*
+*Duri's Heart's Token is not manufactured and cannot be requisitioned. It has been conferred eight times, in each case on a worker who ended their own session early and said so on the sheet.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Duri's Heart, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each Duri's Heart piece is an extension of a composure that was paid for once already, not ordinary equipment. The grade describes extraction stability. The cost is separate and is always the same: the bearer's ability to be frightened, which is returned slowly, incompletely, and in two recorded cases not at all.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, door pulse, beat count over a timed minute, amber shade against the reference card, and the name of the external pulse-caller. |
+| **During use** | Contact time, pulse at fifteen-second intervals called aloud, composure onset, first cost, radius if expanding, and whether the operator has declined a prompt to stop. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the operator or by the caller. In forty-eight years it has been called by the operator eight times. |
+| **After use** | Removal method, door pulse out, pulse at twelve hours, lingering composure, cooldown, rotation status, reuse authorisation. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
-- Weight signature confirmed at SECTOR-C-901.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The body register is the dominant channel of contact.
+- Weight signature recorded at SECTOR-C-901; the beat counted over a timed minute at every watch since the cell was sealed.
+- Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being an Object.
+- Contact runs through the body register and is dosed by proximity and time. Shielding, gloves, cloth, distance within the cell and sealed suits have each been trialled; only distance changes anything, and it changes it linearly.
 
 **Personnel Note:**
 
-> *"The body pressure is different from standard weight. It does not press on the body — it presses on the body itself. You feel it before you understand what is happening."* — Specialist, Field Team 3
+> *"It is not comfort. Comfort would be easier to explain in a report. It is the feeling of having already lost everything you were afraid of losing, and finding that you can still do the next thing on the list."* — Specialist, Field Team 3
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Duri's Heart (C-IIβ-901 [WO]) is logged as a Object-Body manifestation expressing Weight. Held at SECTOR-C-901.
+**Entry 1 — Containment Description** Duri's Heart (`C-IIβ-901 [WO]`) is a human heart suspended in dark amber Han-crystal, beating once every three seconds, held in a sealed cell at SECTOR-C-901 on Floor 5. The beat has not varied in forty-eight years of counting.
 
-**Entry 2 — Field Log** First contact report: the body register was immediately apparent. Personnel described it as a weight on the body that was not physical.
+**Entry 2 — Field Log** *<First contact, recovery party, Zone D medical bay>* — The crystal was warm and the organ inside it was audible. Three of the four recovery personnel reported, independently and before being asked, that they had stopped being frightened. The fourth had been nearest the door.
 
-**Entry 3 — Counseling Log** The weight pressure accumulates in the body register — this is not standard weight; this is weight filtered through body.
+**Entry 3 — Counseling Log** *<Interview, handler, after a fourth consecutive session>* — "I have not been afraid of anything for about three weeks. I know that is the wrong answer. I can tell you it is the wrong answer and I cannot make myself mind."
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The body register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are the valid Work Types. The external pulse-caller is mandatory and is not a second pair of hands; a session without one is prohibited. The limit is enforced from outside because the bearer's judgement is the first thing the holding takes.
 
-**Entry 5 — Director's Note** This entity's classification as Object-Body is correct. The body descriptor is not decorative — it is the operational axis. All containment protocols should account for the body register as the primary channel.
+**Entry 5 — Director's Note** *<Minute on the fatigue-management submission>* — I am asked to certify that proximity to C-IIβ-901 is an adequate control for extended duty in the lower bays. The evidence supports it and I have signed. I record that the control we are relying on was manufactured by an eleven-day shift in a bay with no relief, that the woman who worked it is the control, and that nobody at this table thought the sentence worth saying out loud until I wrote it down.
 
 ## 최종 관찰 (Final Observation)
 
@@ -322,13 +322,13 @@ Each M.A.W. piece is a conditional extension of Duri's Heart, not ordinary equip
 
 The amber is warm — not hot, not uncomfortable, but warm the way a living body is warm, the way a hand holding yours is warm. The beating is slow: one pulse every three seconds, deep and wet, the sound of something organic inside something permanent. You cannot see the heart through the crystal — the amber is too dark — but you can feel it. And when you stand close enough, the calm arrives: a stillness that is not peace but something older, the composure of someone who has seen the worst and chosen to keep working.
 
-**At first contact:** The body signature is unmistakable — this is not a general weight entity but one whose sorrow has taken the specific shape of body.
+**At first contact:** A cradle, a sealed cell, a dark amber stone at blood temperature, and a sound at two-second intervals that the ear insists on calling three.
 
-**With continued exposure:** The weight pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** You stop checking the time. Handlers describe the session as brief and the log describes it as long, and the discrepancy is consistent enough that the log is believed and the handler is not.
 
-**When the entity activates:** The weight becomes a force rather than a feeling. The object was holding; now it releases.
+**When the entity activates:** Nothing lunges and nothing warms. The radius is simply forty centimetres wider than it was, and then forty more, and the people inside it are calmer than the people outside it and are saying so.
 
-**After departure:** The weight does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** The composure follows you out and stays for days. Personnel describe handling a bad shift without shaking for the first time in months, and the file records that this is both the most reported benefit in the wing and the first symptom of the dose.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -358,24 +358,24 @@ The R.D. extracted the Heart-Preservation intact. It is kept in a sealed cell on
 
 **Common Name:** Duri's Heart
 
-**Containment Status:** Contained — SECTOR-C-901
+**Containment Status:** Contained — SECTOR-C-901, sealed cell, Floor 5; listed in the lower-bay safety case as a fatigue-management control
 
-**Comprehension Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic. The beat, the dose curve and the darkening series are all characterised; why a stopped heart continues is not, and the file does not pretend otherwise.
 
-**Threat Assessment:** Moderate. A Object-Body entity — the body register is its defining characteristic. Risk: prolonged exposure to the body pressure may produce effects not seen in standard weight entities.
+**Threat Assessment:** Moderate (β). It cannot move, cannot select, and expands at a rate that can be calculated in advance and walked away from. It is graded Moderate because its influence is experienced as a benefit, because the exposed are the last to know they are exposed, and because the facility has written that benefit into a safety case as a control.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the body register specifically — it is the primary channel of contact.
+- Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither alters the specimen.
+- Flerehan and Pugnahan are unavailable to an Object and are not to be improvised.
+- Monitor by handler pulse at the door and at fifteen-second intervals inside, never by self-report. Self-assessment on this holding is inadmissible at every stage and the standing order says so without qualification.
 
-**Cross-References:** City Sorrow (도한) · Weight · Object-Body · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Weight · Object-Body · the Zone D bay roster, days one to eleven · the darkening calendar · the preventability audit of Y4240 · the lower-bay fatigue-management case
 
 ### Registry Addendum
 
-**Operational interpretation:** The Object-Body classification is valid and necessary. The body descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** The three sections below are one argument and are read together: the amber grades her forty-seven losses by how preventable they were, the law cannot reach the decisions that made them preventable, and the facility has made her composure into the control that permits longer shifts. Where observation contradicts this record, preserve the contradiction rather than normalising it.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and body pressure readings after every breach or unusual interaction.
+**Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, re-verify beat count, amber shade against the reference card, handler pulse records, the darkening calendar against the casualty register, and the standing of the fatigue-management certification and the relief-rota proposal.
 
 ## Watch Record
 
@@ -395,11 +395,61 @@ The healer is named throughout and her service record is held with the containme
 
 The Fracture rate was beyond what the bay could handle and no protocol existed equal to the volume, and the commissioning material includes the procedures that were in force. They are inadequate on their face. The file reproduces them without comment and holds, in the same folder, the revised procedures issued afterward, which are dated.
 
+### Forty-Seven Dates
+
+The amber darkens. It was noticed in the second year, logged as a curiosity for a decade, and matched to the casualty register in the thirteenth by a Keeper who had the roster open for another reason.
+
+**There are forty-seven darkenings a year.** Each falls on the calendar day on which one of Duri's forty-seven losses died, in the eleven days of the Zone D bay. The dates are exact and have not drifted in forty-eight years. The shade is read against a reference card at each watch; between darkenings it holds a constant value, and a darkening resolves within about twenty hours.
+
+The dates were the easy finding. The depth took another twenty-seven years, because for a long time nobody could see what it varied with.
+
+It does not vary with the number lost that day: three of the deepest fall on days with a single death. It does not vary with the hour, with how long the patient was in the bay, with age, or with the severity recorded at admission — all four were tested and all four return nothing.
+
+In the fortieth year the facility commissioned a retrospective preventability audit of the eleven days, conducted by two assessors who were not told the darkening series existed and who worked only from the case notes, the supply ledger and the roster. They graded each of the forty-seven on a five-point scale: whether the death would have been avoided had there been relief staff, available compresses, a second pair of hands, or a protocol equal to the volume.
+
+**The correlation between the audit grade and the darkening depth is 0.91.** Nothing else in the archive comes close. The three negative controls — case severity, hour of death, number of simultaneous patients — return 0.08, 0.02 and 0.11.
+
+The audit's own distribution is the part the Keepers have underlined. Eight of the forty-seven were graded unavoidable in any circumstances. **Thirty-nine were graded avoidable with resources the bay did not have**: relief that was requisitioned twice and not sent, compresses that had been seized at the Collectors' checkpoint, and a triage protocol that the Directorate's own revision, issued four months later, describes as inadequate to a wave of that size.
+
+The heart grades them by whose fault they were. Not by hers — her own errors, of which the audit finds three, produce no darkening at all. The deepest marks in the calendar are the days when she did everything correctly with nothing to do it with.
+
+The Keeper's note at the head of the series: *she is not grieving the ones she lost. She is grieving the ones she was not given what she needed to keep, and she can tell the difference to two decimal places.*
+
+### Policy and Operation
+
+The question went to counsel in the forty-first year, after the audit, and the answer closed a door nobody had quite realised was open.
+
+A public body is answerable for how it carries out a task and is not answerable for how much it decides to spend on it. The line is old and is not a technicality: it exists because the alternative is a court ranking a budget, which no court will do. Decisions about staffing levels, supply allocation, how many bays to open, how many hours a shift may run — these are policy, committed to the body that holds the money, and are reviewable only for bad faith or for being outside the power altogether. Neither is alleged here.
+
+What remains actionable is the operational: the individual act, done badly, in carrying out whatever policy provided. A healer who misreads a chart is liable. A healer who runs out of compresses is not, and neither is the body that failed to send them, because sending them was a matter of allocation.
+
+So the thirty-nine fall outside the law entirely. Each one is attributable, on the facility's own audit, to a decision about resources, and a decision about resources is not a breach of any duty however many people die of it. Counsel confirms, in a paragraph the Keepers have circled, that the conclusion is unaffected by the fact that the shortfall was foreseen, that the relief was requisitioned twice, or that the revised protocol issued four months later is an admission that the old one was inadequate — the revision is itself a policy decision and policy may be changed without any implication for what went before.
+
+The three operational errors are a different matter, and counsel addresses them in a single line: they would have been actionable against Duri personally, and are now academic, the practitioner being deceased.
+
+The Keeper's annotation beneath the opinion: *the law can reach the tired woman and it cannot reach whatever made her tired. We asked, so that it would be written down that we asked.*
+
+### The Fatigue Control
+
+In the forty-third year the lower-bay shift limit was extended from eight hours to ten.
+
+The submission is carefully made and is not dishonest anywhere. Extended duty in the lower bays had been refused twice on composure grounds: personnel degrade, make errors, and are at elevated Fracture risk past the eighth hour. The new submission answers that objection with a control. Proximity to C-IIβ-901 restores composure measurably, durably and at no cost in consumables; the effect is the best-documented benefit in the wing; personnel seek it out voluntarily and report it as the most useful thing on Floor 5.
+
+So the scheme is this. Lower-bay personnel on extended duty take a rostered ten minutes at the cell before the shift and ten after. Composure readings before and after confirm the restoration. The safety case cites them, the certification was granted, and in three years of operation the error rate on ten-hour shifts is indistinguishable from the old eight-hour rate. By the measure the case was written against, it works exactly as described.
+
+**Four hundred and sixty personnel a year now take a dose of her.**
+
+The objection is minuted at the forty-third review and at each of the eight since, raised by the Floor 5 Keeper and supported by the preventability audit's senior assessor. It holds, first, that the facility possesses, in the darkening calendar, a dated and graded statement that thirty-nine deaths in that bay were caused by short staffing and absent supplies, and has used the holding derived from those deaths to extend shifts rather than to shorten them — the one body of evidence in the archive that speaks directly to allocation, applied to rostering instead. Second, that the control is circular: an eleven-day shift with no relief produced the artefact, and the artefact is now the reason the next shift may be two hours longer, so the safety case is underwritten by the hazard it is managing. Third, that the composure is a dose and not a rest — it does not restore sleep, does not restore anything the body needs, and does measurably erode the bearer's capacity for alarm, which is logged in the Field Use Record and appears nowhere in the submission.
+
+The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-fourth year at a little over the value of the two additional hours — restoration of the relief rota and a standing supply floor for the lower bays, with the shift limit returned to eight — and that it has not been laid before the board in eight years. And it records the sentence the Floor 5 Keeper asked to have entered verbatim, which is now the first line of the cell's briefing sheet:
+
+*Forty-seven times a year she tells us, to two decimal places, exactly what killed them, and what we have done with the answer is keep four hundred and sixty people on their feet for two hours longer.*
+
 ## Trivia
 
-- One of the first catalogued **Object-Body** entities in Somnarak.
-- Its body descriptor makes it structurally unique among object entities.
-- The weight pressure in the body register feels different from standard weight — more specific, more personal.
+- One of the first catalogued **Object-Body** entities in Somnarak, and the only one that is unambiguously a person's organ.
+- It is the only holding in the wing whose principal output is an improvement in the people who work near it.
+- The Weight here never presents as heaviness. Personnel describe it as the lightness of having already lost the thing you were braced for, which several have said they would not give back.
 
 ## Document Information
 
