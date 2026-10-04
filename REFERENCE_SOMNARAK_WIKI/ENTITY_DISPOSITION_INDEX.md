@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **207** |
-| Pending — no disposition-bearing line found by scan | 96 |
+| **Classified here, with a quoted line of evidence** | **208** |
+| Pending — no disposition-bearing line found by scan | 95 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 207 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 208 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 96 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 95 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -211,6 +211,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Floating Pillar | N-IIIγ-409 | Helps neither side. It has never approached anybody — *"It does not pursue and has never approached anybody"* — and does nothing for other entities: eleven co-presences with the Empty Mask left the Mask's record *"flat across all eleven,"* two approaches to the Hollow Tree produced *"no transfer, no burden movement,"* and the Broken Mirror account was withdrawn by its own observer. What it gives F01 is unusable: equipment that shows which supports are imaginary but *"does not distinguish between a support that was never there and one that is simply out of sight,"* and a nine-year position series its own cover sheet calls *"internally consistent and externally unreferenced."* |
 | Face Beneath Masks | N-IIβ-689 | Neither assists nor obstructs other entities, and costs F01 more than it returns: *"the wing's own accounts show this holding running at a net loss in six years out of nine,"* since *"a cycle that ends with the wall intact returns nothing at all."* It acts only on its carrier and seeks nobody — *"It does not seek anybody out."* Eight co-presences with the Empty Mask moved blocked-item counts in no consistent direction and *"No carrier has ever reported the Mask as a relief"*; three consented trials with the Frozen Veil left counts *"unchanged in two and worse in the third"*; two authorised Broken Mirror approaches produced *"Nothing … on either occasion."* |
 | Briar | C-IIIγ-145 | Defends its own ground and nothing else. It does not seek: *"The garden defends and tracks; it does not seek. Every injury on file happened to somebody who was moving toward it or past it,"* and in an escape *"a worker who stops moving is passed over."* It assists no other entity — seven co-presences with the Sorrow Flower produced *"No transfer in either direction,"* and the Angry Maiden effect is recorded as *"real, one-directional and operationally useless."* What it gives F01 is a count of the district's wrongs that *"cannot be acted on, cannot be referred anywhere, and cannot be discounted either."* |
+| The Rejector | C-IIIγ-063 | Refuses everything, F01 and entities alike, and acts for nobody. He has *"never breached by force, never struck first,"* and in an escape *"stalls in place entirely unless somebody gives him an instruction."* Nine approaches by the Smothering Mother moved him not at all — *"his gauge did not shift on any of the nine"* — the Forgotten Soldier produced *"No effect in either direction,"* and the Orphaned Bell's pause is recorded as *"real and operationally useless."* What F01 gets is a holding that cannot be ordered, bargained with or deterred, and a refusal register that *"has gained three entries in nine years."* |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
