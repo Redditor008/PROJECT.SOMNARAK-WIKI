@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · β (Moderate) |
+| **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Debt Prism, the Debt Veil and the Debt Scale are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan or Ferrehan. This is a Subject and all four Work Types are open to it; Flerehan and Pugnahan simply do nothing to the gauge here, which is a finding and not a restriction. |
 
 ### Operational Notes
 
@@ -87,30 +87,30 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Debt Eater's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Five turns, worked from outside the painted radius. No hand enters the line at any point, and the worker with the largest outstanding balance stands furthest back by roster rule.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Provide a specific amount of Echoes for absorption. Once fed, the fog dissipates**.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Composure** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks The Debt Eater’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, The Debt Eater defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- The failure here is relief. The worker is lighter afterwards and cannot say what was taken, and the lightness is the injury rather than the sign of recovery.
+- Long exposure produces the holding's signature state: a worker who owes nothing to anybody as far as they can tell, and who has stopped answering letters they do not remember receiving.
+- The Debt equipment lends the wearer the entity's indifference to obligation and takes the sense of being owed anything. Every wielder's debrief has recorded an unpursued claim.
+- Unresolved, it leaves the chamber: an Escape breach, moving to the largest unsettled balance on the floor rather than to the nearest person.
 
 ## Appearance
 **Primary Form:** A hunched humanoid barely one meter tall. Its skin is thin, dry, translucent, and the color of old paper. Its eyes glow faintly white. It has no mouth and absorbs debt through its hands.
 
 **Notable Features:**
-- Places both hands on a debtor's chest to draw out karmic burden.
-- Leaves subjects lighter, freer, and emotionally hollow.
-- Produces a white "debt fog" when its containment destabilizes.
+- Places both palms flat on the chest and draws; the draw is the entire method and takes between four and nine seconds.
+- Leaves the subject lighter and flatter at once, with the flatness lasting longer than the lightness in every case followed up.
+- Produces a white fog when containment destabilises; the fog disperses once a specific quantity of Echoes has been put into it.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A hunched humanoid barely one meter tall. Its skin is thin, dry, translucent, and the color of old paper.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Inside the painted radius, moving slowly. Record its distance from the line, which hand it leads with, and the current accumulation figure.
 - **Element signature:** Void
 - **Registered location:** SECTOR-C-01, Zone C — Collector use; contained
 
@@ -119,41 +119,41 @@
 | Field | Detail |
 |---|---|
 | **Form** | A hunched humanoid barely one meter tall. Its skin is thin, dry, translucent, and the color of old paper. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Places both hands on a debtor's chest to draw out karmic burden. Leaves subjects lighter, freer, and emotionally hollow. Produces a white "debt fog" when its containment destabilizes. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Position / movement** | Walks the chamber within the painted radius. Record distance from the line, posture, lead hand, and whether it tracked any particular person during the watch. |
+| **Material / signature** | Void. Thin translucent skin the colour of damp-stained paper over visible bone; hands oversized, cold and faintly tacky; the smell of dust and old ledgers throughout the chamber. |
+| **Distinctive markers** | No mouth, oversized pale hands, roughly a metre tall, and a white fog at the edges of the radius whenever containment slips. |
+| **Identification** | Confirm before Work or contact: designation C-IIIβ-014 `[VS]`, Void expression, Subject-Body manifestation, SECTOR-C-01 in Zone C. The Collector district holds two other small humanoid subjects; neither is mouthless. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Record distance from the painted line, posture, lead hand, fog at the margins, and the accumulation figure at open and close. The figure is spoken aloud at handover as well as written. Do not write *strange* or *anomalous*; it is small, pale, mouthless and cold-handed, and those are the fields.
 
 ## Origin
 - **Formation:** The Debt Eater crystallized from the collective refusal of early Zone B citizens to pay debts imposed by the Collectors.
 - **The Sorrow:** The denial and exhaustion of people burdened by obligations they never chose.
 - **The Event:** A resistance of approximately fifty citizens declared, “We owe nothing.” The Collectors seized their homes, Echoes, and memories. The denial became a creature that could literally consume debt.
-- **The People:** The unnamed Zone B debtors and the Collectors who turned the entity into a tool.
-- **Expanded origin context:** The archive cross-references this entity's sorrow with SECTOR-C-01, Zone C — the same Han density, the same Void signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.
+- **The People:** Fifty Zone B debtors who signed a declaration, and the Collectors who kept the declaration and later kept the entity.
+- **Expanded origin context:** The declaration is four sentences long and the operative one is *we owe nothing*. It was not a philosophical claim; the fifty had been assessed for obligations they had not contracted, by a body entitled to assess them, and they had no route of appeal. The Collectors took their homes, their Echoes and, in eleven cases, their memories. What formed afterwards was not a protest and does not act like one. It consumes obligation wherever it finds it, in anybody, including the people it might be thought to be on the side of, and it has never once distinguished a debt that was fair from a debt that was not.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Becomes agitated; empathy is not a language it understands. | Stable |
-| **Pugnahan** (Confrontation) | Cowers; it is not naturally aggressive. | Stable |
-| **Viderehan** (Observation) | Remains calm and permits study of debt mechanics. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience and settles gradually. | Decrease |
+| **Flerehan** (Tears) | Agitation and withdrawal to the far wall; it has no apparatus for being wept at and the gauge does not move. | Stable |
+| **Pugnahan** (Confrontation) | It cowers, covers its hands, and waits. Nothing is gained and the gauge does not move; prohibited as pointless rather than as dangerous. | Stable |
+| **Viderehan** (Observation) | Settles and permits close study of the draw, which is how the mechanism is known at all. | Decrease |
+| **Ferrehan** (Endurance) | Recognises a worker who stays and does not reach; settles gradually and lowers the gauge furthest. | Decrease |
 
 ### Special Behaviors
-- Removes karmic obligation through physical contact.
-- The subject becomes emotionally numb as debt and feeling are removed together.
-- During the Sorrow Tide, it becomes more active and present.
+- Removes obligation through skin contact, and only through skin contact; no effect has ever been produced at a distance.
+- Feeling goes with the debt. Subjects describe the numbness as total rather than selective, and it does not lift with the lightness.
+- Tide weeks increase its activity and its reach: it covers more of the chamber and tracks personnel at the line.
 
 
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. The Debt Eater is recorded as a Subject with Subject-Body manifestation and Void elemental expression. The current record places it at SECTOR-C-01, Zone C — Collector use; contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Debt Eater is a Fragment (III) Subject with Subject-Body manifestation and Void expression, held at SECTOR-C-01 in Zone C under Collector use. All four Work Types are available because it is a Subject. Flerehan and Pugnahan leave the gauge where it is — a tested null, not a template exclusion — and Viderehan and Ferrehan both lower it.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Read it in the gauge and in the accumulation figure, which do not move together. A falling gauge presents as the entity settling and holding one corner; the accumulation figure does not fall at all, ever, and a watch that reports both falling has mis-transcribed one of them.
 ## Breach Behavior
 
 > *"The Debt Eater has broken free. Seeks out the indebted and the burdened."*
@@ -161,17 +161,17 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Debt Eater shatters containment and hunts through the facility. It seeks out the indebted and the burdened. |
-| **Effect** | Identity and memory begin to dissolve, draining clarity. |
-| **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | Whichever worker carries the largest unsettled Echo balance. Proximity is irrelevant until two debts are equal. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **Movement** | It leaves the chamber and moves through the facility by balance rather than by geography, reaching the largest unsettled account before the nearest person. |
+| **Effect** | Clarity drains from whoever it reaches, and what goes first is the structure of what they are owed and owe: amounts, dates, who the other party was. |
+| **Secondary Effect** | A numbness that spreads along the ledger rather than along the corridor; personnel who share an account with the first subject report it before personnel in the same room. |
+| **First Target** | Whoever carries the largest unsettled Echo balance. Proximity is irrelevant until two balances are equal, at which point it takes the nearer. |
+| **Escalation** | Pressure rises each turn it is free, with Clarity drain increasing by five per turn, until suppression or until there is nothing unsettled left on the floor. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Settle or freeze outstanding balances across the sector before attempting suppression; a creditless floor starves it.
-- **Sorrow Gauge on breach:** Opens at 35% and advances 15% each time it collects, not each turn. A floor with no debtors on it costs nothing.
+- **Breach type:** Escape. It leaves the chamber and moves through the facility; three events are on file and all three ended at a cleared floor rather than at a barrier.
+- **Containment priority:** Freeze or settle outstanding balances across the sector before attempting suppression. A creditless floor starves it, and this is the only holding in the wing whose containment is an accounting operation.
+- **Sorrow Gauge on breach:** Opens at 35% and advances fifteen points each time it collects rather than each turn. A floor with no debtors on it costs nothing at all.
 
 ## M.A.W. Equipment
 
@@ -230,7 +230,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Cost:** The user briefly experiences the debt being measured as a crushing physical and emotional weight.
 
-*Stigmas are granted at random by The Debt Eater upon a successful work, not manufactured.*
+*The Debt Scale is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who worked a full watch at the line while carrying the largest balance on the roster and did not ask to be reassigned.*
 
 ### M.A.W. Use Notes
 
@@ -251,12 +251,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
-- Flerehan calms no part of its function, but Viderehan and Ferrehan reduce its gauge.
-- Subjects treated by the Eater report increased empathy and reduced detachment, followed by emotional numbness.
-- Its activity increases during the Sorrow Tide.
+- Flerehan and Pugnahan move the gauge not at all; Viderehan and Ferrehan both lower it, and the asymmetry has held across nine years.
+- Treated subjects report a brief widening of feeling and then its collapse; the follow-up interval at which the collapse is reliably present is eleven days.
+- Tide weeks show increased activity and a measurable rise in the accumulation figure independent of any contact.
 
 **Personnel Note:**
-> *"They told me the weight would leave. They did not tell me that everything else would leave with it."* — Citizen, Zone B Debtors' Warren, Year 4216
+> *"They told me the weight would go. It did. What nobody said is that I cannot now tell you who I used to owe, or what for, or whether I ever paid it — and the Collectors can still tell me, and I have nothing to say back."* — Citizen, Zone B Debtors' Warren, Year 4216
 
 
 
@@ -265,11 +265,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies The Debt Eater as a Subject with Subject-Body manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-C-01, Zone C — Collector use; contained. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - Removes karmic obligation through physical contact. - The subject becomes emotionally numb as debt and feeling are removed together. - During the Sorrow Tide, it becomes more active and. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Debt Eater's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Distance from the line, posture, lead hand, fog at the margins, the gauge, and the accumulation figure. The figure is transcribed by one person and read back by another. |
+| **Activation or escalation** | Escalation is reach. When it tracks a named person at the line for more than two minutes, or the fog crosses the radius, the watch closes; both thresholds are objective and the Warden applies them without consulting the entity's apparent state. |
+| **Post-contact review** | Gauge and accumulation figure before and after, any contact however brief, and a financial-memory check at eleven days asking the worker to state three obligations they hold. Workers are not told in advance what the check is for. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Observe from outside the painted radius, with the hands protocol in force and the roster ordered by balance. Record distance, posture, fog, gauge and figure, and the condition that ended the watch. The form here is the sorrow and not a strategy: fifty people said they owed nothing, were stripped for saying it, and what is in the chamber agrees with them in the only way it can, by taking the obligation out of whoever it can reach.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -304,32 +304,32 @@ The room becomes silent in a way that presses against your eardrums. The creatur
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A hunched humanoid barely one meter tall. Its skin is thin, dry, translucent, and the color of old paper. Its eyes glow faintly white. It has no mouth and absorbs debt through its hands. The space does not become generic; it shifts in the specific register of Void.
+**At first contact:** Dust and old paper, then the hands — which are the wrong size for the body and the wrong temperature for a room. It does not approach quickly. It approaches as though it has already been given permission.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** You start doing sums. Workers at the line report running their own accounts in their heads, unprompted, for the whole watch, and the handover sheet has a box for it.
 
-**When the entity activates:** The Gauge tips. The Subject-Body does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.
+**When the entity activates:** It reaches, and there is no struggle in it at all. The subject's face goes smooth and stays smooth, and the word in every debrief is *relieved*.
 
-**After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** It leaves people lighter. That is not a figure of speech and not a comfort: the counsellors ask at eleven days what the worker has stopped chasing.
 
 ### Interaction Pattern
 
-The Debt Eater does not exist in isolation. Its recorded relationships with The Orphaned Bell, The Forgotten Soldier, The Kind Healer should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other things in the Collector district built out of owing. Each relation below has been observed and filed; none is settled; and all three were run with the painted radius doubled.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone across several watches before any paired approach, with gauge and accumulation figure logged throughout. Record the onset of any shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-The Debt Eater must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled, and the wing's caution on all three is the same: this holding consumes obligation, every entity in the district is made of obligation, and nothing has ever been consumed from one of them.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Orphaned Bell** | Pauses when the Bell tolls, acknowledging shared sorrow. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten Soldier** | The Soldier salutes it, honoring the lost. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | The Healer cannot heal what is not physically wounded. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Orphaned Bell** | Stops moving while the Bell tolls, consistently, which is the most-cited interaction in the district. | Five co-presences. It halts for the duration on all five and resumes at the same point. Neither gauge moved and the accumulation figure did not change. The Bell's own file records the halt and the same absence of consequence. | All five co-presences, the halt durations, both flat series, and the unchanged figure. |
+| **The Forgotten Soldier** | Salutes it, which the Soldier does to several holdings and which means nothing in particular here. | Three co-presences, a salute on each. No gauge movement either way and no change in the figure. The wing records the behaviour as the Soldier's and not as a relation between the two. | All three co-presences and both flat series. |
+| **The Kind Healer** | Approaches and finds nothing to treat, there being no wound in an obligation. | Four co-presences. The Healer's gauge fell on three of four; this one's did not move on any. Nothing passed back, and the Healer's Care Record carries the fuller account of the asymmetry. | All four co-presences, both series, and the cross-reference to the Care Record. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo watches first, over several cycles, with gauge and accumulation figure established for each party before anything is brought near. Then record the first shared change, its range, duration and trigger, both gauges, the figure, and whether anything persists once the parties are separated.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -367,23 +367,23 @@ Some sorrows mourn what was taken. The Debt Eater mourns what was never agreed t
 **Common Name:** The Debt Eater
 **Containment Status:** Contained — Zone C, Collector district
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate. The Debt Eater is a Subject that consumes debt from ledgers. It does not attack personnel. Risk: the consumed debts return in other forms. The Eater is persistent and mobile within its containment.
+**Threat Assessment:** Moderate (β). It does not strike and has never injured anybody physically; it breaches, three times on file, and moves through the facility by balance. The danger is a subject who has been relieved of knowing what they owe while the creditor's record continues undisturbed.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- The Eater moves along ledger margins; track its path.
-- Do not attempt to redirect; the Eater follows debt, not orders.
+- Viderehan and Ferrehan lower the gauge; Flerehan and Pugnahan are available, have been tried, and do nothing. Earlier copies of this line implied the first two were the only valid approaches, which is not what the Behavior table records, and it is corrected here.
+- It moves by balance rather than by distance. Track it against the sector's accounts, not against a floor plan.
+- Do not attempt to redirect it. It follows obligation and not instruction, and the two attempts on file cost a Warden her own financial memory.
 **Observation Notes:**
-- Crystallized from the refusal of fifty Zone B citizens who said ‘We owe nothing.’
-- The fifty were erased by the Collectors. The Eater persists.
-**Cross-References:** Zone B · The Collectors · The debt system · The Debt Scale
+- Formed from fifty Zone B citizens who declared that they owed nothing and were assessed, stripped and erased for it.
+- The fifty are gone from every register except their own declaration, which the Collectors retained as evidence and which is now their only joint record.
+**Cross-References:** Zone B · The Collectors · The Debt Scale · the declaration facsimile · the reappearance study · the lapsed-claims minute
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** Fifty Zone B citizens; erased from records after collective debt refusal.
+**Originator:** Fifty Zone B citizens, erased from the registers after a collective refusal that is still held in the Collectors' evidence file.
 
 ### Registry Addendum
 
 **Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after every breach, contact, transformation attempt, or unusual interaction: gauge, accumulation figure, the painted radius, personnel exposure by name and balance, and the eleven-day financial-memory checks outstanding. A missed check is logged as missed and is not substituted by a later one.
 ## Warden Record
 
 ### The Hands Protocol
@@ -402,10 +402,52 @@ The citizens whose refusal formed the entity are listed in the containment file 
 
 The radius is painted rather than taped and is repainted before it fades, the Warden on watch judging when. Repainting is done from outside the line. The tool kept for it hangs by the door where its presence can be checked at a glance, and the practice of hanging it visibly rather than storing it was established early for exactly that reason.
 
+### Sixty-One Debts, And Where They Went
+
+The question the wing has never been able to answer is whether anything is destroyed.
+
+The reappearance study ran for six years and followed **sixty-one obligations** drawn out by the entity under supervision — amounts, parties and dates recorded beforehand, from the creditor's side, so that the record did not depend on a subject who would shortly be unable to supply it.
+
+**Nineteen reappeared in the same person.** Not as debt; the subjects still could not state what they owed. They reappeared as obligation of some other shape — a duty taken on without being asked for, a standing commitment to somebody with no claim on them, in four cases a conviction of owing an apology for an event they could not describe. The wing's coders argued for two years about whether these count and settled on recording them with the argument attached.
+
+**Twelve reappeared in somebody else.** A relative in eight cases, a colleague in three, a creditor's own clerk in one. In each the new holder had no connection to the original transaction and reported the obligation as their own and of long standing. The wing cannot show a mechanism and has stopped offering one.
+
+**Thirty were never traced at all**, and this is the finding that matters. The study's own design note, written at the outset and reproduced at the front of the file, states that the method cannot distinguish an obligation that has been destroyed from one that has moved somewhere nobody thought to look. **Thirty untraced results are consistent with annihilation and equally consistent with dispersal**, and no extension of the study would change that, because the untraced class is defined by the limits of the search.
+
+So the accumulation figure rises, monotonically, with a doubling interval of a little over four years and no known ceiling; and the reappearance study says, in terms, that the wing does not know whether that figure represents something stored or merely something moved. The archivist's note at the back is one sentence: *we can weigh what goes in and we cannot say whether anything has ever gone out.*
+
+### It Does Not Cancel The Debt
+
+The legal position was obtained in the third year, at the request of the counsellors rather than the Directorate, and it is the reason the eleven-day check exists.
+
+**The obligation is untouched.** A debt ends by performance, by release from the person entitled to it, or by operation of law. The entity's draw is none of the three: it is not payment, it is not a release — the creditor has not been consulted and in most cases does not know it has happened — and no rule of law extinguishes an obligation because the person bound by it has ceased to be aware of it. The ledger entry stands. Demand may be made tomorrow.
+
+The second half of the opinion is the part that is quoted at commissioning.
+
+A debtor facing a demand has defences, and nearly all of them are made of knowledge. That the sum was paid. That it was paid in part. That it was never properly contracted, or was contracted by somebody else, or was discharged years ago, or is for goods never delivered. **Every one of those requires the debtor to know the facts.** A person who cannot remember the transaction cannot plead payment, cannot assert set-off, cannot dispute the quantum, cannot identify an irregularity in the assessment, and cannot swear to any of it if asked.
+
+The treatment therefore does not relieve a debtor of anything. It converts a debt that could be contested into a debt that cannot. The opinion's finding is stated flatly and has never been qualified: **the entity does not erase the obligation, it erases the defence to it** — and the net effect of a session, in law, is to make the creditor's position stronger than it was before.
+
+The last paragraph notes something the wing has never acted on. The fifty who formed this entity were people with no route of appeal against an assessment. What they made goes from debtor to debtor removing the capacity to appeal.
+
+### Eleven Claims
+
+Between the fifth year and the eighth, the Collector-district roster was built on a rule that reads, in full: *personnel with unresolved claims against the facility are suitable for Collector-district duty, having relevant familiarity with the claims process.*
+
+It is a proxy, it is a bad one, and the drafting file shows it was adopted without discussion in a batch of eleven rostering amendments.
+
+What it produced was three years in which the personnel most often posted to this chamber were the personnel with outstanding compensation claims against F01.
+
+**Eleven of those claims lapsed.** None was refused. None was withdrawn in writing. Each simply stopped being pursued — the claimant missed a step, then another, then the limitation period ran, and in seven of the eleven the claimant, asked later, could not say what the claim had been about. Four of the eleven involved injuries the facility had admitted.
+
+The wing's own review found no evidence that anybody intended this, and the minute is careful to say so twice. The rostering rule was drafted by an office that had never read the holding file. The accumulated saving was not identified as a saving by anybody until the counsellor totalled it for the review, at which point it was a figure large enough that the review stopped being about rostering.
+
+The objection is minuted at every annual review and is raised by the wing's counsellor, who holds the eleven-day checks. It holds that the facility placed its own creditors, repeatedly and by rule, in a chamber containing a thing that removes the knowledge of being owed, and that this was foreseeable from the holding file by anybody who had read it; that the rule survived three years and two review cycles because the office that wrote it and the office that held the file do not correspond, and no process required them to; and that the eleven claims cannot now be restored, since limitation has run on all of them and the only facts capable of restarting any of them are facts the claimants no longer have. The minute records the objection as **correct in all three parts**. It records that the rostering rule was revoked in the eighth year, that an ex gratia scheme was proposed for the eleven and has been deferred at four reviews, and that the facility has never stated a position on whether the saving should be repaid. And it records the counsellor's closing line, minuted at her request: *they were not cheated. They were simply put next to it, often enough, until there was nothing left for them to ask for.*
+
 ## Trivia
 
-- The entity has no mouth because its function is absorption rather than speech.
-- Its extracted debt can be measured, but the emotional loss cannot.
+- It has no mouth. The draw is through the palms, and nothing about the method requires an opening of any kind.
+- The quantity drawn can be measured to three places; what goes with it has no unit and the file does not pretend otherwise.
 
 
 
@@ -413,9 +455,9 @@ The radius is painted rather than taped and is repainted before it fades, the Wa
 
 - **Classification detail:** The Debt Eater is a Subject with Fragment (III) — Personality shaped by origin coherence and Moderate (β) — Manageable with standard precautions potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-C-01, Zone C — Collector use; contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the hands and the absence of a mouth; height alone is not diagnostic in the Collector district.
+- **Record detail:** Read this file beside the reappearance study, which is the only document in the holding that attempts to say where any of it goes.
+- **Containment detail:** Containment here is partly an accounting matter. A sector with frozen balances is a quieter sector, and the finance office is on the breach distribution for that reason.
 ## Document Information
 
 **Document ID:** SE-C-IIIβ-014

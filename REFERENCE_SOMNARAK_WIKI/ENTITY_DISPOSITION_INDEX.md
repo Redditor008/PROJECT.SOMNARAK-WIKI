@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **221** |
-| Pending — no disposition-bearing line found by scan | 82 |
+| **Classified here, with a quoted line of evidence** | **222** |
+| Pending — no disposition-bearing line found by scan | 81 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 221 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 222 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 82 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 81 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -225,6 +225,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Rage Statue | C-IIIγ-190 | Neutral. It breaches (four Corrupt events, gauge opening at 55%) but suppresses nothing: the Forgotten Soldier's salute is recorded over six co-presences with *"both flat series"* and no operational consequence, the Angry Maiden's gauge rose on both aborted tests while this holding's did not move, and the Iron Judge's findings matched no surviving complaint and are excluded from the naming list by standing instruction. The only thing F01 gains is 3,188 petitions it cannot rank — *"correct, and not the one."* |
 | The Masked Dancer | C-IIβ-099 | Neutral. Nothing passes outward from it: the Hollow Choir's singing and its stepping *"drift apart within ninety seconds, every occasion,"* the Kind Healer's gauge fell on all three co-presences while this one's did not move, and the Masked Market inventory correlation is one the wing *"has declined three times to describe as communication."* The Smothering Mother pairing raised its tempo for nine hours and is refused. What F01 holds is a dance that cannot be fixed and, since the floor was closed, cannot be worked either — gauge 38% to 51% in four years. |
 | Broken Mirror | C-IIα-081 | Neutral, and one-directional in every tested pairing: the Grieving Colossus halts for up to nineteen minutes with *"both flat series,"* the Hollow Choir's gauge rises while this one's does not move and *"nothing passes back,"* the Maw's pulse exchanged nothing across two terminated tests, and the Memory Weaver *"has never taken a projection"* in five attempts. It suppresses nothing. What F01 gets is an instrument *"right roughly seven times in eight"* on a sample of 31 it has decided not to extend — enough to be believed, never enough to decide by. |
+| The Debt Eater | C-IIIβ-014 | Neutral. It consumes obligation and has never consumed any from another entity: the Orphaned Bell halt left *"both flat series, and the unchanged figure,"* the Forgotten Soldier's salute is recorded as the Soldier's behaviour and not a relation, and only the Kind Healer's gauge moved — one-way, three of four. What F01 holds is a draw that *"does not erase the obligation, it erases the defence to it,"* and an accumulation figure that has never once fallen. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
