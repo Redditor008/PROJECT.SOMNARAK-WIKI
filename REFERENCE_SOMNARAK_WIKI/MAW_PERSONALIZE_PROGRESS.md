@@ -28,7 +28,7 @@ This is the key mistake another AI (and this session's first pass) made: only up
 
 1. **Source .md record** (the registry / source of truth):
    `REFERENCE_SOMNARAK_WIKI/LORE or REFERANCE/M.A.W. Codex_Set Registry/Registry_XXX_to_YYY/<SET>/SE-<NNN>-<B|C|D>__MAW-<W|S|G>_<Name>.md`
-   - `-B` = Weapon (W), `-C` = Suit (S), `-D` = Gift (G)
+   - `-B` = Weapon (W), `-C` = Suit (S), `-D` = Stigma (G)
    - Section: `### Appearance` (some records originally had none; some had a 24–45 word paragraph).
    - The record also carries `Item Registry Code: MAW-W-001-01`.
 
@@ -64,7 +64,7 @@ Verification after each batch:
 ## 4. Status of the first completed batch (12 sets)
 
 Sets: **001, 002, 005, 007, 009, 010, 011, 014, 015, 016, 019, 021**
-Items: 12 sets × (Weapon + Suit + Gift) = **36 records** and **36 html pages**.
+Items: 12 sets × (Weapon + Suit + Stigma) = **36 records** and **36 html pages**.
 
 | Item | What happened |
 |---|---|
@@ -97,7 +97,7 @@ Next 12 sets by registry order, excluding already-done sets. The same procedure 
 6. Do NOT touch SVGs / do NOT run `generate_maw_items.py --force`.
 7. Commit + push only to `arena/01a06714-project-somnarak-wiki`.
 
-If a later batch insert drops the `### ` from the following ability heading, restore it (regex: `\n\n(?!###)(Ability|Protective Ability|Signature Ability|Gift Effect|GIFT EFFECT|Incident Record|History Record|Wearer Cost|Bearer Cost) ` → `\n\n### \1 `). And clean any stray double period from appended sentences (`\.\s*\.\s*` → `. `).
+If a later batch insert drops the `### ` from the following ability heading, restore it (regex: `\n\n(?!###)(Ability|Protective Ability|Signature Ability|Stigma Effect|STIGMA EFFECT|Incident Record|History Record|Wearer Cost|Bearer Cost) ` → `\n\n### \1 `). And clean any stray double period from appended sentences (`\.\s*\.\s*` → `. `).
 
 ---
 
@@ -108,7 +108,7 @@ Status: **done**. Same 36-record + 36-page procedure. All records originally had
 - Word counts after fixes: **150–175** on all 36 (`.md`), identical on `.html`.
 - md↔html parity: **36 / 36 exact**.
 - Two gotchas hit and fixed in this batch:
-  1. Inserting `### Appearance` into records that already had `### Ability`-style headers dropped the `###` from the next header. Fix = regex restore `\n\n(?!###)(Ability|Protective Ability|Signature Ability|Gift Effect|GIFT EFFECT|Incident Record|History Record|Wearer Cost|Bearer Cost) ` → `\n\n### \1 `.
+  1. Inserting `### Appearance` into records that already had `### Ability`-style headers dropped the `###` from the next header. Fix = regex restore `\n\n(?!###)(Ability|Protective Ability|Signature Ability|Stigma Effect|STIGMA EFFECT|Incident Record|History Record|Wearer Cost|Bearer Cost) ` → `\n\n### \1 `.
   2. The `SE-044` records use `## IDENTITY & BINDING` / `## CORE STATISTICS` instead of `### Ability`, so insert `### Appearance` before `## CORE STATISTICS`.
   3. A verification pass that stops at the next `###` header revealed true word counts (131–148) after the header fix — the earlier higher counts had swallowed the ability text. Added one lore-consistent closing sentence per record to reach ≥150.
 
@@ -150,10 +150,10 @@ Each set's `SE-NNN-B/C/D` `.md` record plus the matching `docs/maw/maw-<w|s|g>-N
 
 Status: **done**. The registry order does not use every integer (sets 128, 133, 142, 147, 153 do not exist), so batch 5 took the next 12 item-bearing sets in registry order: 126, 127, 130, 135, 140, 145, 150, 151, 152, 155, 156, 157 — **36 records**.
 
-- These records use a **different schema** from batches 1–4: `## ITEM IDENTITY`, `## EXTRACTION & BINDING` / `## ACQUISITION & BINDING`, `## CORE STATISTICS` / `## PROTECTION STATISTICS` / `## GIFT STATISTICS`, and `## COMBAT FILE` / `## PROTECTIVE FILE` / `## EFFECT FILE`.
+- These records use a **different schema** from batches 1–4: `## ITEM IDENTITY`, `## EXTRACTION & BINDING` / `## ACQUISITION & BINDING`, `## CORE STATISTICS` / `## PROTECTION STATISTICS` / `## STIGMA STATISTICS`, and `## COMBAT FILE` / `## PROTECTIVE FILE` / `## EFFECT FILE`.
 - Inserted `## Appearance` (top-level `##`, matching the record's own structure) before the first statistics header in each `.md` (36/36). Word counts: **157–205** (floor 150 met; a few slightly exceed 200, which the directive permits).
 - Synced into the matching `docs/maw/maw-*-NNN-01-*.html` page (36/36 inserted after Overview, before Extraction or Bestowal). md↔html parity: **36 / 36** after normalizing `&#x27;`/`&amp;`.
-- Gotcha hit and fixed in this batch: the insertion helper that removed the `## ` prefix from the following statistics header (e.g. `## CORE STATISTICS` → ` CORE STATISTICS`), which inflated the measured word count and broke the appearance/extraction boundary. Fix = regex restore `(?m)^ (PROTECTION STATISTICS|CORE STATISTICS|GIFT STATISTICS)$` → `## \1` on all 36, then re-sync the `.html` paragraphs.
+- Gotcha hit and fixed in this batch: the insertion helper that removed the `## ` prefix from the following statistics header (e.g. `## CORE STATISTICS` → ` CORE STATISTICS`), which inflated the measured word count and broke the appearance/extraction boundary. Fix = regex restore `(?m)^ (PROTECTION STATISTICS|CORE STATISTICS|STIGMA STATISTICS)\Z` → `## \1` on all 36, then re-sync the `.html` paragraphs.
 - No SVGs touched.
 
 ### File paths touched (Batch 5)

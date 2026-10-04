@@ -1,0 +1,414 @@
+# Frozen Window — 얼어붙은 창
+
+> *“She waited at the window so long it learned to wait with her.”*
+
+## SECC Classification
+
+| Field | Value |
+|---|---|
+| **Designation** | `C-IIβ-330 [WS]` |
+| **Entity Type** | **Subject** — Can breach |
+| **Coherence** | Echo (II) |
+| **Potency** | Moderate (β) |
+| **Sorrow Category** | City Sorrow (도한) |
+| **Element** | Weight |
+| **Manifestation** | Subject-Grudge |
+| **Physical Form** | Mixed — A humanoid figure of black ice veined with burning edges — frozen flesh laced with live heat, never still, circling the Commons without rest. Where it steps, frost and scorch mark the ground together. Lead-cold and fever-hot at once, it smells of wet stone and char. |
+| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Location** | Zone D, Mantle Commons |
+| **R.D. Comprehension Level** | 2 — Basic |
+
+## Operational Parameters
+
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+
+| Statistic | Value |
+|---|---|
+| **Risk tier** | Moderate (β) |
+| **Entity role** | Subject |
+| **Primary pressure** | Han / burden pressure |
+| **Starting Sorrow Gauge** | 35–50% |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Activation threshold** | 3 |
+| **Tool / M.A.W. grade** | — · — |
+| **Vessel-Destructible** | Yes |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+
+### Operational Notes
+
+- The Window shows the Commons in a condition the Commons has not been in, and the view does not change with the hour.
+- A cycle dims the view. It has never cleared the glass, and the entity is not altered by a successful outcome.
+- Three ignored conditions escalate it. Escalation is a change in what is shown rather than any movement of the frame.
+- Burden pressure accumulates in anyone who watches for longer than a logged interval; viewing time is capped and recorded.
+- Extraction is a separate risk event under its own authorization.
+
+## Combat Record
+### Core Stat Line
+
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+
+| Stat | Value |
+|---|---|
+| **Speed** | 1.45 m/s |
+| **Resistance** | 25% against Weight pressure; 15% against other pressure types |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
+| **Sorrow Gauge [HP]** | 369/369 |
+| **Han Pressure [ATK]** | 8–20 per hit · Weight |
+| **Coherence modifier** | II — affects behavior complexity and response speed |
+| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+
+
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+
+| Field | Value |
+|---|---|
+| **Battle Length** | Medium — 16 turns |
+| **Threat Role** | Standard encounter |
+| **Coherence** | Echo (II) |
+| **Primary Pressure** | Resolve |
+| **Starting Sorrow Gauge** | 35–50% |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Battlefield** | Zone D, Mantle Commons |
+| **Resolution Condition** | Allow it to complete its circuit and name the ending |
+
+### Combat Actions
+
+| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
+|---|---|---|---|---|
+| { *The Frost Spread* [**Debuff**] } | "Ice crawls across the window — thickening, sealing — and through the frost, a shape watches." | [The Window's ice spreads; the target sees something behind it.] | *Target suffers -10 Resolve; the sealed window hides a watcher.* **[10 Weight DMG [Weight]]** | When the target looks at the Window. |
+| { *The Sealed View* [**Debuff**] } | "The ice thickens until nothing is visible — but you can still hear breathing on the other side." | [The Window seals completely; the target is locked in with whatever is outside.] | *Target loses 10 Resolve; they are trapped behind the ice.* **[10 Weight DMG [Weight]]** | When the target tries to open the Window. |
+| { *The Ice Shard* [**Attack**] } | "A shard of the frozen window breaks free — and it is sharp enough to cut through steel." | [A jagged ice-shard launches from the Window.] | *Inflicts Weight pressure and one deep, freezing cut.* **[14-22 Weight DMG [Weight]]** | When the Window is struck. |
+| { *The Full Shatter* [**Attack**] } | "The entire window gives way — and through the gap, the cold outside pours in." | [The Window's ice-shield detonates, releasing the cold behind it.] | *A heavy Black freeze; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Window is broken. |
+| { *Every Window Freezes* [**Ultimate**] } | "The frost spreads to every window — every opening — until the whole field is sealed in ice." | [The Window extends its permafrost across every opening.] | *All in range suffer Weight pressure for three turns behind frozen glass.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+
+### Battle Phases
+
+1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Frozen Window's recorded combat actions. Sorrow Gauge changes determine escalation.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Allow it to complete its circuit and name the ending**.
+
+### Consequences
+
+- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resolve**, funneling cognitive instability back into the Sorrow Gauge.
+- Frozen Window’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
+- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
+- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Frozen Window's dossier.
+
+## Appearance
+**Primary Form:** A humanoid figure of black ice and burning edges. It moves constantly around the Commons and never remains in one place.
+
+**Notable Features:** Its surface resembles a frozen window, showing scenes of lives left behind.
+
+**Identification Profile**
+
+- **Entity Type:** Subject
+- **Manifestation:** Subject-Grudge
+- **Primary marker:** A humanoid figure of black ice and burning edges. It moves constantly around the Commons and never remains in one place.
+- **Position / movement:** It moves constantly around the Commons and never remains in one place.
+- **Element signature:** Weight
+- **Registered location:** Zone D, Mantle Commons
+
+### Detailed Appearance Profile
+
+| Field | Detail |
+|---|---|
+| **Form** | A humanoid figure of black ice and burning edges. It moves constantly around the Commons and never remains in one place. |
+| **Position / movement** | It moves constantly around the Commons and never remains in one place. |
+| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+
+**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+
+## Origin
+- **Formation:** The entity formed from the refusal to accept a final view.
+- **The Sorrow:** The weight of watching someone leave and believing movement might reverse the loss.
+- **The Event:** A person waited at a window for someone who never returned. Their restless grief became a moving figure.
+- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+
+## Behavior
+
+| Work Type | Response | Gauge Change |
+|---|---|---|
+| **Flerehan** | Slows and displays the worker's own farewell. | Decrease |
+| **Pugnahan** | Surges and throws shards of frozen weight. | Increase |
+| **Viderehan** | Shows the event seen through its surface. | Stable |
+| **Ferrehan** | Keeps moving while testing whether the worker can remain. | Decrease |
+
+
+
+### Operational Work Notes
+
+The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Frozen Window is recorded as a Subject with Subject-Grudge manifestation and Weight elemental expression. The current record places it at Zone D, Mantle Commons; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+## Breach Behavior
+
+> *"Frozen Window has broken free. Hunts personnel indiscriminately."*
+
+| Field | Detail |
+|---|---|
+| **Breach Type** | Escape |
+| **Movement** | Frozen Window breaks free and stalks the corridors on foot. It hunts personnel indiscriminately. |
+| **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
+| **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
+| **First Target** | Unpredictable by nature. It never remains in one place, and target assignment changes faster than the corridor log can record it. |
+| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+
+### Escalation Notes
+
+- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Containment priority:** Contain by narrowing the available space rather than by pursuit. It cannot be intercepted on a predicted route.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per relocation rather than per turn, which makes a cornered Frozen Window cheaper than a roaming one.
+
+## M.A.W. Equipment
+
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+
+### M.A.W. Weapon — The Glazed Mullion-Pike
+
+**Category:** POLEARM / RANGE (Window-Mullion Cross-Pike & Glacial Pane)
+**Grade:** β | **Element:** Weight
+**Damage:** Weight 7–12
+**Speed:** 3 (Normal)
+**Range:** 3 (Medium: 2.2m reach + 4m ranged frost-shatter)
+**Max Amount:** 4
+**Cost:** 25 Sorrow Echoes
+
+Appearance : A 210cm cruciform polearm whose main shaft is fashioned from a dark structural oak window mullion bound in iron corner brackets. The head mounts four rectangular panes of unmelting glacial glass set into iron glazing frames.
+
+The converged glass point forms a diamond-hard spear tip, while trapped silhouettes of snowflakes remain perpetually frozen inside each pane. Icicle fringes dangle from the horizontal crossbar, emitting soft acoustic chimes and shedding sub-zero mist with each thrusting maneuver.
+
+**Special Move Set:**
+- *Primary Kinematics — "Cruciform Thrust":* High-velocity linear thrust; the four-sided glacial glass head punches through armor, inflicting Weight puncture damage and creating frost fractures in the target's surface.
+- *Active Special — "Glazing Shatter-Lance":* The wielder steps into a forward lunge, spins the mullion-pike horizontally to accumulate a vortex of sub-zero sorrow mist, then thrusts violently toward the target. At peak extension (Range 3), the four glass panes shatter outward in a forward cone of crystalline shrapnel up to 4 meters, penetrating multiple enemies before instantly reforming on the mullion head from condensing ambient moisture. Enemies caught in the shrapnel cone take skewer Weight damage and are afflicted with "Deep Frostbite" (reduces target movement speed by 40% for 3 seconds).
+- *Cost & Drawback:* The cold oak shaft chills the wielder's fingers, causing breath to fog heavily and slightly reducing manual dexterity in low temperatures.
+
+### M.A.W. Suit — The Shuttered Window-Plate
+
+**Category:** Protective Attire (Reinforced Oak Slats & Iron-Lattice Hauberk)
+**Grade:** β | **Element:** Weight
+
+Appearance : A fitted cuirass of overlapping dark oak window louvers bolted onto a blackened iron lattice frame and lined with sheared wool. A thick frost-coated glass pane is set flush over the chest plate.
+
+Intricate frost fern patterns shift across the central glass pane in response to incoming impacts, absorbing kinetic energy and venting sub-zero sorrow air. The louvered plates deflect direct physical strikes while insulating the bearer against sudden temperature drops.
+
+**Resistances:**
+- Grudge: 1.0 (Normal)
+- Lament: 1.0 (Normal)
+- Weight: 0.5 (Warded)
+- Void: 1.5 (Weak)
+**Max Amount:** 4
+**Cost:** 20 Sorrow Echoes
+
+**Ability:** *Shut-Out Bastion* — Reduces incoming physical and Weight damage by 20% when facing attackers directly, reflecting kinetic force back as cold air.
+
+**Cost:** The wearer feels every departure reflected in the pane, creating a heavy sense of solitary confinement.
+
+### M.A.W. Stigma — The Rime-Pane Monocle
+
+**Category:** Stigma (Eye / Ocular Lens)
+**Grade:** β | **Element:** Weight
+
+Appearance : A square monocle frame of tarnished iron securing a thin pane of rime-cracked window glass over the right eye. A black velvet ribbon fastens the frame snugly around the temple.
+
+Delicate frost fractures run through the lens without obscuring vision, highlighting structural stress points and micro-cracks in frozen matter. The cold glass sharpens the bearer’s focus, identifying brittle weaknesses in slowed or immobilized targets.
+
+**Slot:** Eye / Head
+**Acquisition Probability:** 5%
+**Effect:** +1 stat bonus when working the source entity
+
+**Ability:** *Thermal Fracture Sight* — Increases critical hit rate by 8% against slowed, rooted, or frozen targets by highlighting structural cold stress points.
+
+**Cost:** The right eye perceives the world in chilled blue tones.
+
+*Stigmas are granted at random by Frozen Window upon a successful work, not manufactured.*
+
+### M.A.W. Use Notes
+
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Frozen Window's element. No protocol produces Stigmas. They emerge from Frozen Window's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+
+### Field Use Record
+
+| Stage | Required record |
+|---|---|
+| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
+| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
+| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
+| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+
+**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+
+## 관찰 기록 (Observation Log)
+
+**R.D. Comprehension Level:** 2 — Basic
+
+- The entity moves continuously; forced stillness causes escalation.
+- It glows during the Sorrow Tide.
+- Personnel report sorrow rather than fear after seeing its reflected scenes.
+
+**Personnel Note:** *"It was glowing in the Commons. I thought it was calling someone home. It was teaching me that home had already changed."* — Specialist, Zone D patrol
+
+
+
+### Observation Progression
+
+| Observation stage | R.D. record |
+|---|---|
+| **Initial exposure** | The observer identifies Frozen Window as a Subject with Subject-Grudge manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone D, Mantle Commons. |
+| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Frozen Window's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+
+**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+## 이야기 보고 (Story Log) — Observation Entries
+
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+
+**Entry 1 — Containment Description**
+Frozen Window (C-IIβ-330 [WS]) is logged as a Subject-Grudge manifestation expressing Weight. The entity formed from the refusal to accept a final view. Held at Zone D, Mantle Commons. The entity moves continuously; forced stillness causes escalation.
+
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
+Travels through Mantle Commons and adjacent halls. Personnel feel the weight of an ending they refuse to accept. It glows during the Sorrow Tide.
+
+**Entry 3 — <Excerpt from Counseling Log>**
+The weight of watching someone leave and believing movement might reverse the loss.
+
+**Entry 4 — <Containment Notice>**
+Management: Allow it to complete its circuit and name the ending. Work response — Flerehan: Slows and displays the worker's own farewell. (Decrease); Pugnahan: Surges and throws shards of frozen weight. (Increase); Viderehan: Shows the event seen through its surface. (Stable); Ferrehan: Keeps moving while testing whether the worker can remain. (Decrease). Personnel report sorrow rather than fear after seeing its reflected scenes.
+
+**Entry 5 — <Archive Note>**
+There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+
+## 최종 관찰 (Final Observation)
+
+> A choice presented to the observing worker at the climax of contact. One path reveals Frozen Window; the other feeds it.
+
+| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+|---|---|
+| Slows and displays the worker's own farewell. The sorrow is borne; Frozen Window is fully recorded. | Surges and throws shards of frozen weight. The gauge climbs and Frozen Window withdraws without revelation. |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+
+## 감각 묘사 (Flavor Text)
+
+The Window passes like a person walking behind glass. Inside its frozen surface, a door closes again and again. You reach for the image and feel the pane's weight settle into your bones. The figure keeps moving because if it stops, the last moment becomes permanent.
+
+
+
+**At first contact:** The Subject-Grudge does not announce itself with sound or movement. It arrives as a sensation — Weight settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A humanoid figure of black ice and burning edges. It moves constantly around the Commons and never remains in one place.
+
+**With continued exposure:** Time stretches in the containment zone. The Subject-Grudge becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
+
+**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Weight becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Grudge was waiting; now it moves.
+
+**After departure:** Departure is not relief. The Subject-Grudge is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+
+### Interaction Pattern
+
+Frozen Window does not exist in isolation. Its recorded relationships with The Broken Clock, The Frozen Shard, The Lost Prince should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+
+**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+
+
+### Entity Interaction Record
+
+Frozen Window must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+
+| Related entity | Canonical interaction | Observed operational effect | Required record |
+|---|---|---|---|
+| **The Broken Clock** | Both reject the finality of a fixed moment. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Frozen Shard** | Resonates through shared cold grief. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Lost Prince** | Reflects his absent bond. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+
+**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+
+## 이야기 (Narratio) — The Tale
+
+She waited at the window, and the waiting, given nowhere to go, became a window that waits still.
+
+The woman's husband left through the gate in the morning, the way husbands leave in Somnarak — for work, for the Collectors, for whatever errand the city demands. He said he would return by evening. He did not return by evening. He did not return the next day. He did not return. The gate, the city, the Han — somewhere among them he was taken, the way citizens are taken, without explanation, without body, without the small decency of a confirmed death.
+
+She waited at the window. Not for a day, or a week, or the reasonable month after which grief is permitted to begin its slow rearrangement. She waited for years. She kept the lamp lit. She kept the window unshuttered. She watched the gate, and the street, and the corner where he would turn if he were coming home — and she believed, with the particular ferocity of the grief-stricken, that if she watched hard enough, if she kept the window open, if she did not look away, the watching itself would call him back.
+
+This is the sorrow at the heart of the Frozen Window: the weight of watching someone leave and believing, against all evidence, that movement might reverse the loss. That if you only keep your eyes on the place they went, they will come back through it. The waiting becomes a kind of spell — a stubborn, irrational faith that attention can hold the world in place, that the act of looking can prevent the looked-for thing from being truly gone.
+
+She did not move from the window. The grief would not let her. And in Somnarak, where the Weeping makes everything solid, the not-moving became its own thing. Her restless watching, her refusal to accept the final view — the last glimpse of his back, turning the corner, gone — sank into the window itself, and the window absorbed her, and the glass and the frame and the woman became one figure: a Subject-Grudge entity, frozen at the moment of watching, eternally turned toward the corner where no one is coming.
+
+Frozen Window does not turn away. It cannot. It watches — the gate, the street, the corner — with the fixed, desperate attention of someone who believes that looking hard enough will bring the lost one home. Those who come near it feel the particular weight of unresolved waiting: the grief that cannot grieve because it has not accepted the loss, the love that cannot move because it is still waiting at the window, the terrible faith that the watching matters.
+
+Some sorrows accept. Frozen Window does not — it waits, and waits, and will not look away from the corner, because looking away would mean accepting that the one who left is not coming back, and that acceptance is the one thing the waiting was built to prevent.
+## 증언 (Testimonium) — The Testimony
+
+> *“She waited for years. She never looked away. The waiting became the window.”* — Keeper, Archive
+
+> *“I stood near it and felt the weight of watching someone leave and believing they might return.”* — Citizen, Zone D
+
+> *“The window does not turn away. It cannot. It watches the corner where no one is coming.”* — Researcher, R.D.
+
+> *“The terrible faith that watching matters — that is the sorrow.”* — Containment Lead, R.D.
+
+> *“Grief that has not accepted the loss. The window is its shape.”* — Mender, Zone D
+## 기록 (Registrum) — The Record
+
+**Classification:** Sorrow Entity — `C-IIβ-330 [WS]` · City origin · Echo (II) coherence · Moderate (β) potency · Weight · Subject-Grudge manifestation
+**Common Name:** Frozen Window
+**Containment Status:** Contained — Zone D
+**Comprehension Level:** 2 — Basic
+**Threat Assessment:** Low. The Window watches eternally. Effect: proximity induces unresolved waiting. No breach.
+**Containment & Handling Procedures:**
+- Ferrehan is the primary Work Type.
+- The Window does not turn away; it cannot.
+**Observation Notes:**
+- Formed from a woman who waited for someone who never returned.
+- The watching became the window.
+**Cross-References:** Zone D · The Veil · The Frozen Veil
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Originator:** A citizen of Zone D who waited for a return that never came.
+
+### Registry Addendum
+
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+
+**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+## Watch Record
+
+### It Never Stays
+
+The figure of black ice and burning edges moves continuously through the Commons and has not been recorded at rest, so the watch is a patrol rather than a post. Two Wardens work it, moving opposite ways on a fixed circuit. The circuit was laid out so that the gap between them is never long, and the interval is stated in the order.
+
+### Scenes in Its Surface
+
+Its face shows views of lives that were left behind, shifting as it moves, and the Warden records the type of scene rather than its content. Types are drawn from a short printed list. The list was compiled from the first year's free-text entries and the file notes that it has not needed a new category since.
+
+### Ice That Burns at the Edges
+
+The figure is cold through its body and its outline burns, and both have been measured at distance. The readings are consistent and contradictory. The file presents them together without resolution and the archivist's note observes that this is the only holding in the wing where the two measurements taken at the same moment cannot both be about the same object.
+
+### Waiting at a Window
+
+Someone watched for a person who did not come back and the waiting became something that cannot keep still, and the commissioning file holds the household's correspondence from the period. The letters go out and are not answered. They are filed in order of sending, and the archivist's note states that the last several were written after the point at which the record shows the recipient could have received them.
+
+## Trivia
+
+- The reflected scene changes according to the observer's own unresolved departure.
+- Stillness is its strongest trigger.
+
+
+
+### Registry Trivia
+
+- **Classification detail:** Frozen Window is a Subject with Echo (II) coherence and Moderate (β) potency.
+- **Field detail:** Its defining element is Weight, and its registered location is Zone D, Mantle Commons.
+- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+## Document Information
+
+**Document ID:** SE-C-IIβ-330
+**Author:** Auditor Yuna
+**Date:** Year 4238
+**Classification:** Restricted
