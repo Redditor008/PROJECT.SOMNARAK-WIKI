@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **204** |
-| Pending — no disposition-bearing line found by scan | 99 |
+| **Classified here, with a quoted line of evidence** | **205** |
+| Pending — no disposition-bearing line found by scan | 98 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 204 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 205 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 99 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 98 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -208,6 +208,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Floating Shard | C-IVδ-503 | Offers F01 nothing usable and other entities nothing at all. Its one measurable output is brightness near an injured person — *"Brightness rises near an injured person, before the injury has been reported"* — an instrument the wing refuses to improve because *"we do not make the points,"* leaving a 23-point curve the wing cannot extend. It has never struck first (*"Every injury recorded in the bay is a mirrored one"*), so it neither suppresses nor assists any other holding: seven co-presences with the Kind Healer's Shadow left its own series *"unchanged on all seven,"* four with the Crumbling Saint showed *"no measurable effect in either direction,"* and the claim that the Rage Forge turns its pity into tools is recorded with *"no fragment has ever been recovered from the Forge."* |
 | The Rising Well | C-IVδ-869 | Gives F01 energy it can use and nothing it can act on, and does nothing for or against any other entity. The yield is real — *"A successful work cycle on this holding yields between twenty and twenty-eight Han-Energy"* — but every claim it generates fails: *"Thirty-one have been heard. Thirty-one were dismissed."* It has no exterior and so cannot reach a containment: six co-presences with the Memory Well produced *"no measurable effect in either direction,"* and four approaches with the Torn Soul recovered nothing. The Wrath Flame made its rim briefly visible twice in nine years, an effect the wing *"cannot reproduce it, will not attempt to."* |
 | Fading Whisper | N-IIIγ-407 | Of no use to F01 and of no help to anything else; it guards an absence and acts on nobody. Its only product is a transcript — *"Nothing is extracted. The only product of a watch is a transcript"* — and the facility keeps it alive solely as a record, knowing *"Fading Whisper could be ended this season, by notice, for the cost of the paper."* It does not interact: nine co-presences with the Forgotten Silence left the level series *"unchanged on all nine,"* five approaches to the Memory Lock transferred nothing, and the Rising Mirror produced one account *"relied on for nothing."* Its equipment *"makes an absence legible"* and *"gains no means whatever of restoring it."* |
+| Floating Pillar | N-IIIγ-409 | Helps neither side. It has never approached anybody — *"It does not pursue and has never approached anybody"* — and does nothing for other entities: eleven co-presences with the Empty Mask left the Mask's record *"flat across all eleven,"* two approaches to the Hollow Tree produced *"no transfer, no burden movement,"* and the Broken Mirror account was withdrawn by its own observer. What it gives F01 is unusable: equipment that shows which supports are imaginary but *"does not distinguish between a support that was never there and one that is simply out of sight,"* and a nine-year position series its own cover sheet calls *"internally consistent and externally unreferenced."* |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |

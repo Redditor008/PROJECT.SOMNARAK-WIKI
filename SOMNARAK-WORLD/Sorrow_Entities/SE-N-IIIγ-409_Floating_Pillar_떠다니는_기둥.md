@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — An ethereal voice surrounding a pillar-shaped absence — a column of empty air where a pillar should stand, the voice speaking from above and below at once. Bloodless-cold, it smells of ash; no body — only the held space and the words. |
-| **Movement** | Stationary — a place or zone; spreads rather than moves. |
+| **Movement** | Stationary — it holds one position and one elevation above the Market floor and has never been observed to travel, rise, or settle. What changes is rotation, which is measured against the sighting marks. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | γ · γ |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | All four Work Types are valid; it is a Subject. Flerehan and Ferrehan lower the gauge, Pugnahan raises the absence and strips sound from the bay, and the floor beneath the gap is kept clear whether or not work is in progress. |
 
 ### Operational Notes
 
-- The Pillar holds a fixed height above the Market floor and has never been observed in motion.
-- A cycle settles it lower. It returns to the same height, and the height has not drifted across the record.
-- Two ignored conditions escalate it. Escalation presents as rotation rather than any change in elevation.
-- Identity pressure acts on crews stationed beneath it; the floor below is kept clear and station time is capped.
-- Extraction is a separate risk event under its own authorization.
+- The Pillar holds one elevation above the Market floor and has never been observed in motion. The elevation is recorded relative to the floor, and the floor is not a certified datum.
+- A cycle settles it lower by a measurable amount. It returns to the same recorded elevation within a day, and that figure has not changed across the whole of the record, which is a fact about the measurement as much as about the entity.
+- Two ignored conditions escalate it. Escalation presents as rotation — the absence turning about its own axis, read off the two sighting marks — and never as a change in elevation.
+- Identity pressure acts on anybody standing under the gap. The floor below is kept clear at all times and station time at the sighting marks is capped at ninety minutes.
+- Nothing can be extracted; there is no vessel and no material. The holding's only outputs are the position record and the verbatim log of what the voice says.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,27 +87,27 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Floating Pillar's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Twelve turns, worked from the two sighting marks and never from beneath the gap. Positions are read at the start and the end of every turn, by both observers independently, and no reading is discarded for disagreeing with the other.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish real support; do not replace the missing thing with another illusion**.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Composure**, funneling cognitive instability back into the Sorrow Gauge.
-- Floating Pillar’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Floating Pillar's dossier.
+- The failure here is substitution. A worker who loses the thread offers the voice something else to be — a colleague, a rule, the wing itself — and the gauge climbs on the offer.
+- Long exposure removes the floor from under things that are genuinely load-bearing. Workers come out doubting arrangements that are sound, and the holding treats a worker who has begun querying real supports as exposed rather than as insightful.
+- The equipment shows the wearer which of their supports are imaginary. It is accurate, it is complete, and it does not distinguish between a support that was never there and one that is simply out of sight.
+- Unresolved, it transforms. The absence widens past the bay, names and faces go out of reach of the people holding them, and the numbness spreads along the Market row until the seal is closed.
 
 ## Appearance
 **Primary Form:** An ethereal voice surrounding a pillar-shaped absence. The voice speaks from above and below at once.
 
-**Notable Features:** It reveals missing things, carries no physical body, and floats above the Market floor.
+**Notable Features:** It names things that are absent. It has no body, no shadow and no surface. It occupies the exact position at which the Market's structural drawings show a column.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Spirit
-- **Primary marker:** An ethereal voice surrounding a pillar-shaped absence. The voice speaks from above and below at once.
-- **Position / movement:** Notable Features: It reveals missing things, carries no physical body, and floats above the Market floor.
+- **Primary marker:** A column-shaped volume of empty air above the Market floor, with a voice arriving from above and below it at the same instant.
+- **Position / movement:** Fixed. Take the position by sighting across the gap from both marks; record the two bearings, the elevation, the dimensions of the absence, and the rotation since the previous watch.
 - **Element signature:** Void
 - **Registered location:** Zone C, Mask Market
 
@@ -116,19 +116,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | An ethereal voice surrounding a pillar-shaped absence. The voice speaks from above and below at once. |
-| **Position / movement** | Notable Features: It reveals missing things, carries no physical body, and floats above the Market floor. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Position / movement** | Fixed in position and elevation. Two bearings taken independently from the marked points, the dimensions of the gap, and the rotation measured against the marks. |
+| **Material / signature** | Void. No material at all: bloodless-cold air smelling of ash, a voice with no source, and a volume your hand passes through without resistance. |
+| **Distinctive markers** | A column-shaped hole in the air at a grid position where the drawings show structure, casting no shadow and holding nothing up. |
+| **Identification** | Confirm before Work or contact: designation N-IIIγ-409, Void expression, Subject-Spirit manifestation, Zone C at the Mask Market. If any one of the four does not agree with what is in front of you, do not proceed. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Take both bearings before anything else, independently, and write both down even when they disagree — especially when they disagree, because the disagreement is the only external check this holding has. Then the elevation, the dimensions of the gap, the rotation, and the first words heard with the time against them. Write concretely enough that another officer could find the thing from your sheet. *Unusual* is not a field-report word.
 
 ## Origin
 - **Formation:** The Pillar formed from an absence made visible through memory.
 - **The Sorrow:** The grief of discovering that a cherished support never truly existed.
 - **The Event:** A person depended on an imagined protector until the illusion collapsed into a spirit.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+- **The People:** One citizen of the Mask Market, named in the chamber file, and a protector who had no existence outside her belief in him. There is no second person in this origin; that is the whole of the sorrow.
+- **Expanded origin context:** She was not deceived by anybody. No one posed as the protector, no one took money, no one knew. She constructed him over eleven years out of what she needed, addressed letters to him, and arranged her decisions around what he would have advised, and the arrangement held her life together in a district where very little holds. The archivist's note records what the wing takes from it: the support was imaginary and the weight it carried was real, and when the belief failed, the weight did not go anywhere.
 
 ## Behavior
 
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Floating Pillar is recorded as a Subject with Subject-Spirit manifestation and Void elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Floating Pillar is a Subject with Subject-Spirit manifestation and Void expression, fixed above the floor of the Mask Market in Zone C. All four Work Types apply. Flerehan softens the voice and sharpens the outline of the absence, Ferrehan tests whether a worker can stand without the thing being removed, Viderehan shows the worker what they have been leaning on and leaves the gauge level, and Pugnahan raises the absence and takes the sound out of the bay. The Registrum entry naming Viderehan as the primary approach is an error and is corrected here.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** Read it in the voice and the rotation. A falling gauge presents as a single direction — the voice resolving to above or below instead of both — and the rotation slowing against the marks. A rising gauge presents as silence spreading outward from the gap, which workers consistently report as the bay going deaf rather than quiet. If the sound is leaving, the next action is to stop work, not to persist and log it.
 ## Breach Behavior
 
 > *"Floating Pillar has broken free. Hunts personnel indiscriminately."*
@@ -153,7 +153,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | Floating Pillar expands beyond containment like a spreading tide. It hunts personnel indiscriminately. |
+| **Movement** | It does not pursue and has never approached anybody. The absence widens from where it stands, taking names and faces out of reach of the people holding them, and personnel are affected where they are. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
@@ -162,8 +162,8 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Flerehan and Ferrehan from the marks, with the floor beneath the gap already clear. Nobody is told that anything is holding; nobody offers it a substitute.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from a single Market event and is labelled as modelled wherever it is quoted.
 
 ## M.A.W. Equipment
 
@@ -219,7 +219,7 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 
 **Cost:** The wearer feels every support they once imagined.
 
-*Stigmas are granted at random by Floating Pillar upon a successful work, not manufactured.*
+*The Empty Pillar is not issued and cannot be requested. It has been conferred three times, in each case on a worker who told a colleague plainly that something they relied on was not there.*
 
 ### M.A.W. Use Notes
 
@@ -240,11 +240,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- The voice has no measurable source.
-- It is strongest near masks and false identities.
-- Personnel report emptiness rather than fear.
+- The voice has no source any instrument has found, and arrives from above and below in the same instant.
+- It is loudest in the mask rows, which is where the Market keeps the things people wear instead of themselves.
+- Personnel report emptiness rather than fear. Nobody in the record has described the holding as frightening and nobody has described it as harmless.
 
-**Personnel Note:** *"I felt emptiness. The Pillar did not take anything from me; it showed me what I had been leaning on that was never there."* — Specialist, Zone D patrol
+**Personnel Note:** *"It did not take anything off me. It told me what I had been leaning on that was never there, and the worst part is it was right, and the second worst part is that I checked."* — Specialist, Zone C patrol
 
 
 
@@ -252,12 +252,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Floating Pillar as a Subject with Subject-Spirit manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone C, Mask Market. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Floating Pillar's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | A column of empty air above the Market floor, cold and smelling of ash, with a voice around it speaking from two directions at once. |
+| **Sustained observation** | Two independent bearings, the elevation, the dimensions of the gap, the rotation against the marks, and the verbatim log of what the voice names. |
+| **Activation or escalation** | Escalation is rotation and the loss of sound. When the bay begins going deaf, the watch ends; the elevation will not change and is not the indicator. |
+| **Post-contact review** | Both bearing sets with their disagreement, the rotation series, the verbatim log unchecked and unannotated, and whether any worker has begun doubting a support that exists. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Observe from the two marks, never from under the gap, and read independently without comparing until both sheets are down. Record the first sound, the direction it seemed to come from, the bearings, and the condition that ended the watch. The form here is the sorrow and not the intention: a column-shaped hole holding nothing up is what a support looks like after everybody has agreed it was never there, and the weight it was carrying is still in the room.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -292,32 +292,32 @@ A voice rises around an empty vertical shape. You reach for the pillar and your 
 
 
 
-**At first contact:** The Subject-Spirit does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. An ethereal voice surrounding a pillar-shaped absence. The voice speaks from above and below at once.
+**At first contact:** Cold without a draught, ash without smoke, and a voice that is already speaking from both sides of you. Observers reach for the pillar before they have decided to, and their hands go through.
 
-**With continued exposure:** Time stretches in the containment zone. The Subject-Spirit becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
+**With continued exposure:** The gap acquires edges in the mind that it does not have in the air. Workers begin describing a surface, a texture, a direction it faces, and the standing instruction is to write down that they did so and to strike nothing.
 
-**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Void becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Spirit was waiting; now it moves.
+**When the entity activates:** Sound leaves. Not silence exactly — voices continue and arrive wrong, thinned out, as though the bay had lost a wall. The absence turns, slowly, and nothing comes toward anybody.
 
-**After departure:** Departure is not relief. The Subject-Spirit is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** You check things. Workers describe testing handrails, re-reading rosters, asking colleagues to confirm arrangements that were never in doubt, and the holding counts a fortnight of that as part of the exposure.
 
 ### Interaction Pattern
 
-Floating Pillar does not exist in isolation. Its recorded relationships with The Empty Mask, The Hollow Tree, The Broken Mirror should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other things in the district built out of what is not there. Each relation below has been observed and filed, none of them is settled, and all three are hard to measure here, because the holding's position record is referenced to a floor nobody has levelled.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone over a long series before any paired approach, and take both bearings on every occasion. Log the onset of any shared change with its range, duration and trigger, the gauge movement on both sides, the rotation series, and whatever persists after separation. Re-verify every cycle; a Sorrow Tide, an Ordeal or a transformation has flipped a settled dynamic in the Market before.
 
 
 ### Entity Interaction Record
 
-Floating Pillar must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact and not alliances. None is settled, and on this holding a result obtained once is worth less than usual, because the instrument that produced it is two marks on a floor whose own position has never been fixed.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Empty Mask** | Both reveal identity built from absence. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Tree** | Shares empty space that once promised support. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Broken Mirror** | Reflects the imagined support. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Empty Mask** | Both are read as identity assembled out of a gap, and the Market keeps them four rows apart. | Eleven co-presences, the most of any pairing in the file. The Pillar's rotation rate rose on nine of them and the elevation never moved. Nothing passed in the other direction; the Mask's own record is flat across all eleven. | The eleven co-presences, the rotation series, and the Mask's flat record held alongside it. |
+| **The Hollow Tree** | Both hold a space that once promised support, which is a resemblance and has repeatedly been written up as a bond. | Two approaches, nine years apart. No transfer, no burden movement, no change in either series. The second approach was made specifically to test the claimed bond and is recorded as having disproved it. | Both approaches, both null results, and the correspondence in which the bond was asserted. |
+| **The Broken Mirror** | The Mirror is said to show the protector as he was imagined, a claim made once by one observer. | Four co-presences. Three produced nothing. In the fourth an observer described a man in detail, could not repeat the description, and asked for the account to be withdrawn; it was retained with her request attached. | The four co-presences, the retained account, and the withdrawal request kept with it. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Pair only with both parties individually baselined within the cycle, with both marks manned, and with the observers instructed not to confer until the sheets are sealed. Record the first shared change, the range, duration and trigger, the gauge movement on both sides, and what persists after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -347,19 +347,19 @@ Some sorrows are about losing support. Floating Pillar is about the support that
 > *“She reached for support and found air. The support was never stone. It was desperation.”* — Mender, Zone C
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-409 [O]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-409 [O]` · Inner origin · Fragment (III) coherence · Major (γ) potency · Void · Subject-Spirit manifestation
 **Common Name:** Floating Pillar
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. The shape of an imagined protector, floating, supporting nothing. Effect: proximity induces the vertigo of collapsed trust.
+**Threat Assessment:** Major (γ). It is the shape of an imagined protector, holding nothing up; proximity produces the vertigo of collapsed trust, and a transform event takes names and faces out of reach across the Market row. The older entry describing the threat as low is an error and is corrected here.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The pillar floats; it cannot be grounded.
+- All four Work Types are valid; it is a Subject, and the older entry restricting work to Viderehan is an error.
+- The absence holds its elevation and cannot be brought down, and no attempt to ground it has been authorised since the second year.
 **Observation Notes:**
-- A woman leaned on a protector who was never truly there.
-**Cross-References:** Zone C · The Frozen Shadow · The Hollow Knight
+- A woman of the Mask Market relied for eleven years on a protector who had no existence outside her belief, and the shape of him stayed behind when the belief gave way.
+**Cross-References:** Zone C · the Mask Market · the Market's as-built drawings · the unsent letters · The Empty Mask
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
-**Originator:** A citizen whose imagined protector collapsed.
+**Originator:** A citizen of the Mask Market whose imagined protector collapsed after eleven years, and who was deceived by nobody.
 
 ### Registry Addendum
 
@@ -384,10 +384,50 @@ Its utterances concern absent things, and the Warden logs them verbatim without 
 
 Someone relied on a guardian who did not exist until the reliance collapsed, and the commissioning material holds what the person wrote during the years of believing it — letters addressed to a protector, kept and never sent. They are held in full. The archivist's note states that they are the most complete personal record in the wing and that their subject never received one of them. The letters are stored flat, in the order they were written, and have been read in full by three people in the containment's history, each of whom recorded having done so. Each of the three recorded the date and nothing about the contents, which was what the standing order asked of them.
 
+### Two Marks and No Datum
+
+Everything the wing knows about where this entity is comes from two brass marks set into the Market floor and a sighting taken across the gap between them.
+
+The marks are good marks. They are sound, they are maintained, and the bearings taken from them are repeatable to a tolerance the file prints with pride. **Four thousand one hundred and sixty readings** have been taken from them in nine years and the elevation of the absence has not changed by a measurable amount in any of them.
+
+The difficulty is stated in the file's own second line and has never been glossed over: **the marks have never been fixed to anything outside the Market.** Their positions are known relative to the floor they are set in and the floor is known relative to the marks, which is not knowledge. A column of empty air that does not move relative to a floor that may itself be moving is a reading about the pair of them, and the record cannot say which of the two is doing the holding still.
+
+It is not a question anybody considered interesting until the mask rows began to show cracking in a pattern that reads as settlement. If the Market floor is going down by a few millimetres a year, then the absence is going down with it, exactly, for reasons nobody can propose — or the absence is holding and the floor is not, which would mean the elevation series is a record of a building subsiding away from a fixed point and nobody noticed for nine years.
+
+One attempt has been made to settle it. A closed levelling traverse was run from the marks out of Zone C toward the nearest certified benchmark and back. **The closure error came back at thirty-one millimetres**, which is enormous over that distance and means the circuit did not close at all. The traverse was rerun once by a different crew with the same instrument and produced twenty-eight. The survey office's note refuses to attribute the error to the entity, to the instrument, or to the ground, and says so in those words: *we have three candidates and no way to eliminate any of them.*
+
+So the holding's most precise figure rests on the one thing it cannot check. The position record is kept exactly as it has always been kept, with a cover sheet added in the fifth year that says in full: **this series is internally consistent and externally unreferenced, and must not be quoted to anybody who does not know that.**
+
+### The Floor Is Zero Now
+
+In the sixth year the facility resolved the problem by declaring it solved.
+
+The resolution is short. It adopts the Mask Market floor, at the plane of the two marks, as a **local datum** for all elevations recorded in Zone C, and directs that heights in the zone be certified against it. The effect was immediate and entirely as intended: the holding's file became certifiable, the position series became a compliant record, and the thirty-one millimetres stopped being anybody's problem, because a datum is true by definition and cannot be out by anything.
+
+It is a lawful device, used elsewhere, and in most of its uses it is harmless. Here it is not, for a reason the engineers set out in writing before the resolution passed and which nobody disputed then or since.
+
+**Elevations in a local datum cannot be compared with elevations in any other.** The Market's traders have been bringing subsidence claims for eleven years, and a subsidence claim is proved by showing that a point has moved relative to something that has not. The traders' surveys are taken against the zone's certified heights, and the zone's certified heights are now taken against the floor that is alleged to be sinking. **Every claim since the resolution has failed for want of a baseline** — nineteen of them, all on the same ground, none on its merits.
+
+The resolution could be revoked tomorrow and it would not help, because there is still no benchmark to re-level to and the traverse still does not close. The wing did not create that situation and cannot repair it. What it did was convert an unmeasurable into an administratively settled fact, for its own file, knowing which other people's cases were resting on the unmeasurable staying visible.
+
+The traders' association's objection is minuted at each annual review. It holds that the resolution was made for the containment file and not for the zone; that the facility knew the claims were live when it passed it, because two of them were cited in the engineers' note; and that a body which declares a floor to be zero has made itself the only party in the district who cannot be shown to be standing on moving ground. The minute records the objection as **correct in all three parts**, records that the facility has twice applied for a benchmark to be established in Zone C and twice had the application returned unactioned, and prints the surveyor's line that the review chair asked to be kept: *we did not sink their floor. We just stopped being able to tell them it was sinking.*
+
+### Temporary for Nine Years
+
+The Market's as-built drawings show a reinforced column at grid F7. At grid F7 there is a column-shaped volume of nothing, the building above it stands, and no engineer will put their name to the discrepancy.
+
+The position is not that the structure is unsafe. Every assessment has found the bay adequate without the column, the load having found another path at some point nobody can date. The position is that a building cannot be certified against drawings it contradicts, and the drawings cannot be amended, because an amendment to an as-built record requires a survey, and the survey requires a datum.
+
+The Market therefore trades under a **temporary structural permission**, renewed every six months. It has been renewed eighteen times. Each renewal is routine, each costs little, and the cumulative effect is the whole of the problem: premises under temporary permission cannot carry a lease longer than the permission, and a trader who cannot hold a long lease cannot borrow against the stall. The mask rows have the shortest tenancies and the highest turnover in Zone C, and both figures date from the ninth month of the containment.
+
+The renewal must be signed personally. It is a named liability, not a departmental one, and it attaches to the engineer rather than to the office. **Four engineers have declined it in writing**, all four giving the same reason, which is that they are being asked to certify a position they have no means of verifying. One has signed every renewal since the third year. She has asked twice for the duty to be made departmental and has been told, correctly, that it cannot be.
+
+She retires in two years. The file contains no plan for what the Market does then, and the note recording that absence is one line: **we have asked.**
+
 ## Trivia
 
-- The Pillar has no shadow.
-- Its voice becomes audible when someone stops pretending to be protected.
+- The Pillar casts no shadow in any light the wing has tried, including from directly above.
+- It is heard most clearly by people who have just stopped pretending that something is holding them up.
 
 
 
@@ -395,9 +435,9 @@ Someone relied on a guardian who did not exist until the reliance collapsed, and
 
 - **Classification detail:** Floating Pillar is a Subject with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone C, Mask Market.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the gap and the two-directional voice; never by elevation, which is recorded against a floor that has never been levelled to anything.
+- **Record detail:** Read this file beside the Market's as-built drawings, which show a column at the gap's grid position and have not been amendable for nine years.
+- **Containment detail:** Sealed does not mean inert. The holding alters the local Han field through the seal: traders in the adjacent rows report arrangements slipping their minds, and the Market's own stocktakes run short in the mask rows and nowhere else.
 ## Document Information
 
 **Document ID:** SE-N-IIIγ-409
