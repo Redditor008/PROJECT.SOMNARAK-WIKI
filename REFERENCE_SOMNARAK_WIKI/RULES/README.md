@@ -29,6 +29,7 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-21`](R-21_FIVE_CLEANS_PER_PROMPT.md) | Five Whole-File Cleans Per Prompt |
 | [`R-22`](R-22_TEN_DISPOSITIONS_PER_BATCH.md) | Ten Dispositions Per Batch, Each Batch Done Right |
 | [`R-23`](R-23_LABELS_MAY_REPEAT_VALUES_MAY_NOT.md) | Labels May Repeat, Values May Not — template residue outside the Workstream 1 scope |
+| [`R-24`](R-24_THE_TALE_STANDARD.md) | The Tale Standard — the Narratio section is the benchmark; generic prose measured by 8-gram sharing, clean at ≤ 0.05 |
 
 ## Precedence
 

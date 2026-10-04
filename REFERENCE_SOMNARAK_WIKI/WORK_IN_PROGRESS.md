@@ -17,6 +17,9 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **21 / 303** |
+| **Dossiers at the Tale standard (`R-24`, generic fraction ≤ 0.05)** | **11 / 303** |
+| Archive median generic fraction | 0.155 |
+| **Dispositions classified (Workstream 5)** | **275 / 303** |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
 
@@ -85,6 +88,33 @@ Threshold is ten, not thirty, because this defect clusters by entity *role*: six
 4. **Slot-filled Origin prose** in the thin files, done entity by entity alongside its disposition.
 
 Fixes are **growth, not deletion** (`R-15`). A cell is not fixed by removing it or by rewording it just under the threshold.
+
+### Second measure — the Tale standard (`R-24`)
+
+Raised by the owner on 2026-10-05: *"make sure that a lot of text is not just copy & paste … the Tale
+section is already fixed."* He is right twice over. The Tale **is** finished — measured across all
+298 dossiers that carry one, **no Tale section shares an eight-word run with ten other dossiers** —
+and the sections around it are not. Measured with [`sect.py`](RULES/R-24_THE_TALE_STANDARD.md):
+
+| Section | Score | Section | Score |
+|---|---|---|---|
+| `이야기 (Narratio)` — **The Tale** | **0.00** | `Appearance` | 0.90 |
+| `증언 (Testimonium)` | **0.00** | `관찰 기록 (Observation Log)` | 0.93 |
+| `Origin` | 0.16 | `최종 관찰 (Final Observation)` | 0.96 |
+| `Apex` / `Watch` / `Warden Record` | 0.42 / 0.45 / 0.62 | `기록 (Registrum)` | 0.97 |
+| `Trivia` | 0.80 | `M.A.W.` · `이야기 보고 (Story Log)` | 0.99 |
+| `Behavior` · `Breach Behavior` | 0.88 | `Operational Parameters` · `Combat Record` | **1.00** |
+| `감각 묘사 (Flavor Text)` | 0.89 | `Activation` · `Expansion Behavior` | **1.00** |
+
+Archive median generic fraction **0.155**, worst 0.413 (`N-IIIβ-200` Chain of Memories), **11 / 303**
+at ≤ 0.05. The ten dossiers rewritten in the last batch reached `RESIDUAL 0` and residue 0 and still
+measure 0.103–0.129 — **clearing the line-level tools does not make a dossier bespoke.** What
+survives them is the Combat Actions flavour text, the Battle Phases, the M.A.W. appearance and
+ability lines, and the Threat Assessment paragraph. That is the next tranche of work.
+
+One generator artefact was found and repaired by this pass: 29 dossiers published an unevaluated
+Python expression in the Combat Record `Difficulty` row, with the entity's numeric suffix standing
+where the difficulty word belonged. All 29 were rebuilt from each file's own `Work difficulty` row.
 
 ## Workstream 2 — Unfinished text (closed on both scans)
 
