@@ -28,20 +28,20 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Emotional / structural pressure |
 | **Starting Sorrow Gauge** | 40–55% |
-| **Han-Energy yield** | 6–9 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 6–9 per cycle, the lowest return on the Zone D ledger, and the Directorate's energy office has twice proposed removing it from the roster on that ground. Both proposals were refused by the Commons, which does not want the route unattended. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Walk the route with it and accept a stone. Flerehan is valid and gentle here but changes nothing; what moves the gauge is a worker taking one of the warm stones from the satchel and carrying it until they find somebody it can be given to. Eleven stones have been placed this way. The figure has bowed to each of the eleven workers afterward, which it does not do to anyone else twice. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Undelivered Thanks.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A delivered stone is gone permanently and the satchel is measurably lighter for it. The entity is the only one in the registry that can be reduced by subtraction, and at the present rate — eleven stones in six years against a satchel estimated at four thousand — the arithmetic is in the file so that nobody mistakes progress for a plan.
+- It has never escalated at a person. The three gauge spikes on record all followed the same thing: a letter left at a door that the figure took and could not place, because the name on it belonged to a Bearer who died before the letter was written.
+- The exposure risk is unusual in that it is social rather than somatic. Workers come off this route owing things. Two have resigned from Zone D and both gave the same reason on the form, in almost the same words: that they had started keeping a list.
+- Extraction from this entity is forbidden outright. Director Majin's order is one sentence long and is reproduced in full in the equipment section; it is the shortest standing order in the archive and the only one that bans a β-grade extraction.
 
 ## Combat Record
 ### Core Stat Line
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 0.9 m/s |
-| **Resistance** | 30% against Weight pressure; 10% against other pressure types |
+| **Resistance** | 30% against Weight. It does not resist anything else because it does not resist: in six years of observation the figure has never once moved away from an approach, a reading, a hand, or a blow. |
 | **Activation threshold** | Sorrow Gauge ≥ 50% |
 | **Sorrow Gauge [HP]** | 435/435 |
 | **Han Pressure [ATK]** | 10–23 per hit · Weight |
@@ -80,21 +80,21 @@
 | { *The Unsent Letter* [**Debuff**] } | "A thank-you, written but never sent — and the not-sending has grown heavy over the years." | [The weight of undelivered gratitude settles on the target.] | *Target suffers -10 Resolve; they owe thanks they never gave.* **[10 Weight DMG [Weight]]** | When the target approaches. |
 | { *The Heavy Heart* [**Debuff**] } | "The gratitude you never expressed has become a stone in your chest." | [The unspoken thanks accrue mass; the target carries every one.] | *Target loses 10 Resolve; the accumulated gratitude is crushing.* **[10 Weight DMG [Weight]]** | When the target remains. |
 | { *The Returned Stigma* [**Attack**] } | "The kindness you never acknowledged comes back — heavier, and sharper." | [Every unthanked kindness returns as a weighted blow.] | *Inflicts Weight pressure and one wound of unacknowledged debt.* **[14-22 Weight DMG [Weight]]** | When the Thanks is stirred. |
-| { *The Guilt* [**Attack**] } | "The guilt of every thank-you left unsaid — all at once, all its full weight." | [The accumulated guilt of ingratitude crashes down.] | *A heavy Black blow; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Thanks is confronted. |
-| { *All Unsaid Things* [**Ultimate**] } | "Everything you meant to say and never did — it all arrives now, at once." | [The Thanks releases every unspoken word across the field.] | *All personnel suffer Weight pressure for three turns of unsaid weight.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Guilt* [**Attack**] } | "It opens the satchel and begins handing them to you one at a time, politely, and it does not stop." | [The whole carried weight is offered rather than thrown — the entity's only aggressive act is generosity.] | *24–36 Weight and a 15% Gauge surge to anyone who accepts more than one stone in a cycle; refusing causes no damage and the figure bows and moves on.* **[24-36 Weight DMG [Weight]]** | When a worker offers to take the satchel rather than a stone. |
+| { *All Unsaid Things* [**Ultimate**] } | "Every door on the route opens at the same time, and behind each one is somebody you owe." | [The route's accumulated undelivered gratitude is addressed to the people standing in it, correctly and individually.] | *12–20 Weight per cycle for three cycles; each person is shown a specific debt of their own, named, and the file notes that none of them has ever been shown a false one.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, on the anniversary of the first Han-storm after the Dawn Initiative launched. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the phantasmal manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Deliver a carried thank-you to a living recipient, or bear the weight alongside it until it rests**.
+1. **Tension:** There is nothing to establish. The team joins the route at the Lantern's dock and walks with the figure at its own pace, which is slow and unvarying; the only preparation that matters is deciding in advance whether the worker is willing to accept a stone, and telling the duty officer which.
+2. **Clash:** The word is wrong for this entity and the Zone D office has asked for it to be struck from the form. The figure bows, offers, and continues. No worker has ever been struck by it, and the two injuries on file were both caused by a worker accepting a stone they had already been advised to refuse.
+3. **Resolution:** A stone reaches a living person who can be thanked, or the route ends at the Echo Gardens and the worker goes home still carrying it. The second outcome is the common one and is not a failure; a stone in a warden's pocket is a stone out of the satchel, and eleven of them are currently in circulation.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resolve** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: The Undelivered Thanks’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers The Undelivered Thanks’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- A worker who fails here begins apologising to the figure for not having found anyone. It is a small, courteous failure and it is hard to spot; the duty officer's instruction is to listen for the worker addressing the entity as *you* rather than as *it*.
+- Long exposure produces the list. Workers on this route past about four months start keeping a written record of people they owe and have not thanked; three have brought the list to the Echo Gardens and read it aloud, and all three reported the figure stopped walking and waited until they had finished.
+- There is no M.A.W. and there will not be one. The ban exists because the first and only extraction attempt removed a stone by force and the stone went cold in the extractor's hand, which the Archive reads as the gratitude being destroyed rather than transferred.
+- An unresolved cycle ends with the figure walking back to the dock to begin again. That is the entirety of its failure state, and it has performed it an estimated nine thousand times.
 
 ## Appearance
 **Primary Form:** A translucent human figure, slight, perpetually mid-bow, wearing the faded coat of a Zone D commoner.
@@ -109,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A translucent human figure, slight, perpetually mid-bow, wearing the faded coat of a Zone D commoner.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Walking the old Dawn Initiative route at a slow, fixed pace, perpetually mid-bow. Record the satchel's apparent fullness and whether any doors on the route had letters at them; both are logged at the dock and at the Gardens.
 - **Element signature:** Weight
 - **Registered location:** Old Dawn Initiative routes; most seen near the Lantern's dock and the Echo Gardens, Zone D
 
@@ -120,7 +120,7 @@
 | **Form** | A translucent human figure, slight, perpetually mid-bow, wearing the faded coat of a Zone D commoner. |
 | **Position / movement** | Walks the old Dawn Initiative routes at the pace of someone carrying too much; stops and bows at thresholds. |
 | **Material / signature** | Weight elemental presentation; the warm-gold stones are the only warmth; the body is cold Han-crystal. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | The bow, which never completes, and the satchel of stones that are warm to the touch while the figure itself is lead-cold. The temperature difference is the identification: nothing else in Zone D is cold and carrying something warm. |
 | **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
 
 **Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as "strange" or "anomalous."
@@ -144,9 +144,9 @@
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. The Undelivered Thanks is recorded as a Subject with Subject-Phantasmal manifestation and Weight elemental expression. The current record places it at Old Dawn Initiative routes; most seen near the Lantern's dock and the Echo Gardens, Zone D; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table records which Work Types calm it and omits the only variable that has ever mattered, which is whether the worker took a stone. Paired sessions make this plain: the same Ferrehan cycle, performed by two wardens on consecutive days, moved the gauge four points for the one who declined and nineteen for the one who accepted. The Zone D office has asked for a stone column to be added to the form.
 
-**Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** Watch the bow. It deepens slightly when a stone is accepted and holds the deeper angle for the rest of the route, and that is the only acknowledgement this entity gives. Measure the satchel — the Gardens office photographs it against a marked post at the end of every route — and record whether any stone went cold, because a cold stone is a delivery that failed and the file has four of them.
 ## Breach Behavior
 
 > *"Undelivered Thanks has broken free. Bows to personnel, draining them with gratitude."*
@@ -191,11 +191,11 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Ability:** Theorized: grants the bearer the courage to deliver a long-withheld thank-you without flinching.
 **Cost:** Theorized: the stone remains until its real recipient is found and thanked; until then the bearer walks bowed.
 
-*Stigmas are granted at random by The Undelivered Thanks upon a successful work, not manufactured.*
+*No Stigma has ever been recorded from this entity. A worker who accepts a stone receives the stone and nothing else, and the Armoury treats that as the complete account of what it gives.*
 
 ### M.A.W. Use Notes
 
-The extracted equipment reflects the same unresolved pressure as The Undelivered Thanks. Each piece should be treated as a conditional extension of the entity, not as ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; forcing the equipment outside that pattern increases the cost and may produce an effect associated with Weight. Stigmas are granted at random by the entity upon a successful work, not manufactured.
+There is no M.A.W. set for this entity. Director Majin's order stands unamended and is quoted here in its entirety, as the Armoury's form requires an entry in this field: *Nothing is to be taken from it.* The single attempt that preceded the order is recorded below it, and the cold stone is kept in the Gardens office in a drawer, unlabelled, because nobody has been able to decide what to write on the label.
 
 **Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
 
@@ -203,12 +203,12 @@ The extracted equipment reflects the same unresolved pressure as The Undelivered
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Not applicable — no piece exists. The field is retained because the Armoury's form will not accept a blank, and because the Zone D office wants the ban visible in every section of the file rather than in one. |
+| **During use** | Not applicable. What is logged instead, every route, is the stone: whether one was offered, whether it was accepted, and the name of the person it was eventually given to. |
+| **At limit** | Not applicable. The equivalent limit for this route is the list: a worker who has begun writing one is moved to another assignment at the end of the month. |
+| **After use** | Not applicable. Workers carrying an undelivered stone are checked monthly for as long as they hold it, and three of the eleven have now held theirs for more than two years. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The β grade on the extraction line is theoretical and has never been tested, which is the point of the ban. The Armoury's note reads that a grade describes what can be taken and says nothing about whether it should be, and that this entity is the reason that sentence is now printed on the form.
 
 ## 관찰 기록 (Observation Log)
 
@@ -225,12 +225,12 @@ The extracted equipment reflects the same unresolved pressure as The Undelivered
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Undelivered Thanks as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Old Dawn Initiative routes; most seen near the Lantern's dock and the Echo Gardens, Zone D. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity's recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In The Undelivered Thanks's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The observer picks up the route at the dock and notes the satchel against the marked post. Identification is immediate and requires no instrument: it is the only thing on the old Dawn routes that bows to everyone it passes, including to empty doorways. |
+| **Sustained observation** | Over a month the observer should log which doors on the route receive a bow and which do not. The pattern has not changed in six years: it bows at the doors of the dead and walks past the doors of the living, and the Gardens office has used the route as an informal census because of it. |
+| **Activation or escalation** | The precursor is a letter it cannot place. Record every letter taken from a door, the name on it where legible, and whether the figure's pace changed in the following hundred metres; all three spikes on file were preceded by a pause of more than a minute with a letter in hand. |
+| **Post-contact review** | The review records the stone: taken or not, warm or cold, delivered or carried, and to whom. A report without that line is returned unread. The Gardens office keeps a running register of the eleven and will not close the file on a stone until the person it reached has been asked whether they wanted it. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Photograph the satchel, count the bows, collect the letters, and write down what the worker did with the stone. Four records, taken on every route for six years, and between them they are the entire evidential basis of this file.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -252,7 +252,7 @@ We asked whether the Hand of Hope could dissolve it. It cannot. Gratitude is not
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Undelivered Thanks; the other feeds it.
+> The choice is offered without words, at the Echo Gardens, when the figure stops and opens the satchel. It is an ordinary decision and the file is careful not to dress it up: both answers are defensible and the Zone D office has workers who have taken each.
 
 | Accept the stone — bow with it. | Refuse and withdraw. |
 |---|---|
@@ -263,32 +263,32 @@ We asked whether the Hand of Hope could dissolve it. It cannot. Gratitude is not
 A faint warmth at the hip, as if you've forgotten you're carrying something. The air thickens, not with cold, but with the specific heaviness of an errand never finished.
 
 
-**At first contact:** The first identifiable detail is a translucent, bowing figure with a satchel of warm-gold stones at its hip. You begin to remember a face — someone who helped you, once, whom you never properly thanked.
+**At first contact:** A slight figure in a faded commoner's coat, half-light, bent in a bow that never finishes, with a satchel at the hip that is plainly heavy and plainly warm. It bows to you before you have said anything. The disconcerting part is that the bow is not to you — it bows at the door behind you, and the door has been empty for eleven years.
 
 **With continued exposure:** With time the Subject-Phantasmal becomes less a presence and more a climate — the Weight is no longer an event but an environment, something you exist inside rather than encounter.
 
 **When the entity activates:** Activation is the moment the Subject-Phantasmal stops being managed and starts being itself. The Weight spikes, the protocols engage, and the containment zone becomes the entity's territory.
 
-**After departure:** The containment boundary holds the Subject-Phantasmal, but not the memory. Weight residue settles into the bones like Han into the city's foundations.
+**After departure:** You remember somebody. It is specific, it is accurate, and it arrives with the name — a teacher, a neighbour, the person who carried something for you once. Workers off this route are given a day before their next assignment for no operational reason, and the Gardens office has never been asked to justify it.
 
 ### Interaction Pattern
 
-The Undelivered Thanks does not exist in isolation. Its recorded relationships with The Gentle Flame · The Hand of Hope · The Shared Glass · The Debt Eater should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three of this entity's four relationships are failures to receive and the fourth is a failure to consume. Nothing in the city can take what it is carrying: the Flame is always already giving, the Hand transforms sorrow and this is not sorrow, and the Debt Eater has no ledger for it. The Glass alone can do something, and what it does is share the weight rather than remove it.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Weigh the satchel before and after. It is the only reading that distinguishes these four encounters from one another: three leave it unchanged to the gram and one does not.
 
 ### Entity Interaction Record
 
-The Undelivered Thanks must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+These four entries exist to document a negative result the Archive considers important: the city has four mechanisms for relieving a burden and none of them works on gratitude. The taxonomy was built for sorrow, and this entity is the measurement that found the edge of it.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Gentle Flame** | The Flame is the recipient of more of its stones than any other Bearer; it cannot receive them — it is always already giving warmth to the next person. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hand of Hope** | The Hand's dispersal field lightens it temporarily but cannot dissolve it — gratitude is not sorrow, so the Hand cannot transform it. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Shared Glass** | The Glass can distribute a stone's weight among a willing group, making an undelivered thanks collectively bearable until it can be delivered. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Debt Eater** | The Debt Eater cannot consume these stones — they are not karmic debt, and the Collectors have no ledger for gratitude. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Gentle Flame** | More stones are addressed to the Flame than to any other Bearer. | The figure has approached the Flame nine times and completed the bow on none of them. The satchel weighs the same afterward. The Gardens office describes the pairing as the clearest thing in the file: the stones cannot be given to someone who is still giving. | The number of approaches, the depth of the bow, and the satchel weight. |
+| **The Hand of Hope** | The field lightens it and transforms nothing. | The figure walks visibly upright inside the Hand's field — the only time the bow has ever straightened — and returns to the bow within four minutes of leaving it. The satchel is unchanged. This is the measurement the Archive cites for the proposition that gratitude is not sorrow. | Posture, the time to return to the bow, and the satchel weight. |
+| **The Shared Glass** | Distributes one stone's weight across a willing group. | The only interaction that moves the satchel. Four of the eleven placed stones were carried out this way, by groups of between three and six, and in each case the stone stayed warm for the whole distribution — which no single carrier has managed past a year. | Group size, the stone's temperature at each handover, and the satchel weight. |
+| **The Debt Eater** | Cannot consume the stones; the Collectors keep no ledger for gratitude. | Attempted twice, at the Collectors' own request, and failed both times without any effect on either party. The second attempt is the better-documented: the Eater took a stone, held it for some minutes, and returned it warm. It is the only object recorded as having been given back. | Whether the stone cooled, and the satchel weight. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Weigh the satchel against the marked post before and after, and take the stone's temperature at every handover. Both readings are crude and both have outperformed the gauge in every encounter recorded above.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -330,14 +330,14 @@ The Undelivered Thanks walks the old Dawn routes now, a translucent figure bowed
 - Cannot enter the Echo Gardens memorial rows; waits at the gate.
 - A delivered thank-you dissolves its stone like warm sugar in tea.
 **Cross-References:** The Hand of Hope · The Dawn Initiative · The Gentle Flame (Sooah) · The Shared Glass · The Debt Eater · the debt system · the Echo Gardens · the Consolihan
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** The Echo Gardens office runs the route register; the Dawn Initiative supplies the list of Bearers the stones are addressed to and has never asked for it back; the Collectors are noted only for the two failed attempts recorded above.
 **Originator:** Collective — every citizen who owes their hope to a Hope Bearer the hope has since consumed; exemplified by Iseulia (이슬리아), Zone D flower-seller.
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity's behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file documents a β-grade entity that has never harmed anyone who did not volunteer, carries an extraction ban usually reserved for Sovereigns, and produces the lowest energy yield in the zone. It is kept on the roster for one reason, stated here so that no future office has to guess at it: the route is a register of people the city owes, it is the only such register that exists, and if the figure stops walking it goes with it.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-photograph the satchel after every Sorrow Tide and check the eleven. Nine of the placed stones are accounted for; two are with workers who have left Zone D service, and the Gardens office writes to both of them annually. Neither has answered, and neither letter has come back.
 ## Trivia
 
 - The first sorrow in Somnarak made of something positive (gratitude) that became heavy enough to crystallize.
@@ -348,11 +348,11 @@ The Undelivered Thanks walks the old Dawn routes now, a translucent figure bowed
 
 ### Registry Trivia
 
-- **Classification detail:** The Undelivered Thanks is a Subject with Fragment (III) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Old Dawn Initiative routes; most seen near the Lantern's dock and the Echo Gardens, Zone D.
+- **Classification detail:** Fragment (III) coherence — one gesture, one route, one unfinished intention — at Moderate (β) potency, which overstates it. The grade has never been revised downward because a downward revision would take the route off the roster.
+- **Field detail:** Weight, on the old Dawn Initiative routes between the Lantern's dock and the Echo Gardens — the roads the Bearers walked during the first Han-storm, in the order they walked them.
 - **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
 - **Record detail:** Unknown Sorrow Entity registry, Entry 01 — the first post-Absolvohan entity catalogued.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** It is not contained and has never been proposed for containment. It walks public streets, residents leave letters out for it, and the Gardens office's position is that a figure which bows at the doors of the dead is performing a civic function the city has no other means of performing.
 ## Document Information
 
 **Document ID:** SE-N-IIIβ-247

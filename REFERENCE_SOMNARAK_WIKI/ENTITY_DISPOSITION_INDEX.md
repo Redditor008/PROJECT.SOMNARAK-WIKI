@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **280** |
-| Pending — no disposition-bearing line found by scan | 23 |
+| **Classified here, with a quoted line of evidence** | **281** |
+| Pending — no disposition-bearing line found by scan | 22 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 280 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 281 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 23 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 22 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -333,6 +333,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Survivor’s Span | `SE-N-IIβ-993` | Neutral, with a dated condition attached. Nothing it does reaches another entity: the Sunken Bridge walks in step with it and *"neither carries less for it"*, the Rising Bridge restores signage the Span then reads, and the Grieving Colossus is the only thing that has ever made it set the wreck down — *"the gauge fell nine points and stayed down for two shifts."* All three are inbound or inert. Its breaches are real but slow and self-limiting: *"the slowest escape in the registry"*, both ended by a Warden reading the names aloud in a stairwell. The cost is to the worker, which `R-19.2` keeps Neutral. **The condition, recorded under `R-19.4`:** the loop widens by roughly forty metres a year in steps that follow Sorrow Tides, and *"at the present rate the loop reaches the Zone B service stair in approximately eleven years."* If it reaches the stair this row is wrong and must be rewritten as Negative. |
 | The Unconsoled | `SE-C-IIIγ-248` | Neutral, and the hardest Neutral in the index to sign. It has never attacked, pursued, or made a sound, and its worst case is that nothing happens: *"An unresolved cycle produces nothing at all."* Two lines pull toward Positive and neither is enough. Civilians who share a grief with it *"sleep better for about a month"* — a benefit to people, which `R-19.2` holds outside the class. And the Archive argues it is why the city still stands, since the Hand of Hope’s light passed through it *"unchanged"* and the category of load-bearing sorrow was established by that measurement — but an argument about what the city rests on is not an observed effect on another entity or on containment. Its four relationships are refusals: light that will not enter, routes drawn around it, a bell it matched for eleven tolls, a judgement never passed. **Conditional under `R-19.4`:** it drifts about nine metres in four years on a four-degree-stable bearing toward the Alpha Tree’s roots. What it does on arrival is the one thing this file cannot model, and the class is only valid until then. |
 | The Unspoken Line | `SE-C-IVδ-251` | Neutral. It takes nothing from containment and gives nothing to any other entity: the Unconsoled, its nearest kin, produces *"No measurable effect in either direction… the tape did not move a centimetre across six days"*, and the one intervention that works is a drinking vessel — the Shared Glass accounts for *"4.1 of the 11.4 metres closed."* Its cost falls on a civilian district rather than on F01, and `R-19.2` keeps that outside the class. Two lines were weighed against Negative and rejected: it propagates along a district’s existing social seams when left silent, but that is self-expansion rather than another entity’s release; and the Hand of Hope *lengthened* it by sixty centimetres, which makes it a thing hope damages rather than a thing that damages hope. **Conditional under `R-19.4`:** if a propagation ever reaches a seam inside the facility’s own staffing rather than the Commons’, the class is wrong. |
+| The Undelivered Thanks | `SE-N-IIIβ-247` | *"It has never escalated at a person."* The only damage on file (24–36 Weight, 15% Gauge) falls on a worker who accepts more than one stone; refusal causes none, and both recorded injuries were to workers who took a stone against advice. Its failure state is to walk back to the dock and begin the route again. It releases nothing and assists no entity: the Hand of Hope, the Gentle Flame and the Debt Eater all act on it and fail (R-19 directionality), and the Shared Glass only distributes a weight it is already carrying. Harm and benefit land on the worker alone. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
