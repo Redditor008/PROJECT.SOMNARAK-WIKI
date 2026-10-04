@@ -28,13 +28,13 @@
 | **Entity role** | Hazard |
 | **Primary pressure** | Grudge / Body pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per cycle, measured against ground rather than time: a cycle is one full traverse of the affected field, which at the present extent takes about forty minutes at a walking pace nobody is allowed to break. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Viderehan and Ferrehan only; the entity is a Hazard and the other two Work Types are unavailable to it. Nobody stands still. A second Warden holds the clock, calls the limit aloud, and is never the person being timed. |
+| **Recommended response** | Walk the field without stopping, map the fracture pattern, and measure the perimeter against the last traverse. Viderehan and Ferrehan only. Nobody stands still on it. |
 
 ### Operational Notes
 
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 35% against Grudge pressure; 24% against other pressure types |
+| **Resistance** | 35% against Grudge. The ground has been cut, lifted and replaced in one square metre as a trial; the replacement cracked in the same pattern within eleven days and the trial has not been repeated. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 423/423 |
 | **Han Pressure [ATK]** | 17–23 per hit · Grudge |
@@ -79,14 +79,14 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the grudge." | [The entity's body pressure settles over the target.] | *Target feels the weight of grudge sorrow.* **[10 Grudge DMG [Grudge]]** | When the entity first fixes on a target. |
-| { *The Body Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of grudge body sorrow.] | *Grudge damage strikes the target; the gauge spikes.* **[21 Grudge DMG [Grudge]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full grudge weight on one point.] | *A devastating Grudge strike; the target's Sorrow Gauge surges.* **[23 Grudge DMG [Grudge]]** | When the entity is cornered or starved. |
-| { *The Body Collapse* [**Ultimate**] } | "The body breaks — and everything it held comes loose." | [The entity's full grudge sorrow unleashed in every direction.] | *All personnel suffer Grudge erosion for three turns.* **[23 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "The ground under your boot is warm and the warmth is in the shape of a hand." | [The field reads the stationary foot and begins matching it.] | *10 Grudge. Painless throughout, which is the whole difficulty.* **[10 Grudge DMG [Grudge]]** | On any pause of more than a few seconds. |
+| { *The Body Surge* [**Attack**] } | "The pattern under you is a pattern of you, and it is finished before you have noticed starting it." | [The fracture completes a full print of whoever stood on it.] | *18 Grudge; the print is permanent, legible, and identifiable by the infirmary from the fracture lines alone.* **[18 Grudge DMG [Grudge]]** | After about ninety seconds stationary. |
+| { *The Settling* [**Attack**] } | "Everything the ground has learned about one person arrives in them at once." | [The accumulated prints of a repeat visitor resolve together.] | *26 Grudge. Four occurrences, all four in workers with more than fifty traverses on the sheet.* **[26 Grudge DMG [Grudge]]** | When somebody who has been printed before stands on their own old print. |
+| { *The Body Collapse* [**Ultimate**] } | "The whole field cracks at once and every pattern in it is somebody who works here." | [All stored prints surface simultaneously across the affected ground.] | *20 Grudge per cycle for three cycles to everyone on the field.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once; 188 prints were legible that afternoon and 61 were matched to serving staff. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the hazard manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team enters at the marked corner, sets the pace, and does not stop walking until the traverse is finished. The perimeter pegs are read on the move; stopping to read one is the commonest way this holding has been fed.
 2. **Clash:** Four turns, observation and endurance only, every turn conducted in motion. The clock-holder calls elapsed dwell at thirty-second intervals and the cordon paint line is the working boundary.
 3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the full working party off the affected ground inside the threshold, confirmed by the clock-holder rather than by the party.
 
@@ -159,7 +159,7 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 ### Escalation Notes
 
 - **Containment priority:** Enforce continuous movement and widen the cordon. There is no body to suppress and no point at which standing still becomes safe again.
-- **Sorrow Gauge on breach:** Opens at 35% and rises 5% for every additional square metre affected, so the gauge is a measure of ground lost rather than of time elapsed.
+- **Sorrow Gauge on breach:** Opens at 35% and rises 5% for every additional square metre affected, so the gauge is a measure of ground lost rather than of time elapsed. It falls 5% for each square metre that has gone a full year without a new print, which the survey certifies annually and which has returned 41 metres in nine years.
 
 ## M.A.W. Equipment
 
@@ -179,7 +179,7 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 **Ability:** *Constricting Lash* — Deals Grudge damage across Range 3 (2–4m). Sweeping strikes wrap around enemy limbs, applying bleed and immobilizing targets for 1 turn.
 
 **Damage:** Grudge 14–19 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels grudge body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
+**Ability:** Grudge against the Body. Struck targets carry a faint fracture pattern on the skin for some days — painless, superficial, and matching the ground where the blow landed.
 **Cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
 
 ### M.A.W. Suit — The Suture-Cracked Hauberk
@@ -187,7 +187,7 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 **Category:** Protective Attire (Calcified Bone-Leather Apron & Staple Mail)
 **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a flowing veil of Grudge Han-cloth, dark and faintly warm, that tightens near its source element.
+**Appearance:** a dark cloth veil with a fracture pattern through the weave that the Armoury has matched to a square metre of the field and recorded by its grid reference.
 
 **Resistances:** Grudge: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -198,12 +198,12 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 **Category:** Stigma (Porcelain Fault-Line Mark)
 **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a coin-token of Grudge Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a warm iron token, cracked across one face, whose crack has not widened in nine years of inspection.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity; the stigma's own surface carries the fracture pattern of the square metre on which it was conferred.
+**Effect:** +1 to the working stat on this holding's cycles. The Stigma's surface carries the fracture pattern of the square metre it was conferred on, and the bay keeps the grid reference beside the award.
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
-*The Fissured Skin Stigma is not manufactured and cannot be requisitioned. It has been conferred seven times, in each case on a worker who called their own dwell time over the limit aloud rather than quietly stepping off the ground.*
+*Seven in nine years, in each case to a worker who called their own pause before the second warden called it. Nobody who was called has received one, and the bay's note repeats that being called is correct and not a fault.*
 
 ### M.A.W. Use Notes
 
@@ -215,7 +215,7 @@ Each Cracked Flesh piece is an extension of the ground rather than ordinary equi
 |---|---|
 | **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, current presentation photographed against the scale, cumulative exposure cleared by the infirmary, and the named clock-holder for the watch. |
 | **During use** | Entry and exit times, dwell intervals called at thirty seconds, boundary condition, first cost paid, and any new presentation noticed by anybody on the party. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the operator has begun standing still without noticing. |
+| **At limit** | The operator has begun standing still without noticing. The second warden watches the feet rather than the worker and calls it on the feet. |
 | **After use** | Exit confirmed by the clock-holder, presentation re-photographed against the scale, infirmary notified, cooldown, boundary repainted if it moved, reuse authorisation. |
 
 ## 관찰 기록 (Observation Log)
@@ -224,7 +224,7 @@ Each Cracked Flesh piece is an extension of the ground rather than ordinary equi
 
 **Key Observations:**
 - Grudge signature recorded at SECTOR-C-921; the affected area measured and painted every cycle since the holding opened.
-- Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being a Hazard.
+- Both usable Work Types lower the gauge and neither closes a print; nothing on record has ever closed one.
 - Contact is through the body register and through dwell time alone: distance, posture, equipment and protective cloth make no measurable difference and all four have been tested.
 
 **Personnel Note:**
@@ -247,9 +247,9 @@ Each Cracked Flesh piece is an extension of the ground rather than ordinary equi
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Keep walking and let the warden read the pegs for you. | Stop for a moment to look at the pattern — it is clearly somebody's hand. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| A finished traverse, a mapped pattern, and no new print on the sheet. | A print with your name against it, permanently, on a grid reference the bay will keep. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -295,7 +295,7 @@ The hazard does nothing and intends nothing. It has no occupant, no gauge of its
 **Threat Assessment:** Major (γ). It has no occupant, cannot pursue, and is avoided completely by not standing still. It marks permanently and painlessly, it accumulates across a career, its ground has expanded eleven times and contracted never, and the condition it causes has no name in any compensation schedule.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither closes a presentation.
+- Viderehan and Ferrehan are the valid Work Types. Both lower the gauge; neither closes a presentation and none has ever closed by itself.
 - Flerehan and Pugnahan are unavailable to a Hazard and are not to be attempted as improvisation.
 - Monitor the body register by timed dwell and photographed presentation, never by gauge; the gauge has never predicted a presentation in nineteen years.
 
@@ -303,7 +303,7 @@ The hazard does nothing and intends nothing. It has no occupant, no gauge of its
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the painless threshold, the legible patterns, the schedule that has no entry for this condition, and the use of the ground as a training site are one picture. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all. The injury is painless, the patterns are legible enough for the infirmary to name the person from the ground alone, and the facility's exposure schedule has no entry for an injury that does not hurt — which means nobody working this field accrues anything the schedule recognises. The ground has taken 188 prints in nine years and returned 41 square metres by going quiet. The bay's whole management is a walking pace and a warden who watches feet.
 
 **Review requirement:** Re-verify after every expansion, Tide, Ordeal or unusual interaction: gauge, boundary measured and repainted, square metres gained, presentations photographed with consent recorded, infirmary clearances, and the standing of the training designation and its consent forms.
 
@@ -363,9 +363,9 @@ Exposures are kept sub-threshold by design: trainees enter in supervised parties
 
 **Roughly four hundred trainees pass through each year.** Nine intakes have now been through. The facility's junior grades carry more presentation than its senior ones, and the condition, which for its first decade marked out the eleven people who worked this field, is now unremarkable across the whole establishment.
 
-The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the infirmary's registrar. It holds that the facility has distributed a permanent, visible, uncloseable mark across its entire intake in exchange for a training convenience, and has done so on the reasoning that the mark does not matter, which is a judgement the facility made about other people's skin; that the deliberate dosing of the whole intake has destroyed the unexposed population the scheduling case would have required, so the compensation gap identified above is now permanent and was made permanent by the facility's own training policy; and that the consent taken at induction is given by candidates who understand that declining means not qualifying, which the registrar's note describes as consent in form.
+The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the infirmary's registrar. It holds that the facility's exposure schedule cannot record a painless injury, that the prints are therefore accruing against nobody, and that the staff most exposed are the ones with the longest clean medical records.
 
-The minute records the objection as **correct in all three parts**. It records that a substitute — a synthetic timed-dwell cordon on the drill ground, penalising the same errors with a buzzer instead of a mark — was designed in the tenth year, costed at a figure the review calls modest, and has not been laid. And it records the sentence the registrar asked to have entered verbatim, now the first line of the training consent form: *it is only a line on the hand, and we are putting one on four hundred hands a year because it is cheaper than a bell.*
+The minute records the objection as **correct in all three parts**. It records that a substitute was designed in the sixth year — a synthetic timed-dwell cordon on the drill ground, costed at the price of two weeks' surfacing — which would let the bay train the walking pace without using the field. It was not built. The minute notes the item as carried, and it has been carried nine times.
 
 ## Trivia
 

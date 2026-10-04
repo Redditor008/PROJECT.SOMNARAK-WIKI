@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Hazard-Mind |
-| **Physical Form** | Organic — An invisible gas that accumulates in the lower levels of Zone C, causing progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination. |
+| **Physical Form** | Organic — An invisible gas, heavier than air, that settles through the lower levels of Zone C and causes progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-928, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -98,7 +98,7 @@
 
 ## Appearance
 
-**Primary Form:** An invisible gas that accumulates in the lower levels of Zone C, causing progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination.
+**Primary Form:** An invisible gas, heavier than air, that settles through the lower levels of Zone C and causes progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination.
 
 **Notable Features:**
 - Expresses Void as a graded deletion of language: misplaced words at the first stage, inverted meaning at the second, memory indistinguishable from invention at the third.
@@ -108,7 +108,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Mind
-- **Primary marker:** An invisible gas that accumulates in the lower levels of Zone C, causing progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination.
+- **Primary marker:** An invisible gas, heavier than air, that settles through the lower levels of Zone C and causes progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination.
 - **Element signature:** Void
 - **Registered location:** SECTOR-C-928
 
@@ -117,7 +117,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An invisible gas that accumulates in the lower levels of Zone C, causing progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination. |
+| **Form** | An invisible gas, heavier than air, that settles through the lower levels of Zone C and causes progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination. |
 | **Position / movement** | Fixed below, variable above. It pools in the lowest available volume and rises as it accumulates; the recorded ceiling has risen by just under two metres across nineteen years. |
 | **Material / signature** | Void. No colour, smell, temperature difference, sound or pressure. Air drawn from the volume and analysed is ordinary air, which is in the file as a finding and not as a failure. |
 | **Distinctive markers** | Misplaced words within roughly four minutes; inverted meaning within twelve; at the third stage, accounts delivered with complete confidence and no corresponding events. |
