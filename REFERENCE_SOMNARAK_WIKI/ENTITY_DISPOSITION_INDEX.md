@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **300** |
-| Pending — no disposition-bearing line found by scan | 3 |
+| **Classified here, with a quoted line of evidence** | **301** |
+| Pending — no disposition-bearing line found by scan | 2 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -395,6 +395,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Dismissed Cry | `SE-N-IIβ-560` | A grievance that was filed as noise. *"The urn reaches one target. The pressure does not spread to the rest of the party… it is heard by one person at a time or by nobody."* It damages the record-keeping around it and no other containment. |
 | Torn Flower | `SE-C-Iα-247` | Breach `Movement`: *"It leaves the site at walking pace, keeping to cracks and old mortar, shedding spore along the route. It does not pursue; personnel ahead of it are at risk from the spore and not from the entity."* Re-evidenced at the Year 4238 clean, which replaced the older pursuit language with the measured record. Still **Neutral**: the spore takes masonry and costs personnel a day, and nothing it sheds reaches a seal or assists another holding. |
 | Grasp | `SE-O-IVδ-762` | *"It has never struck anybody who did not strike it first."* Nine years, 140 watches, one span event, no fatalities: it stands at the near lip of a gap, reaches, and falls short of the far side by a metre at every one of its eleven positions. It frees nothing — the Sunken Bridge resonance changed neither party's reach, and the only cross-entity effect on file runs the other way, the Scar Walker's boundary keeping two caravans off the lip. The danger is that it talks competent people into crossing; nineteen crossing proposals in 140 watches, all borne by the people working it. Neutral. |
+| Once Told | `SE-O-IVδ-930` | *"This sector does not want anything, does not reach for anybody, and has never produced a single thing that was not handed to it by a person."* Eleven years, 61 silent cycles, four tellings, no fatalities. It has never responded to anybody who stayed silent, including people standing beside a speaker, and it has no interaction record — nothing has been brought to it and it reaches nothing. Its twenty permanent manifestations sit in open Desolate ground forty kilometres from anything, and the one figure among them was described into existence by a worker. The hazard is entirely in the hands of the party working it. Neutral. |
 
 ---
 
