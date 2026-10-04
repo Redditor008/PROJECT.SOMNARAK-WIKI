@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Cleaver, the Shroud and the Echo are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan. This is a Subject and all four Work Types are open to it; Pugnahan makes it withdraw and achieves nothing, and the Object/Place restriction does not apply here. |
 
 ### Operational Notes
 
-- Threshold 3, but the entity retreats from aggression rather than escalating, so confrontation holds the gauge stable instead of raising it.
-- Pressure is mental. Workers report an unearned sense of relief during the cycle and a corresponding depletion once it ends.
-- Sharing the burden lowers the gauge. The shadow takes a measurable portion of the worker's distress and does not return it.
-- Personnel are capped at one cycle per shift. Repeated sharing produces an emotional flatness that persists beyond the working day.
-- Yield is drawn from the transferred burden, so cycles worked by emotionally unburdened personnel return very little.
+- Threshold 3, and it withdraws from aggression instead of escalating, so confrontation holds the gauge level rather than raising it. That is a tested finding, not an assumption.
+- The pressure is mental and pleasant, which is the difficulty: workers report relief during the cycle and a matching depletion within the hour after it.
+- Sharing lowers the gauge. A measurable portion of the worker's distress goes across and does not come back; no return has ever been observed, in either direction.
+- One cycle per person per shift, enforced by name. Repeated sharing produces a flatness that outlasts the working day and is picked up at the fourteen-day check.
+- Yield comes out of what was transferred, so a cycle worked by an unburdened operative returns almost nothing. The roster does not treat that as a reason to send burdened people.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,27 +87,27 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Kind Healer’s Shadow's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Four turns, worked in the open ward with the attended patient's consent recorded beforehand. The patient is never moved for the convenience of the cycle.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Accept its help and acknowledge the healer it carries**.
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Clarity** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- The failure here is wanting it back. The worker finishes the cycle lighter, notices the depletion, and asks to go again; the cap exists for that and for nothing else.
+- Long exposure produces the holding's signature state: a worker who is calm, attentive, well-regarded on the ward, and reports feeling nothing about any of it.
+- The Healer's equipment lends the wearer the entity's steadiness beside pain and takes the ability to leave a bedside. Every wielder's debrief records hours worked and not logged.
+- Unresolved, it transforms rather than escapes: the warmth spreads past the person it was attending and the ward's own shadows begin to hold it.
 
 ## Appearance
 **Primary Form:** A gentle human-shaped shadow that follows wounded people. It has no face but radiates warmth.
 
-**Notable Features:** It heals through proximity, follows one wounded person at a time, and disappears when the wound closes.
+**Notable Features:** It attends one wounded person at a time, from a short distance, without contact. It does not close wounds. Recovery is better in its presence, which is an association the infirmary records and declines to call treatment.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A gentle human-shaped shadow that follows wounded people. It has no face but radiates warmth.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Beside one person, matching their position. Record who it is attending, the distance held, and the time it arrived.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Mantle Commons — ambient
 
@@ -116,36 +116,36 @@
 | Field | Detail |
 |---|---|
 | **Form** | A gentle human-shaped shadow that follows wounded people. It has no face but radiates warmth. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
+| **Position / movement** | Attends a single individual and moves as they move, usually within a metre. Record the attended person, the distance, arrival and departure times, and any attempt to attend a second person. |
+| **Material / signature** | Lament. A human-shaped darkness cast by nothing, warm to stand beside, salt-damp, smelling of cold rain; it casts no shadow of its own and interrupts no light. |
+| **Distinctive markers** | A faceless shadow with no source, radiant warmth from a dark shape, and attendance on exactly one person at a time with no exception on record. |
+| **Identification** | Confirm before Work or contact: designation N-IIβ-280 `[LS]`, Lament expression, Subject-Phantasmal manifestation, Zone D in the Mantle Commons, ambient rather than celled. |
 
-**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
+**Appearance protocol:** Record who is being attended, the distance held, arrival and departure, and the ward's own notes for that patient unaltered. Attendance records are kept with consent and anonymised where consent is withheld, which has happened twice. Do not write *strange* or *anomalous*; it is dark, warm, faceless and close, and those are the fields.
 
 ## Origin
 - **Formation:** The Shadow formed from compassion left behind by healers who died.
 - **The Sorrow:** The grief of healing others while leaving no one to continue the work.
 - **The Event:** A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the entity's effect on nearby Sorrow Entities — gauges rise faster, breaches occur more frequently, containment becomes more difficult. The entity is not hostile. It is simply... heavy. Its sorrow bleeds into everything around it, contaminating the facility's emotional atmosphere.
+- **The People:** A healer who died in the overflow without an apprentice, and the people she was treating when it happened, whose names are on the same list.
+- **Expanded origin context:** The Commons lost its ward in a single afternoon and the healer with it. She had trained nobody — there had been no time, the service had run on one person for eleven years, and the ward office had been told so twice in writing. What stayed behind does the one part of her work that required no hands and no successor. It cannot dress a wound, mix anything, or lift a patient. It can be beside somebody who is hurt, and it has done that continuously, for one person at a time, ever since.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Moves closer and shares the burden. | Decrease |
-| **Pugnahan** | Retreats from aggression. | Stable |
-| **Viderehan** | Reveals the healer whose compassion formed it. | Stable |
-| **Ferrehan** | Heals slowly and patiently near the worker. | Decrease |
+| **Flerehan** | Comes closer and takes a share of the worker's distress; the transfer is one-way and measurable. | Decrease |
+| **Pugnahan** | Withdraws to the far side of the room and waits. Nothing is achieved and the gauge does not move. | Stable |
+| **Viderehan** | Shows the healer it came from, at work, in detail that matches the ward's surviving records. | Stable |
+| **Ferrehan** | Stays with a worker who stays, for as long as they stay, and the gauge falls with the duration rather than with anything said. | Decrease |
 
 
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. Kind Healer's Shadow is recorded as a Subject with Subject-Phantasmal manifestation and Lament elemental expression. The current record places it at Zone D, Mantle Commons — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Kind Healer's Shadow is an Echo (II) Subject with Subject-Phantasmal manifestation and Lament expression, ambient in the Mantle Commons of Zone D rather than celled. All four Work Types are available because it is a Subject; Pugnahan is a tested null here, and Flerehan and Ferrehan both lower the gauge.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** Read it in the attendance and in the worker afterwards. A falling gauge presents as it settling closer to the attended person; a rising one presents as it standing off, or attempting to attend somebody else, which has been recorded four times and never completed. The worker-side indicator is the depletion at the end of the hour, and it is logged by the worker and countersigned.
 ## Breach Behavior
 
 > *"Kind Healer's Shadow has broken free. Stalks personnel from their own shadows."*
@@ -153,17 +153,17 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | Kind Healer's Shadow expands beyond containment like a spreading tide. It stalks personnel from their own shadows. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Movement** | It stops attending one person and spreads through the ward's own shadows, present at every bedside at once; it does not pursue and has never left the Commons. |
+| **Effect** | Composure drains from everyone in the ward as the attendance divides, and the warmth goes cold in the order the beds were filled. |
+| **Secondary Effect** | Staff begin attending patients they are not assigned to and cannot stop; the ward's own rota dissolves before the containment response arrives. |
+| **First Target** | Whoever is most hurt rather than whoever is nearest, and in two of the three events that was a member of staff rather than a patient. |
+| **Escalation** | Pressure rises each turn it is free, with Composure drain increasing by five per turn, until the transformation is stabilised or the ward is cleared. |
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Transform. It divides rather than escapes; three events are on file and none crossed the Commons boundary.
+- **Containment priority:** Stabilise with combined Flerehan and Ferrehan before the division completes. Clearing the ward works and is the last resort, because it leaves the patients without either the entity or the staff.
+- **Sorrow Gauge on breach:** Opens at 40% and rises ten points a turn while unaddressed; it has never been recorded falling on its own during an event.
 
 ## M.A.W. Equipment
 
@@ -215,7 +215,7 @@ The mirror-polished blade reflects no ambient distortion, remaining clinically s
 
 **Cost:** The wearer absorbs the pain of the healing.
 
-*Stigmas are granted at random by Kind Healer's Shadow upon a successful work, not manufactured.*
+*The Healer's Echo is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who sat a full Ferrehan cycle at a bedside and filed the patient's notes before her own.*
 
 ### M.A.W. Use Notes
 
@@ -236,11 +236,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It follows the most emotionally wounded person, not always the most visibly injured.
-- It becomes more active during breaches.
-- It cannot heal itself.
+- It attends the most hurt rather than the most visibly injured, and the ward's triage and its choice have disagreed on 31 occasions out of 148.
+- Facility breaches increase its activity and its range within the Commons, and it has twice attended a casualty before the alarm reached the ward.
+- Its own gauge does not fall in response to anything it does for anybody else; nine years of records show no self-directed effect at all.
 
-**Personnel Note:** *"It was waiting. I felt longing. The Shadow had inherited the healer's work but not the healer's name."* — Specialist, Zone B patrol
+**Personnel Note:** *"It inherited the work and not the name. It will sit with you all night and it cannot fetch you a glass of water, and I have watched three people choose it over me anyway."* — Ward attendant, Mantle Commons
 
 
 
@@ -249,11 +249,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Kind Healer's Shadow as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone D, Mantle Commons — ambient. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Kind Healer's Shadow's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | The attended person by consent-coded reference, the distance held, arrival and departure, the gauge, and the ward's clinical notes recorded separately by staff who are not told what the attendance record says. |
+| **Activation or escalation** | Escalation is division. Any attempt to attend a second person, or any warmth recorded at an unattended bed, closes the session and raises the ward; the trigger is objective and the attendant applies it. |
+| **Post-contact review** | Gauge before and after, the worker's depletion log at one hour, the attended person's own account taken at discharge, and a fourteen-day check on the worker for flatness. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
+**Observation method:** Observe in the open ward, one cycle per person per shift, with the attendance and the clinical notes kept by different people. Record who was attended, for how long, and the condition that ended it. The form here is the sorrow and not a strategy: one healer, no apprentice, and the single part of the work that survives her is the part that required nothing but staying.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -288,32 +288,32 @@ A shadow settles beside your injury. Warmth enters the wound, and the pain leave
 
 
 
-**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A gentle human-shaped shadow that follows wounded people. It has no face but radiates warmth. The first sensation is always Lament — unmistakable, specific, impossible to mistake for anything else in the city.
+**At first contact:** Warmth where there is no light and cold rain in the air. It is already beside somebody when you notice it; nobody in nine years has recorded seeing it arrive.
 
-**With continued exposure:** The Subject-Phantasmal settles into a presence you learn to hold — not comfortably, but recognisably. The Lament pressure stops being an assault and becomes a climate: something you move within rather than against.
+**With continued exposure:** The ward gets easier to be in and harder to leave. Staff overrun their shifts near it and the overrun does not show in the rota, because they do not log the hours.
 
-**When the entity activates:** Activation feels like the room remembering something it had been forced to forget. The Lament surges, the Subject-Phantasmal sharpens, and for a moment the containment zone is not a cell but the original wound, reopened.
+**When the entity activates:** The warmth stops being in one place. Every bed has it at once, which sounds like an improvement for about four seconds.
 
-**After departure:** What remains after the door closes is not fear but weight — a Lament aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** It leaves a flatness rather than a fear. Workers describe the following week as calm, and the counsellors ask what they have felt about anything at all.
 
 ### Interaction Pattern
 
-Kind Healer's Shadow does not exist in isolation. Its recorded relationships with The Kind Healer, The Hollow Saint, The Frozen Veil should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other things in the wing that attend, absorb, or stand in for care. Each relation below has been observed and filed; none is settled; and all three were run in the open ward with a patient's consent on record.
 
-**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone across several cycles before any paired approach, with gauge, attendance and depletion logs kept throughout. Record the onset of any shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-Kind Healer's Shadow must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled. All three were proposed on the theory that compassion might pass between holdings, and nothing has passed in either direction in any of them.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Kind Healer** | The Healer recognizes a possible future self. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Saint** | The Saint wants to absorb its compassion. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Frozen Veil** | The Shadow's warmth fades near the Veil. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Kind Healer** | Reads as a possible future of this holding, and the two files are routinely cited together outside the wing. | Six co-presences, the most of any pairing here. Neither gauge has ever moved. The Healer's Care Record states the same result from its side and both files carry the cross-reference; a resemblance of origin has produced no measurable relation in six years. | All six co-presences, both flat series, and the reciprocal cross-reference. |
+| **The Hollow Saint** | Reaches for its compassion, which is the only pairing here the wing treats as a hazard. | Two co-presences, both terminated by the ward lead. Nothing was taken on either occasion and this holding's gauge did not move; the Saint's rose four and six points. No further tests are authorised and the refusal is recorded in both files. | Both co-presences, the termination times, the Saint's series, and the standing refusal. |
+| **The Frozen Veil** | Its warmth fades near the Veil, which is the only environmental effect on this holding anybody has reproduced. | Four co-presences. Measured warmth at one metre fell by roughly two-thirds on all four and returned within an hour of separation. No gauge moved either way and the attended patient reported no change. A reproducible effect with no operational consequence. | All four co-presences, the warmth measurements, the recovery times, and both flat series. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo observation first, over several cycles, with gauge and attendance established for each party before anything is brought near. Then record the first shared change, its range, duration and trigger, both gauges, the attended person's own account, and whether anything persists once the parties are separated.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -345,23 +345,23 @@ Some sorrows mourn the healer. Kind Healer's Shadow mourns the continuation — 
 
 **Classification:** Sorrow Entity — `N-IIβ-280 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Phantasmal manifestation
 **Common Name:** The Kind Healer’s Shadow
-**Containment Status:** Contained — Zone B
+**Containment Status:** Ambient — Zone D, Mantle Commons. The Zone B cell recorded in earlier revisions was the fourteen-month confinement and is not current; the circumstances of that period are set out in the Watch Record.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. A shadow that follows the wounded. Effect: proximity induces the grief of compassion without hands.
+**Threat Assessment:** Moderate (β). It is gentle, it has never injured anybody, and it transforms: three events are on file in which the attendance divided across the whole ward. The earlier entry describing the threat as low is an error and is corrected here.
 **Containment & Handling Procedures:**
-- Flerehan is the only valid Work Type.
-- The shadow stays when others leave.
+- Flerehan and Ferrehan both lower the gauge; Viderehan holds it level and Pugnahan achieves nothing. The earlier entry naming Flerehan as the only valid Work Type contradicts the Behavior table and is corrected here.
+- It stays when everybody else has gone, which is the whole of what it does and the reason the ward asks for it.
 **Observation Notes:**
-- A healer died in a Han overflow; her compassion remained as a shadow.
-**Cross-References:** Zone B · The Kind Healer · The Frozen Shadow
+- A healer died in the Commons overflow with no apprentice trained; what remained attends the wounded one at a time.
+**Cross-References:** The Kind Healer · The Frozen Veil · the Commons casualty list · the attendance comparison · the registration opinion · the confinement minute
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
-**Originator:** An unnamed healer of Zone B.
+**Originator:** An unnamed healer of the Mantle Commons, listed among the casualties she was treating.
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after every transformation event, division attempt, or unusual interaction: gauge, who is being attended, the distance held, staff depletion logs, consent status for every attendance record, and the fourteen-day flatness checks outstanding. A withheld consent is honoured permanently and is not revisited at review.
 ## Watch Record
 
 ### It Follows One Person
@@ -380,10 +380,58 @@ The shadow disappears on recovery, every time, and does not return to the same p
 
 Someone died during a Han overflow and their compassion stayed behind, and the commissioning file holds the overflow's casualty list with their entry among the others, unmarked. It is not highlighted. The archivist's note explains that singling out the line was proposed and refused, on the ground that the healer's name sits among people they were treating and that the list is more accurate left alone.
 
+### A Hundred and Forty-Eight Bedsides
+
+The ward believes it helps. The ward cannot show it, and the comparison file says so on its first page.
+
+**One hundred and forty-eight attended episodes** are recorded with consent. Each was matched against controls from the same ward — age, injury, severity, season — and the attended group did better. They were discharged a median of two days earlier, reported less distress at every interval, and required fewer sedatives. No measure went the other way. The effect is not small and it is not noisy.
+
+It is also **uninterpretable**, for a reason the entity itself creates.
+
+It chooses. It attends the most hurt rather than the most visibly injured, and its judgment and the ward's triage have disagreed thirty-one times out of the hundred and forty-eight, with the entity's selection looking better on review in most of those. **An attending presence that selects its own patients cannot be compared with anything**, because every comparison asks what would have happened to the patients it chose, and the only thing anybody knows about those patients is that something chose them.
+
+The way out is obvious and is closed. Attendance would have to be allocated rather than chosen — some patients attended, some not, by draw. Deterrence works; it was established in the second year that the shadow will not cross a Veil-chilled threshold. **The trial ran once.** One patient, one night, the entity held off the ward, and the file holds the ward sister's statement and nothing else from that night. The protocol was withdrawn the following morning and the standing instruction is three words long: *not to be repeated.*
+
+So the wing holds a strong result it believes, cannot defend, and will not improve. The infirmary's own assessments remain in the cautious wording they were written in — *associated with*, *consistent with*, *no mechanism identified* — and the file reproduces them verbatim, having once drafted a summary and found that the summary read as a claim.
+
+### Not Care, In Law
+
+The question was put in the sixth year by the ward office, which wanted to know what it was permitted to record, promise, or withhold.
+
+**What the shadow does is not care**, and the opinion reaches that in one step. Care is a regulated activity. It may be provided only by a registered practitioner; registration attaches to an identifiable person with a name, a qualification and a disciplinary liability. The entity has none of the four. It cannot be registered, cannot be supervised in the sense the scheme requires, and cannot be made accountable to anybody for anything.
+
+The consequences run in both directions and the ward office was not expecting the first of them.
+
+**Nobody can be required to provide it.** Since it is not care, the ward owes no duty to make it available, no duty to continue it, and no duty to explain its absence. A patient who asks for it and does not get it has no complaint anybody could hear. A patient who had it last week and not this week has not had a service withdrawn, because they never had a service.
+
+**And nobody can complain of it.** A patient harmed by an attendance — and two have said they were, both describing the flatness that follows — has no claim, for the same reason. There is no practitioner, no treatment, and no standard of care capable of being fallen below. The two complaints were recorded, found to be genuine accounts of real experience, and closed as outside every scheme the facility has.
+
+The opinion ends with a paragraph the ward sister pinned above the station. *It is the most reliable attendance in this building and it exists, as far as the law is concerned, in exactly the way weather exists. You may be glad of it. You may not count on it, promise it, or be blamed for it.*
+
+### Fourteen Months, And One Warden
+
+For fourteen months this holding was in a cell in Zone B, and the Registrum carried that as its containment status for years afterwards.
+
+The decision was made in the fourth year and the reasoning was ordinary. An entity classed Moderate, capable of transformation, roaming an open ward without a boundary, had twice divided across the Commons; the Directorate's position was that an uncontained Subject is a Subject nobody is responsible for, and it ordered the entity celled.
+
+Then the cell was built and the problem appeared. **It will not stay where there is nobody hurt.** It does not attend rooms or places; it attends a person, and it goes when the wound closes. An empty cell does not hold it, because there is nothing in an empty cell for it to be beside.
+
+The roster solved this.
+
+A Warden with a chronic, non-closing injury — a back injury sustained on duty in the second year, under treatment, periodically reviewed — was assigned to the chamber as its permanent watch. The entity attended her. It stayed for fourteen months. The containment held perfectly, which is to say that the arrangement worked exactly as designed, and the design was that **the facility's containment of this holding depended on one of its own employees not getting better.**
+
+Nobody wrote that down at the time. It is written down now because the counsellor wrote it in the review.
+
+Her surgical referral was deferred three times in those fourteen months. Each deferral has an unrelated reason on its face and the review accepted all three as genuine; it also notes that the roster carried no contingency for her recovery, that no replacement watch was identified in fourteen months of looking, and that the question of what the containment would do if she healed was never minuted. **She was not told why she had been selected for the post.** She learned it from the review, in the fifth year, at the same time as everybody else.
+
+The confinement ended when the Commons asked for the entity back after a fire, and it has not been attempted since.
+
+The objection is minuted at every annual review and is raised by the facility's counsellor, who conducted the review. It holds that the facility created, by rostering, a standing institutional interest in an employee's non-recovery, and that no part of the scheme required anybody to notice this, so nobody did; that the three deferrals were each defensible and collectively amount to fourteen months of deferred treatment for the one worker whose recovery would have ended the containment, which the review could neither explain nor dismiss; and that the arrangement was documented throughout, in the roster, in the containment file and in the medical record, and was visible to anybody who read two of the three together, which nobody did for fourteen months. The minute records the objection as **correct in all three parts**. It records that the Warden received her surgery in the sixth year, has recovered, and declined to make a complaint. And it records her own remark, minuted at her request: *I thought it had chosen me. That was the part I liked.*
+
 ## Trivia
 
-- It heals emotional wounds more reliably than physical ones.
-- Its shadow has no source light.
+- Attended patients improve on emotional measures more than on physical ones, and the infirmary's wording for this has never been strengthened.
+- There is no light casting it. It has been checked in darkness, under single-source lamps and in daylight, and the shape does not change with any of them.
 
 
 
@@ -391,9 +439,9 @@ Someone died during a Han overflow and their compassion stayed behind, and the c
 
 - **Classification detail:** Kind Healer's Shadow is a Subject with Echo (II) — Repeats healing coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is Zone D, Mantle Commons — ambient.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the warmth and the absence of a source; shape alone is not diagnostic, since the Commons is full of shadows and two other holdings in the wing are dark-formed.
+- **Record detail:** Read this file beside the attendance comparison, which is the only study in the wing that states its own fatal weakness in its first paragraph.
+- **Containment detail:** This holding is not celled and the Commons is not a containment zone. What bounds it is a person: it stays while somebody is hurt and goes when they are not.
 ## Document Information
 
 **Document ID:** SE-N-IIβ-280
