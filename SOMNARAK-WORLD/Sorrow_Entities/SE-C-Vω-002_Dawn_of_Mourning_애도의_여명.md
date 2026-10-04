@@ -234,7 +234,7 @@ Dawn of Mourning operates by rules that no other entity follows. It does not hav
 
 **Cost:** The sorrow returns after 24 hours, slightly heavier than before.
 
-*Stigmas are granted at random by Dawn of Mourning upon a successful work, not manufactured.*
+*No Stigma has ever been recorded from this source and the registry does not expect one. A Stigma is given by an entity to a worker who has completed a cycle with it; nothing has ever completed a cycle with the Dawn, and the only documented interaction that ends it is a confession.*
 ## 관찰 기록 (Observation Log)
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.

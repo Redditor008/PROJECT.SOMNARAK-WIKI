@@ -19,9 +19,17 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 
 | | Count |
 |---|---|
-| Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **301** |
-| Pending — no disposition-bearing line found by scan | 2 |
+| Catalogued files (both wings) | 303 |
+| Of those, **entity dossiers carrying an SECC code** | **302** |
+| **Classified here, with a quoted line of evidence** | **302** |
+| Pending | **0 — the index is complete** |
+
+The 303rd catalogued file is [`Book_of_Regressor_Log_Dramaturgy.md`](../SOMNARAK-WORLD/Unknown_Entities/Book_of_Regressor_Log_Dramaturgy.md),
+a side-story log rather than an entity dossier. It carries no SECC designation, no containment
+record and no mechanics, so there is nothing for `R-19` to read; it is **out of scope** for this
+index rather than pending in it. Stating that plainly is the honest close — leaving a permanent
+`1 pending` against a file that can never be classified would have been a counter that never
+finished for a reason the counter did not disclose.
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,13 +38,24 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 300 entities.** The dossier already carries the answer in a field: an Interaction
-  Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
-  cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 3 entities.** No such field. The disposition has to be reasoned from the
-  mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
+- **Batch-short — 259 entities.** The dossier already carried the answer in a field: an Interaction
+  Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition naming a
+  cross-entity or facility-wide outcome. No authorship needed; the words were the entity's own.
+- **Careful-detail — 43 entities.** No such field. The disposition had to be reasoned from the
+  mechanics and written one file at a time, which is what the `R-24` rewrite pass did as it reached
+  each of them. All 43 are now in.
 
-## Why the remaining entries are pending
+**Closed 2026-10-05 at 302 / 302.** The last three were Grasp `O-IVδ-762`, Once Told `O-IVδ-930`
+and Dawn of Mourning `C-Vω-002` — the only Negative in the final batch, and the only entity in the
+archive that can be produced from a `Iα` holding by transformation.
+
+**Ten duplicate rows were removed at closure.** Ten entities carried two rows each in the Neutral
+section, written in different batches; in every case the earlier row was the thinner one and the
+fuller row was kept. The duplicates were invisible to the old counter because it counted rows
+rather than distinct entity codes, which is why the count read 300 when 299 entities were in fact
+covered. The counter now counts codes.
+
+## Why entries were held (historical — nothing is pending now)
 
 Recorded at the first `R-22` batch so that later batches do not re-walk the same ground. Of ten
 entities examined, three could be evidenced and **seven were held**. Both reasons are properties of
@@ -142,15 +161,9 @@ Lethal to the people working them; inert toward everything else in the building.
 | Cenotaph | `SE-N-IVδ-525` | Breach is a span laid across a corridor: *"It does not chase; it lies across the route and gives way under whoever crosses alone."* It takes on a duty nobody gave it and affects no other containment. |
 | Homecoming Tree | `SE-C-Iα-869` | A site that walks. Breach *"records this as escape only because there is no other category for a place that leaves"* — it relocates to the next failed homecoming and interferes with nothing en route. |
 | Scar Walker | `SE-O-IIIδ-011` | Breach is *"an escort that was never dismissed"*; Trivia: *"It has never attacked a visitor who shows respect."* Hazardous to a party, indifferent to the archive around it. |
-| Dormant Monolith | `SE-N-IVδ-909` | Stands inside the worker's own thinking; the escalation clock is *refused relief*, not proximity. No external footprint at all. |
 | Spreading Root | `SE-O-IVδ-693` | Escalates by rooms reached under the floor, and settles when the ground it came out of is named. Spreads through structure, not through other containments. |
-| The Hollow Choir | `SE-C-IIIγ-021` | Trivia: *"The Choir cannot be silenced; suppression makes it louder."* It resists work; it does not propagate. |
-| Memory Lock | `SE-C-IIIγ-300` | *"It speaks, continuously and quietly, and what it says are the secrets it is holding."* The damage is to the Wardens' discretion, and stops there. |
 | The Kind Echo | `SE-C-Iα-000` | Resolution Condition: *"Complete one full Work Type cycle. Any work type succeeds."* The archive's most tractable entity — and it does nothing for anyone else either. |
-| Broken Clock | `SE-C-IIIγ-044` | *"A completed cycle quiets the mechanism. It does not repair the movement, and no shift has yet produced two identical readings."* |
-| The Echo Compass | `SE-C-IIIβ-016` | *"A successful cycle quiets the needle for a shift. The entity is unchanged by this, and the next operative will see their own heading."* |
 | Survivors' Breath | `SE-O-IVδ-895` | *"A completed cycle settles the Sigh around the worker and quiets it for a time. Nothing is resolved by this."* |
-| Crucible | `SE-C-IIIβ-275` | Resolution: *"Cool the anger through naming and controlled work."* A furnace that became conscious, and stayed in its forge. |
 | The Debt Chain | `SE-N-IIIβ-160` | *"In sixteen years it has bound nobody, moved nowhere, and injured two people, both of them surveyors who exceeded the contact limit."* It cannot be moved and the gallery admits nothing but surveyors, so no pairing has ever been run; a Year 4232 proposal to bring the Debt Scale in was refused. Its effect runs onto this facility's own lending rules rather than onto other entities. Neutral. |
 | Deadline | `SE-N-IIIβ-156` | Neutral | Fifteen years fixed on a bracket: pursued nobody, moved nowhere, one injury (a worker who broke its own face). It counts a date and does not collect; its interval tracks the claims registry's time-bar list, a facility-internal clerical series, and has never tracked collection visits, the Collectors' calling schedule or debt outstanding. The only cross-entity proposal on file (Debt Scale, Y4233) was refused and never run; the Debt Wall pairing is disproved on the Wall's own survey. Neither aids F01 nor assists any entity to breach. |
 | Sorrow Seed | `SE-C-Iα-300` | Neutral | Two hundred and sixty years in a bare Garden bed: no germination, no breach, no injury, nobody bound. It travels 4–31 cm a night toward whichever duty roster holds the most untaken bereavement leave and stops at any obstruction; the one boundary event (Y4229) was eleven days of stillness against a wall. The claim that it would grow into a new entity is an untested two-century-old inference, deliberately never tested, and so is not evidence of assistance to any breaching entity. Confers no advantage on F01 beyond a payroll correlation F01 itself paid for. |
@@ -365,13 +378,9 @@ Lethal to the people working them; inert toward everything else in the building.
 | Corrosion Dream | `SE-O-IIIγ-915` | *"No person. It goes to the plan chest."* Breach oxidises drawings and estimates but harms nobody; with the Sunken Bridge *"the water fraction rises in both figures at once"* — resonance recorded, no breach assistance. Conditional note kept on the paired rise, classification Neutral. |
 | Drowned Echo | `SE-O-IIβ-378` | *"It has never addressed anybody who was not at the board."* On breach it occupies the comms circuit and real calls get logged as the entity — *"three real calls were logged as the entity during the second event"* — degrading F01's response capacity, with no recorded effect on another entity. Conditional note kept, classification Neutral on present evidence. |
 | Forgotten Soul | `SE-O-IIIγ-233` | *"It has never pursued anybody and has never changed direction to meet a person."* On breach it walks to the registry hall and written names fade near it — *"twice it has not"* returned — which damages F01's records without any recorded benefit to another entity. Conditional note kept, classification Neutral on present evidence. |
-| Neverlast | `SE-O-IIβ-833` | *"The figure does not move and has never moved."* Breach corrodes hardware — *"hinges, rail clips, the clasps on a suit"* — which is a plausible route to assisting another breach, but no instance is recorded; with the four neighbouring records it only *"holds the reach longer."* Conditional note kept, classification Neutral on present evidence. |
 | Floating Fragment | `SE-O-Iα-453` | *"It drifts at shoulder height along the arcade and cracks nothing."* It follows registry staff and costs the Row thirty-one unclosable files; no effect on other entities is recorded. |
 | Breach | `SE-N-IVδ-339` | *"Nothing moves and no corridor closes. It extends from mind to mind along the line of people who have been told that everything is in hand."* It degrades F01's own briefings and confidence; no effect on other containments is recorded. |
-| Sehnsucht | `SE-O-IIIγ-476` | *"The weight travels through soil as readily as air"* but reaches only the survey party; it sits buried near The Scar, costs rota weight-recovery days, and has never been recorded acting on another entity. |
-| Driftglass | `SE-O-IIIγ-914` | *"Nothing in the archive leads it."* It drifts the Alpha Tree vaults, costs escort hours and a standing order for rock salt, and has never been recorded affecting another contained record. |
 | Homeless Sorrow | `SE-O-IIβ-119` | *"It does not leave the district, it has never been recorded outside Old Lament, and it returns on its own when the room is available again."* It costs F01 one heated room and some shift time; it reaches no other containment. |
-| Apocrypha | `SE-O-Iα-340` | *"Nothing here spreads between people."* It sits beside abandoned camps in the Desolate, costs expedition time and effects-office discipline, and touches no other containment. |
 | Hums | `SE-C-IIβ-048` | *"The stone has never been hostile… it is the only record in the district that hands anything back."* It gives the district its songs returned and suppresses nothing; the cost is register upkeep. Benign in effect, but it does not act against other entities, so Neutral rather than Positive. |
 | Laughing Mask | `SE-C-IIβ-210` | *"A bay with nobody serving in it produces no movement either way."* It feeds on district trading courtesies rather than on F01 operations, and reaches no other containment; the cost falls mostly on Market traders. |
 | The Frozen Veil | `SE-C-IVδ-103` | *"The nearest person, chosen by distance only; it has never shown a preference."* It drains F01 personnel and reaches no other containment; its documented cost is to the roster — *"if we select our people for this duty by what they have lost, we have begun to hold a register of our staff's griefs and to deploy it."* |
@@ -429,6 +438,7 @@ The ones that cost F01 containment, not just personnel.
 | Repose | `SE-O-IVδ-844` | Re-evidenced after the file's rewrite. The breach does not pursue anybody — *"It does not rise and does not walk"* — but *"what moves is the dream, outward through the structures it has been holding up, and what follows the dream is the collapse of whatever it stops holding"*, and 56 standing buildings in the Old Lament exist only because it is dreaming them. The Old Lament is ambient and uncelled with several other Lament holdings in it, so the loss is containment fabric for a whole district, not one chamber. |
 | Ephemera | `SE-O-Iα-189` | *"Ephemera has broken free. Collapses the facility structure around it."* |
 | The Smothering Mother | `SE-N-IVδ-005` | *"Breaks free and moves through the facility seeking 'children' to protect. Grabs personnel and holds them. The held feel perfectly safe."* Interaction Record, re-evidenced after the file's rewrite: *"Holds the Child and does not close the hold — the single occasion in the record of a grip she opens herself"*, and the Orphaned Bell row, where the tolling is the only reliable suppression of her reach and the wing has declined to use it. She removes responders from the board during somebody else's incident, and the breach response diverts the floor's smallest personnel by name before anything else is attended to. |
+| Dawn of Mourning | `SE-C-Vω-002` | Breach `Secondary Effect`: *"Every entity in the facility's Sorrow Gauge increases by 10% per turn — the Dawn's grief feeds all sorrow."* `First Target`: *"Hope Bearers — the Dawn targets Hope Bearers first, attempting to invert them."* It raises every other holding in the building at once and destroys F01's Positive assets by converting them, which is the textbook `R-19` Negative mechanism on both limbs. The twelve Mourners spread Fracture Zones and reform within a turn unless the Dawn is ended; the only documented suppression is the Confession Protocol. Negative. |
 
 ---
 

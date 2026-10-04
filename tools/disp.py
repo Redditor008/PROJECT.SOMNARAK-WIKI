@@ -10,7 +10,7 @@ import io, re, sys
 
 P = "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
 CODE = re.compile(r"`?(?:SE-)?([A-Z]-[IVX]+[\u03b1-\u03c9]-\d{2,4}[a-z]?)`?")
-TOTAL = 303
+TOTAL = 302  # entity dossiers carrying an SECC code; the 303rd catalogued file is the Regressor log
 
 def classified_codes(index_text):
     """Every entity code carrying a row in Positive / Neutral / Negative."""
@@ -29,8 +29,9 @@ def recount(s):
     n = len(classified_codes(s))
     s = re.sub(r"\| \*\*Classified here, with a quoted line of evidence\*\* \| \*\*\d+\*\* \|",
                "| **Classified here, with a quoted line of evidence** | **%d** |" % n, s)
-    s = re.sub(r"\| Pending — no disposition-bearing line found by scan \| \d+ \|",
-               "| Pending — no disposition-bearing line found by scan | %d |" % (TOTAL - n), s)
+    pend = TOTAL - n
+    s = re.sub(r"\| Pending \| \*\*[^|]*\*\* \|",
+               "| Pending | **%s** |" % ("0 — the index is complete" if pend == 0 else "%d" % pend), s)
     return s, n
 
 def main(argv):
