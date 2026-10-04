@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **237** |
-| Pending — no disposition-bearing line found by scan | 66 |
+| **Classified here, with a quoted line of evidence** | **238** |
+| Pending — no disposition-bearing line found by scan | 65 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 237 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 238 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 66 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 65 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -241,6 +241,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Spreading Well | C-IIIγ-373 | Neutral. Three pairings, all null: a tracer introduced at the rim *"has reached the Bridge's tunnels in none of the seven"* co-presences, the oldest claim in the file fails outright — *"no channel has turned toward the River,"* including where one passes within nine metres of it — and the Wrath Flame cooling language is *"inherited from a template and is withdrawn here."* It suppresses nothing and frees nothing: it is an uncontainable delivery network that never leaves its bed. The one thing F01 gains, a sluice that flattens gauge spikes below the meltdown threshold, is an O-Relic function worked by the facility rather than an act of the entity, and the discharge arrives at occupied houses. |
 | Burning Root | C-IIIγ-558 | Neutral. Three Collector's Row pairings and nothing operational in any: with the Debtor it is *"two entities on the same street"* across eight co-presences with neither altering course or gauge, the Inheritor hostility is *"recorded as unreplicated"* after one brief rise in five, and the Inherited Debt's claim to provide its pathways is *"withdrawn here"* because the routes project from the registers even on three occasions when that entity was absent from the district. It suppresses nothing and frees nothing; it is slow, recoverable and warm, and what F01 holds from it is a controlled discharge trial in which relieving the debt moved none of the entity's four series. |
 | Floating Well | C-IIIγ-448 | Neutral. Three pairings and nothing operational in any: the Spreading Well link *"rests on the word well and on nothing else"* across five co-presences, the Floating Tree's reaching was seen once by eye at nine metres and *"has not been reproduced,"* and the Rage Forge supply claim fails three full Forge shutdowns — rim height, air temperature and gauge *"identical with the Forge cold and the Forge running"* — so the language is *"withdrawn here."* It never leaves its two square metres and suppresses nothing; F01 gains a rim-height series proving that the only thing that settles it is ground the facility has since bought for a laydown yard. |
+| Screaming Masonry | C-IIIγ-891 | Neutral. Three pairings and nothing operational in any: the Broken Whisper shares no line of content with it after two full corpus comparisons by different transcribers, the Debt Wall *"gained nothing on any of the five"* co-presences so the addition language is *"withdrawn here,"* and the Orphaned Bell association is *"recorded as weak and the direction of it as undetermined"* — it tolled in three of nine, two of those on schedule. It cannot be heard, cannot be held, and suppresses nothing; what F01 gains is a verbatim transcript corpus of 1,906 complaints the district never lodged, used only to keep signing nil-objection certificates. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
