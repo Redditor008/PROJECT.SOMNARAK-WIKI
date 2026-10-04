@@ -35,15 +35,15 @@
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan and Ferrehan only, and the restriction is genuine here rather than inherited: this is an object with no body to weep to and nothing to confront. Log bearing and rate; do not translate either into a place. |
 
 ### Operational Notes
 
-- The Compass does not indicate direction. It indicates the direction a person most wants to go, which is why it is kept sealed between sessions.
-- A successful cycle quiets the needle for a shift. The entity is unchanged by this, and the next operative will see their own heading.
-- Only Viderehan and Ferrehan apply. Attempts to work the object by other means have produced no recorded effect on the reading.
-- Record the distance at which the needle first responds. That distance has drifted outward across sessions and is the primary escalation signal.
-- The implement continues to point after it leaves the chamber; treat extraction as its own exposure.
+- It does not indicate direction. It indicates where grief is thickest, which in Somnarak is never nowhere, and that is why it is sealed between sessions.
+- A cycle quiets the needle for a shift and alters nothing. The next operative sees the same behaviour from their own position.
+- Only Viderehan and Ferrehan apply. Other approaches have been attempted and produced no change in bearing, rate or gauge, which is recorded as a tested negative rather than assumed.
+- Record the range at which the needle first responds. That range has drifted outward in each of the last six years and is the holding's primary escalation signal.
+- It keeps pointing outside the chamber, which makes extraction its own exposure event and is the reason the carrying case is opaque and sealed.
 
 ## Combat Record
 ### Core Stat Line
@@ -88,27 +88,27 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Echo Compass's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Six turns, worked from the stand with the case open and the bearing read aloud by a second person. Nothing is followed, and no turn is taken while the needle is accelerating.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is The Echo Compass’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. The Echo Compass executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- The failure here is following. The worker stops recording the bearing and starts walking along it, and both early incidents began exactly that way.
+- Long exposure produces the holding's signature state: a worker who understands, correctly and in detail, that grief is in every direction, and who cannot find a reason to choose one.
+- The Lost equipment lends the wearer the needle's certainty and takes the ability to stop searching. Every wielder's debrief has recorded an old unresolved question taken up again.
+- Unresolved, it transforms rather than escapes: the pointing spreads, and other instruments in the sector begin agreeing with it.
 
 ## Appearance
 **Physical Form:** A compass with no cardinal markings. Its needle spins toward the nearest concentrated sorrow.
 
-**Notable Features:** It never points north, reacts to Sorrow Entities, and becomes still only when no sorrow remains nearby.
+**Notable Features:** A bare brass face with no cardinal markings and a bone needle that leans toward the nearest concentrated grief. It never points north. It has rested four times in the containment's entire operation.
 
 **Identification Profile**
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A compass with no cardinal markings. Its needle spins toward the nearest concentrated sorrow.
-- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.
+- **Position / movement:** Fixed on its stand; only the needle moves. Record bearing in degrees, rate, and the range at which it first responded.
 - **Element signature:** Void
 - **Registered location:** SECTOR-D-01, Forge District
 
@@ -117,19 +117,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A compass with no cardinal markings. Its needle spins toward the nearest concentrated sorrow. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Position / movement** | On the stand, in the open case, during a session only. Record bearing in degrees, rate of swing, first-response range, and the time the case was closed. |
+| **Material / signature** | Void. Tarnished brass, warm in the hand; a yellowed bone needle that drags rather than swings; casing letters that are never twice in the same order when re-read. |
+| **Distinctive markers** | A compass face with no cardinal points, a bone needle under glass, and lettering that rearranges when nobody is watching it. |
+| **Identification** | Confirm before Work or contact: designation C-IIIβ-016 `[VO]`, Void expression, Object-Void manifestation, O-Relic tool class, SECTOR-D-01 in the Forge District. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Record bearing in degrees, rate of swing, first-response range, and the condition of the casing lettering. Bearings are degrees and stay degrees; nothing in the appearance record is permitted to name a place. Do not write *strange* or *anomalous*; it is small, warm, tarnished and never still, and those are the fields.
 
 ## Origin
 - **Formation:** The Compass formed from the need to find what the city hid.
 - **The Sorrow:** The grief of searching for lost memories and discovering sorrow everywhere.
 - **The Event:** Keepers built a device to find forgotten memories; the device learned that every direction contained grief.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the entity's effect on nearby Sorrow Entities — gauges rise faster, breaches occur more frequently, containment becomes more difficult. The entity is not hostile. It is simply... heavy. Its sorrow bleeds into everything around it, contaminating the facility's emotional atmosphere.
+- **The People:** A cabal of Keepers in the Forge District, and the one among them whose last thought is in the needle; the construction notes name the cabal and not the individual.
+- **Expanded origin context:** They were trying to find what the city had mislaid — records, burials, people nobody had reported. The device was supposed to point at forgotten things. It does. The maker's final note in the construction file says only that the device worked, and the difficulty is that it did: pointed at a city, it found grief in every direction it was turned, in quantities that made the original question unanswerable. What is in the case is not a broken instrument. It is an instrument that returned a true answer nobody could use.
 
 ## Behavior
 
@@ -139,15 +139,15 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals patterns in its direction changes. | Stable |
-| **Ferrehan** | Tests whether the worker can follow without expecting relief. | Decrease |
+| **Viderehan** | Shows pattern in the swings — rate, dwell, the recurring 14-degree hesitation — without ever resolving to a target. | Stable |
+| **Ferrehan** | Tests whether a worker can sit with a bearing and not act on it; the only approach that lowers the gauge. | Decrease |
 
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. The Echo Compass is recorded as an Object/Place with Object-Void manifestation and Void elemental expression. The current record places it at SECTOR-D-01, Forge District; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Echo Compass is a Fragment (III) Object/Place with Object-Void manifestation and Void expression, held at SECTOR-D-01 in the Forge District and classed as an O-Relic. Viderehan and Ferrehan are the only valid approaches and the restriction is correct on this holding rather than inherited from a template. Ferrehan lowers the gauge; Viderehan holds it level and produces the bearing record.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** Read it in the rate and the first-response range, not in the bearing. A falling gauge presents as the swing slowing and the range drawing in; a rising one presents as acceleration and a range that reaches further than the session before. The bearing itself carries no information about the holding at all — it is about the room, the wing and the district, which is a different matter and is dealt with below.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -160,7 +160,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Duration:** Until the source is acknowledged or the Compass is put down.
 
-**Risk:** The holder may follow the needle indefinitely.
+**Risk:** The holder may follow the needle indefinitely, and will not experience the following as a compulsion — both incidents on file describe it afterwards as the obvious thing to have been doing.
 
 ### Tool Use Profile — O-Relic
 
@@ -171,25 +171,25 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Activation** | Hold the Compass and name a lost thing. |
 | **Primary Effect** | Points toward the nearest related sorrow source. |
 | **Duration** | Until the source is acknowledged or the Compass is put down. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
-| **Risk** | The holder may follow the needle indefinitely. |
+| **Termination / Return** | The operator closes the channel deliberately, sets the Compass on the stand, and shuts the case before standing up. Abandoning an open channel vents Void resonance across the sector and has done once. |
+| **Risk** | Indefinite following. The bearing is always valid, there is always more grief further along it, and nothing in the instrument ever says stop. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** The relic requires continuous concentration and an open conduit, and cannot substitute for scheduled Work. The channel is attended at all times by a second person whose only task is the clock and the case.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Echo Compass begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates The Echo Compass: Points toward the nearest related sorrow source. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the grief of searching for lost memories and discovering sorrow everywhere. forged during keepers built a device to find forgotten memories; the device learned that every direction contained grief. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 30 Seconds | The conduit widens and the channeller begins receiving the thing the makers were after: not a direction, but the sense of how much there is in every direction. | The aura expands to Range Band 2; allied units in the sector gain elemental defence while focus holds, and the channeller's own bearing-reporting becomes unreliable. |
 | 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of The Echo Compass's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Void shockwave: The holder may follow the needle indefinitely. all personnel in the sector take heavy damage. |
+| 2 Minutes | The flow reverses toward the facility and the pointing spreads to other instruments; three in the sector have been observed agreeing with it. | Overload or abrupt abandonment vents an uncontrolled Void shockwave across the sector. The two-minute limit is enforced by the case-holder and not by the channeller. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Echo Compass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-D-01, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is range and rate, not force. Record the first trigger, the first-response range, the acceleration of the swing, the point at which the resonance settles, and whether any other instrument in the sector began to agree. Telemetry alone is insufficient: a channeller who has started to find the bearing interesting is the earliest indicator this holding has.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Close the case, clear unshielded personnel, establish whether the event is an activation or an expansion, and apply the recorded protocol. Do not improvise Work Types, and do not send anybody along the last bearing to check.
 
 ### Detailed Activation Record
 
@@ -199,10 +199,10 @@ The escalation pattern is specific to The Echo Compass: it is not a generic brea
 | **Manifestation** | Object-Void |
 | **Primary effect** | Points toward the nearest related sorrow source. |
 | **Duration / rate** | Until the source is acknowledged or the Compass is put down. |
-| **Risk** | Moderate (β) Object-Void producing Void pressure; The holder may follow the needle indefinitely. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Risk** | Moderate (β). Void pressure carrying an accurate and unusable answer, with a following risk that presents to the follower as ordinary good sense. |
+| **Management** | Viderehan and Ferrehan only, under certified relic protocol, with a case-holder, a two-minute channel limit, bearings logged in degrees, and no bearing translated into a location by anybody at any time. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → first-response range → rate of swing → whether other instruments agreed → duration → management condition. The Viderehan and Ferrehan restriction is correct on this holding and is not a template line.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -260,7 +260,7 @@ The escalation pattern is specific to The Echo Compass: it is not a generic brea
 
 **Cost:** It never identifies the correct direction.
 
-*Stigmas are granted at random by The Echo Compass upon a successful work, not manufactured.*
+*The Lost Compass is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who logged a bearing, closed the case, and did not mention where it had been pointing.*
 
 ### M.A.W. Use Notes
 
@@ -280,11 +280,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- The needle spins continuously in Somnarak.
-- It points faster near concentrated sorrow.
-- It is useful for finding entities but unreliable for navigation.
+- The needle has never been at rest for more than a few minutes anywhere in Somnarak, and rests only here, four times, unexplained.
+- Rate scales with concentration: the swing is a blur in Old Lament, slow in the Veil, and divided in the Desolate.
+- It locates grief accurately and is useless for travel, because grief is not arranged in a way anybody can walk through.
 
-**Personnel Note:** *"It was quiet. I felt longing. The Compass did not lead me to a place; it led me to the fact that sorrow was already everywhere."* — Specialist, Zone B patrol
+**Personnel Note:** *"I kept waiting for it to settle on something. It never settles because it is not looking for one thing — it is telling you the honest total, in every direction, and there is no instrument reading for that except motion."* — Specialist, Zone B patrol
 
 
 
@@ -293,11 +293,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies The Echo Compass as an Object/Place with Object-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-D-01, Forge District. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Hold the Compass and name a lost thing. Effect: Points toward the nearest related sorrow source. Duration: Until the source is acknowledged or the Compass is put down. Risk: The holder may follow the needle indefinitely. Tool Use Profile —. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In The Echo Compass's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Bearing in degrees, rate of swing, first-response range, the casing lettering, and whether any other instrument in the sector has begun to track with it. |
+| **Activation or escalation** | Activation is holding it and naming something lost. Escalation is range: when the first-response range exceeds the previous session's by more than two metres, the session closes. The threshold is numeric and the case-holder applies it. |
+| **Post-contact review** | Bearing and rate before and after, the range, whether the channeller asked where the bearing led, and a counsellor's note at 14 days aimed at whether the worker has resumed a search of their own. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
+**Observation method:** Observe from the stand with a case-holder present, for one channel of no more than two minutes. Record the bearing, the rate, the range, and the condition that ended the session. The form here is the sorrow and not a strategy: an instrument built to find what was hidden, which found that nothing is hidden and everything is grieving, and which has been reporting that correctly ever since.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -332,30 +332,30 @@ The needle spins in every district. In the Old Lament it becomes a blur; in the 
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A compass with no cardinal markings. Its needle spins toward the nearest concentrated sorrow. Notable Features: It never points north, reacts to Sorrow Entities, and becomes still only when no sorrow remains nearby. Identification Profile: The. The surrounding space does not become generic or abstract; it changes in the specific way associated with Void and the entity's Object-Void form.
+**At first contact:** Warmth in the palm, then the drag of the needle — it does not swing freely, it pulls, like something leaning. The face is blank and the lettering around the rim is not what it was a moment ago.
 
-**With continued exposure:** Prolonged exposure turns the containment zone into a landscape. The Void has topography here — ridges of pressure, valleys of absence, a geography only the Object-Void could have made.
+**With continued exposure:** The bearings stop feeling like data. The channeller begins to sense the distribution rather than the direction, and the distribution is the part nobody is ready for.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Hold the Compass and name a lost thing. Effect: Points toward the nearest related sorrow source. Duration: Until the source is acknowledged or the Compass is put down. Risk: The holder may follow the needle indefinitely. Tool Use Profile —. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The needle steadies briefly, picks a heading, and holds it with a certainty the instrument has no right to. Every follower has described that moment as the needle finally making sense.
 
-**After departure:** You leave, but the Void follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** The pull stays in the hand for a day. Workers report checking directions they have no reason to check, and the counsellors ask about it at fourteen days.
 
 ### Interaction Pattern
 
-The Echo Compass does not exist in isolation. Its recorded relationships with The Memory Well, The Sorrow River, The Frozen Relic should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other things in the wing that register grief at a distance. Each relation below has been observed and filed; none is settled; and all three were tested with the bearings logged in degrees and never resolved to a place.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone across several channels before any paired approach, with bearing, rate and range logged throughout. Record the onset of any shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-The Echo Compass must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled, and all three have the same structural weakness: the Compass reports grief, every entity in the wing is made of grief, and a positive reading proves nothing about either party.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Memory Well** | Points toward the Well's deepest memories. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Sorrow River** | Spins toward the underground source. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Frozen Relic** | Finds abandoned objects along the Desolate. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Memory Well** | The needle holds steady on the Well longer than on anything else tested, which has repeatedly been read as a special relation. | Five channels. Mean dwell 31 seconds against a wing median of four. The Well's own gauge did not move on any occasion and nothing was retrieved. The dwell is a measure of what the Well contains, not of any exchange between them. | All five channels, the dwell times, and the Well's flat series. |
+| **The Sorrow River** | The needle turns toward the underground source rather than the visible channel, consistently and against the obvious reading. | Four channels, all giving a bearing within three degrees of each other and all pointing below the sector. The survey has never been authorised, so the bearing remains unverified and is kept as a bearing. | All four bearings, the three-degree spread, and the absence of any confirming survey. |
+| **The Frozen Relic** | It finds abandoned objects along the Desolate, which is the closest this holding comes to doing its intended job. | Three field uses under escort. It located the Relic on all three, at ranges up to forty metres, and also located eleven other things nobody had been looking for. Accuracy is not the problem with this instrument and never has been. | All three uses, the ranges, and the list of eleven incidental findings. |
 
 **Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
@@ -393,25 +393,25 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 
 **Classification:** Sorrow Entity — `C-IIIβ-016 [VO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** The Echo Compass
-**Containment Status:** Contained — Archive deep room
+**Containment Status:** Contained — SECTOR-D-01, Forge District, in a sealed opaque case. The archive deep room named in earlier revisions was the holding site before the fourth year and is not current.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. The Compass is an Object entity. Its needle spins constantly. Holding it induces disorientation and the awareness that grief surrounds in all directions. No breach risk.
+**Threat Assessment:** Moderate (β). It cannot escape and does not need to: it transforms, spreads its pointing into adjacent instruments, and reliably induces indefinite following in whoever holds it. The earlier entry describing the threat as low with no breach risk is an error and is corrected here.
 **Containment & Handling Procedures:**
-- Viderehan is the only valid Work Type.
-- Do not use for navigation. The needle is accurate but useless.
-- Limit handling to 10 minutes; extended exposure causes existential paralysis.
+- Viderehan and Ferrehan are both valid; Ferrehan is the approach that lowers the gauge. The earlier entry naming Viderehan as the only valid Work Type is an error and is corrected here.
+- Not to be used for navigation. The needle is accurate and useless, which are not opposites here.
+- Handling is limited to ten minutes and any open channel to two, timed by the case-holder, with no discretion to extend.
 **Observation Notes:**
-- Built by Keepers to find forgotten memories. Found only grief.
-- The needle has not settled in four thousand years.
-**Cross-References:** The Archive · The Keepers · The Weeping · The Memory Maze
+- Built by a Keeper cabal to find forgotten memories; found grief in every direction and has reported that without interruption since.
+- The needle has settled four times in nine years of containment and not otherwise in any record the archive holds.
+**Cross-References:** SECTOR-D-01 · The Keepers · the construction notes · the bearing log · the stillness page · the discontinued welfare round
 **Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant)
-**Originator:** Cabal of Keepers, Forge District; built from Han-crystal and a Fractured Keeper’s last thought.
+**Originator:** A Keeper cabal of the Forge District; built from Han-crystal and the last thought of a Fractured Keeper the notes do not name.
 
 ### Registry Addendum
 
 **Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify after every channel overload, expansion, extraction, or unusual interaction: the gauge, the case seal, the first-response range against the previous session, the exposure log, and whether any other instrument in the sector has begun to track with the needle. The last of those is checked by a second person and is the only item on the list that has ever been missed.
 ## Warden Record
 
 ### The Needle
@@ -430,10 +430,48 @@ The Keepers made it to locate forgotten memories and it learned instead that eve
 
 Bearings are entered in degrees and nothing else, no location named and no inference attached, and the column has been kept in the same form since the containment opened. Wardens have proposed adding an interpretation field twice. Both proposals were declined on the ground that a column for what the bearing means is a column somebody will eventually fill in, and that the order forbidding the bearings to be acted upon depends on their never having been translated into places.
 
+### The Four Times It Stopped
+
+The stillness page carries four entries and nothing else: a date, a duration, and the Warden on watch. **Eleven minutes. Four minutes. Nineteen minutes. Six minutes.** Nine years apart at the extremes, with no pattern in the gaps.
+
+The wing has worked on them properly. Each date was checked against the shift roster, the sector occupancy log, the weather record, the Tide calendar, the maintenance schedule and the adjacent holdings' gauges. **One of the four coincides with a partial evacuation** of the Forge District, which supports the obvious hypothesis that the needle rests when there is nobody grieving within range. The other three do not. On one of them the sector was at full occupancy and the wing's own medical lead was in the next room, mid-shift, on the day of a bereavement the file records without naming.
+
+So the hypothesis survives on one case out of four and is contradicted by one case so directly that the analysis stops there.
+
+The experiment that would settle it cannot be run. To test whether the needle rests in the absence of grief, the wing would have to produce a sector containing no grieving person and then certify that it had. **Both halves are impossible**: the first because people cannot be screened out on that basis and the facility would not try, and the second because certifying a space grief-free is a claim about the interior lives of everyone in it, which no instrument here can support and no officer will sign.
+
+The file therefore records four unexplained stillnesses, states that the obvious explanation fits one of them, and prints the proposed protocol for the experiment in an appendix marked *drafted, never submitted*. The archivist's note is two lines: *we could find out what it means by asking a hundred people to prove they are not sad. We are not going to ask.*
+
+### Degrees, And Nothing But Degrees
+
+The bearing log is kept in degrees because the standing order forbids turning a bearing into a place. The reasoning has always been protective: a device that points at concentrated grief will, if followed, lead personnel into unassessed ground, and the two early incidents did exactly that.
+
+The legal officer's opinion, obtained in the sixth year, is that the protection does not work the way the wing thinks it does.
+
+A body that possesses a reliable indicator of where people are in distress does not escape the consequences of possessing it by declining to convert the indicator into an address. **Knowledge that an organisation would have acquired but for deliberately refusing to look is imputed to it anyway.** The doctrine is old and narrow and it fits this holding exactly: the wing holds a log, knows the log is accurate, knows precisely what one afternoon's work with a district map would produce, and has written a rule against doing that work.
+
+The opinion is careful about what follows. It does not say the standing order is wrong — it accepts the operational reasoning in full, and says the two incidents justify it. It says the order buys safety for Wardens and buys **no protection at all** from the imputation, and that the wing should stop describing it internally as though it did.
+
+The result is the uncomfortable position recorded on the front sheet. **The facility is fixed with knowing where the grief is, and has arranged matters so that it cannot act on knowing.** It has the liability of the informed and the capability of the ignorant. The officer's closing line is quoted at commissioning: *you may keep the rule. You may not keep the belief that the rule makes this somebody else's problem.*
+
+### The Round That Was Stood Down
+
+The Forge District used to be walked.
+
+A welfare round — two people, three times a week, a fixed route of the tenements and the hostels, knocking on doors and writing down who answered — had run in the district for as long as the district had a ward office. It was not a facility function and it was never expensive. **In the year after the Compass was transferred to SECTOR-D-01, it was discontinued.**
+
+The decision record is short and the reasoning is in it. The district's new allocation review found the round duplicative, and the sentence that did the work reads that the facility now maintains *continuous instrumented coverage of distress concentration in the sector*. That sentence is about the Compass. It is accurate. It is also, as the standing order makes certain, coverage that nobody is permitted to act on.
+
+So the district went from two people knocking on doors to a bone needle in a sealed case behind a containment door. **Three visits a week became none.** The ward office closed its welfare file in the same quarter.
+
+The consequences are in the record and they are not dramatic, which is the point. Two cases in the following four years were found late — one at eleven days, one at six weeks — in tenements on the old route, by neighbours rather than by anybody official. Neither review found the discontinuation causative. Both reviews said that the round would probably have found them sooner.
+
+The objection is minuted at every annual review and is raised by the district's ward officer, who attends for this item and no other. It holds that a facility instrument was cited as a substitute for a human service by people who had not read the standing order that makes it unusable; that the facility knew the citation had been made, in writing, within the quarter, and did not correct it for four years; and that reinstating the round would cost less than the holding's annual case maintenance, a comparison the facility has itself published and never commented on. The minute records the objection as **correct in all three parts**. It records that the correction was eventually sent in the fifth year, that the ward office has twice applied for the round to be restored, and that both applications failed for want of staff rather than money. And it records the ward officer's closing remark, minuted at her request: *your needle is pointing at my district right now. I am not allowed to know where, and nobody is going to go and look.*
+
 ## Trivia
 
-- It can point toward emotional sources beyond physical distance.
-- The needle has never stopped in recorded history.
+- It responds to sources well beyond line of sight, including through structure, and the first-response range has grown each year.
+- Outside this containment there is no record of the needle stopping; inside it, the four stillnesses are the whole of the exception.
 
 
 
@@ -441,9 +479,9 @@ Bearings are entered in degrees and nothing else, no location named and no infer
 
 - **Classification detail:** The Echo Compass is an Object/Place with Fragment (III) — Restless and seeking coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-D-01, Forge District.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the blank face and the bone needle; the rearranging lettering is diagnostic but cannot be checked while being watched.
+- **Record detail:** Read this file beside the bearing log, which is degrees and nothing else, and beside the construction notes, which are the only document in the holding written by somebody who was pleased with it.
+- **Containment detail:** The case is opaque for a reason unrelated to the entity: it stops personnel passing the holding from reading the bearing in passing, which happened twice before the case was adopted.
 ## Document Information
 
 **Document ID:** SE-C-IIIβ-016
