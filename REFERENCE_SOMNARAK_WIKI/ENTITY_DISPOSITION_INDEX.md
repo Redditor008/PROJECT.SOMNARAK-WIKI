@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **181** |
-| Pending — no disposition-bearing line found by scan | 122 |
+| **Classified here, with a quoted line of evidence** | **182** |
+| Pending — no disposition-bearing line found by scan | 121 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 181 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 182 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 122 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 121 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -185,6 +185,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | I Alone Crossed | `SE-C-IVδ-106` | Gives other entities nothing: the Survivor's Span pairing has *"the pressure in both chambers rises together and settles together, within the same hour, with nothing transferring in either direction and no change to either account"*; the Scar Walker shares the ground permanently and *"neither gradient nor account has ever moved in response"*; the Burning Bridge pairing has been refused twice and never run. Gives F01 nothing either — its one output is an account that *"does not establish that it is true"*, and the only sentence that would answer it is one no office has standing to issue. Its breach is purely obstructive (*"crossing stops working over a widening area"*, harming attempted rescuers) with no recorded effect on any other holding's containment. Neutral. |
 | Soaking Shard | `SE-C-IVδ-219` | Gives other entities nothing: the Frozen Shard pairings show *"the seep rate did not change at any point, and nothing transferred in either direction"*, the First Tear has never been co-located, and the Memory Rain is *"never brought together and formally separate."* Gives F01 nothing usable either — its channelled output is *"one preserved memory as liquid vision"* at the price that *"the worker may lose a memory to replace the released one,"* and its only growth input is its own workers' involuntary grief. **Not counted as Positive:** the O-Relic Log and Method line about adjacent units' stabilised gauges is the shared channel boilerplate carried by every O-Relic file, and unlike The Orphaned Bell this dossier records no entity-specific beneficial effect — its own Beneficial/Primary Effect rows name only the memory trade. Neutral. |
 | Collapsed Whisper | `SE-C-IVδ-249` | Gives other entities nothing: the Observing Bird pairing was *"attempted twice and abandoned"* with the Bird withdrawing at forty metres and *"nothing in the Whisper's series moved"*; the Drift Fog has co-occurred eleven times with *"break time, syllable count and gauge unchanged on every occasion"*; the Broken Whisper has never been paired. Gives F01 nothing usable either — its sole output is part of an urgent sentence that *"always cuts before the place where a hazard would be named"*, and the wing *"may not pass a fragment to a field crew, in any form."* It does not hunt: *"in nineteen years it has not once been found closer to an occupied position than the session before."* Its breach is obstructive, affecting whoever stands in the volume, with no recorded effect on any other holding. Neutral. |
+| Memorial Flame Mid-Ceremony | `SE-C-IVδ-763` | Gives other entities nothing and takes from one: the Ember Child *"dimmed on each occasion and recovered on withdrawal, with the differential here unchanged"* across three unarranged transits; the Kind Healer pairing moved the Healer's gauge and not this one's; Silence We Forgot We Made is *"never co-located and formally separate."* Gives F01 nothing usable — the rite *"has never been anywhere else"* in 1,106 entries, four assessments could not show that completing it would lower the gauge, and its only transferable output is a bereavement loaded onto staff who never knew the dead. Expansion runs through empty adjacent vaults and has always receded on its own, with no recorded effect on another holding's containment. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
