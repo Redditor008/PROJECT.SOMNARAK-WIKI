@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 36 / 303 dossiers free of template residue.**
+**Counter: 41 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,13 +225,27 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  4908   (prose only; R-23 furniture excluded)
-median generic fraction       0.095
-worst                         0.292   SE-N-Iα-686 Torn Window
-clean at <= 0.05               95 / 303
+shared 8-grams (>= 10 files)  4831   (prose only; R-23 furniture excluded)
+median generic fraction       0.086
+worst                         0.291   SE-N-Iα-686 Torn Window
+clean at <= 0.05              100 / 303
 ```
 
-**Counter: 95 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+**Counter: 100 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+
+**Second `R-25` batch, 2026-10-05 — five dossiers, five commits, all gated.**
+
+| Dossier | Before | After | Instrument |
+|---|---|---|---|
+| Animus `O-Iα-108` | 0.189 | **0.008** | a lexicon of 61 words with no proper noun in it |
+| Forgotten Tear `O-Iα-709` | 0.185 | **0.003** | a laboratory balance: 11 g untouched, up to 34 g held |
+| Memory Chain `O-IIβ-467` | 0.175 | **0.005** | transit time along one axis, 41 s baseline, and the word order |
+| Never Discharged `O-IIβ-911` | 0.173 | **0.001** | a 47-minute loop clock and a discharge book that cannot be completed |
+| Shard of a Broken Promise `O-IVδ-851` | 0.172 | **0.001** | hum pitch in hertz against a declaration book |
+
+All five classified Neutral. Never Discharged also lost a verbatim Tale-inside-Origin duplication —
+the fourth found so far, and all four were in the short-form dossiers.
+
 
 **Batch under `R-25`, 2026-10-05 — five dossiers, five commits, all gated.**
 
