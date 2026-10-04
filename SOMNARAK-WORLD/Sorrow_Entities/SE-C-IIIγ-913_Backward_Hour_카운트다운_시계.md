@@ -257,7 +257,7 @@ Each Backward Hour piece is an extension of this entity rather than ordinary equ
 
 **Entry 4 — Containment Notice** A sealed reference clock, a list of every revocable permission held by anybody in the room, and silence during the count. The notice adds that the bay is to be staffed, where possible, by people whose warrants are permanent.
 
-**Entry 5 — Director's Note** This entity's classification as Time-Grudge is correct. The grudge descriptor is not decorative — it is the operational axis. All containment protocols should account for the grudge register as the primary channel.
+**Entry 5 — Director's Note** Two sentences: *The clock takes what we have already made revocable. Until the establishment stops issuing permissions that expire, this holding is us.*
 
 ## 최종 관찰 (Final Observation)
 
@@ -311,7 +311,7 @@ The entity does not rage, and that is the part the briefings underline. Twelve h
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are the valid Work Types. Both lower the gauge and lengthen the interval between occurrences, from a median of eleven days to a median of nineteen in the quarters when the bay is fully staffed.
 - Flerehan and Pugnahan are unavailable to a Time and are not to be attempted as improvisation.
-- Monitor the Grudge register by fixed point, never by district average; the average has been inside the safe band during occurrences in which two streets were in the dangerous one.
+- Read the sector at fixed points, never by district average; the average has been inside tolerance during every one of the forty-one lapses and has never indicated anything.
 
 **Cross-References:** City Sorrow (도한) · Grudge · Time-Grudge · Zone B · the fixed-point network · the revocation study · the clock warrant scheme
 

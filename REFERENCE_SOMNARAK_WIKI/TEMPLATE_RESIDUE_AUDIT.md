@@ -225,13 +225,49 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  4165   (prose only; R-23 furniture excluded)
-median generic fraction       0.068
+shared 8-grams (>= 10 files)  4111   (prose only; R-23 furniture excluded)
+median generic fraction       0.067
 worst                         0.195
-clean at <= 0.05              121 / 303
+clean at <= 0.05              124 / 303   (file level; section-clean is 47)
 ```
 
-**Counter: 121 / 303 dossiers at the Tale standard (prose generic fraction ≤ 0.05).**
+**Counter: 47 / 303 dossiers section-clean (`R-27`) — every description-bearing section at or
+under 0.05. Secondary: 124 / 303 file-clean on the whole-file fraction.**
+
+The headline moved because the measure did. `R-27` (2026-10-05) holds that the Tale standard
+applies to every section that carries description — Behaviour being one example, not the list —
+and measuring that way found **81 dossiers that passed at file level with at least one section
+still above 0.05**, nine of them with a section at **1.000**. The file-level number is kept beside
+it because it still measures total archive drift honestly; it is simply not the standard.
+
+**First `R-27` batch, 2026-10-05 — seven dossiers, the `R-26` ratchet's first firing.**
+
+| Dossier | Worst section before | After |
+|---|---|---|
+| Endless Shift `C-IVδ-915` | 최종 관찰 **1.000** | all 19 sections clean |
+| Grimoire `C-IIβ-906` | 최종 관찰 **1.000** | all clean |
+| Duri's Heart `C-IIβ-901` | 최종 관찰 **1.000** | all clean |
+| Lethe `C-IIIγ-928` | 최종 관찰 **1.000** | all clean |
+| Cracked Flesh `C-IIIγ-921` | 최종 관찰 **1.000** | all clean |
+| Backward Hour `C-IIIγ-913` | 최종 관찰 **1.000** | all clean |
+| Eleven Fifty-Nine `C-IIIγ-912` | 최종 관찰 **1.000** | all clean |
+
+Seven rather than five because `R-26`'s second test was finally met: all seven were already
+part-bespoke at file level, so the work was section repair rather than whole-file rewriting —
+20 to 30 keyed lines each instead of 50 to 60.
+
+**Section league, worst first, measured the day `R-27` was written:**
+
+| Dirty in | of | Section |
+|---|---|---|
+| 248 | 298 | 최종 관찰 (Final Observation) |
+| 225 | 297 | M.A.W. Equipment |
+| 221 | 302 | Combat Record |
+| 185 | 298 | 감각 묘사 (Flavor Text) |
+| 156 | 298 | Trivia |
+| 145 | 297 | 기록 (Registrum) |
+| 132 | 298 | Behavior |
+
 
 **Second `R-26` batch, 2026-10-05 — five shipped, all by the keyed-line method.**
 

@@ -17,8 +17,9 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **61 / 303** |
-| **Dossiers at the Tale standard (`R-24`, prose generic fraction ≤ 0.05)** | **121 / 303** |
-| Archive median prose generic fraction | 0.068 |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **47 / 303** |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 124 / 303 |
+| Archive median prose generic fraction | 0.067 |
 | **Dispositions classified (Workstream 5)** | **302 / 302 — CLOSED** |
 
 ## Workstream 1 — De-boilerplate (CLOSED)

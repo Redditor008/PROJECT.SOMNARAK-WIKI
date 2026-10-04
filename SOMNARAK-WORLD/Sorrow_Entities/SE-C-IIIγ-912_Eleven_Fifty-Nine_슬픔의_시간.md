@@ -232,9 +232,9 @@ Each Eleven Fifty-Nine piece is an extension of this entity rather than ordinary
 
 **Entry 3 — Counseling Log** Almost nobody describes the hour as distressing and almost everybody describes the morning as hard. Counselling's standing note is that an hour of thinking about your dead is not an injury, and that being expected at work at seven afterwards might be.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The lament register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** One observer per sector on station before 0255, a fresh notebook each, notebooks sealed unread until morning, and the roster checked against the bereavement register before it is posted.
 
-**Entry 5 — Director's Note** This entity's classification as Time-Lament is correct. The lament descriptor is not decorative — it is the operational axis. All containment protocols should account for the lament register as the primary channel.
+**Entry 5 — Director's Note** One sentence, added after the second long night: *Nobody is to be rostered at seven in the morning in a district that was awake at three, and if that cannot be arranged then the schedule is wrong and not the people.*
 
 ## 최종 관찰 (Final Observation)
 
@@ -288,7 +288,7 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are the valid Work Types and both lower the gauge; neither shortens the hour, which has been sixty minutes on 609 of 611 nights.
 - Flerehan and Pugnahan are unavailable to a Time and are not to be attempted as improvisation.
-- Monitor the Lament register specifically, and monitor consecutive exposures: the count of hours worked inside the window is the only cumulative figure this holding produces about its own staff.
+- Count consecutive exposures rather than gauge readings: hours worked by the same observer, nights running, and the district's lateness the following morning. Those three figures are the file.
 
 **Cross-References:** City Sorrow (도한) · Lament · Time-Lament · the Mantle Commons · the council notification list · the convergence study · the 0300 operating window
 
