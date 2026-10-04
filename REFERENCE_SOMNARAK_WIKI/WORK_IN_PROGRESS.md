@@ -16,10 +16,10 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **25 / 303** |
-| **Dossiers at the Tale standard (`R-24`, prose generic fraction ≤ 0.05)** | **81 / 303** |
-| Archive median prose generic fraction | 0.103 |
-| **Dispositions classified (Workstream 5)** | **279 / 303** |
+| **Dossiers free of template residue (Workstream 6)** | **29 / 303** |
+| **Dossiers at the Tale standard (`R-24`, prose generic fraction ≤ 0.05)** | **85 / 303** |
+| Archive median prose generic fraction | 0.098 |
+| **Dispositions classified (Workstream 5)** | **283 / 303** |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
 
@@ -74,7 +74,7 @@ The owner is right and the `0.00%` is also right. `tools/boilerplate_report.py` 
 | Distinct residue lines | 135 |
 | Residue instances | 3382 |
 | Dossiers carrying residue | 278 / 303 |
-| **Dossiers clean (fixed counter)** | **25 / 303** |
+| **Dossiers clean (fixed counter)** | **29 / 303** |
 
 Opening baseline was 146 distinct / 3,745 instances / 11 clean. The first ten entities taken under this workstream were all drawn from the Workstream 5 pending pool, so each one closed a disposition row in the same commit as its clean.
 
@@ -109,26 +109,37 @@ and the sections around it are not. Measured with [`sect.py`](RULES/R-24_THE_TAL
 **First two files taken under this rule.** Moktak `N-IIβ-910` went 0.116 → **0.001** and Chain of
 Memories `N-IIIβ-200` — then the most generic dossier in the archive — went 0.386 → **0.001** across
 seventy rewritten lines, which also released the last entity held pending under Reason 1.
-Five dossiers have now been taken under this rule, worst first:
+Nine dossiers have now been taken under this rule, worst first:
 
-| Dossier | Before | After | Lines | Words |
+| Dossier | Before | After | Subs | Words |
 |---|---|---|---|---|
 | Chain of Memories `N-IIIβ-200` | 0.386 | **0.001** | 70 | 5,476 → 6,607 |
 | Survivor's Span `N-IIβ-993` | 0.360 | **0.002** | 62 | 4,859 → 5,966 |
 | The Unconsoled `C-IIIγ-248` | 0.298 | **0.000** | 57 | 5,213 → 6,142 |
 | The Extinguished `N-IVγ-250` | 0.253 | **0.000** | 55 | 5,623 → 6,396 |
+| The Unspoken Line `C-IVδ-251` | 0.247 | **0.001** | 56 | 5,739 → 6,665 |
+| The Undelivered Thanks `N-IIIβ-247` | 0.243 | **0.000** | 49 | 5,385 → 6,199 |
+| Broken Door `O-IIβ-757` | 0.224 | **0.004** | 62 | 6,625 → 7,760 |
+| Vellum Man `C-Iα-900` | 0.224 | **0.000** | 63 | 2,880 → 4,106 |
 | Moktak `N-IIβ-910` | 0.116 | **0.001** | 14 | 4,114 → 4,665 |
 
-All five kept `RESIDUAL 0` and residue 0 and all five grew. Four of the five closed a Workstream 5
+All nine kept `RESIDUAL 0` and residue 0 and all nine grew. Eight of the nine closed a Workstream 5
 row in the same commit, because a dossier cannot be classified while its interaction cells are
-instructions to an observer rather than observations.
+instructions to an observer rather than observations. Vellum Man also lost a verbatim duplication
+of its Tale inside its Origin section, which `verify.py --dupes` had been reporting for weeks.
+
+**Comparative study.** `COMPARATIVE_STUDY_01_VELLUM_MAN_AND_BROKEN_DOOR.md` sets the two most recent
+completions against each other and against two published Abnormality articles (`O-04-72` The
+Burrowing Heaven, `T-09-97` Old Faith and Promise). Its three carried-forward findings — Story Log
+escalation, the "record X, Y, Z" phrasing as residue even when `tpl.py` is silent, and
+instrument-and-hazard unification — are quality bars for Workstream 7.
 
 An earlier version of this block claimed the ten batch-2 dossiers were still generic at 0.103–0.129.
 That was the first, furniture-blind cut of the metric. On prose they measure **0.014–0.041** and all
 ten are at the standard; the claim has been corrected here and in `R-24` rather than quietly dropped.
 What survives in a typical unrewritten file is the Combat Actions flavour text, the Battle Phases,
 the M.A.W. appearance and ability lines, the observation-stage cells and the stock interaction
-effects — 227 dossiers still sit above 0.05.
+effects — 218 dossiers still sit above 0.05.
 
 One generator artefact was found and repaired by this pass: 29 dossiers published an unevaluated
 Python expression in the Combat Record `Difficulty` row, with the entity's numeric suffix standing
