@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **255** |
-| Pending — no disposition-bearing line found by scan | 48 |
+| **Classified here, with a quoted line of evidence** | **256** |
+| Pending — no disposition-bearing line found by scan | 47 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 255 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 256 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 48 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 47 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -63,7 +63,13 @@ only in the element word:
 
 A line that is word-identical across six dossiers cannot distinguish between them. Held on this
 ground: **Sorrow Mass** `C-Vω-925`, **Dreaming Plague** `N-IVδ-927`, **Dead Air** `N-IIIγ-929`,
-**Moktak** `N-IIβ-910`, **Miasma** `C-IVδ-922`, **Hatred Above** `C-IVδ-923`.
+**Miasma** `C-IVδ-922`, **Hatred Above** `C-IVδ-923`.
+
+**Moktak** `N-IIβ-910` was held here and has since been released, by the route this section
+predicts: its stock breach block was replaced with bespoke text under Workstream 6
+([`R-23`](RULES/R-23_LABELS_MAY_REPEAT_VALUES_MAY_NOT.md)), and the row was written from the new
+First Target line in the same commit. Releasing the other five requires the same authoring work
+first — the reading is not what is missing.
 
 **What this means for the workstream.** The pending pool is not a reading backlog. The entities that
 remain are the ones whose files do not yet say anything specific enough to classify, so the index
@@ -301,6 +307,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Glass Elsewhere | N-IIβ-903 | Neutral. No cross-entity pairing is recorded and it has no means of producing one: it *"cannot move, cannot reach, has never injured anybody and has never put anything through the glass"*, and its expansion leaves the glass where it is. It suppresses no entity and frees none. Its only yield to F01 is an aggregate count used to project Fracture load — derived from faces the facility may not identify to anyone. |
 | The Calling Bloom | O-IIIβ-944 | Neutral. Three bespoke pairings, mixed and net-nil for F01. The Kind Echo: *"the Bloom grows still and quiet beside the Echo… both gauges dip."* The Vanished Seed: *"a quiet, sorrowful resonance; both seem to wait for someone who will not arrive."* But the Sorrow Flower: *"a tense mutual watching; both blooms turn toward each other and the gauge of each rises slowly. Handle apart."* It calms two neighbours and agitates a third, suppresses nothing, and its own breach only *"drifts… toward any concentration of people."* |
 | Grieving Love | N-IIIβ-941 | Neutral. Three bespoke pairings and no suppression in either direction. The Preserved Heart: *"a quiet, mutual stillness; both gauges dip. The most peaceful pairing on record."* The Ember Child: *"the Ember Child's warmth draws her close; she brightens and her weeping slows"* — the other entity acting on her, not her on it. The Lonely Giant: *"resonant amplification of longing; both gauges rise if left together too long."* Two calmings and one amplification, net-nil to F01; her breach reaches only people. |
+| Moktak | N-IIβ-910 | Neutral, and inert toward F01 by reach rather than by temperament. Its breach First Target is recorded as *"Nobody. The expansion follows the seating rather than the people"*, and the conversation it holds has never admitted a living participant: *"The conversation is among the figures rather than toward anyone present, and no response has ever been obtained."* No cross-entity pairing exists and none is possible — *"Nothing has ever left the hall under its own power."* The one recorded expansion added chairs in the corridor and was detected by a seat count four days late, with no personnel effect beyond a four-hour sitting. It suppresses no entity, assists none, and yields F01 12–18 Han-Energy on one cycle per day capped by the dusk interval. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
