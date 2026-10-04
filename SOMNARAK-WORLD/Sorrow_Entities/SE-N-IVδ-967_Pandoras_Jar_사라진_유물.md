@@ -145,7 +145,7 @@
 
 The Work Type table measures an hour in the Desolate and misses the mechanism, which lives in the facility's records office. Across nine years the baseline temperature has risen ten degrees for every retention schedule executed without descriptions entered, and has never fallen for anything else; the cycle temperature responds to names spoken at the site, the baseline responds only to paperwork.
 
-**Reading the response:** Falling heat means something destroyed was described rather than counted. Stability under Viderehan is correct. The heat rises when a destruction is logged as a number, when the relic is called a legend in the worker's hearing, and it has risen sharply twice on correctly executed retention schedules that happened to be silent about contents.
+**Reading the response:** Falling heat means something destroyed was described rather than counted. Stability under Viderehan is correct. The heat rises when a destruction is entered as a bare number, when the relic is called a legend in the worker's hearing, and it has risen sharply twice on correctly executed retention schedules that happened to be silent about contents.
 ## Breach Behavior
 
 > *"It is in the second records room and it is reading the destruction schedule."*
