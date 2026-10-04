@@ -28,20 +28,20 @@
 | **Entity role** | Place |
 | **Primary pressure** | Identity / relational pressure |
 | **Starting Sorrow Gauge** | 55–70% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per cycle, and the cycle is a conversation between two residents rather than a work performed by staff. The R.D. is the only party in the Commons that gains anything measurable from it, which the junction's residents have noticed and said so. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan from the fountain's rim, and Ferrehan standing on the seam itself for as long as it can be borne. Neither closes the line. The only thing that closes the line is two residents talking, and the R.D.'s actual job here is logistical: keep the fountain intact, keep the junction open, and give people reasons to be on the wrong side of it at the same hour. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Unspoken Line.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Work does not shorten the line. Conversation does, and it is measured: the seam has contracted 11.4 metres since the register was opened, in increments of between four centimetres and a metre and a half, one per logged exchange.
+- The line lengthens on silence, not on provocation. Every recorded extension followed a week in which the running total posted at the junction did not move, and the longest single extension followed the fortnight the board itself was taken down for repainting.
+- Personnel are rotated on a social rather than a safety schedule. A warden who becomes familiar to one side of the junction stops being neutral furniture and starts being that side's warden, and twice the seam has drifted toward whichever side the duty officer drank tea on.
+- Extraction here removes a piece of the junction and the junction is where people live. Both completed extractions were taken from the shuttered shopfronts rather than from the seam, with the owners' written consent, and the consent forms are filed in the dossier because the Commons insisted on it.
 
 ## Combat Record
 ### Core Stat Line
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 0.0 m/s (fixed) |
-| **Resistance** | 40% against Void pressure; 30% against other pressure types |
+| **Resistance** | 40% against Void. The other figures are untested and will stay untested: the junction is inhabited, Pugnahan is invalid for a Place, and nobody is willing to find out what forcing the seam does to the shopfronts on either side of it. |
 | **Activation threshold** | Sorrow Gauge ≥ 65% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Void |
@@ -77,24 +77,24 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Step Over* [**Debuff**] } | "You crossed a line — one no one ever told you about, but you crossed it all the same." | [The Line marks the transgressor; the boundary asserts itself.] | *Target suffers a Void mark; they have trespassed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target crosses the Line. |
-| { *The Unspoken Rule* [**Debuff**] } | "The rules were never written down — and that makes the punishment worse." | [The Line's invisible rules tighten; the target feels the weight of taboo.] | *Target loses clarity; they do not know what they did wrong.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers on the wrong side. |
-| { *The Redraw* [**Attack**] } | "The line redraws itself — through you." | [The boundary manifests as a cutting edge through the target.] | *Inflicts Void damage; the line divides them.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Line is challenged. |
-| { *The Taboo* [**Attack**] } | "The punishment for crossing — and it was always going to find you." | [The accumulated weight of every transgression strikes.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Line is forced or erased. |
-| { *Every Line at Once* [**Ultimate**] } | "Now there are lines everywhere — and you cannot move without crossing one." | [The Line multiplies across the whole field, trapping everyone in taboo.] | *All in range suffer Void erosion for three turns among the lines.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Step Over* [**Debuff**] } | "You are standing in the road you have crossed ten thousand times and your feet have stopped, and you cannot say what stopped them." | [The seam registers a crossing and the crosser's own reluctance is handed back to them as fact.] | *The target cannot re-cross for the remainder of the hour and will not be able to explain why to anyone who asks.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | On any crossing by a person who lives in the Commons. Visitors cross freely and feel nothing. |
+| { *The Unspoken Rule* [**Debuff**] } | "Everyone on the far pavement is being perfectly polite to you, and you understand that you have done something, and so do they, and nobody will say it." | [The junction's unwritten etiquette is enforced by the people in it, without any of them deciding to.] | *The target's Clarity falls and keeps falling while they remain; the residents enforcing it will later have no memory of having done so.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | After roughly four minutes on the opposite side. |
+| { *The Redraw* [**Attack**] } | "It moves, and it does not move around you." | [The seam re-draws on a new bearing and takes the nearest person as its new reference point.] | *2 Void, and the target's own household is afterward on two different sides of the junction.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When anyone attempts to mark, paint, or physically erase the seam. |
+| { *The Taboo* [**Attack**] } | "Five years of mornings nobody brought tea arrive in one piece, and they arrive in the order they happened." | [Every uncrossed day since the division is counted out against whoever forced the seam.] | *3 Void and a 15% Gauge surge; the target can afterward name every neighbour they stopped speaking to and the date each one stopped.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the seam is forced, paved over, or officially abolished. The Commons has tried all three. |
+| { *Every Line at Once* [**Ultimate**] } | "The Commons wakes up and every doorway has a side, every stairwell has a side, and the market has four." | [The division propagates along the district's existing social seams — trade, parish, shift pattern — all at once.] | *2 Void per cycle for three cycles to everyone in the Commons; afterward the new seams persist at reduced strength and must each be closed by conversation like the original.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | Above 65%, and only ever at dawn — all four recorded propagations began between first light and the opening of the market. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **A resident from one side speaks honestly to a resident on the other — about anything**.
+1. **Tension:** The team reads the board before anything else — the running total of metres closed, posted at the fountain — and notes the date of the last entry. A board that has not moved in nine days is the operational warning this entity gives, and it is the only one.
+2. **Clash:** There is nothing to fight and the team does not try. The work consists of being present at the fountain, which is the one object both sides still claim, and of being visibly useless there — the junction's residents will cross to speak to a warden who is plainly not doing anything, and will not cross to one who is working.
+3. **Resolution:** Somebody says something true across the seam. It does not have to be large and the record is explicit that it usually is not — the largest single contraction on file, a metre and a half, followed a complaint about the price of lamp oil.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Clarity** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: The Unspoken Line’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers The Unspoken Line’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- A worker who fails here does not collapse. They pick a side, usually without noticing, and begin routing their own movements to avoid crossing. Two wardens were identified this way by the duty roster rather than by medical: both had stopped using the shorter route to their own billet.
+- The effect follows the worker home. Personnel posted to the junction for more than a season report new and unexplained reluctances elsewhere in the city — a stairwell they stop using, a colleague they stop greeting — and the Commons office now caps the posting at ninety days for that reason alone.
+- Both extracted pieces take the same thing: the bearer's ability to be on easy terms with a stranger. It is a small loss and it is permanent, and the Commons office requires that it be read aloud to the bearer before issue, in the shop the piece came from.
+- There are no fail-safes to collapse. If nothing is said for long enough the seam simply grows, along the next social division the district already has, and the district supplies those faster than the R.D. can close them.
 
 ## Appearance
 **Primary Form:** An ordinary four-way junction — cobblestones, a dry fountain, shuttered shopfronts. Nothing marks it as anomalous to the eye.
@@ -109,7 +109,7 @@
 - **Entity Type:** Object / Place
 - **Manifestation:** Place-Void
 - **Primary marker:** An ordinary four-way junction — cobblestones, a dry fountain, shuttered shopfronts. Nothing marks it as anomalous to the eye.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Fixed to the junction and expressed as a seam about four metres long, running north-west to south-east across the cobbles between the two faded shop signs. Record its length in metres and its bearing in degrees; both change and neither changes quickly.
 - **Element signature:** Void
 - **Registered location:** A four-way junction in the Mantle Commons, Zone D
 
@@ -120,7 +120,7 @@
 | **Form** | An ordinary four-way junction; the anomaly is behavioral — no one crosses the center seam. |
 | **Position / movement** | Fixed; the entity is the junction itself. Its boundary is the invisible line residents no longer cross. |
 | **Material / signature** | Void elemental presentation; one side faintly gold (hope-touched), the other faintly grey (untouched); a white seam at dusk. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | A thin white seam in the cobbles, a dry fountain, and two shop signs with the names weathered off. Birds will not fly over it — they go round, consistently, and the junction's children use this to show visitors where the line is. |
 | **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
 
 **Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as "strange" or "anomalous."
@@ -144,9 +144,9 @@
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. The Unspoken Line is recorded as a Object / Place with Place-Void manifestation and Void elemental expression. The current record places it at A four-way junction in the Mantle Commons, Zone D; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table is nearly useless here and is kept for completeness. Two of the four Work Types are invalid for a Place and the other two do not touch the mechanism: this entity is made of what people do not say to each other, and no procedure the R.D. owns can say it for them. The honest operational document for the Unspoken Line is the metres-closed board, which is not a work record at all.
 
-**Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** Measure the seam, not the gauge. Length in metres, bearing in degrees, taken from the same two marks on the fountain rim every week; the gauge has never once disagreed with the tape and the tape is four days faster. The second reading is social and is taken by the shelter-matron rather than by the R.D.: how many people crossed the junction on an ordinary Tuesday. That figure has risen from eleven to sixty-three since the register opened.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -159,9 +159,9 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Unspoken Line: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Void form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Void and located at A four-way junction in the Mantle Commons, Zone D, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+Escalation here is propagation along existing seams rather than expansion in metres. When the junction grows it does not widen the original line; it appears at the next place in the Commons where people already have a reason not to speak — the market's two halves, the upper and lower parishes, the day and night shifts at the lift works. Record which seam it took, because the order has been the same twice and may be predictable.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: A resident from one side speaks honestly to a resident on the other — about anything. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** Do not clear the junction. Clearing it was the standing instruction for the first eight months and it is now prohibited — an emptied junction is a junction in which nobody can speak across anything, and the seam grew during every one of those evacuations. The sequence is: protect the fountain, keep the market open, get the board updated, and find anybody on either side with a reason to talk.
 
 ### Detailed Expansion Record
 
@@ -201,11 +201,11 @@ The escalation pattern is specific to The Unspoken Line: it is not a generic bre
 **Ability:** Lets two people who have stopped speaking share one honest sentence without flinching.
 **Cost:** Both speakers feel the full weight of everything they left unsaid.
 
-*Stigmas are granted at random by The Unspoken Line upon a successful work, not manufactured.*
+*Neither piece was granted. Both were cut from a shopfront with the owner's signature on the form, and the Commons register notes that this entity has never offered anything to anyone — which is, after all, the whole of its nature.*
 
 ### M.A.W. Use Notes
 
-The extracted equipment reflects the same unresolved pressure as The Unspoken Line. Each piece should be treated as a conditional extension of the entity, not as ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; forcing the equipment outside that pattern increases the cost and may produce an effect associated with Void. Stigmas are granted at random by the entity upon a successful work, not manufactured.
+The two pieces taken from this junction are both made of shopfront — a shutter slat and a length of the dried-flower counter — and both behave the same way: they put a boundary where the bearer wants one and will not take it away again. The Commons office regards the set as the clearest statement the entity has made about itself, and the Armoury's note agrees: these are not weapons, they are the ability to stop speaking to someone, issued as equipment.
 
 **Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
 
@@ -213,12 +213,12 @@ The extracted equipment reflects the same unresolved pressure as The Unspoken Li
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Which shopfront the piece came from, read aloud to the bearer, in that shop, with the owner or the owner's family present. The Commons insisted on this and the R.D. agreed to it in writing; it has been done at every issue. |
+| **During use** | Where the bearer places the boundary, who is on the far side of it, and whether the bearer can describe why that person is there. The third question has been unanswerable in four of six deployments. |
+| **At limit** | Whether the bearer has begun routing around people rather than places. The shift from a placed boundary to a carried one is the end-point and the piece is recovered when it appears. |
+| **After use** | A conversation with a stranger, observed and timed, at one week. Both current bearers can still hold one and both report that it has become work rather than a thing that simply happens. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The δ grade is about reach, not force. Nothing in this set hits anything; the grade reflects how far a boundary placed by it will hold and how long it persists after the bearer stops thinking about it, which is indefinitely. Read the grade as a measure of permanence.
 
 ## 관찰 기록 (Observation Log)
 
@@ -235,12 +235,12 @@ The extracted equipment reflects the same unresolved pressure as The Unspoken Li
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Unspoken Line as a Object / Place with Place-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at A four-way junction in the Mantle Commons, Zone D. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity's recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In The Unspoken Line's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The observer stands at the fountain and watches the birds. The avoidance is immediate, consistent and visible from outside the junction, and it marks the seam's current bearing more accurately than the cobbles do. |
+| **Sustained observation** | Over a week the observer should be able to say which households have begun crossing and which have not. The Commons register lists forty-one households; eleven have never crossed in either direction since the division, and nine of those eleven are on the grey side. |
+| **Activation or escalation** | The precursor is the board. Nine days without an entry has preceded every extension on record, and no extension has occurred within four days of a logged conversation. Record the date of the last entry at every shift change; it is the cheapest instrument in Zone D. |
+| **Post-contact review** | The review records the conversation: who spoke, from which side, about what, and how many centimetres the seam moved by the next measurement. The register is kept in plain language because the residents read it — it is posted, not filed — and the R.D.'s usual terminology was dropped from it in the second month at their request. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Tape, compass, bird count, and the board. Four readings, none of them requiring an instrument the Commons does not already own, and between them they have tracked this entity for five years better than the gauge has.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -262,7 +262,7 @@ We did not divide the city. Hope did not divide the city. The city divided itsel
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Unspoken Line; the other feeds it.
+> The junction puts its choice to a worker who has been there long enough to be known by name on one side of it. Both options are ordinary and that is the difficulty.
 
 | Cross the seam and speak. | Hold your side. |
 |---|---|
@@ -273,32 +273,32 @@ We did not divide the city. Hope did not divide the city. The city divided itsel
 Nothing looks wrong. The street is quiet the way a held breath is quiet. You only notice, after a minute, that no one has crossed to the other side.
 
 
-**At first contact:** The first identifiable detail is an ordinary junction no one crosses. A faint gold on one side, a faint grey on the other. A thin white seam down the middle. You realize you do not remember the name of the person who used to live across from you.
+**At first contact:** It is a working junction on a Tuesday morning: cobbles, shuttered fronts, a dry fountain, people. Nothing is wrong with it. Then you notice that the two pavements have different light on them, gold against grey, under the same sky — and that in the eleven minutes you have been standing there, nobody has walked from one to the other.
 
 **With continued exposure:** With time the Place-Void becomes less a presence and more a climate — the Void is no longer an event but an environment, something you exist inside rather than encounter.
 
 **When the entity activates:** Activation is the moment the Place-Void stops being managed and starts being itself. The Void spikes, the protocols engage, and the containment zone becomes the entity's territory.
 
-**After departure:** The containment boundary holds the Place-Void, but not the memory. Void residue settles into the bones like Han into the city's foundations.
+**After departure:** You take a route home that is not the shortest one and you have a reason for it that sounds fine when you say it out loud. Wardens off this posting are asked, at ninety days, to walk their own district and mark on a map every street they have stopped using. Nobody has handed in a blank map.
 
 ### Interaction Pattern
 
-The Unspoken Line does not exist in isolation. Its recorded relationships with The Shared Glass · The Unconsoled · The Hand of Hope · The Eternal Warmth should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The four relationships below sort cleanly into one thing that works and three that do not, and the file's purpose in listing them is to stop the Commons office re-trying the three. Warmth, hope and kinship have all been applied to this junction. Only the cup has moved the tape.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Measure the seam before the other entity arrives, at each hour it is present, and a week after it leaves. The week is the important one: two of the four interactions below produce a change that only appears after separation, and one of them reverses.
 
 ### Entity Interaction Record
 
-The Unspoken Line must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+This is the only interaction table in the Zone D registry in which the most effective entry is a drinking vessel and the least effective is a Sovereign-scale Hope manifestation. The Commons office puts it first in the file for that reason.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Shared Glass** | The Glass, placed at the line, lets both sides share a single cup — the most reliable way to force cross-line contact; it contracts the line faster than any other method. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Unconsoled** | The Unconsoled's foundation-grief is one reason the grey side stayed grey; the two are kin — both sorrows hope could not reach. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hand of Hope** | The Hand could not prevent this entity; it was caused by hope's unevenness, not its absence. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Eternal Warmth** | The Warmth makes both sides equally bearable — but does not make them speak. Speaking is the cure, not warmth. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Shared Glass** | Placed on the fountain rim, it can only be drunk from by two people at once. | The single most effective intervention on record: 4.1 of the 11.4 metres closed are attributable to days the Glass was present, and the contraction continues for about a week after it is withdrawn. It does not work twice with the same pair. | Which two drank, from which sides, and the tape reading at one week. |
+| **The Unconsoled** | Kin: both are sorrows the Hand's light passed over. | No measurable effect in either direction, which the file records as a finding rather than a null. Two entities of the same origin, one quarter apart, and the tape did not move a centimetre across six days. Whatever relation they have is genealogical and not operational. | The tape, daily, and nothing else. |
+| **The Hand of Hope** | The cause, not the cure — the division came from hope's unevenness. | The seam lengthened by sixty centimetres during the Hand's presence and did not retract afterward. The Commons office has formally requested that the Hand not be routed through the Mantle again, and the request has been honoured since Year 4,236. | The tape before, during, hourly, and at one month. |
+| **The Eternal Warmth** | Makes both sides equally bearable and neither side talkative. | Tuesday crossings fell from sixty-three to nineteen while the Warmth was present and the tape did not move. The Commons' own explanation, recorded verbatim because nobody at the R.D. improved on it: nobody goes out when the house is comfortable. | Crossing counts, daily, and the tape at one week. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Count crossings on an ordinary Tuesday before and after, and take the tape at one week rather than on the day. The Warmth result would have been scored a success on same-day readings; it was the crossing count that caught it.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -330,7 +330,7 @@ The line shrinks, a hand's-width at a time, every time someone crosses it to say
 **Comprehension Level:** 3 — Elevated
 **Threat Assessment:** Critical passive hazard via Void-erosion of social memory and clarity. No direct violence. The entity widens when division is fed and contracts when contact occurs; left unmanaged it could spread block by block. No Fracture recorded, but prolonged exposure severs community bonds.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan only. Flerehan and Pugnahan are invalid for Place entities.
+- Viderehan and Ferrehan only, and both are secondary. The primary intervention is not a Work Type at all; it is the fountain, the market hours, and the board.
 - Maintain a Ferrehan anchor at the seam; never force contact.
 - Deploy the Shared Glass to enable shared-cup contact — the fastest documented contractor of the line.
 - Track contraction; protect the dry fountain (the shared-memory anchor both sides still recognize).
@@ -340,14 +340,14 @@ The line shrinks, a hand's-width at a time, every time someone crosses it to say
 - Two faded shop signs mark the original friendship (Uri / Park).
 - Contracted ~3 m since first logging; healing rate implies ~century to full closure.
 **Cross-References:** The Hand of Hope · The Shared Glass · The Unconsoled (kin — both untouched by hope) · The Eternal Warmth · the Mantle Commons · the Consolihan
-**Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
+**Faction Involvement:** The Mantle Commons residents' register is the primary record-keeper here and the R.D. is the junior partner, which is unique in the catalogue. Judexhan holds the δ grading and has twice proposed intervention; the Commons has refused twice and the refusals are filed.
 **Originator:** The severed community of the junction — exemplified by Gaeul Uri (가을 우리) and Ongius Park (온기우스 박), friends for forty years before the line.
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity's behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This dossier documents an entity the R.D. cannot work, in a district the R.D. does not administer, by a method the R.D. did not invent. Eleven point four metres have been closed in five years by residents talking to each other, and the facility's contribution has been a tape measure, a protected fountain and a board on a wall. Personnel are asked to read that as the finding it is and not as a shortfall in the file.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-measure the seam and re-count the Tuesday crossings after every Sorrow Tide and after any change to the market's trading hours. The second clause is not decorative: the shortening of the afternoon market in Year 4,237 cost four months of progress and is the largest single reversal in the register.
 ## Trivia
 
 - The only entity healed by small talk and a shared cup of tea.
@@ -358,11 +358,11 @@ The line shrinks, a hand's-width at a time, every time someone crosses it to say
 
 ### Registry Trivia
 
-- **Classification detail:** The Unspoken Line is a Object / Place with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Void, and its registered location is A four-way junction in the Mantle Commons, Zone D.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Classification detail:** Place with Entity (IV) coherence — it keeps a bearing, a length and a propagation order — at Critical (δ) potency, which is contested annually. The grade rests on what it could do to a district rather than on anything it has done to a person.
+- **Field detail:** Void, at a four-way junction in the Mantle Commons, Zone D, currently four metres of seam on a north-west bearing with a dry fountain at its centre and forty-one households around it.
+- **Recognition detail:** The birds, the two unreadable shop signs, and the different light on the two pavements. A visitor will see none of it until the birds are pointed out.
 - **Record detail:** Unknown Sorrow Entity registry, Entry 03 — the first changed-world (social) sorrow catalogued.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** There is no containment and there will not be one. People live inside this entity; the junction is their junction and the fountain is under R.D. protection at their request rather than at the Directorate's. The only measure that has ever reduced it is two residents speaking, and the only thing the facility can contain is its own urge to intervene more forcefully.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-251
