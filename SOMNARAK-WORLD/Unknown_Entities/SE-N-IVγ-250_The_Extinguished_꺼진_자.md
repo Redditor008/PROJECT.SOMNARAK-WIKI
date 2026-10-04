@@ -28,20 +28,20 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Emotional / hope-erosion pressure |
 | **Starting Sorrow Gauge** | 65–80% |
-| **Han-Energy yield** | 12–16 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–16 per cycle, and only from Ferrehan. No other Work Type has produced a yield here, because no other Work Type has produced a completed cycle. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | β · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Ferrehan, held, by a worker carrying no Hope signature of any kind. The entity must be allowed to ask its question and receive no promise in reply. Flerehan reads to it as a second Bearer offering to take the weight and has escalated every time it has been attempted. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Extinguished.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The gauge has been brought from 78% to 61% and no lower, five times, by five different workers, all using the same method and none able to repeat their own best figure twice.
+- The trigger is never the worker's failure. It is the worker's reassurance: every escalation on file followed a sentence containing a promise about the future, and the entity's reply in each case was the same frost-word.
+- Personnel selection here inverts the usual rule. The Dawn Initiative's most capable Hope-carriers are the worst candidates and are barred from the shelter entirely; the roster is drawn from Zone D wardens with no Initiative service and no Hope rating.
+- Two extractions have been attempted and one completed. The failed attempt is in the file because of what it cost: the wielder was an Initiative veteran, the entity recognised the signature mid-extraction, and the piece was abandoned in the shelter where it remains.
 
 ## Combat Record
 ### Core Stat Line
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.8 m/s |
-| **Resistance** | 40% against Grudge pressure; 25% against other pressure types |
+| **Resistance** | 40% against Grudge. Against anything carrying a Hope signature it resists nothing at all and closes the distance instead — the only entity in the Zone D ledger whose resistance profile is better read as a preference. |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
 | **Sorrow Gauge [HP]** | 683/683 |
 | **Han Pressure [ATK]** | 18–41 per hit · Grudge |
@@ -80,21 +80,21 @@
 | { *The Last Light* [**Debuff**] } | "Every light dims — and then goes out — and the dark that follows is not empty. It is full of what was put out." | [The Extinguished's darkness presses on the target; they feel the weight of ended things.] | *Target suffers -10 Resilience; the dark is heavy with extinguished lives.* **[10 Grudge DMG [Grudge]]** | When the target enters the dark. |
 | { *The Absolute Black* [**Debuff**] } | "The darkness is total — and in total darkness, you cannot tell if your eyes are open or closed." | [The Extinguished's void-like dark removes all reference; the target is disoriented.] | *Target loses 10 Resilience; they are blind in every sense.* **[10 Grudge DMG [Grudge]]** | When the target remains in the dark. |
 | { *The Cold Ash* [**Attack**] } | "Ash from the extinguished — cold, grey, final — blows across you." | [A blast of cold ash from what was put out.] | *Inflicts Grudge pressure and one wound of ended fire.* **[14-22 Grudge DMG [Grudge]]** | When the dark is disturbed. |
-| { *The Full Extinction* [**Attack**] } | "Everything the entity ever extinguished — every light, every warmth, every hope — released as a wave of absolute, crushing dark." | [The Extinguished's total release is a wave of universal ending.] | *A heavy Crimson extinction-wave; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the dark is challenged. |
-| { *The Eternal Night* [**Ultimate**] } | "Every light in the field goes out — permanently — and the combined dark is an ending for everyone." | [The Extinguished extends its darkness across the whole area.] | *All in range suffer Grudge pressure for three turns of eternal night.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Extinction* [**Attack**] } | "The gold at its edges goes out one section at a time, the way the shelter's lamps were shut down, and it is counting." | [The three years are spent at once — everything the Bearer held is handed back to whoever is nearest.] | *24–36 Grudge and a 15% Gauge surge; a target carrying any Hope signature takes the full amount twice and loses the signature.* **[24-36 Grudge DMG [Grudge]]** | When a light is lit in the shelter. Any light. The lamp test is forbidden for this reason. |
+| { *The Eternal Night* [**Ultimate**] } | "It walks the old round — the shelter, the well, the four streets it used to warm — and asks the question at every door." | [The Bearer's nightly circuit is resumed, in order, at the correct hour.] | *12–20 Grudge per cycle for three cycles to anyone on the route; anyone who answers the question is followed home.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | At the hour the Bearer's round used to begin, whenever the gauge is above 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject-body manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows its recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Sustained Ferrehan — a light that does not flinch and does not promise forever**.
+1. **Tension:** The worker is screened for Hope signature at the shelter door and again at the threshold of the inner room, because the first screening has twice missed a Stigma carried in a coat. Nothing is lit. The approach is made in the dark the district has had since the Bearer died.
+2. **Clash:** The entity asks its one word and the worker's task is to stay, say nothing that sounds like a promise, and not leave before the hour is out. Wardens outside the door hold the extraction order and are instructed to use it the moment a worker begins a sentence with *it will be*.
+3. **Resolution:** The hour ends and the worker leaves while the entity is still asking. There is no closing state and no acknowledgement; the Zone D office counts a cycle successful if the worker walked out unaccompanied and the frost on the door frame is thinner than it was the week before.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resolve** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks The Extinguished’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, the entity defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- A worker who breaks here makes a promise. All three recorded cases said some version of the same thing — that they would come back, that it would be better — and all three did come back, repeatedly, off roster, until they were stopped.
+- The hazard of a long cycle is not collapse but recruitment. The entity does not harm a worker who stays; it begins to treat them as the replacement, and the frost-word changes from a question to a greeting. Two workers reached that stage and both were permanently barred from Zone D.
+- The single completed extraction cost its wielder the capacity to be encouraged. She reports that praise, reassurance and good news register as information and nothing else, and she has twice declined the Initiative's offer of a reversal attempt on the grounds that there is nothing to reverse.
+- An unresolved cycle sends it out on the round. It does not attack the district — it knocks, asks, and moves on — and the Zone D office regards that as worse, because the district has begun answering.
 
 ## Appearance
 **Primary Form:** A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, edges still faintly gold, core gone cold and crimson.
@@ -109,7 +109,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, edges still faintly gold, core gone cold and crimson.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Walking, upright, at a tired pace, on a fixed round of the shelter and four streets. Record whether it is on the round or in the inner room; the round is the escalated state.
 - **Element signature:** Grudge
 - **Registered location:** A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit
 
@@ -120,8 +120,8 @@
 | **Form** | A humanoid figure, gold at the extremities (what it was), crimson-black at the heart (what losing it made it). |
 | **Position / movement** | Drifts its old district; accelerates toward any Hope light within range. |
 | **Material / signature** | Grudge elemental presentation; Han-crystal shifting gold-to-crimson; frost follows where it walks. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Distinctive markers** | Gold at the edges, crimson and cold at the core, frost where it has stood, and the smell of char in a building that has not burned. It leaves a visible outline on any wall it leans against for more than a minute. |
+| **Identification** | It is the only Grudge entity in the registry that will not approach a hopeless person. If it ignores the team entirely, the team is correctly composed. |
 
 **Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as "strange" or "anomalous."
 
@@ -144,9 +144,9 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. The Extinguished is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table's governing fact is that this entity's responses are keyed to the worker rather than to the method. The same Ferrehan cycle, performed identically, produces a seventeen-point fall for a Zone D warden and an escalation for an Initiative carrier, and the file has four paired sessions demonstrating it. Read the roster before reading the gauge.
 
-**Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Listen to the word. *Again?* asked once an hour is a settled entity; asked at the door, repeatedly, while the worker is still arriving, it is already escalating and the cycle should not begin. The frost is the second instrument: measure its depth on the inner door frame at the start and end of every cycle, because it thins across a good month and thickens across a bad one, and it has never once disagreed with the gauge trend over four weeks.
 ## Breach Behavior
 
 > *"Extinguished has broken free. Hunts personnel indiscriminately."*
@@ -157,14 +157,14 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | The Extinguished shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever in the room carries a Hope signature, regardless of distance, and nobody at all if no one does. In the one breach on file it crossed two occupied rooms without acknowledging anyone in them. |
+| **Escalation** | It does not intensify; it extends the round. Each hour free adds a street, always an adjacent one, always one the Bearer used to walk, and the entity keeps the correct order even when the streets no longer connect. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Breach type:** Escape, on foot, through a door it opens normally. The shelter is decommissioned and unsealed; what holds it there is the absence of anything worth leaving for, and that is the whole of the containment.
 - **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Leaves at about 65% and climbs roughly four points per street added. The single breach on record peaked at 81% at the fourth street and fell on its own when the entity reached the end of the Bearer's old round and turned back.
 
 ## M.A.W. Equipment
 
@@ -191,11 +191,11 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Ability:** Marks the bearer's fear of burnout visibly, so it can be addressed rather than hidden.
 **Cost:** The bearer hears 'again?' whispered whenever they reach for hope, until the fear is spoken aloud.
 
-*Stigmas are granted at random by The Extinguished upon a successful work, not manufactured.*
+*No Stigma has ever been offered by this entity. The Armoury lists the slot as vacant and the Zone D office does not expect it to be filled: a Stigma is a gift at the end of a cycle, and nothing here has ever been given.*
 
 ### M.A.W. Use Notes
 
-The extracted equipment reflects the same unresolved pressure as The Extinguished. Each piece should be treated as a conditional extension of the entity, not as ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; forcing the equipment outside that pattern increases the cost and may produce an effect associated with Grudge. Stigmas are granted at random by the entity upon a successful work, not manufactured.
+One piece exists. It was taken from a figure that had been a Hope Bearer, and the Armoury's note is that it behaves less like equipment than like a resignation: it protects its bearer from every form of encouragement, including the useful kind. The second extraction attempt failed mid-process and that piece is still in the shelter, on the floor of the inner room, where it is logged, photographed annually, and left alone.
 
 **Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
 
@@ -203,12 +203,12 @@ The extracted equipment reflects the same unresolved pressure as The Extinguishe
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | The bearer's Hope rating, in writing, and the date of their last Initiative deployment. A bearer with any current rating is refused; the piece and the entity read the same signature. |
+| **During use** | Whether the gold at the piece's edge is advancing or receding, the frost line on the bearer's sleeve, and any occasion on which the bearer says the frost-word themselves. |
+| **At limit** | Whether the bearer can still be encouraged. The test is a direct one and is administered by someone they trust: good news is delivered and the response is timed. Beyond four seconds of flat acknowledgement the deployment ends. |
+| **After use** | The encouragement test again at one week and one month. The sole bearer failed both and has remained in service by her own request; the Initiative's dependency doctrine cites her file by number in its opening paragraph. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The γ grade is a measure of how much of a three-year Bearer's output is still in the object, which is most of it. Nothing in the rating speaks to the exchange, and the Zone D office has asked for an additional field on the Armoury form — what the piece takes that cannot be given back — three times without success.
 
 ## 관찰 기록 (Observation Log)
 
@@ -225,12 +225,12 @@ The extracted equipment reflects the same unresolved pressure as The Extinguishe
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Extinguished as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity's recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Extinguished's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The observer logs the frost depth at the shelter door and whether the entity is in the inner room or on the round. Both are visible from the street and neither requires entry; most of this file was built from the street. |
+| **Sustained observation** | Across a month the observer should be able to say whether the round is lengthening. It has gained one street in nineteen months and lost it again twice, and that oscillation is the closest thing the Zone D office has to a trend line. |
+| **Activation or escalation** | The precursor is the gold. The edges brighten before a round and dim before a settled night, visibly and from a distance, and the brightening has preceded every escalation on file by between ten and forty minutes. |
+| **Post-contact review** | The review records what the worker said, in full, and whether any of it was a promise. The district's own account must also be taken: the shelter-matron Saetris Nunvia keeps a parallel register of who in the four streets answered a knock that week, and the two records are read together. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Watch the gold, measure the frost, count the streets. Three instruments, all of them visible from outside the building, and between them they have predicted every escalation this file records.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -257,7 +257,7 @@ The stationed Bearer's name has been sealed. Not to protect her. To protect the 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Extinguished; the other feeds it.
+> The choice arrives with the frost-word, and the worker has to answer it or decline to. There is no third option; silence is read as a reply and the file treats it as one.
 
 | Hold steady — promise nothing forever. | Promise it will be alright. |
 |---|---|
@@ -268,32 +268,32 @@ The stationed Bearer's name has been sealed. Not to protect her. To protect the 
 A smell like a just-extinguished candle — warm wax and cold smoke at once. The temperature drops, but it is the cold of something that used to be hot.
 
 
-**At first contact:** The first identifiable detail is a flickering gold-to-crimson figure trailing frost. You remember a time you were happy, then the moment it ended — and the memory is so clear it hurts more than the original loss.
+**At first contact:** The shelter is colder inside than the street and the cold is dry. The figure is standing where the duty desk used to be, half gold and half gone out, and it says *again?* in a voice that is genuinely asking. The hardest part of a first contact, every worker reports, is that it is polite.
 
-**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Grudge presses hardest, where it recedes, where the Subject-Body lets you breathe.
+**With continued exposure:** You begin assembling the reassurance. Everyone does; the file says so to make clear that the impulse is not a weakness of the worker. The work is to hold the hour without ever answering the question, and the only people who manage it reliably are the ones who have nothing to offer in the first place.
 
 **When the entity activates:** The shift happens between one breath and the next. The Subject-Body crosses from presence to action, and the Grudge goes from weather to weapon.
 
-**After departure:** After contact, the body holds what the mind files away. The Grudge is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The char smell comes out of clothing; the question does not. Zone D wardens off this roster describe catching themselves about to say *again?* in ordinary conversation, usually within the first fortnight, usually when somebody offers them something.
 
 ### Interaction Pattern
 
-The Extinguished does not exist in isolation. Its recorded relationships with The Gentle Flame · The Burning Hope · The Hand of Hope · The Unconsoled should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Every recorded relationship this entity has is with a Hope signature, and that is not a selection effect in the file — it is the entity's entire social surface. It has been co-located with Grudge, Weight and Lament entities on six occasions and acknowledged none of them. The interaction log is therefore a log of what it does to the city's lights.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Measure the other party's output before, during and after, because this entity's own readings barely move and the other party's collapse. Record the distance at which the Hope signature begins to dim — it has been between eleven and fourteen metres in every case — and whether the signature recovered after separation.
 
 ### Entity Interaction Record
 
-The Extinguished must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+These four entries are the reason the Dawn Initiative's dependency doctrine exists, and the doctrine quotes three of them. Read them as a record of what happens to a Hope asset that comes within fourteen metres of this entity, not as a neighbourliness chart.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Gentle Flame** | The Flame did not flinch; the Extinguished withdrew. The Flame is the only Hope signature it has passed without escalating. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Burning Hope** | Dangerous pairing — the Burning Hope's determination reads as 'will burn out' to the entity; high escalation risk. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hand of Hope** | The Hand's field calms it temporarily but cannot restore what it lost — the Hand cannot re-light a hope spent by dependency. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Unconsoled** | The two do not interact — the Unconsoled never had hope; the Extinguished had it and lost it. They are the two faces of hope's limits. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Gentle Flame** | The Flame did not flinch; the Extinguished withdrew. | The only Hope signature it has ever passed. The Flame's output did not dim at any distance, the Extinguished stopped at about four metres, asked the question once, received nothing, and walked back to the shelter. Zone D has requested the Flame on standing assignment twice and been refused twice. | The Flame's output through the approach, and the distance at which the entity stopped. |
+| **The Burning Hope** | Reads to the entity as a Bearer who has not finished burning out yet. | The worst recorded pairing. The Burning Hope's output fell by more than half inside fourteen metres and had not fully recovered four days later; the Extinguished's own gauge rose nine points and stayed up for a week. Standing order: the two are never routed through the same district. | Both outputs at one-metre intervals, and the recovery curve afterward. |
+| **The Hand of Hope** | The field calms it and restores nothing. | Gauge falls to the low fifties while the Hand's field is present — the lowest figure in the file — and returns to its usual band within two hours of withdrawal, every time, across three trials. The gold at its edges does not brighten. Whatever the Hand does here, it is sedation and the file says so. | The gauge floor reached, and the time to return. |
+| **The Unconsoled** | Never had hope; this one had it and lost it. | No contact and no interest in either direction, confirmed once at eight metres in Year 4,236. Neither gauge moved, neither entity turned. The entry is kept because the pairing is the Archive's standard illustration of the difference between sorrow that was never lifted and sorrow that was lifted and dropped. | Nothing to record; maintained as a standing note. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Approach in one-metre increments with the Hope asset's output logged continuously, and stop at the first measurable dip. Every usable figure in this section came from an approach that was halted early; the two that were not halted early produced the Burning Hope result.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -341,9 +341,9 @@ The Dawn Initiative learned, from the Extinguished, the rule it now carries ever
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity's behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is read by the Dawn Initiative as doctrine rather than as a dossier, and the Zone D office is uneasy about that. The entity is a dead colleague, a sealed name, and an argument the Initiative uses about staffing policy, and those three things are not the same document. Personnel are asked to work the entity in front of them and leave the doctrine to the Initiative.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-walk the round after every Initiative deployment anywhere in Zone D, not after every incident here. The round has only ever lengthened in the weeks following a new Hope posting in the district, which is a correlation the Initiative has acknowledged in writing and not yet acted on.
 ## Trivia
 
 - The only sorrow that attacks hope and ignores the hopeless.
@@ -354,11 +354,11 @@ The Dawn Initiative learned, from the Extinguished, the rule it now carries ever
 
 ### Registry Trivia
 
-- **Classification detail:** The Extinguished is a Subject with Entity (IV) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Classification detail:** Entity (IV) coherence — it retains a schedule, a route and a question across years — with Major (γ) potency. The coherence grade is the contested one: it keeps a dead woman's working week, which is more structure than the tier usually implies.
+- **Field detail:** Grudge, in a decommissioned Dawn shelter in outer Zone D, on a round of four streets that were the Bearer's and are still lit worse than the rest of the district because nobody will replace the lamps.
+- **Recognition detail:** Gold edges, cold crimson core, frost on the door frame, char in a building that never burned — and the single word, which nothing else in the registry says.
 - **Record detail:** Unknown Sorrow Entity registry, Entry 04 — the first lost-hope sorrow catalogued.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** There is no seal, no cell and no door that is kept shut. The shelter is open, the entity could leave tonight, and the thing that keeps it there is that the round ends where it starts. Zone D has twice proposed a physical containment and withdrawn the proposal both times on the same reasoning: a wall would give it a reason to be somewhere else.
 ## Document Information
 
 **Document ID:** SE-N-IVγ-250
