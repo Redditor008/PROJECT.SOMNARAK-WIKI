@@ -72,7 +72,7 @@
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-O-920 |
-| **Resolution Condition** | The hour ends, the list is checked against the register, and any new story is entered with the date and whoever recognised it. Nine entries have no recogniser and are marked so.
+| **Resolution Condition** | The hour ends, the list is checked against the register, and any new story is entered with the date and whoever recognised it. Nine entries have no recogniser and are marked so. |
 
 ### Combat Actions
 
@@ -151,8 +151,8 @@ The table lists two Work Types and the useful figure is not in it: the gauge fal
 | **Breach Type** | Expansion |
 | **Movement** | The entity's tale influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Lament pressure radiates — the tale register makes it personal, targeted, unavoidable. |
-| **First Target** | Whoever is listening. Characters approach people who stop to hear them and ignore people who keep walking, which is the only behaviour in the file that resembles a choice.
-| **Escalation** | +5 Lament drain per cycle while a worker is inside the radius, rising with the minute rather than with anything the worker does. Past the fiftieth minute the risk changes in kind, not degree.
+| **First Target** | Whoever is listening. Characters approach people who stop to hear them and ignore people who keep walking, which is the only behaviour in the file that resembles a choice. |
+| **Escalation** | +5 Lament drain per cycle while a worker is inside the radius, rising with the minute rather than with anything the worker does. Past the fiftieth minute the risk changes in kind, not degree. |
 
 ### Escalation Notes
 
@@ -203,9 +203,9 @@ All three pieces came out of the hour and all three keep its property: they are 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, the register entry the piece came from, and a recorded sample of the wielder describing their morning in their own words. The sample is the baseline for the pronoun check. |
-| **During use** | Every sentence in which the wielder refers to themselves by name or in the third person, with the time. One is noted; three ends the use.
-| **At limit** | The wielder narrates an action before taking it. Both over-runs reached this and in both the narration and the action matched.
-| **After use** | Repeat the morning sample and compare the grammar against the baseline. The effect fades over about a week and the Armoury's note is that the wielders do not find it unpleasant, which is why the check is not left to them.
+| **During use** | Every sentence in which the wielder refers to themselves by name or in the third person, with the time. One is noted; three ends the use. |
+| **At limit** | The wielder narrates an action before taking it. Both over-runs reached this and in both the narration and the action matched. |
+| **After use** | Repeat the morning sample and compare the grammar against the baseline. The effect fades over about a week and the Armoury's note is that the wielders do not find it unpleasant, which is why the check is not left to them. |
 
 ## 관찰 기록 (Observation Log)
 
