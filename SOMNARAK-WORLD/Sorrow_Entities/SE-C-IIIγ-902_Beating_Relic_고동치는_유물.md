@@ -35,15 +35,15 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Viderehan and Ferrehan only; the entity is an Object and the other two Work Types are unavailable to it. Handling is a separate authorisation from working, is timed from the moment of bare contact, and is never extended on the handler's own assessment. |
 
 ### Operational Notes
 
-- The Relic keeps a rhythm that does not match any pulse taken from personnel in the room.
-- A successful cycle slows the beat. It has never stopped it, and the rhythm resumes at its own tempo.
-- Three ignored conditions escalate it. The body register is the channel of contact, so the first symptom is physical rather than emotional.
-- Personnel who report their own pulse matching the Relic are withdrawn immediately and not returned to the rotation that shift.
-- Extraction is a separate risk event with its own authorization.
+- It keeps a rhythm of its own that has never matched a pulse taken from anybody in the room, including the pulse of whoever is holding it at the time.
+- A completed cycle slows the beat by a measurable margin. It has never stopped it, and the tempo returns to its own baseline within the hour.
+- Three ignored conditions escalate it, and contact is through the body register, so the first sign is physical: rate, grip, breath. Nobody has ever reported the emotional change before the physical one.
+- Any handler whose own pulse is observed to match the relic is withdrawn at once, is not returned to the rotation that shift, and is checked again at seven days. The check is not discretionary and the reason for it is in the escalation section.
+- Extraction is a separate risk event under its own authorisation and is never scheduled on the same day as a handling.
 
 ## Combat Record
 ### Core Stat Line
@@ -88,23 +88,23 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Beating Relic's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+2. **Clash:** Four turns from the plinth, observation and endurance only. Handler rate is read aloud by the second Warden at each turn, and the relic's own tempo is counted separately and by somebody who is not holding it.
+3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the grievance acknowledged in a form that can be put in front of it. Nothing else has ever lowered the tempo for longer than a cycle.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented grudge effect — body pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- A handler who cannot hold does not panic. They become certain — about a specific unfairness, named, usually accurate, and they will not be moved off it for hours.
+- Long contact produces the characteristic injury of this holding: a tachycardia that resolves and an anger that does not, directed at a real grievance of the handler's own that they had previously described as settled.
+- The Relic equipment lends the bearer Goru's certainty and charges them the ability to let anything go. The cost is listed in the equipment section and is paid in full every time.
 
 ## Appearance
 
 **Primary Form:** A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried Grudge Han-crystal. It beats like a heart when held — faster when held by someone who is angry.
 
 **Notable Features:**
-- Expresses Grudge pressure in a body register.
-- The object form is unmistakable — this is a body entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Expresses Grudge in the body register: rate, heat, grip pressure. It is felt in the chest and the forearm before it is understood.
+- A fist-sized clenched hand in stone, veined with dried Grudge crystal, warmer than the room and warmer than the hand holding it.
+- Confirm the markers and the designation C-IIIγ-902 `[GO]` before any contact; the wing holds two other carved hands and neither of them beats.
 
 **Identification Profile**
 - **Entity Type:** Object
@@ -119,10 +119,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A fist-sized stone carved in the shape of a clenched hand, threaded with veins of dried Grudge Han-crystal. It beats like a heart when held — faster when held by someone who is angry. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Object-Body manifestation is the primary identifying feature. Grudge pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | Inert on its plinth and incapable of moving itself. It is carried by people, which is the only way it has ever travelled, and the header's Stationary classification is correct in the only sense that matters: nothing it does moves it. |
+| **Material / signature** | Grudge. Carved stone threaded with dried crystal veins that brighten to crimson on contact; warm at rest, hot in the hand, with a beat transmitted into the plinth and the floor. |
+| **Distinctive markers** | The independent beat, audible through the plinth before contact; the warmth exceeding the room; the brightening veins; and the rate rising with the handler's anger rather than with their exertion. |
+| **Identification** | Confirm before contact: designation C-IIIγ-902 `[GO]`, I-Relic (Indumentum) tool class, Fragment (III) coherence, Major (γ) potency, Object-Body manifestation, Grudge element, SECTOR-C-902. A warm carved hand that does not beat is not this entity. |
 
 ## Origin
 
@@ -134,12 +134,12 @@ Beating Relic was forged in the aftermath of the Battle Pits riots. A Warden nam
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the body pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the grudge pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Permits study; under sustained observation the beat becomes legible as a grievance with a subject, a date and an amount. | Decrease |
+| **Ferrehan** (Endurance) | Recognises patience; the tempo settles while somebody stays in the room without reaching for it. | Decrease |
 
 ### Operational Work Notes
 
-The Grudge pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Object-Body manifestation means the body register is the primary channel of contact.
+Beating Relic is a Fragment (III) Object of Major (γ) potency, Object-Body manifestation, Grudge expression, I-Relic tool class, at SECTOR-C-902. Flerehan and Pugnahan are unavailable to an Object. The Grudge pressure and the gauge decrease under Viderehan and Ferrehan are equally real, and the body register is the whole channel: measure the handler before you interpret the entity.
 
 ## Activation Behavior
 
@@ -147,13 +147,13 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
 
-**Activation Trigger:** The relic is gripped in an operator's bare hand.
+**Activation Trigger:** Bare-handed grip. Gloved contact does nothing and has been tested to the satisfaction of two review boards.
 
-**Effect:** Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition.
+**Effect:** The relic takes the bearer's pulse and the bearer's resentment together, granting +20% melee kinetic force and Grudge resistance while steadily accelerating the heart and moving Goru's fury into the bearer's own reasoning, where it arrives as conviction rather than as rage.
 
-**Duration:** While held in hand, until released onto its containment plinth.
+**Duration:** While held in the bare hand, until released onto the containment plinth.
 
-**Risk:** Gripping the relic beyond 60 seconds induces acute tachycardia, hyper-aggression, and emotional hemorrhaging as the bearer's pulse locks into the relic's violent rhythm.
+**Risk:** Past sixty seconds, acute tachycardia, hyper-aggression and emotional haemorrhage as the bearer's pulse locks to the relic's tempo rather than the reverse.
 
 ### Tool Use Profile — I-Relic
 
@@ -161,28 +161,28 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The relic is gripped in an operator's bare hand. |
-| **Primary Effect** | Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition. |
-| **Duration** | While held in hand, until released onto its containment plinth. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
-| **Risk** | Gripping the relic beyond 60 seconds induces acute tachycardia, hyper-aggression, and emotional hemorrhaging as the bearer's pulse locks into the relic's violent rhythm. |
+| **Activation** | Bare-handed grip; gloved contact produces nothing. |
+| **Primary Effect** | Pulse and resentment synchronised: +20% melee kinetic force and Grudge resistance, with continuous heart acceleration and transfer of the originating fury into the bearer's reasoning. |
+| **Duration** | While held bare-handed, until released onto the plinth. |
+| **Termination / Return** | The bearer releases onto the plinth under the detachment protocol, hand opened slowly. Premature return or wear past the threshold extracts severe Grudge trauma, and the forced detachments on file produced the longest recoveries in the wing. |
+| **Risk** | Acute tachycardia, hyper-aggression and emotional haemorrhage past sixty seconds, with the bearer's pulse locking to the relic's tempo. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** It functions only in a bare hand and cannot be mounted, rigged, or left gripping anything. It does not substitute for a scheduled cycle, and containment remains Viderehan and Ferrehan whatever a handler is carrying.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Beating Relic rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Beating Relic activates its primary resonance: Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the accumulated grief of unacknowledged grudge; the bearer begins perceiving echoes of a crisis in the city where grudge went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Beating Relic begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Beating Relic too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Gripping the relic beyond 60 seconds induces acute tachycardia, hyper-aggression, and emotional hemorrhaging as the bearer's pulse locks into the relic's violent rhythm. |
+| 10 Seconds | The stone warms past the room and the veins brighten; the beat the plinth was transmitting is now in the palm. | The relic is live: +20% melee kinetic force, Grudge resistance, and +10% resistance to Grudge damage while held. |
+| 30 Seconds | The bearer begins receiving the Battle Pits as a sequence of entirely reasonable positions, each one leading to the next, ending where it ended. | Combat benefit holds; mental burden accrues. Action speed and physical focus rise while composure falls. |
+| 1 Minute | The bearer's breathing takes the relic's tempo, which is faster than theirs and does not vary. | Past sixty seconds the relic inflicts 5 Grudge damage every fifteen seconds. Watch for cognitive detachment, which presents here as the bearer stopping mid-argument and starting again from the beginning. |
+| 2 Minutes | Held this long, the bearer stops distinguishing Goru's grievance from their own and will argue both as one case. | Past two minutes, or on forced detachment, acute panic follows with the full recorded tachycardia and haemorrhage effect. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Beating Relic: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Body form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at SECTOR-C-902, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is transfer. The relic does not leave the plinth, has never left the plinth, and cannot. What leaves is the tempo, in a handler whose pulse keeps it after release — four cases, all four resolved, the longest at nine days — and a handler walking out of the bay with the rhythm is the entire breach behaviour of this entity. Record the handler's rate at release, at the hour, and at the seven-day check.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Confirm the relic is on the plinth, which it will be, then treat the handler: rate, breath, grip, and the content of whatever they are certain about. Clear the bay of anyone else who has handled it this month, and apply the recorded condition. No unlisted Work Type has ever been improvised here and none is available.
 
 ### Detailed Activation Record
 
@@ -192,10 +192,10 @@ The escalation pattern is specific to Beating Relic: it is not a generic breach 
 | **Manifestation** | Object-Body |
 | **Primary effect** | Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition. |
 | **Duration / rate** | While held in hand, until released onto its containment plinth. |
-| **Risk** | Major (γ) Object-Body producing Grudge pressure; Gripping the relic beyond 60 seconds induces acute tachycardia, hyper-aggression, and emotional hemorrhaging as the bearer's pulse locks into the relic's violent rhythm. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Risk** | Major (γ) Object-Body producing Grudge pressure; tachycardia, hyper-aggression and emotional haemorrhage in the bearer, and retention of the tempo after release. |
+| **Management** | Viderehan and Ferrehan only, certified handling protocol with a second Warden counting, handler rate logged by name, and the acknowledgement condition applied at the plinth. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** bare contact → relic tempo counted by the non-handler → handler rate → veins and warmth → personnel effect → release and rate at release → seven-day check. Objects are worked with Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
@@ -227,35 +227,35 @@ The escalation pattern is specific to Beating Relic: it is not a generic breach 
 **Appearance:** a coin-token of Grudge Han-iron, dark and faintly warm, warm to the touch.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect:** +1 stat bonus when working the source entity; the token is warm at all times and does not beat.
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
-*Stigmas are granted at random by Beating Relic upon a successful work, not manufactured.*
+*The Token is not manufactured and cannot be requisitioned. It has been conferred three times, in each case on a Warden who released the relic at the protocol time while in the middle of making a point.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Beating Relic, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each Relic piece is an extension of this entity rather than ordinary equipment. The grade describes its effect on entities; the cost is separate and is the same in all three cases — the bearer keeps the certainty after the piece is returned, and certainty here is not a virtue but a symptom.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective, resting pulse taken twice, and declaration of any live grievance of the operator's own. |
+| **During use** | Contact time, relic tempo counted by the second Warden, handler rate at each turn, vein brightness, warmth, first cost paid. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the handler's rate has converged on the relic's. |
+| **After use** | Release to plinth under protocol, injuries, lingering effects, rate at release and at the hour, cooldown, reuse authorisation, seven-day check booked. |
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Grudge signature confirmed at SECTOR-C-902.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The body register is the dominant channel of contact.
+- Grudge signature confirmed at SECTOR-C-902; tempo logged continuously since the holding opened, with no interruption longer than a shift.
+- Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being an Object.
+- Contact is through the body register and through nothing else: the rate, the heat, and the hand.
 
 **Personnel Note:**
 
-> *"The body pressure is different from standard grudge. It does not press on the body — it presses on the body itself. You feel it before you understand what is happening."* — Specialist, Field Team 1
+> *"It is not pressure on the body. It is pressure in it, on your own side of your own skin, and it arrives with an argument already half made. I put it down at fifty seconds and I was still arguing at the lift."* — Specialist, Field Team 1
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -282,13 +282,13 @@ Each M.A.W. piece is a conditional extension of Beating Relic, not ordinary equi
 
 The stone is warm — warmer than it should be, warmer than the air around it, warmer than your hand that holds it. The beating starts before you make contact: a vibration in the table, in the floor, in the room itself, as if the Relic has been waiting. When you touch it, the warmth becomes heat, and the heat becomes intention — the stone knows you are there. The crimson veins brighten. Your pulse synchronizes. And then the anger comes: not your own, but Goru's — forty years of fury, compressed to amber, beating against your palm like a second heart that refuses to die.
 
-**At first contact:** The body signature is unmistakable — this is not a general grudge entity but one whose sorrow has taken the specific shape of body.
+**At first contact:** Warmth before the hand reaches it, and the beat coming up through the plinth into the table and the floor, which personnel notice in the soles of their feet before they notice it anywhere else.
 
-**With continued exposure:** The grudge pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The tempo stops being a measurement and becomes a case: dates, figures, a district, a sum. The relic is not changing. The handler is being briefed.
 
-**When the entity activates:** The grudge becomes a force rather than a feeling. The object was holding; now it releases.
+**When the entity activates:** The veins go crimson and the rate climbs, and the handler's rate climbs to meet it rather than the other way round. Nothing in the room moves.
 
-**After departure:** The grudge does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** The pulse settles within the hour. The certainty does not, and personnel describe the days afterwards as a period in which they were unusually and uncomfortably right about everything.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -320,20 +320,20 @@ The Relic does not speak. It does not move. It beats. And when someone angry hol
 
 **Comprehension Level:** 3 — Advanced
 
-**Threat Assessment:** Major. A Object-Body entity — the body register is its defining characteristic. Risk: prolonged exposure to the body pressure may produce effects not seen in standard grudge entities.
+**Threat Assessment:** Major (γ). It cannot move, cannot be heard beyond its own plinth, and has never injured anybody who observed the sixty-second rule. It transfers a sustained tachycardia and an unresolvable conviction into whoever grips it bare-handed, it retains that transfer after release in a measurable minority of handlings, and the grievance it carries is, on the facility's own figures, correct.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the body register specifically — it is the primary channel of contact.
+- Viderehan and Ferrehan are the valid Work Types and both lower the gauge; Viderehan is preferred because it produces the legible content.
+- Flerehan and Pugnahan are unavailable to an Object and are not to be attempted as improvisation.
+- Monitor the body register specifically: handler rate against relic tempo, counted by two people, at every turn and at release.
 
-**Cross-References:** City Sorrow (도한) · Grudge · Object-Body · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Grudge · Object-Body · the Battle Pits riots · the allocation page · the Ward Six successor inquiry
 
 ### Registry Addendum
 
-**Operational interpretation:** The Object-Body classification is valid and necessary. The body descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** This file is read whole or not at all: the body register, the handler log, the allocation figures and the use the facility makes of them are one picture. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and body pressure readings after every breach or unusual interaction.
+**Review requirement:** Re-verify after any retained-tempo case, Tide, Ordeal or unusual interaction: gauge, relic tempo series, handler rates by name, plinth transmission, the condition of the allocation page, and the standing of the disclosure refusal recorded in the Warden Record.
 
 ## Warden Record
 
@@ -353,11 +353,53 @@ His certainty that the district had been given less than it was due is borne out
 
 The riots in whose aftermath the relic formed are documented from several incompatible accounts, and all of them are held. The facility's own account is not treated as authoritative and sits in sequence with the others rather than at the front. The ordering was the archivist's decision and is explained in a line at the top of the section, which states that the Directorate was a party to the events and that its version is evidence rather than adjudication.
 
+### The Allocation Page
+
+The page in the containment file carries no heading beyond the years it covers. It is the municipal allocation record for Goru's district, Ward Six, set against the four comparable wards, over the forty years ending with the Battle Pits.
+
+The figures are not the facility's. They were published at the time, ward by ward, and the page is a consolidation of them: per-head allocation for sanitation, water, lighting, the stair levy, the fire watch, and the burial fund. Ward Six is last in every column in every year. In twenty-nine of the forty years it is last by more than a third. The burial fund column is the one Wardens remark on, because Ward Six is the only ward in the table that at no point in forty years received the full statutory rate, and because it is the column Goru's own disciplinary file shows him raising, in writing, four times.
+
+The consolidated arithmetic is set out below the table in a hand that is not the archivist's. The cumulative shortfall against the mean of the comparable wards, over the forty years, at the rates then current, is a specific sum. It is written out in full, in words as well as figures, and it has not been adjusted for anything since.
+
+**The relic responds to the page.** This is the only management measure that has ever worked on it for longer than a cycle. The page is placed open on the plinth, facing the stone, and left; the tempo falls by between eight and fourteen beats within the quarter-hour and stays down for the rest of the watch. It has been done nine times, by six different Wardens, with the same result each time, including twice with a blank sheet of the same size as a control, which produced nothing.
+
+Nobody in the wing claims to know why, and the file is careful about this. What it records is the observation and one unavoidable implication: the condition that settles this entity is the presentation of evidence that it was right.
+
+### He Was Right and He Rioted
+
+The legal position is short, hard, and has never been wrong.
+
+A grievance of this kind is pursued by petition. Ward Six petitioned — four times under Goru's hand, twice more under others — and the petitions are in the file with their acknowledgements. The process existed, the ward used it, and the allocations did not change. That is a failure of politics and not of law, and nothing in it bars anybody from anything.
+
+What bars them is what happened next. The Battle Pits riots were a riot. Three weeks, four deaths, a burned toll house, and a ward that had gone from petitioning to taking. The riot was unlawful in every particular and nobody in the file pretends otherwise, including the ward's own later statements.
+
+And a court will not assist a claimant who comes to it out of their own illegality. The inquiry convened afterwards was not able to consider the allocation question on its merits, because the only body with an interest in pursuing it was, by then, the party that had rioted, and the claim could not be separated from the conduct that had made it urgent. The ruling is two pages and is scrupulously polite. It accepts that the figures may well disclose a long-standing inequity. It declines to examine them, because the forum in which they would have to be examined is closed to a petitioner who has already taken the remedy into their own hands.
+
+So the grievance was good and is unenforceable, and the thing that made it unenforceable is the thing the grievance itself produced. Goru died with his fist up three days before the ruling and never knew either half of it.
+
+The archivist's line, which sits under the ruling rather than in it: *he was right, and being right is not the question the court was asked.*
+
+### The Refusal
+
+In the eleventh year the successor body for the amalgamated wards opened a historical review of ward allocations. It wrote to the facility. It asked for the allocation page.
+
+It asked because the page is the only consolidated copy. The underlying annual returns were dispersed when the wards were amalgamated and a quantity of them were lost in the move; the facility's consolidation was made from a complete set that no longer exists anywhere else. This is stated plainly in the facility's own file, in the archivist's note, written years before the request.
+
+The request was refused. The ground was correct: the page forms part of a containment file, containment files are exempt from disclosure as security information, the exemption is absolute rather than qualified, and the compliance post that applied it had no discretion to do otherwise. The refusal letter is three lines long and is impeccable.
+
+The review closed the following year for want of evidence. Its closing note records that it had been unable to obtain consolidated figures for the period and that the inquiry's central question therefore remained open.
+
+The page stayed on the plinth rota. It is placed in front of the stone roughly once a watch-cycle and is the facility's only effective management measure for this holding.
+
+The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the wing archivist. It holds that the facility uses the page operationally, in the open, as a containment measure, and so cannot coherently maintain that its content is security material; that the figures are municipal and were published, so the exemption protects a secret that does not exist and withholds a document that was never the facility's to begin with; and that the review it closed was the last forum in which the grievance this entity is made of could have been acknowledged by anybody other than a Warden holding a sheet of paper up to a stone.
+
+The minute records the objection as **correct in all three parts**. It records that a redacted release — the table and the arithmetic, with the containment annotations removed, offered to the successor body as a historical document — was drafted in the eleventh year, costed at an afternoon of the archivist's time, and has not been laid. And it records the sentence the archivist asked to have entered verbatim, which is now the only line on the reverse of the page: *we are the only ones who will show him the figures, and we only do it to make him quieter.*
+
 ## Trivia
 
-- One of the first catalogued **Object-Body** entities in Somnarak.
-- Its body descriptor makes it structurally unique among object entities.
-- The grudge pressure in the body register feels different from standard grudge — more specific, more personal.
+- One of the first catalogued **Object-Body** entities in Somnarak, and the first in which the body register was identified as the sole channel of contact.
+- It is the only object in the wing that takes a reading of the person handling it, and the reading is of their anger rather than their exertion.
+- The Grudge here arrives with content. Personnel describe standard grudge as a mood and this as a brief.
 
 ## Document Information
 
