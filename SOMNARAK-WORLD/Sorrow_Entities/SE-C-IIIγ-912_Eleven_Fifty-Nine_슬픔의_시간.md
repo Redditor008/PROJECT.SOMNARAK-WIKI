@@ -28,7 +28,7 @@
 | **Entity role** | Time |
 | **Primary pressure** | Lament / Lament pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per hour, and the hour is always the same hour: 0300 to 0400, every night, in all four of the sectors that have ever reported it. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 35% against Lament pressure; 24% against other pressure types |
+| **Resistance** | 35% against Lament. There is nothing to resist and no instrument has ever registered the hour; the station's whole apparatus is a roster, a chair and a notebook per observer. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 465/465 |
 | **Han Pressure [ATK]** | 17–29 per hit · Lament |
@@ -79,14 +79,14 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's lament pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament]]** | When the entity first fixes on a target. |
-| { *The Lament Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament lament sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[21 Lament DMG [Lament]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[29 Lament DMG [Lament]]** | When the entity is cornered or starved. |
-| { *The Lament Collapse* [**Ultimate**] } | "The lament breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "At three o'clock exactly you are thinking about somebody, and so is everybody else awake in the sector." | [The hour arrives at once, in every waking person, as the same kind of thought.] | *10 Lament to everybody awake; nobody has reported the onset as unpleasant.* **[10 Lament DMG [Lament]]** | At 0300, nightly. |
+| { *The Lament Surge* [**Attack**] } | "Two people in different rooms write down the same sentence." | [The content converges; separate observers record identical phrasing without contact.] | *18 Lament. Across 611 nights the notebooks have matched word for word on 94 occasions, which the station cannot explain and has stopped trying to.* **[18 Lament DMG [Lament]]** | When two or more observers are on station in the same sector. |
+| { *The Settling* [**Attack**] } | "The hour belongs to one person in the room and everybody else is remembering their dead." | [The content localises onto a single observer's loss and is shared by all present.] | *26 Lament, heaviest on the person whose grief it is.* **[26 Lament DMG [Lament]]** | When somebody bereaved within the month is rostered. The roster is built to prevent this and has failed nine times. |
+| { *The Lament Collapse* [**Ultimate**] } | "The hour runs long and the district does not go back to sleep." | [0300 extends past 0400 and the effect holds across the sector.] | *20 Lament per cycle for three cycles to everyone awake.* **[20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, twice; both times the hour ran to 0520 and both mornings the district's absence rate was the highest on record. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the time manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The observer is on station before 0255 with a notebook and nobody else's notebook. The roster is checked against the bereavement register first; that check is the only preparation the hour permits.
 2. **Clash:** Four turns, observation and endurance only, from wherever personnel happen to be standing — there is nowhere to approach and nothing to approach it from. Timepieces are read aloud at each turn by two people.
 3. **Resolution:** The cycle ends on management or on 0400, whichever comes first, and it is always 0400. The documented condition is notification given and the hour sat through in place.
 
@@ -169,17 +169,17 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, that quivers when raised.
+**Appearance:** a single-edged blade of pale crystal that quivers when raised and is faintly warm for one hour in every twenty-four.
 
 **Damage:** Lament 14–25 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels lament lament sorrow in each strike — the weapon does not cut flesh so much as cut at the lament register of the target's grief.
+**Ability:** Lament against the Mind. Struck targets think of one particular person for the rest of the night, and all fourteen have said the person was somebody they had been meaning to contact.
 **Cost:** The wielder experiences chronic fatigue in the dominant hand with each use.
 
 ### M.A.W. Suit — Eleven Fifty-Nine's Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a flowing veil of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a pale silk veil that tightens perceptibly at three in the morning whether or not it is being worn, which the Armoury has verified on a hook in an empty room.
 
 **Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -189,12 +189,12 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a crystal token, light, which is warm for exactly one hour a night and inert the rest of the time.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity; the token runs warm between 0300 and 0400 and is otherwise inert.
+**Effect:** +1 to the working stat during the hour and nothing outside it, which makes this the only piece in the Armoury with a duty window printed on the issue slip.
 **Ability:** A fragment of the entity's lament sorrow, crystallized into wearable form.
-*The Token is not manufactured and cannot be requisitioned. It has been conferred six times, in each case on a worker who sat the whole hour on station without attempting to complete the task in front of them.*
+*Six in eleven years, in each case to an observer who sat the whole hour on station and wrote their own notebook without reading anybody else's first. Eleven observers have compared notebooks during the hour; none has been given anything, and the station notes that comparing is a natural thing to do and is also how the 94 matches were nearly lost.*
 
 ### M.A.W. Use Notes
 
@@ -204,9 +204,9 @@ Each Eleven Fifty-Nine piece is an extension of this entity rather than ordinary
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective, external timepiece checked at the door, and the operator's count of consecutive hours worked inside the window. |
+| **Before use** | Wielder, piece, the night's roster checked against the bereavement register, and a fresh notebook that nobody else has written in. |
 | **During use** | Onset time by external timepiece, public clock reading, duration, the operator's account of the content, and any divergence from the standard content. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the operator can still distinguish their own grief from the hour's. |
+| **At limit** | The operator can no longer distinguish their own recollection from the hour's content, which the second observer tests with one question: whose is this. |
 | **After use** | Stand-down at 0400, injuries, lingering effects, cooldown, timepiece re-checked at the door, post-event record filed to the facility and the council in identical form. |
 
 ## 관찰 기록 (Observation Log)
@@ -226,11 +226,11 @@ Each Eleven Fifty-Nine piece is an extension of this entity rather than ordinary
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Eleven Fifty-Nine (C-IIIγ-912 [LT]) is logged as a Time-Lament manifestation expressing Lament. Held at SECTOR-C-912.
+**Entry 1 — Containment Description** One hour, 0300 to 0400, every night, across a district: everybody awake thinks about somebody they have lost, at the same time, often in the same words.
 
-**Entry 2 — Field Log** First contact report: the lament register was immediately apparent. Personnel described it as a lament pressure unlike standard lament.
+**Entry 2 — Field Log** The hour was recognised from absence returns rather than from any report. A clerk noticed that one district's morning lateness clustered on no particular day of the week and asked what people were doing at three.
 
-**Entry 3 — Counseling Log** The lament pressure accumulates in the lament register — this is not standard lament; this is lament filtered through lament.
+**Entry 3 — Counseling Log** Almost nobody describes the hour as distressing and almost everybody describes the morning as hard. Counselling's standing note is that an hour of thinking about your dead is not an injury, and that being expected at work at seven afterwards might be.
 
 **Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The lament register responds to patience and observation, not confrontation.
 
@@ -238,9 +238,9 @@ Each Eleven Fifty-Nine piece is an extension of this entity rather than ordinary
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Write your own hour down before you read anybody else's. | Compare notebooks while it is happening — everyone is clearly getting the same thing. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| Two independent notebooks, sealed, and a match that means something because nobody conferred. | Two notebooks that agree and prove nothing at all. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -286,7 +286,7 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 **Threat Assessment:** Major (γ). It cannot be fought, fled, shortened or contained, and it has never injured anybody directly. It reaches every person in a populated district simultaneously and involuntarily, it is cumulative across exposures, and because it affects everybody equally it falls outside every protective schedule the facility and the city possess.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types and both lower the gauge; neither shortens the hour and neither is expected to.
+- Viderehan and Ferrehan are the valid Work Types and both lower the gauge; neither shortens the hour, which has been sixty minutes on 609 of 611 nights.
 - Flerehan and Pugnahan are unavailable to a Time and are not to be attempted as improvisation.
 - Monitor the Lament register specifically, and monitor consecutive exposures: the count of hours worked inside the window is the only cumulative figure this holding produces about its own staff.
 
@@ -294,7 +294,7 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the simultaneity, the shared content, the reason no claim can be founded on it, and the use the facility makes of the hour are one picture. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all. The hour is simultaneous across a district, the content is shared, and the notebooks match word for word often enough that the station files them sealed and unread until morning. No claim can be founded on it: the facility's schedule has no category for an hour in which people are awake and grieving and not at work, so the district's absence the following morning is recorded as absence. The holding takes nothing and damages nothing. What it costs is a shift's sleep for everybody in the sector, every night, and the ledger has no column for that.
 
 **Review requirement:** Re-verify after any boundary excursion, Tide, Ordeal or unusual interaction: gauge curve, onset and end by external timepiece, public clock behaviour, district boundary of effect, convergence sampling, and the standing of the 0300 operating window and its consecutive-nights figures.
 
@@ -358,9 +358,9 @@ The cost is on the other side of the wall. Around ninety staff a night now work 
 
 The second cost is procedural and is the one the objection turns on. The hour has no entry in the facility's exposure schedule. Every other recognised exposure carries a limit, a rest interval, a monitoring requirement and a rate; this one carries nothing, because the schedule covers exposures arising from the facility's operations, and the hour arises from nothing the facility does. There is accordingly no cap on consecutive hour-shifts. One technician has worked four hundred and six of them without a break in the sequence, which came to light not through monitoring but because he mentioned it.
 
-The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the district council's observer. It holds that the facility has chosen as its operating window the one hour in which an entire population is grieving, and has done so precisely because that grief keeps the public indoors; that staff are required to handle live entities while involuntarily bereaved, with none of the protections that attach to every lesser exposure, for the sole reason that this exposure is not the facility's fault; and that the incident figures can never exonerate the arrangement, because the only control group that would settle it is a group of people outside the hour, and the hour has no outside.
+The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the district council's observer. It holds that the hour is a nightly exposure affecting the whole district, that it is recorded as ordinary absence, and that the people worst affected are those who have lost somebody recently and are therefore least able to say so on a form.
 
-The minute records the objection as **correct in all three parts**. It records that an amendment — the hour entered in the exposure schedule as a recognised condition, with a consecutive-nights cap, a rest interval and the existing monitoring extended to cover it — was drafted in the twelfth year, costed at eleven additional night posts across the facility, and has not been laid. And it records the sentence the council's observer asked to have entered verbatim, now read at the head of every window briefing: *the city grieves for an hour and you have made it your shift.*
+The minute records the objection as **correct in all three parts**. It records that an amendment was drafted in the fourth year — the hour entered in the exposure schedule as a recognised category, with no payment attached, so that the following morning could be recorded truthfully. The amendment required no funding. It has not been made, and the minute has carried it forward eleven times with the drafting note still attached.
 
 ## Trivia
 

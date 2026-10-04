@@ -297,7 +297,7 @@ The hazard does nothing and intends nothing. It has no occupant, no gauge of its
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are the valid Work Types. Both lower the gauge; neither closes a presentation and none has ever closed by itself.
 - Flerehan and Pugnahan are unavailable to a Hazard and are not to be attempted as improvisation.
-- Monitor the body register by timed dwell and photographed presentation, never by gauge; the gauge has never predicted a presentation in nineteen years.
+- Read the field by timed dwell and photographed presentation, never by gauge; the gauge lags the ground by about a fortnight and has never once warned the bay of anything.
 
 **Cross-References:** City Sorrow (도한) · Grudge · Hazard-Body · the painted boundary series · the pattern survey · the prescribed-disease schedule · the training designation
 

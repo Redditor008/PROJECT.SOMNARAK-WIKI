@@ -228,7 +228,7 @@ Each Backward Hour piece is an extension of this entity rather than ordinary equ
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective, assigned reading point, and the operator's count of occurrences worked in the preceding year. |
+| **Before use** | Wielder, piece, the reference clock's reading, and a written list of every revocable permission the wielder holds. The list is the reason the post is staffed by people who have few. |
 | **During use** | Reversal rate at the assigned point each hour, local incident count, anger reports, first cost paid, and the time the rate entered or left the dangerous band. |
 | **At limit** | The operator has begun litigating a revocation aloud during the occurrence — arguing the warrant, naming the clause — which lengthens the count in every recorded instance. |
 | **After use** | Stand-down at the twelfth hour, injuries, lingering effects, cooldown, clocks reconciled across the district, readings filed unsummarised against the fixed-point series. |
@@ -249,13 +249,13 @@ Each Backward Hour piece is an extension of this entity rather than ordinary equ
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Backward Hour (C-IIIγ-913 [GT]) is logged as a Time-Grudge manifestation expressing Grudge. Held at SECTOR-C-913.
+**Entry 1 — Containment Description** An hour, irregular, during which every timepiece in the sector runs backward together and a permission belonging to somebody in the room reaches the end of its count.
 
-**Entry 2 — Field Log** First contact report: the grudge register was immediately apparent. Personnel described it as a grudge pressure unlike standard grudge.
+**Entry 2 — Field Log** The first occurrence was logged as a fault in the sector's clock loom. The second was logged the same way. The third was recognised when a warrant lapsed at the exact moment the hands came back round, and the clerk who noticed wrote both times in the margin.
 
-**Entry 3 — Counseling Log** The grudge pressure accumulates in the grudge register — this is not standard grudge; this is grudge filtered through grudge.
+**Entry 3 — Counseling Log** The load here is not fear of the hour; it is the knowledge that the people it reaches are the ones whose paperwork is renewable. Three Wardens have asked whether their own warrants make them likelier to be counted at, and the honest answer in all three cases was yes.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The grudge register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** A sealed reference clock, a list of every revocable permission held by anybody in the room, and silence during the count. The notice adds that the bay is to be staffed, where possible, by people whose warrants are permanent.
 
 **Entry 5 — Director's Note** This entity's classification as Time-Grudge is correct. The grudge descriptor is not decorative — it is the operational axis. All containment protocols should account for the grudge register as the primary channel.
 
