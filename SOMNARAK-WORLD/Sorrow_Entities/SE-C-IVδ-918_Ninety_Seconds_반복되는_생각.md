@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Viderehan and Ferrehan only; the entity is a Time holding and the other two Work Types are unavailable to it. Walk the markings at shift start, two people in opposite directions. Issue instructions once, in writing, and do not repeat them inside the radius whatever is asked. |
 
 ### Operational Notes
 
@@ -92,9 +92,9 @@
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented void effect — mind pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- A worker who cannot hold does not panic and cannot be argued with. Speech reaches them in fragments and any answer they give belongs to a different pass, so what looks like refusal is not refusal and the extraction teams are trained to treat it as noise.
+- There is no injury a physician can find, before or afterwards, and the file states this at the top rather than at the bottom. What exposure leaves is a change in the worker, measurable only in the return described in the first section below, and invisible to every other instrument the facility owns.
+- The Ninety Seconds equipment lends the bearer the ability to sit with an unbearable thought without flinching, and charges for it in the manner recorded in the equipment section: the bearer stops flinching from other things too, including things that warrant it.
 
 ## Appearance
 
@@ -103,7 +103,7 @@
 **Notable Features:**
 - Expresses Void pressure in a mind register.
 - The time form is unmistakable — this is a mind entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Confirm the floor marking and the head-height marking, both, and the signed check for the shift. There is nothing to see, nothing to hear and nothing on any instrument. The radius is identified by paint and by signature and by nothing else.
 
 **Identification Profile**
 - **Entity Type:** Time
@@ -118,18 +118,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Time-Mind manifestation is the primary identifying feature. Void pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | A fixed radius at SECTOR-C-918, marked at floor level and at head height. It does not move. The second marking was added after a worker leaned across the boundary while remaining clear of it on the floor plan. |
+| **Material / signature** | Nothing. No field, no gradient, no temperature, no sound, no reading of any kind on any instrument that has ever been carried in. Void expression. The absence is printed prominently in the file because personnel arrive expecting a readout and need to be told in advance that there will never be one. |
+| **Distinctive markers** | A ninety-second span that repeats; workers who cannot say how many passes they experienced; and the one clean measurement this holding has ever yielded, which is the span itself, unvaried in the whole of the record. |
+| **Identification** | Confirm designation `C-IVδ-918 [VT]`, Entity (IV) coherence, Critical (δ) potency, Time-Mind manifestation, Void element, SECTOR-C-918. Identification is by survey and marking. There is no sensory test and there has never been one. |
 
 ## Origin
 
-The sector-c-918, contained remembers what the city tries to forget. Ninety Seconds began there — not with a scream or a death, but with the slow accumulation of void sorrow until the Han could no longer hold it and something new crystallized in the space between one moment and the next.
+SECTOR-C-918 holds what the district stopped saying out loud. Nothing happened there — no death, no collapse, no event anybody recorded. Void sorrow accumulated at that one point over a long time until the Han would not carry any more of it, and what settled out is an interval.
 
-What makes Ninety Seconds dangerous is not the void pressure — experienced personnel can handle void. What makes it dangerous is the mind register. The sorrow does not simply press; it loops. Personnel who work the entity report that the void feels different — more personal, more targeted, as if the sorrow has chosen a specific register through which to communicate.
+The danger is not the Void, which experienced personnel handle routinely. It is the mind register. The sorrow does not press; it repeats, and what it repeats is specific to the person and is always the same thing: the worst thought they hold. Nobody has ever reported a second-worst.
 
-And it has. The mind descriptor is not a label. It is the entity's native language.
+The mind descriptor is not a label on this file. It is the channel, and the entire protocol is built around the one decision that follows from it — that the facility will not collect what the loop shows people, as a condition of their employment or on any other condition.
 
 ## Behavior
 
@@ -142,7 +142,7 @@ And it has. The mind descriptor is not a label. It is the entity's native langua
 
 ### Operational Work Notes
 
-The Void pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Time-Mind manifestation means the mind register is the primary channel of contact.
+Ninety Seconds is a Time holding with Time-Mind manifestation and Void expression at SECTOR-C-918. Flerehan and Pugnahan are unavailable. Both valid Work Types reduce the number of passes without breaking the repetition or altering the span. The operative protocol is the shortest in the wing and is deliberately so.
 
 ## Breach Behavior
 
@@ -194,47 +194,47 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
-*Stigmas are granted at random by Ninety Seconds upon a successful work, not manufactured.*
+*The Interval's Stigma is not manufactured and cannot be requisitioned. It has been conferred four times, in every case on an extraction team member who completed a removal and then declined to describe anything the affected worker had said.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Ninety Seconds, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each Ninety Seconds piece is an extension of a thought nobody chose to have, rather than ordinary equipment. The grade describes extraction stability. The cost is separate and is always the same: the bearer's own worst thought becomes available to them at will, which several bearers have described as useful and which the counsellors class as the gravest cost on any holding in the wing.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator and grade; gauge; the operator's own state in their words; piece condition; objective; the signed boundary check for the shift; the written instruction, issued once; and the names of the two-person extraction pair, who do not work while they are present. |
+| **During use** | Elapsed time from outside the radius only, the operator's position relative to both markings, the first cost, and nothing whatever about what the operator says inside the radius, which is not recorded by anybody for any purpose. |
+| **At limit** | Elapsed duration, attribute change, rejection signs, source behaviour, and the fact of extraction. Extraction is physical, immediate, two-person, and without discussion. |
+| **After use** | How the piece came off, injuries — there are none on record — cooldown, reuse authorisation, and the automatic paid stand-down for the remainder of the shift and the following one, which is not recorded as medical leave and never has been. |
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Deep
 
 **Key Observations:**
-- Void signature confirmed at SECTOR-C-918.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The mind register is the dominant channel of contact.
+- Void signature recorded at SECTOR-C-918; the ninety-second span measured at every opportunity since the chamber was marked and never found to vary by any detectable amount.
+- Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being a Time holding.
+- Contact runs through the mind register and is dosed by entry rather than by duration, which is the finding set out in the first section below and the one the stand-down provisions were not written against.
 
 **Personnel Note:**
 
-> *"The mind pressure is different from standard void. It does not press on the body — it presses on the mind itself. You feel it before you understand what is happening."* — Specialist, Field Team 11
+> *"Nothing presses. You have the thought, and then you have it again, and the second time is longer, and there is no part of it that feels like an attack. It feels like being told something true at a reasonable volume, for a while."* — Specialist, Floor 4
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Ninety Seconds (C-IVδ-918 [VT]) is logged as a Time-Mind manifestation expressing Void. Held at SECTOR-C-918.
+**Entry 1 — Containment Description** Ninety Seconds (`C-IVδ-918 [VT]`) is a ninety-second interval at SECTOR-C-918 that repeats for anybody inside a marked radius, presenting the worst thought that person holds. The radius is marked at floor level and at head height. No instrument registers anything inside it.
 
-**Entry 2 — Field Log** First contact report: the mind register was immediately apparent. Personnel described it as a mind pressure unlike standard void.
+**Entry 2 — Field Log** *<First exposure, floor patrol>* — Worker stationary inside the radius for four elapsed minutes. Removed physically by two people without discussion. Unable to say how many passes. Uninjured by every test available then and since. Stood down for two shifts on pay, no medical entry raised.
 
-**Entry 3 — Counseling Log** The void pressure accumulates in the mind register — this is not standard void; this is void filtered through mind.
+**Entry 3 — Counseling Log** *<Interview, worker, third exposure>* — "I am not going to tell you what it is and I understand that you are not going to ask. What I will tell you is that it was the same one. It has been the same one every time, for nine years, and I would quite like to know what it would mean if it ever were not."
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The mind register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are the valid Work Types. Boundary walked and signed at shift start by two people in opposite directions. Instructions issued once in writing. Extraction is physical, two-person, immediate, and without discussion. The debriefing form has no field for content and will not be given one.
 
-**Entry 5 — Director's Note** This entity's classification as Time-Mind is correct. The mind descriptor is not decorative — it is the operational axis. All containment protocols should account for the mind register as the primary channel.
+**Entry 5 — Director's Note** *<Minute on the change-flag proposal>* — Counsel advises that the flag carries no content, is not health information, and attracts none of the protections that would attach to a counselling note. The advice is plainly right. I have approved its inclusion in the staffing return and I note that this wing spent nine years keeping the content out of my hands and that I have just been handed the only part of it I could have used.
 
 ## 최종 관찰 (Final Observation)
 
@@ -245,33 +245,33 @@ Each M.A.W. piece is a conditional extension of Ninety Seconds, not ordinary equ
 
 ## 감각 묘사 (Flavor Text)
 
-The first sensation is wrongness — not fear, not pain, but the awareness that something in the room is not the room anymore. A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last. The void pressure is present, but it does not behave like standard void. It moves through the mind register as if that register were its native element.
+There is no first sensation. The radius is an unremarkable stretch of floor with paint on it, the chamber is quiet, and personnel who have worked the holding for years report that the worst part of the posting is walking the markings at shift start and finding them exactly where they were.
 
-**At first contact:** The mind signature is unmistakable — this is not a general void entity but one whose sorrow has taken the specific shape of mind.
+**At first contact:** Paint at floor level, paint at head height, a signed check sheet, and two people who will not be working.
 
-**With continued exposure:** The void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** Nothing gathers in the room and nothing gathers in the air. The change is in the person, and the second section below is about how long it took anybody to find a way of seeing it that did not require asking them what they had been thinking.
 
-**When the entity activates:** The void becomes a force rather than a feeling. The time was holding; now it releases.
+**When the entity activates:** It does not activate. Somebody steps over a line and is inside ninety seconds that will not finish, and the only sign from outside is that they have stopped moving.
 
-**After departure:** The void does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** Two paid shifts off, no medical entry, and no record anywhere of what the ninety seconds contained.
 
 ## 이야기 (Narratio) — The Tale
 
-The sector-c-918, contained remembers what the city tries to forget. Ninety Seconds began there — not with a scream or a death, but with the slow accumulation of void sorrow until the Han could no longer hold it and something new crystallized in the space between one moment and the next.
+The chamber's protocol is four provisions long: the markings, the extraction, the stand-down, and the prohibition on recording content. Successive commanders have been invited to expand it and have declined, the most recent observing that a document about a repeating thought should not itself go round twice.
 
-What makes Ninety Seconds dangerous is not the void pressure — experienced personnel can handle void. What makes it dangerous is the mind register. The sorrow does not simply press; it loops. Personnel who work the entity report that the void feels different — more personal, more targeted, as if the sorrow has chosen a specific register through which to communicate.
+The prohibition was argued at the time and was not obvious. The opposing view held that the content was clinically useful and that refusing to collect it put workers at risk. The view that prevailed held that the facility has no business holding the worst thing a person has ever thought, that a counsellor may receive it in confidence if the worker offers it, and that the wing's own record should contain the fact of exposure and nothing else. The correspondence is in the file in full.
 
-And it has. The mind descriptor is not a label. It is the entity's native language.
+That decision has held for twenty-eight years and has never been breached. The three sections below are about what happened when somebody found a way to learn the operationally useful part of the content without ever learning the content, and about the fact that nothing in the protocol stood in the way, because nothing in the protocol had imagined it.
 
-The entity does not rage. It does not weep. It persists — mind and void, patient and permanent. Ninety Seconds is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+It does not rage and it does not weep. It is ninety seconds of floor with paint around it, in a quiet chamber, which has injured nobody in twenty-eight years and about which this file is almost entirely a record of decisions made upstairs.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The mind register is not in the manual. We learned it by failing."* — Specialist, Field Team
-*"I have worked void entities for six years. This one is different. The mind makes it personal."* — Handler
-*"Containment holds. But the protocols need a new chapter."* — Containment Lead
-*"After contact, I could not stop thinking in the mind register for three days."* — Specialist, Recovery
-*"It is one of the first of its kind. We are still learning what Time-Mind means."* — Researcher, Floor 4
+*"The mind register is not in the room. The room is empty. The register is the person, and we have spent three decades being careful about what we write down about the person."* — Researcher
+*"I have worked Void holdings for twenty years. This is the only one where the containment problem is a form with a field on it."* — Containment Lead
+*"Containment holds and has never been in doubt. What has been in doubt, every year, is what we are entitled to know about the people who walk past it."* — Keeper, Floor 4
+*"After contact I could not say how long I had been there and I could say, exactly, what I had been thinking. Nobody asked me. I have never stopped being grateful for that and I am told it is now beside the point."* — Specialist
+*"It is one of the first Time-Mind holdings and it will be the one they teach, and what they will teach is the form and not the entity."* — Director
 
 ## 기록 (Registrum) — The Record
 
@@ -286,17 +286,17 @@ The entity does not rage. It does not weep. It persists — mind and void, patie
 **Threat Assessment:** Critical. A Time-Mind entity — the mind register is its defining characteristic. Risk: prolonged exposure to the mind pressure may produce effects not seen in standard void entities.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the mind register specifically — it is the primary channel of contact.
+- Viderehan and Ferrehan are the valid Work Types; both reduce the number of passes and neither breaks the repetition.
+- Flerehan and Pugnahan are unavailable to a Time holding and are not to be improvised.
+- Monitor by boundary check, elapsed exposure taken from outside, and the stand-down return. Do not monitor by anything the worker says inside the radius, which is not evidence of anything and is not to be recorded.
 
 **Cross-References:** City Sorrow (도한) · Void · Time-Mind · Manifestation Classification
 
 ### Registry Addendum
 
-**Operational interpretation:** The Time-Mind classification is valid and necessary. The mind descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** The three sections below are one argument and are read together: a single content-free question put on exit turns this holding into an accurate indicator that something grave has happened in a worker's private life, the flag carries no content and therefore attracts none of the protections that attach to content, and the facility has placed it in the ordinary staffing return. Where observation contradicts this record, preserve the contradiction rather than normalising it.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and mind pressure readings after every breach or unusual interaction.
+**Review requirement:** After every exposure, Tide, Ordeal or unusual interaction, recheck the boundary markings and the signed check, the span, the stand-down return, the change-flag entries for the period, and the standing of the proposal to remove the flag from the staffing return, which is to be reported as outstanding for as long as it is outstanding.
 
 ## Apex Record
 
@@ -327,6 +327,58 @@ The chamber's operative protocol is the shortest in the holding and is deliberat
 ### The Marking Check
 
 The shift's first act is the boundary check and the check is done by two people walking the markings in opposite directions until they meet, which guarantees that every segment is seen by somebody approaching it from each side. The method was proposed by a watch member who had noticed that a single walker reads a faded line differently depending on their direction of travel. It adds a few minutes to the shift. It was adopted the week it was proposed and has not been altered since, and the proposer is credited by name in the procedure's heading.
+
+### One Question
+
+For twenty-eight years the wing could measure almost nothing about this holding. The span, yes. Elapsed exposure, from outside. The fact of exposure. Nothing else, because everything else was content, and content was not collected.
+
+In the twenty-fourth year a counsellor proposed a single question to be put on exit, and spent two years getting it approved.
+
+The question is: **was it the same one as last time?**
+
+It is answerable yes or no. It discloses nothing. It does not tell the asker what the thought is, has ever been, or might become, and a worker who answers it has told the facility precisely one bit about themselves. The wing's counsel, the Directorate's personnel office and the three objectors to the original content prohibition all agreed, separately, that the question was clean.
+
+**Three hundred and eleven repeat exposures have been scored across twenty-two workers.**
+
+The answer is yes three hundred times. The worst thought a person holds is, on this evidence, extraordinarily stable: unchanged across nine years in one case, across fourteen in another, through promotions, transfers, two marriages and a war.
+
+**It is no eleven times.** And the eleven are the finding.
+
+Each of the eleven falls within four months of a documented event in that worker's life — a bereavement, a diagnosis, an assault reported to the city and not to the facility, in one case a child's illness. The matching was done by an assessor who saw only dates, never the nature of the event and never the worker's identity, and the association is not marginal: on the base rate of such events in a cohort this size, eleven out of eleven falling inside that window does not happen.
+
+Three negative controls hold it up. Workers who had such an event and were *not* exposed are not scored at all, so there is no reverse inference available. Workers exposed within four months of a significant *positive* event answered yes every time. And the eleven answers were given before the assessor had any dates, so nothing was fitted.
+
+So the chamber will tell the facility, content-free, that the worst thing that has ever happened to a given member of staff happened recently. It will not say what. It will not say how. It is right every time it has been tested.
+
+The counsellor's note on the result is three lines, and the last of them is: *I built this so that we would never have to ask them. I am now looking at a column of eleven names and I know something about every one of them that they have not told anybody here.*
+
+### Nothing Protected
+
+The opinion is dated the twenty-seventh year and runs to a page and a half.
+
+The protections the wing has spent three decades relying on attach to content. A counselling note is protected because of what is in it. A medical entry is protected because it records a clinical finding about an identified person. A disclosure made in confidence is protected because of the circumstances in which the thing was said. Every one of those rules is keyed to the substance of what is held.
+
+The change flag has no substance. It records that an answer to a yes-or-no question differed from the previous answer to the same question. It is not a clinical finding; no physician made it and none could. It is not a disclosure; the worker disclosed nothing. It is not health information, because it does not state, imply or evidence any health condition — counsel is careful here and the reasoning is sound: an event that changes a person's worst thought may be a bereavement, a crime, a diagnosis, or something with no name, and a datum consistent with all of those is information about none of them.
+
+So no safeguard engages. The flag may be held without consent, retained without limit, disclosed within the facility without notice, and relied upon in any decision in which it is relevant, and the worker has no right to object, to correct, or to be told that it exists.
+
+Counsel closes with a paragraph marked as not advice: *you asked whether the protections reach this. They do not, and the reason they do not is that they were drafted by people who assumed that anything worth protecting would have something in it. I would not read this opinion as permission.*
+
+### Field Fourteen
+
+In the twenty-eighth year the change flag was added to the ordinary staffing return as field fourteen.
+
+The stated purpose is welfare triage and it is a real purpose: counselling outreach is prioritised against it and four of the eleven accepted an offer of support they would not otherwise have received. The paper says so and the four are real.
+
+The staffing return goes to line managers. A counselling note does not; a medical entry does not; field fourteen does, because it is neither, and there is no mechanism by which an unprotected field can be withheld from a return that line managers receive. Eleven supervisors were therefore notified, as a routine entry alongside leave balances and certification dates, that the worst thing that had ever happened to a member of their staff had happened in the last four months.
+
+**None of the eleven workers had told anybody at the facility. None was informed that the field existed.** Three learned of it from their supervisors, who had assumed, reasonably, that the worker already knew.
+
+The objection is minuted at the twenty-eighth review and at each of the four since, raised by the counsellor who designed the question and supported by the chamber's commander. It holds, first, that the chamber's protocol exists to keep the content out of the facility's hands, that the protocol is intact and has never been breached, and that the facility has nonetheless obtained the only operationally usable part of the content — so the prohibition stands untouched and its entire purpose has been defeated without anybody doing anything wrong. Second, that counsel's advice is correct, was obtained before the field was created rather than in answer to a complaint about it, and establishes not that the flag is harmless but that nothing in the rules was written with it in mind. Third, that the facility has informed eleven line managers of a bereavement, a crime, or a diagnosis without knowing which, and that not knowing which is in some respects worse than knowing, because a supervisor told that something unnamed and terrible has happened will supply the name themselves.
+
+The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the twenty-ninth year at nothing at all — field fourteen removed from the staffing return and held by the counsellors alone, with every worker told that the flag exists, told their own, and able to suppress it — and that it has not been laid before the board in four years. And it records the sentence the counsellor asked to have entered verbatim, which now stands at the head of the exit question sheet:
+
+*We spent twenty-eight years refusing to write down what they were thinking, and then we found a way to tell their supervisor the one thing about it that mattered, and it went in the return between the leave balance and the certification date.*
 
 ## Trivia
 
