@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — A tower-shaped voice rising through consciousness rather than the world — heard as warm rain drumming against crystal, with no visible source. Salt-warm, it smells of cold rain; no tower, only the sound of one, falling. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | No station and no extent. The sound is heard wherever a listener is in the vault, and every account to date has placed it overhead. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan to lower the song, Ferrehan to stand the listening watch; listeners separated, elevations taken individually. |
 
 ### Operational Notes
 
@@ -116,8 +116,8 @@
 |---|---|
 | **Form** | A tower-shaped voice rising through consciousness, heard as warm rain against crystal. |
 | **Position / movement** | No physical extent and no station; record the apparent elevation and the duration, mark the elevation as self-reported, and note that every account to date has placed the sound above the listener. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | Lament. Warm rain drumming on crystal, with no source and no instrument reading to match it; the air stays at vault temperature while the skin reports warmth. |
+| **Distinctive markers** | It comes from above, it is warm, and weeping under it runs the wrong way. No other holding in the vault produces all three. |
 | **Identification** | Identification is not optional, and here it is done by ear. The designation, the manifestation and the recorded acoustic signature must agree before a cycle opens; no physical marker exists to check against, which is itself the first thing to verify. |
 
 **Appearance protocol:** There is nothing to look at, and the protocol begins by saying so: the holding has no physical extent, no structure has ever been found, and an observer who reports seeing a tower has recorded the most significant finding of the cycle. What is logged instead is the sound and the body's answer to it. Take the apparent elevation from each listener separately and do not reconcile the figures; take the duration, the interval between verses, the temperature of the air against the warmth personnel report on the skin, and whether weeping felt inverted — that last field is present or absent, without elaboration, and it is almost always present. New Wardens disbelieve it, so the briefing states it before anything else. Write warm rain on crystal if that is what it is. Do not write 'haunting'.
@@ -127,41 +127,41 @@
 - **The Sorrow:** The grief of looking upward for rescue that never descended.
 - **The Event:** A Desolate community vanished beneath a Han surge; survivors carried its tower-song into the city.
 - **The People:** A Desolate community that went under a Han surge, and the survivors who carried its tower-song into the city. The commissioning file holds what those survivors could give — the song's occasions, who led it, and when it was sung — and the accounts agree closely, which the archivist notes is unusual and attributes to the fact that they had been singing it together for a very long time.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **Expanded origin context:** The surge that took the settlement is in the Desolate weather series, and the settlement itself is in the municipal lists only as a name and a count. Between them sits the commissioning file: the song's occasions, the names of those who led it, and the hours at which it was sung. The archivist's note observes that the facility holds a better record of how these people sang than of who they were, and that the survivors who gave the file knew this and gave it anyway.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The song lowers and warmth becomes gentle. | Decrease |
-| **Pugnahan** | The voice becomes a storm of hot tears. | Increase |
-| **Viderehan** | Reveals the settlement beneath the song. | Stable |
-| **Ferrehan** | Tests whether the worker can remain beneath the falling grief. | Decrease |
+| **Flerehan** | The song drops in pitch and apparent elevation and the warmth goes gentle. Nothing descends; the settlement is still under the surge. | Decrease |
+| **Pugnahan** | The voice turns into a storm of hot tears and the elevation reports scatter. Never authorised twice by the same supervisor. | Increase |
+| **Viderehan** | Shows the settlement beneath the song, at the hour the water reached it. The gauge does not move. | Stable |
+| **Ferrehan** | The worker stands the watch under a sound that is pleasant and does not join it. The gauge falls, and this is the only work here that costs anybody anything. | Decrease |
 
 
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Spire of Unanswered Prayer is recorded as a Subject with Subject-Spirit manifestation and Lament elemental expression. The current record places it at Zone A, Alpha Tree vault; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Spire of Unanswered Prayer is a Subject with Subject-Spirit manifestation and Lament expression, held in the Alpha Tree vault with no physical extent whatever. All four Work Types are available; three are used. The work is rated Moderate and is in practice a listening posting, which is the whole difficulty: the hazard is agreeable, personnel ask to stay in it, and nothing in a single cycle looks like harm.
 
 **Reading the response:** Read it in the song and in how badly the team wants to join in. A falling gauge presents as lowering — the voice dropping in pitch and elevation, the warmth going gentle, the intervals lengthening. The pressure is being absorbed; the settlement is still under the water and the source is untouched. A rising gauge presents as uplift: the song climbs, the warmth sharpens into something like hope, and workers describe the distinct impression that help is close. That impression is the reading. It is logged as a gauge event and never as encouragement. Any response the file does not contain is written up the same day, and the observation that outranks the rest is the song stopping — which has happened twice, lasted under a minute each time, and is described in both reports as the worst part of the posting.
 ## Breach Behavior
 
-> *"Spire of Unanswered Prayer has broken free. Hunts personnel indiscriminately."*
+> *"Spire of Unanswered Prayer is unbounded. The song is everywhere in the sector and the asking has not stopped."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | Spire of Unanswered Prayer expands beyond containment like a spreading tide. It hunts personnel indiscriminately. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **Movement** | Spreads as sound across the sector rather than travelling as a body. There is nothing to intercept, nothing to outrun, and nothing that approaches. |
+| **Effect** | Everyone in hearing is placed inside the asking: the sense of calling upward and receiving nothing, sustained for as long as the song is unbounded. Composure drains steadily. |
+| **Secondary Effect** | The warmth sharpens into something very like hope, which is when workers stop withdrawing and start waiting. |
+| **First Target** | Nobody is selected and nothing is hunted. The song reaches whoever is in earshot and has never been observed to prefer one listener over another. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
+- **Breach type:** Transform. The sound stops being bounded by the vault; the entity acquires no body and goes nowhere.
+- **Containment priority:** Answer at the level that can answer. Clear non-essential personnel from the sector, hold the listening watch at the edge, and give the responding team decisions rather than referrals.
 - **Sorrow Gauge on breach:** Opens at 40% and is driven by unanswered asking rather than by elapsed time. Each request the responding team sends upward that comes back without a decision adds 10% — a referral, an acknowledgement, an instruction to await instruction, all count as nothing returned. Each decision given at the level it was asked removes 10%, and a refusal counts: a clear no lowers this gauge, and silence does not. The entity is the sound of people calling upward and receiving nothing, and a command structure that handles a breach by escalating it is feeding the thing it is escalating about.
 
 ## M.A.W. Equipment
@@ -227,7 +227,7 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; used against its grain, a piece amplifies its own cost immediately and personally, and can wake the element carried in it, which on this set presents as warm rain heard indoors and the conviction that a decision is about to arrive. No protocol produces a Stigma. They emerge from the source's own disposition during a cycle, unbidden and unrepeatable.
+The set has no vessel to be cut from and is taken out of the song itself, which the armoury records as the reason all three pieces are quiet in use and loud afterwards. Every piece carries the same cost in a different form: the bearer begins to expect an answer. The Tear's recorded version is the plainest — its wearer hears the lost settlement while asleep — and issue is logged against the wearer's listening hours like any other exposure.
 
 ### Field Use Record
 
@@ -243,11 +243,11 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- Its song is warm but produces grief.
-- The tower appears only in consciousness.
-- It is stronger near Outside Sorrow records.
+- The sound is pleasant and the effect is not; personnel volunteer for the posting and the file treats volunteering as a risk factor.
+- No structure exists. An observer who reports seeing a tower has produced the most important finding of the cycle.
+- Audible strength rises near Outside Sorrow material, which is why the vault's Desolate series is held two rooms away.
 
-**Personnel Note:** *"It was singing. I felt hope. Then I understood the hope belonged to people waiting for a tower that had already fallen."* — Specialist, Zone D patrol
+**Personnel Note:** *"I felt hope, and then I worked out whose hope it was. They are still up there asking. I put in for the watch again the following week, which is the part I have been asked to think about."* — Specialist, Alpha Tree listening watch
 
 
 
@@ -255,10 +255,10 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Spire of Unanswered Prayer as a Subject with Subject-Spirit manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree vault. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Spire of Unanswered Prayer's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Warm rain on crystal, overhead, with nothing in the room producing it. Observers are briefed that the elevation they are about to report is theirs alone and will not be reconciled with anybody else's. |
+| **Sustained observation** | Duration, interval between verses, apparent elevation taken separately from each listener, air temperature against reported warmth, and the inverted-weeping field as present or absent. |
+| **Activation or escalation** | Escalation presents as uplift: the song climbing, the warmth sharpening, and listeners reporting that help is close. That impression is the reading. Record who reported it, the clock, and the gauge at that moment. |
+| **Post-contact review** | Elevation set, duration, intervals, gauge, and listening hours added to the career total. The listening log goes to the counsellor, not to the line supervisor, and the hours go to the roster office whether the worker wants them counted or not. |
 
 **Observation method:** Observe by listening, from fixed positions, with the listeners separated far enough that they cannot hear each other agree. Record the first audible sign, the first emotional sensation and its direction, the first measurable change in the room, and the condition that ended the encounter. Appearance is history made visible and not a forecast — a tower made of voice is the shape of a community that kept calling, and it predicts nothing about the next hour. Several attempts have been made to resolve the song into words; all failed, and all are retained with their methods so that the ground is visibly covered. The last was years ago and nobody has proposed another.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -295,13 +295,13 @@ A tower rises inside your mind, but its rooms are filled with rain. The tears ar
 
 
 
-**At first contact:** The Subject-Spirit does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A tower-shaped voice rising through consciousness, heard as warm rain against crystal.
+**At first contact:** Warm rain on crystal, from above, in a room where the air is cold and nothing is falling. Most workers look up before they are told not to, and the looking up is in the briefing as the one reflex nobody has trained out of anybody.
 
-**With continued exposure:** Time stretches in the containment zone. The Subject-Spirit becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
+**With continued exposure:** The song acquires occasions. Listeners begin to recognise which verse is which and to know what comes next, and the knowing is pleasant, and that is the point at which the watch officer starts counting minutes rather than verses.
 
-**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Lament becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Spirit was waiting; now it moves.
+**When the entity activates:** The elevation rises. The sound climbs, the warmth goes from comfortable to something like relief, and the vault fills with the distinct impression that someone is coming. Nobody is coming; the impression is the activation.
 
-**After departure:** Departure is not relief. The Subject-Spirit is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** The corridor is quiet in a way that is worse than the song. Workers describe the first hour off the watch as the hardest part of the posting, and the counsellor contact sits inside that hour for exactly that reason.
 
 ### Interaction Pattern
 
@@ -316,9 +316,9 @@ Spire of Unanswered Prayer must be assessed as one of a group of sorrows that co
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Sunken Tower** | Both preserve lost structures. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Memory Rain** | Its tears fall through memory-rain imagery. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Sorrow River** | Its song draws toward the underground River. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Sunken Tower** | One is a structure that went under; this one is the sound of people on top of one. | Compared on paper and never co-located. The wing's note is that pairing a tower with the song about a tower would answer a question nobody has asked and risks giving the song a second occasion. | The standing exclusion and the reasoning entered at the last review. |
+| **The Memory Rain** | Both arrive as falling water and only one of them is water. | Logged twice at distance. The Rain's interval was unchanged and this holding's elevation set scattered more widely than usual on both occasions, which is the only measurable effect either pairing has produced. | Both elevation sets, unreconciled, and the Rain's interval series across the window. |
+| **The Sorrow River** | The song is reported as leaning toward the River's course. | Observed rather than arranged; listeners' elevations drop by a consistent margin when the River runs high, and the song's intervals do not change. The margin is logged per listener and has never been averaged. | The per-listener drop, the River's level series, and the unchanged interval record. |
 
 **Interaction procedure:** Baseline both parties alone, bring them into range with listeners separated, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the vault, and whatever persists after separation. The field this holding adds is the elevation set — every listener's figure, unreconciled, before and after.
 
@@ -354,18 +354,18 @@ Some sorrows mourn a community. Spire of Unanswered Prayer mourns the calling �
 **Common Name:** Spire of Unanswered Prayer
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Moderate (β), with a standing note that the rating understates the posting. No single cycle is dangerous; the harm is cumulative, pleasant while it accrues, and measured in career hours rather than in incidents.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Flerehan and Ferrehan are the working types; Viderehan for the record; Pugnahan raises the gauge and is not authorised.
+- Listeners are separated, elevations are taken individually and never reconciled, and the song is never silenced or masked.
+- On escalation, answer at the level that can answer: a referral upward adds to the breach gauge and a plain refusal lowers it.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- A Desolate settlement went under a Han surge; the survivors carried its tower-song into the city and gave the facility its occasions.
+- No breach has produced a casualty; every logged incident has come from people staying in the sound longer than the roster allowed.
+- Extraction is taken from the song because there is no vessel, and the Tear's wearer hears the settlement while asleep.
+**Cross-References:** Alpha Tree vault · the Desolate surge series · the settlement's commissioning file
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** A Desolate community lost beneath a Han surge, and the survivors who kept its song.
 
 ### Registry Addendum
 
@@ -390,10 +390,40 @@ The voice is closer to singing than to speech and nothing in it has been resolve
 
 A Desolate community went under a Han surge and the survivors carried its tower-song into the city, and the commissioning file holds what those survivors were able to give — the song's occasions, who led it, and when it was sung. The accounts agree closely. The archivist's note observes that this is unusual and that the survivors had been singing it together for a long time.
 
+### The Elevation Set, Unaveraged
+
+Every listener reports how high the song is, and the figures do not agree with each other.
+
+**Three thousand one hundred and forty elevation readings are on file. They run from four metres to rather more than three hundred.** They are taken from each listener separately, before anybody compares notes, and entered as a set rather than as a measurement. Within a single watch the spread between two people standing a metre apart has reached two hundred metres and has never been under ten.
+
+The protocol forbids averaging them, and the prohibition is the considered position rather than an oversight. A mean would be a number, a number would become *the* elevation, and an elevation would become a height, and a height is the first component of a tower that does not exist. The wing has watched that happen to other holdings: a working figure hardens into a fact, and the fact outlives everybody who knew it was a convenience. So the set is published as a set, every reading attributable to the person who gave it, and the file states that the holding's position above the listener is reported unanimously and measured never.
+
+The two silences are logged in the same series. **Twice the song has stopped, for under a minute each time.** Both reports call it the worst thing about the posting.
+
+### Nothing to Build Around
+
+Protection is supposed to run engineering first and paperwork last. That ordering is correct, and it is the reason this holding is protected worst of anything in the vault.
+
+An engineering control needs something to put a control around: a vessel, a boundary, a volume, a door. This entity has no extent. There is no wall that would stop it, no seal that would reduce it, no shielding specification anybody has been able to write, and **four capital applications have been refused** — correctly, each of them, because none could say what was to be built. The vault next door has a wall. This one has a rota.
+
+So every protective measure here is administrative: shift lengths, separation of listeners, a prohibition on masking the sound, a counsellor contact. Administrative controls are the weakest tier precisely because they depend on people following them, and the people here are being asked to follow a rule against staying inside something they find comforting.
+
+The file states the consequence without special pleading. The hierarchy of controls is right, it has been applied correctly, and the result of applying it correctly is that the wing's most-exposed workers are protected by a piece of paper.
+
+### A Ceiling Measured in a Career
+
+What a wing can always set is its own roster, and here it set it against the whole of a working life.
+
+Listening hours are counted facility-wide and follow the person, not the posting. **The lifetime ceiling is four hundred hours.** It cannot be waived, extended, or traded; it survives transfer, promotion and command; and when a worker reaches it they never work this holding again, whatever they want and whatever they are worth to it. Hours accrue whether or not the worker reports them, because the roster office books them from the watch sheet rather than from the individual.
+
+**Eleven people have reached the ceiling.** Two of them were the most capable listeners the holding has had, and the file says so in those words, and says that neither has been replaced.
+
+The objection is on file from the counsellors and from the listeners themselves, and it has never been answered. Four hundred is an invented number: it was set by judgement, has never been validated against an outcome, and is defended on the ground that no number could be validated without running the experiment on people. The ceiling therefore retires the best at the point they are most useful, takes from them the one posting they asked for, and offers them in exchange a protection nobody can demonstrate they needed. The minute records the objection as **correct, and the ceiling stands**, and adds that the wing would rather be wrong in this direction and has never pretended that this is the same as being right.
+
 ## Trivia
 
-- The tears are warm in every manifestation.
-- No physical tower has been found.
+- The warmth has been recorded at every manifestation and has never matched an air temperature reading taken at the same moment.
+- Three searches have been made for a structure, two of them outside the vault entirely. Nothing was found and the file retains the methods.
 
 
 
