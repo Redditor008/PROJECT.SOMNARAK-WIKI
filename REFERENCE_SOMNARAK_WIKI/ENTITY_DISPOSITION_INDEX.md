@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **272** |
-| Pending — no disposition-bearing line found by scan | 31 |
+| **Classified here, with a quoted line of evidence** | **274** |
+| Pending — no disposition-bearing line found by scan | 29 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 272 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 274 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 31 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 29 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -375,6 +375,8 @@ The ones that cost F01 containment, not just personnel.
 
 | Entity | Code | Evidence |
 |---|---|---|
+| Blessing Giver | `SE-C-Iα-071b` | Negative, on conversion of personnel — the one Negative mechanism `R-19` names that has nothing to do with force. Breach Behavior: *"Each touched personnel member is blessed (healed + marked)"*, and the secondary effect is the decisive line — *"Already-marked personnel feel compelled to move toward the entity."* Each blessing recruits the next approach, and *"with each breach-blessing, the entity’s glow intensifies and its speed increases by 0.2 m/s"*, so the breach accelerates on its own output. She is also a step in a chain rather than an endpoint: *"If the chain corrupts (4b), the Blessing Giver’s proto-Hope glow inverts into the Dawn’s cold violet."* An entity that marks staff, draws the marked back, and can terminate in a Sovereign is not a self-contained hazard. The gentleness is real and does not change the class. |
+| The Music Box of Agony | `SE-N-IIγ-903` | Negative, by acoustic amplification rather than by escape — it never leaves the vault. Interaction record, The Hollow Choir: *"A dangerous resonance: the Choir’s unfinished songs and the box’s lullaby can harmonize into a fade-event spanning the whole sector."* A sector-wide fade produced jointly with a neighbouring holding is facility-wide amplification on the `R-19` list. The reach is not theoretical: *"The gardens’ grief-flowers lean toward the vault, as if listening; a few have begun to turn, very slowly, in time with the figurine"* — the box is already moving another entity from inside containment. Note also that three bars hummed in a corridor *"once began a fade in a bystander"*, which is how a vaulted object reaches a sector it cannot enter. |
 | The Ancestral Guilt | `SE-N-Vω-1055` | Negative. A Sovereign kept directly beneath the facility whose top-end behaviour is structural rather than personal: the potency modifier reads *"ω — Capable of crushing an entire sector beneath civic weight"*, and its Ultimate, *Ledger of the Unforgiven*, *"Deals 60-85 Weight damage across entire sector; triggers instant Fracture."* Containment cannot be bought back by force either — *"Do not attempt to burn or shred the entity’s scrolls with fire; each destroyed document doubles the entity’s kinetic mass."* An entity that fractures a sector of F01 and grows from every attempt to remove it meets the `R-19` Negative test on structural collapse, without needing a cross-entity line. Access is already rationed by genealogy rather than by grade, which is itself an institutional cost no other holding imposes. |
 | Wilderness Tide | `SE-O-Vγ-003` | Negative, and the only entity in the index that is Negative by mass release rather than by malice. Breach escalation: *"Sorrow Gauge on breach: The entire zone’s ambient Han spikes to 60%+; all entities in Zone E may activate."* That is the Negative definition verbatim — one failure arming every neighbour. The breach `First Target` is *"The wall itself, then the nearest Warden garrison"*, and the flooded zone *"expands by 50 meters"* per turn while the breach is open. The Directorate’s own posture concedes the class: it is *"the only V-rank entity the Directorate has never attempted to name, bargain with, or work — only to endure, chart, and respect."* The Tide dissolves wilderness entities caught in it, but nothing inside the wall benefits from that. |
 | Sorrow Mass | `SE-C-Vω-925` | Negative, and the only Sovereign the Directorate manages without ever scheduling a work. Uncontained. Breach `First Target`: *"The foundations, and after them whatever has been carried longest without being said."* The cost to F01 is standing and structural rather than episodic — load-distribution wards under every floor plate, foundation gauges read on the watch, an uninterrupted deflection survey, and standing authority to clear a working floor on one reading. Seventeen major pressure events are on the Directorate ledger and one district was lost outright: *"a district loaded past endurance before the doctrine existed, where the weight arrived faster than the mourning and the structures failed before the rites."* It suppresses no entity and assists none; it is classed Negative for what it takes from the facility to hold, not for any hostility the file records. |
