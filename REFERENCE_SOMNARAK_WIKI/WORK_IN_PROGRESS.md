@@ -39,15 +39,15 @@ These say where the remaining damage sits and which file to open next. A fall in
 | Shared lines | Dossier |
 |---|---|
 | 5 | `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md` |
-| 4 | `SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md` |
-| 4 | `SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md` |
-| 4 | `SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md` |
-| 4 | `SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md` |
-| 4 | `SE-C-IIIγ-032_Weighting_Bird_재는_새.md` |
-| 4 | `SE-C-IIIγ-044_Broken_Clock_부서진_시계.md` |
-| 4 | `SE-C-IIIγ-140_Weeping_Willow_우는_버드나무.md` |
+| 4 | `SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자.md` |
+| 4 | `SE-N-IIβ-250_Debt-Collector_s-Lantern_추징관의_등불.md` |
+| 4 | `SE-N-IIIγ-160_Broken_Promise_깨진_약속.md` |
+| 4 | `SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md` |
+| 4 | `SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md` |
+| 4 | `SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md` |
+| 4 | `SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md` |
 
-Re-rank after every clean. Files drop down this list as global counts shift without being touched; that movement is spillover and is never counted against the fixed `140 / 291`. The queue is never carried over from a previous turn without re-measuring.
+Re-rank after every clean. Files drop down this list as global counts shift without being touched; that movement is spillover and is never counted against the fixed `N / 291` counter. The queue is never carried over from a previous turn without re-measuring.
 
 ### Residual floor
 
