@@ -28,13 +28,13 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per cycle, each cycle being one complete pass of the voice along the line and back. The yield does not vary with the length of the pass, which has been checked against the clock sixty times and holds whether the transit runs short or long. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Listen through one full transit, write the words in the order they arrive, and where a memory can be matched to a named correspondent in the letters, say the name aloud at the point it occurs. Returning one memory to one name is a complete cycle. |
 
 ### Operational Notes
 
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
+| **Resistance** | 25% against Lament. It is almost never visible and has never been touched; the Gardens station notes that a resistance figure for a voice travelling along a line in the air is a column the form requires and nothing more. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Han Pressure [ATK]** | 10–23 per hit · Lament |
@@ -80,18 +80,18 @@
 | { *The Wet Links* [**Debuff**] } | "The chain is slick with sorrow-water — and it slides tighter the wetter it gets." | [A waterlogged chain loops the target; the rust bites.] | *Target suffers -10 Composure; the wet iron is cold and tightening.* **[10 Lament DMG [Lament]]** | When the Chain is cast. |
 | { *The Rust Bite* [**Debuff**] } | "Where the wet links touch, rust blooms on your skin." | [Corrosion spreads from the chain into the target.] | *Target loses 10 Composure; the rust is eating at them.* **[10 Lament DMG [Lament]]** | When the target struggles against the Chain. |
 | { *The Snap* [**Attack**] } | "The chain whips — spraying water and rust in a wide arc." | [A soaking chain-lash strikes across the target.] | *Inflicts Lament pressure and one rusted, stinging wound.* **[14-22 Lament DMG [Lament]]** | When the Chain is provoked. |
-| { *The Drowning Weight* [**Attack**] } | "The chain drags you down — waterlogged, rusted, and heavier than iron." | [The soaked chain constricts, dragging the target under.] | *A heavy Deep Blue crush; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Chain is commanded. |
-| { *The Rusted Coil* [**Ultimate**] } | "Every chain in the place rusts through and breaks — and the rust spreads like floodwater." | [The Chain disintegrates into a tide of corrosive sorrow-water.] | *All personnel suffer Lament pressure for three turns in the rust-flood.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Drowning Weight* [**Attack**] } | "The transit stops halfway and every link speaks at once, out of order, over itself." | [The sequence collapses and the correspondence becomes noise.] | *24–36 Lament and a 15% Gauge surge to the listener who interrupted it.* **[24-36 Lament DMG [Lament]]** | When a worker speaks across the voice mid-transit, or supplies a name that is not in the letters. Five occasions, four of them the second kind. |
+| { *The Rusted Coil* [**Ultimate**] } | "The line stretches across the whole of the Gardens and the transit takes an hour instead of a minute." | [The axis of travel extends and the interval between links opens out past the span of attention.] | *12–20 Lament per cycle for three cycles to anybody who stays to the end of a pass.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, twice recorded, and both times the recorders stayed. |
 
 ### Battle Phases
 
 1. **Tension:** The team establishes which direction the voice is travelling and times one full traverse end to end before anything else; the transit time is constant and everything afterwards is measured against it. Positions are taken so that no two workers who share a history stand on the same link.
 2. **Clash:** The team works Flerehan and Ferrehan along the chain while the voice moves, and names what it hears: which link spoke, what it said, and whose memory it is if that can be established. Gauge movement is read per traverse rather than per turn, because the traverse is the only clock this entity keeps.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the link and return each memory to its owner**.
+3. **Resolution:** A memory is matched to a correspondent and the name is said at the moment that link speaks. Nineteen returns have been made in eleven years, each to one of the six names in the letters, and after each one the transit has run measurably shorter for a fortnight before settling back.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
+- The failure here is quiet and comes home with you: the recorder finds, days later, that they remember one of the six as a person they knew. Eleven such reports exist and the station treats every one of them as an outcome of the work rather than a lapse.
 - Time favours the chain, and not by wearing anybody down. The longer a worker listens the more of the group's shared past they can recount, and the pleasure of that is the hazard: saturation presents as fondness for people the worker has never met, and it is usually a colleague who notices it first.
 - M.A.W. activation is an exchange with no discount. The registry lists the parameters; the payment is taken from the bearer directly, and on this set it is taken in the coin of the source — what the pieces give in reach and protection they take back in the bearer's hold on which memories were originally theirs.
 - An unresolved encounter does not end; it transforms, which is the breach type on the classification. The chain stops moving link to link and spreads at once, binding and dragging, and what it binds personnel with during the breach is still the thing it binds with at rest — a shared memory, held between two people, used as a rope.
@@ -116,8 +116,8 @@
 |---|---|
 | **Form** | An invisible chain heard as a voice moving from link to link through the air. When visible, it appears as blue spirit-light. |
 | **Position / movement** | No posture to record and no station; log the direction of travel along the links, the transit time end to end, and the inferred length — marked as an inference every time it is written down. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | A voice travelling along a fixed line in the air, one word per link, in one direction, at a constant rate. Visible perhaps once in twenty cycles as pale wet crystal. Record the transit time to the half-second and the order of the words. |
+| **Distinctive markers** | The interval. Several things in the Echo Gardens speak without a body; this is the one whose voice moves at an even rate along one axis and never doubles back, and the evenness is audible without a clock. |
 | **Identification** | The designation is the first filter and the ear is the second, since the eye will usually have nothing to contribute. Confirm the designation, the manifestation and the recorded transit time agree before approaching. |
 
 **Appearance protocol:** Most cycles here have nothing visible in them at all, so the protocol records sound first: the direction the voice is travelling, the interval between links, the full transit time end to end, and the words, taken verbatim link by link in the order they were spoken — the order is the entity's only grammar and a paraphrase destroys it. On the rare occasions it shows itself as blue spirit-light, log the occurrence with every condition obtaining at the time, whether or not those conditions seem relevant. No condition has yet been found to predict visibility. The list is kept as a plain list precisely so that a pattern, if there is one, has somewhere to be noticed. Record whom it is standing beside, and record nothing about them — the choice of neighbour is not evidence of anything and must never be written as though it were.
@@ -127,7 +127,7 @@
 - **The Sorrow:** The burden of remembering a relationship alone.
 - **The Event:** A group separated by exile continued sharing memories, but the memories gathered into one speaking chain.
 - **The People:** A group broken up by exile who kept their bond alive by writing their memories to one another. The commissioning file holds the letters. Each is addressed to several recipients at once and each repeats what all of them already knew, which the archivist notes was plainly deliberate — and which is the material the chain is made of.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **Expanded origin context:** The letters survive and there are forty-one of them, between six people, over nine years. Each is addressed to all the others at once and each repeats what every recipient already knew — the same afternoon, the same argument, the same journey — which the archivist's note says was plainly deliberate: they were not exchanging news, they were keeping a shared past in circulation so that no one of them would be left holding it alone. The last three letters are addressed to five names, then four, then three, and are otherwise unchanged.
 
 ## Behavior
 
@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Memory Chain is recorded as a Subject with Subject-Spirit manifestation and Lament elemental expression. The current record places it at Zone D, Echo Gardens; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The gauge moves very little and the clock moves a great deal. A baseline transit runs 41 seconds; after a return it runs 33 to 36 for about a fortnight and then comes back to 41. That fortnight is the only evidence anybody has that the returns do anything at all, and the station has recorded it nineteen times without being able to say what it means.
 
 **Reading the response:** Read it in the voice and in the traverse. A falling gauge presents as slackening — the links loosening, the interval between them lengthening, the tone going from recitation to conversation. It is a window and not a door; the pressure returns unless the cycle is sustained, and nothing has been returned to anybody. A rising gauge presents as closeness: the voice tightens, speeds up, and begins using the worker's own recollections as links in the sequence. That is the warning sign and it does not feel like one. Document anything off-pattern the same day — a new word, a traverse that takes longer than the constant, a link that speaks out of order. The last of those has been recorded twice and both reports are flagged, because the order is the one thing this entity has never varied.
 ## Breach Behavior
@@ -153,14 +153,14 @@ Work Type data is one input among many. The SECC code and coherence level determ
 |---|---|
 | **Breach Type** | Transform |
 | **Movement** | Memory Chain expands beyond containment like a spreading tide. It binds personnel, dragging them. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Effect** | Cold rain-smell in dry air and the sense of being spoken past rather than to. Neither has ever varied. |
+| **Secondary Effect** | The order breaks. Words arrive out of sequence or two at once, and for recorders this is far worse than volume; three have stopped recording mid-transit and none could say why afterward. |
+| **First Target** | Whoever is holding the book. In every incident on file the effect has gone to the recorder rather than to the timekeeper standing beside them. |
+| **Escalation** | +5 Composure drain per cycle while the sequence is broken. It is not an advance — nothing comes closer and nothing moves — it is simply the cost of standing inside a correspondence that has stopped making sense. |
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
+- **Breach type:** The line lengthens. It has reached the Gardens' outer path twice and has never crossed it, and on both occasions it shortened again within a day without intervention.
 - **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
 - **Sorrow Gauge on breach:** Opens at 40% and runs on traverses rather than on turns, which matters because the traverse is a fixed interval and the turn is not. Each complete end-to-end passage of the voice in which no link is named adds 10%. Each 10% comes off when a link is named and the memory in it is returned aloud to the person it belongs to — and where that person is dead or unreachable, naming them is sufficient; the entity has never required the owner to be present. Denial moves it fastest: a worker who answers a voiced memory with a disavowal adds the increment immediately, without waiting for the traverse to finish.
 
@@ -187,7 +187,7 @@ Cranking the handle discharges a continuous rolling stream of heavy lead slugs w
 **Falloff Rule:** 100% to the one designated target; the link engages a single person and does not carry to anyone beside them.
 **Damage Application:** Resolve the direct damage first, then apply the multiplier to any Tick damage as a second and separate calculation; the rust works on its own schedule.
 
-**Ability:** Deals Lament damage against the Mind — composure, willpower, and the ability to keep hold of whose memory is whose. The strike carries the source's signature, and those struck report a moment of recognising someone they have never met.
+**Ability:** Lament against the Mind, and the after-effect is the source's whole nature in miniature: those struck recognise somebody they have never met, briefly and completely, and several have described reaching for the person's name. The name does not come. Nine on file, nine identical accounts.
 
 **Cost:** The wielder carries the grief of a bond kept alive by one side only. Prolonged use causes involuntary weeping, most often while reading correspondence.
 
@@ -195,7 +195,7 @@ Cranking the handle discharges a continuous rolling stream of heavy lead slugs w
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a shroud that holds a faint damp at the hem however long it is stored, and which has six small marks worked into the weave, evenly spaced, that the Armoury did not put there.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -213,30 +213,30 @@ Cranking the handle discharges a continuous rolling stream of heavy lead slugs w
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a chain-link of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a single link of pale wet crystal, open at one side, which gives one word when it is turned over in the hand and always the same word.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat while this piece's source entity is the subject of the cycle, and nothing at all on any other holding
+**Effect:** +1 to the working stat on this holding's own cycles and nothing at all elsewhere — a piece of a correspondence is only legible inside the correspondence
 
 **Ability:** Allows two people to share a memory temporarily.
 
 **Cost:** Both people feel the grief attached to the memory.
 
-*A Stigma from this source is given, never made. It surfaces during a successful cycle if the entity chooses to give, which is rarely and without explanation, and no procedure or stated probability obliges it.*
+*Four Stigmas in eleven years, and all four surfaced during a transit in which a name was returned. The station reports the correlation and declines to call it a rule, since nineteen returns have produced four Stigmas and the other fifteen produced nothing.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced past its design, a piece degrades its user faster and can invert protection into exposure, which on this set means the wearer begins receiving the memories the suit was meant to hold off. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rare and unexplained, and no amount of correct practice changes that.
+A piece taken from here is a link lifted out of a thing made of other people's shared past, and each piece keeps a share of it. Worn inside its pattern the shroud holds the memories off; worn past it, the protection inverts and the wearer begins receiving them instead — not as pressure but as recollection, detailed and ordinary, of afternoons they did not have. Two wielders have reached that point and both were able to describe a room in the Echo Gardens as it stood before the exile.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, baseline transit time measured that day, and a written list of any of the six names the wielder already believes they know something about. The list is sealed and compared afterward. |
+| **During use** | Every word the wielder says that was not in the transit. The timekeeper writes these down and does not respond to them. |
+| **At limit** | The wielder describes a place in the Gardens that is no longer there, in the present tense. Both over-runs reached this point and both were ended on it. |
+| **After use** | Open the sealed list and compare. A name the wielder did not know before is logged to the counsellor and not to the line supervisor — a wing that treated it as unreliability would simply stop being told. |
 
 **Stat interpretation:** The grade describes extraction stability and says nothing about human safety. A well-graded piece from this source can still hand its bearer a decade of somebody else's friendships, which no rating system has a column for. Read both sides of the entry and authorise on the cost.
 ## 관찰 기록 (Observation Log)
@@ -255,10 +255,10 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Memory Chain as a Subject with Subject-Spirit manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone D, Echo Gardens. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Memory Chain's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Two workers take position along the axis: one with the book, one with the clock. Identification is the even travel of the voice, left to right along the line, one word at a time, with nothing to see. |
+| **Sustained observation** | Over a year: transit times to the half-second and the order of the words. Eleven years of it show a baseline of 41 seconds, a fortnight of 33 to 36 after each return, and an order that has changed exactly once. |
+| **Activation or escalation** | The order breaking, or the line lengthening. Record the transit time, the point in the sequence where it failed, who had spoken in the preceding minute, and whether any name used was one of the six. |
+| **Post-contact review** | The full word order, the transit times, any memory returned with the name it was returned to, and any memory the worker found themselves holding afterward. The last of these is recorded without prejudice and goes to the counsellor; carrying somebody else's recollection out of the Gardens is what this work consists of. |
 
 **Observation method:** Observe by listening, with one recorder assigned to the words and another to the clock, because the transit time is the measurement that makes the rest legible. Record the first audible sign, the first emotional response and whose memory prompted it, the first measurable change in the Gardens, and the condition that ended the encounter. The entity looks and sounds the way it does because of what happened to it and not because of any intention toward the listener — a chain of voices is what a correspondence becomes when everyone it was addressed to has gone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Memory Chain (O-IIβ-467 [LS]) is logged as a Subject-Spirit manifestation expressing Lament. The Chain formed from connections preserved through memory after physical bonds were lost. Held at Zone D, Echo Gardens. It is heard more often than seen.
+Memory Chain is a voice that travels one word at a time along a fixed line of air in the Echo Gardens, left to right, at an even rate, taking forty-one seconds end to end. It is almost never visible. It is what forty-one letters between six exiled people became once there was nobody left to post them to.
 
 **Entry 2 — <Excerpt from Echo Gardens Patrol Log, Year 4238>**
 Travels through voices and memories in the Echo Gardens. Personnel become linked to memories that are not theirs. Its voice moves through connected memories.
@@ -278,13 +278,13 @@ The burden of remembering a relationship alone.
 Management: Name the link and return each memory to its owner. Work response — Flerehan: Links loosen and the voice becomes gentle. (Decrease); Pugnahan: The voice tightens around the worker's thoughts. (Increase); Viderehan: Reveals the memories connecting the group. (Stable); Ferrehan: Tests whether the worker can carry a shared past. (Decrease). Personnel report sorrow after links are released.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Collector who collected too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+The single change in the order came in Year 4,233, when a word none of the recorders had heard before entered the sequence in the eleventh position and stayed. It is a place name. It appears in none of the forty-one letters and the Gardens station has never been able to establish whose it was. The standing instruction, written the week it happened, is that it is to be transcribed like any other word and that nobody is to go and look at the place.
 
 ## 최종 관찰 (Final Observation)
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Memory Chain; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Say the one name you can honestly match, and let the rest pass. | Say all six, to be sure the right one is among them. |
 |---|---|
 | Links loosen and the voice becomes gentle. The sorrow is witnessed; Memory Chain is fully recorded. | The voice tightens around the worker's thoughts. The gauge climbs and Memory Chain withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -295,32 +295,32 @@ A voice circles you like metal sliding over metal. It speaks from one side of th
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Lament always changes a room. Then the Subject-Spirit resolves: An invisible chain heard as a voice moving from link to link through the air. When visible, it appears as blue spirit-light.
+**At first contact:** Nothing to see, and then a word, at head height, a little to your left. Then another, further along, at the same interval. The voice is not the same twice and it is never addressed to you; you are standing beside a conversation that has been going on without an audience for eleven years.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Lament is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** You start to hear which of the six is speaking. Recorders disagree about the number — some hear four voices, some seven — but every long-serving recorder has eventually begun sorting them, and the station does not ask them to stop.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Lament becomes something you can taste, hear, or feel on your skin. The Subject-Spirit has crossed the line between containing and becoming.
+**When the entity activates:** The interval goes wrong. Words crowd, or arrive together, or come back the way they went, and the sense of a conversation collapses into sound. Recorders describe this as the worst thing the holding does and none of them can explain why it is worse than the alternative.
 
-**After departure:** You leave, but the Lament follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** You write to somebody. Recorders coming off this holding do it at a rate the station has quietly measured, and the measurement is in the file because it is the only after-effect in the Gardens that anybody has described as good.
 
 ### Interaction Pattern
 
-Memory Chain does not exist in isolation. Its recorded relationships with The Chain of Memories, The Memory Weaver, Risus should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relations, all with holdings that carry something held between people, and all three asked the same question: can a link be put into this sequence from outside. One tried and failed, one offered and was refused, and one produced the only insertion in the file — which nobody intended.
 
-**Interaction method:** Individual observation precedes interaction study; know what each entity does alone before watching them together. The relations recorded here all concern things held in common after the holders have gone, so the question to settle is whether the chain takes a link from the other entity — whether a new memory enters the sequence, where in the order it is inserted, and whether the transit time changes. Document onset, range, duration, gauge movement on both sides, environmental effect, and residue. Yesterday's interaction predicts nothing: these are sorrows given form, and a breach, a Sorrow Tide, an Ordeal or a transformation can rearrange the resonance between two of them overnight.
+**Interaction method:** Solo baselines first and then one question: does a new word enter the sequence, where in the order, and what happens to the transit. Everything else is secondary here. Re-verify each cycle; a Sorrow Tide rearranged the resonance in these Gardens overnight in Year 4,234.
 
 
 ### Entity Interaction Record
 
-Memory Chain must be assessed as one of a group of sorrows that consist of something held between people, rather than as a single voice in the Gardens. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that shows only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
+Eleven supervised sessions across three holdings, every one scored on the word order and the clock. The table records what each party attempted and what the sequence did.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Chain of Memories** | Both link people through shared history. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Memory Weaver** | Tries to add stolen memories to the Chain. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **Risus** | Carries laughter through its links. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Chain of Memories** | The obvious counterpart, filed alongside it since both were catalogued. | Five sessions. No insertion, no change in transit, and one finding that closed a long-standing question: the two sequences share no word, which the station takes as evidence they have no people in common. | Both sequences transcribed in full, side by side, and both transit times. |
+| **The Memory Weaver** | Attempts insertion; the only party on file that has tried. | Four sessions, four attempts, four refusals. The transit lengthened by three to five seconds during each attempt and returned to 41 the moment the Weaver was withdrawn. Nothing it offered ever entered the order. | The attempted word, the position attempted, and the transit throughout. |
+| **Risus** | Brought as a transfer pairing on the strength of a resemblance in form. | Two sessions, the second of them in Year 4,233. The place name entered the sequence that day, in the eleventh position, and has stayed; neither station has been able to show that Risus put it there and neither has been able to show that it did not. No further session is authorised. | The full order before and after, timed, with both stations' recorders present and filed separately. |
 
-**Interaction procedure:** Baseline both parties alone, bring them into range along the axis of travel, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the Gardens, and whatever persists after separation. The field this holding adds is the sequence: the full order of links before the pairing and again after it, because an insertion is the only form an interaction takes here.
+**Interaction procedure:** Along the axis of travel, never across it, with the full order transcribed before the second party arrives and again after it has gone. An insertion is the only form an interaction takes here, and the Year 4,233 word is in the file because somebody wrote the order out beforehand.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -352,17 +352,17 @@ Some sorrows mourn separation. Memory Chain mourns the memory-bond — the conne
 **Common Name:** Memory Chain
 **Containment Status:** Contained — Zone D, Echo Gardens
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Moderate on the schedule and mild in practice. Eleven years, five order-collapses, nine strikes, no fatalities and no lasting injury; the standing cost is eleven recorders who came away remembering somebody they never met.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- Two workers, one book, one clock. Transit time and word order are the readings.
 - Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- The order breaking, or the line reaching the outer path; both have ended without intervention.
 **Observation Notes:**
-- See Origin section for formation and event details.
+- Forty-one letters between six people over nine years, each repeating what all of them already knew.
 - See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+- Two pieces; worn past pattern the shroud stops holding the memories off and starts delivering them.
+**Cross-References:** The Chain of Memories (no shared word), The Memory Weaver (four refused insertions), Risus (closed), the forty-one letters, and the Year 4,233 place name.
+**Faction Involvement:** None active. UCD requested transcripts twice on the grounds that the Gardens are Fray-adjacent and was refused both times, the letters and the sequence being held as personal correspondence.
 **Originator:** See Origin section — ‘The People’ field.
 
 ### Registry Addendum
@@ -397,10 +397,10 @@ People separated by exile went on holding their memories in common until the mem
 
 ### Registry Trivia
 
-- **Classification detail:** Memory Chain is a Subject with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone D, Echo Gardens.
+- **Classification detail:** Echo (II) coherence at Moderate (β) — six people, one shared past, and a voice that still divides it between them in order.
+- **Field detail:** Lament, along one fixed axis in the Echo Gardens, Zone D, worked by a recorder and a timekeeper standing a measured distance apart.
 - **Recognition detail:** Identify it by the travel and the interval. Several things in the Echo Gardens speak without a body; this is the one whose voice moves in one direction along a fixed line, at a constant rate, and which is almost never seen at all.
-- **Record detail:** Chain-form and memory-form entities are both common in the archive and this one is filed under both. Confirm the designation and the manifestation before a cycle is booked, because the instructions diverge at the point that matters here — whether what it holds is to be released or returned, which are not the same operation.
+- **Record detail:** Filed under both chain-forms and memory-forms, and the booking error that matters is between release and return. Several comparable holdings are managed by letting what they carry go. Here it is handed back, to a named person, one memory at a time.
 - **Containment detail:** It does not need to breach to reach anyone. Containment governs where the chain hangs and not what it carries, and what it carries moves between people who are nowhere near it — two staff on opposite shifts have recognised the same unfamiliar memory. The boundary limits movement; it has never limited connection, which is the one thing this entity does.
 ## Document Information
 

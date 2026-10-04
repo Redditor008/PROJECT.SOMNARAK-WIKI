@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **292** |
-| Pending — no disposition-bearing line found by scan | 11 |
+| **Classified here, with a quoted line of evidence** | **293** |
+| Pending — no disposition-bearing line found by scan | 10 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 292 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 293 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 11 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 10 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ## Why the remaining entries are pending
@@ -345,6 +345,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Exiles' Wall | `SE-O-IIIγ-617` | *"Nine years, four injuries, all of them to people who built something."* It has never struck anybody who stayed on the city side of the marked line; the Year 4,233 collapse took the shelter a well-meaning SED detachment had roofed, and the three other injuries were workers who walked onto the shelter ground and started building. It releases nothing: the Rusted Wall pairing is the clearest null in the Zone E file, and the Exile's Gate is the condition of the holding rather than a party it acts on — 71 metres of growth all follow the city's own expulsions or a warden's phrasing. The twice-flooded exile road is damage to ground outside F01 and falls under R-19.2. Neutral. |
 | Animus | `SE-O-Iα-108` | *"Nine years, eleven strikes, all to people standing in the line, no fatalities and no lasting injury."* It has never altered course for a person, approached one, or stopped walking because one was there, and in nine years of transcripts the voice has never accused anybody of anything. Nine supervised sessions produced no transfer — the Rusted Wall-style pairing failed because this holding is an emotion with no contents — and the only rise in clarity on record followed the Forgotten Soldier saluting it, with no third session authorised. The durable harm is to the eleven wardens in the sealed file who left certain of a cause nobody can confirm; it falls on the people who work it. Neutral. |
 | Forgotten Tear | `SE-O-Iα-709` | *"Nineteen years, 212 cycles, nine over-runs, nine injured hands, no fatalities."* Stationary in a tray on the third vault shelf; it has never moved itself and every injury on file is to the hand of the person holding it, ended by a second worker opening their fingers. It assists no entity and nothing assists it — six sessions with the Frozen Tear and two with the First Tear moved the mass by not one gram, and the Rage Statue pairing was suspended because holders named living people faster, which is harm to the holder rather than help to the Statue. Neutral. |
+| Memory Chain | `SE-O-IIβ-467` | *"Eleven years, five order-collapses, nine strikes, no fatalities and no lasting injury."* It travels one fixed axis and has twice reached the Gardens' outer path without crossing it, shortening again within a day unaided. It assists nothing and refuses to be assisted: the Memory Weaver attempted insertion four times and was refused four times, the transit lengthening three to five seconds and returning to 41 the moment the Weaver withdrew. The standing cost is eleven recorders who came away remembering somebody they never met — borne by the people who work it, and logged to the counsellor rather than the supervisor for that reason. Neutral. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
