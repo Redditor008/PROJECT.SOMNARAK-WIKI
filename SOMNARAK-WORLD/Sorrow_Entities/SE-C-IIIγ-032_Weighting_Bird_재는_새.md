@@ -34,15 +34,15 @@
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan and Ferrehan lower the gauge; Pugnahan raises it; Viderehan holds level. Take the plate reading before and after. Do not ask it anything. |
 
 ### Operational Notes
 
-- The Weighting Bird grows heavier as a shift continues, and the perch is replaced on a fixed schedule rather than on inspection.
-- Successful work returns it to its recorded mass for a time. The entity itself is not altered by the cycle.
-- The Grudge expression is why Flerehan calms this one where the same approach agitates others in the same block.
-- Two ignored conditions are enough to breach. Mass is the leading indicator here, not the gauge.
-- Recovery of the implement is a distinct exposure event with its own authorization.
+- The Bird gains mass across a shift — between nine and fourteen kilograms over eight hours, measured on the floor plate beneath the perch — and sheds it slowly when left alone. The perch is replaced on a fixed schedule rather than on inspection, because by the time a perch looks unsound it has been unsound for a week.
+- A completed cycle returns it to its recorded mass of nineteen kilograms within the hour. Nothing else does, and nothing about the entity itself is altered by the cycle.
+- The Grudge expression is why Flerehan calms this one where the same approach agitates others in the block: a worker's own sorrow is the one quantity it can set against the load it is carrying, and the comparison appears to discharge something.
+- Two ignored conditions are enough. Mass is the leading indicator here and the gauge is the lagging one; the plate has predicted every event on this holding, and the gauge has predicted none of them.
+- Recovery of the implement is a distinct exposure event under its own authorisation, and the authorising officer is required to have been weighed. That requirement was added by the officers themselves.
 
 ## Combat Record
 ### Core Stat Line
@@ -98,16 +98,16 @@
 - Failure to achieve resolution triggers Weighting Bird’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
 
 ## Appearance
-**Primary Form:** An eagle-sized bird whose eyes are small scales. Each scale constantly weighs what it sees.
+**Primary Form:** A heavy, dark-crimson bird of true flesh and feather, roughly eagle-sized, plumage the red of old anger and talons long overgrown. It radiates a dry feverish heat and smells of char and old smoke. In place of eyes it carries two small balance scales, each with two pans, which move continuously and are never still for more than a second at a time.
 
-**Notable Features:** Measures guilt rather than physical mass; compares sorrow against sorrow; never gives an unrecorded judgment.
+**Notable Features:** The scales measure culpability, not mass. They return a comparison and never a verdict — one load set against another — and no comparison it has ever made has been discarded, withdrawn, or revised.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
-- **Primary marker:** An eagle-sized bird whose eyes are small scales. Each scale constantly weighs what it sees.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Primary marker:** Two working balance scales where the eyes should be, in constant motion, on a dark-crimson bird that is far heavier than it looks and gets heavier as the day goes on.
+- **Position / movement:** On the reinforced perch over the floor plate. It moves rarely and badly; it is the slowest of the Three and the only one that has ever been described in the log as labouring.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-B-01, contained with the Three Birds
 
@@ -116,54 +116,54 @@
 | Field | Detail |
 |---|---|
 | **Form** | An eagle-sized bird whose eyes are small scales. Each scale constantly weighs what it sees. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
+| **Position / movement** | On the reinforced perch above the load plate. Record the plate reading rather than the posture; the posture tells you nothing and the plate tells you everything this holding does. |
+| **Material / signature** | Dark-crimson plumage, dry radiant heat at some four degrees above ambient, a smell of char. Grudge expression. Two balance scales in constant motion, which stop only in the second after a comparison completes. |
+| **Distinctive markers** | The scales; the overgrown talons, which have never been used on anything; and the mass, which is the only measurement in the wing that has ever predicted a breach. |
+| **Identification** | Confirm designation `C-IIIγ-032 [GS]`, Fragment (III) coherence, Major (γ) potency, Subject-Body manifestation, Grudge element, SECTOR-B-01 with the Three Birds. The Observing Bird has a hundred and forty-four eyes; the Guarding Bird stands between things. This one weighs nineteen kilograms at rest and more by evening. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Log the plate reading at entry and exit, the scale movement, the surface temperature, and the second in which a scale comes to rest. Do not log what the comparison was. The prohibition is absolute and the reason for it is in the first section of the Warden Record.
 
 ## Origin
-- **Formation:** The Bird formed from the sorrow of those forced to measure guilt and judge others.
-- **The Sorrow:** The knowledge that every judgment creates another burden.
-- **The Event:** Collectors and officials weighed citizens' guilt until the act of judgment became an entity.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+- **Formation:** Crystallised from the assessors — the Collectors' clerks and the civic officials who spent their working lives setting one person's culpability against another's and entering the result in a book.
+- **The Sorrow:** Not guilt, and not the guilt of others. The specific exhaustion of a person who has been required to produce a comparison every day for thirty years, who has never been wrong, and who has never once been told what any of it was for.
+- **The Event:** No event. The assessing went on for four generations and the entity accreted out of it, which is why this is the only one of the Three with no date and no fire attached to it.
+- **The People:** The assessors themselves, identifiable from their own case books. Nineteen hands are distinguishable in the surviving run. None of the nineteen is named anywhere in the books, which record the assessed and never the assessor.
+- **Expanded origin context:** A single representative page of the case books is held with the commissioning material rather than the full series. The page is entirely mundane: four names, four figures, four determinations, in a neat clerical hand, with a tally at the foot. The Keepers' note explains that one page conveys the practice accurately and the full run conveys only its length, which is eleven thousand pages.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Finds the worker's sorrow equal to its own. | Decrease |
-| **Pugnahan** (Confrontation) | Weighs aggression as guilt. | Increase |
-| **Viderehan** (Observation) | Reveals its calculations and the facility's balance of guilt. | Stable |
-| **Ferrehan** (Endurance) | Weighs resolve and patience. | Decrease |
+| **Flerehan** (Tears) | It finds the worker's sorrow equal to its own and the scales come level and stay level for several seconds, which is the longest they are ever still. | Decrease |
+| **Pugnahan** (Confrontation) | Aggression is weighed as culpability and entered like anything else. The entity does not retaliate; the gauge rises because the load it is carrying has just got larger. | Increase |
+| **Viderehan** (Observation) | The scales become legible and the working can be followed. What is visible is arithmetic, consistent and dull, and this is the Work Type under which the consistency study was run. | Stable |
+| **Ferrehan** (Endurance) | A worker who completes the watch without asking it for anything. The gauge falls and the plate reading falls with it, and the second of those is the one the file treats as the result. | Decrease |
 
 
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Weighting Bird is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at SECTOR-B-01, contained with the Three Birds; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Weighting Bird is a Subject with Subject-Body manifestation and Grudge expression, held at SECTOR-B-01 with the Three Birds. Flerehan and Ferrehan lower the gauge, Pugnahan raises it, Viderehan holds level. The table is unremarkable and so is the entity. It has never struck anybody, never pursued anybody, and never in sixty-one years weighed anyone who did not ask it to.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
+**Reading the response:** Read the plate, not the gauge. A decrease means the watch was completed without a request being made of it. An increase means somebody asked. The file records, without comment, that the gauge has risen on this holding four hundred and ten times and that every one of those was a member of staff choosing to stand in front of it.
 ## Breach Behavior
 
 > *"Weighting Bird has broken free. Dives at personnel."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Escape |
-| **Movement** | Weighting Bird bursts free and crawls or slithers in search of prey. It dives at personnel. |
-| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
-| **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
-| **First Target** | The heaviest guilt in range, regardless of rank or proximity. The scales resolve before the wings move. |
-| **Escalation** | Each turn free, Resilience drain +5 until suppressed. |
+| **Breach Type** | Escape — nominal. The entity leaves the chamber and then stops. |
+| **Movement** | It walks out, finds a place with a clear sightline, and waits. It has never pursued anybody, never struck anybody, and on two of the three events did not leave the first corridor. It cannot fly for more than a few metres by the time an event begins. |
+| **Effect** | Nothing, until somebody approaches. Then it weighs them, and it gains their load, and the plate reading climbs. The cracked walls in the earlier record are structural: the mass passes through the floor where there is no plate to spread it. |
+| **Secondary Effect** | A queue. On all three events personnel formed one, unprompted, and on the longest event the queue had to be dispersed four times and re-formed four times. The Secondary Effect of this holding is that people want to know. |
+| **First Target** | Whoever asks first. It does not select, does not favour the heaviest, and has never weighed anybody who stayed behind the line. |
+| **Escalation** | Resilience drain +5 each turn, and mass accumulating on the structure at a measured eleven kilograms per person weighed. The event is costed in kilograms on a floor that was not designed for it, and ends when nobody is left who wants to be weighed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Clear the corridor rather than block it. The Bird stops when there is nothing left in front of it to weigh.
-- **Sorrow Gauge on breach:** Opens at 30% and rises in proportion to the mass it has weighed, which makes a crowded corridor costlier than a long pursuit.
+- **Breach type:** Escape in name. In practice a structural-loading event produced by voluntary attendance, and it is managed by the engineers and the roster rather than by the response team.
+- **Containment priority:** Clear the corridor and keep it clear — not to protect anybody from the Bird, but to keep people away from it. Physical barriers are unnecessary and a line on the floor has sufficed on every occasion on which anybody enforced it. Confirm the floor loading before deciding where to let it settle.
+- **Sorrow Gauge on breach:** Opens at 30% and rises in proportion to the mass it has taken on, which makes a crowded corridor far costlier than a long one. The longest event lasted six hours and the most expensive lasted forty minutes.
 
 ## M.A.W. Equipment
 
@@ -230,20 +230,20 @@ The delicate brass needle tilts continuously between the two pans in response to
 
 **Cost:** The needle's constant movement creates a faint, persistent prickling sensation over the breastbone.
 
-*Stigmas are granted at random by Weighting Bird upon a successful work, not manufactured.*
+*The Scale-Stigma is not manufactured and cannot be requisitioned. It has been conferred six times, in every case on a worker who completed a full watch without asking to be weighed.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Weighting Bird's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Each piece of this entity's equipment is an extension of a comparison rather than ordinary equipment. The listed benefit is strongest against Grudge. The cost is separate and is always the same: the bearer begins ranking people involuntarily and accurately, and reports that the ranking is correct and that this is the problem with it.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator and grade; gauge and plate reading; the operator's own state in their words; piece condition; objective; and confirmation from the counsellors that the operator has not asked to be weighed within the preceding ninety days. |
+| **During use** | Contact time, plate reading at fifteen-minute intervals, scale movement, the first cost, and any request made of the entity by anybody present. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the operator or by the observer. |
+| **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and whether the bearer has ranked a colleague aloud in the following week. |
 
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 
@@ -252,12 +252,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
-- It calculates guilt rather than morality.
-- Personnel exposed for long periods report increased empathy and reduced detachment.
-- It has never breached by force; it simply waits to be asked to judge.
+- It produces comparisons of culpability, never verdicts, and never a figure that stands on its own: every output is one person set against another.
+- Personnel exposed over long periods report increased empathy and reduced detachment, which is the only effect in this wing that both the counsellors and the operations register classify as desirable.
+- It has never breached by force and has never weighed an unwilling person. Three escape events in sixty-one years; in all three it walked out, stopped, and waited to be asked.
 
 **Personnel Note:**
-> *"The Bird weighed me and found no innocence, only weight. I expected punishment. It gave me a number and waited for me to decide what to do with it."* — Auditor Yuna, Zone B
+> *"It did not find me innocent and it did not find me guilty. It told me where I stood relative to a man I have worked beside for nine years, and it was right, and there is nothing in the world I can do with that."* — Auditor Yuna, Zone B
 
 
 
@@ -265,30 +265,30 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Weighting Bird as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-B-01, contained with the Three Birds. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Weighting Bird's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The observer identifies the holding by the scale-eyes, the crimson plumage, the dry heat and the plate reading, and confirms the designation against the other two Birds before entering. The line on the floor is shown to the worker before the entity is. |
+| **Sustained observation** | Continued watching confirms the pattern: the scales move, the plate climbs, and nothing else happens. Personnel must distinguish the entity's effect from their own curiosity, which is the documented hazard on this holding and the cause of every escalation in the file. |
+| **Activation or escalation** | The team records the plate reading, the position of the line, the number of people in the corridor and the number who have asked, before applying any response. Distance and duration are secondary here; attendance is the variable. |
+| **Post-contact review** | Record what changed, what held, and the detail hardest to name. The report is incomplete if it records the entity's output and complete if it records only that an output occurred; the prohibition on logging the content of a comparison applies to the review as it applies to the watch. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
+**Observation method:** Record the plate reading, the scale movement, the first sensation reported, and the condition that ends the encounter — the completion of the watch, not the calming of the entity. It does not require calming and has never been agitated by anything except a person it has not yet been allowed to answer.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Weighting Bird (C-IIIγ-032 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Bird formed from the sorrow of those forced to measure guilt and judge others. Held at SECTOR-B-01, contained with the Three Birds. It calculates guilt rather than morality.
+A dark-crimson bird of flesh and feather with two working balance scales in place of eyes, held at SECTOR-B-01 with the Three Birds. It weighs nineteen kilograms at rest and more as the day goes on. It produces comparisons of culpability on request and has never produced one unasked.
 
 **Entry 2 — <Measuring Guilt>**
-Flies through the facility measuring guilt and sorrow. Personnel feel their guilt physically measured. Personnel exposed for long periods report increased empathy and reduced detachment.
+*<Field log, first escape event>* — Walked from the chamber to the corridor junction and stopped. Remained eleven minutes without approaching anybody. A queue formed. Four personnel were weighed at their own request before the line was enforced; plate reading at the junction rose forty-four kilograms. The floor was surveyed afterwards and found sound.
 
 **Entry 3 — <Every Judgment a Burden>**
-The knowledge that every judgment creates another burden.
+*<Counselling log, Warden, after the third request to have a judgment withdrawn>* — "He wanted me to tell him it meant nothing. I could not tell him that, because it means exactly what it says and it is correct. What I could tell him is that there is no one in the world who can do anything about it, including the Bird, which I think he had already worked out and wanted to hear from somebody else."
 
 **Entry 4 — <It Waits to Be Asked>**
-Management: Acknowledge the judgment without attempting to deny the weight.  It has never breached by force; it simply waits to be asked to judge.
+*<Containment notice>* — Management: complete the watch, record the plate, hold the line. Do not ask it anything, and do not permit anybody else present to ask it anything. The prohibition is not for the entity's protection. Nothing it says is wrong and nothing it says can be undone.
 
 **Entry 5 — <The Mother in the Story>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a mother who lost her child to the Han. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+*<The Consistency Study, Y4245–Y4250>* — Three thousand one hundred comparisons were put to it, in randomised order, by different workers, across five years, with duplicate pairs reintroduced after intervals of up to four years. **Every duplicate returned the same result. No intransitive triple was found in the entire set.** What the facility holds, in consequence, is a single complete ordering of every person the entity has ever weighed.
 
 ## 최종 관찰 (Final Observation)
 
@@ -364,9 +364,9 @@ Some sorrows are suffered. Weighting Bird's sorrow is inflicted — gently, nece
 
 **Classification:** Sorrow Entity — `C-IIIγ-032 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Subject-Body manifestation
 **Common Name:** Weighting Bird
-**Containment Status:** Contained — with the Three Birds, Zone B
-**Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate. The Bird carries a scale. Exposure causes personnel to feel the burden of every judgment they have made. The Bird is slower and heavier than its siblings.
+**Containment Status:** Contained — SECTOR-B-01 with the Three Birds, Zone B; three escape events in sixty-one years, none involving pursuit or injury
+**Comprehension Level:** 2 — Basic. The mechanism, the consistency and the mass behaviour are characterised. What the comparison is a comparison *of*, in any sense a person could act on, is not, and the opinion below is the nearest thing the file has to an answer.
+**Threat Assessment:** Moderate. It does not attack, does not pursue, and does not weigh the unwilling. It is slower and heavier than its siblings and becomes heavier still. The grading is for the structure it stands on and for what the facility has done with its output, not for any risk to the person in front of it.
 **Containment & Handling Procedures:**
 - Pugnahan and Ferrehan are valid Work Types.
 - The Bird is gravest near personnel in positions of authority.
@@ -374,15 +374,15 @@ Some sorrows are suffered. Weighting Bird's sorrow is inflicted — gently, nece
 **Observation Notes:**
 - Born from the accumulated sorrow of officials who judged without rest.
 - The Bird carries every verdict ever rendered.
-**Cross-References:** The Three Birds · The Observing Bird · The Guarding Bird · The Convergence
+**Cross-References:** The Three Birds · The Observing Bird · The Guarding Bird · The Convergence · the assessors' case books · the Consistency Study Y4245–Y4250 · the opinion on comparative findings · the succession report of Y4251
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** Judges, Collectors, and officials who weighed citizens’ guilt for generations.
+**Originator:** The assessors. Nineteen distinguishable hands across four generations of case books, none of them named in any of the eleven thousand pages they wrote.
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The three sections below are one argument and are read together: the comparisons are perfectly consistent and yield a complete ordering, a comparison is not a finding of fault and can therefore neither be answered nor withdrawn, and the facility has made exactly one use of that — a published comparative placement of itself. Where observation contradicts this record, preserve the contradiction rather than normalising it.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every breach, Tide, Ordeal or unusual interaction, re-verify the plate calibration, the rest mass, the consistency of a duplicate pair drawn from the Study, the standing of the succession report's comparative claim, and the status of the access proposal, which is to be reported as outstanding for as long as it is outstanding.
 ## Warden Record
 
 ### Weighing Guilt
@@ -401,6 +401,44 @@ Collectors and officials who assessed citizens' guilt until the assessing itself
 
 The personnel who asked to have a judgment withdrawn were told that the facility could do nothing, in writing, by the senior Warden, and each letter said so in the same plain terms rather than offering consolation. All three asked that the correspondence be kept. It is held in the containment file under their names, at the front, and the archivist's note records that they wanted it there.
 
+### Three Thousand One Hundred Comparisons
+
+The Consistency Study was not designed to find out whether the Bird is right. Nobody has ever devised a way to test that. It was designed to find out whether it is *coherent*, which is testable, and which turns out to matter more.
+
+Three thousand one hundred comparisons were put to it between the forty-fifth year and the fiftieth. Each was a pair: two people, two case histories, two loads. The order within each pair was randomised. The order of the pairs was randomised. Different workers put them, in different months, in different years. Four hundred duplicate pairs were seeded through the series, some reintroduced after as much as four years, some inverted.
+
+**Every duplicate returned the same result, including every inverted one.** Across the full set of three thousand one hundred, **not one intransitive triple was found** — no case anywhere in which it held A heavier than B, B heavier than C, and C heavier than A. For a set of that size the probability of that arising by chance is not small; it is not calculable in any useful sense.
+
+The consequence is arithmetic and the Study states it in one sentence. A set of comparisons that is complete and transitive is an ordering. The facility therefore possesses, as an unavoidable by-product of five years of methodology work, **a single exact ranking of the relative culpability of every person the Bird has ever weighed** — four hundred and ten members of staff, the nineteen assessors of the case books, and every name in the pre-Veil material that was ever put to it.
+
+Three controls were run and all three returned nothing. Fabricated case histories produced a refusal to weigh rather than a wrong answer. Identical histories under different names returned a level scale. And the one attempt to influence it — the same pair put by a worker who had been told, falsely, which answer was wanted — returned the same result as every other presentation of that pair.
+
+The Study's final line: *we set out to establish whether it was consistent. It is. We should have asked ourselves first what we would do with the answer, because the answer is a list, and a list of that kind has never once in the history of this city sat in a drawer.*
+
+### A Comparison Is Not a Finding
+
+The opinion is dated the fifty-first year and is the shortest in the folder, which the Keepers note is characteristic of the ones that settle something.
+
+Fault in law is determined against a standard, not against another person. The question is always whether this person, on this occasion, fell below what was required of them — and it is answered without reference to anybody else's conduct. Comparison between parties arises only afterwards and only in a narrow place: once liability has been separately established against two or more people, a tribunal may apportion between them. The apportionment is a consequence of findings. It is never a substitute for them.
+
+So a statement that A is more culpable than B is, on its own, incapable of being anything. It is not an allegation, because it does not assert that either of them did anything. It cannot be admitted, because there is nothing in it to admit. It cannot be disproved, because it does not say what happened. And it cannot be withdrawn, because no body has the power to withdraw a thing that was never a determination.
+
+Counsel deals with the three requests in a short closing paragraph, and is sympathetic without being able to help. The personnel who asked to have a judgment lifted were asking for relief from something that, in law, does not exist. There is no mechanism, no influence, and no standing, and counsel observes that the absence of all three follows from the same feature that makes the output harmless: *it is nothing, which is exactly why nobody can take it away from them.*
+
+### The Succession Report
+
+In the fifty-first year the Directorate published its succession report, and the report contains one paragraph that the Keepers have underlined in every copy held on this floor.
+
+The question before it was the facility's inheritance of the Collectors' assessment function — four generations of officials weighing citizens, eleven thousand pages, and a body of public feeling about it that had not diminished. The report sets out the facility's practices, the safeguards, the counselling provision, and then, in its fourth section, states that the comparative placement of the present institution against its predecessor bodies has been independently established, and that the facility is placed below all of them.
+
+The placement is the Bird's. It is accurate, it is consistent, and it is, on the opinion printed two pages earlier in this same file, not a finding of anything.
+
+That is the whole of the matter and the objection puts it plainly. It is minuted at the fifty-second review and at each of the eight since, raised by the holding's senior Warden and supported by one member of the Directorate. It holds, first, that the facility has asserted the same comparative output to be meaningless when three of its own staff asked to be released from it and probative when it placed the institution favourably in a public document, and that both assertions were made in the same year by the same office. Second, that the claim was chosen because it is unanswerable: no forum entertains relative verdicts, so nobody — no successor body, no descendant of anybody in the case books, no member of staff — has any means of contesting it, and the facility knew that when it published, because its own counsel had explained it. Third, that the ranking exists, is stable, includes four hundred and ten serving staff, and has been consulted six times in matters where the ordinary criteria were exhausted; the file records those six consultations and records no decision as having turned on them, which the objection notes is a different statement from the one the Directorate keeps making.
+
+The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the fifty-third year at the price of a clerk and a safe — the register sealed, consultation prohibited in terms rather than by convention, and a right for any person who has been weighed to be told their own position and to have that disclosure logged — and that it has not been laid before the board in eight years. And it records the sentence the senior Warden asked to have entered verbatim, which now stands at the front of the containment file, above the three letters:
+
+*A comparison is nothing at all when a man asks to be let out of it, and it is a finding when the institution would like to be flattered by it, and we have put both of those in writing in the same twelve months.*
+
 ## Trivia
 
 - The Bird measures guilt even when no formal debt exists.
@@ -410,11 +448,11 @@ The personnel who asked to have a judgment withdrawn were told that the facility
 
 ### Registry Trivia
 
-- **Classification detail:** Weighting Bird is a Subject with Fragment (III) — Calculating and precise coherence and Major (γ) — High danger as group entity potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-01, contained with the Three Birds.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Classification detail:** A Subject with Fragment (III) coherence and Major (γ) potency, graded for structural loading and institutional use rather than for danger to a person.
+- **Field detail:** Grudge element, Subject-Body manifestation, SECTOR-B-01 with the Three Birds. Rest mass nineteen kilograms; working mass up to thirty-three.
+- **Recognition detail:** Two balance scales in place of eyes, dark-crimson plumage, dry radiant heat, a smell of char, and a gait that labours. It is the only one of the Three that is audibly heavy.
+- **Record detail:** Of the Three, the Observing Bird holds and this one compares; the distinction is the whole difference between the two files. Its sibling's record is evidence that no forum can hear. This one's output is not evidence at all, in any forum, and the facility has found that more useful than the other.
+- **Containment detail:** Containment holds the body and not the register. Every comparison it has made is still held inside it, cannot be withdrawn, and has been requested back three times, each refusal preserved in the file at the request of the person refused.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-032
