@@ -17,7 +17,7 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **21 / 303** |
-| **Dossiers at the Tale standard (`R-24`, prose generic fraction ≤ 0.05)** | **77 / 303** |
+| **Dossiers at the Tale standard (`R-24`, prose generic fraction ≤ 0.05)** | **76 / 303** |
 | Archive median prose generic fraction | 0.107 |
 | **Dispositions classified (Workstream 5)** | **275 / 303** |
 
@@ -108,7 +108,7 @@ and the sections around it are not. Measured with [`sect.py`](RULES/R-24_THE_TAL
 
 Scores are measured on prose only — `sect.py` skips `R-23` furniture before shingling, because a
 dossier should not be penalised for the blockquotes and SECC-forced rows it is *supposed* to share.
-Archive median generic fraction **0.107**, worst 0.386 (`N-IIIβ-200` Chain of Memories), **77 / 303**
+Archive median generic fraction **0.107**, worst 0.386 (`N-IIIβ-200` Chain of Memories), **76 / 303**
 at ≤ 0.05. The ten dossiers rewritten in the last batch reached `RESIDUAL 0` and residue 0 and still
 measure 0.103–0.129 — **clearing the line-level tools does not make a dossier bespoke.** What
 survives them is the Combat Actions flavour text, the Battle Phases, the M.A.W. appearance and
