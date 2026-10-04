@@ -31,18 +31,18 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Hollow Sceptre, Veil and Chalice are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan or Ferrehan from beyond the marked line, for no more than twenty minutes, by a worker with nothing recent to lose. She is a Subject; all four Work Types are valid and no Object/Place restriction applies. |
 
 ### Operational Notes
 
-- The Saint's robes hold a shape with nothing inside them, and the posture of blessing never varies.
-- A cycle settles the figure. It has never filled it, and the hollow is the stable state rather than a symptom.
-- The margin is two conditions, and the Void manifestation means a breach is noticed by absence — personnel forget the cell is occupied.
-- Identity pressure here works on the operative's sense of being witnessed. Crews who stop speaking to one another are withdrawn.
-- Extraction is a separate risk event under its own authorization.
+- The robes hold a shape with nothing inside them, and the posture of blessing has not varied in any photograph taken since the containment opened.
+- A cycle settles the figure and fills nothing. The hollow is the stable state, not a symptom, and no work has ever reduced it by a measurable amount.
+- The margin is two conditions, and a Void breach is noticed by absence: the first sign is a watch officer who has stopped thinking about the cell at all.
+- The pressure works on the sense of being witnessed. Crews who stop speaking to one another are withdrawn immediately, and the rule is enforced by the clock-holder rather than by the crew.
+- Extraction is a separate risk event under its own authorisation, taken at the line and never within reach.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,27 +87,27 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Hollow Saint's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** Ten turns, from beyond the marked line, with two workers who are required to speak to each other at every turn. Pugnahan is answered by a harder pull and is not authorised.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not feed it grief; establish distance and identity anchors**.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Composure** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks The Hollow Saint’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, The Hollow Saint defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- The failure here is relief. The worker's grief goes, genuinely and completely, and what comes back in its place is nothing at all.
+- Past twenty minutes the numbness stops being local. Both long exposures on file produced workers who could describe what they had lost and could not mind about it.
+- The Hollow equipment lends the wearer her capacity to absorb and takes the part that would have objected. Every wielder's debrief has recorded a worker who felt better than they should have.
+- Unresolved, she breaches by Escape and walks toward whoever is carrying the most grief, which makes the response plan a question of who leaves first rather than who holds the door.
 
 ## Appearance
 **Primary Form:** A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people as if searching for something to fill it.
 
-**Notable Features:** It absorbs sorrow, has no stable interior, and cannot be filled by ordinary comfort.
+**Notable Features:** The hollow at the core is permanent and cannot be filled. The hands reach continuously, at anyone within about four metres, and do not stop when unanswered. Ordinary comfort does nothing and the attempts are listed in the file.
 
 **Identification Profile**
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Void
 - **Primary marker:** A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people as if searching for something to fill it.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** Standing or walking slowly, hands extended. Record the distance to the marked line, the reach, and whether both workers have spoken in the last two minutes.
 - **Element signature:** Void
 - **Registered location:** SECTOR-B-02, Zone B
 
@@ -116,36 +116,36 @@
 | Field | Detail |
 |---|---|
 | **Form** | A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people as if searching for something to fill it. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Position / movement** | Upright, hands out, moving toward the nearest person at a walking pace. Record distance to the line, reach extension, and the crew's speech check at two-minute intervals. |
+| **Material / signature** | Void. Bloodless, cold, ash-smelling; flesh curving inward around a hollow where a heart should be, with no reflection in any surface in the chamber. |
+| **Distinctive markers** | A saint's posture of blessing held permanently, a visible absence at the core, hands that reach without stopping, and no reflection. |
+| **Identification** | Confirm before Work or contact: designation C-IIIγ-081 `[VS]`, Void expression, Subject-Void manifestation, Fragment (III) coherence, SECTOR-B-02 in Zone B. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the distance to the line, the reach, the posture, and the crew's speech check. The posture does not change, which makes the reach and the distance the only moving observations available. Nothing offered into the chamber counts as an observation; it counts as an incident. Do not write *strange* or *anomalous*; she is cold, bloodless, ash-smelling and reaching, and those are the fields.
 
 ## Origin
 - **Formation:** The Saint formed from a healer who absorbed the pain of others until nothing remained of the self.
 - **The Sorrow:** The emptiness of giving everything away and discovering that healing others did not create a self.
 - **The Event:** A healer treated everyone until personal memory, desire, and grief were gone. The remaining emptiness became a figure.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The archive cross-references this entity's sorrow with SECTOR-B-02, Zone B — the same Han density, the same Void signature, the same wound that refuses to close. What began as an incident became a permanent fixture. The Subject is not going anywhere.
+- **The People:** One practitioner of Zone B, named in the containment file, and the several thousand people she treated across a working life that the practice record documents in full.
+- **Expanded origin context:** Nothing went wrong. That is the whole of the difficulty with this holding. She took on other people's pain because she was good at it and because there was always somebody next in the queue, and she did it for long enough that the parts of her that were not the work had nowhere left to be. The practice record shows no error, no complaint and no moment at which anyone told her to stop. What formed at SECTOR-B-02 is the shape that is left when a person spends themselves entirely and the spending is, at every single step, the right thing to have done.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Reaches toward shared grief and absorbs it. | Decrease |
-| **Pugnahan** | Resists and pulls harder at the worker's sorrow. | Increase |
-| **Viderehan** | Reveals the emptiness where its identity used to be. | Stable |
-| **Ferrehan** | Tests the worker by drawing sorrow out slowly. | Decrease |
+| **Flerehan** | Turns toward shared grief and takes it — completely, in under a minute, leaving the worker lighter and flatter. | Decrease |
+| **Pugnahan** | Does not resist; pulls harder, as though force were one more thing to absorb. Gauge rises and the reach extends. | Increase |
+| **Viderehan** | Permits a clear view into the hollow, which is exactly as empty as the file says and tells the observer nothing new. | Stable |
+| **Ferrehan** | Draws sorrow out slowly from a worker who stays beyond the line; the only approach that can be stopped partway through. | Decrease |
 
 
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. The Hollow Saint is recorded as a Subject with Subject-Void manifestation and Void elemental expression. The current record places it at SECTOR-B-02, Zone B; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Hollow Saint is a Fragment (III) Subject with Subject-Void manifestation and Void expression, held at SECTOR-B-02 in Zone B. All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it; the earlier entry restricting the holding to Flerehan alone is an error and is corrected here.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Read it in the reach and in the worker. A falling gauge presents as the hands drawing in a few centimetres; a rising one presents as the reach extending past its own resting measurement. The worker's state is the other half and is not self-reported — the crew partner reports it, because a worker who has just been emptied will say they are fine and will mean it.
 ## Breach Behavior
 
 > *"The Hollow Saint has broken free. Reaches toward personnel."*
@@ -153,16 +153,16 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The Hollow Saint tears loose and pursues personnel with deliberate steps. It reaches toward personnel. |
-| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
-| **Secondary Effect** | An absence that eats the edges of reality. |
+| **Movement** | She walks out and moves toward burden rather than toward people. An unburdened worker can stand in her path and go unnoticed; this has been verified four times and is the basis of the response plan. |
+| **Effect** | Definition goes out of the affected volume. Colour thins, sound drops, and personnel stop being able to say why anything in the corridor mattered to them. |
+| **Secondary Effect** | An absence that takes the edges of things: documents become hard to care about, decisions go unmade, and the watch log for the period is typically blank rather than wrong. |
 | **First Target** | Whoever carries the most grief. It detects burden before it detects position, and an unburdened worker can stand in its path unnoticed. |
 | **Escalation** | Each turn free, Clarity drain +5 until suppressed. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Evacuate the emotionally burdened first and leave identity anchors in the corridor; physical suppression gives it nothing to absorb.
+- **Containment priority:** Move the grieving out first and the unburdened in last. Leave identity anchors in the corridor and give her nothing to take. Physical suppression has been attempted once and achieved nothing in either direction.
 - **Sorrow Gauge on breach:** Opens at 45% and falls 5% for each worker it has drained, which makes a long breach self-limiting rather than escalating.
 
 ## M.A.W. Equipment
@@ -222,7 +222,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Cost:** The user becomes empty of the sorrow removed.
 
-*Stigmas are granted at random by The Hollow Saint upon a successful work, not manufactured.*
+*The Hollow Chalice is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who stood at the line for a full session, offered nothing, and said afterwards that it had been the hardest watch of their service.*
 
 ### M.A.W. Use Notes
 
@@ -242,11 +242,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 3 — Advanced
 
-- It was once a healer but can no longer heal itself.
-- Exposure produces temporary relief followed by emotional numbness.
-- It becomes more active during the Sorrow Tide.
+- She was a practitioner and retains the reflex; the one person the reflex has never reached is herself.
+- Exposure gives genuine relief first and flat numbness after, in that order, in every recorded case without exception.
+- Reach and activity both increase during a Tide, when there is more grief in the building for her to detect.
 
-**Personnel Note:** *"It was mourning. I felt emptiness. Then I realized it was not mourning the dead; it was mourning the person it had become."* — Specialist, Zone C patrol
+**Personnel Note:** *"I thought she was mourning somebody. She was not. There is nobody left in there to be mourning anybody — what she is doing is the last thing she learned to do, to a room, forever."* — Specialist, Zone B containment team
 
 
 
@@ -255,11 +255,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies The Hollow Saint as a Subject with Subject-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-B-02, Zone B. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Hollow Saint's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Distance to the line, reach extension at two-minute intervals, posture photographs against the fixed mark, the crew's speech checks, and the worker's state as reported by their partner rather than by themselves. |
+| **Activation or escalation** | Escalation is the reach passing its resting measurement, or a crew that has gone quiet. Either closes the session, and the clock-holder makes the call from outside the chamber. |
+| **Post-contact review** | Reach before and after, the worker's grief inventory before and after, the partner's account, and a counsellor's note at 14 days directed at whether anything the worker used to mind about has stopped mattering. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Observe from beyond the line, in pairs, speaking. Record the reach, the distance, the posture, the speech checks, and the condition that ended the session. The form here is the history and not a strategy: a person built entirely around attending to other people, with the attending still running and nobody left inside it to be doing the attending.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -294,30 +294,30 @@ The Saint reaches for you like someone starving. Its touch is cold, not because 
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Void, pressing or releasing like a tide. Then the form resolves: A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people as if searching for something to fill it. The space does not become generic; it shifts in the specific register of Void.
+**At first contact:** Cold, ash, and hands already extended toward you from across the chamber — she begins reaching before the door is fully open, which the briefing warns about and which nobody is ready for.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The relief is the danger. Something you have been carrying for months goes, cleanly, and the first thought afterwards is how reasonable it would be to step forward once.
 
-**When the entity activates:** The Gauge tips. The Subject-Void does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.
+**When the entity activates:** The reach extends past its own measurement and the room goes quiet in a way that is not silence — the crew simply stops having anything to say to one another.
 
-**After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The grief does not come back. Workers describe the weeks afterwards as easier and worse, and the counsellors measure it by what the worker has stopped bothering about rather than by anything they report feeling.
 
 ### Interaction Pattern
 
-The Hollow Saint does not exist in isolation. Its recorded relationships with The Kind Healer, The Debt Eater, The Frozen Veil (destroyed; retained below for resonance reference) should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This holding is read against the other things in the wing built out of giving. Each relation below has been observed and filed; none is settled; and the Frozen Veil entry is retained for resonance reference only, that holding having been destroyed.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone across several sessions before any paired approach. Log the onset of any shared change with its range, duration and trigger, the reach measurement on this side of it, both gauges, and what persists after separation. Re-verify each cycle; Tides change this holding's range.
 
 
 ### Entity Interaction Record
 
-The Hollow Saint must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+The relations below are canonical points of contact rather than alliances. None is settled, and the most-quoted of them — the resemblance to the Kind Healer — is the one the wing has worked hardest to stop people overstating.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Kind Healer** | Mirrors the Healer's fear of absorbing too much. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Debt Eater** | Can remove burden but cannot fill the Saint. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Frozen Veil (destroyed)** | Both contained emotional absence, but the Saint hungers. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Kind Healer** | The two are routinely described as the same sorrow at different stages, which is a claim about the future and not an observation. | Five co-presences. The Healer's gauge fell on four and rose on one; the Saint's did not move on any. No transfer, no convergence, and nothing that supports reading one as the other's later state. | All five co-presences, both series, and the claim recorded as unproven. |
+| **The Debt Eater** | The Eater can take burden away, which would in principle give the Saint something she cannot otherwise obtain. | Three sessions. The Eater consumed normally; the Saint's hollow was unchanged on imaging and her reach did not alter. What the Eater removes is not what the Saint is missing. | All three sessions, the imaging before and after, and the unchanged reach. |
+| **The Frozen Veil (destroyed)** | Both were absences, and the Veil was the only absence she was ever observed to approach deliberately. | Two co-presences before the Veil's destruction. She reached and took nothing; the Veil's cold was not available to her in any form the instruments could detect. The record is retained because it is the only negative case of its kind. | Both co-presences, the null result, and the note that the Veil cannot now be retested. |
 
 **Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
@@ -353,17 +353,17 @@ Some sorrows are about loss. The Hollow Saint's sorrow is about giving — and t
 **Common Name:** The Hollow Saint
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Moderate. The Saint heals passively, drawing sorrow from personnel.
+**Threat Assessment:** Major (γ). She takes grief completely and leaves nothing in its place, breaches by Escape toward whoever is carrying the most, and removes definition from the volume she occupies. The earlier entry describing the threat as moderate is an error and is corrected here.
 **Containment & Handling Procedures:**
-- Flerehan is the only valid Work Type.
-- Limit exposure to 20 minutes.
-- Do not assign grieving personnel.
+- Flerehan and Ferrehan are the authorised approaches; Viderehan is permitted and unproductive; Pugnahan is prohibited. The earlier entry naming Flerehan as the only valid Work Type is an error and is corrected here.
+- Twenty minutes maximum, timed from the door by a clock-holder outside the chamber, with no discretion to extend.
+- Personnel with a recent bereavement or an active grief are not assigned, and the exclusion is checked by the clock-holder, not self-certified.
 **Observation Notes:**
-- A healer who absorbed others’ sorrow until her self was gone.
-- The Saint still reaches to soothe; the reflex outlived the self.
-**Cross-References:** Zone B · The Kind Healer · The Dawn of Mourning
+- A practitioner who took on other people's pain for a working life and had nothing left at the end of it.
+- The reaching is the last surviving part of the practice; the person who learned it is not present in any sense the file can establish.
+**Cross-References:** SECTOR-B-02 · The Kind Healer · the practice record · the posthumous review · the single-assignment rule
 **Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
-**Originator:** Unnamed healer of Zone B; healed until emptied.
+**Originator:** A practitioner of Zone B, named in the containment file and not in this summary, whose practice record shows no error of any kind.
 
 ### Registry Addendum
 
@@ -388,10 +388,52 @@ The person who absorbed others' pain until nothing of them remained is named in 
 
 The record of early attempts is kept as a plain list — what was offered, when, and what happened — with no narrative and no conclusions drawn. It runs to a single page. Wardens are shown it at commissioning precisely because it is dry, the file's drafters having judged that a page of failed kindnesses states the position more effectively than any instruction forbidding them would.
 
+### Measured in Other People's Mourning
+
+The holding has one outcome measure that means anything: how much grief she takes, and what the person is like afterwards.
+
+Taking it is measurable. Workers complete a grief inventory before entering and again at 24 hours, and the difference is the only number in this file that tracks what anybody actually cares about. **The instrument works.** It is sensitive, it is reproducible, and the drop it records is not subtle — in the genuine cases it falls off the bottom of the scale.
+
+The genuine cases number **twelve**, all of them from the first two years, all of them workers who happened to be carrying a real bereavement when they were assigned. After the second year, carrying a real bereavement became a disqualification for assignment, for reasons nobody disputes and which the file states in one sentence: those twelve people did not get their grief back.
+
+So the instrument now runs on proxies. **Sixty-one post-rule sessions**, all with workers who had nothing recent to lose, scoring small and old sorrows into the inventory and watching them come out lower. The proxy series is clean, consistent, and does not reproduce the twelve. It moves by two to four points where the real cases moved by thirty.
+
+The wing knows what the missing experiment is and has refused to run it twice. Eleven members of staff have volunteered since the rule, all of them bereaved, several of them in writing. The refusal turns on a judgement the medical lead records in her own words at each review: **a grieving person offered a procedure that reliably removes grief is not in a position to consent to it**, and the fact that the offer would come from their own employer, for a posting that counts toward promotion, makes it worse rather than better.
+
+The file therefore carries two series that will never meet, says so on its front sheet, and labels the twelve *closed — not to be extended*. The medical lead's note underneath has been quoted at four inductions: *we have a good instrument and a correct reason never to use it properly, and we should write both down rather than quietly letting the number drift.*
+
+### No Grounds, Because She Was Good At It
+
+The posthumous review opened in the fourth year of the containment, at the wing's own request, and closed nine months later having made no finding of any kind. Its report is eleven pages and the conclusion is in the first.
+
+The practice record discloses no error. Her outcomes were good and remained good to the end. There is no complaint on file from any patient, any colleague, or any family. On every measure the regulator uses, she was an exemplary practitioner until she was not there at all.
+
+That is the difficulty, and the review names it precisely. **The regulatory scheme is built to protect patients from practitioners.** Its grounds for intervention are harm to patients, incapacity affecting patients, and conduct falling below the standard owed to patients. There is no ground on which a body can act against a practitioner who is harming only herself, because the scheme was never written to contemplate one. The review found the professional standards framework contained, at the material time, no category for a practitioner being destroyed by practising well.
+
+The second route was the complaints procedure, and it failed on a narrower point. A complaint requires a complainant. The only injured party was the practitioner, the scheme does not permit a practitioner to complain about her own treatment of herself, and nobody else had standing because nobody else was harmed. **The one person entitled to raise it was the one person it was happening to**, and she would have had to allege against herself the conduct of being too willing to help.
+
+The review's final paragraph is the one the Wardens were shown and the one the archivist attached to the practice record: *everybody who might have stopped this could see it, and none of them had a form to put it on; we have looked for the failure for nine months and the failure is that there was no mechanism, which is not a comfortable finding and is the only one available.*
+
+A recommendation followed — that a self-harm-by-overwork ground be added to the framework. It was referred onward in the fifth year. It has not been adopted. The review's standing note records the referral and the absence of any reply, and is updated annually with the single word *outstanding*.
+
+### One Watch Each
+
+Nobody works this holding twice.
+
+The rule was made in the third year and it is absolute: **a single assignment to SECTOR-B-02 in a career**, no exceptions, no second session, not even observation from the line. It is enforced by the clock-holder and by the personnel record, and it has never been waived.
+
+The reasoning is the twelve. What she takes does not come back, and the dose is per contact rather than per minute; a second session takes a second thing. Spreading the exposure across the whole establishment means nobody loses more than one piece of themselves to her, which is the best outcome the wing has ever been able to design.
+
+The price is that **the holding has no experienced staff and never will.** Every session in SECTOR-B-02 is run by a person doing it for the first time, briefed by people who have also only done it once, with a partner who is equally new. The error rate shows it: of the 73 sessions since the rule, **nine ended early for procedural reasons** — a mismeasured line, a missed speech check, a clock started late — against none in the two years before it. Two of the nine were near-misses in the proper sense and are written up as such.
+
+What institutional knowledge exists lives in one place. The holding's clerk has maintained the file for eleven years, has read every session record, briefs every pair before they go in, and **has never been inside the chamber and never will be**, because she is not a Warden and the rule would consume her single assignment if she were. The wing's only expert on this entity has never seen it.
+
+The objection is minuted at every annual review, raised by the containment lead rather than by the clerk. It holds that the wing has chosen to distribute an irreversible harm thinly rather than to concentrate it on volunteers, and has never once set out in writing why thin distribution is the better of the two; that the nine procedural failures are the predictable cost of a permanently novice roster and are not reported upward as a cost of the rule; and that resting the entire operational memory of a Major holding on one clerk with no deputy is a single point of failure the wing would not tolerate anywhere else. The minute records the objection as **correct in all three parts**. It records that a deputy clerk post was created in the ninth year and remains unfilled. And it records the clerk's own submission, two sentences, which the review chair asked to be minuted verbatim: *I would rather be the person who remembers than the person who goes in. I am aware that is exactly what she would have said.*
+
 ## Trivia
 
-- It could not absorb the Frozen Veil's emotional cold; the Veil has since been destroyed.
-- It has no reflection in mirrors.
+- The Frozen Veil's cold was the one thing she reached for and could not take; the Veil was destroyed before the result could be retested.
+- Nothing in the chamber reflects her, including instruments that reflect everything else placed in front of them.
 
 
 
@@ -399,9 +441,9 @@ The record of early attempts is kept as a plain list — what was offered, when,
 
 - **Classification detail:** The Hollow Saint is a Subject with Fragment (III) — Empty and seeking coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-B-02, Zone B.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify her by the hollow and the reach; the ash smell and the cold are shared with two other Void holdings in Zone B and are not diagnostic alone.
+- **Record detail:** Read this file beside the practice record, which is the longest document in the holding and the only one in which she appears as a person.
+- **Containment detail:** Do not equate a quiet cell with a dormant one. A Void breach announces itself by nobody thinking about the chamber, so the check is a timed physical look through the port and not an instrument reading.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-081

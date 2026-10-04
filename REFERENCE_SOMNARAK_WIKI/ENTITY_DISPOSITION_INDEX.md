@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **213** |
-| Pending — no disposition-bearing line found by scan | 90 |
+| **Classified here, with a quoted line of evidence** | **214** |
+| Pending — no disposition-bearing line found by scan | 89 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 213 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 214 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 90 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 89 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -217,6 +217,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | The Hollow Knight | C-IVγ-073 | Guards nothing and assists no one. The relations the early file read as protection are null: the Kind Healer's gauge *"does not move,"* the behaviour is *"identical at an empty chamber,"* the Maw perimeter overlap is *"an accident of survey and not … a relationship,"* and the 41-second stop under the Orphaned Bell's tower happens *"whether or not the Bell sounds."* Nothing is exchanged with the Forgotten Soldier and the Hollow Choir obtained no corroboration. Its only breach mode fills F01's own wing, and its duty cannot be discharged because the facility refuses the successorship that would end it. |
 | The Debtor | C-IIIγ-061 | Neutral, and the clearest case of a holding that gives F01 nothing usable. He suppresses nothing: *"No exchange of any kind has ever been observed between them"* with the Rejector, the Inherited Debt's *"spread rate did not change"* across six co-presences, and the Debt Eater reaches *"the weight and not the obligation,"* 7.3 tons returning within a day. What he costs is institutional: Zone C near-miss reporting *"fell by about two-thirds"* under the quiet rule, and every worker who takes a share carries it out of the building. |
 | The Inheritor | C-IIIγ-062 | Neutral. He assists nothing and suppresses nothing: the Kind Healer sessions produced *"a clean null,"* the Orphaned Bell pause is logged as *"a pause"* the wing *"declines to call … recognition,"* and nine years of addressing the Rejector through the wall has *"never once received an answer of any kind."* Toward F01 he is a cost — quiet Escape breaches, structural Grudge load, a permanent grip on anything handed to him, and a roster screening condition that excludes staff from the posting. |
+| The Hollow Saint | C-IIIγ-081 | Neutral. Nothing she takes helps anyone: the Debt Eater sessions left *"the Saint's hollow … unchanged on imaging,"* the Kind Healer pairing produced no transfer and *"nothing that supports reading one as the other's later state,"* and the Frozen Veil is the only absence she reached for and could not take. For F01 she is pure cost — twelve workers who *"did not get their grief back,"* a single-assignment rule that guarantees a permanently novice roster, and a breach that moves toward whoever in the building is carrying the most. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
