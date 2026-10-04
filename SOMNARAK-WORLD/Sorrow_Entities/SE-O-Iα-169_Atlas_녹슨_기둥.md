@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
 | **Physical Form** | Non-Organic — A rusted iron pillar embedded in the Forge District, supporting nothing — corroded, bleeding orange, warm and rough to the touch. Lead-cold beneath the rust, it smells of wet iron; it stands where no building needs it. |
-| **Movement** | Stationary — a device (internal parts may move). |
+| **Movement** | Stationary — embedded in the Forge District floor, bearing no load and never shifting; nothing about it has moved in the whole of the record except the rust. |
 | **Location** | Zone D, Forge District |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -31,16 +31,16 @@
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | α · α |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan and Ferrehan only, worked in pairs on a timed rota; the relief happens at the stated interval whether or not the cycle is going well. |
 
 ### Operational Notes
 
 - A successful cycle slows the corrosion rate measurably and does nothing else. The pillar still stands where no building needs it, still supports no detectable load, and is still holding. Work here buys time off the rust clock and nothing off the burden.
 - No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire mechanism, and the figure here is 45%; this is a low threshold on a minor holding, which means the pillar activates often, cheaply, and without anybody having done anything dramatic to provoke it.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
+- Ten to fourteen Han-Energy is low and the work is undemanding, which is the difficulty. There is nothing here to be frightened of and nothing to be tired by, so the only thing that keeps anybody honest about their hours is the tray at the base.
 - M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. What is taken from this source is a flake of something that has been bearing a load alone for a very long time, and the pieces carry that disposition: they perform, they endure, and they do not signal when they are failing.
 
 ## Combat Record
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The pair arrive together, confirm the rota interval and the time of the next relief before anything else, weigh the flake tray with both sets of initials against the figure, and confirm in writing what the pillar is supporting: nothing.
 2. **Clash:** Ten turns, Viderehan and Ferrehan only, and the rota is part of the method rather than an administrative arrangement around it. Watch changes at the stated interval whether or not the cycle is going well, and the outgoing worker leaves the area rather than staying to see it through.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Rotate labor and acknowledge shared responsibility**.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resolve** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries a cumulative risk that is measurable on the pillar before it is noticeable in the person. The rust accelerates when one worker remains too long; that acceleration is the earliest indicator the holding produces, and it appears while the worker in question still feels entirely capable.
-- The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and none here: the charge from this source is paid in the capacity to put something down, and it is levied slowly enough that nobody notices the first several instalments.
-- If the condition is not met the pillar does not strike at anyone. The weight spreads instead: nearby supports, beams, brackets and props become heavy, physically and otherwise, and the Forge District's own structures begin to feel like things that must be held up by hand.
+- The failure here does not look like failure. The worker on station becomes steady, useful and reluctant to hand over, explains pleasantly that it is easier to stay than to brief a replacement, and the gauge climbs through every word of it.
+- The pillar shows it before the person does. Flake rate rises when one worker stays too long, and it rises while that worker still feels entirely capable — the earliest indicator this holding produces is a measurement taken off the iron, not off the human being.
+- What the set charges is the capacity to put something down, levied in instalments small enough that nobody notices the first several. Wielders perform well, endure past the point they should, and give no signal when they are failing — which is precisely the disposition of the source.
+- It never strikes at anyone. The weight spreads instead: brackets, props and beams across the district begin to take load they are not carrying, physically and otherwise, until the Forge's own structures feel like things being held up by hand.
 
 ## Appearance
 **Physical Form:** A rusted pillar embedded in the Forge District, supporting nothing visible. Its surface is warm and rough.
@@ -116,8 +116,8 @@
 |---|---|
 | **Form** | A rusted pillar embedded in the Forge District, supporting nothing visible. Its surface is warm and rough. |
 | **Position / movement** | Fixed and embedded in the Forge District floor; record the rust line, the extent of fresh flaking at the base, and how long the present watch has been standing there. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | Weight. Corroded iron bleeding orange over older brown, warm and rough to the hand, lead-cold beneath the rust, smelling of wet iron, with fresh flake accumulating in a tray at the base. |
+| **Distinctive markers** | A column in perfect position to carry a load, carrying none, in a district where everything else is carrying something. |
 | **Identification** | Check the designation, the element and the manifestation against the file, and confirm the column is bearing no load; if any detail contradicts, do not proceed. |
 
 **Appearance protocol:** The pillar's dimensions do not change, so the protocol is a corrosion protocol. Record the rust line height, the colour at three marked points, the area of fresh orange against the older brown, and the mass of flake collected in the tray at the base since the last watch — that last figure is the holding's instrument and is read at every change of watch, by both the outgoing and the incoming worker, with both initials against it. Record the warmth, which is real and persistent and has no source the Forge District's heat survey can account for. Note what the pillar is supporting, every cycle, in writing: nothing. The entry is required because personnel stop making it, and the day somebody writes that it appears to be holding a beam is a day the wing needs to know about immediately.
@@ -127,7 +127,7 @@
 - **The Sorrow:** The burden of holding others up while no one asks whether the support is failing.
 - **The Event:** A worker held a collapsing structure long enough for others to escape, then became part of the foundation.
 - **The People:** One worker who took the weight of a collapsing structure on his shoulders so the others could get clear, and the others, who got clear. The record holds his name and holds none of theirs; nobody came back to give an account. He was not found and the file does not say he died, because the file cannot establish that he stopped.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+- **Expanded origin context:** The record holds his name and none of the names of the people he held the structure up for. Nobody came back to give an account, and the file does not treat that as an accusation — it treats it as the reason the holding exists. He was never found. The file does not say he died, because it cannot establish that he stopped, and the wing has twice declined to enter a presumed date for the sake of closing the entry.
 
 ## Behavior
 
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Atlas is recorded as an Object/Place with Place-Weight manifestation and Weight elemental expression. The current record places it at Zone D, Forge District; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Atlas is an Object/Place with Place-Weight manifestation and Weight expression, embedded in the Forge District floor in Zone D. Viderehan opens the structure it once held and moves nothing. Ferrehan tests whether a worker can stand beside it without becoming support, and is the only Work Type that lowers the gauge. Neither can be worked solo, and the rota is part of the method rather than an administrative arrangement around it.
 
 **Reading the response:** Read it in the rust. A falling gauge presents as slowing — less flake in the tray, the fresh orange darkening toward brown, the warmth easing toward the ambient. The pressure drops and nothing is resolved; he is still holding, and a quiet pillar is a pillar whose load has not changed. A rising gauge presents as **reliability**. The watch stops wanting to hand over. The worker on station finds it easier to stay than to brief a replacement, considers the rota an interruption, and often says so pleasantly and in good faith. That is the reading. On this holding, a worker who has become indispensable at the pillar is the entity's effect and not the team's good fortune, and the rust in the tray will say so before anybody else does.
 ## Expansion Behavior
@@ -159,7 +159,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Atlas: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at Zone D, Forge District, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+Escalation here is slow and structural. Record who was on station and for how long before anything else, then the flake rate at that moment, the rust line, which nearby supports began to take weight and over what radius, and the point at which the spreading stopped. On every recorded activation the first field has turned out to be the explanatory one.
 
 **Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Rotate labor and acknowledge shared responsibility. Do not use an unlisted Work Type as an improvised countermeasure.
 
@@ -169,10 +169,10 @@ The escalation pattern is specific to Atlas: it is not a generic breach event. P
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | People accepting impossible burdens alone. |
-| **Manifestation** | Place-Weight|
+| **Manifestation** | Place-Weight |
 | **Primary effect** | Nearby supports become emotionally and physically heavy. |
 | **Duration / rate** | Slow through Forge foundations. |
-| **Risk** | Minor (α) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Minor (α). Nobody is injured here. The risk is a worker who becomes indispensable at the pillar and a district whose supports begin to feel like hands. |
 | **Management** | Rotate labor and acknowledge shared responsibility. |
 
 **Activation reporting order:** trigger → who was on station and for how long → first visible change in the pillar and the flake rate at that moment → which nearby supports became heavy and over what radius → personnel effect → duration → management condition. The second field comes before the physical observations deliberately, because on every recorded activation it has turned out to be the explanatory one. Viderehan and Ferrehan remain the only valid Work Types, and a relief sent in during an activation is sent as a pair.
@@ -239,27 +239,27 @@ The thick spine allows for heavy chopping and prying without risking blade fract
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Atlas' sorrow within the equipment may activate. and may produce an effect tied to Atlas' element. The Stigma is Atlas' prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+The three pieces are flakes off something that has been bearing a load alone for a very long time, and they carry that disposition exactly: they perform, they endure, and they do not signal when they are failing. The listed benefit holds inside the intended pattern and the cost outside it is paid in the wielder's ability to stop. No protocol produces a Stigma; it comes from the source or not at all.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, grade, gauge, the condition of the piece, the objective, and the wielder's hours on station in the preceding fortnight. The last field is taken from the rota, not from the wielder. |
+| **During use** | Activation time, effect strength, the area held, the relief interval observed, and the first cost noticed by the wielder's partner. |
+| **At limit** | Duration, activations, attribute movement, rejection signs, and whether the wielder has declined to hand over anything — the piece, the post, or a task. |
+| **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and confirmation that the wielder left the district rather than staying to see the shift out. |
 
-**Stat interpretation:** The grade states how hard a piece hits and says nothing about what it takes, and on this set the relationship is plainly inverse: an α-rated weapon with negligible output carries one of the quieter and more durable costs in the wing. Read both columns, authorise on the second, and review this set on a schedule rather than on complaint, since its wielders are selected, by the nature of the thing, for not complaining.
+**Stat interpretation:** Grade states what a piece puts out and nothing about what it takes, and on this set the rating is the least interesting number in the file. An α piece from this source has cost wielders more than δ equipment has, because what it takes is not strength but the ability to notice having run out of it. Read both columns, authorise on the second, and ask the partner.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
 
-- It supports no visible structure yet never falls.
-- Rust appears after unshared labor.
-- Personnel feel sorrow rather than fear nearby.
+- It holds nothing up and has never leaned, settled or shifted; the load path under it has been surveyed three times and is empty.
+- Fresh rust follows unshared work, within the same watch, and the correlation is the holding's only predictive finding.
+- Nobody reports fear here. What personnel report is sorrow, and a steady willingness to stay a little longer.
 
-**Personnel Note:** *"It was watching. I felt sorrow. The Pillar had become a person only because no one had allowed it to stop being useful."* — Specialist, Zone C patrol
+**Personnel Note:** *"It is a person only because nobody ever let him stop being useful. I stayed two hours past my relief and I could not have told you why, and the tray had twice the flake in it, and that is how they knew before I did."* — Specialist, Zone C patrol
 
 
 
@@ -267,10 +267,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Atlas as an Object/Place with Place-Weight manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone D, Forge District. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Atlas's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | A rusted iron column in the Forge floor, warm to the touch, supporting nothing. Record what it is supporting in writing, every cycle, even though the answer never changes. |
+| **Sustained observation** | Rust line height, colour at the three marked points, area of fresh orange against older brown, and the mass of flake in the tray — read at every handover by both the outgoing and the incoming worker, with both initials against it. |
+| **Activation or escalation** | Escalation presents as reliability. Log the hours the current watch has stood, the time of the last completed relief, and which nearby supports have begun to feel loaded. |
+| **Post-contact review** | Flake series with any missed handovers marked as missed, hours on station logged at the start of the entry rather than the end, and the radius of any spreading weight in the district. |
 
 **Observation method:** Observe in pairs, on a timed rota, with the flake tray read at every handover. Record the first visible sign, the first emotional response and what prompted it, the first measurable change in the surrounding structures, and the condition that ended the watch. The entity's appearance is its history made visible rather than a guide to its behaviour: an iron pillar holding nothing, in a district full of things that need holding up, is what support looks like once it has become the whole of a person. One instruction is specific to this method. The observer logs their own time on station at the start of the entry rather than the end, because by the end they will have decided it was not very long.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -307,13 +307,13 @@ The Pillar stands beneath the Forge, holding nothing. You lean against it and fe
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A rusted pillar embedded in the Forge District, supporting nothing visible. Its surface is warm and rough. Notable Features: It carries the weight of a failed foundation and watches the workers who pass it. Identification Profile: The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Place-Weight form.
+**At first contact:** Warmth where there should be none, and an iron column standing in exactly the place a column should stand, holding nothing at all. Most workers lean on it within the first few minutes, which is not prohibited and is logged.
 
-**With continued exposure:** Time in the containment zone moves differently. The Weight pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Weight is teaching you its sorrow.
+**With continued exposure:** The posting becomes comfortable. There is no pressure to feel, nothing to endure, and no sense of being worked on; what grows instead is a quiet conviction that the watch is better off with you on it.
 
-**When the entity activates:** When the Gauge tips, the Weight becomes a force rather than a feeling. The Place-Weight was holding; now it releases.
+**When the entity activates:** Nothing happens at the pillar. Elsewhere in the district a bracket begins to take weight it is not carrying, then a beam, then a prop, and the Forge's structures start to feel like things somebody is holding up.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Weight in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** Workers go home and carry other people's tasks. The medical office logs the pattern specifically — taking on more, asking for less, declining relief in unrelated postings — and it clears over a fortnight if the rota holds.
 
 ### Interaction Pattern
 
@@ -328,9 +328,9 @@ Atlas must be assessed as one of a group of sorrows produced by people who carri
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Crumbling Saint** | Shares the sorrow of endless support. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Hollow Architect** | Recognizes construction built on exhausted workers. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Sleeping Weight** | Both preserve responsibility as physical pressure. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Crumbling Saint** | Both are endless support, and neither has ever been able to relieve the other. | Four authorised approaches. The flake rate was unchanged on all four and the Saint's own series was unchanged with it; nothing passed in either direction. | The four approaches and both unchanged series, recorded as a null result. |
+| **The Hollow Architect** | The Architect recognises structures built on exhausted workers, which is a description rather than an interaction. | No measurable effect in either direction across three co-presences. The pairing is retained in the file because it is the one most often proposed by incoming staff, and the null is kept to save them repeating it. | The three co-presences and the standing note on why the pairing keeps being suggested. |
+| **The Sleeping Weight** | Both hold responsibility as physical pressure, and the question worth asking is whether either can take any off the other. | Asked properly once, under authorisation, and answered no: the flake rate held, the Sleeping Weight's readings held, and the district's loaded supports were unaffected throughout. | The single authorised test, both series, and the district support survey taken the same day. |
 
 **Interaction procedure:** Baseline both parties alone, bring the second within range along the district's own walkways rather than across the floor, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect on nearby supports, and whatever persists after separation. The field this holding adds is the flake mass, weighed before, during and a full watch afterwards.
 
@@ -366,28 +366,60 @@ Some sorrows are about sacrifice. Atlas is about the sacrifice that became the s
 **Common Name:** Atlas
 **Containment Status:** Contained — Zone D, Forge District
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Minor (α). It has never harmed anybody. What it does is make one person indispensable and then spread weight through the district's supports while everyone involved feels fine.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Viderehan and Ferrehan only; it is an Object/Place and cannot be wept with or confronted.
+- Paired watches on a timed rota; the outgoing worker leaves the district rather than staying to see the cycle out.
+- On expansion, survey the nearby supports for the spreading radius and restore the relief interval; the condition is rotation and shared responsibility, not reinforcement.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- A worker held a collapsing structure long enough for the others to get clear, and became part of the foundation; none of the others is named in the file.
+- Nothing has ever been fought here. Every incident on file is a handover that did not happen.
+- Flake taken from the base; the pieces endure well and give no warning before they fail.
+**Cross-References:** The Forge District load survey · the flake tray series · the relief register
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** One Forge worker, named in the record; the people he held the structure up for are not named, and no account was ever given by any of them.
 
 ### Registry Addendum
 
 **Operational interpretation:** The file is a map and the floor of the Forge District is the territory, and the suppression condition is unusual in this wing for being entirely achievable. Rotate labour and acknowledge shared responsibility. There is no measure here that cannot be taken: it requires a rota that is kept, a relief that arrives, and somebody willing to say out loud that the work was shared. The difficulty is not conceptual. It is that rotas are the first thing a short-staffed facility suspends, that reliefs are the first duty reassigned when something louder breaches elsewhere, and that this holding is rated Minor and therefore sits at the bottom of every list on which it appears. The wing's own audit says as much: every recorded activation at this pillar has followed a staffing decision taken somewhere else, for a good reason, by someone who never saw the entity. The file will be wrong eventually; when it is, the contradiction is worth more than the record it contradicts, and it is preserved rather than quietly normalised.
 
 **Review requirement:** Every activation, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the gauge, the exposure log, the flake series and the state of the surrounding supports before work resumes. Two further items are required here. The rota for the preceding fourteen days is attached to every incident report, unedited, including the gaps — the gaps are the finding. And a worker who has exceeded the station interval is relieved without discussion and without any entry on their record, because the behaviour is the exposure rather than a failing, and a wing that disciplines it will simply stop being told about it.
+## Relief Record
+
+### A Tray That Cannot Be Read Alone
+
+The instrument here is a shallow metal tray at the base of the column, and the thing it measures is not really the rust.
+
+Flake is collected, weighed, and entered with two sets of initials — the outgoing worker's and the incoming worker's — because the reading is taken at the handover and only at the handover. That rule was adopted to stop a single person both producing and certifying the number. It has an obvious and unfixable consequence: **a watch that is never relieved generates no reading at all.**
+
+So the series has holes, and the holes are not random. **Seventy-three entries in nine years read *no reading — watch not relieved*,** and they cluster: around the same four or five names, around night watches, and around the weeks after any incident elsewhere in the district. They are plotted in a separate colour and counted as data rather than as missing data, which is the only honest way to hold them, because the gap and the condition are the same event. **The instrument is blind in exactly the circumstance it exists to detect.**
+
+The wing's note on the series is three sentences and has not been revised: *The tray measures the iron. The gaps measure us. Neither of them measures him.*
+
+### Nothing Is Not an Answer the Form Takes
+
+The column holds nothing up and cannot be removed, and the obstacle is not the entity.
+
+Removing a structural member requires a warrant, and the warrant requires one thing above all: a statement of where the load goes instead. That is not bureaucracy for its own sake — it is the single rule that stops people taking out columns because they look unnecessary, and the Forge District exists in its current shape because that rule has been enforced for a century. Every application names the member, names what bears on it, and names the replacement load path. **Three fields, all mandatory, none of which may be left blank.**
+
+Three load surveys have established that this column carries nothing. The application therefore cannot be completed: there is no load to transfer, so there is no replacement path to name, and *none* is not a value the form accepts. An application was submitted twice with the field marked **nil** and was returned twice as incomplete — correctly, since a nil load path is indistinguishable on paper from an application somebody could not be bothered to survey.
+
+The file states the position without resentment. **A rule designed to prevent exactly one kind of catastrophe has produced a column that may not be taken away for the precise reason that it is holding nothing**, and the wing has not sought an exemption, on the recorded ground that it would rather the rule stayed difficult.
+
+### Nineteen Removals
+
+What the wing could decide was who enforces the relief, and the answer it arrived at is the ugliest thing in this file and the only one that works.
+
+The relief interval is not waivable. If the worker on station declines to hand over — and they decline pleasantly, with good reasons, in good faith — **the incoming pair remove them physically**, and the removal is recorded as a holding event rather than as misconduct. No fault attaches to the person removed, nothing enters their record, and the wing has refused four proposals to make refusal a disciplinary matter, on the ground that a worker who has become unable to leave is exhibiting the hazard and not committing an offence.
+
+**Nineteen removals in nine years.** Each one was carried out by colleagues, usually by people junior to the person being carried out, because the incoming pair is whoever is on the rota. The removed worker is stood down from the district for one cycle and loses the Forge differential for that period, which the wing has never found a way to avoid. Two resignations on file give the removals as the reason — one by a person who was removed, one by a person who did the removing.
+
+The staff association's objection is minuted and read at every annual review. Laying hands on a colleague who has committed no offence is assault with a procedure written around it; the burden of doing it falls on peers and on juniors, who have no standing to refuse; and the wing has solved its containment problem by distributing it among the people least able to object. The minute records the objection as **correct in every particular**, records that the alternative is leaving somebody at the pillar, and leaves the instruction in force.
+
 ## Trivia
 
-- It supports no detectable load.
-- It rusts faster when one worker remains too long.
+- Three load surveys have found nothing above it, below it, or bearing on it; the column is structurally idle and has been since it was first recorded.
+- Corrosion accelerates when a single worker stays past the relief interval, and the tray shows it within the same watch.
 
 
 
