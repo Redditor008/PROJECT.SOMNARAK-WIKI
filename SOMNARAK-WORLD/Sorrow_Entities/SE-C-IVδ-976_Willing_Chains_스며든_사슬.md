@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A figure wreathed in slow fire, covered head to foot in black chains that spread across walls and floors on their own while the body stays perfectly still. Fever-hot and bloodless-cold at once, it smells of char and ash; the chains rattle without wind. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | The body has never moved. The chains travel across surfaces on their own, and the registered extent is ambient rather than a point. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -31,10 +31,10 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | δ (Critical) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan to slacken the grip, Ferrehan for the watch; Viderehan for the link survey; Pugnahan never. |
 
 ### Operational Notes
 
@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Willing Chains's recorded combat actions. Sorrow Gauge changes determine escalation.
+2. **Clash:** The figure does nothing. The chains do the work, the crew holds the mapped standoff, and the only live decision is whether a worker who has started to find the room comfortable is sent out.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not cut blindly; identify what each chain represents**.
 
 ### Consequences
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Grudge
 - **Primary marker:** A burning figure covered in black chains that spread across walls and floors. Its body remains motionless while the chains move.
-- **Position / movement:** Its body remains motionless while the chains move.
+- **Position / movement:** The body is motionless and has been throughout the record. Log the chain extent against the last survey line and the standoff used for the reading.
 - **Element signature:** Void
 - **Registered location:** Zone B, Old Lament — ambient
 
@@ -116,54 +116,54 @@
 | Field | Detail |
 |---|---|
 | **Form** | A burning figure covered in black chains that spread across walls and floors. Its body remains motionless while the chains move. |
-| **Position / movement** | Its body remains motionless while the chains move. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Position / movement** | Body motionless; chain extent surveyed in metres and compared with the previous line. |
+| **Material / signature** | Void. Black links with no shine to them, slow fire that gives no light, char and ash, and a rattling that happens in still air. |
+| **Distinctive markers** | The links are open. Every chain in the chamber is held closed by the entity and fastened to nothing, which is confirmed link by link at the annual survey. |
+| **Identification** | Confirm designation and manifestation before entry. The registry holds several chain holdings and this is the one that binds rooms rather than people. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Record the figure and the chains separately. For the figure: posture, orientation and the state of the fire, all of which have been identical at every observation ever taken, and are logged anyway. For the chains: the extent in metres against the last survey line, the surfaces newly crossed, the count of links examined and the count found fastened — which has never been anything but zero. Nothing in the chamber is touched, moved aside, or stepped over.
 
 ## Origin
 - **Formation:** The Chain formed from bonds that became imprisonment.
 - **The Sorrow:** The grief of being held by systems, promises, or relationships that no longer protect.
 - **The Event:** A district was bound by debt and duty until the obligations became a living chain.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+- **The People:** A district's households, their creditors, and the Collectors who formalised the arrangement. All three groups are documented, which is unusual; the obligations were paper from the beginning and the paper survives.
+- **Expanded origin context:** The district's instruments survive in the municipal series: the obligations, the sureties, the schedules by which they were enforced, and the amendments that extended them. They are tables and nothing else. The archivist's note observes that the entity's origin requires no narrative because the schedules are the narrative, and that every clause in them was lawful, agreed, and signed by somebody who had a reason at the time.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Chains loosen and the figure's fire dims. | Decrease |
-| **Pugnahan** | Chains lash outward and spread faster. | Increase |
-| **Viderehan** | Reveals what each chain binds. | Stable |
-| **Ferrehan** | Tests whether the worker can endure without accepting a false bond. | Decrease |
+| **Flerehan** | The grip slackens and the fire goes low; the chains stay exactly where they lie. | Decrease |
+| **Pugnahan** | The chains lash out and the extent jumps, permanently. Never authorised. | Increase |
+| **Viderehan** | Shows what each chain is attached to, which is in every case an undertaking rather than an object. The gauge does not move. | Stable |
+| **Ferrehan** | The worker stands the watch in a room that feels like safety and does not accept the feeling. The gauge falls, and this is the only work here that costs anybody anything. | Decrease |
 
 
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Willing Chains is recorded as a Subject with Subject-Grudge manifestation and Void elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Willing Chains is a Subject with Subject-Grudge manifestation and Void expression, registered as ambient in Old Lament. All four Work Types are available in principle and only three are used. Flerehan and Ferrehan lower the gauge and do it differently: the first eases the grip for a shift, the second asks a worker to stand in a warmth that is lying to them and not settle into it.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** A falling gauge presents as slack — links lying looser, the fire low, the extent unchanged at the next survey. Nothing is released; the entity has never let go of anything. A rising gauge presents as reach: new surface crossed between surveys, usually after a confrontation or after a worker has spent a long shift in the room feeling comfortable. Log the extent before anything else, because the metres do not come back.
 ## Breach Behavior
 
-> *"Spreading Chain has broken free. Binds personnel, dragging them."*
+> *"Willing Chains has broken free. The binding is spreading and the figure has not moved."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Corrupt |
-| **Movement** | Willing Chains intensifies in place, warping the containment zone outward. It binds personnel, dragging them. |
+| **Movement** | The figure stays where it is. What expands is the bound volume around it, which warps outward and takes in whatever surfaces it reaches. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
+| **First Target** | Nobody is chosen and nothing is pursued. The binding takes whoever is inside the warped volume, and personnel are bound in place rather than dragged anywhere. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Breach type:** Corrupt. The zone itself is altered; the entity does not leave the position it has held throughout the record.
+- **Containment priority:** Seal the affected volume, hold Viderehan and Ferrehan at the edge until the pressure recedes, and plan every route around the chains rather than through them.
+- **Sorrow Gauge on breach:** Opens at 40% and adds 10% a turn until the volume is sealed; it keeps climbing while anybody inside is still being extracted.
 
 ## M.A.W. Equipment
 
@@ -222,11 +222,11 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Cost:** The wielder feels every bond they cannot escape.
 
-*Stigmas are granted at random by Willing Chains upon a successful work, not manufactured.*
+*The lantern is not issued. It turns up on a worker who has stood a full watch in the warmth and reported it as warmth, which the armoury records as four percent of them and cannot predict.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Willing Chains' element. No protocol produces Stigmas. They emerge from Willing Chains' own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+The set is drawn from the links, and the links are open, which the armoury considers the whole of the design brief: each piece holds by the bearer's own effort and stops the moment the bearer stops. The cost is uniform — the bearer begins to find obligations restful and to take on more of them than they can discharge. Issue is time-limited for that reason and the limit is not extendable on request.
 
 ### Field Use Record
 
@@ -242,11 +242,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It spreads through contracts and emotional commitments.
-- Chains become warm near people who call imprisonment protection.
-- It is most active in the Raw.
+- Travels along undertakings rather than along surfaces: a written agreement, a promise, a posting somebody has stopped being able to leave.
+- The links warm near anyone who describes their own confinement as safety, and the warmth is measurable.
+- Most active where obligations are densest, which in Old Lament means the blocks the Collectors worked hardest.
 
-**Personnel Note:** *"It was waiting. I felt longing. The Chain did not want to hurt me; it wanted me to understand why leaving had become impossible."* — Specialist, Zone B patrol
+**Personnel Note:** *"It did not want to hurt me. It wanted me to understand why leaving had stopped being possible, and for about a minute I did understand, and the room was warm, and I had to be told to come out."* — Specialist, Old Lament patrol
 
 
 
@@ -255,11 +255,11 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Willing Chains as a Subject with Subject-Grudge manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone B, Old Lament — ambient. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Willing Chains's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Sustained observation** | Chain extent against the survey line, links examined and links found fastened, the state of the fire, and the figure's orientation. Nothing has ever changed in the last two and both are recorded every time. |
+| **Activation or escalation** | Escalation is read off the worker: the point at which the room stops being endured and starts being pleasant. Record who said so, the clock, and the extent at the next survey. |
+| **Post-contact review** | Extent, link counts, duration, gauge, and the comfort question put to every worker on the way out. A worker who answers that the room felt fine is withdrawn for the shift, without prejudice and without a note on file. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
+**Observation method:** Two in at the mapped standoff, one outside with the clock. Record the extent, examine the sampled links, and do not move anything — not a cable, not a chair, not a chain lying across a doorway. The entity is not asked anything and is not addressed. On the way out, every worker is asked whether the room felt comfortable, and the answer is taken at face value.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -270,16 +270,17 @@ Willing Chains (C-IVδ-976 [O]) is logged as a Subject-Grudge manifestation expr
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through Old Lament structures and contracts. Personnel feel trapped by obligations they cannot identify. Chains become warm near people who call imprisonment protection.
 
-**Entry 3 — <Excerpt from Counseling Log>**
+**Entry 3 — <Excerpt from Counseling Log, Year 4235>**
 The grief of being held by systems, promises, or relationships that no longer protect.
 
 **Entry 4 — <Containment Notice>**
 Management: Do not cut blindly; identify what each chain represents. Work response — Flerehan: Chains loosen and the figure's fire dims. (Decrease); Pugnahan: Chains lash outward and spread faster. (Increase); Viderehan: Reveals what each chain binds. (Stable); Ferrehan: Tests whether the worker can endure without accepting a false bond. (Decrease). It is most active in the Raw.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
+The Director's note: *"Every link in that room is open. Nothing is locked, nothing is fastened, and the district it came from was held by instruments that every party signed. I would like the file to stop short of a moral and it never quite does."*
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
-**Threat rating:** Moderate. The Chain spreads, binding newcomers to obligations. Effect: proximity induces the grief of bonds that no longer protect and are still binding, followed by a numbness that erases names and faces.
+**Threat rating:** Critical (δ). Proximity dissolves clarity and installs the sense of a bond that cannot be left; on breach the bound volume warps outward and anybody inside it is held in place.
 
 ## 최종 관찰 (Final Observation)
 
@@ -296,30 +297,30 @@ The figure burns in the corridor while chains crawl from its feet. One wraps a d
 
 
 
-**At first contact:** The Subject-Grudge does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A burning figure covered in black chains that spread across walls and floors. Its body remains motionless while the chains move.
+**At first contact:** A figure standing in slow fire that throws no light, and chains already lying across the floor in both directions. The first thing most workers notice is that none of it is attached to anything — the links rest on surfaces rather than gripping them.
 
-**With continued exposure:** Time stretches in the containment zone. The Subject-Grudge becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
+**With continued exposure:** The warmth settles in. It reads as safety, specifically: the feeling of a bond that once held and still might, which the briefing warns about and which workers describe afterwards as having been entirely convincing at the time.
 
-**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Void becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Grudge was waiting; now it moves.
+**When the entity activates:** The chains reach. Nothing lunges and nothing moves quickly; a link crosses a threshold it had not crossed, and the extent at the next survey is permanently larger.
 
-**After departure:** Departure is not relief. The Subject-Grudge is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** The warmth goes and leaves a flatness behind it. Workers report the corridor as unfriendly for some hours, which the counsellors treat as the comedown from the thing the room was offering rather than as an effect of the corridor.
 
 ### Interaction Pattern
 
 Willing Chains does not exist in isolation. Its recorded relationships with The Wandering Chain, The Debt Wall, The Frozen Veil should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone. The question here is whether another presence increases the extent, and nothing has. Log the range, the duration, the gauge on both sides, and the survey line before and after, measured by somebody who was not in the room.
 
 
 ### Entity Interaction Record
 
-Willing Chains must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Willing Chains sits among the registry's obligation holdings and is kept distinct from them by what it binds. The entries below are observed. None of them has added a metre to the extent, which is the measurement that would matter, and the file says so rather than implying an influence it cannot show.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Wandering Chain** | The Wandering Chain follows its links. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Debt Wall** | The Wall is strengthened by its obligations. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Frozen Veil** | The Veil makes its bonds feel emotionally necessary. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Wandering Chain** | One carries its links from place to place; this one lays them down and never lifts them. | Logged twice in the same quarter of Old Lament, never arranged. The Wandering Chain passed through the surveyed extent on both occasions and the extent was unchanged at the following survey; neither gauge moved. | Both transits with the survey lines either side, and the unchanged link counts. |
+| **The Debt Wall** | Both were made by the same municipal instruments and they did different things with them. | Never paired and formally excluded. The Wall holds obligations as a boundary; this one holds them as a grip, and the wing's note is that putting the two together would be an experiment about the Collectors rather than about either entity. | The exclusion, its reasoning, and the review minute that last restated it. |
+| **The Frozen Veil** | The Veil makes a bond feel necessary; this one makes it feel warm. | Paired once at distance. Workers in the overlap reported both effects simultaneously and were withdrawn early; both gauges were unchanged and the extent did not move. Not scheduled again, on the welfare finding rather than on a containment one. | The single pairing, the withdrawal note, and the medical office's recommendation against repeating it. |
 
 **Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
@@ -333,7 +334,7 @@ The city changed. The Collectors formalized the obligations — turning the info
 
 Willing Chains is that imprisoned binding. Subject-Grudge, Void-element: the figure of obligations that became a living chain — the debts and duties that were meant to hold a community together, transformed by the city's formalization into bonds that no longer serve the bound. The Chain does not protect. It holds — link by link, spreading from citizen to citizen, binding each to the next in a web of obligation that none can escape.
 
-The Chain spreads. It extends to anyone who enters the district — the obligations are contagious, binding the newcomer to the web before they understand what they have entered. Those who come near the Spreading Chain feel the grief of bonds that no longer protect — the sorrow of being held by a system that was once a mercy and is now a prison.
+The Chain spreads. It extends to anyone who enters the district — the obligations are contagious, binding the newcomer to the web before they understand what they have entered. Those who come near Willing Chains feel the grief of bonds that no longer protect — the sorrow of being held by a system that was once a mercy and is now a prison.
 
 Some sorrows are about freedom lost. Willing Chains is about protection perverted — the debts that held a community together, transformed by the city into chains, spreading link by living link, binding each to all, preserving in its iron the shape of a mercy the city could not leave uncorrupted.
 ## 증언 (Testimonium) — The Testimony
@@ -351,24 +352,24 @@ Some sorrows are about freedom lost. Willing Chains is about protection perverte
 
 **Classification:** Sorrow Entity — `C-IVδ-976 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Grudge manifestation
 **Common Name:** Willing Chains
-**Containment Status:** Semi-contained — Zone C
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Moderate. The Chain spreads, binding newcomers to obligations. Effect: proximity induces the grief of bonds that no longer protect.
+**Containment Status:** Semi-contained — ambient in Old Lament, Zone B; the chamber bounds the figure and the surveyed extent bounds nothing.
+**Comprehension Level:** 2 — Basic
+**Threat Assessment:** Critical (δ). The binding spreads along undertakings and cannot be removed once laid; proximity erodes clarity while presenting as comfort, which is the feature that has caused the chamber's only serious incident.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type.
-- The Chain spreads; monitor its perimeter.
+- Flerehan and Ferrehan are the working types; Viderehan for the survey; Pugnahan is never authorised.
+- Survey the extent, sample the links, and never cut, part or move a chain for any reason.
 **Observation Notes:**
 - Mutual obligations formalized by Collectors into a living chain.
 - The Chain binds; it does not protect.
-**Cross-References:** Zone C · The Collectors · The debt system · The Debt Wall
+**Cross-References:** Old Lament, Zone B · The Collectors · the district debt instruments · The Debt Wall
 **Faction Involvement:** SED (C-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** A district bound by debt and duty.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read the extent series, the link counts and the comfort answers together. The first says the binding only ever grows, the second says nothing in it is fastened, and the third is the only early warning the holding has. The hardest fact in the file is the second: a room full of chains that hold because the entity holds them, in a district that was bound by agreements everybody signed. Where the entity does something not described here, log it and leave the contradiction standing.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, Sorrow Tide, transformation attempt or unusual interaction: re-verify the extent against the survey line, the link sample, the exposure log and the gauge. Three further items apply here. The comfort answers are reconciled against the withdrawal count. The displacement map and the alternative routes are walked, not read. And the field office's objection to the reported response time is re-read in full, unaltered.
 ## Apex Record
 
 ### Binding the Room
@@ -399,10 +400,40 @@ The chains have been cut. It was done once, early, with proper authorization and
 
 The notice at the chamber door explains why the room is furnished as it is, in four sentences, and is signed by the engineer who specified the fit-out rather than by the commander. The signature was the engineer's condition for writing it. Their reasoning, recorded in the correspondence, was that a reviewer who disagreed with the arrangement should be able to find the person responsible for it without going through the chain of command, and that an unsigned notice invites the assumption that nobody thought about it. Two reviewers have taken up the invitation. Both exchanges are in the file and both ended with the arrangement unchanged.
 
+### Not One Link Is Fastened
+
+The survey has two halves and they say opposite things.
+
+The first is the extent: the chains are mapped in metres across the chamber and the corridors they have reached, and the line only ever moves outward. **Two hundred and forty metres at classification, a little over nine hundred now**, with the increases arriving in steps rather than smoothly — after a confrontation, after a long comfortable watch, after an incident elsewhere in the district. Nothing has ever reduced it. The metres do not come back.
+
+The second is the links. A sample is examined by hand every year — **eleven hundred and eighty links to date — and the count found fastened to anything is zero.** Not welded, not locked, not hooked, not gripping. Each link lies closed because the entity is holding it closed, and the holding is continuous, and it has never once lapsed.
+
+The file prints both halves together and refuses to draw the obvious moral. What it will say is the operational version: there is nothing in this chamber to unlock, so no procedure here can end with the chains gone, and anybody designing one is designing for a mechanism that does not exist.
+
+### An Authority Cannot Give Itself Back
+
+The chains were cut once, lawfully, and the regrowth took more ground and kept it. Afterwards the authorisation to cut was withdrawn — and that is the part that cannot be undone.
+
+A power is conferred from above. A body that surrenders one cannot restore it to itself, because granting yourself an authority is the same act as not having it; only a higher body can confer it, and for this holding there is no higher body that has ever claimed the competence. The wing therefore sits in a position it put itself in deliberately and correctly: it knows exactly what it would do if cutting were ever the right answer, and there is no person alive who could sign for it.
+
+The cost is specific and recurring. **A chain crossed the direct corridor to the neighbouring holding eleven years ago and has lain there since.** The route is abandoned, as the protocol requires. Response to that holding now goes the long way, every time, for everybody.
+
+The wing's assessment is that the withdrawal was right, that it would withdraw the authority again on the same facts, and that the right decision has left the facility permanently unable to make a different one. All three sentences are in the same paragraph and none of them is qualified.
+
+### The Nine Minutes Nobody Nets Out
+
+What the wing can control is what it reports about itself, and it chose the unflattering version.
+
+The detour costs **about nine minutes**. It would be entirely defensible to publish response times for the neighbouring holding against the direct route, note the chain as an environmental factor, and footnote the difference — several wings do the equivalent. This one does not. The nine minutes are carried in the headline figure, so the published response time for that holding reads **fourteen and a half minutes rather than five and a half**, and the wing has let that number stand in every return it has made since the chain settled.
+
+It has cost. **Three annual reviews have marked the wing down on response performance**, two of them citing the figure directly, and one resourcing request was refused with the figure quoted back in the refusal. The drills are run the long way at full frequency, on the stated ground that a route you only walk on paper is not a route.
+
+The field office's objection is on the file and unanswered. Honesty about the number has bought nothing — three markdowns, one refusal, no additional resourcing — and the nine minutes are not paid by the people who decided to publish them; they are paid by whoever is running the long corridor on the day it matters. The minute records the objection as **correct, and the figure continues to be reported as it is**, and adds, in the commander's own hand, that the alternative is a number that would make the long corridor easier to live with.
+
 ## Trivia
 
-- It spreads through written contracts and spoken promises.
-- It becomes weaker when a bond is chosen freely by both sides.
+- It travels on undertakings of any kind: a signed instrument, a promise made aloud, a posting somebody has stopped being able to leave.
+- The grip measurably slackens where an obligation is genuinely mutual, which is the nearest thing in the file to a weakness and has never been engineered successfully.
 
 
 
@@ -410,9 +441,9 @@ The notice at the chamber door explains why the room is furnished as it is, in f
 
 - **Classification detail:** Willing Chains is a Subject with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone B, Old Lament — ambient.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Recognition detail:** Identify it by the stillness and the slack. A motionless burning figure with chains lying unfastened across every surface is this holding and no other.
+- **Record detail:** The registry's other chain holdings restrain, follow or secure. This one binds a room and holds the links shut itself, and the distinction matters operationally: there is nothing here to unlock, nothing to release, and no procedure anywhere in the file that ends with the chains gone.
+- **Containment detail:** The chamber holds the figure and does not hold the extent, which crosses into corridors the wing then plans around. Containment here means the metres are surveyed and the routes are moved; it has never meant the binding stopped.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-976
