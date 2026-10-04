@@ -27,6 +27,7 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-19`](R-19_DISPOSITION_CLASSES.md) | Disposition classes: Positive, Neutral, Negative — effect on Facility 01, kept separate from threat rating |
 | [`R-20`](R-20_ONE_FIXED_DENOMINATOR.md) | One Fixed Denominator, With Bands as Side Figures |
 | [`R-21`](R-21_FIVE_CLEANS_PER_PROMPT.md) | Five Whole-File Cleans Per Prompt |
+| [`R-22`](R-22_TEN_DISPOSITIONS_PER_BATCH.md) | Ten Dispositions Per Batch, Each Batch Done Right |
 
 ## Precedence
 
