@@ -236,7 +236,7 @@ All three pieces came out of the hour and all three keep its property: they are 
 
 ## 최종 관찰 (Final Observation)
 
-| Name the teller and let the story finish without you. | Answer the character who used your name.
+| Name the teller and let the story finish without you. | Answer the character who used your name. |
 |---|---|
 | The hour closes, the gauge is down, and the register has the night's list in it. | You are in the story now, in the register, under your own name, and the archive will not strike it. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
