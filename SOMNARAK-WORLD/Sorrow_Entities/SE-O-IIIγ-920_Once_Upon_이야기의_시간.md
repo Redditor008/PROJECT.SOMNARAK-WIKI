@@ -28,20 +28,20 @@
 | **Entity role** | Time |
 | **Primary pressure** | Lament / Tale pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per cycle, a cycle here being one hour sat out in full at the perimeter. The yield does not change with the number of stories that manifest, which has run between four and thirty-one. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Sit the hour out at the perimeter, write down every story that manifests, and name the teller aloud where the register has one. Viderehan produces the list; Ferrehan is staying to the end of the hour, which is harder than it sounds. |
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Once Upon.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- The hour has run 94 times in six years. Naming the tellers lowers the gauge and has never shortened the hour, reduced the number of stories, or removed one from the register.
+- The gauge rises when a worker tells a story inside the radius. It has happened five times, four of them to settle a child, and each time the story told was in the register at the next hour.
+- The exposure is not injury and the wing's phrasing for it is careful: personnel inside the radius spend an hour among characters who address them, know them, and are not there.
+- Three pieces, all taken during the hour by a team that had rehearsed the extraction outside the radius first, because instructions given inside it are not reliably remembered afterward.
 
 ## Combat Record
 ### Core Stat Line
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 35% against Lament pressure; 24% against other pressure types |
+| **Resistance** | 35% against Lament. The characters cannot be touched and nothing in the hour can be struck; the attempt is on file once and the report notes the arm passed through and the character kept speaking. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 520/520 |
 | **Han Pressure [ATK]** | 17–26 per hit · Lament |
@@ -72,28 +72,28 @@
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-O-920 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | The hour ends, the list is checked against the register, and any new story is entered with the date and whoever recognised it. Nine entries have no recogniser and are marked so.
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's tale pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament]]** | When the entity first fixes on a target. |
-| { *The Tale Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament tale sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[21 Lament DMG [Lament]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[26 Lament DMG [Lament]]** | When the entity is cornered or starved. |
-| { *The Tale Collapse* [**Ultimate**] } | "The tale breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "A voice in an empty room says *once upon a time*, and does not stop there." | [The hour opens the same way every time, from whichever room is nearest empty.] | *10 Lament to anyone inside the kilometre; the opening is the only universal warning.* **[10 Lament DMG [Lament]]** | At the start of the hour, 94 times out of 94. |
+| { *The Tale Surge* [**Attack**] } | "A character uses your name, and it is in the story, and it always was." | [A worker is written into a tale that manifested before they were born.] | *21 Lament to that worker; the register's entry for that story carries their name from then on.* **[21 Lament DMG [Lament]]** | Eleven occasions. Four of the eleven workers have since asked for the entry to be struck and the archive has refused. |
+| { *The Settling* [**Attack**] } | "An ending replays, and it is the ending of a story somebody present is still inside." | [A tale reaches its close while a living person is written into it.] | *26 Lament. The two workers this happened to were both recovered conscious and both described, in detail, having died.* **[26 Lament DMG [Lament]]** | When a named worker remains inside the radius past the fiftieth minute. |
+| { *The Tale Collapse* [**Ultimate**] } | "Every story runs at once and the district is full of people who are not in it." | [All registered tales manifest simultaneously instead of in sequence.] | *23 Lament per cycle for three cycles to everyone inside the radius.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, once, in Year 4,231, when 74 stories ran together for eleven minutes. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the time manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Once Upon's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+1. **Tension:** The team takes the perimeter at one kilometre, confirms the register and a pencil, and agrees who will speak the tellers' names. Nobody enters the radius and nobody tells a story at any point before, during, or after.
+2. **Clash:** None available. The hour cannot be shortened, interrupted, or engaged, and the wing has asked twice for the row to be struck from the form.
+3. **Resolution:** The hour ends on its own. The gauge falls in proportion to how many tellers were named aloud — the one clean correlation in the file, holding across 94 hours — and the names come from the register, which is why the register is the holding's real containment.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented lament effect — tale pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- There is nothing to resist from the perimeter. The only failures available are crossing the line and telling a story, and both have happened five times.
+- Eleven workers are written into register entries under their own names and four have asked for the entries to be struck.
+- Wielders begin narrating themselves in the third person and do not notice; the check is a pronoun count against a recorded baseline.
 
 ## Appearance
 
@@ -102,7 +102,7 @@
 **Notable Features:**
 - Expresses Lament pressure in a tale register.
 - The time form is unmistakable — this is a tale entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- A one-kilometre perimeter, a register of 74 stories, and an opening sentence that has never come from the same room twice.
 
 **Identification Profile**
 - **Entity Type:** Time
@@ -117,18 +117,17 @@
 | Field | Detail |
 |---|---|
 | **Form** | An hour during which every forgotten story ever told within a kilometre radius becomes briefly, viscerally real — characters walk the streets, narrators whisper from empty rooms, and endings replay themselves in the air. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Time-Tale manifestation is the primary identifying feature. Lament pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | Fixed at the sector and bounded at a kilometre. The radius has not changed in six years and the only variation on record is in which room the hour begins. |
+| **Material / signature** | An hour. Characters in the streets, narrators in empty rooms, endings replaying in open air. Record each story that manifests, its order in the hour, and whether anybody present recognised it. |
+| **Distinctive markers** | Characters who address people who stop to listen and ignore people who keep walking. It is the one behaviour in the file that looks like a decision. |
+| **Identification** | The opening words. Every hour begins with the same four and they have never come from the same room twice. |
 
 ## Origin
 
-Once Upon was not discovered. It was recognised. The lament pressure had been present in SECTOR-O-920, contained for years — measured, logged, filed under 'ambient anomaly.' It took a junior researcher on Floor 4 to point out that the anomaly had a shape. The shape was Time-Tale. The anomaly was alive.
-
-Time itself is the medium. Once Upon does not exist in the way other entities exist — it exists as a moment that carries lament sorrow in a tale register. You cannot point at it the way you can point at a Subject entity. You can only point at its effects.
-
-The effects are cumulative. Each exposure layers lament pressure in the tale register until the personnel cannot distinguish their own tale state from the entity's influence. That is when Fracture risk peaks. That is when the protocols engage.
+- **Formation:** Nothing formed. The hour was in SECTOR-O-920 before anybody measured the sector, filed for six years as ambient Lament, and the Year 4,228 report that recognised it is a report about a reading nobody had looked at closely.
+- **The Sorrow:** Stories that were told and then dropped. Not lost ones — the register is specific — but ones that were finished, enjoyed, and never repeated, which is the ordinary fate of almost everything anybody says.
+- **The Event:** A junior researcher on Floor 4 put the sector's Lament trace beside the district's old story-collection and found that the trace rose on the anniversaries of the tellings. Fourteen such matches were established before the pattern was accepted and the list has not grown since.
+- **The People:** The tellers, who are not identifiable, and the listeners, who are. Nine of the stories in the register are recognised by nobody now living in the district; the rest are remembered by somebody, usually one person, usually elderly, and the archive has their names.
 
 ## Behavior
 
@@ -141,7 +140,7 @@ The effects are cumulative. Each exposure layers lament pressure in the tale reg
 
 ### Operational Work Notes
 
-The Lament pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Time-Tale manifestation means the tale register is the primary channel of contact.
+The table lists two Work Types and the useful figure is not in it: the gauge falls in proportion to how many tellers are named aloud during the hour. The correlation holds across all 94 hours and is the reason the register is kept by the district rather than by the wing — the names come from people who were there, and the archive has never been able to supply one itself.
 
 ## Breach Behavior
 
@@ -152,13 +151,13 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 | **Breach Type** | Expansion |
 | **Movement** | The entity's tale influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Lament pressure radiates — the tale register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Lament drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever is listening. Characters approach people who stop to hear them and ignore people who keep walking, which is the only behaviour in the file that resembles a choice.
+| **Escalation** | +5 Lament drain per cycle while a worker is inside the radius, rising with the minute rather than with anything the worker does. Past the fiftieth minute the risk changes in kind, not degree.
 
 ### Escalation Notes
 
 - **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** 40% rising 10% a cycle, read from the perimeter. The Year 4,231 simultaneity is the only reading that has passed 65%.
 
 ## M.A.W. Equipment
 
@@ -168,17 +167,17 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+**Appearance:** a single-edged blade of pale crystal with a line of text cut along the spine in a hand nobody has identified, which reads as the first sentence of a story and stops.
 
 **Damage:** Lament 14–22 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels lament tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.
+**Ability:** Struck targets lose the thread of what they were saying and pick it up again somewhere else in the sentence. The Armoury logs it as a nuisance; the fourteen targets describe it as the most disorienting thing that has happened to them.
 **Cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
 
 ### M.A.W. Suit — Once Upon's Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a flowing veil of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a veil of pale silk with narrow bands at the hem, nine of them unmarked, which the Armoury added to match the nine unrecognised entries and now cannot remove.
 
 **Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -188,71 +187,71 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a token with a number on one face and nothing on the other, the number being this holding's register entry for the story it came out of.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect:** +1 to the working stat on this holding's cycles, which is to say while sitting out an hour with a register on your knee
 **Ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.
-*Stigmas are granted at random by Once Upon upon a successful work, not manufactured.*
+*Six Stigmas in six years, every one of them during an hour in which a story with no living recogniser was named by its number rather than left unmentioned.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Once Upon, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+All three pieces came out of the hour and all three keep its property: they are about something, and the wielder is in it. The cost is that wielders begin narrating themselves — in the third person, aloud, without noticing — and the Armoury's test for it is to ask the wielder what they are doing and listen to the grammar of the answer. Two rotations have ended on a pronoun.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the register entry the piece came from, and a recorded sample of the wielder describing their morning in their own words. The sample is the baseline for the pronoun check. |
+| **During use** | Every sentence in which the wielder refers to themselves by name or in the third person, with the time. One is noted; three ends the use.
+| **At limit** | The wielder narrates an action before taking it. Both over-runs reached this and in both the narration and the action matched.
+| **After use** | Repeat the morning sample and compare the grammar against the baseline. The effect fades over about a week and the Armoury's note is that the wielders do not find it unpleasant, which is why the check is not left to them.
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Lament signature confirmed at SECTOR-O-920.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The tale register is the dominant channel of contact.
+- 94 hours in six years; between four and thirty-one stories manifesting in each.
+- 74 entries in the register; nine of them recognised by nobody now living in the district.
+- Eleven workers named inside stories; two reached an ending; no fatalities and no physical injury in six years.
 
 **Personnel Note:**
 
-> *"The tale pressure is different from standard lament. It does not press on the body — it presses on the tale itself. You feel it before you understand what is happening."* — Specialist, Field Team 4
+> *"Number forty-one is a story about a boy who waits at a gate. Nobody alive remembers being told it. We say the number out loud because we have nothing else to say, and the gauge comes down when we do, and I have stopped trying to work out what that means about saying a number."* — Perimeter staff, SECTOR-O-920
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Once Upon (O-IIIγ-920 [LT]) is logged as a Time-Tale manifestation expressing Lament. Held at SECTOR-O-920.
+**Entry 1 — Containment Description** One hour, recurring, inside a kilometre of SECTOR-O-920, during which stories that were told in the district and then dropped play themselves out in the streets with everybody in them present.
 
-**Entry 2 — Field Log** First contact report: the tale register was immediately apparent. Personnel described it as a tale pressure unlike standard lament.
+**Entry 2 — Field Log** The first team walked the radius for the full hour and came out with sixteen stories written down and the names of four tellers supplied by residents at the edge. The report's last line is that nobody had been frightened and that several of the listeners had been pleased.
 
-**Entry 3 — Counseling Log** The lament pressure accumulates in the tale register — this is not standard lament; this is lament filtered through tale.
+**Entry 3 — Counseling Log** The named workers are the counselling load. Being a character in a story that predates you is not distressing in the hour and becomes distressing afterward, and the four requests to have entries struck all came between two and nine months later.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The tale register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** A one-kilometre perimeter, a register of 74 stories, and a prohibition on telling any story inside it. The prohibition covers reading aloud to children, which was debated for a year and is the reason two families moved out of the sector.
 
-**Entry 5 — Director's Note** This entity's classification as Time-Tale is correct. The tale descriptor is not decorative — it is the operational axis. All containment protocols should account for the tale register as the primary channel.
+**Entry 5 — Director's Note** The archive will not strike a register entry, including one with a living person's name in it, and the Director's note gives the reason in one sentence: *This holding exists because things that were told once were allowed to go unrecorded, and we are not going to manage it by unrecording things.*
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Name the teller and let the story finish without you. | Answer the character who used your name.
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| The hour closes, the gauge is down, and the register has the night's list in it. | You are in the story now, in the register, under your own name, and the archive will not strike it. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
 There is a moment — always the same, always brief — when the lament pressure and the tale register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. An hour during which every forgotten story ever told within a kilometre radius becomes briefly, viscerally real — characters walk the streets, narrators whisper from empty rooms, and endings replay themselves in the air. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
 
-**At first contact:** The tale signature is unmistakable — this is not a general lament entity but one whose sorrow has taken the specific shape of tale.
+**At first contact:** Four words from an empty room, and then a street that was empty has people in it, mid-conversation, about things that happened long ago.
 
-**With continued exposure:** The lament pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** You start to know which story is coming from its first line, and then from the quality of the quiet before it. Long-serving perimeter staff can call the order of an hour correctly most of the way through, and none of them can say how.
 
-**When the entity activates:** The lament becomes a force rather than a feeling. The time was holding; now it releases.
+**When the entity activates:** A voice says *once upon a time* from a room with nobody in it, and the street outside fills with people who are talking to each other about things that happened a long time ago.
 
-**After departure:** The lament does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** You tell somebody a story you had not thought of in years. Perimeter staff do it on the way home and the wing has recorded it for six years as an effect and not as a symptom.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -282,20 +281,20 @@ The entity does not rage. It does not weep. It persists — tale and lament, pat
 
 **Comprehension Level:** 3 — Advanced
 
-**Threat Assessment:** Major. A Time-Tale entity — the tale register is its defining characteristic. Risk: prolonged exposure to the tale pressure may produce effects not seen in standard lament entities.
+**Threat Assessment:** Major, and the grade is for the fiftieth minute. Six years, 94 hours, eleven workers written into stories, two who reached an ending, no fatalities and no physical injury of any kind. The district has not asked for the holding to be moved and has twice petitioned to keep the register public.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the tale register specifically — it is the primary channel of contact.
+- Sit the hour out at the perimeter; name every teller the register has.
+- No story is told inside the radius, by anybody, for any reason, including to a child.
+- Every manifestation entered with its order in the hour and the name of whoever recognised it.
 
 **Cross-References:** Outside Sorrow (외한) · Lament · Time-Tale · Manifestation Classification
 
 ### Registry Addendum
 
-**Operational interpretation:** The Time-Tale classification is valid and necessary. The tale descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** The register is the containment measure and the district keeps it. Six years of hours have established that the gauge answers to one thing only — tellers named aloud — and the names cannot be supplied by the archive, because the archive is what failed to write them down in the first place. Nine stories now have no living recogniser and are named by number instead, which works, which nobody expected, and which the perimeter staff have stopped trying to explain.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and tale pressure readings after every breach or unusual interaction.
+**Review requirement:** After every hour: the list in order, every teller named and by whom, any new entry with its date, the gauge before and after, and the name of any worker who was addressed by name inside the radius. That last entry is permanent and the archive has refused four requests to remove one.
 
 ## Warden Record
 
