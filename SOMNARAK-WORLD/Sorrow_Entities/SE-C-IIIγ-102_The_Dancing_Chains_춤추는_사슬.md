@@ -15,7 +15,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Non-Organic — A pair of dark chains of crystallized rage, their links fused and grown rather than forged, cold and ridged like clenched vertebrae. Bound to a person they move on their own, forcing the wearer to dance until collapse. They are fever-hot where they grip, and smell of char. |
-| **Movement** | Stationary — a device (internal parts may move). |
+| **Movement** | Stationary when nobody is bound to it; the links move continuously in a repeating figure and have never been recorded at rest. |
 | **Location** | SECTOR-B-01, Zone B — contained |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -88,15 +88,15 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Dancing Chains's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+2. **Clash:** Twelve turns, Viderehan and Ferrehan only, and never by one person. The two-person rule admits no exception for brevity, both names are written by two different hands, and the second Warden stands outside the working distance throughout so that there is always somebody whose hands are free.
+3. **Resolution:** Containment, management, retreat, or the documented condition: **the pattern is slowed to the logged baseline and the gauge falls below 25%**. If a worker is bound at any point, the cycle is over and the only remaining task is removal.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks The Dancing Chains’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, The Dancing Chains defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Nobody is attacked here. The failure is contact, and after contact the worker is no longer a participant in the cycle; they are the subject of it, moving faster than they can think and unable to be the one who stops.
+- The long-exposure effect outlasts the binding. Stillness becomes difficult: workers report that sitting, queueing or standing at a counter produces an urgency they cannot explain, and the medical office treats it as exposure and not as restlessness.
+- The set makes its wearer faster than anything in the sector and takes the ability to decide when to stop. The armoury's rule is that it is never worn by the person leading a withdrawal, since the wearer will reliably be the last one moving and will not notice.
+- Unresolved, the figure does not spread and nothing escapes. The pattern speeds, the anchor loads rise, and Zone B's structural inspections move forward; the escalation is carried by the building rather than by anybody in it.
 
 ## Appearance
 **Physical Form:** A pair of dark crystallized chains. When bound to a person, they force the wearer to dance until collapse.
@@ -120,19 +120,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A pair of dark crystallized chains. When bound to a person, they force the wearer to dance until collapse. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | Fixed in the registered cell. The links move constantly in a figure that repeats; record the period over ten full cycles and the brightness on the three-step scale at every watch. |
+| **Material / signature** | Grudge. Dark crystallised links, fused and grown rather than forged, cold and ridged like clenched vertebrae, smelling of char, fever-hot at any point where they have gripped. |
 | **Distinctive markers** | The wearer cannot remove themself from the chains. The chains pulse near strong emotions. They brighten near sorrow and dim near joy. |
 | **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Time the figure first — ten complete repetitions, to the second, by a Warden who is not handling anything — because the period is the holding's only stable quantity and a drift in it is the earliest sign there is. Then the brightness, on the crude three-step scale and not on a finer one; the finer scale was tried and varied more with the Warden than with the chains. Record the anchor-point condition, the temperature at every point of contact, and whether any link is warm with nobody present. Nothing is handled by one person, including for a measurement that plainly needs one pair of hands.
 
 ## Origin
 - **Formation:** The Chains formed from a fairy tale about cursed shoes and the terror of being compelled to continue.
 - **The Sorrow:** Exhaustion, loss of agency, and the grief of being unable to stop moving.
 - **The Event:** The story's curse was forgotten, but its compulsion remained and crystallized into the chains.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
-- **Expanded origin context:** The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this effect as "Sorrow Resonance" — the entity's sorrow resonates with the viewer's own hidden grief. Containment procedures require personnel to rotate every 72 hours. Extended exposure causes vivid dreams — dreams of lives never lived, of.
+- **The People:** None identifiable. There is no victim here and no originating person: the chains came out of a story, and the story's dancer was never a citizen of anywhere. The file is firm that this is the rarest entry in the registry — a sorrow with no one behind it — and that it has misled two inquiries into treating the holding as harmless.
+- **Expanded origin context:** The archivists hold what survives of the tale: fragments, variants, and two incompatible endings. In neither ending does the dancer stop. That was checked carefully, and the note recording the check says, in terms, that it was checked in the hope that one of them did. What survived into the object is not the plot, the curse, the names or the moral — all of those are gone — but the compulsion, which is the part of a story that needs no telling to keep working.
 
 ## Behavior
 
@@ -145,17 +145,17 @@
 | **Viderehan** (Observation) | Become still, allowing safe study. | Stable |
 | **Ferrehan** (Endurance) | Bind the worker temporarily and test their ability to endure motion. | Decrease |
 ### Special Behaviors
-- The chains may compel dance even when the wearer is injured.
-- Stillness becomes psychologically difficult after extended exposure.
-- A second person must remove the chains; the wearer cannot free themself.
+- Compulsion continues through injury. A fractured ankle has been recorded as slowing the figure and not as interrupting it.
+- Stillness becomes difficult afterwards, for weeks, in situations with nothing to do with the holding.
+- Removal requires a second pair of hands. The bound worker cannot do it, cannot be talked through it, and cannot authorise it on their own behalf.
 
 
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. The Dancing Chains is recorded as an Object/Place with Object-Grudge manifestation and Grudge elemental expression. The current record places it at SECTOR-B-01, Zone B — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Dancing Chains is an Object/Place with Object-Grudge manifestation and Grudge expression, held in Zone B. Viderehan opens the compulsion's shape and moves the gauge not at all. Ferrehan binds a worker briefly under authorisation and tests whether they can endure the motion, and it is the only Work Type that lowers the gauge — which is to say that the only effective work on this holding is the one that puts somebody inside the hazard. The Registrum entry naming Pugnahan as primary is an error and is corrected here.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Read it in the period. A falling gauge presents as a longer, heavier figure — the same shape, slower, with the links settling fractionally between repetitions. A rising gauge presents as speed, and speed is the only reading that matters, because the bound worker's own account becomes unreliable at exactly the point it starts to rise: they report feeling capable, efficient and unusually well. Log deviations before the next assignment and log the period, not the impression.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -195,7 +195,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Dancing Chains: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at SECTOR-B-01, Zone B — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is rate. Record the period at onset, the brightness, whether anybody is bound and since when, the anchor-point loads, and the point at which the acceleration stops. The emotional indicator and the physical one diverge on this holding — a bound worker reports improvement while the period shortens — and the file treats the divergence as the finding rather than as noise.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -210,7 +210,7 @@ The escalation pattern is specific to The Dancing Chains: it is not a generic br
 | **Risk** | Major (γ) — High danger Object-Grudge producing Grudge pressure; The worker may lose the ability to remain still and dance until physical collapse. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** trigger → who was bound, by what contact, and at what time → period at onset and at two-minute intervals thereafter → brightness → the bound worker's own reported state, recorded verbatim and marked unreliable → who performed the removal and how long it took → medical outcome → anchor-point inspection. Viderehan and Ferrehan only, and nobody attempts a removal alone.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -268,33 +268,34 @@ The escalation pattern is specific to The Dancing Chains: it is not a generic br
 
 **Cost:** The shoes want to dance; resisting the urge to move requires constant effort.
 
-*Stigmas are granted at random by The Dancing Chains upon a successful work, not manufactured.*
+*The Dancing Shoes are not manufactured and are not requested; the chains confer them, rarely, and in every recorded instance on somebody who had performed a removal rather than on somebody who had been bound.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to The Dancing Chains' element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+All three pieces carry the compulsion rather than the rage: they are fast, tireless and entirely reliable, and they make stopping into a decision the wearer has to keep making. The listed benefit holds inside the intended pattern, and forcing a piece against its design shortens the interval at which the decision comes round. No protocol produces a Stigma here.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, grade, gauge, state, condition of the piece, the objective, and the name of the person authorised to remove it from them. The last field is mandatory and that person must be physically present. |
+| **During use** | Activation time, movement rate, the ground covered, whether the wielder has stopped voluntarily at any point, and the first cost noticed by the removal partner. |
+| **At limit** | Duration, activations, attribute movement, rejection signs, and whether the wielder has begun giving reasons to continue. |
+| **After use** | Removal, by whom, injuries, lingering effects, cooldown, repair need, reuse authorisation, and a stillness check at seven days. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade states speed and output and says nothing about the thing this set actually takes, which is the capacity to be the one who calls a halt. A wielder from this source performs excellently and should never be the person holding the authority to withdraw. Read both columns, authorise on the second, and name the stopper before the piece is issued.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
-- Han-signature resonates at a frequency matching the Weeping.
-- The object has never moved from its containment zone without a bound wearer.
-- Emotional proximity changes its luminosity.
-- Removing the chains requires cooperation from someone outside the compulsion.
+- Its Han-signature matches the Weeping closely enough that the two were confused on first survey; the match has no operational consequence that anybody has been able to find.
+- It has never left the cell under its own power. Every recorded movement of the object is a movement of the person it was attached to.
+- Brightness rises near sorrow and falls near joy, which makes the reading a usable indicator of the room and a poor indicator of the object.
+- Removal requires somebody outside the compulsion and willing to take hold of the thing causing it.
 
 **Personnel Note:**
+> *"The first mistake is thinking speed is freedom. They make you fast enough to get away from anything except the needing to keep going. The second mistake is thinking you will know. I did not know. Durivel knew, and Durivel had to put her hands on them to get them off me, and nobody made her do that."* — Specialist Durivel Cho, extraction report, with the bound worker's addendum
 > *"The first mistake is thinking speed is freedom. The Chains make you fast enough to escape anything except the need to keep moving."* — Specialist Durivel Cho, extraction report
 
 
@@ -303,12 +304,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Dancing Chains as an Object/Place with Object-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-B-01, Zone B — contained. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Special Behaviors - The chains may. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Direct contact or deliberate binding to a worker. Effect: The bound worker's movement speed increases dramatically, but all movement becomes dance-like and increasingly compulsory. Duration: Until an outside person removes the chains or the entity's gauge is reduced. Risk: The. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Dancing Chains's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | A pair of dark crystallised chains, links fused and grown rather than forged, moving continuously in a repeating figure with nobody attached to them. |
+| **Sustained observation** | Period over ten repetitions, brightness on the three-step scale, anchor-point condition, and the temperature of any link that has recently gripped. Both Wardens sign, and the names are written by two different hands. |
+| **Activation or escalation** | Activation is contact, deliberate or otherwise. The bound worker moves faster, dances compulsorily, and continues through injury; it ends when somebody else takes the chains off or the gauge is reduced. Record the period as it shortens and the worker's own account as it improves. |
+| **Post-contact review** | Period series, brightness, removal time, medical outcome, stillness check at seven days, and whether any conduct entry has been generated by the episode. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** Two Wardens, always, with one of them handling nothing. Record the first visible sign, the first emotional response and what preceded it, the period at the start and the end, and the condition that ended the watch. The form here is the sorrow and not the intention: chains that dance with nobody in them are what a compulsion looks like once the story that justified it has been lost, and they tell you what they carry rather than what they will do.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -343,30 +344,30 @@ The chains lie still until you touch them. Then the first link closes, and your 
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A pair of dark crystallized chains. When bound to a person, they force the wearer to dance until collapse. Notable Features: - The wearer cannot remove themself from the chains. - The chains pulse near strong. The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Object-Grudge form.
+**At first contact:** They lie still until touched, and then the first link closes and the body finds a rhythm it never learned. The room becomes a stage and the walls become an audience, and stopping begins to feel more frightening than falling.
 
-**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Grudge presses hardest, where it recedes, where the Object-Grudge lets you breathe.
+**With continued exposure:** The bound worker gets better at it. The movement smooths out, the effort drops away, and they begin to feel efficient — which is the point at which the period on the Warden's watch is shortening fastest, and the point at which nothing the worker says about their own state can be used.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Direct contact or deliberate binding to a worker. Effect: The bound worker's movement speed increases dramatically, but all movement becomes dance-like and increasingly compulsory. Duration: Until an outside person removes the chains or the entity's gauge is reduced. Risk: The. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Somebody is attached and is now moving faster than thought. It continues through exhaustion, continues through injury, and ends when a second person takes hold of the chains and removes them — not when the worker decides to stop, which is not a thing the worker can decide.
 
-**After departure:** After contact, the body holds what the mind files away. The Grudge is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** What comes out with the worker is the difficulty of being still. It presents weeks later, in queues, in meetings, at home, and the stillness check is set at seven days for that reason rather than at the gate.
 
 ### Interaction Pattern
 
 The Dancing Chains does not exist in isolation. Its recorded relationships with The Hollow Choir, The Maw, The Kind Healer should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Baseline each party alone over a long series; the period here varies with the feeling in the room, so a single paired reading cannot be attributed to the other entity. Log the first mutual change with its distance, duration and trigger, the gauge movement on both sides, the effect on period and brightness, and whatever persists after separation. Re-verify each cycle; a Sorrow Tide or a transformation has inverted settled readings in Zone B before.
 
 
 ### Entity Interaction Record
 
-The Dancing Chains must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+This holding is read against the things that sound, recognise, or mend. The relations below have been observed and filed and none is settled; the brightness reading responds to anybody present, which makes the pairings unusually easy to over-read and is why the period is the field that counts. A result obtained once carries no authority during a Sorrow Tide, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Hollow Choir** | Sings a lullaby for the forgotten when the chains are active. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Maw** | Pulses near the First Sorrow as if recognizing its origin. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | Cannot heal the chains; they are waiting, not wounded. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Hollow Choir** | The Choir sings while the chains are active, which personnel consistently describe as the two being in time with each other. | They are not. The period was measured against the Choir across five co-presences and the two rates are unrelated; the impression of synchrony is produced by the listener and is recorded as the most persistent false reading on this holding. | The five co-presences with both rate series, and the standing caution about perceived synchrony. |
+| **The Maw** | The chains pulse near the First Sorrow as though recognising where they came from, which they did not. | Three co-presences, no measurable effect on period, brightness or gauge in either direction. The pairing is retained because it is proposed by new staff every year. | The three co-presences and the null result. |
+| **The Kind Healer** | The Healer can do nothing here, and the file's phrasing is that the chains are waiting rather than wounded. | Attempted twice under authorisation. No gauge movement on either occasion; the Healer's own readings were unaffected. The wing has not sought a third attempt. | The two attempts and both unchanged series. |
 
 **Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
@@ -402,17 +403,17 @@ Some sorrows are about what was taken. The Dancing Chains are about what cannot 
 **Common Name:** The Dancing Chains
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate. The Chains compel continuous movement once bound.
+**Threat Assessment:** Major (γ). Inert until touched, and absolute afterwards: the bound worker moves until collapse, continues through injury, and cannot end it themselves. It has never bound anybody who did not make contact with it.
 **Containment & Handling Procedures:**
-- Pugnahan is the primary Work Type.
-- Do not bind the Chains to personnel.
-- External intervention required for removal.
+- Viderehan and Ferrehan only; the older entry naming Pugnahan is an error and should not be relied on.
+- Binding occurs only as authorised Ferrehan, with a named remover present and the collapse-series instruction observed in full.
+- Removal is always by a second person. There is no self-release and none has ever been achieved.
 **Observation Notes:**
-- Formed from a forgotten fairy tale about cursed shoes.
-- The curse survived the story’s dissolution.
-**Cross-References:** Zone B · The debt system · The Veil
+- Formed out of a lost tale about cursed shoes; the fragments survive, the two endings survive, and in neither of them does the dancer stop.
+- The compulsion outlived the story, the names, and the moral; it is the only part of the tale that still functions.
+**Cross-References:** Zone B · the anchor-point inspection schedule · the collapse series · the two-person rule in the Zone B standing order
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
-**Originator:** Forgotten fairy tale; compulsion survived erasure.
+**Originator:** None. The source is a forgotten fairy tale, and no person, household or community is identifiable behind it.
 
 ### Registry Addendum
 
@@ -439,6 +440,42 @@ The second Warden's presence is logged by name alongside the first for every tas
 
 Reviews of single-signature entries are conducted by a Warden from outside the containment and conclude with a finding rather than a sanction, the roster having established at the outset that a rule people report themselves for breaking is a rule worth protecting from punishment. The reviewing Warden's finding is entered in a single line and the matter is then closed permanently, with no entry made against the individual's record anywhere in the facility.
 
+### Fourteen Collapses
+
+Everything the wing knows about how long a person can be bound comes from **fourteen numbers**, and there will never be a fifteenth.
+
+Time-to-collapse is the only quantity that matters operationally — it sets the removal standard, the escort distances, the staffing of every task in the cell — and it can be obtained in exactly one way, which is by letting somebody go to collapse while a Warden holds a watch. Fourteen such series were run in the containment's first two years, under authorisation, with volunteers, medical cover, and a removal partner standing by who was instructed not to intervene. All fourteen volunteers collapsed. All fourteen recovered. The shortest was **nine minutes forty**; the longest was **thirty-one minutes**; there is no useful relationship between the figure and anything about the person, which was the finding, and it is the finding on which the standard still rests.
+
+The ethics board closed the series in the third year and the ruling has been upheld at every review since: **the experiment and the harm are the same act**, and no consent given by a volunteer standing beside this object can be relied on for a procedure whose endpoint is defined as collapse.
+
+So the dataset is frozen. **Fourteen points, none of them recent, none of them repeatable, carrying every decision the wing makes about this holding** — and the file prints the gap in full rather than smoothing it, including the detail that two of the fourteen series were run before the brightness scale existed and therefore cannot be matched to a room condition at all.
+
+The standing note is one sentence: *we know what we know about this because of fourteen people, and we are not entitled to know any more.*
+
+### A Refusal That Was Not One
+
+A worker who keeps working after being ordered to stop is in breach of the conduct rules. That rule is not a technicality and nobody in the wing wants it changed: an instruction to stand down has to be the end of the matter, instantly, without negotiation, or no withdrawal order in the facility means anything.
+
+A bound worker keeps working after being ordered to stop. Every time. That is the entity.
+
+**The conduct scheme has no category for involuntary non-compliance.** It distinguishes deliberate refusal from honest mistake, and it treats incapacity as a medical matter handled elsewhere — but it has no entry for a worker who heard the order, understood it, agreed with it, and continued, because continuing was not theirs to stop. The supervisor who logs the refusal is recording what happened and is doing their job correctly. The entry is accurate in every particular.
+
+It is also the single most damaging thing this holding produces. **Nine entries in nine years.** They cannot be expunged, because expunction requires an error, and there was no error: the order was given, the order was not obeyed, and the record says so.
+
+The wing has twice petitioned for a new conduct category covering compelled non-compliance. Both petitions were refused, on grounds the file reproduces in full and does not dispute: any such category would have to be adjudicated case by case, by people who were not present, on evidence the worker alone can give, and the obvious result would be that it swallowed ordinary refusals. **The rule is right and the nine entries are wrong, and both of those statements survive scrutiny.**
+
+### The Cross-Reference
+
+What the wing could do was annotate, and what it chose is the thing it likes least in this file.
+
+Every one of the nine conduct entries now carries, appended, the file reference of this containment. Nothing else — no explanation, no medical detail, no narrative. **Anybody reading the entry can see that the refusal happened at `C-IIIγ-102` and can look up what that is.**
+
+The wing is clear about what this is. It is a containment exposure, recorded against a conduct file, which is not where exposures belong; it is information about what happened to a person's body sitting in a document about that person's character; and it was done without any of the nine being able to decline, since an uncross-referenced entry would read as a bare refusal and the wing judged that worse. **Five of the nine said they would have preferred the annotation. Two said they would not. Two were never asked, having left the facility before the practice began.**
+
+Two of the nine have been refused transfers since. In neither case did the receiving wing give the entry as a reason, and in neither case has it been possible to establish that it was not. The wing has written to both receiving panels and received the answer it expected, which is that selection reasons are not disclosed.
+
+The staff association's objection is minuted at every review and has never been withdrawn. The annotation discloses a medical event in a disciplinary document; it was adopted without the consent of the people it describes; and it has not been shown to help any of them, while it has demonstrably travelled. The minute records the objection as **correct in all three parts**, records that the wing has no better instrument and has stopped looking for one, and gives the only answer there is: *the alternative is nine files that say a worker was told to stop and did not.*
+
 ## Trivia
 
 - The chains pulse brighter near sorrow and dim near joy.
@@ -450,8 +487,8 @@ Reviews of single-signature entries are conducted by a Warden from outside the c
 
 - **Classification detail:** The Dancing Chains is an Object/Place with Fragment (III) — Personality compelled to dance coherence and Major (γ) — High danger potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-01, Zone B — contained.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Identify it by the repeating figure and by the fused, grown links; never by stillness, which it has never exhibited, and never by sound, of which it makes almost none.
+- **Record detail:** This file should be read with the conduct instruction beside it, because the most consequential thing this holding does to people is done to their record rather than to their body.
 - **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
