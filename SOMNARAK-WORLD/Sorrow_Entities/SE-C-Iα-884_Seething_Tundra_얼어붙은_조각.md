@@ -29,19 +29,19 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per cycle, from a shard that fits in a palm. The Gardens' return observes each year that the yield is small, the cycle is twenty minutes, and the count afterwards takes longer than the cycle. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Count the tears under the standard lamp, at the standard distance, twice, by two people. Viderehan is the count; Ferrehan is staying in the room while the memory finishes. Nothing is touched without authorisation. |
 
 ### Operational Notes
 
 - The ground in that part of the Gardens is frozen and in constant motion beneath the surface.
 - A cycle stills the motion for a shift. The temperature is unchanged, and the motion resumes at its logged rate.
-- Viderehan and Ferrehan are the valid approaches to the site.
+- Flerehan and Pugnahan are unavailable, and nobody has proposed either since Year 4,230; the Gardens' own phrasing is that there is nothing here to argue with and nothing to comfort.
 - No breach counter applies. The affected ground is staked at every session, since the boundary cannot be judged by surface appearance.
 - Extraction draws from the surface layer under separate authorization.
 
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Void pressure; 5% against other pressure types |
+| **Resistance** | 15% against Void. The shard has never been struck and never melts — it has been left in a heated room for a week and came out at the same temperature it went in. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 208/208 |
 | **Han Pressure [ATK]** | 3–9 per hit · Void |
@@ -73,30 +73,30 @@
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Echo Gardens |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | The two counts agree and the memory, if one rose, has been attributed aloud to the mourner rather than to the worker. 188 cycles; the counts have disagreed eleven times and every disagreement was resolved by a third count rather than by discussion. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Cold Core* [**Debuff**] } | "The shard is perfectly preserved — frozen so completely that time itself has stopped inside it." | [The Shard's timeless cold emanates; the target feels the stoppage.] | *Target suffers a Void mark; time is slowing around them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Shard. |
-| { *The Suspended Moment* [**Debuff**] } | "Inside the ice, you can see the instant the shard was frozen — a single, eternal, grief-filled frame." | [The Shard's preserved moment radiates; the target is caught in stillness.] | *Target loses clarity; the frozen moment is pulling them in.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares into the ice. |
+| { *The Cold Core* [**Debuff**] } | "Nothing in the room is moving, including the thing you were about to say." | [The cold reaches the room's pace rather than its temperature.] | *1 Void. Workers describe losing the sentence they had prepared and not getting it back.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | On approach, every cycle, to everybody. |
+| { *The Suspended Moment* [**Debuff**] } | "You can see the counter, and the clerk, and her face as she is asked the second time." | [The preserved instant is legible to anyone who looks closely, and is always the same instant.] | *1 Void, and the viewer can afterwards describe a room in the Gardens as it was eleven years ago.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares into the ice. |
 | { *The Ice Spear* [**Attack**] } | "The frozen shard launches — trailing permafrost, carrying the cold of an eternal instant." | [An ice-locked shard strikes the target.] | *Inflicts Void damage; the eternal cold preserves and erodes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shard is struck. |
-| { *The Full Shatter* [**Attack**] } | "The ice around the shard cracks — and the moment it held, released, hits like a stopped clock starting again." | [The Shard's temporal prison breaks; the stored moment detonates.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is broken. |
-| { *The Frozen Instant* [**Ultimate**] } | "Every shard in the field freezes — and time, around every one of them, simply stops." | [The Shard extends its temporal freeze across the whole area.] | *All in range suffer Void erosion for three turns of stopped time.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Shatter* [**Attack**] } | "The anger in it arrives all at once and it arrives as yours." | [The stored memory transfers whole and is reported in the first person.] | *3 Void and a 15% Gauge surge to whoever touched it; the recipient will defend the grievance as their own until it is named aloud.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is touched without the memory being acknowledged afterwards. |
+| { *The Frozen Instant* [**Ultimate**] } | "Every unspoken thing in the Gardens' deposit room goes cold at once." | [The effect propagates to the deposits — the mementoes left without an account.] | *2 Void per cycle for three cycles to anyone in the deposit room.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | Above 65%. Recorded once, in Year 4,233; eleven deposits were found cold to the touch and three depositors came back that week to say what they had meant. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The shard is brought out on its tray, the standard lamp is set at the marked distance, and the two counters take opposite sides. Neither says a number aloud until both have finished.
 2. **Clash:** There is nothing to fight. The team counts the trapped tears under the lamp, works Viderehan and Ferrehan only, and holds the shard without putting a name to what rises off it. Flerehan and Pugnahan are invalid; the shard is already somebody's attempt to handle a feeling by holding it.
 3. **Resolution:** The cycle ends when the count is taken twice and agrees, the Gardens' deposit book for the week is attached, and the shard is returned to its tray. There is no suppression step and the shard has never been warmer than the room.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Composure** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Seething Tundra’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Seething Tundra’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- The failure here is carrying the anger out of the room without naming it. It is not dramatic: the worker simply leaves annoyed, about something real, at somebody who exists.
+- Past about fifteen minutes the grievance acquires detail that was not in it — a date, a room, a thing somebody said — and the detail is consistent between workers, which is how the Gardens knows the memory is the mourner's and not theirs.
+- The set's cost is in the ledger and is domestic: wielders keep things. Small objects, for no reason they can give, and they are unable to throw them away.
+- An unresolved cycle does not breach anything. It adds a tear. The count has gone from 31 at first survey to 38, and every one of the seven additions followed a cycle in which somebody left without saying whose anger it was.
 
 ## Appearance
 **Physical Form:** A clear-white shard of crystallized rage, cold to the touch and marked by tiny trapped tears.
@@ -118,8 +118,8 @@
 |---|---|
 | **Form** | A clear-white shard of crystallized rage, cold to the touch and marked by tiny trapped tears. |
 | **Position / movement** | Inert and stationary; the only variable is the number of tears visible inside it. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Material / signature** | A clear-white shard the size of a palm, cold in a warm room, holding tiny tears frozen mid-fall. Record the tear count on arrival and on leaving, under the standard lamp at the marked distance; nothing else about it has ever varied. |
+| **Distinctive markers** | It stays transparent while it is holding rage, which is the detail the Gardens' briefing leads with, because everything else in the vault that holds anger goes dark. |
 | **Identification** | Verify against the SECC code before work or contact begins; the marker is a palm-sized clear-white shard holding tears frozen mid-fall, cold in a warm room. |
 
 **Appearance protocol:** Count the trapped tears under lamplight at a fixed distance, twice, by two people; counts by one person have differed by as much as thirty. Log the dimensions, the surface temperature, and the clarity, which has never been affected by the count. Specific language only — the shard is not 'brooding', it holds two thousand one hundred and eighteen tears.
@@ -145,14 +145,14 @@
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Seething Tundra is recorded as an Object/Place with Object-Grudge manifestation and Void elemental expression. The current record places it at Zone D, Echo Gardens; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Work Type rows are steady and the count is not. Thirty-one tears at first survey, thirty-eight now, seven additions, each one following a cycle that ended without the anger being named aloud. The Gardens can state its management in one sentence because the series states it for them: say whose it is before you leave the room. A gauge that does not move here means only that nobody touched it.
 
 **Reading the response:** A falling count means a death was spoken about that week where an object would have done. Stability under Viderehan is correct and usual. The count rises on each memorial object the Gardens accepts with nothing said over it, and it rose most in the two years the Gardens waived its account book entirely, out of consideration.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
-> **This Relic is Capable of Sector / Facility Alteration**
-> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+> **Open channel: this relic steadies every containment unit in the sector while somebody holds it, and charges the holder for the service**
+> **An abandoned channel vents across the sector and the anger arrives in other people as their own**
 
 **Activation Trigger:** Direct touch.
 
@@ -171,23 +171,23 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Activation** | Direct touch. |
 | **Primary Effect** | Transfers a stored emotional memory into the user. |
 | **Duration** | Until the memory is acknowledged. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
+| **Termination / Return** | The operator closes the channel deliberately and says aloud whose anger it was. Dropping the conduit vents it across the sector; this has happened once and the Gardens logged 31 people reporting a grievance that evening. |
 | **Risk** | The user may carry out of the room, as their own, an anger that is eleven years older than they are. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** Continuous concentration, open conduits, and a second person in the room for the whole channel. The second person's only duty is to ask, every minute, who the operator is angry at.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Seething Tundra begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Seething Tundra: Transfers a stored emotional memory into the user. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens on rage made cold by exhaustion: a woman at a counter being asked, twice, whether she would like to say anything, and declining, twice. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Seething Tundra's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Void shockwave; all personnel in the sector take heavy damage and report the anger afterwards as having been theirs. |
+| 10 Seconds | The shard thrums at the pitch of a held breath and the cold comes off it in one wave. | Every containment unit in the sector steadies measurably — four to nine gauge points, logged 61 times. This is the only holding in the Gardens that helps the building. |
+| 30 Seconds | The memory arrives: a counter, a clerk, a woman asked twice whether she would like to say anything, declining twice. It is always this and the detail never varies. | The aura reaches Range Band 2 and holds there while the channeler keeps focus. |
+| 1 Minute | The channeler begins answering the clerk. Out loud, in the mourner's words, which they have not been told. | 4 Composure every 10 seconds. The second person's question becomes the disengagement test from here. |
+| 2 Minutes | The channeler has stopped distinguishing the mourner's grievance from their own and will not accept that there is a difference. | Overload vents across the sector; personnel take heavy damage and report the anger afterwards as theirs. The one occurrence produced 31 unrelated complaints in a single evening and took the Gardens two months to unpick. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Seething Tundra: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation is a tear. Record the count before and after, the lamp and distance, who touched it, what rose off it, whose it was judged to be, and whether that judgement was said out loud in the room. The last field is the one that predicts the count; the rest describe the cycle. Because the entity is held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Count the tears, note the lamp and the distance, attach the Gardens' deposit book for the week, and close the channel deliberately. There is no perimeter to establish. Clear anybody who has handled the shard and then described the feeling as their own; that misattribution is the whole of the risk here.
 
@@ -234,7 +234,7 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a near-colourless veil with a scatter of tiny frozen points through the weave, which the Armoury counted once, found to be thirty-one, and has not counted since.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -246,13 +246,13 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 
 **Ability:** Turns Void aside from the soul. The suit is what lets a worker hold the shard long enough for the transferred feeling to be identified as somebody else's.
 
-**Cost:** The wearer feels faintly absent to themselves, and keeps objects they cannot explain keeping.
+**Cost:** The wearer keeps things. Tickets, pencil stubs, a button; they cannot say why and cannot throw them out, and all three wielders' quarters have been found with a drawer of them.
 
 ### M.A.W. Stigma — The Frozen Fragment
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** a glass charm holding one tear, which is warm when it is near grief and cold the rest of the time — the opposite of its source, and the only piece the Armoury cannot explain.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -262,22 +262,22 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 
 **Cost:** The wearer becomes emotionally cold and distant.
 
-*The stigma is not manufactured. It is given to a worker who said aloud whose anger it was, and has never been given to one who carried it out of the room unsaid.*
+*Eleven in eleven years, every one to a worker who said aloud whose anger it was before leaving the room. Not one has gone to a worker who carried it out unsaid, and 61 workers have.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Seething Tundra's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Every piece here is a thing kept instead of a thing said, which is also what the source is, and the set behaves accordingly: it is reliable, undemanding, and it teaches its wielder to keep. The cost is not pain. It is a drawer that fills up, and a person who cannot explain a single object in it. The Armoury's check is a conversation with whoever shares the wielder's quarters.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, tear count that day, and a sealed note naming anyone the wielder currently holds a grievance against. It is opened at the end of the rotation. |
+| **During use** | The minute-by-minute answer to one question: who are you angry at. Asked by the second person, recorded verbatim, never discussed at the time. |
+| **At limit** | The answer becomes a name the wielder did not write down beforehand, and they have reasons. The use ends there, on the name alone. |
+| **After use** | Open the sealed note, compare, and ask whether anything new has been kept. The drawer question is on the form and has caught two of the three stand-downs. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** An α-grade set with a sector-wide benefit and a private cost, which is an unusual shape and the reason this holding is worked more often than its yield justifies. The benefit is measurable in other people's gauges; the cost is measurable in one person's drawer. Authorise on the second.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -294,18 +294,18 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Seething Tundra as an Object/Place with Object-Grudge manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone D, Echo Gardens. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Direct touch. Effect: Transfers a stored emotional memory into the user. Duration: Until the memory is acknowledged. Risk: the transferred anger is reported in the first person. The channel must be closed deliberately and never left untended. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Seething Tundra's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The shard comes out on its tray and the room gets colder than the shard can account for. Identification is the tears: clear-white crystal with thirty-eight small frozen falls held in it, countable, in a warm room in the Gardens. |
+| **Sustained observation** | Eleven years of tear counts against the Gardens' deposit register. Both series are kept on one sheet: the count rises when a cycle ends unsaid, and — the finding the Gardens did not expect — it has never risen in a week when every memento deposited came with a spoken account. |
+| **Activation or escalation** | Direct touch, under authorisation, with a second person present. The memory transfers and stays until it is acknowledged aloud; until then the holder reports the anger in the first person and means it. The channel is closed deliberately and never left untended. left untended, and the second person's minute-by-minute question is the record of the transfer. |
+| **Post-contact review** | Two counts, both recorded, with the third if they disagreed; the lamp and distance; whether a memory rose and whether it was named aloud; and the week's deposits with how many carried an account. A report that gives one count is returned. The entity preserves. |
 
-**Observation method:** Record the tear count on arrival and on leaving, the lamp used, the Gardens' deposits for the week and how many carried a spoken account, and the condition that ends the encounter, which is the count agreeing twice. Appearance is diagnosis, not prediction; the count reveals the wound, not the next move.
+**Observation method:** Record the tear count on arrival and on leaving, the lamp used, the Gardens' deposits for the week and how many carried a spoken account, and the condition that ends the encounter, which is the count agreeing twice. The count is a wound and not a forecast.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Seething Tundra (C-Iα-884 [VO]) is logged as a Object-Grudge manifestation expressing Void. The Shard formed from sorrow that was shaped into an object rather than spoken. Held at Zone D, Echo Gardens. The Shard remains stationary in the Echo Gardens.
+Seething Tundra is a palm-sized shard of clear-white crystal kept on a tray in the Echo Gardens deposit vault, cold in a warm room, with thirty-eight tiny tears frozen mid-fall inside it. It was one last tear that a mourner chose to keep instead of saying what it was for.
 
 **Entry 2 — <Gardens Return: Three Hundred and Forty-Four Objects, One Hundred and Seven Accounts>**
 Memorial objects accepted by the Echo Gardens in 4238: three hundred and forty-four. Accompanied by a spoken account taken down by the clerk: one hundred and seven. Accepted with the account space left empty: two hundred and thirty-seven. Tear count at the first lamp of the year: two thousand and ninety-one. At the last: two thousand one hundred and eighteen. The only fortnight in which the count fell was the one following the Gardens' open evening, at which eleven people spoke and deposited nothing.
@@ -321,9 +321,9 @@ The Echo Gardens no longer accepts a memorial object without an account. The acc
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Seething Tundra; the other feeds it.
+> The choice is at the door, with the count finished and the anger still in your chest and a perfectly good person to be angry at waiting in the corridor.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Say whose it is, out loud, before you leave the room. | Take it with you. It is only a mood, and it will pass. |
 |---|---|
 | Remains cold while testing the worker's patience. The sorrow is seen clearly; Seething Tundra is fully recorded. | Reveals the memory embedded in its surface. The gauge climbs and Seething Tundra withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -334,32 +334,32 @@ The Shard looks beautiful enough to pick up. Your fingers touch its cold surface
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A clear-white shard of crystallized rage, cold to the touch and marked by tiny trapped tears. Notable Features: It glows under moonlight, records the emotion of anyone who touches it, and never melts. Identification Profile: The. The surrounding space does not become generic or abstract; it changes in the specific way associated with Void and the entity's Object-Grudge form.
+**At first contact:** A palm-sized piece of clear-white crystal on a tray, colder than the room allows, with small tears caught in it partway down. Under the lamp you can count them. Under moonlight it glows, which is in the file because the first survey was at night and nobody has been able to leave it out.
 
 **With continued exposure:** With time the Object-Grudge becomes less a presence and more a climate — the Void is no longer an event but an environment, something you exist inside rather than encounter.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Direct touch. Effect: Transfers a stored emotional memory into the user. Duration: Until the memory is acknowledged. Risk: the transferred anger is reported in the first person. The channel must be closed deliberately and never left untended. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** There is no change in the shard. The change is in the person holding it, who is now angry, specifically and justifiably, about something that happened to somebody else eleven years ago, and who will say *I* when they describe it. The channel must be closed deliberately and never left untended.
 
-**After departure:** The containment boundary holds the Object-Grudge, but not the memory. Void residue settles into the bones like Han into the city's foundations.
+**After departure:** You think of something you did not say at the time and could still say now. The Gardens' briefing mentions it, and adds that in this one case the advice is to go and say it.
 
 ### Interaction Pattern
 
-Seething Tundra does not exist in isolation. Its recorded relationships with The Frozen Veil, The Weeping Statue, The Angry Maiden should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relations, all of them things kept in place of things said, and all scored on the tear count. The count has risen in every joint session the Gardens has run, which is the strongest negative result in the Echo Gardens file and the reason joint sessions here now require the Warden's signature.
 
 **Interaction method:** Document it alone first, with the Gardens' deposit book alongside, since that is the variable. In shared conditions log the tear count before and after and whether anything held was given up — nothing has been, across every joint session in the Gardens, and the count has risen in all of them.
 
 
 ### Entity Interaction Record
 
-It is filed with the Echo Gardens records. The relationships below are what the archive will support. They are not alliances; each concerns something kept in place of something said, and in proximity the tear count has risen in every joint session the Gardens has run.
+Nine sessions across three holdings and nine tears added. The Gardens now treats a joint session on this holding as a procedure with a known cost, written on the authorisation form in those words, and has approved two since.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Frozen Veil** | Resonates with emotional coldness. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Weeping Statue** | Reflects the Statue's unexpressed grief. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Angry Maiden** | Her fire cracks but does not melt it. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Frozen Veil** | Resonates with the cold; the pairing everybody expects to be harmless. | Four sessions, four tears added. The resonance is real and audible and the count rose every time, including the session in which nobody touched the shard at all. | Count before and after, and whether contact occurred. |
+| **The Weeping Statue** | Holds grief that was never said, as this does; two unspoken things in one room. | Three sessions, three tears. The Gardens' note is the most useful sentence in the table: these two do not comfort each other, they accumulate. | Count, and the Statue's own readings for comparison. |
+| **The Angry Maiden** | Cracks it and cannot melt it; the only party that has physically marked the shard. | Two sessions, two tears, and a hairline that is still there. The second session was authorised to see whether the crack would spread. It has not, in six years. | Count, the crack photographed annually, and the authorising signature. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Baselines first, and on this holding a baseline means two agreeing counts rather than a gauge reading. Count before, count after, and count again a week later; the additions have twice appeared late. Record whether anybody touched it, because the count has risen in sessions where nobody did. Separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -400,14 +400,14 @@ Some sorrows are preserved. Seething Tundra is a sorrow preserved too well — t
 **Observation Notes:**
 - A mourner preserved her last tear; it hardened, sealing her anger inside.
 **Cross-References:** Echo Gardens · The Frozen Tear · The Soaking Shard
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** None operational. The Gardens' deposit register is kept by the district and not by any faction, and two requests to copy it — one from UCD — have been refused on the grounds that a register of unspoken things should not be read by people the depositors did not choose.
 **Originator:** One mourner of the Echo Gardens, named on the deposit slip reproduced in the Origin section. The archive holds the slip, the clerk's note, and nothing else, and has not sought more.
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This holding steadies the whole sector while somebody holds it, which is rare enough that the Gardens has had to resist using it as infrastructure. The price is specific and it is paid by the holder: an anger that is not theirs, which becomes theirs unless they name it aloud before they leave the room, and which costs the shard another tear if they do not. Thirty-one tears became thirty-eight that way. The management condition is one sentence a worker can obey and it is obeyed about two-thirds of the time, which the Gardens considers good and not sufficient. The entity's behaviour, Work Type response, activation condition, M.A.W. risk and interaction pattern must be read together. Where the shard does something this file does not describe, write it down and leave the contradiction standing.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any event: two counts, the crack photographed, the week's deposits with the spoken-account proportion, and the name of anybody who left the room without attributing a memory. The last field goes to the briefing and not to the person's file. A further item: any proposal to use the channel as a routine sector stabiliser is an escalation to the Warden, because it has been proposed twice and the cost falls on one person each time.
 ## Trivia
 
 - The Shard smells faintly of tears despite having no liquid component.
@@ -418,10 +418,10 @@ Some sorrows are preserved. Seething Tundra is a sorrow preserved too well — t
 ### Registry Trivia
 
 - **Classification detail:** Seething Tundra is an Object/Place with Residue (I) coherence and Minor (α) potency.
-- **Field detail:** Its defining element is Void, and its registered location is Zone D, Echo Gardens.
+- **Field detail:** Void, in the Echo Gardens of Zone D, kept on a tray in the deposit vault and counted under a fixed lamp at a marked distance.
 - **Recognition detail:** Identify it by the tears and the temperature. The shard is palm-sized, clear-white, cold in a warm room and never warmer, transparent even while holding what it holds, and shot through with tears frozen mid-fall rather than at rest. It glows under moonlight, which is when the count is taken.
 - **Record detail:** Check the designation before approach. The archive holds other records about objects left behind by grief, and they differ at the root — the Apocrypha concerns effects the dead left and requires that their meaning be written, while this concerns a thing the living made to hold a feeling in, and requires that the feeling be said instead.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** It bleeds outward even unworked — but upward, not down: adjacent units read steadier near it, not worse, which is the one thing about this holding the Gardens has never been able to account for and has stopped trying to.
 ## Document Information
 
 **Document ID:** SE-C-Iα-884
