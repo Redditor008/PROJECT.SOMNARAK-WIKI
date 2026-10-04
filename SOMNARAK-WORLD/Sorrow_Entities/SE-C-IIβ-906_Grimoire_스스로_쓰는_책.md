@@ -35,15 +35,15 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Recommended response** | Viderehan and Ferrehan only; the entity is an Object and the other two Work Types are unavailable to it. Count lines, do not read them, and never open the book to establish what it is doing. |
 
 ### Operational Notes
 
-- The book writes itself, and no session has observed the moment of writing despite continuous recording.
-- A cycle slows the rate of new text. Nothing already written has been removed, and the entity is unchanged by a successful outcome.
-- Three ignored conditions escalate it. Contact runs through the tale register, so escalation presents as personnel recounting events that are not theirs.
-- Crews read aloud only what is required and never the most recent page; the most recent page is transcribed by instrument.
-- Extraction is authorized apart from the work cycle.
+- The book writes itself. Continuous recording has run on the cell for thirty-one years and has never captured the moment of writing: the frame before shows blank vellum, the frame after shows finished text, and no frame between them exists on any instrument.
+- A completed cycle slows the rate of new text for a day or two. Nothing already written has ever been removed, faded, or altered, and the volume has not run out of pages.
+- Three ignored conditions escalate it. Contact runs through the tale register, so escalation presents as personnel recounting, in the first person and in detail, events that happened to somebody else.
+- Nothing is read aloud. Line counts are taken by eye without following the text, and the most recent page is transcribed by instrument into a sealed sheet that goes to the register unopened.
+- Extraction is authorised apart from the work cycle and has never been performed. The two applications on file were withdrawn by their own authors after reading the drafting history.
 
 ## Combat Record
 ### Core Stat Line
@@ -88,23 +88,23 @@
 ### Battle Phases
 
 1. **Tension:** Personnel identify the object manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Grimoire's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+2. **Clash:** Four turns, observation and endurance only, with the book closed and weighted throughout. No cycle on this holding has ever required the book to be opened and the protocol provides no circumstance in which it may be.
+3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the line count stable across two successive readings with the cover undisturbed.
 
 ### Consequences
 
-- Failed resistance applies pressure to **Composure** and may increase the Sorrow Gauge.
-- Prolonged exposure may produce the entity's documented grudge effect — tale pressure that does not recede.
-- M.A.W. use carries the cost recorded in the equipment section.
+- A worker who cannot hold does not break down. They begin recounting a grievance in the first person, fluently and with correct detail, and are unable afterwards to say whose it was.
+- Prolonged exposure leaves the reader carrying somebody else's grievance as if it were their own. It does not recede on its own; of the four long-exposure cases on file, three resolved only when the original aggrieved party was traced and the matter put to them.
+- The Grimoire equipment lends the bearer the certainty of somebody with an unanswerable case, and charges for it in the manner recorded in the equipment section: the bearer stops being able to doubt their own account of anything.
 
 ## Appearance
 
 **Primary Form:** A leather-bound tome whose pages fill themselves with ink that seeps from the binding. The text is always a story — but the story changes depending on who opens it.
 
 **Notable Features:**
-- Expresses Grudge pressure in a tale register.
-- The object form is unmistakable — this is a tale entity, not a general one.
-- Personnel should identify it by these markers before Work or contact.
+- Expresses Grudge as narrative: a complete, ordered, first-person account written for one reader and legible to nobody else.
+- A leather-bound tome of ordinary size and weight. Ink seeps from the binding rather than from any nib; the leather is cool and the ink is never wet.
+- Confirm the designation `C-IIβ-906 [GO]`, the cell number, the weight on the cover and the current line count before approach. There are four bound volumes in the sector register and only this one fills itself.
 
 **Identification Profile**
 - **Entity Type:** Object
@@ -119,18 +119,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A leather-bound tome whose pages fill themselves with ink that seeps from the binding. The text is always a story — but the story changes depending on who opens it. |
-| **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
-| **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The Object-Tale manifestation is the primary identifying feature. Grudge pressure is present and measurable. |
-| **Identification** | Verify these markers against the SECC code before Work or contact. |
+| **Position / movement** | Fixed on its lectern under a weighted cover and never relocated. The book does not move; what expands during an event is the number of pages filled, and that advances only while somebody is reading. |
+| **Material / signature** | Plain dark leather over vellum; ink that seeps from the binding and is dry on arrival. Grudge expression. No instrument registers anything in the cell between readings, which is itself the baseline. |
+| **Distinctive markers** | Self-filling pages; text that differs completely between readers of the same page in the same hour; and the blanks — pages that stay empty for certain readers and have never afterwards filled. |
+| **Identification** | Confirm: designation `C-IIβ-906 [GO]`, Echo (II) coherence, Moderate (β) potency, Object-Tale manifestation, Grudge element, SECTOR-C-906. Identification is by line count and cover weight. Opening the volume to identify it is the error this section exists to prevent. |
 
 ## Origin
 
-The citizens of SECTOR-C-906, contained have a name for Grimoire that predates the R.D. classification. They call it the rage that does not cool. The R.D. calls it Object-Tale. Both are correct.
+The district had a name for it before the facility did, and the facility prints both at the head of the folder without ranking them. The local name is *the rage that does not cool*. The classification is Object-Tale. The Keepers' position is that the first describes what it holds and the second describes how it holds it, and that neither is a translation of the other.
 
-The entity is a object — a leather-bound tome whose pages fill themselves with ink that seeps from the bi — but its tale nature sets it apart from every other grudge entity in the catalogue. Standard grudge pressure presses, dissolves, burns, or crushes. This one possesses objects. The protocols had to be rewritten.
+It was found in a reading room above a scrivener's premises, shelved among forty-one ordinary volumes, and the recovery party identified it in eleven minutes by the simple method of opening everything on the shelf. Two of the four who opened it asked to be relieved within the day. Both declined to say why and both were relieved; the file records the request and not the reason, on a rule written the same week and never since amended.
 
-The R.D. contained it in fourteen hours. Containment holds — barely. The tale register is not in the original manual because no one had encountered a Object-Tale entity before. Now the manual has a new chapter. The chapter is Grimoire's file.
+Containment took fourteen hours and has held for thirty-one years without a single excursion, which makes this one of the quietest holdings in the wing by every operational measure the facility keeps. Nothing about the difficulty of this file is operational. The protocol for a book is a weighted cover; everything after that is about what the thing says and to whom.
 
 ## Behavior
 
@@ -138,12 +138,12 @@ The R.D. contained it in fourteen hours. Containment holds — barely. The tale 
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the tale pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the grudge pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Permits study of the object without opening it: line counts, ink distribution, the pattern of blanks across readers. Informative, and it never requires a page to be read. | Decrease |
+| **Ferrehan** (Endurance) | Recognises patience; the writing rate settles around a party that completes a full cycle in the cell without disturbing the cover. | Decrease |
 
 ### Operational Work Notes
 
-The Grudge pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Object-Tale manifestation means the tale register is the primary channel of contact.
+Grimoire is an Object with Object-Tale manifestation and Grudge expression, held at SECTOR-C-906. Flerehan and Pugnahan are unavailable to an Object. Both valid Work Types lower the gauge and neither requires contact with the text, which is the single most important sentence in this file and is the reason it appears twice.
 
 ## Breach Behavior
 
@@ -151,16 +151,16 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | The entity's tale influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Grudge pressure radiates — the tale register makes it personal, targeted, unavoidable. |
-| **First Target** | Whoever reads first. The story shapes itself to its reader, and an unread Grimoire expands no further. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Grudge drain increases by 5 per turn until suppressed. |
+| **Breach Type** | Expansion — in pages, and only while being read. |
+| **Movement** | Nothing moves and nothing is released. An unopened Grimoire expands by nothing at all; the event consists entirely of pages filling, and it stops when the cover is closed. This holding is the only one in the wing whose breach requires a volunteer. |
+| **Effect** | Grudge in the tale register: the reader receives a complete first-person account of a wrong they did, written by the person they did it to, in that person's voice and with that person's detail. |
+| **First Target** | Whoever reads first, and nobody else. The text shapes itself to the reader; a second person looking over the same shoulder sees unrelated text or sees nothing at all. |
+| **Escalation** | Grudge drain increases by 5 per turn while reading continues. Closing the cover ends the event immediately in every recorded case, and in every recorded case the reader asked for one more page. |
 
 ### Escalation Notes
 
-- **Containment priority:** Close and weight the book; do not remove it from the sector. Reading it to determine the threat is the commonest way this breach worsens.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per page filled since the breach began.
+- **Containment priority:** Close and weight the book. Do not remove it from the sector and do not open it to assess the threat; reading it to find out what it is doing has been the proximate cause of every escalation on file.
+- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per page filled since the event began, so the gauge counts pages and not minutes. A reader who stops at two pages ends at 60% however long they stood there.
 
 ## Activation Behavior
 
@@ -185,25 +185,25 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 | **Activation** | Physical contact and intentional interaction. |
 | **Primary Effect** | Projects concentrated Grudge sorrow resonance across the immediate perimeter. |
 | **Duration** | Continuous while equipped |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
+| **Termination / Return** | The operator closes the cover and submits the sealed transcript unread. Returning the piece early is permitted and never queried; exceeding the limit produces no sensation the bearer will report, which is why the limit is enforced by the attendant and not by the bearer. |
 | **Risk** | Prolonged contact causes cognitive and emotional fatigue. |
 
-**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic works while carried and will not operate for a room. It cannot substitute for a work cycle, and since the thirty-first year it cannot be issued to a bearer who has read the volume, which is logged in the register of openings and checked before issue.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Grimoire rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Grimoire activates its primary resonance: Projects concentrated Grudge sorrow resonance across the immediate perimeter. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the accumulated grief of unacknowledged grudge; the bearer begins perceiving echoes of a crisis in the city where grudge went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Grimoire begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Grimoire too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Prolonged contact causes cognitive and emotional fatigue. |
+| 10 Seconds | The cover warms slightly and ink begins to seep along the inner margin. Nothing is legible yet. | The attendant starts the clock and the page count. The reader's name, the date and the duration go to the register of openings; the text does not. |
+| 30 Seconds | The first page completes. It is always an account of something the reader did, told by the person it was done to, and it is always accurate in the particulars the reader can check. | The reader is asked once, at this point, whether they wish to stop. The answer is recorded. In three hundred and forty openings it has been yes eleven times. |
+| 1 Minute | The account acquires detail the reader did not know and cannot have known — a date, a room, what was said afterwards when they had left. | Past sixty seconds the material becomes checkable and therefore becomes evidence, which is the point at which the opinion below starts to bite. The attendant calls the page count aloud every fifteen seconds. |
+| 2 Minutes | The reader stops distinguishing the account from memory. They will describe the events in the first person of the wronged party and will not notice the change of voice. | The attendant closes the cover. No reader has ever closed it themselves past this mark and no reader has resisted having it closed for them. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Grimoire: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Tale form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at SECTOR-C-906, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is driven entirely from the human side. Record the opening time, the reader, the page count, the moment the account became checkable, and the point at which the reader's pronouns changed. The specimen produces no telemetry of its own: between readings the cell is, on every instrument, an empty room with a book in it.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Close and weight the cover, clear the cell, log the reader by name in the register of openings, and seal the transcript without reading it. Do not nominate a replacement reader to determine what the first one saw. Do not improvise an unlisted Work Type.
 
 ### Detailed Activation Record
 
@@ -214,9 +214,9 @@ The escalation pattern is specific to Grimoire: it is not a generic breach event
 | **Primary effect** | Projects concentrated Grudge sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | Continuous while equipped |
 | **Risk** | Moderate (β) Object-Tale producing Grudge pressure; Prolonged contact causes cognitive and emotional fatigue. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Viderehan and Ferrehan only, certified Tool protocol, cover weighted, line counts by eye, transcripts sealed, every opening entered in the register by name. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** reader → opening time → page count at each interval → the moment the account became checkable → pronoun change → closure method → the reader's state at twelve hours. Object entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
@@ -268,52 +268,52 @@ The escalation pattern is specific to Grimoire: it is not a generic breach event
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect:** +1 stat bonus when working the source entity; the token carries a single line of text that is different for each bearer and that no bearer has yet agreed to repeat.
 
 **Ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.
 
 **Cost:** The bearer feels old injuries and old resentments sharpen whenever the stigma is used.
 
-*Stigmas are granted at random by Grimoire upon a successful work, not manufactured.*
+*Grimoire's Token is not manufactured and cannot be requisitioned. It has been conferred four times, in each case on a worker who closed the cover at the first page and entered the fact in the register without being asked.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of Grimoire, not ordinary equipment. The grade measures extraction stability, not human safety — the wielder's cost is listed separately.
+Each Grimoire piece is an extension of an unanswered grievance rather than ordinary equipment. The grade describes extraction stability. The cost is separate and is the same every time: the bearer acquires the certainty of somebody whose case has never been contradicted, and that certainty does not lift when the piece is returned.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, current line count, cover weight confirmed, register of openings checked for the operator's name, and the named attendant. |
+| **During use** | Opening time, page count at fifteen-second intervals, the point at which the account became checkable, first cost, and any request to continue. |
+| **At limit** | Duration, pages filled, attribute change, rejection signs, source behaviour, and whether the cover was closed by the operator or by the attendant. |
+| **After use** | Closure method, transcript sealed unread, register entry completed, lingering effects, cooldown, rotation status, reuse authorisation — which is never granted to the same reader twice. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
-- Grudge signature confirmed at SECTOR-C-906.
-- Work Type responses logged: Viderehan and Ferrehan reduce gauge; Flerehan and Pugnahan are not available for this entity type.
-- The tale register is the dominant channel of contact.
+- Grudge signature recorded at SECTOR-C-906; line count taken at every watch for thirty-one years without a single reading of the text.
+- Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being an Object.
+- Contact requires an open cover and a reader. Instruments trained on an open page record vellum and ink and no text; photographs of a filled page develop blank. The only reader is the reader.
 
 **Personnel Note:**
 
-> *"The tale pressure is different from standard grudge. It does not press on the body — it presses on the tale itself. You feel it before you understand what is happening."* — Specialist, Field Team 11
+> *"It told me about a woman I worked with for two years and have not thought about since. It was correct about the date. It was correct about what I said. It was correct about the fact that I knew at the time, and I did know at the time."* — Specialist, Field Team 11
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Grimoire (C-IIβ-906 [GO]) is logged as a Object-Tale manifestation expressing Grudge. Held at SECTOR-C-906.
+**Entry 1 — Containment Description** Grimoire (`C-IIβ-906 [GO]`) is a self-filling bound volume held under a weighted cover at SECTOR-C-906. Containment has held for thirty-one years without excursion. The text differs for every reader and has never been photographed, copied or transcribed by any means but one.
 
-**Entry 2 — Field Log** First contact report: the tale register was immediately apparent. Personnel described it as a tale pressure unlike standard grudge.
+**Entry 2 — Field Log** *<Recovery, scrivener's reading room>* — Identified by opening the shelf one volume at a time. Four personnel opened it. Two requested relief within the day and gave no reason; the rule permitting a reason to be withheld was written that week and has never been amended.
 
-**Entry 3 — Counseling Log** The grudge pressure accumulates in the tale register — this is not standard grudge; this is grudge filtered through tale.
+**Entry 3 — Counseling Log** *<Interview, reader, eleven days after a two-page opening>* — "I keep wanting to say it was unfair. It was not unfair. It was the fairest account of me I have ever read and I cannot do anything with it, because the person who wrote it does not know she wrote it."
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The tale register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are the valid Work Types; neither requires the cover to be lifted. Every opening is entered in the register by name. Reauthorisation is never granted to a reader who has opened it before, and the prohibition is absolute.
 
-**Entry 5 — Director's Note** This entity's classification as Object-Tale is correct. The tale descriptor is not decorative — it is the operational axis. All containment protocols should account for the tale register as the primary channel.
+**Entry 5 — Director's Note** *<Minute on the appointments practice>* — Counsel has confirmed that we may not act on anything the volume says. It has also confirmed that nothing prevents us noticing that it said nothing. I have approved the practice on that basis and I record that the distinction, which is perfectly sound, is the thinnest thing I have ever signed.
 
 ## 최종 관찰 (Final Observation)
 
@@ -324,33 +324,33 @@ Each M.A.W. piece is a conditional extension of Grimoire, not ordinary equipment
 
 ## 감각 묘사 (Flavor Text)
 
-The first sensation is wrongness — not fear, not pain, but the awareness that something in the room is not the room anymore. A leather-bound tome whose pages fill themselves with ink that seeps from the binding. The text is always a story — but the story changes depending on who opens it. The grudge pressure is present, but it does not behave like standard grudge. It moves through the tale register as if that register were its native element.
+There is no sensation at all. The cell is cold and ordinary and the book is a book. Nothing is detectable by any instrument, nothing is audible, and personnel who have worked the holding for years describe it as the dullest posting in the wing — which is true, and remains true, up until somebody lifts the cover.
 
-**At first contact:** The tale signature is unmistakable — this is not a general grudge entity but one whose sorrow has taken the specific shape of tale.
+**At first contact:** A lectern, a weighted cover, a line count written on a slate, and a volume that is warm along the spine and nowhere else.
 
-**With continued exposure:** The grudge pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** Nothing changes for the Warden who does not read. For the one who does, the page is immediately and specifically about them, which readers consistently describe not as frightening but as being recognised.
 
-**When the entity activates:** The grudge becomes a force rather than a feeling. The object was holding; now it releases.
+**When the entity activates:** Pages fill. That is the whole of it. There is no sound, no pressure, no change in the room, and the only evidence that anything has happened is a line count and a person who has gone quiet.
 
-**After departure:** The grudge does not leave you immediately. It lingers — in the particular way the corridor sounds different on the way out than it did on the way in.
+**After departure:** The account stays, intact and in order, and does not fade as a memory would. Readers describe being able to recite it years later, in the other person's voice, with the other person's emphasis.
 
 ## 이야기 (Narratio) — The Tale
 
-The citizens of SECTOR-C-906, contained have a name for Grimoire that predates the R.D. classification. They call it the rage that does not cool. The R.D. calls it Object-Tale. Both are correct.
+The district's name for it is about heat that does not go out of a thing, and the Keepers hold that the name is precise rather than poetic. A grudge that is spoken cools; a grudge that is answered cools; a grudge that is refused and argued over at least moves. What this volume holds is the other kind — the grievance that was never told to anybody, that the aggrieved party decided against raising, and that therefore never had the chance to go stale.
 
-The entity is a object — a leather-bound tome whose pages fill themselves with ink that seeps from the bi — but its tale nature sets it apart from every other grudge entity in the catalogue. Standard grudge pressure presses, dissolves, burns, or crushes. This one possesses objects. The protocols had to be rewritten.
+Three hundred and forty openings are on the register. In every case the account was of a wrong the reader had actually done. In no case had the wronged party ever raised it with them. That second sentence is the subject of the whole file: the volume is not a judge and does not accuse — it simply holds the complaints that were decided against, and hands each one to the only person who was never told.
 
-The R.D. contained it in fourteen hours. Containment holds — barely. The tale register is not in the original manual because no one had encountered a Object-Tale entity before. Now the manual has a new chapter. The chapter is Grimoire's file.
+Containment took fourteen hours and has never been tested since, because the thing has no interest in leaving and no means of doing so. Nothing in the operational record justifies the phrase *holds barely*, which was struck from this file in the thirty-first year. What was difficult was never the holding. It was working out what a facility is permitted to know.
 
-The entity does not rage. It does not weep. It persists — tale and grudge, patient and permanent. Grimoire is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+The volume does nothing. It has no behaviour, no gauge worth watching, no response to anybody's presence, and no means of reaching anyone who leaves the cover down. Everything consequential in this file was decided upstairs, by people who had read the opinion and not the book.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The first Object-Tale entity. The file is short because we are still writing it."* — Archive
-*"Standard grudge protocols assume the pressure is uniform. It is not. The tale register is specific."* — Researcher
-*"I have never felt grudge like this. It was as if the element had learned my name."* — Specialist
-*"The entity does not breach. It deepens. There is a difference."* — Containment Lead
-*"We contained it. We did not understand it. Those are not the same thing."* — Director
+*"The first Object-Tale holding. The file is short on the entity and long on us, which I think is the correct shape and not an omission."* — Archive
+*"Standard Grudge protocol assumes the pressure is in the room. Here it is in the reader, it was put there by somebody who is still alive, and it is accurate."* — Researcher
+*"I expected an accusation. What I got was an account, in her words, of a morning I had forgotten and she had not. There was nothing in it to argue with."* — Specialist
+*"It does not breach. It waits for somebody to lift the cover, which in thirty-one years somebody has done three hundred and forty times."* — Containment Lead
+*"We contained it in fourteen hours and we have spent thirty-one years deciding what we are allowed to know. Those are not the same problem and only one of them is finished."* — Director
 
 ## 기록 (Registrum) — The Record
 
@@ -358,24 +358,24 @@ The entity does not rage. It does not weep. It persists — tale and grudge, pat
 
 **Common Name:** Grimoire
 
-**Containment Status:** Contained — SECTOR-C-906
+**Containment Status:** Contained — SECTOR-C-906, weighted cover, no excursion in thirty-one years; register of openings maintained by name
 
-**Comprehension Level:** 2 — Basic
+**Comprehension Level:** 2 — Basic. The behaviour is fully characterised and trivially controlled; what is not understood is where the accounts come from, and the file says so rather than filling the gap.
 
-**Threat Assessment:** Moderate. A Object-Tale entity — the tale register is its defining characteristic. Risk: prolonged exposure to the tale pressure may produce effects not seen in standard grudge entities.
+**Threat Assessment:** Moderate (β). It cannot move, cannot reach, cannot act on anybody who leaves the cover down, and has never breached. It is graded Moderate because what it produces is true, checkable, and unusable — and because the facility has found a use for it anyway.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are valid Work Types.
-- Flerehan and Pugnahan are not effective against this entity type.
-- Monitor the tale register specifically — it is the primary channel of contact.
+- Viderehan and Ferrehan are the valid Work Types; neither requires the cover to be lifted and neither ever has.
+- Flerehan and Pugnahan are unavailable to an Object and are not to be improvised.
+- Monitor by line count, cover weight and the register of openings. The text is never read, never transcribed except into a sealed sheet, and never used to establish any fact about any person.
 
-**Cross-References:** City Sorrow (도한) · Grudge · Object-Tale · Manifestation Classification
+**Cross-References:** City Sorrow (도한) · Grudge · Object-Tale · the register of openings · the verification study of Y4244 · the opinion on untested accusation · the sensitive-posts appointment practice
 
 ### Registry Addendum
 
-**Operational interpretation:** The Object-Tale classification is valid and necessary. The tale descriptor is the operational axis — all containment, work, and M.A.W. protocols should account for it.
+**Operational interpretation:** The three sections below are one argument and are read together: the accounts are true and verifiable, the law will not let the facility use a true accusation its subject cannot answer, and the facility therefore built its practice on the blank pages instead. Where observation contradicts this record, preserve the contradiction rather than normalising it.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, and tale pressure readings after every breach or unusual interaction.
+**Review requirement:** After every opening, Tide, Ordeal or unusual interaction, re-verify line count, cover weight, the register of openings, the seal on every transcript, and the standing of the appointment practice and the disclosure scheme that was drafted against it.
 
 ## Watch Record
 
@@ -395,11 +395,57 @@ The district's own name for it describes something that will not settle, and the
 
 What distinguishes it from the rest of its class is that it takes objects rather than crushing or dissolving, and the protocols had to be written new. The original drafting file is kept. It shows the procedure being worked out, with the discarded versions, and the archivist's note states that the discards are more instructive than the final text.
 
+### Three Hundred and Forty Openings
+
+The register of openings is the holding's real record. Reader, date, duration, pages, and nothing else; the text itself has never been entered in any file.
+
+The verification study ran from the thirty-ninth year to the forty-fourth and was designed so that nobody needed to read a transcript to assess it. Each reader was asked, afterwards, to list the checkable particulars of the account they had been given — dates, places, who else was present, what was said after they left the room — without stating what the account was about. The particulars went to an assessor who did not know the source. The assessor checked them against duty rosters, correspondence, and, where the aggrieved party could be traced, a blind interview in which that person was asked only about the events and never about the book.
+
+**Three hundred and forty openings. Two hundred and six yielded checkable particulars. Of those, ninety-one per cent were confirmed correct**, including forty-one particulars the reader did not know at the time of reading and could not have known.
+
+In every one of the two hundred and six, the wronged party existed, the wrong had happened, and the wronged party had never raised it with the reader. Not once. The interviews establish why in most cases and the reasons are ordinary: it was not worth it, they were junior, it was years ago, they expected not to be believed, they liked the person otherwise.
+
+Two negative controls matter. Readers given a sealed decoy volume of blank vellum under the same conditions produced nothing; none reported text and none reported pressure. And **the blanks**. Forty-seven readers out of three hundred and forty opened the volume and got nothing — clean vellum, held for the full two minutes, no ink. The blanks are not random: they fall overwhelmingly on new recruits, on the very young, and on four long-serving Keepers of whom the study says only that no traceable grievance against them exists. A blank has never afterwards filled for the same reader.
+
+So the volume will not invent. It holds true grievances that were decided against, and where there is none it writes nothing, and it hands each one to the single person who was never told.
+
+The study's closing line: *there is nothing in here that is not true, and nothing in here that anybody can be told.*
+
+### An Accusation Nobody Made
+
+The opinion is dated the forty-fourth year and is the longest in the folder.
+
+A person may not be subjected to a detriment on the strength of an accusation they have not been able to answer. The rule is not about the quality of the evidence: a true accusation is excluded on the same terms as a false one, because the point of the protection is that the accused tests it and the tribunal watches them do so. An account whose maker cannot be identified, called, questioned or even informed that they have made it fails every limb at once. It cannot be put to the accused, because putting it would require disclosing a case that cannot be answered. It cannot found a finding, a sanction, a note on a file, or an informal word in a corridor.
+
+Counsel is explicit that the volume's accuracy makes this worse rather than better. Material that is ninety-one per cent correct is material that is nine per cent wrong, and there is no way to tell which particular is in which category without putting it to the person, which is the thing that may not be done.
+
+The second half of the opinion was not asked for either. The aggrieved parties cannot be told. Informing a person that a grievance of theirs has been recorded would require the facility to disclose the existence and content of material obtained in this way, and would place the accused in the position of answering it without any of the protections that would attach if it were brought properly. The people whose grievances these are have, in law, no grievance recorded anywhere, and cannot be given one.
+
+Counsel closes by observing that the facility's position is therefore the correct one and the uncomfortable one at the same time: it possesses two hundred and six verified accounts of harm done by its own staff, and the right thing to do with every single one of them is nothing.
+
+The Keeper's annotation: *we are holding two hundred and six apologies that cannot be delivered, and the rule that stops us is the rule that protects the people who owe them.*
+
+### The Blanks
+
+In the forty-fifth year the facility adopted what the minutes call the assurance practice for appointments to sensitive posts.
+
+It does not use anything the book says. That is the whole design, and it was drawn with the opinion open on the table. Candidates for the small number of posts that carry unsupervised access are invited — voluntarily, with a written right to decline — to open the volume for thirty seconds in the presence of an attendant. Nothing is read by anybody but the candidate. No transcript is taken. The only thing recorded in the appointment file is whether ink appeared.
+
+A blank is treated as assurance. A filled page is treated as nothing at all: it is not recorded, not reported, not put to the candidate, and not referred to again. The candidate is not asked what it said and would not be believed as to the answer if they volunteered it. Counsel confirmed the scheme in four lines. No accusation is relied upon; the facility relies only on the absence of one; a protection that attaches to the use of adverse material is not engaged by a decision to use none.
+
+**Forty-eight appointments have been made under the practice. Nineteen candidates have not progressed.** None of the nineteen was told why, and the file is clear that none of them could have been told, because nothing was found, nothing was recorded, and nothing was relied upon. Declining the invitation is expressly without prejudice; of the nineteen, four declined.
+
+The objection is minuted at the forty-fifth review and at each of the seven since, raised by the holding's senior Keeper and supported by the facility's own appointments registrar. It holds, first, that the protection against untested accusation attaches to reliance on an accusation, and the facility has located the one position from which an entire scheme can be built out of untested accusations without ever engaging it — a distinction that is legally exact and that produces, in operation, exactly the thing the protection exists to prevent. Second, that the verification study puts the error rate at nine per cent in checkable particulars, so on the facility's own numbers one or two of the nineteen were excluded on something false, and there is no mechanism by which either of them could ever discover it, challenge it, or be restored. Third, that the two hundred and six people whose grievances are real and verified have received nothing — no finding, no notification, no apology, no acknowledgement that the thing happened — and that the only use the facility has found for their grievance is as a silent signal about the career of the person who wronged them.
+
+The minute records the objection as **correct in all three parts**. It records that a remedy was drafted in the forty-sixth year and costed at the price of a small standing panel — a disclosure scheme in which the aggrieved party is told that a grievance exists, the accused is told the substance and may answer it, and nothing is acted on unless it survives that process — and that it has not been laid before the board in seven years. And it records the sentence the senior Keeper asked to have entered verbatim, which now stands at the head of the register of openings:
+
+*We may not use a word of what it tells us, so we have built everything on the silences, and the people it was telling us about will go to their graves not knowing that anybody wrote it down.*
+
 ## Trivia
 
-- One of the first catalogued **Object-Tale** entities in Somnarak.
-- Its tale descriptor makes it structurally unique among object entities.
-- The grudge pressure in the tale register feels different from standard grudge — more specific, more personal.
+- One of the first catalogued **Object-Tale** entities in Somnarak, and the reason the register distinguishes a tale from a record.
+- It is the only holding in the wing whose containment record consists almost entirely of the names of staff.
+- The Grudge here never presents as anger. Readers describe it as being described accurately by somebody who had decided not to bother, which several have said was the worse of the two.
 
 ## Document Information
 

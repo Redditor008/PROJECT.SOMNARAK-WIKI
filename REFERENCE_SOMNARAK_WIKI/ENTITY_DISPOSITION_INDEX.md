@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **249** |
-| Pending — no disposition-bearing line found by scan | 54 |
+| **Classified here, with a quoted line of evidence** | **250** |
+| Pending — no disposition-bearing line found by scan | 53 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 249 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 250 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 54 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 53 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -253,6 +253,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Weeping Statue | C-IIβ-055 | Neutral. Sixty-eight staged pairings across three entities return nulls or inconsequential ones: the Orphaned Bell's toll pauses the flow but *"the Bell's behaviour is unchanged in every trial"*; the Smothering Mother *"is unaffected by the pool and the statue is unaffected by her"*; the Kind Healer's *"effect on the statue is nil in every trial."* It has *"never attempted to breach"* and suppresses nothing. What F01 gets is money — roughly 480 Echoes a year that *"cannot be followed, cannot be recalled, and cannot be attached to anyone."* |
 | Emberling | C-IIβ-101 | Neutral. Seventy-seven staged pairings across four entities: the Forgotten Soldier's salute is *"recognition without consequence"*; the Grieving Colossus *"neither suppresses the Child nor is suppressed by it"*; the Smothering Mother cannot reach it and *"nothing changes in either gauge"*; the Hollow Choir brightens its ember while *"the Choir's own gauge is unchanged throughout."* It has *"injured nobody in sixty years"* and produces *"no yield, no material, no measurable output."* F01 gains nothing from it but a cost it has stopped paying. |
 | Duri's Heart | C-IIβ-901 | Neutral. No pairing is recorded and none can be staged: it *"cannot move, cannot select"*, expands only *"in discrete steps, one per beat"*, and its entire influence runs through the body register of people. It suppresses no entity and frees none. What F01 gains is real but human-side only — a composure *"experienced as a benefit"* that it has written into the lower-bay safety case as a fatigue control, with *"four hundred and sixty personnel a year"* taking a dose. |
+| Grimoire | C-IIβ-906 | Neutral. No pairing is recorded and none can be staged: it *"cannot move, cannot reach, cannot act on anybody who leaves the cover down, and has never breached"*, and *"an unopened Grimoire expands by nothing at all."* Its whole channel is one human reader at a time, so it can neither suppress another entity nor assist one. What F01 holds is *"two hundred and six verified accounts of harm done by its own staff"* that it may not use — and a screening practice built on the blank pages instead. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
