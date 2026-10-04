@@ -34,15 +34,15 @@
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan and Ferrehan lower the gauge; Pugnahan raises it; Viderehan holds level. No trade without written pre-authorisation naming the memory offered, countersigned by a counsellor and logged before entry. Withdraw any operative who recognises an item on the shelves. |
 
 ### Operational Notes
 
-- The Weaver works in a library of recollections that were taken from people who have not noticed the loss.
-- A cycle interrupts the work. The library is not reduced, and nothing taken has been returned by any logged session.
-- Two ignored conditions escalate her. Escalation presents as personnel recognising a memory on the shelves.
-- Any operative who recognises one is withdrawn immediately and debriefed outside the enclosure, before conferring with the rest of the crew.
-- Extraction is authorized apart from the work cycle.
+- The Weaver works in a library of recollections taken from people who did not notice the loss, which is the defining fact of this holding and the reason its file is longer than its hazard warrants.
+- A cycle interrupts the work for some hours. The library is not reduced by it, nothing has been returned by any logged session, and no cycle has ever altered the entity in any measurable way.
+- Two ignored conditions escalate her, and escalation presents as personnel recognising a memory on the shelves rather than as anything the entity does.
+- An operative who recognises one is withdrawn at once and debriefed outside the enclosure, before conferring with the rest of the crew. The sequence matters: recognition is contagious across a crew in a way the counsellors have documented and nobody has explained.
+- Extraction is authorised apart from the work cycle and has never been attempted. The two proposals on file were withdrawn when it was pointed out that the library has no other building.
 
 ## Combat Record
 ### Core Stat Line
@@ -120,7 +120,7 @@
 |---|---|
 | **Form** | A massive spider-like being whose body is made from crystallized memories. Its webs are spun from stolen pasts, and its eyes resemble thousands of memories turning in Han-crystal sockets. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Material / signature** | Translucent braided memory-thread, cold and dry and almost weightless, flickering with faces and voices held inside it. Void expression. A thin numb damp appears wherever a memory dissolves and evaporates without residue. Webs register in the Dream layer only. |
 | **Distinctive markers** | Webs are visible only in the Dream layer. It offers memories as if conducting a trade. Its lair contains more than ten thousand catalogued stolen memories. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
@@ -143,9 +143,9 @@
 | **Ferrehan** (Endurance) | Wraps the worker in progressively heavier memories; endurance earns calm. | Decrease |
 
 ### Special Behaviors
-- Victims relive happy memories in loops while the Weaver feeds on identity.
-- It has never attacked without provocation or refusal of its offers.
-- It possesses memories of places and entities no current Archive contains.
+- A person caught in the webs relives a pleasant memory on a loop, reports no distress at any point, and cannot afterwards say how long it lasted. Observed durations run from four minutes to nine hours.
+- It has never attacked except on provocation or on the refusal of an offer, and the record distinguishes the two: refusals produce webs, provocation produces webs, and nothing produces pursuit.
+- It holds recollections of places, people and entities that appear in no surviving Archive record, and the Research wing's interest in that material is intense, documented, and the source of every disciplinary matter this holding has generated.
 
 
 
@@ -160,18 +160,18 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Escape |
-| **Movement** | The Memory Weaver breaks loose and charges, thrashing. It steals memories from everyone it passes. |
-| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
-| **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | Whoever has the most to trade. It approaches rich pasts first and ignores those it has already emptied. |
-| **Escalation** | Each turn free, Clarity drain +5 until suppressed. |
+| **Breach Type** | Escape — and the only breach in the wing whose extent is established by survey rather than by observation. |
+| **Movement** | It leaves the enclosure and moves through the Dream layer, which means it is not reliably anywhere in the waking one. Nothing visible charges and nothing visible thrashes; what advances is the zone, and the entity is somewhere inside it. |
+| **Effect** | Within the zone, definition fails: colours flatten, sound thins, and the room stops agreeing with its own plan. The reliable sign is not sensory. It is that a measured room no longer matches the drawing of itself. |
+| **Secondary Effect** | An absence at the edges, which personnel inside do not notice and personnel outside see clearly. Nobody has ever reported discomfort while inside the zone, and this is recorded as a hazard characteristic and not as a reassurance. |
+| **First Target** | Whoever has most to trade. It approaches full pasts first and ignores those it has already emptied, so a second exposure is markedly safer than a first and the roster is built on that fact. |
+| **Escalation** | Clarity drain +5 each turn. The extent is measured in square metres on which the survey and the room disagree, taken by two parties working from paper copies outside the zone, and it is the only figure the response is run on. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Prohibit all trade and withdraw through the waking layer. Its webs cannot be cut by personnel who cannot see them.
-- **Sorrow Gauge on breach:** Opens at 45% and rises 10% per trade completed rather than per turn; a refused offer holds it steady.
+- **Breach type:** Escape — into the Dream layer rather than into the corridor. Treating it as a pursuit has failed on every occasion it has been treated as one.
+- **Containment priority:** Prohibit all trade, withdraw through the waking layer, and survey. Anchor the perimeter with things that do not depend on being remembered — painted lines, driven stakes, and the Shuttle-Awl at each cardinal point, each with a named bearer who is counted by somebody outside. Webs cannot be cut by personnel who cannot see them.
+- **Sorrow Gauge on breach:** Opens at 45% and rises 10% per trade completed rather than per turn elapsed; a refused offer holds it steady. The gauge therefore records how many people said yes.
 
 ## M.A.W. Equipment
 
@@ -230,20 +230,20 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Cost:** The mask feeds on the memories it protects; the wearer slowly loses their own memories.
 
-*Stigmas are granted at random by The Memory Weaver upon a successful work, not manufactured.*
+*The Weaver's Stigma is not manufactured and cannot be requisitioned. It has been conferred seven times, in every case on an operative who refused an offer and recorded the refusal and the terms of it on the sheet.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+Each piece of this entity's equipment is an extension of a thing somebody else lost rather than ordinary equipment. The listed benefit is strongest against Void. The cost is separate and is always the same: the bearer's own recollection thins at the edges, item by item, and the items that go are not the ones they would have chosen.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder and grade; gauge; the operator's composure in their own words; piece condition; objective; the pre-authorisation naming any memory to be offered, countersigned and logged; and confirmation that the operator has completed a baseline inventory within the year. |
+| **During use** | Contact time, the zone survey at each interval, offers made and refused with their terms, the first cost, and whether the operator has recognised anything on the shelves. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the operator or by the counted bearer outside. |
+| **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and a repeat inventory at ninety days against the operator's own baseline. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -270,13 +270,13 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In The Memory Weaver's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
+**Observation method:** Record the zone survey, the web registration in the Dream layer, the offers and refusals, and the condition that ends the encounter — the survey agreeing with the plan again. Sensation is not evidence on this holding and the log provides no field for it.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Memory Weaver (C-IVγ-009 [VS]) is logged as a Subject-Dream manifestation expressing Void. The Weaver was born from histories erased from the city's record—the sorrow of people removed from collective memory. Held at SECTOR-B-02, Zone B — library of stolen pasts; contained. Standard observation tools miss the Weaver's Dream-layer webs.
+A spider-formed Subject some four metres across, woven from braided memory-thread rather than flesh, cold and dry and nearly weightless, held at SECTOR-B-02 in Zone B with the library it has made. It takes recollections from people who do not notice the loss, and that sentence is the whole of the containment problem.
 
 **Entry 2 — <Excerpt from Field Log, Year 4223>**
 Webs spread through the facility, converting rooms into memory zones. Reality is replaced by the past; personnel cannot distinguish memory from present. The same memory loop may persist for hours with no clear distinction between past and present.
@@ -285,7 +285,7 @@ Webs spread through the facility, converting rooms into memory zones. Reality is
 The terror of being erased and the loneliness of memories no one claims.
 
 **Entry 4 — <Containment Notice>**
-Management: Present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger.  The Weaver's lair contains over 10,000 memories catalogued in an undeciphered language.
+Management: no trade without written pre-authorisation naming the memory to be offered, countersigned by a counsellor and logged before entry. Do not improvise an offer in the chamber. The practice of presenting an overwhelming memory is not authorised and never was; it appears in two early logs and in no procedure, and the reviews of both are attached. The Directorate's catalogue of the lair now runs past ten thousand entries and is in plain script, compiled from outside. The Weaver's own markings, which are a different thing entirely, remain unread.
 
 **Entry 5 — <Archive Note>**
 The origin is a diagnosis, not a mystery: the sorrow became load-bearing at this location, permanent as the Weeping, and the entity is its exoskeleton.
@@ -364,24 +364,24 @@ Some sorrows mourn the dead. The Memory Weaver mourns the unpersoned — the cit
 
 **Classification:** Sorrow Entity — `C-IVγ-009` · City origin · Entity (IV) coherence · Major (γ) potency · Void · Subject-Dream manifestation
 **Common Name:** The Memory Weaver
-**Containment Status:** Contained — Archive
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Low. The Weaver collects erased histories. Effect: proximity induces the terror of being erased.
+**Containment Status:** Contained — SECTOR-B-02, Zone B; enclosure includes the lair and its catalogued library, with a standing archival operation inside the perimeter
+**Comprehension Level:** 3 — Advanced. The taking, the detection discriminator and the zone survey are characterised. What a memory physically is once it is on a shelf is not, and the file does not pretend otherwise.
+**Threat Assessment:** Major (γ). The earlier grading of Low was struck in the forty-second year and the reasons are on the file: the entity does not attack, does not pursue, and injures nobody, and the harm it does is undetectable to the person it is done to. A hazard nobody can feel is not a low one. It is an unreported one.
 **Containment & Handling Procedures:**
-- Viderehan is the primary Work Type.
-- The Weaver does not attack; it collects.
+- Flerehan and Ferrehan lower the gauge; Viderehan holds it level and is the safest, not the most effective; Pugnahan raises it and draws webs.
+- It does not initiate. It has never attacked except on provocation or on a refused offer, and the distinction is operational rather than charitable: a crew that neither provokes nor refuses has nothing to manage.
 **Observation Notes:**
 - Formed from histories erased from the city’s record.
 - A creature made of unpersoned lives.
-**Cross-References:** The Archive · The Keepers · The Burning Library · The Memory Lock
+**Cross-References:** The Archive · The Keepers · The Burning Library · The Memory Lock · the Directorate catalogue · the Baseline Inventory Cohort Y4238–Y4250 · the involuntary bailment opinion · the restitution schedule
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
-**Originator:** Citizens erased from the city’s record.
+**Originator:** The unrecorded and the deliberately erased of the Before-Time and early Somnarak — people whose absence from the record is the only surviving evidence that they were there.
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The three sections below are one argument and are read together: the takings are detectable only against a prior record and the catalogue is therefore a fraction of them, the facility holds the library as an involuntary bailee and owes its owners nothing whatever, and it has used that to cut restitution by three quarters while keeping the ceremony. Where observation contradicts this record, preserve the contradiction rather than normalising it.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every breach, Tide, Ordeal or unusual interaction, re-verify the zone survey against the plan, the catalogue count, the cohort's detection rate, the published return figure and its denominator, and the standing of the restitution schedule and the tracing-office proposal.
 ## Apex Record
 
 ### The Catalogued Lair
@@ -402,6 +402,48 @@ Four times a cycle the holding runs a restitution day: memories identified in th
 
 Archivists leaving the holding at the end of a posting sign the catalogue rather than a duty log. The signature goes on the index page beneath every other archivist who has served, and the page is now the longest continuous staff record in the wing. It is read aloud at the start of each restitution day, which is how the civilians waiting in the warmed rooms learn that the work has been going on longer than they have been missing anything.
 
+### What the Inventories Found
+
+The holding's central difficulty is stated in its first operational note and is easy to read past: the people it takes from do not notice.
+
+Ordinary forgetting is not like this and the difference is measurable. An item lost to ordinary forgetting degrades — the name goes before the face, the date before the room — and it leaves what the counsellors call a seat: the person knows there is something there and cannot reach it. A taking leaves no seat. The item is gone whole, cleanly, and the person's account of their own past closes over the gap without a mark.
+
+Which means a taking can only be found against a record made beforehand. The Baseline Inventory Cohort was built for that and for nothing else. From the thirty-eighth year, every member of staff posted within two sectors of this holding completed an autobiographical inventory on joining — two hundred and forty prompts, answers held sealed — and repeated it at three-year intervals. **One thousand two hundred and six people, twelve years, four rounds.**
+
+A loss is scored only where the subject cannot recall an item that their own earlier sealed answer proves they knew, and where they report no sense of absence about it. **Three hundred and ninety-one such items were recorded across the cohort.** Ordinary attrition, established from a matched cohort four sectors away, accounts for thirty-one of them. The remaining three hundred and sixty are a rate: a little under one item per person per decade of proximity.
+
+Two controls carry the finding. Items the subjects were primed to expect to lose were lost at the same rate as any other, so the effect is not suggestion. And the cohort's sealed answers were re-scored blind by assessors who did not know which round they were reading, with the same result.
+
+The Study's closing paragraph is the one that matters, and it is arithmetic rather than rhetoric. The catalogue holds somewhat over ten thousand entries. The cohort's rate, extrapolated across the population that has lived within range of this holding for as long as it has been here, gives a figure for takings that is larger than the catalogue by a factor the Study puts conservatively at eleven. The catalogue is not a record of what the Weaver took. **It is a record of what the Weaver kept on the shelves.**
+
+### The Involuntary Bailee
+
+The opinion is dated the forty-sixth year and was commissioned to answer a question the archivists had been asking for a decade: what, exactly, is the facility's obligation to the owners of the library?
+
+A person who comes into possession of another's property owes duties in respect of it — to take reasonable care, to deliver up on demand, to account. But those duties attach to a bailee who has *accepted* possession. A person on whom goods are thrust without their agreement is an involuntary bailee, and the law asks almost nothing of them: they must not deliberately destroy what they hold, and that is the whole of it. No duty to keep, no duty to catalogue, no duty to trace the owner, no duty to return, no duty to tell the owner that the thing exists.
+
+The facility did not seek the library. It came inside the perimeter with the entity, as part of what had to be contained, and the containment was not optional. Counsel concludes without hesitation that the facility is an involuntary bailee of every item in the lair.
+
+The second half is the half the archivists had not expected. Because there is no duty, there is no entitlement on the other side. The catalogue is a gratuity. The restitution days are a gratuity. The tracing, the week of follow-up, the warmed rooms — all gratuities, creating no obligation, conferring no right, and capable of being reduced or discontinued at any time, without notice, without consultation, and without any reason being given to anybody. Counsel notes, for completeness, that performing a gratuity for forty years does not convert it into a duty; the point has been litigated in other contexts and is settled.
+
+The liaison office asked one supplementary question: whether a person who learns that an item of theirs is catalogued may demand it back. The answer is four words long. *There is no demand.*
+
+### One Day a Cycle
+
+In the forty-ninth year the Directorate reduced restitution from four days a cycle to one.
+
+The paper is unexceptionable. Archivist hours are finite; the catalogue serves two functions, restitution and navigation; navigation supports containment, which is the facility's purpose and carries a measurable yield, while restitution supports neither. The reduction redirects three days' effort a cycle to indexing the Dream-layer map. No notice was given and none was required. The paper cites the opinion for that, correctly, in a footnote.
+
+**The return rate did not change.** It is a ratio of items returned to items identified as returnable, and with fewer days both numbers fall together. It remains the single figure the liaison office quotes most often, and it has been quoted twice since the reduction, in both cases accurately.
+
+The restitution day that survives is run exactly as the four were. The rooms are warmed in advance, the counsellors attend, the escort is rostered from volunteers, and the archivists' signature page is read aloud at the start so that the civilians waiting there learn how long the work has been going on.
+
+The objection is minuted at the forty-ninth review and at each of the six since, raised by the holding's senior archivist and supported by the liaison office. It holds, first, that the opinion establishes that the facility owes nothing, and the Directorate has read that as establishing that nothing need be considered — it is the difference between having no duty and having no reason, and the paper gives no reason, because the opinion told it that it did not have to. Second, that the published return rate is computed on a denominator the facility's own cohort study shows to be wrong by a factor of eleven, and that the figure has been quoted twice since the study reported and corrected neither time; the people whose items are not in the catalogue at all are not counted as unreturned, they are not counted as anything. Third, that the ceremony was kept and the service was cut by three quarters, so a civilian attending the one remaining day is told, truthfully, that the work has gone on for forty years, and is not told that it now goes on for a quarter of the time it did when they were first not informed that anything of theirs was missing.
+
+The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the fiftieth year at two archivist posts — four days restored, the corrected denominator published with the study, and a standing tracing office for the share of the catalogue whose owners the city can no longer locate — and that it has not been laid before the board in six years. And it records the sentence the senior archivist asked to have entered verbatim, which is now read out with the signature page at the start of the day:
+
+*We are not obliged to give any of it back, and we have never once said that out loud in this room, and we have cut it to a quarter and kept the warm chairs.*
+
 ## Trivia
 
 - The Weaver's catalogue is written in a language no Keeper has identified.
@@ -414,8 +456,8 @@ Archivists leaving the holding at the end of a posting sign the catalogue rather
 - **Classification detail:** The Memory Weaver is a Subject with Entity (IV) — Self-aware and intelligent coherence and Major (γ) — High danger if containment fails potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-B-02, Zone B — library of stolen pasts; contained.
 - **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Record detail:** The library is not the entity's record of what it took. It is the Directorate's, built from the outside; the Weaver's own index is in a script nobody has read and may not be an index at all. The distinction is the reason the return figure means less than it is quoted as meaning.
+- **Containment detail:** Containment holds the Weaver and the library together, because the library has nowhere else to be. A consequence nobody designed is that the facility is in possession of ten thousand things belonging to other people, and the three sections below are what the law and the Directorate have each made of that.
 ## Document Information
 
 **Document ID:** SE-C-IVγ-009
