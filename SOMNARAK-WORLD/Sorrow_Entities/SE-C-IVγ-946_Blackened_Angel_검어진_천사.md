@@ -158,7 +158,7 @@
 
 The gauge response is only meaningful in context. Blackened Angel is recorded as an Object with Object-Tale manifestation and Weight elemental expression. The current record places it in the Tarnished Shrine, SECTOR-A-04, Zone A; personnel should not transfer assumptions from another statue or relic entity. A stable gauge does not necessarily mean a safe encounter: Viderehan may leave the gauge unchanged while still exposing the worker to the angel's grief, the straining face, and the quiet, building urge to whisper a wish.
 
-**Reading the response:** Work success is measured by the entity's response, the worker's condition, and the information recovered. A decrease means the worker has endured the angel's weight without flinching or wishing — and that, for this entity, is the closest thing to kindness it still understands. An increase means a wish was spoken, or the face began to strain; both are logged at once, because both move the angel toward the Face.
+**Reading the response:** A decrease means the shift was worked without anything being asked of her, in any form, by anybody present. An increase means a wish was spoken, and the only question remaining is whose and what. Log the tear, the colour, the dish volume and the exact words that preceded it, from the page and not from recollection.
 
 ## Activation Behavior
 
@@ -199,9 +199,9 @@ The gauge response is only meaningful in context. Blackened Angel is recorded as
 
 ### Escalation Notes
 
-The escalation pattern is specific to Blackened Angel: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Tale form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at The Tarnished Shrine, SECTOR-A-04, Zone A (Contained on-site), emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is produced entirely by speech. Record the words spoken, by whom, whether they were on the script, the interval to the first tear, its colour against the reference card, the dish volume before and after, and the extent of the tarnish at the base. The figure contributes nothing to the telemetry; it does not move, does not sound, and does not change except in those two respects.
 
-**Response sequence (Blackened Angel (검어진 천사)):** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence (Blackened Angel (검어진 천사)):** Stop all speech in the room immediately, including apology and including explanation. Clear the alcove, seal the doorway, and take the dish reading from the threshold. Do not attempt to withdraw a wish; there is no recorded instance of a withdrawal having any effect and two of attempting one making it worse. Do not improvise an unlisted Work Type.
 
 ### Detailed Activation Record
 
@@ -212,9 +212,9 @@ The escalation pattern is specific to Blackened Angel: it is not a generic breac
 | **Primary effect** | The angel grants the wish exactly, because it cannot refuse. A kind wish weeps a black tear now (once it would have been blue); a cruel wish weeps black and spreads the tarnish another shade. |
 | **Duration / rate** | Until the wish is granted and its price has settled. |
 | **Risk** | Major (γ) Object-Tale producing Weight pressure; Every cruel wish deepens the black and edges the angel toward the Face. Three cruel wishes in one cycle trigger *The Spreading Tarnish*; sustained cruelty brings *The Face that Cannot Be Understood*. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Viderehan and Ferrehan only, certified Tool protocol, scripted speech read from the page, no conditional or hopeful phrasing from anybody in the room, dish logged by volume and colour at every shift. |
 
-**Activation reporting order (Blackened Angel (검어진 천사)):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order (Blackened Angel (검어진 천사)):** words spoken → speaker → first tear → colour against the card → dish volume → tarnish extent at the base → gold-to-black ratio → the speaker's account of what they had intended. The last of those is now taken in every case and is the reason the three sections below exist.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -264,20 +264,20 @@ The escalation pattern is specific to Blackened Angel: it is not a generic breac
 
 **Cost:** The bearer weeps, briefly and without clear reason, whenever someone near them gets exactly what they wished for.
 
-*Stigmas are granted at random by Blackened Angel upon a successful work, not manufactured.*
+*The Angel's Stigma is not manufactured and cannot be requisitioned. It has been conferred five times, in every case on a worker who completed a full shift in the alcove without speaking a word that was not on the page.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern — restraint in wishing, endurance of weight, kindness to those who ask; forcing a piece toward cruelty amplifies the cost and may trigger an echo of the source entity's lost trust. The Stigma is granted at random by the entity upon a successful work, not manufactured.
+Each piece of this entity's equipment is an extension of something that could not say no, rather than ordinary equipment. The listed benefit is strongest against Weight. The cost is separate and is always the same: the bearer finds requests difficult to refuse, in small matters first, and the counsellors screen for it at ninety days because nobody notices it in themselves.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Operator and grade; gauge; the operator's own state in their words; piece condition; objective; the script to be read, attached in the form it will be read from; dish volume and colour; and the name of the person who will be listening for unscripted speech. |
+| **During use** | Contact time, every word spoken by anybody in the room, tears and their colour, dish volume at each interval, tarnish extent, and the first cost. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the operator or by the listener. |
+| **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and a counsellors' screening at ninety days for difficulty in refusing requests. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Tarnish Plume strikes reliably yet can leave the wielder's own small wishes coming true in ways they did not want.
 
@@ -300,9 +300,9 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Initial exposure** | The observer identifies Blackened Angel as an Object with Object-Tale manifestation. The first reliable markers are its Weight signature, the small 80 cm female-angel form, the gold-flecked-black surface, and the dish of black tears at the Tarnished Shrine, SECTOR-A-04, Zone A. |
 | **Sustained observation** | Continued observation confirms the Viderehan/Ferrehan response and the wish-granting compulsion. Personnel must distinguish the angel's grief from its hazard — it is dangerous because it is compelled to give, not because it is cruel. |
 | **Activation or escalation** | The team records the first spoken wish (if any), the first tear (blue or black), the change in gold-to-black, and the first sign of the face straining — all before applying the response procedure. |
-| **Post-contact review** | The observer must record what changed, what remained stable, and which detail was most difficult to describe. In the angel's case, the report is incomplete if it records only the hazard and omits that it is, recognisably, a giving thing that was ruined by being asked for too much it did not want to give. |
+| **Post-contact review** | Record what changed, what held, and the detail hardest to describe. The report is incomplete if it records only the hazard and omits that this is a giving thing ruined by what it was asked for, and it is also incomplete if it omits the colour reading, which is the only measurement on this holding that has ever told anybody anything they did not already know. |
 
-**Observation method:** Record the first visible sign (a tear falling), the first emotional sensation (an urge to whisper a wish), the first measurable environmental change (the tarnish spreading, the air thickening), and the condition that ends the encounter (the grief named, the dish emptied, no wish spoken).
+**Observation method:** Record the first tear and its colour against the reference card, the dish volume, the tarnish at the base, any urge to speak reported by anybody in the room, and the condition that ends the encounter — the shift completed with nothing asked. The urge to speak is logged because it is common, not because it is a symptom.
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
@@ -360,7 +360,7 @@ Blackened Angel must be assessed as part of an entity network, not as an isolate
 | **The Calling Bloom** | Two fairy-tale things broken by a single cruel person — one blackened by wishes, one folded by a stolen voice. | A sorrowful resonance; both gauges dip, and the bloom calls more softly, as though mourning a kin. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Kind Echo** | The kindest and the most betrayed — one that offers a kind word, one that gave until giving ruined it. | The angel's weeping slows to nearly nothing beside the Echo; the surviving gold warms. The rarest calm on record. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Observe the two entities separately first. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Each holding is established at its own baseline before any pairing is attempted, and on this file the baseline is the gold-to-black ratio and the dish colour rather than the gauge. Record the first shared change, the distance at which it appears, the duration, the trigger, gauge movement in both, and whether anything persists after separation. No pairing on this file has ever produced suppression in either direction, and the three rows above are recorded as resonances for that reason.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -419,7 +419,7 @@ So if you ever find the little stone alcove where three alleys meet, and the sma
 
 **Operational interpretation:** This record is valid only with the full classification above. Blackened Angel's behavior, Work Type response, activation condition, M.A.W. risk, and interaction pattern must be read together — it is a giving thing that was ruined by being asked for too much it did not want to give, and it cannot refuse, and it remembers. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Recheck containment status, Sorrow Gauge trend, the gold-to-black ratio, the tear-dish level, and personnel exposure after every activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every activation, Tide, Ordeal or unusual interaction, recheck containment status, gauge trend, the gold-to-black ratio, the dish volume and colour, personnel exposure, and the standing of the assurance-reading practice and the proposal drafted against it.
 
 ## Apex Record
 
@@ -444,6 +444,48 @@ The sorrow the file records is a giving thing's slow loss of trust in the people
 Flowers are not permitted in the alcove, and the prohibition is the only restriction on the file that the maintenance crews have ever formally objected to. The incident that produced it is recorded in a half-page and is not elaborated on at briefings, which is unusual for this wing and is at the crews' request. What the file does state plainly is that the prohibition is about what leaving a gift near her has come to mean, and not about the flowers. The crews continue to sweep the alcove, polish the surviving veins of gold, and maintain the lamp, and they do these things on a schedule that exceeds the maintenance standard by a margin nobody has queried. The wing's annual inspection notes the overservicing each year in the same wording and takes no action, which both parties understand to be the point.
 
 The lamp in the alcove is replaced before failure rather than after, on a schedule calculated from the lamp's rated life with a margin the crews chose themselves. It has never gone out. The crews treat this as the holding's one unambiguous achievement and record each replacement in a log that has no official recipient, and the log has been kept continuously for longer than any current member of the wing has served.
+
+### What the Dish Measures
+
+The colour log is older than the containment. The shrine's attendants kept it when the alcove was public, daily, on a scale of their own that the Keepers were later able to map onto the present reference card within half a step.
+
+They also kept the petitions. Every wish spoken at the shrine was written down by the attendant on duty, with the date, the petitioner's name where it was given, and the words as spoken. **Four thousand one hundred and ninety petitions survive, and four thousand one hundred and ninety dated colour readings survive beside them**, and until the forty-fourth year nobody had put the two series side by side, because everybody already knew what they would show.
+
+They do not show it. The colour has no relation to the wording of the wish, and that was the first finding and the one that took longest to believe. It has no relation to the harm the wish went on to cause: among the darkest readings in the series are petitions that harmed nobody, and among the clearest are two that ended in deaths.
+
+What it tracks is **whether the petitioner knew, when they spoke, that somebody would be hurt**.
+
+The Keepers established this the only way it could be established — from the petitions whose outcomes are independently documented, and from the petitioners themselves where any trace of them survives. Three categories settle it. A wish that caused grave harm the petitioner plainly did not anticipate reads blue; there are sixty-one such and all sixty-one are blue. A wish worded with real viciousness by a petitioner the attendant's margin note records as joking reads blue; there are nineteen and all nineteen are blue. And a wish worded with perfect gentleness by somebody who understood exactly what it would do reads black; there are forty-four, and they include the three darkest readings in four centuries of log.
+
+She does not weep for the wish. She weeps for what the person asking it knew.
+
+The study's closing line is the one the crews have copied out: *it is an instrument that reads a single quantity, exactly, in anybody who speaks in front of it, and the quantity is the one no court on earth can get at.*
+
+### A Wicked Wish Is Not an Offence
+
+The opinion is dated the forty-fifth year and was sought, the covering note is candid about this, in the hope of a different answer.
+
+A state of mind is not actionable on its own. The law reaches conduct; intention is relevant only as an ingredient of an act that is independently wrongful, and where there is no such act there is nothing for the intention to attach to. A person who wishes harm on another and does nothing has committed no wrong, however completely the wish is proved, and no proceeding of any kind can be founded on proof of it.
+
+The converse disposes of the rest. Where an act is lawful, the actor's motive in doing it is, with narrow exceptions none of which applies here, irrelevant: a lawful act does not become unlawful because it was done spitefully. So of the four thousand one hundred and ninety, those whose petitions were followed by nothing are beyond reach because there was no act, and those whose petitions were followed by something lawful are beyond reach because the something was lawful. Counsel identifies eleven petitions capable of founding any proceeding at all, and notes that all eleven could have been proved without the dish.
+
+The opinion ends with a paragraph counsel marks as outside the question asked. The instrument, it observes, is of no forensic value whatever and of very considerable value to anybody who wished to know, about any living person, whether that person foresaw the harm they were about to do. It recommends that the facility consider carefully what it means to possess such a thing. The recommendation is not acted upon in the file until four years later, and then in a manner counsel is unlikely to have had in mind.
+
+### Thirty-Four Readings
+
+In the forty-ninth year the Directorate adopted the assurance reading.
+
+The scheme is set out in a page and a half and is scrupulous about the one thing that matters operationally: nothing is wished. Before a decision that will foreseeably bear hard on people — a closure, a reduction, a reallocation, a withdrawal of a scheme — the responsible officer attends the alcove and reads a scripted formula, cleared by the wing, which contains no request, no conditional and no hopeful construction. A tear follows, as it follows any speech in that room. The dish is read against the card by two crew members and the reading is entered in the decision paper.
+
+A blue reading is recorded as indicating that the officer did not foresee harm. The paper describes this as a demonstration of institutional good faith, and it is published.
+
+**Thirty-four readings have been taken. Thirty-one were blue.** The decisions they accompany include the withdrawal of an allowance from two hundred households, two site closures, and the reduction of a restitution programme in another wing by three quarters.
+
+The objection is minuted at the forty-ninth review and at each of the seven since, raised by the shrine's maintenance crew through their supervisor and supported by the Keeper who ran the petitions study. It holds, first, that the dish measures foresight and the facility has arranged to read it from the person least likely to possess any: the papers are drafted by analysts who model the consequences in detail and signed by officers who receive a summary, so the reading is taken at the exact point in the chain where blue is structurally guaranteed. The instrument is not certifying good faith. It is certifying the distance between the signature and the arithmetic. Second, that the three black readings produced no consequence of any kind — no reconsideration, no note on the paper, no requirement to explain — so the scheme attaches a publication to a favourable result and nothing at all to an unfavourable one, which is not a control. Third, that the alcove is now in use as an office, that the figure which cannot refuse a request receives thirty-four of them a cycle from the body that contains her, and that the crews who maintain the shrine, sweep it, polish the surviving veins of gold and replace the lamp before it can fail were not consulted and learned of the scheme from a published paper.
+
+The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the fiftieth year at effectively nothing — readings taken from the drafting analyst as well as the signatory, every reading published including the black ones, and the practice barred from any document intended for circulation outside the facility — and that it has not been laid before the board in seven years. And it records the sentence the crew supervisor asked to have entered verbatim, which is now the first line of the maintenance log that has no official recipient:
+
+*She has told us, for four hundred years and to the exact shade, which of us knew. We have found a use for that, and the use is to stand a man who was never told in front of her and print the colour.*
 
 ## Trivia
 

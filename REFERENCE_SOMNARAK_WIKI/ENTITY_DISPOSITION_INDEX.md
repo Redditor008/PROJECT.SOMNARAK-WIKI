@@ -20,8 +20,8 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 | | Count |
 |---|---|
 | Catalogued dossiers (both wings) | 303 |
-| **Classified here, with a quoted line of evidence** | **252** |
-| Pending — no disposition-bearing line found by scan | 51 |
+| **Classified here, with a quoted line of evidence** | **253** |
+| Pending — no disposition-bearing line found by scan | 50 |
 
 The archive has **no disposition field**. Nothing in a dossier states "this entity is Positive." The
 class must be read out of the entity's actual mechanics, which means this index can only grow one
@@ -30,10 +30,10 @@ quietly filed as Neutral — a blank is not a finding.
 
 **Split under `R-18`, stated before any classifying was done:**
 
-- **Batch-short — 252 entities.** The dossier already carries the answer in a field: an Interaction
+- **Batch-short — 253 entities.** The dossier already carries the answer in a field: an Interaction
   Record effect cell, a Trivia bullet, a Breach `Movement` row, or a Resolution Condition that names a
   cross-entity or facility-wide outcome. No authorship needed; the words are the entity's own.
-- **Careful-detail — 51 entities.** No such field. The disposition has to be reasoned from the
+- **Careful-detail — 50 entities.** No such field. The disposition has to be reasoned from the
   mechanics and written one file at a time, and will be added as Workstream 1 reaches each file.
 
 ---
@@ -256,6 +256,7 @@ Lethal to the people working them; inert toward everything else in the building.
 | Grimoire | C-IIβ-906 | Neutral. No pairing is recorded and none can be staged: it *"cannot move, cannot reach, cannot act on anybody who leaves the cover down, and has never breached"*, and *"an unopened Grimoire expands by nothing at all."* Its whole channel is one human reader at a time, so it can neither suppress another entity nor assist one. What F01 holds is *"two hundred and six verified accounts of harm done by its own staff"* that it may not use — and a screening practice built on the blank pages instead. |
 | The Soot Fry | C-IIβ-947 | Neutral. Three interaction rows and no suppression either way. The Foam Flood pairing is forbidden and untested — *"the cross-flagged pairing with C-IIIγ-948 is never tested; only the separation is monitored"* — so it evidences nothing; the Sorrow Lake row records only that it *"drifts toward it steadily and does not lunge, and the gauge falls throughout."* It *"cannot leave its water"* and *"has never injured anyone who kept their hands dry."* F01's only yield from it was a sixty-year ration line that made it worse. |
 | The Memory Weaver | C-IVγ-009 | Neutral. No cross-entity pairing is recorded anywhere in the file and its whole channel runs through people: it *"does not initiate"*, has *"never attacked except on provocation or on a refused offer"*, and *"nothing produces pursuit."* Its breach is a survey problem — *"what advances is the zone"* — and ends when the room agrees with its plan again. It suppresses no entity and frees none. F01's gain is Before-Time material it may only obtain by a trade it has prohibited. |
+| Blackened Angel | C-IVγ-946 | Neutral. Three interaction rows, all resonances and none suppressive: the Crumbling Saint gives *"a long mutual stillness"*, the Calling Bloom *"a sorrowful resonance; both gauges dip"*, the Kind Echo *"the rarest calm on record"* — and the file states that *"no pairing on this file has ever produced suppression in either direction."* It is *"Fixed — the statue does not move from its alcove"*, grants nothing unasked, and its one measurable output reads the facility's own officers rather than any entity. |
 | Somnium | `SE-C-IVγ-175` | *"Thread counts taken in the quarters when both holdings were active show no interaction at all, which is itself the finding."* It gives a worker an accurate version of a life they wanted; it suppresses nothing and assists nothing. Its only cross-entity entry is a measured absence of effect, explicitly recorded so it cannot later be cited as suppression. Neutral. |
 | Folly | `SE-C-Iα-329` | *"The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years."* Its reading responds to the city's own broken undertakings, not to other entities; no suppression, no assistance, no recorded interaction of any kind. Three proposed pairings were refused on containment grounds, never attempted. Neutral. |
 | Pandora's Jar | `SE-N-IVδ-967` | *"No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full."* It degrades F01's registers while present — numbered entries become illegible — but has never acted on another entity. Conditional note kept, classification Neutral. |
