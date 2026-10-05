@@ -18,7 +18,7 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **102 / 303** |
 | **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **82 / 303** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **50 / 302** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **54 / 302** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/178 · OP 21/41 — all floors met** |
@@ -287,7 +287,7 @@ were read, four at each risk level** (ZAYIN to ALEPH; three re-read on the Fando
 and the Risk Level page), and **ten dossiers were set against them** by a rule fixed before reading (lowest
 registry number of the class at the rank). The record is
 `COMPARATIVE_STUDY_02_TWENTY_PAGES_FIVE_LEVELS.md`; `python3 tools/ladder.py` regenerates its archive
-figures. The study itself edited no dossier. One dossier unit followed it (below), so `R-29` was **44 / 302** after it, 45 after Sorrow Tide, 48 after the three Rank V units below, and **50 / 302** after the two that follow them.
+figures. The study itself edited no dossier. One dossier unit followed it (below), so `R-29` was **44 / 302** after it, 45 after Sorrow Tide, 48 after the three Rank V units below, 50 after the two that follow them, and **54 / 302** after the four restatement units below.
 
 **What it found, short.**
 
@@ -362,7 +362,24 @@ are projections, and they stay labelled in the Combat Record.
   says the twelfth must confess. That is arithmetic on the file's figures with its reading stated, and no new figure.
   Four unclosed Story Log entry headings and the typo "Mournners" were repaired.
 
-**Still unreconciled in those two, left with the older layers.** Wilderness Tide: the Chronicle's Stigma, "the Wild
+**Four more series-only units, one commit each: Broken Door `O-IIβ-757`, Door to Nowhere `O-IIβ-922`, Torn Window
+`N-Iα-686`, Seething Tundra `C-Iα-884`; `R-29` 50 → 54.** All four are restatement units in the sense of the
+measurement note below: each failed only the own-series clause, each already kept its record in its Observation
+Progression, Registrum and Addendum in words, and each Observation Log's three generic bullets now state it in
+digits (Broken Door: 201 mentions without contact and 4 contacts, a 6-year flame series, 4 injured; Door to Nowhere:
+94 appearances in 11 years and a handle 50 centimetres higher; Torn Window: 41 hands after 9 years, 118 cycles;
+Seething Tundra: 31 tears become 38 over an 11-year count). Nothing was invented. Seething Tundra's Activation row
+also lost a repeated fragment after a full stop ("never left untended. left untended, and").
+
+**The honest tally of the 54.** Since Study 02 the count rose from 43 to 54 across eleven units. Three are real edits
+(The Stormscale Sovereign's M.A.W. rewrite, Wilderness Tide's authored catalogue, the second Dawn's two stock lines
+and clock). **Eight are restatement units** (Sorrow Tide, the Final Door, Forgotten God, the Convergence, Broken
+Door, Door to Nowhere, Torn Window, Seething Tundra). Counted without them the figure is 46. Five dossiers still fail
+only the series clause and would be the same kind of unit: Broken Mirror `C-IIα-081`, Rising Well `C-IVδ-869`,
+Mirror of Broken `N-IIIγ-127`, Pandora's Jar `N-IVδ-967`, Forgotten Soul `O-IIIγ-233`. They are held back until the
+owner rules on whether the series test should count number-words, so that the count stops moving by convention.
+
+**Still unreconciled in the earlier two, left with the older layers.** Wilderness Tide: the Chronicle's Stigma, "the Wild
 Mark", against "no M.A.W. extraction possible" everywhere else; Wardens against Rangers as the defending crew; "4,000
 years of records" against "four hundred years of tide charts" against a first major surge in Year 4150; its Entity
 Interaction Record has two rows beside a prose list of three. The second Dawn: the twelfth Mourner testifies to
@@ -521,6 +538,7 @@ Not repaired, because history is not rewritten (`R-17`).
 - A commit message reading `45->10` where the measured figure was 9.
 - The Memory Chain commit message reads `6,601 -> 6,613`; the measured figures were 6,613 -> 6,624.
 - The Final Door, Forgotten God and Convergence commit messages say "nothing new invented" and "restated in digits", which is accurate, and describe the units as closing the series clause; the clause was failing on a counting convention, as the measurement finding above says.
+- The Torn Window commit message calls it "the worst section on the Study 01 league table when this campaign began". It was the worst *file* on Study 01's table (0.293 generic fraction), at the time Study 01 was written.
 - The Sorrow Tide commit message says "no word was turned into a digit". The new Observation Log bullets do state, in digits, figures that other sections of the file give in words (nine stations, eleven minutes, sixty years). Nothing was invented, but the sentence was too strong.
 - The Foam Flood and Soot Fry commit messages describe the stock opener as carried by many dossiers. The exact first sentence ("does not exist in total isolation") was in those two files only; the shared part was the third sentence, which 127 dossiers still carry.
 
