@@ -20,14 +20,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **148 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **119 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **96 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **149 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **120 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **97 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 200 / 302 |
-| Archive median prose generic fraction | 0.026 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 201 / 302 |
+| Archive median prose generic fraction | 0.024 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -1248,6 +1248,20 @@ refusals, the clerks' refused death exception) was not touched (`R-05`). Movemen
 156 → 154, distinct residue lines 36 → **35**), file-clean 199 → **200 / 302**, median 0.026 and worst
 0.156 unchanged. **Batch 11 continues at the floor of three.**
 
+**Batch 11, unit 2: Forgotten Shadow `N-IIβ-453` closed — one pass, no second wave.**
+Re-measured at the head (`09d4bcf`): **6 dirty sections**, worst 기록 (Registrum) 0.471, then Behavior
+0.374, M.A.W. Equipment 0.281, Combat Record 0.189, 최종 관찰 (Final Observation) 0.167 and 감각 묘사
+(Flavor Text) 0.075. All six closed; 6,359 → **6,939 words**; `tpl.py` residue 4 → **0**; `verify.py`
+residual 1 → **0**; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The
+instrument is the **shade card**: mean 3.1, then 4.4, then 5.6 across the quarterly series, graded against
+a nine-step card by two Wardens who must agree and logged without naming anybody present, read against the
+Day Token return (18,400 issued / 2,210 presented / 1,860 paid / 350 refused on lost stubs / 31 after a
+death / 2 by non-holders) and the disused-ways survey. The clean Watch Record was not touched (`R-05`).
+Movement: `R-29` 96 → **97 / 301**, section-clean 119 → **120 / 301**, residue-free 148 → **149 / 302**
+(instances 441 → 437, carriers 154 → 153, distinct residue lines unchanged at 35), file-clean 200 →
+**201 / 302**, median 0.026 → **0.024**, worst 0.156 unchanged. **Batch 11 continues at the floor of
+three.**
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1273,7 +1287,8 @@ next: **Broken Clocktower `C-IVγ-240` came off it in batch 10's second unit** (
 7 dirty, 0.529, now 8,049 words). **Unheard `C-Iα-965` came off that tier in batch 10's third unit** (the head at `dcc63f0`: 7 dirty,
 0.523, now 7,062 words). **Melting Rope `N-IIIγ-447` came off that tier in batch 11's first unit** (the batch-11 head at
 `d84beca`: 7 dirty, 0.507, now 7,166 words — one pass, no second wave). The tier behind it, re-measured at
-that head: Forgotten Shadow `N-IIβ-453` (6, 0.471), Forgotten Market Stall `C-IIα-062` (9, 0.465, the only
+that head: **Forgotten Shadow `N-IIβ-453` came off it in batch 11's second unit** (6 dirty, 0.471, now
+6,939 words — one pass). Still on it: Forgotten Market Stall `C-IIα-062` (9, 0.465, the only
 open-clause candidate), The Empty Mask `C-IIβ-054` (7, 0.437), The Lost Prince `C-IVγ-091` (9, 0.389,
 series clause open), Mirror of Soaking `N-IIβ-801` (10, 0.381, condition and series open), Frozen Fury
 `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301, series open). The older

@@ -38,6 +38,23 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 11 / unit 2 — Forgotten Shadow `N-IIβ-453` brought to the standard (2026-10-05)** — batch 11's
+  second unit, the live head measured at `09d4bcf`: worst 기록 (Registrum) 0.471 across **6 dirty sections**.
+  All six closed in one pass (Behavior 0.374, M.A.W. Equipment 0.281 → **0.020 clean**, Combat Record
+  0.189, 최종 관찰 (Final Observation) 0.167, 감각 묘사 (Flavor Text) 0.075); 6,359 → **6,939 words**;
+  `tpl.py` residue 4 → **0**; `verify.py` residual 1 → **0** (Story-Log Entry 1's "is logged as" carrier);
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition and series
+  already satisfied and untouched (`R-05`). The rewrite carries the file's own instruments: the shade card
+  — mean 3.1, then 4.4, then 5.6 across the quarterly series, two Wardens agreeing per reading — read
+  against the Day Token return (18,400 issued / 2,210 presented / 1,860 paid / 350 refused on lost stubs /
+  31 after a death / 2 by non-holders), the disused-ways survey, the song that is understood rather than
+  heard, and the standing bar on Pugnahan. The clean Watch Record (the burned gate book and the eleven men
+  lifted off it, the clerks' refused counterfoil mark, the two claims for the same dates paid twice rather
+  than call either a liar) was not touched (`R-05`). Movement: `R-29` 96 → **97 / 301**, section-clean
+  119 → **120 / 301**, residue-free 148 → **149 / 302** (instances 441 → 437, carriers 154 → 153, distinct
+  residue lines unchanged at 35), file-clean 200 → **201 / 302**, median 0.026 → **0.024**, worst 0.156
+  unchanged. **Batch 11 continues at the floor of three**; the third unit is measured at its own head.
+
 - **Batch 11 / unit 1 — Melting Rope `N-IIIγ-447` brought to the standard (2026-10-05)** — batch 11's
   opening unit, the live head measured at `d84beca`: worst 기록 (Registrum) 0.507 across **7 dirty
   sections**. All seven closed in one pass (Behavior 0.406, M.A.W. Equipment 0.329 → **0.022 clean**,
