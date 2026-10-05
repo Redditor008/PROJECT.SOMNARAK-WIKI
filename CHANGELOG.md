@@ -38,6 +38,23 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 11 / unit 1 — Melting Rope `N-IIIγ-447` brought to the standard (2026-10-05)** — batch 11's
+  opening unit, the live head measured at `d84beca`: worst 기록 (Registrum) 0.507 across **7 dirty
+  sections**. All seven closed in one pass (Behavior 0.406, M.A.W. Equipment 0.329 → **0.022 clean**,
+  Combat Record 0.197, 최종 관찰 (Final Observation) 0.141, 감각 묘사 (Flavor Text) 0.104, Trivia 0.091);
+  6,402 → **7,166 words**; `tpl.py` residue 7 → **0**; `verify.py` residual 1 → **0** (Story-Log Entry 1's
+  "is logged as" carrier); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**,
+  condition and series already satisfied and untouched (`R-05`). The rewrite carries the file's own
+  instruments: the persistence figure — 9, then 14, then 19 minutes in the hand after waking, timed by an
+  attendant's clock against the Warden's own count — read against the Pairings Register return of
+  arrangements renewed five years running on one side and not once on the other; the bearing logged rather
+  than position; the melting end and the reforming end; and the Standing Pair Return's 41,900 issued /
+  7,114 lower / 2,039 one-sided / 0 names disclosed / 1,980 refused particulars. The clean Warden Record
+  was not touched (`R-05`). Movement: `R-29` 95 → **96 / 301**, section-clean 118 → **119 / 301**,
+  residue-free 146 → **148 / 302** (instances 457 → 441, carriers 156 → 154, distinct residue lines 36 →
+  **35**), file-clean 199 → **200 / 302**, median 0.026 and worst 0.156 unchanged. **Batch 11 continues at
+  the floor of three**; the next unit is measured at its own head.
+
 - **Batch 10 / unit 3 — Unheard `C-Iα-965` brought to the standard, closing batch 10 at three
   (2026-10-05)** — batch 10's final unit, the live head measured at `dcc63f0`: worst 기록 (Registrum) 0.439
   across **7 dirty sections**. All seven closed (M.A.W. Equipment 0.439 → an interim 0.071 → **0.045 clean**
