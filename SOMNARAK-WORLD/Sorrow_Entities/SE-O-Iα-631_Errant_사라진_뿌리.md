@@ -275,7 +275,7 @@ Drifts through Mask Market floors and reflective surfaces. Personnel feel ungrou
 The grief of losing one's origin and being unable to return to any ground.
 
 **Entry 4 — <Containment Notice>**
-Management is one instruction and one prohibition. Say where you live now and stay standing; never walk it toward an old address. The second half is in force because of Year 4,233, when a team tried it and lost a floor section, and because the first address in this holding's origin was never properly recorded and so cannot be verified even if anyone wanted to try again.
+Management: say where you live now and stay standing; never walk it toward an old address. It is one instruction and one prohibition. The second half is in force because of Year 4,233, when a team tried it and lost a floor section, and because the first address in this holding's origin was never properly recorded and so cannot be verified even if anyone wanted to try again.
 
 **Entry 5 — <Archive Note>**
 The Mask Market traders know it is down there and have for years. They do not want it moved. The stallholders' petition of Year 4,234, which the wing keeps in the file, gives their reason in one line: the market is where people go when they have just arrived in Zone C and have nowhere else to be, and a thing underneath it that reaches for the newest person is, in their words, the only welcome some of them get.
