@@ -82,6 +82,33 @@ This file records notable changes to the public Somnarak Wiki.
     descent; one co-presence in which the crew's gauges fell and the vault's interval did not move)
     and The Grieving Colossus (no co-presence and none proposed; the two ledgers read together,
     neither holding ever fought).
+- **Workstream 9 / `R-29`: First Tear, Black River and Sorrow Storm — Rank V closed, 13 of 13 (2026-10-05)** —
+  - Three units, one `gate.sh` commit each, each closing every dirty section the file carried and the
+    condition and series clauses where they were open. `R-29` **59 → 62 / 301**; section-clean
+    **81 → 85 / 301**; specific condition 239; missing interaction records 26.
+  - **First Tear `C-Vδ-290`** (`f684bc0`): nine dirty sections to zero, 7,730 → 8,593 words. The
+    Log-and-Method table's four intervals now describe the nightly reading the vault actually
+    performs; the three Field Use Record cells truncated mid-word ("from field .", "a fortnig") are
+    rebuilt; four generic interaction rows became one body sentence each, all four saying plainly
+    that no reading has ever moved; a 2,000-character duplication of Physical Form inside the
+    Detailed Appearance Profile's Form cell was cut to the Tear's own description. Series clause
+    closed by restating the file's own figures in digits (0.38, 91 years, 0.41, 365 nights, 11,
+    4106, 13, 14, 3) — a **restatement, disclosed**.
+  - **Black River `C-Vγ-225`** (`2c6ec93`): eight dirty sections to zero, 8,048 → 9,018 words. Every
+    figure used (240/310/418 millimetres, four basements, the nine-day error, the 72-hour rotation,
+    eleven sorrows in the wards) is already in the file.
+  - **Sorrow Storm `C-Vγ-320`** (`3784298`): eight dirty sections to zero, 8,291 → 9,209 words. The
+    file's own instruments carry the rewritten sections: ring 488 against 547 and 612, the
+    false-clear, the twenty-two charms struck from failed barometers, one night to nine days, the
+    1,102nd cycle's three reservoirs.
+  - **A third `R-01` shape found and not covered by the tool.** Both Black River and Sorrow Storm
+    carried a Registry Trivia line of the form *"The Registrum read Critical (δ) … both corrected"*.
+    `tools/editmeta.py` matches *"has been corrected against"* and *"earlier entry/copy/version"*
+    forms, not the bare *"corrected"*; both were converted to cause in their units. The sweep's list
+    is a floor, not a census, and the owner should know before the sweep is scheduled.
+  - **Blemish, disclosed:** the Black River commit message reports `8,048 -> 8,708` words; the
+    measured figures were 8,048 → 9,018. Not amended (`R-17`); recorded in the work record's
+    standing-blemish list instead.
 - **Workstream 9 / `R-29`: The Grieving Colossus (2026-10-05)** —
   - `C-Vδ-002` failed five sections, the series clause and four `R-01` lines. Rewritten from its own record: seven M.A.W. lines, the Observation Log's Initial exposure row, the Final Observation's epigraph and cells, the Flavor Text's interaction paragraphs, and the Registrum's interpretation; the Interaction Record's introduction now states its finding (21 co-presences, no measured quantity moved). The Observation Log states in digits the record the Chronicle already keeps (a restatement for the series clause). Four Registrum and Escalation lines that corrected an earlier entry now state the fact. 8,844 to 9,253 words; `R-29` moved 53 to 54 of 301.
   - New descriptive details are listed in the commit message and the work record. Four Rank V dossiers still fail (Sorrow Mass, First Tear, Black River, Sorrow Storm).

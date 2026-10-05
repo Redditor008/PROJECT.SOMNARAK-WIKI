@@ -17,8 +17,8 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **103 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **82 / 302** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **59 / 301** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **85 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **62 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
@@ -531,6 +531,55 @@ specific condition, no numeric series, two dirty sections (Combat Record 0.131, 
   the crew's gauges fell and the vault's interval did not move) and **The Grieving Colossus** (no
   co-presence and none proposed; the two ledgers read together, neither holding ever fought).
 
+**Three more Rank V units followed in the same turn, and the cohort is now closed: 13 of 13.**
+`R-29` **59 → 62 / 301**; section-clean **81 → 85**; parity complete **274**; specific condition
+**239**; missing interaction records **26**. One `gate.sh` commit each; every push verified.
+
+| Dossier | Commit | Words | Dirty sections |
+|---|---|---|---|
+| First Tear `C-Vδ-290` | `f684bc0` | 7,730 → 8,593 | **9 → 0** |
+| Black River `C-Vγ-225` | `2c6ec93` | 8,048 → 9,018 | **8 → 0** |
+| Sorrow Storm `C-Vγ-320` | `3784298` | 8,291 → 9,209 | **8 → 0** |
+
+- *First Tear:* the Operational Parameters recommendation and one note; the Consequences pressure
+  line; the Detailed Appearance Profile's two furniture cells; Behavior's stock block and the stock
+  "reading the response"; the Activation Behavior's Log-and-Method table (the four intervals now
+  describe the nightly reading, which is what the vault actually does); the Management cell; the
+  shroud's and charm's appearances; the M.A.W. Use Notes and all four Field Use Record cells (three
+  of which were truncated mid-word — "from field ." and "a fortnig"); the Observation Progression's
+  four stock stages; the Final Observation's stock epigraph and both cells; the Flavor Text's four
+  bracketed-inventory paragraphs; the Interaction Pattern's opener; the four generic interaction
+  rows (one body sentence each now, all four saying plainly that no reading has ever moved); and the
+  Form cell of the Detailed Appearance Profile, a 2,000-character duplication of Physical Form cut
+  to the Tear's own description. **Series clause** closed by restating the file's own figures in
+  digits (0.38, 91 years, 0.41, 365 nights, 11 nights, 4106, 13 decades, 14 faults, 3 uses) — a
+  restatement, disclosed.
+- *Black River:* the Combat Record's two slot-filled action rows (now the false-clear and the
+  burial of the wall durations) and its Tension/Resolution phases; the four generic Consequences
+  bullets (the 72-hour rotation, the nine-day error, the Coin's nightly dreams, the mourning column
+  against the grief-line); Behavior's stock block and "reading the response"; Expansion Behavior's
+  generic escalation paragraph, now the arithmetic on two columns; the M.A.W. appearances, abilities,
+  costs, Use Notes, four Field Use Record cells and Stat interpretation; the Final Observation's
+  stock epigraph and cells; the Flavor Text's three generic exposure paragraphs and the Interaction
+  Pattern opener; the Registrum's stock Addendum and four-pillar review; and the Registry Trivia's
+  two splice lines, one of which was also the third-shape `R-01` note described above. Every figure
+  used (240/310/418 mm, four basements, nine days, 72 hours, eleven sorrows) is already in the file.
+- *Sorrow Storm:* the same shape across the same eight sections, with the file's own instruments —
+  ring 488 against 547 and 612, the false-clear, 22 charms struck one each from a failed barometer,
+  passages of one night to nine days, the 1,102nd cycle's three reservoirs of undiluted Flerehan,
+  eleven of the last fourteen walls following a Tide — plus the second third-shape `R-01` conversion
+  ("All corrected"), and the Risk cell rewritten to the file's own distinction between exposure and
+  injury.
+
+**Rank V, closed: 13 of 13 meet `R-29`.** The four the previous turn's list named are all done. What
+the cohort adds beyond the counter, recorded because it is the first complete rank: every Rank V file
+now carries a named instrument of its own (Sorrow Mass the deflection survey, First Tear the nightly
+lamp reading against the series, Black River the grief-line, Sorrow Storm the ring), which is `R-29`
+Part two clause 3 — no instrument reused between dossiers — and the four were authored independently
+of one another. It was also the first cohort where the binding constraint was the *stock sentence*
+rather than the shared line: `tpl.py` was silent in all four, and everything found came from
+`sectfile.py` and `dirtylines.py`.
+
 **Session bookkeeping, this turn.** The recovery checklist (`SESSION_BREAK_PRECAUTION` §3) was run at
 the start: tree clean, HEAD `408797c` level with `NON-WIKI`, the four health gates and the linters
 re-run green on the inherited tree before any edit. PR **#12** was closed, not merged, but its head
@@ -538,11 +587,24 @@ commit is the tip of `NON-WIKI`, so nothing was lost; that is recorded in `PR_12
 (commit `5384f8b`) rather than in a new session record. Draft PR **#13** into `NON-WIKI` is open for
 this session's branch and is not to be merged by the session (`R-13` / `U4`).
 
-**Next targets, in order (`R-13`).** (1) the rest of the Rank V cohort — First Tear `C-Vδ-290`
-(no condition, no series, 9 dirty sections), Black River `C-Vγ-225` and Sorrow Storm `C-Vγ-320`
-(8 dirty sections each); (2) the `R-01` sweep (`tools/editmeta.py`: **81 dossiers, 149 candidate
-lines** — unchanged by this turn's five files, which added no such sentence); (3) the 211 + 127 stock
-sentences; (4) the remaining single-clause gaps from the third-turn list.
+**Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
+`sectfile.py`; the worst files are now Ephemera `O-Iα-189` and Homecoming Tree `C-Iα-869` at 12
+dirty sections each, followed by Friendless Bridge `N-IIβ-488`, Dismissed Cry `N-IIβ-560`, Perennial
+`N-IIβ-845` and Survivors' Breath `O-IVδ-895` at 12, Hums `C-IIβ-048` at 11, Loom of Unlived Dreams
+`C-IVγ-176` at 11; (2) the `R-01` sweep (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**);
+(3) the 211 + 127 stock sentences; (4) the remaining single-clause gaps from the third-turn list.
+
+**A third `R-01` shape, found while closing the two Rank V units and not matched by the tool.** Both
+files carried a Registry Trivia line of the form *"The Registrum read Critical (δ) … All corrected"*
+(the Black River one naming an earlier grade and its correction explicitly). `tools/editmeta.py`
+does not flag it: its first family wants *"has been corrected against"* and its second wants an
+*"earlier copy/entry/version"* in the same clause, so the bare *"both corrected"* / *"All corrected"*
+form slips both. Both were converted to cause in their units (the Black River grade now states why
+it is (γ) at Comprehension 4; Sorrow Storm's states why (γ) at 2, with the ring scale explained).
+**For the owner:** the sweep's candidate list is therefore a floor, not a census — 63 of its 81
+dossiers mention *"corrected"* somewhere and a further pass should grep the bare form across the
+archive. Not done here, because a sweep is a unit of its own and `R-18` forbids mixing it into a
+dossier edit.
 
 ## Workstream 8 — Breach Balance (`R-28`, done 2026-10-05)
 
@@ -671,6 +733,7 @@ Not repaired, because history is not rewritten (`R-17`).
 - The first R-01 conversions for The Debtor (`a0d4308`) and Broken Clock (`3994646`) each added an inference the file does not state; replaced in `4ff03eb` and `545204c`.
 - The Sorrow Tide commit message says "no word was turned into a digit". The new Observation Log bullets do state, in digits, figures that other sections of the file give in words (nine stations, eleven minutes, sixty years). Nothing was invented, but the sentence was too strong.
 - The Foam Flood and Soot Fry commit messages describe the stock opener as carried by many dossiers. The exact first sentence ("does not exist in total isolation") was in those two files only; the shared part was the third sentence, which 127 dossiers still carry.
+- **The Black River commit message (`2c6ec93`) says `8,048 -> 8,708 words`; the measured figures were 8,048 -> 9,018.** The starting figure was taken correctly and the end figure was not re-measured before the message was written. Recorded here rather than amended (`R-17`: history is not rewritten). The Sorrow Storm message's figures (8,291 -> 9,209) were re-measured against `git show HEAD:` before it was written and are correct.
 
 ## Traps that have cost time
 
