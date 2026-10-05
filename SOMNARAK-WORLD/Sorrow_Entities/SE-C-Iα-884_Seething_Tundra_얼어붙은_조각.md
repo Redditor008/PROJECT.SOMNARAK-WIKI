@@ -282,9 +282,9 @@ Every piece here is a thing kept instead of a thing said, which is also what the
 
 **R.D. Comprehension Level:** 1 — Initial
 
-- The Shard remains stationary in the Echo Gardens.
-- It pulses during the Sorrow Tide.
-- Touch produces wonder followed by emotional distance.
+- The Shard remains stationary in the Echo Gardens, and its tears have been counted against the Gardens' deposit register for 11 years: 31 tears have become 38, every added tear the price of a holder who left the room without naming the memory aloud.
+- It pulses during the Sorrow Tide. The count has never risen in a week when every memento deposited came with a spoken account.
+- Touch produces wonder followed by emotional distance. The management condition is obeyed about 2 times in 3, which the Gardens counts as good and not sufficient.
 
 **Personnel Note:** *"It was standing in the garden like a small piece of winter. I felt wonder first, then the sorrow inside it."* — Specialist, Zone C patrol
 
@@ -296,7 +296,7 @@ Every piece here is a thing kept instead of a thing said, which is also what the
 |---|---|
 | **Initial exposure** | The shard comes out on its tray and the room gets colder than the shard can account for. Identification is the tears: clear-white crystal with thirty-eight small frozen falls held in it, countable, in a warm room in the Gardens. |
 | **Sustained observation** | Eleven years of tear counts against the Gardens' deposit register. Both series are kept on one sheet: the count rises when a cycle ends unsaid, and — the finding the Gardens did not expect — it has never risen in a week when every memento deposited came with a spoken account. |
-| **Activation or escalation** | Direct touch, under authorisation, with a second person present. The memory transfers and stays until it is acknowledged aloud; until then the holder reports the anger in the first person and means it. The channel is closed deliberately and never left untended. left untended, and the second person's minute-by-minute question is the record of the transfer. |
+| **Activation or escalation** | Direct touch, under authorisation, with a second person present. The memory transfers and stays until it is acknowledged aloud; until then the holder reports the anger in the first person and means it. The channel is closed deliberately and never left untended, and the second person's minute-by-minute question is the record of the transfer. |
 | **Post-contact review** | Two counts, both recorded, with the third if they disagreed; the lamp and distance; whether a memory rose and whether it was named aloud; and the week's deposits with how many carried an account. A report that gives one count is returned. The entity preserves. |
 
 **Observation method:** Record the tear count on arrival and on leaving, the lamp used, the Gardens' deposits for the week and how many carried a spoken account, and the condition that ends the encounter, which is the count agreeing twice. The count is a wound and not a forecast.
