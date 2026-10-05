@@ -38,6 +38,28 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 14 / unit 1 — Whispering Gallery `C-IIβ-185` closed; batch 14 stands at one of three (2026-10-06)** —
+  the batch-14 head measured at `18766a2`: **7 dirty sections**, worst M.A.W. Equipment 0.471, then Behavior
+  0.407, 기록 (Registrum) 0.373, Expansion Behavior 0.213, 최종 관찰 (Final Observation) 0.153, Combat Record
+  0.117 and Trivia 0.104. All seven closed in two waves (27 + 10 sites); 6,580 → **7,378 words**; `tpl.py`
+  residue 4 → **0**; `verify.py` residual 2 → **0** (Story Log Entry 1's `is logged as` carrier and the Flavor
+  block's stock activation sentence); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True**, with **both clauses already satisfied and left alone** (`R-05`) — the condition is the file's own
+  `Management:` line (a document filed under the fragment requisition) and the series clause reads the file's
+  own figures (1.00 / 0.94 / 0.89 / 0.85 / 0.81; 212 voices; 4 faces; 4 restorations). Authored from the file's
+  instruments throughout: the contact gauge seated in the boards, the offsets that travel intact at 40 metres
+  into the Whispering Walls, the register fragments printed with gaps at true length, the standing fragment
+  requisition's four matches in sixty years, the grid survey that did not converge, the Year 4144
+  misidentification and the eleven years it cost, the Year 4229 descendants' application refused as correct
+  in principle, and the ~3,000-year discharge arithmetic the file prints without arguing with. Beneficial
+  corpus side effects, no shipped file edited: nine further dossiers each shed one dirty section (The Hollow
+  Saint, The Memory Weaver, The Hollow Knight, Pyre of Truths, Unwitnessed, Doorway to Nowhere, Collapsed
+  Seed, Brume, Atlas) as the retired stock-line family shrank further; archive-wide dirty sections 999 →
+  **983**. Movement: `R-29` 104 → **105 / 301**; section-clean 128 → **129 / 301**; residue-free 163 →
+  **164 / 302** (carriers 139 → **138**, instances 348 → **335**, distinct residue lines 28 → **27**);
+  file-clean 209 → **210 / 302**; median 0.022 → **0.021**; worst 0.142 unchanged. **Batch 14 stands at one
+  of three**; next on the re-measured tier: Broken Well `C-IIβ-565` (9, 0.463, series open).
+
 - **Batch 13 / unit 3 — Drowned Roots `C-IIβ-997` closed, closing batch 13 at three (2026-10-06)** —
   measured at `9db59d7`: **7 dirty sections**, worst 기록 (Registrum) 0.483, then Behavior 0.398, M.A.W.
   Equipment 0.368, 최종 관찰 (Final Observation) 0.192, Combat Record 0.123, 감각 묘사 (Flavor Text) 0.104
