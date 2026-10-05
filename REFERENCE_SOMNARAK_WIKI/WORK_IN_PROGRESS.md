@@ -16,9 +16,9 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **101 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **81 / 302** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **53 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **103 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **82 / 302** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **54 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
@@ -409,10 +409,10 @@ excluded from the shelters; Story Log entries 2 to 4 are single sentences copied
 as `[[SE-…_Name_한글](github url "SE-…_Name_한글.md")]`, on the working branch. `tools/ghlink.py` builds it and
 reproduces the owner's two examples byte for byte.
 
-**Next targets, re-ordered by the study** (the list above stands underneath): (1) the Rank V cohort: three still fail
-the own-series clause. Sorrow Mass `C-Vω-925` (also no Interaction Record, no condition, 2 dirty sections), First Tear
-`C-Vδ-290` (no condition, 9 dirty sections) and the Grieving Colossus (5 dirty sections: M.A.W., Observation Log, Final
-Observation, Flavor Text, Registrum; four `R-01` "corrected here" lines); (2) the `R-01` sweep on the 88-dossier list; (3) the Kind Echo shape, an event
+**Next targets, re-ordered by the study** (the list above stands underneath): (1) the Rank V cohort: four still fail
+(the Grieving Colossus is done). Sorrow Mass `C-Vω-925` (no Interaction Record, no condition, no series, 2 dirty
+sections), First Tear `C-Vδ-290` (no condition, no series, 9 dirty sections), Black River `C-Vγ-225` and Sorrow Storm
+`C-Vγ-320` (8 dirty sections each); (2) the `R-01` sweep on the 88-dossier list; (3) the Kind Echo shape, an event
 figure for an event the file calls practically impossible, and the layers that disagree (above); (4) the single-clause gaps already listed.
 
 ### Fourth turn: another session was writing to this branch (2026-10-05)
@@ -454,10 +454,32 @@ When two sessions share a branch, fetch before editing and do not trust a workin
 Hourglass, The Hollow Choir, Broken Clock, The Debtor and Owed each carried exactly one Registrum sentence about an
 earlier entry ("The earlier entry grading it Moderate … is corrected here"). Each is now the reason for the grade it
 states, taken from the sentences beside it. `tools/editmeta.py`: 88 dossiers and 159 lines before, **82 and 153**
-after. **Two of the six overreached and were corrected in follow-up commits** (`4ff03eb`, `545204c`): The Debtor's first
+after (81 and 149 once the Colossus's four lines went with its unit, below). **Two of the six overreached and were corrected in follow-up commits** (`4ff03eb`, `545204c`): The Debtor's first
 conversion added a claim the file does not make ("a blameless worker is the easiest place for it to land") and Broken
 Clock's inferred that an anchored thing cannot be outrun. The rule for this sweep is that a conversion states only
 what the file already says; the other 38 single-line dossiers are the next units, and `tools/editmeta.py` lists them.
+
+**The Grieving Colossus `C-Vδ-002`, `R-29` 53 → 54 / 301 (`97e603d`).** The file the previous turn's next-target list
+named: five dirty sections, the series clause and four `R-01` lines. A real edit with one restatement inside it.
+- *Rewritten from the file's own record:* seven M.A.W. lines (the Weapon's and the Mantle's Ability, the Mantle's and
+  the Shell's Appearance, the Stigma note, the Before-use row, the Stat interpretation); the Observation Log's stock
+  Initial exposure row; the Final Observation's epigraph, option cells and result cells; the Flavor Text's Interaction
+  pattern, method, record introduction and procedure; the Registrum's interpretation. The introduction now says what
+  the section found: across 21 co-presences (5, 6, 3 and 7) no measured quantity moved on either side.
+- *The series clause is a restatement,* as the measurement note says: the Observation Log now states in digits what the
+  Chronicle already keeps (a 19-month longest gap between marches, 1,200 names read over 4 cycles with 180 fabricated
+  and attention within 2 points, 61 frontage covenants with 51 signed at first asking, 15 minutes from the junction).
+- *Four `R-01` lines converted to cause* (Containment Status, Comprehension Level, Threat Assessment, and the
+  Containment-priority bullet), each stating only what the file already says.
+- *New descriptive canon, disclosed:* the Mantle's hem a hand's width off the ground; the shell-charm set with a
+  hairline of tear-crystal like the four tears the Colossus has offered; the registry's "Mourning Shell" named as the
+  piece the grounds call the Pallbearer's Grip (the file used both names); the first log entry as the clearance to the
+  nearest person.
+- *Left:* the Mourning Monument is the Weapon's title in both the dossier and the registry file whose file name says
+  "Maul"; the table header row shared by every Interaction Record is furniture the section measure counts (2 grams).
+**Rank V now: 9 of 13 meet.** The four that do not: Sorrow Mass `C-Vω-925` (no Interaction Record, no condition, no
+series, two dirty sections), First Tear `C-Vδ-290` (no condition, no series, nine dirty sections), Black River
+`C-Vγ-225` and Sorrow Storm `C-Vγ-320` (eight dirty sections each).
 
 ## Workstream 8 — Breach Balance (`R-28`, done 2026-10-05)
 

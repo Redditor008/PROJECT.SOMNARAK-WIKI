@@ -38,6 +38,9 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Workstream 9 / `R-29`: The Grieving Colossus (2026-10-05)** —
+  - `C-Vδ-002` failed five sections, the series clause and four `R-01` lines. Rewritten from its own record: seven M.A.W. lines, the Observation Log's Initial exposure row, the Final Observation's epigraph and cells, the Flavor Text's interaction paragraphs, and the Registrum's interpretation; the Interaction Record's introduction now states its finding (21 co-presences, no measured quantity moved). The Observation Log states in digits the record the Chronicle already keeps (a restatement for the series clause). Four Registrum and Escalation lines that corrected an earlier entry now state the fact. 8,844 to 9,253 words; `R-29` moved 53 to 54 of 301.
+  - New descriptive details are listed in the commit message and the work record. Four Rank V dossiers still fail (Sorrow Mass, First Tear, Black River, Sorrow Storm).
 - **`R-01` sweep begun: six single-line conversions (2026-10-05)** —
   - The Debt Eater, The Cracked Hourglass, The Hollow Choir, Broken Clock, The Debtor and Owed each lost one Registrum sentence about an earlier entry; each now states the reason for the grade or the fact it was correcting, from the file's own sentences. One commit per dossier. `tools/editmeta.py` reports 82 dossiers and 153 lines, from 88 and 159.
   - Two of the six first added a claim the file does not make and were corrected in follow-up commits; the work record says so. `R-29` is unchanged by these units.
