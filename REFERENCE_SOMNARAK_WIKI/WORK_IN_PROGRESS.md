@@ -17,8 +17,8 @@ All figures below are measured, not estimated, and each names the tool that prod
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **108 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **86 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **63 / 301** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **87 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **64 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
@@ -606,10 +606,26 @@ deliberately left" list is read as one lower for this row. PR #13's body now car
 set by API after the previous turn's `gh pr edit` calls were found not to have applied at all (see
 the traps list).
 
+**The cohort's second unit closed Homecoming Tree `C-Iα-869` (`e699c8e`).** The file measured
+**11 dirty sections** and failed the series clause: 5,479 → 7,270 words, `0 section(s) over 0.05`,
+`tpl.py` residue 0, `wikistd.py` meets `True`. `R-29` **63 → 64 / 301**; section-clean **86 → 87**;
+own numeric series 192 → 193. The whole rewrite runs on the file's own survey instrument — the
+**bark, the names, and the settlement rolls** — with the 45% branch threshold, the hourly settle, the
+5% leaf release and the failed-return trigger as the figures. One thing beyond the dirty list was
+reconciled: the Registrum's classification line carried `Echo (II) coherence · Moderate (β) potency`,
+`Contained — Zone D` and `Comprehension Level 2 — Basic` against a header of Residue (I) / Minor (α),
+Zone E, Comprehension 1 — and its containment bullet named Flerehan as the only valid Work Type where
+the Behavior table says Viderehan and Ferrehan. All four now follow the header, and the earlier grades
+are not narrated (`R-01`). The series clause is closed by restating figures the file already keeps in
+digits in the Observation Log (11 sightings, 3 names, 45%, 5%, +1) — a **restatement, disclosed**.
+`verify.py` returns residual 1 for this file only because the Story Log Entry 1 opener is the
+archive-wide marker on the deliberately-untouched list; it was left standing here, unlike Ephemera's,
+and the difference is deliberate rather than an oversight.
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
-`sectfile.py`; the worst file is now Homecoming Tree `C-Iα-869` (12), followed by Friendless Bridge
-`N-IIβ-488`, Dismissed Cry `N-IIβ-560`, Perennial `N-IIβ-845` and Survivors' Breath `O-IVδ-895` at
-12, Hums `C-IIβ-048` at 11, Loom of Unlived Dreams `C-IVγ-176` at 11; (2) the `R-01` sweep
+`sectfile.py`; the worst file is now Friendless Bridge `N-IIβ-488`, followed by Dismissed Cry
+`N-IIβ-560`, Perennial `N-IIβ-845` and Survivors' Breath `O-IVδ-895` at 12, Hums `C-IIβ-048` at 11,
+Loom of Unlived Dreams `C-IVγ-176` at 11; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);
 (3) the 211 + 127 stock sentences; (4) the remaining single-clause gaps from the third-turn list.
 

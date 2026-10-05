@@ -82,6 +82,29 @@ This file records notable changes to the public Somnarak Wiki.
     descent; one co-presence in which the crew's gauges fell and the vault's interval did not move)
     and The Grieving Colossus (no co-presence and none proposed; the two ledgers read together,
     neither holding ever fought).
+- **Workstream 9 / `R-29`: Homecoming Tree `C-Iα-869` (2026-10-05)** —
+  - One `gate.sh` commit (`e699c8e`), growth-only: 5,479 → 7,270 words. Eleven dirty sections
+    measured and closed — `0 section(s) over 0.05` — plus the series clause and the residue line;
+    `tpl.py` residue 0, `wikistd.py` meets `True`. `R-29` **63 → 64 / 301**; section-clean
+    **86 → 87**; own numeric series 192 → 193.
+  - The file's own instrument carries the rewrite: the **bark, the names copied at entry and exit,
+    and the settlement rolls** the names are checked against, with the 45% branch threshold, the
+    hourly settle once somebody names the change aloud, the 5% leaf release and the failed-return
+    trigger as its figures. The interaction rows (Perennial, Silence We Forgot We Made, The Grieving
+    Colossus) were authored as versions of the same displacement and cross-read against Perennial's
+    and the Colossus's files; Perennial's founded-and-abandoned cycle and the Colossus's weeping are
+    what each row turns on.
+  - **Internal reconciliation, disclosed:** the Registrum's classification line read `Echo (II)
+    coherence · Moderate (β) potency`, `Contained — Zone D` and `Comprehension Level 2 — Basic`
+    against a header of Residue (I) / Minor (α), Zone E, Comprehension 1, and its handling bullet
+    named Flerehan as the only valid Work Type where the Behavior table says Viderehan and Ferrehan.
+    All four now follow the header, stated as cause and not as an edit note (`R-01`). The series
+    clause is closed by restating in digits figures the file already keeps (11 sightings, 3 names,
+    45%, 5%, +1) — a **restatement, disclosed**.
+  - `verify.py` returns residual 1 for this file: the Story Log Entry 1 opener is the archive-wide
+    marker on the deliberately-untouched list, and it was left standing here. That is a difference
+    from the Ephemera unit, where the same opener was rewritten inside a section being reworked
+    anyway, and it is recorded here rather than silently normalised.
 - **Workstream 9 / `R-29`: Ephemera `O-Iα-189` — the dirty-section cohort opened (2026-10-05)** —
   - One `gate.sh` commit (`90070f4`), growth-only: 5,195 → 6,929 words. The file measured **thirteen**
     dirty sections, not the twelve the previous turn's queue line claimed; `sectfile.py` is the
