@@ -64,8 +64,13 @@ if [ -f tools/tests/test_linters.py ]; then
   check "OK" python3 -m unittest discover -s tools/tests -q
 fi
 
-# every table row in a touched dossier must close with a pipe
-for f in $(git diff --name-only; git diff --cached --name-only); do
+# every table row in a touched dossier must close with a pipe.
+# `core.quotepath=off` is load-bearing: by default git prints a non-ASCII path
+# quoted and octal-escaped, so the `SOMNARAK-WORLD/*.md` pattern below never
+# matched a dossier (every dossier name carries Greek or Hangul) and this check
+# was silently skipped for all of them. Deleted files are skipped (-f test).
+while IFS= read -r f; do
+  [ -f "$f" ] || continue
   case "$f" in SOMNARAK-WORLD/*.md)
     python3 - "$f" <<'PY' || fail=1
 import io,sys
@@ -77,7 +82,7 @@ if bad:
     sys.exit(1)
 PY
   ;; esac
-done
+done < <(git -c core.quotepath=off diff --name-only; git -c core.quotepath=off diff --cached --name-only)
 
 python3 tools/breach.py >/tmp/gate.breach 2>&1 || { echo "BREACH FLOORS UNMET (R-28)"; cat /tmp/gate.breach; fail=1; }
 
