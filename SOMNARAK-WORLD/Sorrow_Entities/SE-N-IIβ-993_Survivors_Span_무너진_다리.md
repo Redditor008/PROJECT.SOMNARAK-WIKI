@@ -272,7 +272,7 @@ Walks through deep tunnels carrying its collapsed span. Personnel feel responsib
 The burden of carrying everyone who did not make it across.
 
 **Entry 4 — <Containment Notice>**
-Management turns on one sentence and the Zone B lead has it printed at the junction: share the weight, never assign it. Flerehan lowers the gauge when two workers weep together and barely moves it when one does. Ferrehan is the endurance of standing under the wreck with it, not of withstanding pressure. Viderehan returns names and faces and is how twenty-two of the thirty-one were confirmed. Pugnahan raises the gauge, drops the wreck, and is authorised only for recovery, in writing, each time.
+Management: share the weight, never assign it. It is the one sentence the Zone B lead has had printed at the junction. Flerehan lowers the gauge when two workers weep together and barely moves it when one does. Ferrehan is the endurance of standing under the wreck with it, not of withstanding pressure. Viderehan returns names and faces and is how twenty-two of the thirty-one were confirmed. Pugnahan raises the gauge, drops the wreck, and is authorised only for recovery, in writing, each time.
 
 **Entry 5 — <Archive Note>**
 The tunnel crews tell it as a shift story rather than a legend, and they tell it against the Directorate. A man walked off a collapsed approach and was cleared by an inquiry that took four days. The families of the thirty-one were given a plaque and a month's wages. Nineteen years later the plaque is still bolted to the junction wall and something stops in front of it every night, carrying the bridge, and the crews say the inquiry is still going on down there and that it has reached a different verdict.
