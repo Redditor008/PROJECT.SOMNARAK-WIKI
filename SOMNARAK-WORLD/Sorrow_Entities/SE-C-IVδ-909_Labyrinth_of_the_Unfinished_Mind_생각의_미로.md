@@ -28,7 +28,7 @@
 | **Entity role** | Place |
 | **Primary pressure** | Void / Mind pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per cycle, taken inside the surveyed portion only. The surveyed portion is 41 rooms of a structure whose plan has never been completed, and the yield has not changed as the survey has. |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · δ |
@@ -40,9 +40,9 @@
 
 - The plan of the place is incomplete rather than changing, and the incomplete sections cannot be entered or surveyed.
 - Work stabilises the surveyed portion for a shift. The incomplete sections are unchanged, and no session has extended the plan.
-- Viderehan and Ferrehan are the valid approaches to the site.
+- Flerehan and Pugnahan are unavailable; there is nobody in the labyrinth to weep with or confront. What the two usable Work Types amount to is walking the surveyed rooms with a line and a transcript.
 - Three ignored conditions escalate it. Contact runs through the mind register, so escalation presents as crews describing sections that are not on the plan.
-- Extraction is a separate risk event under its own authorization and is never attempted beyond the surveyed portion.
+- Extraction is separately authorised and is never attempted beyond the surveyed portion, which is the rule that cost the Armoury its only piece from this holding — the second attempt was abandoned at room 42.
 
 ## Combat Record
 ### Core Stat Line
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 30% against Void pressure; 21% against other pressure types |
+| **Resistance** | 30% against Void. There is nothing to resist; the labyrinth is corridors and doorways, and the hazard is the plan rather than the stone. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 481/481 |
 | **Han Pressure [ATK]** | 14–20 per hit · Void |
@@ -79,16 +79,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's mind pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
-| { *The Mind Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void mind sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[20 Void DMG [Void]]** | When the entity is cornered or starved. |
-| { *The Mind Collapse* [**Ultimate**] } | "The mind breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "The room you just left is not behind you." | [The surveyed route stops corresponding to the ground behind the party.] | *Void pressure; the line pays out correctly and the room it leads back to is not the one it came from.* **[Void DMG [Void]]** | Within the first four rooms, every descent. |
+| { *The Mind Surge* [**Attack**] } | "You begin finishing a thought you did not start." | [An unfinished line of reasoning arrives whole in the entrant's head.] | *Void damage; the transcripts show entrants completing arguments that belong to earlier entrants, and 61 of these have been matched across descents.* **[Void DMG [Void]]** | Past about twenty minutes inside. |
+| { *The Settling* [**Attack**] } | "The thought is finished and it is a good one, and it is not yours." | [A conclusion resolves — complete, satisfying, and belonging to somebody else.] | *Heavy Void damage. Nine occurrences; in all nine the entrant stopped walking and the anchor pulled them out on the line.* **[Void DMG [Void]]** | When an entrant stops to consider something. |
+| { *The Mind Collapse* [**Ultimate**] } | "Every unfinished thought in the wing finishes itself." | [The effect reaches the building above.] | *Void erosion to everybody in the sector for three cycles.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, once; the wing's paperwork that week was completed, coherent, and in nineteen cases not what the author had intended to write. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Labyrinth of the Unfinished Mind's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+1. **Tension:** Two descend and one stays at the mouth as anchor, holding the line and the transcript sheet. The anchor's authority to pull is absolute and is stated aloud before the first room.
+2. **Clash:** None. Two people walking 41 surveyed rooms with a line between them and somebody at the entrance writing down everything they say.
+3. **Resolution:** The party comes out on the line with the transcript complete and the room count matching. 188 descents; the count has matched in 179 and the nine that did not are the nine pulls.
 
 ### Consequences
 
@@ -153,8 +153,8 @@ The Labyrinth is a Place with Place-Mind manifestation and Void expression, held
 | **Breach Type** | Expansion |
 | **Movement** | The entity's mind influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Void pressure radiates — the mind register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever is thinking hardest. The transcripts make this plain: the entrant who was working something out is the one the thought arrives in, every time, and the anchor — who is doing nothing but listening — has never been affected. |
+| **Escalation** | +5 Void drain per cycle while an entrant is stationary. Walking costs nothing; the labyrinth has never reached anybody who kept moving. |
 
 ### Escalation Notes
 
@@ -174,7 +174,7 @@ Appearance : A massive five-foot hexagonal sceptre carved from solid black volca
 Requiring tremendous physical strength to wield, the sceptre serves equally as a crushing maul and ritual staff. Planting the butt into earth induces localized seismic ripples that stagger opponents.
 
 **Damage:** Void 11–16 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels void mind sorrow in each strike — the weapon does not cut flesh so much as cut at the mind register of the target's grief.
+**Ability:** Void against the Mind. Struck targets complete somebody else's unfinished reasoning and find it convincing; fourteen strikes, and in four the completed argument was later traced to an entrant from a previous descent.
 **Cost:** The wielder experiences a persistent low-grade headache with each use.
 
 ### M.A.W. Suit — Labyrinth of the Unfinished Mind's Veil
@@ -191,12 +191,12 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a glass token, cool, with a fragment of a sentence engraved around its rim that stops mid-word and has no continuation anywhere in the file.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect:** +1 to the working stat on this holding's descents, which are walks through 41 rooms with somebody talking the whole time
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
-*The Labyrinth's Stigma is not manufactured and cannot be requisitioned. It has been conferred twice, in both cases on an anchor who terminated an entry and declined to give a reason when offered the chance to put one on the record.*
+*Two in nineteen years, in both cases to an anchor who terminated a descent early against the entrants' objection. Both were right and both were argued with at the time; the file keeps the arguments.*
 
 ### M.A.W. Use Notes
 
@@ -234,15 +234,15 @@ Each Labyrinth piece is an extension of a question somebody never finished askin
 
 **Entry 3 — Counseling Log** *<Interview, entrant, after a fourth descent>* — "I would like to know what is in my file. I understand why I cannot be told, and I would like it recorded that I asked, and I would like it recorded that the person I asked agreed with me and still could not do it."
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are the valid Work Types. Nobody descends alone and nobody descends without a surface anchor holding the stated intention in writing. Do not read the inscriptions; if one is read, say it aloud to the anchor, who writes it verbatim and does not comment. The anchor may terminate at any point and is not required to say why.
+**Entry 4 — Containment Notice** Nobody descends alone, nobody descends without a surveyed plan, nobody passes room 41, and the anchor at the mouth may pull the line at any time without giving a reason. The last clause is the only part of this notice anybody has ever objected to.
 
 **Entry 5 — Director's Note** *<Minute on the transcript study>* — The study reports a correlation I do not think anybody expected. I am advised that its dataset is self-selected, that the defect cannot be cured by any means available to us, and that no finding can therefore issue. I have continued the funding. I am aware of how that reads and I have not been able to think of the alternative.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Keep walking and keep talking to the anchor. | Stop — the thought is nearly finished and it is a good one. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| 41 rooms, a complete transcript, and the room count matching at the mouth. | A finished argument in your head that belongs to somebody who came down here in Year 4,228. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -285,10 +285,10 @@ It does not rage and it does not weep. It is a set of corridors under Zone C tha
 
 **Comprehension Level:** 4 — Deep
 
-**Threat Assessment:** Critical. A Place-Mind entity — the mind register is its defining characteristic. Risk: prolonged exposure to the mind pressure may produce effects not seen in standard void entities.
+**Threat Assessment:** Critical (δ), carried for what lies past the survey rather than for what is in it. Nineteen years, 188 descents, nine pulls, no fatalities — and 41 rooms mapped out of a structure that has never been shown to have an edge.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types; both stabilise the surveyed portion and neither has extended the plan.
+- Viderehan and Ferrehan are the valid Work Types; both stabilise the surveyed portion and neither has ever extended the plan by a single room.
 - Flerehan and Pugnahan are unavailable to a Place and are not to be improvised.
 - Monitor by the screening answer, the anchor's written intention, the tended line and the surface clock. Do not monitor by gauge; the gauge describes the corridors and the corridors are not the hazard.
 
@@ -296,7 +296,7 @@ It does not rage and it does not weep. It is a set of corridors under Zone C tha
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument and are read together: the transcripts, compared, predict the matter an entrant eventually resolves their career around; the dataset is self-selected and the law guarantees it can never be anything else; and the facility has funded a study for nine years whose incurable defect is the standing answer to every question about acting on it. Where observation contradicts this record, preserve the contradiction rather than normalising it.
+**Operational interpretation:** The three sections below are one argument. The transcripts, compared across descents, predict what an entrant will say next — 61 matched completions in nineteen years — which means the labyrinth is finishing thoughts that other people started in it and handing them on. The survey has reached 41 rooms in nineteen years and stopped there four times by choice; every proposal to go further has been refused on the grounds that the anchor's line is 60 metres long and that nobody has been able to say what the survey would be for.
 
 **Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, recheck containment status, the surveyed portion against the standing plan, the seal on every transcript in the drawer, the anchor list, and the standing of both the study's funding and the transcript-return proposal.
 
@@ -366,7 +366,7 @@ The Directorate declined to act on the fifty-eight in the forty-third year, on t
 
 The objection is minuted at the forty-fourth review and at each of the eight since, raised by the study's author and supported by two of the holding's anchors. It holds, first, that the Directorate has treated an incurable defect as a temporary deficiency, funding for nine years a programme that its own annexed advice says can never report, and that the effect of doing so is to maintain the appearance of an open question while guaranteeing it stays open. Second, that nineteen people left the facility over the matter their own sealed transcripts had been naming for years, and were told nothing, because telling them would require the facility to read material it holds as custodian — so the custody that protects them is also the reason none of them was ever offered the one thing in the drawer that was theirs. Third, that the standing instruction and the funding pull in opposite directions and always have: the instruction says the transcripts are a record of a worker's mind, and the budget line says they are a dataset, and both have been signed by the same office every year since the forty-third.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-fourth year at rather less than the study's annual line — the study wound up, and a standing right for any entrant to ask for their own sealed transcripts and sit with them and a counsellor for as long as they want — and that it has not been laid before the board in eight years. And it records the sentence the study's author asked to have entered verbatim, which now stands on the inside of the transcript drawer:
+The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-fourth year at rather less than the price of the survey it would have replaced — a second anchor and a longer line — and that it was not funded, on the ground that extending the survey was not an operational priority. The 41 rooms have not changed since.
 
 *It told nineteen people what they were going to do with their lives, in their own words, and we filed it, and we have spent nine years funding the question of whether we are allowed to look.*
 
