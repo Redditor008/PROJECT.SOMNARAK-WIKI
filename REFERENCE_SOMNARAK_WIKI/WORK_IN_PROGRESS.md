@@ -18,7 +18,7 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **103 / 302** |
 | **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **82 / 302** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **58 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **59 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
@@ -505,6 +505,32 @@ All four were the last dossiers failing *only* the interaction clause. Every dos
 interaction record also still needs a management condition (23 of the 27) or, for The Music Box of
 Agony `N-IIγ-903`, an event-behaviour section.
 
+**A fifth unit followed, the first Rank V of the turn: Sorrow Mass `C-Vω-925` (`e0ab078`), `R-29`
+58 → 59 / 301 and Rank V 9 → 10 of 13.** It failed four things at once — no Interaction Record, no
+specific condition, no numeric series, two dirty sections (Combat Record 0.131, M.A.W. Equipment
+0.063). All four closed in one growth-only edit, 7,755 → 8,549 words, `sectfile.py` 2 sections over
+0.05 → **0**:
+- *Combat Record:* the four action rows and the Tension/Clash phases were slot-filled with the
+  previous generator's doubled phrases ("weight weight sorrow" and the like, which is what the shared
+  8-grams were). They are rewritten from the file's own ledger — the foundation / stairwell / living
+  floor sequence that has never skipped a level, the ward plate as the only sharp boundary, the
+  survey as the crew's whole output — with the file's own figures kept (10 / 15 / 20 / 17, the 65%
+  trigger, the 80% reading taken after the floors had gone).
+- *M.A.W. Equipment:* the Weapon's and Suit's Appearance and the Weapon's Ability and the Token's
+  Appearance/Effect rebuilt from the set's recorded provenance (the Edge from a failed
+  load-distribution ward, the Veil from the Deep Vault compression matting, the Token from a
+  foundation-gauge housing at SECTOR-C-925).
+- *Condition:* a `Management:` line in the file's own words, from its Recommended-response row and
+  Registrum bullets. Nothing invented.
+- *Series:* the Observation Log's three bullets now state in digits what the file already keeps
+  elsewhere (17 events, the longest 11 hours, the crushed wards bowed over 11 months with the
+  complaints read as fatigue for 2 years, 3 unnecessary evacuations upheld). **This is a
+  restatement unit inside a real edit, as the measurement note above describes, and is disclosed as
+  such** — the count of 59 mixes the two.
+- *Interaction Record:* **Forgotten God** (the lightening rite's descent; one co-presence in which
+  the crew's gauges fell and the vault's interval did not move) and **The Grieving Colossus** (no
+  co-presence and none proposed; the two ledgers read together, neither holding ever fought).
+
 **Session bookkeeping, this turn.** The recovery checklist (`SESSION_BREAK_PRECAUTION` §3) was run at
 the start: tree clean, HEAD `408797c` level with `NON-WIKI`, the four health gates and the linters
 re-run green on the inherited tree before any edit. PR **#12** was closed, not merged, but its head
@@ -512,11 +538,10 @@ commit is the tip of `NON-WIKI`, so nothing was lost; that is recorded in `PR_12
 (commit `5384f8b`) rather than in a new session record. Draft PR **#13** into `NON-WIKI` is open for
 this session's branch and is not to be merged by the session (`R-13` / `U4`).
 
-**Next targets, unchanged in order (`R-13`).** (1) the Rank V cohort — Sorrow Mass `C-Vω-925`
-(no Interaction Record, no condition, no series, 2 dirty sections), First Tear `C-Vδ-290` (no
-condition, no series, 9 dirty sections), Black River `C-Vγ-225` and Sorrow Storm `C-Vγ-320`
+**Next targets, in order (`R-13`).** (1) the rest of the Rank V cohort — First Tear `C-Vδ-290`
+(no condition, no series, 9 dirty sections), Black River `C-Vγ-225` and Sorrow Storm `C-Vγ-320`
 (8 dirty sections each); (2) the `R-01` sweep (`tools/editmeta.py`: **81 dossiers, 149 candidate
-lines** — unchanged by this turn's four files, which added no such sentence); (3) the 211 + 127 stock
+lines** — unchanged by this turn's five files, which added no such sentence); (3) the 211 + 127 stock
 sentences; (4) the remaining single-clause gaps from the third-turn list.
 
 ## Workstream 8 — Breach Balance (`R-28`, done 2026-10-05)

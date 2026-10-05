@@ -60,6 +60,28 @@ This file records notable changes to the public Somnarak Wiki.
     work is live) is recorded in `PR_12_NEVER_MERGED.md`; this session's draft PR is #13 into
     `NON-WIKI`. The recovery checklist and the health gates were run on the inherited tree before any
     edit, all green.
+- **Workstream 9 / `R-29`: Sorrow Mass `C-Vω-925` (2026-10-05)** —
+  - The first Rank V of the turn, and a real edit with one restatement inside it. It failed four
+    things: no Interaction Record, no specific management condition, no numeric series, and two dirty
+    sections (Combat Record 0.131, M.A.W. Equipment 0.063). All four closed in one growth-only edit,
+    7,755 to 8,549 words, dirty sections 2 to 0. `R-29` 58 to 59 of 301; Rank V 10 of 13.
+  - The Combat Record's four action rows and its Tension/Clash phases were slot-filled with the
+    generator's doubled phrases ("weight weight sorrow" and the like, which is what the shared
+    grams were), and are rewritten from the file's own ledger: the foundation / stairwell / living
+    floor sequence that has never skipped a level, the ward plate as the only sharp boundary, the
+    survey as the whole of the crew's output, with the file's own figures kept. The M.A.W.
+    appearances and effects are rebuilt from the set's recorded provenance (the Edge from a failed
+    load-distribution ward, the Veil from the Deep Vault compression matting, the Token from a
+    foundation-gauge housing). The `Management:` line is the file's own Recommended-response row and
+    Registrum bullets in the one-sentence form. Nothing invented.
+  - **The series clause is a restatement**, as the measurement note above describes and discloses:
+    the Observation Log states in digits what the file already keeps (17 events, the longest 11
+    hours, the crushed wards bowed over 11 months with the complaints read as fatigue for 2 years,
+    3 unnecessary evacuations upheld). The count of 59 therefore mixes this unit with the artefact.
+  - The Entity Interaction Record is two recognitions: the Forgotten God (the lightening rite's
+    descent; one co-presence in which the crew's gauges fell and the vault's interval did not move)
+    and The Grieving Colossus (no co-presence and none proposed; the two ledgers read together,
+    neither holding ever fought).
 - **Workstream 9 / `R-29`: The Grieving Colossus (2026-10-05)** —
   - `C-Vδ-002` failed five sections, the series clause and four `R-01` lines. Rewritten from its own record: seven M.A.W. lines, the Observation Log's Initial exposure row, the Final Observation's epigraph and cells, the Flavor Text's interaction paragraphs, and the Registrum's interpretation; the Interaction Record's introduction now states its finding (21 co-presences, no measured quantity moved). The Observation Log states in digits the record the Chronicle already keeps (a restatement for the series clause). Four Registrum and Escalation lines that corrected an earlier entry now state the fact. 8,844 to 9,253 words; `R-29` moved 53 to 54 of 301.
   - New descriptive details are listed in the commit message and the work record. Four Rank V dossiers still fail (Sorrow Mass, First Tear, Black River, Sorrow Storm).
