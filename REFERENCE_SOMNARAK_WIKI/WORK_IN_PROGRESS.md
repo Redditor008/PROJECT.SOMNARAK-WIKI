@@ -1083,6 +1083,7 @@ Not repaired, because history is not rewritten (`R-17`).
 - Two cleaner patterns sharing an opening fragment will eat each other; the assert catches it and aborts before writing.
 - Changing a Story Log entry tag without changing the entry under it leaves the document claiming to be one thing and reading as another. Caught in Forgotten Silence after the tag was rewritten and the paragraph was not.
 - Replacing a whole Story Log entry leaves the original `**Entry N — <…>**` header standing above the replacement, so the file briefly carries two. No tool flags it; `grep -n` the entry header after any Story-Log rewrite (Broken Whisper, batch 4, 2026-10-05).
+- An entity code appended inside an interaction row's bold label (`| **The Lost Prince `C-IVγ-091`** |`) trips `label_lint.py` with `LABEL_NOT_ALLOWED`, and `gate.sh` blocks before committing. Put the code in the row's other columns, as plain text or backticked (The Vanished Rope, batch 5, 2026-10-05).
 - Measuring on a hand-rolled line scan gives the wrong population. Use `br.collect`.
 - A branch name written into a script outlives the session it belonged to. `gate.sh` had one; it now reads the checked-out branch.
 - A helper kept outside the repository is lost on a sandbox reset. `dirtylines.py` lives in `tools/` for that reason.
