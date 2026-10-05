@@ -365,7 +365,7 @@ Some sorrows are inflicted. The Debtor's sorrow is assumed — taken on willingl
 **Common Name:** The Debtor
 **Containment Status:** Contained — Zone C, with the Debt Triplets
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Major (γ). He does not attack and that is not the hazard. He accepts any blame put into the air near him, breaches by Escape toward whoever is carrying the most, and transfers a share of 7.3 tons to people who then cannot put it down. The earlier entry describing the threat as low is an error and is corrected here.
+**Threat Assessment:** Major (γ). He does not attack and that is not the hazard. He accepts any blame put into the air near him, breaches by Escape toward whoever is carrying the most, and transfers a share of 7.3 tons to people who then cannot put it down. The threat is Major and not low because the harm is not an attack at all: the weight is moved from the Debtor onto people who then carry it, and a blameless worker is the easiest place for it to land.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan are the authorised approaches. Pugnahan is permitted but discouraged: it is absorbed, and the recited total rises afterwards.
 - Keep the Triplets' shared boundary intact. Separation trials have been attempted four times and ended early four times.
