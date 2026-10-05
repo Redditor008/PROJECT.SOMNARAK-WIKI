@@ -143,7 +143,7 @@ Management: nobody goes down without the Chief of Staff's clearance and a leaded
 
 | Field | Requirement |
 |---|---|
-| **Before use** | Not applicable. No piece exists, and the Chancery has declined to print a requisition form for grade ω. The single enquiry on file was answered in one line: a lineage is not stock. |
+| **Before use** | Not applicable. No piece exists, and the Chancery has declined to print a requisition form for grade ω. The single inquiry on file was answered in one line: a lineage is not stock. |
 | **During use** | Not applicable. What is kept at every descent instead is the forearm, meaning the lines of script on the left arm at the stair-head wash-down. |
 | **At limit** | Not applicable. The vault's own limit is four lines, and a keeper who comes up with a fifth is rotated off Floor 6 the same day. |
 | **After use** | Not applicable. A line fades in between three and nineteen days, and that fade is the only recovery the cadre has been able to time. |
