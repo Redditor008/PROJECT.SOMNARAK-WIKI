@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **156 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **126 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **102 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **162 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **127 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **103 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 206 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 208 / 302 |
 | Archive median prose generic fraction | 0.023 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1358,6 +1358,21 @@ reported 153 clean there), file-clean 205 → **206 / 302**, median 0.023 and wo
 stands at one of three**; next on the re-measured tier: Walking Calendar `C-IVδ-220` (7, 0.489) and Drowned
 Roots `C-IIβ-997` (7, 0.483).
 
+**Batch 13, unit 2: Walking Calendar `C-IVδ-220` closed.** Measured at `42cbec5`: **7 dirty sections**, worst
+기록 (Registrum) 0.489, then M.A.W. Equipment 0.407, Behavior 0.405, 최종 관찰 (Final Observation) 0.210,
+Combat Record 0.204, 감각 묘사 (Flavor Text) 0.082 and Trivia 0.067; all seven closed in two waves (25 + 12
+sites); 7,406 → **8,197 words**; `tpl.py` residue 4 → **0**; `verify.py` residual 1 → **0**; `sectfile.py`
+ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, with **both clauses already satisfied and
+left alone** (`R-05`) — the condition is the file's own Year-4231 reading cycle and the series clause reads
+the file's own counts (1,118 / 1,604 / 2,219 dates; ~600 traverses; 14,211 petitions, 411 granted). Authored
+from the file's instruments: the suit load at the door, the chalk tally kept by hand because a counter records
+the pace and a person notices it, two listeners filing unreconciled date sheets, the ninety-year term running
+from deposit, and the Maul's tick as cumulative age rather than bleeding. Movement: `R-29` 102 → **103 /
+301**; section-clean 126 → **127 / 301**; residue-free 156 → **162 / 302** (carriers 146 → **140**, instances
+382 → **351**, lines 31 → **28**); file-clean 206 → **208 / 302**; median 0.023 and worst 0.142 unchanged;
+archive dirty-section total 1,013 → **1,006**. **Batch 13 stands at two of three**; next: Drowned Roots
+`C-IIβ-997` (7, 0.483).
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1393,9 +1408,9 @@ words, and it produced and cleared one residual of its own). **Mirror of Soaking
 10 dirty, 0.381, condition and series open — now both closed, 6,152 → 6,995 words; one extra wave was
 forced by a corpus side effect on a shipped file, never by the dossier). The tier was then re-derived
 whole-archive at that head rather than carried: **The Rejector `C-IIIγ-063` came off it in batch 13's first
-unit** (7 dirty, 0.506, series open — now closed, 6,915 → 7,773 words, two waves, no second pass). The tier
-behind it, re-measured at this head: Walking Calendar `C-IVδ-220` (7 dirty, 0.489) and Drowned Roots
-`C-IIβ-997` (7, 0.483); Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
+unit** (7 dirty, 0.506, series open — now closed, 6,915 → 7,773 words, two waves, no second pass). **Walking Calendar `C-IVδ-220` came off it in batch 13's second unit** (7 dirty,
+0.489, both clauses already satisfied and left alone — 7,406 → 8,197 words, two waves). The tier behind it,
+re-measured at this head: Drowned Roots `C-IIβ-997` (7 dirty, 0.483); Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
 series open) remain in the cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep

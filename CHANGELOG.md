@@ -38,6 +38,25 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 13 / unit 2 — Walking Calendar `C-IVδ-220` closed; batch 13 stands at two of three (2026-10-06)** —
+  measured at `42cbec5`: **7 dirty sections**, worst 기록 (Registrum) 0.489, then M.A.W. Equipment 0.407,
+  Behavior 0.405, 최종 관찰 (Final Observation) 0.210, Combat Record 0.204, 감각 묘사 (Flavor Text) 0.082 and
+  Trivia 0.067. All seven closed in two waves (25 + 12 sites); 7,406 → **8,197 words**; `tpl.py` residue 4 →
+  **0**; `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged as` carrier); `sectfile.py` ends at
+  **0 section(s) over 0.05**; `wikistd.py` meets **True**, with **both clauses already satisfied and left
+  alone** (`R-05`) — the condition is the file's own Year-4231 reading cycle (`Management: read the current
+  opening list aloud in the chamber, in full, to the end`) and the series clause reads the file's own counts
+  (1,118 / 1,604 / 2,219 distinct dates; ~600 traverses a season; 14,211 petitions, 411 granted). Authored
+  from the file's own instruments throughout: the suit load at the door, the chalk traverse tally kept by hand
+  because mechanical counters record the pace and a person notices it, the two listeners filing date sheets
+  unreconciled, the ninety-year term running from deposit, and the Maul's tick recorded as cumulative age
+  rather than bleeding. Also repaired: the two tpl residue lines in Consequences (*extended exposure…*,
+  *the equipment section documents…*) and the template `**Stat interpretation:**` block. No corpus side
+  effects — this unit moved only its own file (7 → 0 dirty sections; archive totals 1,013 → **1,006**).
+  Movement: `R-29` 102 → **103 / 301**; section-clean 126 → **127 / 301**; residue-free 156 → **162 / 302**
+  (carriers 146 → **140**, instances 382 → **351**, distinct residue lines 31 → **28**); file-clean 206 →
+  **208 / 302**; median 0.023 and worst 0.142 unchanged.
+
 - **Batch 13 / unit 1 — The Rejector `C-IIIγ-063` closed; batch 13 stands at one of three (2026-10-06)** —
   the batch-13 head measured at `5191abe`: **7 dirty sections**, worst M.A.W. Equipment 0.506, then 최종 관찰
   (Final Observation) 0.481, 기록 (Registrum) 0.421, 이야기 보고 (Story Log) 0.326, Combat Record 0.077,
