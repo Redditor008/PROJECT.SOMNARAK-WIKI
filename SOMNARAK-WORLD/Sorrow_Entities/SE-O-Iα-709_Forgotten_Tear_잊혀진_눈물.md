@@ -316,7 +316,7 @@ The vault's practice at the end of every cycle is four words, said aloud by the 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Forgotten Tear; the other feeds it.
+> The Tear has grown heavy in the observing worker's hand, here in the Alpha Tree vault where four attempts to name its mourner are filed as inconclusive, and the worker must say whose grief it is.
 
 | Say it was somebody else's, and set it down. | Keep holding, because now it is yours and it deserves to be heard. |
 |---|---|
