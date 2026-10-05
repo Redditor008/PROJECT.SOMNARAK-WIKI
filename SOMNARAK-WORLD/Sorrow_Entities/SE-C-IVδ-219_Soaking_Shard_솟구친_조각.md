@@ -96,7 +96,7 @@
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
 - Time is Soaking Shard’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
 - M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Soaking Shard executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- An unresolved encounter never simply ends; it transforms. Soaking Shard executes its documented event pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
 **Physical Form:** A large shard of blue crystal that rises from the floor and remains wet with liquid memory.
@@ -403,7 +403,7 @@ Some sorrows are about open wounds. Soaking Shard is about a wound that was clos
 
 **Operational interpretation:** This holding is a measurement problem that turns out to be a welfare problem. Read the three series together: the sump volume says how much is leaving, the chalked margin says how far it has reached, and the profile gauge says how much the shard has gained — and they do not reconcile, which is the file's central finding rather than an error in it. Everything procedural here follows from a hazard whose main input is a thing people do involuntarily. Where the entity does something not described here, log it and leave the contradiction standing.
 
-**Review requirement:** After any breach, Sorrow Tide, transformation attempt or unusual interaction: re-verify the sump series against the carriage register, the chalked margin, the profile height, the exposure log and the gauge. Three further items apply here. The withdrawal readings are reconciled against the counsellors' own count and any discrepancy reported to the review rather than resolved locally. The vault's remaining memorial material is inspected at full frequency. And the safety office's objection to the withdrawal classification is re-read in full, unaltered.
+**Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the sump series against the carriage register, the chalked margin, the profile height, the exposure log and the gauge. Three further items apply here. The withdrawal readings are reconciled against the counsellors' own count and any discrepancy reported to the review rather than resolved locally. The vault's remaining memorial material is inspected at full frequency. And the safety office's objection to the withdrawal classification is re-read in full, unaltered.
 ## Apex Record
 
 ### Wet Crystal

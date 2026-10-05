@@ -96,7 +96,7 @@
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
 - Frozen Tear’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
 - Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Frozen Tear's dossier.
+- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Frozen Tear's dossier.
 
 ## Appearance
 **Physical Form:** A single tear frozen into dark blue crystal, about the size of a fist. **Temperature:** warm to the hand through cloth, with no heat source any instrument can find.
@@ -187,7 +187,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern is specific to Frozen Tear: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-D-02, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Frozen Tear: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-D-02, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Walk the field edge, mark it, compare it to the last mark, and notify the Gardens ward if it has moved. There is no perimeter to establish; the field is the perimeter and it is wider than it was.
 
@@ -262,7 +262,7 @@ The escalation pattern is specific to Frozen Tear: it is not a generic breach ev
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Frozen Tear's element. No protocol produces Stigmas. They emerge from Frozen Tear's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Frozen Tear's element. No protocol produces Stigmas. They emerge from Frozen Tear's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
@@ -309,7 +309,7 @@ Field edge marked at 7.2 metres, against 5.6 and 4.1 in the two preceding survey
 No authorized worker has touched it.
 
 **Entry 3 — <Works Office Correspondence>**
-The office confirms that no worker may be stood down, reassigned or sent home on account of their emotional state; that fitness for duty is determined by measured work alone; and that a supervisor who acts on a worker's demeanour is in breach whatever their motive.
+The office confirms that no worker may be stood down, reassigned or sent home on account of their emotional state; that fitness for duty is determined by measured work alone; and that a supervisor who acts on a worker's demeanour is in event whatever their motive.
 The grief of someone unable to cry despite having lost everything.
 
 **Entry 4 — <Containment Notice>**
@@ -410,9 +410,9 @@ Some sorrows are too deep for tears. Frozen Tear is what they become instead.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every an activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
 ### It Never Melts
@@ -431,7 +431,7 @@ It gives a small steady light that is easiest to see at night, and the night wat
 
 Three of this holding's four readings have never moved: the glow against the night card, the warmth through cloth, the outline against the opening drawing. The fourth is the field edge, pegged at every session, and it stands at 7.2 metres after 5.6 and 4.1. Set against the Gardens' visitor numbers, the Consolihan calendar and the ward's own grief returns it matches nothing. It matches the number of workers who were seen weeping at their posts in the year and were, entirely correctly, left alone.
 
-No worker at this Company may be stood down on account of their state. Fitness is determined by measured work — errors, test results, the output of the post — and a supervisor who removes somebody from duty because they seem upset is in breach of standing instruction whatever they meant by it. The rule was made for cause and the cause is on the record in detail. *He seemed in no condition* cost a woman in the dye house eleven weeks' pay and a permanent reputation; the removals fell overwhelmingly on the recently bereaved, who were then unable to afford the burial; and judging a man by his demeanour turned out, when the figures were run, to mean judging him by whether his face was easy to read. Nobody wants it back and this file does not argue for it.
+No worker at this Company may be stood down on account of their state. Fitness is determined by measured work — errors, test results, the output of the post — and a supervisor who removes somebody from duty because they seem upset is in event of standing instruction whatever they meant by it. The rule was made for cause and the cause is on the record in detail. *He seemed in no condition* cost a woman in the dye house eleven weeks' pay and a permanent reputation; the removals fell overwhelmingly on the recently bereaved, who were then unable to afford the burial; and judging a man by his demeanour turned out, when the figures were run, to mean judging him by whether his face was easy to read. Nobody wants it back and this file does not argue for it.
 
 Its consequence is that visible distress now produces no response of any kind, because every available response would be an act taken on demeanour. A man may weep at his bench for a week and nobody may ask, offer, reassign or refer; to do so is to have judged him. Help arrives when the work fails, which is to say after the damage, and the Company is quite correct that the alternative was worse. The thing in the Echo Gardens is a tear that did not fall, and its field of permission has widened by three metres in three years.
 

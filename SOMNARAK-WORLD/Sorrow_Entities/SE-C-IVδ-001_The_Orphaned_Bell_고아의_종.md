@@ -10,7 +10,7 @@
 | **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on midnight, the consolihan anniversary, or concentrated grief concerning missing children |
 | **Tool Type** | **O-Relic (Officium)** — Channeled Use (spoken invocation of the unrecorded dead) |
 | **Coherence** | Entity (IV) — Self-aware, communicates through tolling |
-| **Potency** | Critical (δ) — Facility-threatening if breached |
+| **Potency** | Critical (δ) — Facility-threatening if escalated |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
@@ -203,7 +203,7 @@ The Orphaned Bell is an Object/Place with Object-Lament manifestation and Lament
 
 Escalation here is a change in spacing, not in volume. Record the interval since the previous toll, the clock time against the predicted window, the face count taken that day, and whether the acoustic circle has had to be enlarged. The toll passes through structure, so a reading taken outside the tower is not evidence of what the tower itself received.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** establish a safe perimeter, identify whether the event is an activation or an expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
 
 
 ### Detailed Activation Record
@@ -269,7 +269,7 @@ In the channelled mode the pattern to watch is the operator rather than the bell
 | **Manifestation** | Object-Lament |
 | **Primary effect** | The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. |
 | **Duration / rate** | While equipped, until the removal condition is met. |
-| **Risk** | Critical (δ) — Facility-threatening if breached Object-Lament producing Lament pressure; Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. |
+| **Risk** | Critical (δ) — Facility-threatening if escalated Object-Lament producing Lament pressure; Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (channelled use):** channel opened → names recited and in what order → elapsed time at each ten seconds → resonance at the circle edge → operator state at withdrawal → closure confirmed. Viderehan and Ferrehan remain the only valid Work Types outside channelling hours.
@@ -355,7 +355,7 @@ The set is drawn from the bell's crystal and the tower's corroded fittings, and 
 **Key Observations:**
 - First Sorrow Entity formally classified by the R.D. as `IV-δ-001`.
 - The tower contained 2,347 faces at one survey; the next survey recorded four additional faces.
-- The bell has never breached containment and behaves as if containment is irrelevant.
+- The bell has never escalated containment and behaves as if containment is irrelevant.
 - It tolls for the children, and the children will not be silenced.
 
 **Personnel Note:**
@@ -387,7 +387,7 @@ The tower contained 2,347 faces at one survey; the next survey recorded four add
 The grief of parents searching for children who would never return.
 
 **Entry 4 — <Containment Notice>**
-The bell has never breached containment and behaves as if containment is irrelevant.
+The bell has never escalated containment and behaves as if containment is irrelevant.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
 The Director notes: this sorrow is representative, not anomalous. It is the city grief given form at this location — the wound made visible.
@@ -470,7 +470,7 @@ Some sorrows mourn a loss. The Orphaned Bell mourns a search — the hundreds of
 **Common Name:** The Orphaned Bell
 **Containment Status:** Contained — special tower, SECTOR-B-01, Zone B. The tower is closed to the public and opened to families by appointment with a counsellor present.
 **Comprehension Level:** 4 — Mastered
-**Threat Assessment:** Critical (δ). The toll carries through structure on the bell's own schedule and delivers an unattributable grief to everyone in hearing; sustained exposure removes names and faces from memory. It has never breached, and the file is explicit that this is not the same as being safe.
+**Threat Assessment:** Critical (δ). The toll carries through structure on the bell's own schedule and delivers an unattributable grief to everyone in hearing; sustained exposure removes names and faces from memory. It has never escalated, and the file is explicit that this is not the same as being safe.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only. Pugnahan intensifies the tolling and Flerehan does not apply to a structure.
 - The bell stays anchored and is never struck; watches are stood in assigned pairs and ended from outside the acoustic circle.
@@ -485,7 +485,7 @@ Some sorrows mourn a loss. The Orphaned Bell mourns a search — the hundreds of
 
 **Operational interpretation:** This was the first file the R.D. ever opened and it has been rewritten more often than any other. Read the interval, the face count and the name log together: the first says what the bell is doing, the second says what the tower is doing, and the third says what neither of them can be made to prove. The holding is stable, the schedule is the bell's, and the work consists of standing through it accurately. Where the entity does something not described here, write it down and leave the contradiction standing.
 
-**Review requirement:** After any breach, Sorrow Tide, transformation attempt or unusual interaction: re-verify the interval series, the face count against the plates, the acoustic circle, the exposure log and the gauge. Three further items apply here. The name log is reconciled against the municipal missing-child register and the unmatched entries carried forward unchanged. The annual letter is prepared and the previous year's acknowledgement attached. And the full municipal name list is read aloud at the review, in full, as it has been at every review since the holding opened.
+**Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the interval series, the face count against the plates, the acoustic circle, the exposure log and the gauge. Three further items apply here. The name log is reconciled against the municipal missing-child register and the unmatched entries carried forward unchanged. The annual letter is prepared and the previous year's acknowledgement attached. And the full municipal name list is read aloud at the review, in full, as it has been at every review since the holding opened.
 ## Apex Record
 
 ### The Faces That Emerge
@@ -547,7 +547,7 @@ The municipal archivist's objection is on the file and has never been answered. 
 
 ### Registry Trivia
 
-- **Classification detail:** The Orphaned Bell is an Object/Place with Entity (IV) — Self-aware, communicates through tolling coherence and Critical (δ) — Facility-threatening if breached potency.
+- **Classification detail:** The Orphaned Bell is an Object/Place with Entity (IV) — Self-aware, communicates through tolling coherence and Critical (δ) — Facility-threatening if escalated potency.
 - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-B-01 — special tower in Zone B; contained.
 - **Recognition detail:** Identify it by the hands. The corrosion on the bell's surface has warped into small reaching shapes, and no other holding in Zone B carries that.
 - **Record detail:** The archive holds several sounding holdings and this one is kept distinct at the level of what the sound is for. Elsewhere a bell marks, summons or warns. This one is a record: the faces are its census and the names are its entries, and everything difficult about the file follows from its being a register that no register will accept.

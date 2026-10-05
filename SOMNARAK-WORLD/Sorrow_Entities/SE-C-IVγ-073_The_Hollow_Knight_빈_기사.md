@@ -81,7 +81,7 @@
 | { *The Empty Visor* [**Debuff**] } | "The visor is up — and inside, there is nothing. No face. No eyes. Just the shape of a man who is not there." | [The Knight's emptiness unsettles the target; they sense the void within the armor.] | *Target suffers -10 Resilience; the absence inside the armor is wrong.* **[10 Grudge DMG [Grudge]]** | When the target faces the Knight. |
 | { *The Heavy Step* [**Debuff**] } | "The armor moves — and each step is heavier than it should be, as though the nothing inside weighs more than any man." | [The Knight's movement carries phantom weight; the emptiness is massive.] | *Target loses 10 Resilience; the void inside the armor is pulling.* **[10 Grudge DMG [Grudge]]** | When the Knight approaches. |
 | { *The Hollow Blow* [**Attack**] } | "The sword swings — and behind it, there is no arm, no body, just the weight of the armor and the void inside." | [A strike from a sword wielded by nothing.] | *Inflicts Grudge pressure and one cold, heavy wound.* **[14-22 Grudge DMG [Grudge]]** | When the Knight is challenged. |
-| { *The Full Reveal* [**Attack**] } | "The armor opens — and the nothing inside expands, pouring out through every joint." | [The Knight's armor splits, releasing the void within.] | *A heavy Void eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Knight's armor is breached. |
+| { *The Full Reveal* [**Attack**] } | "The armor opens — and the nothing inside expands, pouring out through every joint." | [The Knight's armor splits, releasing the void within.] | *A heavy Void eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Knight's armor is escalated. |
 | { *The Empty Army* [**Ultimate**] } | "Every suit of armor in the field stands up — and inside every one, the same hollow, the same nothing." | [The Knight multiplies its emptiness across every armored shape.] | *All in range suffer Grudge pressure for three turns of empty knights.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -95,7 +95,7 @@
 - The failure here is not injury. It is a worker who starts organising their service around being saluted again, and the counsellors can usually date the change to a single shift.
 - Extended contact produces the holding's signature effect: the exhaustion of being responsible for something that no longer exists. Workers describe it as tiredness that sleep does not touch, and it is reliably worse in the fourteenth hour of the circuit than in the fourth.
 - The Duty Fang, Plate and Shield each take composure and give back endurance, and every wielder's debrief in this wing has reported the same involuntary straightening of the back on the first activation.
-- Unresolved, it breaches by Transform rather than Escape: it does not leave, it fills the wing, and the architecture takes the damage first.
+- Unresolved, it events by Transform rather than Escape: it does not leave, it fills the wing, and the architecture takes the damage first.
 
 ## Appearance
 **Primary Form:** Ancient armor standing upright with no body inside. The armor itself is the entity. It patrols continuously with a weapon and shield.
@@ -154,13 +154,13 @@
 The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and Grudge expression, held at SECTOR-B-01 in Zone B and walking a surveyed circuit for sixteen hours of each day. All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan is the only approach that has ever raised it.
 
 **Reading the response:** Read it in the stance and the gait before the gauge. A falling gauge presents as a shortened stride and a longer pause at the salute; a rising one presents as the armour squaring up and the circuit speeding. Both are visible from the marks and both precede the instrument by hours. The corridor crew's shift log is the other reading, and the engineers read it first.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"The Hollow Knight has broken free. Hunts personnel indiscriminately."*
+> *"Transformation event in progress. The Hollow Knight is changing the space around itself and staying in it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
+| **Event Type** | Transformation in place |
 | **Movement** | It passes through the walls and occupies every corridor of the wing at once. It does not pursue; it occupies, along the line of the route extended through everything in the way. |
 | **Effect** | The Grudge becomes structural. Walls crack along the route first, then everywhere, and personnel in the volume take the same load the architecture does. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
@@ -169,9 +169,9 @@ The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and 
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
 - **Containment priority:** Evacuate outward from the route; do not form an assault element. Return the salute at the perimeter. Nobody who stepped aside has ever been pursued, in nine years and four transformations.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per circuit completed rather than per turn.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% per circuit completed rather than per turn.
 
 ## M.A.W. Equipment
 
@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies The Hollow Knight as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-B-01, Zone B — contained. |
 | **Sustained observation** | Station and hour, gait over the measured stretch, stance from the two marks, salutes given with the recipient named, and the corridor crew's shift log for the same period. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The team records the first visible activation or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Stance before and after, gait times, the worker's verbatim account of any salute received, and a counsellor's note at 14 days. The salute is reviewed as an exposure, not as a commendation. |
 
 **Observation method:** Observe from beside the route, for a whole hour of the circuit rather than a sample of it, and record the station, the gait, the stance, any salute, and the condition that ended the session. The form here is the sorrow and not a strategy: an order that outlived everybody who could cancel it has no shape available to it except a thing that walks and keeps walking.
@@ -366,7 +366,7 @@ Some sorrows mourn a loss. The Hollow Knight mourns a reason — the cause that 
 **Common Name:** The Hollow Knight
 **Containment Status:** Contained — SECTOR-B-01, Zone B. The border-district entry in earlier revisions refers to the recovery site and not to the holding.
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Major (γ). An Entity-coherence Subject of considerable mass that breaches by Transform and fills a wing when it does, and whose ordinary operation imposes the exhaustion of purposeless duty on everybody working near it. The earlier entry describing the threat as low is an error and is corrected here.
+**Threat Assessment:** Major (γ). An Entity-coherence Subject of considerable mass that events by Transform and fills a wing when it does, and whose ordinary operation imposes the exhaustion of purposeless duty on everybody working near it. The earlier entry describing the threat as low is an error and is corrected here.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan both lower the gauge and are the authorised approaches. Pugnahan is prohibited on this holding.
 - The post is a route, not a point. Keep it clear and surveyed; the Knight walks it for sixteen hours and stands at the first station for the other eight.
@@ -379,9 +379,9 @@ Some sorrows mourn a loss. The Hollow Knight mourns a reason — the cause that 
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any a transformation in place, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every a transformation in place, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Apex Record
 
 ### The Sixteen-Hour Route
@@ -392,7 +392,7 @@ The Hollow Knight patrols the same route for sixteen hours of every day, and the
 
 It salutes acts of courage regardless of faction or allegiance, and the salute is both the file's best-known detail and its most carefully managed one. Wardens receive it occasionally and remember it permanently. The behaviour is operationally useful — it permits Flerehan work at close range, where it pauses and acknowledges shared sorrow and the gauge falls from the middle of its 45–65% band — and it is psychologically hazardous in a way the counselors flag at every briefing. Personnel saluted by the Knight report a durable sense of having been judged and approved by something that cannot be argued with, and a minority have organized their subsequent service around earning it again. The rotation watches for this specifically. The counselors' standing note on the holding reads that the Knight is an excellent judge of courage and a poor one of cost, and that the Directorate must supply the second judgement itself.
 
-### Transform, Not Escape
+### Transformation In Place, Not Escape
 
 Its breach classification is Transform rather than Escape, and the distinction governs the entire response. It does not break out and run; it seeps through the walls and fills every corridor at once, after which the anger becomes physical and the architecture begins taking damage alongside the personnel. There is no perimeter to hold because there is no outside to the affected volume. Doctrine therefore evacuates rather than contains, clearing the wing outward from the patrol route and permitting the transformation to run its course inside a space emptied of anything it can harm. The Duty Fang is issued to the evacuation wardens rather than to an assault element, because no assault element is formed. Veterans of the holding describe the breach as the Knight finally being given a war to be responsible for, and the doctrine's response as refusing to provide one. The transformation subsides. The armour resumes the route. The corridor is repaired before the next watch.
 

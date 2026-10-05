@@ -95,7 +95,7 @@
 - Composure fails here as furnishing. The worker begins completing the room — a door where a door would obviously go, a window because the light has to come from somewhere — and each completion is indistinguishable, on the sheet, from a genuine memory. This is the only known way to corrupt the instrument and it is done by people trying to help.
 - Long exposure produces a worker who cannot say which rooms of their own childhood home they remember and which they have reconstructed. The counselling wing calls it the furnished state. It resolves in about four months and three of nine cases have not resolved.
 - The arbalest's bolt returns to the groove whether or not it hit, and the piece's cost is paid the same way: something small and unnamed goes missing from the wielder and is not noticed going.
-- An unresolved session ends in a Corrupt breach, and this is the holding where that word is not decorative. On two occasions the figure has rebuilt a wall of the lost house through a standing containment partition, and on both occasions the holding on the other side of that partition was open for several minutes. Both are in the incident folder. Both are the reason this entity's disposition is recorded as Negative.
+- An unresolved session ends in a Corrupt event, and this is the holding where that word is not decorative. On two occasions the figure has rebuilt a wall of the lost house through a standing containment partition, and on both occasions the holding on the other side of that partition was open for several minutes. Both are in the incident folder. Both are the reason this entity's disposition is recorded as Negative.
 
 ## Appearance
 **Primary Form:** A dreamlike figure made from pieces of a ruined room. It rebuilds itself whenever someone remembers it.
@@ -146,24 +146,24 @@
 Flerehan lowers the gauge because it rebuilds a part of the room the worker genuinely holds, and the test is whether they can hold it without finishing it. Ferrehan lowers it by requiring the worker to leave the room standing and walk out of it. Viderehan holds level and does the file's real work: it separates what is remembered from what has been supplied, and the separation is what the plan sheet records. Pugnahan raises the gauge, throws dream debris, and has produced both of this holding's partition incidents. It is authorised once per session and there is a standing recommendation, now in its fourth year, to withdraw the authorisation entirely.
 
 **Reading the response:** The gauge measures one session. The plan measures what the housing office has posted. They are kept in separate columns, they have never moved together, and supervisors are instructed that a session which lowers the gauge and leaves nine new panels on the sheet has been worked correctly and is written up as a success without qualification.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"It is building. It is building through the west partition and there is a holding behind the west partition."* — Containment Lead, breach of Year 4229
+> *"It is building. It is building through the west partition and there is a holding behind the west partition."* — Containment Lead, event of Year 4229
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt — and on this holding the word is literal. It does not attack the structure; it reconstructs a different structure in the same space, and our walls are in the way. |
+| **Event Type** | Corruption of its own zone |
 | **Movement** | It does not pursue and has never struck at a person. It builds, on the bearing it was facing when it broke, and whatever stands on that bearing stops being a wall where the lost house had a doorway. |
-| **Effect** | Clarity drain in everyone present, and a breach in the partition on the build bearing. Two incidents, Year 4229 and Year 4233; in both, the holding behind the partition stood open for several minutes. |
+| **Effect** | Clarity drain in everyone present, and a event in the partition on the build bearing. Two incidents, Year 4229 and Year 4233; in both, the holding behind the partition stood open for several minutes. |
 | **Secondary Effect** | Numbness that takes names and faces first. Personnel who cannot name a colleague cannot report which holding has opened, and in Year 4233 that cost the response eleven minutes. |
 | **First Target** | No target. It builds toward where the lost house had its opening, and the first casualty is whatever containment is standing on that line. |
-| **Escalation** | Clarity drain +5 a turn. Structural risk does not escalate with time; it is decided at the moment of breach by the bearing, and the bearing is knowable in advance from the session log. |
+| **Escalation** | Clarity drain +5 a turn. Structural risk does not escalate with time; it is decided at the moment of event by the bearing, and the bearing is knowable in advance from the session log. |
 
 ### Escalation Notes
 
 - **Event type (non-breach):** Corrupt. Reconstruction, not demolition. The distinction governs the response: a team that braces the walls is bracing the wrong thing.
 - **Containment priority:** Read the build bearing off the last session log and evacuate the holding on that line first. Then Ferrehan to endure. Sealing the Market has been attempted twice and both times the wall it was building through was one of the seals.
-- **Sorrow Gauge on breach:** Opens at 40% and climbs 10% a turn unattended. The number is the lesser concern. What matters on this holding is the partition: log every wall the figure raises, with its bearing, and check what stands on the far side of it before the wall is complete rather than after.
+- **Sorrow Gauge on event:** Opens at 40% and climbs 10% a turn unattended. The number is the lesser concern. What matters on this holding is the partition: log every wall the figure raises, with its bearing, and check what stands on the far side of it before the wall is complete rather than after.
 
 ## M.A.W. Equipment
 
@@ -276,7 +276,7 @@ The first return under the Rule of the Named Loss, Year 4238. This facility issu
 I signed the clearance notices for eleven hundred dwellings and the word on all of them was equivalent. It is a true word in the sense the form means it: comparable floor area, comparable amenity, comparable standard. A man came to the counter with his notice and asked me which part of it was the kitchen his wife died in. I said the form does not record that. He said then it is not equivalent, and he was correct, and the form had no place to put him being correct. I want it recorded that I believed I was doing the decent thing. We rehoused everyone. Nobody slept outdoors. We did it inside eight weeks and I was commended for it. The thing we did badly took one word and it is the word I would have defended hardest.
 
 **Entry 4 — <Containment Notice>**
-Containment of N-IIIγ-505 is a plan sheet at the Market and a drafting rule at the housing office. Market: cumulative hatching during the session only, nothing inferred, blank panels left blank; bearing and distance from the reference corner logged at every manifestation; Pugnahan once per session at most, with the withdrawal of that authorisation standing recommended since Year 4234; the build bearing read off the last session log and held at the response desk, because this holding's breach opens other holdings and the only warning available is the direction it was facing. Housing office duties, binding on every notice this facility serves: **a notice of relocation, substitution or replacement must name what was lost, in the words the person who lost it used, and may not state or imply that what is provided is equivalent to it.** Adequacy, where it must be certified, is certified on a separate sheet signed by the recipient and is kept out of the notice. Work response — Flerehan: rebuilds a portion the worker genuinely holds (Decrease); Pugnahan: debris, partition risk (Increase); Viderehan: separates memory from invention (Stable); Ferrehan: tests whether the worker can leave the room standing (Decrease).
+Containment of N-IIIγ-505 is a plan sheet at the Market and a drafting rule at the housing office. Market: cumulative hatching during the session only, nothing inferred, blank panels left blank; bearing and distance from the reference corner logged at every manifestation; Pugnahan once per session at most, with the withdrawal of that authorisation standing recommended since Year 4234; the build bearing read off the last session log and held at the response desk, because this holding's event opens other holdings and the only warning available is the direction it was facing. Housing office duties, binding on every notice this facility serves: **a notice of relocation, substitution or replacement must name what was lost, in the words the person who lost it used, and may not state or imply that what is provided is equivalent to it.** Adequacy, where it must be certified, is certified on a separate sheet signed by the recipient and is kept out of the notice. Work response — Flerehan: rebuilds a portion the worker genuinely holds (Decrease); Pugnahan: debris, partition risk (Increase); Viderehan: separates memory from invention (Stable); Ferrehan: tests whether the worker can leave the room standing (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Named Loss>**
 The housing office opposed this rule and I am putting their case first, because it is not a weak one and because the people who will pay for my decision are not the people who made it.

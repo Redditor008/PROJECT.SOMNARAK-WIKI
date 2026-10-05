@@ -40,7 +40,7 @@
 
 - It hangs at a fixed height above the Forge floor with nothing supporting it. It does not drift laterally; the rim has stood over the same two square metres of floor since the holding was established.
 - A completed cycle settles it measurably closer to the floor. It is back at the resting height before the next shift, and the resting height itself has not changed once across the whole record.
-- Two ignored conditions escalate it, and the escalation while contained is vertical: the rim climbs rather than advances. Lateral growth belongs to the breach state and to nothing else.
+- Two ignored conditions escalate it, and the escalation while contained is vertical: the rim climbs rather than advances. Lateral growth belongs to the event state and to nothing else.
 - Grudge expression reaches personnel as structural strain rather than as anger; the gantry below is load-tested to a fixed schedule even though nothing has ever rested on the gantry.
 - Recovery of anything that enters the clearance beneath the rim is a separate exposure event under its own authorisation, and is never undertaken by the Warden who noticed it.
 
@@ -146,13 +146,13 @@
 Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight manifestation, Grudge expression, at Zone D, Forge District. All four Work Types are available because it is a Subject. Flerehan calms here, which it does not everywhere, because the originating sorrow is displacement rather than hatred; Pugnahan is the one approach that reliably makes the holding worse.
 
 **Reading the response:** Read the rim height against the gantry scale. A falling gauge presents as descent of a few centimetres; a rising one presents as climb, and the climb is the only early warning this holding gives. The heat and the sense of recognition at the rim are not indicators and have misled teams in both directions.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Floating Well has broken free. Draws personnel toward its depths."*
+> *"Expansion event in progress. Floating Well is widening where it is; the boundary is moving, not the entity."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform — the rim widens; nothing leaves and nothing pursues. |
+| **Event Type** | Expansion in place |
 | **Movement** | It does not travel. The opening expands outward in the air like a tide reaching a flat shore, and personnel within the widened rim are drawn toward the depth rather than struck or chased. |
 | **Effect** | Rage that has had nowhere to go for a very long time comes out at once, scorching resilience from everyone in the bay. |
 | **Secondary Effect** | A resentful heat that works through containment barriers from the air side, where no barrier in the wing was designed to be loaded. |
@@ -161,9 +161,9 @@ Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight 
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transform. It never escapes, because it never goes anywhere: the breach is the rim widening overhead until the clearance beneath it is no longer a clearance. The hazard here is vertical and the floor plan is no defence against it.
+- **Event type (non-breach):** Transform. It never escapes, because it never goes anywhere: the event is the rim widening overhead until the clearance beneath it is no longer a clearance. The hazard here is vertical and the floor plan is no defence against it.
 - **Containment priority:** Establish a mourning point outside the widening rim — a place, physically, where a grief can be set down. Downward force accelerates the spread and has done so on both occasions it was attempted.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for every metre the rim widens, so escalation is tied to area rather than to elapsed time. A slow event and a fast one of the same final diameter end at the same number.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% for every metre the rim widens, so escalation is tied to area rather than to elapsed time. A slow event and a fast one of the same final diameter end at the same number.
 
 ## M.A.W. Equipment
 
@@ -302,7 +302,7 @@ A well hangs above the Forge, its opening black and patient. You look down and s
 
 This holding is read against the other suspended and heat-bearing features of the Forge District. Each relation below has been observed and filed; none is settled; and all three were tested on the height series rather than on impressions, impressions in this bay being unusually unreliable.
 
-**Interaction method:** Baseline each party alone over several cycles — height, diameter, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle; a Tide, breach, Ordeal or transformation can reverse a stable result overnight.
+**Interaction method:** Baseline each party alone over several cycles — height, diameter, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle; a Tide, event, Ordeal or transformation can reverse a stable result overnight.
 
 
 ### Entity Interaction Record
@@ -365,7 +365,7 @@ Some sorrows find a home. Floating Well is a sorrow that could not — and so, h
 
 **Operational interpretation:** This file is read whole or not at all: the suspension, the one effective remedy, the two places where that remedy worked, and the title the facility now holds over the ground they stood on are a single picture. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
 
-**Review requirement:** Re-verify after any breach, Tide, Ordeal or unusual interaction: gauge, rim height against the scale, diameter, depth estimates with estimators named, clearance condition, gantry load tests, and the standing of the mourning points listed in the Warden Record. Height readings are never averaged across Wardens.
+**Review requirement:** Re-verify after any event, Tide, Ordeal or unusual interaction: gauge, rim height against the scale, diameter, depth estimates with estimators named, clearance condition, gantry load tests, and the standing of the mourning points listed in the Warden Record. Height readings are never averaged across Wardens.
 ## Warden Record
 
 ### No Ground Beneath

@@ -163,6 +163,14 @@ in place, transformation in place. Nothing with a `Breach type: Escape` was touc
 | SE — Subject / Time / Hazard / Phenomenon | 178 | 45 | 25.3% | ≥ 25% |
 | OP — Object/Place, no Tool Type | 41 | 21 | 51.2% | ≥ 50% |
 
+**The reclassification was carried through every dependent section**, on the owner's instruction:
+Behavior, Combat Record and Actions, Operational Notes and Work Notes, Escalation Notes,
+Consequences, M.A.W. Use Notes, Field Use Record, Observation Log, Registry Addendum and the Entity
+Interaction Record. 716 breach-asserting lines were found in the 112 files; three passes cleared
+them, the `## Breach Behavior` heading became `## Containment Event Behavior` in the 36 files that
+had one, and the sampler that parses on that boundary was taught both names. Five lines remain and
+are correct: they state the entity expands *rather than* escaping.
+
 Qualifying candidates outnumbered the quota in every group (RE 72, SE 65, OP 34), so no dossier had
 to be stretched to reach a floor. Inside each converted file the `Breach type` line became
 `Event type (non-breach)` and prose claiming a breach capability was corrected; 37 files needed that

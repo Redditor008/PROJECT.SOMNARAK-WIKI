@@ -42,7 +42,7 @@
 - The date is not fixed and is not the facility's. The hands resolve onto the next published date belonging to whoever is nearest, which is why the face shows a different figure to every observer and why the log records the reader with the reading.
 - Work does not move the hands. A cycle lowers the gauge in the room and the hands keep their rate exactly, which has been true of all fifteen years of logged watches without a single exception.
 - Viderehan and Ferrehan only, and the structural reason is given rather than assumed: there is nothing here to grieve with and nothing to confront. Ferrehan lowers the gauge; Viderehan holds it level.
-- No breach counter applies; it is not the kind of thing that breaches. The interval is logged at every watch because it is the only quantity this entity produces, and a watch that returns no reading is written up as a failed watch.
+- No breach counter applies; it is not the kind of thing that events. The interval is logged at every watch because it is the only quantity this entity produces, and a watch that returns no reading is written up as a failed watch.
 - Residue recovery is separately authorised and has been granted twice, both times after a face repair. The clock has never been dismantled and the prohibition on winding it is absolute.
 
 ## Combat Record

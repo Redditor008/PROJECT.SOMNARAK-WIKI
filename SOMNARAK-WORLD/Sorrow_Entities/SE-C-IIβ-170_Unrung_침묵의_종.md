@@ -96,7 +96,7 @@
 - Composure fails here as lateness. The worker begins hearing their own speech arrive after they have finished saying it, loses the thread, and raises the gauge by their own distress rather than by anything the bell does.
 - Long exposure produces a worker who escalates everything. Nine Wardens rotated off this holding were afterwards recorded as going over a desk's head on matters well below the hazard threshold, and the directorate's objection to the containment rule names all nine by number.
 - The set costs hearing, presence and spoken words, each for about a day. The armoury's note records the costs in one line and records in a second that no bearer has ever asked for the brooch's countersignature provision to be withdrawn.
-- It has never breached. The delay has lengthened and shortened for twenty-four years and the bell has not moved, not sounded, and not left the plinth; the escalation model below is reconstruction and is labelled as such throughout.
+- It has never escalated. The delay has lengthened and shortened for twenty-four years and the bell has not moved, not sounded, and not left the plinth; the escalation model below is reconstruction and is labelled as such throughout.
 
 ## Appearance
 **Primary Form:** A bell identical in shape to the Orphaned Bell but completely silent. Its surface absorbs sound instead of producing it.
@@ -187,7 +187,7 @@ Ferrehan lowers the gauge, Viderehan holds it level, Flerehan and Pugnahan are N
 
 ### Escalation Notes
 
-There has been no breach. What is recorded as escalation here is the delay lengthening, which is not an event in the chamber and cannot be observed from inside it: no visible change, no moving boundary, nothing to perimeter. The three station clerks who have reported an escalation all reported it after the session, from the clock, and two of them had logged the session as unremarkable.
+There has been no event. What is recorded as escalation here is the delay lengthening, which is not an event in the chamber and cannot be observed from inside it: no visible change, no moving boundary, nothing to perimeter. The three station clerks who have reported an escalation all reported it after the session, from the clock, and two of them had logged the session as unremarkable.
 
 **Response sequence:** Perimeter, confirm by the station clock whether the delay has lengthened or the tone simply was not struck, clear unshielded personnel, hand signals only. Do not strike the bell to test whether the field is still present; the question has been answered under authorisation and is not reopened.
 
@@ -307,7 +307,7 @@ The set is built around being heard in time: an orrery that strips a target of v
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Unrung (C-IIβ-170 [VO]) is logged as an Object-Void manifestation expressing Void, held at SECTOR-A-01 in Zone D, forty metres from the Orphaned Bell and indistinguishable from it by eye: a pale bell, bloodless-cold, light for its size, smelling of ash, taking sound in rather than giving it back. It has never sounded and has never breached. Its instrument is the arrival delay of a reference tone at the fixed listening station eight metres out — one point nine seconds at baseline, zero at the floor, forty-one at the ceiling.
+Unrung (C-IIβ-170 [VO]) is logged as an Object-Void manifestation expressing Void, held at SECTOR-A-01 in Zone D, forty metres from the Orphaned Bell and indistinguishable from it by eye: a pale bell, bloodless-cold, light for its size, smelling of ash, taking sound in rather than giving it back. It has never sounded and has never escalated. Its instrument is the arrival delay of a reference tone at the fixed listening station eight metres out — one point nine seconds at baseline, zero at the floor, forty-one at the ceiling.
 
 **Entry 2 — <Warnings Return: Two Thousand Six Hundred and Four Raised, Seventy-One Never Answered>**
 The first return under the Rule of the Answered Warning, Year 4238. Two thousand six hundred and four hazard warnings were raised across this facility and its districts. One thousand nine hundred and eighty-eight fell above the defined hazard threshold and are therefore covered by the rule: one thousand nine hundred and thirty-one were acknowledged in the recipient's own hand inside the forty-eight hour window, and fifty-seven were escalated past a desk that had gone silent. Six hundred and sixteen fell below the threshold and are not covered. Seventy-one of those six hundred and sixteen were never acknowledged by anybody at all; four of the seventy-one described conditions that afterwards materialised. The arrival delay stood at forty-one seconds in Year 4214, in the quarter the Lantern Row surge took two hundred and thirteen people, nine days after a warning that was raised, correctly transmitted, correctly filed and read by a clerk with no authority to act on it and no duty to pass it on. It stood at zero in Year 4237. The delay has tracked the acknowledgement column for twenty-four years and has never tracked work done at the plinth.
@@ -379,7 +379,7 @@ Three records are grouped with this one and two of them are bells, which makes t
 
 It was built to save them, and it stayed silent at the one moment that mattered, and it has been silent ever since.
 
-The district needed a warning. The Han was rising — the Wardens knew it, the Menders knew it, the citizens felt it in the heaviness of the air. A catastrophic surge was coming, the kind that consumes a district the way the Cheongula consumed the thousand. And so the city, in one of its rare acts of actual protection, commissioned a bell — a great alarm, Han-powered, positioned to ring across the whole district the moment the surge breached the threshold. The bell would sound. The citizens would flee. Lives would be saved.
+The district needed a warning. The Han was rising — the Wardens knew it, the Menders knew it, the citizens felt it in the heaviness of the air. A catastrophic surge was coming, the kind that consumes a district the way the Cheongula consumed the thousand. And so the city, in one of its rare acts of actual protection, commissioned a bell — a great alarm, Han-powered, positioned to ring across the whole district the moment the surge escalated the threshold. The bell would sound. The citizens would flee. Lives would be saved.
 
 The bell was installed. The bell was tested. The bell worked. And then the surge came, and the bell did not sound.
 
@@ -413,7 +413,7 @@ Some sorrows mourn cruelty. Unrung mourns a failure — the warning that stayed 
 **Common Name:** Unrung
 **Containment Status:** Contained — SECTOR-A-01, Zone D, forty metres from the Orphaned Bell
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β), corrected from a Low entry that stood against the Risk tier on the same page. It has never sounded, never moved and never breached, and nobody has been injured at the plinth. What makes the holding consequential is that its delay has tracked this facility's unanswered warnings for twenty-four years and has preceded preventable incidents often enough that the duty desk reads the clock. The Registrum also named Viderehan as primary against its own Behavior table and cross-referenced a Hollow Bell that is not in the catalogue; both corrected.
+**Threat Assessment:** Moderate (β), corrected from a Low entry that stood against the Risk tier on the same page. It has never sounded, never moved and never escalated, and nobody has been injured at the plinth. What makes the holding consequential is that its delay has tracked this facility's unanswered warnings for twenty-four years and has preceded preventable incidents often enough that the duty desk reads the clock. The Registrum also named Viderehan as primary against its own Behavior table and cross-referenced a Hollow Bell that is not in the catalogue; both corrected.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type; Viderehan is secondary and holds the gauge level. Flerehan and Pugnahan are N/A under the Object/Place Work Rule.
 - Do not strike it. Striking has been tried under authorisation, is documented, and is not repeated.

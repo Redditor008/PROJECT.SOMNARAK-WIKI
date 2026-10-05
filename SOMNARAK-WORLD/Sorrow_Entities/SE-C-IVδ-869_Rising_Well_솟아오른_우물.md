@@ -41,7 +41,7 @@
 - The Well does not rise through the Desolate ground. It rises inside the mind of a person standing on it, which is why the registered location is a territory and not a room.
 - Work lowers it for a shift. It rises again in somebody else, often weeks later and often in a person who was not present, and no cycle has fixed, sealed or exhausted it.
 - A single ignored condition escalates it. The bearing logged at first sighting is the bearing of the *person*, not of the entity, and the distinction is to be preserved in the record.
-- Structural pressure presents during a breach, in the surrounding ground and in the walls; outside a breach there is nothing underfoot to test and nothing to brace.
+- Structural pressure presents during an event, in the surrounding ground and in the walls; outside a event there is nothing underfoot to test and nothing to brace.
 - There is no implement to recover. The only thing taken out of an encounter is the person who was in it, and the welfare debrief is a separate authorisation from the Work order.
 
 ## Combat Record
@@ -146,13 +146,13 @@
 Rising Well is a Subject with Subject-Mind manifestation and Grudge expression, registered at The Desolate and mobile, worked out of Zone B. All four Work Types apply. Flerehan lowers the song and shallows the shaft, Ferrehan tests whether a worker can hear another person's anger without taking it on, Viderehan opens echoes of the buried event and leaves the gauge level, and Pugnahan drives the shaft deeper and raises it. The Registrum entry naming Pugnahan as the primary approach is an error and is corrected here.
 
 **Reading the response:** Read it in the song and in the sentences. A falling gauge presents as the song thinning and the worker's account becoming ordinary again — the grievance loses its detail. A rising gauge presents as fluency: the anger acquires reasons, dates and a name, and the worker will give them to you in order. The file is explicit that an articulate grievance from inside this holding is a gauge reading and not an argument, and that it is to be recorded in full and answered by nobody.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Rising Well has broken free. Draws personnel toward its depths."*
+> *"Transformation event in progress. Rising Well is changing the space around itself and staying in it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
+| **Event Type** | Transformation in place |
 | **Movement** | The rim appears at floor level throughout the structure and draws personnel toward the depths by acting on their intentions. People walk to it and can explain why. |
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
@@ -161,9 +161,9 @@ Rising Well is a Subject with Subject-Mind manifestation and Grudge expression, 
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
 - **Containment priority:** Flerehan and Ferrehan together, from a position outside the drawing, with restraint authority already delegated to the team of three. Nobody argues with anybody.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn unaddressed. Both recorded breaches ended by restraint rather than by Work, and the figure is labelled as drawn from two events wherever it appears.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% per turn unaddressed. Both recorded events ended by restraint rather than by Work, and the figure is labelled as drawn from two events wherever it appears.
 
 ## M.A.W. Equipment
 
@@ -309,7 +309,7 @@ This holding is read against the other things in the district that hold or move 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact, not alliances. None of them is settled, and a result obtained once carries no authority during a Sorrow Tide, an Ordeal, a breach, or a transformation event.
+The relations below are canonical points of contact, not alliances. None of them is settled, and a result obtained once carries no authority during a Sorrow Tide, an Ordeal, a event, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -351,7 +351,7 @@ Some sorrows are about the original wound. Rising Well is about the inheritance 
 **Common Name:** Rising Well
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ). The Well of inherited fury opens in the minds of people who were given no reason for it; proximity produces rage without a remembered cause, and a breach turns that rage on the structure and on everyone inside it. The older entry describing the threat as moderate understates it and is corrected here.
+**Threat Assessment:** Critical (δ). The Well of inherited fury opens in the minds of people who were given no reason for it; proximity produces rage without a remembered cause, and a event turns that rage on the structure and on everyone inside it. The older entry describing the threat as moderate understates it and is corrected here.
 **Containment & Handling Procedures:**
 - All four Work Types are valid; Pugnahan deepens the shaft and is used only to provoke a reading that cannot be obtained otherwise, on written authority.
 - The rage has an origin and it is documented in the chamber file. What it has no access to is the person who caused it, all of whom are long dead.
@@ -364,9 +364,9 @@ Some sorrows are about the original wound. Rising Well is about the inheritance 
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every a transformation in place, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Apex Record
 
 ### The Inward Boundary
@@ -387,7 +387,7 @@ The massacre the community buried is documented in the chamber file from municip
 
 ### Depth Behavior
 
-During a breach the rim draws, and the drawing acts on attention rather than on the body — personnel move toward the depths because they have decided to, and they are able to explain the decision clearly while making it. Physical restraint is therefore authorized at an earlier point here than anywhere else in the holding, and the authorization is written to be used without consultation. Response teams work in threes for this reason. The protocol notes without softening it that the person being restrained will be lucid, will object in reasonable terms, and will be grateful afterward, and that none of those three facts changes what the team is required to do.
+During a event the rim draws, and the drawing acts on attention rather than on the body — personnel move toward the depths because they have decided to, and they are able to explain the decision clearly while making it. Physical restraint is therefore authorized at an earlier point here than anywhere else in the holding, and the authorization is written to be used without consultation. Response teams work in threes for this reason. The protocol notes without softening it that the person being restrained will be lucid, will object in reasonable terms, and will be grateful afterward, and that none of those three facts changes what the team is required to do.
 
 ### The Short List
 

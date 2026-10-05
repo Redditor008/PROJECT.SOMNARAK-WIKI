@@ -95,7 +95,7 @@
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
 - Time is Panopticon’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
 - M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Panopticon executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- An unresolved encounter never simply ends; it transforms. Panopticon executes its documented event pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
 **Primary Form:** Eyes set into the fabric itself — plaster, ceiling, doorframes — open, steady, and turned toward whoever is in the corridor. **Figure:** a translucent watcher coalesces only for a person who has stopped trying not to be looked at.
@@ -146,24 +146,24 @@
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Panopticon is recorded as a Subject with Subject-Phantasmal manifestation and Void elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Panopticon has broken free. Expands, crushing corridors shut."*
+> *"Corruption event in progress. Panopticon is turning the zone it stands in; nothing has left it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corruption of its own zone |
 | **Movement** | It does not move and never has. The occupied fabric expands: corridors close as the walls acquire eyes faster than the plan can be redrawn. |
 | **Effect** | The affected zone loses definition — colour drains, sound goes, and personnel lose confidence about which corridor they are in. |
 | **Secondary Effect** | An absence working inward from the edges of the section, in which what has not been looked at recently stops being reliably there. |
-| **First Target** | Whoever refuses to be seen. The eyes are already everywhere, so the breach concentrates on the unwilling. |
+| **First Target** | Whoever refuses to be seen. The eyes are already everywhere, so the event concentrates on the unwilling. |
 | **Escalation** | Clarity drain rises by 5 each interval, and the tally rises with it faster than any crew can count. |
 
 ### Escalation Notes
 
 - **Event type (non-breach):** Corrupt. The fabric goes wrong and the wrongness spreads along the old rounds; nothing escapes, because nothing was ever held.
 - **Containment priority:** Instruct personnel to accept being seen. Covering the eyes or shielding corridors raises the gauge rather than lowering it.
-- **Sorrow Gauge on breach:** Opens at 50% and falls 10% each time a worker acknowledges the gaze aloud.
+- **Sorrow Gauge on event:** Opens at 50% and falls 10% each time a worker acknowledges the gaze aloud.
 
 ## M.A.W. Equipment
 
@@ -370,9 +370,9 @@ Some sorrows are about what was done. The Watcher's sorrow is about what was see
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every a corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
 ### Eyes That Do Not Blink
@@ -421,7 +421,7 @@ The observers asked for one power: immediate stoppage where life is at risk, exe
 - **Classification detail:** Panopticon is a Subject with Echo (II) — Repeats watching coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Void, and its registered location is Zone B, Old Lament — ambient.
 - **Recognition detail:** Eyes set in plaster, ceiling and doorframe, open and unblinking, cold to stand near, with ash on the air. A translucent figure appears only to somebody who has stopped minding.
-- **Record detail:** The Registrum placed this holding in Zone D against a Zone B, Old Lament header, and the personnel note was attributed to a Zone D patrol; the cross-reference line carried the same error. It named Viderehan primary where Flerehan and Ferrehan move the gauge. The breach row described pulsing force and cracking walls against a Corrupt entry on an ambient holding that has never struck anything. The M.A.W. grade was blank against three β pieces. All corrected. The Watch Record, the eye tally and the Sorrow Seeking note are untouched.
+- **Record detail:** The Registrum placed this holding in Zone D against a Zone B, Old Lament header, and the personnel note was attributed to a Zone D patrol; the cross-reference line carried the same error. It named Viderehan primary where Flerehan and Ferrehan move the gauge. The event row described pulsing force and cracking walls against a Corrupt entry on an ambient holding that has never struck anything. The M.A.W. grade was blank against three β pieces. All corrected. The Watch Record, the eye tally and the Sorrow Seeking note are untouched.
 - **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

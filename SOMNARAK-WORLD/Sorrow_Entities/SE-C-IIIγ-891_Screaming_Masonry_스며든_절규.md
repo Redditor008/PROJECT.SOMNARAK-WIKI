@@ -344,7 +344,7 @@ Something floats through the Old Lament, but you hear it only in your bones. The
 
 This holding is read against the other obligation-bearing features of Old Lament. Each relation below has been observed and filed; none is settled; and all three were tested on the contact sensors rather than on how any party sounded, nothing here being audible in the first place.
 
-**Interaction method:** Baseline each party alone over several cycles — amplitude, bearing, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle; a Tide, breach, Ordeal or transformation can reverse a stable result.
+**Interaction method:** Baseline each party alone over several cycles — amplitude, bearing, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle; a Tide, event, Ordeal or transformation can reverse a stable result.
 
 
 ### Entity Interaction Record

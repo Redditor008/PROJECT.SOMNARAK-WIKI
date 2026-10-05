@@ -96,7 +96,7 @@
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
 - Time is The Happy Mask’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
 - M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. The Happy Mask executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- An unresolved encounter never simply ends; it transforms. The Happy Mask executes its documented event pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
 **Physical Form:** A beautiful lacquered mask with a fixed gentle smile; its dark interior absorbs the wearer's expression. **Movement:** Stationary when unworn — a mask moves only with the wearer.
@@ -195,7 +195,7 @@ The Happy Mask is an Object/Place with Object-Void manifestation and Void expres
 
 ### Escalation Notes
 
-There is no breach pattern to describe. The mask does not move, has never moved, and has no recorded means of leaving its tray; what expands when this holding escalates is the number of people in the building who are arranging their faces, which is not a boundary the perimeter can be drawn around. Record the tray temperature, the smile width, the room list, and the shift pattern of everybody who has been in the vault that cycle.
+There is no event pattern to describe. The mask does not move, has never moved, and has no recorded means of leaving its tray; what expands when this holding escalates is the number of people in the building who are arranging their faces, which is not a boundary the perimeter can be drawn around. Record the tray temperature, the smile width, the room list, and the shift pattern of everybody who has been in the vault that cycle.
 
 **Response sequence:** Close the tray, clear the room, log the names, and leave the vault for a full cycle. There is nothing to contain and nobody to evacuate. Do not improvise an unlisted Work Type: Flerehan and Pugnahan are invalid for an Object and neither has been attempted in sixty years.
 
@@ -460,7 +460,7 @@ The opinion was sought in the fortieth year, before the Conduct Standards Review
 
 An employer or licensing body may lawfully set standards of conduct, appearance and demeanour, provided they are reasonable and applied consistently. Requiring staff to be civil, presentable and pleasant to the public is ordinary and is not interfered with. The requirement runs to behaviour: what a person does with their face, voice and manner in the course of their duties.
 
-It does not and cannot run to feeling. No rule of this kind compels anyone to be happy; the law would not enforce such a rule and does not pretend to. Counsel states this as the clause's protection, and means it — the worker's inner life is explicitly outside what the standard reaches, and so cannot be the subject of a breach, a finding, or a sanction.
+It does not and cannot run to feeling. No rule of this kind compels anyone to be happy; the law would not enforce such a rule and does not pretend to. Counsel states this as the clause's protection, and means it — the worker's inner life is explicitly outside what the standard reaches, and so cannot be the subject of a event, a finding, or a sanction.
 
 The consequence is the thing the Keepers underlined. Because the clause reaches only display, the only harm the law can see is a harm to display, and there is none: nobody is injured by smiling. The exhaustion the series measures sits entirely in the part of the person the rule disclaims any interest in. A worker cannot complain that the requirement made them tired of pretending, because the requirement never asked them to pretend — it asked them to smile, which they did, voluntarily, in the sense the law uses that word.
 

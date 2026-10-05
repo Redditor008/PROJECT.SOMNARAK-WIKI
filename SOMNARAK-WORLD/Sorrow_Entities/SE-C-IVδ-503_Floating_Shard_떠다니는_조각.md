@@ -146,14 +146,14 @@
 Floating Shard is a Subject with Subject-Phantasmal manifestation and Lament expression, aloft in the Forge bay in Zone D. All four Work Types apply. Flerehan draws it closer and softens its light, Ferrehan tests whether a worker can be pitied without surrendering to it, Viderehan opens the injuries it has witnessed, and Pugnahan splits fragments away and raises the gauge. The Registrum entry naming Viderehan as the primary approach is an error and is corrected here.
 
 **Reading the response:** Read it in the light. A falling gauge presents as softening — the glow steadying, the figure inside turning less, the cold at the edge of the bay easing. A rising gauge presents as brightness, and brightness on this holding is never about the entity: it rises near somebody who is hurt. If the light comes up and nobody has reported an injury, the next thing to do is not to log the reading but to ask who is hurt, and that instruction has been correct eleven times.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Floating Shard has broken free. Hunts personnel indiscriminately."*
+> *"Corruption event in progress. Floating Shard is turning the zone it stands in; nothing has left it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
-| **Movement** | It does not pursue. The breach is Corrupt: it holds its volume and the bay warps around it, cracking the walls, with the weeping audible through the whole Forge floor. Personnel are affected where they stand rather than hunted. |
+| **Event Type** | Corruption of its own zone |
+| **Movement** | It does not pursue. The event is Corrupt: it holds its volume and the bay warps around it, cracking the walls, with the weeping audible through the whole Forge floor. Personnel are affected where they stand rather than hunted. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
@@ -161,9 +161,9 @@ Floating Shard is a Subject with Subject-Phantasmal manifestation and Lament exp
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
-- **Containment priority:** Seal the bay and endure with Viderehan and Ferrehan. Nothing is thrown, struck or cut inside the seal; the mirrored injury holds through a breach and has put two responders in medical.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from the two recorded Corrupt events in the Forge District and is labelled as modelled wherever it appears.
+- **Event type (non-breach):** Corruption of its own zone. The zone warps and the warping spreads inside it; nothing walks out.
+- **Containment priority:** Seal the bay and endure with Viderehan and Ferrehan. Nothing is thrown, struck or cut inside the seal; the mirrored injury holds through a event and has put two responders in medical.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from the two recorded Corrupt events in the Forge District and is labelled as modelled wherever it appears.
 
 ## M.A.W. Equipment
 
@@ -365,9 +365,9 @@ Some sorrows are about suffering. Floating Shard is about witnessing — the hel
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** The review requirement: every a corruption event, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every a corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Apex Record
 
 ### The Mirrored Injury

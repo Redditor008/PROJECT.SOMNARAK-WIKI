@@ -6,7 +6,7 @@
 
 | Field | Value |
 |---|---|
-| **Designation** | `C-IVω-001 [GP]` (Contained Place) / `C-IVω-001-B [GS]` (Breaching Subject) |
+| **Designation** | `C-IVω-001 [GP]` (Contained Place) / `C-IVω-001-B [GS]` (event Subject) |
 | **Entity Type** | **Place (Special Transform Type)** — Non-breaching: manifestation in place; activates on increase in the city's collective sorrow |
 | **Breach Designation Shift** | `C-IVω-001 [GP]` (Place-Tale) → `C-IVω-001-B [GS]` (Breaching Subject-Tale) |
 | **Coherence** | Entity (IV) — Self-aware, ancient, hungry |
@@ -26,7 +26,7 @@
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Catastrophic (ω) |
-| **Entity role** | Object/Place (Transforms to Breaching Subject `C-IVω-001-B [GS]` upon Breach) |
+| **Entity role** | Object/Place (Transforms to event Subject `C-IVω-001-B [GS]` upon event) |
 | **Valid Work Types** | Viderehan and Ferrehan only (Object/Place/Time canonical restriction; Flerehan and Pugnahan strictly N/A) |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 75–95% |
@@ -40,9 +40,9 @@
 
 ### Operational Notes
 
-- The Maw is a place until it breaches, at which point it is recorded as a breaching subject and the containment problem changes entirely.
+- The Maw is a place until it events, at which point it is recorded as a event subject and the containment problem changes entirely.
 - Work settles the site for a shift. The transformation condition is unaffected by a successful cycle, and no session has removed it.
-- Viderehan and Ferrehan are the valid approaches while it is a place; the breaching form is not worked, it is responded to.
+- Viderehan and Ferrehan are the valid approaches while it is a place; the event form is not worked, it is responded to.
 - There is no breach counter in the ordinary sense. The transformation is the breach, and the standing order is withdrawal rather than containment.
 - Extraction is authorised separately, never during a negotiation, and never once the designation has shifted to `C-IVω-001-B`. Three pieces exist and all three were taken in the first eleven years, before the shift was understood.
 
@@ -109,7 +109,7 @@
 
 **Identification Profile**
 
-- **Entity Type:** Place (can Transform into Breach Subject)
+- **Entity Type:** Place (can Transform into event Subject)
 - **Manifestation:** Place-Tale
 - **Primary marker:** A district rather than a creature. Buildings lean inward, walls curve toward voices, and the ground is soft as if the tar beneath it never finished solidifying.
 - **Position / movement:** The district does not move and the perimeter does. Eleven of the original 41 markers have been reset outward since the survey began, none has ever been reset in, and the Architects' chart is the clearest document the city possesses about its own foundation.
@@ -161,13 +161,13 @@ The Work Type table applies to a district and measures almost nothing. What the 
 **Reading the response:** A falling gauge here means the thousand have been answered, not that they have been satisfied; it rises again by the next quarter. The only reading that has ever stayed down is the one following Year 4,196, when a Director read eleven recovered names aloud at the perimeter. The gauge was eleven points lower for four years.
 ## Expansion Behavior
 
-> **Place → Subject Breach:** The Maw is a Place-manifestation entity — the district *itself* is the entity. Normally it expands slowly (2.3 cm per cycle). But if the expansion exceeds Zone B's containment perimeter — if the Maw grows beyond the district — it **transforms from a Place entity into a Breach Subject entity**. In this form, the Maw becomes mobile: the whispering walls detach, the soft ground lifts, the thousand voices coalesce into a single massive figure that walks through the city. This Place→Subject transformation is the rarest and most catastrophic breach type in Somnarak — a location becoming a being.
+> **Place → Subject event:** The Maw is a Place-manifestation entity — the district *itself* is the entity. Normally it expands slowly (2.3 cm per cycle). But if the expansion exceeds Zone B's containment perimeter — if the Maw grows beyond the district — it **transforms from a Place entity into a event Subject entity**. In this form, the Maw becomes mobile: the whispering walls detach, the soft ground lifts, the thousand voices coalesce into a single massive figure that walks through the city. This Place→Subject transformation is the rarest and most catastrophic event type in Somnarak — a location becoming a being.
 
 | Field | Detail |
 |---|---|
 | **Contained Designation** | `C-IVω-001 [GP]` (Place-Tale District) |
-| **Breach Designation** | `C-IVω-001-B [GS]` (Breaching Subject-Tale: The Walking District) |
-| **Metamorphosis Type** | Special Transform Breach: Place-Tale → Breaching Subject-Tale |
+| **Event Designation** | `C-IVω-001-B [GS]` (Breaching Subject-Tale: The Walking District) |
+| **Metamorphosis Type** | Special Transform event: Place-Tale → event Subject-Tale |
 | **Expansion Trigger** | Increase in the city's collective sorrow. |
 | **Expansion Rate** | 2.3 centimeters per year, measured by Taeho. |
 | **Expansion Effect** | Adjacent buildings merge into the district; walls darken, curve, and begin whispering. Residents may be absorbed. |
@@ -292,7 +292,7 @@ These three pieces are the only ω-grade extraction on record and the Armoury ha
 |---|---|
 | **Initial exposure** | The observer stands at the perimeter and looks into a district where the buildings lean inward. Identification is immediate and the file's first line is the only one needed: this is the ground the city is built on, and it is still occupied. |
 | **Sustained observation** | Sixty years of marker surveys and quarterly negotiations. Eleven outward movements, each following a denial; one four-year fall in the gauge, following eleven names read aloud. Those two series are the whole of what the Architects know. |
-| **Activation or escalation** | A marker moved or a confession refused. Record the marker and the distance; for a refusal, record who refused, in what forum, and in what words, because the second refusal is the reason the breach designation exists. |
+| **Activation or escalation** | A marker moved or a confession refused. Record the marker and the distance; for a refusal, record who refused, in what forum, and in what words, because the second refusal is the reason the event designation exists. |
 | **Post-contact review** | Marker chart updated, the negotiation transcribed in full, any recovered name entered on the roll, and the Directorate's statements for the quarter attached. A review without the statements is incomplete; they are the variable. |
 
 **Observation method:** Survey the markers, attend the negotiation, transcribe what the thousand say, and record any name recovered. One thousand voices; 61 names recovered in sixty years, all of them from the Whispering Walls, the Orphaned Bell, or the thousand themselves. The roll is kept at the perimeter where it can be read aloud.
@@ -410,7 +410,7 @@ This is the first sorrow. This is the wound. This is the thousand, beneath the c
 
 ### Registry Addendum
 
-**Operational interpretation:** This district asks for one thing and has asked for it for sixty years: say what was done. It is not a containment problem and the Architects' perimeter is not a containment measure; it is a sixty-year holding action against a confession nobody in office has been willing to make. The evidence that the confession would work is in the file — Year 4,196, eleven names read aloud at the line, the gauge eleven points lower for four years — and so is the evidence of what refusal costs, which is eleven markers moved outward and a breach designation held in reserve. One thousand people were told they were being relocated. Sixty-one of them have names on the roll.
+**Operational interpretation:** This district asks for one thing and has asked for it for sixty years: say what was done. It is not a containment problem and the Architects' perimeter is not a containment measure; it is a sixty-year holding action against a confession nobody in office has been willing to make. The evidence that the confession would work is in the file — Year 4,196, eleven names read aloud at the line, the gauge eleven points lower for four years — and so is the evidence of what refusal costs, which is eleven markers moved outward and a event designation held in reserve. One thousand people were told they were being relocated. Sixty-one of them have names on the roll.
 
 **Review requirement:** After any event: the marker chart, the negotiation transcript, the voice count, the name roll, and every Directorate statement touching the Cheongula in the preceding quarter, attached in full and not summarised. One further item, standing since Year 4,197: any proposal to issue a statement denying or qualifying the Cheongula is routed to the Architects before it is published, because eleven markers have moved and every one of them moved after a sentence written by somebody who had never been to the perimeter.
 ## Apex Record

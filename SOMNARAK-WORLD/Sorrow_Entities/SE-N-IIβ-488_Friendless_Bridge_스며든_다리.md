@@ -187,7 +187,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern is specific to Friendless Bridge: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone C, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Friendless Bridge: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone C, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Secure the perimeter, confirm the event is an expansion rather than an activation, withdraw personnel who are party to any obligation the span has grown into, and then satisfy the management condition: both sides entering, separately and in their own hand, that the distance is still there. Report which ledgers were involved and whether any entry was made by a proxy.
 
@@ -309,7 +309,7 @@ Friendless Bridge (N-IIβ-488 [O]) is logged as a Object-Void manifestation expr
 From the elder side: "I will come when the quarter's debt is cleared, and I would rather arrive owing nothing than arrive apologising." From the younger: "I will go when I can go without asking leave, and I would rather be late than be sent." Both are dated the same season. Both were folded, addressed and kept. The Keepers hold them in one envelope, which is an arrangement the archive has decided not to undo.
 
 **Entry 3 — <Ledger Note: Where the Span Was Found>**
-Found during a routine audit lying across a debt ledger in a strongroom two sectors from its registered chamber, with no record of movement and the chamber seal intact. The pages beneath it listed a creditor and a debtor who are cousins and have not spoken in nine years. Three subsequent discoveries followed the same pattern: a document connecting two people, an unpaid obligation between them, and neither of them present. The audit office now reports span sightings as a relationship finding and not as a containment breach, which is the only line in this file that the Row's clerks asked for.
+Found during a routine audit lying across a debt ledger in a strongroom two sectors from its registered chamber, with no record of movement and the chamber seal intact. The pages beneath it listed a creditor and a debtor who are cousins and have not spoken in nine years. Three subsequent discoveries followed the same pattern: a document connecting two people, an unpaid obligation between them, and neither of them present. The audit office now reports span sightings as a relationship finding and not as a containment event, which is the only line in this file that the Row's clerks asked for.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the connection it tried to build. (Stable); Ferrehan: Tests whether the worker can wait without crossing alone. (Decrease). It becomes peaceful when both sides acknowledge the distance.

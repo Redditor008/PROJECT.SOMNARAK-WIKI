@@ -95,7 +95,7 @@
 - Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resolve** and feeding the Sorrow Gauge.
 - The longer the exposure, the deeper the wound: Harbinger’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
 - The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Harbinger’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- Failure to achieve resolution triggers Harbinger’s event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow deepens where it already is and the zone becomes unworkable.
 
 ## Appearance
 **Primary Form:** A human-shaped shadow that follows debtors without speaking. It is visible only from the corner of the eye or in reflected light.
@@ -128,7 +128,7 @@
 - **The Sorrow:** Not the collection. The stretch of ordinary days a person goes on living through while somebody who has already decided has not yet said so.
 - **The Event:** Generations of notices served on the day they took effect, by offices that had settled the matter weeks earlier and saw no kindness in saying so sooner.
 - **The People:** No single originator. The commissioning file is paperwork: deadlines, notices, standard forms, archived in the order they arrived and never re-sorted.
-- **Expanded origin context:** The air near a followed subject is colder and no instrument has ever registered it. Three studies looked for an effect on neighbouring holdings — faster gauges, more frequent breaches, degraded containment — and all three returned nil, which the wing records plainly because the opposite is widely believed in this facility and is not true. What it does is social: it makes an obligation legible to everybody in a room except the person carrying it. Three transfer requests out of the debt offices last year came from colleagues of a followed worker, on grounds that were, in all three, that they could see what was coming and he had not been told.
+- **Expanded origin context:** The air near a followed subject is colder and no instrument has ever registered it. Three studies looked for an effect on neighbouring holdings — faster gauges, more frequent events, degraded containment — and all three returned nil, which the wing records plainly because the opposite is widely believed in this facility and is not true. What it does is social: it makes an obligation legible to everybody in a room except the person carrying it. Three transfer requests out of the debt offices last year came from colleagues of a followed worker, on grounds that were, in all three, that they could see what was coming and he had not been told.
 
 ## Behavior
 
@@ -146,13 +146,13 @@
 The gauge on this holding is a poor instrument and the wing has said so for decades. The figure that is read is the distance series: metres between the entity and its subject, taken from the fixed mirrors at each watch, closing across the life of an obligation, non-monotonic, and kept on one sheet beside the Collectors' ledger column because separating the two columns destroys the only thing the sheet is for.
 
 **Reading the response:** A good cycle is a distance that did not close, a sheet with both columns on it, and a subject who asked to see their own series and was shown it inside the hour. The last of those is a right in the standing order, written in after a subject asked and was refused.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"It is loose on the Row. It is behind four people at once. Nobody is to turn around and somebody go and tell them."*
+> *"It is in an event state on the Row. It is behind four people at once. Nobody is to turn around and somebody go and tell them."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform — the interval itself alters; it is the announcement that changes, not the entity. |
+| **Event Type** | Transformation in place |
 | **Movement** | It attaches behind several subjects at once and holds station on each. It does not seep, does not fill corridors, and does not seek anybody out: it is already where the obligation is. The earlier entry describing it flooding the facility has been struck. |
 | **Effect** | Every intervals shortens at once. Announcements that stood at weeks stand at days, across the whole Row. |
 | **Secondary Effect** | Workers can see which of their colleagues are being followed, and the colleagues cannot. |
@@ -163,7 +163,7 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 
 - **Event type (non-breach):** Transform — what changes is the warning, not the room. Two events on record, both ended by telling people, neither by suppression.
 - **Containment priority:** Do not apply Pugnahan, which shortens the interval further. Identify every followed subject from the mirrors and have a named officer tell each of them, in person, what is pending.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a cycle while unaddressed; it falls when the subject is told, aloud and in full, what is pending against them.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% a cycle while unaddressed; it falls when the subject is told, aloud and in full, what is pending against them.
 
 ## M.A.W. Equipment
 

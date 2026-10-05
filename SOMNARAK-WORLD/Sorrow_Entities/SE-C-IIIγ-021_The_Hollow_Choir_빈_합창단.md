@@ -153,14 +153,14 @@
 
 The Hollow Choir is a Fragment (III) Subject of Major (γ) potency, Subject-Spirit manifestation, Lament expression, in the purpose-built Zone C amphitheatre. All four Work Types are available because it is a Subject; Pugnahan is prohibited on the record of the Behavior table. A stable gauge is not a safe cycle here, since Viderehan leaves the gauge level while exposing the worker to every voice in the chamber.
 
-**Reading the response:** Read it in the group pattern. A falling gauge presents as the twelve groups overlapping more closely and the breaks coming later in each line; a rising one presents as groups separating and singing in sequence, which is also the breach warning. The volume is not an indicator and has misled teams twice.
-## Breach Behavior
+**Reading the response:** Read it in the group pattern. A falling gauge presents as the twelve groups overlapping more closely and the breaks coming later in each line; a rising one presents as groups separating and singing in sequence, which is also the event warning. The volume is not an indicator and has misled teams twice.
+## Containment Event Behavior
 
-> *"The Hollow Choir has broken free. Hunts personnel indiscriminately."*
+> *"Transformation event in progress. The Hollow Choir is changing the space around itself and staying in it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
+| **Event Type** | Transformation in place |
 | **Movement** | The sound passes the acoustic boundary and fills the corridors. It does not hunt and does not select; it arrives everywhere it can be heard, at once. |
 | **Effect** | Audible weeping in the corridor air, eroding the will to continue any task; personnel stop mid-action and are found standing still. |
 | **Secondary Effect** | A sorrow that pools in the chest and makes speech effortful; affected staff describe being unable to finish a sentence out loud. |
@@ -171,7 +171,7 @@ The Hollow Choir is a Fragment (III) Subject of Major (γ) potency, Subject-Spir
 
 - **Event type (non-breach):** Transform. The chamber stops being the instrument and the facility becomes one; two events are on file and neither involved any movement of anything.
 - **Containment priority:** Re-seal the acoustic boundary. Physical suppression of a bodiless entity accomplishes nothing, and the two attempts at it are recorded as having lengthened both events.
-- **Sorrow Gauge on breach:** Opens at 50%, the voices being already distributed, and rises five points for every corridor newly reached rather than per turn.
+- **Sorrow Gauge on event:** Opens at 50%, the voices being already distributed, and rises five points for every corridor newly reached rather than per turn.
 
 ## M.A.W. Equipment
 
@@ -251,7 +251,7 @@ Each Silenced piece is an extension of the holding rather than equipment. It per
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- The count is a hundred and forty-four and has not altered in the whole life of the containment, through two Tides and both breach events.
+- The count is a hundred and forty-four and has not altered in the whole life of the containment, through two Tides and both containment events.
 - The twelve groups correspond to twelve distinct eras, and the correspondence was established by the harmonic analysis rather than asserted from the history.
 - Personnel listening beyond an hour begin to hear their own names, which is why the listening cap is an hour and is enforced by the watch rather than by the listener.
 - Sixty-one particulars recovered from the songs appear in no Archive holding, and nine of them are contradicted by one.
@@ -440,7 +440,7 @@ In the eighth year the Directorate learned of the practice and did two things in
 
 The redacted list is the same length. The names are replaced by reference numbers. The certificate records that the reading was performed in full.
 
-Two Wardens resigned in the quarter the rule took effect. A third performed the reading, signed the certificate, and then read the unredacted list afterwards in her own time, which is not a breach of anything, and which the file records in a single line without comment. The practice as it existed has not been performed under its own terms since.
+Two Wardens resigned in the quarter the rule took effect. A third performed the reading, signed the certificate, and then read the unredacted list afterwards in her own time, which is not a event of anything, and which the file records in a single line without comment. The practice as it existed has not been performed under its own terms since.
 
 The objection is minuted at every annual review and is raised by the roster rather than by any officer. It holds that the facility took a voluntary act of acknowledgment, performed privately and at nobody's expense, and converted it into a certified official act, which is the one form in which it could not be performed honestly; that the redaction is not a precaution against harm to anybody living but a precaution against the facility's own admission, and the advice says so on its face; and that the chamber contains a hundred and forty-four people who were silenced by paperwork, and that the facility's response, on discovering that its own staff had been quietly saying their names, was to issue a form with the names taken out.
 

@@ -81,7 +81,7 @@
 |---|---|---|---|---|
 | { *The Hollow Face* [**Debuff**] } | "The mask stares — and behind the eye-holes, there is nothing. No face. No soul. Just weight." | [The Mask's emptiness presses on the target; they feel the void behind the surface.] | *Target suffers -10 Resolve; the absence is heavy.* **[10 Weight DMG [Weight]]** | When the target regards the Mask. |
 | { *The Gravity of Nothing* [**Debuff**] } | "The emptiness behind the mask pulls at you — and nothing has never been this heavy." | [The Mask's void-interior generates gravitational pull; the target is drawn in.] | *Target loses 10 Resolve; the nothing is dragging them.* **[10 Weight DMG [Weight]]** | When the target lingers. |
-| { *The Face-Blow* [**Attack**] } | "It does not come at you. It is simply nearer the face than it was, and the hand that moved it was yours." | [Handled without a second person present, the relic closes the distance to the handler's face; the object itself does not travel.] | *Inflicts Weight pressure and one wound of hollow impact.* **[14-22 Weight DMG [Weight]]** | When handled alone, in breach of the two-person rule. |
+| { *The Face-Blow* [**Attack**] } | "It does not come at you. It is simply nearer the face than it was, and the hand that moved it was yours." | [Handled without a second person present, the relic closes the distance to the handler's face; the object itself does not travel.] | *Inflicts Weight pressure and one wound of hollow impact.* **[14-22 Weight DMG [Weight]]** | When handled alone, in event of the two-person rule. |
 | { *The Full Vacuum* [**Attack**] } | "The mask opens wide — and the void inside inhales everything nearby." | [The Mask's interior void expands, sucking in the target.] | *A heavy Black void-pull; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Mask is broken. |
 | { *The Sea of Masks* [**Ultimate**] } | "Empty masks appear everywhere — on every wall, every face — and behind all of them, the same crushing nothing." | [The Mask multiplies across the entire field.] | *All in range suffer Weight pressure for three turns of universal emptiness.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -96,7 +96,7 @@
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resolve** and identity cohesion, accelerating Sorrow Gauge escalation.
 - Extended contact risks The Empty Mask’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
 - Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, The Empty Mask defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Without timely resolution, The Empty Mask defaults to its documented activation or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
 **Physical Form:** A blank, featureless mask of dense black material — a smooth face-shaped void, impossibly deep within. **Movement:** Stationary when unworn — a mask moves only with the wearer.
@@ -195,7 +195,7 @@ The gauge on an object held with three others is close to meaningless and the ho
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Empty Mask: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-C-01, contained with the Masked Troupe, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to The Empty Mask: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-C-01, contained with the Masked Troupe, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Two handlers, card grade before and after, nobody sedated or asleep within the room, and the relic back in its tray before either handler leaves. There is no perimeter to establish; the hazard is the handling, not the distance.
 
@@ -420,9 +420,9 @@ Some sorrows mourn what was taken. This one is about what is surrendered freely,
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any an activation, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every an activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
 ### A Face-Shaped Absence

@@ -352,7 +352,7 @@ Blackened Angel does not exist in isolation. Its recorded relationships with The
 
 ### Entity Interaction Record
 
-Blackened Angel must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Blackened Angel must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, event, Ordeal, or transformation conditions.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|

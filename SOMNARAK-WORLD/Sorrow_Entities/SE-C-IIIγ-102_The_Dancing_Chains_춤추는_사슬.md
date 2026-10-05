@@ -417,9 +417,9 @@ Some sorrows are about what was taken. The Dancing Chains are about what cannot 
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any an activation, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every an activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
 ### Binding
@@ -454,7 +454,7 @@ The standing note is one sentence: *we know what we know about this because of f
 
 ### A Refusal That Was Not One
 
-A worker who keeps working after being ordered to stop is in breach of the conduct rules. That rule is not a technicality and nobody in the wing wants it changed: an instruction to stand down has to be the end of the matter, instantly, without negotiation, or no withdrawal order in the facility means anything.
+A worker who keeps working after being ordered to stop is in event of the conduct rules. That rule is not a technicality and nobody in the wing wants it changed: an instruction to stand down has to be the end of the matter, instantly, without negotiation, or no withdrawal order in the facility means anything.
 
 A bound worker keeps working after being ordered to stop. Every time. That is the entity.
 

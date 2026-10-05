@@ -95,7 +95,7 @@
 - Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Composure** and feeding the Sorrow Gauge.
 - The longer the exposure, the deeper the wound: Every Last Goodbye’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
 - The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Every Last Goodbye’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- Failure to achieve resolution triggers Every Last Goodbye’s event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow deepens where it already is and the zone becomes unworkable.
 
 ## Appearance
 **Primary Form:** A translucent standing figure woven from final moments, flickering through faces and last thoughts at a rate that is measured and has risen. **Count:** 6.4 faces a second, against 4.6 and 3.1 at the two previous countings.
@@ -146,13 +146,13 @@
 The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Every Last Goodbye is recorded as a Subject with Subject-Void manifestation and Void elemental expression. The current record places it at SECTOR-A-01, Alpha Tree deep vault; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
-## Breach Behavior
+## Containment Event Behavior
 
 > *"Every Last Goodbye is pulsing. It has not moved. Anybody the pulse reaches is losing partings — get them out and get their names said."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corruption of its own zone |
 | **Movement** | It pulses in place, cracking the walls around it, and does not leave the vault. What travels is the pulse; the figure has never taken a step. |
 | **Effect** | The zone loses definition — colour drains, sound stops carrying — and anyone the pulse reaches loses memories of partings specifically. |
 | **Secondary Effect** | The absence works outward from the vault wall and takes edges first: doorframes, corners, the line where floor meets wall. |
@@ -161,9 +161,9 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corruption of its own zone. The zone warps and the warping spreads inside it; nothing walks out.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per interval unaddressed, and is highest in the week the Burial Office publishes its annual return.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% per interval unaddressed, and is highest in the week the Burial Office publishes its annual return.
 
 ## M.A.W. Equipment
 
@@ -281,7 +281,7 @@ Management: pass the Burial Office's unattended-interment names into the chamber
 **Entry 5 — <Director's Memo, Eyes Only>**
 The figure does not settle on a face. It flickers through them — thousands, each held for less than a second, each carrying the last thought that went with it — and the flicker never repeats in an order anyone has been able to record. Personnel sit with it, which is permitted. The stated reason given by most of them is that somebody should be in the room, and the file takes that at face value, since it is also the only thing the entity has ever been shown to want.
 
-**Threat rating:** Critical (δ). It has never moved and has never acted, and the grade is carried entirely by the Corrupt breach and the mnemonic pressure. Effect: the loneliness of dying unwitnessed, delivered first-hand rather than as sympathy, with the chamber's edges thinning while a worker is inside.
+**Threat rating:** Critical (δ). It has never moved and has never acted, and the grade is carried entirely by the Corrupt event and the mnemonic pressure. Effect: the loneliness of dying unwitnessed, delivered first-hand rather than as sympathy, with the chamber's edges thinning while a worker is inside.
 
 ## 최종 관찰 (Final Observation)
 
@@ -358,7 +358,7 @@ Some sorrows mourn the dead. Every Last Goodbye mourns the moment of dying — t
 **Common Name:** Every Last Goodbye
 **Containment Status:** Contained — SECTOR-A-01, Alpha Tree deep vault
 **Comprehension Level:** 4 — Mastered
-**Threat Assessment:** Critical (δ). Stationary, silent, and never once aggressive; the grade rests on the Corrupt breach and on mnemonic pressure that takes partings out of whoever the pulse reaches. Effect: the loneliness of dying unwitnessed, at first hand.
+**Threat Assessment:** Critical (δ). Stationary, silent, and never once aggressive; the grade rests on the Corrupt event and on mnemonic pressure that takes partings out of whoever the pulse reaches. Effect: the loneliness of dying unwitnessed, at first hand.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type. Viderehan is run for record and leaves the gauge flat; Pugnahan is prohibited absolutely.
 - It holds and does not deliver. Two reviews of whether the material could be given to families ended in refusal, and the second stands as policy.
@@ -371,9 +371,9 @@ Some sorrows mourn the dead. Every Last Goodbye mourns the moment of dying — t
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the containment-event protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Review protocol: following any a corruption event, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every a corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Apex Record
 
 ### The Witness
@@ -394,7 +394,7 @@ Whether the entity's holdings are retrievable in any civil sense has been examin
 
 ### Pulsing and Stealing
 
-Its breach is a Corrupt: it pulses in place, cracking the walls, while the containment zone loses definition and it takes memories from everyone it passes. Response uses the badging protocol and the written roster, with the Final Lens carried by the perimeter officer, and the standing instruction is that no responder may enter the zone alone for any reason. The reason given in the doctrine is not tactical. An entity assembled from unwitnessed endings is the one holding in the facility that must never be approached by somebody who has nobody with them, and the wing has written that into the procedure in those terms.
+Its event is a Corrupt: it pulses in place, cracking the walls, while the containment zone loses definition and it takes memories from everyone it passes. Response uses the badging protocol and the written roster, with the Final Lens carried by the perimeter officer, and the standing instruction is that no responder may enter the zone alone for any reason. The reason given in the doctrine is not tactical. An entity assembled from unwitnessed endings is the one holding in the facility that must never be approached by somebody who has nobody with them, and the wing has written that into the procedure in those terms.
 
 ### The Silent Room
 
@@ -448,8 +448,8 @@ Three instructions govern the passing. Pass every name; a part-passed return has
 - **Classification detail:** Every Last Goodbye is a Subject with Entity (IV) — Self-aware, final, absolute coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-A-01, Alpha Tree deep vault.
 - **Recognition detail:** A translucent standing figure in a vault without shadows, holding no face for longer than a sixth of a second, cold and light and smelling faintly of ash.
-- **Record detail:** The Registrum placed the holding at Old Lament against a header reading Alpha Tree deep vault, graded it Comprehension 3 against the header's 4, rated it Low against Critical (δ) in two places, and named Viderehan the primary Work Type where Viderehan leaves the gauge flat. The Movement field described a Subject as *a discrete object*. The breach rows had the entity passing personnel while the Apex Record has it pulsing in place; the pulse travels, the figure does not. The Origin paragraph broke off mid-sentence at *It simply.* All corrected. The Apex Record, the silence protocol and the slot are preserved and extended.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Record detail:** The Registrum placed the holding at Old Lament against a header reading Alpha Tree deep vault, graded it Comprehension 3 against the header's 4, rated it Low against Critical (δ) in two places, and named Viderehan the primary Work Type where Viderehan leaves the gauge flat. The Movement field described a Subject as *a discrete object*. The event rows had the entity passing personnel while the Apex Record has it pulsing in place; the pulse travels, the figure does not. The Origin paragraph broke off mid-sentence at *It simply.* All corrected. The Apex Record, the silence protocol and the slot are preserved and extended.
+- **Containment detail:** Containment is not silence. Even without an event, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-230

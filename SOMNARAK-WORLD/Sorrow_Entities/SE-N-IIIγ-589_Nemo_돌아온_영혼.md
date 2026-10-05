@@ -95,7 +95,7 @@
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
 - Nemo’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
 - Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Nemo's dossier.
+- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Nemo's dossier.
 
 ## Appearance
 **Primary Form:** A translucent figure that returns whenever its tears fall. Each tear carries a name.
@@ -146,14 +146,14 @@
 The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost nothing. The figure that is read upward is the count of names taken off the tears in the cycle, because it moves, because it has been moving upward, and because nobody at the Alpha Tree watch could say for ninety years what it was moving with.
 
 **Reading the response:** A good cycle is one in which the names were read and written, none was spoken back, none was searched, and the worker told the entity they could hear it. The last is the only instruction on the file that has ever brought the gauge down from an excursion.
-## Breach Behavior
+## Containment Event Behavior
 
 > *"Containment is corrupt at the Alpha Tree. It is weeping into the corridor. Nobody is to speak a name."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
-| **Movement** | None. It is stationary by classification and remains so in breach: the zone around it corrupts outward while the figure stays where it returned. The earlier entry describing it hunting personnel contradicted both the Movement field and ninety years of watch books. |
+| **Event Type** | Corruption of its own zone |
+| **Movement** | None. It is stationary by classification and remains so in event: the zone around it corrupts outward while the figure stays where it returned. The earlier entry describing it hunting personnel contradicted both the Movement field and ninety years of watch books. |
 | **Effect** | Audible weeping through the corridor, with names legible in it to anybody who looks. |
 | **Secondary Effect** | Workers in the zone begin to doubt that their own service is recorded anywhere, and go to check. |
 | **First Target** | No target. The weeping is not directed and has never been aimed at a person. |
@@ -163,7 +163,7 @@ The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost 
 
 - **Event type (non-breach):** Corrupt — the zone warps outward from a figure that does not move. Two recorded events, both ended by speech, neither by suppression.
 - **Containment priority:** Clear the corridor, hold the line, and send one worker to say they can hear it. Sealing alone has never ended an event and prolonged the second by nine hours.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a cycle while the weeping is unanswered; it falls when a worker says aloud, to the entity, that they can hear it.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% a cycle while the weeping is unanswered; it falls when a worker says aloud, to the entity, that they can hear it.
 
 ## M.A.W. Equipment
 

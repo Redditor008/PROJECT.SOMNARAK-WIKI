@@ -187,7 +187,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Conservatory: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone C, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Conservatory: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone C, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish the perimeter at the cleared margin, verify from the instrument record whether the event is an activation, a channel surge, or an extension of the outline, and withdraw unshielded personnel along the permitted path rather than directly away. Enforce the recorded protocol and walk the margin for combustible material before anything else is attempted. No unlisted Work Type is improvised, and nothing is built, braced, propped or shored anywhere inside the radius during a response — the instinct to stabilise a structure is the one reaction this holding cannot tolerate, and shoring resembles building more closely than anything else a competent team does under pressure.
 
@@ -353,7 +353,7 @@ Conservatory does not exist in isolation. Its recorded relationships with The Fr
 
 ### Entity Interaction Record
 
-Conservatory must be assessed as one of a group of sorrows attached to lost places rather than as a solitary mass in the Mask Market margin. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
+Conservatory must be assessed as one of a group of sorrows attached to lost places rather than as a solitary mass in the Mask Market margin. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, an event elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|

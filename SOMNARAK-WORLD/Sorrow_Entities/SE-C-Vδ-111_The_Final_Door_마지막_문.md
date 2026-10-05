@@ -96,7 +96,7 @@
 - The failure here is a hand on the face of the door. It has happened once in ninety-four cycles and the Keeper who did it was the most experienced person then serving.
 - Past about four minutes the listener begins planning how it could be opened. The plans are competent. 61 of 94 reports contain one and the standing order requires them to be written down rather than suppressed.
 - Both pieces take small nameless memories — not names or faces, the Armoury is precise about this, but the things between them: a street's smell, the order of a staircase, which hand somebody wrote with.
-- There is no escalation path short of opening. The Door does not expand, breach or pursue; it has been in the same stone for longer than the city and the only thing that has ever changed about it is who is standing in front of it.
+- There is no escalation path short of opening. The Door does not expand, event or pursue; it has been in the same stone for longer than the city and the only thing that has ever changed about it is who is standing in front of it.
 
 ## Appearance
 **Physical Form:** A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges.

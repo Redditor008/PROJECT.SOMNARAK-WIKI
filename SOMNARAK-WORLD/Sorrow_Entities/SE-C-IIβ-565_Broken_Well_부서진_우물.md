@@ -95,7 +95,7 @@
 - The failure here is the lean. The worker stops standing at the rail and starts standing over it, and the tether is what the holding's safety record actually rests on.
 - Long exposure shifts the reported depth upward and keeps it there. Both long exposures on file produced workers who could see the floor and could not believe in it.
 - The Broken Well equipment lends the wearer her endurance at an edge and takes the ability to stop looking for something. Every wielder's debrief has recorded a search of their own resumed.
-- Unresolved, it breaches by Transform: the opening spreads through the floor of the sector and draws personnel toward a depth that is not there.
+- Unresolved, it events by Transform: the opening spreads through the floor of the sector and draws personnel toward a depth that is not there.
 
 ## Appearance
 **Primary Form:** A ghostly figure rising from a broken well, weeping for losses no one remembers.
@@ -146,24 +146,24 @@
 Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Grudge expression, fixed at the rim of a dry opening in Old Lament, Zone B. All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it and hardens the rim; the earlier entry naming Pugnahan as primary is an error and is corrected here.
 
 **Reading the response:** Read it in the reported depth. A falling gauge presents as the depths coming in toward the plumb reading and the spread between observers narrowing; a rising one presents as the depths diverging, which happens before anything visible changes at the rim. The instrument confirms the depths afterwards and has never led them.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Broken Well has broken free. Draws personnel toward its depths."*
+> *"Transformation event in progress. Broken Well is changing the space around itself and staying in it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
+| **Event Type** | Transformation in place |
 | **Movement** | The opening spreads. Floor across the sector begins reading as rim, and personnel walk toward edges that the structure survey says are not there. The figure itself does not move. |
 | **Effect** | Depth where there is none. Workers stop trusting the floor, and the ones who are drawn in are found standing over flat ground, looking down. |
-| **Secondary Effect** | Everybody present becomes certain something is at the bottom. Three of the four breach reports contain the phrase, written independently, that they could hear somebody answering. |
+| **Secondary Effect** | Everybody present becomes certain something is at the bottom. Three of the four event reports contain the phrase, written independently, that they could hear somebody answering. |
 | **First Target** | Whoever remembers least. It draws those with no recollection of the losses it weeps for. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
 - **Containment priority:** Staff the perimeter with personnel who hold the search record and have them read the findings aloud. Remembering halts the draw; it has halted it three times out of three, and force has never been attempted.
-- **Sorrow Gauge on breach:** Opens at 45% and rises 10% per person drawn toward the depths.
+- **Sorrow Gauge on event:** Opens at 45% and rises 10% per person drawn toward the depths.
 
 ## M.A.W. Equipment
 
@@ -221,7 +221,7 @@ Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Gr
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Broken Well's element. No protocol produces Stigmas. They emerge from Broken Well's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Broken Well's element. No protocol produces Stigmas. They emerge from Broken Well's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
@@ -362,9 +362,9 @@ Some sorrows mourn the lost. Broken Well mourns the searching — the endless, u
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every a transformation in place, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
 ### It Waits for Someone to Look Down

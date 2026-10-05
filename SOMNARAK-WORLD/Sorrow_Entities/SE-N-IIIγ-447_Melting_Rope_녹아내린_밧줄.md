@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 2 — counts down; the second ignored condition breaches it |
+| **Activation threshold** | 2 — counts down; the second ignored condition events it |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -145,14 +145,14 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Melting Rope is recorded as a Subject with Subject-Dream manifestation and Lament elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
-## Breach Behavior
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede events. Log them, flag them, and adjust protocols accordingly before the next assignment.
+## Containment Event Behavior
 
-> *"Melting Rope has broken free. Hunts personnel indiscriminately."*
+> *"Corruption event in progress. Melting Rope is turning the zone it stands in; nothing has left it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corruption of its own zone |
 | **Movement** | It does not move and does not pursue. The zone it occupies corrupts outward, and the hazard reaches anybody asleep inside it. |
 | **Effect** | Weeping becomes audible throughout the affected area and does not stop; personnel describe the will to continue draining out of them by the hour. |
 | **Secondary Effect** | Sorrow that settles in the chest as weight and does not lift on leaving the zone. |
@@ -163,7 +163,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 - **Event type (non-breach):** Corrupt. The zone itself goes wrong and the wrongness spreads at the edges; nothing escapes and nothing hunts.
 - **Containment priority:** Wake every sleeper in the zone first, seal second, and endure with Viderehan and Ferrehan until the pressure comes off.
-- **Sorrow Gauge on breach:** Opens at 40 per cent and takes 10 more each interval. Nothing done inside the affected zone lowers it; it falls when the sleepers in it are woken, which is the only measure the doctrine offers.
+- **Sorrow Gauge on event:** Opens at 40 per cent and takes 10 more each interval. Nothing done inside the affected zone lowers it; it falls when the sleepers in it are woken, which is the only measure the doctrine offers.
 
 ## M.A.W. Equipment
 
@@ -365,9 +365,9 @@ Some sorrows are about separation. Melting Rope is about the connection that out
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** The review requirement: every a corruption event, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every a corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
 ### Melting and Reforming
@@ -416,7 +416,7 @@ One remembered the way and one remembered only the rope between them, and the co
 - **Classification detail:** Melting Rope is a Subject with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Lament, and its registered location is The Desolate — mobile.
 - **Recognition detail:** A rope in a dream that is dissolving at one end and making itself at the other, salt-damp, cold rain on the air, with a pull along it toward somebody the dreamer has stopped thinking about.
-- **Record detail:** The Registrum read Residue (I) and Minor (α) against a Fragment (III), Major (γ) header, and rated the holding Low against a γ entity that corrupts a zone. The header gave Movement as stationary while the Operational Notes record it moving between sessions. The breach quotation claimed indiscriminate hunting on a Corrupt entry that reaches only sleepers. The Origin block carried a soldier's story belonging to another file entirely, against two named travellers in the commissioning material. The M.A.W. grade was blank against three γ pieces. All corrected.
+- **Record detail:** The Registrum read Residue (I) and Minor (α) against a Fragment (III), Major (γ) header, and rated the holding Low against a γ entity that corrupts a zone. The header gave Movement as stationary while the Operational Notes record it moving between sessions. The event quotation claimed indiscriminate hunting on a Corrupt entry that reaches only sleepers. The Origin block carried a soldier's story belonging to another file entirely, against two named travellers in the commissioning material. The M.A.W. grade was blank against three γ pieces. All corrected.
 - **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

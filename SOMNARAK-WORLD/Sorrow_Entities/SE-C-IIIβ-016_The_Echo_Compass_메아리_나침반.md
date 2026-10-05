@@ -395,7 +395,7 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 **Common Name:** The Echo Compass
 **Containment Status:** Contained — SECTOR-D-01, Forge District, in a sealed opaque case. The archive deep room named in earlier revisions was the holding site before the fourth year and is not current.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). It cannot escape and does not need to: it transforms, spreads its pointing into adjacent instruments, and reliably induces indefinite following in whoever holds it. The earlier entry describing the threat as low with no breach risk is an error and is corrected here.
+**Threat Assessment:** Moderate (β). It cannot escape and does not need to: it transforms, spreads its pointing into adjacent instruments, and reliably induces indefinite following in whoever holds it. The earlier entry describing the threat as low with no event risk is an error and is corrected here.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are both valid; Ferrehan is the approach that lowers the gauge. The earlier entry naming Viderehan as the only valid Work Type is an error and is corrected here.
 - Not to be used for navigation. The needle is accurate and useless, which are not opposites here.
@@ -409,7 +409,7 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Re-verify after every channel overload, expansion, extraction, or unusual interaction: the gauge, the case seal, the first-response range against the previous session, the exposure log, and whether any other instrument in the sector has begun to track with the needle. The last of those is checked by a second person and is the only item on the list that has ever been missed.
 ## Warden Record

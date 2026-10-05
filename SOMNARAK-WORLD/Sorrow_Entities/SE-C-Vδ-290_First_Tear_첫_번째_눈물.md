@@ -149,7 +149,7 @@ The Tear does not respond to Work Types in the conventional sense.
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. First Tear is recorded as an Object/Place with Object-Lament manifestation and Lament elemental expression. The current record places it at SECTOR-A-01, Alpha Tree deep vault — sealed; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** There is no response to work. The glow does not vary with the approach used, the observer, the time of year, Sorrow Tides, breaches elsewhere, or anything the facility has thought to test across eleven centuries of nightly figures. The one variation on file follows a gap in the figures themselves.
+**Reading the response:** There is no response to work. The glow does not vary with the approach used, the observer, the time of year, Sorrow Tides, events elsewhere, or anything the facility has thought to test across eleven centuries of nightly figures. The one variation on file follows a gap in the figures themselves.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -189,7 +189,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to First Tear: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-A-01, Alpha Tree deep vault — sealed, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to First Tear: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-A-01, Alpha Tree deep vault — sealed, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Secure the vault approaches, confirm the event is an instrument fault rather than a change in the Tear — it has been an instrument fault on all fourteen occasions — clear unshielded personnel, and then take the reading on time regardless. The reading is not suspended for an incident; it is the first thing restored after one.
 
@@ -449,7 +449,7 @@ Pilgrims never see the Tear directly. Between the viewing chamber and the reliqu
 - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-A-01, Alpha Tree deep vault — sealed.
 - **Recognition detail:** There is nothing to confuse it with. One crystallised tear, smaller than a raindrop, faint blue, four centimetres above a sealed pedestal, not falling. If something in this vault is falling, it is not this.
 - **Record detail:** Check the designation before entry. This vault holds two records of unknown origin and they are handled oppositely — one is kept cool by destroying what we write about it; this one is kept known by never missing a night.
-- **Containment detail:** Containment here is clerical. The pedestal is sealed and has never been tested, the vault is sealed and has never been breached, and the only thing this facility actually maintains is an unbroken column of figures. The containment reading is the series.
+- **Containment detail:** Containment here is clerical. The pedestal is sealed and has never been tested, the vault is sealed and has never been escalated, and the only thing this facility actually maintains is an unbroken column of figures. The containment reading is the series.
 ## Document Information
 
 **Document ID:** SE-C-Vδ-290

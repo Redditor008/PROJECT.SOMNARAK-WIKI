@@ -95,7 +95,7 @@
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resolve**, funneling cognitive instability back into the Sorrow Gauge.
 - Restless Gap’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
 - Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Restless Gap's dossier.
+- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Restless Gap's dossier.
 
 ## Appearance
 **Primary Form:** A person-shaped emptiness with a jagged vertical tear down it, carrying no material and registering only as a bend in whatever lies behind it. **Track:** it walks, on no path the survey has been able to predict.
@@ -146,13 +146,13 @@
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Restless Gap is recorded as a Subject with Subject-Void manifestation and Weight elemental expression. The current record places it at Zone D, Mantle Commons; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
-## Breach Behavior
+## Containment Event Behavior
 
 > *"The bend is past station three. It is not chasing anyone — widen the cordon and get the sequence cards out."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corruption of its own zone |
 | **Movement** | It intensifies where it stands and the warped zone grows outward. It does not pursue; in forty years nothing in the record has it approach a person who was not already inside the bend. |
 | **Effect** | Pressure through the whole warped volume at once, heaviest at the tear, and sequence loss at a multiple of the chamber rate. |
 | **Secondary Effect** | Responders lose the order of the engagement while it is happening. Cordon logs are therefore timed by a clerk outside the radius who is never relieved by anyone who has been inside it. |
@@ -163,7 +163,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 - **Event type (non-breach):** Corrupt — the zone warps outward from where it stands. Nothing is pursued; the hazard reaches people by growing, not by travelling.
 - **Containment priority:** Cordon at increasing radius, sequence cards at the line at fixed intervals, and withdraw any responder whose score slips regardless of how the event is going. Four complete rotations is the record and none was waived.
-- **Sorrow Gauge on breach:** Opens at 40% and climbs 10% an interval. It falls when a responder at the cordon reads their own day book aloud from the entry before the event — not a facility record, their own.
+- **Sorrow Gauge on event:** Opens at 40% and climbs 10% an interval. It falls when a responder at the cordon reads their own day book aloud from the entry before the event — not a facility record, their own.
 
 ## M.A.W. Equipment
 
@@ -228,7 +228,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Restless Gap's element. No protocol produces Stigmas. They emerge from Restless Gap's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Restless Gap's element. No protocol produces Stigmas. They emerge from Restless Gap's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Restless Gap as a Subject with Subject-Void manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone D, Mantle Commons. |
 | **Sustained observation** | Bend magnitude at three stations against the derived track, and the exit sequence score against each worker's own baseline. The second is the sensitive instrument and the one the chamber order is written around. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The team records the first visible activation or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Restless Gap's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Bend readings at three stations with times, derived position, the worker's own account written in the gallery before leaving, the exit sequence card, and the counselor's score against baseline. The score against baseline is the session's result; everything else is supporting.
@@ -368,9 +368,9 @@ Some sorrows are about losing memory. Restless Gap is about losing continuity �
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every a corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Apex Record
 
 ### Person-Shaped Absence
@@ -391,7 +391,7 @@ Its origin is a citizen whose memories were fractured by repeated Han exposure, 
 
 ### Intensifying in Place
 
-Its breach is a Corrupt: it intensifies in place, warping the containment zone outward while crushing pressure bears down on the resolve of everyone within it. Response is a cordon operation at increasing radius with the Vigil Hand-Cannon held at the line. Responders are rotated on the chronological screen rather than on a clock — teams are tested at the cordon, in place, at intervals, and a responder who begins losing sequence is withdrawn immediately regardless of how the engagement is going. The provision is expensive in personnel and has never been suspended, including during the longest recorded event, which required four complete rotations of the cordon before the warping receded.
+Its event is a Corrupt: it intensifies in place, warping the containment zone outward while crushing pressure bears down on the resolve of everyone within it. Response is a cordon operation at increasing radius with the Vigil Hand-Cannon held at the line. Responders are rotated on the chronological screen rather than on a clock — teams are tested at the cordon, in place, at intervals, and a responder who begins losing sequence is withdrawn immediately regardless of how the engagement is going. The provision is expensive in personnel and has never been suspended, including during the longest recorded event, which required four complete rotations of the cordon before the warping receded.
 
 ### The Ordering Test
 

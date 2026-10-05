@@ -146,7 +146,7 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Rift is recorded as an Object/Place with Place-Grudge manifestation and Weight elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede events. Log them, flag them, and adjust protocols accordingly before the next assignment.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -160,7 +160,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Rift: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at Zone B, Old Lament — ambient, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Rift: it is not a generic containment event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at Zone B, Old Lament — ambient, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
 
 **Response sequence:** stop work across the line and move both parties to one side, read the onset distance from the marked station, withdraw anybody not needed, and state the history at the line — built in Year 3972, demolished in Year 4106, two halves, one district. Nothing is to be built on the line, and no unlisted Work Type is to be improvised here; there is nobody in this holding for Flerehan or Pugnahan to reach.
 
@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Rift as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone B, Old Lament — ambient. |
 | **Sustained observation** | Onset distance quarter by quarter — 2.1, 3.4, 5.2 metres — with the bearing and the record of who crossed, who stated the history, and who turned back. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The team records the first visible activation or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Rift's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Onset distance on a perpendicular approach from the marked station, bearing against the last quarterly shot, the statement and its speaker, how each worker routes afterwards without being told to, and whether any work was attempted across the line. The onset distance is the session's number.
@@ -330,7 +330,7 @@ Each row below is kept with its survey sheets, because the only reliable evidenc
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | **The Rusted Wall** | Both preserve divided communities. | Untested and refused. The Rusted Wall still stands; bringing a wall that exists to a line that cannot be built on is a question the wing has declined twice to ask. | The refusals and their reasons, in the chamber order. |
-| **Breach** | Shares the grief of failed protection. | Observed at distance during an unrelated Old Lament event: onset here rose 0.4 metres for two days and did not return to its previous figure. The only recorded instance of another holding costing this one ground. | Onset at twelve-hour intervals, both holdings' survey sheets, and the figure it settled at. |
+| **Event** | Shares the grief of failed protection. | Observed at distance during an unrelated Old Lament event: onset here rose 0.4 metres for two days and did not return to its previous figure. The only recorded instance of another holding costing this one ground. | Onset at twelve-hour intervals, both holdings' survey sheets, and the figure it settled at. |
 | **The Vanished Tower** | The old structure once stood beside the boundary. | Historical adjacency only. Both are absences on the same pre-amalgamation map and neither has ever registered the other; the row is kept because removing it would cost the archive the map reference. | The map, and the fact of no observed effect, restated at each annual review. |
 
 **Interaction procedure:** Onset and bearing before and after, which side every person stood on throughout, the statements made, any attempt at cross-line work and its result, and the survey re-shot the following quarter rather than the same day. The line has moved twice and both movements were found by survey weeks later.
@@ -379,9 +379,9 @@ Some sorrows are about barriers built. Rift is about a barrier removed — the w
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** The review requirement: every a manifestation, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every a manifestation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Apex Record
 
 ### A Wall That Is Not There

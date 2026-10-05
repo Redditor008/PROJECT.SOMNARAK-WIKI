@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 1 — counts down; a single ignored condition breaches it, and the margin is therefore nil |
+| **Activation threshold** | 1 — counts down; a single ignored condition events it, and the margin is therefore nil |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -95,7 +95,7 @@
 - Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resilience** and feeding the Sorrow Gauge.
 - The longer the exposure, the deeper the wound: Aegis’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
 - The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Aegis’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- Failure to achieve resolution triggers Aegis’s event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow deepens where it already is and the zone becomes unworkable.
 
 ## Appearance
 **Primary Form:** An armoured figure half again the height of a man, squared to the Gate, in Han-crystal plate scarred the whole way down. **Stance:** the weapon hangs at the full length of the arm and has never been seen raised.
@@ -146,13 +146,13 @@
 The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Aegis is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at SECTOR-E-01, Zone E — guards the Exile's Gate; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution; containment offers temporary calm, not permanent healing. Gauge increase: the work has fed rather than calmed. The entity’s grief is louder now, not quieter, indicating that the work has aggravated or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down and update logs before the next assignment.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Aegis has broken free. Patrols and attacks intruders."*
+> *"Corruption event in progress. Aegis is turning the zone it stands in; nothing has left it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corruption of its own zone |
 | **Movement** | It does not move. It intensifies where it stands and the containment zone warps outward around it; anybody inside that radius is treated as inbound. |
 | **Effect** | Rage across the whole radius, scorching resilience out of everyone in it at a steady rate. |
 | **Secondary Effect** | Barrier material fails from the Gate outward; three cordons have been lost this way and all three are costed in the file. |
@@ -163,7 +163,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 - **Event type (non-breach):** Corrupt. Nothing escapes. The zone deforms outward and the holding stays exactly where it has always stood.
 - **Containment priority:** Stand the cordon back at increasing radius and let it finish. No approach, no interruption, no Pugnahan. The doctrine has not changed since the first event and has not failed yet.
-- **Sorrow Gauge on breach:** Opens at 40 per cent and takes 10 more each interval, against an exceptional standing baseline of 910 on the Gate ledger scale. It has never been observed to fall during an event; it falls afterwards, on its own, over about nine days.
+- **Sorrow Gauge on event:** Opens at 40 per cent and takes 10 more each interval, against an exceptional standing baseline of 910 on the Gate ledger scale. It has never been observed to fall during an event; it falls afterwards, on its own, over about nine days.
 
 ## M.A.W. Equipment
 
@@ -368,9 +368,9 @@ Some sorrows mourn a single loss. The Guardian mourns an unending procession —
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the containment-event protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Review protocol: following any a corruption event, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every a corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Apex Record
 
 ### The Weapon Stays Lowered
@@ -409,7 +409,7 @@ The notice clerks asked for the one thing that might have made it useful: that a
 
 ### Corrupt, Not Escape
 
-Its breach classification is Corrupt: it does not leave, it intensifies in place, warping the containment zone outward while rage erupts across everything nearby. The response is consequently a perimeter operation conducted at increasing radius, with no attempt made to approach the Gate and no attempt made to interrupt the entity. The Gatekeeper's Blade is held at the outer cordon. The doctrine's instruction, unchanged since the first recorded event, is that Aegis is not breaching its containment — it is doing what it has always done, harder, and the correct response is to stand outside the radius and let a vow that has outlived its city finish having its moment.
+Its event classification is Corrupt: it does not leave, it intensifies in place, warping the containment zone outward while rage erupts across everything nearby. The response is consequently a perimeter operation conducted at increasing radius, with no attempt made to approach the Gate and no attempt made to interrupt the entity. The Gatekeeper's Blade is held at the outer cordon. The doctrine's instruction, unchanged since the first recorded event, is that Aegis is not event its containment — it is doing what it has always done, harder, and the correct response is to stand outside the radius and let a vow that has outlived its city finish having its moment.
 
 ### The Threshold Challenge
 
@@ -429,8 +429,8 @@ The challenge log is read at each shift handover rather than filed unread, and t
 - **Classification detail:** Aegis is a Subject with Entity (IV) — Self-aware, ancient, watchful coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-E-01, Zone E — guards the Exile's Gate.
 - **Recognition detail:** An armoured figure of ancient Han-crystal, scarred, fever-hot, far above human height, standing square to the Exile's Gate with its weapon held low and never raised.
-- **Record detail:** The Registrum rated the holding Moderate and recorded that it does not attack, against a Critical (δ) entity that strikes attempted returns without warning; it also named Pugnahan primary where Pugnahan is prohibited and raises the gauge. The breach line read *patrols and attacks intruders* against a Corrupt classification in which the entity does not leave its position. The M.A.W. grade was blank against three δ pieces and the faction entry read Desolate-territory against a Zone E holding. All corrected. The 910 figure in the Apex Record is the Gate ledger scale, which runs to 1,200; the conversion is given in the Story Log.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Record detail:** The Registrum rated the holding Moderate and recorded that it does not attack, against a Critical (δ) entity that strikes attempted returns without warning; it also named Pugnahan primary where Pugnahan is prohibited and raises the gauge. The event line read *patrols and attacks intruders* against a Corrupt classification in which the entity does not leave its position. The M.A.W. grade was blank against three δ pieces and the faction entry read Desolate-territory against a Zone E holding. All corrected. The 910 figure in the Apex Record is the Gate ledger scale, which runs to 1,200; the conversion is given in the Story Log.
+- **Containment detail:** Containment is not silence. Even without an event, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-200

@@ -146,13 +146,13 @@
 Both of the useful Work Types bring the gauge down and neither tells a supervisor anything. The figure read upward from this holding is the template displacement, in millimetres, measured between sessions by somebody who was not present when it changed — which is the whole character of the file.
 
 **Reading the response:** A good cycle is a displacement entered, a report written in the corridor and not softened, and a worker who said their sentence aloud rather than thinking it. The last is not measurable and the supervisors ask about it anyway.
-## Breach Behavior
+## Containment Event Behavior
 
 > *"Containment is corrupt at the Alpha Tree. It is not showing anybody anything. Keep walking and keep talking."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corruption of its own zone |
 | **Movement** | None. It is stationary by classification and stays asleep through the event; the zone corrupts outward around a figure that does not stir. The earlier entry describing it pulsing, cracking walls and showing personnel their worst selves contradicted both the Movement field and the holding's finding that what it returns is pity rather than accusation. |
 | **Effect** | The zone loses definition; colour and sound thin out; no surface in it reflects anything at all. |
 | **Secondary Effect** | Workers in the zone become certain that something is held about them and unsure what, and begin asking colleagues rather than supervisors. |
@@ -163,7 +163,7 @@ Both of the useful Work Types bring the gauge down and neither tells a superviso
 
 - **Event type (non-breach):** Corrupt — the zone warps outward around a figure that never wakes. Two events on record, both ended by speech, neither by suppression.
 - **Containment priority:** Do not wake it and do not seal and wait: sealing alone has never ended an event here and extended the first by two days. Send one worker in to say the sentence.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a cycle while unaddressed; it falls when a worker states aloud, in the zone, one judgement they believe is being made about them that nobody has said to them.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% a cycle while unaddressed; it falls when a worker states aloud, in the zone, one judgement they believe is being made about them that nobody has said to them.
 
 ## M.A.W. Equipment
 
@@ -395,7 +395,7 @@ Nothing in the existing Record is overturned. The reflection still comes only af
 
 What it costs is the certainty of the kindness. Not labelling people was right. The Medical Board's study has never been answered, and nobody at this holding proposes to reinstate a status that followed workers into every drafting room for the rest of their lives. The watch's position is narrower: that the label was abolished and the judgement was not, that an unwritten finding is the one kind a person can neither read nor contest, and that two thousand people here are being managed around something nobody will put in a sentence.
 
-The operational consequence lies outside the zone. Nothing done at the template line has ever moved the displacement — not lighter watches, not the instrumented year, not the two attempts at continuous observation, both of which failed in the specific sense that the correction still happened and still was not seen. The only thing that has moved with it is the Said Assessment: where a worker's assignments are being limited on judgement, that judgement is written in one sentence, signed by the person who holds it, given to the worker, and appealable. In Year 4237 that produced 2,040 written sentences; 312 appeals, of which 47 succeeded; 190 workers who had not known and now did; 23 resignations within a month of reading; six sentences subpoenaed in claims against the Company; and one Agent whose limitation was overturned, who returned to full duty and was killed in a breach three months afterwards. The panel decided correctly on what was before it. His widow holds the sentence and the overturn in one envelope and has declined to comment further. The file sets that beside the displacement column, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
+The operational consequence lies outside the zone. Nothing done at the template line has ever moved the displacement — not lighter watches, not the instrumented year, not the two attempts at continuous observation, both of which failed in the specific sense that the correction still happened and still was not seen. The only thing that has moved with it is the Said Assessment: where a worker's assignments are being limited on judgement, that judgement is written in one sentence, signed by the person who holds it, given to the worker, and appealable. In Year 4237 that produced 2,040 written sentences; 312 appeals, of which 47 succeeded; 190 workers who had not known and now did; 23 resignations within a month of reading; six sentences subpoenaed in claims against the Company; and one Agent whose limitation was overturned, who returned to full duty and was killed in a event three months afterwards. The panel decided correctly on what was before it. His widow holds the sentence and the overturn in one envelope and has declined to comment further. The file sets that beside the displacement column, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
 
 ### Too Tired to Look
 

@@ -207,7 +207,7 @@ Escalation here is radius and recurrence, not force. Record the first trigger, t
 | **Manifestation** | Object-Void |
 | **Primary effect** | Projects a suppressed memory in complete emotional and sensory detail. |
 | **Duration / rate** | Until the viewer looks away or the memory completes. |
-| **Risk** | Minor (α) by potency and considerably worse than that by consequence: low Void pressure, no breach pattern, and an identity hazard that two personnel have not returned to duty from. |
+| **Risk** | Minor (α) by potency and considerably worse than that by consequence: low Void pressure, no event pattern, and an identity hazard that two personnel have not returned to duty from. |
 | **Management** | Viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time. |
 
 **Activation reporting order:** trigger → radius edge from the case → vault response in the stacks → personnel effect → duration → management condition. The Viderehan and Ferrehan restriction is correct on this holding and is not a template line.
@@ -412,7 +412,7 @@ Some sorrows are about what happened. Broken Mirror is about what was refused �
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Re-verify after every authorised viewing, expansion, or unusual interaction: gauge, radius edge from the case, the crack overlay, frame residue, vault responses in the stacks, and the viewer's counsellor notes at seven and twenty-eight days. The overlay is traced by two people independently; a new crack found by only one is logged as found by one.
 ## Watch Record
@@ -455,7 +455,7 @@ The descendants' claim was brought in the fifth year and is the only litigation 
 
 They got neither, for reasons that have nothing to do with the Archive's conduct.
 
-**Re-sealing is impossible**, and the court did not pretend otherwise. The obligation the Keepers undertook became incapable of performance when the vault failed, and an obligation that cannot be performed is discharged. Nobody is in breach. The contract simply stops, at the moment of the failure, for both sides at once.
+**Re-sealing is impossible**, and the court did not pretend otherwise. The obligation the Keepers undertook became incapable of performance when the vault failed, and an obligation that cannot be performed is discharged. Nobody is in event. The contract simply stops, at the moment of the failure, for both sides at once.
 
 The fees were the real argument, and it turned on a point the families had not expected. Money paid under a contract that is later discharged is recoverable where the payer **got nothing at all** for it. These payers got something. They got years — in most cases decades — of not remembering, which is precisely and entirely what they had bought. The service was rendered, fully, for as long as it was capable of being rendered. **A failure of consideration that is partial is not a failure**, and the fee was never apportioned by year because nobody had ever imagined the vault opening.
 

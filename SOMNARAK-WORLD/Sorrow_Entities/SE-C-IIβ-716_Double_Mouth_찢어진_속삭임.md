@@ -95,7 +95,7 @@
 - Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resilience** and feeding the Sorrow Gauge.
 - The longer the exposure, the deeper the wound: Double Mouth’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
 - The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Double Mouth’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- Failure to achieve resolution triggers Double Mouth’s event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow deepens where it already is and the zone becomes unworkable.
 
 ## Appearance
 **Primary Form:** An ethereal voice divided into two tones, one whispering and one burning with anger.
@@ -146,14 +146,14 @@
 The gauge moves on this holding and says little. The figure that is kept is the tone count: how many observations in a hundred, at fixed hours, carry the burning tone rather than the whisper. 38, then 52, then 61 across three years. The Watch Record declined for two decades to call that a trend, on the correct ground that the sampling was uneven; the sampling was regularised in Year 4235 and the refusal no longer applies.
 
 **Reading the response:** A good cycle leaves two sheets that disagree and nobody in the room who tried to fix that. The failure mode is not panic; it is a recorder who, at the desk afterwards, quietly makes the sheets match.
-## Breach Behavior
+## Containment Event Behavior
 
 > *"It is out of the room and into the Commons. Nobody is to argue with it. Rotate anyone who has worked it before."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
-| **Movement** | It spreads into the Commons conversation, speaking its account into exchanges already happening. There is no pursuit and no physical contact; the Threat Assessment's 'no physical attacks' holds in breach as well. |
+| **Event Type** | Transformation in place |
+| **Movement** | It spreads into the Commons conversation, speaking its account into exchanges already happening. There is no pursuit and no physical contact; the Threat Assessment's 'no physical attacks' holds in event as well. |
 | **Effect** | Everyone in hearing becomes certain of something they cannot support, and says it. |
 | **Secondary Effect** | Old complaints are re-lodged across the sector in a single day, each one accurate, none of them provable. |
 | **First Target** | Whoever it has been heard by before. Familiarity, not proximity, which is why the rotation rule exists. |
@@ -161,9 +161,9 @@ The gauge moves on this holding and says little. The figure that is kept is the 
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
 - **Containment priority:** Rotate previously exposed personnel out of the sector. No suppression and no contradiction: the one reliable way to make this holding worse is to tell it that it is wrong.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each half-heard phrase a listener finishes for it. Listeners do this without noticing and report it as their own thought.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% for each half-heard phrase a listener finishes for it. Listeners do this without noticing and report it as their own thought.
 
 ## M.A.W. Equipment
 
@@ -361,7 +361,7 @@ Those who hear both channels feel the specific vertigo of a system working as de
 **Common Name:** Double Mouth
 **Containment Status:** Contained — Zone D, Mantle Commons
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). No physical attacks in twenty years of record. Testimony pressure: listeners finish its half-heard phrases, report the result as their own certainty, and lodge accurate unprovable complaints across the sector after a breach.
+**Threat Assessment:** Moderate (β). No physical attacks in twenty years of record. Testimony pressure: listeners finish its half-heard phrases, report the result as their own certainty, and lodge accurate unprovable complaints across the sector after a event.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan are the working types, Viderehan for counting. Pugnahan was recorded as valid here and is contradiction by another name; the Behavior table marks it Increase and the Watch Record forbids it.
 - Do not assign personnel with an open complaint of their own, in either direction, and rotate anyone it has already heard.
@@ -375,9 +375,9 @@ Those who hear both channels feel the specific vertigo of a system working as de
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the containment-event protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Review protocol: following any a transformation in place, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every a transformation in place, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
 ### Two Tones
@@ -427,7 +427,7 @@ Someone reported an injustice and was not believed, and the memory tore in two, 
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone D, Mantle Commons.
 - **Recognition detail:** Identify it by the two tones and the bearing spread. Do not identify it by content: both voices say true things and the truth of what they say has never been establishable.
 - **Record detail:** Two channels, recorded separately, reconciled at the Commons desk and not in the room. A reconciliation performed in the entity's hearing has escalated it on every occasion it has been attempted, which is three.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment is not silence. Even without an event, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-716

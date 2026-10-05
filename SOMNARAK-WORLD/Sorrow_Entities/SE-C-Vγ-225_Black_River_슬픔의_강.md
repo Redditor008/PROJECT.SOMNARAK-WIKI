@@ -95,7 +95,7 @@
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resolve**, funneling cognitive instability back into the Sorrow Gauge.
 - Black River’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
 - Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Black River's dossier.
+- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Black River's dossier.
 
 ## Appearance
 **Physical Form:** A vast underground river of black liquid sorrow, running under the whole city the way blood runs under skin. **Movement:** slow, dense, bankless, always toward the Weeping.
@@ -162,7 +162,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern is specific to Black River: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at SECTOR-A-01, beneath the Alpha Tree — The Weeping, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Black River: it is not a generic containment event. Personnel must record the first trigger, the first visible change in the Place-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at SECTOR-A-01, beneath the Alpha Tree — The Weeping, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
 
 **Response sequence:** Do not pump; it returns angrier. Do not speak into it; it answers in the voices of the dead. Hold position, bring to mind one person you have mourned properly, and mean it — the Drowning Vigil doctrine, written during the Vigil, which is why it reads the way it does.
 
@@ -240,7 +240,7 @@ The escalation pattern is specific to Black River: it is not a generic breach ev
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Black River's element. No protocol produces Stigmas. They emerge from Black River's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Black River's element. No protocol produces Stigmas. They emerge from Black River's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
@@ -384,9 +384,9 @@ Some sorrows are about human loss. Black River is about loss itself — the grie
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every a manifestation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Sovereign Manifestation Log
 
 The Black River is not visited; it is sounded. No expedition has ever reached its banks and returned with anything but depth readings, and the readings agree on only one fact: the River is deeper than the instruments. Its manifestations arrive downstream — a darkening of the ward-flows, a sudden cold in the extraction manifolds, entities across the facility turning at once toward the sound of moving water only they can hear. The ledger's oldest entry, predating the Directorate's seal, is a single line in an unknown hand: *"Today the River rose, and eleven new sorrows were found in the wards by evening."*
@@ -427,7 +427,7 @@ The standing myth among River crews is that every tear shed in Somnarak eventual
 
 ### The Tributaries
 
-No sorrow reaches the River unmarked, and the Directorate has spent generations mapping the streams that feed it. The Tributaries — as the survey office calls them — are the lesser entities, sites, and practices that channel grief downward into the black current. Some are entities in their own right, catalogued separately, whose breach behavior includes weeping into the drains, the foundations, the open earth. Some are places: the old burial grounds, the memorial steps, the unmarked stretch of riverbank where the city has always gone to grieve privately. And some are merely habits — the night-shift custom of pouring out a cup at shift change, the counselors' practice of conducting final sessions at ground level — small rituals that, multiplied by thousands of workers over hundreds of cycles, have worn grief-channels into the city the way water wears stone.
+No sorrow reaches the River unmarked, and the Directorate has spent generations mapping the streams that feed it. The Tributaries — as the survey office calls them — are the lesser entities, sites, and practices that channel grief downward into the black current. Some are entities in their own right, catalogued separately, whose containment-event behaviour includes weeping into the drains, the foundations, the open earth. Some are places: the old burial grounds, the memorial steps, the unmarked stretch of riverbank where the city has always gone to grieve privately. And some are merely habits — the night-shift custom of pouring out a cup at shift change, the counselors' practice of conducting final sessions at ground level — small rituals that, multiplied by thousands of workers over hundreds of cycles, have worn grief-channels into the city the way water wears stone.
 
 The deep gauge network exists to listen to these tributaries. Sounding stations ring the oldest districts, each one a sealed shaft with a weighted line, a listening bell, and a reader trained to distinguish the River's own tone from the voices of what feeds it. The readers are a peculiar order within the Directorate: selected for hearing, retired early for dreams, honored at a level their pay grade does not explain. Their logs are the archive's strangest holding — thousands of pages describing tones, temperatures, and "the taste of the line," annotated with grief classifications no instrument can verify and no Warden has ever overruled. When the readers report that a tributary has gone silent, the Directorate investigates, because a grief that stops flowing has not stopped existing. It has dammed. And dams, on the River, are how vigils begin.
 

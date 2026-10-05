@@ -199,13 +199,13 @@ There is no escalation pattern and the room has stopped pretending to one. There
 | **Management** | Measure, chalk, photograph, send the figure unrounded. Compulsory taking of bereavement leave within sixty days, no commutation, no deferral, no buy-back, is a containment condition of this holding and binds the whole establishment. |
 
 **Activation reporting order:** the overnight crawl in centimetres → the bearing in degrees → the roster that bearing points at → that roster's untaken-leave balance in days → whether the Seed is touching anything. Nothing else is reportable, because nothing else about this holding has ever changed. Viderehan and Ferrehan only; Flerehan and Pugnahan are structurally impossible on an object.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Nothing has broken free. It got as far as the wall once and leaned on it for eleven days, and we have been arguing about what that meant ever since."*
+> *"Manifestation event in progress. Nothing is present where it is present and is not travelling."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | None on record. Boundary contact only — Year 4229, eleven days. |
+| **Event Type** | Manifestation in place |
 | **Movement** | 4–31 cm per night on one tendril, along a single bearing. It has never crossed the bed's edge and it stops at any obstruction. |
 | **Effect** | A low ambient Weight pressure in the chamber, constant, unchanged by anything anybody has done to it. |
 | **Secondary Effect** | None measured. The old entry asserting accelerated debt and decay has no reading behind it in two hundred and sixty years of logs. |
@@ -216,7 +216,7 @@ There is no escalation pattern and the room has stopped pretending to one. There
 
 - **Event type (non-breach):** There has been no breach in two hundred and sixty years of record and the room does not expect one. What is filed under this heading is the single event of Year 4229, when the Seed reached the chamber wall, stopped, and stayed against it for eleven days with its tendril against the stone and a mender's accrual of one hundred and four untaken days on the other side of it.
 - **Containment priority:** No physical suppression, no Wardens, no Pugnahan — Pugnahan is structurally impossible on an object and the earlier entry prescribing it was prescribing an N/A row. The priority is that the figure reaches the duty office.
-- **Sorrow Gauge on breach:** In the Year 4229 event the gauge moved from 31% to 38% over eleven days and returned to 30% within a week of the mender being sent home on compulsory leave. It is the only gauge movement on file that anybody has been able to attach to a cause.
+- **Sorrow Gauge on event:** In the Year 4229 event the gauge moved from 31% to 38% over eleven days and returned to 30% within a week of the mender being sent home on compulsory leave. It is the only gauge movement on file that anybody has been able to attach to a cause.
 
 ## M.A.W. Equipment
 
@@ -274,7 +274,7 @@ There is no escalation pattern and the room has stopped pretending to one. There
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Sorrow Seed's element. No protocol produces Stigmas. They emerge from Sorrow Seed's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Sorrow Seed's element. No protocol produces Stigmas. They emerge from Sorrow Seed's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
@@ -415,7 +415,7 @@ Some sorrows are about what happened. This one is about what was never done abou
 **Common Name:** Sorrow Seed
 **Containment Status:** Contained — Zone D, Echo Gardens, bare enclosure; mobile within its bed, chalked and photographed nightly, never lifted and never planted
 **Comprehension Level:** 1 — Initial. The Registrum's earlier entry of Level 4 contradicted the SECC header and has been corrected to it.
-**Threat Assessment:** Minor (α), corrected from the earlier Entity (IV) / Major (γ) Registrum entry, which contradicted the header in both fields. In two hundred and sixty years it has injured nobody, bound nobody, grown nothing and breached never. It is consequential because its bearing is the only instrument this facility possesses for unspent bereavement leave, and because the rule written on the strength of that bearing has cost four hundred and eight of the lowest-paid workers in the establishment a median nineteen days' pay.
+**Threat Assessment:** Minor (α), corrected from the earlier Entity (IV) / Major (γ) Registrum entry, which contradicted the header in both fields. In two hundred and sixty years it has injured nobody, bound nobody, grown nothing and escalated never. It is consequential because its bearing is the only instrument this facility possesses for unspent bereavement leave, and because the rule written on the strength of that bearing has cost four hundred and eight of the lowest-paid workers in the establishment a median nineteen days' pay.
 **Containment & Handling Procedures:**
 - Ferrehan is primary; Viderehan is the reading instrument. The earlier entry naming Viderehan primary contradicted the Behavior table and has been corrected.
 - Crawl and bearing chalked, photographed and measured by two observers before anything else; both figures entered, neither averaged, both sent unrounded.

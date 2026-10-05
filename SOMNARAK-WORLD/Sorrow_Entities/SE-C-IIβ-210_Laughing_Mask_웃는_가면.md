@@ -96,7 +96,7 @@
 - The failure here is performing. A joke told at it, a laugh produced to fill the silence, a routine — all eleven strikes on file began with somebody being entertaining.
 - The effect does not intensify with duration. It intensifies with mandated cheer. The reading rises for every shift worked anywhere in the district under an instruction to appear pleasant — the Market's trading rules, the facility's own front-counter standard — and it does not distinguish between a rule enforced and a rule merely in force.
 - The lens, the veil and the facade all come out of a performance that outlasted its performer, and each use borrows a measure of it. The operator keeps what they borrow: they become easier company and harder to read, in that order.
-- An unworked cycle does not breach. The laugh simply goes on, as it has for nine years, and the next cycle opens two or three points higher.
+- An unworked cycle does not event. The laugh simply goes on, as it has for nine years, and the next cycle opens two or three points higher.
 
 ## Appearance
 **Physical Form:** A bright painted mask that laughs without pause, weeping even as it laughs. **Movement:** Stationary when unworn — a mask moves only with the wearer.
@@ -387,7 +387,7 @@ Some sorrows weep. Laughing Mask laughs — and the laughing is the sorrow, pres
 **Common Name:** Laughing Mask
 **Containment Status:** Contained — Mask Market (Masked Troupe)
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Low. The Mask laughs. Effect: visitors feel warmth, then hollowness. No breach.
+**Threat Assessment:** Low. The Mask laughs. Effect: visitors feel warmth, then hollowness. No event.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
 - The laugh is infectious; monitor personnel mood.

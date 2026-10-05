@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Flerehan and Ferrehan, walked alongside. Pugnahan adds the worker's anger to the entity's mass and is prohibited outside a breach. |
+| **Recommended response** | Flerehan and Ferrehan, walked alongside. Pugnahan adds the worker's anger to the entity's mass and is prohibited outside a event. |
 
 ### Operational Notes
 
@@ -145,14 +145,14 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Walking Calendar is recorded as a Subject with Subject-Body manifestation and Weight elemental expression. The current record places it at SECTOR-A-01, Alpha Tree deep storage; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
-## Breach Behavior
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede events. Log them, flag them, and adjust protocols accordingly before the next assignment.
+## Containment Event Behavior
 
 > *"Walking Calendar is pulsing. It has not left the run. Get the shoring in and let it finish."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corruption of its own zone |
 | **Movement** | It stays where it is and pulses, cracking the walls around it. It does not pursue, has never pursued, and cannot catch anybody walking away from it. |
 | **Effect** | Floors buckle, walls bow inward, and every step in the sector costs what three should. |
 | **Secondary Effect** | Breathing becomes lifting, and personnel two corridors out report the same sensation at a third of the strength. |
@@ -161,9 +161,9 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corruption of its own zone. The zone warps and the warping spreads inside it; nothing walks out.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per interval unaddressed, and rises faster in the weeks either side of an opening date.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% per interval unaddressed, and rises faster in the weeks either side of an opening date.
 
 ## M.A.W. Equipment
 
@@ -184,7 +184,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** The multiplier applies to direct damage and to Tick damage separately, and the Tick here is cumulative age rather than bleeding — a shoring lead who carries the Maul through two breaches is stood down for a season by standing order.
+**Damage Application:** The multiplier applies to direct damage and to Tick damage separately, and the Tick here is cumulative age rather than bleeding — a shoring lead who carries the Maul through two events is stood down for a season by standing order.
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Walking Calendar's weight signature in the strike.
 
@@ -280,7 +280,7 @@ Management: read the current opening list aloud in the chamber, in full, to the 
 **Entry 5 — <Director's Memo, Eyes Only>**
 I have had the date sheets checked against the record office's expiry schedule and they match to within the year. The thing in the long chamber is singing our opening list. Not the history we hid — we hid nothing, that is the point and it is the Directorate's one honest boast — the history we scheduled. Ninety years from deposit, automatic, no officer able to stop it, and by the time the door comes open there is nobody left to put a question to and nobody left who was owed an answer. We did not lie. We dated the truth past everybody it belonged to. Do not circulate this. I am aware of what that instruction looks like at the bottom of this particular memo.
 
-**Threat rating:** Critical (δ). A slow, non-pursuing body whose mass rises with its own movement and whose breach buckles floors and bows walls. Effect: proximity loads the worker with inherited complicity, every generation's share at once, as an oppressive mass that makes breathing feel like lifting.
+**Threat rating:** Critical (δ). A slow, non-pursuing body whose mass rises with its own movement and whose event buckles floors and bows walls. Effect: proximity loads the worker with inherited complicity, every generation's share at once, as an oppressive mass that makes breathing feel like lifting.
 
 ## 최종 관찰 (Final Observation)
 
@@ -356,7 +356,7 @@ Some sorrows are personal. This one is a schedule. It is not the shape of a city
 **Common Name:** Walking Calendar
 **Containment Status:** Contained — Zone A
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Critical (δ). Facility-threatening by mass and by breach, with no pursuit anywhere in the record. Effect: proximity loads the worker with a history they inherited, cannot discharge, and cannot have answered.
+**Threat Assessment:** Critical (δ). Facility-threatening by mass and by event, with no pursuit anywhere in the record. Effect: proximity loads the worker with a history they inherited, cannot discharge, and cannot have answered.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type and Flerehan the alternate; both are worked walking, at its pace, the length of the run.
 - The figure walks continuously and sings continuously. It does not speak, and no cycle has ever produced a word from it that was not a year.
@@ -369,9 +369,9 @@ Some sorrows are personal. This one is a schedule. It is not the shape of a city
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** The review requirement: every a corruption event, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every a corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Apex Record
 
 ### Each Step Adds a Year
@@ -392,7 +392,7 @@ Viderehan work reveals histories the city no longer carries, and the material is
 
 ### Pulsing in Place
 
-Its breach is a Corrupt rather than an escape: it pulses with concentrated force, cracking the walls around it, while the floor buckles and every step becomes effort. Response is structural, conducted by shoring crews under the weight-discipline doctrine, with the Years Maul carried by the shoring lead. The doctrine's instruction is to let the pulse run and keep the structure standing, and it is justified in the file by the only argument that has ever applied here: the entity is the accumulated weight of unacknowledged years, and the Directorate has no mechanism for acknowledging them fast enough to matter during a breach. What it has is shoring timber, and crews who know how to use it.
+Its breach is a Corrupt rather than an escape: it pulses with concentrated force, cracking the walls around it, while the floor buckles and every step becomes effort. Response is structural, conducted by shoring crews under the weight-discipline doctrine, with the Years Maul carried by the shoring lead. The doctrine's instruction is to let the pulse run and keep the structure standing, and it is justified in the file by the only argument that has ever applied here: the entity is the accumulated weight of unacknowledged years, and the Directorate has no mechanism for acknowledging them fast enough to matter during an event. What it has is shoring timber, and crews who know how to use it.
 
 ### The Long Chamber
 
@@ -442,7 +442,7 @@ Three standing instructions govern the reading. Do not stop before the end; a pa
 - **Classification detail:** Walking Calendar is a Subject with Entity (IV) — Ancient and weary coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-A-01, Alpha Tree deep storage.
 - **Recognition detail:** A bowed figure under fused slabs, calendars and city records, walking a straight line at the pace of an old man, singing years in order.
-- **Record detail:** The Registrum rated the entity Low on a Critical (δ) line and stated that the figure does not move or speak, against a file in which it walks continuously and sings; both are corrected. The breach rows claiming indiscriminate hunting are corrected against the Pulsing in Place doctrine, which the Apex Record settled years ago and which the breach table had never been brought into line with. The Origin and Entry 5 paragraphs carried a Collector story belonging to another holding, twice, with a duplicated heading inside one of them. The Apex Record, the traverse tally, the long chamber and the parallel record-office log are preserved and extended.
+- **Record detail:** The Registrum rated the entity Low on a Critical (δ) line and stated that the figure does not move or speak, against a file in which it walks continuously and sings; both are corrected. The event rows claiming indiscriminate hunting are corrected against the Pulsing in Place doctrine, which the Apex Record settled years ago and which the event table had never been brought into line with. The Origin and Entry 5 paragraphs carried a Collector story belonging to another holding, twice, with a duplicated heading inside one of them. The Apex Record, the traverse tally, the long chamber and the parallel record-office log are preserved and extended.
 - **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | 4 — counts down; the fourth ignored condition breaches it |
+| **Activation threshold** | 4 — counts down; the fourth ignored condition events it |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -95,7 +95,7 @@
 - Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
 - Extended contact risks Unheard’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
 - Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Unheard defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Without timely resolution, Unheard defaults to its documented activation or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
 **Primary Form:** Nothing to see. A weight that moves along the Row at walking pace, taking the sound out of the air as it comes. **Temperature:** cold without any draught, and the cold arrives before the quiet does.
@@ -146,13 +146,13 @@
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Unheard is recorded as a Subject with Subject-Weight manifestation and Grudge elemental expression. The current record places it at Zone C, Collector's Row; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Unheard has broken free. The Row has gone quiet to the stairwell."*
+> *"Transformation event in progress. Unheard is changing the space around itself and staying in it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
+| **Event Type** | Transformation in place |
 | **Movement** | It goes through the walls and fills the corridors. It does not pursue anybody; the radius simply grows until the floor is inside it. |
 | **Effect** | The pressure turns physical: plaster cracks, ears bleed, and personnel are injured without a sound being made. |
 | **Secondary Effect** | It bears hardest on anyone carrying an unfinished dispute, and the Row watch's own members are routinely the worst affected. |
@@ -163,7 +163,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 - **Event type (non-breach):** Transform. The hush becomes a pressure with physical effect; nothing escapes and nothing hunts, but the volume it occupies increases without limit.
 - **Containment priority:** Flerehan and Ferrehan, worked in sequence from the radius edge, and a standing order that nobody shouts. Shouting has lengthened every recorded event.
-- **Sorrow Gauge on breach:** Opens at 40 per cent and takes 10 more each interval it is left alone. It falls only when a crew stops working and listens, which is in the doctrine and is the only instruction in it that personnel resist.
+- **Sorrow Gauge on event:** Opens at 40 per cent and takes 10 more each interval it is left alone. It falls only when a crew stops working and listens, which is in the doctrine and is the only instruction in it that personnel resist.
 
 ## M.A.W. Equipment
 
@@ -358,7 +358,7 @@ Some sorrows are about being silenced. Unheard is about the absorption — the p
 **Common Name:** Unheard
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Minor (α) in ordinary conditions and materially worse on breach, when the pressure turns physical and injures without sound. Proximity induces the pressure of words that were said and went nowhere.
+**Threat Assessment:** Minor (α) in ordinary conditions and materially worse on event, when the pressure turns physical and injures without sound. Proximity induces the pressure of words that were said and went nowhere.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type and Ferrehan the alternate. Viderehan is run for record; Pugnahan is barred.
 - It cannot be enclosed, only measured. The radius is the containment and the radius is somebody else's figure.
@@ -370,9 +370,9 @@ Some sorrows are about being silenced. Unheard is about the absorption — the p
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any a transformation in place, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every a transformation in place, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Hearing Record
 
 ### Measuring a Thing That Is Not There
@@ -410,7 +410,7 @@ The clerks asked for one sentence. A single permitted phrase: *you may wish to c
 - **Classification detail:** Unheard is a Subject with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone C, Collector's Row.
 - **Recognition detail:** No body and nothing to see — a travelling hush along Collector's Row, cold without draught, in which ordinary speech stops carrying at a measurable distance.
-- **Record detail:** The Registrum read Echo (II) and Moderate (β) against a Residue (I), Minor (α) header and gave Comprehension Level 2 against 1 — Initial; it also named Viderehan primary where Flerehan and Ferrehan move the gauge. The breach quotation named *Flowing Silence*, an earlier designation, and described indiscriminate hunting on a Transform holding that does not pursue. The M.A.W. grade was blank against three α pieces. All corrected.
+- **Record detail:** The Registrum read Echo (II) and Moderate (β) against a Residue (I), Minor (α) header and gave Comprehension Level 2 against 1 — Initial; it also named Viderehan primary where Flerehan and Ferrehan move the gauge. The event quotation named *Flowing Silence*, an earlier designation, and described indiscriminate hunting on a Transform holding that does not pursue. The M.A.W. grade was blank against three α pieces. All corrected.
 - **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

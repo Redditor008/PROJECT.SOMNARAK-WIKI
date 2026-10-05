@@ -95,7 +95,7 @@
 - Composure fails here as certainty. The worker becomes sure of a name, writes it with confidence, and finds at the comparison that they are the only one who wrote it that way.
 - Long exposure produces a worker who will not leave an account out of a file. Twenty-six Wardens rotated off this holding were afterwards found entering uncorroborated statements on permanent records, and the records board's objection to the containment rule names all twenty-six by number.
 - The set costs small nameless memories, a day of feeling absent to yourself, and the hearing of every unspoken name nearby. The armoury's note records them in one line and records in a second that the thread's cost is the one bearers choose to keep.
-- There is nothing to breach out of. The holding is ambient across a district that people live in, and what the file calls escalation is a count on a slate that nobody can feel.
+- There is nothing to event out of. The holding is ambient across a district that people live in, and what the file calls escalation is a count on a slate that nobody can feel.
 
 ## Appearance
 **Primary Form:** A fading voice and partial silhouette that appears when someone tries to remember a name.
@@ -149,13 +149,13 @@
 Every Work Type on this holding is performed in writing. Earlier versions of this table had Flerehan working by repetition and the Resolution Condition requiring the name to be spoken aloud, both of which instruct personnel to do the one thing that destroys the holding's only recoverable material, and both stood for years beside a Watch Record whose first line is a prohibition on speech. They have been reconciled in favour of the prohibition.
 
 **Reading the response:** The gauge measures one worker for one watch. The divergence measures how much of what people say about themselves this facility is willing to write down. They are kept in separate columns, they have never moved together, and a watch that lowers the gauge in a month of twenty disagreements is written up as a good watch without qualification.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"It has not broken free. There is nothing for it to be free of: it is ambient across a district of eleven thousand people and always has been. The sentence under this one was copied from a Transform-class template in Year 4220 and four assessors have noticed it since."* — Archive Lead
+> *"It has not escalated in place. There is nothing for it to be free of: it is ambient across a district of eleven thousand people and always has been. The sentence under this one was copied from a Transform-class template in Year 4220 and four assessors have noticed it since."* — Archive Lead
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
+| **Event Type** | Transformation in place |
 | **Movement** | Modelled as spread. Observed: nothing. It is already everywhere in the district and has been for eighteen years, and the word containment appears on this file as a convention rather than a description. |
 | **Effect** | Modelled. What is observed is narrower and worse: people in the district lose names they are reaching for, one at a time, and recover them within the hour unless they said them out loud. |
 | **Secondary Effect** | The divergence rising. It is the only thing about this holding that has ever been seen to escalate, and it escalates against a records column rather than against anything in the district. |
@@ -166,7 +166,7 @@ Every Work Type on this holding is performed in writing. Earlier versions of thi
 
 - **Event type (non-breach):** Transform, copied from a template in Year 4220 and never observed. It has no form to shift. The classification has been queried four times and left standing four times because nobody could propose a better one, and the queries are in the folder.
 - **Containment priority:** Silence, slates, and the three copies checked. There is no reality to stabilise; the only containment this holding has ever had is paper, and the file says so in those terms.
-- **Sorrow Gauge on breach:** Modelled at 40% opening, rising 10% per turn. Never tested. There is nothing to escape from; the holding is ambient across a district and the model was copied from a Transform-class template in Year 4220.
+- **Sorrow Gauge on event:** Modelled at 40% opening, rising 10% per turn. Never tested. There is nothing to escape from; the holding is ambient across a district and the model was copied from a Transform-class template in Year 4220.
 
 ## M.A.W. Equipment
 

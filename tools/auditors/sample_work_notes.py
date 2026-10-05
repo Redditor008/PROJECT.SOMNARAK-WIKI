@@ -12,7 +12,9 @@ for f in files:
         sampled += 1
         print(f"=== SAMPLE {sampled}: {f} ===")
         idx = txt.find("### Operational Work Notes")
-        end = txt.find("## Breach Behavior", idx)
+        end = txt.find("## Containment Event Behavior", idx)
+        if end == -1:
+            end = txt.find("## Breach Behavior", idx)
         if end == -1: end = idx + 1000
         print(txt[idx:end])
         if sampled >= 3:

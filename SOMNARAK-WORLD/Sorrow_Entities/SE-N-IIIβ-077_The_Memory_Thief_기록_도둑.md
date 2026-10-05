@@ -40,7 +40,7 @@
 
 - It takes the particular and leaves the frame: you know you had a sister, you know you saw her face daily, and the face is gone. Of 318 confirmed losses only 31 were noticed by the person before the page was read back to them.
 - A worked cycle slows the rate and recovers nothing. Nineteen memories have come back in the whole record and all nineteen were traded for, not worked for.
-- Three ignored conditions escalate it, and the escalation looks like a crew arguing about what happened an hour ago rather than like a breach.
+- Three ignored conditions escalate it, and the escalation looks like a crew arguing about what happened an hour ago rather than like a event.
 - Notes are written in the room, sealed in the room, and compared at the desk. No report on this holding is ever written from recollection.
 - Extraction is authorised separately and never against a watch, and the extracting party files baseline pages like everybody else.
 
@@ -95,7 +95,7 @@
 - When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Composure** shatters into a psychological Fracture—a catastrophic dual failure.
 - Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
 - Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting as a transformation in place, expansion inside its own boundary, and rapid escalation.
 
 ## Appearance
 **Primary Form:** A small shadowy figure, always in motion, with a blur where a face should be. **Sighting:** it resolves at the edge of vision and dissolves under a direct look, which is a property of the entity and not of the observer.
@@ -151,27 +151,27 @@
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. The Memory Thief is recorded as a Subject with Subject-Phantasmal manifestation and Void elemental expression. The current record places it at SECTOR-C-01, Collector's Row — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+A stable gauge does not mean a safe encounter. Cross-reference Work Types with the activation threshold and M.A.W. cost before assigning personnel. The Memory Thief is recorded as a Subject with Subject-Phantasmal manifestation and Void elemental expression. The current record places it at SECTOR-C-01, Collector's Row — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"The Memory Thief has broken free. Steals memories from everyone it passes."*
+> *"Transformation event in progress. The Memory Thief is changing the space around itself and staying in it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform — the room's record of itself alters; the entity does not. |
+| **Event Type** | Transformation in place |
 | **Movement** | It leaves by the nearest unattended opening at speed and takes from everybody on the way out. It does not seek anybody and has never doubled back. |
 | **Effect** | Particulars go missing across a corridor at once — names off badges people have worn for years, the route to a room they work in. |
 | **Secondary Effect** | Crews stop agreeing about the last hour, which is how a loose Thief is usually detected at all. |
 | **First Target** | Nobody in particular. Everyone on its path loses something small; people two metres off the path lose nothing. |
-| **Escalation** | Clarity drain rises 5 a turn while it is loose and stops the moment it is attended to; it has never had to be suppressed by force. |
+| **Escalation** | Clarity drain rises 5 a turn while it is in an event state and stops the moment it is attended to; it has never had to be suppressed by force. |
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Attend it. Put two observers in the room and the movement stops being a breach; there is nothing to seal and nothing to subdue.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a turn while it is loose. It falls 10% for every memory an exchange recovers, which is the only downward movement recorded, and the exchanges that worked were all conducted by the person who had lost the memory.
+- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
+- **Containment priority:** Attend it. Put two observers in the room and the movement stops being a event; there is nothing to seal and nothing to subdue.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% a turn while it is in an event state. It falls 10% for every memory an exchange recovers, which is the only downward movement recorded, and the exchanges that worked were all conducted by the person who had lost the memory.
 
 ## M.A.W. Equipment
 
@@ -254,7 +254,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 **Key Observations:**
 - It is quick, hard to see and has never confronted anybody in the life of the holding.
-- It has never breached by force. It leaves when nobody is watching, which is a containment problem of a kind the wing is not equipped for.
+- It has never escalated by force. It leaves when nobody is watching, which is a containment problem of a kind the wing is not equipped for.
 - Fix rates roughly double through a Tide and the confirmed-loss rate does not change, which nobody has explained.
 - Long-posted Wardens become noticeably protective of other people's small particulars and conspicuously careless with their own.
 
@@ -378,9 +378,9 @@ Some sorrows are about losing memory. The Memory Thief is about the fear of losi
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and containment-event behaviour must be read as one interconnected system. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every a transformation in place, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
 ### Difficult to See Directly

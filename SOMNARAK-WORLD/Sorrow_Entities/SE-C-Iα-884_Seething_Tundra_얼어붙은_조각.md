@@ -96,7 +96,7 @@
 - The failure here is carrying the anger out of the room without naming it. It is not dramatic: the worker simply leaves annoyed, about something real, at somebody who exists.
 - Past about fifteen minutes the grievance acquires detail that was not in it — a date, a room, a thing somebody said — and the detail is consistent between workers, which is how the Gardens knows the memory is the mourner's and not theirs.
 - The set's cost is in the ledger and is domestic: wielders keep things. Small objects, for no reason they can give, and they are unable to throw them away.
-- An unresolved cycle does not breach anything. It adds a tear. The count has gone from 31 at first survey to 38, and every one of the seven additions followed a cycle in which somebody left without saying whose anger it was.
+- An unresolved cycle does not event anything. It adds a tear. The count has gone from 31 at first survey to 38, and every one of the seven additions followed a cycle in which somebody left without saying whose anger it was.
 
 ## Appearance
 **Physical Form:** A clear-white shard of crystallized rage, cold to the touch and marked by tiny trapped tears.

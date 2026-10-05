@@ -95,7 +95,7 @@
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Composure**, funneling cognitive instability back into the Sorrow Gauge.
 - Willing Chains’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
 - Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Willing Chains's dossier.
+- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Willing Chains's dossier.
 
 ## Appearance
 **Primary Form:** A burning figure covered in black chains that spread across walls and floors. Its body remains motionless while the chains move.
@@ -146,13 +146,13 @@
 Willing Chains is a Subject with Subject-Grudge manifestation and Void expression, registered as ambient in Old Lament. All four Work Types are available in principle and only three are used. Flerehan and Ferrehan lower the gauge and do it differently: the first eases the grip for a shift, the second asks a worker to stand in a warmth that is lying to them and not settle into it.
 
 **Reading the response:** A falling gauge presents as slack — links lying looser, the fire low, the extent unchanged at the next survey. Nothing is released; the entity has never let go of anything. A rising gauge presents as reach: new surface crossed between surveys, usually after a confrontation or after a worker has spent a long shift in the room feeling comfortable. Log the extent before anything else, because the metres do not come back.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Willing Chains has broken free. The binding is spreading and the figure has not moved."*
+> *"Corruption event in progress. Willing Chains is turning the zone it stands in; nothing has left it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corruption of its own zone |
 | **Movement** | The figure stays where it is. What expands is the bound volume around it, which warps outward and takes in whatever surfaces it reaches. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
@@ -163,7 +163,7 @@ Willing Chains is a Subject with Subject-Grudge manifestation and Void expressio
 
 - **Event type (non-breach):** Corrupt. The zone itself is altered; the entity does not leave the position it has held throughout the record.
 - **Containment priority:** Seal the affected volume, hold Viderehan and Ferrehan at the edge until the pressure recedes, and plan every route around the chains rather than through them.
-- **Sorrow Gauge on breach:** Opens at 40% and adds 10% a turn until the volume is sealed; it keeps climbing while anybody inside is still being extracted.
+- **Sorrow Gauge on event:** Opens at 40% and adds 10% a turn until the volume is sealed; it keeps climbing while anybody inside is still being extracted.
 
 ## M.A.W. Equipment
 
@@ -280,7 +280,7 @@ Management: Do not cut blindly; identify what each chain represents. Work respon
 The Director's note: *"Every link in that room is open. Nothing is locked, nothing is fastened, and the district it came from was held by instruments that every party signed. I would like the file to stop short of a moral and it never quite does."*
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
 
-**Threat rating:** Critical (δ). Proximity dissolves clarity and installs the sense of a bond that cannot be left; on breach the bound volume warps outward and anybody inside it is held in place.
+**Threat rating:** Critical (δ). Proximity dissolves clarity and installs the sense of a bond that cannot be left; on event the bound volume warps outward and anybody inside it is held in place.
 
 ## 최종 관찰 (Final Observation)
 
@@ -369,7 +369,7 @@ Some sorrows are about freedom lost. Willing Chains is about protection perverte
 
 **Operational interpretation:** Read the extent series, the link counts and the comfort answers together. The first says the binding only ever grows, the second says nothing in it is fastened, and the third is the only early warning the holding has. The hardest fact in the file is the second: a room full of chains that hold because the entity holds them, in a district that was bound by agreements everybody signed. Where the entity does something not described here, log it and leave the contradiction standing.
 
-**Review requirement:** After any breach, Sorrow Tide, transformation attempt or unusual interaction: re-verify the extent against the survey line, the link sample, the exposure log and the gauge. Three further items apply here. The comfort answers are reconciled against the withdrawal count. The displacement map and the alternative routes are walked, not read. And the field office's objection to the reported response time is re-read in full, unaltered.
+**Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the extent against the survey line, the link sample, the exposure log and the gauge. Three further items apply here. The comfort answers are reconciled against the withdrawal count. The displacement map and the alternative routes are walked, not read. And the field office's objection to the reported response time is re-read in full, unaltered.
 ## Apex Record
 
 ### Binding the Room

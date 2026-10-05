@@ -386,7 +386,7 @@ Some sorrows are about silence. Whispering Walls are about the whisper — the h
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Re-verify after every expansion, Tide, or unusual interaction: the boundary against the marked line, the wall runs affected, the occupied-dwelling register, the overlap density, and the acknowledgment log. A rotation that did not acknowledge aloud is recorded as incomplete and is re-walked.
 ## Fabric Record

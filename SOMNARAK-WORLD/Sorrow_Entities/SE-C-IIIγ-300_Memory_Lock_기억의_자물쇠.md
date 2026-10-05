@@ -96,7 +96,7 @@
 - Nobody is harmed here and nothing is forced. The failure is wanting to know, which hardens the plate, and the hardening does not reverse when the worker stops wanting it.
 - Prolonged exposure produces obsession with opening the vault, and it presents as diligence: the worker starts building a case for authorised access, researching the sealing instrument, and offering to help with the engineering assessment. Every step of it is reasonable and the sequence is identical across all five recorded cases.
 - The set keeps whatever it is given and will not return it. Wielders report that something of their own becomes unavailable to them afterwards — not lost, held — and the armoury logs the reports without attempting to establish what was taken, since establishing it would require the wielder to look for it.
-- Unresolved, it does not open, breach, or spread. It hardens, the whisper rate rises, and the pressure in the bay climbs until personnel stop being able to remember why they came down to deep storage, which is why debriefs are taken at the bay door and not at shift end.
+- Unresolved, it does not open, event, or spread. It hardens, the whisper rate rises, and the pressure in the bay climbs until personnel stop being able to remember why they came down to deep storage, which is why debriefs are taken at the bay door and not at shift end.
 
 ## Appearance
 **Physical Form:** A massive lock of dark memory-crystal sealing a vault with no public entrance.
@@ -401,9 +401,9 @@ Some sorrows mourn what was lost. Memory Lock mourns what is known and kept — 
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any an activation, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every an activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
 ### Hardening Against Curiosity

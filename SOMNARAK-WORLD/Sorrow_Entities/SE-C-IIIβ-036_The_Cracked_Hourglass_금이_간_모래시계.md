@@ -411,7 +411,7 @@ Some sorrows mourn what was lost. The Cracked Hourglass mourns what was spent �
 **Common Name:** The Cracked Hourglass
 **Containment Status:** Contained — Alpha Tree deep vault
 **Comprehension Level:** 4 — Mastered
-**Threat Assessment:** Moderate (β). It injures nobody directly and cannot be sealed. It expands by Transform, the crack gains across the record, and the collected volume grows without limit in a room that is now full. The earlier entry describing it as static with no breach contradicts the header and is corrected here.
+**Threat Assessment:** Moderate (β). It injures nobody directly and cannot be sealed. It expands by Transform, the crack gains across the record, and the collected volume grows without limit in a room that is now full. The earlier entry describing it as static with no event contradicts the header and is corrected here.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type and the only one that lowers the gauge; Viderehan holds it level and is the only route to a grain's contents.
 - Fifteen minutes per person per watch, applied to everybody in the vault and not only to the worker, and logged by name at both doors.

@@ -42,7 +42,7 @@
 - No terminus has been found in either direction and the inventory records the length as unmeasured rather than unknown, the distinction being deliberate: forty metres are exposed in the gallery and the rest is in the ground.
 - A cycle settles the links and changes neither the length nor the run. Work has never moved the reading in sixteen years, in either direction.
 - Viderehan and Ferrehan only, and the structural reason is given rather than assumed: the chain has no interiority to grieve with and nothing to confront. Ferrehan lowers the gauge; Viderehan holds it level.
-- No breach counter applies; it is not the kind of thing that breaches. Crews mark their position with chalked tags at ten-link intervals, because the links are indistinguishable by eye and a surveyor who loses their place begins the run again.
+- No breach counter applies; it is not the kind of thing that events. Crews mark their position with chalked tags at ten-link intervals, because the links are indistinguishable by eye and a surveyor who loses their place begins the run again.
 - Extraction draws on link residue under separate authority, granted eleven times, the residue falling in the ten to one hundred kilogram Han Dust band. No link has ever been removed.
 
 ## Combat Record

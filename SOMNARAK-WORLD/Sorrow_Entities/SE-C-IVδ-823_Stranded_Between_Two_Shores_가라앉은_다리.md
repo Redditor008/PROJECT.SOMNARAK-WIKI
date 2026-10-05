@@ -146,13 +146,13 @@
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Stranded Between Two Shores is recorded as a Subject with Subject-Lament manifestation and Lament elemental expression. The current record places it at Zone B, deep tunnels; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** A falling reading under Flerehan or Ferrehan means a worker stayed at one mouth while a colleague stayed at the other and the two of them could hear each other. Stability under Viderehan is correct. The reading rises when the tunnel is worked from one end, when one side's names are read out without the other's, and when anybody attempts the crossing.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Stranded Between Two Shores has broken free. Collapses under anyone who crosses."*
+> *"Corruption event in progress. Stranded Between Two Shores is turning the zone it stands in; nothing has left it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corruption of its own zone |
 | **Movement** | It does not leave the tunnel and does not pursue. It collapses under anyone who steps onto it, re-forms within the hour, and sits lower afterwards. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | Everyone in the tunnel hears voices from the far mouth, and the far mouth hears theirs; neither set of voices belongs to the living teams. |
@@ -161,9 +161,9 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corruption of its own zone. The zone warps and the warping spreads inside it; nothing walks out.
 - **Containment priority:** Hold both mouths and send nobody across. Sealing one end is the one measure that has made an incident longer, and the standing order is that a team which cannot staff both ends does not open the tunnel at all.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% each time a worker sets foot on the span — it gives way beneath them by design, and the fall is survivable. It falls 10% for each pair of personnel holding opposite mouths in voice contact, and the single recorded closure was reached without anyone crossing.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% each time a worker sets foot on the span — it gives way beneath them by design, and the fall is survivable. It falls 10% for each pair of personnel holding opposite mouths in voice contact, and the single recorded closure was reached without anyone crossing.
 
 ## M.A.W. Equipment
 
@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Stranded Between Two Shores as a Subject with Subject-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone B, deep tunnels. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The team records the first visible activation or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Stranded Between Two Shores's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first sign, which is cold rain-smell in a dry tunnel; the first sensation, which is the need to get to the other end; the depth at entry and exit; whether both mouths were held and by whom; and the condition that ends the encounter, which is both shores named aloud in the same session. Record the names in both columns.
@@ -277,7 +277,7 @@ Near side, thirty-one names. Far side, twenty-six. The list is reproduced in the
 Management: Listen between the sobs and name both shores. Work response — Flerehan: Weeps with the worker and lowers its span. (Decrease); Pugnahan: The bridge cracks and the tunnel fills with tears. (Increase); Viderehan: Shows the people who tried to cross. (Stable); Ferrehan: Requires the worker to remain while the sobs subside. (Decrease). The tunnel floor becomes wet without measurable liquid.
 
 **Entry 5 — <Director's Memo, Eyes Only: On Not Sending Anyone Across>**
-The counter on this record is 1. There is no learning curve available: the first crossing is the breach, and every proposal to test the span under load has been refused on that basis rather than on grounds of risk to the volunteer. What is harder to hold is the rest of it. Two teams, two mouths, a full shift of talking across a tunnel to somebody you cannot reach — it reads as an unproductive use of eight people, and it has been queried in budget review three times. The answer given each time is the depth log, which is the only document in this facility where doing nothing in pairs is visibly better than doing something alone.
+The counter on this record is 1. There is no learning curve available: the first crossing is the event, and every proposal to test the span under load has been refused on that basis rather than on grounds of risk to the volunteer. What is harder to hold is the rest of it. Two teams, two mouths, a full shift of talking across a tunnel to somebody you cannot reach — it reads as an unproductive use of eight people, and it has been queried in budget review three times. The answer given each time is the depth log, which is the only document in this facility where doing nothing in pairs is visibly better than doing something alone.
 
 **Threat rating:** Low. A bridge that sank mid-crossing, families split. Effect: proximity induces the grief of journeys ended between one shore and another, with the families divided by the crossing, and a sorrow that pools in the chest.
 
@@ -367,9 +367,9 @@ Some sorrows mourn arrival. Stranded Between Two Shores mourns the in-between �
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map and the territory is a tunnel with two ends. Every figure here follows from how many of them were occupied. The counter is 1, which means the first crossing is the breach; there is no margin here and no second attempt to learn from.
+**Operational interpretation:** This file is a map and the territory is a tunnel with two ends. Every figure here follows from how many of them were occupied. The counter is 1, which means the first crossing is the event; there is no margin here and no second attempt to learn from.
 
-**Review requirement:** Re-verify after any breach, any Sorrow Tide, and any quarterly depth survey that shows a descent greater than the preceding quarter — the last unconditionally, with the shift rosters for the quarter attached, since the descent rate has tracked single-mouth working every time it has been checked.
+**Review requirement:** Re-verify after any event, any Sorrow Tide, and any quarterly depth survey that shows a descent greater than the preceding quarter — the last unconditionally, with the shift rosters for the quarter attached, since the descent rate has tracked single-mouth working every time it has been checked.
 ## Apex Record
 
 ### The Gap Survey

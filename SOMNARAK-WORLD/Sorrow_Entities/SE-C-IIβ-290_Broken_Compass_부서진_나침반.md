@@ -147,7 +147,7 @@
 
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Broken Compass is recorded as an Object/Place with Object-Void manifestation and Void elemental expression. The current record places it at SECTOR-D-01, Forge District; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede events. Log them, flag them, and adjust protocols accordingly before the next assignment.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -187,7 +187,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Compass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-D-01, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Broken Compass: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-D-01, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Widen the discard radius, re-site every bearing station outside it, and discard — do not correct — every bearing taken inside. A corrected bearing from this radius has gone into three maps that had to be withdrawn.
 
@@ -404,9 +404,9 @@ Some sorrows are about losing a place. Broken Compass is about losing direction 
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** The review requirement: every an activation, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every an activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
 ### A Needle That Will Not Settle
@@ -425,7 +425,7 @@ The spin quickens for a holder who is unsure, making the instrument a measure of
 
 The count is taken from the cradle over a fixed interval and the annual means are 38, 46 and 57 revolutions a minute. Nothing else here moves: the needle has never rested, the slowings have always gone toward grief, the crack has always been warm. The series has been set against the district's Han flows, against the survey schedule, against the holding's own work cycles, and matches none of them. It matches the count of workers who held every qualification a vacant post required, in a year, and were not moved into it, because nobody had told them they held it.
 
-No officer of this Company may advise a worker about their own future. Not counsel, not recommend, not encourage, not hint. Posts are filled from the qualification roll without application, by rule and in order, and a supervisor who tells a worker what they ought to do next is in breach whatever they intended. The rule was made for cause and the cause is on the record. Advice from a person who writes your roster is an instruction with deniability; the phrase *I'd stay where you are* ended more careers in the Forge District than any disciplinary code ever did; and before the ordinance the good posts went, with great regularity, to the men whose supervisors had taken an interest in them.
+No officer of this Company may advise a worker about their own future. Not counsel, not recommend, not encourage, not hint. Posts are filled from the qualification roll without application, by rule and in order, and a supervisor who tells a worker what they ought to do next is in event whatever they intended. The rule was made for cause and the cause is on the record. Advice from a person who writes your roster is an instruction with deniability; the phrase *I'd stay where you are* ended more careers in the Forge District than any disciplinary code ever did; and before the ordinance the good posts went, with great regularity, to the men whose supervisors had taken an interest in them.
 
 Its consequence is that there is no one in this building a worker may ask about their own life. The facts are all published and none of them can be read to you. A woman who wants to know whether the furnace ticket is worth the two years can learn the hours, the pay band, the vacancy count and the usual route in, and cannot learn, from any person here, whether she would be any good at it. The uncertain therefore stay exactly where they are, which is what the needle is counting, and it counts faster the less sure the hand nearby happens to be.
 

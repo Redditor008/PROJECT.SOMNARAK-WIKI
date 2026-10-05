@@ -95,7 +95,7 @@
 - Composure does not shatter here; it erodes by subtraction. The worker produces fewer names on request, then fewer, and the loss is painless and unnoticed from the inside. The name check at the door is run on the way out as well as the way in and the two lists are compared by somebody who was not inside.
 - Recovery from the name loss is complete and takes about a day. What does not recover as reliably is the worker's willingness to answer anything. Three Wardens rotated off this holding were afterwards noted leaving routine correspondence unreplied, and the counselors treat that as exposure.
 - The Echo Stone is silent until used, and in its silence the wearer hears calls that are not the entity's. They are their own: requests they received and did not answer. The piece is accordingly not issued to anyone in a supervisory role.
-- An unresolved session leaves the interval shortened into the next watch. It does not breach from that alone. The entity has never injured anyone and has never been observed to try; what it does is make a chamber in which nobody can remember their colleagues' names.
+- An unresolved session leaves the interval shortened into the next watch. It does not event from that alone. The entity has never injured anyone and has never been observed to try; what it does is make a chamber in which nobody can remember their colleagues' names.
 
 ## Appearance
 **Primary Form:** A voice without a stable body. At times a faint translucent outline appears, but the sound is present everywhere and nowhere.
@@ -146,13 +146,13 @@
 Both Work Types that lower the gauge here do so by the worker staying rather than by the worker doing: Flerehan pauses the call, Ferrehan simply tests whether the listening continues. Neither resolves anything and the file does not pretend they do. Pugnahan is the instructive one — it makes the call quieter and more distant and does not stop it, which is precisely the operational history of this entity's origin and the reason confrontation was removed from the standing order in Year 4221.
 
 **Reading the response:** The gauge reports the session and the interval reports the facility's correspondence, and they are kept in separate columns because they have never once moved together. A watch that answers the enclosure will see the gauge drop and the interval unchanged. A quarter in which the Directorate closes out two hundred outstanding requests in writing will see the interval lengthen by a minute with no work done at the Gardens at all.
-## Breach Behavior
+## Containment Event Behavior
 
 > *"Hollow Echo has expanded past the enclosure. It is not pursuing anyone. It is louder, and it is in more places, and the names are going."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
+| **Event Type** | Transformation in place |
 | **Movement** | Expansion rather than escape: the even volume occupies a larger space. It does not pursue, has never pursued, and the word *hunts* appeared in this row for nine years against a Minor-potency ambient voice with no body and no recorded act of aggression. |
 | **Effect** | Names stop being available. Not identity wholesale — names: colleagues, streets, the worker's own, in roughly that order, and returning in reverse over about a day. |
 | **Secondary Effect** | A reluctance to reply to anything, which outlasts the name loss by weeks and is the effect the counselors actually watch for. |
@@ -161,9 +161,9 @@ Both Work Types that lower the gauge here do so by the worker staying rather tha
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
 - **Containment priority:** Answer it. One Warden, the scripted line, read aloud into the enlarged volume. This is the only entity in the wing whose suppression condition is a sentence, and the Directorate has twice attempted to replace it with a physical measure and twice withdrawn the proposal.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn, and the figure is close to meaningless on this holding. The interval is the instrument. During the single recorded expansion it fell to nine seconds and stayed there until the enclosure was answered.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% per turn, and the figure is close to meaningless on this holding. The interval is the instrument. During the single recorded expansion it fell to nine seconds and stayed there until the enclosure was answered.
 
 ## M.A.W. Equipment
 

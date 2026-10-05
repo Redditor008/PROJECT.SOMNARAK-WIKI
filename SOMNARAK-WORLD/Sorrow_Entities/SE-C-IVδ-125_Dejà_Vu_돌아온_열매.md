@@ -95,7 +95,7 @@
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Composure**, funneling cognitive instability back into the Sorrow Gauge.
 - Dejà Vu’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
 - Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Déjà Vu's dossier.
+- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Déjà Vu's dossier.
 
 ## Appearance
 **Primary Form:** A fruit-shaped presence within consciousness rather than space. It appears as a familiar object returning to an impossible place.
@@ -146,14 +146,14 @@
 The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Déjà Vu is recorded as a Subject with Subject-Mind manifestation and Void elemental expression. The current record places it at Zone A, Alpha Tree; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Déjà Vu has broken free. Hunts personnel indiscriminately."*
+> *"Transformation event in progress. Déjà Vu is changing the space around itself and staying in it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
-| **Movement** | Déjà Vu expands beyond containment like a spreading tide. It hunts personnel indiscriminately. |
+| **Event Type** | Transformation in place |
+| **Movement** | Déjà Vu widens past the marked boundary like a spreading tide. It reaches whoever is inside the affected area; it does not seek anybody out. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
@@ -161,9 +161,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
 - **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on event:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
@@ -258,7 +258,7 @@ Each piece of this entity's equipment is an extension of a return that restores 
 |---|---|
 | **Initial exposure** | The observer identifies Déjà Vu as a Subject with Subject-Mind manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone A, Alpha Tree. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The team records the first visible activation or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Record what changed, what held, and the detail hardest to name. On this holding the review has one mandatory item before all others: the sealed account is opened, read against the session log, and the agreement or disagreement is scored. The reviewer scoring it is not permitted to have been in the room. |
 
 **Observation method:** Record the onset and character of the song, the first sensation reported, the worker's willingness to leave at each interval, and the condition that ends the encounter — the watch completed and the worker out of the boundary. There is no measurable environmental change on this holding and the log provides no field for one.
@@ -310,12 +310,12 @@ A sweetness appears on your tongue before the fruit appears. You remember a kitc
 
 Déjà Vu does not exist in isolation. Its recorded relationships with The Returning Tree, The Memory Well, The Lost Prince should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, events, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, event, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
 
-Déjà Vu must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+Déjà Vu must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, event, Ordeal, or transformation conditions.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -357,7 +357,7 @@ Some sorrows mourn what was lost. Déjà Vu mourns the return — the recovered 
 **Common Name:** Déjà Vu
 **Containment Status:** Contained — Zone A, Alpha Tree enclosure; chamber maintained daily although it contains nothing; quarterly joint survey of the tree continuing at the botanical office's request
 **Comprehension Level:** 2 — Basic. The header and the Registrum disagreed on this for eleven years and the header is correct. The song, the perception and the pre-session effect are characterised; nothing else is, and the file does not pretend otherwise.
-**Threat Assessment:** Critical (δ). The earlier rating of Low was struck. It has no body, no reach beyond perception and no capacity to compel, and it is rated Critical for two reasons the file states plainly: its breach dissolves identity across a volume in which nobody wants to be rescued, and its most dangerous property is that exposure to it is pleasant.
+**Threat Assessment:** Critical (δ). The earlier rating of Low was struck. It has no body, no reach beyond perception and no capacity to compel, and it is rated Critical for two reasons the file states plainly: its event dissolves identity across a volume in which nobody wants to be rescued, and its most dangerous property is that exposure to it is pleasant.
 **Containment & Handling Procedures:**
 - Viderehan is the primary Work Type.
 - The Fruit is a memory-crystal; do not consume.
@@ -372,7 +372,7 @@ Some sorrows mourn what was lost. Déjà Vu mourns the return — the recovered 
 
 **Operational interpretation:** The three sections below are one argument and are read together: the pre-session accounts are accurate, including about injuries, an unopened account is not knowledge in law and the protocol is what makes it unopened, and the validation that justifies the protocol has run nine years without a completion criterion. Where observation contradicts this record, preserve the contradiction rather than normalising it.
 
-**Review requirement:** After every breach, Tide, Ordeal or unusual interaction, re-verify the gauge baseline, the bereavement check against the personnel record, the seal integrity on every lodged account, the agreement score of the series, and the standing of the reading-officer proposal, which is to be reported as outstanding for as long as it is outstanding.
+**Review requirement:** After every event, Tide, Ordeal or unusual interaction, re-verify the gauge baseline, the bereavement check against the personnel record, the seal integrity on every lodged account, the agreement score of the series, and the standing of the reading-officer proposal, which is to be reported as outstanding for as long as it is outstanding.
 ## Apex Record
 
 ### A Fruit in the Mind
@@ -393,7 +393,7 @@ The entity formed when a cherished fruit from a vanished home appeared again ben
 
 ### The Spreading Tide
 
-Its breach is a Transform — it expands beyond containment like a spreading tide, and identity and memory dissolve within the affected volume while the song reaches everyone inside it. Response is conducted from outside the boundary using the badging protocol and the written roster, because a team inside the volume cannot be relied upon to know who is missing. The Reverberant Spear is carried by the perimeter officer and is used to hold the boundary's marked line, not to advance. Veterans of the breach describe it as the most seductive hazard in the wing: nobody inside it is frightened, nobody inside it wants to leave, and the entire response doctrine consists of people outside insisting that they do.
+Its event is a Transform — it widens past the marked boundary like a spreading tide, and identity and memory dissolve within the affected volume while the song reaches everyone inside it. Response is conducted from outside the boundary using the badging protocol and the written roster, because a team inside the volume cannot be relied upon to know who is missing. The Reverberant Spear is carried by the perimeter officer and is used to hold the boundary's marked line, not to advance. Veterans of the event describe it as the most seductive hazard in the wing: nobody inside it is frightened, nobody inside it wants to leave, and the entire response doctrine consists of people outside insisting that they do.
 
 ### The Sweeping
 

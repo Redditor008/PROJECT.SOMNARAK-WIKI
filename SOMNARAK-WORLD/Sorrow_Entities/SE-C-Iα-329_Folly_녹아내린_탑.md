@@ -96,7 +96,7 @@
 - A worker who stays past the second hour starts composing withdrawals. They draft them silently, for projects that are not theirs and have not been cancelled, and they are often good drafts. The Composure loss shows up afterwards as an unwillingness to commit to anything in writing.
 - Sustained proximity inside the interior rooms produces a specific and repeatable error: the operative remembers having been told the tower was finished. They do not believe it, but the memory is there and it is dated, and it has to be struck from their statement by hand.
 - The relic will not detach from a bearer who has an unpublished withdrawal of their own. There is no injury and no struggle; the bracket simply does not release, and the bearer walks back to the office wearing it.
-- Left unread for a full quarter, the lean does not accelerate. It holds, and the footing plate corrodes, and the next team has to re-establish the datum before any reading means anything. The failure mode here is a broken series rather than a breach.
+- Left unread for a full quarter, the lean does not accelerate. It holds, and the footing plate corrodes, and the next team has to re-establish the datum before any reading means anything. The failure mode here is a broken series rather than a event.
 
 ## Appearance
 **Physical Form:** A tower-shaped crystal structure that slowly melts upward, leaving no rubble behind.
@@ -187,7 +187,7 @@ Viderehan holds the gauge level and moves nothing, which reads as a wasted sessi
 
 ### Escalation Notes
 
-There is no breach here in the sense the word is used elsewhere in this archive. The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years. What escalates is the reading, and the reading escalates in the city rather than at the site. A team that treats a rising plate as a containment event will deploy to the border and find nothing to deploy against; the thing that happened happened in an office, that morning, to a notice.
+There is no event here in the sense the word is used elsewhere in this archive. The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years. What escalates is the reading, and the reading escalates in the city rather than at the site. A team that treats a rising plate as a containment event will deploy to the border and find nothing to deploy against; the thing that happened happened in an office, that morning, to a notice.
 
 **Response sequence:** Take the plumb reading, then pull the week's public notices for the district and sort them into undertakings announced, undertakings delivered, and undertakings withdrawn. For each withdrawal, record whether the withdrawal was published to the same audience that heard the promise. There is no perimeter to establish; the structure has never extended past its own footing.
 

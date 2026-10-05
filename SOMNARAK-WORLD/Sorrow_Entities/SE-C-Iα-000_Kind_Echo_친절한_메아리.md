@@ -41,7 +41,7 @@
 - Kind Echo is the designated training entity for all new personnel, and the gentleness is genuine rather than a containment artefact.
 - All four Work Types are equally effective. The entity responds the same way to any approach and forgives procedural error.
 - A successful cycle settles it. Nothing on record has transformed the Echo, and the training value depends on that stability.
-- The activation threshold is high enough that it has rarely been approached. A breach here is the Echo waiting outside its door.
+- The activation threshold is high enough that it has rarely been approached. A event here is the Echo waiting outside its door.
 - Trainees' emotional responses are recorded; some find the gentleness moving, and that reaction is data rather than a disqualification.
 - Extraction is a separate risk event and is not demonstrated as part of routine training.
 
@@ -95,7 +95,7 @@
 - Failed work has no negative consequence (training mode — the entity forgives errors).
 - Prolonged exposure produces a mild, pleasant melancholy — no Fracture risk.
 - M.A.W. use carries no meaningful cost at this grade.
-- Without resolution, the entity defaults to its documented breach, activation, or expansion behavior — the sorrow finds its own outlet; the entity simply waits longer.
+- Without resolution, the entity defaults to its documented activation or expansion behavior — the sorrow finds its own outlet; the entity simply waits longer.
 
 ## Appearance
 
@@ -155,14 +155,14 @@
 
 Kind Echo is the R.D.'s training standard — the entity every new agent works with first. It responds positively to all four Work Types, making it ideal for teaching the mechanics of sorrow management without risk. Work must record the trainee's emotional response (some find the entity's gentleness moving; a few have wept — not from sorrow, but from relief). A stable gauge is the default state; the entity is almost impossible to agitate. Any unusual response from this entity would be remarkable enough to log immediately.
 
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Kind Echo has broken free. Hunts personnel indiscriminately."*
+> *"Corruption event in progress. Kind Echo is turning the zone it stands in; nothing has left it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
-| **Movement** | Kind Echo intensifies in place, warping the containment zone outward. It hunts personnel indiscriminately. |
+| **Event Type** | Corruption of its own zone |
+| **Movement** | Kind Echo intensifies in place, warping the containment zone outward. It reaches whoever is inside the affected area; it does not seek anybody out. |
 | **Effect** | Waves of cold grief wash over personnel, draining composure. |
 | **Secondary Effect** | A keening wail that fractures emotional stability. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
@@ -170,9 +170,9 @@ Kind Echo is the R.D.'s training standard — the entity every new agent works w
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corruption of its own zone. The zone warps and the warping spreads inside it; nothing walks out.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on event:** Starts at 40% and rises 10% per turn if unaddressed.
 
 ## M.A.W. Equipment
 
@@ -260,7 +260,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 |---|---|
 | **Initial exposure** | The trainee identifies the entity as a small, warm, blue glow. The first reliable markers are the warmth and the hum. |
 | **Sustained observation** | Continued observation confirms total docility. The entity responds identically to all Work Types. Personnel distinguish the entity's emotional effect (pleasant melancholy) from any physical threat (none). |
-| **Activation or escalation** | The entity does not activate. The trainee records the (extremely unlikely) breach scenario: it sits outside its door. |
+| **Activation or escalation** | The entity does not activate. The trainee records the (extremely unlikely) event scenario: it sits outside its door. |
 | **Post-contact review** | The trainee records their emotional response and whether they retained the Warm Stone Stigma. Most do. |
 
 **Observation method:** Record the first touch (warm), the first hum (pleasant), and the first Work Type performed (any). The report is complete.
@@ -279,7 +279,7 @@ Kind Echo (`C-Iα-000 [LS]`) is a 60 cm warm blue Han-crystal figure — Subject
 "They told me my first entity would be scary. It wasn't. It was warm, and it hummed, and I put my hand on it and it brightened. I practiced all four Work Types on it in one afternoon. It responded the same way to all of them — gently. I left the unit feeling like I could do this job. I think that is exactly what it wanted me to feel." — Trainee Specialist Hanul Grey (하늘 그레이), Zone B, first day
 
 **Entry 4 — <Containment Notice, Research Division>**
-Kind Echo requires no special containment. Its Sorrow Gauge is so stable that breach is practically impossible. The entity is available for training during all shifts. New specialists should perform at least one cycle of each Work Type before advancing to live entities. The Warm Stone Stigma should be retained — it provides a minor but lasting comfort benefit.
+Kind Echo requires no special containment. Its Sorrow Gauge is so stable that event is practically impossible. The entity is available for training during all shifts. New specialists should perform at least one cycle of each Work Type before advancing to live entities. The Warm Stone Stigma should be retained — it provides a minor but lasting comfort benefit.
 
 **Entry 5 — <Archive Note>**
 We do not know why the first settlers' kindness crystallized into an entity. Most sorrow in the Weeping is grief, rage, emptiness, or weight. This is none of those. This is the Lament of people who were kind in the dark. Perhaps that is also a kind of sorrow — the sorrow of caring, and knowing the caring cannot fix what is broken. Kind Echo cannot heal anyone. But it can make a frightened new agent feel, for one afternoon, that the sorrow is survivable. After 4,000 years, it is still doing exactly that. — Archive Lead Marjuk (마주크)
@@ -400,7 +400,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 - The entity's hum has been recorded and is used as a sleep aid in the R.D. infirmary.
 - It has trained every agent the R.D. has ever hired — estimated at over 100,000 personnel across 4,000 years.
 - The entity is the baseline for all entity comparisons: "more aggressive than 000" is the standard R.D. phrase for any hostile entity.
-- Serves as the primary docile training entity with zero breach risk, issued to all newly inducted personnel during orientation.
+- Serves as the primary docile training entity with zero event risk, issued to all newly inducted personnel during orientation.
 
 ### Registry Trivia
 

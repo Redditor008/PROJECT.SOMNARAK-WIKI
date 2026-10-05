@@ -146,13 +146,13 @@
 Floating Pillar is a Subject with Subject-Spirit manifestation and Void expression, fixed above the floor of the Mask Market in Zone C. All four Work Types apply. Flerehan softens the voice and sharpens the outline of the absence, Ferrehan tests whether a worker can stand without the thing being removed, Viderehan shows the worker what they have been leaning on and leaves the gauge level, and Pugnahan raises the absence and takes the sound out of the bay. The Registrum entry naming Viderehan as the primary approach is an error and is corrected here.
 
 **Reading the response:** Read it in the voice and the rotation. A falling gauge presents as a single direction — the voice resolving to above or below instead of both — and the rotation slowing against the marks. A rising gauge presents as silence spreading outward from the gap, which workers consistently report as the bay going deaf rather than quiet. If the sound is leaving, the next action is to stop work, not to persist and log it.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Floating Pillar has broken free. Hunts personnel indiscriminately."*
+> *"Transformation event in progress. Floating Pillar is changing the space around itself and staying in it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
+| **Event Type** | Transformation in place |
 | **Movement** | It does not pursue and has never approached anybody. The absence widens from where it stands, taking names and faces out of reach of the people holding them, and personnel are affected where they are. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
@@ -161,9 +161,9 @@ Floating Pillar is a Subject with Subject-Spirit manifestation and Void expressi
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
 - **Containment priority:** Flerehan and Ferrehan from the marks, with the floor beneath the gap already clear. Nobody is told that anything is holding; nobody offers it a substitute.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from a single Market event and is labelled as modelled wherever it is quoted.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from a single Market event and is labelled as modelled wherever it is quoted.
 
 ## M.A.W. Equipment
 
@@ -223,7 +223,7 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Floating Pillar's element. No protocol produces Stigmas. They emerge from Floating Pillar's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Floating Pillar's element. No protocol produces Stigmas. They emerge from Floating Pillar's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
@@ -363,9 +363,9 @@ Some sorrows are about losing support. Floating Pillar is about the support that
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every a transformation in place, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
 ### A Voice Around an Absence

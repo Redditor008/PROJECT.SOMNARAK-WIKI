@@ -149,13 +149,13 @@
 Viderehan is primary and Pugnahan is prohibited. The table formerly had Flerehan lowering the gauge and Viderehan holding it level, which is the reverse of nineteen years of readings, and it has been corrected against the series rather than against the template. Mirror of Rising is a Subject with Subject-Dream manifestation and Weight expression at Zone C, Mask Market; the Registrum's entry giving it Entity (IV) coherence and Major (γ) potency contradicted the SECC header on both counts and has been corrected to Residue (I) and Minor (α).
 
 **Reading the response:** The gauge measures one watch. The rise measures the gazetteer. They are kept in separate columns and have moved together exactly once, in Year 4221, when a worker struck the glass. A good watch in a bad year is written up as a good watch.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"It has not broken free and it does not show anybody their worst self; it shows one face, the same face, to everybody who looks. The sentence beneath this one was copied from a Corrupt-class template in Year 4219 and has been queried by five assessors since."* — Archive Lead Marjuk
+> *"It has not escalated in place and it does not show anybody their worst self; it shows one face, the same face, to everybody who looks. The sentence beneath this one was copied from a Corrupt-class template in Year 4219 and has been queried by five assessors since."* — Archive Lead Marjuk
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corruption of its own zone |
 | **Movement** | Modelled as pulse and wall damage. Observed in nineteen years: a pane of glass standing between zero and two point six metres off the floor. No wall in the record hall has ever cracked. |
 | **Effect** | Modelled. What is measured is heaviness in the room on high readings — workers report the walk to the scale as uphill — and nothing structural has ever been found. |
 | **Secondary Effect** | The frame. It carries about nine times the mass glass of that size should and has been replaced four times; the fourth is iron and is inspected monthly. |
@@ -166,7 +166,7 @@ Viderehan is primary and Pugnahan is prohibited. The table formerly had Flerehan
 
 - **Event type (non-breach):** Corrupt, assigned from a template in Year 4219 and never observed. Five assessors have queried it and five queries are in the folder; it stands because nobody has proposed a class for an entity whose entire behaviour is a height.
 - **Containment priority:** Read the scale, read the strike list, and do not touch the glass. There is no zone to seal; the record hall is open to Market staff and has been throughout.
-- **Sorrow Gauge on breach:** Modelled at 40% opening, rising 10% per turn. Never tested. The glass has risen 2.6 m and stopped there, and in nineteen years nothing has come out of it or gone through a wall.
+- **Sorrow Gauge on event:** Modelled at 40% opening, rising 10% per turn. Never tested. The glass has risen 2.6 m and stopped there, and in nineteen years nothing has come out of it or gone through a wall.
 
 ## M.A.W. Equipment
 

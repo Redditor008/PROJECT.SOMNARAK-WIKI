@@ -95,7 +95,7 @@
 - The failure here is anticipation. A worker who cannot hold begins grieving endings that have not happened yet — a parent still living, a posting not yet finished — and reports it with embarrassment, accurately, for weeks.
 - Long exposure produces the Gardens' characteristic state: the worker becomes unable to treat anything as ongoing, speaks of their own circumstances in the past tense, and is withdrawn when the roster notices the tense rather than the mood.
 - The Willow equipment lends the bearer the capacity to sit with an ending and takes the ability to hurry one. Every bearer's ledger entry records the ending they were holding at activation, by name, and the entries are not redacted.
-- Unresolved, it expands at the root rather than breaching: the saturated ground reaches further into the Gardens, and the terraces it reaches do not drain afterwards.
+- Unresolved, it expands at the root rather than event: the saturated ground reaches further into the Gardens, and the terraces it reaches do not drain afterwards.
 
 ## Appearance
 **Physical Form:** A massive willow whose branches are made of crystallized tears. Its leaves fall like slow rain.

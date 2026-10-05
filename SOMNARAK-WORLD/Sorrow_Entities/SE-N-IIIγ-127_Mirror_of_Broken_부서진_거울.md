@@ -95,7 +95,7 @@
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resolve**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
 - Time is Mirror of Broken’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
 - M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Mirror of Broken executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- An unresolved encounter never simply ends; it transforms. Mirror of Broken executes its documented event pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
 **Primary Form:** A figure that holds together without ever settling — broken mirror fused into black weight-crystal, every shard carrying a different version of whoever is in front of it. **Shape:** never twice the same, and never once the shape of the viewer.
@@ -146,24 +146,24 @@
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Mirror of Broken is recorded as a Subject with Subject-Dream manifestation and Weight elemental expression. The current record places it at Zone E, Exile's Gate vicinity; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
-## Breach Behavior
+## Containment Event Behavior
 
 > *"Mirror of Broken has gone past the Gate vicinity. It is not chasing anybody. Everyone asleep in the affected sections is in it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corruption of its own zone |
 | **Movement** | It does not travel. The affected zone enlarges and the dreams inside it fill with selves the dreamers had finished with. |
 | **Effect** | Burden across the whole affected zone: the floor reads as uphill in every direction and every step is work. |
 | **Secondary Effect** | A weight on the chest that turns breathing into an action somebody has to decide to take. |
-| **First Target** | Whoever is asleep. It has never acted on a waking person and the breach record contains no exception. |
-| **Escalation** | Resolve drain rises by 5 each interval, and the face count rises with it; fourteen were recorded during the single breach in the file. |
+| **First Target** | Whoever is asleep. It has never acted on a waking person and the event record contains no exception. |
+| **Escalation** | Resolve drain rises by 5 each interval, and the face count rises with it; fourteen were recorded during the single event in the file. |
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corruption of its own zone. The zone warps and the warping spreads inside it; nothing walks out.
 - **Containment priority:** Wake everybody in the affected sections and keep them awake. Sealing does nothing — the perimeter is sleep, not a wall — and the only lever anybody has is that it cannot reach a person who is not asleep.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each former self a person in the affected zone denies aloud. It falls 10% when somebody names a self they used to be without arguing that it was the real one. Silence holds it.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% for each former self a person in the affected zone denies aloud. It falls 10% when somebody names a self they used to be without arguing that it was the real one. Silence holds it.
 
 ## M.A.W. Equipment
 
@@ -355,7 +355,7 @@ Some sorrows mourn a home. Mirror of Broken mourns a self — the identity shatt
 **Common Name:** Mirror of Broken
 **Containment Status:** Contained — Zone E, within sight of the Exile's Gate
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It never acts and it cannot be sealed out, because the way in is sleep; a breach takes a whole section's dreamers at once. Effect: the vertigo of a self that was changed in order to get through.
+**Threat Assessment:** Major (γ). It never acts and it cannot be sealed out, because the way in is sleep; a event takes a whole section's dreamers at once. Effect: the vertigo of a self that was changed in order to get through.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type and Ferrehan the alternate. Viderehan is run for record. Pugnahan is prohibited.
 - Do not attempt to reassemble the shards, and do not describe what any of them showed. Both prohibitions are standing orders with reasons attached.
@@ -367,9 +367,9 @@ Some sorrows mourn a home. Mirror of Broken mourns a self — the identity shatt
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every a corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
 ### Shards That Disagree
@@ -418,7 +418,7 @@ The Gate clerks asked for one line. Not a grade, not conduct — one line of pla
 - **Classification detail:** Mirror of Broken is a Subject with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is Zone E, Exile's Gate vicinity.
 - **Recognition detail:** A figure of broken mirror and black crystal that is never the same shape twice, lead-cold, sharp to be near, with wet stone on the air and a different self in every shard.
-- **Record detail:** The Registrum recorded Echo (II) coherence and Moderate (β) potency against a Fragment (III), Major (γ) header, rated the holding Low on the same line, named Viderehan the primary Work Type where Flerehan and Ferrehan move the gauge, and placed the containment in the Desolate while the header gives Zone E, Exile's Gate vicinity; the personnel note was attributed to a Zone D patrol. The breach rows described cracking walls and a nearest-personnel target on a holding that works in sleep and does not act. The M.A.W. grade was blank against three γ pieces. All corrected. The Warden Record, the prohibition on describing faces and the Gate passage material are untouched.
+- **Record detail:** The Registrum recorded Echo (II) coherence and Moderate (β) potency against a Fragment (III), Major (γ) header, rated the holding Low on the same line, named Viderehan the primary Work Type where Flerehan and Ferrehan move the gauge, and placed the containment in the Desolate while the header gives Zone E, Exile's Gate vicinity; the personnel note was attributed to a Zone D patrol. The event rows described cracking walls and a nearest-personnel target on a holding that works in sleep and does not act. The M.A.W. grade was blank against three γ pieces. All corrected. The Warden Record, the prohibition on describing faces and the Gate passage material are untouched.
 - **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 

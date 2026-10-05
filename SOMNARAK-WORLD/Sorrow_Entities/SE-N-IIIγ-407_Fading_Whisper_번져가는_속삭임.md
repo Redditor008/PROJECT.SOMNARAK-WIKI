@@ -146,13 +146,13 @@
 Fading Whisper is a Subject with Subject-Grudge manifestation and Void expression, fixed at the Alpha Tree in Zone A. All four Work Types apply. Flerehan clarifies it and gentles the voice, Ferrehan tests whether a worker can remember without forcing completion, Viderehan returns fragments of the erased place and leaves the gauge level, and Pugnahan burns it brighter and spends it faster. The Registrum entry naming Viderehan as the primary approach is an error and is corrected here.
 
 **Reading the response:** Read it in the level and in the margin. A falling gauge presents as the voice steadying — still quiet, but even, with the faded margin holding its width. A rising gauge presents as volume, and volume on this holding is always bad news, because the only thing that makes it louder is being denied. If a worker has told it that the place never existed, the level will be up before the end of the watch, and the record is to say which worker and what they said.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Fading Whisper has broken free. Drives personnel mad with half-heard secrets."*
+> *"Transformation event in progress. Fading Whisper is changing the space around itself and staying in it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
+| **Event Type** | Transformation in place |
 | **Movement** | It stays where it is; the speech is what spreads. Half-heard sentences fill the corridors, each person hearing a different fragment, and nobody can agree afterwards on what was said. |
 | **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
 | **Secondary Effect** | An absence that eats the edges of reality. |
@@ -161,9 +161,9 @@ Fading Whisper is a Subject with Subject-Grudge manifestation and Void expressio
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
 - **Containment priority:** Flerehan and Ferrehan together from the instrumented line. Nothing is answered, nothing is completed, and no responder repeats back anything they think they heard.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from a single recorded event and is labelled as modelled wherever it is quoted.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from a single recorded event and is labelled as modelled wherever it is quoted.
 
 ## M.A.W. Equipment
 
@@ -361,9 +361,9 @@ Some sorrows are about losing memory. Fading Whisper is about the place the memo
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** The review requirement: every a transformation in place, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every a transformation in place, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
 ### It Cannot Finish

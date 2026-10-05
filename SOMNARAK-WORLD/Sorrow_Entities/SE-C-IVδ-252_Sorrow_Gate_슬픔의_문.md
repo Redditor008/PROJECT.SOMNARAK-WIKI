@@ -187,7 +187,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern is specific to Sorrow Gate: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-A-01, Alpha Tree deep vault — sealed, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Sorrow Gate: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-A-01, Alpha Tree deep vault — sealed, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Secure the vault approaches, confirm the event is an expansion of audible range rather than an activation, clear unshielded personnel, and then satisfy the management condition, which is the destruction of interpretive material rather than any action taken on the Gate itself. Report what was destroyed and who witnessed it.
 

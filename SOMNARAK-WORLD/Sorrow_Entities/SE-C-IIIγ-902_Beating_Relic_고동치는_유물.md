@@ -180,7 +180,7 @@ Beating Relic is a Fragment (III) Object of Major (γ) potency, Object-Body mani
 
 ### Escalation Notes
 
-Escalation here is transfer. The relic does not leave the plinth, has never left the plinth, and cannot. What leaves is the tempo, in a handler whose pulse keeps it after release — four cases, all four resolved, the longest at nine days — and a handler walking out of the bay with the rhythm is the entire breach behaviour of this entity. Record the handler's rate at release, at the hour, and at the seven-day check.
+Escalation here is transfer. The relic does not leave the plinth, has never left the plinth, and cannot. What leaves is the tempo, in a handler whose pulse keeps it after release — four cases, all four resolved, the longest at nine days — and a handler walking out of the bay with the rhythm is the entire containment-event behaviour of this entity. Record the handler's rate at release, at the hour, and at the seven-day check.
 
 **Response sequence:** Confirm the relic is on the plinth, which it will be, then treat the handler: rate, breath, grip, and the content of whatever they are certain about. Clear the bay of anyone else who has handled it this month, and apply the recorded condition. No unlisted Work Type has ever been improvised here and none is available.
 

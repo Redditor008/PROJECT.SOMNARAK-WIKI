@@ -95,7 +95,7 @@
 - When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Clarity** shatters into a psychological Fracture—a catastrophic dual failure.
 - Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
 - Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting as a manifestation, expansion inside its own boundary, and rapid escalation.
 
 ## Appearance
 **Physical Form:** An empty vault containing the absence of a flame. The room is warm around a dark shape where fire should be.
@@ -162,7 +162,7 @@ Memorial Flame Mid-Ceremony is an Object/Place with Place-Void manifestation and
 
 Escalation here is thermal and spatial. Record the warmth differential at the entry step, the corridor loss against the budgeted figure, the marked position of the expansion front, and whether any observance — formal or private — took place near the vault in the preceding shift. The last item is the one that predicts; the first two confirm it afterwards.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Complete the memorial without attempting to recreate the original flame. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** establish a safe perimeter, identify whether the event is a manifestation or an expansion, remove nonessential personnel, and apply this condition: Complete the memorial without attempting to recreate the original flame. Do not use an unlisted Work Type as an improvised countermeasure.
 
 
 ### Detailed Activation Record

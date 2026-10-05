@@ -186,7 +186,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Escalation Notes
 
-The escalation pattern is specific to Life Behind Glass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Life Behind Glass: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** There is nothing to cordon. Count heads, identify who is at the pane, and record how long they have been there before you speak to them. Retrieve by stepping into their line of sight rather than by touching them or by covering the glass — a worker who is pulled away reports the loss as something done to them, and the entity keeps that. Then check the shift board, because this Window is most active during long shifts and the real finding is usually in the roster rather than in the tunnel.
 
@@ -396,7 +396,7 @@ Some sorrows are about being trapped. Life Behind Glass is about the trap of obs
 **Containment & Handling Procedures:**
 - Rotation schedule is the containment measure. A named relief, instructed to interrupt, and no second consecutive cycle at this post.
 - Retrieve by stepping into the viewer's line of sight. Do not touch them and do not cover the glass; a worker pulled away records the loss as something done to them, and the Window keeps that.
-- There is no breach and nothing to cordon. The failure state is an unanswered roster check, and it is found on the shift board before it is found in the tunnel.
+- There is no event and nothing to cordon. The failure state is an unanswered roster check, and it is found on the shift board before it is found in the tunnel.
 **Observation Notes:**
 - Mean unbroken viewing time 4.2, 6.1 and 8.8 minutes across three quarterly samples, timed by a relief with a watch.
 - The glass has not shown the same outside life twice in nine years. Each account is logged in the viewer's own words and never summarised.

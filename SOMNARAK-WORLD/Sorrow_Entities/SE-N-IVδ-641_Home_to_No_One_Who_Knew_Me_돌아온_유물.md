@@ -187,7 +187,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern is specific to Home to No One Who Knew Me: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone B, Old Lament — ambient, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Home to No One Who Knew Me: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone B, Old Lament — ambient, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Establish a cordon at a distance that keeps the public out rather than keeping the relic in, verify from the light whether an appearance has become an activation, and clear unshielded persons from the street. Enforce the recorded protocol, which on this holding is a protocol of non-interference: nothing is approached, handled, moved, contained or marked, and the watch's entire function is to record and to keep others away. That passivity has been challenged in review as an abdication and was defended in writing in terms the file still carries — the relic is a thing that was lost, destroyed, hidden and returned by other people's decisions, the facility has no reason to believe it would improve matters by adding its own, and a watch that does nothing is at least not the next thing that happens to it.
 
@@ -350,7 +350,7 @@ Home to No One Who Knew Me does not exist in isolation. Its recorded relationshi
 
 ### Entity Interaction Record
 
-This relic must be assessed as one of a group of sorrows made from return rather than as an isolated object in the Old Lament. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
+This relic must be assessed as one of a group of sorrows made from return rather than as an isolated object in the Old Lament. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, an event elsewhere, an Ordeal, or a transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -454,7 +454,7 @@ The district association wants something else. What they want — minuted at the
 
 So the nineteen briefings have each gone out under the **hazard notice to adjacent population** heading, which requires a stated hazard. The hazard stated is the witness-confusion effect. It is real, it is accurately described, and it is not within a mile of why forty to sixty residents attend. In twenty-two years the wing has recorded **four questions about the confusion effect** and several hundred about what used to stand where the relic appeared.
 
-Nothing here is a breach of the rule. Every notice is lawful and every hazard in them is true. The file's point is narrower and worse: the only honest relationship this holding has with anybody is carried inside a heading that does not describe it, and if a commander declined to sign the next one, there is no ground on which the district could ask for it back.
+Nothing here is a event of the rule. Every notice is lawful and every hazard in them is true. The file's point is narrower and worse: the only honest relationship this holding has with anybody is carried inside a heading that does not describe it, and if a commander declined to sign the next one, there is no ground on which the district could ask for it back.
 
 ### The Heading, the Honesty Line, and the Association's Switch
 

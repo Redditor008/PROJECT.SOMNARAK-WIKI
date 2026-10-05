@@ -95,7 +95,7 @@
 - The failure here is handling. Workers harmed by this holding have all been harmed while holding an outlined object, and none while standing near one.
 - Long contact transfers the fade: workers report an evening of being unable to say what a familiar tool at home is for, which resolves within a day in every case but two.
 - The Fading equipment lends the wearer the heat and takes a use the wearer knew. Every wielder's debrief has recorded one ordinary skill gone on waking.
-- Unresolved, it breaches by Transform and spreads across the sector's stored material, outlining everything whose purpose nobody present can state.
+- Unresolved, it events by Transform and spreads across the sector's stored material, outlining everything whose purpose nobody present can state.
 
 ## Appearance
 **Primary Form:** A burning pressure shaped like a relic carried beneath the skin. It appears as a red outline around objects that are fading from memory.
@@ -146,24 +146,24 @@
 Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge expression, distributed across the stored material of Old Lament in Zone B. All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it and widens the affected area, which is the reason it is prohibited here.
 
 **Reading the response:** Read it in the outline list. A falling gauge presents as items dropping off the list; a rising one presents as new items appearing on it, usually adjacent to an item already there. The gauge instrument agrees with the list and arrives after it. Count the objects.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Flotsam has broken free. Hunts personnel indiscriminately."*
+> *"Transformation event in progress. Flotsam is changing the space around itself and staying in it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
+| **Event Type** | Transformation in place |
 | **Movement** | It spreads through the sector's stored material by association rather than by distance, taking first whatever sits beside something already outlined. It does not pursue personnel and never has. |
 | **Effect** | Everything stored in the affected volume becomes heavy and anonymous. Workers can lift the objects and cannot say what any of them are for. |
-| **Secondary Effect** | The heat reaches the people holding things. Harm in a breach is confined entirely to personnel with an outlined object in their hands. |
+| **Secondary Effect** | The heat reaches the people holding things. Harm in an event is confined entirely to personnel with an outlined object in their hands. |
 | **First Target** | Not personnel at all. It outlines objects that are being forgotten, and workers are harmed only while handling them. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Bring the sector inventory and read the use of each outlined object aloud. The breach ends on recollection, has ended that way three times out of three, and cannot be ended by force.
-- **Sorrow Gauge on breach:** Opens at 45% and falls 10% each time an object's use is correctly remembered aloud.
+- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
+- **Containment priority:** Bring the sector inventory and read the use of each outlined object aloud. The event ends on recollection, has ended that way three times out of three, and cannot be ended by force.
+- **Sorrow Gauge on event:** Opens at 45% and falls 10% each time an object's use is correctly remembered aloud.
 
 ## M.A.W. Equipment
 
@@ -368,9 +368,9 @@ Some sorrows are about being forgotten. Flotsam is about being remembered wrong 
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any a transformation in place, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every a transformation in place, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
 ### A Red Outline

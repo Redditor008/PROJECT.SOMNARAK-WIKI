@@ -340,7 +340,7 @@ A thin stream crosses the dust toward a well that should be dry. It carries no r
 
 This site is read against the other water and heat features of the Desolate. Each relation below has been observed and filed; none is settled; and all three were tested on the channel network rather than at the rim, the rim being the one part of this entity that does nothing.
 
-**Interaction method:** Baseline each party alone over several cycles — seep rate, stake line, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle; a Tide, breach, Ordeal or transformation can rewrite the result.
+**Interaction method:** Baseline each party alone over several cycles — seep rate, stake line, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle; a Tide, event, Ordeal or transformation can rewrite the result.
 
 
 ### Entity Interaction Record

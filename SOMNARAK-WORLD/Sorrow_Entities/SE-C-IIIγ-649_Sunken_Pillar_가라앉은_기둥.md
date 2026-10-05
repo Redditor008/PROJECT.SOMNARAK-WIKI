@@ -375,7 +375,7 @@ Some sorrows mourn the past. Sunken Pillar mourns the future — the unbuilt, th
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Re-survey after every expansion, displacement, or unusual interaction: position against the last fixed station, exposed height against the external datum, the four face photographs compared independently by two Wardens, the ring radius from individually-taken traveller accounts, and the current position of the exclusion markers. The markers have twice been found inside the ring they were meant to bound.
 ## Warden Record

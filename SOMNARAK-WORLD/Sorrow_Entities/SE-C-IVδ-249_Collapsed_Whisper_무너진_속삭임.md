@@ -95,7 +95,7 @@
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resilience**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
 - Time is Collapsed Whisper’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
 - M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Collapsed Whisper executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- An unresolved encounter never simply ends; it transforms. Collapsed Whisper executes its documented event pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
 **Primary Form:** A dream-figure formed from a whisper crushed beneath layers of static and red light. It watches from the edge of sleep.
@@ -146,13 +146,13 @@
 Collapsed Whisper is a Subject with Subject-Dream manifestation and Grudge expression, mobile in the Desolate. Nobody works this file awake: contact is made from monitored sleep stations, two in the layer at most, on a fixed clock. Flerehan and Ferrehan both lower the gauge and do it differently — the first lets the sentence finish, the second asks the worker to stay while it does not.
 
 **Reading the response:** A falling gauge presents as a longer run before the break and a steadier figure at the edge of the layer. Nothing is resolved; the next session starts from the same place. A rising gauge presents as a shorter run and a thickening static, and the usual cause is a worker pressing for the rest of the sentence. The break time is logged before anything else, because it is the one number that answers to how the session was conducted.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Collapsed Whisper has broken free. Drives personnel mad with half-heard secrets."*
+> *"Transformation event in progress. Collapsed Whisper is changing the space around itself and staying in it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
+| **Event Type** | Transformation in place |
 | **Movement** | Expands as a volume rather than as a figure. Inside it, personnel cannot stop attending to something that is not being said; outside it, nothing happens at all. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
@@ -163,7 +163,7 @@ Collapsed Whisper is a Subject with Subject-Dream manifestation and Grudge expre
 
 - **Event type (non-breach):** Transform. The volume of ground in which half-heard speech is unavoidable grows; nothing escapes and nothing pursues.
 - **Containment priority:** Map the boundary from outside, hold the Warning Fang at the edge, and recover people as the volume recedes. No entry.
-- **Sorrow Gauge on breach:** Opens at 40% and adds 10% a turn while the boundary is still growing; it levels when the edge stops, not when anybody acts.
+- **Sorrow Gauge on event:** Opens at 40% and adds 10% a turn while the boundary is still growing; it levels when the edge stops, not when anybody acts.
 
 ## M.A.W. Equipment
 
@@ -276,7 +276,7 @@ Management: Capture fragments without inventing the missing message. Work respon
 The Director's note: *"The scout did everything correctly and the storm was louder than he was. We hold the consequence of that and we are forbidden — rightly — to pass on what it says. I have read the objection to that position every year of my tenure and I have never been able to answer it."*
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a healer who absorbed too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
 
-**Threat rating:** Critical (δ). Proximity installs the conviction that something vital is almost being said; on breach, a widening volume of ground becomes unworkable for anybody standing in it.
+**Threat rating:** Critical (δ). Proximity installs the conviction that something vital is almost being said; on event, a widening volume of ground becomes unworkable for anybody standing in it.
 
 ## 최종 관찰 (Final Observation)
 
@@ -352,7 +352,7 @@ Some sorrows are about the danger. Collapsed Whisper is about the warning — th
 **Common Name:** Collapsed Whisper
 **Containment Status:** Not physically contained — mobile in the Desolate, monitored by bearing and worked from the sleep stations.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ). Proximity leaves personnel attending to an unfinished urgent sentence they cannot stop pursuing; on breach the affected volume grows and everyone inside it is affected alike.
+**Threat Assessment:** Critical (δ). Proximity leaves personnel attending to an unfinished urgent sentence they cannot stop pursuing; on event the affected volume grows and everyone inside it is affected alike.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan are the working types; Viderehan for the record; Pugnahan is prohibited.
 - Log the fragment verbatim and stop there. Reconstruction is prohibited for everybody, including the worker who heard it.
@@ -366,7 +366,7 @@ Some sorrows are about the danger. Collapsed Whisper is about the warning — th
 
 **Operational interpretation:** This holding produces one thing — part of an urgent sentence — and the whole of the file is an argument about what may be done with it. Read the break series, the bearing series and the residue log together, and note that only the first two are ever analysed. The entity is not dangerous because it lies; it is dangerous because it is almost certainly telling the truth about something, and nothing in the record makes that usable. Where it does something not described here, log it and leave the contradiction standing.
 
-**Review requirement:** After any breach, Sorrow Tide, transformation attempt or unusual interaction: re-verify the break series, the bearing series, the exposure log and the gauge. Three further items apply here. The residue log is confirmed intact and unindexed, by somebody who does not read it. The terrain-word count is reconciled against the survey office's brought-forward schedule. And the field office's objection to that arrangement is re-read in full, unaltered.
+**Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the break series, the bearing series, the exposure log and the gauge. Three further items apply here. The residue log is confirmed intact and unindexed, by somebody who does not read it. The terrain-word count is reconciled against the survey office's brought-forward schedule. And the field office's objection to that arrangement is re-read in full, unaltered.
 ## Apex Record
 
 ### A Voice That Breaks Before Words
@@ -387,7 +387,7 @@ Its origin is a Desolate scout who tried to warn a caravan of a Han-storm and wh
 
 ### The Spreading Tide
 
-Its breach is a Transform: it expands beyond containment like a spreading tide, driving personnel toward the particular derangement the file calls half-heard — a state in which the affected cannot stop attending to something that is not being said. Rage erupts outward across the affected volume. Response is conducted from outside, with the Warning Fang held at the boundary, and no attempt is made to enter. Personnel caught inside are recovered when the volume recedes and are treated by the medical office under a protocol written specifically for this holding, which begins by instructing the attending staff not to ask the patient what they heard.
+Its event is a Transform: it widens past the marked boundary like a spreading tide, driving personnel toward the particular derangement the file calls half-heard — a state in which the affected cannot stop attending to something that is not being said. Rage erupts outward across the affected volume. Response is conducted from outside, with the Warning Fang held at the boundary, and no attempt is made to enter. Personnel caught inside are recovered when the volume recedes and are treated by the medical office under a protocol written specifically for this holding, which begins by instructing the attending staff not to ask the patient what they heard.
 
 ### The Residue Log
 

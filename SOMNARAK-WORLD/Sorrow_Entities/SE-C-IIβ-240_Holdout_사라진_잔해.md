@@ -95,7 +95,7 @@
 - Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resilience**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
 - Time is Holdout’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
 - M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Holdout executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- An unresolved encounter never simply ends; it transforms. Holdout executes its documented event pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
 
 ## Appearance
 **Physical Form:** A stand of broken walls that are not there until somebody remembers them. **Material:** grey stone fused with dead timber, with old bone set in the mortar.
@@ -160,7 +160,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### Escalation Notes
 
-The escalation pattern is specific to Holdout: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Grudge and located at Zone A, Alpha Tree vault, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Holdout: it is not a generic containment event. Personnel must record the first trigger, the first visible change in the Place-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Grudge and located at Zone A, Alpha Tree vault, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
 
 **Response sequence:** Read the plates, record which rooms are standing, clear anyone who is not on the watch, and bring the works file down. The file is the response; there is nothing else that touches this holding.
 
@@ -320,7 +320,7 @@ A room appears around you, broken but still warm. You see a wall fall, a chair l
 
 ### Interaction Pattern
 
-Holdout does not exist in isolation. Its recorded relationships with The Vanished Tower, Breach, The Hollow Architect should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Holdout does not exist in isolation. Its recorded relationships with The Vanished Tower, event, The Hollow Architect should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
 **Interaction method:** Plate load and room count before, during and after, taken by a Warden who is not the one doing the remembering, so that the figures are not kept by the instrument.
 
@@ -332,7 +332,7 @@ Holdout must be kept distinct from the other absent-structure holdings. The Vani
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | **The Vanished Tower** | Both hold buildings that are not there, and the two do not combine: rooms from one have never appeared inside the other in any trial. | Load unchanged on both. The negative result was sought deliberately and is the reason the pair can share a sector. | Room counts for each, logged separately, with an explicit note that no exchange occurred. |
-| **Breach** | The resolved walls will hold a line that Breach cannot cross, for as long as a Warden keeps remembering them. The protection is real and lasts exactly as long as the person does. | Breach held at the vault threshold for fifty-one minutes in the only recorded instance. | Time the hold to the minute and record who was remembering, and what it cost them. |
+| **Event** | The resolved walls will hold a line that event cannot cross, for as long as a Warden keeps remembering them. The protection is real and lasts exactly as long as the person does. | event held at the vault threshold for fifty-one minutes in the only recorded instance. | Time the hold to the minute and record who was remembering, and what it cost them. |
 | **The Hollow Architect** | It remembers the building as built rather than as lived in, and under its attention two rooms resolved that no Warden has been able to raise since. | Plate load doubles while it attends; the recovered rooms did not persist after separation. | Record which rooms came up, and that they went again. |
 
 **Interaction procedure:** One Warden remembers, a second reads the plates, a third keeps the clock. No one performs two of the three.
@@ -373,7 +373,7 @@ Holdout is that memory. It lives in the vault — a building made of nothing but
 **Common Name:** Holdout
 **Containment Status:** Contained — Alpha Tree vault, Zone A
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). No breach on record, though the Transform route remains open on paper. Phantom-room perception in personnel, rising vault load, and Grudge pressure sufficient to unsettle adjacent holdings.
+**Threat Assessment:** Moderate (β). No event on record, though the Transform route remains open on paper. Phantom-room perception in personnel, rising vault load, and Grudge pressure sufficient to unsettle adjacent holdings.
 **Containment & Handling Procedures:**
 - Keep the vault shielded and the plates calibrated. The shielding is for the neighbours, not for this holding, which has never tried to leave.
 - Viderehan and Ferrehan are the valid Work Types. Pugnahan is unavailable: this is a Place, and the earlier entry naming it was an error carried for several cycles.
@@ -381,15 +381,15 @@ Holdout is that memory. It lives in the vault — a building made of nothing but
 **Observation Notes:**
 - Plate load 310, 412 and 560 kilogrammes equivalent across three annual series, with no mass identifiable by any other instrument.
 - Eleven of nineteen rooms still resolve. Phantom doorways are marked as phantom on the vault plan.
-**Cross-References:** Alpha Tree vault · Council stabilisation records · the displacement list of 140 · the dissent file · The Vanished Tower · Breach · The Hollow Architect
+**Cross-References:** Alpha Tree vault · Council stabilisation records · the displacement list of 140 · the dissent file · The Vanished Tower · event · The Hollow Architect
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** Council stabilisation committee · 140 residents displaced without representation, because there is no process here under which they could have had any
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every a manifestation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
 ### Walls That Need Remembering

@@ -56,11 +56,37 @@ The replacement cell states the category and cites that dossier's own evidence, 
   that text was already describing a corruption or a transformation in place rather than an escape.
 - Prose claiming a breach capability is corrected (`can breach and pursue` → what the dossier
   actually records).
-- The `## Breach Behavior` **heading is left alone** where it exists. Four document builders key off
-  that string as a section boundary, and renaming it would break generated output for a cosmetic
-  gain. The heading is a container; the type line inside it now says what the event is.
+- The `## Breach Behavior` **heading becomes `## Containment Event Behavior`** in a reclassified
+  dossier. This was initially deferred on the grounds that document builders key off the string;
+  the owner's follow-up instruction settled it — *"that also mean edit it Behavior + Combat Action +
+  Operational Work Notes + Escalation Notes + everything under Field Use Record up to Entity
+  Interaction Record"* — so the heading was renamed in all 36 affected files and
+  `tools/auditors/sample_work_notes.py` was taught to accept either boundary.
+- **Every dependent section is brought into line, not just the classification cell.** Behavior,
+  Combat Record and Combat Actions, Operational Notes and Operational Work Notes, Escalation Notes,
+  Consequences, M.A.W. Use Notes, Field Use Record, Observation Log, Registry Addendum and the
+  Entity Interaction Record are all swept for language that asserts an escape the dossier does not
+  record.
 
 ## Enforcement
 
 `gate.sh` runs `tools/breach.py` and refuses the commit if any floor is unmet, so the balance cannot
 regress silently as new dossiers are written.
+
+## The consequential sweep (2026-10-05)
+
+Reclassifying the cell alone would have left 716 lines across the 112 dossiers still describing a
+breach. Three passes fixed them:
+
+| Pass | What it corrected | Dossiers touched |
+|---|---|---|
+| 1 | section heading, `Breach Type` row, `Breach type` line, the stock *"is the event a breach, activation, or expansion"* sentences | 68 |
+| 2 | every remaining use of *breach* as a noun or verb in prose — review requirements, operational interpretations, gauge-on-breach labels, M.A.W. use notes | 99 |
+| 3 | the section's flavour quote and movement row where they asserted escape — *"X has broken free. Hunts personnel indiscriminately."* became an event call naming what the entity is actually doing | 26 |
+
+Five lines survive the scan and are correct as written: they say the entity *expands rather than
+escaping*, or *does not rupture or roam*. Those are the sentences the sweep existed to protect.
+
+A flavour quote is now category-specific: a corruption event reads *"…is turning the zone it stands
+in; nothing has left it"*, an expansion *"…is widening where it is; the boundary is moving, not the
+entity"*.

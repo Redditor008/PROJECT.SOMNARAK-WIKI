@@ -149,13 +149,13 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 
 **Reading the response:** Work success, against a Sovereign, is not measured in damage prevented but in time bought. A decrease means the Sovereign has been moved, for a moment, toward remembrance — toward the selfless wish that ended it the first time. An increase means the form is straining harder, and the fall, when it comes, will be heavier. There is no documented strategy that defeats this entity; there is only the hope that it defeats itself, kindly, before it breaks.
 
-## Breach Behavior
+## Containment Event Behavior
 
 > *"The Fish has reached the Stone. The reunion has occurred. Look up."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform (Place→Subject / Fish+Stone→Sovereign) |
+| **Event Type** | Transformation in place |
 | **Movement** | The Sovereign rises from the site of the reunion into the sky, vast and two-toned, and the weather across the region submits to it at once. |
 | **Effect** | The Fourfold Tide spreads beneath its flight path; every sector it overflies is cycled through all four sorrows. |
 | **Secondary Effect** | The rain begins again — the hundred-year rain, called back — unless the Sovereign wills it otherwise. |

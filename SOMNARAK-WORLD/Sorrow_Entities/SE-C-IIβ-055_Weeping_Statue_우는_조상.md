@@ -95,7 +95,7 @@
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
 - Weeping Statue’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
 - Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Weeping Statue's dossier.
+- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Weeping Statue's dossier.
 
 ## Appearance
 **Physical Form:** A weeping statue carved of dark stone, robed and bowed, tears solidifying at its feet. **Movement:** Stationary — a statue; it does not move from its pedestal, only weeps.
@@ -154,13 +154,13 @@
 Weeping Statue is a Subject with Subject-Lament manifestation and Lament expression, held at SECTOR-D-02 in the Echo Gardens. Unusually for the wing, all four Work Types have been attempted and two of them do something. A stable gauge is not a safe encounter here: Viderehan leaves the number where it was and still puts the worker in a pool that has an opinion about them.
 
 **Reading the response:** A falling gauge means the sorrow has been absorbed by the people present and not dissolved; this is stabilisation, not healing, and the distinction is written on the crew sheet. A rising gauge means the work has fed the wound rather than met it. Record the stain line and the collected weight at the end of every cycle, whatever the gauge did.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Weeping Statue has broken free. Hunts personnel indiscriminately."*
+> *"Corruption event in progress. Weeping Statue is turning the zone it stands in; nothing has left it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt — by liquid, across the floor, cumulative. |
+| **Event Type** | Corruption of its own zone |
 | **Movement** | The statue does not move and has never attempted to. It intensifies where it stands and the pool advances outward across the floor; nothing hunts, nothing pursues, and the only thing that travels is the water. |
 | **Effect** | Cold grief in waves over whoever is standing in the spread, draining composure. The effect is on the person's own grief and never on an imported one; personnel with nothing to grieve report the pool as cold water and nothing else. |
 | **Secondary Effect** | A keening note at the edge of hearing that destabilises emotional control. It is not produced by the statue's mouth, which does not open; the sound is in the pool. |
@@ -171,7 +171,7 @@ Weeping Statue is a Subject with Subject-Lament manifestation and Lament express
 
 - **Event type (non-breach):** Corrupt — the floor is taken rather than the room; the zone warps along the wetted line and the line never comes back.
 - **Containment priority:** Channel the tears, never the statue. Draining is prohibited absolutely: the three recorded drainings each produced a doubled flow within the hour and a permanent advance of the stain line. Grief shared at the perimeter slows the spread, which is the only measure that has ever worked.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each metre the pool advances, so the gauge is a reading of floor lost and is checked against the stain line rather than against the clock.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% for each metre the pool advances, so the gauge is a reading of floor lost and is checked against the stain line rather than against the clock.
 
 ## M.A.W. Equipment
 
@@ -256,7 +256,7 @@ Each Weeping Statue piece is an extension of held-in grief rather than ordinary 
 **R.D. Comprehension Level:** 1 — Initial
 
 **Key Observations:**
-- It has never attempted to breach, and the record is unusual in being able to say so of sixty-one years. Only the pool expands.
+- It has never attempted to event, and the record is unusual in being able to say so of sixty-one years. Only the pool expands.
 - Each hardened tear carries its own signature, no two alike in the collected series, and the signatures do not repeat across sixty-one years of collection.
 - Personnel who sit a full cycle report being more easily moved for some weeks afterwards. The effect is consistent, is regarded by the Keepers as the single benign finding in the wing, and has never been studied, because studying it would require withholding the sitting from a control group.
 - Public visitors commonly leave without speaking to anybody, including the people they arrived with, and come back. The return rate is the highest of any accessible holding in the city.
@@ -280,8 +280,8 @@ Each Weeping Statue piece is an extension of held-in grief rather than ordinary 
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Weeping Statue (`C-IIβ-055 [LS]`) stands in the Echo Gardens at SECTOR-D-02, weeping without pause. It has never attempted to breach. Its tears harden at its feet into Echo-stones, which are collected on a schedule, weighed, and banked.
-Weeping Statue (C-IIβ-055 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Statue formed from grief that people were unable to express. Held at SECTOR-D-02, Echo Gardens — contained. The Statue has never attempted to breach; only its tears expand.
+**Entry 1 — Containment Description** Weeping Statue (`C-IIβ-055 [LS]`) stands in the Echo Gardens at SECTOR-D-02, weeping without pause. It has never attempted to event. Its tears harden at its feet into Echo-stones, which are collected on a schedule, weighed, and banked.
+Weeping Statue (C-IIβ-055 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Statue formed from grief that people were unable to express. Held at SECTOR-D-02, Echo Gardens — contained. The Statue has never attempted to event; only its tears expand.
 
 **Entry 2 — <The Tears Overflow>** The statue stays fixed and the pool crosses the containment line. Personnel standing in it experience their own grief, amplified and specific; the effect cannot be induced in anyone who has none, which has been tested twice and will not be tested again. Each tear carries its own signature and no signature recurs.
 The Statue remains fixed; its tears overflow through the containment zone. Personnel standing in the tears experience amplified personal grief. Every tear carries a distinct emotional signature.
@@ -369,7 +369,7 @@ Some sorrows are released. Weeping Statue is a sorrow that was forbidden to rele
 **Common Name:** Weeping Statue
 **Containment Status:** Contained — SECTOR-D-02, the Echo Gardens, Zone D; open to the public on the scheduled days
 **Comprehension Level:** 1 — Initial. The mechanism of the weeping is not understood, the mass balance does not close, and the file says so rather than filling the gap.
-**Threat Assessment:** Moderate (β). It cannot move, cannot select, has never breached, and has injured nobody in sixty-one years. It is graded Moderate because the pool advances permanently, because the keening destabilises whoever stands in it, and because the holding has become a revenue line whose yield rises with the district's unwept grief.
+**Threat Assessment:** Moderate (β). It cannot move, cannot select, has never escalated, and has injured nobody in sixty-one years. It is graded Moderate because the pool advances permanently, because the keening destabilises whoever stands in it, and because the holding has become a revenue line whose yield rises with the district's unwept grief.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan lower the gauge; Viderehan is informative and leaves it stable; Pugnahan is inert and is not to be attempted again.
 - Do not drain, divert, or break the tears under any circumstances. Measure the stain line each cycle, weigh each collection, and keep the collection record and the work record in separate files.

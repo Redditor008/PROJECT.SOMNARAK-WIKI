@@ -128,7 +128,7 @@
 - **Formation:** The Mirror formed from rage that could not be spoken safely.
 - **The Sorrow:** The grief of injustice left unnamed and anger treated as unacceptable.
 - **The Event:** Citizens swallowed rage under debt and order until suppressed anger became a reflective object.
-- **The People:** Citizens of the Row who were in debt and therefore required to be civil. The Keepers' record holds the collection schedules and no complaints, because complaining was a breach of terms, and the file notes that the absence of complaints was treated at the time as evidence of satisfaction.
+- **The People:** Citizens of the Row who were in debt and therefore required to be civil. The Keepers' record holds the collection schedules and no complaints, because complaining was a event of terms, and the file notes that the absence of complaints was treated at the time as evidence of satisfaction.
 - **Expanded origin context:** Collectors called anger disorder and demanded gratitude from people whose debts grew no matter how much they paid. The citizens swallowed their words until the unspoken rage became heavier than the ledgers. One night, a mirror rose through the floor of Collector's Row. Its surface reflected no face. It showed clenched hands, swallowed accusations, and the first moment each viewer had decided that injustice was ordinary.
 
 ## Behavior
@@ -187,7 +187,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Mirror of Soaking: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone C, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Mirror of Soaking: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone C, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Secure the perimeter, confirm the event is an activation rather than a surge from the Row's own rage conditions, withdraw personnel who are subject to open conduct notes — they read highest — and then satisfy the management condition, which is a written reattribution of the anger to its cause. Report the height before and after the entry is filed.
 

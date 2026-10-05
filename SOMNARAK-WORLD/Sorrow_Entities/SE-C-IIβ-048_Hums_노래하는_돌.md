@@ -96,7 +96,7 @@
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
 - The effect does not intensify with duration. It intensifies with archiving. Every song filed as a record and not taken up by a living voice raises the reading, and the facility's own catalogue is the largest single body of such filings in existence.
 - The requiem, the shroud and the pebble are all made from music that outlived everybody who knew it. Each activation borrows a measure of that survival and the operator keeps it. The recorded cost is not grief. It is that the operator cannot get a tune out of their head and, on questioning, cannot say where they learned it.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Hums's dossier.
+- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Hums's dossier.
 
 ## Appearance
 **Physical Form:** A small, smooth, dark stone warm to the touch. It sings under the right conditions.
@@ -132,7 +132,7 @@
 - **The Sorrow:** The grief of unfinished melodies and lives remembered only through music.
 - **The Event:** Songs disappeared when their singers died. The melodies crystallized in the Echo Gardens so someone could still hear them.
 - **The People:** Singers of the Echo Gardens district whose songs nobody took up. The Keepers hold no names, because the songs were the record: a person was known in that district by what they sang, and when nobody sang it they were gone from the account entirely. The stone is what is left of the account.
-- **Expanded origin context:** The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the entity's effect on nearby Sorrow Entities — gauges rise faster, breaches occur more frequently, containment becomes more difficult. The entity is not hostile. It is simply... heavy. Its sorrow bleeds into everything around it, contaminating the facility's emotional atmosphere.
+- **Expanded origin context:** The entity's presence changes the air — making it heavier, colder, more saturated with Han. Plants near the containment zone wilt. Han-lamps flicker. The walls hum at a frequency that causes unease in most personnel. Research teams have documented the entity's effect on nearby Sorrow Entities — gauges rise faster, events occur more frequently, containment becomes more difficult. The entity is not hostile. It is simply... heavy. Its sorrow bleeds into everything around it, contaminating the facility's emotional atmosphere.
 
 ## Behavior
 
@@ -195,7 +195,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern is specific to Hums: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-D-02, Echo Gardens — contained/open display, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation pattern is specific to Hums: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-D-02, Echo Gardens — contained/open display, emotional and behavioral indicators must be logged alongside physical telemetry.
 
 **Response sequence:** Secure the gallery, confirm the event is an expansion rather than an activation, clear all personnel but one — the stone's behaviour is undefined with a crowd present and the file does not wish to define it — and then satisfy the management condition, which is a living carrier for the song currently being sung. Report the carrier by name.
 
@@ -272,7 +272,7 @@ The escalation pattern is specific to Hums: it is not a generic breach event. Pe
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Hums' element. No protocol produces Stigmas. They emerge from Hums' own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Hums' element. No protocol produces Stigmas. They emerge from Hums' own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
@@ -403,7 +403,7 @@ Some sorrows mourn the dead. Hums mourns their songs — the unfinished melodies
 **Common Name:** Hums
 **Containment Status:** Contained — Echo Gardens
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Minimal. The Stone holds unfinished songs. Warm to the touch. No breach risk.
+**Threat Assessment:** Minimal. The Stone holds unfinished songs. Warm to the touch. No event risk.
 **Containment & Handling Procedures:**
 - Flerehan is the only valid Work Type.
 - The Stone is warm; do not be alarmed.

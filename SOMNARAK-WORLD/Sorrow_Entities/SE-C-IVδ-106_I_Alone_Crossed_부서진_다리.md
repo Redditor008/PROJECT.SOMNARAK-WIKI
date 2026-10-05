@@ -95,7 +95,7 @@
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
 - I Alone Crossed’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
 - Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in I Alone Crossed's dossier.
+- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in I Alone Crossed's dossier.
 
 ## Appearance
 **Primary Form:** A bridge-shaped consciousness made from a broken promise and a violent crossing. It appears as a pressure in the mind.
@@ -146,13 +146,13 @@
 I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expression, registered in the Desolate near The Scar. All four Work Types are available, which is unusual for a holding with no body. Flerehan and Ferrehan both lower the gauge and do it differently: the first settles the account for a shift, the second asks the worker to hold their own failure without taking his on. Pugnahan raises it and has never been authorised twice by the same supervisor.
 
 **Reading the response:** A falling gauge presents as the account being given once and then left alone, with the pressure easing to the point where the floor reads as floor. Nothing has been resolved; the account will be identical next session. A rising gauge presents as insistence — the account repeated unasked, faster, with the crew finding it harder to leave unanswered. The documented escalation begins at the point where the crew starts treating the account as established fact, and the gauge follows the crew rather than the other way round.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"I Alone Crossed has broken free. Collapses under anyone who crosses."*
+> *"Expansion event in progress. I Alone Crossed is widening where it is; the boundary is moving, not the entity."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
+| **Event Type** | Transformation in place |
 | **Movement** | Expands as a volume rather than as a figure: the affected ground grows outward and crossing it fails. Nothing pursues anybody. |
 | **Effect** | Waves of cold grief wash over personnel, draining composure. |
 | **Secondary Effect** | A keening wail that fractures emotional stability. |
@@ -163,7 +163,7 @@ I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expressi
 
 - **Event type (non-breach):** Transform. The entity does not get out; crossing stops working over a widening area, and the facility's route map becomes the only instrument that matters.
 - **Containment priority:** Map the boundary, close the routes behind it, and establish alternatives for anybody on the far side. No crossing is authorised for any purpose, including recovery.
-- **Sorrow Gauge on breach:** Opens at 40% and adds 10% a turn while the boundary is still being mapped; it stops climbing when the routes are closed, not when the volume stops growing.
+- **Sorrow Gauge on event:** Opens at 40% and adds 10% a turn while the boundary is still being mapped; it stops climbing when the routes are closed, not when the volume stops growing.
 
 ## M.A.W. Equipment
 
@@ -280,7 +280,7 @@ Management: Name the limits of one person's responsibility. Work response — Fl
 The Director's note: *"We have the weather and not the crossing. Nine people went onto that span on the best route available and the surge took the span. The holding is one man's conviction that this was his doing, and the Directorate's position — which it may state and may not certify — is that it was not."*
 There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with an Architect who built too high. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
 
-**Threat rating:** Critical (δ). Proximity installs the belief that one person's failure caused every other loss, and the breach removes crossing from a widening volume of ground.
+**Threat rating:** Critical (δ). Proximity installs the belief that one person's failure caused every other loss, and the event removes crossing from a widening volume of ground.
 
 ## 최종 관찰 (Final Observation)
 
@@ -358,7 +358,7 @@ Some sorrows mourn the dead. I Alone Crossed mourns the living — the guide who
 **Common Name:** I Alone Crossed
 **Containment Status:** Contained — registered site in the Desolate, near The Scar, worked from the Zone D approaches.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ). Proximity installs the conviction that one's survival cost other people theirs; on breach, crossing fails across a widening volume and the people most exposed are the ones attempting a rescue.
+**Threat Assessment:** Critical (δ). Proximity installs the conviction that one's survival cost other people theirs; on event, crossing fails across a widening volume and the people most exposed are the ones attempting a rescue.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan both lower the gauge; Viderehan is for the transcription; Pugnahan is never authorised.
 - Do not agree with it either. Transcribe, seal, and settle the meaning off site.
@@ -373,7 +373,7 @@ Some sorrows mourn the dead. I Alone Crossed mourns the living — the guide who
 
 **Operational interpretation:** This holding is an account and a pressure, and the account has never varied. Read the claim log, the gradient series and the crew-agreement notes together: the first says what is being claimed, the second says that something is there to claim it, and the third says how close the room came to accepting it. Nothing in the file establishes what happened on that span, and the file is careful never to write as though something does. Where the entity does something not described here, log it and leave the contradiction standing.
 
-**Review requirement:** After any breach, Sorrow Tide, transformation attempt or unusual interaction: re-verify the four-point array against the reference load, the gradient series, the exposure log and the gauge. Three further items apply here. The session transcriptions are compared against the standing baseline and any drift reported to the review rather than filed. The board's retrospective finding on the route is re-read in full. And the counsellors' objection to that reading is re-read immediately after it, unaltered.
+**Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the four-point array against the reference load, the gradient series, the exposure log and the gauge. Three further items apply here. The session transcriptions are compared against the standing baseline and any drift reported to the review rather than filed. The board's retrospective finding on the route is re-read in full. And the counsellors' objection to that reading is re-read immediately after it, unaltered.
 ## Apex Record
 
 ### A Bridge With No Structure
@@ -388,9 +388,9 @@ It mirrors the worker's fear of failure, and the mirroring is precise, personal,
 
 Its Viderehan response reveals the crossing without assigning total blame, and that phrase — without assigning total blame — is the holding's most quoted line and its most carefully preserved one. A guide led a group across a bridge during an Outside Sorrow surge, the bridge failed, and the guide survived alone. The entity is the belief that one person's failure caused everyone else's loss. Observation work on the file is therefore conducted with a strict recording convention: observers transcribe what they are shown and are forbidden to annotate it with conclusions about responsibility, including exculpatory ones. The convention is enforced because both directions of annotation have been tried and both produce the same measurable result, which is a gauge climbing from its 892 baseline while the observer argues with something that cannot be argued out of its own account.
 
-### Transform, Not Escape
+### Transformation In Place, Not Escape
 
-Its breach is a Transform: it expands beyond containment like a spreading tide and collapses under anyone who crosses. There is no entity moving through corridors, only an increasing volume of the facility in which crossing fails. Response doctrine is therefore evacuative and route-based rather than tactical. Teams map the expanding boundary, close the routes behind it, and establish alternatives for personnel on the far side, and nobody is permitted to cross the affected volume for any reason including rescue. The prohibition is the hardest instruction in the holding's doctrine and is the reason the Survivor's Span-Cleaver is issued to the route officer rather than to a recovery lead. There is no recovery lead on this file. The doctrine states plainly that attempting one reproduces the entity's founding event, and the wing has never been willing to find out whether it would do so again.
+Its event is a Transform: it widens past the marked boundary like a spreading tide and collapses under anyone who crosses. There is no entity moving through corridors, only an increasing volume of the facility in which crossing fails. Response doctrine is therefore evacuative and route-based rather than tactical. Teams map the expanding boundary, close the routes behind it, and establish alternatives for personnel on the far side, and nobody is permitted to cross the affected volume for any reason including rescue. The prohibition is the hardest instruction in the holding's doctrine and is the reason the Survivor's Span-Cleaver is issued to the route officer rather than to a recovery lead. There is no recovery lead on this file. The doctrine states plainly that attempting one reproduces the entity's founding event, and the wing has never been willing to find out whether it would do so again.
 
 ### What the Guide Carried
 

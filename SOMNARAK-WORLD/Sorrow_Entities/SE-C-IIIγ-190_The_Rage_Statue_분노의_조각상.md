@@ -40,7 +40,7 @@
 
 - It changes posture only when unobserved. Forty-one changes are recorded in nine years, every one of them found rather than seen, and all forty-one are stages of a single blow.
 - Work settles it into a posture, and never the posture it began in. This is expected and is not logged as a fault.
-- Two ignored conditions escalate it. It corrupts the zone outward rather than walking out of it, and the gauge opens at 55% on breach.
+- Two ignored conditions escalate it. It corrupts the zone outward rather than walking out of it, and the gauge opens at 55% when it escalates.
 - Grudge here presents as structural pressure. The floor plate is inspected on the same schedule as the gauge and has been replaced twice.
 - Recovery of anything left inside the five-metre line is separately authorised and is carried out by a second Warden, never by the person who dropped it.
 
@@ -146,13 +146,13 @@
 The Rage Statue is a Fragment (III) Subject with Subject-Grudge manifestation and Grudge expression, held at SECTOR-B-01 in Zone B. All four Work Types are available to it because it is a Subject; Pugnahan is nonetheless prohibited, since the Behavior table shows it raising the gauge every time it has been logged. Flerehan and Ferrehan lower it; Viderehan holds it level and produced most of this file.
 
 **Reading the response:** Read it in the arm and in the worker's writing. A falling gauge presents as the arm dropping a few degrees and the fissure-warmth receding; a rising one presents as heat in the fist. The other indicator is the Warden's own logbook: when a watch begins producing long, precise, well-argued grievances about the roster, that watch is over.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"The Rage Statue has broken free. Hunts personnel indiscriminately."*
+> *"Corruption event in progress. The Rage Statue is turning the zone it stands in; nothing has left it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corruption of its own zone |
 | **Movement** | It does not leave the chamber. It intensifies where it stands and the chamber's boundary moves outward around it; personnel are reached by the zone rather than pursued by the entity. |
 | **Effect** | Resilience burns off everyone inside the corrupted zone, fastest for those nearest the raised fist, and continues while the wrong goes unnamed. |
 | **Secondary Effect** | A fury that reads as entirely reasonable from inside it, and that burns through barriers because the people manning them have stopped wanting to hold them. |
@@ -163,7 +163,7 @@ The Rage Statue is a Fragment (III) Subject with Subject-Grudge manifestation an
 
 - **Event type (non-breach):** Corrupt. The chamber warps outward; nothing walks out of it, and the four recorded events were all ended inside the wing.
 - **Containment priority:** Name the wrong aloud over the sector channel. The radius contracts on acknowledgment and on nothing else, and a wrong named inaccurately does not contract it.
-- **Sorrow Gauge on breach:** Opens at 55%, among the highest recorded in the wing, and climbs ten points for every turn the wrong goes unnamed.
+- **Sorrow Gauge on event:** Opens at 55%, among the highest recorded in the wing, and climbs ten points for every turn the wrong goes unnamed.
 
 ## M.A.W. Equipment
 
@@ -235,7 +235,7 @@ Thin crimson capillaries glow between the stone plates, pulsing in sync with the
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to The Rage Statue's element. No protocol produces Stigmas. They emerge from The Rage Statue's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to The Rage Statue's element. No protocol produces Stigmas. They emerge from The Rage Statue's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
 
 ### Field Use Record
 
@@ -366,11 +366,11 @@ Some sorrows are spent. The Rage Statue is a sorrow that has been told, all its 
 **Common Name:** The Rage Statue
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It does not walk, but it breaches: four Corrupt events are on file, the gauge opens at 55%, and the zone expands outward while the wrong goes unnamed. The earlier entry describing the threat as moderate with no breach, on the ground that the statue is static, is an error and is corrected here — the entity's immobility is not the same thing as its containment.
+**Threat Assessment:** Major (γ). It does not walk, but it events: four Corrupt events are on file, the gauge opens at 55%, and the zone expands outward while the wrong goes unnamed. The earlier entry describing the threat as moderate with no event, on the ground that the statue is static, is an error and is corrected here — the entity's immobility is not the same thing as its containment.
 **Containment & Handling Procedures:**
 - Pugnahan is prohibited. Flerehan and Ferrehan lower the gauge and Viderehan holds it level; the earlier entry naming Pugnahan as primary contradicts the Behavior table, which records it raising the gauge on every occasion, and is corrected here.
 - Hold the five-metre line. Grudge pressure rises steeply inside it and the floor-plate gradient is measurable from the line outward.
-- The fist has not opened in any record the archive holds, through forty-one changes of posture and four breaches.
+- The fist has not opened in any record the archive holds, through forty-one changes of posture and four events.
 **Observation Notes:**
 - Formed from Zone B citizens who were barred from resisting and who petitioned instead, in writing, in their thousands.
 - The face resolves differently to different Wardens and no two descriptions in the debrief file agree in detail.
@@ -380,9 +380,9 @@ Some sorrows are spent. The Rage Statue is a sorrow that has been told, all its 
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Re-verify after every breach, naming, transformation attempt, or unusual interaction: gauge, posture against the plates, floor plate, personnel exposure, the naming list's currency, and whether the wrong named during the event contracted the radius or failed to. Failures go on the list as failures and are never removed from it.
+**Review requirement:** Re-verify after every event, naming, transformation attempt, or unusual interaction: gauge, posture against the plates, floor plate, personnel exposure, the naming list's currency, and whether the wrong named during the event contracted the radius or failed to. Failures go on the list as failures and are never removed from it.
 ## Warden Record
 
 ### The Unfinished Blow
@@ -409,11 +409,11 @@ The complaint run recovered from the Zone B ward office holds **3,188 petitions*
 
 Every one of them bears a receipt stamp. The office that could not act on them was scrupulous about acknowledging them.
 
-The run is not kept out of sentiment. It is the operational basis of the only suppression method this holding has. The breach procedure requires a Warden to name the wrong aloud over the sector channel, and the radius contracts on an accurate naming and on nothing else — so the wing maintains a **naming list**, drawn from the run, of wrongs that might be the one.
+The run is not kept out of sentiment. It is the operational basis of the only suppression method this holding has. The event procedure requires a Warden to name the wrong aloud over the sector channel, and the radius contracts on an accurate naming and on nothing else — so the wing maintains a **naming list**, drawn from the run, of wrongs that might be the one.
 
 The list cannot be ordered. The complaints carry no priority, no outcome, and nothing that distinguishes the grievance that became a statue from the three thousand that did not. Wardens are trained to read for severity, recency and specificity, and the file is blunt that this is a heuristic with no evidence behind it.
 
-In four breaches, naming has worked **three times**. The fourth failure is the instructive one. The wrong named was true, documented, serious, and verified afterwards against two independent records — and the radius kept growing for eleven minutes until a second Warden named something else. The file logs the failed naming in full, with the evidence that it was true, under a heading that has not been softened since it was written: *correct, and not the one.*
+In four events, naming has worked **three times**. The fourth failure is the instructive one. The wrong named was true, documented, serious, and verified afterwards against two independent records — and the radius kept growing for eleven minutes until a second Warden named something else. The file logs the failed naming in full, with the evidence that it was true, under a heading that has not been softened since it was written: *correct, and not the one.*
 
 **Failures stay on the list.** The standing instruction forbids removing a wrong that has been tried and failed, on the reasoning that the wing does not know why it failed and striking it out would record a conclusion nobody has reached.
 
@@ -423,7 +423,7 @@ The legal question was put properly in the sixth year, because the wing wanted t
 
 The Taboo barred self-help absolutely. What it left was the petition, and the petition imposed no duty of a kind an individual could enforce. The office's obligation to consider complaints was a **duty owed to the public at large** — to the good order of the zone, to the ward, to everybody — and a duty owed to everybody is owed to no particular person. No complainant could show that the office owed the duty to *them*, specifically, rather than to the zone in general, and without that nothing in the law would move.
 
-The opinion is careful to state what this does not mean. It does not mean the complaints were unfounded; the coding shows most were sound. It does not mean the office behaved lawfully in some admirable sense; it means only that its inaction was not actionable. **The system was not breached. The system worked as designed, and the design contained no point at which any individual's complaint had to produce anything.**
+The opinion is careful to state what this does not mean. It does not mean the complaints were unfounded; the coding shows most were sound. It does not mean the office behaved lawfully in some admirable sense; it means only that its inaction was not actionable. **The system was not escalated. The system worked as designed, and the design contained no point at which any individual's complaint had to produce anything.**
 
 There is a second finding, added at the wing's request. The receipt stamp made it worse. A complaint acknowledged in writing is a complaint whose complainant waits, and waiting is itself a kind of compliance — the petitioners spent years not resisting, lawfully, while their files sat. The opinion's closing sentence is the one quoted in the briefing: *they were not denied. They were received, in full, by a body that was never going to be required to answer, and the difference between those two things is the thing in the chamber.*
 
@@ -437,11 +437,11 @@ The reasoning is coherent. A decision made inside a field that reliably distorts
 
 The cost arrived in the seventh year.
 
-During the third breach a Warden inside the chamber judged that her partner had been under the fist too long, broke off the naming, and pulled him out. It was the right call; the incident review says so in terms; he was eleven minutes from a serious injury.
+During the third event a Warden inside the chamber judged that her partner had been under the fist too long, broke off the naming, and pulled him out. It was the right call; the incident review says so in terms; he was eleven minutes from a serious injury.
 
 She had no decision. The instrument deemed it not taken. What remained was a Warden who had left a naming procedure incomplete and removed a colleague from a post, with no authority on record for either, because the authority she had exercised was defined out of existence by the document that was supposed to protect her. A disciplinary file was opened. It ran four months, was closed with no finding, and **is not expunged**, because the scheme has no provision for expunging a file opened over a decision that was never taken.
 
-The objection is minuted at every annual review and is raised by the watch supervisor who signed the incident review. It holds that the deeming provision was written to void agreements and was applied to an emergency act, which nobody drafting it had considered and which the drafting notes do not mention; that the wing has known since the seventh year that the rule leaves a Warden acting correctly in an emergency with no authority to point to, and has made no amendment in two years of review cycles; and that the practical consequence is already visible in the training, where new Wardens are now taught to call the corridor before acting, which adds a delay the third breach shows cannot always be afforded. The minute records the objection as **correct in all three parts**. It records that an amendment carving out emergency acts was drafted, circulated, and not laid, for reasons the minute does not give. And it records the supervisor's closing line, minuted at her request: *she did the right thing and the file says she did nothing at all. Both of those are now permanent.*
+The objection is minuted at every annual review and is raised by the watch supervisor who signed the incident review. It holds that the deeming provision was written to void agreements and was applied to an emergency act, which nobody drafting it had considered and which the drafting notes do not mention; that the wing has known since the seventh year that the rule leaves a Warden acting correctly in an emergency with no authority to point to, and has made no amendment in two years of review cycles; and that the practical consequence is already visible in the training, where new Wardens are now taught to call the corridor before acting, which adds a delay the third event shows cannot always be afforded. The minute records the objection as **correct in all three parts**. It records that an amendment carving out emergency acts was drafted, circulated, and not laid, for reasons the minute does not give. And it records the supervisor's closing line, minuted at her request: *she did the right thing and the file says she did nothing at all. Both of those are now permanent.*
 
 ## Trivia
 
