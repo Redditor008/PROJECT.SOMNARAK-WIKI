@@ -35,13 +35,13 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Two observers a night, the reading taken at the line and countersigned before anybody leaves the vault. Nothing touches the crystal, nothing hurries it, nothing examines it. |
 
 ### Operational Notes
 
 - The Tear has not dried and has not been added to, and the record treats it as the first of its kind rather than the oldest.
 - Work steadies it. The volume is unchanged, and no session has recorded evaporation or increase.
-- Viderehan and Ferrehan are the valid approaches to the object.
+- Viderehan shows the shape of sorrow before language, and Ferrehan tests whether the observer can stay in the room while it is being shown. Neither approach has ever altered the Tear.
 - There is no breach counter. The influenced radius widens, and its edge is marked physically at every session rather than carried forward.
 - Extraction draws from residue at the edge and is authorized apart from the work cycle.
 
@@ -93,7 +93,7 @@
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
+- If resistance fails, the pressure passes into the worker whole: not a memory of a loss but grief with no event attached to it, arriving complete and belonging to nobody, and the Clarity it costs is spent faster than the gauge records.
 - Exposure is capped at the four minutes the reading takes, not because longer is known to be harmful but because nothing is known to be harmful and the vault declines to establish it. Observers who have overrun have reported no symptoms and have been stood down from the rota anyway.
 - The greatsword, the shroud and the charm are each attributed to this record and no extraction has ever been performed on it. They were in the vault when the vault was inventoried. The archive lists them because they exist and declines to explain how, which is the correct treatment of an item older than the inventory.
 - If the series lapses, nothing happens that night. The consequence is retrospective: the eleven-day gap of 4106 is followed by a glow value which never returned to the prior band, and with no readings from the gap there is no way to establish what moved or when. The loss is in the record, which is the only part of this entity the facility holds.
@@ -118,9 +118,9 @@
 |---|---|
 | **Form** | A single crystallized tear smaller than a raindrop, suspended above a sealed pedestal. It glows with faint blue light. |
 | **Position / movement** | Stationary — a structure or location. Posture and distance are logged because on First Tear neither has ever been assumed. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Material / signature** | Cold salt crystal, faint blue, four centimetres above the pedestal, weighing what a tear weighs. There is no sound from it, no draught, no detectable field — the instruments read the room and find the room. Its whole signature is an absence, and the glow value against the standard lamp is the only figure it has ever given anybody. |
 | **Distinctive markers** | There is nothing to confuse it with. One crystallised tear, smaller than a raindrop, faint blue, four centimetres above a sealed pedestal, not falling. If something in this vault is falling, it is not this. |
-| **Identification** | Verify these observations against the SECC code before work or contact begins; this vault holds two records of unknown origin and their handling is opposite. |
+| **Identification** | Check the designation and the vault before entry. This vault holds two records of unknown origin and they are handled oppositely: one is kept cool by destroying what is written about it, and this one is kept known by never missing a night. |
 
 **Appearance protocol:** Record the glow value against the standard lamp, the height above the pedestal, and the time to the second. Nothing else about its appearance has ever varied: smaller than a raindrop, faint blue, motionless, not falling. Observers are not to describe what the sorrow feels like; that field was removed from the sheet in 4151 and is not to be reinstated.
 
@@ -147,9 +147,9 @@ The Tear does not respond to Work Types in the conventional sense.
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. First Tear is recorded as an Object/Place with Object-Lament manifestation and Lament elemental expression. The current record places it at SECTOR-A-01, Alpha Tree deep vault — sealed; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the table as a duty roster rather than as a set of levers. Neither approach calms this holding and neither provokes it: Ferrehan is the scheduled reading itself, Viderehan is what the reading shows, and the distinction between the two is what the pair of observers is for. The Tear has no response to work of any kind — the glow does not vary with the approach used, the observer, the time of year, Sorrow Tides, events elsewhere in the vault, or anything the facility has thought to test across eleven centuries of nightly figures.
 
-**Reading the response:** There is no response to work. The glow does not vary with the approach used, the observer, the time of year, Sorrow Tides, events elsewhere, or anything the facility has thought to test across eleven centuries of nightly figures. The one variation on file follows a gap in the figures themselves.
+**Reading the response:** There is no response to read. The one variation on file follows a gap in the figures themselves — eleven nights in 4106 with no observer, no sheet and no reading — and thirteen decades have produced nothing else. A gauge that holds steady here is not reassurance and the sheet does not treat it as one; the standing posture is that the instrument is what the facility maintains, and the Tear is what it declines to test.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -173,7 +173,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | **Activation** | None authorized. Touch is forbidden. |
 | **Primary Effect** | Unknown. Proximity produces a complete emotional history of sorrow. |
 | **Duration** | Unknown. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
+| **Termination / Return** | The three attributed pieces are returned to the vault inventory at the end of the bearer's rotation, countersigned by the vault registrar on the same sheet as the night's figure. No extraction from the Tear is authorised and no question has ever been put to it. |
 | **Risk** | Immediate emotional overload and possible Fracture. |
 
 **Operational Rule:** The relics attributed to this record function only while carried and cannot replace a scheduled Work Type. None of them is to be carried into this vault. The prohibition is procedural rather than evidenced — nobody has tried it, and the standing instruction is that nobody establishes what would happen.
@@ -182,16 +182,18 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | First Tear rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping First Tear activates its primary resonance: Unknown. Proximity produces a complete emotional history of sorrow. Grants +10% resistance to Lament damage while equipped. |
-| 30 Seconds | The artifact was born from the original moment when someone lost something they loved; the bearer begins perceiving echoes of unknown. it occurred before han became structural and before somnarak existed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within First Tear begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear First Tear too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Immediate emotional overload and possible Fracture. |
+| 10 Seconds | The charm turns warm in the palm and the hand stops shaking; the glow value, read from four metres, is the same figure it has been for ninety-one years. | The sheet is opened. Both observers write the figure independently, and neither says it aloud in the vault. |
+| 30 Seconds | Nothing further. That is the whole of the observation window and it is why the vault's work is clerical: the reading is taken at the line, at the same distance, against the same lamp, in the same order every night. | The series is the output. Ferrehan here is the stamina of a duty two people perform nightly for eleven centuries; Viderehan is what a person sees while doing it. |
+| 1 Minute | The pressure does arrive — not from the Tear, which radiates nothing measurable, but from standing still and knowing what is suspended in front of you. Observers who overrun the four minutes report nothing, and are stood down from the rota anyway. | Overrun is capped at the reading, not at a symptom threshold. The vault will not establish what longer does to a person, and the standing instruction is that it stays unaware. |
+| 2 Minutes | The sheet is countersigned, the lamp is checked, the observers leave in the order they entered, and the figure is entered against the series before either of them speaks to anybody outside the vault. | A session is complete when the series is one night longer than it was. There is no containment outcome to achieve and nothing in the vault to suppress. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to First Tear: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-A-01, Alpha Tree deep vault — sealed, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here has never once originated in the Tear, and the section exists to say so plainly. Every event the vault has had originated in the facility: a missed night, a late reading, a sheet taken by one observer instead of two, a lamp out of standard. The reporting fields are therefore drawn around the rota rather than around the entity — which night, which observer, what the figure was, and where the procedure departed from the standing method.
 
 **Response sequence:** Secure the vault approaches, confirm the event is an instrument fault rather than a change in the Tear — it has been an instrument fault on all fourteen occasions — clear unshielded personnel, and then take the reading on time regardless. The reading is not suspended for an incident; it is the first thing restored after one.
+
+**Escalation record:** none, in eleven centuries. The series has one interruption, eleven nights in 4106, and the vault office caused it.
 
 ### Detailed Activation Record
 
@@ -202,7 +204,7 @@ The escalation pattern is specific to First Tear: it is not a generic containmen
 | **Primary effect** | Unknown. Proximity produces a complete emotional history of sorrow. |
 | **Duration / rate** | Unknown. |
 | **Risk** | Critical (δ) Object-Lament producing Lament pressure; Immediate emotional overload and possible Fracture. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised. |
 
 **Activation reporting order:** glow value → height above pedestal → time to the second → observer and countersignature → any interruption to the series and its duration. The last field is blank on all but eleven days of the record and those eleven days are the entirety of this entity's event history.
 ## M.A.W. Equipment
@@ -225,7 +227,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Type:** Armor (Suit) | **Grade:** δ (Critical) | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, faintly luminous and cool at the shoulders, worn over the night sheet by the observer who reads the lamp; it is the piece the rota actually uses and it has never been needed for anything else.
 
 **Ability:** Turns Lament aside from the mind at a magnitude no other suit in the archive reaches. It is issued for the observation rota and has never been needed; the Tear has not attacked anyone.
 
@@ -235,7 +237,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Type:** Accessory (Stigma) | **Grade:** δ (Critical) | **Element:** Lament
 
-**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch; it is worn on a cord and it was in the vault at inventory, which is the whole of what the registrar has ever written about it.
 
 **Ability:** The charm steadies its bearer's hand and voice while they are recording a figure. It is the smallest effect attributed to any item in the archive and it is attached to the oldest record in it, which the vault registrar notes without comment in the inventory margin.
 
@@ -245,16 +247,16 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 ### M.A.W. Use Notes
 
-A piece cut from First Tear is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder carries the first grief and weeps involuntarily. Three authorised uses exist in the archive and all three bearers were retired from field duty afterwards at their own request, and it is paid whether the use was correct or not.
+No piece of this set was cut from the Tear and no extraction from it has ever been authorised. All three were in the vault at inventory, they are older than the inventory, and the archive lists them because they exist and declines to explain how — the correct treatment of an item older than the register that holds it. They work while carried, as the relic class does, and none of them is to be carried into this vault. The tolerance for these three is narrow and identical to their recorded cost, and it is not the vault's business to widen it.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, First Tear's toll being that the wielder carries the first grief and weeps involuntarily. Three authorised uses exist in the archive and all three bearers were retired from field . |
-| **During use** | Watch for First Tear's toll — the wielder carries the first grief and weeps involuntarily. Three authorised uses exist in the archive and all three bearers were retired from field  — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wielder no longer notices First Tear's toll — the wearer goes numb to small pleasures, and the numbness is slower to lift than with any other shroud on issue — the medical office budgets a fortnig — which is how every stand-down on this set has been caught. |
-| **After use** | Return, reconcile the baseline, and record whether First Tear's toll has reversed: the wearer goes numb to small pleasures, and the numbness is slower to lift than with any other shroud on issue — the medical office budgets a fortnig. Where it has not, the piece is not reissued to that wielder. |
+| **Before use** | Wielder, piece, gauge, and the two pre-checks the set carries: whether the charm has been returned by its previous bearer, and whether the wielder has read the toll in the equipment section rather than being told it. |
+| **During use** | The wearer's own report is taken at the door rather than inside the vault, and the vault registrar records the hour the piece was next seen by somebody other than the wearer. The first sign is the bearer weeping deliberately and reporting it as deliberate. |
+| **At limit** | Nothing. The set has no symptom the wilder will report, which is why the stand-down is triggered by a colleague's account and has been every time: two of the three bearers were walked off the rota by the second observer, not by a gauge. |
+| **After use** | Return against the inventory, then the long check: the wearer goes numb to small pleasures and the medical office budgets a fortnight for it. Where the numbness has not lifted by the fortnight the piece is not reissued to that bearer, and the shroud's three records are read together at the annual review. |
 
 **Stat interpretation:** The grade tells you how hard a piece hits, which on this post is irrelevant — nothing here is struck. What the table cannot show is that the observation rota is the longest continuous duty in the facility, that it is worked by two people a night, and that the second person exists solely so that the figure is witnessed.
 
@@ -262,10 +264,10 @@ A piece cut from First Tear is not ordinary equipment: it works by being a part 
 
 **R.D. Comprehension Level:** 5 — Sovereign
 
-- The Tear is smaller than any other known entity.
-- Its Han-signature predates the city and all known records.
-- It radiates the sorrow of everything without visibly changing.
-- No M.A.W. extraction attempt is authorized.
+- The nightly figure has been 0.38 for 91 years, 0.41 for the 365 nights of 4202 as logged, and 0.41 from the twelfth night of the 4106 gap onward; the series runs without interruption otherwise across 13 decades.
+- The gap is still the only movement on file: 11 nights in 4106 with no observer, no sheet and no reading, the last figure before it 0.38 and the first after it 0.41.
+- Every event attributed to this vault has been a fault in the facility's own instruments — 14 of them — and the reading is taken on time regardless in all 14 cases.
+- No M.A.W. extraction from the Tear is authorised; the 3 attributed pieces were in the vault at inventory, and the 3 authorised uses of them are the whole of the archive's field record.
 
 **Personnel Note:** *"It was watching. I felt hope. I realized hope and sorrow began together, in the same first moment."* — Specialist, Zone C patrol
 
@@ -275,10 +277,10 @@ A piece cut from First Tear is not ordinary equipment: it works by being a part 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies First Tear as an Object/Place with Object-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-A-01, Alpha Tree deep vault — sealed. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. The Tear does not respond to. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: None authorized. Touch is forbidden. Effect: Unknown. Proximity produces a complete emotional history of sorrow. Duration: Unknown. Risk: Immediate emotional overload and possible Fracture. Tool Use Profile — I-Relic Operational Rule: The relic remains active while attached to the operator. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In First Tear's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The first night is a procedure, not an encounter: two observers, the line, the standard lamp, the height, the time, the sheet, and out. Nothing is touched and nothing is asked. The one thing a new observer is told before the first night is what the vault holds and how long the figures have held it, because the figure alone means nothing without the series behind it. |
+| **Sustained observation** | The work does not change with seniority. Nightly figures, both observers writing independently at the line, and the sheets compared outside the vault rather than inside it. The rota is the longest continuous duty in the facility; the second observer exists so that the figure is witnessed, and their independent reading is the only cross-check this record has. |
+| **Activation or escalation** | Never observed, and the vault will not arrange one. The fields for trigger, effect and duration stand empty because nothing has ever activated: no breach counter is maintained, no approach is authorised, and the pedestal has never been tested. What the observation team records instead is distance, duration, Sorrow Gauge movement and any departure from the standing method — because a change in procedure and a change in the Tear would be indistinguishable in the series. |
+| **Post-contact review** | The sheet is checked against the preceding night before the observers leave the antechamber. Gaps are the finding: the report for any interruption must state the night, the duration, the cause so far as it is known, and whether the figure moved across the gap. In First Tear's case the report is incomplete if it records only the danger and omits what the entity preserves — which is the one thing the facility has never needed to fear from it. |
 
 **Observation method:** Enter, stand at the line, read the glow against the standard lamp, read the height, note the time, leave. Both observers record independently and the sheets are compared afterwards rather than during. Do not discuss the figure inside the vault. The encounter ends when the entry is countersigned, not when the room is left.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -304,30 +306,26 @@ Two people a night, every night, for eleven centuries, to write down a number th
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals First Tear; the other feeds it.
-
-| Hold to the condition: Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Do the obvious, decent thing instead, and feed First Tear. |
+| Take the figure, write it twice, and leave the crystal alone. | Stay a minute past the reading — it is only a minute, and the Tear is the oldest sorrow in the world. |
 |---|---|
-| Tests whether the observer can bear total grief. The sorrow is witnessed; First Tear is fully recorded. | Shows the shape of sorrow before language. The gauge climbs and First Tear withdraws without revelation. |
+| A figure entered against the series, on the night it was due, with two signatures under it. | A reading late, a second reading written from the first, and a rota record that now has a question in it no instrument can close. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-The vault is silent around a single tear. It is smaller than a raindrop and heavier than the city. You do not need to touch it. Every sorrow you have ever known rises in its presence, followed by the understanding that sorrow is as old as love.
+The vault is silent around a single tear. It is smaller than a raindrop, it hangs four centimetres above a sealed pedestal, and it is the oldest thing the Directorate keeps. You do not need to touch it. Nothing about the room changes when you enter: the instruments read the room and find the room.
 
+**At first contact:** The first thing is the arithmetic. Four centimetres, four minutes, two observers, one figure against a standard lamp — a reading so small that the vault stops reading it as drama and starts reading it as a column. The blue light does not pulse and the salt does not move. What arrives is not from the Tear at all: it is the awareness of how long somebody has been writing this figure down, and how many of them there have been.
 
+**With continued exposure:** The shift is slow and it is in the observer rather than the room. The figures stop feeling like a formality. A reader who has taken the lamp reading for a season will tell you that the number has become a statement about the world rather than a measurement of an object, and the sheet's own standing note is that this is expected, harmless, and not to be written into the record.
 
-**At first contact:** The first identifiable detail is Physical Form: A single crystallized tear smaller than a raindrop, suspended above a sealed pedestal. It glows with faint blue light. Notable Features: It predates the city, radiates every form of sorrow, and has never been touched by. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Object-Lament form.
+**When the entity activates:** It has no activation. There is no trigger, no pulse, no sharpening of the light, and no instrument at the line has ever recorded anything but the room. The nearest thing to an event in eleven centuries is a gap — eleven nights in 4106 with no sheet at all, and a figure that came back one step from where it had stood for ninety-one years.
 
-**With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Lament is teaching you its sorrow.
-
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: None authorized. Touch is forbidden. Effect: Unknown. Proximity produces a complete emotional history of sorrow. Duration: Unknown. Risk: Immediate emotional overload and possible Fracture. Tool Use Profile — I-Relic Operational Rule: The relic remains active while attached to the operator. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
-
-**After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** The door seals and nothing follows you out. The residue in a reading like this one is a habit of noticing: observers find themselves counting things for a few days afterwards — the steps from the antechamber, the hours between watches — and the counselors log it as the ordinary cost of a duty that consists entirely of paying attention to a number.
 
 ### Interaction Pattern
 
-First Tear does not exist in isolation. Its recorded relationships with The Sorrow River, The Maw, The Forgotten God, The Last Memory should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The Tear is not in tension with anything in this vault and nothing in this vault is in tension with it. Every comparison on this file is a set of readings taken here during events elsewhere, in the same series, by the same two observers, and the standing position is that a null result from the oldest record is the calibration against which every younger record is read.
 
 **Interaction method:** It is not brought into proximity with anything and nothing is brought to it. The interaction material in this file is observational only: readings taken here during events elsewhere in the vault, compared against the series. No correlation has reached significance, and the comparisons are continued because a null result from this record is itself the calibration other records are read against.
 
@@ -338,10 +336,10 @@ The First Tear is filed with the Alpha Tree deep vault records and it is the rea
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Sorrow River** | The River may flow from the First Tear. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Maw** | The Maw carries the First Sorrow's city-scale consequence. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten God** | The God dreams around the Tear's ancient grief. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Last Memory** | Holds the final moments of what the Tear began. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Sorrow River** | The succession chart carries the strongest line in the archive: the River is held to flow from the Tear, the first drop finding channels until one tear became a river and the river became the ocean the city stands on. | No co-presence exists and none can: the comparison is the reading taken in the vault during a River event, against the series. No figure has moved on any such night. The descent is a doctrinal line in the chart, measured here on every occurrence, and never once observed. | The reading for every River-event night, the series beside it, and the chart's own annotation. |
+| **The Maw** | The Maw is filed downstream in the succession as the city-scale consequence of the first sorrow, and the relation has never been anything but a filing line. | No co-presence exists. Readings taken on the nights of Maw events are entered in the same column as every other night, and the archive's stated position is that a descent is a claim about the chart and not a mechanism between two holdings. | The event nights, the readings, and the standing note on descent. |
+| **The Forgotten God** | The God's interval is the only other reading series in the vault's register that predates the Directorate, and the two are kept in the same room for that reason: two instruments older than the institution that page them. | No co-presence. The vault's note is procedural — the God's interval can move and has; the Tear's figure has not moved except across an eleven-night gap in 4106 — and the pair is cited whenever an archivist needs to state what an unvarying series looks like over thirteen decades. | Both series, the interval key, and the vault note. |
+| **The Last Memory** | The Memory holds the closing moments of what the Tear is held to have begun, and the archive pairs them as the beginning and the summary of the same succession. The pairing is editorial and the filing says so. | No co-presence. Nothing has ever been exchanged between the registers and no reading on either side has moved with the other; the pairing exists because the two files answer the same question at opposite ends, not because anything was observed. | The filing note and both registers' current statuses. |
 
 **Interaction procedure:** No joint sessions. The procedure is the nightly reading, unaltered, during whatever else is occurring: the same line, the same lamp, the same two observers if possible. Any deviation from the standing method is recorded on the sheet, because a change in procedure and a change in the Tear would be indistinguishable in the series.
 
