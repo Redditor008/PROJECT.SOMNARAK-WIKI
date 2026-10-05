@@ -354,6 +354,17 @@ It does not rage and does not weep. It is a mirror that will not show you the ro
 
 **Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, recheck containment status, the category list, the recognition entries, the convergence study's agreement score against any new trial, the establishment projection, and the standing of the notification proposal, which is to be reported as outstanding for as long as it is outstanding.
 
+### Entity Interaction Record
+
+The two relations below are false friends, and the wing keeps them together for that reason: both counterparties return a person rather than a place, which is the one thing this pane never does. One was used as a control on the convergence study. The other is its exact opposite in protocol, and the review reads the two files side by side whenever the no-identification rule is argued.
+
+| Related entity | Canonical interaction | Observed operational effect | Required record |
+|---|---|---|---|
+| **Learned Your Face** | The second control the study needed: if the faces here come from the viewer's own grief, then a glass that returns nothing but the viewer's own grief should return describable faces too. Nine channellers at the Alpha Tree wrote descriptions afterwards, in the study's format and to the same clerk. | Nine descriptions, scored blind against the same two hundred and forty pairs. None converged above noise, which is what the grief-control also returned and is the finding the study keeps: the faces here are not furnished by the viewer. The Face's own keepers measured no change across the nine sessions and the bay gauge was flat. | The nine descriptions, the assessor's score, the bay gauge, and the note that no face was named on either holding. |
+| **Sky of Borrowed Faces** | The opposite protocol, filed beside this one on purpose: both put a person into a surface, and the transect keeps an identification register while this file is forbidden to keep anything finer than a category. The likenesses are the same class of image and the two wings read them in opposite directions. | No co-presence, and none proposed: a likeness carried onto the transect's surfaces would be an identification this holding cannot log, and the transect's register would be the register this one is built to refuse. Both containment statuses unchanged and no figure moves. | The transect register's schema, this file's category list, and the two standing rules as filed. |
+
+**Interaction procedure:** A control written into a study is run under that study's conditions — same format, same clerk, same blind scoring — and its null result is entered as a result. No other pairing is arranged: a second glass that returns a person is not brought into the chamber, and nobody is sent to look at one in order to check what a Warden saw here.
+
 ## Watch Record
 
 ### It Reflects What Is Gone
