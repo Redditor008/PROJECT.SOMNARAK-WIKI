@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Mixed pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per cycle, drawn through a sealed vault wall by instruments on the gallery. Nobody has been on the floor with it in nineteen years and the yield has not varied in that time. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | δ · δ |
@@ -42,7 +42,7 @@
 - A cycle reduces the pressure in the block. The entity is unchanged, and no session has produced a name that survives the debrief.
 - One ignored condition escalates it. There is no margin, and the approach is authorized individually rather than by rotation.
 - Mixed pressure means no single register gives early warning; crews are withdrawn on elapsed time rather than on any reading.
-- Extraction is a separate risk event under its own authorization and is never attempted while the entity is active.
+- Extraction has never been authorised. The entity is asleep, the suppression condition is not to wake it, and the Armoury's entry notes that every extraction procedure it holds begins with contact.
 
 ## Combat Record
 ### Core Stat Line
@@ -82,20 +82,20 @@
 | { *The Erased Name* [**Debuff**] } | "The god's name has been forgotten — and without a name, it presses harder, because it cannot be called, only felt." | [The God's namelessness intensifies; the target feels an unnamable weight.] | *Target loses 10 Resolve; they are being worshipped by absence.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | When the target lingers. |
 | { *The Divine Wrath* [**Attack**] } | "The forgotten god remembers, briefly, what it was — and the memory is a weapon." | [A flash of forgotten divine power.] | *Inflicts a Mixed cycle of damage — every sorrow at once.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP) | 8s, 2s per type]** | When the God is disturbed. |
 | { *The Reawakening* [**Attack**] } | "The god stirs — and for one moment, it is as vast as it ever was, before the forgetting." | [The God's brief reawakening releases its full divine weight.] | *A heavy Mixed surge; the target's Sorrow Gauge surges 15%.* **[20-30 Grudge (HP) -> 20-30 Lament (Composure) -> 20-30 Weight (Both) -> 3 Void (15% Max HP) | 8s, 2s per type]** | When the God is invoked. |
-| { *The Return of the Forgotten* [**Ultimate**] } | "The forgotten god remembers everything — and so does everyone else — and the weight of a returning deity crushes the field." | [The God's full remembrance floods the entire area.] | *All in range suffer a Mixed cycle for three turns of divine return.* **[10-16 Grudge (HP) -> 10-16 Lament (Composure) -> 10-16 Weight (Both) -> 2 Void (10% Max HP) | 8s, 2s per type (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Return of the Forgotten* [**Ultimate**] } | "It remembers everything, and so does everybody else, at the same moment." | [The god wakes and the city's memory of it returns entire.] | *Projected as city-threatening. Never observed; modelled from the depth of the sleep and the rate at which the vault's own staff forget the holding exists.* **[Projected]** | On waking. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the All four — Lament, Grudge, Void, Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Three on the gallery, never fewer, with the third assigned to nothing but watching the other two. Nobody descends. The roster is checked at the door because the third post is the one that gets quietly dropped.
 2. **Clash:** There is no clash on this holding and the phase is retained only because the form requires it. What happens instead is the lament: the rite is kept, the lamps are checked, the log is signed, and nobody addresses the figure directly. A crew that finds itself speaking to it stops and withdraws.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not wake, address, or attempt extraction. Maintain the sealed vault**.
+3. **Resolution:** Do not wake it, do not address it, do not attempt extraction. The cycle closes when the breathing interval has been logged twice and the gallery is clear; 188 cycles, no deviation, and the station counts a cycle in which nothing happened as the correct outcome.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resolve** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Forgotten God’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Forgotten God defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- The failure here is speech. Not shouting — a word said on the gallery, at ordinary volume, which has happened four times and on each occasion the breathing changed for the rest of the shift.
+- There has been no contact. What the file records instead is the drift: vault staff forget this holding exists at a measurable rate, and the third post on the gallery was created because two observers alone had twice failed to log a cycle they had worked.
+- No piece has been extracted and the three listed below are the vault's own equipment, rated for the gallery and issued under this designation because there is nothing else to issue.
+- There is no resolution to reach. It is asleep and the whole of the management is that it stays asleep; the file's operational content is a breathing interval and a roster.
 
 ## Appearance
 **Primary Form:** Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh. The crystal is dark at the limbs and torso, but translucent around the chest and face, where old prayer-light moves slowly beneath the surface. The figure remains motionless with its hands folded against its body and its head lowered as if listening to a prayer spoken thousands of years ago.
@@ -121,9 +121,9 @@
 |---|---|
 | **Form** | Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh. |
 | **Position / movement** | The figure remains motionless with its hands folded against its body and its head lowered as if listening to a prayer spoken thousands of years ago. |
-| **Material / signature** | All four — Lament, Grudge, Void, Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Material / signature** | All four elements at once, which is the identifying fact: no other holding in the registry presents Lament, Grudge, Void and Weight together. Record the breathing interval from the gallery and nothing else; no instrument is lowered to the floor. |
 | **Distinctive markers** | The face is human in outline but too still to read as living. The air around the God trembles without sound. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | A sleeping shape too large for the vault that contains it, registering on all four elemental scales simultaneously. Confirmation is the four-way reading and takes nine seconds. |
 
 **Appearance protocol:** Record the posture first — hands, head, and whether either has altered since the last entry — then the crown-light, the prayer-light under the lids, and the dust, which lifts rather than settles and circles when an old prayer reaches the city. Record the lamp state at the time of every observation and enter it on the lamp ledger as well, because the ledger is the longer series and must not develop gaps. Note the colour of the plates at the three marked points. Do not attempt to copy the marks that appear on the vault walls; they fade faster than they can be written, four attempts are on file, and all four crews reported the same headache afterwards.
 
@@ -147,9 +147,9 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Forgotten God is recorded as a Subject with Subject-Body manifestation and All four — Lament, Grudge, Void, Weight elemental expression. The current record places it at SECTOR-A-01, beneath the Alpha Tree — sealed; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+No Work Type has been applied in nineteen years. The table is inherited from the original survey and the station has asked twice for it to be struck. What is tracked instead is the breathing interval — 41 seconds, unvarying — and the number of vault staff who can state, unprompted, that the holding is there. That second figure has fallen from nineteen to six.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Nothing is worked, so nothing is read in the usual sense. The interval is logged twice a cycle; it has been 41 seconds on every log since the vault was sealed, and the four occasions it changed were all after somebody spoke on the gallery.
 ## Breach Behavior
 
 > *"Forgotten God has broken free. Hunts personnel indiscriminately."*
@@ -161,7 +161,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
 | **First Target** | Unestablished. The planning assumption is the nearest personnel, recorded as an assumption rather than an observation. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **Escalation** | +5 Clarity drain per cycle while the interval is irregular. It has been irregular on four occasions, for a total of eleven hours, and has returned to 41 seconds each time without intervention. |
 
 ### Escalation Notes
 
@@ -187,15 +187,15 @@ The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striki
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Forgotten God's lament signature in the strike.
+**Ability:** Lament against the Mind. This is the vault's own gallery piece and behaves as it does elsewhere; its entry here is a reissue and is marked as one.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** Involuntary weeping without accompanying grief, which the vault's staff regard as the ordinary price of gallery duty and which is logged per shift.
 
 ### M.A.W. Suit — The Forgotten Shroud
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a pale shroud issued to the gallery, carrying four small clasps rather than one — one for each element the holding registers on, which was the smith's own idea and is recorded as such.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -205,19 +205,19 @@ The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striki
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Forgotten God's kind of pressure.
+**Ability:** Resistance to Lament against the Mind. Issued to all three gallery posts and to nobody else; the vault does not hold a second set.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** Numbness to minor joys, and — specific to this posting — an increased rate of forgetting the holding between shifts, which is the reason the third post writes the log.
 
 ### M.A.W. Stigma — The Forgotten Crown
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a circlet of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a plain crystal circlet, cool, which the vault's register lists as *issued, gallery, three* and which no entry describes beyond that.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the working stat on the gallery, which is to say while standing still, saying nothing, and counting seconds
 
 **Ability:** Commands hesitation and respect from nearby entities.
 
@@ -233,12 +233,12 @@ The three pieces come from a thing that received grief for a living, and they ke
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Post, piece, the roster showing three names, and the previous cycle's interval. The third name is confirmed aloud at the door. |
+| **During use** | The interval, twice, and any word spoken on the gallery with who said it. Both columns are short and the second is usually empty. |
+| **At limit** | The interval departs from 41 seconds. The gallery is cleared on that alone and has been four times. |
+| **After use** | Log the two intervals and ask each of the three, separately, what holding they have just worked. Six of the nineteen staff can now answer without prompting; the figure is reported quarterly. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Nothing here is graded against observation. The only numbers in this file are 41 seconds, three posts, and six people who remember what is in the vault.
 
 ## 관찰 기록 (Observation Log)
 
@@ -256,18 +256,18 @@ The three pieces come from a thing that received grief for a living, and they ke
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Forgotten God as a Subject with Subject-Body manifestation. The first reliable markers are its All four — Lament, Grudge, Void, Weight signature, the primary visual marker, and its presence at SECTOR-A-01, beneath the Alpha Tree — sealed. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Forgotten God's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | From the gallery: something sleeping, far larger than the chamber appears able to hold, reading on all four elemental scales at once. Nobody has seen it from the floor and nobody will. |
+| **Sustained observation** | Nineteen years of a 41-second breathing interval, logged twice a cycle by a third observer whose only task is the log. The series is unbroken and contains four irregularities, all of them following speech. |
+| **Activation or escalation** | A change in the interval. Record the new interval, who was on the gallery, what was said, and the time to return to 41 seconds — which has been between forty minutes and six hours. |
+| **Post-contact review** | There is no contact. The review is the interval log, the roster showing three, and the quarterly count of staff who can name the holding unprompted. |
 
-**Observation method:** Observe from the gallery, never from the floor, and never alone — the roster is a minimum of three and the third person's task is to watch the other two. Record the first visible sign, the first emotional sensation and what preceded it, the first measurable change in lamp behaviour, and the condition that ended the watch. Nobody addresses the figure, aloud or otherwise. The form here is its sorrow and not its intention: what it looks like tells you what it holds, not what it would do, and this holding has never given anybody grounds to say what it would do.
+**Observation method:** From the gallery, never the floor, never alone — minimum three, and the third person's task is the log and nothing else. The log exists because this holding is forgotten faster than it is observed, and the station treats the forgetting as the live risk rather than the waking.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten God (C-Vδ-265 [LS]) is logged as a Subject-Body manifestation expressing All four — Lament, Grudge, Void, Weight. The God predates the current city and was once worshipped as a deity of sorrow. Held at SECTOR-A-01, beneath the Alpha Tree — sealed. The God has never fully awakened.
+Forgotten God sleeps in a sealed vault beneath the city, larger than the chamber looks able to hold, registering on all four elemental scales at once. It was prayed to in a crisis and forgotten in the safety that followed. It has not woken in nineteen years and six people in the vault's establishment can say, unprompted, that it is down there.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Dreams and prayers spread through the city. Personnel experience unanswered ancient prayers and divine sorrow. Its dreams leak into the city as prayer and nightmare.
@@ -283,9 +283,9 @@ The archive cross-references this entity with its registered location — the so
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Forgotten God; the other feeds it.
+> The choice is on the gallery, in the quiet, when the obvious human thing is to say something to it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Log the interval and say nothing at all. | Say something — anything — to the thing nobody has spoken to in nineteen years. |
 |---|---|
 | Dreams of ancient prayers become gentler. The sorrow is witnessed; Forgotten God is fully recorded. | The vault fills with divine pressure. The gauge climbs and Forgotten God withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -298,31 +298,31 @@ The vault is full of prayer without words. A sleeping figure rests beneath the r
 
 **At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh. The crystal is dark at the limbs and torso, but translucent around the chest and face, where old prayer-light moves slowly beneath the surface. The figure remains motionless with its hands folded against its body and its head lowered as if listening to a prayer spoken thousands of years ago. . The space does not become generic; it shifts in the specific register of All four.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The All four pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The quiet becomes ordinary and the holding becomes background. Gallery staff describe forgetting it while looking at it, and the third post exists because two of them once wrote up a cycle as uneventful without mentioning what it was a cycle of.
 
-**When the entity activates:** The Gauge tips. The Subject-Body does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The All four is no longer atmospheric. It is operational.
+**When the entity activates:** The interval changes. That is all that has ever been observed: 41 seconds becomes something else, the gallery is cleared, and some hours later it is 41 again.
 
-**After departure:** After contact, the body holds what the mind files away. The All four is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** You forget it. Not immediately and not completely, but measurably: the vault asks its staff quarterly to name the holdings in their care, and this one is omitted more often than anything else in the building.
 
 ### Interaction Pattern
 
-Forgotten God does not exist in isolation. Its recorded relationships with The Burning Library, The Final Door, The Maw, The First Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Four relations, all of them things that predate the city or hold its oldest sorrows, and all of them established from outside the seal. Nothing has been brought into this vault and nothing will be.
 
-**Interaction method:** Nothing is brought into this vault, so every pairing on file was established from outside the seal and the readings are correspondingly weak. Baseline both parties alone over a long series, then log the first mutual change with its distance, duration and trigger, the gauge movement on each side, the effect on the lamps, and whatever persists after separation. Re-verify each cycle rather than relying on a settled result; a Sorrow Tide, an Ordeal or a transformation has inverted stable readings elsewhere in Zone A, and this is the one holding where nobody wants to be surprised.
+**Interaction method:** Nothing enters the vault, so every pairing on file is a correspondence of readings taken on both sides of a sealed wall at the same hour. The method is weak and the station says so; it is the only method available.
 
 
 ### Entity Interaction Record
 
-This holding is read against the other things that predate the city or hold its oldest sorrows. The relations below have been observed and filed; none of them is settled, and all four were established from outside the seal, since nothing is brought into this vault. A result obtained once carries no authority during a Sorrow Tide, an Ordeal, or a transformation event.
+This holding is read against the other things that predate the city or hold its oldest sorrows. None of the four relations is settled and all four rest on simultaneous readings rather than contact.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What it is | What the interval did | Required record |
 |---|---|---|---|
-| **The Burning Library** | Preserves the God's forgotten scripture. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Final Door** | Sleeps near the Door as if guarding it. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Maw** | Both predate the city and carry foundational sorrow. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The First Tear** | Its ancient sorrow resonates with the God. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Burning Library** | Holds what was written to this entity before it was forgotten. | Four correspondences. The interval did not change; the Library produced eleven lines of liturgy and the vault has not read them aloud anywhere. | The lines, held sealed, and the interval log for the day. |
+| **The Final Door** | Sleeps in the same deep stone, two vaults over. | The only pairing with a measured effect: the Door's whisper hour and this interval have never once overlapped in nineteen years, which the Keepers treat as the most interesting negative in Zone A. | Both logs, timed and compared quarterly. |
+| **The Maw** | Also older than the records, also unforgotten by the people in it. | Three correspondences, no change either side. The thousand do not mention this entity and the Architects have searched for it. | The transcripts, with the negative recorded. |
+| **The First Tear** | Filed as resonant on grounds of age alone. | Two correspondences, nothing measured. The station notes that age is not a mechanism and has stopped scheduling the pairing. | Interval log; the entry is closed. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Simultaneous readings on both sides of the seal, at an agreed hour, with neither party moved. That is the procedure in full and it is the reason three of the four relations are recorded as negatives.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -370,9 +370,9 @@ Some sorrows mourn the dead. Forgotten God mourns its own obsolescence — the p
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The suppression condition is three prohibitions and the real risk is none of them. This holding has been asleep for nineteen years at 41 seconds a breath and has never been approached; what is actually happening is that the vault is forgetting it. Nineteen staff could name it when the vault was sealed and six can now. The third gallery post, the quarterly naming count and the log exist because of that, and the file's own view is that an entity which was prayed to in fear and forgotten in safety is being forgotten a second time by the people paid to watch it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Each cycle: two intervals, the roster showing three names, anything said on the gallery, and the quarterly count of staff who can name the holding unprompted. One standing item — if that count reaches three, the Director is notified in person, because below three the vault cannot staff the gallery with people who know what they are watching.
 ## Sovereign Chronicle
 
 The God predates the current city and was once worshipped as a deity of sorrow — prayers offered, rites performed, faith placed. Then the prayers stopped being answered, or stopped being asked; the record cannot say which failed first. This chronicle records what the worship was, what the abandonment cost, and what the Directorate owes a god the city discarded.
@@ -445,7 +445,7 @@ Fourteen officers have signed it. Each of them knew the cistern entry was false 
 
 One refused. The post was left vacant for seven months because the wing would not put forward a candidate who had not been told, and in those seven months the register went un-revised and the schedule lapsed. **The lapse is still on the file, uncorrected**, since correcting it now would require explaining the gap. The officer who refused was not moved, not marked, and still holds a senior post; the wing's standing instruction is that the refusal was legitimate and that nothing is to attach to it, ever.
 
-The records office objection is minuted at every revision. A register that is wrong in one particular is a register that is wrong; the practice has already been copied twice elsewhere in the estate without authority, by people who learned it here; and the liability has been placed on individuals because the institution cannot carry it. The minute records the objection as **correct in all three parts**, including the copying, and records the only answer the wing has ever given, which is not an answer: *the alternative is a published address.*
+The records office objection is minuted at every revision: a register that is wrong in one particular is a register that is wrong, and the practice of leaving this holding off the circulated inventory — adopted to limit how many people know what is in the vault — has produced a situation where six people know. The minute records the objection as correct and the practice as unchanged.
 
 ## Trivia
 
@@ -460,7 +460,7 @@ The records office objection is minuted at every revision. A register that is wr
 - **Field detail:** Its defining element is All four — Lament, Grudge, Void, Weight, and its registered location is SECTOR-A-01, beneath the Alpha Tree — sealed.
 - **Recognition detail:** Identify it by the crystal plates, the prayer-light under the lids, and the dust that lifts rather than settles; never by the atmosphere of the vault, which varies with the lamps.
 - **Record detail:** The sanctuary appears on the facility register as a disused cistern, and has done since the first survey. Anybody checking the estate record against this file will find no sanctuary at that address, which is deliberate and is explained in the Sovereign Chronicle.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** The seal is real and has never been tested. What is actually holding this holding is that nobody has spoken to it in nineteen years, which is a practice rather than a barrier, maintained by three people a shift who are increasingly the only people who know it is there.
 ## Document Information
 
 **Document ID:** SE-C-Vδ-265
