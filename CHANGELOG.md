@@ -38,6 +38,30 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 17 / unit 2 — Floating Pillar `N-IIIγ-409` closed (2026-10-06)** —
+  measured at `051a96a`: **7 dirty sections**, worst M.A.W. Equipment 0.430, then 기록 (Registrum) 0.339, 이야기
+  보고 (Story Log) 0.157, 최종 관찰 (Final Observation) 0.156, Containment Event Behavior 0.152, Trivia 0.078 and
+  Combat Record 0.074. All seven closed in two waves (25 + 12 sites); 6,778 → **7,441 words**; `tpl.py` residue
+  5 → **0**; `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged as` carrier); `sectfile.py` ends at
+  **0 section(s) over 0.05**; `wikistd.py` meets **True** with the **series clause closed on the file's own
+  figures** — **11** years of reliance, **4,160** readings from the two marks in **9** years, the levelling
+  traverse closing **31** millimetres out and rerun at **28**, **19** failed subsidence claims, **18** temporary
+  permission renewals — written into the counted Registrum Observation Notes as a digit restatement of its own
+  numbers, **disclosed** as such (number-words ruling still pending); the condition was **already satisfied and
+  left alone** (`R-05`). Story Log Entry 5 carried the same **stock tale family** as Learned Your Face's
+  (*There is a story in Somnarak … a Warden who couldn't protect*, 24 shared grams) and was replaced with this
+  file's own commissioning material — the unsent letters and the Market's as-built drawings. The Registrum shell
+  pair (`**Operational interpretation:**`, a **66-dossier carrier**, and `**Review requirement:**`) was re-authored
+  onto the holding's own unreferenced position series and its three standing questions, and the faction line was
+  extended with the parties this file actually involves (traders' association, survey office, renewal engineer).
+  Four beneficial side effects in files this unit did not edit: **The Hollow Knight `C-IVγ-073` 7 → 6**,
+  **Collapsed Whisper `C-IVδ-249` 6 → 5**, **Forgotten Name `N-IIα-215` 4 → 3** and **The Music Box of Agony
+  `N-IIγ-903` 4 → 3**. Archive dirty sections 918 → **907**; the shared corpus thinned to **19** distinct residue
+  lines with the median whole-file fraction **0.017** and the worst steady at 0.124. Movement: `R-29` 114 →
+  **115 / 301** (own numeric series 224 → **225**); section-clean 138 → **139 / 301**; residue-free 183 → **186 /
+  302** (carriers 119 → **116**, instances 240 → **226**, lines 20 → **19**); file-clean 220 → **222 / 302**.
+  **Batch 17 stands at two of three**; The Dancing Chains `C-IIIγ-102` (6, 0.429) is the remaining unit.
+
 - **Batch 17 / unit 1 — Risus `C-Iα-150` closed (2026-10-06)** —
   measured at `b5e74bc`: **8 dirty sections**, worst Behavior 0.432 (a 57-dossier carrier as a single line),
   then Expansion Behavior 0.222, M.A.W. Equipment 0.202, 관찰 기록 (Observation Log) 0.202, 감각 묘사 (Flavor

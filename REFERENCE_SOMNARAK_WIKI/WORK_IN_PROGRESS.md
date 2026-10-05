@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **183 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **138 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **114 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **186 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **139 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **115 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 220 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 222 / 302 |
 | Archive median prose generic fraction | 0.021 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1544,6 +1544,20 @@ this unit did not edit: Floating Well 7 → 6, Echo of Kindness 8 → 7, Mourner
 **114 / 301** (series **224**); section-clean 137 → **138 / 301**; file-clean 219 → **220 / 302**.
 **Batch 17 stands at one of three.**
 
+**Batch 17, unit 2: Floating Pillar `N-IIIγ-409` closed.** Measured at `051a96a`: **7 dirty sections**, worst
+M.A.W. Equipment 0.430, then Registrum 0.339, Story Log 0.157, Final Observation 0.156, Containment Event 0.152,
+Trivia 0.078 and Combat 0.074 — all closed in two waves (25 + 12 sites); 6,778 → **7,441 words**; `tpl.py` residue
+5 → **0**; `verify.py` residual 1 → **0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**
+with the **series clause closed** on the file's own figures (11 years, 4,160 readings in 9, the 31 mm traverse
+closing at 28 on rerun, 19 failed claims, 18 renewals — disclosed restatement). Story Log Entry 5 carried the
+same stock-tale family as Learned Your Face's and was replaced with the file's own commissioning material (the
+unsent letters; the as-built drawings). The Registrum shell pair — `**Operational interpretation:**` is a
+66-dossier carrier — was re-authored onto the unreferenced position series. Four beneficial side effects in files
+this unit did not edit: Hollow Knight 7 → 6, Collapsed Whisper 6 → 5, Forgotten Name 4 → 3, Music Box of Agony
+4 → 3. Archive dirty 918 → **907**; residue lines 20 → **19**; median 0.018 → **0.017**. Movement: `R-29` 114 →
+**115 / 301** (series **225**); section-clean 138 → **139 / 301**; residue-free 183 → **186 / 302** (carriers
+**116**, instances **226**); file-clean 220 → **222 / 302**. **Batch 17 stands at two of three.**
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1603,8 +1617,9 @@ with the sealed-room register, plus Apostle Maker `C-Iα-071c` 2 → 1 as a side
 `C-IIβ-055` came off it as batch 16's final unit (2 → 0 dirty sections in one wave, series closed on the file's
 own assaying figures, 7,375 → 7,705 words), closing the batch at three. **Batch 17 stands at one of three**: Risus `C-Iα-150` came off the head
 (8 → 0 dirty sections in three waves, series closed on its own voice counts, four contradictions reconciled, six
-neighbouring dossiers each shedding a dirty section). Floating Pillar `N-IIIγ-409` (7, 0.430) leads the
-remainder, The Dancing Chains `C-IIIγ-102` (6, 0.429) behind it; Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
+neighbouring dossiers each shedding a dirty section). Floating Pillar `N-IIIγ-409` came off it as unit 2 (7 → 0 in two waves,
+series closed on its own survey figures, plus four neighbouring dossiers each shedding a section). **The Dancing
+Chains `C-IIIγ-102` (6, 0.429)** remains as batch 17's final unit; Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
 series open) remain in the cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep

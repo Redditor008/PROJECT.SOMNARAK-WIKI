@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Void pressure; 25% against other pressure types |
+| **Resistance** | 35% against Void pressure, 25% against other pressure types — a standing figure, since there is no body to strike: the absence has no surface, no material and no vessel, and nothing has ever been extracted from it. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 752/752 |
 | **Han Pressure [ATK]** | 15–34 per hit · Void |
@@ -78,17 +78,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Hover* [**Debuff**] } | "The pillar floats — and beneath it, the void it replaced the ground with presses up." | [The Pillar's absence of foundation sends void-energy downward.] | *Target suffers a Void mark; the ground beneath them is uncertain.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stands under the Pillar. |
-| { *The Unstable Arch* [**Debuff**] } | "The pillar wobbles — and everything it was supposed to support wobbles with it." | [The Pillar's instability spreads; structures creak and shift.] | *Target loses clarity; nothing is reliable anymore.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Hover* [**Debuff**] } | "The pillar floats — and under it the floor the drawings show, the floor the marketmen stand on, is not carrying anything." | [The absence of any foundation transmits downward, the way an unbuilt column does.] | *Target suffers a Void mark; the ground beneath them is uncertain.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stands under the Pillar. |
+| { *The Unstable Arch* [**Debuff**] } | "The gap turns — and every arrangement in the row that rested on a column at F7 turns with it." | [The Pillar's instability reaches whatever the building has been using instead of a foundation.] | *Target loses clarity; nothing they were leaning on reads as reliable.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
 | { *The Dropped Pillar* [**Attack**] } | "The pillar falls — straight down, enormous, and the void beneath rushes up to meet it." | [The Pillar descends onto the target with full mass.] | *Inflicts Void damage; the impact erodes a vast portion.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Pillar is struck. |
-| { *The Foundation Void* [**Attack**] } | "The void beneath the pillar opens wide — and the ground simply is not there anymore." | [The Pillar's void-base expands, swallowing the floor.] | *A heavy Void opening; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Pillar is undermined. |
-| { *Everything Floats* [**Ultimate**] } | "Every pillar lifts — every foundation vanishes — and the whole field goes weightless, and void." | [The Pillar spreads its hover to every support.] | *All in range suffer Void erosion for three turns in the void-suspended ruin.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Foundation Void* [**Attack**] } | "The void beneath the pillar opens wide — and the floor the two marks are set into is the floor that is going." | [The Pillar's void-base opens and takes the reference point with it.] | *A heavy Void opening; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Pillar is undermined. |
+| { *Everything Floats* [**Ultimate**] } | "Every pillar lifts — every as-built drawing is contradicted at once — and the whole field is suspended over nothing that anybody can certify." | [The Pillar spreads its hover to every support in the row.] | *All in range suffer Void erosion for three turns in the void-suspended ruin.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the gap and the two-directional voice; never by elevation, which is recorded against a floor that has never been levelled to anything) and Floating Pillar is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** The marker is the gap and the two-directional voice, and never the elevation: the elevation is recorded against a floor that has never been levelled to anything outside the Market, and the file's own cover sheet says the series is internally consistent and externally unreferenced. Confirm the designation, take both bearings independently, and open the cycle.
 2. **Clash:** Twelve turns, worked from the two sighting marks and never from beneath the gap. Positions are read at the start and the end of every turn, by both observers independently, and no reading is discarded for disagreeing with the other.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish real support; do not replace the missing thing with another illusion**.
+3. **Resolution:** The cycle ends on containment, management, retreat, or the documented condition: **Establish real support; do not replace the missing thing with another illusion**. The close is a worker standing without the support being named for them, and nobody is ever told that anything is holding.
 
 ### Consequences
 
@@ -148,7 +148,7 @@ Floating Pillar is a Subject with Subject-Spirit manifestation and Void expressi
 **Reading the response:** Read it in the voice and the rotation. A falling gauge presents as a single direction — the voice resolving to above or below instead of both — and the rotation slowing against the marks. A rising gauge presents as silence spreading outward from the gap, which workers consistently report as the bay going deaf rather than quiet. If the sound is leaving, the next action is to stop work, not to persist and log it.
 ## Containment Event Behavior
 
-> *"Transformation event in progress. Floating Pillar is changing the space around itself and staying in it."*
+'> *"Transformation in place, Zone C, grid F7. The absence is wider, the bay is going deaf, and nothing has come toward anybody."*'
 
 | Field | Detail |
 |---|---|
@@ -156,14 +156,14 @@ Floating Pillar is a Subject with Subject-Spirit manifestation and Void expressi
 | **Movement** | It does not pursue and has never approached anybody. The absence widens from where it stands, taking names and faces out of reach of the people holding them, and personnel are affected where they are. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever is standing nearest, without exception: it does not select, does not approach and has never moved toward anybody — the numbness arrives where people are, along the row's own gradient. |
+| **Escalation** | Clarity drain rises by 5 a turn until the work stops it, and the sign to watch is not the gauge but the sound: when the bay begins going deaf, the watch ends there and the reading is taken from the last clean sheet. |
 
 ### Escalation Notes
 
 - **Event type (non-breach):** Transformation in place. Floating Pillar alters what is around it at Zone C, Mask Market and stays inside it; identity and memory begin to dissolve, draining clarity.
 - **Containment priority:** Flerehan and Ferrehan from the marks, with the floor beneath the gap already clear. Nobody is told that anything is holding; nobody offers it a substitute.
-- **Sorrow Gauge on event:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from a single Market event and is labelled as modelled wherever it is quoted.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from the single Market event of the fourth year and is labelled as modelled wherever it is quoted, including in the quotations.
 
 ## M.A.W. Equipment
 
@@ -183,15 +183,15 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Floating Pillar's void signature in the strike.
+**Ability:** Deals Void damage against the Soul — identity, memory, the sense of self — and the strike carries the absence's own signature: the target's certainties read afterwards as arrangements.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Small memories go with each use, and the ledger's note is that the wielder notices the gaps in the unremarkable things first: rota names, stall numbers, the faces of people they deal with weekly.
 
 ### M.A.W. Suit — The Empty Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a hooded veil of Void Han-gossamer, colourless enough to read as a draught in the air, cold against the skin and lighter than its listed weight.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -201,40 +201,40 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Floating Pillar's kind of pressure.
+**Ability:** Wards the Soul — identity, memory, the sense of self — against Void damage, which is the pressure this holding produces and the only one it has.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer's own account of themselves thins by a degree the armoury records as a reading, and the file treats the thinning as the toll rather than as a symptom.
 
 ### M.A.W. Stigma — The Empty Pillar
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a pillar-charm of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a charm cut in the exact section of the missing column, near-translucent and catching the light in a way that reads as depth rather than as surface.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 stat bonus while working the gap from the two marks.
 
 **Ability:** Reveals false supports and hidden instability.
 
 **Cost:** The wearer feels every support they once imagined.
 
-*The Empty Pillar is not issued and cannot be requested. It has been conferred three times, in each case on a worker who told a colleague plainly that something they relied on was not there.*
+*The Empty Pillar is not made and cannot be asked for. It has been conferred three times, each time on a worker who told a colleague plainly that something they were relying on was not there.*
 
 ### M.A.W. Use Notes
 
-A piece cut from Floating Pillar is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small, nameless memories with each use, and it is paid whether the use was correct or not.
+A piece cut from Floating Pillar is not ordinary equipment and is not treated as one: it works by being part of the absence it is used near, and it carries that absence's toll with it. The file records one cost and one only — small, nameless memories go with each use — and it is paid whether the use was correct or not; the ledger's note is that the gaps appear in the unremarkable furniture of a life rather than in anything a person would have chosen to remember.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Floating Pillar the recorded cost is that the wielder loses small, nameless memories with each use. |
-| **During use** | Floating Pillar charging, which presents as this: the wielder loses small, nameless memories with each use. The wielder's own account is taken separately and afterwards. |
-| **At limit** | Floating Pillar's cost is continuous rather than occasional: the wearer feels faintly absent to themselves. The second worker's call stands against the wielder's. |
-| **After use** | Return the piece and check the sealed baseline: has Floating Pillar's cost — the wearer feels faintly absent to themselves — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, the day's bearings from both marks, and a baseline written down and held by somebody else; on pieces from this holding the recorded cost is the small, nameless kind, and the holder of the baseline is not the wielder. |
+| **During use** | Charging presents as the toll itself: a name that was there this morning is not there now. The wielder's own account is taken separately and afterwards, by the second worker. |
+| **At limit** | The toll runs continuously rather than in episodes and the wearer stops noticing it; from that point the second worker's call stands against the wielder's, and the piece returns to the armoury whatever the wielder says. |
+| **After use** | Return the piece and open the sealed baseline: if the absence outlasted the rotation, the entry stands and the piece is not reissued to that wielder, whether or not they agree. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost are separate axes and are never averaged, and on a Void set the second one is the only one that moves: nothing here reduces the toll, and the accurate pieces are the ones that take most, because what they show the wearer is what they were leaning on. A low-rated piece can leave somebody querying arrangements that are sound for a fortnight.
 
 ## 관찰 기록 (Observation Log)
 
@@ -263,7 +263,7 @@ A piece cut from Floating Pillar is not ordinary equipment: it works by being a 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Floating Pillar (N-IIIγ-409 [O]) is logged as a Subject-Spirit manifestation expressing Void. The Pillar formed from an absence made visible through memory. Held at Zone C, Mask Market. The voice has no measurable source.
+Floating Pillar (N-IIIγ-409 [O]) is carried on the wing's register as a Subject-Spirit manifestation expressing Void. The Pillar formed from an absence made visible through memory. Held at Zone C, Mask Market. The voice has no measurable source, and the absence has held its elevation across every reading the two marks have produced.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Floats through reflective spaces in the Mask Market. Personnel feel emptiness where they expected protection. It is strongest near masks and false identities.
@@ -274,16 +274,16 @@ The grief of discovering that a cherished support never truly existed.
 **Entry 4 — <Containment Notice>**
 Management: Establish real support; do not replace the missing thing with another illusion. Work response — Flerehan: The voice softens and the absence becomes clear. (Decrease); Pugnahan: It rises and removes nearby sound. (Increase); Viderehan: Reveals what the worker imagined as support. (Stable); Ferrehan: Tests whether the worker can stand without it. (Decrease). Personnel report emptiness rather than fear.
 
-**Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+**Entry 5 — <The Letters and the Drawings>**
+The commissioning material is not a tale. It is two bundles. The first is the unsent letters: what she wrote to the protector across eleven years, kept, never posted, and held flat in this file in the order they were written — the most complete personal record in the wing, addressed to somebody who never received a line of it. The second is the Market's as-built drawings, which show a reinforced column at grid F7; at grid F7 there is a column-shaped volume of nothing, the building stands, and the drawings cannot be amended, because an amendment needs a survey and a survey needs a datum the zone no longer has. The archivist's note on the pair is one line: the letters prove she built him; the drawings prove the building is still using him.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Floating Pillar; the other feeds it.
+> What the watch comes down to: hold the weight without a support being named, or hand the voice something else to be.
 
-| Do the thing on file: Establish real support; do not replace the missing thing with another illusion. | Improvise something kinder, which is how every failure on Floating Pillar's file began. |
+| Do the thing on file: establish real support and do not replace the missing thing with another illusion — nobody is told that anything is holding, and nothing is offered the voice to be. | Improvise something kinder — offer it a substitute, a colleague, a rule, the wing itself, or name the missing protector for it — which is how every recorded rise on this file began. |
 |---|---|
-| The voice softens and the absence becomes clear. The sorrow is seen clearly; Floating Pillar is fully recorded. | It rises and removes nearby sound. The gauge climbs and Floating Pillar withdraws without revelation. |
+| The voice resolves to a single direction, the rotation slows against the marks, and the worker stands without having been told what was missing; the cycle is recorded. | The absence rises, the bay begins going deaf, and the gauge takes the offer; from there the watch ends and the reading comes off the last clean sheet. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -356,16 +356,16 @@ Some sorrows are about losing support. Floating Pillar is about the support that
 - All four Work Types are valid; it is a Subject, and the older entry restricting work to Viderehan is an error.
 - The absence holds its elevation and cannot be brought down, and no attempt to ground it has been authorised since the second year.
 **Observation Notes:**
-- A woman of the Mask Market relied for eleven years on a protector who had no existence outside her belief, and the shape of him stayed behind when the belief gave way.
+- A woman of the Mask Market relied for 11 years on a protector who had no existence outside her belief, and the shape of him stayed behind when the belief gave way. The two marks have produced 4,160 readings in 9 years with no measurable change in elevation; the levelling traverse came back 31 millimetres out, was rerun at 28, and the survey office refuses to attribute the closure error to the entity, the instrument or the ground. 19 subsidence claims have failed since the floor was declared a local datum, and the Market's temporary structural permission has been renewed 18 times.
 **Cross-References:** Zone C · the Mask Market · the Market's as-built drawings · the unsent letters · The Empty Mask
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the Mask Market traders' association · the survey office (levelling traverse) · the structural renewal engineer of record
 **Originator:** A citizen of the Mask Market whose imagined protector collapsed after eleven years, and who was deceived by nobody.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Treat this record as a starting point rather than a conclusion, because on this holding the record's own foundation is the thing in question: the position series is internally consistent and externally unreferenced, the elevations are certified against a floor the traders allege is sinking, and the drawings contradict the building. Read the classification, the bearings, the transport marks and the Warden Record as one arrangement — and where observation and the file disagree, the file is the thing that is wrong, provided the disagreement is written down and left standing.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every transformation in place, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every review re-takes both bearings independently and records their disagreement, the rotation series against the marks, the verbatim log unchecked, and the state of the three standing questions: the benchmark applications, the renewal engineer's successor, and whether any worker has begun doubting a support that exists. Personnel exposure and location are entered after every transformation in place or unusual interaction.
 ## Warden Record
 
 ### A Voice Around an Absence
@@ -433,8 +433,8 @@ She retires in two years. The file contains no plan for what the Market does the
 
 ### Registry Trivia
 
-- **Classification detail:** Floating Pillar is a Subject with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Void, and its registered location is Zone C, Mask Market.
+- **Classification detail:** Subject, Fragment (III) coherence, Major (γ) potency, `N-IIIγ-409 [O]`; the grade belongs to what a transformation in place takes out of the row, not to anything the absence does with force.
+- **Field detail:** Element Void, registered to Zone C at the Mask Market, where the absence holds grid F7 and the floor beneath the two marks is a local datum rather than a certified one.
 - **Recognition detail:** Identify it by the gap and the two-directional voice; never by elevation, which is recorded against a floor that has never been levelled to anything.
 - **Record detail:** Read this file beside the Market's as-built drawings, which show a column at the gap's grid position and have not been amendable for nine years.
 - **Containment detail:** Sealed does not mean inert. The holding alters the local Han field through the seal: traders in the adjacent rows report arrangements slipping their minds, and the Market's own stocktakes run short in the mask rows and nowhere else.
