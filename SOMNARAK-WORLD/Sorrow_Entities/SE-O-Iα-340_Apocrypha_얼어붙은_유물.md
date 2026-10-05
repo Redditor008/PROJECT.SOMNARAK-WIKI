@@ -81,14 +81,14 @@
 | { *The Frost Spread* [**Debuff**] } | "Ice creeps from the relic across the floor — and it is reaching for your feet." | [The Relic radiates cold; frost extends toward the target.] | *Target suffers a Void mark; the cold is alive and hungry.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Relic. |
 | { *The Frozen Memory* [**Debuff**] } | "You touch the relic — and a memory flashes, perfect, preserved, and absolutely cold." | [The Relic imparts a frozen memory; the target feels it crystalize.] | *Target loses clarity; the preserved grief is too clear.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target touches the Relic. |
 | { *The Ice Shard* [**Attack**] } | "A shard of the relic's ice breaks free — sharp, ancient, and aimed." | [A frozen splinter launches from the Relic.] | *Inflicts Void damage; the cold carries away warmth and identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Relic is struck. |
-| { *The Deep Freeze* [**Attack**] } | "The relic unleashes its stored cold — everything within reach goes solid." | [The Relic flash-freezes the area around the target.] | *A heavy Void freeze; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Relic is shattered. |
-| { *The Glacier* [**Ultimate**] } | "The relic's cold does not stop — it freezes the whole field, and the frost is permanent." | [The Relic extends its permafrost across the entire area.] | *All in range suffer Void erosion for three turns in the deep freeze.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Deep Freeze* [**Attack**] } | "The relic unleashes its stored cold — everything within reach goes solid." | [The Relic flash-freezes the area around the target, and the record's note is that the ground is not being violent: the cold is what the site does when a list is stopped halfway.] | *A heavy Void freeze; the target's Sorrow Gauge surges 15% and the 198 line is untouched — nothing has been done to the outline, and the outline has never been touched by anything.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a reader abandons the recovery list mid-item. |
+| { *The Glacier* [**Ultimate**] } | "The relic's cold does not stop — it freezes the whole field, and the frost is permanent." | [The Relic extends its permafrost across the entire area, and the frost is permanent in the ordinary sense the wing uses for a marked site: it stays until the site goes ordinary and the holding is somewhere else.] | *All in range suffer Void erosion for three turns in the deep freeze. The pressure is the cold the party brought on itself by not marking the site; the series this action answers to is the register of unidentified effects, 1,384 of them, none with a disposal date.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the reading runs past the sixty-second limit — the gauge reaches 65% on exposure, never on provocation. |
 
 ### Battle Phases
 
 1. **Tension:** The team fixes the grid reference, measures the distance to the nearest abandoned camp, and obtains from the expedition office the list of unidentified items it is currently holding. The third item is collected before departure and never reconstructed afterwards.
 2. **Clash:** There is nothing in the outline to work against. Viderehan shows fragments of a purpose the archive cannot complete; Ferrehan is a matter of standing in weatherless cold without obtaining an answer, which teams report as the hardest endurance posting in the Desolate rota. Nothing is dug, lifted or thawed.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Mark the site and speak the farewell that was missed**.
+3. **Resolution:** The site is marked, the farewell is spoken and written down in the exact words, and the gauge falls below 25% — the documented suppression condition: **Mark the site and speak the farewell that was missed**. Nothing is recovered and nothing is explained; the file's own standard for a closed cycle is that the object is no longer anonymous to the people who stood at the outline, and that the camp's next visitor will find the marker before they find the frost.
 
 ### Consequences
 
@@ -149,9 +149,9 @@ Apocrypha is an Object/Place with Place-Void manifestation and Void expression, 
 **Reading the response:** A falling reading means the site was marked and the farewell spoken, or that an item of unclaimed property was given a meaning in the effects file. Stability under Viderehan is correct. The reading rises with each object entered as unidentified and left at that, and it has risen during expeditions in which this record was not visited at all.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Sector / Facility Alteration**
-> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+> **This Relic benefits the facility only by being left alone and marked.**
+> **This Relic alters the ground it stands on and nothing else; the frost is the whole of its footprint.**
+> **This Relic is capable of taking heat out of a party in under a minute, and the limit is the only instrument.**
 
 **Activation Trigger:** Reading the recovery kit list aloud at the outline.
 
@@ -170,7 +170,7 @@ Apocrypha is an Object/Place with Place-Void manifestation and Void expression, 
 | **Activation** | Reading the recovery kit list aloud at the outline. |
 | **Primary Effect** | Projects an aura of absolute stillness, suppressing all active elemental damage over time across Range Band 2. |
 | **Duration** | Continuous while the list is being read. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
+| **Termination / Return** | The reading stops and the stillness closes with it — the site keeps nothing and gives nothing back. Abandoning the list mid-sentence is the failure mode: the frost spreads over the abandoned page, and the party leaves with the cold still in them and a register entry that says an item was left unidentified. |
 | **Risk** | Body temperature drops rapidly; continuing past 60 seconds causes immediate hypothermia. |
 
 **Operational Rule:** The channel holds only while the reading continues and destabilises the moment it is abandoned mid-list. Note what the trigger actually is: a document read aloud at the site, not a piece of equipment. A team carrying no relic and reading nothing has never recorded an activation here, and that negative result is the most load-bearing line in this section.
@@ -179,14 +179,14 @@ Apocrypha is an Object/Place with Place-Void manifestation and Void expression, 
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Apocrypha begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Apocrypha: Projects an aura of absolute stillness, suppressing all active elemental damage over time across Range Band 2. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the emptiness of an object whose meaning was never explained. forged during a traveler froze in the desolate while carrying a relic no one else could identify. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Apocrypha's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Void shockwave: Body temperature drops rapidly; continuing past 60 seconds causes immediate hypothermia. all personnel in the sector take heavy damage. |
+| 10 Seconds | The reader's voice arrives flat: the site takes the emphasis out of a list of equipment names. Around the outline the frost stands a fraction higher in the air, and the nearest expedition's instruments lose a degree they do not get back while the reading continues. | Nothing is required of the operator beyond reading on and watching the minute. This is the only activation on the Desolate rota that is triggered by a document, and the negative result is on the sheet with it: a party that carries no relic and reads nothing has never recorded an activation at any of the nine sites. |
+| 30 Seconds | The list stops sounding like a list. Readers report reading the same line twice without noticing and having to be told, and every reader has so far finished the page rather than stop mid-item — which the file records as a finding, not a courtesy. | The cold is now being drawn rather than shared, and the team's job is to watch the reader rather than the ground: breathing, colour, hands. The frost extent is not to be walked while the reading is running, because the ground inside it is where the sixty-second limit is decided. |
+| 1 Minute | The reader's hands are still and there is no answer to anything asked of them; the cold has moved from the air into the person. Workers describe the last part of the list as being read by somebody who is not in the room. | Sixty seconds is the limit and it is hard, not advisory: continuing past it produces hypothermia in the reader whatever they are wearing and whatever they say about being fine. The operator ends the reading at the mark and enters the reader's condition as observed, not as reported. |
+| 2 Minutes | Nothing further is written down because nothing further happens at the outline: the site has already recorded everything it is going to, and the party that stays past the minute is standing in weatherless cold with a damp page. | The reading ends at the minute, the site is marked, the farewell is spoken by whoever is senior and willing, and the words are entered verbatim. A party that leaves with a half-read list has left an item unidentified; the register counts it, and the register's count is the figure this holding answers to. |
 
 ### Escalation Notes
 
-Escalation here is relocation rather than expansion. Record the grid reference, the outline dimensions, the frost extent, the unidentified effects held by the expedition at the time, and whether the site went cold afterwards. A site that has gone ordinary is not a success and is logged as a probable relocation pending survey.
+The holding does not expand; it moves. The outline at a surveyed site goes ordinary — frost gone, ground normal, no explanation — and the count of recorded sites goes up, which is why the standing series is nine and every entry in it was found rather than predicted. What the sheet takes on an escalation is the grid reference, the outline dimensions, the frost extent at both sites if the second has been found, the unidentified effects held by the expedition that month, and the hour the first site went ordinary. A site that has gone ordinary is not a success and is never closed out; it is a relocation pending survey, and the wing's own note is that the object is not travelling, since nothing has ever been seen to move — the cold is simply somewhere else.
 
 **Response sequence:** Secure the approach, confirm the event is an expansion rather than an activation, withdraw personnel who are carrying recovered effects — they read highest and routinely do not know they are carrying them — and then satisfy the management condition, which is the marking of the site and the spoken farewell. Report who spoke and what was said.
 
@@ -227,13 +227,13 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Ability:** Void damage to the soul — to identity rather than the body. The lance carries the record's signature, which is an object whose meaning died with its owner, and what it opens in a target is the question of what they would be reduced to on a kit list.
 
-**Cost:** The wielder loses small nameless memories with each use, and loses first their reasons for keeping things.
+**Cost:** The wielder loses small nameless memories with each use, and what goes first is not the memory but the reason for keeping the thing at all: the coat that was somebody's, the ticket in the drawer, the box nobody opens. Holders under this lance have been recorded clearing their lockers of objects they could no longer explain, in the ordinary course of an ordinary week.
 
 ### M.A.W. Suit — Apocrypha Veil
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a veil of Void Han-gossamer worn hooded and long, thin enough that the person under it is legible and the weather behind them is not. It holds the site's cold out and keeps nothing warm; wearers describe putting it on as stepping back a pace from the outline without moving.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -245,13 +245,13 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Ability:** Turns Void aside from the soul, which is the only pressure here. The veil is what allows a worker to stand at the outline for a full session and still own their own belongings afterwards.
 
-**Cost:** The wearer feels faintly absent to themselves, and reports their possessions as objects they are looking after for somebody.
+**Cost:** The wearer feels faintly absent to themselves and starts describing their own possessions as things they are looking after for somebody — which the file treats as a plain statement of the holding's own condition rather than as a symptom, and pulls the wearer off the site on the first report of it.
 
 ### M.A.W. Stigma — Apocrypha Shard
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a shard-tile of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a shard-tile of Void Han-glass the size of a thumbprint, frosted at the centre where nothing has been sprayed or chilled, and heavier in the hand than its size accounts for. It is worn on the head band and, on a site, runs cold in the direction of whatever has not been said — and the standing note under the effect line applies: nothing in the set is drawn from stores, and this one has only ever appeared with workers who wrote down what a dead colleague's possession meant to them.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -272,9 +272,9 @@ The three pieces came out of the frost, not the outline, and all three carry the
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, grade, gauge, composure, the integrity of the piece, the objective, and whether the wielder is currently carrying any recovered effects. The last field has been mandatory since the second incident. |
-| **During use** | Activation time, visual feedback, effect strength, the area held, and the first cost — which on this set is noticed by the team before the wielder. |
-| **At limit** | Duration, activations, attribute movement, rejection signs, and whether the wielder began naming what they felt they had left undone. |
-| **After use** | Removal, injuries, lingering effects, cooldown, repair need, and reuse authorisation, with the wielder's account recorded and not relied upon. |
+| **During use** | The hour the lance goes in and the hour it comes out, the site's reading before and after, and the first cost — which on this set is noticed by the team before the wielder: somebody asks the holder why they are carrying a coat they have never worn. The second worker logs it; the wielder supplies no reading. |
+| **At limit** | The two lines that end a use on this set: the holder has begun clearing their own belongings of things they can no longer explain, or the veil's wearer has started describing their possessions as held for somebody else. Either finding ends the use on the day, and the piece is carried back to the wing by somebody else. |
+| **After use** | Removal of the piece, the holder's account of what they no longer keep — taken verbatim and not as a summary — and the effects-office check that nothing the party carried home has been entered as unidentified. The last field is the one the register turns on, and it is checked within the week rather than at the next audit. |
 
 **Stat interpretation:** Grade describes the effect on entities and says nothing about the effect on the wielder, and this is an α set with a cost out of all proportion to its rating. Authorise on the second column. A low-rated piece from a holding made of an unfinished goodbye can take more out of a person than anything in the δ cabinets.
 ## 관찰 기록 (Observation Log)
@@ -320,11 +320,11 @@ The catalogue of this facility is built to establish what a thing is. For one hu
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Apocrypha; the other feeds it.
+> The choice at the outline is between marking a thing nobody can name and taking it back for the stores, and the two columns below are all this file has to say about which one the site accepts.
 
-| Do the thing on file: Mark the site and speak the farewell that was missed. | Depart from the condition for good reasons, as Apocrypha's record shows people do. |
+| Mark the site, speak the farewell in the exact words, and leave the object where it lies. | Bag it, log it as unidentified, and let the effects office hold it against a claim that will never come. |
 |---|---|
-| Tests whether the worker can remain in the cold without answers. The sorrow is seen clearly; Apocrypha is fully recorded. | Shows fragments of the relic's unknown purpose. The gauge climbs and Apocrypha withdraws without revelation. |
+| The cold drops, the gauge falls below 25%, and the register stays at 1,384 — the marker is the only thing the site has ever accepted in place of an answer. | The reading climbs, the site goes quieter in a way that is not success, and the register gains a line; the object joins 1,384 others in a store that has no disposal date and no room to give back. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -343,7 +343,7 @@ Frost gathers around an empty shape. You know something should be there, but no 
 
 ### Interaction Pattern
 
-Apocrypha does not exist in isolation. Its recorded relationships with Pandora's Jar, Sealed Rage, The Lost Prince should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The three holdings below share this record's subject rather than its mechanism: each is a site or an object that keeps what somebody could not finish, and the archive's pairings are arguments by resemblance. What the field can actually measure is narrower — a party working one of these and passing near Apocrypha will log the site's own readings and nothing else, because the outline does not answer to proximity and has never been recorded answering to it.
 
 **Interaction method:** Establish it alone first and at a single site, since the nine sites have never been shown to be the same thing by any method other than the outline's dimensions. In shared conditions log the frost extent, the outline, and whether the other record altered position relative to the abandoned camp. Nothing is to be moved between sites for comparison.
 
@@ -450,9 +450,9 @@ The quartermaster's objection is on the file and is read at every annual review.
 ### Registry Trivia
 
 - **Classification detail:** Apocrypha is an Object/Place with Residue (I) coherence and Minor (α) potency.
-- **Field detail:** Its defining element is Void, and its registered location is The Desolate — mobile.
+- **Field detail:** Void, registered across The Desolate at nine recorded sites and none of them fixed, at 25–40% on the opening gauge, 198/198 on the stat line, 10–14 Han-Energy per cycle, 15% and 5% resistances, and a sixty-second limit that is the only hard number the wing enforces at the outline.
 - **Recognition detail:** Identify it by the frost. Several frozen sites are catalogued in the Desolate; this is the one where the frost forms around an empty outline rather than on anything solid, and the outline is of an object nobody has identified.
-- **Record detail:** Check the designation before approach. More than one Desolate record involves the effects of the dead, and they differ on the decisive point — this one is eased by saying what an object meant and not by establishing what it was.
+- **Record detail:** Check the designation before approach, and check what the party is carrying. More than one Desolate record involves the effects of the dead and they differ on the decisive point: this one is eased by saying what an object meant, not by establishing what it was, and the register it answers to holds 1,384 unidentified items with no disposal date and no review — none of them disposed of, which is the undertaking that keeps this holding quiet.
 - **Containment detail:** There is nothing to seal and no cell this would fit in. Containment here is a marked site, a measured outline, a sixty-second limit and an undertaking about objects held hundreds of kilometres away.
 ## Document Information
 
