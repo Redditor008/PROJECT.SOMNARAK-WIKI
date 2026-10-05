@@ -143,6 +143,8 @@ Wilderness Tide is an Object/Place entity — Viderehan (Observation) and Ferreh
 
 **Reading the response:** The Tide's intensity is measured by the depth of the salt-residue it leaves. A light dusting means a minor surge; a thick coating means the wall nearly broke. The Wardens log each surge's residue depth as their primary metric.
 
+Management: hold the wall under the ballast anchors through every surge, then scrub the residue off before the salt reaches the stone, and log its depth in millimetres.
+
 ## Breach Behavior
 
 Wilderness Tide does not breach in the traditional sense — it is always pressing. But when a surge overwhelms the wall:
@@ -171,6 +173,19 @@ Wilderness Tide does not breach in the traditional sense — it is always pressi
 ## 관찰 기록 (Observation Log)
 
 > **Observation Summary:** Wilderness Tide is monitored continuously from the Outer Watchtowers. Each surge is catalogued by date, duration, intensity (residue depth), and structural damage. The Wardens have 4,000 years of records — and the surges are getting worse.
+
+### Surge Catalogue — Year 4232
+
+Intensity is read from the salt residue a surge leaves on the wall, in millimetres of depth, set beside the duration in hours and the wall's integrity after the repair survey. The Wardens' catalogue for the year to the end of Season 3:
+
+| Date | Intensity | Residue depth | Duration | Wall integrity | Casualties |
+|---|---|---|---|---|---|
+| Season 1, Day 6 | light | 1 mm | 2 hours | 99% | none |
+| Season 2, Day 22 | light | 2 mm | 3 hours | 99% | none |
+| Season 3, Day 17 | moderate | 3 mm | 4 hours | 98% | none |
+| Season 3, Day 58 | the Long Surge | 24 mm | 6 hours, without recession | 52% | 3 Wardens lost to Fracture |
+
+Depth, duration and damage rise together down the table, and the Long Surge is the one entry that breaks away from the rest: 8 times the residue depth of the moderate surge, 1.5 times its duration, and a wall that lost 48 points of integrity where the moderate surge cost 2. The Long Surge fell in a Han-storm season. Those recur roughly every 7 years, the next is predicted for Year 4239, and surge frequency has risen 12% over the past century.
 
 ### Observation Progression
 
