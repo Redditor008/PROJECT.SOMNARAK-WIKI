@@ -20,14 +20,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **150 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **123 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **100 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **151 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **125 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **101 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 204 / 302 |
-| Archive median prose generic fraction | 0.024 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 205 / 302 |
+| Archive median prose generic fraction | 0.023 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -1318,6 +1318,27 @@ stands at two of three**; the tier behind it, to be re-measured at the next head
 `N-IIβ-801` (10, 0.381, condition and series open), Frozen Fury `C-IVδ-668` (10, 0.335, series open) and
 Mourner's Bloom `C-Iα-330` (10, 0.301, series open).
 
+**Batch 12, unit 3: Mirror of Soaking `N-IIβ-801` closed — both open clauses with it, closing batch 12 at
+three.** Measured at the batch-12 head (`9e0ea26`): **10 dirty sections**, worst Behavior 0.381, then
+Activation Behavior 0.306, 관찰 기록 (Observation Log) 0.236, 감각 묘사 (Flavor Text) 0.234, 최종 관찰 (Final
+Observation) 0.200, M.A.W. Equipment 0.171, Trivia 0.087, Operational Parameters 0.074, Appearance 0.061 and
+Combat Record 0.054; all ten closed across three waves (23 + 29 + 3 sites); 6,152 → **6,995 words**;
+`tpl.py` residue 3 → **0**; `verify.py` residual 1 → **0**; `sectfile.py` ends at **0 section(s) over
+0.05**; `wikistd.py` meets **True**, with **both clauses closed** — the generic Management row in the
+Detailed Activation Record replaced by the holding's own condition (written reattribution filed before the
+shift closes, height at arrival and close, open conduct notes counted in the preceding fortnight) and the
+series clause now reading the file's own figures (31 cm at the filing of the first conduct note, 19 cm the
+morning after its correction, the reading closed below 25%). Two splice defects repaired (the `Physical
+Form:` prefix in both `Position / movement` lines). Wave C was forced by an archive-level side effect: the
+Stall's interaction-table header, reused at 9 dossiers, hit 10 with this file and briefly made the shipped
+Stall dirty — the Mirror's header was re-authored, the Stall returned to 0 dirty sections, and no shipped
+file was edited. Movement: `R-29` 100 → **101 / 301** (condition 250 → **251**, series 216 → **217**),
+section-clean 123 → **125 / 301** (this file plus The Sky of Borrowed Faces `O-IIIγ-926`), residue-free 150
+→ **151 / 302** (instances 408 → 396, carriers 150 → **149**, distinct residue lines 33 → **32**), file-clean
+204 → **205 / 302**, median 0.024 → **0.023**, worst 0.142 unchanged. **Batch 12 is closed at three**
+(`baeab5c` The Empty Mask, `9e0ea26` The Lost Prince, this unit), each unit measured live at its own head.
+**Batch 13 opens at three** on a freshly re-derived whole-archive tier (below).
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1349,10 +1370,13 @@ open-clause candidate — both clauses now closed, now 7,865 words, and the arch
 fraction fell 0.156 → **0.142** with it). **The Empty Mask `C-IIβ-054` came off that tier in batch 12's first unit** (the batch-12 head at
 `44a8d9e`: 7 dirty, 0.437, both clauses already satisfied — 7,114 → 7,815 words, one pass). **The Lost Prince `C-IVγ-091` came off that tier in batch 12's
 second unit** (the head at `baeab5c`: 9 dirty, 0.389, series clause open — now closed, 6,373 → 7,218
-words, and it produced and cleared one residual of its own). The tier behind it, re-measured at `baeab5c`:
-Mirror of Soaking `N-IIβ-801` (10, 0.381, condition and series open), Frozen Fury `C-IVδ-668` (10, 0.335,
-series open) and Mourner's Bloom `C-Iα-330` (10, 0.301, series open); the older batch-7 names beyond these
-remain in the cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor
+words, and it produced and cleared one residual of its own). **Mirror of Soaking `N-IIβ-801` came off that tier in batch 12's third unit** (the head at `9e0ea26`:
+10 dirty, 0.381, condition and series open — now both closed, 6,152 → 6,995 words; one extra wave was
+forced by a corpus side effect on a shipped file, never by the dossier). The tier was then re-derived
+whole-archive at that head rather than carried: **The Rejector `C-IIIγ-063` (7 dirty, 0.506, series open)
+leads batch 13**, with Walking Calendar `C-IVδ-220` (7, 0.489) and Drowned Roots `C-IIβ-997` (7, 0.483)
+behind it; Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
+series open) remain in the cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);

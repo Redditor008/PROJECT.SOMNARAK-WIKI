@@ -38,6 +38,37 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 12 / unit 3 — Mirror of Soaking `N-IIβ-801` closed, closing batch 12 at three (2026-10-06)** —
+  the batch-12 head measured at `9e0ea26`: **10 dirty sections**, worst Behavior 0.381, then Activation
+  Behavior 0.306, 관찰 기록 (Observation Log) 0.236, 감각 묘사 (Flavor Text) 0.234, 최종 관찰 (Final
+  Observation) 0.200, M.A.W. Equipment 0.171, Trivia 0.087, Operational Parameters 0.074, Appearance 0.061
+  and Combat Record 0.054. All ten closed across three waves (23 + 29 + 3 sites); 6,152 → **6,995 words**;
+  `tpl.py` residue 3 → **0**; `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged as` carrier);
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, with **both open clauses
+  closed**: the generic `Enforce valid Work Types` row in the Detailed Activation Record was replaced with
+  the holding's own condition — written reattribution of the anger to the condition that produced it, filed
+  before the shift closes, with the height above floor level entered at arrival and at close and any worker
+  carrying an open conduct note from the preceding fortnight rotated off the post rather than posted to it —
+  and the series clause now reads the file's own figures: **31 cm** at the filing of the first conduct note
+  and **19 cm** the morning after it was corrected, with the reading closed below **25%**. Two splice
+  defects repaired in the same unit: the `Physical Form:` prefix pasted into both `Position / movement`
+  lines replaced with the record's own movement statement — stationary once risen, plotted as a dated point
+  rather than a track. Authored from the file's own canon throughout: the height in centimetres as the
+  entity's state, the char-smell at floor level, the glow that deepens near somebody holding anger in, the
+  civility clause and its one-sided recording, the withdrawn conduct note and its correction, the
+  Counters' treatment of rage as defect, and the M.A.W. set whose lens has let three wearers rewrite notes
+  they had signed. Wave C was forced by an archive-level side effect, not by the file: reusing the shipped
+  Stall's interaction-table header took that 8-gram from 9 to 10 dossiers and briefly made the Stall
+  section-dirty — the Mirror's header was re-authored instead, the Stall returned to 0 dirty sections, and
+  no shipped file was touched. Movement: `R-29` 100 → **101 / 301** (specific condition 250 → **251**, own
+  numeric series 216 → **217**), section-clean 123 → **125 / 301** (this file plus The Sky of Borrowed Faces
+  `O-IIIγ-926`, which the shingle census moved below the line as the corpus shrank), residue-free 150 →
+  **151 / 302** (instances 408 → 396, carriers 150 → **149**, distinct residue lines 33 → **32**), file-clean
+  204 → **205 / 302**, median 0.024 → **0.023**, worst 0.142 unchanged. **Batch 12 is closed at three**
+  (`baeab5c` The Empty Mask, `9e0ea26` The Lost Prince, this unit), each unit measured live at its own head.
+  **Batch 13 opens at three** on a freshly re-derived whole-archive tier: The Rejector `C-IIIγ-063` (7 dirty,
+  0.506, series open), Walking Calendar `C-IVδ-220` (7, 0.489) and Drowned Roots `C-IIβ-997` (7, 0.483).
+
 - **Batch 12 / unit 2 — The Lost Prince `C-IVγ-091` closed (2026-10-05)** — measured at the batch-12
   first-unit head (`baeab5c`): worst Origin 0.389 across **9 dirty sections**, **the series clause open** and
   `verify.py` residual 3. All nine closed (최종 관찰 (Final Observation) 0.343, 관찰 기록 (Observation Log)
