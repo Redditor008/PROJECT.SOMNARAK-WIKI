@@ -252,9 +252,9 @@ All three pieces were cut at slack and all three keep the Tide's habit of gettin
 
 **R.D. Comprehension Level:** 4 — Mastered
 
-- The Tide rises at night and falls at dawn.
-- It affects every known Sorrow Entity.
-- Personnel who endure it report exhaustion but increased solidarity.
+- The Tide rises after sunset and falls at dawn. It is read at 9 gauge stations, hourly, from an hour before sunset to an hour after dawn, and the onset is reported within the same 11 minutes at every one; the almanac office holds 60 years of those nightly readings.
+- It affects every known Sorrow Entity, and it is the one holding that can be forecast a year ahead. Red-marked nights run to 19 a year and the almanac has called 188 of the last 203 to within 40 minutes (92.6%). It predicts the timing; it has never predicted the height.
+- Personnel who endure it report exhaustion but increased solidarity, and the attendance figures agree: across 11 years, full shelters with the protocol run have been followed by lower peaks. The 41 shelters were opened district by district between Year 4,188 and Year 4,203. The 4 Floods in 60 years, the longest 9 hours past dawn, were each preceded by attendance below a third.
 
 **Personnel Note:** *"It was mourning. I felt peace. The Tide reminded me that the city was suffering with me, even when no one stood nearby."* — Specialist, Zone C patrol
 
@@ -359,10 +359,10 @@ Some sorrows are events. Sorrow Tide is a rhythm — the city's grief, suppresse
 > *“The oldest cycle in Somnarak. The breath of a place built on sorrow.”* — Elder, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Vγ-260 [WP]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Place-Weight manifestation
+**Classification:** Sorrow Entity — `C-Vγ-260 [WP]` · City origin · Sovereign (V) coherence · Major (γ) potency · Weight · Place-Weight manifestation
 **Common Name:** Sorrow Tide
 **Containment Status:** Uncontained — citywide (natural rhythm)
-**Comprehension Level:** 5 — Sovereign
+**Comprehension Level:** 4 — Mastered
 **Threat Assessment:** Low (individually). The Tide is the city’s natural rhythm: grief suppressed by day, released by night. Effect: during the Tide, all entities are more active.
 **Containment & Handling Procedures:**
 - No containment possible; the Tide is a natural property of Somnarak.
@@ -381,7 +381,7 @@ Some sorrows are events. Sorrow Tide is a rhythm — the city's grief, suppresse
 **Review requirement:** After every red night and every Flood: the nine station readings, predicted against observed, attendance by district, protocol run or doors only, and the hour of slack. Two standing items. The almanac's accuracy is published annually whether or not it is good. And any district that closes a shelter reports the closure to the almanac office before the next red night, because the attendance figures are the only lever anybody has.
 ## Sovereign Manifestation Log
 
-The Tide's manifestation is the city's own breathing made visible. By day, grief is suppressed — worked, logged, carried quietly through the shifts — and the Tide withdraws to a low shimmer along the ward-lines. By night it returns: corridor acoustics deepen, the holding cells grow restless in waves, and the night-shift logs fill with the same phrase in different handwriting, *"the building is dreaming."* The Directorate's tidal charts, kept continuously for four hundred years, show the pattern never once breaking — not during sieges, not during blackouts, not during the three days the Maw went silent.
+The Tide's manifestation is the city's own breathing made visible. By day, grief is suppressed — worked, logged, carried quietly through the shifts — and the Tide withdraws to a low shimmer along the ward-lines. By night it returns: corridor acoustics deepen, the holding cells grow restless in waves, and the night-shift logs fill with the same phrase in different handwriting, *"the building is dreaming."* The Directorate's tidal charts, kept continuously for four hundred years, show the pattern never once failing to rise — not during sieges, not during blackouts, not during the three days the Maw went silent. Failing to fall is another matter, and the nine gauge stations have logged it four times in their sixty years.
 
 Twice a cycle the Tide runs extreme — a spring tide of sorrow that floods the lower galleries — and twice a cycle the Directorate plans around it the way harbor cities plan around the moon.
 
@@ -391,7 +391,7 @@ No Sovereign shapes daily life more than the Tide, and none is fought less. Post
 
 ## Sovereign Chronicle
 
-The Tide is the city's breathing made visible — grief suppressed by daylight, released by night, in a rhythm so regular that the Directorate sets its clocks by it. This chronicle records how that rhythm was learned, what happened the one time it broke, and what the night crews know that the day shift never will.
+The Tide is the city's breathing made visible — grief suppressed by daylight, released by night, in a rhythm so regular that the Directorate sets its clocks by it. This chronicle records how that rhythm was learned, what happened the night it broke worst, and what the night crews know that the day shift never will.
 
 ### The First Chart
 
@@ -403,11 +403,13 @@ Comprehension of the Tide is therefore comprehension of scheduling as a survival
 
 ### The Long Night
 
-The rhythm broke exactly once. The tide came in on schedule and did not go out. Dawn arrived — gray, thin, unconvincing — and the gauges kept rising. The day shift reported for duty into flood conditions, was ordered back to shelter, and watched through sealed glass as the second night began on top of the first without any interval of ebb. By the third consecutive flood-watch, the ready rooms had run out of bunks, the counseling queues had run out of chairs, and the Directorate had run out of precedent. Nothing in the doctrine covered a tide that forgot to turn.
+The rhythm broke worst once, before the gauges were built. The tide came in on schedule and did not go out. Dawn arrived — gray, thin, unconvincing — and the gauges kept rising. The day shift reported for duty into flood conditions, was ordered back to shelter, and watched through sealed glass as the second night began on top of the first without any interval of ebb. By the third consecutive flood-watch, the ready rooms had run out of bunks, the counseling queues had run out of chairs, and the Directorate had run out of precedent. Nothing in the doctrine covered a tide that forgot to turn.
 
 What ended it is still disputed. The official record credits a coordinated program of scheduled mourning — every shelter, every facility, every crew conducting formal grief observances at staggered hours, giving the flood somewhere to go. The night crews credit something older: they opened the outer doors at the deepest hour and let the city grieve outward instead of inward, a decision taken without authorization by a watch commander whose name is now spoken with reverence and whose disciplinary file is now blank. The tide turned within the hour. Whether it turned because of the observances, the open doors, or its own inscrutable timing is a question the Directorate has wisely declined to settle. All three explanations are taught. All three precautions are maintained.
 
 The Long Night lasted the equivalent of three flood-watches. Casualties were remarkably few and psychological injuries remarkably many — which is, the counselors note, exactly the Tide's signature. It does not kill the city. It drowns the city's composure and waits to see who remembers how to swim.
+
+The nine gauge stations, which came later, have logged four lesser Floods in sixty years, the longest nine hours past dawn. None has come near three flood-watches, and the night crews still measure each of them against the wall.
 
 ### Warden's Marginalia
 
