@@ -20,14 +20,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **136 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **109 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **86 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **137 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **110 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **87 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 190 / 302 |
-| Archive median prose generic fraction | 0.031 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 191 / 302 |
+| Archive median prose generic fraction | 0.030 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -1051,6 +1051,26 @@ this re-confirms is the old trap in the list below: a mixed reset is safe **only
 tree equals the pushed state file by file. `tools/syncbranch.py` refused the fast-forward, which is
 what it exists to do.
 
+**Batch 8, unit 1: Soaking Shadow `N-IIIγ-308` closed — the batch opens at the floor of three on a
+re-derived head.** The tier behind batch 8 was not carried over from the batch-7 list: `sectfile.py` was
+re-run across all 302 dossiers in one pass at `6871343`, and the queue's head turned out to be a file the
+older, partial tier list had never contained. Soaking Shadow measured **8 dirty sections**, worst 기록
+(Registrum) **0.602 — the highest per-section fraction in the archive** — with M.A.W. Equipment 0.410,
+Behavior 0.397, Combat Record 0.229, Activation Behavior 0.214, 감각 묘사 (Flavor Text) 0.176,
+최종 관찰 (Final Observation) 0.147 and Trivia 0.107. All eight closed; 6,730 → **7,778 words**; `tpl.py`
+residue 5 → **0**; `verify.py` residual 0 before and after (no new carrier created); `sectfile.py` ends at
+**0 section(s) over 0.05**; `wikistd.py` meets **True**, with the condition and series clauses already
+satisfied and left untouched (`R-05`). The instrument is the **card grade read against the Discipline
+Office's annual return** — the colour at arm's length by one Warden, alone, against the share of bound
+objections whose work was afterwards performed again by the same hand: 31 / 52 / 74 per cent against
+grades of 4, 6 and 9. Every figure used was already in the file (four thousand and nine grievances,
+eleven answered, the register closed since the sealing, 6,310 objections bound in Year 4237, 212 pages
+cited, 58 withdrawals refused, the two single-recipient discharges, the wet floor). Movement: `R-29`
+86 → **87 / 301**, section-clean 109 → **110 / 301**, residue-free 136 → **137 / 302** (instances
+530 → 516, carriers 166 → 165, distinct residue lines 41 → **40**), file-clean 190 → **191 / 302**,
+median 0.031 → **0.030**, worst unchanged at 0.158. **Batch 8 continues at the floor of three**; the
+second unit is measured at the batch head, never carried over.
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1059,10 +1079,17 @@ Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` cam
 Swallowed Fury `C-Iα-683` came off this list by
 being closed in batch 7's second unit (it was the live head: 10 dirty, worst 0.465, 5,256 words below the
 6,000-word floor). Bridge to Nowhere `C-IVδ-260` came off this list by being closed in batch 7's third
-unit (it was the live head: 10 dirty, worst Origin 0.392). Still on the tier, measured for batch 8: The
-Lost Prince `C-IVγ-091` (9, 0.389), Mirror of Soaking `N-IIβ-801` (10, 0.381, and the only file on the
-tier whose condition clause is still open), Frozen Fury `C-IVδ-668` (10, 0.338) and Mourner's Bloom
-`C-Iα-330` (10, 0.301); Labyrinth of Stolen Faces and Torpor
+unit (it was the live head: 10 dirty, worst Origin 0.392). **Soaking Shadow `N-IIIγ-308` came off it in
+batch 8's first unit** — the re-derived head, found by re-running `sectfile.py` across all 302 dossiers
+rather than trusting the older partial tier list (8 dirty, worst 기록 (Registrum) 0.602, the highest
+per-section fraction in the archive). The tier behind it, re-measured at `6871343` and to be re-measured
+again at the next head: Redcage `C-IIIγ-120` (7 dirty, 0.590, condition clause open), Flowing Seed
+`N-IIIγ-628` (8, 0.576, T/T), Forgotten Shadow `N-IIβ-453` (6, 0.558, T/T), The Mewgical Girl
+`N-IVδ-901` (3, 0.548, condition open), Cleaved `C-IIβ-775` (7, 0.548), Rem `C-IIβ-135` (8, 0.541),
+Broken Clocktower `C-IVγ-240` (7, 0.529), Unheard `C-Iα-965` (7, 0.523); the older batch-7 names (The
+Lost Prince, Mirror of Soaking, Frozen Fury, Mourner's Bloom) remain in the cohort but are no longer the
+head. The archive's whole-file worst is still Forgotten Market Stall `C-IIα-062` (9 dirty, 0.465 section,
+0.158 file, condition open), and closing it is what would move the worst figure itself; Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);

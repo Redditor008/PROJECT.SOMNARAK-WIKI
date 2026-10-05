@@ -38,6 +38,33 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 8 / unit 1 — Soaking Shadow `N-IIIγ-308` brought to the standard, opening batch 8 at three
+  (2026-10-05)** — the re-derived head of the queue, and the highest per-section fraction in the archive
+  on the day it was worked (기록 (Registrum) 0.602); it was found by re-running `sectfile.py` across all
+  302 dossiers rather than carrying the older tier list over.
+  - All **8 dirty sections** closed (Registrum 0.602, M.A.W. Equipment 0.410, Behavior 0.397,
+    Combat Record 0.229, Activation Behavior 0.214, 감각 묘사 (Flavor Text) 0.176,
+    최종 관찰 (Final Observation) 0.147, Trivia 0.107): 6,730 → **7,778 words**; `tpl.py` residue 5 → **0**
+    (the stock Resistance row, the resolution line, the M.A.W. activation debit, the Fang's cost line and
+    the Stat interpretation); `verify.py` residual was already 0 and stayed 0 — no new carrier was created;
+    `sectfile.py` ends at **0 section(s) over 0.05**, `wikistd.py` meets **True**. **Condition** and
+    **series** were already satisfied and were left alone (`R-05`), and the series digits were kept in
+    place while their lines were rewritten: four thousand and nine grievances, eleven answered, the card at
+    4 / 6 / 9 of twelve against a return of 31 / 52 / 74 per cent, 6,310 objections filed and bound in Year
+    4237, 212 pages cited, 58 withdrawals refused.
+  - The record's instrument — authored first in the clean `Warden Record` and followed, not imported, by
+    the rewritten sections — is the **card grade read against the Discipline Office's annual return**: the
+    colour at arm's length by one Warden, alone, against the share of bound objections whose work was
+    performed again by the same hand. The holding takes anger and returns none except by single-recipient
+    discharge, twice on record; the vault's floor has not been dry since the sealing. Two visible defects
+    were repaired as cause (`R-01`/seam): the Registry Trivia's Containment-detail line carried two spliced
+    clauses ("The door is a filter, not a wall. the entity is inactive; fixed entities may activate…"), and
+    the Trivia's Field-detail line asserted a Work Type and series the file does not run on.
+  - Movement: `R-29` 86 → **87 / 301**, section-clean 109 → **110 / 301**, residue-free 136 →
+    **137 / 302** (instances 530 → 516, carriers 166 → 165, distinct residue lines 41 → **40**), file-clean
+    190 → **191 / 302**, median 0.031 → **0.030**, worst 0.158 unchanged. **Batch 8 continues at the
+    floor of three**; the next unit is re-measured at its head, never carried over.
+
 - **Batch 7 / unit 3 — Bridge to Nowhere `C-IVδ-260` brought to the standard, closing the batch
   (2026-10-05)** — the live head of the remaining tier (Origin 0.392) —
   - The file measured **10 dirty sections** (worst Origin 0.392, Behavior 0.370, Expansion Behavior 0.241,
