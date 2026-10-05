@@ -295,9 +295,9 @@ Both pieces came from the frame and not the door, and the Armoury has said there
 **Key Observations:**
 - The Door predates the facility, city, and all known records.
 - Something warm and alive exists on the opposite side.
-- Whispers use a language unlike Korean or any known Before-Time language.
-- Archive Lead Marjuk visits once a year for exactly one hour.
-- The Director's order remains absolute: no opening, study, or discussion.
+- Whispers use a language unlike Korean or any known Before-Time language. 41 are on record across 94 cycles, and every one lasted exactly 13 seconds. No two transcripts match: 31 are questions, 9 are instructions and 1 is a name that belongs to nobody in any register the Archive holds.
+- Archive Lead Marjuk visits once a year for exactly one hour, and it has never spoken to him.
+- The Director's order remains absolute: no opening, study, or discussion. Even so, 61 of the 94 Keepers have come back up the stair with a plan for opening it, and 4 proposals to open it have reached the Director in person.
 
 **Personnel Note:**
 > *"I touched the Door once. It was warm. Something touched back."* — Specialist, Alpha Tree deep vault; reassigned immediately
@@ -407,7 +407,7 @@ Some sorrows are about what is known. The Final Door is about what cannot be kno
 **Classification:** Sorrow Entity — `C-Vδ-111 [VO]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Void · Object-Void manifestation
 **Common Name:** The Final Door
 **Containment Status:** Sealed — beneath the Alpha Tree
-**Comprehension Level:** 5 — Sovereign
+**Comprehension Level:** 1 — Minimal
 **Threat Assessment:** Unknown. The Door is sealed, predating the city. Contents unknown. Risk: opening is considered potentially world-ending.
 **Containment & Handling Procedures:**
 - Do not open. Under any circumstances.
