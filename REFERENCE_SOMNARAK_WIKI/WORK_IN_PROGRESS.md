@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **117 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **91 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **68 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **120 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **94 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **71 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 167 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 170 / 302 |
 | Archive median prose generic fraction | 0.048 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -699,7 +699,62 @@ rows were authored, and two names reconciled to their codes: *Silence We Forgot 
 **Deteriorata `C-IVγ-130`**; *The Undersong* again resolved to **Hollow Echo `N-IIα-125`**.
 `verify.py` residual 1 is the Story Log Entry 1 opener, unchanged.
 
-**Batch accounting, this batch (the corrected `R-26` ladder).** Three units were finished in it —
+**The third batch opened, and the owner restated the floor: minimum three SE files per batch.** Three units
+were finished against it (`3df3a02`, `dc8d8ed`, `bc357e7`), each with its own `gate.sh` commit.
+
+**The batch's first unit closed Hums `C-IIβ-048` (`3df3a02`).** The file measured **11 dirty sections**
+(worst 최종 관찰 0.475) and failed the condition and series clauses: 6,315 → 8,793 words, `0
+section(s) over 0.05`, `tpl.py` residue 8 → 0, `wikistd.py` meets `True`. `R-29` **68 → 69 / 301**;
+section-clean **91 → 92**; specific condition 241 → **242**; own numeric series 197 → **198**. Its
+instrument is the carrier register: 281 songs heard, 44 with a living carrier, **6 held by one person
+each**, and 237 transcribed in full, accurately, by competent staff and carried by nobody. The
+management condition was replaced with the file's own (the song acquires a living carrier who can
+sing it unaccompanied, reported to the register by name), and the generic `Enforce valid Work Types`
+row was retired from the Detailed Activation Record *and* from the Final Observation table, where it
+had been sitting in the condition cell. The relic banner trio carried the stock wording (18 holders)
+and was rewritten; the Log and Method table's 30-second row carried a real splice (`forged during
+songs disappeared when their singers died. the melodies crystallized…`) and was rebuilt. The
+Registrum was reconciled to the header as cause, not as an edit note: Comprehension 2 → **3 —
+Advanced**, and the `Flerehan is the only valid Work Type` line, which contradicted the whole file,
+removed. Four interaction rows were authored against their own files (The Orphaned Bell `C-IVδ-001`,
+Forgotten Soldier `N-IIβ-033`, The Hollow Choir `C-IIIγ-021`, Weeping Statue `C-IIβ-055` — the last
+the only one sharing the stone's own sector). `verify.py` residual 1 is the Story Log Entry 1 opener.
+
+**The batch's second unit closed Loom of Unlived Dreams `C-IVγ-176` (`dc8d8ed`).** The file measured
+**11 dirty sections** (worst 기록 0.482) and failed the condition clause: 7,699 → 9,942 words, `0
+section(s) over 0.05`, `tpl.py` residue 13 → 0, `verify.py` **residual 0**, `wikistd.py` meets True.
+`R-29` **69 → 70 / 301**; section-clean **92 → 93**; condition 242 → **243**. Its instrument is the
+beam: the finished length read at every annual return — **40, then 61, then 88 metres, never once
+found shorter** — the shuttle timed over fifty passes, the radius walked and re-marked from scratch,
+and the Establishment Office's own return that the length is set against (2,289 people finished a
+qualifying course in Year 4237 for a post whose number had gone; 143 figures reduced to nil between
+one quarter and the next; nobody told, because to tell them would be to name them). The management
+condition is the file's own clock-and-seals rule, and the generic `Enforce valid Work Types` row and
+its Final Observation twin were both retired. **The third-shape `R-01` Registrum line** — the
+`… All corrected.` form the work record flagged as slipping both of `tools/editmeta.py`'s families —
+was found here in the Trivia section and **converted to cause**, exactly as the standing note
+prescribes: the governing figures are now stated as the reason rather than as a correction history.
+
+**The batch's third unit closed Apocrypha `O-Iα-340` (`bc357e7`)** — the smaller file of the three,
+**6 dirty sections** (worst Activation Behavior 0.201), the series clause the only open one: 6,997 →
+7,970 words, `0 section(s) over 0.05`, `tpl.py` residue 1 → 0, `verify.py` residual 3 → 1,
+`wikistd.py` meets True. `R-29` **70 → 71 / 301**; section-clean **93 → 94**; own numeric series 198 →
+**199**. Its instrument is the reading and the register behind it: the frost forms around an outline
+that has never held anything solid, **nine sites** each beside a camp abandoned rather than struck,
+the **sixty-second** limit that is the only hard number enforced at the outline, and the effects
+office's **1,384** unidentified items held with no disposal date under the wing's nine-year
+undertaking. The relic banner trio, the Log and Method's four spliced rows, the Termination line,
+three M.A.W. field rows and two stock piece appearances were rewritten; the Escalation paragraph was
+rewritten from the file's own relocation account, which cleared the `verify.py` residual it carried.
+
+**Batch accounting (the corrected `R-26` ladder, floor three).** The batch closed at exactly three
+units, which the owner restated as the minimum. It does not ratchet to five: Hums and Loom carried 11
+dirty sections each and 8,000–10,000 words, and only Apocrypha was a genuinely smaller job. Across the
+batch `R-29` moved **68 → 71 / 301**, section-clean **91 → 94**, condition **242 → 243**, series
+**197 → 199**, residue-free **117 → 120 / 302** and file-clean **167 → 170 / 302**; the residue and
+file-clean movement again includes spillover, and is not to be read as units performed.
+
+**Batch accounting, the batch before this one** — three units were finished in it —
 Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's
 floor. The ladder does **not** ratchet to five, because this cohort's units are not simple by
 `R-26`'s test: 12 dirty sections each, full Interaction Records, 6,000–9,500 words. Residue-free moved
@@ -720,9 +775,11 @@ tree equals the pushed state file by file. `tools/syncbranch.py` refused the fas
 what it exists to do.
 
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
-`sectfile.py`, re-measured at the head of the next batch because the queue is never carried over;
-Perennial and Survivors' Breath came off it this batch, and Hums `C-IIβ-048` and Loom of Unlived
-Dreams `C-IVγ-176` stood at 11 each when last measured; (2) the `R-01` sweep
+`sectfile.py`, re-measured at the head of the next batch because the queue is never carried over.
+Hums `C-IIβ-048`, Loom of Unlived Dreams `C-IVγ-176` and Apocrypha `O-Iα-340` came off it this batch;
+measured during the batch as candidates, **Driftglass `O-IIIγ-914` (6 dirty) and Sehnsucht
+`O-IIIγ-476` (5 dirty, and its condition clause open)** are the next-tier files on the sample taken,
+and Homeless Sorrow `O-IIβ-119` came back clean and should be dropped from the cohort; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);
 (3) the 211 + 127 stock sentences; (4) the remaining single-clause gaps from the third-turn list.
 

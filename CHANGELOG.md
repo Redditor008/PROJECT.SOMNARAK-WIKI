@@ -82,6 +82,48 @@ This file records notable changes to the public Somnarak Wiki.
     descent; one co-presence in which the crew's gauges fell and the vault's interval did not move)
     and The Grieving Colossus (no co-presence and none proposed; the two ledgers read together,
     neither holding ever fought).
+- **Workstream 9 / `R-29`: Apocrypha `O-Iα-340` (2026-10-05)** —
+  - One `gate.sh` commit (`bc357e7`), growth-only: 6,997 → 7,970 words. Six dirty sections closed —
+    `0 section(s) over 0.05` — plus the open **series** clause (the file's own figures written into
+    the record sections: nine sites, 25–40%, 198/198, 10–14, 15%/5%, sixty seconds, 1,384 items,
+    disclosed). `tpl.py` residue 1 → 0; `verify.py` residual 3 → 1; `wikistd.py` meets `True`.
+    `R-29` **70 → 71 / 301**; section-clean **93 → 94**; own numeric series 198 → 199.
+  - The instrument is the reading and the register behind it: frost forming around an outline that has
+    never held anything solid, nine sites each beside a camp abandoned rather than struck, the
+    sixty-second limit, and the effects office's **1,384** unidentified items held with no disposal
+    date under the wing's nine-year undertaking. The relic banner trio, the four spliced Log and
+    Method rows, the Termination line, three M.A.W. field rows and two stock piece appearances were
+    rewritten; the Escalation paragraph was rebuilt from the file's own relocation account.
+- **Workstream 9 / `R-29`: Loom of Unlived Dreams `C-IVγ-176` (2026-10-05)** —
+  - One `gate.sh` commit (`dc8d8ed`), growth-only: 7,699 → 9,942 words. Eleven dirty sections closed
+    — `0 section(s) over 0.05` — plus the open **condition** clause, replaced with the file's own
+    clock-and-seals rule. `tpl.py` residue 13 → 0; `verify.py` **residual 0**; `wikistd.py` meets
+    `True`. `R-29` **69 → 70 / 301**; section-clean **92 → 93**; specific condition 242 → 243.
+  - The instrument is the beam: the finished length read at every annual return — **40, 61, 88
+    metres, never once found shorter** — the shuttle timed over fifty passes, the radius re-marked
+    from scratch, and the Establishment Office return the length is set against (2,289 courses
+    finished in Year 4237 for posts reduced to nil, 143 figures to zero in the year, nobody told,
+    because telling them would name them). **The third-shape `R-01` Registrum line** — the
+    `… All corrected.` form that slips both of `tools/editmeta.py`'s families and is on the work
+    record's flag list — was found in the Trivia section and **converted to cause**, per the standing
+    note: the governing figures now stand as the reason and not as a correction history.
+- **Workstream 9 / `R-29`: Hums `C-IIβ-048` (2026-10-05)** —
+  - One `gate.sh` commit (`3df3a02`), growth-only: 6,315 → 8,793 words. Eleven dirty sections closed
+    — `0 section(s) over 0.05` — plus the open **condition** and **series** clauses. `tpl.py` residue
+    8 → 0; `verify.py` residual 1; `wikistd.py` meets `True`. `R-29` **68 → 69 / 301**;
+    section-clean **91 → 92**; specific condition 241 → 242; own numeric series 197 → 198.
+  - The instrument is the carrier register: **281** songs heard, **44** with a living carrier, **6**
+    held by one person each, and **237** transcribed in full by competent staff and carried by
+    nobody. The management condition now states the file's own rule (the song acquires a living
+    carrier who can sing it unaccompanied, reported to the register by name); the generic
+    `Enforce valid Work Types` row was retired from the Detailed Activation Record *and* from the
+    Final Observation table's condition cell. The relic banner trio (stock wording, 18 holders) was
+    rewritten, and the Log and Method table's 30-second row was rebuilt: it carried a real splice
+    (`forged during songs disappeared when their singers died. the melodies crystallized…`).
+    Registrum reconciled to the header as cause — Comprehension 2 → **3 — Advanced**, and the
+    `Flerehan is the only valid Work Type` line, which contradicted the file throughout, removed.
+    Four interaction rows authored (The Orphaned Bell `C-IVδ-001`, Forgotten Soldier `N-IIβ-033`,
+    The Hollow Choir `C-IIIγ-021`, Weeping Statue `C-IIβ-055`).
 - **Workstream 9 / `R-29`: Survivors' Breath `O-IVδ-895` (2026-10-05)** —
   - One `gate.sh` commit (`70db794`), growth-only: 6,605 → 9,453 words. Twelve dirty sections closed
     — `0 section(s) over 0.05` — plus the open **series** clause (the file's own figures written into
