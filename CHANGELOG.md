@@ -38,6 +38,28 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 12 / unit 2 — The Lost Prince `C-IVγ-091` closed (2026-10-05)** — measured at the batch-12
+  first-unit head (`baeab5c`): worst Origin 0.389 across **9 dirty sections**, **the series clause open** and
+  `verify.py` residual 3. All nine closed (최종 관찰 (Final Observation) 0.343, 관찰 기록 (Observation Log)
+  0.336, Behavior 0.261, M.A.W. Equipment 0.183, 감각 묘사 (Flavor Text) 0.142, Trivia 0.078, Combat Record
+  0.076 and Appearance 0.066); 6,373 → **7,218 words**; `tpl.py` residue 2 → **0**; `verify.py` residual 3 →
+  **0** — including a **new** residual the unit's own first Behavior pass created and the same unit caught
+  and cleared, and the Story-Log Entry 1 "is logged as" carrier; `sectfile.py` ends at **0 section(s) over
+  0.05**; `wikistd.py` meets **True**; M.A.W. took a second pass on the two "cool and faintly luminous"
+  appearances. The **series clause closed** on the file's own figures, restated inside real edits and
+  disclosed as restatement: the counter at 2, the 41 permanent leavers and the 38 who did not say so, and
+  the crown's points — added to the Registrum's Observation Notes and the Registry Trivia line. The
+  **condition clause was already satisfied** and was not touched (`R-05`). Rewrite carries the file's own
+  instruments: the crown's points that do not grow back, the counter read at every rotation, the 41/38
+  departure split against the three annotated "told him", the four-second announcement protocol, the
+  chamber inventory that has become a list of the people who worked the holding, the fourth question that
+  objects provoke, and the form the holding settled on — I heard you ask. The clean Apex Record (the Three
+  Questions, the Frightened Threshold, Searching Rather Than Hunting, the Toy Problem) and the clean
+  Registrum were not touched (`R-05`). Movement: `R-29` 99 → **100 / 301** (own numeric series 215 → **216**),
+  section-clean 122 → **123 / 301**, residue-free 151 → **150 / 302** (instances 410 → 408, carriers 151 →
+  150), file-clean 203 → **204 / 302**, median 0.024 and worst 0.142 unchanged. **Batch 12 stands at two of
+  three.**
+
 - **Batch 12 / unit 1 — The Empty Mask `C-IIβ-054` closed (2026-10-05)** — the batch-12 head, measured
   at `44a8d9e`: worst 기록 (Registrum) 0.437 across **7 dirty sections**. All seven closed (최종 관찰 (Final
   Observation) 0.305, M.A.W. Equipment 0.285, Activation Behavior 0.238, 감각 묘사 (Flavor Text) 0.111,
