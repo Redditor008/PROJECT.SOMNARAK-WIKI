@@ -38,6 +38,31 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 16 / unit 2 — Learned Your Face `C-IIIγ-195` closed (2026-10-06)** —
+  measured at `31475b5`: **7 dirty sections**, worst M.A.W. Equipment 0.443, then 이야기 보고 (Story Log) 0.373,
+  기록 (Registrum) 0.245, 최종 관찰 (Final Observation) 0.160, Combat Record 0.096, 감각 묘사 (Flavor Text) 0.085
+  and 관찰 기록 (Observation Log) 0.051. All seven closed in three waves (22 + 15 + 8 sites); 7,349 → **7,924
+  words**; `tpl.py` residue 5 → **0** — including the **Story Log Entry 5 stock tale** (*There is a story in
+  Somnarak … a Weaver who couldn't create*, a 41-dossier carrier) and the `is logged as` Entry 1 carrier;
+  `verify.py` residual 1 → **0** and the seam list is empty; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**, condition and series **already satisfied** (`R-05`; the registering statement now
+  sits in the Resolution bullet as the file's own close — channel closed deliberately, channeller off the mark
+  before turning, learned-face count entered before the bay closes — while the Detailed Activation Record's
+  Management row was left as authored). Re-authored, not reworded: the Combat action rows and both stock
+  Consequences clusters; the Observation-Log exposure row; the **Final Observation pair**, which had been spliced
+  from a warning label (*as written, without improvising*) and now states the file's own failure mode — abandoning
+  the channel instead of closing it, which is how both recorded vents began; the Flavor Interaction Pattern, its
+  method and its table header; the Registrum faction line (a territory-letter splice, `B` against the file's
+  Zone A, reconciled to `A-territory` and extended with the standing stabilisation schedule) and the Registrum
+  shell pair into the file's own economy — every reading paid for with a face, 61 learned in nine years, the
+  count never falling; and the relic banner line (*Channel Overload and Han-Resonance Bleed*, 11 dossiers) onto
+  the file's own venting history. One corpus side effect, beneficial and in a file this unit did not edit:
+  **Apostle Maker `C-Iα-071c` shed one dirty section (2 → 1)**. Archive dirty sections 942 → **934**; worst
+  whole-file fraction 0.125 → **0.124**; median steady **0.019**. Movement: `R-29` 111 → **112 / 301**;
+  section-clean 135 → **136 / 301**; residue-free 179 → **180 / 302** (carriers 122, instances 252, lines 21);
+  file-clean 218 → **219 / 302**. **Batch 16 stands at two of three**; Weeping Statue `C-IIβ-055` (2 dirty,
+  0.442, series open) is the remaining unit.
+
 - **Batch 16 / unit 1 — Emberling `C-IIβ-101` closed (2026-10-06)** —
   measured at `7a4c2d5`: **2 dirty sections** — 최종 관찰 (Final Observation) 0.447 in 47 grams and Combat Record
   0.167 — both closed in one wave (11 sites), and the unit's second wave closed the rest; 7,898 → **8,194 words**;

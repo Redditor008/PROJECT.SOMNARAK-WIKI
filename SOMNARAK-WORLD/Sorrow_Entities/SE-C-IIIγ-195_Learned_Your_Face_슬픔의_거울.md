@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Void pressure; 25% against other pressure types |
+| **Resistance** | 35% against Void pressure, 25% against other pressure types — read from the bay marks rather than from contact, since nothing on this holding has ever been struck and the figure is a standing value. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 693/693 |
 | **Han Pressure [ATK]** | 15–34 per hit · Void |
@@ -79,17 +79,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Reflection* [**Debuff**] } | "It shows you yourself — but the you in the glass is grieving in ways you have not admitted." | [The Mirror reflects the target's hidden sorrow back at them.] | *Target suffers a Void mark; the Mirror has seen their true grief.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
-| { *The Cracked Image* [**Debuff**] } | "The reflection fractures — and so does your sense of which one is real." | [The Mirror distorts; the target's self-image splinters.] | *Target loses clarity; they doubt which self is theirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares too long. |
-| { *The Glass Shard* [**Attack**] } | "A sliver of the mirror breaks free — and it cuts where it reflects." | [A jagged shard flies from the frame, sharp as a held secret.] | *Inflicts Void damage; it cuts away a piece of identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
-| { *The Doppelganger* [**Attack**] } | "The you in the mirror steps out — and it is angrier than you remember." | [The reflection separates and attacks, made of the target's own sorrow.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is confronted. |
-| { *A Thousand You* [**Ultimate**] } | "The mirror shatters into a thousand pieces — and every piece shows a different grieving you." | [The Mirror explodes into fragments, each reflecting sorrow outward.] | *All in range suffer Void erosion for three turns among the shards.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Reflection* [**Debuff**] } | "It shows you yourself — and the you in the glass is grieving in ways you have not admitted, in a room you have never described to anybody." | [The Mirror returns the grief the target has kept out of sight, exact and whole.] | *Target suffers a Void mark; the Mirror has seen their true grief.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
+| { *The Cracked Image* [**Debuff**] } | "The reflection fractures — and what it leaves behind is the certainty that this one thing cannot be told to anybody present." | [The Mirror returns the sealed room's own condition rather than its contents.] | *Target loses clarity; they doubt which grief is theirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares too long. |
+| { *The Glass Shard* [**Attack**] } | "A sliver breaks away from the frame — and it cuts where the reflection was standing." | [A jagged shard leaves the glass, sharp as a kept secret.] | *Inflicts Void damage; it takes away a piece of identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
+| { *The Doppelganger* [**Attack**] } | "The you in the mirror steps out — and it is angrier than you remember being." | [The reflection separates from the glass, wearing the target's own withheld grief.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is confronted. |
+| { *A Thousand You* [**Ultimate**] } | "The mirror shatters into a thousand pieces — and every piece shows somebody who was once alone in a sealed room." | [The Mirror gives up every face it has learned at once.] | *All in range suffer Void erosion for three turns among the shards.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the frame and the bay marks; never by looking at the surface to check, which is the one identification method this holding charges for) and Learned Your Face is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** Identification is the frame and the bay marks and nothing else — looking at the surface to check is the one method this holding charges for, and it is charged in faces. Confirm the designation, take the recognition range from the marks first, and open the cycle with one channeller nominated and a second person on the clock.
 2. **Clash:** Fourteen turns, worked from the floor marks with the team's backs to the glass and one nominated channeller facing it. Nobody else looks, for any reason, including to confirm what the channeller reports.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The session closes with containment, management or retreat, or by the file's own suppression condition: **the channel is closed deliberately, the channeller steps off the mark before turning, and the learned-face count is entered before the bay is closed**. Viderehan and Ferrehan only, and no unlisted Work Type is improvised here, because there is nothing for one to act on.
 
 ### Consequences
 
@@ -152,7 +152,7 @@ Learned Your Face is an Object/Place with Object-Void manifestation and Void exp
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
-> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+> **This Relic has Venting History: Two Abandoned Channels on Record**
 
 **Activation Trigger:** Direct gaze.
 
@@ -211,7 +211,7 @@ Escalation here is range and clarity, not force. Record the trigger, the first c
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that weeps a thin film of Han when swung.
+**Appearance:** a lens-ground disc cut from the mirror's own crystal — pale-black at the core, near-translucent at the rim, and beading Han along it when it is pointed at somebody who is keeping something back.
 
 **Damage:** Void 7–12
 **Speed:** 3 (Fast)
@@ -224,15 +224,15 @@ Escalation here is range and clarity, not force. Record the trigger, the first c
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Learned Your Face's void signature in the strike.
+**Ability:** Deals Void damage against the Soul — identity, memory, the sense of self — and the strike lands where the target is already carrying something unshared.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Small memories go with each use and none of them are the ones that mattered; the armoury enters them in the same column as the learned-face count, because both are paid once and kept.
 
 ### M.A.W. Suit — The Sorrow Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a hooded veil spun from Void Han-gossamer, colourless enough to read as a shadow, cold off the Alpha Tree bay and thick at the hood so that the wearer's own voice comes back muffled.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -242,40 +242,40 @@ Escalation here is range and clarity, not force. Record the trigger, the first c
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Learned Your Face's kind of pressure.
+**Ability:** Wards the Soul — identity, memory, the sense of self — against Void damage of the kind this bay produces, so that what the wearer is shown stays a reading rather than becoming a verdict.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer thins to themselves by a degree the counsellors treat as the boundary case rather than the comfort it is mistaken for.
 
 ### M.A.W. Stigma — The Sorrow Lens
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-pendant of Void Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a lens-pendant cut from the same pale-black crystal, colourless where it is thin, warm against the chest and warmer still against somebody who is not saying what they are carrying.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 stat bonus while working Learned Your Face in the Alpha Tree bay.
 
 **Ability:** Reveals hidden sorrow in another person.
 
 **Cost:** The wearer feels the observed sorrow as personal experience.
 
-*The Sorrow Lens is not issued and cannot be requested. It has been conferred four times, in each case on a channeller who closed the channel at the time the clock-holder called it rather than at the end of what they were seeing.*
+*The Sorrow Lens is not made and cannot be asked for. It has been conferred four times, each time on a channeller who closed the channel when the clock-holder called it rather than when the reflection finished.*
 
 ### M.A.W. Use Notes
 
-These pieces are Learned Your Face in miniature. What they give is listed above; what they take is the wielder loses small, nameless memories with each use, and the Armoury records both against the wielder rather than against the piece.
+These pieces are Learned Your Face in miniature, and the miniature carries the same condition: the benefit is printed above, the subtraction is permanent and unremarkable, and the ledger enters it against the wielder rather than against the piece. The principle is the bay's own — the reading is paid for by whoever asks for it.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Learned Your Face takes: the wielder loses small, nameless memories with each use. |
-| **During use** | Watch for Learned Your Face's toll — the wielder loses small, nameless memories with each use — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wearer feels faintly absent to themselves, without remission. On a Learned Your Face piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece and check the sealed baseline: has Learned Your Face's cost — the wearer feels faintly absent to themselves — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, and a dated baseline of what the wielder can still name unprompted; the cost on file for this set is the small, nameless kind, and it is paid from the first swing. |
+| **During use** | The first sign is a gap where a name or a face used to sit; the second worker enters the hour it appears rather than the hour it is reported, and never asks the wielder what went. |
+| **At limit** | The absence arrives and does not lift; on a Learned Your Face piece the rotation ends at the bay door, whatever the wielder says about being able to continue. |
+| **After use** | Return the piece and open the sealed baseline from before the rotation: if the absence outlasted the wear, the answer goes into the ledger whether or not the wielder agrees, and the piece stays in the armoury until the count is reconciled. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes extraction stability and says nothing about the toll: on this set the cost is permanent and unremarkable at once, and a channeller can carry a γ piece for years without being able to name the week it began subtracting. The ledger's own observation is that the pieces do not warn; they take, and they take the unremarkable things first.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -292,7 +292,7 @@ These pieces are Learned Your Face in miniature. What they give is listed above;
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Learned Your Face as an Object/Place with Object-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-A-01, Alpha Tree. |
+| **Initial exposure** | Confirm the frame, the bay marks and the designation before anything else; the recognition range comes off the marks first, because the range is the only figure on this holding that moves, and it moves for exactly one reason. |
 | **Sustained observation** | Recognition range from the marks, surface condition, channeller time at the glass, the learned-face count, and the gauge of every adjacent holding, which moves when this one is channelled. |
 | **Activation or escalation** | Activation is a direct gaze and lasts until the viewer looks away. Escalation is the reflection gaining detail the channeller did not supply; at that point the clock-holder calls the close and the call is not discussed in the bay. |
 | **Post-contact review** | Range before and after, the learned-face count with the new name added, the channeller's gauge at 24 hours and 14 days, and the adjacent holdings' stabilisation figures. The content of the reflection is not reviewed and is not recorded. |
@@ -303,7 +303,7 @@ These pieces are Learned Your Face in miniature. What they give is listed above;
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Learned Your Face (C-IIIγ-195 [VO]) is logged as a Object-Void manifestation expressing Void. The Mirror formed from sorrow that people concealed from one another. Held at SECTOR-A-01, Alpha Tree. It reflects sorrow, not appearance.
+Learned Your Face (C-IIIγ-195 [VO]) is carried on the wing's register as an Object-Void manifestation expressing Void. The Mirror formed from sorrow that people concealed from one another. Held at SECTOR-A-01, Alpha Tree. It reflects sorrow, not appearance.
 
 **Entry 2 — <Warmer Near Real Tears>**
 The Mirror is warmer near genuine tears.
@@ -314,14 +314,14 @@ The loneliness of believing no one could understand one's grief.
 **Entry 4 — <Remaining With the Reflection>**
 Work response — Viderehan: Reveals the grief hidden beneath behavior. (Stable); Ferrehan: Requires the worker to remain with the reflected sorrow. (Decrease). Personnel often leave with greater peace and less certainty.
 
-**Entry 5 — <The Weaver Who Couldn't Create>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who couldn't create. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+**Entry 5 — <The Register Due for Release>**
+The origin document is the sealed room's access register: two hundred and twelve names, a time of entry and a time of exit for each, and nothing between them. Under the general archive rule that governs municipal registers of its age and that the wing has no power to disapply, it is due for public release in two years. The exemption exists, is properly drawn, and is applied case by case on evidence — and the only way to establish harm to a living person is to ask them, which discloses the thing to the one person it was kept from hardest. One blanket application was made and refused, correctly, because the exemption cannot be applied in the blanket; four individual applications, all where the person is dead and a relative asked, succeeded. The rest are the rest, and the file keeps the archivist's line without proposing anything: the register proves that two hundred and twelve people believed their grief could not be told to anybody, and in two years we will tell everybody.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Learned Your Face; the other feeds it.
+> What the bay comes down to: the channeller closes the channel deliberately before stepping off the mark, or the channel is left open and vents across the sector.
 
-| Viderehan and Ferrehan only, under certified relic protocol, with one channeller on the mark, a second person on the clock, and the learned-face — as written, without improvising. | Depart from the condition for good reasons, as Learned Your Face's record shows people do. |
+| Do the thing on file: Viderehan and Ferrehan only, one channeller on the mark, a second person on the clock, and the learned-face count entered before the bay is closed. | Abandon the channel instead of closing it — relieve the channeller mid-session, or let them step off the mark without turning last — which is how both recorded vents on this holding began. |
 |---|---|
 | Requires the worker to remain with the reflected sorrow. The sorrow is seen clearly; Learned Your Face is fully recorded. | Reveals the grief hidden beneath behavior. The gauge climbs and Learned Your Face withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -342,22 +342,22 @@ The Mirror shows no face. It shows a room where you were alone, a hand you did n
 
 ### Interaction Pattern
 
-This holding is read against the Alpha Tree's other reflective holdings and against the Memory Well. Each relation below has been observed and filed, none is settled, and all are hard to measure here, because testing a relation costs a face.
+This holding is read against the Alpha Tree's other reflective holdings and against the Memory Well, and the reading is like no other in the wing: every co-presence here is authorised individually and is paid for in learned faces. The three relations below are the whole of the co-presence record, none of them is settled, and the wing has refused a fourth approach on cost rather than on risk.
 
-**Interaction method:** Baseline each party alone over a long series before any paired approach, and count the cost of the paired approach before authorising it; on this holding an interaction study is paid for in learned faces. Log the onset of any shared change with its range, duration and trigger, the gauge movement on both sides, and what persists after separation.
+**Interaction method:** Solo baselines first, over a long series, because a paired approach cannot be repeated cheaply and the study is bought with somebody's face: count the cost before authorising anything. Then log the onset of any shared change with its range, duration and trigger, the gauge movement on both sides, and what persists after separation — and set the nulls down at the same length as the findings.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled, and each of them was expensive: every co-presence in this table was observed by a person who is now in the glass.
+The three relations below are points of contact rather than alliances, and each one was expensive: every co-presence in this table was observed by a person who is now in the glass, which is why the table has three rows and three refusals rather than a programme of study.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | The relation as filed | What the co-presence cost and showed | What is kept |
 |---|---|---|---|
 | **The Broken Mirror** | Both are said to show a denied truth, in different layers, which is the oldest claim in the Alpha Tree file. | Five co-presences. The recognition range did not move on any of them and the Broken Mirror's own record is flat. Channellers reported no difference in what they were shown. The claim survives on resemblance alone. | The five co-presences, both records, and the channellers' accounts recorded as unchanged. |
 | **The Memory Well** | The glass is held to reflect what the Well brings up, which would make the pair a retrieval mechanism. | Three approaches, each authorised individually because of the cost. Nothing was reflected that the channeller had not brought with them. The wing has refused a fourth and the refusal gives the cost rather than the risk as its reason. | The three approaches, the null results, and the refusal with its costing attached. |
 | **The Frozen Veil (destroyed)** | Showed the absence under numbness; destroyed in the sixth year and retained here for resonance reference only. | Two co-presences before destruction. The range extended on both, the only external cause ever associated with an extension. The finding cannot be retested and is recorded as unrepeatable rather than as established. | Both co-presences, the range figures, and the note that the second party no longer exists. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Each holding is measured alone first, because interaction data means nothing without the solo baseline to compare it against and the baseline itself is thin. Then the first shared change with its distance, duration, trigger and gauge movement on both sides, the effect within the bay, and whether anything outlasts separation — with the recognition range taken from the marks before and after, since a range extension is the one outcome this holding cannot afford to miss.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -400,14 +400,14 @@ Some sorrows are about loss. Learned Your Face is about the loneliness of believ
 - Formed from the unshared grief of two hundred and twelve people who used one sealed room beneath the Alpha Tree, one at a time.
 - It reflects the room's condition rather than the room's contents: the certainty of being alone with a thing.
 **Cross-References:** Alpha Tree · the sealed room access register · the learned-face count · the Zone A stabilisation schedule
-**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED (A-territory exploration) · UCD (Fray-adjacent zone) · the Zone A standing stabilisation schedule
 **Originator:** Two hundred and twelve citizens who each carried a grief into a sealed room beneath the Alpha Tree and left without telling anybody.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Everything this file states was bought, and the price is on the page: the recognition range moves only when somebody new looks, the learned-face count has risen sixty-one times and fallen none, and the baseline series is thin by decision rather than by neglect. Read the classification, the Work Type restriction and the M.A.W. notes as one arrangement whose standing cost is a permanent name, and where observation contradicts the record, preserve the contradiction rather than normalising it — the record is a living one and this holding has paid for every line of it.
 
-**Review requirement:** The review requirement: every activation, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every activation, Sorrow Tide or transformation attempt invalidates the current baseline, and on this holding the re-verification is not optional: range from the marks, surface condition, learned-face count with the date of the last addition, the channeller's gauge at 24 hours and 14 days, the adjacent holdings' stabilisation figures, and the state of the register-release question. Personnel exposure and location are entered after every activation or interaction attempt.
 ## Warden Record
 
 ### No Neutral Reflection

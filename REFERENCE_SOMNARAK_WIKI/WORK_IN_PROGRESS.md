@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **179 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **135 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **111 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **180 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **136 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **112 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 218 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 219 / 302 |
 | Archive median prose generic fraction | 0.021 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1501,6 +1501,21 @@ worst whole-file fraction 0.132 → **0.125**. Movement: `R-29` 110 → **111 / 
 **222**); section-clean 134 → **135 / 301**; file-clean steady **218 / 302**; median **0.019**; archive dirty
 sections 944 → **942**. **Batch 16 stands at one of three.**
 
+**Batch 16, unit 2: Learned Your Face `C-IIIγ-195` closed.** Measured at `31475b5`: **7 dirty sections**, worst
+M.A.W. Equipment 0.443, then Story Log 0.373 (carrying the 41-dossier *There is a story in Somnarak* stock tale in
+Entry 5), Registrum 0.245, 최종 관찰 0.160, Combat Record 0.096, 감각 묘사 0.085 and 관찰 기록 0.051 — all seven
+closed in three waves (22 + 15 + 8 sites); 7,349 → **7,924 words**; `tpl.py` residue 5 → **0**; `verify.py`
+residual 1 → **0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True** with condition and
+series already satisfied (`R-05`). The stock tale was replaced with the file's own origin document — the sealed
+room's access register, two hundred and twelve names, and its release in two years under a rule the wing cannot
+disapply — and the Final Observation pair, spliced from a warning label, now states the file's own failure mode
+(abandoning the channel rather than closing it, how both recorded vents began). Also reconciled: the faction
+line's territory letter (`B` → `A`, against the file's Zone A) and the Registrum shell pair into the face-count
+economy. One beneficial side effect in a file this unit did not edit: **Apostle Maker `C-Iα-071c` 2 → 1**.
+Archive dirty 942 → **934**; worst whole-file fraction 0.132 → **0.124**; median steady **0.019**. Movement:
+`R-29` 111 → **112 / 301**; section-clean 135 → **136 / 301**; residue-free 179 → **180 / 302** (carriers 122,
+instances 252, lines 21); file-clean 218 → **219 / 302**. **Batch 16 stands at two of three.**
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1554,8 +1569,10 @@ on a disclosed digit restatement of its own figures, plus Lacrima `N-Iα-905` 3 
 waves — 2 dirty sections closed, both open clauses closed (condition restated at line start in the file's own
 words; series on its own digits: 11 years, 1,406 trials, 211 attendances, 940 hours a year), 7,898 → 8,194 words,
 and the retired 10-dossier M.A.W. never-costless carrier took that residue line out of the board with it
-(carriers 123, instances 257, lines 21). Learned Your Face `C-IIIγ-195` (7, 0.443, both clauses already
-satisfied) leads the remainder, Weeping Statue `C-IIβ-055` (2, 0.442, series open) behind it; Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
+(carriers 123, instances 257, lines 21). Learned Your Face `C-IIIγ-195` came off it as the unit-2 close (7 → 0
+dirty sections in three waves, 7,349 → 7,924 words, the 41-dossier stock tale in its Story Log Entry 5 replaced
+with the sealed-room register, plus Apostle Maker `C-Iα-071c` 2 → 1 as a side effect). **Weeping Statue
+`C-IIβ-055` (2, 0.442, series open)** remains as batch 16's final unit; Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
 series open) remain in the cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
