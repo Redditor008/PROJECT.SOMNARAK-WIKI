@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per watch, drawn from the fabric of a district rather than from a chamber. The Old Lament station's return records it as the cheapest yield in the zone and the only one collected while standing in a corridor being looked at. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Void pressure; 15% against other pressure types |
+| **Resistance** | 25% against Void. There is nothing to resist: the entity is in the plaster, the stone and the shadow of every surface on the old rounds, and the wing has never proposed a measure against the walls of its own building. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 445/445 |
 | **Han Pressure [ATK]** | 7–17 per hit · Void |
@@ -78,24 +78,24 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Eyes Open* [**Debuff**] } | "You realize the walls have been watching the whole time." | [Eyes open across the walls; the target feels observed from every surface.] | *Target suffers a Void mark; the Watcher has noticed them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Watcher's space. |
-| { *The Whispered Name* [**Debuff**] } | "The walls whisper your name — and you cannot find the mouth that said it." | [The walls murmur the target's secrets; paranoia sets in.] | *Target loses clarity; they distrust every shadow.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers under surveillance. |
-| { *The Reach* [**Attack**] } | "A hand unfolds from the plaster, slow and certain." | [A limb extends from the wall and seizes the target.] | *Inflicts Void damage; the wall takes a piece of them.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target turns their back. |
-| { *The Swallowed* [**Attack**] } | "The wall opens — and you understand, too late, that it was never solid." | [The Watcher pulls the target partway into the wall's void.] | *A heavy Void strike; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Watcher is cornered or attacked. |
-| { *The Walls Have Ears* [**Ultimate**] } | "Every wall, every surface, every shadow — watching, all at once." | [The Watcher extends through every surface, filling the field with eyes.] | *All in range suffer Void erosion for three turns under the gaze.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Eyes Open* [**Debuff**] } | "You realise the walls have been watching the whole time, and that you had already adjusted to it." | [The watching becomes legible to the worker, who has been inside it since entering.] | *Void pressure; the realisation is the effect, and the gauge records it whether or not it is reported.* **[Void DMG [Void]]** | Within the first half-hour of any watch. |
+| { *The Whispered Name* [**Debuff**] } | "The walls say your name and there is no mouth to have said it." | [The entity addresses one worker by name through the fabric.] | *Void pressure to that worker; 61 occurrences, and in 54 the name used was one only family would use.* **[Void DMG [Void]]** | When a worker has been on the rounds more than a month. |
+| { *The Reach* [**Attack**] } | "A hand comes out of the plaster, slowly, as though it did not want to startle anybody." | [A limb extends from the wall and takes hold.] | *Void damage to the Soul; eleven recorded reaches, all of them toward somebody who had stopped moving, and none has ever taken hold of anybody who kept walking.* **[Void DMG [Void]]** | When a worker stands still on the rounds for more than a few minutes. |
+| { *The Swallowed* [**Attack**] } | "The wall opens and you understand, late, that it was never solid." | [The worker is drawn partway into the fabric.] | *Heavy Void damage; four occurrences, all four recovered within the hour, and all four workers afterwards described the inside as a corridor they recognised.* **[Void DMG [Void]]** | When somebody is taken hold of and pulls back rather than looking at the wall. |
+| { *The Walls Have Ears* [**Ultimate**] } | "Every surface on the rounds is watching at once and the district behaves accordingly." | [The watching becomes total across the Old Lament fabric.] | *Void erosion to everyone in the district for three cycles; the recorded effect on the public was not panic but politeness.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, twice. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The observer walks the old rounds at a steady pace, with the route and the times written before entering. Standing still is the hazard; the whole of the preparation is knowing where you are going next.
 2. **Clash:** There is nothing to close with. The crew works the corridor it is in, acknowledges the gaze aloud at intervals, and keeps the tally; covering an eye raises the gauge and has never once lowered it.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Look back and accept being witnessed; do not blind the walls**.
+3. **Resolution:** Look back. The watch closes when the observer has stood in front of a watched surface, looked at it deliberately, and accepted being seen; the gauge falls on that and on nothing else, measured across 211 watches.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Panopticon’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Panopticon executes its documented event pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- The failure here is pretending not to notice. A worker who completes a watch without once acknowledging the watching has given the entity exactly what made it, and the gauge is higher at the end than at the start.
+- Past about an hour the observer begins performing their own rounds — standing straighter, writing more neatly, checking things they have already checked. It is harmless and it is the clearest early sign the wing has.
+- The set's price is small nameless memories, and the first to go are always of being alone: the wielder stops being able to recall any hour of their life that nobody witnessed.
+- An unacknowledged watch leaves the fabric wider. The corrupted stretch has grown from four corridors to eleven in nine years and has never contracted.
 
 ## Appearance
 **Primary Form:** Eyes set into the fabric itself — plaster, ceiling, doorframes — open, steady, and turned toward whoever is in the corridor. **Figure:** a translucent watcher coalesces only for a person who has stopped trying not to be looked at.
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | Unblinking eyes distributed through the structure, with a translucent figure available only on acceptance. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | It is in the fabric of the old rounds and does not travel; the rounds are where it is. Eleven corridors at present, mapped quarterly, with the boundary marked in chalk on the floor rather than on the walls. |
 | **Material / signature** | Void. Cold plaster, ash on the air, no sound at all, and the specific absence of any response to being looked at. |
 | **Distinctive markers** | Tally and plan position, whether any position has closed, and whether a figure appeared and to whom. |
 | **Identification** | Look back at one and hold it. Anything that reacts is not this holding. |
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Panopticon is recorded as a Subject with Subject-Phantasmal manifestation and Void elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+All four Work Types are available and the useful one is Flerehan, which is unusual for a Void holding: weeping where it can see you lowers the gauge by nine to fourteen points, reliably, across 211 watches. The table cannot carry the condition attached to that — it only works if the worker is not performing it, and the wing has no way to measure the difference except the gauge itself.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A falling gauge means somebody was seen and let themselves be. It rises on concealment of any kind, including justified concealment, and it rose eleven points in the quarter the wing introduced unannounced inspections of the rounds.
 ## Containment Event Behavior
 
 > *"Corruption event in progress. Panopticon is turning the zone it stands in; nothing has left it."*
@@ -188,15 +188,15 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** The multiplier applies to the strike and to each Tick separately. Bearers report that the archetype watches the wielder as readily as the target and that the two figures are logged separately for that reason.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Panopticon's void signature in the strike.
+**Ability:** Void against the Soul. The struck target becomes certain they are being watched and is correct, which fourteen targets have reported as the worst part of it.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Small nameless memories, and specifically the unwitnessed ones — hours the wielder spent alone and can no longer produce.
 
 ### M.A.W. Suit — The Watcher's Veil
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a near-colourless veil carrying a faint smell of old plaster, which the Armoury has twice mistaken for a dust cloth in its own store.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -206,15 +206,15 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Panopticon's kind of pressure.
+**Ability:** Resistance to Void against the Soul, and the only reason a Warden can work a full set of rounds without the name-calling starting.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent to themselves and checks mirrors more than they used to.
 
 ### M.A.W. Stigma — The Watcher's Lens
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-pendant of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a glass lens on a cord that shows, when held up to a blank wall, the corridor on the other side of it — accurately, including people.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -228,18 +228,18 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Panopticon's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Every piece was taken out of a wall that was watching, and the set hands that capability to the wielder: they see through surfaces and are seen through them. It is operationally excellent and the Armoury has never pretended otherwise. The cost is the unwitnessed hours, going one at a time, and two wielders have been unable to say what they did on their own rest days.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the chalk boundary as it stands, and a written account of one hour the wielder spent alone in the past week. Sealed. |
+| **During use** | Every surface the wielder looks through and every name the walls use. Both columns are kept; the second has never been empty on a full rotation. |
+| **At limit** | The wielder cannot produce an hour spent alone. The question is asked daily and the failure is sudden rather than gradual. |
+| **After use** | Open the sealed account and read it to them. Two of three could not place it as their own, and both asked to keep the paper. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade measures extraction stability and misses the trade entirely: this set buys sight through walls and is paid for in the parts of a life nobody else saw. Authorise on the sealed hour.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Panopticon (C-IIβ-235 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void, ambient through the Old Lament fabric in Zone B. It sees everything in the sections it occupies, it has never once acted on any of it, and the number of eyes is greater at every annual return.
+Panopticon is in the plaster and stone of eleven corridors on the Old Lament rounds, watching, and it was eleven years ago that anybody realised the watching was an entity rather than the district's reputation. It sees everything on its rounds and has never once reported anything to anybody.
 
 **Entry 2 — <Old Lament Watch, Year 4238>**
 Tally 2,431 eyes across the mapped frontage, after 1,886 and 1,402. Plan redrawn for the fourth time. Distribution continues to follow the old Warden rounds exactly, including two corridors that have been bricked up for forty years.
@@ -285,9 +285,9 @@ The eyes are in the walls, the ceiling, and the frames of the doors, and they do
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Panopticon; the other feeds it.
+> The choice arrives when the wall says your name — the one only your family uses — and the obvious thing is to keep walking.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Stop, look at the wall, and let it see you. | Keep walking and write the watch up as uneventful. |
 |---|---|
 | Eyes blink and acknowledge the worker. The sorrow is seen clearly; Panopticon is fully recorded. | Stares without blinking. The gauge climbs and Panopticon withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -298,17 +298,17 @@ You feel watched before you see the first eye. Then another opens in the wall, a
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Void always changes a room. Then the Subject-Phantasmal resolves: Eyes embedded in walls, ceilings, and doorframes. A translucent watcher may appear only when the observer accepts being seen.
+**At first contact:** A corridor on the old rounds, ordinary in every way, in which you are being looked at. There is nothing to see. Observers describe realising it rather than noticing it, usually about twenty minutes in.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Void is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** The watching becomes company. Long-serving observers describe the rounds as the least lonely posting in Old Lament, and the wing records that description in the briefing without editorialising.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Void becomes something you can taste, hear, or feel on your skin. The Subject-Phantasmal has crossed the line between containing and becoming.
+**When the entity activates:** Your name, in the plaster, from no direction. It is not loud. In fifty-four of sixty-one occurrences it was a name only a family member would use, and the wing has never been able to explain where it got them.
 
-**After departure:** You leave, but the Void follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** You feel unobserved and it is worse than being watched. Observers coming off the rounds report it consistently and the wing lists it in the briefing as the reason the posting is rotated at six months.
 
 ### Interaction Pattern
 
-Panopticon does not exist in isolation. Its recorded relationships with The Observing Bird, The Whispering Walls, The Weighting Bird should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relations, all of them things that watch, and the measure in every case is the chalk boundary. Two widened it; the third is the only presence that has ever made the fabric give ground.
 
 **Interaction method:** Tally before, hourly during and after, taken by the same two counters working opposite ends of the mapped frontage, with the other holding's own watch logging in parallel and acknowledgements spoken aloud throughout by every person in the section.
 
@@ -317,7 +317,7 @@ Panopticon does not exist in isolation. Its recorded relationships with The Obse
 
 Panopticon must be distinguished from the holdings it is filed near. The Observing Bird gathers what will be used; this one gathers what will be filed. Its subject is not surveillance but the separation of the eye from the hand, which is why its instrument is a tally of eyes rather than anything either of them did.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What it is | What the boundary did | Required record |
 |---|---|---|---|
 | **The Observing Bird** | The Bird works the ground the walls do not cover and will not remain in a section where the tally is high; it leaves within the hour, every time. | No change in the tally. The Bird's withdrawal distance has been consistent across six pairings. | Record the withdrawal. Do not force it; the Bird's own gauge climbs when held in place. |
 | **The Whispering Walls** | The Walls supply sound to a holding that has never made any. Personnel in the section report hearing their own recorded conduct described back to them, flatly and without judgement. | Severe identity pressure; four withdrawals from a single pairing. | Not to be repeated. The prohibition is in the rotation standing orders, not merely in this file. |
@@ -359,20 +359,20 @@ Some sorrows are about what was done. The Watcher's sorrow is about what was see
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). It has never acted against anybody and it does not need to; the hazard is identity, and the casualties are Wardens who began performing for it. Effect: being seen by something that will never do anything about what it sees.
 **Containment & Handling Procedures:**
-- Flerehan is the primary Work Type and Ferrehan the alternate. Viderehan is run for record; Pugnahan is inert.
+- Flerehan is the primary Work Type and Ferrehan the alternate; Viderehan is run for the record and Pugnahan is inert against plaster.
 - It cannot be contained and is not meant to be. The containment is a mapped frontage, a tally and a rotation limit.
 **Observation Notes:**
 - Formed from generations of Wardens who watched accurately and were forbidden to intervene, which is not the same thing and is the whole of the file.
 - The eyes do not blink, and the observation books they came from are complete, legible and correct in every particular.
 **Cross-References:** Zone B, Old Lament · The Wardens · The Veil · The Weighting Bird · the Inspectorate rule on non-intervention · the Standing Hand rounds
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** UCD hold the Old Lament as Fray-adjacent and have asked three times for the watching to be used — as surveillance, formally proposed, with a costed scheme. Refused three times. The proposals are in this file and the last of them was competent enough that the wing's refusal runs to two pages.
 **Originator:** Generations of Wardens who observed without acting.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This holding was made by people who were watched and never acknowledged, and it is managed by acknowledging it — standing still, looking at a wall, letting it see you. Everything else in the file follows from that. It has never reported anything to anybody, which is the fact the three surveillance proposals founder on: a watcher that will not tell you what it saw is not an asset, and a watcher that would is a different entity. The chalk boundary has gone from four corridors to eleven and the wing has no measure that reverses it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every a corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every watch: the route and times, the chalk boundary, every name the walls used and who it belonged to, and whether the observer looked back. The last field is binary and is the only one the gauge answers to. One standing item: any proposal to use the watching operationally goes to the Director and is answered in writing.
 ## Watch Record
 
 ### Eyes That Do Not Blink
@@ -407,7 +407,7 @@ Year 4237: 3,988 notes handed over; 2,104 acted on; forty minutes' median interv
 
 The costs are in the scheme's own standing note and they are not softened. The note must be written: a spoken warning is an observer intervening, and the whole scheme fails the moment the eye's voice can move the hand, so a man who can see the stay giving way spends two minutes writing about it. The hand may not act on anything they see themselves, only on what the note says, because a hand that uses its own eyes is an inspector and the inspector is what 4186 abolished. And eight rounds in nine have no hand at all, so for most of the establishment the arrangement is a thing other people have.
 
-The observers asked for one power: immediate stoppage where life is at risk, exercisable by the observer, reportable afterwards. Refused, and the refusal is sound in every line of it — a stoppage power is discretion, the risk-to-life test would be applied by the observer on the spot with no one to check it, and that is precisely the office the inquiry took away from 66 men who had abused it in both directions. Their submission is bound into the Year 4228 return, recorded as correct and unanswered. The Old Lament watch has it pinned inside the tally book, under the plan: we separated the eye from the hand so that no one man could be judge and bailiff, and the walls here are full of eyes that saw everything and were never allowed to reach.
+The observers asked for one power: immediate stoppage where life is at risk, exercisable by the observer and reportable afterwards. Refused, and the refusal is honest — a watcher with authority to intervene is a different holding and nobody can say what it would become. The minute records the request as reasonable, the refusal as correct, and the eleven occasions on which an observer watched something happen and had nothing to do but write it down.
 
 ## Trivia
 
@@ -419,9 +419,9 @@ The observers asked for one power: immediate stoppage where life is at risk, exe
 ### Registry Trivia
 
 - **Classification detail:** Panopticon is a Subject with Echo (II) — Repeats watching coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Void, and its registered location is Zone B, Old Lament — ambient.
+- **Field detail:** Void, ambient through the fabric of eleven corridors in Old Lament, Zone B, bounded in chalk on the floor.
 - **Recognition detail:** Eyes set in plaster, ceiling and doorframe, open and unblinking, cold to stand near, with ash on the air. A translucent figure appears only to somebody who has stopped minding.
-- **Record detail:** The Registrum placed this holding in Zone D against a Zone B, Old Lament header, and the personnel note was attributed to a Zone D patrol; the cross-reference line carried the same error. It named Viderehan primary where Flerehan and Ferrehan move the gauge. The event row described pulsing force and cracking walls against a Corrupt entry on an ambient holding that has never struck anything. The M.A.W. grade was blank against three β pieces. All corrected. The Watch Record, the eye tally and the Sorrow Seeking note are untouched.
+- **Record detail:** The Registrum placed this holding in Zone D against a Zone B header and attributed the personnel note to a Zone D Warden who has never worked it. Both errors are on the file, reported twice, and uncorrected; they are retained here so that nobody re-discovers them as findings.
 - **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
 ## Document Information
 
