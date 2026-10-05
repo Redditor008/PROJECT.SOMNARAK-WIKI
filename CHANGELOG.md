@@ -38,6 +38,33 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 15 / unit 1 — Patina `C-IVδ-222` closed (2026-10-06)** —
+  measured at `57bbda8`: **8 dirty sections**, worst M.A.W. Equipment 0.453, then Behavior 0.287, Activation
+  Behavior 0.245, Combat Record 0.225, 최종 관찰 (Final Observation) 0.167, 기록 (Registrum) 0.158, Trivia 0.153
+  and 감각 묘사 (Flavor Text) 0.101. All eight closed in three waves (17 + 18 + 14 sites); 7,051 → **7,530
+  words**; `tpl.py` residue 5 → **0**; `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged as`
+  carrier) and the **seam `Profile: The.` cleared** with the Flavor splice that carried it; `sectfile.py` ends at
+  **0 section(s) over 0.05**; `wikistd.py` meets **True**. Condition and series were **already satisfied and left
+  alone** (`R-05`): the condition sits in the file's own Detailed Activation Record management row (margin
+  monuments, quarterly survey from the district network, vegetation watch, exit screening, same-day mediation
+  notice), and the series is carried by the file's own figures (9 / 14 / 19 millimetres across three annual
+  series; 1,120 mediations and 690 closing notes in Year 4237; 430 unsigned; 61 reopened; 58 from the unsigned
+  group; the Year 4234 note). Re-authored, not reworded: the Combat Consequences bullets into the wing's own
+  practices (exit screen as instrument, rotation instead of catharsis, the toll paid whether the use was correct
+  or not); the Escalation Notes and both Reading-the-response notes onto the vegetation line and the eleven
+  undecided records; the relic Log-and-Method rows onto contact at the site and the permanent musculoskeletal
+  kind of injury; the three M.A.W. appearance lines onto the mass's own orange pitting; the `**Stat
+  interpretation:**` blocker (11 dossiers) and the `**Cost:** The wielder's old wounds ache` carrier (12
+  dossiers) onto the file's armoury-transcription note; the Flavor Interaction Pattern and its table header; and
+  the Registrum shell pair (`**Operational interpretation:**` / `**Review requirement:**`, the wing's largest
+  carrier family) into the land-agreement/mediation arrangement this file actually runs on. **No corpus side
+  effects** — this unit moved only its own file (8 → 0 dirty sections; archive totals 967 → **959**), though the
+  shared corpus itself thinned enough to lift the archive's worst whole-file fraction 0.142 → **0.139** and the
+  median 0.021 → **0.020**. Movement: `R-29` 107 → **108 / 301**; section-clean 131 → **132 / 301**; residue-free
+  169 → **170 / 302** (carriers 137 → **132**, instances 319 → **296**, distinct residue lines 26 → **24**);
+  file-clean 212 → **214 / 302**. **Batch 15 stands at one of three**; the batch tier is Forgotten Soldier
+  `N-IIβ-033` (8, 0.451) and Cracked Mirror `C-IIβ-310` (5, 0.447, condition and series open).
+
 - **Batch 14 / unit 3 — Spreading Well `C-IIIγ-373` closed, closing batch 14 at three (2026-10-06)** —
   measured at `29635f3`: **6 dirty sections**, worst M.A.W. Equipment 0.457, then 이야기 보고 (Story Log) 0.411,
   최종 관찰 (Final Observation) 0.153, 감각 묘사 (Flavor Text) 0.129, Combat Record 0.060 and 관찰 기록
