@@ -82,6 +82,26 @@ This file records notable changes to the public Somnarak Wiki.
     descent; one co-presence in which the crew's gauges fell and the vault's interval did not move)
     and The Grieving Colossus (no co-presence and none proposed; the two ledgers read together,
     neither holding ever fought).
+- **Workstream 9 / `R-29`: Driftglass `O-IIIγ-914` (2026-10-05)** —
+  - One `gate.sh` commit, growth-only: 7,768 → 8,597 words. Six dirty sections closed —
+    `0 section(s) over 0.05` — plus the open **series** clause (the file's own figures written into
+    the Trivia bullets: 411 logged transits, 18 per cent, 1,200 person-hours, the code 914, disclosed
+    as a restatement). `tpl.py` residue 3 → 0 and `verify.py` **residual 2 → 0** — both residuals were
+    the `is logged as a` stock phrase, in the SECC Movement row and the Story Log Entry 1 opener, and
+    both were rewritten in place. `wikistd.py` meets `True`. `R-29` **71 → 72 / 301**; section-clean
+    **94 → 95**; own numeric series 199 → 200.
+  - The instrument is the walk and the index behind it: the transit log at 411 sequences with not one
+    repeat, the anchor programme of ordinary rock salt from past the wall that slows the drift by
+    about eighteen per cent and is understood by nobody, the two Wardens at drift height whose hours
+    are booked at about 1,200 person-hours a year, and the three proposals to walk it out of the gate,
+    all refused for want of a receiving authority beyond the wall. The stock `Termination / Return`
+    row, both `Appearance` lines, the `Stat interpretation`, the four spliced Log and Method rows in
+    both Activation sections (the 30-second row carried the splice, like Apocrypha's), the four Field
+    Use Record rows, the Final Observation intro and choice row, the two stock interaction-record
+    paragraphs, and the Trivia bullets were rewritten.
+  - One governing figure reconciled in the same pass: the anchor testimony's "a third" now reads
+    "a fifth … eighteen per cent, which agreed with me", against the Warden Record's own eighteen per
+    cent — the file's standing figure, and the only one any instrument recorded.
 - **Workstream 9 / `R-29`: Apocrypha `O-Iα-340` (2026-10-05)** —
   - One `gate.sh` commit (`bc357e7`), growth-only: 6,997 → 7,970 words. Six dirty sections closed —
     `0 section(s) over 0.05` — plus the open **series** clause (the file's own figures written into

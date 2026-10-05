@@ -20,14 +20,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **120 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **94 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **71 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **121 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **95 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **72 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 170 / 302 |
-| Archive median prose generic fraction | 0.048 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 171 / 302 |
+| Archive median prose generic fraction | 0.039 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -754,6 +754,23 @@ batch `R-29` moved **68 → 71 / 301**, section-clean **91 → 94**, condition *
 **197 → 199**, residue-free **117 → 120 / 302** and file-clean **167 → 170 / 302**; the residue and
 file-clean movement again includes spillover, and is not to be read as units performed.
 
+**The third batch is open at the floor of three, and its first unit is Driftglass `O-IIIγ-914`.** The file
+measured **6 dirty sections** (worst M.A.W. Equipment 0.225, then Activation Behavior 0.196) and all six
+were closed in one `gate.sh` commit: the stock `Termination / Return` row, the two `Appearance` lines and
+the `Stat interpretation`, the four spliced Log and Method rows in both Activation sections, the four
+Field Use Record rows, the Final Observation intro and choice row, the two stock interaction-record
+paragraphs, and the Trivia bullets. 7,768 → **8,597 words**; `tpl.py` residue 3 → 0 and `verify.py`
+residual 2 → **0** — both residuals were the `is logged as a` stock phrase, in the SECC Movement row and
+the Story Log Entry 1 opener, and both were rewritten in place (the Loom's Entry 1 was cleared the same
+way). The open **series** clause closed by restating the file's own figures inside the Trivia bullets
+(411 logged transits, 18 per cent, 1,200 person-hours, the code 914; disclosed as a restatement).
+One governing figure was reconciled in the same pass: the anchor testimony's "a third" now reads
+"a fifth … eighteen per cent, which agreed with me", against the Warden Record's own eighteen per cent.
+Movement into the counters: R-29 71 → **72 / 301**, section-clean 94 → **95 / 301**, series 199 →
+**200 / 301**, residue-free 120 → **121 / 302**, file-clean 170 → **171 / 302**; the condition and parity
+clauses were already satisfied and did not move. The two remaining units of the batch are Sehnsucht
+`O-IIIγ-476` (5 dirty, condition clause open) and the third file, to be re-measured at its head.
+
 **Batch accounting, the batch before this one** — three units were finished in it —
 Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's
 floor. The ladder does **not** ratchet to five, because this cohort's units are not simple by
@@ -775,11 +792,11 @@ tree equals the pushed state file by file. `tools/syncbranch.py` refused the fas
 what it exists to do.
 
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
-`sectfile.py`, re-measured at the head of the next batch because the queue is never carried over.
-Hums `C-IIβ-048`, Loom of Unlived Dreams `C-IVγ-176` and Apocrypha `O-Iα-340` came off it this batch;
-measured during the batch as candidates, **Driftglass `O-IIIγ-914` (6 dirty) and Sehnsucht
-`O-IIIγ-476` (5 dirty, and its condition clause open)** are the next-tier files on the sample taken,
-and Homeless Sorrow `O-IIβ-119` came back clean and should be dropped from the cohort; (2) the `R-01` sweep
+`sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
+Driftglass `O-IIIγ-914` came off it this batch; **Sehnsucht `O-IIIγ-476` (5 dirty, and its condition
+clause open) and Crucible `C-IIIβ-275` (7 dirty, series clause already satisfied) are the measured
+next-tier files on the sample taken this turn**, with Redacted `N-IIIγ-184` (6 dirty) behind them;
+Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);
 (3) the 211 + 127 stock sentences; (4) the remaining single-clause gaps from the third-turn list.
 
