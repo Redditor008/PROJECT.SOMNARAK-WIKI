@@ -279,7 +279,7 @@ Every piece is made from a building that refused to finish being demolished, and
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Holdout (C-IIβ-240 [GP]) is logged as a Place-Weight manifestation expressing Grudge, in the Alpha Tree vault in Zone A. It weighs without mass, it stands only while remembered, and it is made of a demolition that everybody concerned agrees was necessary.
+Holdout is a painted outline on the floor of the Alpha Tree vault with thirty-one stones standing in it, each one returned overnight to the position the old survey gives for it. The building was demolished lawfully. It has been coming back, a stone at a time, for nine years.
 
 **Entry 2 — <Vault Plate Series, Year 4238>**
 Load 560 kilogrammes equivalent at the fixed points, against 412 and 310 in the preceding series. No rubble, no debris, no mass identifiable by any other instrument. Rooms resolving on demand: eleven of an original nineteen.
