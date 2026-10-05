@@ -369,7 +369,7 @@ Some sorrows mourn what was taken. The Debt Eater mourns what was never agreed t
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). It does not strike and has never injured anybody physically; it breaches, three times on file, and moves through the facility by balance. The danger is a subject who has been relieved of knowing what they owe while the creditor's record continues undisturbed.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan lower the gauge; Flerehan and Pugnahan are available, have been tried, and do nothing. Earlier copies of this line implied the first two were the only valid approaches, which is not what the Behavior table records, and it is corrected here.
+- Viderehan and Ferrehan lower the gauge; Flerehan and Pugnahan are available, have been tried, and do nothing. All four Work Types are open to a Subject and the Behavior table gives all four: Flerehan leaves the gauge where it is, and Pugnahan, which is prohibited as pointless rather than as dangerous, does the same, so only Viderehan and Ferrehan are ever worked.
 - It moves by balance rather than by distance. Track it against the sector's accounts, not against a floor plan.
 - Do not attempt to redirect it. It follows obligation and not instruction, and the two attempts on file cost a Warden her own financial memory.
 **Observation Notes:**
