@@ -38,6 +38,24 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 10 / unit 2 — Broken Clocktower `C-IVγ-240` brought to the standard (2026-10-05)** — batch 10's
+  second unit, the live head measured at `1232808`: worst 기록 (Registrum) 0.529 across **7 dirty sections**.
+  All seven closed (M.A.W. Equipment 0.300 → an interim 0.061 → **0.033 clean** in a second pass, 최종 관찰
+  0.155, Trivia 0.100, 감각 묘사 (Flavor Text) 0.087, Activation Behavior 0.071, Combat Record 0.068);
+  7,377 → **8,049 words**; `tpl.py` residue 3 → **0**; `verify.py` residual 1 → **0** (Story-Log Entry 1's
+  "is logged as" carrier); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**,
+  condition and series already satisfied and untouched (`R-05`). The rewrite carries the file's own
+  instruments: the clock frozen at 3:47 with the gear train audible behind it, the six-metre dilation
+  field and its symmetrical two-turn lateness, the watch called from outside on the facility clock
+  because an operator inside cannot judge the interval, one instruction given once as the whole caution,
+  and the carried-drift means of 14, 23 then 31 seconds per watch-hour against the aggregate age of the
+  Directorate's open death inquiries. The clean Apex Record (the bell that does not strike, the witnesses
+  read aloud at every annual review, the Standing Finding's 441 provisional findings and 388 releases with
+  seven reversed) was not touched (`R-05`). Movement: `R-29` 93 → **94 / 301**, section-clean 116 →
+  **117 / 301**, residue-free 144 → **145 / 302** (instances 472 → 460, carriers 158 → 157, distinct
+  residue lines 37 → **36**), file-clean 197 → **198 / 302**, median 0.028 and worst 0.156 unchanged.
+  **Batch 10 continues at the floor of three**; the third unit is measured at its own head.
+
 - **Batch 10 / unit 1 — Rem `C-IIβ-135` brought to the standard (2026-10-05)** — batch 10's opening unit,
   the live head measured at the batch head (`5b05f43`): worst 기록 (Registrum) 0.541 across **8 dirty
   sections**. All eight closed in one pass (Behavior 0.374, Activation Behavior 0.230, M.A.W. Equipment
