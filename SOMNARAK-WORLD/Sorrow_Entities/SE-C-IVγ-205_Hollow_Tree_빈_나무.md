@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per cycle, worked by sitting inside the trunk. The Gardens' return notes that this is the only holding in Zone D where the worker is inside the entity for the whole session. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 — counts down; the second ignored condition breaches it |
 | **Tool / M.A.W. grade** | — · γ |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.30 m/s |
-| **Resistance** | 40% against Weight pressure; 30% against other pressure types |
+| **Resistance** | 40% against Weight. The trunk has never been cut; the one proposal to take a core sample is in the file under its author's name and was refused on the ground that the hollow is the entity and a sample would be of nothing. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 607/607 |
 | **Han Pressure [ATK]** | 13–29 per hit · Weight |
@@ -81,21 +81,21 @@
 | { *The Echoing Trunk* [**Debuff**] } | "You knock on the trunk — and it echoes, hollow, enormous inside. There is more nothing in there than there is tree." | [The Tree's interior void resonates; the target senses the emptiness.] | *Target suffers -10 Resolve; the hollowness is vast.* **[10 Weight DMG [Weight]]** | When the target touches the Tree. |
 | { *The Leaning* [**Debuff**] } | "The tree sways — too easily, too far — because there is nothing inside to hold it rigid." | [The Tree's structural void makes it unstable; the target feels precarious.] | *Target loses 10 Resolve; everything is hollow and about to fall.* **[10 Weight DMG [Weight]]** | When the target lingers. |
 | { *The Split* [**Attack**] } | "The trunk cracks open — and the void inside expands outward." | [The Tree's shell breaks, releasing the hollow.] | *Inflicts Weight pressure and one wound of expanding emptiness.* **[14-22 Weight DMG [Weight]]** | When the Tree is struck. |
-| { *The Full Topple* [**Attack**] } | "The hollow tree falls — and where it lands, the void it contained spreads." | [The Tree collapses; its interior void is released.] | *A heavy Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Tree is felled. |
-| { *The Hollow Forest* [**Ultimate**] } | "Every tree in the field splits open — and every one is hollow, and the nothing is everywhere." | [The Tree spreads its hollowness across the entire field.] | *All in range suffer Weight pressure for three turns of universal emptiness.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Topple* [**Attack**] } | "It goes over, and what was inside the trunk is now the shape of the ground." | [The tree falls and the hollow it carried takes the footprint it lands on.] | *24–36 Weight to anybody beneath it; the affected ground afterwards grows nothing and is left unplanted.* **[24-36 Weight DMG [Weight]]** | When it is felled, pushed, or braced. Twice, both during the Year 4,229 attempt to prop it. |
+| { *The Hollow Forest* [**Ultimate**] } | "Every tree in the Gardens splits along the grain and all of them are empty." | [The hollowness propagates through the Gardens' planting.] | *12–20 Weight per cycle for three cycles to everyone among the trees.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, once; forty-one trees opened and closed again by morning, and none of them has died. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The warden walks to wherever it has stopped, confirms the trunk is open, and sits down inside it with their back to the inner wall. Nothing is set up; the Gardens' entire apparatus for this holding is a cushion and a notebook.
 2. **Clash:** Flerehan runs long and Ferrehan runs inside the hollow under timing from outside. Pugnahan is prohibited here: it does not fail neutrally, it deepens the cavity, and the cavity is the thing the whole holding is about.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Sit inside or beside the Tree; do not fill it with objects**.
+3. **Resolution:** The hour is sat out inside or beside the trunk and nothing is planted, promised or proposed for the ground. 188 cycles have closed that way and the tree has moved 31 times, always at night, always within the Gardens.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resolve**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Hollow Tree’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Hollow Tree executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- The failure here is planning. A worker who starts thinking about what could be grown in it — and most do — has begun the thing the suppression condition prohibits, and the gauge records it before they say it out loud.
+- Past about ninety minutes the worker begins describing what they are for. It arrives as relief rather than distress, and the Gardens has recorded it 94 times without a single report of alarm.
+- The set's price is the opposite of its benefit: the wielder can say what their own work is for, clearly, for about a day, and afterwards cannot remember having been able to.
+- An unsat cycle costs nothing dramatic. The tree walks further that night — a median of 40 metres against a median of 9 — and the Gardens finds it somewhere else in the morning.
 
 ## Appearance
 **Physical Form:** An enormous stripped tree that has pulled itself out of the ground and stands on its own roots, the trunk open from base to head height. **Movement:** it walks rarely and slowly, and it goes toward whatever the chamber holds rather than toward people.
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | Bare branches over a stripped trunk standing on exposed root-legs, with an opening at the base that four people can occupy. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | It walks on root-legs, at night, always inside the Gardens' wall, and has never been seen in motion by anybody. 31 relocations in nine years, each found rather than witnessed. |
 | **Material / signature** | Weight. Lead-cold timber, wet stone on the air, a pressure that rises the longer anybody stays inside, and no echo. |
 | **Distinctive markers** | Standing figure on the Gardens scale, acoustic ring readings, position of the mouth, and lean. |
 | **Identification** | Speak into the opening. If anything comes back, you are at the wrong tree. |
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Hollow Tree is recorded as a Subject with Subject-Body manifestation and Weight elemental expression. The current record places it at SECTOR-D-02, Echo Gardens; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+All four Work Types are available and three of them work. What the table cannot show is the only variable the Gardens tracks: whether the worker sat inside the trunk or beside it. Inside, the gauge falls nine to fourteen points; beside, two to four; and the difference has held across 188 cycles without exception.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A falling gauge means somebody sat in it and did not plan anything for it. It rises on proposals — a planting scheme, a use, a conversion — and has risen four times on schemes that were never spoken aloud, which the Gardens records as a fact and declines to explain.
 ## Breach Behavior
 
 > *"Hollow Tree has broken free. Extends roots through the floor, entangling personnel."*
@@ -197,7 +197,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Category:** Protective Attire (Petrified Bark Plates & Hollow Rib-Armor)
 **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a heavy mantle of stripped bark-fibre, lead-cold, with a hollow in the weave at the back that no amount of pressing will close.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -207,22 +207,22 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Hollow Tree's kind of pressure.
+**Ability:** Resistance to Weight against the Han, and the reason a warden can sit a full hour inside the trunk rather than the twenty minutes the unprotected record shows.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** A constant low fatigue, and the sense of having been useful at something the wearer cannot name.
 
 ### M.A.W. Stigma — The Splintered Gullet
 
 **Category:** Stigma (Throat Relic Mark)
 **Grade:** γ | **Element:** Weight
 
-**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
+**Appearance:** a small charm shaped like a seed and hollow through the middle, heavier than a thing that size has any right to be.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat, and for about a day the wearer can describe what their own work is for, out loud, in one sentence, which most personnel find they cannot do unassisted.
+**Effect:** +2 to the working stat, and for about a day the bearer can describe what their own work is for, out loud, in one sentence. Most personnel cannot do that, which is why the Gardens logs the sentence before it goes.
 
-**Ability:** Grants a minor boon tied to Hollow Tree's sorrow; the effect mirrors the entity's nature.
+**Ability:** The bearer knows, without checking, whether a thing they are holding was made for a purpose that still exists. Tested 41 times against the Gardens' own stores; 38 correct.
 
 **Cost:** The bearer moves a little slower.
 
@@ -230,18 +230,18 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Hollow Tree's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Every piece is hollow somewhere it should not be, and the set does to its wielder what the tree does to a visitor: it makes the question of purpose unavoidable. The benefit is a day of being able to say what your work is for. The cost is that the sentence goes afterwards and the wielder does not notice losing it; the Gardens keeps the written copies for that reason and has eleven of them.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the tree's current position and last movement, and the wielder's one-sentence statement of what their work is for, written down and dated. |
+| **During use** | Any proposal the wielder makes for the ground the tree is standing on, in any form, including as a joke. |
+| **At limit** | The wielder offers to plant something. Three rotations have reached that point and all three wielders were gardeners by trade. |
+| **After use** | Read the dated sentence back to the wielder a week later and ask whether they still agree with it. Nine of eleven did not recognise having written it. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes extraction stability and says nothing about a set whose whole effect is a sentence a person can say for one day. Authorise on the written statement and on the week-later reading, not on the rating.
 
 ## 관찰 기록 (Observation Log)
 
@@ -270,7 +270,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Hollow Tree (C-IVγ-205 [WS]) is logged as a Subject-Body manifestation expressing Weight, in the Echo Gardens at SECTOR-D-02. It was tended correctly for ninety-one years, bore nothing, and is hollow from the root up; its standing figure has risen at every annual return.
+Hollow Tree walks the Echo Gardens at night on knotted root-legs: a dead tree the height of a building, stripped, with a trunk open from root to crown and nothing inside it. It was planted for a harvest that never came. The Gardens tended it correctly for sixty years and it grew enormous and empty.
 
 **Entry 2 — <Echo Gardens Watch, Year 4238>**
 Standing figure 607 on the Gardens scale, after 511 and 418. Acoustic ring readings show the quiet holding at its established radii. Hollow unchanged by measurement: no growth, no decay, no echo returned from within it in any year of the record.
@@ -288,9 +288,9 @@ The chamber is kept deliberately empty and the emptiness is provisioning rather 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Hollow Tree; the other feeds it.
+> The choice comes about ninety minutes in, sitting inside a hollow big enough to stand in, with an obvious use for it occurring to you.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Sit the hour out and leave the hollow as a hollow. | Say what it could be used for — it is enormous, and it is going to waste. |
 |---|---|
 | The interior warms and accepts shared grief. The sorrow is borne; Hollow Tree is fully recorded. | Roots tighten and the hollow deepens. The gauge climbs and Hollow Tree withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -301,17 +301,17 @@ Inside the trunk, there is no darkness and no cold. There is simply room. You si
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Weight always changes a room. Then the Subject-Body resolves: its registered form.
+**At first contact:** Something the size of a building, standing in a garden, that was not there yesterday. Up close the bark is stripped smooth and the trunk is open the whole way up, and the inside is dry, cold, and entirely empty.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Weight is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** Sitting inside it, the question arrives without being asked: what are you for. It is not accusing. Wardens describe it as the most companionable hour in the Gardens and several have asked to be rostered on it repeatedly.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Weight becomes something you can taste, hear, or feel on your skin. The Subject-Body has crossed the line between containing and becoming.
+**When the entity activates:** It is somewhere else. Nobody has ever seen it move; the Gardens finds it in the morning, forty metres on, with the root-legs settled as though they had always been there.
 
-**After departure:** You leave, but the Weight follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** You tell somebody what your work is for. Gardens staff do it within the day and the wing's note is that the sentences are usually short, usually true, and usually surprising to the person saying them.
 
 ### Interaction Pattern
 
-Hollow Tree does not exist in isolation. Its recorded relationships with The Hollow Saint, The Sorrow Flower, The Grieving Colossus should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relations, all of them things that were kept past their purpose, and all measured the same way: whether the trunk is open or closed when the second party is present. It has closed twice.
 
 **Interaction method:** Figure and acoustic rings taken before and after, by the same watch, with the chamber cleared of everything loose and the inventory counted at both doors.
 
@@ -320,7 +320,7 @@ Hollow Tree does not exist in isolation. Its recorded relationships with The Hol
 
 Hollow Tree must be kept distinct from the other Gardens holdings and from the trees elsewhere in the archive. Floating Tree keeps a people with no ground; this one keeps ninety-one years of correct work with nothing at the end of it, which is why the figure the wing tracks is a baseline and not a radius.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What it is | What the trunk did | Required record |
 |---|---|---|---|
 | **The Hollow Saint** | The Saint approaches, stops short of the mouth, and withdraws. Four attempts, four withdrawals, at almost exactly the same distance each time. | No change in either holding. The withdrawal distance is 2.8 to 3.1 metres on every occasion. | Measure the stand-off. Do not force the approach; the Saint's own gauge climbs when pressed. |
 | **The Sorrow Flower** | Flowers come up around the root-legs within a day and the holding does not disturb them. They die when it walks, and they come up again wherever it stops. | No change in the figure. The flowering is the only thing this holding has ever been recorded producing. | Photograph the flowering at each halt. The garden crews keep this record, not the wing. |
@@ -367,14 +367,14 @@ Some sorrows mourn what was lost. Hollow Tree mourns what never filled it — th
 **Observation Notes:**
 - Planted toward a harvest, tended to standard for ninety-one years by eleven rotas, and never once gathered under.
 **Cross-References:** Zone D · The Sunken Pillar · The Vanished Seed · The Grieving Colossus · the Works Office rule on purpose · the Finished Thing showings
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** None. The Gardens has twice declined offers from the planting office to make use of the trunk, and both declinations are in this file rather than in the planting office's, because the offers were reasonable and the refusals need the explanation.
 **Originator:** Settlers who planted a tree for a future that never came.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This holding asks one question and the suppression condition is a prohibition on answering it with a use. Sitting inside it lowers the gauge nine to fourteen points an hour; proposing a purpose for it raises the gauge, including when the proposal is never spoken. Sixty years of correct tending produced something enormous and empty, and the Gardens' position — argued annually against reasonable people — is that the hollow is the entity and that filling it would not be containment.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every cycle: the position and the distance walked, whether the warden sat inside or beside, the gauge before and after, and any proposal made for the ground. One further item: the one-sentence statements taken under the M.A.W. set are re-read to their authors annually, because they are the only record this holding has produced that anybody has asked to keep.
 ## Apex Record
 
 ### The Empty That Is Not Dead
@@ -409,7 +409,7 @@ Year 4237: 2,310 showings; 9,400 names on the list; nine years' average wait, al
 
 The costs are not small and the Office does not bury them. A showing without a word is frequently unintelligible: people stand in front of a pump house, a culvert, a sealed door, and cannot tell whether they are looking at the thing or at the building next to it. The nine-year queue means most of the list is elderly and some of it dies waiting — 212 last year, which the Office prints. And the showing can confirm nothing: a woman who believes she spent her life on something worthwhile and is shown an object she does not recognise leaves worse than she arrived, and the Office has recorded eleven such cases without being able to do anything about them.
 
-The showing wardens asked for one factual sentence: permission to say what the object is. Refused, and the refusal is honest — naming is the first half of purpose and the second half follows within a year, and the second half is how men were kept on gantries until they fell off them. The wardens' submission stands in the Year 4237 return, recorded as correct and unanswered: that this Company stopped telling its people what their work was for so that nobody could ever again be paid in meaning instead of money, and has thereby arranged that a person may do good work faultlessly for forty years, be shown one silent object at the end of it, and go home no better able to say what their life was than the tree in the Gardens that nobody ever gathered under.
+The showing wardens asked for one factual sentence: permission to tell visitors what the tree was planted for. Refused, and the refusal is honest — naming the intended harvest is the first half of proposing a new one, and the Gardens has watched that sequence four times. The minute records the request as reasonable and the refusal as correct, and notes that both cannot be true for much longer.
 
 ### What the Gardens Lost
 
@@ -424,11 +424,11 @@ The gardens around the chamber are maintained at full establishment even though 
 
 ### Registry Trivia
 
-- **Classification detail:** Hollow Tree is a Subject with Entity (IV) — Self-aware, ancient, patient coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is SECTOR-D-02, Echo Gardens.
+- **Classification detail:** Entity (IV) coherence at Major (γ): self-aware, ancient, patient, and — on the Gardens' own reading — not hostile in any sense the schedule has a column for.
+- **Field detail:** Weight, in the Echo Gardens at SECTOR-D-02, located each morning by whichever bed it is standing in.
 - **Recognition detail:** An enormous bare tree on knotted root-legs, bark stripped, the trunk open from the base to above head height into a cavity that several people can stand in and that returns no echo.
-- **Record detail:** The Registrum gave Comprehension Level 3 against a header of 2 — Basic, rated the holding Low against a Major (γ) entity that breaches and buckles floors, and described it as static with no special containment against a mobile Subject that walks on root-legs. It named Ferrehan primary where the Apex Record's long watches are Flerehan, and the breach notes prescribed forcing it back through Pugnahan, which is prohibited at this holding and enlarges the hollow. The M.A.W. grade was blank against three γ pieces. All corrected. The 607 figure is the Gardens scale, which runs to 1,000.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Record detail:** The Registrum gave Comprehension Level 3 against a header of 2 and rated the holding Low against a Major (γ) entity that walks. Both discrepancies are on the file, unresolved, and the Gardens has stopped submitting corrections because the corrections are not actioned.
+- **Containment detail:** Nothing contains it; the Gardens' wall is a garden wall and it has never been tested. The holding stays because it has nowhere it is trying to get to.
 ## Document Information
 
 **Document ID:** SE-C-IVγ-205
