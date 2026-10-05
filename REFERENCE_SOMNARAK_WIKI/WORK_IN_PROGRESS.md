@@ -6,7 +6,9 @@ This file is the running state of the project. It is updated at the end of every
 
 ## Measured state
 
-All figures below are measured, not estimated, and each names the tool that produced it: `boilerplate_report.py` for the body-line measures, `tpl.py` for template residue, `sect.py`/`sectfile.py` for file- and section-cleanliness, `wikistd.py` for `R-29` and its clauses. Two rows moved this turn without a unit touching them — residue-free 103 → 108 and file-clean 158 → 162 — because the four Rank V rewrites and Ephemera retired shared lines outright, and a line that drops below ten holders stops counting against every remaining dossier. That is the documented spillover effect; it is not work performed this turn.
+All figures below are measured, not estimated, and each names the tool that produced it: `boilerplate_report.py` for the body-line measures, `tpl.py` for template residue, `sect.py`/`sectfile.py` for file- and section-cleanliness, `wikistd.py` for `R-29` and its clauses.
+
+**Reporting convention, owner's instruction, 2026-10-05:** every counter is written in fraction form — `x / y` — in this file, in `CHANGELOG.md`, in commit messages and in the PR body. A bare number is not used for a counter anywhere in the record from this turn on. Two rows moved this turn without a unit touching them — residue-free 103 → 108 and file-clean 158 → 162 — because the four Rank V rewrites and Ephemera retired shared lines outright, and a line that drops below ten holders stops counting against every remaining dossier. That is the documented spillover effect; it is not work performed this turn.
 
 | Measure | Value |
 |---|---|
@@ -16,13 +18,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **110 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **88 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **65 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **111 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **89 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **66 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 164 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 165 / 302 |
 | Archive median prose generic fraction | 0.048 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -641,10 +643,36 @@ file's own figures in digits (60%, 25%, 386/386, 12–18, 5%, 2 sectors, 3 disco
 **restatement, disclosed**. `verify.py` residual 1 is the Story Log Entry 1 opener, left standing as
 in Homecoming Tree.
 
+**The cohort's fourth unit closed Dismissed Cry `N-IIβ-560` (`26bd011`).** The file measured
+**12 dirty sections** and failed **both** open clauses: 6,135 → 8,223 words, `0 section(s) over
+0.05`, `tpl.py` residue 0, `wikistd.py` meets `True`. `R-29` **65 → 66 / 301**; section-clean
+**88 → 89**; specific condition 240 → **241**; own numeric series 194 → 195. Its instrument is the
+file's own paperwork: the register entry numbered 1,104 (complainant not recorded, under a minute to
+write), the filings arithmetic — 19 acoustic anomalies, 11 pressure phenomena, 4 grievances, the
+gauge 9 points higher after the first wording and 7 lower after the last — and the annual fracture
+grading. The generic `Enforce valid Work Types …` Management row again carried the non-specific
+condition; it now states the file's own register condition (grievance entered with a complainant
+named, reading below 25%). The `Identification Profile: The.` splice was removed. Three interaction
+rows were authored, and two names in them were reconciled to their catalogue codes: *The Rage Flame*
+→ **The Wrath Flame** `O-IIIβ-120` and *The Undersong* → **Hollow Echo** `N-IIα-125`, the codex
+title of that holding. Series clause closed by restating the file's own figures in digits (60%, 25%,
+407/407, 12–18, 9–21, 5%, 1,104, 19/11/4, 9 and 7 points) — a **restatement, disclosed**.
+`verify.py` residual 1 is the Story Log Entry 1 opener, left standing as in the two units before it.
+
+**Sandbox rollback caught and recovered, this turn.** Partway through the unit the checkout
+reverted to `408797c` with the whole working tree still carrying the pushed content — a restore from
+an older snapshot, not a remote change. Diagnosis before touching anything: `git ls-remote` showed
+origin at `06b7c5b`; an explicit per-file `md5sum` comparison of the tree against
+`origin/arena/01a10bcc-project-somnarak-wiki` found **exactly one** differing file (the Dismissed Cry
+unit in progress) and 2,269 identical ones. Only then was `git reset --mixed FETCH_HEAD` used, which
+moved HEAD and the index and left the files alone; `gate.sh` then ran normally. The general rule
+this re-confirms is the old trap in the list below: a mixed reset is safe **only** after proving the
+tree equals the pushed state file by file. `tools/syncbranch.py` refused the fast-forward, which is
+what it exists to do.
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
-`sectfile.py`; the worst files are now Dismissed Cry `N-IIβ-560`, Perennial `N-IIβ-845` and
-Survivors' Breath `O-IVδ-895` at 12, followed by Hums `C-IIβ-048` and Loom of Unlived Dreams
-`C-IVγ-176` at 11; (2) the `R-01` sweep
+`sectfile.py`; the worst files are now Perennial `N-IIβ-845` and Survivors' Breath `O-IVδ-895` at
+12, followed by Hums `C-IIβ-048` and Loom of Unlived Dreams `C-IVγ-176` at 11; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);
 (3) the 211 + 127 stock sentences; (4) the remaining single-clause gaps from the third-turn list.
 

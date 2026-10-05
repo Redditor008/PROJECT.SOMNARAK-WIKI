@@ -82,6 +82,23 @@ This file records notable changes to the public Somnarak Wiki.
     descent; one co-presence in which the crew's gauges fell and the vault's interval did not move)
     and The Grieving Colossus (no co-presence and none proposed; the two ledgers read together,
     neither holding ever fought).
+- **Workstream 9 / `R-29`: Dismissed Cry `N-IIβ-560` (2026-10-05)** —
+  - One `gate.sh` commit (`26bd011`), growth-only: 6,135 → 8,223 words. Twelve dirty sections closed
+    — `0 section(s) over 0.05` — plus both open clauses: the **specific condition** (the generic
+    `Enforce valid Work Types …` Management row replaced with the file's own register condition —
+    the grievance entered with a complainant named, the reading below 25%) and the **series**
+    (restated in digits from the file's own figures: 60%, 25%, 407/407, 12–18, 9–21, 5%, entry
+    1,104, 19/11/4 filings, 9 and 7 points — disclosed). `tpl.py` residue 0; `wikistd.py` meets
+    `True`. `R-29` **65 → 66 / 301**; section-clean **88 → 89**; specific condition 240 → 241; own
+    numeric series 194 → 195.
+  - The file's own paperwork carries the rewrite: register entry **1,104** (complainant not
+    recorded, subject not recorded, written in under a minute), the filings arithmetic that is the
+    only figure in the file answering to wording — 19 acoustic anomalies, 11 pressure phenomena, 4
+    grievances, the gauge 9 points higher after the first category and 7 lower after the last — and
+    the annual fracture grading against a reference. The `Identification Profile: The.` splice was
+    removed. Three interaction rows were authored; two names in them were reconciled to their
+    catalogue codes (*The Rage Flame* → **The Wrath Flame** `O-IIIβ-120`, *The Undersong* → **Hollow
+    Echo** `N-IIα-125`, the codex title of that holding).
 - **Workstream 9 / `R-29`: Friendless Bridge `N-IIβ-488` (2026-10-05)** —
   - One `gate.sh` commit (`ad7d6c7`), growth-only: 6,084 → 8,187 words. Twelve dirty sections closed
     — `0 section(s) over 0.05` — plus both open clauses: the **specific condition** (the generic
