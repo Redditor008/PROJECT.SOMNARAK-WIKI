@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per cycle, taken on open border ground from a thing the survey maps do not carry. The Border station books it against a grid reference that the mapping office has twice asked it to stop using. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | α — Fang, Plate and Pendant all graded |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 0.95 m/s |
-| **Resistance** | 15% against Grudge pressure; 5% against other pressure types |
+| **Resistance** | 15% against Grudge. There is seldom enough of it present to resist: the trunk is visible for a few seconds at a time and a hand put through it meets nothing and comes back cold. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 229/229 |
 | **Han Pressure [ATK]** | 3–9 per hit · Grudge |
@@ -81,21 +81,21 @@
 | { *The Phantom Canopy* [**Debuff**] } | "The tree is gone — but the shadow it cast is still on the ground, still shaped like branches." | [The Tree's phantom shadow marks the target; they feel the absence.] | *Target suffers -10 Resilience; the missing tree is heavy with what it took.* **[10 Grudge DMG [Grudge]]** | When the target enters the shadow. |
 | { *The Hollow Ring* [**Debuff**] } | "Where the trunk was, a circle in the dirt — and the circle is deeper than it should be." | [The Tree's stump-absence pulls at the target; they sense the severed roots.] | *Target loses 10 Resilience; the ground is unstable where the tree was.* **[10 Grudge DMG [Grudge]]** | When the target stands in the ring. |
 | { *The Phantom Branch* [**Attack**] } | "A branch that is not there sweeps down — and despite not existing, it connects." | [The vanished Tree's ghost-limb strikes.] | *Inflicts Grudge pressure and one wound from a branch that is not real.* **[14-22 Grudge DMG [Grudge]]** | When the shadow is disturbed. |
-| { *The Full Return* [**Attack**] } | "The tree comes back — violent, furious, desperate to exist — and the return is crushing." | [The Tree reconstitutes with the rage of having been erased.] | *A heavy Crimson rematerialization; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the absence is forced. |
-| { *The Vanished Forest* [**Ultimate**] } | "Every tree in the field disappears — and the phantom shadows cover everything, and nothing grows." | [The Tree extends its vanishing across the whole area.] | *All in range suffer Grudge pressure for three turns of phantom forest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Return* [**Attack**] } | "It comes back whole, all at once, in the place the stake went in." | [The tree reconstitutes completely for a few seconds, rooted where it originally stood.] | *24–36 Grudge to anybody inside the old canopy line; the three occurrences all happened within a day of a boundary stake being driven.* **[24-36 Grudge DMG [Grudge]]** | When the plot is re-staked over its outline. |
+| { *The Vanished Forest* [**Ultimate**] } | "Every tree along the border goes faint at once and the shade stays where the trees were." | [The fading generalises across the frontier planting.] | *12–20 Grudge per cycle for three cycles to anyone on the line; the shade is cold and nothing has grown in it since.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once, in the week the resettlement maps were reissued. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The warden walks the old canopy line, counts the seconds the tree is visible in each pass, and checks the week's mapping amendments before anything else. The visibility count is the cycle.
 2. **Clash:** The outline is staked before anything else happens, and no worker who declared the Border district on their own application is on the party. The shade is worked from outside its edge; nobody stands in it to argue with it.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Preserve the history; do not force the Tree to remain**.
+3. **Resolution:** Read one entry from the settlement's own account book aloud on the plot and stake nothing. 188 cycles; the visible seconds rise by two to nine after a reading, which on this holding is the good direction.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Vanished Tree reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- The failure here is a stake. Not malice — ordinary survey work, correctly authorised, on ground the maps show as empty, and all three Returns followed one inside a day.
+- Past about forty minutes the warden stops being able to say how many seconds the tree was visible, and the counts diverge between observers by a factor of two. Two counters are rostered for that reason.
+- The set's cost is documentary: wielders' own paperwork goes missing — forms filed and not found, returns logged and absent — at a rate the Border station has measured against the file room.
+- An unworked season lowers the visible seconds. The count has fallen from nineteen to four in nine years, and the station's position is that this holding is not escalating — it is going out.
 
 ## Appearance
 **Physical Form:** A tree-beast forever half-fading, trunk and branch-arms blinking in and out as it lurches on vanishing root-legs. **Movement:** It lurches unsteadily, parts of it winking out as it goes.
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A fading tree-shaped figure that weeps while its branches disappear. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | It lurches a few metres along the old canopy line on root-legs that are not there for most of each step. It has never left the plot it grew on and the plot is not on any current map. |
 | **Material / signature** | Grudge. Pale wood, fever-cold, the smell of char, and an outline of shade that does not answer to the sun. |
 | **Distinctive markers** | Staked shade area against the previous year, ground pressure at the marked points, and whether any part of the figure is visible to the party at all. |
 | **Identification** | If the shade matches the sun, it is not this holding and the session is cancelled. |
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Vanished Tree is recorded as a Subject with Subject-Lament manifestation and Grudge elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table applies and the number the station keeps is visible seconds per pass, counted by two people who do not compare until the end. Nineteen seconds at first survey, four now. The count rises when the settlement's account book is read on the plot and falls in every quarter the mapping office reissues the frontier sheets without the plot on them.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** A rising count means somebody read the settlement's own record aloud where the tree could hear it. It falls on re-staking, on amended maps, and on nothing else the station has been able to isolate in nine years.
 ## Breach Behavior
 
 > *"The shade is nine metres past the stakes and moving toward the resettlement road. Nothing is chasing anybody. Get the accounts and get somebody reading."*
@@ -163,7 +163,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 - **Breach type:** Escape. The shade extends past its staked outline and travels; the entity itself has never been seen to pursue anybody, and the older line describing it as hunting prey and entangling personnel is contradicted by every incident in the file.
 - **Containment priority:** Do not suppress and do not force it back; Pugnahan widens the outline. Stake the new edge, clear the resettlement road, and get an account read aloud at the boundary.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a turn while the outline is being re-staked over the entity's objection. Reading an account aloud at the edge has flattened it on each of the four occasions it was tried.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% a turn while the outline is being re-staked over the entity's objection. Reading an account aloud on the plot is the only recorded means of bringing it down, and it brings it down ten points a reading.
 
 ## M.A.W. Equipment
 
@@ -173,7 +173,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that quivers when raised.
+**Appearance:** a fang-curved blade that is not always entirely there — the edge goes faint under direct light and the Armoury has photographed it twice with a section of the blade missing.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)
@@ -181,15 +181,15 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Vanished Tree's grudge signature in the strike.
+**Ability:** Grudge against the Body. Struck targets cannot be photographed clearly for about a day; eleven attempts on file, eleven exposures showing the person's outline and not their face.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** Old wounds ache, and documents the wielder has handled go astray — not destroyed, simply never found again.
 
 ### M.A.W. Suit — Vanished Tree Plate
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a plated harness with the maker's stamp worn off every plate, which the Armoury is certain it stamped and cannot prove.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -199,15 +199,15 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Vanished Tree's kind of pressure.
+**Ability:** Resistance to Grudge against the Body, and the reason a warden can stand inside the old canopy line during a Return rather than being counted among the people in it.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes dull, and the wearer's name stops appearing on circulation lists it used to be on.
 
 ### M.A.W. Stigma — Vanished Tree Pendant
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a pendant of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+**Appearance:** a pendant of dark iron shaped like a leaf, heavier than its size, which casts a shadow slightly larger than itself.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -221,18 +221,18 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Vanished Tree's sorrow within the equipment may activate. and may produce an effect tied to Vanished Tree's element. The Stigma is Vanished Tree's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Every piece comes off something the maps have stopped admitting, and the set extends that to its wielder's paperwork: forms go missing, names drop off lists, photographs come out wrong. Nobody is harmed and nothing can be proved. Three wielders; the Border station's file room has a drawer of what it could reconstruct, and the Armoury's note is that this is the only set whose cost is borne by an office rather than a body.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the visible-seconds count, and a certified copy of every document the wielder is currently responsible for, lodged with the file room. |
+| **During use** | Every document that cannot be located, with the date it was last seen and by whom. |
+| **At limit** | A document the wielder certainly filed cannot be found by anybody, including the file room. Three rotations, eleven documents. |
+| **After use** | Reconcile against the certified copies and reissue whatever is missing under the wielder's name. The Armoury has reissued nine and failed to reconstruct two. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade says how hard it hits and nothing about a set that erases its wielder's administrative trail. Authorise on the certified copies; the rating is irrelevant here.
 
 ## 관찰 기록 (Observation Log)
 
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Vanished Tree (C-Iα-622 [D]) is logged as a Subject-Lament manifestation expressing Grudge, at the Border region in Zone E, where a resettled frontier settlement stood. No tree is present. The shade is, 690 square metres of it, and it does not follow the sun.
+Vanished Tree lurches along the old canopy line on the Zone E border, half there: trunk and branch-arms blinking in and out, root-legs that are not present for most of each step. It stood on a resettled frontier plot that the current maps show as empty ground. It is visible for about four seconds at a time now, and was visible for nineteen when the file opened.
 
 **Entry 2 — <Excerpt from Stake Survey, Year 4238>**
 Shaded area 690 square metres at the annual stake, against 530 and 410 in the two preceding years. Nothing stands above it. The outline does not follow the sun and has never once agreed with it.
@@ -279,9 +279,9 @@ The bundle in the commissioning file is complete and correct: a resettlement sch
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Vanished Tree; the other feeds it.
+> The choice comes on the plot with a stake in your hand and a survey instruction in your pocket that is correctly issued.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Read a line from the settlement's account book and leave the stake in the bag. | Drive the stake — the ground is empty and the survey is due. |
 |---|---|
 | Branches return and the tree weeps gently. The sorrow is named; Vanished Tree is fully recorded. | It burns along the disappearing roots. The gauge climbs and Vanished Tree withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -302,7 +302,7 @@ There is no tree. There are stakes in a field, six hundred and ninety square met
 
 ### Interaction Pattern
 
-Vanished Tree does not exist in isolation. Its recorded relationships with The Forgotten Tree, The Returning Tree, The Whispering Walls should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relations, all of them trees the border lost, and all measured on visible seconds. Two lowered the count. The Returning Tree is the only presence that has ever raised it without a reading.
 
 **Interaction method:** Stake both outlines on the same sheet, measure both areas in the same session, and record which members of the party can see which figure. Visibility differs by person here and that difference is data.
 
@@ -311,7 +311,7 @@ Vanished Tree does not exist in isolation. Its recorded relationships with The F
 
 Vanished Tree must be kept distinct from the erasure files that concern people. Nemo, the Forgotten Soul, the Forgotten Shadow and Redacted are all about a person missing from a record. This one is about ground: a place that was resettled lawfully, compensated properly, and then simply not written down again, and the sorrow in it is held by land rather than by anybody's name.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What it is | What the visible seconds did | Required record |
 |---|---|---|---|
 | **The Forgotten Tree** | Both stand over ground that is no longer written down; that one keeps its body and loses its place, this one keeps its place and has lost its body. | Both outlines grow faster in the seasons the two are surveyed together; neither shade has ever reached the other. | Both areas on one sheet, with the gap between the outlines measured each year. |
 | **The Returning Tree** | It holds places that came back altered. This one holds a place that did not come back, and the figure is at its most solid in its presence. | Visibility rises to the whole party, the only condition under which that has happened. | Who could see the figure, before and during, by name and without interpretation. |
@@ -361,9 +361,9 @@ The rule protects people from being made to unmake their own lives. The shade is
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This holding is going out. Nineteen visible seconds to four in nine years, falling with every reissue of the frontier sheets and rising only when somebody reads the settlement's own account book aloud on the plot. There is no containment problem here and the station has stopped using the word: what there is, is a question about whether a thing that the maps have stopped admitting should be helped to stay, and a mapping office that has twice asked the station to stop citing a grid reference for ground it says is empty.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every cycle: visible seconds from both counters, unreconciled; the week's mapping amendments; any stake driven on or near the outline, with the authorising instruction attached; and the entry read aloud. One standing item — the settlement's account book is copied annually, because it is the only document that mentions the plot and the station does not own the original.
 ## Survey Record
 
 ### What the Staked Area Is Measuring
