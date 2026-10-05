@@ -38,6 +38,28 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 14 / unit 3 — Spreading Well `C-IIIγ-373` closed, closing batch 14 at three (2026-10-06)** —
+  measured at `29635f3`: **6 dirty sections**, worst M.A.W. Equipment 0.457, then 이야기 보고 (Story Log) 0.411,
+  최종 관찰 (Final Observation) 0.153, 감각 묘사 (Flavor Text) 0.129, Combat Record 0.060 and 관찰 기록
+  (Observation Log) 0.052. All six closed in three waves (24 + 10 + 3 sites; Flavor Text took a second pass,
+  0.129 → 0.071 → **0.022**); 7,387 → **8,026 words**; `tpl.py` residue 4 → **0**; `verify.py` residual 1 → **0**
+  (Story Log Entry 1's `is logged as` carrier); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py`
+  meets **True**, with the **series clause closed on the file's own map counts** — **1,106** traced ends walked
+  and dated, **788** at sites the district's register already records, **318** at occupied addresses — while the
+  condition clause was already satisfied by the file's own Detailed Activation Record management row (re-stake
+  and date the line, trace the new ends, notify the districts reached, certify the sluice operator) and was left
+  alone (`R-05`). Also replaced: Story Log Entry 5's stock *singer who sang too long* tale, which contradicted
+  the file's own origin, with the Desolate's graveside custom the Origin and Warden Record both carry, header
+  retitled with it; and the relic banner stock line (*Capable of Channel Overload and Han-Resonance Bleed*)
+  re-authored to the file's own out-of-order vent. No corpus side effects — this unit moved only its own file
+  (6 → 0 dirty sections; archive totals 973 → **967**). Movement: `R-29` 106 → **107 / 301** (own numeric series
+  219 → **220**); section-clean 130 → **131 / 301**; residue-free 165 → **169 / 302** (carriers 137 → **133**,
+  instances 332 → **319**, distinct residue lines 27 → **26**); file-clean 211 → **212 / 302**; median 0.021 and
+  worst 0.142 unchanged. **Batch 14 is closed at three** (`aea1882` Whispering Gallery, `29635f3` Broken Well,
+  this unit), each unit measured live at its own head. **Batch 15 opens at three** on a freshly re-derived tier:
+  Patina `C-IVδ-222` (8 dirty, 0.453), Forgotten Soldier `N-IIβ-033` (8, 0.451) and Cracked Mirror `C-IIβ-310`
+  (5, 0.447, condition and series open).
+
 - **Batch 14 / unit 2 — Broken Well `C-IIβ-565` closed; batch 14 stands at two of three (2026-10-06)** —
   measured at `aea1882`: **9 dirty sections**, worst M.A.W. Equipment 0.463, then 기록 (Registrum) 0.366,
   이야기 보고 (Story Log) 0.160, 최종 관찰 (Final Observation) 0.150, 감각 묘사 (Flavor Text) 0.112, Trivia

@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Lament pressure; 25% against other pressure types |
+| **Resistance** | 35% against Lament pressure; 25% against other pressure types — untested here, since the Well injures nobody and has never been hostile to anything. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 561/561 |
 | **Han Pressure [ATK]** | 18–42 per hit · Lament |
@@ -82,14 +82,14 @@
 | { *The Seep* [**Debuff**] } | "Water seeps from the well — not from the top, but through the stones, through the earth, spreading outward." | [The Well's sorrow-water permeates the ground; the target's feet are wet.] | *Target suffers -10 Composure; the grief is in the ground itself.* **[10 Lament DMG [Lament]]** | When the target stands near the Well. |
 | { *The Rising Pool* [**Debuff**] } | "The water spreads — a widening pool, ankle-deep, then knee-deep, and always cold." | [The Well's sorrow expands; the pool grows toward the target.] | *Target loses 10 Composure; the water is rising.* **[10 Lament DMG [Lament]]** | When the target lingers. |
 | { *The Geyser* [**Attack**] } | "The well erupts — a column of sorrow-water, straight up, then raining down." | [A geyser of well-water blasts upward and cascades.] | *Inflicts Lament pressure and one soaking, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Well is struck. |
-| { *The Full Disgorgement* [**Attack**] } | "The well empties entirely — every drop it ever held, released at once." | [The Well disgorges its complete depth in one rush.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Well is overloaded. |
-| { *The Sorrow Sea* [**Ultimate**] } | "The water does not stop — the well fills the whole field, and the field becomes a sea." | [The Well floods the entire area with its spreading sorrow.] | *All in range suffer Lament pressure for three turns in the sorrow sea.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Disgorgement* [**Attack**] } | “The well empties in one rush — every drop it has ever carried, and every end it was carrying them to.” | [The complete network discharges at the point of overload rather than along its channels.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Well is overloaded. |
+| { *The Sorrow Sea* [**Ultimate**] } | “The channels stop delivering and start arriving — all of them, everywhere at once.” | [The network turns from one-directional carriage into a flood across the field.] | *All in range take Lament pressure for three turns in the sorrow sea.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the reflectionless water, the uphill run and the sound beneath; Desolate groundwater has a reflection, runs downhill, and is silent) and Spreading Well is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** Confirm on the water and the ground rather than on the smell: a thin channel crossing dry dust, running uphill along the Han current instead of down the gradient, carrying no reflection, with the sound beneath it audible when nobody is trying to hear it. Desolate groundwater has a reflection, runs downhill and is silent. Re-stake the line, sound the rim, and list the ends reached since the last session before anything else is done.
 2. **Clash:** Four turns on the stake line, observation and endurance only. No channel is dammed, diverted or stepped in, and the ends reached since the last session are listed before anything else is done.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge each linked site; do not dam the channels**.
+3. **Resolution:** The watch closes on the file's own condition — **Acknowledge each linked site; do not dam the channels** — which means the line is re-staked outward only, every new end is traced and named, the district it lies in is notified before the watch closes, and nothing is diverted or stepped in. Both dam attempts are in the Warden Record; in the second the channel reappeared in a street inside a day, and there is no procedure for a third.
 
 ### Consequences
 
@@ -152,7 +152,7 @@ Spreading Well is a Fragment (III) Place of Major (γ) potency, Place-Lament man
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
-> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+> **This Relic Vents Uncontained Lament Resonance if the Conduit is Released Out of Order**
 
 **Activation Trigger:** Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels.
 
@@ -211,7 +211,7 @@ Escalation here is reach. Record the stake line, every new channel end with what
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that glows along its edge when readied.
+**Appearance:** a slender blade of Lament Han-crystal, close to clear, that shows a faint line of light down its length when it is readied and nothing at all when it is at rest.
 
 **Damage:** Lament 7-12
 **Speed:** 3 (Fast)
@@ -219,15 +219,15 @@ Escalation here is reach. Record the stake line, every new channel end with what
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Spreading Well's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — in the way this network deals it: not a blow but a delivery, and what it leaves the target holding is a grief that is specific, complete, and attached to nobody they know.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** the wielder carries the entity's unwept grief for as long as they carry the blade, and past a season of it the weeping starts unbidden. The Armoury records the symptom against the wielder, on the file's own logic: what accumulates here is the work, not the steel.
 
 ### M.A.W. Suit — The Spreading Shroud
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapper of Lament Han-silk, cold to the hand, that hangs heavier than its weave and darkens along the seams when it is brought near a channel.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -237,40 +237,40 @@ Escalation here is reach. Record the stake line, every new channel end with what
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Spreading Well's kind of pressure.
+**Ability:** Wards the Mind — emotional stability and willpower — against Lament pressure and against nothing else; the shroud was cut for one network's kind of delivery and the record shows no other use for it.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** the wearer goes numb to minor joys before noticing, and the second worker is the one who reads it — on a set issued one rotation at a time, the numbness is entered whether or not the wearer agrees.
 
 ### M.A.W. Stigma — The Spreading Vial
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a small vial of Lament Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small vial of Lament Han-crystal on a short cord, close to colourless, that runs warm in the hand and warmer the further its far end is carried.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity; the carrier is aware of the far end of whatever they are holding.
+**Effect:** +2 to the working stat against the source holding, and the carrier is aware of the far end of whatever they are holding — which at this site is not a figure of speech: the vial reports, and the bearer cannot switch it off.
 
 **Ability:** Carries a small amount of sorrow to a distant witness.
 
 **Cost:** The carrier feels the grief at both origin and destination.
 
-*The Spreading Vial is not manufactured and cannot be requisitioned. It has been conferred eleven times, in each case on a worker who traced a channel to its end and reported the address rather than the distance.*
+*The Vial cannot be requisitioned and is not manufactured. It has been conferred eleven times, each time on a worker who traced a channel to its end and reported the address rather than the distance.*
 
 ### M.A.W. Use Notes
 
-Each piece extends Spreading Well rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping — arrives early and does not reverse on return.
+Nothing in this set equips a worker against the network; each piece is the Well in small, and each one takes what the Well takes — grief the bearer never wept, minor joys gone numb, and a carried weight that resolves only when somebody else acknowledges it. The Armoury enters the symptom against the wielder rather than the piece, and the grade records how stably the extraction took and nothing about the cost column beside it.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Spreading Well the recorded cost is that the wielder feels the entity's unwept grief. |
-| **During use** | The first sign that Spreading Well is charging: the wielder feels the entity's unwept grief. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | Spreading Well's cost is continuous rather than occasional: the wearer becomes numb to minor joys. The second worker's call stands against the wielder's. |
-| **After use** | Return the piece and check the sealed baseline: has Spreading Well's cost — the wearer becomes numb to minor joys — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, the day's reading, and a baseline written down by somebody other than the bearer — the recorded cost on this set being grief the bearer never wept. |
+| **During use** | Watch for the bearer taking on a grief they cannot attribute — on this set that is the first sign, entered with the hour by the second worker, and the wearer's own account is taken separately afterwards. |
+| **At limit** | The wearer has stopped reporting the numbness — on a Spreading Well piece that is the limit whatever the wearer says — and the observer calls it. |
+| **After use** | Take the piece back, open the sealed baseline, and read the two against each other: where the carried grief has outlasted the rotation, the bearer is stood off the line until somebody else confirms it has resolved. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade records how cleanly the sorrow came off the network, not what a bearer carries out of it. On this set the cost is not graded anywhere: grief the bearer never wept, minor joys gone numb, and — on the vial — an awareness of the far end of whatever is being carried, which no stat line on this table has a column for.
 
 ## 관찰 기록 (Observation Log)
 
@@ -288,10 +288,10 @@ Each piece extends Spreading Well rather than equipping its wielder against it. 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Spreading Well as an Object/Place with Place-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at The Desolate, near The Scar. |
+| **Initial exposure** | The observer fixes the stake line against every dated line before it, counts the live channels at the rim, sounds the rim and reads the seep — and writes the map's own totals on the sheet as the frame for the walk: 1,106 ends walked and dated, 788 at registered sites of grief, 318 at occupied addresses. |
 | **Sustained observation** | Seep rate at the rim, live channel count, stake line against every previous line, furthest traced end, new ends with what stands at each, channel sound along the walked sections, and any sluice run in the period. |
 | **Activation or escalation** | Escalation is recorded when a channel reaches a new end. Trace it, identify what stands there, date the stake, notify the district, and enter it on the reissued map in the cycle's colour. Old lines are never removed from the map. |
-| **Post-contact review** | Stake line before and after, new ends, seep series, sluice log, gauge movement, and a seven-day check on each worker for a carried grief they cannot attribute and for any unexplained walking. |
+| **Post-contact review** | Stake line before and after, new ends with what stands at each, seep series, sluice log, gauge movement, and a seven-day check on each worker for a carried grief they cannot attribute and for any unexplained walking; the map's totals are carried forward and the notification log is closed for every district reached. |
 
 **Observation method:** Walk the line, sound the rim, trace the ends, name what stands at each. Read the form as grief rather than intention: a great many separate people poured tears into separate ground and said they were sending them to whoever else was grieving, and the channels are what that sentence became.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -299,7 +299,7 @@ Each piece extends Spreading Well rather than equipping its wielder against it. 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Spreading Well (C-IIIγ-373 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Well formed from sorrow that refused to remain in one place. Held at The Desolate, near The Scar. Channels follow Han currents and old mourning paths.
+Containment description for C-IIIγ-373 [LP], the holding called Spreading Well: a Place-Lament manifestation at the Desolate near the Scar — a stone rim that does not move and a network of thin channels that does. The channels follow Han currents and the old mourning paths, run uphill along the sorrow rather than down the gradient, and end, 1,106 of them walked and dated, at sites the district's register already knows and at 318 occupied addresses it does not.
 
 **Entry 2 — <It Sings Beneath the Ground>**
 The Well sings beneath the ground.
@@ -310,16 +310,16 @@ The need for grief to travel until it finds another person able to understand it
 **Entry 4 — <Following the Channels>**
 Work response — Viderehan: Reveals linked sorrow sites along its channels. (Stable); Ferrehan: Tests whether the worker can follow grief without being consumed. (Decrease). It becomes active near The Scar.
 
-**Entry 5 — <The Singer Who Sang Too Long>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a singer who sang too long. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+**Entry 5 — <The Custom That Was Performed>**
+Desolate mourners emptied their tears into the ground at the graveside, deliberately and as ordinary practice: the district buried nobody near anybody, its settlements were far apart, and the custom was understood as sending the tears to whoever else was grieving that season. It was a figure of speech, performed by a great many people at a great many separate places over several generations, and at some point the figure of speech stopped being one. The district has never treated that as a horror, and the Warden Record's note stands: the Well is the result of a great many people doing a normal thing with nobody nearby to see the total.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Spreading Well; the other feeds it.
+> What the watch is choosing at the close of contact: re-stake the line outward only and acknowledge what every new end stands at, or take the shorter road through it that the file's own record shows people taking.
 
-| Do the thing on file: Acknowledge each linked site; do not dam the channels. | Do the obvious, decent thing instead, and feed Spreading Well. |
+| Keep the file: re-stake outward only, trace every new end, name what stands at it, and notify the district it lies in before the watch closes. | Dam, divert or step into a channel to settle the matter faster — tried twice, and in the second attempt the channel came back in a street inside a day. |
 |---|---|
-| Tests whether the worker can follow grief without being consumed. The sorrow is witnessed; Spreading Well is fully recorded. | Reveals linked sorrow sites along its channels. The gauge climbs and Spreading Well withdraws without revelation. |
+| The seep eases, the channel sound drops below audibility, and every end reached is acknowledged and recorded; Spreading Well is fully recorded. | The channel reappears beyond whatever was done to it inside a day, the gauge climbs, and the reach continues with no delivery acknowledged on the entry. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -338,22 +338,22 @@ A thin stream crosses the dust toward a well that should be dry. It carries no r
 
 ### Interaction Pattern
 
-This site is read against the other water and heat features of the Desolate. Each relation below has been observed and filed; none is settled; and all three were tested on the channel network rather than at the rim, the rim being the one part of this entity that does nothing.
+Spreading Well is filed beside the Desolate's other water and heat features, and the filing is a convenience of geography rather than a finding: the three pairings below are what the archive will support, none is settled, and all of them were run on the channel network because the rim is the one part of the entity that never does anything.
 
-**Interaction method:** Baseline each party alone over several cycles — seep rate, stake line, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle; a Tide, event, Ordeal or transformation can rewrite the result.
+**Interaction method:** Take each party alone first, over as many cycles as the season allows, and hold the reading until the seep rate, the stake line and the gauge have all three settled. After that, one pairing at a time: log the onset of any shared change with its range, duration and trigger, both gauges, and what remains after the two are separated — on the network, never at the rim, and never in the same session as a sluice run.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. Two were proposed because water was involved at both ends, which in the Desolate is a weak basis and is recorded here as one.
+The relations below are points of contact rather than alliances and none is settled. Two were proposed because water was involved at both ends, which in the Desolate is a weak basis; the third was inherited from a template and the cooling language is withdrawn here.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Holding paired | The contact, as observed | What was measured | What is still owed to the file |
 |---|---|---|---|
 | **The Sunken Bridge** | Said to carry this site's tears through the tunnels beneath it. | Seven co-presences and a tracer series. Tracer introduced at the rim has reached the Bridge's tunnels in none of the seven; the tunnel water's composition differs from the channel water in every sample. Both gauges flat throughout. | All seven co-presences, the tracer series, and both composition sets. |
 | **The Sorrow River** | The channels are said to seek the underground River eventually, which is the oldest claim in the file. | Four surveys and eleven years of mapping. No channel has turned toward the River; the network's bearing is governed by mourning paths and ignores the River's course entirely, including where a channel passes within nine metres of it. | All four surveys, the full channel map series, and the nine-metre crossing. |
 | **The Wrath Flame** | Water is said to cool the Flame without extinguishing its rage. | Three co-presences. The Flame's temperature, burn rate and gauge were unchanged with a channel running beside it; the channel neither steamed nor shortened. The cooling language is inherited from a template and is withdrawn here. | All three co-presences, the Flame's three measurement sets, and the withdrawal note. |
 
-**Interaction procedure:** Solo baselines first, across several cycles, with seep rate, stake line and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
+**Interaction procedure:** The solo baseline is the control and is not optional: three cycles minimum, with the seep rate, the stake line and the gauge recorded before the other party is brought anywhere near. Then the first shared change with its distance, duration and trigger, both gauges, and what does or does not persist after separation; the second attempt to test the Sorrow River claim is declined in advance on the ground that the first four surveys closed it.
 
 ## 이야기 (Narratio) — The Tale
 
