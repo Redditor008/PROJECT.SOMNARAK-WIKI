@@ -38,6 +38,30 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 12 / unit 1 — The Empty Mask `C-IIβ-054` closed (2026-10-05)** — the batch-12 head, measured
+  at `44a8d9e`: worst 기록 (Registrum) 0.437 across **7 dirty sections**. All seven closed (최종 관찰 (Final
+  Observation) 0.305, M.A.W. Equipment 0.285, Activation Behavior 0.238, 감각 묘사 (Flavor Text) 0.111,
+  Trivia 0.103 and Combat Record 0.097); 7,114 → **7,815 words**; `tpl.py` residue 2 → **0** (both carriers
+  were the stock Resolution line and the stock M.A.W. cost line); `verify.py` residual **0 → 0**; the
+  **condition and series clauses were already satisfied and were not touched** (`R-05`). `sectfile.py` ends
+  at **0 section(s) over 0.05**; `wikistd.py` meets **True**; no second pass was needed. The rewrite carries
+  the file's own instruments: the probe that reads sixty-one millimetres into nineteen millimetres of
+  material, the card graded by eye against a printed strip twice a watch by two graders (3.1 → 4.0 → 5.2
+  across three plotted years, eleven years kept, nine of them without a use), the unsupervision figure of
+  four minutes that the two-person rule is built on, the fourteen thousand applications held unredacted by
+  an archivist's note, the Shadow Roll's first year (2,980 withdrawals / 2,201 nominations / 779 nominate
+  nobody / 46 deaths / 31 families told / two nominations misused), and the troupe of four masks of which
+  this is the only one with no reflection. Two defects were repaired rather than deferred: the SECC
+  **Entity Type** row's truncated "eight second[s]" sentence, restored to the wording the file's own
+  Activation Trigger uses, and the 종료 (Duration) line in the stock activation block that had the wearer
+  naming themselves, contrary to the file's canon that only a second person's voice ends an activation. The
+  clean Watch Record (the infirmary corridor near miss, the nine-year card series, the commissioned
+  Shadow Roll and its two cracked nominations, the thirty-one families, the clerk's unanswered question)
+  was not touched (`R-05`). Movement: `R-29` 98 → **99 / 301**, section-clean 121 → **122 / 301**,
+  residue-free 150 → **151 / 302** (instances 412 → 410, carriers 152 → 151, distinct residue lines
+  **33** held), file-clean 202 → **203 / 302**, median 0.024 and worst 0.142 unchanged. **Batch 12 stands
+  at one of three.**
+
 - **Batch 11 / unit 3 — Forgotten Market Stall `C-IIα-062` closed, closing batch 11 at three
   (2026-10-05)** — the archive's whole-file worst and its only open-clause candidate, measured at
   `77c3873`: worst 최종 관찰 (Final Observation) 0.465 across **9 dirty sections**. All nine closed

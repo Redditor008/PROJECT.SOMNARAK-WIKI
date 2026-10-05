@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **150 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **121 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **98 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **151 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **122 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **99 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 202 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 203 / 302 |
 | Archive median prose generic fraction | 0.024 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1282,6 +1282,23 @@ series 214 → **215**), section-clean 120 → **121 / 301**, residue-free 149 �
 Melting Rope, `77c3873` Forgotten Shadow, this unit), each unit measured live at its own head. **Batch 12
 opens at three** on the freshly re-derived tier.
 
+**Batch 12, unit 1: The Empty Mask `C-IIβ-054` closed.** Measured at the batch-12 head (`44a8d9e`):
+**7 dirty sections**, worst 기록 (Registrum) 0.437, then 최종 관찰 (Final Observation) 0.305, M.A.W. Equipment
+0.285, Activation Behavior 0.238, 감각 묘사 (Flavor Text) 0.111, Trivia 0.103 and Combat Record 0.097; all
+seven closed; 7,114 → **7,815 words**; `tpl.py` residue 2 → **0**; `verify.py` residual **0 → 0**; both
+clauses were already satisfied and were left alone (`R-05`); `sectfile.py` ends at **0 section(s) over
+0.05** and `wikistd.py` meets **True**, one pass, no second wave. Authored from the file's own instruments:
+the 61 mm probe in 19 mm of material, the card series 3.1 → 4.0 → 5.2 (eleven years kept, nine without a
+use), the four-minute unsupervised figure under the two-person rule, the fourteen thousand unredacted
+applications, the Shadow Roll's first year (2,980 / 2,201 / 779 / 46 / 31 and two nominations misused) and
+the four-mask troupe. Two defects repaired in the same unit: the truncated "eight second" sentence in the
+SECC Entity Type row, restored to the file's own Activation Trigger wording, and the activation block's
+Duration line, which had the wearer naming themselves against the file's canon that only someone else's
+voice ends it. Movement: `R-29` 98 → **99 / 301**, section-clean 121 → **122 / 301**, residue-free 150 →
+**151 / 302** (instances 412 → 410, carriers 152 → 151), file-clean 202 → **203 / 302**, median 0.024 and
+worst 0.142 unchanged. **Batch 12 stands at one of three**; next on the re-measured tier: The Lost Prince
+`C-IVγ-091`, Mirror of Soaking `N-IIβ-801`, Frozen Fury `C-IVδ-668`, Mourner's Bloom `C-Iα-330`.
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1310,8 +1327,9 @@ next: **Broken Clocktower `C-IVγ-240` came off it in batch 10's second unit** (
 that head: **Forgotten Shadow `N-IIβ-453` came off it in batch 11's second unit** (6 dirty, 0.471, now
 6,939 words — one pass). **Forgotten Market Stall `C-IIα-062` came off it in batch 11's third unit** (9 dirty, 0.465, the last
 open-clause candidate — both clauses now closed, now 7,865 words, and the archive's worst whole-file
-fraction fell 0.156 → **0.142** with it). The tier behind it, re-measured at that head: The Empty Mask
-`C-IIβ-054` (7, 0.437), The Lost Prince `C-IVγ-091` (9, 0.389, series clause open), Mirror of Soaking
+fraction fell 0.156 → **0.142** with it). **The Empty Mask `C-IIβ-054` came off that tier in batch 12's first unit** (the batch-12 head at
+`44a8d9e`: 7 dirty, 0.437, both clauses already satisfied — 7,114 → 7,815 words, one pass). Still on it,
+re-measured at `44a8d9e`: The Lost Prince `C-IVγ-091` (9, 0.389, series clause open), Mirror of Soaking
 `N-IIβ-801` (10, 0.381, condition and series open), Frozen Fury `C-IVδ-668` (10, 0.335, series open) and
 Mourner's Bloom `C-Iα-330` (10, 0.301, series open); the older batch-7 names beyond these remain in the
 cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor

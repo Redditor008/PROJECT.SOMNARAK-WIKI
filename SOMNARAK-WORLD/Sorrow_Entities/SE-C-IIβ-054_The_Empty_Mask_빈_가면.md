@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-054 [WO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on contact. placement over the face is the completed form and is not required; a palm on the inner surface for eight second |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on contact. Placement over the face is the completed form and is not required; a palm on the inner surface for eight seconds has produced every stage of the record. |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats emptiness |
 | **Potency** | Moderate (β) — Manageable but dangerous |
@@ -82,18 +82,18 @@
 | { *The Hollow Face* [**Debuff**] } | "The mask stares — and behind the eye-holes, there is nothing. No face. No soul. Just weight." | [The Mask's emptiness presses on the target; they feel the void behind the surface.] | *Target suffers -10 Resolve; the absence is heavy.* **[10 Weight DMG [Weight]]** | When the target regards the Mask. |
 | { *The Gravity of Nothing* [**Debuff**] } | "The emptiness behind the mask pulls at you — and nothing has never been this heavy." | [The Mask's void-interior generates gravitational pull; the target is drawn in.] | *Target loses 10 Resolve; the nothing is dragging them.* **[10 Weight DMG [Weight]]** | When the target lingers. |
 | { *The Face-Blow* [**Attack**] } | "It does not come at you. It is simply nearer the face than it was, and the hand that moved it was yours." | [Handled without a second person present, the relic closes the distance to the handler's face; the object itself does not travel.] | *Inflicts Weight pressure and one wound of hollow impact.* **[14-22 Weight DMG [Weight]]** | When handled alone, in event of the two-person rule. |
-| { *The Full Vacuum* [**Attack**] } | "The mask opens wide — and the void inside inhales everything nearby." | [The Mask's interior void expands, sucking in the target.] | *A heavy Black void-pull; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Mask is broken. |
-| { *The Sea of Masks* [**Ultimate**] } | "Empty masks appear everywhere — on every wall, every face — and behind all of them, the same crushing nothing." | [The Mask multiplies across the entire field.] | *All in range suffer Weight pressure for three turns of universal emptiness.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Vacuum* [**Attack**] } | "The mask opens wide at last, and what comes out of it is not emptiness but appetite: everything the holding has never been able to hand back." | [The depth that reads sixty-one millimetres in a nineteen-millimetre object gives way, and the pull is toward the inner surface.] | *The target's Sorrow Gauge surges 15% and their own name is briefly not available to them.* **[24-36 Weight DMG [Weight]]** | When the depth in the mask gives way. |
+| { *The Sea of Masks* [**Ultimate**] } | "Every face in the room is replaced by the same blank interior, and every one of them is a person who applied in writing and was right to." | [The withdrawal right's arithmetic made visible: the field fills with featureless faces, each one a name the desk is forbidden to count.] | *All in range take Weight pressure for three turns; a handler in the area cannot answer to their own name for the duration.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — The Empty Mask is recognised by the probe depth and the card grade. It has no reflection, so the usual confirmation by mirror is unavailable and is not to be attempted as a substitute — then the approach is set and the positions are taken.
+1. **Tension:** Identification first — the probe depth, sixty-one millimetres into nineteen, and the card grade against the printed strip; four masks are held with the Troupe and no reflection distinguishes this one from the other three. Mirror confirmation is unavailable and is not to be attempted; the approach is then set with both handlers named and the tray log open.
 2. **Clash:** Viderehan and Ferrehan only, two handlers present throughout, the glow graded against the card at the start and end. Nobody present is unconscious, asleep, or sedated; that clause is enforced literally and was written after an infirmary corridor.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** A second person says the wearer's name and the wearer answers to it; the relic returns to the tray, both handlers can still give their own names without pausing, and the gauge closes below 25%. Self-naming has never been sufficient on this holding.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resolve** and identity cohesion, accelerating Sorrow Gauge escalation.
+- A handler who fails to resist does not report it: the documented first sign is a service number offered where a name was asked for, promptly and without noticing, which is why the second worker's read is the record and the handler's is not.
 - Extended contact risks The Empty Mask’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
 - Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
 - Without timely resolution, The Empty Mask defaults to its documented activation or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
@@ -179,7 +179,7 @@ The gauge on an object held with three others is close to meaningless and the ho
 | **Activation** | Contact; eight seconds of palm against the inner surface is sufficient. |
 | **Primary Effect** | Others cannot retain who the wearer is, during or afterwards. |
 | **Duration** | Until another person says the wearer's name and the wearer answers to it. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Weight trauma. |
+| **Termination / Return** | The piece comes off when a second person says the wearer's name and the wearer answers to it; the tray log closes the entry. Forced removal without the naming is entered as an injury to the handler, and the near miss that produced the sleeping-person clause is the standing example. |
 | **Risk** | Progressive identity loss, first presenting as a service number offered in place of a name. |
 
 **Operational Rule:** The relic functions only while carried, and this holding does not issue it for field use. Two handlers, tray to tray, no exceptions on record and one near miss that produced the sleeping-person clause.
@@ -188,14 +188,14 @@ The gauge on an object held with three others is close to meaningless and the ho
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The Empty Mask rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping The Empty Mask activates its primary resonance: Makes the wearer unrecognizable to others. Grants +10% resistance to Weight damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of becoming nothing to oneself and to everyone else; the bearer begins perceiving echoes of citizens erased names, faces, and histories to survive. the accumulated absence crystallized into a mask with no face. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within The Empty Mask begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear The Empty Mask too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Progressive identity loss and inability to recognize oneself. |
+| 10 Seconds | The Mask lies where it was put, lead-cold, heavier than its dimensions account for, and casts no reflection; a palm on the inner surface for eight seconds is the whole of the contact required. | The wearer becomes unfindable in the record: people address them correctly in the moment and cannot afterwards say who was in the room. Weight resistance +10% while worn. |
+| 30 Seconds | The bearer starts hearing the withdrawal desk in the mask's silence — applications in their own handwriting, fourteen thousand of them, every one the right thing to do — and cannot say afterwards which of the voices was theirs. | Work sharpens while composure pays for it: focus and action speed rise at the cost of the handler's own naming. The second worker watches for the pause. |
+| 1 Minute | The toll begins coming off in the small change the rule takes: a service number offered where a name was asked for, a colleague's face that will not resolve, a question about family answered with a roll number. | 5 Weight damage every 15 seconds past the first minute, and the second worker times the pause rather than waiting for the wearer to notice it. |
+| 2 Minutes | The wearer stops being a person the holding can find: the applications and the wearer have the same handwriting, and a handler in this state has never once been able to give their own name unprompted. | Past two minutes, or removal without the naming, the bearer cannot recognise themselves; the entry is made by the second worker and countersigned by the Containment Lead. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Empty Mask: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-C-01, contained with the Masked Troupe, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is measured on the card, not on the gauge: the strip is graded by eye at the start and the end of every handling, and the series has run 3.1, 4.0 and 5.2 over the three years the holding has plotted it, against a withdrawal count the Company is forbidden to publish. Between shift changes, the escalation to watch for is social — the handler who answers a question with a number, the partner who stops using the handler's name because it no longer feels necessary. Both are entered with the hour, and the second worker's entry stands.
 
 **Response sequence:** Two handlers, card grade before and after, nobody sedated or asleep within the room, and the relic back in its tray before either handler leaves. There is no perimeter to establish; the hazard is the handling, not the distance.
 
@@ -219,7 +219,7 @@ The escalation pattern is specific to The Empty Mask: it is not a generic contai
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a two-handed maul of Weight Han-steel, finished matte, that reports heavier on the armoury's scale each year it is returned there and has never been signed out of it.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)
@@ -232,15 +232,15 @@ The escalation pattern is specific to The Empty Mask: it is not a generic contai
 **Falloff Rule:** Single target, and the maul has never been swung in this holding. It is listed because the armoury lists it.
 **Damage Application:** Armoury figures, transcribed. No combat figure in this section has been produced by an event on this holding; the Mask has injured nobody by force.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Empty Mask's weight signature in the strike.
+**Ability:** Deals Weight damage against the Han (sorrow reserves, karmic debt); the strike carries the holding's own figure, sixty-one millimetres of depth in nineteen millimetres of steel, and the armoury enters it as a transcription rather than a trial.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder feels progressively heavier — a weight the tray scale never registers — and prolonged use ages them slightly; the file keeps both figures and reconciles neither.
 
 ### M.A.W. Suit — The Void Mantle
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a mantle of Weight Han-weave cut like a clerk's coat, matte, that settles lead-cold against the skin and dims in a bright room the way the mask dims near joy.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -252,13 +252,13 @@ The escalation pattern is specific to The Empty Mask: it is not a generic contai
 
 **Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Empty Mask's kind of pressure.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** A constant low fatigue the wearer attributes to the shift rather than the coat; the second worker keeps the hour it is first mentioned and reads the entry against the tray log.
 
 ### M.A.W. Stigma — The Void Mask
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a mask-charm of Weight Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
+**Appearance:** a mask-charm of Weight Han-steel, matte, carrying a weight that does not match its size and does not register on the tray scale — the source's discrepancy in miniature.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -272,18 +272,18 @@ The escalation pattern is specific to The Empty Mask: it is not a generic contai
 
 ### M.A.W. Use Notes
 
-A piece cut from The Empty Mask is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder feels progressively heavier; prolonged use ages them slightly, and it is paid whether the use was correct or not.
+A piece cut from The Empty Mask carries the holding's discrepancy with it: the maul weighs more than the armoury's scale allows, the mantle is colder than the store it hangs in, the charm is heavier than its size. None of the three has ever been issued against the Mask itself, and the toll they carry — heaviness, a constant fatigue, an identity slowly not returned — is paid whether the use was correct or not.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, The Empty Mask's toll being that the wielder feels progressively heavier. |
-| **During use** | The first sign that The Empty Mask is charging: the wielder feels progressively heavier. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The Empty Mask's cost is continuous rather than occasional: the wearer carries a constant low fatigue. The second worker's call stands against the wielder's. |
-| **After use** | Return, reconcile the baseline, and record whether The Empty Mask's toll has reversed: the wearer carries a constant low fatigue. Where it has not, the piece is not reissued to that wielder. |
+| **Before use** | Wielder named, piece named, gauge entered, and the toll this set takes confirmed at the start: the wielder feels progressively heavier, and the tray scale will not show it. |
+| **During use** | The first sign is the wearer going quiet mid-sentence and heavier on the spot rather than on the scale; the hour is entered by the second worker, never by the wearer. |
+| **At limit** | The wearer's account keeps running: a constant low fatigue, a name that stops arriving on request; the second worker calls the limit and that call stands against the wearer's. |
+| **After use** | Take the piece back, read the tray scale against the sealed baseline, and record whether the heaviness reversed. Where it has not, the piece is not reissued to that wearer. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade is not safety and this holding is the proof: the β pieces perform to specification and remain in the armoury, while every harm on this file came from handling the source rather than the steel. Read the cost column as the file keeps it — heaviness, a constant fatigue, an identity not returned — and read the acquisition figure first, because five of the eight issued charms were declined by the five workers with children named on their file.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced. The holding has eleven years of card grades, which is why.
@@ -336,11 +336,11 @@ The Mask is what that arrangement looks like once it has been given a shape. It 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Empty Mask; the other feeds it.
+> What the observing worker does at the close of contact: two handlers, the card, the probe, and somebody in the room who knows the handler's name without reading it — or something improvised and kinder.
 
-| Do the thing on file: Two handlers, the card, the probe, the sleeping-person clause, and somebody in the room who knows the handler's name without reading it. | Improvise something kinder, which is how every failure on The Empty Mask's file began. |
+| Keep the file's terms: two handlers signed in, the card graded before and after, the probe run, nobody asleep or sedated in the room, and a name said back by somebody else. | Improvise something kinder — a sedative, a shortcut, a kindness taken alone — which is how every failure on this file began. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is borne; The Empty Mask is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Empty Mask withdraws without revelation. |
+| The gauge closes below 25%, the wearer answers to their name, and the card is graded at the close against the strip; the record is complete because both names are in it. | The wearer leaves the room as a number, the card is never graded, and the entry is written by the second worker about a handler who cannot be asked. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -353,13 +353,13 @@ The Mask is lead-cold and patient and offers exactly what the rule offers: an en
 
 **With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Weight presses hardest, where it recedes, where the Object-Weight lets you breathe.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Direct contact or placement over the face. Effect: Makes the wearer unrecognizable to others. Duration: Until the wearer remembers and speaks their own name. Risk: Progressive identity loss and inability to recognize oneself. I-Relic (Indumentum) Tool Use Profile — I-Relic. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Eight seconds of palm on the inner surface and the wearer becomes unfindable: people address them correctly in the moment and cannot afterwards say who was in the room. What a trained observer connects to the room is the pause — the handler who answers a question with a service number, promptly and without noticing — and the card, graded by eye against the strip, which runs at whatever rate the withdrawal roll runs at.
 
-**After departure:** After contact, the body holds what the mind files away. The Weight is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The weight lifts off the body and leaves the shape of itself behind — where it pressed, where it hollowed — and the handler checks their own name first thing, silently, before the card is read.
 
 ### Interaction Pattern
 
-The Empty Mask does not exist in isolation. Its recorded relationships with The Maw, The Forgotten Soldier, The Hollow Choir, The Happy Mask should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The Empty Mask is filed against three companions and one opposite: the Maw, which pulses near the First Sorrow; the Forgotten Soldier, which is said to guard what identity remains, and which eleven years of proximity trials do not support; the Hollow Choir, which sings the absent and has twice sung workers who had never withdrawn; and the Happy Mask, which supplies a face where this one supplies none. None of the four pairs is treated as alliance or hostility; each is run under the same terms, four clean watches before and after, and the holding has discarded three results on that ground including one it would have liked to keep.
 
 **Interaction method:** Baseline each file alone, then proximity with both graders present and the card read at one-minute intervals rather than twice a watch. Trials with the other Troupe masks are run in the storage corridor; trials with anything outside the Troupe require two commanders' authority and have been run twice.
 
@@ -368,7 +368,7 @@ The Empty Mask does not exist in isolation. Its recorded relationships with The 
 
 The Empty Mask must be assessed against the other identity files and kept distinct from them. The Happy Mask presents a face that is not the wearer's; this one presents no face at all. The Laughing Mask performs a feeling; this one performs nothing. Redacted is an absence nobody chose, made by an office; this one is an absence people applied for, in writing, and were right to want.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Held with | What is filed | What the trials found | Entry owed |
 |---|---|---|---|
 | **The Maw** | Recorded as a pulse near the First Sorrow. Tested at the maximum permitted separation only. | Two observations at distance. Card grade moved 0.3 and 0.2 and returned inside the watch; no handler effect. The holding has declined further trials and has said why in writing. | Card grades at one-minute intervals, probe depth, handler naming times. |
 | **The Forgotten Soldier** | Said to stand guard over what identity remains. Nothing in eleven years supports a protective effect. | Four proximities. No boundary, no restriction, no change in handler naming times; the card ran at its established rate throughout. Recorded as a nil result so it cannot be cited as protection later. | Card grades at one-minute intervals and the following four watches. |
@@ -420,9 +420,9 @@ Some sorrows mourn what was taken. This one is about what is surrendered freely,
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Two instruments govern this record and one of them refuses to move. The first is the card: the glow graded by eye against a printed strip at every watch, two graders independently, mean recorded, a series of eleven years that reads 3.1, 4.0 and 5.2 over the three plotted years. The second is the probe: sixty-one millimetres of depth in nineteen millimetres of material, constant since the first year, and the fastest way to distinguish this mask from the other three held with the Troupe. Neither may be reconciled with the other, and the discrepancy in the first is the finding: the card tracks the number of names currently withdrawn, a quantity the Company is forbidden to publish and the holding is not allowed to know. Read the Work Type line before the combat line — Ferrehan is primary and Viderehan was recorded wrong for nine years — and read every number in this file as a measurement kept by somebody who could not be told what it meant.
 
-**Review requirement:** After any activation, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every handling: the card graded before and after, the probe run, the tray log closed with both handlers named, and a note of whether either handler needed to be reminded of anything. The reminders are kept and compared across a posting rather than within one, because the documented first sign — a service number where a name was asked for — is something the handler will not notice and the partner will. Re-verify every cycle rather than relying on a settled reading; the series has risen for eleven years and nothing done on this holding has altered it.
 ## Watch Record
 
 ### A Face-Shaped Absence
@@ -469,10 +469,10 @@ People erased their own names and faces and histories in order to carry on, and 
 ### Registry Trivia
 
 - **Classification detail:** The Empty Mask is an Object/Place with Echo (II) — Repeats emptiness coherence and Moderate (β) — Manageable but dangerous potency.
-- **Field detail:** Its defining element is Weight, and its registered location is SECTOR-C-01, contained with the Masked Troupe.
+- **Field detail:** Its defining element is Weight and its registered location is SECTOR-C-01, with the Masked Troupe; it has never moved on its own in eleven years, and every displacement in the record was done by a hand, whose name is entered.
 - **Recognition detail:** Identify it by the probe depth and the card grade. It has no reflection, so the usual confirmation by mirror is unavailable and is not to be attempted as a substitute.
 - **Record detail:** The Registrum cross-referenced The Laughing Mask and The Masked Dancer, neither of which is on this holding's interaction record; corrected to the four entities actually tested against it.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** A sealed door contains nothing here. The Mask lies where it is put, but it takes a handler's name inside four minutes of unsupervised contact, which is why the containment is procedural rather than physical: the two-person rule, the sleeping-person clause, and a voice that is not the wearer's.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-054
