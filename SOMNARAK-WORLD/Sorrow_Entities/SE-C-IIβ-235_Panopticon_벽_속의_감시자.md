@@ -422,7 +422,7 @@ The observers asked for one power: immediate stoppage where life is at risk, exe
 - **Field detail:** Void, ambient through the fabric of eleven corridors in Old Lament, Zone B, bounded in chalk on the floor.
 - **Recognition detail:** Eyes set in plaster, ceiling and doorframe, open and unblinking, cold to stand near, with ash on the air. A translucent figure appears only to somebody who has stopped minding.
 - **Record detail:** The Registrum placed this holding in Zone D against a Zone B header and attributed the personnel note to a Zone D Warden who has never worked it. Both errors are on the file, reported twice, and uncorrected; they are retained here so that nobody re-discovers them as findings.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** There is nothing to contain. The holding is the building's own fabric on eleven corridors; the only boundary the wing maintains is a chalk line on the floor, redrawn quarterly, which records where the watching has reached rather than limiting it.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-235

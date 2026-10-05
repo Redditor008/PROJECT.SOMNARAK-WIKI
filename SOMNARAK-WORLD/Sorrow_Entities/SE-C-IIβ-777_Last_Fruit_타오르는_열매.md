@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per cycle, taken at a market stand that still has a trading licence. The Mask Market charges the wing a pitch fee for it, which the wing pays, and the receipt is in the file. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | Granted pieces · β |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Grudge pressure; 15% against other pressure types |
+| **Resistance** | 25% against Grudge. The tree has never been cut back; the fruit cannot be picked and the two attempts are in the Combat Record rather than here. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 382/382 |
 | **Han Pressure [ATK]** | 10–23 per hit · Grudge |
@@ -81,21 +81,21 @@
 | { *The First Bite* [**Debuff**] } | "The fruit hangs there — blackened, split, and smelling of something that should never have grown." | [The Fruit's corrupted presence marks the target; their hunger stirs.] | *Target suffers -10 Resilience; they want to taste it despite themselves.* **[10 Grudge DMG [Grudge]]** | When the target sees the Fruit. |
 | { *The Charred Seed* [**Debuff**] } | "The fruit is full of seeds — each one a burning coal of old rage." | [The Fruit's interior radiates heat; the target feels the contained fury.] | *Target loses 10 Resilience; the anger inside the fruit is palpable.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
 | { *The Burning Burst* [**Attack**] } | "The fruit detonates — and the juice inside is liquid fire." | [An exploding fruit-impact sprays the target with burning rage.] | *Inflicts Grudge pressure and one searing, splattering wound.* **[14-22 Grudge DMG [Grudge]]** | When the Fruit is squeezed. |
-| { *The Full Harvest* [**Attack**] } | "Every fruit on the tree ignites at once — a rain of fire and old fury." | [The entire tree's harvest erupts simultaneously.] | *A heavy Crimson conflagration; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the tree is struck. |
-| { *The Burning Orchard* [**Ultimate**] } | "Every tree in the field bursts into fruit — and every fruit is burning — and the orchard is an inferno." | [The Fruit spreads its burning across the entire field.] | *All in range suffer Grudge pressure for three turns in the burning orchard.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Harvest* [**Attack**] } | "Every fruit on the stand goes up at once and the heat is the heat of somebody being refused." | [The whole crop ignites together.] | *24–36 Grudge to anybody at the pitch; the stand is undamaged and the neighbouring stalls have never caught.* **[24-36 Grudge DMG [Grudge]]** | When a fruit is picked. Twice, both by people who had been promised one. |
+| { *The Burning Orchard* [**Ultimate**] } | "Every stand in the row is bearing fruit and all of it is alight." | [The bearing spreads along the market row.] | *12–20 Grudge per cycle for three cycles to everyone in the row.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once, in the week the Market cancelled its hardship allocation. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The warden takes the pitch beside the stand during trading hours, counts the fruit, and confirms the day's hardship list from the Market office. The list is the instrument; the count is the reading.
 2. **Clash:** Flerehan or Ferrehan, from behind cover, with the seed-mouth graded against the standard card every two minutes. Pugnahan raises the gauge here and is barred; the bar is recorded with its reason in the Registrum.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the desire; do not promise to fulfill it**.
+3. **Resolution:** Name aloud what the person in front of the stand actually wants, and promise them nothing. 188 cycles; the fruit count falls by one to four after a naming and has never fallen for any other reason.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resilience**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Last Fruit’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Last Fruit executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- The failure here is a promise. Not a lie — a kindly meant undertaking to see what can be done — and every one of the eleven recorded failures began with one.
+- Past about half an hour at the pitch the warden starts wanting to fix something for somebody. The Market station treats that as the cue to close the cycle, not as a sign of commitment.
+- The set's price is appetite: wielders stop wanting things, in a flat and undramatic way, and three of them have had to be reminded to eat.
+- An unworked week adds fruit. The stand carried nine at first survey and carries thirty-one now, and the count has never gone down except after a naming.
 
 ## Appearance
 **Primary Form:** A hunched, seed-crusted beast born of a single charring fruit — its body a cracked crimson rind split to show a glowing seed-mouth, dragging itself on four charred root-limbs that smolder without burning away.
@@ -120,7 +120,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid figure shaped from a burning fruit, with a bright red core and a skin that chars without being consumed. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Rooted through the stand it grew out of, in the Mask Market, and it has not shifted a centimetre in nine years. The stand's licence is still issued in the original trader's name. |
 | **Material / signature** | Grudge. Cracked crimson rind, a core at card-grade 2 to 5, char and overripe sweetness, fever-hot at two paces. |
 | **Distinctive markers** | Four root-limbs that smoulder without burning away, seed-shaped sparks that vanish before landing, and a bearing that ignores the nearest body. |
 | **Identification** | If it is coming toward you rather than past you, somebody has refused you something recently and you should say so before continuing. |
@@ -147,9 +147,9 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Last Fruit is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+All four Work Types are available and what the table cannot hold is the only thing that matters: whether anybody said out loud what the person at the stand wanted. The fruit count answers to that and to the Market's hardship allocation, and to nothing else in nine years of readings.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A falling reading means a want was named plainly in front of the person who had it. It rises on promises, on the hardship list being shortened, and — four times — on an application being refused in writing elsewhere in the district.
 ## Breach Behavior
 
 > *"Last Fruit is out of the Market stand and moving on a bearing. It is not hunting anybody. Find what has just been refused and you will find it there first."*
@@ -167,7 +167,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 - **Breach type:** Escape — it leaves the holding and moves through the facility on a bearing set by denial rather than by sight. It does not hunt; it arrives where something has just been refused.
 - **Containment priority:** Sweep and quench the sparks before engaging the body. The breach propagates through what it sheds, not through what it is.
-- **Sorrow Gauge on breach:** Opens at 35% and rises 10% for each shed seed-spark that settles and takes, rather than per turn.
+- **Sorrow Gauge on event:** Opens at 35% and rises 10% for each shed seed-spark that settles and takes, rather than per turn. It falls 10% for each want named aloud at the stand, which is the only downward movement the series records.
 
 ## M.A.W. Equipment
 
@@ -177,7 +177,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that glows along its edge when readied.
+**Appearance:** a fang-curved blade with a seam of fruit-red along the edge that glows when it is readied and smells, faintly, of something ripe.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -190,15 +190,15 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Armoury figures, transcribed. The Fang burns rather than cuts and its listed value is a scorch rating, not an edge rating.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Last Fruit's grudge signature in the strike.
+**Ability:** Grudge against the Body. Struck targets are hungry for the rest of the day — specifically hungry, for a particular thing they cannot have — and all fourteen named the thing without being asked.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** Old wounds ache, and the wielder loses interest in food they have been looking forward to.
 
 ### M.A.W. Suit — The Burning Plate
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness, cold against the skin, with a row of small hard swellings under the plates that the Armoury has catalogued as fruit and declined to open.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -208,15 +208,15 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Last Fruit's kind of pressure.
+**Ability:** Resistance to Grudge against the Body, and the reason a warden can stand a trading day at the pitch without the wanting starting.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes dull, and the wearer stops asking for things — including reasonable things, including help.
 
 ### M.A.W. Stigma — The Burning Seed
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a seed-charm of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a seed-charm that is warm on a cold day and cold on a warm one, and that has never been seen to sprout in nine years of being kept in a drawer.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -230,18 +230,18 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Last Fruit's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Every piece came off a tree that bears fruit nobody is allowed to take, and the set removes wanting from its wielder. That is not peace; it is the absence of a thing people use to steer by. Three wielders, all three competent, all three noticed by colleagues before themselves — one had not drawn his rations in nine days and had no explanation for it.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the fruit count, and a written list of three things the wielder is currently looking forward to. Sealed. |
+| **During use** | Anything the wielder declines without a reason — a meal, a rest day, an offer of help. The column fills faster than the Armoury expected. |
+| **At limit** | The wielder cannot name anything they want. The question is asked daily and the answer is never evasive; it is simply empty. |
+| **After use** | Open the sealed list and read it back. Two of three agreed the items had once been true and could not say when that had stopped. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade measures extraction stability. This set takes appetite — for food, for rest, for anything — and no rating column exists for that; the sealed list is the authorisation.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -269,7 +269,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Last Fruit (C-IIβ-777 [GS]) is logged as a Subject-Body manifestation expressing Grudge, held at the Mask Market stand in Zone C. It burns and is never used up, it travels on refusals rather than on sight, and it brightens around people who have said they want nothing.
+Last Fruit grew out of a market stand in Zone C and still stands on its pitch, bearing thirty-one fruit that burn and are never consumed. The licence is issued in the original trader's name. People stop in front of it, every trading day, and want something.
 
 **Entry 2 — <Market Stand Watch Sheet, Year 4238>**
 It crossed the Mask Market on a straight bearing to a stall where a man had just been told the price. Seed-mouth graded 4 on the card. Sparks shed and counted: forty-one. None germinated; none reached the ground.
@@ -287,9 +287,9 @@ The household inventory, the note on the failing tree, and the accounts showing 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Last Fruit; the other feeds it.
+> The choice comes when somebody at the stand has told you what they need and is waiting for you to say something.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Say what they want, plainly, and promise nothing. | Tell them you will see what can be done. |
 |---|---|
 | Fire dims and the fruit's warmth becomes gentle. The sorrow is named; Last Fruit is fully recorded. | Sparks burst outward and the figure burns brighter. The gauge climbs and Last Fruit withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -300,17 +300,17 @@ The figure smells of fruit and smoke. Its red core glows through the market mask
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Body resolves: a hunched, seed-crusted shape born of a single charring fruit, its body a cracked crimson rind over a core that glows bright red and never burns down. Embers drift off it as it moves. The flesh is warm and gives slightly under a hand, like fruit, and the air around it smells of char and of something overripe.
+**At first contact:** A market stand with a tree growing through it, bearing fruit that is on fire and does not burn away. The heat is real; the stand is not scorched. Shoppers walk past it and some of them stop.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Grudge is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** You begin to want something specific. Wardens report it as unremarkable at the time and conspicuous in the write-up: thirty-one of the file's cycle reports contain the warden's own wish, written down without being asked for.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Grudge becomes something you can taste, hear, or feel on your skin. The Subject-Body has crossed the line between containing and becoming.
+**When the entity activates:** Somebody reaches for a fruit. It is never a stranger — both times it was a person who had been told they could have one — and the whole stand goes up at once.
 
-**After departure:** You leave, but the Grudge follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** You ask for something you had been doing without. The Market station lists it in the briefing and notes that this is the only after-effect in the district anybody has described as useful.
 
 ### Interaction Pattern
 
-Last Fruit does not exist in isolation. Its recorded relationships with The Happy Mask, The Sorrow Seed, The Angry Maiden should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relations, all of them the Market's appetites, and all measured on the fruit count. Two added to it. The third took one off, which is the only time anything other than a naming has.
 
 **Interaction method:** Grade and bearing taken on both parties separately first, then together, from two covered positions at right angles. Spark counts are kept apart and compared only after the session, so that neither observer adjusts to the other's figure.
 
@@ -319,7 +319,7 @@ Last Fruit does not exist in isolation. Its recorded relationships with The Happ
 
 Last Fruit must be kept distinct from the other appetite and refusal files. The Sorrow Seed is about what grows from what is buried; this one is about what was never planted, because nobody was permitted to ask for it. The distinction decides which ward's clerks are asked to attend an observation.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What it is | What the count did | Required record |
 |---|---|---|---|
 | **The Happy Mask** | A worn Mask puts the core up two grades within a minute, the Mask being the fullest form of saying you want nothing. | Grade 4 to 5 while the Mask is worn; immediate drop when it is removed. | Grade before, during and after removal, to the second. |
 | **The Sorrow Seed** | Sparks reach the ground near the Seed instead of going out, and sit there, and still do not germinate. | The only recorded condition under which a spark lands. Eleven landed in the trial; none took. | Count landed sparks separately from shed ones and keep the bed under observation for a full season. |
@@ -367,14 +367,14 @@ Some sorrows are about what was taken. Last Fruit is about what was wanted and f
 - Seed-mouth graded 2 to 5 on the standard card, from cover, at two-minute intervals.
 - The fruit is within reach whenever the threshold is crossed, and that is the hazard, not the heat.
 **Cross-References:** Zone C, Mask Market · The Happy Mask · The Sorrow Seed · The Angry Maiden · the Stores Office
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** None operational. The Market's traders' association has twice asked for the pitch fee to be waived and been refused by its own committee, on the grounds that the stand is a trading pitch and the wing is a trader like any other.
 **Originator:** A Mask Market household · a child told not to ask again
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The suppression condition is one sentence and it is hard to obey in a market: name the want and promise nothing. The fruit count has gone from nine to thirty-one in nine years and comes down only when somebody standing at the stand has their want said plainly back to them. Eleven failures on file, all of them promises, all kindly meant. The Market's hardship allocation moves the gauge more than any cycle does, and the wing has no standing in that decision at all.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every cycle: the fruit count, the day's hardship list, every want named with who named it, and any promise made at the pitch — recorded verbatim, with the promiser's name, because all eleven failures look reasonable in summary and unreasonable in the actual words.
 ## Watch Record
 
 ### The Seed-Mouth
