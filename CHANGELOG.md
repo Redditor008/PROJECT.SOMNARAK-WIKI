@@ -38,6 +38,30 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 15 / unit 2 — Forgotten Soldier `N-IIβ-033` closed (2026-10-06)** —
+  measured at `f55e617`: **8 dirty sections**, worst M.A.W. Equipment 0.451, then 최종 관찰 (Final Observation)
+  0.318, Behavior 0.226, 관찰 기록 (Observation Log) 0.217, Combat Record 0.168, 기록 (Registrum) 0.162, Trivia
+  0.110 and 감각 묘사 (Flavor Text) 0.068. All eight closed in three waves (16 + 15 + 11 sites); 6,794 → **7,324
+  words**; `tpl.py` residue 6 → **0**; `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged as`
+  carrier); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition and series
+  **already satisfied and left alone** (`R-05`) — the condition being the file's own undirected-word sentence, the
+  series its own figures (31 → 22 → 16-day interval, the Year 4164 instrument, the Year 4231 trial's eleven
+  weeks, 214 acknowledgements with 3 directed, 3,100 names on the sealed schedule, 58 living). Re-authored: both
+  Combat Consequences clusters onto the corridor's own practices (the third-failure condition, the doors, the
+  watch book entry); the Behavior notes onto the sealed-schedule logic (his record is complete and sealed —
+  the acknowledgement is unlawful rather than missing); the Observation Progression rows onto the facing/interval
+  measurements; the Final Observation pair onto the undirected-word prohibition; all fifteen M.A.W. Equipment
+  sites (appearances, abilities, the two costs, the Duty Charm note, Use Notes, all four Field Use Record rows and
+  the `**Stat interpretation:**` blocker, 10 dossiers) onto issued-one-rotation-at-a-time practice; the Flavor
+  block's three sustained-exposure lines and its interaction-table header; and the **Registrum shell pair**
+  (`**Operational interpretation:**` / `**Review requirement:**`) onto the interval figures this file actually
+  moves on. One corpus side effect, beneficial and in a file this unit did not edit: **Weighting Bird `C-IIIγ-032`
+  shed one dirty section (4 → 3)**. Archive dirty sections 959 → **950**; the shared corpus thinned to worst
+  whole-file fraction **0.132** (from 0.139) with the median steady at **0.020**. Movement: `R-29` 108 → **109 /
+  301**; section-clean 132 → **133 / 301**; residue-free 170 → **171 / 302** (carriers 131, instances 281, lines
+  23); file-clean 214 → **217 / 302**. **Batch 15 stands at two of three**; Cracked Mirror `C-IIβ-310` (5, 0.447,
+  condition and series open) is the remaining unit.
+
 - **Batch 15 / unit 1 — Patina `C-IVδ-222` closed (2026-10-06)** —
   measured at `57bbda8`: **8 dirty sections**, worst M.A.W. Equipment 0.453, then Behavior 0.287, Activation
   Behavior 0.245, Combat Record 0.225, 최종 관찰 (Final Observation) 0.167, 기록 (Registrum) 0.158, Trivia 0.153

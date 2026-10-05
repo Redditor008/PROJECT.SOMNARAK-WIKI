@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **170 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **132 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **108 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **171 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **133 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **109 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 214 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 217 / 302 |
 | Archive median prose generic fraction | 0.021 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1455,6 +1455,20 @@ sections 967 → **959**. The shared corpus thinned enough to lift the archive's
 residue-free 169 → **170 / 302** (carriers 132, instances 296, lines 24); file-clean 212 → **214 / 302**.
 **Batch 15 stands at one of three.**
 
+**Batch 15, unit 2: Forgotten Soldier `N-IIβ-033` closed.** Measured at `f55e617`: **8 dirty sections**, worst
+M.A.W. Equipment 0.451, then 최종 관찰 0.318, Behavior 0.226, 관찰 기록 0.217, Combat Record 0.168, 기록
+(Registrum) 0.162, Trivia 0.110 and 감각 묘사 (Flavor Text) 0.068 — all eight closed in three waves (16 + 15 +
+11 sites); 6,794 → **7,324 words**; `tpl.py` residue 6 → **0**; `verify.py` residual 1 → **0** (`is logged as`);
+`sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition and series already
+satisfied and left alone. Re-authored: the Combat Consequences onto the third-failure condition and the doors, the
+Behavior notes onto the sealed-schedule logic, the Observation Progression rows onto facing/interval, all fifteen
+M.A.W. Equipment sites onto the one-rotation-at-a-time practice, the Flavor sustained-exposure lines with the
+interaction-table header, and the **Registrum shell pair** onto the interval figures. One beneficial side effect
+in a file this unit did not edit: **Weighting Bird `C-IIIγ-032` 4 → 3 dirty sections**. Archive dirty 959 → **950**;
+worst whole-file fraction 0.139 → **0.132**; median steady **0.020**. Movement: `R-29` 108 → **109 / 301**;
+section-clean 132 → **133 / 301**; residue-free 170 → **171 / 302** (carriers 131, instances 281, lines 23);
+file-clean 214 → **217 / 302**. **Batch 15 stands at two of three.**
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1500,8 +1514,10 @@ closed on the file's own 1.1-metre plumb line and nine-search series, 6,592 → 
 closed on the file's own map counts, 7,387 → 8,026 words, three waves). The batch-14 tier is exhausted and the
 next head was re-derived whole-archive at this commit: **Patina `C-IVδ-222` (8 dirty, 0.453, both clauses satisfied) came off
 that tier as batch 15's first unit** — three waves, 7,051 → 7,530 words, 0 sections over 0.05, archive dirty
-967 → 959. **Batch 15 stands at one of three**: Forgotten Soldier `N-IIβ-033` (8, 0.451, both clauses satisfied)
-leads the remainder, with Cracked Mirror `C-IIβ-310` (5, 0.447, condition and series open) behind it; Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
+967 → 959. **Batch 15 stands at two of three**: Patina and Forgotten Soldier `N-IIβ-033` are
+closed (three waves each, both clauses already satisfied in each and left alone), leaving **Cracked Mirror
+`C-IIβ-310` (5, 0.447, condition and series open)** as the batch's final unit — the two open clauses travel with
+it; Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
 series open) remain in the cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
