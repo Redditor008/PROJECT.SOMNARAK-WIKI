@@ -111,7 +111,7 @@ Fandom home: Quick Links (Invitations / Reception / Library / Floors / Character
 | Patron Librarian | Echo-Core character page |
 | The City | `locations/district-structure-veil-and-raw.html` + zone pages |
 | Reception / Guests / Offices | `factions/the-sed-corps.html`, `the-ucd-strike-force.html` (operation books) |
-| Key Pages / Combat Pages | M.A.W. weapons / gifts |
+| Key Pages / Combat Pages | M.A.W. weapons / stigmas |
 | Distortions | `lore/named-fractures.html`, `mechanics/fracture-and-therapy.html` |
 | Organizations | `factions/` |
 
@@ -179,7 +179,7 @@ Transfer % = how much of **that source file** is on the wiki, not how much of th
 | `SOMNARAK_CHEONGULA.md` | 19 KB | History incident | `lore/the-cheongula-incident.html` + Maw | SECC |
 | `SOMNARAK_ORDEALS_FRAMEWORK.md` | 19 KB | Ordeals hub | `mechanics/ordeals-framework.html` | Floor 1 |
 | `SOMNARAK_DREAM_REALM.md` | 18 KB | Distortion / dream | `lore/the-dream-realm.html` | Cosmology dump |
-| `SOMNARAK_HAN_RELICS.md` | 16 KB | Tool / gift adjacent | `mechanics/han-relics-and-tools.html` | MAW weapon pages |
+| `SOMNARAK_HAN_RELICS.md` | 16 KB | Tool / stigma adjacent | `mechanics/han-relics-and-tools.html` | MAW weapon pages |
 | `SOMNARAK_BATTLE_SYSTEM.md` | 11 KB | Reception / clash | `mechanics/resonant-clash-mechanics.html` | City page |
 | `SOMNARAK_ENEMY_LIST.md` | 10 KB | List of Enemies | `mechanics/enemy-bestiary.html` | Entity list |
 | Character wiki `THE_DIRECTOR.md` etc. | 6–16k words | Malkuth-style character | `characters/the-*-*.html` | Floor layout section |

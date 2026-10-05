@@ -1,0 +1,47 @@
+# M.A.W. STIGMA — The Denial Shield
+
+> *“It can refuse a blow. It can also refuse the hand reaching through the aftermath.”*
+
+---
+
+**Document ID:** `SE-063-D`  
+**Linked Entity:** `SE-063` — The Rejector  
+**Item Registry Code:** `MAW-G-063-01`  
+**Author:** Archive Lead Marjuk  
+**Date:** Year 4,238 — Dawn Initiative  
+**Classification:** Classified  
+**Codex Set Completion:** `4/4`
+
+| Field | Record |
+|---|---|
+| Type | Accessory (Stigma) — shield pendant |
+| Grade | γ — Major |
+| Element | Void |
+| Slot | Head |
+| Acquisition Probability | 4% |
+| Stat Effect | +2 when working the Rejector source record |
+
+### Appearance
+
+The Denial Shield is a small shield pendant of pale grey Han glass, shaped like a rounded buckle with a raised rim and a short black loop for a cord. It is light and cold and rests flat against the bearer's chest. Once per encounter it rejects one incoming direct attack, mark, or forced movement effect, and the rim glows briefly at the moment of refusal. For the same short interval it also rejects healing, rescue pull, and emotional support, so the bearer cannot accept help until someone offers it again after the effect ends. The glass turns a shade paler after each use and slowly returns to grey. Its protection is absolute for one instant and its refusal is equally absolute, which is why rescue teams keep a second offer ready. The shield is stored on a grey cloth, and a second offer of aid is always carried by the rescue team so the bearer is not left waiting alone.
+
+### Ability— No Further
+
+Once per encounter, the Stigma rejects one incoming direct attack, mark, or forced movement effect.
+
+**Limit:** The Shield also rejects healing, rescue pull, and emotional support for the same short interval.
+
+**Cost:** The bearer cannot accept help until a person offers it again after the effect ends.
+
+### History Record
+
+A Denial Shield saved a bearer from a Void execution mark. The bearer then refused a rescue rope because the Shield was still active and nearly fell into a lower service shaft.
+
+**Document ID:** `SE-063-D`  
+**Linked Entity:** `SE-063`  
+**Item Registry Code:** `MAW-G-063-01`  
+**Author:** Archive Lead Marjuk  
+**Date:** Year 4,238 — Dawn Initiative  
+**Classification:** Classified
+
+---

@@ -1,0 +1,127 @@
+# GREY Third Watch — The Forge March
+
+> *A secondary GREY Third Watch Ordeal — a distinct manifestation of grudge sorrow at major severity.*
+
+## Ordeal Classification
+
+| Field | Value |
+|---|---|
+| **Color** | GREY |
+| **Time** | Third Watch |
+| **Risk** | Major |
+| **Form** | GREY Third Watch (secondary) |
+
+## Formation
+
+An armed procession forged from the anger of the furnace district, marching out at last. The furnace district worked triple shifts through the cold season and was paid in promises that cooled faster than the slag. When the layoffs came, the anger of ten thousand quenchings walked out of the forge doors in step. It had been marching in place for years — every shift-change stomp, every hammer-fall in unison — and the Third Watch trumpet simply let it march out at last.
+
+## Appearance
+
+A column of weapon-fused heavy humanoids in lockstep, bristling with forged arms. They come in lockstep that shakes rivets loose three floors up, each humanoid bristling with half-forged arms still glowing at the tang. Breastplates are anvil-flat; pauldrons are quench-tanks; one Veteran (300 HP, two per spawn) carries a full rack of cooling blades across its back like a standard. The heat-haze around the column bends the corridor lights, and the War-Smog (320 HP) rolls ahead of it like weather.
+
+## Behavior
+
+They march through, and every weapon strikes at once in a rolling assault. The column does not stop, does not turn, does not negotiate: it marches through, and every fused weapon strikes at once in a rolling assault that travels the length of the line. Bone-Legions (380 HP, two to three per spawn) keep the step on the flanks, femur-blades rising and falling like pistons. Anything in the corridor takes the whole procession; anything that dodges the first rank meets the second, then the third.
+
+## Suppression Protocol
+
+A Forge March is broken rhythmically before it is broken physically. Grudge-element M.A.W. at Third Watch grade handles what the column sheds; the column itself is defeated by fouling its step, and responders who forget this and meet it frontally will be the reason the file requires a Tide Watch entry. Never meet the column head-on: the Blade Storm at Elite grade (410 HP, 35–55 per hit) rides above the march and mulches frontal assaults. Break the step instead — foul the floor, drop the lights, detune the rhythm — and engage the stragglers with Grudge-element M.A.W. as the column frays. Saw-Larvae (ten to fourteen per swarm) pour from the joints of stalled marchers; burn them before they bore into shield-lines.
+
+## Facility Impact
+
+A major-severity GREY encounter: widespread structural and personnel threat. Contain before the grudge pressure cascades. Widespread structural and personnel threat: the march buckles deck plating, shatters conduit, and recruits every ambient grievance along its route. Grudge pressure cascades behind the column like a wake; gauge teams must work the corridor the march has already left, bleeding Han before it re-ignites. One march crossed four zones before Containment Lead oversight arrived to break it.
+
+## R.D. Response Protocol
+
+Level 4+, Containment Lead oversight. Level 4+ with Containment Lead oversight mandatory; the Lead’s authority to order a corridor flood has ended two marches by quenching the column’s heat mid-step. Staging at junctions only — the march has overrun three linear deployments.
+
+## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
+
+> In addition to the primary GREY Third Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+
+### The Fury Hound (Monster, Elite-grade)
+
+**Physical Form:** Monster — A grey-skinned beast the size of a draft horse, lean and corded with visible muscle beneath hairless, taut flesh the colour of old ash. Dark red Han-veins pulse beneath the skin like exposed arteries. Its jaws are too wide — they unhinge to reveal rows of jagged teeth that are not bone but compressed resentment, dark and jagged. It does not bark.
+
+| Stat | Value |
+|---|---|
+| **HP** | 350/350 |
+| **Han Pressure [ATK]** | 25–45 per hit · Grudge |
+| **Spawn Count** | 2–3 |
+
+**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[25–45 Grudge DMG [Grudge]]**
+
+### The Bone-Legion (Non-Crystal, Elite-grade)
+
+**Physical Form:** Non-Crystal — A marching rank of soldiers assembled from wired-together human bones — ribcage-shields, femur-blades, skulls under the arm — lashed with dried muscle, moving in perfect grinding lockstep despite having no flesh left to fight for.
+
+| Stat | Value |
+|---|---|
+| **HP** | 380/380 |
+| **Han Pressure [ATK]** | 30–50 per hit · Grudge |
+| **Spawn Count** | 2–3 |
+
+**Ability:** They charge, and a wall of bone-and-old-rage breaks whatever line they hit. 
+
+### The Blade Storm (Non-Humanoid, Elite-grade)
+
+**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting.
+
+| Stat | Value |
+|---|---|
+| **HP** | 410/410 |
+| **Han Pressure [ATK]** | 35–55 per hit · Grudge |
+| **Spawn Count** | 2–3 |
+
+**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[35–55 Grudge DMG [Grudge]]**
+
+
+### The Veteran (Humanoid, Elite-grade)
+
+**Physical Form:** Humanoid — A massive humanoid of layered scar-plate and weapon-fused arms — a walking arsenal of old, unhealed war.
+
+| Stat | Value |
+|---|---|
+| **HP** | 300/300 |
+| **Han Pressure [ATK]** | 24–36 per hit · Grudge |
+| **Spawn Count** | 2 |
+
+**Ability:** It wades in, and every fused weapon strikes at once in one sweeping assault. **[24–36 Grudge DMG [Grudge]]**
+
+### The War-Smog (Amorphous, Elite-grade)
+
+**Physical Form:** Amorphous — A rolling smog of burnt powder and ground bone that chokes the lungs and abrades the skin.
+
+| Stat | Value |
+|---|---|
+| **HP** | 320/320 |
+| **Han Pressure [ATK]** | 22–34 per hit · Grudge |
+| **Spawn Count** | 1 |
+
+**Ability:** It blankets a hall, and the grit of a thousand old battles scourges everyone within. **[22–34 Grudge DMG [Grudge]]**
+
+### The Saw-Larvae (Swarm, Elite-grade)
+
+**Physical Form:** Swarm — Armoured grubs with spinning toothed mouths that bore through shield and bone alike.
+
+| Stat | Value |
+|---|---|
+| **HP** | 60/60 |
+| **Han Pressure [ATK]** | 10–16 per hit · Grudge |
+| **Spawn Count** | 10–14 |
+
+**Ability:** They bore, and the spinning teeth grind through whatever they reach. **[10–16 Grudge DMG [Grudge]]**
+
+
+## Trivia
+
+- A lesser-documented sibling encounter to the primary GREY Third Watch Ordeal; same color and severity, different manifestation.
+- Heaviest GREY Third Watch spawn is the Elite Blade Storm at 410 HP; the Saw-Larvae are lightest at 60 HP but spawn up to fourteen.
+- Filed as ORDEAL-GREY-Third-II; recovered forge-tally chits from the march’s path showed every marcher’s unpaid hours to the minute.
+
+## Document Information
+
+- **Document ID:** ORDEAL-GREY-Third-II
+- **Author:** R.D. Field Records
+- **Date:** Year 4238
+- **Classification:** Restricted

@@ -1,0 +1,427 @@
+# Labyrinth of Stolen Faces — 기억의 미로
+
+> *“It holds your past. Do not trust any of it.”*
+
+## SECC Classification
+
+| Field | Value |
+|---|---|
+| **Designation** | `C-IVγ-180 [VP]` |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on new forgotten memories entering the maze |
+| **Coherence** | Entity (IV) — Self-aware, labyrinthine, trapping |
+| **Potency** | Major (γ) |
+| **Sorrow Category** | City Sorrow (도한) |
+| **Element** | Void |
+| **Manifestation** | Place-Void |
+| **Physical Form** | Non-Organic — A shifting labyrinth whose walls are built from crystallized memories rather than stone — translucent, flickering with faces and half-scenes. The walls rearrange whenever a visitor remembers or forgets. Bloodless-cold, it smells of ash; there is no body — the maze is the entity. |
+| **Movement** | Stationary — a place or zone; spreads rather than moves. |
+| **Location** | SECTOR-B-02, beneath Old Lament |
+| **R.D. Comprehension Level** | 3 — Advanced |
+
+## Operational Parameters
+
+> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+
+| Statistic | Value |
+|---|---|
+| **Risk tier** | Major (γ) |
+| **Entity role** | Object/Place |
+| **Primary pressure** | Identity / memory pressure |
+| **Starting Sorrow Gauge** | 45–65% |
+| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Tool / M.A.W. grade** | — · — |
+| **Vessel-Destructible** | No — Place-manifestation |
+| **Han Dust Drop (Vessel Destruction)** | — |
+| **Recommended response** | On Labyrinth of Stolen Faces: maintain a memory anchor and limit exploration time. The valid Work Types carry the cycle; the condition decides it. |
+
+### Operational Notes
+
+- The passages beneath Old Lament do not close, and the survey of them has never twice produced the same plan.
+- Work stabilises a route for the length of a shift. The plan is not fixed by this, and no route has survived to a second session.
+- Viderehan and Ferrehan are the only approaches. There is nothing in here to weep with and nothing to confront — the walls are other people's lives and none of them answer.
+- No breach counter applies. Crews lay physical line from the entrance and recover it on exit; a route not on the line is not a route.
+- Extraction is authorized apart from the work cycle and is never attempted off the line.
+
+## Combat Record
+### Core Stat Line
+
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+
+| Stat | Value |
+|---|---|
+| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Resistance** | 40% against Void pressure; 30% against other pressure types |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
+| **Sorrow Gauge [HP]** | 683/683 |
+| **Han Pressure [ATK]** | 18–41 per hit · Void |
+| **Coherence modifier** | IV — affects behavior complexity and response speed |
+| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+
+
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+
+| Field | Value |
+|---|---|
+| **Battle Length** | Long — 20 turns |
+| **Threat Role** | Major encounter |
+| **Coherence** | Entity (IV) — Self-aware, labyrinthine, trapping |
+| **Primary Pressure** | Composure |
+| **Starting Sorrow Gauge** | 45–65% |
+| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **Valid Work Types** | Viderehan and Ferrehan only |
+| **Battlefield** | SECTOR-B-02, beneath Old Lament |
+| **Resolution Condition** | Maintain a memory anchor and limit exploration time |
+
+### Combat Actions
+
+| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
+|---|---|---|---|---|
+| { *The Wrong Turn* [**Debuff**] } | "The corridor shifts — and you are in a memory that is not yours, and the memory does not want you to leave." | [The Maze rearranges around the target; they are lost in someone else's past.] | *Target suffers a Void mark; their own memories are being overwritten.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Maze. |
+| { *The Dead End* [**Debuff**] } | "The path ends — at a wall made entirely of your earliest, most protected memory." | [The Maze confronts the target with their most guarded recollection.] | *Target loses clarity; the protected memory is exposed and vulnerable.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target reaches a dead end. |
+| { *The Shifting Wall* [**Attack**] } | "The wall moves — grinding, rearranging — and it pushes you into the memory behind it." | [The Maze's structure shifts, crushing the target into a stored recollection.] | *Inflicts Void damage; the pushed memory overwrites a portion of identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Maze is disturbed. |
+| { *The Center* [**Attack**] } | "The maze has a center — and at the center, every memory the maze ever collected waits." | [The Maze's core releases its full accumulated memory-mass.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Maze is solved or broken. |
+| { *Everyone Is Lost in Memory* [**Ultimate**] } | "The maze grows — until every person is inside it — and no one can find their own past anymore." | [The Maze expands to encompass the entire field.] | *All in range suffer Void erosion for three turns of being lost in memory.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+
+### Battle Phases
+
+1. **Tension:** Labyrinth of Stolen Faces is confirmed by the walls. Several structures are catalogued beneath Old Lament; this is the one whose walls are translucent, hold faces, and move when somebody remembers something. The team establishes its position and its withdrawal before the cycle opens.
+2. **Clash:** The work is navigation. Viderehan reads the memory architecture from a fixed position and holds the reading steady; Ferrehan requires the worker to keep moving without a map that stays true between corridors. The rule that governs both is that the route is taken from the written anchor and never from recollection.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Maintain a memory anchor and limit exploration time**.
+
+### Consequences
+
+- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
+- Time inside is capped for a reason, but the hazard is recall rather than duration. The walls rearrange on every act of remembering or forgetting, so a team that spends twenty minutes reminiscing has moved the maze further than a team that spends two hours walking it in silence.
+- The lens, the veil and the key are all made from lives that could not be placed. Each activation borrows a measure of that displacement and the operator keeps it. The recorded cost is not amnesia. It is that the operator's certainties and their guesses begin to feel identical from the inside.
+- An unresolved session leaves the maze larger and the team's anchors spent. Nothing transforms; the corridors simply hold the shape the last visitor's memory gave them, and the next team's written route no longer matches the ground.
+
+## Appearance
+**Physical Form:** A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget.
+
+**Notable Features:** It contains borrowed lives, creates loops, and rearranges its exits according to the visitor's identity.
+
+**Identification Profile**
+
+- **Entity Type:** Object/Place
+- **Manifestation:** Place-Void
+- **Primary marker:** A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget.
+- **Position / movement:** The entrance is fixed beneath Old Lament; everything past it is not. Record the anchor point, the depth reached in corridor counts rather than metres, and the number of rearrangements observed. A corridor that has not changed during a session is to be reported, because it is unusual.
+- **Element signature:** Void
+- **Registered location:** SECTOR-B-02, beneath Old Lament
+
+### Detailed Appearance Profile
+
+| Field | Detail |
+|---|---|
+| **Form** | A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget. |
+| **Position / movement** | Stationary — a place or zone; spreads rather than moves. Recorded at every Labyrinth of Stolen Faces cycle against the previous reading. |
+| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Distinctive markers** | Identify it by the walls. Several structures are catalogued beneath Old Lament; this is the one whose walls are translucent, hold faces, and move when somebody remembers something. Confirm it against the designation before contact; the registry holds more than one record of this form. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins; the undercroft holds more than one record that stores memory, and this is the one that must never be navigated from recall. |
+
+**Appearance protocol:** Record the walls as contents, not as surfaces. They are translucent, they flicker with faces and half-scenes, and the scenes are not the visitor's unless the visitor supplies them. Note any face recognised by anyone present, note who recognised it, and do not ask them to describe it further inside the structure.
+
+## Origin
+- **Formation:** The Maze formed from confusion between memory, dream, and reality.
+- **The Sorrow:** The fear of not knowing which parts of one's history are true.
+- **The Event:** Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place.
+- **The People:** Nobody identifiable. The lives stored here cannot be matched to any roll the Keepers hold, and the archive's position is that this is the entity's content rather than a gap in the research — a maze of people no record claims. The faces are catalogued by count and not by name.
+- **Expanded origin context:** The entity exists in a space between memory and forgetting — not quite present, not quite absent. Personnel who encounter it report feeling a strange nostalgia, as if they have known the entity in another life, another time. The R.D. has classified this effect as "Sorrow Resonance" — the entity's sorrow resonates with the viewer's own hidden grief. Containment procedures require personnel to rotate every 72 hours. Extended exposure causes vivid dreams — dreams of lives never lived, of losses never mourned. The dreams fade.
+
+## Behavior
+
+> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+
+| Work Type | Response | Gauge Change |
+|---|---|---|
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Viderehan** | Reveals the memory architecture. | Stable |
+| **Ferrehan** | Tests whether the worker can continue without a stable map. | Decrease |
+
+
+### Operational Work Notes
+
+Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Labyrinth of Stolen Faces is recorded as an Object/Place with Place-Void manifestation and Void elemental expression. The current record places it at SECTOR-B-02, beneath Old Lament; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+
+**Reading the response:** A falling reading under Ferrehan means the team kept moving on the written route while the geometry changed around them. Stability under Viderehan is correct. The reading rises whenever somebody navigates by recollection — and it rises identically whether the recollection was accurate or false, which is the finding personnel find hardest to accept.
+## Expansion Behavior
+
+| Field | Detail |
+|---|---|
+| **Expansion Trigger** | New forgotten memories entering the Maze. |
+| **Expansion Rate** | Constant internal rearrangement. |
+| **Expansion Effect** | Visitors lose identity and confuse borrowed lives with their own. |
+| **Containment** | Maintain a memory anchor and limit exploration time. |
+
+
+
+### Escalation Notes
+
+The escalation pattern is specific to Labyrinth of Stolen Faces: it is not a generic containment event. Personnel must record the first trigger, the first visible change in the Place-Void form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Void and located at SECTOR-B-02, beneath Old Lament, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+
+**Response sequence:** hold the entrance, confirm the event is an expansion rather than an activation, account for every person inside by anchor card rather than by name — the cards are numbered and the names are not reliable at depth — and apply this condition: Maintain a memory anchor and limit exploration time. Do not use an unlisted Work Type as an improvised countermeasure.
+
+
+### Detailed Activation Record
+
+| Activation field | R.D. operational detail |
+|---|---|
+| **Trigger** | New forgotten memories entering the Maze. |
+| **Manifestation** | Place-Void|
+| **Primary effect** | Visitors lose identity and confuse borrowed lives with their own. |
+| **Duration / rate** | Constant internal rearrangement. |
+| **Risk** | Major (γ) Object/Place producing Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Management** | Maintain a memory anchor and limit exploration time. |
+
+**Activation reporting order:** corridor count at the deepest point → rearrangements observed and what preceded each → every memory spoken aloud inside → anchors spent → the reading. The third field is the cause and is to be recorded verbatim; paraphrase has been shown to lose the trigger.
+## M.A.W. Equipment
+
+> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+
+### M.A.W. Weapon — The Maze Lens
+
+**Type:** Weapon | **Grade:** γ | **Element:** Void
+
+**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that flickers with inner light.
+
+**Damage:** Void 7–12
+**Speed:** 3 (Fast)
+**Range:** 3 (Medium)
+**Max Amount:** 3
+**Cost:** 40 Sorrow Echoes
+
+**Attack Pattern:** Skewer
+**Target Coverage:** A line of up to three. The lens carries down a corridor, which is the only direction anything travels in here.
+**Falloff Rule:** Full on the first, seventy per cent on the second, fifty on the third. What thins is specificity: the third target loses a general impression rather than a particular thing.
+**Damage Application:** Record the strike and the loss separately. The Void lands once; what goes missing is noticed hours later, usually by somebody else, and the delay is why the usage log requires a countersignature at end of shift.
+
+**Ability:** Void damage to the soul — to identity and memory rather than the body. The lens carries the maze's own confusion and what it opens in a target is doubt about which of their recollections they were present for.
+
+**Cost:** The wielder loses small nameless memories with each use and cannot report the loss, since what is gone leaves no outline.
+
+### M.A.W. Suit — The Maze Veil
+
+**Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
+
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+
+**Resistances:**
+- Lament: 1.2 (Weak)
+- Grudge: 0.8 (Warded)
+- Void: 0.3 (Resistant)
+- Weight: 1.1 (Weak)
+**Max Amount:** 3
+**Cost:** 35 Sorrow Echoes
+
+**Ability:** Turns Void aside from the soul, which is the only pressure here. The veil is what allows a worker to stand in a corridor made of someone else's life and remain certain of their own.
+
+**Cost:** The wearer feels faintly absent to themselves, and reports it most often as their own history sounding like something they were told.
+
+### M.A.W. Stigma — The Maze Key
+
+**Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
+
+**Appearance:** a key-charm of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
+
+**Slot:** Head
+**Acquisition Probability:** 4%
+**Effect:** +2 to work against the Labyrinth itself, and nothing in the rest of the Old Lament undercroft.
+
+**Ability:** Always points toward the wearer's own memories.
+
+**Cost:** It cannot distinguish a painful memory from a safe exit.
+
+*The key is not manufactured. The maze gives one to a worker who reached the anchor point by following the written route past a corridor they recognised, and has given none to a worker who followed a recognition.*
+
+### M.A.W. Use Notes
+
+A piece cut from Labyrinth of Stolen Faces is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small nameless memories with each use and cannot report the loss, since what is gone leaves no outline, and it is paid whether the use was correct or not.
+
+### Field Use Record
+
+| Stage | Required record |
+|---|---|
+| **Before use** | Wielder, piece, gauge, and one pre-check, Labyrinth of Stolen Faces's toll being that the wielder loses small nameless memories with each use and cannot report the loss, since what is gone leaves no outline. |
+| **During use** | Every occurrence of what Labyrinth of Stolen Faces takes (the wielder loses small nameless memories with each use and cannot report the loss, since what is gone leaves no outline), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | The wearer feels faintly absent to themselves, and reports it most often as their own history sounding like something they were told, and the wielder has stopped reporting it — the usual end point for a Labyrinth of Stolen Faces piece. The observer calls the limit. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Labyrinth of Stolen Faces's cost is still showing — the wearer feels faintly absent to themselves, and reports it most often as their own history sounding like something they were told. |
+
+**Stat interpretation:** The grades describe extraction stability rather than human safety, and the gap is wide here. What the table cannot show is that the key's bearers navigate the facility itself by written notes afterwards — corridors they have walked for years — and that none of them has been able to say when they stopped trusting the route.
+## 관찰 기록 (Observation Log)
+
+**R.D. Comprehension Level:** 3 — Advanced
+
+- Walls are made from memories rather than stone.
+- No two routes remain identical.
+- The Maze contains lives absent from the Archive.
+
+**Personnel Note:** *"It was quiet. I felt sorrow. The Maze showed me a hundred lives, and when I left I could not tell which memories were mine."* — Researcher, R.D.
+
+
+
+### Observation Progression
+
+| Observation stage | R.D. record |
+|---|---|
+| **Initial exposure** | The observer identifies Labyrinth of Stolen Faces as an Object/Place with Place-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-B-02, beneath Old Lament. |
+| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Activation or escalation** | New forgotten memories entering the Maze. Everything else in this row is secondary to getting that one fact written down accurately. |
+| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Labyrinth of Stolen Faces's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+
+**Observation method:** Record the first sign, which is ash-smell at the entrance; the first sensation, which is recognition of a corridor you have not walked; the corridor count at entry, turnaround and exit; every memory spoken inside; and the condition that ends the encounter, which is the team returning to the anchor point on the written route within the time limit. Record the time limit and whether it was kept.
+## 이야기 보고 (Story Log) — Observation Entries
+
+> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
+
+**Entry 1 — Containment Description**
+Labyrinth of Stolen Faces (C-IVγ-180 [VP]) is logged as a Place-Void manifestation expressing Void. The Maze formed from confusion between memory, dream, and reality. Held at SECTOR-B-02, beneath Old Lament. Walls are made from memories rather than stone.
+
+**Entry 2 — <Survey Attempt: Why There Is No Map>**
+Three survey teams, three methods. Chalk marks: found intact and in the wrong order on the return leg. Measured line paid out from the entrance: recovered in full, two hundred and forty metres, having passed through eleven corridors on the way in and four on the way out. Sequential photography: the images disagree with each other and each is internally consistent. The surveys are kept because they establish the one usable fact — the entrance does not move, and everything is reported as a count of corridors from it.
+
+**Entry 3 — <Statement of a Worker Who Recognised a Corridor>**
+"It was the hallway outside my grandmother's rooms, down to the chip out of the skirting. I know that hallway. I also know it was demolished before I was posted here, so there is no version of this where the maze is showing me something it could have got from the building. I stayed on the card. Seventeen corridors in, left, left, back. The whole way out I was aware that if I had turned where I wanted to turn I would have been going somewhere real, and that is the part I would like the next person to be warned about. It is not trying to trick you. It is offering you something accurate."
+
+**Entry 4 — <Containment Notice>**
+Work response — Viderehan: Reveals the memory architecture. (Stable); Ferrehan: Tests whether the worker can continue without a stable map. (Decrease). The Maze contains lives absent from the Archive.
+
+**Entry 5 — <Archive Note>**
+The walls are memory rather than stone, and they move when the person inside them does — not when they walk, but when they remember, or fail to. That makes a map of the labyrinth meaningless and makes the mapper the variable. Entry is one worker at a time with a line attached, and the line is the only part of the procedure nobody has proposed revising. Three surveys exist. No two of them describe the same building.
+
+## 최종 관찰 (Final Observation)
+
+> A choice presented to the observing worker at the climax of contact. One path reveals Labyrinth of Stolen Faces; the other feeds it.
+
+| Maintain a memory anchor and limit exploration time. | Substitute your own judgement, which on Labyrinth of Stolen Faces has never yet cost less than the condition. |
+|---|---|
+| Tests whether the worker can continue without a stable map. The sorrow is seen clearly; Labyrinth of Stolen Faces is fully recorded. | Reveals the memory architecture. The gauge climbs and Labyrinth of Stolen Faces withdraws without revelation. |
+| **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
+
+## 감각 묘사 (Flavor Text)
+
+The walls move like water. A face appears in one surface, a battlefield in another, a child's room in the next. You walk through other people's lives until your own name sounds borrowed. The Maze does not want to trap the body. It wants to make the question of escape impossible.
+
+
+
+**At first contact:** The first identifiable detail is Physical Form: A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget. Notable Features: It contains borrowed lives, creates loops, and rearranges its exits according to the visitor's identity. Identification Profile: The record. The surrounding space does not become generic or abstract; it changes in the specific way associated with Void and the entity's Place-Void form.
+
+**With continued exposure:** Prolonged exposure turns the containment zone into a landscape. The Void has topography here — ridges of pressure, valleys of absence, a geography only the Place-Void could have made.
+
+**When the entity activates:** The Gauge crosses the line and the Place-Void remembers what it is. The Void surges — not as an attack but as a statement, a declaration that this sorrow will not be quieted.
+
+**After departure:** You leave, but the Void follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+
+### Interaction Pattern
+
+Labyrinth of Stolen Faces does not exist in isolation. Its recorded relationships with The Memory Weaver, The Memory Lake, The Forgotten Name should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+
+**Interaction method:** Baseline it from the fixed entrance only, since any interior baseline describes a configuration that no longer exists. In shared conditions record whether the wall contents changed character, whether any face appeared twice, and whether the corridor count to the anchor altered while the other entity was present.
+
+
+### Entity Interaction Record
+
+The Labyrinth is filed with the undercroft records beneath Old Lament, several of which concern memory that has come loose from a person. The relationships below are what the archive will support. They are not alliances; they are what collected under one district, and in proximity each makes the others' contents harder to attribute.
+
+| Related entity | Canonical interaction | Observed operational effect | Required record |
+|---|---|---|---|
+| **The Memory Weaver** | The Weaver trades memories for routes. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Memory Lake** | The Lake supplies memories to the lower walls. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Forgotten Name** | Names fade most quickly inside the Maze. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+
+**Interaction procedure:** Entrance baseline first, then the shared encounter: corridor count to the anchor before and after, rearrangements per hour, how long the altered rate persisted once the other entity withdrew, and the number of memories spoken aloud by personnel. Without the last figure the series is not comparable.
+
+## 이야기 (Narratio) — The Tale
+
+Beneath Old Lament, the lost memories gathered, and the gathering became a labyrinth, and the labyrinth cannot tell you which of your past is true.
+
+Memories fall in Somnarak — the way everything falls, down through the foundations, into the dark beneath. Most sink to the Weeping and are carried away. But some, the ones too tangled or too uncertain to dissolve, sink only as far as Old Lament, the oldest district, whose foundations are deep and whose ground is thick with the residue of centuries. There the lost memories collected — not destroyed, not carried off, simply piled, one on another, a stratum of unlodged remembrance beneath the oldest streets.
+
+The memories did not stay separate. In the dark, without the owners who would have kept them distinct, they merged — memory joining memory the way roots join in soil, until the accumulation was no longer a pile but a structure: a labyrinth, Place-Void, grown from the entangled remembrance of every life whose memories sank and never surfaced. Labyrinth of Stolen Faces.
+
+The Maze is not empty. It is full — full of lives, full of pasts, full of the small specific memories that make a person a person. But the memories are tangled. They have merged and crossed and knotted over centuries, and the Maze cannot sort them, and so it offers them up jumbled: a visitor's own memories returned mixed with a stranger's, a real past tangled with a dreamed one, a thing that happened welded to a thing that only might have.
+
+This is the sorrow and the terror at the heart of the Labyrinth of Stolen Faces: the fear of not knowing which parts of your history are true. The Maze does not lie. It cannot — it holds only what sank into it, and what sank was, originally, real. But the real has become indistinguishable from the adjacent, the certain from the possible, the remembered from the merely imagined. A citizen who enters the Maze seeking a lost memory may find it — or may find a memory so similar they cannot tell if it is theirs, or their grandmother's, or a stranger's, or a dream someone had once and let fall.
+
+Labyrinth of Stolen Faces stores the lives no one can place. It does not harm. It confuses — and the confusion is its sorrow, the grief of a history that has become unverifiable, a past that cannot be trusted, a self built on memories that may, in the Maze's tangle, belong to someone else entirely.
+
+Some sorrows mourn forgetting. Labyrinth of Stolen Faces mourns the opposite — remembering too much, and too mixed, the lost memories of a thousand lives tangled beneath the oldest district into a labyrinth where no one, not even the Maze itself, can say which thread of the past is yours, and which is a stranger's, and which was only ever a dream.
+## 증언 (Testimonium) — The Testimony
+
+> *“I entered seeking a lost memory. I found a stranger’s instead. I could not tell whose was whose.”* — Citizen, Old Lament
+
+> *“The memories are tangled. They have merged. The Maze cannot sort them.”* — Researcher, R.D.
+
+> *“A labyrinth of lives no one can place.”* — Keeper, Archive
+
+> *“The fear of not knowing which parts of your history are true — that is the Maze.”* — Containment Lead, R.D.
+
+> *“Your past, your grandmother’s past, a stranger’s dream — all tangled, all indistinguishable.”* — Archive Lead
+## 기록 (Registrum) — The Record
+
+**Classification:** Sorrow Entity — `C-IVγ-180` · City origin · Entity (IV) coherence · Major (γ) potency · Void · Place-Void manifestation
+**Common Name:** Labyrinth of Stolen Faces
+**Containment Status:** Contained — beneath Old Lament
+**Comprehension Level:** 3 — Advanced
+**Threat Assessment:** Moderate. The Maze tangles memories, making history unverifiable. Effect: visitors cannot distinguish their memories from others’.
+**Containment & Handling Procedures:**
+- Viderehan is the only valid Work Type.
+- Do not enter seeking specific memories; the Maze will confuse them.
+**Observation Notes:**
+- Formed from tangled, unclaimed memories beneath Old Lament.
+- The memories have merged; none can be sorted.
+**Cross-References:** Old Lament · The Memory Well · The Memory Lake · The Archive
+**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
+**Originator:** Collective; every life whose memories tangled beneath the city.
+
+### Registry Addendum
+
+**Operational interpretation:** Read this as a structure that is written by its visitors rather than as a hostile place. Every figure here follows from what personnel remembered out loud. The percentage is the whole mechanism; there is no counter to exhaust, and an unentered maze does not change shape.
+
+**Review requirement:** Re-verify after any Sorrow Tide, after any session that overran its time limit, and after any worker reports recognising a face — the last unconditionally, with that worker stood down from interior rotation pending review, which is a precaution and is not to be recorded as a finding against them.
+## Apex Record
+
+### Walls That Read the Visitor
+
+The Labyrinth rearranges its exits according to the visitor's identity, which makes every survey a survey of one person's passage and not of the structure. No map of it has ever been valid for a second walker. The wing abandoned mapping early and replaced it with the tether discipline: every entrant is physically lined to a fixed anchor outside the zone, the line is paid out by a named handler who does not enter, and the entrant's return is accomplished by the line rather than by navigation. Viderehan observation is conducted from the tether, not from exploration, and the depth limit is set by line length rather than by judgment. Handlers hold absolute authority to recover an entrant at any time and are not required to justify it afterward, a provision the wing adopted after a recovery that was argued about on the line and then made four minutes late.
+
+### Borrowed Lives
+
+Its walls contain borrowed lives, and the entrant's hazard is not disorientation but adoption. People who walk it at depth report recollections that are vivid, coherent, and not theirs — a childhood in a district they have never visited, a trade they have never practised, a grief for someone who did not exist in their life. The recollections do not feel intrusive. Debriefing accordingly follows the comparison protocol rather than the interview protocol: the returning entrant's account is read against their service and civil record by a counselor who has not been in the zone, and divergences are recorded as findings rather than errors. Entrants are told their findings in full. The wing holds that a person who has been handed somebody else's life is entitled to know which parts of what they now remember the record cannot account for.
+
+### The Loops
+
+It creates loops, and the loops are the holding's measurable hazard rather than its atmospheric one. An entrant in a loop walks a route that returns them to a point they have already passed without any subjective experience of having turned, and the tether is what detects this: the handler reads slack where line should be paying out. Loop detection is therefore a handler's task performed outside the zone on a physical instrument, and the handler's call is final. Entrants in a confirmed loop are recovered immediately, regardless of their own reports, because an entrant inside a loop is by definition not receiving accurate information about their own movement.
+
+### Beneath Old Lament
+
+The Maze gathered beneath Old Lament from lost memories that no one could place, and its position under that district governs the holding's civil relationship. Surface subsidence surveys in the streets above are run jointly with the municipal office, and the readings are shared in both directions — the wing tells the district what it is standing on, and the district tells the wing what its residents are reporting. The arrangement is unusual and was resisted internally when first proposed. It has since caught two expansion events before the wing's own instruments did, both times because residents above reported the specific complaint that the district has learned to recognize and that no gauge measures: a sense, in a familiar street, of not being certain it is the right one.
+
+### The Handlers
+
+Handler is a posting rather than a duty on this file, and handlers are trained separately from entrants and rotated on a different cycle. They do not enter the zone, ever, including during recovery operations — a recovery is performed by hauling, and if hauling fails the handler summons a second handler rather than going in. The rule has been tested once, by a handler who went in, and both of them came out, and the handler was removed from the posting permanently and without prejudice. The file records the removal as a procedural necessity rather than a disciplinary finding, and notes that the handler's judgement was sound and that soundness is not what the posting requires. What it requires is somebody outside who cannot be persuaded, by anything happening on the line, to stop being outside.
+
+Line length is set at the start of each cycle by a joint determination between the handler chief and the counselors, and the figure has been shortened three times and lengthened never. Each shortening followed a debrief rather than an incident. The handlers' position, recorded in the file and reaffirmed at every review, is that the correct depth is the one from which the last entrant returned describing the walk rather than the life, and that every revision has moved toward that standard rather than away from it.
+
+## Trivia
+
+- The Maze changes when a visitor lies about recognizing a memory.
+- Its deepest room has no walls, only a single forgotten name.
+
+
+
+### Registry Trivia
+
+- **Classification detail:** Labyrinth of Stolen Faces is an Object/Place with Entity (IV) — Self-aware, labyrinthine, trapping coherence and Major (γ) potency.
+- **Field detail:** Its defining element is Void, and its registered location is SECTOR-B-02, beneath Old Lament.
+- **Recognition detail:** Identify it by the walls. Several structures are catalogued beneath Old Lament; this is the one whose walls are translucent, hold faces, and move when somebody remembers something.
+- **Record detail:** Check the designation before entry. More than one undercroft record stores memory, and they differ on the decisive point — this one must be navigated from paper, not from recall.
+- **Containment detail:** The entity does not need to breach to be dangerous. It rearranges whenever anybody inside remembers anything, including personnel who entered to check the seals, and the containment reading is the corridor count to the anchor rather than the state of the entrance.
+## Document Information
+
+**Document ID:** SE-C-IVγ-180
+**Author:** Dreamer Sora
+**Date:** Year 4238
+**Classification:** Classified

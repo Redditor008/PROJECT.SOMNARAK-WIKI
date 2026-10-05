@@ -191,22 +191,22 @@
 | 18 | `01_Somnarak_Wiki/lore/the-three-sorrows.html` | The Three Sorrows (Sorrow, Grieving, Lament) — Somnarak Official Wiki | 384.1 KB | 4597 | 35686 | **83.3%** |
 | 19 | `01_Somnarak_Wiki/lore/the-weeping-river.html` | The Weeping River &amp; Abyssal Hydrology — Somnarak Official Wiki | 41.6 KB | 487 | 4250 | **83.3%** |
 
-### Category: `/maw/` — M.A.W. Equipment Armory (Weapons, Suits, Gifts) (39 files)
+### Category: `/maw/` — M.A.W. Equipment Armory (Weapons, Suits, Stigmas) (39 files)
 | # | File Path | Document Title | Size | Lines | Words | Completion % |
 | :-: | :--- | :--- | :-: | :-: | :-: | :-: |
 | 1 | `01_Somnarak_Wiki/maw/index.html` | M.A.W. Equipment Arsenal - Somnarak Official Wiki | 21.9 KB | 198 | 1269 | **100.0%** |
 | 2 | `01_Somnarak_Wiki/maw/maw-crafting-and-extraction.html` | M.A.W. Extraction, Han Crystallization &amp; Forging Systems — Somnarak Official Wiki | 8.5 KB | 208 | 597 | **83.3%** |
 | 3 | `01_Somnarak_Wiki/maw/maw-g-001-01-laments-edge.html` | Lament’s Edge — Somnarak Wiki | 13.6 KB | 124 | 951 | **83.3%** |
 | 4 | `01_Somnarak_Wiki/maw/maw-g-002-01-the-mourning-shell.html` | The Mourning Shell — Somnarak Wiki | 13.6 KB | 124 | 918 | **83.3%** |
-| 5 | `01_Somnarak_Wiki/maw/maw-g-004-01-corrosion-visor.html` | M.A.W. Gift: Corrosion Visor - Somnarak Official Wiki | 6.8 KB | 139 | 441 | **100.0%** |
+| 5 | `01_Somnarak_Wiki/maw/maw-g-004-01-corrosion-visor.html` | M.A.W. Stigma: Corrosion Visor - Somnarak Official Wiki | 6.8 KB | 139 | 441 | **100.0%** |
 | 6 | `01_Somnarak_Wiki/maw/maw-g-005-01-the-embrace.html` | The Embrace — Somnarak Wiki | 13.4 KB | 124 | 907 | **83.3%** |
-| 7 | `01_Somnarak_Wiki/maw/maw-g-006-01-effluent-gland.html` | M.A.W. Gift: Effluent Gland - Somnarak Official Wiki | 6.8 KB | 139 | 441 | **100.0%** |
+| 7 | `01_Somnarak_Wiki/maw/maw-g-006-01-effluent-gland.html` | M.A.W. Stigma: Effluent Gland - Somnarak Official Wiki | 6.8 KB | 139 | 441 | **100.0%** |
 | 8 | `01_Somnarak_Wiki/maw/maw-g-007-01-the-hope-lantern.html` | The Hope Lantern — Somnarak Wiki | 13.3 KB | 124 | 907 | **83.3%** |
-| 9 | `01_Somnarak_Wiki/maw/maw-g-008-01-spike-crown.html` | M.A.W. Gift: Spike Crown - Somnarak Official Wiki | 6.8 KB | 139 | 441 | **100.0%** |
+| 9 | `01_Somnarak_Wiki/maw/maw-g-008-01-spike-crown.html` | M.A.W. Stigma: Spike Crown - Somnarak Official Wiki | 6.8 KB | 139 | 441 | **100.0%** |
 | 10 | `01_Somnarak_Wiki/maw/maw-g-009-01-the-forgotten-mask.html` | The Forgotten Mask — Somnarak Wiki | 13.5 KB | 124 | 906 | **83.3%** |
 | 11 | `01_Somnarak_Wiki/maw/maw-g-010-01-the-absolute-verdict.html` | The Absolute Verdict — Somnarak Wiki | 13.5 KB | 124 | 881 | **83.3%** |
 | 12 | `01_Somnarak_Wiki/maw/maw-g-011-01-the-listening-stone.html` | The Listening Stone — Somnarak Wiki | 13.5 KB | 124 | 895 | **83.3%** |
-| 13 | `01_Somnarak_Wiki/maw/maw-g-014-01-the-debt-scale-gift.html` | The Debt Scale — Somnarak Wiki | 13.2 KB | 124 | 880 | **83.3%** |
+| 13 | `01_Somnarak_Wiki/maw/maw-g-014-01-the-debt-scale-stigma.html` | The Debt Scale — Somnarak Wiki | 13.2 KB | 124 | 880 | **83.3%** |
 | 14 | `01_Somnarak_Wiki/maw/maw-g-015-01-the-balance-pendant.html` | The Balance Pendant — Somnarak Wiki | 13.3 KB | 124 | 874 | **83.3%** |
 | 15 | `01_Somnarak_Wiki/maw/maw-s-001-01-the-laments-shroud.html` | The Lament’s Shroud — Somnarak Wiki | 13.7 KB | 124 | 944 | **83.3%** |
 | 16 | `01_Somnarak_Wiki/maw/maw-s-002-01-the-mourning-mantle.html` | The Mourning Mantle — Somnarak Wiki | 13.5 KB | 124 | 903 | **83.3%** |
@@ -253,7 +253,7 @@
 | 14 | `01_Somnarak_Wiki/mechanics/secc-classification-system.html` | SECC Classification System (AETHER to APOCRYPHA) — Somnarak Official Wiki | 383.5 KB | 4588 | 35653 | **83.3%** |
 | 15 | `01_Somnarak_Wiki/mechanics/taboo-resonance-mechanics.html` | Taboo Resonance &amp; Soul Calcification — Somnarak Official Wiki | 39.3 KB | 370 | 4268 | **83.3%** |
 | 16 | `01_Somnarak_Wiki/mechanics/the-four-ordeals.html` | The Four Ordeals of Facility 01 - Somnarak Official Wiki | 7.1 KB | 150 | 539 | **83.3%** |
-| 17 | `01_Somnarak_Wiki/mechanics/the-four-work-types.html` | The Four Work Types (Insight, Attachment, Repression, Extraction) — Somnarak Official Wiki | 149.4 KB | 1885 | 12764 | **83.3%** |
+| 17 | `01_Somnarak_Wiki/mechanics/the-four-work-types.html` | The Four Work Types (Viderehan, Ferrehan, Flerehan, Pugnahan) — Somnarak Official Wiki | 149.4 KB | 1885 | 12764 | **83.3%** |
 
 ### Category: `/project/` — Directorate Master Directives (2 files)
 | # | File Path | Document Title | Size | Lines | Words | Completion % |
