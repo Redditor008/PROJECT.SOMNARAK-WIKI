@@ -217,20 +217,20 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 
 **Cost:** The bearer dreams, nightly, of being two things at once — and wakes uncertain, for a moment, which one they are.
 
-*Stigmas are granted at random by Stormscale Sovereign upon a successful work, not manufactured.*
+*The Eye was harvested with the other two pieces and was not granted by the Sovereign. No work has ever been done on it, so no second Stigma can be drawn.*
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of The Stormscale Sovereign and carries what The Stormscale Sovereign carries: the wielder is, for days afterward, unsettled in their own element — never quite one mood, cycling through all of them without rest. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+The three pieces are the only physical thing the Archive holds of a creature it has never worked. They were harvested from the residue of the one transformation on record, and no extraction is authorised against the Sovereign itself, so there are no more of them to be had and no way to replace one that is lost. That is why the set is issued one rotation at a time, and why the wielder is also the measurement: the Fang's week of turning moods and the Mantle's split mind are the nearest the Archive can come to reading the Tide on a living person, and every reading is taken from the person who is paying for it. The grade says how stable the extraction was. It says nothing about the one who carries the piece.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against The Stormscale Sovereign's known toll: the wielder is, for days afterward, unsettled in their own element — never quite one mood, cycling through all of them without rest. Opened at the end of the rotation, not before. |
-| **During use** | Every occurrence of what The Stormscale Sovereign takes (the wielder is, for days afterward, unsettled in their own element — never quite one mood, cycling through all of them without rest), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | The Stormscale Sovereign's cost is continuous rather than occasional: the wearer feels split — of two minds about everything, never wholly one thing, the way the Sovereign is never wholly one element. The second worker's call stands against the wielder's. |
-| **After use** | Return, reconcile the baseline, and record whether The Stormscale Sovereign's toll has reversed: the wearer feels split — of two minds about everything, never wholly one thing, the way the Sovereign is never wholly one element. Where it has not, the piece is not reissued to that wielder. |
+| **Before use** | Wielder, piece and gauge at issue, and a sealed note in the wielder's own hand naming the one mood they would call their own, so that drift can be read against something. Opened at the end of the rotation, not before. |
+| **During use** | Each time the second worker sees the wielder's mood turn over, with the time it happened. One turn is a note. A run of them inside a single shift ends the use, whatever the wielder says about how they feel. |
+| **At limit** | The Mantle's cost does not arrive in bursts, so there is never a single moment to call. The limit is the second worker's judgement that the wearer is answering from both halves at once, and that call stands over the wearer's own. |
+| **After use** | The piece goes back with the set and the sealed note is opened beside the wielder's account of the week just passed. A drift that has not closed ends that wielder's issues; the piece is reissued to someone else. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Fourfold Fang strikes with devastating evenness yet can leave the wielder cycling through every sorrow for a week, unable to settle on one.
 
