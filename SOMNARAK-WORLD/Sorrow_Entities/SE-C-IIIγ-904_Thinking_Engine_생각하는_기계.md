@@ -256,7 +256,7 @@ Each Engine piece is an extension of this entity rather than ordinary equipment.
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective, dial diagram signed off, tray count, and the name of the second worker who will hold the paired account. |
+| **Before use** | Operator, second worker, the tray confirmed covered, and the seal number of the last sheet collected. |
 | **During use** | Activation time, dial positions at each turn, lens bearing, adjacent gauge readings, first cost paid, and any divergence between the two paired accounts. |
 | **At limit** | The operator states a conclusion they have no evidence for and is right. The second worker records it; the engine is not consulted afterwards to check, which is a rule and is sometimes hard to keep. |
 | **After use** | Channel closed in order, injuries, lingering effects, cooldown, tray counted and sealed, dial series filed unsummarised, reuse authorisation. |
@@ -266,7 +266,7 @@ Each Engine piece is an extension of this entity rather than ordinary equipment.
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Lament signature confirmed at SECTOR-C-904; dial series logged continuously since the holding opened and never once interpretable.
+- The engine has run without interruption since the chamber was opened; the dial series is continuous and has no gaps, including through two power failures.
 - Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being an Object.
 - Contact runs through the mind register and through nothing else; no body telemetry has ever registered an event here.
 
@@ -278,15 +278,15 @@ Each Engine piece is an extension of this entity rather than ordinary equipment.
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Thinking Engine (C-IIIγ-904 [LO]) is logged as a Object-Mind manifestation expressing Lament. Held at SECTOR-C-904.
+**Entry 1 — Containment Description** A working mechanism in the Forge District, running, with an output tray that fills. Nobody installed it and nobody can say what it is computing.
 
-**Entry 2 — Field Log** First contact report: the mind register was immediately apparent. Personnel described it as a mind pressure unlike standard lament.
+**Entry 2 — Field Log** The first sheet was read before anybody thought to make a rule about it. It concerned a shift supervisor, by name, and was accurate, and the supervisor was told by somebody who had meant to be kind.
 
-**Entry 3 — Counseling Log** The lament pressure accumulates in the mind register — this is not standard lament; this is lament filtered through mind.
+**Entry 3 — Counseling Log** The load is on the readers rather than on the subjects: forty-one people have opened a sheet and nineteen of them have asked afterwards to be moved off the holding. Counselling's note is that an accurate unrequested finding about a colleague is a thing you cannot give back.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The mind register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** Tray covered, sheets collected face-down, sealed at the door, and nothing acted upon. The notice adds that the prohibition covers informal action and conversation as well as written use.
 
-**Entry 5 — Director's Note** This entity's classification as Object-Mind is correct. The mind descriptor is not decorative — it is the operational axis. All containment protocols should account for the mind register as the primary channel.
+**Entry 5 — Director's Note** Two sentences: *It is right more often than we are. That is the reason for the rule and not an argument against it.*
 
 ## 최종 관찰 (Final Observation)
 
@@ -342,7 +342,7 @@ Now it sits in a containment cell on Floor 4, covered in dials that turn on thei
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are the valid Work Types and both lower the gauge; Viderehan is preferred because it makes the output legible, which is also the argument against it.
 - Flerehan and Pugnahan are unavailable to an Object and are not to be attempted as improvisation.
-- Monitor the mind register specifically: paired accounts, divergence between them, and conclusions stated without working.
+- Keep paired accounts of every cycle, log the divergence between them, and record any conclusion an operator states without evidence — with whether it later proved correct.
 
 **Cross-References:** City Sorrow (도한) · Lament · Object-Mind · Seol's notes · the prediction register · the establishment return
 

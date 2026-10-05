@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 86 / 303 dossiers free of template residue.**
+**Counter: 92 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -228,11 +228,34 @@ dossiers                      303
 shared 8-grams (>= 10 files)  3771   (prose only; R-23 furniture excluded)
 median generic fraction       0.052
 worst                         0.195
-clean at <= 0.05              146 / 303   (file level; section-clean is 65)
+clean at <= 0.05              148 / 303   (file level; section-clean is 71)
 ```
 
-**Counter: 65 / 303 dossiers section-clean (`R-27`) — every description-bearing section at or
-under 0.05. Secondary: 146 / 303 file-clean on the whole-file fraction.**
+**Counter: 71 / 303 dossiers section-clean (`R-27`) — every description-bearing section at or
+under 0.05. Secondary: 148 / 303 file-clean on the whole-file fraction.**
+
+**Seventh `R-27` batch, 2026-10-05 — six shipped; the `R-26` ratchet fired again.**
+
+| Dossier | Dirty sections | Dirty lines | Instrument the repair gave it |
+|---|---|---|---|
+| Forgotten God `C-Vδ-265` | 10 | 50 | a 41-second breathing interval, and a count of staff who remember it exists: 19 → 6 |
+| Glass Elsewhere `N-IIβ-903` | 6 | 35 | 90-second channels, logged by category — *home*, *workplace*, *public* — never by face |
+| Breathing Stone `C-IVδ-907` | 6 | 30 | two respiration series, the wall's and the observer's, deliberately never reconciled |
+| Labyrinth of the Unfinished Mind `C-IVδ-909` | 6 | 27 | 41 surveyed rooms, 61 thoughts finished across descents by different people |
+| Ninety Seconds `C-IVδ-918` | 5 | 28 | the pass count, and one content-free exit question that works 202 times in 211 |
+| Thinking Engine `C-IIIγ-904` | 4 | 22 | 61 unrequested findings, 58 of them verified correct, all of them forbidden to act on |
+
+Six rather than five because five of them were the part-bespoke tier `R-26` calls simple — 22 to 35
+dirty lines, four to six sections — and the gate passed first time on each. The seventh slot went on
+clearing eight stock phrases out of Thinking Engine's Story Log instead, which was the better use
+of it.
+
+A pattern across this batch worth recording: in five of the six, **the containment measure is a
+sentence somebody has to say.** The exit question at Ninety Seconds, the category-only log at Glass
+Elsewhere, the blank cause-line at Rising Well in the previous batch, the naming count at Forgotten
+God, the prohibition on reading a sheet at the Thinking Engine. None of them is a barrier and all of
+them are defended annually against people with good reasons.
+
 
 **Sixth `R-27` batch, 2026-10-05 — the two ω/δ-grade files that had been held.**
 
