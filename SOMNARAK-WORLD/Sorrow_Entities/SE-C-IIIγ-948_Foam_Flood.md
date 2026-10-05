@@ -339,7 +339,7 @@ Management: Do not touch — name the sky it cannot reach aloud, and let the eye
 
 ### Interaction Pattern
 
-The Foam Flood does not exist in total isolation. Its record carries a cross-flag to one other entity and a classified transformation outcome (see WARNING, SE-C-Vδ-949). When the related entity (or references to it) is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability. The carving's eyes brighten near open water.
+Nothing in the Foam Flood's file is measured in company. The carving is cross-flagged to the Soot Fry and to a classified outcome filed under SE-C-Vδ-949, so the one figure the Dry Riverbed Vault may take on that subject is the distance to the fish, confirmed every cycle. A reference to the fish is enough to flare the carving's eyes; they also brighten near open water. Alone, what is watched in it is brightness, radius and dust behaviour.
 
 **Interaction method:** Establish the carving's baseline alone — brightness, radius, dust behaviour — across a full cycle before any co-presence is recorded. Co-presence with the cross-flagged entity is not observed, tested, approached or modelled; only the separation distance is monitored. Where another holding is simply near, record the null as a null and in the same detail as a positive finding.
 
