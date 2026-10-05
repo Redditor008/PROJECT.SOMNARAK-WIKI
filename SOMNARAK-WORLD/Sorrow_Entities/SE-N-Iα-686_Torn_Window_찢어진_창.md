@@ -277,9 +277,9 @@ Both pieces were cut from the cracked edge and neither carries a hand, which was
 
 **R.D. Comprehension Level:** 1 — Initial
 
-- It reflects hands rather than faces.
-- The cracks never close.
-- It is strongest in abandoned tunnels.
+- It reflects hands rather than faces. The count stands at 41 hands after 9 years, 4 of them added by workers who were simply tired at the time.
+- The cracks never close. The gauge answers only to the patrol sheet: walk the disused lengths and it holds, stop walking them and it opens 4 to 6 points higher every cycle with no upper bound found, across 118 cycles on record with 1 strike, 14 M.A.W. strikes and no fatalities.
+- It is strongest in abandoned tunnels, and the 6 Stigmas on record all went to people who walked a tunnel nobody had a reason to walk; the tunnel office has had to defend that walking as work rather than sentiment 2 times.
 
 **Personnel Note:** *"It was watching. I felt hope. Every hand in the glass had left something behind, and the Window had kept it."* — Specialist, Zone C patrol
 
