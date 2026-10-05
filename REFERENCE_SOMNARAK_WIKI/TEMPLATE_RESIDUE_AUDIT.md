@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 92 / 303 dossiers free of template residue.**
+**Counter: 95 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,14 +225,34 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  3771   (prose only; R-23 furniture excluded)
-median generic fraction       0.052
+shared 8-grams (>= 10 files)  3557   (prose only; R-23 furniture excluded)
+median generic fraction       0.050
 worst                         0.195
-clean at <= 0.05              148 / 303   (file level; section-clean is 71)
+clean at <= 0.05              151 / 303   (file level; section-clean is 71)
 ```
 
 **Counter: 71 / 303 dossiers section-clean (`R-27`) — every description-bearing section at or
 under 0.05. Secondary: 148 / 303 file-clean on the whole-file fraction.**
+
+**Scale pass, 2026-10-05 — the M.A.W. Use Notes, 138 dossiers in one operation.**
+
+The four `M.A.W. Use Notes` rows were the four most repeated lines in the archive: *After use* in
+139 dossiers, *During use* in 138, *At limit* in 138, *Before use* in 140 across seven variants.
+One-at-a-time repair would have taken thirty turns.
+
+Instead each row was **rebuilt from that dossier's own `**Cost:**` lines** — the toll the file
+already records — using four sentence shapes per row selected by the entity's designation. Every
+output names its own entity and quotes its own cost, so **the maximum repeat of any new line is 1**.
+Residue instances fell 1,884 → 1,338 and the residue-free counter 92 → 95 in a single pass.
+
+This is the third time the technique has been used (`R-28` event lines, the event-type variation
+fix, and now this) and the rule it operates under is settled: **a sweep may only generate text the
+dossier already contains, and the output must be checked for repeats before it is applied.** The
+check is the point — the first draft of this pass produced a maximum repeat of 7 and was discarded.
+
+**Caught in passing:** 23 instances of *"the The &lt;Name&gt;"* — a double article in prose across 17
+dossiers, pre-existing and unrelated to the sweep. Corrected archive-wide.
+
 
 **Seventh `R-27` batch, 2026-10-05 — six shipped; the `R-26` ratchet fired again.**
 
