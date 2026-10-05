@@ -38,6 +38,34 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 19 / unit 1 — The Frozen Veil `C-IVδ-103` closed (2026-10-06)** — measured at `8f3634d`: **10 dirty
+  sections**, worst Behavior 0.364 (the 52-dossier *The gauge response is only meaningful in context* line), then
+  최종 관찰 (Final Observation) 0.358, 관찰 기록 (Observation Log) 0.321 (its four progression rows and method line
+  carried 39, 16 and 14 shared grams), 감각 묘사 (Flavor Text) 0.254 (including the 32-dossier *…does not exist in
+  isolation* block and five stock interaction rows), M.A.W. Equipment 0.201, Operational Parameters 0.180, Combat
+  Record 0.096, Appearance 0.065, 기록 (Registrum) 0.060 and Trivia 0.056. All ten closed in three waves (20 + 22
+  + 7 sites); 6,415 → **7,308 words**; `tpl.py` residue 1 → **0**; `verify.py` residual 1 → **0** (Story Log Entry
+  1's `is logged as`); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with **both
+  clauses already satisfied and left alone** (`R-05`) — the condition is the file's own tears line and the series
+  clause already stood on its own counted figures (81 years of quarterly shell measurement, +1 mm a decade, 19
+  thinnings with their causes — 4 family deaths, 6 arguments, 3 refused transfers, 2 unexplained, 4 sealed — and
+  the 4219 exercises at +0.4, +0.6 and +1.1 mm). Two Registrum figures were **reconciled against the
+  classification block with the cause stated** (`R-01`): Comprehension Level *3 — Advanced* → **4 — Mastered**
+  (the 3 predates the shell series) and Threat *Moderate* → **Critical (δ)** (the older word described what the
+  instruments read, which is normal temperature in a room that numbs whoever stands in it). The faction line was
+  reconciled from SED (D-territory) to **A-territory deep storage** and extended with the parties this file
+  actually involves (deep storage directorate, the drawn lot, the counselors' channel), retiring the last variant
+  of the `SED · UCD · Wound Walkers` trio. The five interaction rows (The Kind Healer, The Smothering Mother, The
+  Frozen Tear, The Hollow Choir, Risus) were re-authored as this file's own relations — the Kind Healer's refusal,
+  the Mother's two unchanged sessions, the Frozen Tear's standing prohibition, the Choir's single observed stop and
+  Risus filed rather than arranged — replacing the generic *Indicates incompatibility or rejection…* and *May
+  alter resonance, behavior, or containment stability…* columns. Three beneficial side effects in files this unit
+  did not edit: **Unrung `C-IIβ-170` 4 → 3**, **Doorway to Nowhere `N-IIβ-152` 3 → 2**, **Portcullis `O-Iα-794`
+  8 → 7**. Archive dirty sections 853 → **840**; the shared corpus thinned to **13** distinct residue lines,
+  carriers 99 → **94**, instances 173 → **163**; worst 0.119 → **0.114**. Movement: `R-29` 119 → **120 / 301**;
+  section-clean 143 → **144 / 301**; residue-free 203 → **208 / 302**; file-clean 229 → **231 / 302**. **Batch 19
+  stands at one of three.**
+
 - **Batch 18 / unit 3 — Tear Too Small to Honor `N-Iα-785` closed; batch 18 closed at three (2026-10-06)** —
   measured at `7f1ddd1`: **10 dirty sections**, worst Origin 0.390 (the 48-dossier stock-tale carrier), then 이야기
   보고 (Story Log) 0.364 (the same tale family again), Final Observation 0.192, Behavior 0.181 (the 39-dossier
