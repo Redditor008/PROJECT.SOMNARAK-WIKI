@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **164 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **129 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **105 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **165 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **130 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **106 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 210 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 211 / 302 |
 | Archive median prose generic fraction | 0.021 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1405,6 +1405,22 @@ archive-wide dirty sections 999 → **983**. Movement: `R-29` 104 → **105 / 30
 302**; median 0.022 → **0.021**; worst 0.142 unchanged. **Batch 14 stands at one of three**; next: Broken Well
 `C-IIβ-565` (9, 0.463, series open).
 
+**Batch 14, unit 2: Broken Well `C-IIβ-565` closed.** Measured at `aea1882`: **9 dirty sections**, worst M.A.W.
+Equipment 0.463, then 기록 (Registrum) 0.366, 이야기 보고 (Story Log) 0.160, 최종 관찰 (Final Observation)
+0.150, 감각 묘사 (Flavor Text) 0.112, Trivia 0.089, Combat Record 0.071, Containment Event Behavior 0.061 and
+관찰 기록 (Observation Log) 0.050; all nine closed in two waves (26 + 14 sites); 6,592 → **7,443 words**;
+`tpl.py` residue 3 → **0**; `verify.py` residual 1 → **0**; `sectfile.py` ends at **0 section(s) over 0.05**;
+`wikistd.py` meets **True**, with the **series clause closed** on the file's own digits (plumb 1.1 metres;
+14-day counsellor note; the 40 metres at which the Mother's approaches halt; the four-metre spread threshold;
+6–9 points after each of nine annual searches; 400 years on an open file) and the condition clause already
+satisfied and left alone (`R-05`). Story Log Entry 5's stock tale — which contradicted the file's own origin —
+was replaced with the search record and the open missing-person file the Watch Record carries. Beneficial
+corpus side effect only: Willing Chains `C-IVδ-976` shed one dirty section; archive-wide dirty sections 983
+→ **973**. Movement: `R-29` 105 → **106 / 301** (series 218 → **219**); section-clean 129 → **130 / 301**;
+residue-free 164 → **165 / 302** (carriers 137, instances 332); file-clean 210 → **211 / 302**; median 0.021
+and worst 0.142 unchanged. **Batch 14 stands at two of three**; next: Spreading Well `C-IIIγ-373` (6, 0.457,
+series open).
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1445,8 +1461,9 @@ unit** (7 dirty, 0.506, series open — now closed, 6,915 → 7,773 words, two w
 satisfied and left alone — 6,271 → 7,034 words, two waves). The batch-13 tier is exhausted and the next head was re-derived whole-archive at this commit:
 **Whispering Gallery `C-IIβ-185` came off it in batch 14's first unit** (7 dirty, 0.471, both clauses
 already satisfied and left alone — 6,580 → 7,378 words, two waves, and nine further dossiers shed one dirty
-section each as the corpus shrank). The tier behind it, re-measured at this head: Broken Well `C-IIβ-565`
-(9 dirty, 0.463, series open) and Spreading Well `C-IIIγ-373` (6 dirty, 0.457, series open); Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
+section each as the corpus shrank). **Broken Well `C-IIβ-565` came off it in batch 14's second unit** (9 dirty, 0.463, series open — now
+closed on the file's own 1.1-metre plumb line and nine-search series, 6,592 → 7,443 words, two waves). The
+tier behind it, re-measured at this head: Spreading Well `C-IIIγ-373` (6 dirty, 0.457, series open); Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
 series open) remain in the cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep

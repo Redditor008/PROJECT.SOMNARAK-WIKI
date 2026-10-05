@@ -38,6 +38,26 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 14 / unit 2 — Broken Well `C-IIβ-565` closed; batch 14 stands at two of three (2026-10-06)** —
+  measured at `aea1882`: **9 dirty sections**, worst M.A.W. Equipment 0.463, then 기록 (Registrum) 0.366,
+  이야기 보고 (Story Log) 0.160, 최종 관찰 (Final Observation) 0.150, 감각 묘사 (Flavor Text) 0.112, Trivia
+  0.089, Combat Record 0.071, Containment Event Behavior 0.061 and 관찰 기록 (Observation Log) 0.050. All nine
+  closed in two waves (26 + 14 sites); 6,592 → **7,443 words**; `tpl.py` residue 3 → **0**; `verify.py` residual
+  1 → **0** (Story Log Entry 1's `is logged as` carrier); `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**, with the **series clause closed on the file's own digits** — the plumb line's
+  **1.1 metres** to the Old Lament floor against depths no instrument confirms, the **14-day** counsellor note,
+  the **40 metres** at which the Mother's two approaches were halted, the four-metre spread threshold that
+  closes a session, the **6 to 9**-point fall after each of nine annual searches, and a missing-person file
+  open **400 years** — while the condition clause was already satisfied by the file's own `Management:` line
+  (do not enter the opening; listen from the edge) and was left alone (`R-05`). Also replaced: Story Log Entry
+  5's stock tale (*a child who was never heard … burned slow*), which contradicted the file's own origin,
+  with the search record and the open missing-person file the Watch Record carries. Beneficial corpus side
+  effect only: Willing Chains `C-IVδ-976` shed one dirty section as the retired stock-line family shrank;
+  archive-wide dirty sections 983 → **973**. Movement: `R-29` 105 → **106 / 301** (own numeric series 218 →
+  **219**); section-clean 129 → **130 / 301**; residue-free 164 → **165 / 302** (carriers 137, instances 332);
+  file-clean 210 → **211 / 302**; median 0.021 and worst 0.142 unchanged. **Batch 14 stands at two of three**;
+  next on the re-measured tier: Spreading Well `C-IIIγ-373` (6, 0.457, series open).
+
 - **Batch 14 / unit 1 — Whispering Gallery `C-IIβ-185` closed; batch 14 stands at one of three (2026-10-06)** —
   the batch-14 head measured at `18766a2`: **7 dirty sections**, worst M.A.W. Equipment 0.471, then Behavior
   0.407, 기록 (Registrum) 0.373, Expansion Behavior 0.213, 최종 관찰 (Final Observation) 0.153, Combat Record
