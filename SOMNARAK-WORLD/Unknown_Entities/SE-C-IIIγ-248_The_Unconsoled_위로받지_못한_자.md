@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-248 [LS]` |
-| **Entity Type** | **Subject** — Drifts the oldest districts; can breach via Transform, only weep |
+| **Entity Type** | **Subject** — Non-breaching: corruption in place; the quarter reverts to what it was before the Hand of Hope opened, at eleven metres an hour, and both recorded events ended on their own after nine and thirty-one hours. It drifts the oldest districts, nine metres in four years, and otherwise only weeps. |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -146,14 +146,14 @@
 The table should be read with the floor in mind. This entity's gauge has a bottom at 58% that no work has ever passed, so a 'decrease' here means a movement of six to nine points inside a band that never empties. Workers coming from other assignments read that as failure and it is not; the Old Lament's measure of a good cycle is the number of consecutive days the gauge stays at the floor afterward, and the record is nineteen.
 
 **Reading the response:** Watch the synchronisation, not the needle. When the Unconsoled's weeping falls into time with the worker's speech the cycle is working, and that happens or it does not inside the first minute; nothing a worker has tried afterward has produced it late. When it does not happen, the correct action is to leave and re-roster, and the office considers an unsynchronised cycle a mismatch of the worker rather than a fault of the work. The one response that must be written up in full is sound — any sound at all from the entity would be the first in four thousand years.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Unconsoled has broken free. Hunts personnel indiscriminately."*
+> *"Corruption event in progress. The Unconsoled is turning the quarter back to what it was before the Hand of Hope opened; nothing has left it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
-| **Movement** | The Unconsoled intensifies in place, warping the containment zone outward. It hunts personnel indiscriminately. |
+| **Event Type** | Corruption in place |
+| **Movement** | The Unconsoled stays seated where it is and the damp widens outward from it, warping the containment zone as it goes. It hunts nobody: in both recorded events the wet reached the founding wall before it reached a person. |
 | **Effect** | The quarter goes damp from the floor upward and every person in it stops walking at the same instant, including those indoors and those who cannot see the Old Lament. |
 | **Secondary Effect** | No sound. The silence deepens instead — ambient noise in the district drops by a measured 14 dB and stays down for the duration, which is the only physical reading this entity reliably produces. |
 | **First Target** | The oldest standing structure within reach, not a person. In both recorded expansions the damp reached the founding wall of the Old Lament before it reached anyone, and the wall is wet to this day. |
@@ -161,9 +161,9 @@ The table should be read with the floor in mind. This entity's gauge has a botto
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt, in the narrow sense that the district reverts rather than warps — the quarter goes back to being what it was before the Hand of Hope opened. Nothing is damaged and nothing is changed; it is simply heavy again.
+- **Event type (non-breach):** Corrupt, in the narrow sense that the district reverts rather than warps — the quarter goes back to being what it was before the Hand of Hope opened. Nothing is damaged and nothing is changed; it is simply heavy again.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Begins at the floor and climbs about two points an hour to a ceiling near 80%, where it stops without intervention. Both expansions ended on their own, one after nine hours and one after thirty-one.
+- **Sorrow Gauge on event:** Begins at the floor and climbs about two points an hour to a ceiling near 80%, where it stops without intervention. Both expansions ended on their own, one after nine hours and one after thirty-one.
 
 ## M.A.W. Equipment
 
