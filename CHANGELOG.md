@@ -82,6 +82,34 @@ This file records notable changes to the public Somnarak Wiki.
     descent; one co-presence in which the crew's gauges fell and the vault's interval did not move)
     and The Grieving Colossus (no co-presence and none proposed; the two ledgers read together,
     neither holding ever fought).
+- **Workstream 9 / `R-29`: Ephemera `O-Iα-189` — the dirty-section cohort opened (2026-10-05)** —
+  - One `gate.sh` commit (`90070f4`), growth-only: 5,195 → 6,929 words. The file measured **thirteen**
+    dirty sections, not the twelve the previous turn's queue line claimed; `sectfile.py` is the
+    authority and the discrepancy is recorded as a measurement trap. All thirteen closed:
+    `0 section(s) over 0.05`, `tpl.py` residue 1 → 0, `verify.py` residual 1 → 0, `wikistd.py`
+    meets `True`. `R-29` **62 → 63 / 301**; section-clean **85 → 86**; own numeric series 191 → 192.
+  - The unit gave the file a named instrument rather than importing one: the **definition rate**
+    above light wind, against which the dispersal field, the survey margin, and the breach warning
+    are read. Every figure the edit states was already in the file — threshold 4 (the widest margin
+    in the class, three failed cycles absorbable), the reform on the same site within the hour, the
+    10–14 Han-Energy yield and its loss after heavy wind, the 198 HP line, the three sector sweeps
+    with one mislog as a new manifestation, the stigma's naming condition and the recall tests held
+    before deployment rather than at intake, and the 15/5% resistance set, re-authored in place to
+    say why the shed material conducts Lament and insulates against what it is not.
+  - Sections rebuilt from the file's own record: the Operational Parameters recommendation and
+    notes; Combat Record action rows, Tension/Resolution phases and Consequences; the Identification
+    Profile and Detailed Appearance cells; M.A.W. appearances, Use Notes and all four Field Use
+    Record cells; the Observation Progression's four stages; the Story Log entries; the Final
+    Observation cells; the Flavor Text's four exposure paragraphs; and the Registrum's Threat
+    Assessment. The three interaction rows (Broken Ruin, Pandora's Jar, the Drift Fog) were authored
+    from Ephemera's canon — an interaction here begins when the drift reaches the second entity's
+    ground, not when the bodies meet — and cross-read against the Broken Ruin's and Pandora's Jar's
+    own files. The Story Log Entry 1 opener was reworded for this file only; the standing decision
+    not to chase that opener archive-wide is unchanged.
+  - Counters adjacent to this unit moved by spillover, not by work: residue-free 103 → 108 / 302 and
+    file-clean 158 → 162 / 302, because a shared line that drops below ten holders stops counting
+    against every remaining dossier. The work record states this explicitly so the movement is not
+    misread as units performed.
 - **Workstream 9 / `R-29`: First Tear, Black River and Sorrow Storm — Rank V closed, 13 of 13 (2026-10-05)** —
   - Three units, one `gate.sh` commit each, each closing every dirty section the file carried and the
     condition and series clauses where they were open. `R-29` **59 → 62 / 301**; section-clean

@@ -6,7 +6,7 @@ This file is the running state of the project. It is updated at the end of every
 
 ## Measured state
 
-All figures below are measured by `tools/boilerplate_report.py`, not estimated.
+All figures below are measured, not estimated, and each names the tool that produced it: `boilerplate_report.py` for the body-line measures, `tpl.py` for template residue, `sect.py`/`sectfile.py` for file- and section-cleanliness, `wikistd.py` for `R-29` and its clauses. Two rows moved this turn without a unit touching them — residue-free 103 → 108 and file-clean 158 → 162 — because the four Rank V rewrites and Ephemera retired shared lines outright, and a line that drops below ten holders stops counting against every remaining dossier. That is the documented spillover effect; it is not work performed this turn.
 
 | Measure | Value |
 |---|---|
@@ -16,13 +16,13 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **103 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **85 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **62 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **108 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **86 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **63 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 158 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 162 / 302 |
 | Archive median prose generic fraction | 0.048 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -587,11 +587,28 @@ commit is the tip of `NON-WIKI`, so nothing was lost; that is recorded in `PR_12
 (commit `5384f8b`) rather than in a new session record. Draft PR **#13** into `NON-WIKI` is open for
 this session's branch and is not to be merged by the session (`R-13` / `U4`).
 
+**The dirty-section cohort opened with Ephemera `O-Iα-189` (`90070f4`).** The file measured **13
+dirty sections**, not the 12 the previous turn's next-target line claimed (`sectfile.py` is the
+authority, and that is recorded as a measurement trap). Sixteen edits took it 5,195 → 6,929 words,
+`0 section(s) over 0.05`, `tpl.py` residue 1 → 0, `verify.py` residual 1 → 0, `wikistd.py` meets
+`True`. `R-29` **62 → 63 / 301**; section-clean **85 → 86**; own numeric series 191 → 192. The unit
+gave the file its own instrument rather than importing one: the *definition rate* above light wind,
+against which the dispersal field, the survey margin and the breach warning are all read. Every
+figure used was already in the file (threshold 4, the reform within the hour, the 10–14 yield, the
+198 HP line, the three sector sweeps and the single mislog, the stigma's naming condition, the
+recall tests before deployment, the 15/5% resistance set). The three interaction rows (Broken Ruin,
+Pandora's Jar, the Drift Fog) were authored from Ephemera's own canon and cross-read against the
+Broken Ruin and Pandora's Jar files; the Flavor Text's stock interaction opener and the Registrum's
+stock Threat Assessment were replaced, and the Registry Trivia's two splice lines were expanded in
+place. The Story Log Entry 1 opener was reworded for this file only — the standing decision not to
+chase that opener across the archive is unchanged and is noted here so the count in the "Noticed and
+deliberately left" list is read as one lower for this row.
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
-`sectfile.py`; the worst files are now Ephemera `O-Iα-189` and Homecoming Tree `C-Iα-869` at 12
-dirty sections each, followed by Friendless Bridge `N-IIβ-488`, Dismissed Cry `N-IIβ-560`, Perennial
-`N-IIβ-845` and Survivors' Breath `O-IVδ-895` at 12, Hums `C-IIβ-048` at 11, Loom of Unlived Dreams
-`C-IVγ-176` at 11; (2) the `R-01` sweep (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**);
+`sectfile.py`; the worst file is now Homecoming Tree `C-Iα-869` (12), followed by Friendless Bridge
+`N-IIβ-488`, Dismissed Cry `N-IIβ-560`, Perennial `N-IIβ-845` and Survivors' Breath `O-IVδ-895` at
+12, Hums `C-IIβ-048` at 11, Loom of Unlived Dreams `C-IVγ-176` at 11; (2) the `R-01` sweep
+(`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);
 (3) the 211 + 127 stock sentences; (4) the remaining single-clause gaps from the third-turn list.
 
 **A third `R-01` shape, found while closing the two Rank V units and not matched by the tool.** Both
