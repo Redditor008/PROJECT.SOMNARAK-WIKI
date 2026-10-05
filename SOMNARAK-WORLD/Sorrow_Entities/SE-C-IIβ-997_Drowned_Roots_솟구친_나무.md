@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
+| **Resistance** | 25% against Lament pressure; 15% against other pressure types — and the second figure is arithmetic, since this holding reaches for covered faces and for nothing else in the room. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 390/390 |
 | **Han Pressure [ATK]** | 7–16 per hit · Lament |
@@ -81,21 +81,21 @@
 | { *The Heavy Branch* [**Debuff**] } | "The tree's branches sag — waterlogged, heavy with a grief that has been raining for centuries." | [The Tree's saturated sorrow drips onto the target.] | *Target suffers -10 Composure; the weight of old tears soaks in.* **[10 Lament DMG [Lament]]** | When the target stands beneath the Tree. |
 | { *The Rising Damp* [**Debuff**] } | "The water climbs — root to trunk to branch — and the climbing does not stop at the canopy." | [The Tree's grief-water permeates upward; the target feels the dampness spreading.] | *Target loses 10 Composure; the saturation is everywhere.* **[10 Lament DMG [Lament]]** | When the target lingers. |
 | { *The Soaking Sweep* [**Attack**] } | "A branch, heavy with sorrow-water, swings down — and the weight of it is staggering." | [A sodden branch-lash strikes the target.] | *Inflicts Lament pressure and one drenching, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Tree is disturbed. |
-| { *The Full Deluge* [**Attack**] } | "The tree gives up its water — every drop it ever absorbed — in one catastrophic release." | [The Tree disgorges its complete sorrow-mass.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Tree is cut. |
-| { *The Drowned Forest* [**Ultimate**] } | "The water does not stop — and the whole grove goes under, roots and all." | [The Tree extends its soaking across the entire field.] | *All in range suffer Lament pressure for three turns in the drowned forest.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Deluge* [**Attack**] } | “Every drop it has taken up since the stair — sixty years of it, one release.” | [The weeping that has been running under the burning since the recorded beginning comes out at once.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15% and the section's air reads as water.* **[24-36 Lament DMG [Lament]]** | When a branch that has stopped moving is cut. |
+| { *The Drowned Forest* [**Ultimate**] } | “The whole hall goes under, and not one board of it moves.” | [The roots come up through every floor in reach, as they always have, leaving the boards whole.] | *All in range take Lament pressure for three turns; the burning and the weeping run separately throughout.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (a ghostly tree-beast walking on four root-limbs, burning and weeping at once, with a howling face set in the bark and branches that cast no ordinary shadow) and Drowned Roots is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** Confirm at the two fixed positions rather than at the door: the branch count against the last return, the posture of each root-limb, the ceiling clearance, and the shadow check — the branches move and their shadows do not, which nothing else in the Market does. Every covered face in the section is logged and uncovered before the cycle opens; respirators included, which is what the dusty months cost.
 2. **Clash:** Faces uncovered, the route fixed in the brief, nobody stepping over a root. The crew works beneath the branches for a timed interval and leaves on the clock.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Speak the soldier's duty without forcing a false name**.
+3. **Resolution:** The watch closes on the file's own condition — **Speak the soldier's duty without forcing a false name** — performed plainly: say what he did, out loud, in the Market, without inventing a duty to hang it on and without supplying a name the record cannot support. A session that improvised something kinder is entered as void and run again.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
+- If the reading is lost the pressure does not go into the structure — this holding has never displaced a board — it goes into the worker: the fury arrives first and the emptiness stays after it, which the counsellors treat as the exposure rather than the anger.
 - Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
 - The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Drowned Roots reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Where nothing is said the growth simply continues. The branch count has never been found lower at a return than at the one before it, and the tally does not follow the Tide, the season or the Market's trade — it follows one line in the Service Office return, and that line does not move.
 
 ## Appearance
 **Physical Form:** A ghostly tree-beast, trunk split into a body and four root-limbs, a howling face in its bark, branches thrashing like arms. **Movement:** It walks on its root-limbs, burning and weeping as it moves.
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Drowned Roots is recorded as a Subject with Subject-Phantasmal manifestation and Lament elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table reads as a trial with the face uncovered: Flerehan brings a branch down slowly, to the edge of the uncovered face and no further; Ferrehan is standing under the canopy for the interval with the face bare and the branches moving; Viderehan takes the stair, the levy coming out, and the line as it stood before the amendment. Pugnahan sets it against the worker and burns harder, and is prohibited for the reason the count exists: anger added here becomes growth. A stable reading under Viderehan is correct and is not safety — the section's own instruments, the branch count and the shadow check, are what the watch reads.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Read it in the count and the shadows, never in the room's mood. A falling gauge presents as a branch coming down and stopping short, and the count at the next return is unchanged by it. A rising gauge means somebody in the section is covered — a mask, a wrap, or a respirator in the dusty months — and the correction is always the same one. New growth between returns is the only escalation on file, and it follows out-of-time acts recorded with no duty attached, not the behaviour of whoever is standing in the hall.
 ## Breach Behavior
 
 > *"Drowned Roots — logged for years as Soaking Tree — is loose in the Market. Faces uncovered, all sections."*
@@ -173,7 +173,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+**Appearance:** a slender blade of Lament Han-crystal that sings faintly when it is at rest and weeps a thin film of Han down its length when it is not.
 
 **Damage:** Lament 7-12
 **Speed:** 3 (Fast)
@@ -181,15 +181,15 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Drowned Roots's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — the way the source holding delivers it: not a blow to be resisted but a grief arriving with nowhere to be put, which is what the weapon leaves behind.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** the wielder carries the holding's unwept grief for as long as they carry the blade, and past a season of it the weeping begins involuntarily. The Armoury records the symptom against the wielder, on the file's own logic: it is the work that accumulates, not the steel.
 
 ### M.A.W. Suit — Drowned Roots Shroud
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a wrapper of Lament Han-silk, cool to the touch, that hangs heavier than its weave and quietens the sound of the room it is worn in.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -199,19 +199,19 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Drowned Roots's kind of pressure.
+**Ability:** Wards the Mind — emotional stability and willpower — against Lament pressure, and against nothing else; the shroud was cut for one holding's kind of grief and the file records no other use for it.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** the wearer goes numb to minor joys first and notices it last, and the second worker reads it long before the wearer does.
 
 ### M.A.W. Stigma — Drowned Roots Lantern
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a tiny lantern of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a small lantern of Lament Han-crystal that runs cold at rest and briefly hot when sorrow is close by.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat, and for about a day the wearer can read what a record used to say before a line went out of it. The effect is of no use at a board and is reported as distressing.
+**Effect:** +2 to the working stat, and for about a day the wearer can read what a record said before a line was struck out of it — an effect of no use at a board, reported as distressing by every bearer who has tried it at one.
 
 **Ability:** Heals minor wounds through warm, sorrowful light.
 
@@ -221,18 +221,18 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### M.A.W. Use Notes
 
-These pieces are Drowned Roots in miniature. What they give is listed above; what they take is the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping, and the Armoury records both against the wielder rather than against the piece.
+Each piece is the holding in miniature, and each one takes the same thing the holding takes: the wearer carries grief that has not been wept, the weeping comes whether the use was right or wrong, and the Armoury records the symptom against the wielder rather than against the piece.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Drowned Roots's toll being that the wielder feels the entity's unwept grief. |
-| **During use** | Drowned Roots charging, which presents as this: the wielder feels the entity's unwept grief. The wielder's own account is taken separately and afterwards. |
-| **At limit** | The wearer becomes numb to minor joys, and the wielder has stopped reporting it — the usual end point for a Drowned Roots piece. The observer calls the limit. |
-| **After use** | Piece returned; re-assess a week later, because what Drowned Roots takes (the wearer becomes numb to minor joys) does not present on the day. |
+| **Before use** | Wielder, piece, gauge, and the toll entered at the top — unwept grief carried, on the file's own record — with the section's branch count and clearance taken before the piece goes on. |
+| **During use** | Watch for the weeping starting in the bearer, which is the first sign on this set and is entered by the second worker with the hour; the wearer's own account is taken separately, afterwards, and is never the record. |
+| **At limit** | The wearer stops reporting the numbness at all — that is the limit on a Drowned Roots piece, whatever the wearer says, and the observer calls it. |
+| **After use** | Take the piece back, re-assess at a week — what this set takes does not present on the day — and keep the bearer off the Market watch until somebody else confirms the joys have come back. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade records how cleanly the grief came off the holding, not what a bearer takes home. This set's costs run one way and are not graded: grief the wielder never wept, joys gone numb, and — on the lantern — the particular difficulty other people have in remembering the bearer at all, which no stat line has ever carried.
 
 ## 관찰 기록 (Observation Log)
 
@@ -261,7 +261,7 @@ These pieces are Drowned Roots in miniature. What they give is listed above; wha
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Drowned Roots (C-IIβ-997 [D]) is logged as a Subject-Phantasmal manifestation expressing Lament, walking the Mask Market in Zone C. It reaches for covered faces and no others, it has never damaged the floor it rises through, and it carries more branches at every annual return.
+Containment description for C-IIβ-997 [D], the holding called Drowned Roots: a Subject-Phantasmal manifestation expressing Lament, walking the Mask Market in Zone C on four root-limbs, burning and weeping at once with a howling face set in the bark. It reaches for covered faces and for no others, it has never displaced a board of the floor it rises through, and it carries more branches at every annual return.
 
 **Entry 2 — <Mask Market Watch, Zone C, Year 4238>**
 Sixty-six branches counted at the annual return, against forty-seven and thirty-one. Face in the bark unchanged. Limb posture unchanged. No board of the Market floor displaced by any root in sixty years of it coming through them.
@@ -279,11 +279,11 @@ The Service Office produces this case in training as a clean application of the 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Drowned Roots; the other feeds it.
+> What the watch is choosing at the close of contact: say what he did, out loud, in the Market, or supply him something kinder that the record cannot support.
 
-| Speak the soldier's duty without forcing a false name. | Improvise something kinder, which is how every failure on Drowned Roots's file began. |
+| Say what he did — the stair, the levy coming out behind him, the line as it stood before the amendment — out loud, in the hall, with no duty invented for it and no name the record cannot carry. | Improvise something kinder: restore a name, invent the duty, or tell him he is honoured, any of which the file records as the way its failures begin. |
 |---|---|
-| Reaches gently toward the worker. The sorrow is witnessed; Drowned Roots is fully recorded. | Resists and burns with anger. The gauge climbs and Drowned Roots withdraws without revelation. |
+| A branch comes down slowly and stops short of the uncovered face; the count is unchanged at the next return. The sorrow is witnessed and Drowned Roots is fully recorded. | It sets itself against the room and burns harder; the gauge climbs, the section is cleared, and the same statement is owed again at the next watch. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -294,15 +294,15 @@ A tree-shaped shadow rises behind the masks. Its branches burn without heat, and
 
 **At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. its registered form.
 
-**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Lament has a history here, and prolonged exposure makes that history legible.
+**With continued exposure:** The hall stops being a market and becomes a post: the two fixed positions, the clearance measured to the ceiling, the shadow check run again because it is cheap, and every face in the section uncovered and staying that way. Nothing in it frightens anybody on the second hour. What stays is the weeping running under the burning, steady, without rise or fall, the way a thing sounds that has been going on since before the stalls were built.
 
 **When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Lament pressure spikes — not gradually but like a door slamming open. The Subject-Phantasmal shifts from presence to action.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** The door seals and the pressure comes off the suits by degrees, but what goes home with the watch is Lament in the suit fibres, in the memory, and in the space between thoughts where Fracture begins. The fury passes off first; the counsellors screen for what is left after it, which is the emptiness, and which is the part that stays.
 
 ### Interaction Pattern
 
-Drowned Roots does not exist in isolation. Its recorded relationships with The Forgotten Soldier, The Masked Dancer, The Rage Statue should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Drowned Roots moves among the Mask Market holdings, and it is not one of them: the Dancer is about the face somebody chose to wear, this is about an act with no duty attached to it, and the difference is why its whole figure is a count of branches rather than a likeness. The three pairings below are what the archive will support; none is an alliance and none is settled.
 
 **Interaction method:** Take this holding's own branch count and limb postures across several sessions with nothing else present, then introduce the other and count again from the same two fixed positions, with every face in the section uncovered and the shadow check repeated throughout.
 
@@ -311,7 +311,7 @@ Drowned Roots does not exist in isolation. Its recorded relationships with The F
 
 Drowned Roots must be distinguished from the Mask Market holdings it moves among. The Masked Dancer is about the face somebody chose to wear; this one is about an act with no duty attached to it, which is why its figure is a count of branches and why it reaches for coverings rather than for people.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Holding paired | The contact, as observed | What was measured | What the file still lacks |
 |---|---|---|---|
 | **The Forgotten Soldier** | The Soldier comes to attention beneath the canopy and holds it, and the branches stop moving for the whole of it — the only recorded stillness in the file. | Gauge down ten points and slow to return. No growth in the quarter following. | Record the stillness and the next count. This is the only thing that has ever slowed the branches. |
 | **The Masked Dancer** | The Dancer performs below it, masked throughout, and is reached for continuously and never caught. Neither appears to mind. | Gauge up while it lasts and back within the day; branch count unaffected. | Record the reaching. Personnel are cleared from the floor; the Dancer is not. |
@@ -359,14 +359,14 @@ Some sorrows are about dying. Drowned Roots is about being denied the dignity of
 - A line was struck from the war record because the act was outside the duty assigned, and the name went with the line.
 - Sixty-six branches, against forty-seven and thirty-one; it has never once been found with fewer.
 **Cross-References:** Zone C, Mask Market · The Forgotten Soldier · The Masked Dancer · The Council · the Service Office rule on acts outside duty · the Fourth Column
-**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant) · Mask Market traders' association (floor access)
+**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant) · Mask Market traders' association (floor access); the traders' association is the reason the watch can close a hall at all, and it has never once objected to the uncoverings, which the file notes without conclusion.
 **Originator:** A soldier whose sacrifice was erased from the war record.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The holding has two instruments and neither of them is a gauge. The first is the branch count — **31**, then **47**, then **66** at successive annual returns, taken from two fixed positions by Wardens who do not confer, and never once found lower than the return before it. The second is the Service Office's own line: **1,398** deaths in service in Year 4237 recorded with nothing in any column, which the count is set against and tracks. Everything else on this file is documentary: the original and the amended war record differing by one line, the **eleven** letters underneath the amendment, the Fourth Column's **3,910** entries with **0** honours and **0** entitlements arising and **6,100** filings refused out of time, and the **11** lanterns, each with a name written inside the housing where only the bearer will see it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verify at every return and after every breach: the branch count from both fixed positions, the limb postures, the clearance, the separate tallies of burning and weeping, and the Service Office line on out-of-time acts. Any new growth between returns is to be matched to an entry in that line before the file reports it as unattributed, and the section is to be walked for covered faces — respirators included — before anything else is read.
 ## Watch Record
 
 ### A Face in the Bark
@@ -412,11 +412,11 @@ The service clerks asked for one thing: that where a fourth-column entry exists 
 
 ### Registry Trivia
 
-- **Classification detail:** Drowned Roots is a Subject with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone C, Mask Market.
+- **Classification detail:** Drowned Roots is a Subject with Echo (II) coherence and Moderate (β) potency, and the file's own instruments follow from the class: a phantasmal body whose roots have never displaced a board, and a count that only grows.
+- **Field detail:** Lament is the element it presents, and the registration pins it to Zone C's Mask Market, where it walks among the stalls and reaches for the covered faces the trade is built on.
 - **Recognition detail:** A ghostly tree-beast walking on four root-limbs, burning and weeping at once, with a howling face set in the bark and branches that cast no ordinary shadow.
 - **Record detail:** The Registrum placed this holding in Zone B twice against a Zone C, Mask Market header, rated it Low on a Moderate (β) line, and carried a faction interest in Desolate territory. The breach quotation names *Soaking Tree*, retained here as the earlier designation and labelled. The Origin and Archive Note paragraphs described a citizen who Fractured, in two mutually inconsistent versions, neither of which is this soldier. The M.A.W. grade was blank against three β pieces. All corrected. The Watch Record, the branch tally and the two war-record copies are untouched.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment holds the body, not the record. Even sealed, the holding alters the local Han field — adjacent personnel report dreams, headaches and gauge drift — and the remedy that keeps it quiet is the one its file carries: say what he did, aloud, in the hall, without inventing a duty or a name.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-997

@@ -38,6 +38,26 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 13 / unit 3 — Drowned Roots `C-IIβ-997` closed, closing batch 13 at three (2026-10-06)** —
+  measured at `9db59d7`: **7 dirty sections**, worst 기록 (Registrum) 0.483, then Behavior 0.398, M.A.W.
+  Equipment 0.368, 최종 관찰 (Final Observation) 0.192, Combat Record 0.123, 감각 묘사 (Flavor Text) 0.104
+  and Trivia 0.081. All seven closed in two waves (24 + 13 sites); 6,271 → **7,034 words**; `tpl.py` residue
+  3 → **0**; `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged as` carrier); `sectfile.py` ends
+  at **0 section(s) over 0.05**; `wikistd.py` meets **True**, with **both clauses already satisfied and left
+  alone** (`R-05`) — the condition is the file's own Service Office rule (*Management: say what he did, out
+  loud, in the Market, without inventing a duty to hang it on and without supplying a name the record cannot
+  support*) and the series clause reads the file's own counts (31 / 47 / 66 branches; 3,910 fourth-column
+  entries, 6,100 refused out of time, 1,398 deaths with nothing in any column). Authored from the file's
+  instruments throughout: the two fixed counting positions, the ceiling clearance, the shadow check that
+  nothing else in the Market passes, the respirator problem in the dusty months, the original and the amended
+  war record differing by one line, the eleven letters filed beneath the amendment, the 4187 dock fire, and
+  the eleven lanterns each carrying a name inside the housing. No corpus side effects — this unit moved only
+  its own file (7 → 0 dirty sections; archive totals 1,006 → **999**). Movement: `R-29` 103 → **104 / 301**;
+  section-clean 127 → **128 / 301**; residue-free 162 → **163 / 302** (carriers 140 → **139**, instances 351
+  → **348**); file-clean 208 → **209 / 302**; median 0.023 → **0.022**; worst 0.142 unchanged. **Batch 13 is
+  closed at three** (`42cbec5` The Rejector, `9db59d7` Walking Calendar, this unit), each unit measured live
+  at its own head. **Batch 14 opens at three** on a freshly re-derived whole-archive tier.
+
 - **Batch 13 / unit 2 — Walking Calendar `C-IVδ-220` closed; batch 13 stands at two of three (2026-10-06)** —
   measured at `42cbec5`: **7 dirty sections**, worst 기록 (Registrum) 0.489, then M.A.W. Equipment 0.407,
   Behavior 0.405, 최종 관찰 (Final Observation) 0.210, Combat Record 0.204, 감각 묘사 (Flavor Text) 0.082 and
