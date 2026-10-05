@@ -38,6 +38,30 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 16 / unit 3 — Weeping Statue `C-IIβ-055` closed, closing batch 16 at three (2026-10-06)** —
+  measured at `a33eba6`: **2 dirty sections** — 최종 관찰 (Final Observation) 0.442 in 52 grams and Combat Record
+  0.172 — closed in **one wave** of 15 sites; 7,375 → **7,705 words**; `tpl.py` residue 3 → **0**; `verify.py`
+  residual 1 → **0** (Story Log Entry 1's `is logged as` carrier, since re-authored to the register plus the stain
+  line); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with the **series clause
+  closed on the file's own figures** — the Y4239 Mint assay (**1,100** collected stones blind against **1,100**
+  circulating Echoes), **480** Echoes a year, **61** years of weeping, three drainings in years **8**, **9** and
+  **22**, a **41%** yield rise — written into the counted Registrum Observation Notes as a digit restatement of
+  its own numbers, **disclosed** as such (number-words ruling still pending); the condition was **already
+  satisfied and left alone** (`R-05`). The Final Observation table was stock and now states the file's own cycle:
+  share the grief and let the pool hold, or take from the pool — the failure mode every recorded draining
+  began. Also repaired: both Combat Consequences clusters (*the M.A.W. is never costless* style lines) onto the
+  file's own ledger language, and the Registrum faction line — a **10-dossier exact carrier**
+  (`SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)`) — re-authored to
+  the parties this file actually involves (the Mint assay office and the Keepers' collection schedule), which with
+  the Resistance and M.A.W.-debit carriers took the residue board from 21 to **20** distinct lines and from 252 to
+  **240** instances. Archive dirty sections 934 → **932**; median whole-file fraction 0.019 → **0.018**; worst
+  steady at 0.124. Movement: `R-29` 112 → **113 / 301** (own numeric series 222 → **223**); section-clean 136 →
+  **137 / 301**; residue-free 180 → **183 / 302** (carriers 119, instances 240, lines 20); file-clean steady at
+  **219 / 302**. **Batch 16 is closed at three** (`31475b5` Emberling, `a33eba6` Learned Your Face, this unit).
+  **Batch 17 opens at three** on a freshly re-derived tier: Risus `C-Iα-150` (8 dirty, 0.432), Floating Pillar
+  `N-IIIγ-409` (7, 0.430) and The Dancing Chains `C-IIIγ-102` (6, 0.429) — none of the three carries a hash in
+  this changelog.
+
 - **Batch 16 / unit 2 — Learned Your Face `C-IIIγ-195` closed (2026-10-06)** —
   measured at `31475b5`: **7 dirty sections**, worst M.A.W. Equipment 0.443, then 이야기 보고 (Story Log) 0.373,
   기록 (Registrum) 0.245, 최종 관찰 (Final Observation) 0.160, Combat Record 0.096, 감각 묘사 (Flavor Text) 0.085

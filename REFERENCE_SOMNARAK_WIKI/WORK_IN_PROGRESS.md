@@ -20,9 +20,9 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **180 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **136 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **112 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **183 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **137 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **113 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
@@ -1516,6 +1516,19 @@ Archive dirty 942 → **934**; worst whole-file fraction 0.132 → **0.124**; me
 `R-29` 111 → **112 / 301**; section-clean 135 → **136 / 301**; residue-free 179 → **180 / 302** (carriers 122,
 instances 252, lines 21); file-clean 218 → **219 / 302**. **Batch 16 stands at two of three.**
 
+**Batch 16, unit 3: Weeping Statue `C-IIβ-055` closed — batch 16 closed at three.** Measured at `a33eba6`: **2
+dirty sections** (최종 관찰 0.442 in 52 grams, Combat Record 0.172), closed in **one wave** of 15 sites; 7,375 →
+**7,705 words**; `tpl.py` residue 3 → **0**; `verify.py` residual 1 → **0**; `sectfile.py` **0 section(s) over
+0.05**; `wikistd.py` meets **True** with the **series clause closed on the file's own figures** — the Y4239 Mint
+assay (1,100 stones blind against 1,100 circulating Echoes), 480 Echoes a year, 61 years, drainings in years 8, 9
+and 22, a 41% yield rise — written into the counted Registrum Observation Notes as a disclosed digit restatement;
+condition already satisfied and left alone (`R-05`). The Registrum faction line was a **10-dossier exact
+carrier**, re-authored to this file's own parties (the Mint assay office, the Keepers' collection schedule), which
+with the Resistance and M.A.W.-debit carriers took the residue board from 21 to **20** distinct lines and 252 to
+**240** instances. Archive dirty 934 → **932**; median 0.019 → **0.018**; worst steady **0.124**. Movement:
+`R-29` 112 → **113 / 301** (series **223**); section-clean 136 → **137 / 301**; residue-free 180 → **183 / 302**
+(carriers 119, instances 240, lines 20); file-clean steady **219 / 302**. **Batch 16 is closed at three.**
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1572,7 +1585,10 @@ and the retired 10-dossier M.A.W. never-costless carrier took that residue line 
 (carriers 123, instances 257, lines 21). Learned Your Face `C-IIIγ-195` came off it as the unit-2 close (7 → 0
 dirty sections in three waves, 7,349 → 7,924 words, the 41-dossier stock tale in its Story Log Entry 5 replaced
 with the sealed-room register, plus Apostle Maker `C-Iα-071c` 2 → 1 as a side effect). **Weeping Statue
-`C-IIβ-055` (2, 0.442, series open)** remains as batch 16's final unit; Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
+`C-IIβ-055` came off it as batch 16's final unit (2 → 0 dirty sections in one wave, series closed on the file's
+own assaying figures, 7,375 → 7,705 words), closing the batch at three. **Batch 17 opens at three** on the
+re-derived tier: Risus `C-Iα-150` (8, 0.432), Floating Pillar `N-IIIγ-409` (7, 0.430) and The Dancing Chains
+`C-IIIγ-102` (6, 0.429); Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
 series open) remain in the cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
