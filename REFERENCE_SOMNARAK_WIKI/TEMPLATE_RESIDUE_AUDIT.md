@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 81 / 303 dossiers free of template residue.**
+**Counter: 84 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,14 +225,32 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  3889   (prose only; R-23 furniture excluded)
-median generic fraction       0.056
+shared 8-grams (>= 10 files)  3814   (prose only; R-23 furniture excluded)
+median generic fraction       0.053
 worst                         0.195
-clean at <= 0.05              140 / 303   (file level; section-clean is 60)
+clean at <= 0.05              143 / 303   (file level; section-clean is 63)
 ```
 
-**Counter: 60 / 303 dossiers section-clean (`R-27`) — every description-bearing section at or
-under 0.05. Secondary: 140 / 303 file-clean on the whole-file fraction.**
+**Counter: 63 / 303 dossiers section-clean (`R-27`) — every description-bearing section at or
+under 0.05. Secondary: 143 / 303 file-clean on the whole-file fraction.**
+
+**Fifth `R-27` batch, 2026-10-05 — three shipped.**
+
+| Dossier | Worst section before | Dirty sections | Instrument the repair gave it |
+|---|---|---|---|
+| The Echo Compass `C-IIIβ-016` | M.A.W. **0.764** | 7 | settle rate — 94 bearings in 188 two-minute channels |
+| Rising Well `C-IVδ-869` | M.A.W. **0.752** | 7 | shaft height above its own collar, and a cause-line that must stay blank |
+| Broken Mirror `C-IIα-081` | M.A.W. **0.751** | 8 | 188 shards, 41 authorised viewings, against the Keepers' erasure register |
+
+M.A.W. Equipment has now replaced Behaviour at the head of the section league: the stock
+*"Appearance: a [shape] of [element] Han-[material]"* / *"Cost: the wielder loses small nameless
+memories"* block is the densest surviving generated text in the archive.
+
+Three shipped rather than five: each of these carried 43–45 dirty lines across seven or eight
+sections, and the two remaining files at this level — The Convergence `C-Vδ-010` and Dawn of
+Mourning `C-Vω-001` — carry 60 and 62. Those two are ω/δ-grade canon with eleven dirty sections
+apiece and are first in the next batch.
+
 
 **Fourth `R-27` batch, 2026-10-05 — three shipped, two held, and three repairs to my own earlier work.**
 
