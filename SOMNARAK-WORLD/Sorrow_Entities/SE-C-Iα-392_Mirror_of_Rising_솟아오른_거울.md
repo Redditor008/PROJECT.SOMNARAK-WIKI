@@ -131,7 +131,7 @@
 - **The Sorrow:** Being correctly and deliberately struck. Not forgotten, not mislaid — removed by signature, for a reason that was sound, by people who recorded exactly what they were doing.
 - **The Event:** A ward of nine thousand two hundred people was amalgamated into the Mask Market and its name was struck from the gazetteer, the plates recut, and the alternate refused, on the dispatch directorate's standing advice that two names for one place costs minutes a crew does not have. The instruction is dated, signed, and still held.
 - **The People:** The nine thousand two hundred people of an amalgamated ward in what is now the Mask Market. The ward's name is known; it is on the gazetteer's strike list, dated, with the signature of the officer who struck it. Nobody has had to reconstruct it and nobody ever lost it.
-- **Expanded origin context:** The older account of a Weaver who dreamed too deep is wrong and has been removed; there was no Weaver, and the originating act is an administrative one performed in daylight by named officers. The dispatch case for striking absorbed names is the strongest in this wing. One name, one place, is why a crew reaches a door in six minutes rather than seventeen, and the directorate's chair has sat with the families on the other side of seventeen. The holding has never responded to a death, a demolition, or a resident leaving. The rise sat at baseline through all three. It responds to the strike list, which the gazetteer office did not begin publishing until Year 4219.
+- **Expanded origin context:** There was no Weaver and no accident. The originating act is an administrative one, performed in daylight by named officers, and the strike list records the ward, the date and the signature of the officer who struck it. The dispatch case for striking absorbed names is the strongest in this wing. One name, one place, is why a crew reaches a door in six minutes rather than seventeen, and the directorate's chair has sat with the families on the other side of seventeen. The holding has never responded to a death, a demolition, or a resident leaving. The rise sat at baseline through all three. It responds to the strike list, which the gazetteer office did not begin publishing until Year 4219.
 
 ## Behavior
 
@@ -292,7 +292,7 @@ I cannot tell the directorate that nine thousand two hundred names on a plate ar
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Mirror of Rising; the other feeds it.
+> The figure is climbing out of its own reflection and the worker has no name for the face, only the strike list's entry for the ward of nine thousand two hundred, and the choice is what to do with the silence in front of it.
 
 | Do the thing on file: Name what is known without inventing the missing parts. | Improvise something kinder, which is how every failure on Mirror of Rising's file began. |
 |---|---|
