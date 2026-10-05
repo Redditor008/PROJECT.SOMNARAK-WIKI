@@ -312,7 +312,7 @@ You enter a room and stop at a line no one drew. Air presses against your chest.
 
 **With continued exposure:** You stop being able to say which side you came in from. It is not disorientation — the street is legible and the buildings are where they were — it is that the question of which half you are standing in stops having an answer.
 
-**When the entity activates:** When the Gauge tips, the Weight becomes a force rather than a feeling. The Place-Grudge was holding; now it releases.
+**When the entity activates:** The two sides stop agreeing about anything measurable at once — temperature, sound, the direction the dust drifts — and the street becomes, briefly, two streets with nothing between them.
 
 **After departure:** You check which side of something you are on. Wardens coming off the line report it for about a day and the station's briefing calls it the mildest after-effect in Old Lament.
 

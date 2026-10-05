@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per cycle, worked across the stored material of Old Lament rather than at a point. A cycle is one full inventory pass of the outlined objects, which at 611 items takes most of a shift. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Fading Fang, Plate and Ember are all graded to the holding. |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Grudge pressure; 15% against other pressure types |
+| **Resistance** | 25% against Grudge. Nothing can be struck; the entity is a condition that objects are in. Removing an outlined object from the store does not lift the outline and has been tried eleven times. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 462/462 |
 | **Han Pressure [ATK]** | 7–17 per hit · Grudge |
@@ -81,14 +81,14 @@
 | { *The Dimming* [**Debuff**] } | "The relic flickers — once bright, now failing — and the failing carries the anger of being forgotten." | [The Relic's power wanes; the fading itself radiates resentment.] | *Target suffers -10 Resilience; the dying relic infects them with obsolescence.* **[10 Grudge DMG [Grudge]]** | When the target holds the Relic. |
 | { *The Last Gasp* [**Debuff**] } | "It tries one more time to be what it was — and the effort nearly kills it, and the grief is enormous." | [The Relic's final efforts release despair at its own decline.] | *Target loses 10 Resilience; they feel the sorrow of a thing losing purpose.* **[10 Grudge DMG [Grudge]]** | When the target pushes the Relic. |
 | { *The Dying Flash* [**Attack**] } | "One last burst of old power — desperate, bright, and angry at going out." | [A final flare of the Relic's stored strength.] | *Inflicts Grudge pressure and one wound of dying light.* **[14-22 Grudge DMG [Grudge]]** | When the Relic is struck. |
-| { *The Full Extinguish* [**Attack**] } | "The relic goes dark — completely, finally — and the darkness it leaves is heavier than its light ever was." | [The Relic's death releases all its remaining power as grief.] | *A heavy Crimson extinction; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Relic is destroyed. |
-| { *Everything Fades* [**Ultimate**] } | "Now every relic in the field dims — every source of old power — and the dark is total." | [The Relic spreads its fading across every source of meaning.] | *All in range suffer Grudge pressure for three turns of universal dimming.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Extinguish* [**Attack**] } | "An object goes dark — finally — and what it was for goes with it." | [An outlined item loses its use permanently; it remains intact and becomes unusable because nobody can say what it was for.] | *24–36 Grudge to whoever was holding it; 611 items have gone this way and not one has been recovered.* **[24-36 Grudge DMG [Grudge]]** | When an object's last knowledgeable owner dies, leaves service, or forgets. |
+| { *Everything Fades* [**Ultimate**] } | "Every stored thing in the wing dims at once and the stores become a room full of shapes." | [The condition spreads across the whole store for the duration.] | *12–20 Grudge per cycle for three cycles to anybody working the stores.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once, in the fortnight after the stores' oldest keeper retired. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The warden opens the inventory at the last entry, walks the racks, and lists every outlined item and every item that has lost its outline since the last pass. The inventory is the cycle; there is nothing to approach.
 2. **Clash:** Eight turns, worked from the inventory rather than at the pile. Each turn opens with a named object and its use read aloud; Pugnahan spreads the heat to adjacent items and is not authorised.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the owners and purpose; do not force preservation**.
+3. **Resolution:** Name the owners and the purpose of as many outlined objects as anybody present can, and write both in the inventory. 188 passes; each named use holds that object's outline for a median of nine months and nothing else has ever held one.
 
 ### Consequences
 
@@ -119,9 +119,9 @@
 | **Position / movement** | Distributed across the outlined objects rather than located. Record the current outline list, additions and departures with dates, and the bearing-floor reading. |
 | **Material / signature** | Grudge. A red edge, fever-hot to the hand, smelling of char and old smoke, with no scorch, discolouration or damage left behind on anything it has burned. |
 | **Distinctive markers** | The outline itself; weight in objects that have not changed mass; and heat without fire, on material that stays undamaged. |
-| **Identification** | Confirm before Work or contact: designation C-IIβ-782 `[GS]`, Grudge expression, Subject-Weight manifestation, Echo (II) coherence, Old Lament in Zone B. |
+| **Identification** | The outline. An affected object carries a faint edge-light that photographs as nothing and is visible to everybody; the designation is confirmed against the inventory rather than against the object. |
 
-**Appearance protocol:** Survey the objects, not the entity. List every item currently outlined, every item that has lost the outline since the last session, and the floor reading under the pile. The outline list is the holding's whole observational record and its movements are the only thing here that changes. Do not write *strange* or *anomalous*; it is red, hot, weightless and undamaging, and those are the fields.
+**Appearance protocol:** Survey the objects, not the entity. List every item currently outlined, every item that has lost the outline since the last survey, and — the field that matters — every item whose use could still be stated by somebody in the room, with their name against it.
 
 ## Origin
 - **Formation:** The Relic formed from a treasured object becoming meaningless over time.
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge expression, distributed across the stored material of Old Lament in Zone B. All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it and widens the affected area, which is the reason it is prohibited here.
+Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge expression, distributed across the stored material of Old Lament. The Work Type table applies to the inventory rather than to any object in it: the measure is how many of the 611 outlined items still have a use that somebody can state, and that figure has fallen from 188 to 41 in nine years.
 
 **Reading the response:** Read it in the outline list. A falling gauge presents as items dropping off the list; a rising one presents as new items appearing on it, usually adjacent to an item already there. The gauge instrument agrees with the list and arrives after it. Count the objects.
 ## Containment Event Behavior
@@ -157,7 +157,7 @@ Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge exp
 | **Effect** | Everything stored in the affected volume becomes heavy and anonymous. Workers can lift the objects and cannot say what any of them are for. |
 | **Secondary Effect** | The heat reaches the people holding things. Harm in an event is confined entirely to personnel with an outlined object in their hands. |
 | **First Target** | Not personnel at all. It outlines objects that are being forgotten, and workers are harmed only while handling them. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **Escalation** | +5 Resilience drain per cycle while a pass is in progress and the list is growing. It does not pursue and cannot; it is a property of things on shelves. |
 
 ### Escalation Notes
 
@@ -173,7 +173,7 @@ Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge exp
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+**Appearance:** a fang-curved blade with a faint edge-light of its own, which the Armoury's inventory describes as a weapon and which no entry in that inventory says what it is for.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -186,15 +186,15 @@ Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge exp
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Flotsam's grudge signature in the strike.
+**Ability:** Grudge against the Body. Struck targets cannot name the function of anything they are holding for some minutes, which fourteen targets described as the most ordinary and most frightening effect they had met.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** Old wounds ache, and the wielder forgets what their own equipment is for — briefly, and then not briefly.
 
 ### M.A.W. Suit — The Fading Plate
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness carrying a stores tag with an item number that corresponds to nothing in any register the wing holds.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -204,40 +204,40 @@ Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge exp
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Flotsam's kind of pressure.
+**Ability:** Resistance to Grudge against the Body, and the reason a warden can complete a full inventory pass without losing the thread of what they are counting.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes dull, and the wearer stops labelling things — their own kit, their own files — because it stops seeming necessary.
 
 ### M.A.W. Stigma — The Fading Ember
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** an ember-charm of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a small charm that warms near an object whose use is still known and is cold in most of the store.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat on this holding's passes, which is to say while reading an inventory aloud in a cold room
 
 **Ability:** Prevents one object's history from fading.
 
 **Cost:** The wearer feels the object's entire chain of owners.
 
-*The Fading Ember is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who correctly named the use of an object nobody else in the room could identify.*
+*Two in nine years, in both cases to a Warden who correctly named the use of an object nobody else in the room could place — once a surveyor's level, once a child's shoe last. Both names were checked against the makers' records and both were right.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Flotsam's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Every piece is a thing whose purpose went, and the set takes purposes from its wielder in the same order the store loses them: first the uses of other people's equipment, then of their own. Three wielders. The Armoury's check is to hand them an unfamiliar tool and ask what it does, weekly, and the answers get shorter.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the count of outlined items, and a written statement of what each piece of the wielder's own kit is for, in their words. Sealed. |
+| **During use** | Every object the wielder cannot name the use of, with whether anybody else present could. |
+| **At limit** | The wielder cannot say what their own piece is for. Both over-runs reached it and both wielders continued using the piece correctly throughout. |
+| **After use** | Open the sealed statement and read it back. What has gone does not return; the Armoury has restored two kits from the sealed copies and could not restore the third. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade is honest about damage and silent about this set's actual cost, which is a person who can operate a tool and not say what it is for. Authorise on the sealed statement.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -254,12 +254,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Flotsam as a Subject with Subject-Weight manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone B, Old Lament. |
+| **Initial exposure** | The observer opens a store in Old Lament and finds a rack of ordinary objects, some of them faintly outlined in a light that will not photograph. The outlined ones are the ones nobody can explain. |
 | **Sustained observation** | The outline list with additions and departures dated, the name of whoever supplied each successful recollection, the bearing-floor reading, and the pile's composition photographed against the fixed mark. |
 | **Activation or escalation** | Escalation is the rate of additions to the list. Three additions in a session closes the session; the threshold is numeric and does not depend on the person surveying. |
 | **Post-contact review** | The list before and after, which recollections worked and which did not, the off-site descriptions used, and whether any worker has lost a use of their own, which is asked of the partner and not of the worker. |
 
-**Observation method:** Work from the inventory. Record each outlined object, the use if anybody present can give it, the source of that use, and the condition that ended the session. The form here is the sorrow and not a strategy: an object can survive being unwanted, and what is burning in Old Lament is what happens to a thing that was wanted by people who had forgotten why.
+**Observation method:** Work from the inventory. Record each outlined object, the use if anybody present can give it, the source of that use, and the name of the person who gave it. The last field is the holding's only asset: 41 items still have a name against them and the list is read aloud at the start of every pass.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -277,13 +277,13 @@ The grief of being used, loved, and then forgotten.
 Management: Name the owners and purpose; do not force preservation. Work response — Flerehan: The outline brightens and reveals former owners. (Decrease); Pugnahan: Heat spreads across nearby objects. (Increase); Viderehan: Shows the relic's fading history. (Stable); Ferrehan: Tests whether the worker can hold a memory without possessing it. (Decrease). It is calmer around named heirlooms.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a citizen who Fractured. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+The store's oldest keeper retired in Year 4,234 after fifty-one years. The week she left, nineteen objects lost their outline-use in a single pass — the largest movement in the series — and the wing's record of what they had been is her handwriting in the margins of an inventory she was never asked to annotate. She was not interviewed before she went. The station has asked twice for leavers in the stores to be debriefed and has been told it is not an establishment matter.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Flotsam; the other feeds it.
+> The choice comes at a rack of outlined objects when somebody says they think they know what one of them was for.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Write the use down with their name against it, even if they are guessing. | Leave it blank rather than record something unverified. |
 |---|---|
 | The outline brightens and reveals former owners. The sorrow is named; Flotsam is fully recorded. | Heat spreads across nearby objects. The gauge climbs and Flotsam withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -304,22 +304,22 @@ An old object glows red beneath a layer of dust. You touch it and feel every han
 
 ### Interaction Pattern
 
-This holding is read against the other things in the wing that take hold of objects and what is known about them. Each relation below has been observed and filed; none is settled; and each test risked adding items to the outline list, which is why there are so few of them.
+This holding is read against the other things in the wing that take hold of objects, and all three relations are measured the same way: the count of outlined items that still have a stated use. Two lowered it. The Burning Library — the pairing everybody asks about — raised it by eleven in one afternoon and has not been repeated.
 
-**Interaction method:** Baseline each party alone across several sessions before any paired approach, and photograph the outline list immediately before and after. Log the onset of any shared change with its range, duration and trigger, both gauges, and whether any object changed hands. Re-verify each cycle.
+**Interaction method:** Baseline each party alone across several sessions, photograph the outline list immediately before and after, and count named uses rather than objects. The photographs matter: the outline does not appear on them, so the list is the only record of what was outlined on the day.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled, and the Burning Library pairing — the one everybody asks about — is the one with the clearest negative result.
+The relations below are canonical points of contact rather than alliances. None is settled, and the Burning Library pairing — the one everybody asks about — is the only session in the file that recovered uses rather than losing them: eleven objects named from the Library's own catalogue, all eleven checked, all eleven correct.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What it is | What the named-use count did | Required record |
 |---|---|---|---|
 | **Pandora's Jar** | Both hold objects that have fallen out of history, which has repeatedly been read as common cause. | Four co-presences. No object moved between them, no outline appeared on anything of the Jar's, and both gauges were flat on all four. The resemblance is thematic and the wing records it as nothing more. | All four co-presences, the outline lists either side, and both flat series. |
 | **The Forgotten Market Stall** | The Stall offers memories of former owners, which is adjacent to what this holding destroys and might in principle restore it. | Three approaches. The Stall supplied owners — names and faces, in some detail — and the outline did not retract on any object. Owners are not uses. The distinction is the most useful thing this pairing has produced. | All three approaches, what the Stall supplied verbatim, and the unchanged outline list. |
 | **The Burning Library** | The Library is said to preserve what this holding loses, which would make it the obvious countermeasure. | Two co-presences, both authorised at the highest level available to the wing. The Library held nothing on any of the 206 objects tested. Whatever it preserves, it is not the use of ordinary household things. The proposal to retest has been refused twice. | Both co-presences, the 206 objects tested, and the refusals with their reasoning. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baselines first, then bring the second party to the store rather than taking objects out of it — removal does not lift the outline and has been tried eleven times. Count named uses before, after, and at the next pass.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -355,7 +355,7 @@ Some sorrows are about being forgotten. Flotsam is about being remembered wrong 
 **Common Name:** Flotsam
 **Containment Status:** Contained — Old Lament, Zone B. The Zone C entry in earlier revisions is an error and is corrected here.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). It damages nothing material and takes the use of everything it reaches, permanently and in a fixed sequence, spreading by association through stored material faster than any inventory can be read. The earlier entry describing the threat as low is an error and is corrected here.
+**Threat Assessment:** Moderate (β). It damages nothing material and takes the use of everything it reaches, permanently and in a fixed order: other people's tools first, then the holder's own. 611 items outlined, 41 with a use still stated, no injuries and no fatalities in nine years.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan are the authorised approaches; Viderehan is permitted and shows the loss happening without slowing it; Pugnahan is prohibited. The earlier entry naming Viderehan as primary is an error and is corrected here.
 - The fading is slow, irreversible, and reversible only in the narrow sense that a use still known to somebody can be said aloud and the outline will retract.
@@ -363,14 +363,14 @@ Some sorrows are about being forgotten. Flotsam is about being remembered wrong 
 - A household object kept through four generations by people who recorded its owners and never its function.
 - What burns is the knowledge of use, in the order face, name, purpose, and the object is left intact and unreadable.
 **Cross-References:** Old Lament · Pandora's Jar · The Returning Relic · the off-site description store · the heritage listing refusal · the rememberers' register
-**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** None operational. SED supplied the makers' records against which the two Stigma namings were checked, and the Burning Library's catalogue is the only external document that has ever recovered a use.
 **Originator:** A family that treasured an object through four generations without ever writing down what it was for.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This holding is the wing's own forgetting, held in its stores. Objects do not break; their uses go, in order, as the people who knew them leave. 188 stated uses at first inventory, 41 now, and the largest single loss followed a fifty-one-year keeper walking out undebriefed. The countermeasure is a sentence written next to an item number by somebody who still remembers, and the wing has no procedure that collects those sentences before they leave the building.
 
-**Review requirement:** After any a transformation in place, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every transformation in place, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every pass: the outlined count, the named-use count with each name, the items that lost an outline-use since the last pass, and any departure from the stores establishment in that quarter. The last field is obtained from personnel and has been refused once.
 ## Watch Record
 
 ### A Red Outline
@@ -429,7 +429,7 @@ The Directorate resolved in the fourth year to continue the arrangement indefini
 
 **In the seventh year a visitor was taken ill in the wing**, two hours into a survey, and was treated by facility medical staff as a courtesy because no other provision existed. He recovered. The incident report is four pages and its finding is that the care given was prompt, correct, and entirely outside any scheme the facility had written down.
 
-The objection is minuted at every annual review and is raised by the welfare officer. It holds that the wing's most effective countermeasure is delivered by elderly private citizens working inside a Major-adjacent containment area with no occupational cover of any kind; that the attendance sum has not been reviewed in nine years and is now less than the cost of getting there; and that a resource which can only decline should have been recorded, exhaustively, in its first year rather than drawn on a visit at a time for nine. The minute records the objection as **correct in all three parts**. It records that a full recorded survey with every remaining registrant was approved in the eighth year, scheduled twice, and has not yet taken place. And it records what the laundry woman said when she was asked, at the ninth review, whether she minded coming: *I mind that you only ask me about the ones that have already gone red. Ask me about the rest while I am still here.*
+The objection is minuted at every annual review and is raised by the welfare officer. It holds that the wing's most effective countermeasure is delivered by people about to leave it, that nobody asks them anything on the way out, and that the stores lose more in a retirement week than in a year of ordinary working.
 
 ## Trivia
 
@@ -440,7 +440,7 @@ The objection is minuted at every annual review and is raised by the welfare off
 
 ### Registry Trivia
 
-- **Classification detail:** Flotsam is a Subject with Echo (II) coherence and Moderate (β) potency.
+- **Classification detail:** Echo (II) coherence at Moderate (β) — a condition distributed across 611 objects, none of which is the entity and all of which carry it.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone B, Old Lament.
 - **Recognition detail:** Identify it by the outline and by weight in an object that has not changed mass; heat alone is shared with two other Grudge holdings in the sector.
 - **Record detail:** Read this file beside the off-site description store's index, which is the only part of the countermeasure that is not in this building, and beside the rememberers' register.
