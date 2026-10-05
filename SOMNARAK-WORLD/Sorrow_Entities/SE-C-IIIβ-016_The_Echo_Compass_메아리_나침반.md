@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per channel, and a channel runs two minutes. The Forge District station notes that this is the shortest paid cycle in the wing and that the paperwork around it takes an hour. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 30% against Void pressure; 20% against other pressure types |
+| **Resistance** | 30% against Void. The instrument is brass and glass and has never been tested against anything; the figure is schedule carry-over and the station reads the bearing log instead. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 435/435 |
 | **Han Pressure [ATK]** | 10–23 per hit · Void |
@@ -73,23 +73,23 @@
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-01, Forge District |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | The bearing is logged, the case is closed in the register, and the needle is left where it settles. 188 channels; the needle has settled in 94 and spun for the rest, and the register records which. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Lost Bearing* [**Debuff**] } | "The needle swings toward your grief, and suddenly you cannot tell which way is forward." | [The Compass orients to the target's sorrow; the disorientation is immediate.] | *Target loses clarity and direction; the Compass has found them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Compass is held or addressed. |
-| { *The Spinning Needle* [**Debuff**] } | "The needle will not settle — and neither can you." | [The Compass's needle spins; the target's sense of direction unravels.] | *Target loses composure as every way becomes the wrong way.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers near the Compass. |
-| { *The Pointing* [**Attack**] } | "It points at you — and all the sorrow it was aimed at comes your way." | [The Compass directs a pulse of accumulated lost-thing sorrow at the target.] | *Inflicts Void damage; a piece of what was lost strikes home.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target is named or targeted. |
-| { *The Wrong Way* [**Attack**] } | "It leads you where the lost things are — and they are not glad to be found." | [The Compass misdirects the target into the gathered sorrow it tracks.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Compass is shaken or mistrusted. |
-| { *Every Loss at Once* [**Ultimate**] } | "The needle points everywhere — to every grief, every gone thing, all at once." | [The Compass opens to every loss it has tracked, flooding the field.] | *All in range suffer Void erosion for three turns.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Lost Bearing* [**Debuff**] } | "The needle swings to your own loss and the room stops having a forward." | [The compass orients on the holder's grief rather than on the named case.] | *Void pressure; the holder cannot afterwards say which way they came in, for about a quarter of an hour.* **[Void DMG [Void]]** | When the person holding it has an open loss of their own. |
+| { *The Spinning Needle* [**Debuff**] } | "It will not settle, and neither will anybody watching it." | [The needle turns continuously; the case has no bearing.] | *Void pressure to everyone present. Ninety-four of 188 channels end this way and the station logs each as a case with nothing to point at.* **[Void DMG [Void]]** | When the thing named is not lost but destroyed. |
+| { *The Pointing* [**Attack**] } | "It points at somebody in the room." | [The needle fixes on a person rather than a direction.] | *Heavy Void damage to that person; eleven occurrences, and in nine the person had reported the loss being searched for.* **[Void DMG [Void]]** | When the holder names a thing the case-holder lost. |
+| { *The Wrong Way* [**Attack**] } | "It takes you to where the lost things are and they are not glad to be found." | [The bearing is accurate and leads somewhere nobody wanted it to lead.] | *Void damage; four parties have followed a bearing to its end and all four write-ups are sealed at the district's request.* **[Void DMG [Void]]** | When a bearing is followed rather than logged. |
+| { *Every Loss at Once* [**Ultimate**] } | "The needle points to every direction at once and every one of them is a case." | [All open losses in the district register simultaneously.] | *Void erosion to everybody in the Forge District for three cycles.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, once, in the week the district's missing-property register passed eleven hundred open entries. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The compass stays on its stand, the case-holder states one lost thing aloud, and the channel is opened for no more than two minutes. Nobody holds it who has an open loss of their own; that is asked at the door and taken on trust.
 2. **Clash:** Six turns, worked from the stand with the case open and the bearing read aloud by a second person. Nothing is followed, and no turn is taken while the needle is accelerating.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The bearing is written in the register against the case number, and the case is closed whether or not the bearing was any use. 188 channels and 94 bearings; eleven have been matched to a recovery and the station counts that as a good return.
 
 ### Consequences
 
@@ -120,7 +120,7 @@
 | **Position / movement** | On the stand, in the open case, during a session only. Record bearing in degrees, rate of swing, first-response range, and the time the case was closed. |
 | **Material / signature** | Void. Tarnished brass, warm in the hand; a yellowed bone needle that drags rather than swings; casing letters that are never twice in the same order when re-read. |
 | **Distinctive markers** | A compass face with no cardinal points, a bone needle under glass, and lettering that rearranges when nobody is watching it. |
-| **Identification** | Confirm before Work or contact: designation C-IIIβ-016 `[VO]`, Void expression, Object-Void manifestation, O-Relic tool class, SECTOR-D-01 in the Forge District. |
+| **Identification** | A brass compass the size of a palm on a fixed stand, needle unmarked, with no cardinal points engraved on the face. The absence of the points is the identification; every other instrument in the Forge District has them. |
 
 **Appearance protocol:** Record bearing in degrees, rate of swing, first-response range, and the condition of the casing lettering. Bearings are degrees and stay degrees; nothing in the appearance record is permitted to name a place. Do not write *strange* or *anomalous*; it is small, warm, tarnished and never still, and those are the fields.
 
@@ -145,14 +145,14 @@
 
 ### Operational Work Notes
 
-The Echo Compass is a Fragment (III) Object/Place with Object-Void manifestation and Void expression, held at SECTOR-D-01 in the Forge District and classed as an O-Relic. Viderehan and Ferrehan are the only valid approaches and the restriction is correct on this holding rather than inherited from a template. Ferrehan lowers the gauge; Viderehan holds it level and produces the bearing record.
+The Echo Compass is a Fragment (III) Object/Place with Object-Void manifestation and Void expression, held at SECTOR-D-01. The Work Type table applies to a two-minute channel and the number the station keeps is the settle rate: 94 settled bearings in 188 channels, falling in every quarter the district's missing-property register grows and rising in the two quarters it was worked down.
 
 **Reading the response:** Read it in the rate and the first-response range, not in the bearing. A falling gauge presents as the swing slowing and the range drawing in; a rising one presents as acceleration and a range that reaches further than the session before. The bearing itself carries no information about the holding at all — it is about the room, the wing and the district, which is a different matter and is dealt with below.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
-> **This Relic is Capable of Sector / Facility Alteration**
-> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+> **Open channel: this relic gives an accurate bearing to something lost, and does not care whether anybody wanted it found**
+> **An abandoned channel leaves the needle turning and the district's own instruments unreliable for a day**
 
 **Activation Trigger:** Hold the Compass and name a lost thing.
 
@@ -174,15 +174,15 @@ The Echo Compass is a Fragment (III) Object/Place with Object-Void manifestation
 | **Termination / Return** | The operator closes the channel deliberately, sets the Compass on the stand, and shuts the case before standing up. Abandoning an open channel vents Void resonance across the sector and has done once. |
 | **Risk** | Indefinite following. The bearing is always valid, there is always more grief further along it, and nothing in the instrument ever says stop. |
 
-**Operational Rule:** The relic requires continuous concentration and an open conduit, and cannot substitute for scheduled Work. The channel is attended at all times by a second person whose only task is the clock and the case.
+**Operational Rule:** Continuous concentration, an open conduit, two minutes, and a case-holder who is not the channeller. The channel cannot substitute for scheduled Work and has twice been proposed as a search method, which is what the two-minute limit exists to prevent.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The Echo Compass begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates The Echo Compass: Points toward the nearest related sorrow source. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 10 Seconds | The needle lifts off its rest and the chamber smells faintly of cold brass. | The channel opens; the bearing is available to the holder and to nobody else in the room. |
 | 30 Seconds | The conduit widens and the channeller begins receiving the thing the makers were after: not a direction, but the sense of how much there is in every direction. | The aura expands to Range Band 2; allied units in the sector gain elemental defence while focus holds, and the channeller's own bearing-reporting becomes unreliable. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of The Echo Compass's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 1 Minute | The holder begins to want to follow it. | Composure drains steadily; the case-holder's task from here is to read the case number aloud every twenty seconds, which has ended eleven channels. |
 | 2 Minutes | The flow reverses toward the facility and the pointing spreads to other instruments; three in the sector have been observed agreeing with it. | Overload or abrupt abandonment vents an uncontrolled Void shockwave across the sector. The two-minute limit is enforced by the case-holder and not by the channeller. |
 
 ### Escalation Notes
@@ -211,7 +211,7 @@ Escalation here is range and rate, not force. Record the first trigger, the firs
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a ground glass disc that quivers when raised and settles pointing at whatever in the room its holder has most recently lost.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)
@@ -224,15 +224,15 @@ Escalation here is range and rate, not force. Record the first trigger, the firs
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Echo Compass's void signature in the strike.
+**Ability:** Void against the Soul. Struck targets know the direction of something they have lost and nothing else about it — not what, not when — which all fourteen described as worse than not knowing.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Small nameless memories, and specifically the ones that would locate a thing: where it was kept, which room, which shelf.
 
 ### M.A.W. Suit — The Lost Veil
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a near-colourless veil that hangs always toward the same quarter of any room, which the Armoury has checked against a true compass and found unrelated to north.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -242,40 +242,40 @@ Escalation here is range and rate, not force. Record the first trigger, the firs
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Echo Compass's kind of pressure.
+**Ability:** Resistance to Void against the Soul, and the reason a channeller can hold a settled bearing for the full two minutes without starting to walk.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent to themselves and stops being able to find their own belongings in their own quarters.
 
 ### M.A.W. Stigma — The Lost Compass
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a compass-charm of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a small compass-charm with no face markings, light, whose needle points at the bearer's own chest when nothing is lost nearby.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the working stat on this holding's channels, which is to say during two minutes of standing still and writing a number down
 
 **Ability:** Reveals which direction is wrong for the current objective.
 
 **Cost:** It never identifies the correct direction.
 
-*The Lost Compass is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who logged a bearing, closed the case, and did not mention where it had been pointing.*
+*Two in nine years, in both cases to a Warden who logged a bearing, closed the case, and did not follow it. Four parties have followed one; none of them has been given anything and all four write-ups are sealed.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to The Echo Compass' element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Every piece points at something, and the set takes from its wielder the ability to find their own things: the memory of where an object was kept goes first, then the habit of putting things anywhere in particular. Three wielders. All three could still give an accurate bearing to a stranger's lost property and none of them could locate their own kit without searching.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the settle rate, and a written list of where five of the wielder's own possessions are kept. Sealed. |
+| **During use** | Every bearing given, with the case number, and whether the wielder attempted to follow it. |
+| **At limit** | The wielder walks a bearing without being asked to. Four occurrences; all four stopped when the case number was read aloud. |
+| **After use** | Open the sealed list and ask for each location. Two of three wielders could not place three items apiece and both had been using those items that week. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes extraction stability and is silent about an instrument that finds other people's losses by taking its holder's sense of where things are. Authorise on the sealed list.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -292,18 +292,18 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Echo Compass as an Object/Place with Object-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-D-01, Forge District. |
+| **Initial exposure** | A brass compass on a stand with no cardinal points on the face. The needle is still. The identification is complete at that point and the rest of the cycle is a case number and a clock. |
 | **Sustained observation** | Bearing in degrees, rate of swing, first-response range, the casing lettering, and whether any other instrument in the sector has begun to track with it. |
 | **Activation or escalation** | Activation is holding it and naming something lost. Escalation is range: when the first-response range exceeds the previous session's by more than two metres, the session closes. The threshold is numeric and the case-holder applies it. |
 | **Post-contact review** | Bearing and rate before and after, the range, whether the channeller asked where the bearing led, and a counsellor's note at 14 days aimed at whether the worker has resumed a search of their own. |
 
-**Observation method:** Observe from the stand with a case-holder present, for one channel of no more than two minutes. Record the bearing, the rate, the range, and the condition that ended the session. The form here is the sorrow and not a strategy: an instrument built to find what was hidden, which found that nothing is hidden and everything is grieving, and which has been reporting that correctly ever since.
+**Observation method:** From the stand, with a case-holder present, for one channel of no more than two minutes. Record the bearing, the settle time, the case number, whether the needle settled at all, and whether anybody moved toward the bearing. The last field is the one the station reads first.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Echo Compass (C-IIIβ-016 [VO]) is logged as a Object-Void manifestation expressing Void. The Compass formed from the need to find what the city hid. Held at SECTOR-D-01, Forge District. The needle spins continuously in Somnarak.
+The Echo Compass is a palm-sized brass instrument on a stand in the Forge District, with an unmarked needle and no cardinal points on its face. Name a lost thing where it can hear and it gives a bearing — accurate, usable, and indifferent to whether the thing wanted finding.
 
 **Entry 2 — <Rate of Turn>**
 It points faster near concentrated sorrow.
@@ -319,9 +319,9 @@ Nothing wilts near the Compass and nothing hums; the air in the case is ordinary
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Echo Compass; the other feeds it.
+> The choice is a settled needle, a case number, and two minutes left on the channel.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Write the bearing in the register and close the case. | Follow it — it is pointing, and somebody is waiting on an answer. |
 |---|---|
 | Tests whether the worker can follow without expecting relief. The sorrow is seen clearly; The Echo Compass is fully recorded. | Reveals patterns in its direction changes. The gauge climbs and The Echo Compass withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -342,22 +342,22 @@ The needle spins in every district. In the Old Lament it becomes a blur; in the 
 
 ### Interaction Pattern
 
-This holding is read against the other things in the wing that register grief at a distance. Each relation below has been observed and filed; none is settled; and all three were tested with the bearings logged in degrees and never resolved to a place.
+This holding is read against the other things in the wing that register grief at a distance, and all three relations are measured on the settle rate. Two lowered it. The third gave the only bearing in the file that was followed with the district's blessing, and that write-up is sealed with the rest.
 
-**Interaction method:** Baseline each party alone across several channels before any paired approach, with bearing, rate and range logged throughout. Record the onset of any shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
+**Interaction method:** Baseline each party alone across several channels, with bearing, settle time and range logged throughout. Bring the second party into the chamber rather than taking the compass out of it; the stand has not been moved in nine years and the two proposals to move it are in the file.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled, and all three have the same structural weakness: the Compass reports grief, every entity in the wing is made of grief, and a positive reading proves nothing about either party.
+The relations below are canonical points of contact rather than alliances. None is settled, and all three share the same structural weakness: the compass reports a direction and nothing else, so a pairing can only ever establish that two holdings are interested in the same quarter of the district.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What it is | What the settle rate did | Required record |
 |---|---|---|---|
 | **The Memory Well** | The needle holds steady on the Well longer than on anything else tested, which has repeatedly been read as a special relation. | Five channels. Mean dwell 31 seconds against a wing median of four. The Well's own gauge did not move on any occasion and nothing was retrieved. The dwell is a measure of what the Well contains, not of any exchange between them. | All five channels, the dwell times, and the Well's flat series. |
 | **The Sorrow River** | The needle turns toward the underground source rather than the visible channel, consistently and against the obvious reading. | Four channels, all giving a bearing within three degrees of each other and all pointing below the sector. The survey has never been authorised, so the bearing remains unverified and is kept as a bearing. | All four bearings, the three-degree spread, and the absence of any confirming survey. |
 | **The Frozen Relic** | It finds abandoned objects along the Desolate, which is the closest this holding comes to doing its intended job. | Three field uses under escort. It located the Relic on all three, at ranges up to forty metres, and also located eleven other things nobody had been looking for. Accuracy is not the problem with this instrument and never has been. | All three uses, the ranges, and the list of eleven incidental findings. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baselines first, then a paired channel of the same two minutes with both bearings logged. The needle has never given two bearings in one channel and the station treats a second reading as a procedural error rather than a finding.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -409,7 +409,7 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The compass answers the question nobody in the district can answer: where a lost thing is. It is accurate and it is useless, because the two-minute limit and the prohibition on following a bearing are what keep it from becoming a search service — and four parties have followed one anyway, with four sealed write-ups to show for it. The settle rate tracks the district's missing-property register: 94 of 188 channels settled, falling as the register grows. The ward officer's objection is in the Warden Record and it is the right objection.
 
 **Review requirement:** Re-verify after every channel overload, expansion, extraction, or unusual interaction: the gauge, the case seal, the first-response range against the previous session, the exposure log, and whether any other instrument in the sector has begun to track with the needle. The last of those is checked by a second person and is the only item on the list that has ever been missed.
 ## Warden Record
@@ -466,7 +466,7 @@ So the district went from two people knocking on doors to a bone needle in a sea
 
 The consequences are in the record and they are not dramatic, which is the point. Two cases in the following four years were found late — one at eleven days, one at six weeks — in tenements on the old route, by neighbours rather than by anybody official. Neither review found the discontinuation causative. Both reviews said that the round would probably have found them sooner.
 
-The objection is minuted at every annual review and is raised by the district's ward officer, who attends for this item and no other. It holds that a facility instrument was cited as a substitute for a human service by people who had not read the standing order that makes it unusable; that the facility knew the citation had been made, in writing, within the quarter, and did not correct it for four years; and that reinstating the round would cost less than the holding's annual case maintenance, a comparison the facility has itself published and never commented on. The minute records the objection as **correct in all three parts**. It records that the correction was eventually sent in the fifth year, that the ward office has twice applied for the round to be restored, and that both applications failed for want of staff rather than money. And it records the ward officer's closing remark, minuted at her request: *your needle is pointing at my district right now. I am not allowed to know where, and nobody is going to go and look.*
+The objection is minuted at every annual review and is raised by the district's ward officer, who attends for this item and no other. It holds that the district has eleven hundred open missing-property entries, that this instrument gives an accurate bearing in half the cases put to it, and that the wing's rules forbid using it for the only purpose anybody in the district would want it for. The minute records the objection, the reasons for the prohibition, and the four sealed write-ups that are the reasons.
 
 ## Trivia
 
@@ -478,7 +478,7 @@ The objection is minuted at every annual review and is raised by the district's 
 ### Registry Trivia
 
 - **Classification detail:** The Echo Compass is an Object/Place with Fragment (III) — Restless and seeking coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Void, and its registered location is SECTOR-D-01, Forge District.
+- **Field detail:** Void, on a fixed stand at SECTOR-D-01 in the Forge District, worked in two-minute channels with a case-holder present.
 - **Recognition detail:** Identify it by the blank face and the bone needle; the rearranging lettering is diagnostic but cannot be checked while being watched.
 - **Record detail:** Read this file beside the bearing log, which is degrees and nothing else, and beside the construction notes, which are the only document in the holding written by somebody who was pleased with it.
 - **Containment detail:** The case is opaque for a reason unrelated to the entity: it stops personnel passing the holding from reading the bearing in passing, which happened twice before the case was adopted.
