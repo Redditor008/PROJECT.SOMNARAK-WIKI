@@ -282,7 +282,7 @@ The sealed file at the Commons station holds eleven statements, each written by 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Animus; the other feeds it.
+> The voice on the heat-line breaks off mid-sentence, and the observing worker has the length of one breath to decide whether the sentence belongs to what was said or to what was meant.
 
 | Write down the sentence as it was said, unfinished. | Finish it, silently, in your own head, the way it obviously ends. |
 |---|---|
