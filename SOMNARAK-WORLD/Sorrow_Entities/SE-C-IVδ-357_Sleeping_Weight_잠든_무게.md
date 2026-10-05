@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per cycle, drawn from something asleep under an unfinished foundation. The deep tunnels station has asked four times for the yield to be halved and the cycles doubled, on the grounds that two quiet visits are safer than one long one. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
@@ -42,7 +42,7 @@
 - A cycle deepens the sleep. The mass is unchanged, and the sleep is its stable state rather than a containment achievement.
 - A single ignored condition escalates it. The margin is nil, and the tunnel approach is run in silence by standing order.
 - Burden pressure reaches personnel as fatigue before the gauge responds; crews are rotated on a timer.
-- Extraction is authorized apart from the work cycle and is never a reward for a quiet shift.
+- Extraction is separately authorised and never follows a quiet shift; both pieces were cut during the fourth hour of a watch, when the breathing is deepest, by a team that had rehearsed the cut in silence upstairs.
 
 ## Combat Record
 ### Core Stat Line
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Weight pressure; 35% against other pressure types |
+| **Resistance** | 45% against Weight. Nothing has been struck and nothing will be. The standing order is that any contact with the mass is an incident and any noise above a spoken voice is reportable. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 809/809 |
 | **Han Pressure [ATK]** | 29–63 per hit · Weight |
@@ -81,21 +81,21 @@
 | { *The Restless Turn* [**Debuff**] } | "It stirs in its sleep, and the whole floor shifts under you." | [The Weight turns over in slumber; the ground lurches and the pressure redistributes.] | *Target suffers -10 Resolve from the sudden shift of mass.* **[10 Weight DMG [Weight]]** | When the Weight is disturbed in its sleep. |
 | { *The Dreaming Pressure* [**Debuff**] } | "Its dreams press outward — and you are inside one now." | [The Weight's dreams seep into the waking space; the target moves through someone else's sleep.] | *Target loses 10 Resolve; reality feels half-dissolved.* **[10 Weight DMG [Weight]]** | When the target lingers near the sleeper. |
 | { *The Sighing Blow* [**Attack**] } | "Even its sigh, in sleep, is enough to buckle a wall." | [A sleeping sigh becomes a wave of crushing weight rolling outward.] | *Inflicts Weight pressure and one heavy wound.* **[14-22 Weight DMG [Weight]]** | When the Weight is touched or startled. |
-| { *The Waking Fit* [**Attack**] } | "It nearly wakes — and the almost-waking is worse than sleep." | [A convulsion of near-waking; the Weight lashes out blindly with immense force.] | *A devastating Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Weight is hurt or shaken. |
-| { *If It Wakes* [**Ultimate**] } | "Do not let it wake. If it wakes, the weight of it will be on all of you." | [The Weight surges toward full waking; the threat of its complete mass bears down on everything.] | *All personnel suffer Weight pressure for three turns as it stirs.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Waking Fit* [**Attack**] } | "It nearly wakes, and the almost is worse than the sleep." | [A convulsion of near-waking; the mass shifts a few centimetres and the tunnel takes the load.] | *24–36 Weight to everybody in the cut; the props have been replaced four times and the roof has held every time.* **[24-36 Weight DMG [Weight]]** | When the burden is concentrated on one person rather than shared. |
+| { *If It Wakes* [**Ultimate**] } | "Do not let it wake. If it wakes the weight of it is on all of you." | [Full waking. Modelled, never observed.] | *Projected as facility-threatening; the entry exists so the standing order has something to point at.* **[Projected]** | Never recorded in eleven years. The nearest approach was the Year 4,233 fit, which lasted nine seconds. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The party of four goes down together, confirms the props, and divides the shift's lifting between them in advance — in writing, at the head of the stair, before anybody is tired enough to volunteer for more.
 2. **Clash:** The crew works from the ladder foot outward, calling the load reading at each station as they pass it. Pugnahan is listed as valid and has been used twice in the holding's history; both occasions are the two highest readings on record and both are cited in the standing order against a third.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not wake it; distribute the burden among a team**.
+3. **Resolution:** The shift ends with the burden shared as written and the breathing unchanged. 211 shifts; the four occasions somebody took more than their share are the four Waking Fits on file.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resolve**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Sleeping Weight’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Sleeping Weight executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- The failure here is generosity. One person quietly carrying what four were rostered to carry, because they are stronger or senior or because it is late — all four fits began exactly there.
+- Past the fourth hour the party stops talking and starts working in the silence, which is efficient and is the point at which the written division stops being enforced.
+- The set's price is measured in days off a wielder's life, as with everything cut from this holding, and the ledger records eleven days per rotation signed for in advance.
+- An unworked month leaves the breathing shallower and the mass higher under the foundation by a centimetre or two — surveyed quarterly, never recorded receding.
 
 ## Appearance
 **Primary Form:** A man-shaped figure of black weight-crystal lying on its side in the lower tunnel, braced as if under a beam that is not there, weeping without waking. **Posture:** unchanged across every photograph the holding has taken of it.
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Sleeping Weight is recorded as a Subject with Subject-Lament manifestation and Weight elemental expression. The current record places it at Zone B, deep tunnels; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+All four Work Types are available and three lower the gauge. The reading the station actually keeps is the division sheet: whether the shift's lifting was shared as written. Across 211 shifts the gauge has fallen on every shift where it was and risen on every shift where it was not, without a single exception, which is the cleanest correlation in the deep tunnels file.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A falling gauge means four people did a quarter each. It rises when one person did more, when the party worked in silence past the fourth hour, and — twice — when the shift was worked by three because the fourth had been reassigned upstairs.
 ## Breach Behavior
 
 > *"Load at station one is off the sheet. He has not moved. Nobody is being hunted — get the works above cleared."*
@@ -157,7 +157,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Effect** | Load rises everywhere above him at once, heaviest directly overhead, where the unfinished works stand. |
 | **Secondary Effect** | Personnel at every level report a duty they are failing to discharge and cannot name. Reports come in from people who have never been in the tunnel. |
 | **First Target** | Nobody. There is no target in this holding's record and the response card is drawn from that absence: clear the works, do not deploy wardens into the tunnel. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+| **Escalation** | +5 Resolve drain per cycle during a fit, and nothing at all between them. It does not pursue; it has never been anywhere other than under the unfinished foundation it was poured against. |
 
 ### Escalation Notes
 
@@ -173,7 +173,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a two-handed maul that four people can lift easily and one person cannot lift at all, which the Armoury has tested repeatedly and describes in the ledger as the honest part of the set.
 
 **Damage:** Weight 10-15
 **Speed:** 3 (Fast)
@@ -181,15 +181,15 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Sleeping Weight's weight signature in the strike.
+**Ability:** Weight against the Han. Struck targets cannot carry anything heavier than their own hands for about an hour, and the fourteen on file all describe the sensation as relief rather than weakness.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder ages, measurably, at eleven days a rotation, signed for in advance against the bone survey.
 
 ### M.A.W. Suit — The Resting Burden
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a weighted mantle of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a mantle that is cold against the skin and that two people must put on one person, there being no way to do it alone.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -207,13 +207,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
+**Appearance:** a small charm that weighs nothing in a group and a great deal in an empty room, which the Armoury has verified on a bench scale with the door shut.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the working stat at this holding, and only while at least three other people are present — the only conditional bonus in the Armoury that depends on company
 
-**Ability:** Grants a minor boon tied to Sleeping Weight's sorrow; the effect mirrors the entity's nature.
+**Ability:** The bearer can tell how much of a shared load each person is actually carrying, to within a few kilogrammes, which is why the division sheet is now checked by the bearer rather than by the senior.
 
 **Cost:** The bearer moves a little slower.
 
@@ -221,18 +221,18 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Sleeping Weight's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Every piece came off something that was left to hold a weight alone, and the whole set refuses to work for one person: the maul cannot be lifted solo, the mantle cannot be put on solo, the charm is unbearable in an empty room. The Armoury regards this as the clearest statement any source has ever made about itself. The price is eleven days a rotation and it is signed for in advance.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the division sheet for the shift, the names of the other three, and the wielder's signature against the eleven days. |
+| **During use** | The actual division as the bearer reads it, hour by hour, against the written one. Divergence is the reading. |
+| **At limit** | One person is carrying more than half. The bearer calls it; the senior cannot overrule the call and two seniors have tried. |
+| **After use** | File the two division sheets side by side, written and actual, and enter the days. The running total for this set is three hundred and eight days. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade describes extraction stability. What this set costs is time off a life, written down before the rotation and signed; what it buys is an accurate picture of who is carrying what. Authorise on the ledger.
 
 ## 관찰 기록 (Observation Log)
 
@@ -261,7 +261,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sleeping Weight (C-IVδ-357 [WS]) is logged as a Subject-Lament manifestation expressing Weight, held in the deep tunnels of Zone B beneath an unfinished works. It has never woken, has never stood, and has never pursued anybody. Its load is measured continuously at nine fixed stations and is the only thing about it that moves.
+Sleeping Weight lies under an unfinished foundation in the deep tunnels of Zone B, breathing slowly, larger than the cut it is in. It was poured against and left to hold what the works could not; it has been asleep for eleven years and has nearly woken four times, each time when one person was carrying what four were rostered to carry.
 
 **Entry 2 — <Excerpt from Station Returns, Zone B Lower>**
 Ambient load at the ladder foot, in multiples of standard, at the three surveys of record: 1.31, then 1.44, then 1.62. The rise tracks the deemed-service register rather than the calendar; the station sheets and the register's quarterly return have been plotted against each other for nine years and the correspondence has not failed.
@@ -279,9 +279,9 @@ The Second Service is not a gesture and I will not have it minuted as one. Every
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Sleeping Weight; the other feeds it.
+> The choice comes in the fifth hour, when somebody is struggling and you are stronger and nobody would ever know.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Keep to the quarter you signed for and let the shift run late. | Take the rest of their load — it is faster and they are tired. |
 |---|---|
 | Remains asleep and its weight becomes gentler. The sorrow is borne; Sleeping Weight is fully recorded. | The tunnel grows heavier and the figure stirs. The gauge climbs and Sleeping Weight withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -294,11 +294,11 @@ The tunnel slopes downward toward a sleeping figure. Every step becomes harder. 
 
 **At first contact:** The descent does it before you see anything. Each rung is heavier than the last, and the heaviness is not fear — the crew checks, every time, and it is not fear. Then the lamps reach him: a man-shaped thing of black crystal lying braced on his side under nothing at all, weeping steadily, asleep. Nobody has ever described the first sight of him as frightening. The reports all use the word *tired*.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Weight is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** The quiet becomes companionable and the party stops checking the sheet. Every fit on record happened after the fourth hour and the station has stopped trying to shorten the shift and started enforcing the sheet instead.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Weight becomes something you can taste, hear, or feel on your skin. The Subject-Lament has crossed the line between containing and becoming.
+**When the entity activates:** The breathing changes rhythm and the props take weight they were not taking a moment ago. It lasts seconds. Nobody who has been down there for one describes it as frightening; they describe it as the whole tunnel listening.
 
-**After departure:** You leave, but the Weight follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** You ask for help with something. Deep tunnel staff do it within the day and the station's briefing lists it as the only after-effect in the zone that anybody has called an improvement.
 
 ### Interaction Pattern
 
@@ -311,7 +311,7 @@ Only one of the three recorded relationships has been tested deliberately, and t
 
 Three relationships are on record: one tested, one observed without arrangement, one refused. The refusal is as much a part of the file as the trial, and the reasons given for it are kept with the station sheets rather than in correspondence.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What it is | What the breathing did | Required record |
 |---|---|---|---|
 | **The Crumbling Saint** | Shares the grief of endless responsibility. | Tested once at ninety metres. The Saint's own load did not move; the lower-tunnel floor rose 0.11 standard and took four days to come back. | Station sheets at every reading, the chest's rate, and days to baseline. |
 | **The Sleeping Relic** | Both remain dormant around unfinished duties. | Untested and not scheduled. Two dormant holdings in one tunnel is a load question the engineers have declined to model. | The refusal and its reasons, per the Zone B standing order. |
@@ -360,14 +360,14 @@ Some sorrows are about sacrifice. Sleeping Weight is about unrecognized sacrific
 **Observation Notes:**
 - He was released at 04:12 by a notice posted at the head frame and deemed served on him. He was nine hundred metres in, under the support, and did not know.
 **Cross-References:** The Rusted Pillar works survey series · the Year 4190 works instrument · the deemed-service register · the Tunnels Benevolent Fund submission, Year 4231 · the Second Service return
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
+**Faction Involvement:** Judexhan hold the δ-grade order and attend quarterly. The works office is on the distribution list because the foundation above is still unfinished and the file's standing request — that it be finished, or formally abandoned, rather than left as it is — has been outstanding for eleven years.
 **Originator:** A tunnel worker, thirtieth of thirty-one on the shift, lawfully released from duty at 04:12 and never told.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The suppression condition is two clauses and only one of them is hard. Do not wake it: easy, nobody wants to. Distribute the burden: hard, because the people who work this holding are the kind who pick up somebody else's end. Four near-wakings in eleven years, four division sheets ignored, four generous people. The sheet is now written at the head of the stair, before the shift, and checked by whoever holds the charm rather than by the senior — because the senior is usually the one carrying too much.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every shift: the two division sheets, the breathing rate at four fixed points, the prop survey, and the hour at which the party stopped talking. One standing item: the unfinished foundation above is re-reported annually, because a thing left to hold a load alone is what this entity is made of and the wing has one of those directly overhead.
 ## Apex Record
 
 ### The Gravity Floor
@@ -433,8 +433,8 @@ Three things the practice will not do, each written into it deliberately. It is 
 
 ### Registry Trivia
 
-- **Classification detail:** Sleeping Weight is a Subject with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone B, deep tunnels.
+- **Classification detail:** Entity (IV) coherence at Critical (δ) — one load, left with one bearer, and the grade is for what four seconds of waking did to the props rather than for anything it has done to a person.
+- **Field detail:** Weight, in the deep tunnels of Zone B beneath an unfinished foundation, worked in parties of four with the lifting written down beforehand.
 - **Recognition detail:** The rungs get heavier on the way down. That is the identification; nothing else in the tunnels does it.
 - **Record detail:** Four Zone B holdings are described in their files as burdens. This one is distinguished by what it is holding: not a debt, not a load given to it, but a support that was released at 04:12 by a notice it never received.
 - **Containment detail:** It has never moved and the floor reading has risen at every survey. Containment here limits nothing; it measures, clears the ground above, and sends somebody down to speak.

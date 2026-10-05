@@ -420,11 +420,11 @@ A child was refused the final fruit of a dying tree and the longing caught, and 
 
 ### Registry Trivia
 
-- **Classification detail:** Last Fruit is a Subject with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone C, Mask Market.
+- **Classification detail:** Echo (II) coherence at Moderate (β) — one refusal, repeating every trading day for nine years.
+- **Field detail:** Grudge, on a licensed pitch in the Mask Market, Zone C, worked during trading hours with the stalls open around it.
 - **Recognition detail:** Seed-mouth brightness graded against the standard card from cover, and the bearing it drags itself along. Both are recorded from a concealed position; this is the only holding in the wing where the observation point is specified as hidden.
 - **Record detail:** The Registrum had the holding at Zone B against a Zone C, Mask Market header, named Pugnahan as the primary Work Type against its own table's Increase, and left the M.A.W. grade blank against three graded β pieces. All corrected here.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Nothing contains it and nothing needs to; it is rooted through a market stand and has not moved. What the wing maintains is a pitch fee, a fruit count and a prohibition on promising anybody anything.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-777
