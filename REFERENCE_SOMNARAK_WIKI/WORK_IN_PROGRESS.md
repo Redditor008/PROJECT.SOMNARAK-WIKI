@@ -18,6 +18,7 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **61 / 303** |
 | **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **47 / 303** |
+| **Breach balance (`R-28`)** | **RE 63/83 · SE 45/178 · OP 21/41 — all floors met** |
 | Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 124 / 303 |
 | Archive median prose generic fraction | 0.067 |
 | **Dispositions classified (Workstream 5)** | **302 / 302 — CLOSED** |
@@ -145,6 +146,28 @@ effects — 182 dossiers still sit above 0.05.
 One generator artefact was found and repaired by this pass: 29 dossiers published an unevaluated
 Python expression in the Combat Record `Difficulty` row, with the entity's numeric suffix standing
 where the difficulty word belonged. All 29 were rebuilt from each file's own `Work difficulty` row.
+
+## Workstream 8 — Breach Balance (`R-28`, done 2026-10-05)
+
+The archive declared **285 of 302 entities capable of breaching**. It was generator output, not a
+finding: **72 of the 83 relic dossiers had no Breach Behavior section at all** — an Activation
+Behavior section, a Stationary movement row — and still read *Can breach via Transform*.
+
+**112 dossiers reclassified non-breaching**, each on its own evidence, under the categories the
+archive already had: activation only, corruption of its own zone, expansion in place, manifestation
+in place, transformation in place. Nothing with a `Breach type: Escape` was touched.
+
+| Group | Total | Non-breaching | Share | Floor |
+|---|---|---|---|---|
+| RE — relics (a Tool Type is declared) | 83 | 63 | 75.9% | ≥ 75% |
+| SE — Subject / Time / Hazard / Phenomenon | 178 | 45 | 25.3% | ≥ 25% |
+| OP — Object/Place, no Tool Type | 41 | 21 | 51.2% | ≥ 50% |
+
+Qualifying candidates outnumbered the quota in every group (RE 72, SE 65, OP 34), so no dossier had
+to be stretched to reach a floor. Inside each converted file the `Breach type` line became
+`Event type (non-breach)` and prose claiming a breach capability was corrected; 37 files needed that
+second pass. `tools/breach.py` is wired into `gate.sh` and refuses a commit that drops a group below
+its floor.
 
 ## Workstream 5 — Entity Disposition Index: CLOSED (2026-10-05)
 
