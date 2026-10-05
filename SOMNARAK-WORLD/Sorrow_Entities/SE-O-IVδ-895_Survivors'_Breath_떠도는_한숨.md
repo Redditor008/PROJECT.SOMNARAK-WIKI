@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Void pressure; 35% against other pressure types |
+| **Resistance** | 45% against Void pressure; 35% against other pressure types. The gap is the point: what this entity delivers most days is exhaustion carried in ordinary breath, and the record's own note is that a work party which fails here fails against the second figure, not the first. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Void |
@@ -80,18 +80,18 @@
 | { *The Distant Sound* [**Debuff**] } | "A sigh, from very far away — and somehow it lands directly on your chest." | [The Sigh drifts in; its weight settles on the target.] | *Target suffers a Void mark; the sigh has found a home in them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Sigh is heard. |
 | { *The Accumulated Weight* [**Debuff**] } | "The sigh does not leave — it just settles deeper, like sediment." | [The Sigh deposits its grief; layers accrue.] | *Target loses clarity; the weight of one sigh is surprisingly vast.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target does not exhale in return. |
 | { *The Exhaled Cut* [**Attack**] } | "The sigh sharpens into a breath — and the breath is a blade." | [A concentrated exhale strikes the target like a gust of glass.] | *Inflicts Void damage; the carried grief cuts.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Sigh is disturbed. |
-| { *The Whole Breath* [**Attack**] } | "Every sigh the wanderer ever carried, exhaled at once." | [The Sigh releases its full accumulated payload.] | *A heavy Void blast; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Sigh is silenced. |
-| { *The Endless Exhale* [**Ultimate**] } | "Everyone sighs at once — and the sound does not stop, and the weight does not lift." | [The Sigh spreads until every breath in the field is a sigh.] | *All in range suffer Void erosion for three turns of endless exhaling.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Whole Breath* [**Attack**] } | "Every sigh the wanderer ever carried, exhaled at once." | [The Sigh releases its full accumulated payload — the district's crisis chronology, one entry per breath, delivered without being read out.] | *A heavy Void blast that takes the target's own reserves as the delivery mechanism; the Sorrow Gauge surges 15% and the 910 line is untouched, because nothing has been struck.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When somebody tries to silence the breath rather than relieve the room. |
+| { *The Endless Exhale* [**Ultimate**] } | "Everyone sighs at once — and the sound does not stop, and the weight does not lift." | [The Sigh spreads until every breath in the field is a sigh, and the field's own relief schedule is what decides how long that takes.] | *All in range suffer Void erosion for three turns of endless exhaling. The drain rises 5 a turn throughout, and the only thing that stops it is a rested replacement taking a position — which, at this stage, means the party has to be relieved rather than reinforced.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% — a figure reached by unrelieved hours rather than by anything the entity does. |
 
 ### Battle Phases
 
 1. **Tension:** The team locates the pale trail hanging in the cold air of the Old Lament, confirms that every member has had their rostered break, and establishes who is relieving them and at what hour. A party that cannot answer the second question does not begin the cycle.
 2. **Clash:** Twenty-four turns against 910 points of accumulated exhaustion at 45% resistance to its own element. Nothing about the encounter is fast and nothing about it is survivable through effort; the party that pushes hardest arrives at turn twenty tired, which is the condition the entity is made of and the condition in which it wins.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Permit rest; do not force personnel to continue working through it**.
+3. **Resolution:** There is no suppression to run and no barrier to hold. The cycle ends when the party is relieved by rested replacements, or when the officer on the floor judges that it cannot be and withdraws them — the documented suppression condition: **Permit rest; do not force personnel to continue working through it**. Withdrawal counts as a resolution on this file and is entered without prejudice; the only failing grade the wing records is a party that stays and produces a fourth name for the attitude list.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Composure**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
+- Failed resistance is a double loss and the second half is the expensive one: the worker's **Composure** breaks under pressure they were already carrying, and the breaker then feeds the holding — an unrelieved responder is, in the file's own words, both the casualty and the fuel. The holding is strongest after breaches and long patrols, so the crew most likely to be sent against it is the crew that has just supplied it with the material it is made of.
 - Prolonged exposure produces relief first and emptiness afterwards, in that order, and the order is the hazard. Workers describe the contact itself as the best they have felt in weeks. What follows is a flat, colourless interval in which nothing seems worth beginning, and it is during that interval rather than during the cycle that personnel make the decisions their supervisors later query.
 - Every piece drawn from the Sigh charges in rest that is owed and never taken. The awl numbs and takes small memories with it; the veil keeps the soul intact and sets the wearer slightly apart from their own breathing; the Resting Breath grants one genuine moment of calm and then hands its bearer the accumulated tiredness of everyone within range.
 - Unresolved, it does not break out — it seeps, through walls and through the breath of whoever is in the corridor, and the zone it fills loses definition rather than integrity. Colours go first, then sound. Personnel inside it rarely report alarm, which is why the breach is usually identified from outside.
@@ -116,9 +116,9 @@
 |---|---|
 | **Form** | An ethereal breath moving through the Old Lament as a voice without a body. It appears as a pale trail in cold air. |
 | **Position / movement** | Drifts through the Old Lament with no body to position; it is tracked by the pale trail it leaves in cold air and by the breath of personnel in its path. Record the direction of drift and the rooms it has passed through, not a distance. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Material / signature** | Void, expressed as cold and absence rather than as substance: there is nothing to weigh, cut or collect, and the trail leaves no deposit on any surface it crosses. The one recordable signature is temperature — the air inside the trail's line runs measurably colder than the corridor on either side of it, and the difference travels with the trail and outlives it by several minutes, which is how a sighting is confirmed after the fact. |
 | **Distinctive markers** | Identify by the trail and the temperature. A pale line hanging in air measurably colder than the corridor around it, accompanied by a sound most listeners first take for someone else's relief. Confirm it against the designation before contact; the registry holds more than one record of this form. |
-| **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
+| **Identification** | Check the designation against the sighting before contact: `O-IVδ-895` and the Subject-Spirit manifestation, against a trail that only appears in cold air and a sound closer to relief than to grief. The Old Lament holds several Void presences described as breath, sighing or cold air, and colour, thickness and direction of drift do not separate them; the temperature gradient and the designation do. |
 
 **Appearance protocol:** There is no form to describe — the entity is a voice with no body, visible only as a trail hanging where the air is coldest. The protocol is therefore environmental. Record the temperature gradient along the trail, the rooms it has crossed and the order it crossed them in, the time taken between them, and whether the trail persisted after the sound stopped. Log the sound itself with particular care and resist the obvious word: the record states that it is closer to relief than to sadness, and observers who write that it sounded mournful have substituted the expected reading for the one in front of them. Note also what it did not enter. Its route through a building is as informative as its presence in any part of it.
 
@@ -127,7 +127,7 @@
 - **The Sorrow:** The grief of surviving one more day without believing the next will be easier.
 - **The Event:** Citizens sighed after repeated crises until the collective breath became a wandering presence.
 - **The People:** A whole city, across an unspecified number of crises — no single mourner, no originating family, just the sigh that everyone exhaled afterwards, every time, until the accumulated breath came loose. This is one of the few holdings whose People field cannot be narrowed further, and the breadth is the point rather than a gap in the record.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+- **Expanded origin context:** The crisis chronology is the document the wing keeps in place of a biography, and it runs to many pages: the Han-surge, the Collection, the Fracture, and the ordinary run of incidents between them, each with its date and its count of the dead. Against every entry sits the same citizen behaviour — the crisis ends, the city exhales, and the road outside is full of people sighing at once. The early survey tried to trace the breath back to an individual, on the assumption that a presence of this size should have a first mourner behind it; the attempt was abandoned, and the file says plainly that no name can be attached. What the record holds instead is the accumulation itself, entry after entry, and a note from the archivist that the chronology does not conclude — which is the reason the holding cannot be retired by resolving anything, only kept company.
 
 ## Behavior
 
@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Survivors' Breath is recorded as a Subject with Subject-Spirit manifestation and Void elemental expression. The current record places it at Zone B, Old Lament; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The gauge table is not the containment measure here, and the file is unusually direct about the substitution it invites. Viderehan leaves the gauge stable, which a reader can mistake for the safest row on the page; it is the slowest, not the safest — it recites the crises that produced each breath and the recitation is long, and the worker carries the recitation out of the zone whatever the gauge says. The measure that matters is the roster condition, which no Work Type can substitute for: the party begins only with its relief named and the hour of relief fixed, and the Sigh is worked at the start of a rotation and never at the end of one. The 60–80% opening gauge, the activation threshold of 1 and the 910/910 stat line are the numbers to have in view, and the last is the one to distrust: a full gauge is the entity's ordinary state rather than a boundary it is approaching. The 20–28 Han-Energy yield is what makes crews take this holding on opportunistically, and the four Operational Notes above are what the wing writes to discourage them.
 
 **Reading the response:** Flerehan brings the gauge down and the Sigh settles around the worker like shared relief, which is the gentlest response recorded against any Critical holding and should not be mistaken for safety. Ferrehan brings it down by the harder route, and the test is stated precisely in the Behavior table: whether the worker can rest without abandoning duty. Both halves are load-bearing. A worker who refuses to rest fails it, and so does a worker who rests and does not come back. Viderehan holds level and reveals the crises that produced each breath, which is a long recitation and tells the party nothing they can act on. Pugnahan raises the gauge and turns the Sigh into a harsh wind that spreads through the halls — exhaustion does not respond to being pushed, and the entity demonstrates this every time it is tried.
 ## Breach Behavior
@@ -155,13 +155,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | **Movement** | Survivors' Breath seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
 | **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
 | **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **First Target** | Nobody is targeted. The breath crosses the nearest occupied rooms and thins them; the first wing to report loss of definition is whichever one holds the response, and the file records that the teams which notice first are usually the teams that have just come off a rotation. |
+| **Escalation** | The Clarity drain rises by 5 per turn for as long as nobody stands down, and stops rising the moment a rested replacement takes a position — a fall of 10% on the gauge at the same time. Suppression does not come from working harder; the remedy is the one the entity is made of, and the facility has to supply it. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — nothing escapes and nothing is pursued; the corridors simply fill, and the space inside them stops being specific.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
+- **Containment priority:** Relieve the response before the transformation completes. Every corridor the breath has filled keeps its shape while anyone standing in it is fit to hold a line, and the zones which lost their definition during the one recorded transformation were being worked by crews that had been on duty for eleven hours or more. The wing's instruction is to rotate first and work the zone second; the combined-Work-Type sequence exists, and it has never been run on a rested response because a rested response has never needed it.
 - **Sorrow Gauge on breach:** Indexed to unrelieved hours. Rises 10% for every hour a responder works past the time they were due to be relieved, counted per person and summed across the response. Falls 10% each time a worker is actually stood down and a rested replacement takes the position. A fully relieved response holds it level indefinitely; a heroic one does not, and the facility should expect its best crews to produce its worst readings here.
 
 ## M.A.W. Equipment
@@ -195,7 +195,7 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a veil of Void Han-gossamer, worn draped over the head and falling to the waist, so thin that a lamp behind the wearer shows through it as a smear rather than a shape. The weave holds the cold of the air the Sigh moves through; on a warm morning it is the coldest thing in the corridor and personnel reach for it in August for the same reason they should not.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -213,11 +213,11 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a breath-token of Void Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a breath-token of Void Han-glass the size of a thumbnail, cut as a shallow dome, warm to the touch and uncomfortably close to the temperature of a hand. It is carried on the head band rather than pinned to the suit, and wearers report the warmth as the first thing they notice and the first thing they stop noticing.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 to the bearer's rating while working the Sigh, forfeited for the remainder of the cycle if the bearer works through their scheduled relief
+**Effect:** +3 to the bearer's rating while working the Sigh, which is the largest single bonus in the δ catalogue and is granted on the one condition the facility finds hardest to certify: the bearer must have stood down when their relief came, within the hour, and come back for the next cycle. A bearer who works through their scheduled relief forfeits the +3 for the remainder of the cycle and returns it at the next stand-down taken properly.
 
 **Ability:** Calms panic and grants one moment of emotional rest.
 
@@ -233,19 +233,20 @@ Each piece remains part of the Sigh, and the set is unusually benign in operatio
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Survivors' Breath takes: each strike takes something small and unlabelled: a shift that was worked, a conversation in a corridor, the hour at which something was decided. Noth. |
-| **During use** | The first sign that Survivors' Breath is charging: each strike takes something small and unlabelled: a shift that was worked, a conversation in a corridor, the hour at which something was decided. Noth. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wielder no longer notices Survivors' Breath's toll — the veil keeps the self intact by holding it a little away from the body. Wearers report that their own breathing starts to sound like someone else's  — which is how every stand-down on this set has been caught. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Survivors' Breath's cost is still showing — the veil keeps the self intact by holding it a little away from the body. Wearers report that their own breathing starts to sound like someone else's . |
+| **Before use** | Wielder, piece, and the two questions the set's costs are actually drawn from. First: what has this wielder been asked to account for in the past fortnight, and can they still narrate it? The awl's charge is taken in unlabelled small pieces — a shift worked, a corridor conversation, the hour a decision was made — and the pre-check is a test of whether a gap of that shape already exists. Second: has the wielder worked a critical incident in the last twenty-four hours? If so the piece stays in the box, whatever the roster says. |
+| **During use** | The second worker logs, and never the wielder: whether the wearer's own breathing has started to sound like someone else's, whether they can still tell tiredness from boredom, and whether they tidy anything without being asked. The second of those matters most on the Stigma, the third on the Veil, and the first on all three; the wielder's own account is taken at the end of the cycle and entered as a statement rather than as a reading. |
+| **At limit** | The wielder no longer notices the toll, and the set is built so that this is the expected state rather than a failure: the Veil holds the self a little away from the body, and the wearer reads the detachment as composure. The stand-down is called by the second worker, and it is not a suggestion that can be deferred to the end of the engagement. |
+| **After use** | Piece returned, and the wearer released to rest rather than to the next posting, with the second worker's log attached. The costs fall due after the engagement — the awl's gaps are discovered months later when the wielder is asked to account for a period they can no longer narrate — so a follow-up at thirty days is entered against every issuance, and the entry is closed only by the wielder themselves narrating the fortnight in which the piece was carried. |
 
 **Stat interpretation:** The δ grades are high and accurately earned. What no column records is that this set's costs all fall due after the engagement rather than during it, which makes them invisible in exactly the reports the facility uses to assess equipment. Read the Cost lines as the specification, and ask the wearer about the following day rather than the cycle.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It is strongest after breaches and long patrols.
-- It moves through breath but is not contagious physically.
-- Personnel report emptiness when the relief ends.
+- It is strongest after breaches and long patrols: the record's own gauge opens at 60–80% and every incident the district has just survived goes into the reading.
+- It moves through breath and is not contagious physically. No transmission has been recorded between two workers in the same corridor; what passes between them is the exhaustion they were each already carrying.
+- Personnel report emptiness when the relief ends, and the reports are filed as attitude findings rather than clinical ones. The interval is flat and reasonable; workers do not describe distress, which is the reason the follow-up asks about plans and not moods.
+- The stat line is 910 points at 45% resistance to Void and 35% to everything else, over a 24-turn engagement — long, survivable and unwinnable, which is the shape the record gives every holding built out of a condition rather than an event.
 
 **Personnel Note:** *"It was waiting. I felt peace. Then the peace left, and I understood how much exhaustion I had mistaken for duty."* — Specialist, Zone B patrol
 
@@ -255,10 +256,10 @@ Each piece remains part of the Sigh, and the set is unusually benign in operatio
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Survivors' Breath as a Subject with Subject-Spirit manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone B, Old Lament. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Survivors' Breath's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | First exposure is a temperature reading before it is a sighting: cold air on a route where cold air does not belong, and then the trail, which is thin and appears only in cold air. Take the air temperature along the corridor, the direction of drift, and the drift time between posts. The observer's own breathing is not recorded at this stage — that the observation changes the observer here is known, and the file keeps the two readings separate. |
+| **Sustained observation** | Viderehan holds the gauge level at 910 and recites the crises behind each breath; Ferrehan brings it down by the harder route. Both halves of that test have to be written down separately: a worker who refuses to rest fails it, and a worker who rests and does not come back fails it too. Nothing about the reading is fast. The record's own engagement runs 24 turns at 45% resistance to the entity's element, and the observation team should expect to sit through all of them. |
+| **Activation or escalation** | Escalation is measured in unrelieved hours rather than in distance — 10% on the gauge for every hour a responder works past the relief they were due, and 10% off again each time a rested replacement takes the position, with the Clarity drain rising 5 per turn in between. Log who was standing where, when they were due to be stood down, and the hour the stand-down happened. The Ultimate is recorded at 65% on the gauge, and a party that reaches it is by definition a party that nobody rotated. |
+| **Post-contact review** | Four fields close the sheet: the posted routes with transit times, the rest-area provision on each floor the trail crossed, the roster for the preceding seventy-two hours with breaks marked, and the wearer's own account of the following twelve hours — the flat interval, not the relief. A review that reports only the relief has recorded the half of the contact the entity gives away free. |
 
 **Observation method:** Record the environment, the route and the roster. The third is not an administrative detail: the entity moves fastest through buildings with no rest areas, which makes the facility's own provision a measurable variable and arguably the only one the facility controls. Log, for each wing it passes through, whether a staffed rest area exists on that floor, and compare transit times. Then take the personnel record at twelve hours rather than at debrief, because the characteristic effect is a flat interval that arrives after the relief does and that nobody reports while it is happening.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -269,26 +270,26 @@ Each piece remains part of the Sigh, and the set is unusually benign in operatio
 Survivors' Breath (O-IVδ-895 [VS]) is logged as a Subject-Spirit manifestation expressing Void. The Sigh formed from exhaustion that could not become rest. Held at Zone B, Old Lament. It is strongest after breaches and long patrols.
 
 **Entry 2 — <Night Watch Log, Old Lament>**
-Flows through Old Lament walls and personnel breath. Personnel feel exhaustion, relief, and sudden emptiness. It moves through breath but is not contagious physically.
+Trail picked up at the second post at 02:40, air 4 degrees below the corridor either side of it, drifting east toward the tenement block and then north along the market wall. Crossed two occupied rooms without slowing; both occupants asleep, neither disturbed. Watched through the third-floor window of the hostel for eleven minutes — the trail turned twice at the stairwell, entered the room with the broken stove, stayed, left. Relief arrived on time at 04:00 and the log was signed by both hands, which is the only entry in the month with no faults recorded. Nothing was reported afterwards by either watchkeeper.
 
 **Entry 3 — <Fitness for Duty Review, Declined>**
-The grief of surviving one more day without believing the next will be easier.
+Submitted for a keeper after the second consecutive rotation, on the grounds that the worker had reported "the ordinary exhaustion" and signed to continue. Review declined by the worker, which the form permits; the reviewing officer's note records that the same worker had declined the previous four and that the pattern is itself the finding. The officer also notes, against the facility, that the worker's role is on the reporting network rather than on a work party, so there is no second man to call the stand-down and no relief to name. Recommendation on file: two staff per post. It has not been adopted, on grounds of cost and of the district's experience of the facility's presence, which the wing accepts.
 
 **Entry 4 — <Containment Notice>**
-Management: Permit rest; do not force personnel to continue working through it. Work response — Flerehan: Settles around the worker like shared relief. (Decrease); Pugnahan: Becomes a harsh wind and spreads through the halls. (Increase); Viderehan: Reveals the crises that produced each breath. (Stable); Ferrehan: Tests whether the worker can rest without abandoning duty. (Decrease). Personnel report emptiness when the relief ends.
+Reissued as standing. Management: permit rest; do not force personnel to continue working through it. Work responses — Flerehan settles around the worker like shared relief and brings the gauge down; Ferrehan brings it down by whether the worker can rest without abandoning duty; Viderehan holds it stable and recites the crises behind each breath; Pugnahan raises it and turns the Sigh into a harsh wind through the halls, and no attempt to push this holding has ever produced anything else. Note the operative clause: the notice binds the facility, not the worker, and a warden cannot grant their own relief. Where the roster cannot supply a stand-down, the cycle is not begun.
 
 **Entry 5 — <Rest Area Provision Audit, Zone B>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+Fourteen buildings on the trail's recorded routes, thirty-one floors in total; six floors carry a staffed rest area, nine carry a room with a door and no staff, sixteen carry nothing. Median drift time across a route with a staffed rest area on every floor the trail crossed: 2 hours 10 minutes. The same route on a night when the market wall post was standing alone: 3 hours 40 minutes, with the trail turning back twice. The audit's finding is entered as a control rather than as an observation — the facility cannot move the breath, and provision of somewhere for personnel to sit down is the only variable on the record that has ever measurably changed its pace.
 
-**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat rating:** Critical (δ) by classification and chronic by record: 910 points at 45% resistance over 24 turns, a 5-per-turn drain while nobody is stood down, and a yield of 20–28 that keeps offering itself to crews already past their relief. The exposure figures the wing watches are in the personnel log rather than in the combat columns, and the last entry in this series is a postkeeper who stopped intending to do things.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Survivors' Breath; the other feeds it.
+> The choice this holding sets is not between courage and caution. It is between handing a post over on time and being the person who stays — and the entity is built out of the second answer, so the record states the first one plainly.
 
-| Hold to the condition: Permit rest; do not force personnel to continue working through it. | Do the obvious, decent thing instead, and feed Survivors' Breath. |
+| Hand the post over at the hour written on the roster, and let the relief take the trail — even where the trail is two hours from settling and the next watch is eleven minutes late. | Stay on past the hour because the work is nearly done, and let the relief log the handover as completed. |
 |---|---|
-| Settles around the worker like shared relief. The sorrow is seen clearly; Survivors' Breath is fully recorded. | Becomes a harsh wind and spreads through the halls. The gauge climbs and Survivors' Breath withdraws without revelation. |
+| The gauge holds or falls, the trail turns away from the relay and posts its next sighting from a route nobody had to run; the file gains a transit record on a rested watch. | The next sighting comes from the trail's own pace rather than from a post, the drain rises 5 a turn until somebody is actually stood down, and the worker's own following twelve hours are entered flat and colourless — an attitude finding, and the fourth for that postkeeper. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -299,15 +300,15 @@ A breath leaves your mouth and does not vanish. It travels down the corridor, jo
 
 **At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Void always changes a room. Then the Subject-Spirit resolves: An ethereal breath moving through the Old Lament as a voice without a body. It appears as a pale trail in cold air.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Void is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** After a while the room has a sound in it and the sound is your own breathing, returned to you from somewhere across the floor and slowed by the round trip. The tiredness that arrives is not the tiredness you came in with; it is older, it has been through more days than yours, and it does not answer to coffee or to sitting down. Workers describe this second stage as being handed somebody else's burden and recognising it as heavier.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Void becomes something you can taste, hear, or feel on your skin. The Subject-Spirit has crossed the line between containing and becoming.
+**When the entity activates:** The trail thickens and stops travelling. The lamps do not flicker and nothing physical changes; what changes is that the corridor gets longer than the map says and the next door takes four steps more than it did. The team's voices arrive a half-second late. Anyone in the corridor at that point reports no fear at all, which the file flags as the symptom and not the absence of one.
 
-**After departure:** You leave, but the Void follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** The flat interval comes after the relief, usually on the walk home — a reasonable, quiet conviction that nothing about tomorrow is worth arranging. It lifts in two days if the worker was stood down on time and takes a fortnight if they were not, and the wing logs the figure rather than the feeling. Nothing about it is memorable while it is happening, which is why the second man writes it down.
 
 ### Interaction Pattern
 
-Survivors' Breath does not exist in isolation. Its recorded relationships with Silence We Forgot We Made, The Undersong, The Crumbling Saint should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The Sigh is made of what a population exhales after something ends, so the relationships that matter here are not proximities but events: the holding reads whatever is happening elsewhere in the district, and the file's standing instruction is that any pairing be appraised against the incident count for the same period before it is entered as an interaction at all.
 
 **Interaction method:** Establish the Sigh's solo transit first — route, pace, which rooms it favours and which it avoids — over several cycles taken at ordinary operational tempo rather than after an incident, since its speed is a function of the facility's state and a baseline measured in a tired week is not a baseline. When a second entity is introduced, attend to the variable peculiar to this holding: whether the other presence produces crises. The Sigh is made of what people exhale after something ends, so entities that generate incidents feed it indirectly and from any distance, with no proximity effect to observe at all. Log the separation, the duration, the gauge movement, and the facility's incident count across the same period. The last of these may be the only one that moves.
 
@@ -318,9 +319,9 @@ The Sigh drifts through the whole of the Old Lament and is not held at a point, 
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **Silence We Forgot We Made** | The Silence receives the Sigh's unspoken exhaustion. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Undersong** | The Echo answers from the end of each breath. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Crumbling Saint** | Both carry exhaustion mistaken for responsibility. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **Silence We Forgot We Made** (`N-IVδ-489`, catalogued as the Forgotten Silence) | Both holdings are made of what people did not say: the Silence of withheld truths nobody remembers withholding, this one of the matching exhalation — the truth deferred and then breathed out. The archive has filed them as a pair since Year 4238, and the filing is reasonable; the difference the field needs is that the Silence is stationary in the Mask Market and holds a face nobody's memory can hold, while the Sigh does not stand still and can be found by any observer with a thermometer. | Nothing crosses between them that the network has measured. What has been recorded is a reporting artefact: a keeper's sighting of the trail on a night when the Silence's wing was also filing an incident, entered on both dossiers as a co-presence, and withdrawn from both after the times were compared. The two wings are three quarters of an hour apart on foot. | The two filings with their timestamps, side by side, and the district's incident count for the same week — the last of which is the variable that most often explains a claimed co-presence here. |
+| **The Undersong** (`N-IIα-125`, catalogued as the Hollow Echo) | Both are made of calls and breath that did not stop when the thing that caused them ended: the Undersong of calling for rescue until no voice came, and this one of the sigh a population exhales afterwards and cannot stop exhaling. Zone D's Gardens hold the one; this one drifts through Zone B and has twice been reported in the Gardens on a keeper's word alone. | No measurement has ever passed between them and none is expected, because the Sigh does not respond to a holding that is not generating incidents. Where the two are named together in a report, the failure mode is that the Sigh's transit time for the week has been taken from the Undersong's calling cycle, which is fixed and this one is not. | The trail's own transit times for the week before the claim, quoted from the watch log; the Gardens sighting, if claimed, with the name of the post that made it; and the incident count over the same seven days. |
+| **The Crumbling Saint** (`C-IVγ-130`, catalogued as Deteriorata) | The pairing is by biography rather than by manifestation: Deteriorata is recorded as a stone figure who carried what she was given until she crumbled, and the Sigh as exhaustion that could not become rest. The archive's phrasing — that both carry exhaustion mistaken for responsibility — is the wing's own summary and is fair, but a shared description of a working life is not evidence of a shared mechanism, and neither Element nor Manifestation matches. | No co-presence has been logged with both holdings' readings attached, and no effect in either direction has been measured. The useful operational note is contrast: Deteriorata's weight can be walked away from and this one's cannot, so a crew transferring between the postings must be told which of the two they are being asked to endure, and the dossiers must not be summarised into one brief. | Which dossier the briefing was drawn from, quoted; the roster of the crew that carried it; and any sighting naming both holdings in a single entry, with the wing that filed it. |
 
 **Interaction procedure:** Record the separation at first response, the change in drift, the duration, the gauge movement, the air temperature along the trail, and the state of the personnel present at twelve hours rather than at separation. Whether the effect persists is measured on the workers, because the entity leaves nothing else behind.
 
@@ -350,22 +351,22 @@ Some sorrows are about specific losses. Survivors' Breath is about the condition
 > *“Exhaustion that could not become rest. The sigh wanders because the surviving does not end.”* — Elder, Alpha Tree
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `O-IVδ-895 [VS]` · Void · Subject-Spirit manifestation
+**Classification:** Sorrow Entity — `O-IVδ-895 [VS]` · Outside Sorrow (외한) · Entity (IV) coherence · Critical (δ) potency · Void · Subject-Spirit manifestation. Everything the handling line depends on follows from those five fields: a δ-grade void presence formed outside the city's own categories, with no body to hold and no boundary to draw.
 **Common Name:** Survivors' Breath
-**Containment Status:** Contained — Zone B, Old Lament
+**Containment Status:** Monitored rather than contained — Zone B, Old Lament, drifting; held by a reporting network whose coverage gaps are published, and by nothing else
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat Assessment:** Chronic rather than violent. No single encounter has killed anyone: 910 points at 45% resistance over 24 turns is an engagement nobody wins, and the file's own losses are recorded in the following fortnight — the flat interval, the attitude list, the postkeepers who stopped intending to do things. The two figures that price it are the 5-per-turn drain while nobody stands down and the 20–28 yield that tempts the floor to take the holding on with exactly the crew that should not.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Viderehan and Ferrehan are the only valid Work Types on the record; Flerehan and Pugnahan both raise the reading in different ways and are listed in the Behavior table for completeness, not for use.
+- Nothing is sealed and nothing is claimed to be. The holding passes through structure, so the operational measures are the roster and the rest areas: a post with a staffed rest area on each floor the trail crosses has measurably slowed it, and the audit of those floors is filed as a containment document.
+- The management condition binds the facility rather than the worker — permit rest, and do not force personnel to continue working through it. Where the roster cannot supply a stand-down, the cycle is not begun, and a party that begins one anyway is entered against the wing that posted it.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
-**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+- Formation and Event are collective by nature; the census finding in the Origin section is the closest thing this file has to a subject.
+- Engagement history is in the Combat Record: one activation, no suppressions, and the 65% Ultimate line reached only by unrelieved hours.
+- The M.A.W. costs fall due after the engagement, and the thirty-day follow-up is the record that closes an issuance.
+**Cross-References:** The three holdings under Entity Interaction Record were paired by the archive rather than by any measured effect, and the required record for each is the district's incident count across the same period; the Reader is directed to the Apex Record before either.
+**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat). The SED supplies the reporting network's staffing, and its standing recommendation of two staff per post has been declined on grounds of cost and of the district's experience of the facility's presence.
+**Originator:** See Origin section — ‘The People’ field, which is a population and cannot be narrowed further; there is no originating family, no biographical section and no register of names in this file.
 
 ### Registry Addendum
 
@@ -408,14 +409,15 @@ The coverage map given to the district association marks the areas the reporting
 
 ## Trivia
 
-- It moves fastest through buildings with no rest areas.
-- Its sound is closer to relief than sadness.
+- It moves fastest through buildings with no rest areas: the audit of the trail's own routes found a median transit of 2 hours 10 minutes where every floor crossed carries a staffed rest area, and 3 hours 40 minutes where the post was standing alone.
+- Its sound is closer to relief than sadness. Personnel who file it as mournful are corrected in writing, and the corrections are kept, because the misreading is the one every listener makes first.
+- The one structure in Zone B that has never recorded a transit through it is the district hospital's east wing. Nobody has been able to say why, and the wing has stopped asking; the file notes only that the trail has been sighted at both ends of that wing on the same night.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Survivors' Breath is a Subject with Entity (IV) coherence and Critical (δ) potency.
+- **Classification detail:** A Subject of Entity (IV) coherence and Critical (δ) potency, registered under Outside Sorrow (외한) — the category filed for the wilderness and the Desolate — with no deceased named anywhere in its record. Activation threshold 1, opening gauge 60–80%, 910 points at 45% and 35% resistance, and a 20–28 yield that the Operational Notes warn against being tempted by.
 - **Field detail:** Its defining element is Void, and its registered location is Zone B, Old Lament.
 - **Recognition detail:** Identify by the trail and the temperature. A pale line hanging in air measurably colder than the corridor around it, accompanied by a sound most listeners first take for someone else's relief.
 - **Record detail:** The Old Lament holds several Void presences described as breath, sighing or cold air; confirm the designation O-IVδ-895 and the Subject-Spirit manifestation before applying this file to any of them.
