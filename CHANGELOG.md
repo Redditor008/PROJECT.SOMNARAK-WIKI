@@ -38,6 +38,27 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 18 / unit 1 — Relic Waiting for Its Maker `O-IIIγ-651` closed (2026-10-06)** — measured at
+  `e8fca25`: **11 dirty sections**, worst Behavior 0.240 (the 52-dossier *Read the behavior table as a diagnostic*
+  line), then 감각 묘사 (Flavor Text) 0.207, M.A.W. Equipment 0.198, 이야기 보고 (Story Log) 0.197, Origin 0.149,
+  최종 관찰 (Final Observation) 0.117, Combat Record 0.085, Activation Behavior 0.076, Trivia 0.071, Operational
+  Parameters 0.068 and 관찰 기록 (Observation Log) 0.055. All eleven closed in two waves (14 + 20 sites) plus a
+  third pass on the shared Resistance row; 8,007 → **8,549 words**; `tpl.py` residue 2 → **0** (the 11-dossier
+  `| **Resistance** | 35% against Void pressure …` row); `verify.py` residual 2 → **0** (Story Log Entry 1's
+  `is logged as` and the Flavor Text stock *When the entity activates: When the Gauge tips…* pair); `sectfile.py`
+  ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** — **both clauses were already satisfied and were
+  left alone** (`R-05`): the condition is the file's own management line, and the series clause already stood on
+  the file's own counted figures (the 11 mm / 19 mm lean readings and the 61-entry / 58-movement speech-log year).
+  Both **stock-tale carriers** in this file were replaced with its own material: the Origin *Collector who
+  collected too much* block became the instruction that stops mid-clause and the two margin completions moved to
+  the speculation sheet, and Story Log Entry 5's variant became the completions-and-roster note. The 53-dossier
+  interaction-record intro, the 31-dossier *…does not exist in isolation* block and the 27-dossier escalation
+  pattern were re-authored onto the chamber's own plumb line and open speech log. One beneficial side effect in a
+  file this unit did not edit: **Brume `O-IIγ-007` 6 → 5**. Archive dirty sections 895 → **883**; the shared corpus
+  thinned to **17** distinct residue lines, carriers 114 → **109**, instances 214 → **203**. Movement: `R-29` 116 →
+  **117 / 301**; section-clean 140 → **141 / 301**; residue-free 188 → **193 / 302**; file-clean 225 → **226 /
+  302**; worst steady at 0.119. **Batch 18 stands at one of three.**
+
 - **Batch 17 / unit 3 — The Dancing Chains `C-IIIγ-102` closed; batch 17 closed at three (2026-10-06)** —
   measured at `f31e1b0`: **6 dirty sections**, worst 최종 관찰 (Final Observation) 0.429, then 기록 (Registrum)
   0.331, Activation Behavior 0.300, M.A.W. Equipment 0.153, Trivia 0.125 and 감각 묘사 (Flavor Text) 0.110; all
