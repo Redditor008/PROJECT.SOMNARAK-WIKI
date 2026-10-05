@@ -38,6 +38,27 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 18 / unit 2 — Protest No One Remembers `O-IIIγ-371` closed (2026-10-06)** — measured at
+  `1f5ee90`: **11 dirty sections**, worst M.A.W. Equipment 0.238, then 감각 묘사 (Flavor Text) 0.216, Behavior
+  0.155 (the 37-dossier *The behavior table is a snapshot, not a system* line), 이야기 보고 (Story Log) 0.152,
+  최종 관찰 (Final Observation) 0.141, Origin 0.149, 관찰 기록 (Observation Log) 0.094, Breach Behavior 0.074,
+  Combat Record 0.073, Trivia 0.063 and Operational Parameters 0.055. All eleven closed in three waves (16 + 21 +
+  6 sites); 7,580 → **8,211 words**; `tpl.py` residue 2 → **0** (the shared `**Resistance**` row and the 10-dossier
+  `**First Target**` breach row); `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged as`); `sectfile.py`
+  ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** — **both clauses were already satisfied and were
+  left alone** (`R-05`): the condition is the file's own suppression line and the series clause already stood on
+  its own counted figures (220 watches a year, mean radius 11 m, widest 34 m, no trend in 26 years; the two +10
+  gauge denials; the 7 annotated replies; the count at 2). The third stock-tale carrier in this batch was replaced
+  with the file's own material (the reconstruction's two independent checks; the tone test and the seven annotated
+  replies), and the 53-dossier interaction intro, the 31-dossier *…does not exist in isolation* block and the
+  37-dossier Behavior line were re-authored onto the radius, the three fixed points and the running sheet. Four
+  beneficial side effects in files this unit did not edit: **Dreaming Ruin `N-IIIγ-505` 5 → 4**, **Myrmidon
+  `O-IIβ-235` 7 → 6**, **Feu Follet `O-IIβ-301` 7 → 6** and **Thralldom `O-Iα-754` 8 → 7**. Archive dirty sections
+  883 → **868**; the shared corpus thinned to **15** distinct residue lines, carriers 109 → **104**, instances
+  203 → **183**. Movement: `R-29` 117 → **118 / 301**; section-clean 141 → **142 / 301**; residue-free 193 →
+  **198 / 302**; file-clean 226 → **227 / 302**; median 0.016 and worst 0.119 steady. **Batch 18 stands at two of
+  three.**
+
 - **Batch 18 / unit 1 — Relic Waiting for Its Maker `O-IIIγ-651` closed (2026-10-06)** — measured at
   `e8fca25`: **11 dirty sections**, worst Behavior 0.240 (the 52-dossier *Read the behavior table as a diagnostic*
   line), then 감각 묘사 (Flavor Text) 0.207, M.A.W. Equipment 0.198, 이야기 보고 (Story Log) 0.197, Origin 0.149,

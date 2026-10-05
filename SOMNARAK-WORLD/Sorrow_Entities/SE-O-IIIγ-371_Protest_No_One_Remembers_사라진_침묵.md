@@ -41,7 +41,7 @@
 - A successful cycle narrows the silent radius and returns ordinary sound to the Commons for a while. It recovers nothing. The protest is gone from the records, from speech and from memory, and no cycle run by this facility is going to put back what the erasure took; what a cycle can do is add one more contemporaneous observation to a file that has nothing else.
 - This holding is read twice over. The listed activation threshold of 2 is a counter and runs down: two failed or refused cycles and the entity acts regardless of where the gauge stands. The Combat Record figure of 75% is independent of it, and a gauge at or above that line fires activation even with the count untouched. Either reading alone is sufficient and neither overrides the other.
 - The 16–22 Han-Energy yield is standard for the band, and the exposure that earns it is unverifiable after the fact. No instrument retains anything from this holding, so a worker's account of their own cycle cannot be corroborated or disproved by anybody, including themselves. Recovery periods here are set long on that basis rather than on measured harm.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. The pieces drawn from this source are made from absence rather than from material, which is why the set has no grade recorded against it and why the equipment file describes each item by what it removes rather than by what it is.
+- Extraction is a separate authorised event and never a reward attached to a good cycle. The pieces drawn from this source are made from absence rather than from material, which is why the set carries no grade and why each item is described by what it removes: the scythe by the threads of speech it takes, the veil by the speaker it hides, the word-tile by the one word it keeps. The armoury adds the one line that matters at issue — nothing in this set can be used to prove that anything happened, which is the same problem the holding has.
 
 ## Combat Record
 ### Core Stat Line
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Void pressure; 25% against other pressure types |
+| **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing resists the silence itself, which is not an attack and passes through every rating in the set |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Void |
@@ -80,18 +80,18 @@
 | { *The Rushing* [**Debuff**] } | "The silence is gone — and what replaces it is worse. It is the sound of absence." | [Protest No One Remembers fills the space with the noise of nothing.] | *Target suffers a Void mark; the anti-sound is maddening.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the space. |
 | { *The Deafening Nothing* [**Debuff**] } | "The sound of silence being absent is louder than any scream." | [The anti-silence builds; the target cannot hear anything else.] | *Target loses clarity; the void-noise drowns all thought.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains. |
 | { *The Sonic Void* [**Attack**] } | "The absence of silence solidifies — and strikes like a wall of negative sound." | [A blast of anti-silence hits the target.] | *Inflicts Void damage; the void-sound erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the absence is disturbed. |
-| { *The Total Noise* [**Attack**] } | "Every silence that was ever stolen — returned as one deafening crash of nothing." | [The accumulated absence of silence erupts.] | *A heavy Void detonation; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the absence is forced. |
-| { *No Silence Left* [**Ultimate**] } | "Silence is impossible now — and without it, no one can rest, think, or be still." | [Protest No One Remembers removes all quiet from the entire field.] | *All in range suffer Void erosion for three turns in the endless noise.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Total Noise* [**Attack**] } | "Every silence that was ever taken out of this Commons — returned at once, as the sound of nothing being said." | [The accumulated absences arrive together; nothing inside the radius can be heard over them.] | *A heavy Void detonation; the target's Sorrow Gauge surges 15%, and any entry written during that turn is recorded as written under noise.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the absence is forced. |
+| { *No Silence Left* [**Ultimate**] } | "The Commons has nothing left to lose quietly — and the quiet itself was the last record." | [The radius goes out to the walls; the tone test fails at the fixed station.] | *All in range lose Composure for three turns; the tone test is re-run at the fixed station at the end of each turn and the result entered either way.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The team identifies Protest No One Remembers by the radius, since there is nothing else to identify. Approach until ordinary sound thins, mark where it stops, and confirm the upright voice-like proportions of the quiet space at the centre; several things in Zone D suppress sound, and only this one is shaped like somebody about to speak, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Twenty turns in the Commons, all four Work Types available, conducted under the knowledge that nothing said during the engagement will be audible to anyone more than a few paces off. Teams work with pre-agreed hand signals and a written running sheet, and the running sheet is the engagement record, since no one outside the radius can hear enough to keep one.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Record the absence without inventing its content**.
+3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Record the absence without inventing its content** — in practice the running sheet closes with the gaps listed, the missing reference numbers named, and nothing supplied where the register is blank.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Composure** and feeding the Sorrow Gauge.
+- Resistance failure does not wound; it makes the worker fluent. The entity's sorrow arrives as articulacy — a ready account of what the protest was about — and the account is the damage, because it is supplied by the worker and indistinguishable, to them, from knowing. Composure goes into the fluency and the gauge rises on what is said.
 - Long exposure works on the capacity to speak rather than on the body. Personnel who stay past the recommended cycle begin to find their own sentences shortening, then stopping, and they do not notice it happening because the silence around them makes it feel like a reasonable adjustment. Colleagues notice first, which is why nobody works this holding alone.
 - The M.A.W. is never costless and its somatic, psychological and mnemonic charges are codified in the equipment file and confirmed without exception in the field. This set bills in testimony: wielders progressively lose the ability to be believed, their accounts acquiring an unplaceable vagueness that listeners read as evasion, and the file records that effect as the cruellest in the wing because it is indistinguishable from lying.
 - Without resolution the gauge peaks and the entity transforms, taking the definition out of the zone around it — colour drains, edges stop holding, and sound goes entirely. It then moves through the structure and takes personnel in no particular order, which is one of the few things about this holding that is straightforwardly documented.
@@ -127,7 +127,7 @@
 - **The Sorrow:** The fear of losing even the memory of having been silent.
 - **The Event:** A community's protest was erased from records, speech, and memory; its silence became a presence.
 - **The People:** A community whose protest was taken out of the records, out of speech, and out of memory. The commissioning file is largely an account of what is not there — gaps in the Commons minutes, a missing run of reference numbers, meetings with no entries. The method is set out step by step at the front so a later reader can judge it rather than accept it: the protest is established by the shape of the hole it left, that being the only evidence the erasure permitted to survive. The reconstruction has been checked twice by people who had no part in making it; both checks are filed with their findings, which were minor, and neither required a revision.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+- **Expanded origin context:** The reconstruction is this file's method, set out step by step at the front so that a later reader can judge it rather than accept it: the protest is established by the shape of the hole it left, the gaps in the Commons minutes, the missing run of reference numbers and the meetings with no entries. Two people who had no part in making the reconstruction checked it; both checks are filed, their findings were minor, and neither required a revision. The method's standing instruction is printed above the reconstruction — establish the hole, document the hole, check the work, publish the weakness at the front, and stop.
 
 ## Behavior
 
@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Protest No One Remembers is recorded as a Subject with Subject-Spirit manifestation and Void elemental expression. The current record places it at Zone D, Mantle Commons; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table is the whole of this holding's usable knowledge and it is deliberately thin. Protest No One Remembers is a Subject with a Subject-Spirit manifestation and a Void expression, held at Zone D in the Mantle Commons, and the four Work Types do four different things rather than four degrees of one thing: Flerehan makes the absence audible for a single breath, Pugnahan widens the radius, Viderehan shows the removal as removal, and Ferrehan tests whether a worker can stand in the quiet without filling it. A stable gauge is not a safe cycle, and Viderehan is the proof: it moves nothing and is still the most dangerous approach on the file, because it is the one that shows an archivist the shape of the hole.
 
 **Reading the response:** Read it in the radius and in what the team starts to be able to say. A falling gauge presents as sound returning at the edges — footsteps audible again at the perimeter, then voices, the boundary drawing in toward the centre. Nothing is restored by that. The protest stays erased, and the Commons goes back to not remembering it. A rising gauge presents as **articulacy**. Personnel working in front of the absence begin to find they can say what the protest was about: its grievance, its demands, the names of the people who called it, arriving with the easy confidence of recollection rather than inference. None of it is recoverable from any source this facility holds. The entity cannot repeat a word that was never spoken, and neither can anyone else, so fluency about its content is not knowledge arriving — it is the sorrow filling its own hole, and it is the one development on this holding that requires an immediate stand-down.
 ## Breach Behavior
@@ -155,8 +155,8 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | **Movement** | Protest No One Remembers seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
 | **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
 | **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever is speaking, or whoever has just stopped speaking; failing both, the nearest person still holding a running sheet, because the entity moves toward whatever is trying to be a record. |
+| **Escalation** | Each turn free, the radius widens by the width of a corridor and the tone test fails from one fixed point further out; Clarity drain rises by 5 per turn until suppressed. |
 
 ### Escalation Notes
 
@@ -195,7 +195,7 @@ The reversed blade design allows for powerful downward hooking strikes and sweep
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold and leaves a listener unable to describe the wearer afterwards.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -213,30 +213,30 @@ The reversed blade design allows for powerful downward hooking strikes and sweep
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a word-tile of Void Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a word-tile of Void Han-glass, near-translucent and almost colourless, crossed by a single warm thread that moves when the bearer speaks.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat while this piece's source entity is the subject of the cycle, and nothing anywhere else
+**Effect:** +2 to the working stat while this holding is the subject of the cycle, and nothing anywhere else
 
 **Ability:** Preserves one spoken word from erasure.
 
 **Cost:** The wearer hears every word removed from nearby conversations.
 
-*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, and no sequence of good results has ever produced one on request.*
+*The tile is conferred, never issued. It appears after a successful cycle at the entity's own disposition, on a worker who kept the running sheet through the whole watch, and no run of good results has ever produced one on request.*
 
 ### M.A.W. Use Notes
 
-A piece cut from Protest No One Remembers is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small memories with each use, and specifically spoken ones: what was agreed in a conversation, who said which part of it, whether they objected at the time, and it is paid whether the use was correct or not.
+Nothing in this set is proof of anything, which is the first line of its field note and the whole of its problem. The scythe takes threads of speech, the veil hides a speaker the way the radius hides sound, and the tile keeps one word that would otherwise be gone; all three work by being part of the thing they are used near. The charge is the one already recorded — spoken memories lost, item by item, whether the use was correct or not — and it is paid in a currency the wielder cannot audit, because the piece removes exactly the recall a wielder would use to check on it.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Protest No One Remembers the recorded cost is that the wielder loses small memories with each use, and specifically spoken ones: what was agreed in a conversation, who said which part of it, whether th. |
-| **During use** | Watch for Protest No One Remembers's toll — the wielder loses small memories with each use, and specifically spoken ones: what was agreed in a conversation, who said which part of it, whether th — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wearer feels faintly absent to themselves, and others overlook them — not deliberately, but in the way a room overlooks someone who has not spoken, and the wielder has stopped reporting it — the usual end point for a Protest No One Remembers piece. The observer calls the limit. |
-| **After use** | Return the piece and check the sealed baseline: has Protest No One Remembers's cost — the wearer feels faintly absent to themselves, and others overlook them — not deliberately, but in the way a room overlooks someone who has not spoken — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, the day's reading, and a sealed list — held by the removal partner — of what the wielder has agreed to say this week and to whom: speech commitments are the first class of memory this scythe takes. Sealed at issue; opened only at the end of the rotation. |
+| **During use** | Watch for the toll rather than the benefit: a conversation the wielder cannot reconstruct, an objection they cannot recall making, a part of the day gone missing while the rest is intact. Record the hour it is first seen, not the hour it is first mentioned. |
+| **At limit** | The wearer becomes faintly absent to themselves and is overlooked by others the way a room overlooks somebody who has not spoken; on this set the wielder stops reporting it, so the observer calls the limit and the call is entered against the observer's name. |
+| **After use** | The sealed list comes out and is read against the week: which commitments were kept, which cannot be recalled at all, and whether the wielder remembers agreeing to any of them. Entered as found; a wielder who disputes the finding is recorded as disputing it, and the entry is not corrected. |
 
 **Stat interpretation:** The rating measures what a piece does to entities and never what it does to the wielder. A γ-grade item from this source can perform exactly to specification and leave its user unable to make themselves believed, which no column in the equipment table records and which shows up first as a performance concern raised by a supervisor. Read the grade and the charge together, authorise on the charge, and treat a sudden reputation for unreliability as equipment data.
 ## 관찰 기록 (Observation Log)
@@ -255,18 +255,18 @@ A piece cut from Protest No One Remembers is not ordinary equipment: it works by
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Protest No One Remembers as a Subject with Subject-Spirit manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone D, Mantle Commons. |
+| **Initial exposure** | A Subject with a Subject-Spirit manifestation, and the first reliable markers are its Void signature, the radius and its presence in the Mantle Commons. Nothing else is identifiable: there is no body, no acoustic trace and no fixed position to set a sight on. |
 | **Sustained observation** | Radius from three fixed points, the rate at which it widens, where the boundary falls against features of the Commons, and the quality at the centre, which observers describe as pressure rather than quiet. |
 | **Activation or escalation** | Either reading alone: the count at 2 reaching zero, or the gauge touching 75%. Neither overrides the other and both are checked at every handover. |
 | **Post-contact review** | Written during the watch and not after it, because nothing survives to be checked: the radius series, the searcher's name, and anything an observer found themselves able to state about the protest, entered under their own name and never in the origin section. |
 
-**Observation method:** Observe in pairs, on paper, with the perimeter marked before entry. Record the first visible sign, the first emotional response and what prompted it, the first measurable change in the radius, and the condition that ended the watch. The entity's appearance is its history made visible rather than a guide to behaviour: a voice-shaped hole that takes the sound out of a public square is what a silencing looks like once even the silencing has been forgotten. Two instructions are specific to this holding. The entity is found only by someone searching for what was silenced, so the search itself is logged, with the searcher named. And anything an observer finds themselves able to state about the protest's content goes into the record as a statement about the observer, under their own name, and never into the origin section.
+**Observation method:** Pairs, paper and the perimeter marked before entry, because nothing from this watch survives to be checked afterwards. Record the radius from the three fixed points, the tone-test result at the fixed listening station, the first change and what preceded it, and the condition that ended the watch. Two instructions are specific here. The search is logged with the searcher named, because the entity is found only by somebody looking for what was silenced and the search is therefore the instrument. And anything an observer finds themselves able to state about the protest's content goes in under their own name as a statement about the observer, never into the origin section, because the entity has never produced a word of it and would be the last thing able to.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Protest No One Remembers (O-IIIγ-371 [VS]) is logged as a Subject-Spirit manifestation expressing Void. The Silence formed from an absence that was erased so completely no one remembered it had existed. Held at Zone D, Mantle Commons. It cannot be recorded through sound.
+Protest No One Remembers (O-IIIγ-371 [VS]) is carried on the wing's register as a Subject-Spirit manifestation expressing Void. The Silence formed from an absence that was erased so completely no one remembered it had existed. Held at Zone D, Mantle Commons. It cannot be recorded through sound, and no instrument has ever retained anything from it.
 
 **Entry 2 — <Excerpt from Mantle Commons Watch Sheet, Year 4238>**
 Moves through voices, rooms, and public conversations. Personnel lose access to words they were about to say. It appears more clearly when people search for suppressed history.
@@ -277,16 +277,16 @@ The fear of losing even the memory of having been silent.
 **Entry 4 — <Containment Notice>**
 Management: Record the absence without inventing its content. Work response — Flerehan: The absence becomes briefly audible as a breath. (Decrease); Pugnahan: Silence spreads and suppresses nearby sound. (Increase); Viderehan: Reveals what was removed from the record. (Stable); Ferrehan: Tests whether the worker can remain without filling the silence. (Decrease). Personnel feel emptiness after exposure.
 
-**Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow hollowed out. This sorrow drew everything inward. This sorrow emptied into something that could not be ignored.
+**Entry 5 — <The Tone Test and the Seven Replies>**
+The detection method is a continuous tone from a fixed source, listened to from a fixed point, and it has never failed. Two hundred and twenty watches a year, mean radius eleven metres, widest thirty-four, no trend in twenty-six years. Seven Commons replies now carry a standing annotation that says the office holds no record, points to this file and gives the designation; the gauge has not moved on an annotated reply, which the wing records as one instance repeated seven times and explicitly not as a result.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Protest No One Remembers; the other feeds it.
+> What the watch comes down to: describe the absence and stop at the edge of it, or fill the silence with what the protest must have been.
 
-| Record the absence without inventing its content. | Substitute your own judgement, which on Protest No One Remembers has never yet cost less than the condition. |
+| Record the absence without inventing its content — the gaps, the missing reference numbers, the meetings with no entries, and nothing where the record is blank. | Substitute your own judgement and supply the protest's content — a grievance, a demand, a name, a cause — which is how every rise on this file began, including the two written from outside this wing. |
 |---|---|
-| The absence becomes briefly audible as a breath. The sorrow is seen clearly; Protest No One Remembers is fully recorded. | Silence spreads and suppresses nearby sound. The gauge climbs and Protest No One Remembers withdraws without revelation. |
+| The radius narrows at the perimeter, the tone test comes back whole, and the entry closes with a blank left blank. | The radius widens, the tone thins further, and the observer's own account of the protest arrives fluent and unattributable. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -295,24 +295,24 @@ Sound disappears around you. The Commons continues moving, but every mouth is cl
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Spirit resolve into something you can name. A voice-shaped absence that moves through the Commons, making sound disappear around it.
+**At first contact:** The perimeter is marked before anybody enters, and the first thing that registers is the tone failing at the fixed station: the boundary is found by the instrument and not by the eyes. Inside it there is no body to sight, only a quiet with the proportions of somebody about to speak and the pressure of things the register cannot say.
 
-**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Void that the entity embodies. Understanding it does not make it easier.
+**With continued exposure:** The radius stops feeling like an absence and starts feeling like a witness. Observers report the shape at the centre more precisely the longer they stay — taller than wide, roughly upright, the proportions of somebody standing to speak — and the file warns that precision about the shape is expected while precision about the content is the symptom.
 
-**When the entity activates:** When it activates, you understand why the containment protocols exist. The Void that was merely present becomes active, directed, purposeful — the Subject-Spirit was holding back, and now it isn't.
+**When the entity activates:** The quiet acquires direction. Sound does not merely stop; it is taken in order, from the outside of the radius inward, and the tone at the fixed listening station thins before the boundary is visibly any closer. Everything said inside the radius from that moment is written down contemporaneously or not at all.
 
-**After departure:** The containment boundary holds the Subject-Spirit, but not the memory. Void residue settles into the bones like Han into the city's foundations.
+**After departure:** Nothing follows the worker out and nothing can be checked afterwards. What remains is an unusually exact memory of the watch and no way to corroborate any of it, which is the file's own problem in miniature and the reason every finding here carries the name of the person who made it.
 
 ### Interaction Pattern
 
-Protest No One Remembers does not exist in isolation. Its recorded relationships with Silence We Forgot We Made, The Hollow Choir, The Whispering Walls should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The three filed relations are two other absences and one held memory, and the question worth settling is whether the radius changes shape in another presence — a measurable finding in a holding that produces almost none. Silence We Forgot We Made is the only holding that has ever changed the radius's shape; The Hollow Choir is refused as a standing matter, because voices arriving here would be content arriving; and The Whispering Walls has twice sent workers back able to state a demand and a name. None of the three is settled, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal or a transformation event.
 
 **Interaction method:** Baseline each entity alone before any joint observation, and allow more sessions here than elsewhere, since nothing from a session can be re-examined afterward and a conclusion therefore has to be built from repetition rather than from review. The relations on file concern erasure, silence and removed records, so the question worth settling is whether the radius changes shape in another presence — a measurable finding in a holding that produces almost none. Log the first mutual reaction, the triggering distance, the duration, the gauge change on both sides, the operational impact, and whether separation ends it.
 
 
 ### Entity Interaction Record
 
-This entity must be assessed as one of a group of sorrows produced by deliberate removal rather than as an isolated presence in the Mantle Commons. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
+The entity is read against the other things the city removed on purpose, and the objection that produced this section is on record: erasure-derived holdings both recur in the archive, the Commons has held more than one, and the instructions diverge at the decisive point, which here is the absolute prohibition on supplying content. The relations below are observed and filed rather than settled; any of them may present as assistance, obstruction, indifference or a condition that appears only under load.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -320,7 +320,7 @@ This entity must be assessed as one of a group of sorrows produced by deliberate
 | **The Hollow Choir** | The Choir offers voices to a thing that has none. | Refused as a standing matter. Voices arriving at this holding would be content arriving, the content would be the Choir's and not the protest's, and no measurement the wing could take afterwards would be able to tell the difference. | The refusal, its reasoning, and the review minute at which it was last restated. |
 | **The Whispering Walls** | The Walls are said to hold what the records lost. | Two workers have come back from a Walls transit able to state a demand and a name. Both statements are on the speculation sheet under their authors' names, neither is in the origin section, and the gauge rose ten points on each occasion, which is what the file treats as the finding. | Both statements verbatim with their authors, the gauge movements, and the transits that produced them. |
 
-**Interaction procedure:** Baseline both parties alone, bring the second to the marked perimeter rather than into the radius, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, and whatever persists after separation. The field this holding adds is the radius, measured from three fixed points before and after, and written down at the time, because there will be nothing to measure later.
+**Interaction procedure:** Baselines are taken solo and repeated more often than the manual asks, because a session here leaves nothing that can be re-examined and the file builds its conclusions out of repetition instead of review. The second presence is brought only as far as the marked line; from there, log the first mutual change with its distance, duration and trigger, the gauge on both sides, the radius from all three fixed points read before and after, and whatever outlasts the withdrawal.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -427,10 +427,10 @@ The Commons registrar's objection was lodged at the time and has been renewed at
 
 ### Registry Trivia
 
-- **Classification detail:** Protest No One Remembers is a Subject with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Void, and its registered location is Zone D, Mantle Commons.
+- **Classification detail:** Subject, Fragment (III) coherence, Major (γ) potency, `O-IIIγ-371 [VS]`; the grade is the read-out of both clocks, the counter at 2 and the gauge line at 75%, either standing alone.
+- **Field detail:** Element Void, registered to Zone D at the Mantle Commons, where the radius is measured from three fixed points and the tone test is run from a fixed listening station at every watch.
 - **Recognition detail:** Identify it by the radius, since there is nothing else to identify. Approach until ordinary sound thins, mark where it stops, and confirm the upright voice-like proportions of the quiet space at the centre; several things in Zone D suppress sound, and only this one is shaped like somebody about to speak.
-- **Record detail:** Silence-form and erasure-derived entities both recur in the archive and the Commons has held more than one. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the decisive point, which here is the absolute prohibition on supplying content.
+- **Record detail:** Erasure-derived holdings recur in the archive and the Commons has held more than one, so confirm the designation and the manifestation before a cycle is booked; what separates this entity is the absolute prohibition on supplying content — an assertion about the protest feeds it whether it arrives as an official denial or as an inference, and the file treats both as the same act.
 - **Containment detail:** Containment of this holding is, unavoidably, silence, and that is the difficulty rather than the solution. There is no enclosure — the entity drifts through the Commons and through structure alike — and what crosses every boundary is the quiet. Staff in adjacent spaces report conversations dying without anyone deciding to stop, and the complaint most often made is not fear but the sense of having been interrupted by nothing.
 ## Document Information
 
