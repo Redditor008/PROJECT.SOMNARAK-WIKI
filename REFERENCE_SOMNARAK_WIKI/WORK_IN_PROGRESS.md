@@ -17,8 +17,8 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **102 / 303** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **80 / 303** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **43 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **81 / 303** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **44 / 302** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/178 · OP 21/41 — all floors met** |
@@ -242,7 +242,7 @@ or containment stability,"* which **127** dossiers still carry.
 1. **Thinking Engine `C-IIIγ-904`, Duri's Heart `C-IIβ-901`, Grimoire `C-IIβ-906`, Glass Elsewhere
    `N-IIβ-903`.** Each fails exactly one condition: no Entity Interaction Record. No other dossier
    references the first, second or fourth, so each relation has to be written from both sides.
-2. **Stormscale Sovereign `C-Vδ-949`.** Its only dirty section is M.A.W. Equipment: one 21-shingle
+2. **Stormscale Sovereign `C-Vδ-949` — done in the third turn (`e2c5b34`).** Its only dirty section was M.A.W. Equipment: one 21-shingle
    paragraph and the four Use Notes cells, all built from the same cost sentence.
 3. **The choice sentence in the other 211 dossiers**, worst section first; then the Interaction
    Pattern sentence in the other 127.
@@ -287,7 +287,7 @@ were read, four at each risk level** (ZAYIN to ALEPH; three re-read on the Fando
 and the Risk Level page), and **ten dossiers were set against them** by a rule fixed before reading (lowest
 registry number of the class at the rank). The record is
 `COMPARATIVE_STUDY_02_TWENTY_PAGES_FIVE_LEVELS.md`; `python3 tools/ladder.py` regenerates its archive
-figures. No dossier was edited this turn, so `R-29` stays **43 / 302**.
+figures. The study itself edited no dossier. One dossier unit followed it (below), so `R-29` is **44 / 302**.
 
 **What it found, short.**
 
@@ -316,8 +316,24 @@ Rank V Sorrow Gauge against the conversion guide; a stated trigger rule as a sev
 point (the wiki's page gives her a Passive Breach that assists suppression); whether the relic capability
 banner, a closed vocabulary of eight strings, is sanctioned furniture; a by-employee-level work matrix.
 
+**One unit followed the study: The Stormscale Sovereign `C-Vδ-949`, `R-29` 43 → 44.** The only dirty section
+was M.A.W. Equipment. The Use Notes and the four Field Use Record cells had been built by slotting the Weapon's
+and the Suit's cost sentences into a shared frame. They are rewritten from the file's own record: the three
+pieces are a resonance harvest from the one transformation on record, no extraction is authorised, so the
+wielder is also the measurement (hazard and instrument in one, Study 02 §8.1.2). The italic Stigma line said the
+Eye was granted by a work, in a file that says the Sovereign has never been worked; it now says the Eye was
+harvested and no second can be drawn. 7,240 → 7,308 words; dirty sections 1 → 0. `verify.py` still reports its
+structural Entry 1 marker (RESIDUAL 1), as on the other 176 dossiers.
+
+**Noticed while choosing the next unit.** The `own_series` test counts digits, and many dossiers write their
+numbers as words ("nine stations", "sixty years", "eleven years"). Sorrow Tide `C-Vγ-260` fails only the series
+clause and carries exactly that series in words. Rewriting words as digits would pass the test and add nothing,
+which is threshold gaming (`R-05`); the honest fix is to add a series the file does not yet state, in its
+Observation Log, grounded in the rest of the file. That needs the whole file read first, and is the next unit.
+
 **Next targets, re-ordered by the study** (the list above stands underneath): (1) the Rank V cohort, which fails
-the own-series clause in 9 of 14; (2) the `R-01` sweep on the 88-dossier list; (3) the Kind Echo shape, an event
+the own-series clause in 9 of 14 (four Rank V dossiers fail only that clause: Sorrow Tide, and the three
+projection-only holdings); (2) the `R-01` sweep on the 88-dossier list; (3) the Kind Echo shape, an event
 figure for an event the file calls practically impossible; (4) the single-clause gaps already listed.
 
 ## Workstream 8 — Breach Balance (`R-28`, done 2026-10-05)
