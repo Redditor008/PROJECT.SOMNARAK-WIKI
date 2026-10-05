@@ -223,7 +223,9 @@ from a closed set: instadeath, escape, possession, employee, department or facil
 | IV | 85 | 7,194 | 827 | 55 | 2.45 | 20–28 | 61% | 294 | 1,450 | 3 / 74 / 8 | 10 |
 | V | 14 | 7,566 | 897 | 48 | 2.80 | 20–28 | 50% | 281 | 2,185 | 0 / 3 / 11 | 2 |
 
-Medians. "Rank record" is the section each rank adds: Watch Record at II, Warden Record at III, Apex Record at
+Medians, as of the commit that carries this study, when `R-29` stood at 43. Later dossier units move two cells and
+no argument: the Rank V words and the last column (after The Stormscale Sovereign and Sorrow Tide, Rank V reads
+7,670 words and 4 meeting). "Rank record" is the section each rank adds: Watch Record at II, Warden Record at III, Apex Record at
 IV, Sovereign Chronicle at V. Six readings follow from the table and its companions.
 
 1. **Length climbs.** 6,477 to 7,566 words, monotonically. That is the ladder the archive already requires, and

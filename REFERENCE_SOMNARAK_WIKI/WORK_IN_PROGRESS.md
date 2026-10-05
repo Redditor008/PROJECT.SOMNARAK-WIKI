@@ -18,7 +18,7 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **102 / 303** |
 | **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **81 / 303** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **44 / 302** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **45 / 302** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/178 · OP 21/41 — all floors met** |
@@ -287,7 +287,7 @@ were read, four at each risk level** (ZAYIN to ALEPH; three re-read on the Fando
 and the Risk Level page), and **ten dossiers were set against them** by a rule fixed before reading (lowest
 registry number of the class at the rank). The record is
 `COMPARATIVE_STUDY_02_TWENTY_PAGES_FIVE_LEVELS.md`; `python3 tools/ladder.py` regenerates its archive
-figures. The study itself edited no dossier. One dossier unit followed it (below), so `R-29` is **44 / 302**.
+figures. The study itself edited no dossier. One dossier unit followed it (below), so `R-29` was **44 / 302** after it and is **45 / 302** after the second unit below.
 
 **What it found, short.**
 
@@ -325,15 +325,29 @@ Eye was granted by a work, in a file that says the Sovereign has never been work
 harvested and no second can be drawn. 7,240 → 7,308 words; dirty sections 1 → 0. `verify.py` still reports its
 structural Entry 1 marker (RESIDUAL 1), as on the other 176 dossiers.
 
-**Noticed while choosing the next unit.** The `own_series` test counts digits, and many dossiers write their
-numbers as words ("nine stations", "sixty years", "eleven years"). Sorrow Tide `C-Vγ-260` fails only the series
-clause and carries exactly that series in words. Rewriting words as digits would pass the test and add nothing,
-which is threshold gaming (`R-05`); the honest fix is to add a series the file does not yet state, in its
-Observation Log, grounded in the rest of the file. That needs the whole file read first, and is the next unit.
+**A second unit: Sorrow Tide `C-Vγ-260`, `R-29` 44 → 45.** It failed only the own-series clause. The `own_series`
+test reads the Observation Log, the Registrum and the Trivia for digits, and this file keeps its series elsewhere
+and mostly in words: nine stations, an almanac that has called 188 of the last 203 red nights, four Floods in
+sixty years, forty-one shelters, eleven years of attendance. Nothing had to be invented. The Observation Log's
+three bullets were generic; they now state that record, in digits, which is how the Vellum Man file states its
+own. Reading the whole file turned up contradictions between layers, and the three that touch the series were
+fixed: the Registrum said Critical (δ) and Comprehension Level 5 against the SECC table's Major (γ) and 4; the
+Sovereign Manifestation Log said the charts show the pattern "never once breaking" against four logged Floods;
+and the Chronicle said the rhythm "broke exactly once". The charts now never fail to *rise*; the Long Night is the
+worst break and came before the gauges; four lesser Floods have been logged since. 7,475 → 7,681 words.
+
+**Still unreconciled in Sorrow Tide, left for a later pass.** The Chronicle names the Stigma "the Ebb Mark" (a calm
+that deepens, a cost of daylight restlessness) where the M.A.W. section names it "the Tide Stone" (+2 on Tide nights,
+heavier after each use); the Chronicle's night crews are Directorate crews where the Registrum says Wardens are
+excluded from the shelters; Story Log entries 2 to 4 are single sentences copied from other sections.
+
+**Reporting format, from the owner this turn (recorded in `R-12`).** At the end of a unit, link each finished dossier
+as `[[SE-…_Name_한글](github url "SE-…_Name_한글.md")]`, on the working branch. `tools/ghlink.py` builds it and
+reproduces the owner's two examples byte for byte.
 
 **Next targets, re-ordered by the study** (the list above stands underneath): (1) the Rank V cohort, which fails
-the own-series clause in 9 of 14 (four Rank V dossiers fail only that clause: Sorrow Tide, and the three
-projection-only holdings); (2) the `R-01` sweep on the 88-dossier list; (3) the Kind Echo shape, an event
+the own-series clause in 8 of 14 now (three Rank V dossiers fail only that clause, and all three are the
+projection-only holdings: The Convergence, Forgotten God, The Final Door, whose series must stay honest); (2) the `R-01` sweep on the 88-dossier list; (3) the Kind Echo shape, an event
 figure for an event the file calls practically impossible; (4) the single-clause gaps already listed.
 
 ## Workstream 8 — Breach Balance (`R-28`, done 2026-10-05)
@@ -458,6 +472,7 @@ Not repaired, because history is not rewritten (`R-17`).
 - A commit pushed with two open `label_lint` violations, fixed in a later commit.
 - A commit message reading `45->10` where the measured figure was 9.
 - The Memory Chain commit message reads `6,601 -> 6,613`; the measured figures were 6,613 -> 6,624.
+- The Sorrow Tide commit message says "no word was turned into a digit". The new Observation Log bullets do state, in digits, figures that other sections of the file give in words (nine stations, eleven minutes, sixty years). Nothing was invented, but the sentence was too strong.
 - The Foam Flood and Soot Fry commit messages describe the stock opener as carried by many dossiers. The exact first sentence ("does not exist in total isolation") was in those two files only; the shared part was the third sentence, which 127 dossiers still carry.
 
 ## Traps that have cost time
