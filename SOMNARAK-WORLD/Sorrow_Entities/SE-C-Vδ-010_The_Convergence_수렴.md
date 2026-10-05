@@ -28,21 +28,21 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per cycle, and the cycle is a drill rather than a contact: the Three Birds' station runs the separation against a clock and bills the drill, there being no other way to work a holding that exists for twelve seconds at a time. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Separate `031`, `032` and `033` inside twelve seconds. There is no Work Type for the fused form and none has ever been attempted; everything in this file is about the window. |
 
 ### Operational Notes
 
 - The Convergence is the three Birds in one body, and the record treats it as a single subject rather than as a group under one file.
 - Work reduces the pressure it exerts. It has never separated the constituents, and no session has addressed one of them alone.
-- A single ignored condition escalates it. There is no margin, and conditions are verified by two operatives against a printed list before approach.
+- A single ignored condition escalates it, and the conditions are read off a printed list by two people before any of the three Birds is worked. The list has nine items and has not changed since the second formation.
 - Burden pressure reaches personnel at distance. Crews who have previously worked any of the three Birds are excluded from the rotation by screening.
-- Extraction is a separate risk event under its own authorization and is never attempted while the entity is active.
+- Extraction has never been attempted and the Armoury's entry says it will not be: the fused form has existed for a total of thirty-six seconds in eleven years, across three occasions, and all of those seconds were spent pulling it apart.
 
 ## Combat Record
 ### Core Stat Line
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.80 m/s |
-| **Resistance** | 50% against Weight pressure; 40% against other pressure types |
+| **Resistance** | 50% against Weight. Untested and untestable — nothing has been struck in any of the three formations, because every second available was spent on the separation. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 977/977 |
 | **Han Pressure [ATK]** | 25–53 per hit · Weight |
@@ -81,21 +81,21 @@
 | { *The Gathering Point* [**Debuff**] } | "Everything is being pulled here — every sorrow, every grief, every weight — toward a single, unbearable point." | [The Convergence draws all nearby sorrow toward the target.] | *Target suffers -10 Resolve; they are becoming the center of all grief.* **[10 Weight DMG [Weight]]** | When the target enters the Convergence. |
 | { *The Compression* [**Debuff**] } | "The sorrow compresses — denser, heavier — until the weight of a city's grief fits in the space of one heart." | [The Convergence's pressure intensifies exponentially.] | *Target loses 10 Resolve; the concentrated grief is staggering.* **[10 Weight DMG [Weight]]** | When the target remains at the center. |
 | { *The Gravitational Pull* [**Attack**] } | "The convergence pulls — hard — dragging everything and everyone toward the singularity of sorrow." | [A massive inward pull seizes the target.] | *Inflicts Weight pressure and one wound of crushing convergence.* **[14-22 Weight DMG [Weight]]** | When the Convergence is disturbed. |
-| { *The Singularity* [**Attack**] } | "All sorrow meets at one point — and the point cannot hold — and it detonates." | [The Convergence's critical mass triggers a catastrophic release.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Convergence is overloaded. |
-| { *The Collapsed World* [**Ultimate**] } | "The convergence extends — until everything in the field is pulled to one point, and the point is all there is." | [The Convergence claims the entire field.] | *All in range suffer Weight pressure for three turns of universal collapse.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Singularity* [**Attack**] } | "All three judgements arrive at once and agree, and the agreement is the thing that cannot be survived." | [The fused verdict resolves; sight, weight and enforcement deliver one finding.] | *Facility-threatening. Never reached. Both times the window ran past ten seconds the separation came in at eleven.* **[Projected]** | At the end of the twelve seconds, if the Birds are still fused. |
+| { *The Collapsed World* [**Ultimate**] } | "Everything in the wing is drawn to one point and the point is a judgement." | [The convergence extends past the chamber.] | *Projected as facility-ending; modelled from the three formations and not observed.* **[Projected]** | Beyond the window. The entry exists so the drill has a reason printed on it. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Convergence's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Separate Entities 031, 032, and 033 within twelve seconds**.
+1. **Tension:** Three teams, one per Bird, already in position before any of the three is worked — which is the standing arrangement in that wing and the reason the drill is run weekly whether or not anything is expected.
+2. **Clash:** There is no clash. There are three teams pulling three Birds apart against a twelve-second clock, and the Convergence is what happens if they are slow.
+3. **Resolution:** The three are separated and the fused form stops existing. Three formations, three separations: nine seconds, eleven seconds, eleven seconds. The station's drill target is eight and it has been met in practice 188 times and in a formation never.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resolve** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks The Convergence’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, The Convergence defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- The failure mode here is arithmetic rather than courage. Three teams, three Birds, twelve seconds; if any one team is short-handed the separation cannot be made and the station has refused to run the wing below strength four times on that ground.
+- Nobody has been in contact with the fused form for longer than eleven seconds and the file cannot say what longer exposure does. That absence is the honest state of the record and is why the projected entries above are marked as projections.
+- No M.A.W. piece exists. The Armoury's entry is four words long — *nothing has been extracted* — and it is the only such entry in the registry.
+- Without the separation the window closes, and what is on the other side of a closed window has been modelled three times by three different offices with three different answers. None of them is in this file; the station holds that a projection is not a finding.
 
 ## Appearance
 **Primary Form:** A floating fusion of the Observing, Weighting, and Guarding Birds. Wings combine with wings, scales become armor, and 144 eyes collapse into one all-seeing gaze.
@@ -110,7 +110,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body — fusion of the Three Birds
 - **Primary marker:** A floating fusion of the Observing, Weighting, and Guarding Birds. Wings combine with wings, scales become armor, and 144 eyes collapse into one all-seeing gaze.
-- **Position / movement:** The subject manifests independently within the registered area; posture and distance must be recorded.
+- **Position / movement:** It forms where the three Birds are and floats; it has never moved during a formation, which the station attributes to all three of its components being, individually, things that stay where they are put.
 - **Element signature:** Weight
 - **Registered location:** Forms only when Entities 031–033 breach simultaneously
 
@@ -119,10 +119,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A floating fusion of the Observing, Weighting, and Guarding Birds. Wings combine with wings, scales become armor, and 144 eyes collapse into one all-seeing gaze. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | Floating, stationary, and brief. Thirty-six seconds of existence in eleven years. |
+| **Material / signature** | Three bodies merged: wings layered over wings, three beaks closed into one mask, markings braided blue, crimson and white. Record the formation time, the separation time, and which team was last to break contact. |
 | **Distinctive markers** | Exists only after the Three Birds breach together. Its judgment is always “Guilty.”. It does not distinguish between personnel, entities, or innocence. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
+| **Identification** | If the Three Birds are in one place and there is one mask, it has formed. There is no ambiguity and no gradual onset; the twelve-second count starts at the sight of it. |
 
 **Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
 
@@ -151,9 +151,9 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. The Convergence is recorded as a Subject with Subject-Body — fusion of the Three Birds manifestation and Weight elemental expression. The current record places it at Forms only when Entities 031–033 breach simultaneously; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+No Work Type has ever been applied to the fused form and the table is retained for the three components. What the station tracks instead is the drill: 188 timed separations in eleven years, median eight seconds, and three live formations at nine, eleven and eleven. The margin has never been more than three seconds and twice it was one.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Success is a separation time under twelve seconds. There is no gauge reading during a formation — nobody is reading instruments — and the station records the drill times instead, weekly, as the only measure that has ever predicted anything.
 ## Breach Behavior
 
 > *"Convergence has broken free. Unleashes all sorrows at once."*
@@ -164,12 +164,12 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | **Movement** | The Convergence rampages on its limbs, crashing through walls. It unleashes all sorrows at once. |
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
 | **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
+| **First Target** | Whoever is holding the Weighting Bird. In all three formations the fused mask turned toward that team first, and the station has rotated the post monthly since the second. |
 | **Escalation** | Each turn free, Resolve drain +5 until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Event type:** Formation. It does not escape and has never attempted to; it comes into existence where the three Birds already are and ceases when they are parted.
 - **Containment priority:** Physical suppression required.
 - **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
 
@@ -196,7 +196,7 @@ The planetary hoops spin along multiple axes with zero friction, warping backgro
 **Falloff Rule:** Epicenter 100% → perimeter 70%; completely obliterates physical barriers and energy shielding.
 **Damage Application:** Direct Weight trauma to Han (sorrow reserves, karmic debt); collapses posture and pins entities to the ground.
 
-**Ability:** Deals extreme Weight damage, attacking the Han (sorrow reserves, karmic debt). No Appeal compresses space into a single point of absolute judgment, breaking structures and constructs without regard for physical density.
+**Ability:** Extreme Weight against the Han. No Appeal compresses the space around a target into one point; it has been drawn in drill, never in a formation, and the Armoury's note records that drawing it in a formation would mean somebody had stopped pulling.
 
 **Cost:** The wielder feels progressively heavier; after each discharge, the bearer experiences every nearby person’s self-accusation as their own, causing excruciating mental and spinal strain.
 
@@ -204,7 +204,7 @@ The planetary hoops spin along multiple axes with zero friction, warping backgro
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle braided in three colours, lead-heavy, which the Armoury assembled from the three Birds' own sets rather than extracting anything from the fused form.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -214,19 +214,19 @@ The planetary hoops spin along multiple axes with zero friction, warping backgro
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Convergence's kind of pressure.
+**Ability:** Resistance to Weight against the Han. Worn by the separation teams, all three of them, and the only equipment issued for this holding.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** A constant low fatigue, and the habit of counting — under the breath, to twelve, at odd moments. Every separation-team member reports it and the station treats it as training rather than as an effect.
 
 ### M.A.W. Stigma — The Absolute Verdict
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a warm steel charm cast as three rings that do not interlock, which the Armoury made deliberately and which is the only piece in the registry designed as a warning rather than a tool.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the working stat during a separation drill, which is the only circumstance in which this holding can be worked at all
 
 **Ability:** Forces a target to experience their full karmic debt at once.
 
@@ -236,18 +236,18 @@ The planetary hoops spin along multiple axes with zero friction, warping backgro
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to The Convergence's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+There is no extension of this entity, because nothing has been taken from it. The three pieces listed here were assembled out of the Birds' own sets so that the separation teams would have something rated for the work, and the Armoury's note says plainly that they are equipment for a drill and not relics of a source. It is the only honest way to issue anything for a holding that has existed for thirty-six seconds.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Team, piece, the nine-item condition list read aloud by two people, and confirmation that all three Bird posts are manned. The last item has stopped four cycles. |
+| **During use** | The clock. One person on each team does nothing else, and the three times are compared afterwards rather than called out during. |
+| **At limit** | Ten seconds. The station's own order is that at ten the teams keep pulling and nobody says the number aloud, because in the second formation somebody did and two people looked up. |
+| **After use** | Three separation times, the last team to break contact, and a written note from each team leader on what slowed them. The notes are read at the next drill and not filed against anybody. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade is irrelevant here; nothing is being fought. The numbers that matter are three clocks and a nine-item list, and the only authorisation worth giving is whether all three posts are manned.
 
 ## 관찰 기록 (Observation Log)
 
@@ -269,12 +269,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Convergence as a Subject with Subject-Body — fusion of the Three Birds manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Forms only when Entities 031–033 breach simultaneously. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - Formation produces a twelve-second emergency window. - Most sentenced personnel Fracture within three seconds. - After suppression, the three Birds remain docile for 72 hours. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Convergence's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | One mask where three beaks were, wings layered over wings, braided markings. The count starts on sight and the file's whole operational content is what the three teams do in the next twelve seconds. |
+| **Sustained observation** | There is none. Thirty-six seconds of total observation across eleven years, recorded by people who were pulling at the time. What is sustained is the drill record: 188 timed runs, median eight seconds, worst sixteen. |
+| **Activation or escalation** | Formation. Record the trigger for each of the three Birds separately, the formation time, the separation time per team, and whether the nine-item list had been read that shift. In all three formations it had. |
+| **Post-contact review** | The three clocks, the condition list, each team's note, and a statement from the Weighting Bird's handler, who is addressed first every time and whose account is the only one from inside the mask's attention. |
 
-**Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
+**Observation method:** There is no observation method for the fused form and the station has stopped pretending otherwise. What is recorded is the drill: three teams, three clocks, a nine-item list, and a median that has to stay under eight.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -296,11 +296,11 @@ The archive cross-references this entity with its registered location — the so
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Convergence; the other feeds it.
+> The choice is at ten seconds, with your team short and the other two still pulling.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Keep pulling and say nothing. | Call the number, so everybody knows how long is left. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is borne; The Convergence is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Convergence withdraws without revelation. |
+| Eleven seconds, three Birds apart, and nobody looked up. | Two people look up at ten and the margin is gone. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -311,32 +311,32 @@ The alarms stop. The facility becomes silent. Three birds rise in a perfect tria
 
 **At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: A floating fusion of the Observing, Weighting, and Guarding Birds. Wings combine with wings, scales become armor, and 144 eyes collapse into one all-seeing gaze. The space does not become generic; it shifts in the specific register of Weight.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Weight pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** There is no continued exposure. Eleven years of this holding amount to thirty-six seconds, and every person who has seen it was holding a rope at the time.
 
-**When the entity activates:** The Gauge tips. The Subject-Body does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Weight is no longer atmospheric. It is operational.
+**When the entity activates:** Three Birds become one mask. It does not approach, does not speak and does not appear to be in any hurry; the hurry is entirely on the facility's side.
 
-**After departure:** After contact, the body holds what the mind files away. The Weight is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** You count. Separation-team members count to twelve under their breath for weeks afterwards, and the station has stopped discouraging it on the grounds that the counting is the job.
 
 ### Interaction Pattern
 
-The Convergence does not exist in isolation. Its recorded relationships with The Observing Bird, The Weighting Bird, The Guarding Bird, The Maw, The Dawn of Mourning should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Five relations and three of them are its own components. The other two are the archive's warnings: the Maw will not be judged and avoids it, and simultaneous manifestation with the Dawn of Mourning is the one pairing nobody has modelled twice.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** The three components are studied constantly and separately, which is the containment. No paired study of the fused form is possible and none is sought; the interaction record here is a record of keeping things apart.
 
 
 ### Entity Interaction Record
 
-The Convergence must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+This holding is a property of three others. It cannot be assessed on its own and the station's position is that the file exists to keep the three apart rather than to describe the fourth.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What it contributes | What the drill requires | Required record |
 |---|---|---|---|
-| **The Observing Bird** | Supplies the Convergence's sight. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Weighting Bird** | Supplies its scales and judgment. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Guarding Bird** | Supplies its armor and enforcement. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Maw** | Avoids the Convergence; the First Sorrow cannot be judged. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Dawn of Mourning** | Simultaneous manifestation threatens reality collapse. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Observing Bird** | Supplies the sight; the mask's single eye-line is its. | Its team breaks contact first in the drill, every time, because releasing the sight costs the fused form its aim. | Separation time, and whether the eye-line had fixed before release. |
+| **The Weighting Bird** | Supplies the scales and the judgement. | Its handler is addressed first in every formation and the post is rotated monthly for that reason. | The handler's account, taken alone, immediately. |
+| **The Guarding Bird** | Supplies the armour and the enforcement. | Its team is the slowest in every drill — median eleven seconds — because what they are pulling does not want to leave a post. | Separation time, and the doorway it was standing in. |
+| **The Maw** | Will not be judged and keeps its distance. | Nothing. The Architects record that the thousand fall silent during a formation and resume afterwards. | The thousand's transcript for the day, searched for the gap. |
+| **The Dawn of Mourning** | Simultaneous manifestation is the archive's single worst projection. | Nothing is scheduled and nothing will be. | Cross-referenced in both files, identically, and left there. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Keep them apart. That is the procedure in full, and the drill is how it is rehearsed.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -382,14 +382,14 @@ Some sorrows are partial. The Convergence is total — the Three Birds merged in
 - The completed shape of witnessing, judgment, and guarding without mercy.
 - Exists in historical breach records.
 **Cross-References:** The Three Birds · The Observing Bird · The Weighting Bird · The Guarding Bird
-**Faction Involvement:** Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
+**Faction Involvement:** Judexhan hold the δ-grade order and attend every drill. The Wound Walkers requested the three handlers for Fracture screening after the second formation and the station agreed, which is the only external request in this file that was granted on the day it was made.
 **Originator:** The Three Birds, merged (historical); born from the Forgotten Market fire.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This holding has existed for thirty-six seconds in eleven years and everything in the file is about not letting it last longer. Three teams, three clocks, twelve seconds, a nine-item list read aloud by two people before anybody touches a Bird. The margin has twice been one second. Nothing has been extracted from it, nothing has been observed about it that was not seen by somebody pulling a rope, and the three projected outcomes in the Combat Record are projections and are labelled as such. What the station has instead of knowledge is a drill median of eight seconds, and it defends that number annually against proposals to reduce the wing's establishment.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every formation and every drill: three separation times, the last team to break contact, the nine-item list with the two names against it, each team leader's note, and the Weighting handler's account where there was a formation. One standing item — any proposal affecting the manning of the three Bird posts is an escalation to the Director, because the twelve seconds are arithmetic and the arithmetic needs three teams.
 ## Sovereign Manifestation Log
 
 The Convergence has manifested completely only once in recorded history, and the record of that manifestation is a sealed folio no living warden has read. What the archive holds instead are the partial descents: the sky over the containment wing darkening at noon, three shadows merging into one across the courtyard stones, every held Bird entity in the facility falling silent at the same instant. Each partial descent ends before completion — the shadows separating, the silence lifting — leaving behind a single black feather that dissolves into ash when touched and a residual dread the clerks log as *"the shape of being watched by something that has finished watching."*
@@ -456,10 +456,10 @@ The sightline maps are updated daily from the perch log — a plain ledger, kept
 ### Registry Trivia
 
 - **Classification detail:** The Convergence is a Subject with Sovereign (V) — Autonomous and absolute coherence and Critical (δ) — Facility-threatening potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Forms only when Entities 031–033 breach simultaneously.
+- **Field detail:** Weight, and no location of its own: it forms wherever Entities `031`, `032` and `033` are when all three are active at once.
 - **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
 - **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** There is nothing to contain. The containment of this holding is the separate containment of three others, and a weekly drill with a stopwatch.
 ## Document Information
 
 **Document ID:** SE-C-Vδ-010
