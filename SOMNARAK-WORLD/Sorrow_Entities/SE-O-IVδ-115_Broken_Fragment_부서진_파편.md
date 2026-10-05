@@ -320,7 +320,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Fragment; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. | Improvise something kinder, which is how every failure on Broken Fragment's file began. |
 |---|---|
 | Tests whether the worker can remain beneath its pressure. The sorrow is borne; Broken Fragment is fully recorded. | Reveals the monument's debt history. The gauge climbs and Broken Fragment withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

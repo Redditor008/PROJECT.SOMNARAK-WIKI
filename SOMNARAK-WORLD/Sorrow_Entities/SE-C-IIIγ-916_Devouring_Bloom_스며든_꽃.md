@@ -331,7 +331,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Devouring Bloom; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Witness the memories and prevent unauthorized petal collection — as written, without improvising. | Try Pugnahan instead, which is the one response this holding has never tolerated. |
 |---|---|
 | Tests whether the worker can bear its growing weight. The sorrow is borne; Devouring Bloom is fully recorded. | Reveals the sorrow attached to each petal. The gauge climbs and Devouring Bloom withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

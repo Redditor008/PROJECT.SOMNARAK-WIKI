@@ -290,7 +290,7 @@ The gap in the rolls was made carefully by somebody competent, under an instrume
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Forgotten Soldier; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns. | Try Pugnahan instead, which is the one response this holding has never tolerated. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is named; Forgotten Soldier is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Forgotten Soldier withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

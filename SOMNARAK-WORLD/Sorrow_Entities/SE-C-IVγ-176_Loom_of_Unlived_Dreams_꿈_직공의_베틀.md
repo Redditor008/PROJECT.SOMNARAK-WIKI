@@ -323,7 +323,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Loom of Unlived Dreams; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Do the obvious, decent thing instead, and feed Loom of Unlived Dreams. |
 |---|---|
 | Keeps the worker inside an unfinished dream. The sorrow is witnessed; Loom of Unlived Dreams is fully recorded. | Reveals the dreamer's hidden desire. The gauge climbs and Loom of Unlived Dreams withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -313,7 +313,7 @@ The wing is occasionally asked why a patch of flowers holds a Critical designati
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Perennial; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Acknowledge the place's history and do not claim it as unchanged. | Depart from the condition for good reasons, as Perennial's record shows people do. |
 |---|---|
 | Tests whether the worker can stand beneath karmic weight. The sorrow is borne; Perennial is fully recorded. | Reveals the settlement's cycles of return and loss. The gauge climbs and Perennial withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

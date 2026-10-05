@@ -338,7 +338,7 @@ The Mask is what that arrangement looks like once it has been given a shape. It 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Empty Mask; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Two handlers, the card, the probe, the sleeping-person clause, and somebody in the room who knows the handler's name without reading it. | Improvise something kinder, which is how every failure on The Empty Mask's file began. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is borne; The Empty Mask is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Empty Mask withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

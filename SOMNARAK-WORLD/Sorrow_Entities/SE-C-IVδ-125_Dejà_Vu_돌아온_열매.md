@@ -287,7 +287,7 @@ A fruit-shaped presence occupying consciousness rather than space, perceived as 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Dejà Vu; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Anchor personnel to the present and name the difference between return and restoration — as written, without improvising. | Substitute your own judgement, which on Déjà Vu has never yet cost less than the condition. |
 |---|---|
 | Returns a comforting memory. The sorrow is seen clearly; Déjà Vu is fully recorded. | Sings louder and fills the mind with intrusive absence. The gauge climbs and Déjà Vu withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

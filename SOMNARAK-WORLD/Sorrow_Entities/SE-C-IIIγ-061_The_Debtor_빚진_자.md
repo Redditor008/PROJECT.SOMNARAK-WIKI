@@ -291,7 +291,7 @@ The sorrow did not emerge from nothing. It grew around this location until it wa
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Debtor; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Carry part of the burden willingly; do not command him to put it down. | Do the obvious, decent thing instead, and feed The Debtor. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is borne; The Debtor is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Debtor withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

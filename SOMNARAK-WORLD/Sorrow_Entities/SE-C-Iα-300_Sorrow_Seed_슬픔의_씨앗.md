@@ -345,7 +345,7 @@ The seed is warm and it beats, and it drags itself toward soil on the single ten
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Sorrow Seed; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Measure, chalk, photograph, send the figure unrounded. Compulsory taking of bereavement leave within sixty days, no commutation, no deferral, no. | Substitute your own judgement, which on Sorrow Seed has never yet cost less than the condition. |
 |---|---|
 | The figure goes up unrounded, with the roster named, on a watch where naming it will cost the observer something. Sorrow Seed is fully recorded. | The figure is rounded, the roster left unnamed, or the bearing written off as drift. The series loses the quarter and the gauge stands exactly where it was, because the Seed never cared what was written. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

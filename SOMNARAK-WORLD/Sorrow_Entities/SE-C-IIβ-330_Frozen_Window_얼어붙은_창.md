@@ -288,7 +288,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Frozen Window; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Allow it to complete its circuit and name the ending — as written, without improvising. | Do the obvious, decent thing instead, and feed Frozen Window. |
 |---|---|
 | Slows and displays the worker's own farewell. The sorrow is borne; Frozen Window is fully recorded. | Surges and throws shards of frozen weight. The gauge climbs and Frozen Window withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

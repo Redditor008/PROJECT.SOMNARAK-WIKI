@@ -282,7 +282,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Ember Phoenix; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Allow the cycle to finish; forced extinguishing causes violent rebirth — as written, without improvising. | Substitute your own judgement, which on Ember Phoenix has never yet cost less than the condition. |
 |---|---|
 | The flames lower and the Phoenix delays rebirth. The sorrow is named; Ember Phoenix is fully recorded. | It attacks in a blazing dive. The gauge climbs and Ember Phoenix withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

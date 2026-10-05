@@ -335,7 +335,7 @@ Each link carries one name and one obligation, and the chain has gained length i
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Debt Chain; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Viderehan and Ferrehan only; forty links a shift; two independent counts; the chain supported and never lifted; and the quarter's cascade register — as written, without improvising. | Substitute your own judgement, which on The Debt Chain has never yet cost less than the condition. |
 |---|---|
 | The surveyor walks the forty links, reads every name including the ones they know, and enters both counts unaveraged. The gauge falls and the quarter's run stands. | The surveyor keeps reading past the limit, looking for one more name they recognise. Eleven have. The forty-link rule exists because of them, and not one of them found what they were looking for. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

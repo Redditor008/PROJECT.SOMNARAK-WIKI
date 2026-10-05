@@ -283,7 +283,7 @@ The labour-office rosters were transferred complete and are bound behind their t
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Vanity Asleep; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do not wake it by force; look at the reflected self without turning away — as written, without improvising. | Substitute your own judgement, which on Vanity Asleep has never yet cost less than the condition. |
 |---|---|
 | The figure's surface softens and reflects a remembered kindness. The sorrow is seen clearly; Vanity Asleep is fully recorded. | Its reflection fractures into hostile versions of the worker. The gauge climbs and Vanity Asleep withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

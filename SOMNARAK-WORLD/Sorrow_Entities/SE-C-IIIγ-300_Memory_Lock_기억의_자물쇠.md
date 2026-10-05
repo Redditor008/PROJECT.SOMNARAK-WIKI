@@ -317,7 +317,7 @@ Memory Lock sits in the deepest vault beneath the Alpha Tree — massive, ancien
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Memory Lock; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Do the obvious, decent thing instead, and feed Memory Lock. |
 |---|---|
 | Tests whether the worker can stand before a secret without opening it. The sorrow is seen clearly; Memory Lock is fully recorded. | Reveals the nature of what it protects. The gauge climbs and Memory Lock withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

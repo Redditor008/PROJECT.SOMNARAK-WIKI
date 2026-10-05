@@ -296,7 +296,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Atlas; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Rotate labor and acknowledge shared responsibility. | Improvise something kinder, which is how every failure on Atlas's file began. |
 |---|---|
 | Tests whether the worker can stand without becoming support. The sorrow is borne; Atlas is fully recorded. | Reveals the structure it once supported. The gauge climbs and Atlas withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -284,7 +284,7 @@ The daughter's account closes with the detail the Keepers consider decisive: whe
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Thralldom; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do not bind it; offer an unforced ending. | Do the obvious, decent thing instead, and feed Thralldom. |
 |---|---|
 | The links loosen and stop crawling. The sorrow is named; Thralldom is fully recorded. | It lashes toward the worker. The gauge climbs and Thralldom withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

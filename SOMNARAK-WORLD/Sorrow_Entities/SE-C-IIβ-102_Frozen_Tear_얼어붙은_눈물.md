@@ -322,7 +322,7 @@ The warmth is what everybody mentions first. The weeping is second-hand: the onl
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Frozen Tear; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| No contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius — as written, without improvising. | Do the obvious, decent thing instead, and feed Frozen Tear. |
 |---|---|
 | Tests whether the worker can sit beside grief without touching it. The sorrow is witnessed; Frozen Tear is fully recorded. | Reveals the instant the tear crystallized. The gauge climbs and Frozen Tear withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

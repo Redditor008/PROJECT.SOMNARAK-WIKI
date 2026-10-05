@@ -281,7 +281,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Fading Whisper; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Record the whisper without inventing the lost place — as written, without improvising. | Depart from the condition for good reasons, as Fading Whisper's record shows people do. |
 |---|---|
 | Becomes clearer and speaks more gently. The sorrow is seen clearly; Fading Whisper is fully recorded. | Burns brighter and fades faster. The gauge climbs and Fading Whisper withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

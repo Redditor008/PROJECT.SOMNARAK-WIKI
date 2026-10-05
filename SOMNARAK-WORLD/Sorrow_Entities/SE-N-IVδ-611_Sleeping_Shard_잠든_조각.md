@@ -283,7 +283,7 @@ The anchor is a kept object with a known owner, set within arm's reach of the cr
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Sleeping Shard; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do not wake it; reduce disturbance and provide a dream anchor — as written, without improvising. | Depart from the condition for good reasons, as Sleeping Shard's record shows people do. |
 |---|---|
 | It sleeps more peacefully and its tears slow. The sorrow is seen clearly; Sleeping Shard is fully recorded. | The dream fractures and the Shard wakes angrily. The gauge climbs and Sleeping Shard withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

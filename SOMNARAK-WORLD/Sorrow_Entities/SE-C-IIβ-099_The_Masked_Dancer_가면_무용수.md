@@ -303,7 +303,7 @@ The Dancer does not stop, and the body beneath the mask is fever-hot to the touc
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Masked Dancer; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Match its rhythm and share the performance; do not command it to stop — as written, without improvising. | Answer it with Pugnahan — reasonable, available, and recorded as raising the gauge. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is named; The Masked Dancer is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Masked Dancer withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -289,7 +289,7 @@ What this Archive is obliged to record is the second consequence, which is not a
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Redacted; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Hold to the condition: Do not supply false memories; record the absence. | Depart from the condition for good reasons, as Redacted's record shows people do. |
 |---|---|
 | Leaves fall and the missing shape becomes visible. The sorrow is seen clearly; Redacted is fully recorded. | Roots tighten and the branches burn. The gauge climbs and Redacted withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

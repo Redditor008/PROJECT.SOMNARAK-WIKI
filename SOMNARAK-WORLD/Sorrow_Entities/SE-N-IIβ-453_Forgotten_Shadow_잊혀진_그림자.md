@@ -279,7 +279,7 @@ Four settlement registers are bound into the commissioning file, complete for th
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Forgotten Shadow; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Walk beside it and record what it shows. | Substitute your own judgement, which on Forgotten Shadow has never yet cost less than the condition. |
 |---|---|
 | Moves closer and sings a softer verse. The sorrow is witnessed; Forgotten Shadow is fully recorded. | Grows heavy and follows aggressively. The gauge climbs and Forgotten Shadow withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

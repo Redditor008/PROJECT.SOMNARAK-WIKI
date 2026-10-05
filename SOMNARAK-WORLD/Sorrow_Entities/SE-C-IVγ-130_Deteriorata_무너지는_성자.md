@@ -285,7 +285,7 @@ Her appointment book is held with the district's health returns for the same thi
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Deteriorata; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Hold to the condition: Do not repair or reinforce it; acknowledge the right to rest. | Improvise something kinder, which is how every failure on Deteriorata's file began. |
 |---|---|
 | Cracks close briefly when sorrow is shared. The sorrow is borne; Deteriorata is fully recorded. | Crumbling accelerates and fragments become heavy. The gauge climbs and Deteriorata withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

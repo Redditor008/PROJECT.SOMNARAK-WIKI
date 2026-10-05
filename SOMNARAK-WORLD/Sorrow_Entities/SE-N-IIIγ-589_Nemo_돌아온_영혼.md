@@ -285,7 +285,7 @@ The commissioning file holds one person's enquiry correspondence and nothing els
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Nemo; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Speak the names carried by the tears; do not deny the return. | Improvise something kinder, which is how every failure on Nemo's file began. |
 |---|---|
 | Weeps with the worker and reveals a name. The sorrow is witnessed; Nemo is fully recorded. | Retaliates with waves of memory and sorrow. The gauge climbs and Nemo withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

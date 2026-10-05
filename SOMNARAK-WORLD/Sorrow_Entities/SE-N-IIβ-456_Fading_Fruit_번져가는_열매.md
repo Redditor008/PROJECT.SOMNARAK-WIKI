@@ -306,7 +306,7 @@ The ground is the count. The year hazard pay came in and went straight onto arre
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Fading Fruit; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Acknowledge desire without promising fulfillment — as written, without improvising. | Improvise something kinder, which is how every failure on Fading Fruit's file began. |
 |---|---|
 | The worker stands the hour in the heaviest row with their hands at their sides and counts honestly at the fall however high the figure comes out. The gauge falls and the season's series stands. | The worker picks one, to see, because after an hour of that it is the most natural movement a hand can make. There is a drop and then a wet stem. The gauge climbs and the row's count is void. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

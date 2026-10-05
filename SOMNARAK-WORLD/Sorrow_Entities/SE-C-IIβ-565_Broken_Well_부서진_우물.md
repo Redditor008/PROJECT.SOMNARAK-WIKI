@@ -279,7 +279,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Well; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Do not enter the opening; listen from the edge. | Substitute your own judgement, which on Broken Well has never yet cost less than the condition. |
 |---|---|
 | Pauses and acknowledges shared sorrow. The sorrow is named; Broken Well is fully recorded. | The well hardens and the figure retaliates. The gauge climbs and Broken Well withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

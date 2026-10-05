@@ -288,7 +288,7 @@ Eleven hearing sheets, four years, one complainant, one identical opening clause
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Aphasia; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Record the whisper exactly; do not invent missing words. | Do the obvious, decent thing instead, and feed Aphasia. |
 |---|---|
 | The figure reforms slightly and speaks more clearly. The sorrow is named; Aphasia is fully recorded. | Melts rapidly and spreads angry whispers. The gauge climbs and Aphasia withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

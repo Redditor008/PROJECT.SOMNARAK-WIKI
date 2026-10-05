@@ -323,7 +323,7 @@ This facility now writes clearances in the active voice. Every entry it files na
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Frozen Fury; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Read the edges weekly, and ensure every clearance entry filed by this facility names the party that carried out the clearance, in the active voice. | Improvise something kinder, which is how every failure on Frozen Fury's file began. |
 |---|---|
 | Tests whether the worker can remain among absent lives. The sorrow is seen clearly; Frozen Fury is fully recorded. | Shows the history beneath the ruin. The gauge climbs and Frozen Fury withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

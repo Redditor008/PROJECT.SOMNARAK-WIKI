@@ -277,7 +277,7 @@ The shadow finds the wounded and settles beside them. It has no face, it is cast
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Kind Healer's Shadow; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Accept its help and acknowledge the healer it carries. | Do the obvious, decent thing instead, and feed Kind Healer's Shadow. |
 |---|---|
 | Moves closer and shares the burden. The sorrow is witnessed; Kind Healer's Shadow is fully recorded. | Retreats from aggression. The gauge climbs and Kind Healer's Shadow withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

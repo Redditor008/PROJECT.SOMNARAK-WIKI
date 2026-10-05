@@ -287,7 +287,7 @@ The construction roster and the Gate's outward passage records are held together
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Barrier of Nothing; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Name both sides of the separation; do not choose a false neutrality. | Substitute your own judgement, which on Barrier of Nothing has never yet cost less than the condition. |
 |---|---|
 | Rust loosens and the wall shows a remembered departure. The sorrow is borne; Barrier of Nothing is fully recorded. | Plates harden and dream-space narrows. The gauge climbs and Barrier of Nothing withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

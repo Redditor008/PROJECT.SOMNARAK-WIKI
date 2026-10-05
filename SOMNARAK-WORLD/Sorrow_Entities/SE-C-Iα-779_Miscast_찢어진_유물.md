@@ -331,7 +331,7 @@ The ground is the bench. Nine months of that programme took the gap to eighty-ei
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Miscast; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. | Do the obvious, decent thing instead, and feed Miscast. |
 |---|---|
 | The worker watches the approaches stop short for the full interval and does not reach in. The gauge falls, the gap holds, and the record of the former function is clean. | The worker reaches in. They always mean to help. The gauge climbs, the fragment carries a few centimetres off its drift, and the quarter's series is void. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

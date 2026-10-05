@@ -285,7 +285,7 @@ The instruction not to act on Candela's visions is the hardest thing this office
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Candela; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do not treat every vision as inevitable; distinguish possibility from fate — as written, without improvising. | Depart from the condition for good reasons, as Candela's record shows people do. |
 |---|---|
 | Melting slows when its sorrow is shared. The sorrow is witnessed; Candela is fully recorded. | The body collapses faster and the floor becomes slippery with grief. The gauge climbs and Candela withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

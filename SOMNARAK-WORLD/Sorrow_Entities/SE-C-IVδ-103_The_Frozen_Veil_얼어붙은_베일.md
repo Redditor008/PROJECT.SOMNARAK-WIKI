@@ -294,7 +294,7 @@ Twice this office has staffed the observation line with people it knew to be rec
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Frozen Veil; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Tears and sincere emotional expression crack the Veil. Physical force is ineffective. | Depart from the condition for good reasons, as The Frozen Veil's record shows people do. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; The Frozen Veil is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Frozen Veil withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -323,7 +323,7 @@ The archive has tried three times to establish what the injustice was. Each atte
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Dismissed Cry; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Do the obvious, decent thing instead, and feed Dismissed Cry. |
 |---|---|
 | Tests whether the worker can remain with anger without repeating it. The sorrow is named; Dismissed Cry is fully recorded. | Reveals the injustice behind the scream. The gauge climbs and Dismissed Cry withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

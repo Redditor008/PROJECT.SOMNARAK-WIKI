@@ -396,7 +396,7 @@ The Director notes: this sorrow is representative, not anomalous. It is the city
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Orphaned Bell; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Anchored, never struck, Pugnahan never attempted; the watch stood in assigned pairs and ended from outside the circle — as written, without improvising. | Improvise something kinder, which is how every failure on The Orphaned Bell's file began. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is witnessed; The Orphaned Bell is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Orphaned Bell withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

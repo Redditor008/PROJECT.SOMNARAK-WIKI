@@ -285,7 +285,7 @@ The counter on this record is 1. There is no learning curve available: the first
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Stranded Between Two Shores; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Listen between the sobs and name both shores. | Depart from the condition for good reasons, as Stranded Between Two Shores's record shows people do. |
 |---|---|
 | Weeps with the worker and lowers its span. The sorrow is witnessed; Stranded Between Two Shores is fully recorded. | The bridge cracks and the tunnel fills with tears. The gauge climbs and Stranded Between Two Shores withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

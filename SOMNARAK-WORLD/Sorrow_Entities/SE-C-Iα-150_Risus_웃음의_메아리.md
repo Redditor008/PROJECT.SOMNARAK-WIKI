@@ -295,7 +295,7 @@ What arrives is laughter — warm, bright, somebody enjoying themselves at a dis
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Risus; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Let the laughter and grief coexist; do not suppress the sound. | Depart from the condition for good reasons, as Risus's record shows people do. |
 |---|---|
 | Continues around the worker until they can hear sadness in joy. The sorrow is witnessed; Risus is fully recorded. | Reveals the people and moment behind the laughter. The gauge climbs and Risus withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

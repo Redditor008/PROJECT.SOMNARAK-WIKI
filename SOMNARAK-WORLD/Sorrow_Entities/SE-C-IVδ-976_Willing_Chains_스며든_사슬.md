@@ -286,7 +286,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Willing Chains; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do not cut blindly; identify what each chain represents — as written, without improvising. | Depart from the condition for good reasons, as Willing Chains's record shows people do. |
 |---|---|
 | Chains loosen and the figure's fire dims. The sorrow is seen clearly; Willing Chains is fully recorded. | Chains lash outward and spread faster. The gauge climbs and Willing Chains withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

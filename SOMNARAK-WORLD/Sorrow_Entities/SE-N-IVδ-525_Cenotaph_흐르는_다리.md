@@ -291,7 +291,7 @@ The Gardens span is withdrawn from service with effect from this cycle. The alte
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Cenotaph; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Hold to the condition: Controlled acknowledgment and team support. | Do the obvious, decent thing instead, and feed Cenotaph. |
 |---|---|
 | Reaches for the worker and lowers its anger. The sorrow is named; Cenotaph is fully recorded. | Retaliates with flowing force. The gauge climbs and Cenotaph withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

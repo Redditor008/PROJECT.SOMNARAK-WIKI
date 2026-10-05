@@ -317,7 +317,7 @@ The mirror shows what the viewer is underneath the arrangement they present, and
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Cracked Mirror; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Improvise something kinder, which is how every failure on Cracked Mirror's file began. |
 |---|---|
 | Tests whether the worker can look without flinching. The sorrow is seen clearly; Cracked Mirror is fully recorded. | Displays the truth behind the cracks. The gauge climbs and Cracked Mirror withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

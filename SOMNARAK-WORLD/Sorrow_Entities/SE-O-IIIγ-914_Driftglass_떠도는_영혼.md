@@ -371,7 +371,7 @@ Every proposal regarding this record has been a proposal to settle it: a chamber
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Driftglass; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Provide a memory anchor; do not force a destination. | Do the obvious, decent thing instead, and feed Driftglass. |
 |---|---|
 | Tests whether the worker can remain with a wanderer. The sorrow is witnessed; Driftglass is fully recorded. | Reveals routes beyond the city. The gauge climbs and Driftglass withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

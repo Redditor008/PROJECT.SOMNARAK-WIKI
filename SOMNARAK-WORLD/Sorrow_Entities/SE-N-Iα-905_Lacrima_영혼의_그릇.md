@@ -326,7 +326,7 @@ The ground is the gauge. Seventy-one retentions in eleven weeks took the gap to 
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Keep the gauge series unbroken and the Rule of the Fresh Consent enforced across the pathology wing and the personnel office. | Do the obvious, decent thing instead, and feed Lacrima. |
 |---|---|
 | The worker sits the interval out, hears nothing intelligible, and writes down that they heard nothing intelligible. The gauge falls and the session closes clean. | The worker resolves a word. They are usually certain and usually moved, and the second listener's sheet is usually blank. The gauge climbs and the session's transcript is filed unreconciled and unused. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

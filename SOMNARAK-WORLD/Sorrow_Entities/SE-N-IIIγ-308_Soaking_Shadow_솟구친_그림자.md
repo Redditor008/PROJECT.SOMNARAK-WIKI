@@ -319,7 +319,7 @@ The register came to the facility intact and has not been written in since the v
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Soaking Shadow; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Cleared personnel only, no raised voices, outline chalked each session, grade taken by one person without discussion. | Improvise something kinder, which is how every failure on Soaking Shadow's file began. |
 |---|---|
 | Tests whether the worker can remain without adding anger. The sorrow is named; Soaking Shadow is fully recorded. | Reveals the grievances feeding it. The gauge climbs and Soaking Shadow withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

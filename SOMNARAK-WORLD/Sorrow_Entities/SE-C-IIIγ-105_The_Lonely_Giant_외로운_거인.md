@@ -294,7 +294,7 @@ The crystallization is traced to Zone D and the withdrawal records of the period
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Lonely Giant; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Share its space and acknowledge its loneliness; do not drive it away by force. | Substitute your own judgement, which on The Lonely Giant has never yet cost less than the condition. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is borne; The Lonely Giant is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Lonely Giant withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

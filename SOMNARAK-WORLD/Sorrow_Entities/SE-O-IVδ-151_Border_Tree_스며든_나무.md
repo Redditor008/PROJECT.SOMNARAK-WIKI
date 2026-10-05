@@ -319,7 +319,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Border Tree; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Negotiate boundaries and acknowledge both sides of the loss. | Improvise something kinder, which is how every failure on Border Tree's file began. |
 |---|---|
 | Tests whether the worker can remain between territories. The sorrow is named; Border Tree is fully recorded. | Shows every boundary that crossed the ground. The gauge climbs and Border Tree withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

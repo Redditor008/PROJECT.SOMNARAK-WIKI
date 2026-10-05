@@ -294,7 +294,7 @@ I cannot tell the directorate that nine thousand two hundred names on a plate ar
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Mirror of Rising; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Name what is known without inventing the missing parts. | Improvise something kinder, which is how every failure on Mirror of Rising's file began. |
 |---|---|
 | The worker reads the strike-list entry aloud — the ward, the date, the officer who signed it — and adds nothing the list does not contain. The glass is lower the following evening in about two cases out of three. | The worker supplies a name for the face, because standing in front of it without one is harder than the briefing suggests. Eleven have. No two agreed, all eleven were certain, and the reading did not move. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

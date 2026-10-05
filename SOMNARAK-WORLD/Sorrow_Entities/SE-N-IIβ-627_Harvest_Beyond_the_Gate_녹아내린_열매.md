@@ -299,7 +299,7 @@ The orchard is not a memorial and the file is firm that it should not be read as
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Harvest Beyond the Gate; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Let the fruit decay naturally; do not promise return. | Substitute your own judgement, which on Harvest Beyond the Gate has never yet cost less than the condition. |
 |---|---|
 | Tests whether the worker can remain near an impossible return. The sorrow is named; Harvest Beyond the Gate is fully recorded. | Reveals the desire inside each fruit. The gauge climbs and Harvest Beyond the Gate withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

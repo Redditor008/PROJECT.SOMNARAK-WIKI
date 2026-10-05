@@ -281,7 +281,7 @@ The Service Office produces this case in training as a clean application of the 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Drowned Roots; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Speak the soldier's duty without forcing a false name. | Improvise something kinder, which is how every failure on Drowned Roots's file began. |
 |---|---|
 | Reaches gently toward the worker. The sorrow is witnessed; Drowned Roots is fully recorded. | Resists and burns with anger. The gauge climbs and Drowned Roots withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

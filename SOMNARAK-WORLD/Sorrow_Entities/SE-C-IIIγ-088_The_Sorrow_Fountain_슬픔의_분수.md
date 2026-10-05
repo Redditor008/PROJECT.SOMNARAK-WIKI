@@ -330,7 +330,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Sorrow Fountain; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Share the burden through witness; do not drain the pool. | Do the obvious, decent thing instead, and feed The Sorrow Fountain. |
 |---|---|
 | Tests whether the worker can remain in the pool without breaking. The sorrow is witnessed; The Sorrow Fountain is fully recorded. | Each drop reveals a different grief. The gauge climbs and The Sorrow Fountain withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

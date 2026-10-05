@@ -297,7 +297,7 @@ The nomination clause is refused and I want the reasoning on the record rather t
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Swallow; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Name the source of the grief and return emotional ownership. | Depart from the condition for good reasons, as Swallow's record shows people do. |
 |---|---|
 | Tests whether the worker can carry grief without claiming it. The sorrow is witnessed; Swallow is fully recorded. | Reveals the people whose sorrow feeds it. The gauge climbs and Swallow withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

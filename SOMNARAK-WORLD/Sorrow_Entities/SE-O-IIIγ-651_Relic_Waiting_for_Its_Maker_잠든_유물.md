@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Relic Waiting for Its Maker; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Speak only what the worker accepts responsibility for carrying. | Substitute your own judgement, which on Relic Waiting for Its Maker has never yet cost less than the condition. |
 |---|---|
 | Keeps the worker in the chamber until silence is endured. The sorrow is seen clearly; Relic Waiting for Its Maker is fully recorded. | Reveals symbols describing the relic's purpose. The gauge climbs and Relic Waiting for Its Maker withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

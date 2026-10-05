@@ -313,7 +313,7 @@ The honours file lies unsealed beside the vault door and any Warden on the posti
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Flowing Seed; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Do not block the flow; acknowledge its source. | Reach for Flerehan, which the Behavior table shows raising the gauge every time it has been logged. |
 |---|---|
 | Tests the worker beneath constant weight. The sorrow is borne; Flowing Seed is fully recorded. | Reveals memories erased by the city. The gauge climbs and Flowing Seed withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

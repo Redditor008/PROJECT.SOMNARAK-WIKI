@@ -333,7 +333,7 @@ The ground is the logger. Eleven hundred files opened at intake in nine days of 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Unwitnessed; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Mark the absence; do not excavate or plant into it. | Do the obvious, decent thing instead, and feed Unwitnessed. |
 |---|---|
 | The operator sets the instrument, leaves, and does not come back for seven days — not to check it, not to look, not to pass by. The gauge falls and the week stands. | The operator goes back early. They always have a reason and it is always a good one. The trace stops four seconds after they arrive, the week is void, and the gauge climbs. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

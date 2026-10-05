@@ -298,7 +298,7 @@ The ground is the lamp. The quarter we cleared nine perimeter streets with no cl
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Doorway to Nowhere; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Close the door consciously; do not force passage. | Do the obvious, decent thing instead, and feed Doorway to Nowhere. |
 |---|---|
 | The worker stands with it, says aloud that they do not know whether the people who owned it ever got back, and does not touch the handle. The gauge falls, the frame closes on its own, and the watch stands. | The worker turns the handle — to settle it, to be useful, because a door that will not say where it goes is unbearable to stand beside. It seals, the frame blisters their hand, and the gauge climbs for the rest of the watch. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -344,7 +344,7 @@ The ground for signing it is narrow and I will state it plainly. Twice we have a
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Collapsed Seed; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Lift clear, log the partial form in full even though it will not recur, and file the observation under the Rule of the Negative Finding. | Depart from the condition for good reasons, as Collapsed Seed's record shows people do. |
 |---|---|
 | The worker waits, and says aloud that they do not know what it would have been, and does not fill the silence. The gauge falls and the session closes clean. | The worker answers the question. They mean it kindly and the answer is always confident and always different from the last worker's. The gauge climbs and the chamber keeps the real answer, which is that there is not one. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

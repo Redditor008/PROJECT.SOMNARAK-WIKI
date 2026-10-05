@@ -304,7 +304,7 @@ The wall is measured weekly, and the measurement is the record: every new block 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Owed; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Measure and acknowledge the debt; the Wall cannot be demolished. | Depart from the condition for good reasons, as Owed's record shows people do. |
 |---|---|
 | Tests the worker beneath the city's accumulated weight. The sorrow is borne; Owed is fully recorded. | Reveals the history of individual obligations. The gauge climbs and Owed withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

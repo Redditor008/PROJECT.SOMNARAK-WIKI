@@ -297,7 +297,7 @@ The management condition requires this facility to order personnel to sleep on d
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Torpor; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Establish a guarded rest area and permit sleep. | Depart from the condition for good reasons, as Torpor's record shows people do. |
 |---|---|
 | Tests whether the worker can sleep without abandoning duty. The sorrow is borne; Torpor is fully recorded. | Reveals the duties that kept people awake. The gauge climbs and Torpor withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -308,7 +308,7 @@ The ground is the caliper. The year we publicised the hardship fund by poster al
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Bulwark; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Offer presence without forcing entry. | Depart from the condition for good reasons, as Bulwark's record shows people do. |
 |---|---|
 | The worker sits the full hour, asks it nothing, and takes three honest readings at the end however deep they come out. The gauge falls and the watch stands. | The worker speaks to it — kindly, by name, because an hour of that silence is more than most people can hold. The gauge climbs, the readings are void, and the quarter's series carries a gap. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

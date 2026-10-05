@@ -338,7 +338,7 @@ The bloom moves. Its roots coil and carry it, its petals open into something tha
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Mourner's Bloom; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal — as written, without improvising. | Improvise something kinder, which is how every failure on Mourner's Bloom's file began. |
 |---|---|
 | Blooms slowly beside a patient worker. The sorrow is witnessed; Mourner's Bloom is fully recorded. | Reveals the emotion in each petal. The gauge climbs and Mourner's Bloom withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

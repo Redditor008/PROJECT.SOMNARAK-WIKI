@@ -296,7 +296,7 @@ The Office's annual return carries a line it has published without comment since
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Silent Child; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Sit beside the Child and share silence. Do not demand speech. | Depart from the condition for good reasons, as The Silent Child's record shows people do. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; The Silent Child is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Silent Child withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

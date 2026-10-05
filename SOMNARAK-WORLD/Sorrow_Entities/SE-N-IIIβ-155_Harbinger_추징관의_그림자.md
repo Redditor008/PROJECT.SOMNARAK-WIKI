@@ -285,7 +285,7 @@ The distance is not fixed; that was the first year's error and it stood in this 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Harbinger; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Hold to the condition: Review and acknowledge the debt; force cannot remove the Shadow. | Improvise something kinder, which is how every failure on Harbinger's file began. |
 |---|---|
 | Remains close, acknowledging shared burden. The sorrow is borne; Harbinger is fully recorded. | Becomes denser and harder to escape. The gauge climbs and Harbinger withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

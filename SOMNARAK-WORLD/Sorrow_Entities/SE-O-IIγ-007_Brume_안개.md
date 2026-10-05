@@ -309,7 +309,7 @@ Containment records trace the crystallization to this location — the sorrow gr
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Brume; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically. | Improvise something kinder, which is how every failure on Brume's file began. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; Brume is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Brume withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

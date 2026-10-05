@@ -323,7 +323,7 @@ The cage has no door, and that is the whole of it: it was not built to hold anyt
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Redcage; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Improvise something kinder, which is how every failure on Redcage's file began. |
 |---|---|
 | Tests whether the worker can remain near rage without feeding it. The sorrow is named; Redcage is fully recorded. | Reveals the injustices that formed each bar. The gauge climbs and Redcage withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

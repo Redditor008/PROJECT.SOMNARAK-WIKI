@@ -321,7 +321,7 @@ Entry 5 closes the origin question rather than opening it. The Keeper assigned t
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Screaming Masonry; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Acknowledge duties without accepting impossible blame. | Do the obvious, decent thing instead, and feed Screaming Masonry. |
 |---|---|
 | Weighs the worker's resolve. The sorrow is borne; Screaming Masonry is fully recorded. | Reveals the obligations behind the cry. The gauge climbs and Screaming Masonry withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

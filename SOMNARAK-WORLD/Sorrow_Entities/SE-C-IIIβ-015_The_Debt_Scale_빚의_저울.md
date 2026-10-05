@@ -321,7 +321,7 @@ The archive cross-references this entity with its registered location — the so
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Debt Scale; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Viderehan and Ferrehan only at the plinth, certified Tool protocol, the circle marked after every expansion, and no measurement of any named person. | Improvise something kinder, which is how every failure on The Debt Scale's file began. |
 |---|---|
 | Holds the worker beneath the emotional weight of measurement. The sorrow is seen clearly; The Debt Scale is fully recorded. | Displays the structure of a person's obligations. The gauge climbs and The Debt Scale withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -285,7 +285,7 @@ Field analysis confirms the sorrow accumulated over cycles at this location unti
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Aegis; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| State the purpose of departure; do not attempt to return through the Gate — as written, without improvising. | Improvise something kinder, which is how every failure on Aegis's file began. |
 |---|---|
 | The Guardian's weapon lowers and its grief becomes visible. The sorrow is named; Aegis is fully recorded. | Attacks anyone attempting unauthorized return. The gauge climbs and Aegis withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -337,7 +337,7 @@ The clock counts down to the next deadline of whoever is nearest, and it ticks f
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Deadline; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Viderehan and Ferrehan only; two readers, separate figures, never reconciled; contact ended at two minutes; no winding, no repair, no asking whose. | Substitute your own judgement, which on Deadline has never yet cost less than the condition. |
 |---|---|
 | The reader takes the figure, writes it with their own name beside it, and leaves the room without asking anybody anything. The gauge falls and the watch stands. | The reader works out whose date it is. Nine have, and in every case it was their own. The gauge climbs, the watch ends, and the counselling wing is notified the same day. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

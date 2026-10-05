@@ -284,7 +284,7 @@ The Director notes: this sorrow is representative, not anomalous. It is the city
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Wrath Flame; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Bow or salute; acknowledge the war and the dead. | Substitute your own judgement, which on The Wrath Flame has never yet cost less than the condition. |
 |---|---|
 | Fire dims in recognition of shared grief. The sorrow is named; The Wrath Flame is fully recorded. | Attacks with concentrated heat. The gauge climbs and The Wrath Flame withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

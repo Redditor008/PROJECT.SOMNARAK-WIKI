@@ -319,7 +319,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Soaking Shard; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Do the obvious, decent thing instead, and feed Soaking Shard. |
 |---|---|
 | Tests whether the worker can remain while grief flows. The sorrow is witnessed; Soaking Shard is fully recorded. | Reveals memories stored in its liquid interior. The gauge climbs and Soaking Shard withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

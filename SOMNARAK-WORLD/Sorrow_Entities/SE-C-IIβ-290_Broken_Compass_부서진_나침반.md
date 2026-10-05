@@ -321,7 +321,7 @@ Broken Compass sits in a vault in Zone D — ancient, cracked, its needle spinni
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Compass; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Cradle mounting, timed counts, a widening discard radius, bearing stations re-sited outside it, and the discharge trigger unapproached. | Do the obvious, decent thing instead, and feed Broken Compass. |
 |---|---|
 | Tests whether the worker can watch without reacting. The sorrow is seen clearly; Broken Compass is fully recorded. | Reveals the pattern behind being lost. The gauge climbs and Broken Compass withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

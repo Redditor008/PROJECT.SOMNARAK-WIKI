@@ -286,7 +286,7 @@ The finding was never published. It establishes that the structure was built to 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Welcome Haven; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Admit the wall failed; do not promise perfect protection. | Improvise something kinder, which is how every failure on Welcome Haven's file began. |
 |---|---|
 | Flames lower and the broken pieces become visible. The sorrow is named; Welcome Haven is fully recorded. | Attacks with burning fragments. The gauge climbs and Welcome Haven withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

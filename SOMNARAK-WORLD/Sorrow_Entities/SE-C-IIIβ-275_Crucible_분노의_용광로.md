@@ -321,7 +321,7 @@ Crucible burns in Zone D — ancient, hot, made of crystallized fury. The Forge 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Crucible; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Cool the anger through naming and controlled work. | Improvise something kinder, which is how every failure on Crucible's file began. |
 |---|---|
 | Tests whether the worker can remain near heat and anger. The sorrow is named; Crucible is fully recorded. | Reveals the grief embedded in each weapon. The gauge climbs and Crucible withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

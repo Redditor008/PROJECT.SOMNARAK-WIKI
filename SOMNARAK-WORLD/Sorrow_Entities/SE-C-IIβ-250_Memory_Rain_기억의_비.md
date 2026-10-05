@@ -293,7 +293,7 @@ The droplets drift rather than fall, and each one holds something recognisable: 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Memory Rain; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Collect drops carefully and provide identity anchors — as written, without improvising. | Depart from the condition for good reasons, as Memory Rain's record shows people do. |
 |---|---|
 | The worker remains beneath the rain without losing identity. The sorrow is witnessed; Memory Rain is fully recorded. | Each drop can be catalogued as a memory record. The gauge climbs and Memory Rain withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

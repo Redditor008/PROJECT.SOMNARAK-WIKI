@@ -283,7 +283,7 @@ The Trivia section states that Gavel has judged personnel and Collectors identic
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Gavel; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Present context and evidence; do not appeal with status or force. | Substitute your own judgement, which on Gavel has never yet cost less than the condition. |
 |---|---|
 | Records tears as mitigating evidence. The sorrow is named; Gavel is fully recorded. | Treats aggression as guilt. The gauge climbs and Gavel withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

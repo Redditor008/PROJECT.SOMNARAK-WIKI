@@ -283,7 +283,7 @@ Bring something of your own. Observers who enter this chamber carrying nothing u
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Forgotten Silence; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Name the withheld truth without forcing another person to speak — as written, without improvising. | Improvise something kinder, which is how every failure on Forgotten Silence's file began. |
 |---|---|
 | Glows brighter and shares the worker's unspoken grief. The sorrow is witnessed; Forgotten Silence is fully recorded. | Withdraws into dream-space. The gauge climbs and Forgotten Silence withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

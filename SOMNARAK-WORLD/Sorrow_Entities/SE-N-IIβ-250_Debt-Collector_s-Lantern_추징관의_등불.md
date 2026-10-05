@@ -321,7 +321,7 @@ The lantern is never carried and it is never where it was left. It burns cold, a
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Debt-Collector s-Lantern; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority. | Improvise something kinder, which is how every failure on Debt-Collector's-Lantern's file began. |
 |---|---|
 | Remains beside the worker while the burden is measured. The sorrow is borne; Debt-Collector's-Lantern is fully recorded. | Reveals hidden debts and their origins. The gauge climbs and Debt-Collector's-Lantern withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

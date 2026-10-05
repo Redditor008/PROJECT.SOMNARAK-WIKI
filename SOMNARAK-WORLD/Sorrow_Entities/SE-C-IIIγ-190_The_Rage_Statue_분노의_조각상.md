@@ -292,7 +292,7 @@ The statue has never completed the blow. The fissures in its stone widen by a me
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Rage Statue; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do not attempt to force the fist down; name the wrong — as written, without improvising. | Depart from the condition for good reasons, as The Rage Statue's record shows people do. |
 |---|---|
 | The face softens and the raised fist lowers slightly. The sorrow is named; The Rage Statue is fully recorded. | Heat gathers in the fist and rage intensifies. The gauge climbs and The Rage Statue withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

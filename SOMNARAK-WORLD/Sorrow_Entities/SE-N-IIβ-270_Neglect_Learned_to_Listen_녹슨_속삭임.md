@@ -305,7 +305,7 @@ The ground is the panels. Forty posts abolished in eleven weeks, every duty abso
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Neglect Learned to Listen; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Keep the panel series unbroken and the Rule of the Named Duty enforced across the establishment office and every restructuring schedule this facility. | Depart from the condition for good reasons, as Neglect Learned to Listen's record shows people do. |
 |---|---|
 | The worker stays in earshot for the full interval, hears the duties spoken in a drafter's voice, and says nothing to the wall. The gauge falls and the session's record is clean. | The worker answers. They are usually apologising. The gauge climbs, the reply is retained, and some later rotation will hear them saying sorry from inside a pipe. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

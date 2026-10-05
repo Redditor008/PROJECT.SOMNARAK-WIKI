@@ -285,7 +285,7 @@ The works folder is the fullest in the Old Lament series and the most useless. I
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Cleaved; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Hold to the condition: Do not complete the structure; document what was intended and lost. | Substitute your own judgement, which on Cleaved has never yet cost less than the condition. |
 |---|---|
 | Its flame lowers and unfinished rooms become visible. The sorrow is seen clearly; Cleaved is fully recorded. | It splits further and burns through nearby walls. The gauge climbs and Cleaved withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

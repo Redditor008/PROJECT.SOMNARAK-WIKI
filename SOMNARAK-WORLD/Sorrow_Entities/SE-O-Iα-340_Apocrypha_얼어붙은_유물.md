@@ -322,7 +322,7 @@ The catalogue of this facility is built to establish what a thing is. For one hu
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Apocrypha; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Mark the site and speak the farewell that was missed. | Depart from the condition for good reasons, as Apocrypha's record shows people do. |
 |---|---|
 | Tests whether the worker can remain in the cold without answers. The sorrow is seen clearly; Apocrypha is fully recorded. | Shows fragments of the relic's unknown purpose. The gauge climbs and Apocrypha withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

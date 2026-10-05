@@ -331,7 +331,7 @@ The archive holds four hundred and eleven observation sheets for this holding an
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Rem; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Sheets before speech, one observer at a time, no contact without authority, and the watch halted on any agreement between accounts. | Do the obvious, decent thing instead, and feed Rem. |
 |---|---|
 | Makes the worker remain inside a repeating dream image. The sorrow is witnessed; Rem is fully recorded. | Reveals the dream's incomplete structure. The gauge climbs and Rem withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

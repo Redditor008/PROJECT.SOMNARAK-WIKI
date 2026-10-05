@@ -335,7 +335,7 @@ The ground is the fork. That campaign took the field to twenty-six metres, the w
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Clapperless; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Keep the fork series unbroken and the Rule of the Struck Bell enforced across the inspectorate and every district register. | Depart from the condition for good reasons, as Clapperless's record shows people do. |
 |---|---|
 | The worker stands the full interval in the quiet, hand off the rim, and strikes nothing. The gauge falls, the radius holds, and the session's record is clean. | The worker strikes it, to settle the question, meaning well. It does not ring. The gauge climbs, the field keeps the metres it gained, and the quarter's series is void. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

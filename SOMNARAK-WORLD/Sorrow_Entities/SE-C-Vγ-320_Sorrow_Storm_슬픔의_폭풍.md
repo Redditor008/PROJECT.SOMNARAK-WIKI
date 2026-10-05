@@ -300,7 +300,7 @@ The archive keeps the walls by duration and tonnage and admits in the margin tha
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Sorrow Storm; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Acknowledge sorrow and shelter until the Storm passes. | Improvise something kinder, which is how every failure on Sorrow Storm's file began. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is borne; Sorrow Storm is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Sorrow Storm withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

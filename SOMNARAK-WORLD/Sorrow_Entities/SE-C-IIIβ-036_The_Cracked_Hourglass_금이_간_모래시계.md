@@ -340,7 +340,7 @@ Clocks in the adjoining corridor disagree with clocks elsewhere in the wing by b
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Cracked Hourglass; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Viderehan and Ferrehan only at the plinth, certified Tool protocol, the fifteen-minute limit for every person in the vault, and crack readings logged. | Substitute your own judgement, which on The Cracked Hourglass has never yet cost less than the condition. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is borne; The Cracked Hourglass is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Cracked Hourglass withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

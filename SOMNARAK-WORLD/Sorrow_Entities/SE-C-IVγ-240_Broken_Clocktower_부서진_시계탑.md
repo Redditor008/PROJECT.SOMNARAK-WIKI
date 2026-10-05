@@ -321,7 +321,7 @@ The hands have read 3:47 since the tower was found, and the gears behind them ha
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Clocktower; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Accept that the moment cannot be changed; limit exposure. | Depart from the condition for good reasons, as Broken Clocktower's record shows people do. |
 |---|---|
 | Tests the worker inside stretched time. The sorrow is borne; Broken Clocktower is fully recorded. | Shows the event frozen at 3:47. The gauge climbs and Broken Clocktower withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

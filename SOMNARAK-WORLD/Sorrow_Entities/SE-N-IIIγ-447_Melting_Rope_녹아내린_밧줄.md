@@ -283,7 +283,7 @@ Two recollections of one separation sit in the commissioning file, taken eleven 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Melting Rope; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Release the rope consciously and wake with a present anchor. | Substitute your own judgement, which on Melting Rope has never yet cost less than the condition. |
 |---|---|
 | The rope reforms and reaches toward the worker. The sorrow is witnessed; Melting Rope is fully recorded. | It melts rapidly and tangles the dream. The gauge climbs and Melting Rope withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

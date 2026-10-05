@@ -285,7 +285,7 @@ The archive has never established the second traveller's name. The returned man 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Vanished Rope; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Name what was lost; do not attempt to recreate the bond — as written, without improvising. | Substitute your own judgement, which on The Vanished Rope has never yet cost less than the condition. |
 |---|---|
 | Reaches toward the worker in recognition. The sorrow is witnessed; The Vanished Rope is fully recorded. | Burns more intensely and recoils. The gauge climbs and The Vanished Rope withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

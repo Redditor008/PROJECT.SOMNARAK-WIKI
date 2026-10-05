@@ -287,7 +287,7 @@ The figure does not settle on a face. It flickers through them — thousands, ea
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Every Last Goodbye; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Do not attempt to erase a final moment; acknowledge and record it. | Depart from the condition for good reasons, as Every Last Goodbye's record shows people do. |
 |---|---|
 | Shows final moments of love, acceptance, or peace. The sorrow is seen clearly; Every Last Goodbye is fully recorded. | Releases a wave of fear and regret. The gauge climbs and Every Last Goodbye withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

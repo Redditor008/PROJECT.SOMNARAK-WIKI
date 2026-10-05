@@ -335,7 +335,7 @@ Wearers become distressed when prevented from smiling.
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Happy Mask; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Viderehan and Ferrehan only; certified Tool protocol; the mask is never worn; tray thermometer logged at both ends of every cycle; the room list. | Depart from the condition for good reasons, as The Happy Mask's record shows people do. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; The Happy Mask is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Happy Mask withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

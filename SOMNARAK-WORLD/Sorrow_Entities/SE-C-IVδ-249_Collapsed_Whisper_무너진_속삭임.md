@@ -282,7 +282,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Collapsed Whisper; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Capture fragments without inventing the missing message. | Do the obvious, decent thing instead, and feed Collapsed Whisper. |
 |---|---|
 | The whisper reforms and becomes audible. The sorrow is named; Collapsed Whisper is fully recorded. | Dream-space collapses into red static. The gauge climbs and Collapsed Whisper withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

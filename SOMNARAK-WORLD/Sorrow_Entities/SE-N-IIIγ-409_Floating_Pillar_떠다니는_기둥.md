@@ -281,7 +281,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Floating Pillar; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Establish real support; do not replace the missing thing with another illusion. | Improvise something kinder, which is how every failure on Floating Pillar's file began. |
 |---|---|
 | The voice softens and the absence becomes clear. The sorrow is seen clearly; Floating Pillar is fully recorded. | It rises and removes nearby sound. The gauge climbs and Floating Pillar withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

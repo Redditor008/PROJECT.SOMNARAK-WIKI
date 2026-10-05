@@ -283,7 +283,7 @@ The archive cross-references this entity with its registered location — the so
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Hollow Saint; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do not feed it grief; establish distance and identity anchors. | Improvise something kinder, which is how every failure on The Hollow Saint's file began. |
 |---|---|
 | Reaches toward shared grief and absorbs it. The sorrow is seen clearly; The Hollow Saint is fully recorded. | Resists and pulls harder at the worker's sorrow. The gauge climbs and The Hollow Saint withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

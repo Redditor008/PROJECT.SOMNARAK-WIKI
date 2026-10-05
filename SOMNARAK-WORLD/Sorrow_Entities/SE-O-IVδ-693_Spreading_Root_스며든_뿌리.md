@@ -282,7 +282,7 @@ The hearing is held on the ground the roots came out of, and it is held aloud. H
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Spreading Root; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Listen to the Root's history; cutting roots causes further spread — as written, without improvising. | Improvise something kinder, which is how every failure on Spreading Root's file began. |
 |---|---|
 | Roots loosen and reveal the grief below. The sorrow is borne; Spreading Root is fully recorded. | Roots harden and spread aggressively. The gauge climbs and Spreading Root withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

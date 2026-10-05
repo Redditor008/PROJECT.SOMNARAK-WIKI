@@ -324,7 +324,7 @@ Decommissioning is correct and I will not have the office blamed in this file. A
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Quagmire; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Map the Trace and preserve the names it carries. | Substitute your own judgement, which on Quagmire has never yet cost less than the condition. |
 |---|---|
 | Tests whether the worker can remain at the end of a journey. The sorrow is witnessed; Quagmire is fully recorded. | Reveals the route and its missing travelers. The gauge climbs and Quagmire withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -306,7 +306,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Memory Lake; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Seal access and catalogue memories without claiming them. | Do the obvious, decent thing instead, and feed Memory Lake. |
 |---|---|
 | The scene is written in full and attributed to nobody, and the recognition — if it came — is reported before the observer has decided what it means. The sorrow is witnessed; Memory Lake is fully recorded. | The scene is quietly matched to a name and kept. The observer returns to the station out of rotation, and every incident in this file began exactly there. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

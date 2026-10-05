@@ -298,7 +298,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Memorial Flame Mid-Ceremony; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Complete the memorial without attempting to recreate the original flame. | Do the obvious, decent thing instead, and feed Memorial Flame Mid-Ceremony. |
 |---|---|
 | Tests whether the worker can mourn without a visible object. The sorrow is witnessed; Memorial Flame Mid-Ceremony is fully recorded. | Reveals the memorial and those who tended it. The gauge climbs and Memorial Flame Mid-Ceremony withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

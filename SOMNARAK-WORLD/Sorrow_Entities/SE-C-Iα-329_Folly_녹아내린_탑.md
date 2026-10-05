@@ -327,7 +327,7 @@ The rule is therefore not a courtesy and is not public relations. We can survive
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Folly; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Hold the plumb series unbroken and enforce the Rule of Published Withdrawal across every office that announces anything beyond these walls. | Do the obvious, decent thing instead, and feed Folly. |
 |---|---|
 | The worker stands in the unfinished rooms and does not finish them, and does not promise to. The interior stays open and the session's second reading is good. | The worker tells the rooms they will be built. They say it kindly and they mean it. The gauge climbs, the interior shuts, and the plate is higher in the morning. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

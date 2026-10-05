@@ -281,7 +281,7 @@ The Architect works without rest and finishes nothing. Its plans are legible, th
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Hollow Architect; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Do not complete or destroy the structures; document their purpose. | Improvise something kinder, which is how every failure on Hollow Architect's file began. |
 |---|---|
 | Pauses construction and accepts shared grief. The sorrow is borne; Hollow Architect is fully recorded. | Builds defensive walls around the worker. The gauge climbs and Hollow Architect withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -295,7 +295,7 @@ The walls are memory rather than stone, and they move when the person inside the
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Labyrinth of Stolen Faces; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Maintain a memory anchor and limit exploration time. | Substitute your own judgement, which on Labyrinth of Stolen Faces has never yet cost less than the condition. |
 |---|---|
 | Tests whether the worker can continue without a stable map. The sorrow is seen clearly; Labyrinth of Stolen Faces is fully recorded. | Reveals the memory architecture. The gauge climbs and Labyrinth of Stolen Faces withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

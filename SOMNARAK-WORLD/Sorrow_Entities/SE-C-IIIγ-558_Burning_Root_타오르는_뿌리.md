@@ -279,7 +279,7 @@ Entry 5 is the family rather than the legend. Earlier copies carried the distric
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Burning Root; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Hold to the condition: Name the burden without calling it selfhood. | Improvise something kinder, which is how every failure on Burning Root's file began. |
 |---|---|
 | Flames lower and roots loosen. The sorrow is borne; Burning Root is fully recorded. | Roots strike outward and heat increases. The gauge climbs and Burning Root withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

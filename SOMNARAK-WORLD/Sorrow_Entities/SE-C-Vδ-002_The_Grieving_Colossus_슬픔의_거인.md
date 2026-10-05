@@ -296,7 +296,7 @@ Containment records trace the crystallization to this location — the sorrow gr
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Grieving Colossus; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Cannot be stopped. It can only be guided by monitoring its path and clearing safe routes. | Depart from the condition for good reasons, as The Grieving Colossus's record shows people do. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is borne; The Grieving Colossus is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Grieving Colossus withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -331,7 +331,7 @@ The ground is the probe. In the fortnight after the Zone D surge review — elev
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Bridge of the Unchosen; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Hold the probe series unbroken and enforce the Counterfactual Rule across every board of this facility that issues a finding. | Do the obvious, decent thing instead, and feed Bridge of the Unchosen. |
 |---|---|
 | The worker stands on the three stones and says that the crossing was there and that nobody knows what was on the other side. The gauge falls. The far end stays frosted and the session closes clean. | The worker says what was on the other side. They are usually generous about it, and the generosity makes no difference at all. The gauge climbs, the far end briefly resolves into something the worker wanted, and the record is lost for that session. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

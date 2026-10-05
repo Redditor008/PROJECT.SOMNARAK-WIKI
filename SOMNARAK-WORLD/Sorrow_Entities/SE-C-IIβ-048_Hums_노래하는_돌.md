@@ -332,7 +332,7 @@ The management condition of this record cannot be met by a procedure, an instrum
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Hums; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Improvise something kinder, which is how every failure on Hums's file began. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is witnessed; Hums is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Hums withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

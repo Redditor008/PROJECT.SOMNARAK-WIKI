@@ -279,7 +279,7 @@ No post in the Border region is held by one worker for more than four consecutiv
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Dormant Monolith; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Ground the worker and establish a rotation of duty. | Depart from the condition for good reasons, as Dormant Monolith's record shows people do. |
 |---|---|
 | The Pillar softens and allows grief to pass. The sorrow is seen clearly; Dormant Monolith is fully recorded. | It rises through the worker's thoughts. The gauge climbs and Dormant Monolith withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

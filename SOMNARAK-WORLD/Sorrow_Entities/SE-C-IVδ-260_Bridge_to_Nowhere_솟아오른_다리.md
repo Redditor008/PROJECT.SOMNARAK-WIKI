@@ -297,7 +297,7 @@ The span is not a route and is not to be used as one. Personnel crossing for any
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Bridge to Nowhere; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Mark the crossing as memory and allow the Bridge to settle. | Depart from the condition for good reasons, as Bridge to Nowhere's record shows people do. |
 |---|---|
 | Requires the worker to cross a memory without claiming it as present. The sorrow is witnessed; Bridge to Nowhere is fully recorded. | Reveals the bridge's former route and travelers. The gauge climbs and Bridge to Nowhere withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

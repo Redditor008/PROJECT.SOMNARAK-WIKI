@@ -321,7 +321,7 @@ The obvious intervention has been proposed four times: bring the two parties int
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Friendless Bridge; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Do the obvious, decent thing instead, and feed Friendless Bridge. |
 |---|---|
 | Tests whether the worker can wait without crossing alone. The sorrow is named; Friendless Bridge is fully recorded. | Reveals the connection it tried to build. The gauge climbs and Friendless Bridge withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

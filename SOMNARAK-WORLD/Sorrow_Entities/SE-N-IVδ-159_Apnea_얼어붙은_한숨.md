@@ -299,7 +299,7 @@ The chamber's median flat period was two days last quarter. It was six when I ca
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Apnea; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Ground the worker and allow a safe release of breath. | Improvise something kinder, which is how every failure on Apnea's file began. |
 |---|---|
 | The worker's breath comes back audibly against the tone, is heard by the second worker, and the shift ends on the hour with the cycle unfinished. The sorrow is named; Apnea is fully recorded. | The worker stays past the hour to finish the cycle. The gauge climbs, the flat period lengthens, and the roster officer who allowed it is named in the return. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

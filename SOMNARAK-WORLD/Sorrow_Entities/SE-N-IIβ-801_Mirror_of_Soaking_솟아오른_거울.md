@@ -323,7 +323,7 @@ Collectors called anger disorder and demanded gratitude from people whose debts 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Mirror of Soaking; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Depart from the condition for good reasons, as Mirror of Soaking's record shows people do. |
 |---|---|
 | Forces the worker to remain before their own rage. The sorrow is named; Mirror of Soaking is fully recorded. | Reveals the event that created the anger. The gauge climbs and Mirror of Soaking withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -305,7 +305,7 @@ The ground is the chalk. That tranche moved the edge ninety-four centimetres —
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Anger Underfoot; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Keep the station circuit unbroken and the Rule of the Named Respondent enforced across every complaints channel this facility operates — as written, without improvising. | Do the obvious, decent thing instead, and feed Anger Underfoot. |
 |---|---|
 | The worker walks all twelve stations alone, silent, carrying nothing of their own onto the route. The gauge falls, the trace thins under the observation, and the circuit stands. | The worker finishes an argument on the route. They are almost always right about the argument. The gauge climbs, the trace thickens where it was conducted, and the circuit is void. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

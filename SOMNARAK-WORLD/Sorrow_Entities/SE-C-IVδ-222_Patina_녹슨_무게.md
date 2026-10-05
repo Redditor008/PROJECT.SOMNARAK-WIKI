@@ -325,7 +325,7 @@ Eleven mediation records, four generations, two families. Each is properly made,
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Patina; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Acknowledge the original conflict without assigning it to the living. | Improvise something kinder, which is how every failure on Patina's file began. |
 |---|---|
 | Tests whether the worker can bear history without inheriting anger. The sorrow is named; Patina is fully recorded. | Reveals the history of the inherited conflict. The gauge climbs and Patina withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

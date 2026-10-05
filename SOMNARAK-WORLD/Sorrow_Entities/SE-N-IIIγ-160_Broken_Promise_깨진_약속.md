@@ -317,7 +317,7 @@ The pieces hover and reassemble and never complete a signature. Watched for long
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Promise; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register — as written, without improvising. | Depart from the condition for good reasons, as Broken Promise's record shows people do. |
 |---|---|
 | Tests whether the worker will make a promise without certainty. The sorrow is named; Broken Promise is fully recorded. | Reveals the original promise and its betrayal. The gauge climbs and Broken Promise withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

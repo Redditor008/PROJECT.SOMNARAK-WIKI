@@ -273,7 +273,7 @@ Each Relic piece is an extension of this entity rather than ordinary equipment. 
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Viderehan and Ferrehan only, certified handling protocol with a second Warden counting, handler rate logged by name, and the acknowledgement — as written, without improvising. | Do the obvious, decent thing instead, and feed Beating Relic. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -286,7 +286,7 @@ I have had the date sheets checked against the record office's expiry schedule a
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Walking Calendar; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Archive the truth; do not erase or excuse it — as written, without improvising. | Depart from the condition for good reasons, as Walking Calendar's record shows people do. |
 |---|---|
 | Sings a softer chronology and lowers its burden. The sorrow is borne; Walking Calendar is fully recorded. | Adds the worker's anger to its weight. The gauge climbs and Walking Calendar withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -284,7 +284,7 @@ The Row is the right place for it and the file says why. Collector's Row is wher
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Unheard; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do not force sound into it; listen and record what remains. | Improvise something kinder, which is how every failure on Unheard's file began. |
 |---|---|
 | The silence softens and carries the worker's grief. The sorrow is named; Unheard is fully recorded. | The pressure fights back without producing sound. The gauge climbs and Unheard withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

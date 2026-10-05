@@ -296,7 +296,7 @@ The collapse schedule names him once. His own file names him twice and disagrees
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Yggdrasil Wound; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Ground the worker and permit both memories to remain. | Depart from the condition for good reasons, as Yggdrasil Wound's record shows people do. |
 |---|---|
 | The split closes slightly and roots become visible. The sorrow is seen clearly; Yggdrasil Wound is fully recorded. | The tree tears further through the worker's thoughts. The gauge climbs and Yggdrasil Wound withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

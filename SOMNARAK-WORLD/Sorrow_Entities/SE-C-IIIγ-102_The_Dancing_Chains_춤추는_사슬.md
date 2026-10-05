@@ -333,7 +333,7 @@ The chains are kept slack on a floor mount, and the mount is checked at the star
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Dancing Chains; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Improvise something kinder, which is how every failure on The Dancing Chains's file began. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is named; The Dancing Chains is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Dancing Chains withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

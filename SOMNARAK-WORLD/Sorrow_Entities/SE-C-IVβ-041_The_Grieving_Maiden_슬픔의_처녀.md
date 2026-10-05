@@ -295,7 +295,7 @@ The crystallization is traced to the Sisters' corridor, and the Office's own fil
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Grieving Maiden; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Share her grief and acknowledge the loss; never command her to stop. | Substitute your own judgement, which on The Grieving Maiden has never yet cost less than the condition. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is witnessed; The Grieving Maiden is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Grieving Maiden withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

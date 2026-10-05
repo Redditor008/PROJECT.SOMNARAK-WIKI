@@ -299,7 +299,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Pent; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Permit rest and acknowledge exhaustion as real — as written, without improvising. | Depart from the condition for good reasons, as Pent's record shows people do. |
 |---|---|
 | Tests whether personnel can rest without shame. The sorrow is named; Pent is fully recorded. | Reveals the worker and the moment of collapse. The gauge climbs and Pent withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

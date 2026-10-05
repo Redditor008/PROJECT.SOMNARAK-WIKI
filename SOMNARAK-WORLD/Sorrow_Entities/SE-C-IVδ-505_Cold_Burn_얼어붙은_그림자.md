@@ -293,7 +293,7 @@ Containment follows from that and not from the chamber. The holding's instrument
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Cold Burn; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Complete the duty symbolically, then tell the Shadow it may stop. | Do the obvious, decent thing instead, and feed Cold Burn. |
 |---|---|
 | Pauses and receives shared grief. The sorrow is seen clearly; Cold Burn is fully recorded. | Retaliates with frozen force. The gauge climbs and Cold Burn withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

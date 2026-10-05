@@ -291,7 +291,7 @@ The ground is the opening. Forty-four treatments in six weeks, forty-four matter
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Hollowcast; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Hold to the condition: Use identity anchors and do not invent memories for it. | Improvise something kinder, which is how every failure on Hollowcast's file began. |
 |---|---|
 | The worker lets it reach, stays where they are, and says nothing to it. The gauge falls, the opening narrows a little, and the structure of what is missing is legible for about a minute. | The worker tells it that it is all right. They always mean it. The gauge climbs, the force comes sharp and without contact, and the opening keeps the width it gained. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

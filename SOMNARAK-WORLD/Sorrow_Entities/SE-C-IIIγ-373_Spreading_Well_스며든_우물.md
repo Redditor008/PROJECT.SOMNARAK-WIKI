@@ -317,7 +317,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Spreading Well; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Acknowledge each linked site; do not dam the channels. | Do the obvious, decent thing instead, and feed Spreading Well. |
 |---|---|
 | Tests whether the worker can follow grief without being consumed. The sorrow is witnessed; Spreading Well is fully recorded. | Reveals linked sorrow sites along its channels. The gauge climbs and Spreading Well withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

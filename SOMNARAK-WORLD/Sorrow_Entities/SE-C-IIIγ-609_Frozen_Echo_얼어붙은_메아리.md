@@ -317,7 +317,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Frozen Echo; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Viderehan and Ferrehan only, under certified relic protocol, with one named handler, single-use gloves, a clock-holder with authority to call the. | Substitute your own judgement, which on Frozen Echo has never yet cost less than the condition. |
 |---|---|
 | Tests whether the worker can carry history without possession. The sorrow is witnessed; Frozen Echo is fully recorded. | Reveals the chain of former owners. The gauge climbs and Frozen Echo withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

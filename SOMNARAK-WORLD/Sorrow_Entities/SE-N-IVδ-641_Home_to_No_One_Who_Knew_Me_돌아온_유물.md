@@ -322,7 +322,7 @@ The sorrow did not emerge from nothing. It grew around this location until it wa
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Home to No One Who Knew Me; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Substitute your own judgement, which on Home to No One Who Knew Me has never yet cost less than the condition. |
 |---|---|
 | Remains present while the worker bears uncertainty. The sorrow is named; Home to No One Who Knew Me is fully recorded. | Shows the routes and hands through which it passed. The gauge climbs and Home to No One Who Knew Me withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

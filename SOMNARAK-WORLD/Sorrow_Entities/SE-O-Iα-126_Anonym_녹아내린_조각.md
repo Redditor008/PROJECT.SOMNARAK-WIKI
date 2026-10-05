@@ -285,7 +285,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Anonym; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Use names and present anchors; do not force a fixed identity. | Depart from the condition for good reasons, as Anonym's record shows people do. |
 |---|---|
 | The figure reforms gently around shared grief. The sorrow is seen clearly; Anonym is fully recorded. | It melts faster and spreads through thought. The gauge climbs and Anonym withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

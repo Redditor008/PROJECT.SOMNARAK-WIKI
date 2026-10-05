@@ -294,7 +294,7 @@ A dark-crimson bird of flesh and feather with two working balance scales in plac
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Weighting Bird; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Acknowledge the judgment without attempting to deny the weight. | Reach for Pugnahan, which the Behavior table shows raising the gauge every time it has been logged. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is named; Weighting Bird is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Weighting Bird withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

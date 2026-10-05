@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Tear Too Small to Honor; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol — as written, without improvising. | Do the obvious, decent thing instead, and feed Tear Too Small to Honor. |
 |---|---|
 | Tests whether the worker can hold grief without dismissing it. The sorrow is witnessed; Tear Too Small to Honor is fully recorded. | Reveals the small loss that formed it. The gauge climbs and Tear Too Small to Honor withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

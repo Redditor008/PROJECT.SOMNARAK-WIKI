@@ -289,7 +289,7 @@ That is what is in the Commons air at Mantle, saying two things at once in a voi
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Double Mouth; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Hold to the condition: Record both tones; do not choose a convenient version. | Do the obvious, decent thing instead, and feed Double Mouth. |
 |---|---|
 | The tones harmonize and reveal the witness's grief. The sorrow is named; Double Mouth is fully recorded. | The angry tone becomes a painful shout. The gauge climbs and Double Mouth withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

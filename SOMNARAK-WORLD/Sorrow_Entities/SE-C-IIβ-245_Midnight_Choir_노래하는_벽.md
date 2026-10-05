@@ -306,7 +306,7 @@ The frescoes sing at midnight and at no other hour, and the order is fixed: lull
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Midnight Choir; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Listen and catalogue; do not silence the walls. | Improvise something kinder, which is how every failure on Midnight Choir's file began. |
 |---|---|
 | The sequence is attended to its end and every break word is written as heard, including the one that names a colleague. The sorrow is witnessed; Midnight Choir is fully recorded. | The break word is softened, summarised, or the corridor is left before the last song. The night is marked incomplete in the series and stays incomplete; nothing else changes, because the walls were never performing for the watch. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

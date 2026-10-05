@@ -321,7 +321,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Learned Your Face; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Viderehan and Ferrehan only, under certified relic protocol, with one channeller on the mark, a second person on the clock, and the learned-face — as written, without improvising. | Depart from the condition for good reasons, as Learned Your Face's record shows people do. |
 |---|---|
 | Requires the worker to remain with the reflected sorrow. The sorrow is seen clearly; Learned Your Face is fully recorded. | Reveals the grief hidden beneath behavior. The gauge climbs and Learned Your Face withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

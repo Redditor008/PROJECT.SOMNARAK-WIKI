@@ -286,7 +286,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals I Alone Crossed; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Name the limits of one person's responsibility — as written, without improvising. | Improvise something kinder, which is how every failure on I Alone Crossed's file began. |
 |---|---|
 | Pauses and acknowledges shared sorrow. The sorrow is witnessed; I Alone Crossed is fully recorded. | Resists with pressure and memory-rage. The gauge climbs and I Alone Crossed withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -295,7 +295,7 @@ Two or three words arrive from just behind the shoulder, unhurried and kind, and
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Echo of Kindness; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| No containment required; preserve the conditions that form it — as written, without improvising. | Improvise something kinder, which is how every failure on Echo of Kindness's file began. |
 |---|---|
 | Remains nearby while the worker accepts comfort. The sorrow is witnessed; Echo of Kindness is fully recorded. | Reveals the act that formed the Echo. The gauge climbs and Echo of Kindness withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

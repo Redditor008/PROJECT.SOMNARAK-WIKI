@@ -321,7 +321,7 @@ The archive cross-references this entity with its registered location — the so
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Briar; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Acknowledge the injury; do not cut the flowers — as written, without improvising. | Try Pugnahan instead, which is the one response this holding has never tolerated. |
 |---|---|
 | Allows passage only if the worker endures the thorns. The sorrow is named; Briar is fully recorded. | Shows the grievance behind each flower. The gauge climbs and Briar withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

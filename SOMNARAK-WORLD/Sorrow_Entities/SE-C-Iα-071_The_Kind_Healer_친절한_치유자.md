@@ -306,7 +306,7 @@ The crystallization is traced to Zone B and the Office's own holdings explain th
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Kind Healer; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do not attack. Guide it gently back and prevent unauthorized contact — as written, without improvising. | Do the obvious, decent thing instead, and feed The Kind Healer. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is witnessed; The Kind Healer is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Kind Healer withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

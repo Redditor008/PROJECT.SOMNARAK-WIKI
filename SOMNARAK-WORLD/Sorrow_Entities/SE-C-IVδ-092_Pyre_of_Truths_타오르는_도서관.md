@@ -308,7 +308,7 @@ The provenance rule is right and I am tired of being asked to say otherwise. Adm
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Pyre of Truths; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Approach with curiosity rather than possession or destruction — as written, without improvising. | Substitute your own judgement, which on Pyre of Truths has never yet cost less than the condition. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is named; Pyre of Truths is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Pyre of Truths withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

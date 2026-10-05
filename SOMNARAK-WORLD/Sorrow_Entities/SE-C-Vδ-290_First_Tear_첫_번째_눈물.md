@@ -306,7 +306,7 @@ Two people a night, every night, for eleven centuries, to write down a number th
 
 > A choice presented to the observing worker at the climax of contact. One path reveals First Tear; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Do the obvious, decent thing instead, and feed First Tear. |
 |---|---|
 | Tests whether the observer can bear total grief. The sorrow is witnessed; First Tear is fully recorded. | Shows the shape of sorrow before language. The gauge climbs and First Tear withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

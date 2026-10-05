@@ -283,7 +283,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Relic of a Thousand Owners; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do not claim ownership; document its owners — as written, without improvising. | Depart from the condition for good reasons, as Relic of a Thousand Owners's record shows people do. |
 |---|---|
 | The figure softens and reveals one owner's grief. The sorrow is witnessed; Relic of a Thousand Owners is fully recorded. | It flows around aggression and returns it as force. The gauge climbs and Relic of a Thousand Owners withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

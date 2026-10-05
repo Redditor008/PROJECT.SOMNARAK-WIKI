@@ -322,7 +322,7 @@ The inquiry found that nothing outside anybody's remit had occurred, and the fin
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Portcullis; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim. | Do the obvious, decent thing instead, and feed Portcullis. |
 |---|---|
 | Tests whether the worker can remain at a blocked threshold. The sorrow is witnessed; Portcullis is fully recorded. | Reveals the people and route beyond the door. The gauge climbs and Portcullis withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

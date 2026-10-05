@@ -283,7 +283,7 @@ The supervisor who issued the original order is named in the Keepers' record and
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Swallowed Fury; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Hold to the condition: Permit tears and name the loss; do not suppress the anger. | Do the obvious, decent thing instead, and feed Swallowed Fury. |
 |---|---|
 | Becomes clearer and less hostile. The sorrow is named; Swallowed Fury is fully recorded. | Burns with borrowed fury. The gauge climbs and Swallowed Fury withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

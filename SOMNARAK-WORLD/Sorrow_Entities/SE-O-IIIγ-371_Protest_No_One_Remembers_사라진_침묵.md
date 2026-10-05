@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Protest No One Remembers; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Record the absence without inventing its content. | Substitute your own judgement, which on Protest No One Remembers has never yet cost less than the condition. |
 |---|---|
 | The absence becomes briefly audible as a breath. The sorrow is seen clearly; Protest No One Remembers is fully recorded. | Silence spreads and suppresses nearby sound. The gauge climbs and Protest No One Remembers withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

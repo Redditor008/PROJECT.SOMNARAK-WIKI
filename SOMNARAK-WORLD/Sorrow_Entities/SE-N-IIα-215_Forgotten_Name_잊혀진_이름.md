@@ -294,7 +294,7 @@ The ground is the slates. The year we extended corroboration to what people say 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Forgotten Name; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Hold to the condition: Write and speak the name with another witness present. | Improvise something kinder, which is how every failure on Forgotten Name's file began. |
 |---|---|
 | The worker writes what they understand of him on the slate, in silence, and hands it over without reading it. The gauge falls, the slate matches, and the month's series stands. | The worker says it aloud — once, carefully, to fix it — because holding a name you may not speak is harder than the briefing makes it sound. It is gone out of them before the second syllable, and the slate is void. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

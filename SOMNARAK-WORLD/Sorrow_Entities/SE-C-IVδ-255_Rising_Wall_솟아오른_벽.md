@@ -281,7 +281,7 @@ A standing column of pressure in the shape of a person, rising from the ground o
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Rising Wall; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Patient endurance and honest acknowledgment — as written, without improvising. | Depart from the condition for good reasons, as Rising Wall's record shows people do. |
 |---|---|
 | The wall lowers and reaches toward the worker. The sorrow is witnessed; Rising Wall is fully recorded. | It hardens against aggression. The gauge climbs and Rising Wall withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -314,7 +314,7 @@ The Keepers' record holds the plan this entity grew from in full detail, and the
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Mourning a Life I Never Lived; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Do not plant; distinguish possibility from memory. | Depart from the condition for good reasons, as Mourning a Life I Never Lived's record shows people do. |
 |---|---|
 | Tests whether the worker can accept nonexistence. The sorrow is seen clearly; Mourning a Life I Never Lived is fully recorded. | Shows what was imagined but never formed. The gauge climbs and Mourning a Life I Never Lived withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -337,7 +337,7 @@ The rest of the archive note stands as written. Sound does not carry near the be
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Unrung; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Ferrehan primary, Viderehan secondary, hand signals, station clock every session, and the Rule of the Answered Warning enforced across the. | Substitute your own judgement, which on Unrung has never yet cost less than the condition. |
 |---|---|
 | The worker stands the full session on the line, inside the delay, hand signals only, and clocks three honest strikes at the end however long the intervals come out. The gauge falls and the session's record is clean. | The worker calls out to the station to check whether the clock is running, meaning well, because the silence has gone on too long. The gauge climbs, the strikes are void, and the quarter's series carries a gap. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

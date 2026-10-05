@@ -310,7 +310,7 @@ The ground is the ledger. The year we extended the training bond to the children
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Inherited Debt; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Acknowledge the inheritance and choose whether it will be carried. Physical restraint is useless. | Depart from the condition for good reasons, as The Inherited Debt's record shows people do. |
 |---|---|
 | The sitter says aloud that the obligation was never theirs and that they will carry it anyway, and means both halves. The gauge falls, the ledger runs, and the entries check out. | The sitter argues that it is not their debt. It is true. The entity does not dispute it. The gauge climbs, nothing is given, and the hour runs to its end regardless. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

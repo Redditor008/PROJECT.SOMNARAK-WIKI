@@ -323,7 +323,7 @@ The archive cross-references this entity with its registered location — the so
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Well of Unfinished Words; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Allow testimony to finish; do not drain the Well. | Do the obvious, decent thing instead, and feed Well of Unfinished Words. |
 |---|---|
 | Requires the worker to remain and listen without interruption. The sorrow is witnessed; Well of Unfinished Words is fully recorded. | Reveals the grief embedded in the water. The gauge climbs and Well of Unfinished Words withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

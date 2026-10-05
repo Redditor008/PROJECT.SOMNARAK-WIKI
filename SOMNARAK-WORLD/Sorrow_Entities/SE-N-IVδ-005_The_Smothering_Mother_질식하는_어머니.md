@@ -298,7 +298,7 @@ Containment records trace the crystallization to this location — the sorrow gr
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Smothering Mother; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Hold to the condition: Provide a memory, vision, or proof that the child is at peace. Flerehan is most effective. | Try Pugnahan instead, which is the one response this holding has never tolerated. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is named; The Smothering Mother is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Smothering Mother withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

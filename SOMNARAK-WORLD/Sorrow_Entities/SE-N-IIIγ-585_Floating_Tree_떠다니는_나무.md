@@ -313,7 +313,7 @@ The resettlement lists in this folder were not made by the facility. They were m
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Floating Tree; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Mark its route; do not attempt to anchor it physically. | Reach for Pugnahan, which the Behavior table shows raising the gauge every time it has been logged. |
 |---|---|
 | Tests whether the worker can remain beneath a rootless shelter. The sorrow is witnessed; Floating Tree is fully recorded. | Reveals fragments of the broken community. The gauge climbs and Floating Tree withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

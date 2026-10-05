@@ -306,7 +306,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Unsaid Blossoms; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Speak honestly at the grave; do not remove blossoms. | Substitute your own judgement, which on Unsaid Blossoms has never yet cost less than the condition. |
 |---|---|
 | The fall is counted whole and entered unrounded on a day when the figure will embarrass the net office, and the store is closed unread. The sorrow is witnessed; Unsaid Blossoms is fully recorded. | The figure is estimated, or a voice is raised inside the ring and the bloom shuts. The day is void in a fifty-two-year series and stays void; nothing else changes, because the tree was never performing for anybody. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

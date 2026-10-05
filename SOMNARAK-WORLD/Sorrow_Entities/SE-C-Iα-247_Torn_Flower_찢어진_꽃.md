@@ -281,7 +281,7 @@ A planting slip, a gate log, and a note in the mourner's hand asking whether any
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Torn Flower; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do not repair or pick it; witness the torn form. | Do the obvious, decent thing instead, and feed Torn Flower. |
 |---|---|
 | Petals close around shared grief. The sorrow is named; Torn Flower is fully recorded. | Torn edges burn and spread. The gauge climbs and Torn Flower withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

@@ -338,7 +338,7 @@ The archive cross-references this entity with its registered location — the so
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Broken Clock; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary. | Depart from the condition for good reasons, as Broken Clock's record shows people do. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is borne; Broken Clock is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Broken Clock withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

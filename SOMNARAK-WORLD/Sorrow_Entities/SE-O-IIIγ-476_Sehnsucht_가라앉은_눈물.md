@@ -322,7 +322,7 @@ The management condition of this record is a change to a form. Since 4221 the me
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Sehnsucht; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol — as written, without improvising. | Depart from the condition for good reasons, as Sehnsucht's record shows people do. |
 |---|---|
 | Tests whether the worker can remain beside buried sorrow. The sorrow is borne; Sehnsucht is fully recorded. | Reveals the event beneath the forgotten grief. The gauge climbs and Sehnsucht withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

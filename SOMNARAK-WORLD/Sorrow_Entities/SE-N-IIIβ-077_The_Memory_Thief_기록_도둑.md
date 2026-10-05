@@ -296,7 +296,7 @@ The origin is a diagnosis rather than a mystery: a market that priced memory, a 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Memory Thief; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Corner and contain it; negotiate the return of memories when possible — as written, without improvising. | Substitute your own judgement, which on The Memory Thief has never yet cost less than the condition. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; The Memory Thief is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Memory Thief withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

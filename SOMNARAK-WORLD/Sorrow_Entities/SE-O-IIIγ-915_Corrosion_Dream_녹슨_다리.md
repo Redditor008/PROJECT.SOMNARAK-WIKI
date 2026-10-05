@@ -280,7 +280,7 @@ This facility now funds and attempts one crossing repair in the Forge District e
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Corrosion Dream; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do the thing on file: Do not promise reunion; name both the crossing and the loss. | Depart from the condition for good reasons, as Corrosion Dream's record shows people do. |
 |---|---|
 | Sings a warmer verse and lowers its rusted hands. The sorrow is seen clearly; Corrosion Dream is fully recorded. | The bridge plates twist into defensive edges. The gauge climbs and Corrosion Dream withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

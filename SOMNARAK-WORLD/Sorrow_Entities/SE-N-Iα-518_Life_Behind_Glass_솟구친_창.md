@@ -322,7 +322,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Life Behind Glass; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Timekeeper, named relief instructed to interrupt, no second consecutive cycle at this post, and the shift board checked before the tunnel — as written, without improvising. | Depart from the condition for good reasons, as Life Behind Glass's record shows people do. |
 |---|---|
 | Tests whether the worker can continue looking without crossing. The sorrow is witnessed; Life Behind Glass is fully recorded. | Reveals the world the worker never entered. The gauge climbs and Life Behind Glass withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

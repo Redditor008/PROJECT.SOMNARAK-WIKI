@@ -296,7 +296,7 @@ The mother visits. She is not a suspect, has never been charged with anything, a
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Silent Maiden; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| See her, hear her, and recognize that she is present — as written, without improvising. | Substitute your own judgement, which on The Silent Maiden has never yet cost less than the condition. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly; The Silent Maiden is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Silent Maiden withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

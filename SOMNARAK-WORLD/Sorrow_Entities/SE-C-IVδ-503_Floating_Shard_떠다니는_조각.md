@@ -281,7 +281,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Floating Shard; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do not dismiss the pain or promise impossible rescue. | Depart from the condition for good reasons, as Floating Shard's record shows people do. |
 |---|---|
 | Drifts closer and softens its light. The sorrow is witnessed; Floating Shard is fully recorded. | Shards split away and strike the air. The gauge climbs and Floating Shard withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

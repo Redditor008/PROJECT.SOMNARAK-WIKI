@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Feu Follet; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Anchor the worker in present sensations. | Substitute your own judgement, which on Feu Follet has never yet cost less than the condition. |
 |---|---|
 | Flame steadies and reveals the remembered warmth. The sorrow is witnessed; Feu Follet is fully recorded. | It melts through the worker's thoughts. The gauge climbs and Feu Follet withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

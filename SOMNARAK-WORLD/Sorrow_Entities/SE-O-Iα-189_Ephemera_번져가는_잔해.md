@@ -284,7 +284,7 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Ephemera; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Map and name what remains; do not chase what is already gone — as written, without improvising. | Depart from the condition for good reasons, as Ephemera's record shows people do. |
 |---|---|
 | The figure becomes clearer and weeps quietly. The sorrow is witnessed; Ephemera is fully recorded. | It scatters and reforms farther away. The gauge climbs and Ephemera withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

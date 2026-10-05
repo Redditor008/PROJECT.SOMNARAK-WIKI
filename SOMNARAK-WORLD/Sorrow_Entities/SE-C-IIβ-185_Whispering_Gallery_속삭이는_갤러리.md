@@ -291,7 +291,7 @@ The application is refused and I will set out why at length, because the applica
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Whispering Gallery; the other feeds it.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Do the thing on file: Restore names and listen without replacing missing details. | Do the obvious, decent thing instead, and feed Whispering Gallery. |
 |---|---|
 | Requires the worker to walk its full length without answering every voice. The sorrow is witnessed; Whispering Gallery is fully recorded. | Reveals the history behind the frames. The gauge climbs and Whispering Gallery withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |

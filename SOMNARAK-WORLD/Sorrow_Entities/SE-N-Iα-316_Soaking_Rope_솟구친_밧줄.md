@@ -280,7 +280,7 @@ The rope was brought in still taut. It had been held so long that the fibre had 
 
 > A choice presented to the observing worker at the climax of contact. One path reveals Soaking Rope; the other feeds it.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Do not promise return; release the rope consciously — as written, without improvising. | Depart from the condition for good reasons, as Soaking Rope's record shows people do. |
 |---|---|
 | The rope loosens and becomes visible. The sorrow is named; Soaking Rope is fully recorded. | It tightens around thought and spreads anger. The gauge climbs and Soaking Rope withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
