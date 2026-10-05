@@ -225,7 +225,8 @@ from a closed set: instadeath, escape, possession, employee, department or facil
 
 Medians, as of the commit that carries this study, when `R-29` stood at 43. Later dossier units move two cells and
 no argument: the Rank V words and the last column (after The Stormscale Sovereign, Sorrow Tide, The Final Door,
-Forgotten God and The Convergence, Rank V reads 7,670 words and 7 meeting). "Rank record" is the section each rank adds: Watch Record at II, Warden Record at III, Apex Record at
+Forgotten God, The Convergence, Wilderness Tide and the second Dawn of Mourning, Rank V reads 7,670 words and 9
+meeting). "Rank record" is the section each rank adds: Watch Record at II, Warden Record at III, Apex Record at
 IV, Sovereign Chronicle at V. Six readings follow from the table and its companions.
 
 1. **Length climbs.** 6,477 to 7,566 words, monotonically. That is the ladder the archive already requires, and

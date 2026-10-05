@@ -17,8 +17,8 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **102 / 303** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **81 / 303** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **48 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **82 / 303** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **50 / 302** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/178 · OP 21/41 — all floors met** |
@@ -287,7 +287,7 @@ were read, four at each risk level** (ZAYIN to ALEPH; three re-read on the Fando
 and the Risk Level page), and **ten dossiers were set against them** by a rule fixed before reading (lowest
 registry number of the class at the rank). The record is
 `COMPARATIVE_STUDY_02_TWENTY_PAGES_FIVE_LEVELS.md`; `python3 tools/ladder.py` regenerates its archive
-figures. The study itself edited no dossier. One dossier unit followed it (below), so `R-29` was **44 / 302** after it, 45 after Sorrow Tide, and is **48 / 302** after the three Rank V units below.
+figures. The study itself edited no dossier. One dossier unit followed it (below), so `R-29` was **44 / 302** after it, 45 after Sorrow Tide, 48 after the three Rank V units below, and **50 / 302** after the two that follow them.
 
 **What it found, short.**
 
@@ -346,6 +346,29 @@ invented. The Final Door's and the Convergence's Registrum comprehension levels 
 three:** the Final Door and Forgotten God are observed holdings; only the Convergence's three projected outcomes
 are projections, and they stay labelled in the Combat Record.
 
+**Two more Rank V units, one commit each: Wilderness Tide `O-Vγ-003` and the second Dawn of Mourning `C-Vω-002`;
+`R-29` 48 → 50.** Neither is a restatement unit.
+- *Wilderness Tide* failed the condition and series clauses and had almost nothing to restate: one catalogued surge and
+  a few aggregate figures. The management line is written from the file's own record (hold the wall under the ballast
+  anchors, scrub the residue before the salt reaches the stone, log its depth). The Observation Log now carries the
+  surge catalogue its own summary promised. **This one adds figures.** The Season 3 Day 17 row is the Field Log as
+  filed, and the Long Surge takes its 6 hours and 3 Fractures from the Testimonium; the two light surges and the Long
+  Surge's 24 mm, 52% and date are new, authored to fit those two entries, and the Long Surge is placed in the
+  Han-storm season the Trivia's 7-year cycle implies (4239 − 7 = 4232).
+- *The second Dawn of Mourning* failed the condition, the series and two dirty lines (a stock Registrum paragraph, a
+  stock Final Observation sentence). The management line comes from the Confession Protocol. The Observation Log gains
+  the clock the file's own rules give when laid end to end: 10% a turn read as 10 points, the Crown every 3 turns, the
+  Mourners waking after 1 turn, so every holding is at its limit by turn 10, the same turn the Observation table first
+  says the twelfth must confess. That is arithmetic on the file's figures with its reading stated, and no new figure.
+  Four unclosed Story Log entry headings and the typo "Mournners" were repaired.
+
+**Still unreconciled in those two, left with the older layers.** Wilderness Tide: the Chronicle's Stigma, "the Wild
+Mark", against "no M.A.W. extraction possible" everywhere else; Wardens against Rangers as the defending crew; "4,000
+years of records" against "four hundred years of tide charts" against a first major surge in Year 4150; its Entity
+Interaction Record has two rows beside a prose list of three. The second Dawn: the twelfth Mourner testifies to
+having been "the third person blessed"; the Kind Healer file says the tally stands at twelve of twelve where the
+historical Dawn's file logs eleven; the Document Date reads "Year 4232+1778".
+
 **A measurement finding, and a disclosure, for the owner.** The `own_series` clause counts digits in three sections.
 House prose writes numbers as words. Of the 119 dossiers that fail the clause, 94 carry at least four numerals or
 number-words ("one" excluded) in one of the three sections, so a test that counted words at the same threshold would
@@ -369,9 +392,10 @@ excluded from the shelters; Story Log entries 2 to 4 are single sentences copied
 as `[[SE-…_Name_한글](github url "SE-…_Name_한글.md")]`, on the working branch. `tools/ghlink.py` builds it and
 reproduces the owner's two examples byte for byte.
 
-**Next targets, re-ordered by the study** (the list above stands underneath): (1) the Rank V cohort: five still fail
-the own-series clause (Sorrow Mass `C-Vω-925`, First Tear `C-Vδ-290`, Wilderness Tide `O-Vγ-003`, the Grieving
-Colossus, the second Dawn of Mourning `C-Vω-002`), and none fails that clause alone any more; (2) the `R-01` sweep on the 88-dossier list; (3) the Kind Echo shape, an event
+**Next targets, re-ordered by the study** (the list above stands underneath): (1) the Rank V cohort: three still fail
+the own-series clause. Sorrow Mass `C-Vω-925` (also no Interaction Record, no condition, 2 dirty sections), First Tear
+`C-Vδ-290` (no condition, 9 dirty sections) and the Grieving Colossus (5 dirty sections: M.A.W., Observation Log, Final
+Observation, Flavor Text, Registrum; four `R-01` "corrected here" lines); (2) the `R-01` sweep on the 88-dossier list; (3) the Kind Echo shape, an event
 figure for an event the file calls practically impossible, and the layers that disagree (above); (4) the single-clause gaps already listed.
 
 ## Workstream 8 — Breach Balance (`R-28`, done 2026-10-05)
