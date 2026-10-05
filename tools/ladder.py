@@ -7,8 +7,9 @@ breach capability, harm radius, the price of the remedy and the facility's own n
 all climb from ZAYIN to ALEPH. This tool measures the same climb in the dossiers, by
 Coherence rank (I..V), so the study's figures can be regenerated and tracked.
 
-  ladder.py            the five tables below
+  ladder.py            the six tables below
   ladder.py --rows     one line per dossier (code, rank, potency, HP, ATK, breach, ...)
+  ladder.py --layers   also list the dossiers whose SECC table and Registrum header disagree
 
 It reports and never edits. It is not part of the gate.
 """
@@ -110,6 +111,12 @@ def scan():
         rec = RANK_RECORD.get(r['rank'])
         r['record_words'] = len(section(s, rec).split()) if rec and section(s, rec) else None
         r['banners'] = BANNER.findall(s)
+        cs = re.search(r'\*\*R\.D\. Comprehension Level\*\*\s*\|\s*(\d)', s)
+        cr = re.search(r'\*\*Comprehension Level:\*\*\s*(\d)', s)
+        r['comp'] = (cs.group(1), cr.group(1)) if cs and cr else None
+        pr = re.search(r'\*\*Classification:\*\* Sorrow Entity[^\n]*?(Minor|Moderate|Major|Critical|'
+                       r'Catastrophic) \(([\u03b1-\u03c9])\) potency', s)
+        r['reg_pot'] = pr.group(2) if pr else None
         chk = wikistd.check(f, classified, shared)
         r['meets'] = chk['meets']
         r['disp'] = disp.get(r['code'])
@@ -190,6 +197,20 @@ def main(argv):
         sum(1 for r in rows if r['banners']), len(ban)))
     for b, c in ban.most_common():
         print('   %3d  %s' % (c, b))
+
+    print('\n6. LAYERS THAT DISAGREE (the SECC table against the Registrum header)')
+    comp = [r for r in rows if r['comp'] and r['comp'][0] != r['comp'][1]]
+    pot = [r for r in rows if r['reg_pot'] and r['reg_pot'] != r['pot']]
+    print('   Comprehension Level differs: %d dossiers; Registrum potency differs from the designation: %d'
+          % (len(comp), len(pot)))
+    for rk in RANKS:
+        print('   %-4s comprehension %2d   potency %2d' % (
+            rk, sum(1 for r in comp if r['rank'] == rk), sum(1 for r in pot if r['rank'] == rk)))
+    if '--layers' in sys.argv:
+        for r in comp:
+            print('   comprehension  %-12s SECC %s  Registrum %s' % (r['code'], r['comp'][0], r['comp'][1]))
+        for r in pot:
+            print('   potency        %-12s designation %s  Registrum %s' % (r['code'], r['pot'], r['reg_pot']))
     return 0
 
 

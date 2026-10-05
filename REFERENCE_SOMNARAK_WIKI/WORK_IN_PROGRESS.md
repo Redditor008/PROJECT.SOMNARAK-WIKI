@@ -18,7 +18,7 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **102 / 303** |
 | **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **81 / 303** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **45 / 302** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **48 / 302** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/178 · OP 21/41 — all floors met** |
@@ -287,7 +287,7 @@ were read, four at each risk level** (ZAYIN to ALEPH; three re-read on the Fando
 and the Risk Level page), and **ten dossiers were set against them** by a rule fixed before reading (lowest
 registry number of the class at the rank). The record is
 `COMPARATIVE_STUDY_02_TWENTY_PAGES_FIVE_LEVELS.md`; `python3 tools/ladder.py` regenerates its archive
-figures. The study itself edited no dossier. One dossier unit followed it (below), so `R-29` was **44 / 302** after it and is **45 / 302** after the second unit below.
+figures. The study itself edited no dossier. One dossier unit followed it (below), so `R-29` was **44 / 302** after it, 45 after Sorrow Tide, and is **48 / 302** after the three Rank V units below.
 
 **What it found, short.**
 
@@ -336,6 +336,30 @@ Sovereign Manifestation Log said the charts show the pattern "never once breakin
 and the Chronicle said the rhythm "broke exactly once". The charts now never fail to *rise*; the Long Night is the
 worst break and came before the gauges; four lesser Floods have been logged since. 7,475 → 7,681 words.
 
+**Three more Rank V units, one commit each: The Final Door `C-Vδ-111`, Forgotten God `C-Vδ-265`, The Convergence
+`C-Vδ-010`; `R-29` 45 → 48.** The same pattern three times. Each failed only the own-series clause, each keeps a real
+record in its Observation Progression and Registry Addendum, in words (94 cycles and 41 whispers of 13 seconds; a
+41-second breath logged for 19 years; 188 timed drills against a 12-second window), and each Observation Log held
+generic bullets. The bullets now state the record in digits, from the file's own sections, and nothing new was
+invented. The Final Door's and the Convergence's Registrum comprehension levels (5) disagreed with their SECC tables
+(1 and 3) and were aligned. **The "projection-only" label in the earlier next-targets list was wrong for two of the
+three:** the Final Door and Forgotten God are observed holdings; only the Convergence's three projected outcomes
+are projections, and they stay labelled in the Combat Record.
+
+**A measurement finding, and a disclosure, for the owner.** The `own_series` clause counts digits in three sections.
+House prose writes numbers as words. Of the 119 dossiers that fail the clause, 94 carry at least four numerals or
+number-words ("one" excluded) in one of the three sections, so a test that counted words at the same threshold would
+pass them; some of those counts are not series ("four Work Types"), so 94 is an upper bound, and 25 are short of
+four even counting words. **The four units above move the `R-29` count by restating figures the file already had, in
+digits, in the section the test reads.** The Observation Log is better for it (the generic bullets are gone), but
+the count of 48 mixes real progress with a measurement artefact, and rewording to meet a marker is what `R-05` and
+`R-14` warn against. Not recalibrated: counting number-words is a change to the measure and is the owner's call.
+
+**Layers that disagree.** `python3 tools/ladder.py --layers` lists 14 dossiers whose SECC comprehension level differs
+from the Registrum's (7 at Rank I, 1 at II, 5 at IV, 1 at V) and 7 whose Registrum potency differs from the
+designation, all at Rank I. Two of the seven are the Kind-Healer progression variants `071b` and `071c`, which differ
+on purpose. The Registrum header is a generated layer; the SECC table and the designation are the record.
+
 **Still unreconciled in Sorrow Tide, left for a later pass.** The Chronicle names the Stigma "the Ebb Mark" (a calm
 that deepens, a cost of daylight restlessness) where the M.A.W. section names it "the Tide Stone" (+2 on Tide nights,
 heavier after each use); the Chronicle's night crews are Directorate crews where the Registrum says Wardens are
@@ -345,10 +369,10 @@ excluded from the shelters; Story Log entries 2 to 4 are single sentences copied
 as `[[SE-…_Name_한글](github url "SE-…_Name_한글.md")]`, on the working branch. `tools/ghlink.py` builds it and
 reproduces the owner's two examples byte for byte.
 
-**Next targets, re-ordered by the study** (the list above stands underneath): (1) the Rank V cohort, which fails
-the own-series clause in 8 of 14 now (three Rank V dossiers fail only that clause, and all three are the
-projection-only holdings: The Convergence, Forgotten God, The Final Door, whose series must stay honest); (2) the `R-01` sweep on the 88-dossier list; (3) the Kind Echo shape, an event
-figure for an event the file calls practically impossible; (4) the single-clause gaps already listed.
+**Next targets, re-ordered by the study** (the list above stands underneath): (1) the Rank V cohort: five still fail
+the own-series clause (Sorrow Mass `C-Vω-925`, First Tear `C-Vδ-290`, Wilderness Tide `O-Vγ-003`, the Grieving
+Colossus, the second Dawn of Mourning `C-Vω-002`), and none fails that clause alone any more; (2) the `R-01` sweep on the 88-dossier list; (3) the Kind Echo shape, an event
+figure for an event the file calls practically impossible, and the layers that disagree (above); (4) the single-clause gaps already listed.
 
 ## Workstream 8 — Breach Balance (`R-28`, done 2026-10-05)
 
@@ -472,6 +496,7 @@ Not repaired, because history is not rewritten (`R-17`).
 - A commit pushed with two open `label_lint` violations, fixed in a later commit.
 - A commit message reading `45->10` where the measured figure was 9.
 - The Memory Chain commit message reads `6,601 -> 6,613`; the measured figures were 6,613 -> 6,624.
+- The Final Door, Forgotten God and Convergence commit messages say "nothing new invented" and "restated in digits", which is accurate, and describe the units as closing the series clause; the clause was failing on a counting convention, as the measurement finding above says.
 - The Sorrow Tide commit message says "no word was turned into a digit". The new Observation Log bullets do state, in digits, figures that other sections of the file give in words (nine stations, eleven minutes, sixty years). Nothing was invented, but the sentence was too strong.
 - The Foam Flood and Soot Fry commit messages describe the stock opener as carried by many dossiers. The exact first sentence ("does not exist in total isolation") was in those two files only; the shared part was the third sentence, which 127 dossiers still carry.
 

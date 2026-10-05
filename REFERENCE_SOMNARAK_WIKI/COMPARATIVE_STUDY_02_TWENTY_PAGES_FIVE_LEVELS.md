@@ -224,8 +224,8 @@ from a closed set: instadeath, escape, possession, employee, department or facil
 | V | 14 | 7,566 | 897 | 48 | 2.80 | 20–28 | 50% | 281 | 2,185 | 0 / 3 / 11 | 2 |
 
 Medians, as of the commit that carries this study, when `R-29` stood at 43. Later dossier units move two cells and
-no argument: the Rank V words and the last column (after The Stormscale Sovereign and Sorrow Tide, Rank V reads
-7,670 words and 4 meeting). "Rank record" is the section each rank adds: Watch Record at II, Warden Record at III, Apex Record at
+no argument: the Rank V words and the last column (after The Stormscale Sovereign, Sorrow Tide, The Final Door,
+Forgotten God and The Convergence, Rank V reads 7,670 words and 7 meeting). "Rank record" is the section each rank adds: Watch Record at II, Warden Record at III, Apex Record at
 IV, Sovereign Chronicle at V. Six readings follow from the table and its companions.
 
 1. **Length climbs.** 6,477 to 7,566 words, monotonically. That is the ladder the archive already requires, and
@@ -571,8 +571,11 @@ how a dossier is judged once it is clean.
 
 **Next targets for the dossier campaign, in the order the survey supports.**
 
-1. The Rank V cohort. It fails `R-29` on the "own series" clause in 9 of 14 and carries 3 projection-only holdings
-   whose series must stay honest.
+1. The Rank V cohort. It fails `R-29` on the "own series" clause in 9 of 14. The work record called three of them
+   projection-only; that was taken from the record and not checked, and it was wrong for two: the Final Door and
+   Forgotten God are observed holdings, and only the Convergence carries projections (labelled in its Combat
+   Record). Four of the nine were closed after this study, by stating in digits the record each file already
+   kept in words; the measurement finding that follows from that is in the work record.
 2. The `R-01` sweep on the 88-dossier list, converting each correction to cause.
 3. The rank-blind event section: where a Rank I or II dossier's event table gives the stock drain for an event the
    file calls practically impossible (Kind Echo), say so or remove the figure.
