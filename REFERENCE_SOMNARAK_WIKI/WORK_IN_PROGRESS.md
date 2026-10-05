@@ -16,15 +16,15 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **102 / 303** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **82 / 303** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **54 / 302** |
+| **Dossiers free of template residue (Workstream 6)** | **101 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **81 / 302** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **53 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
-| **Breach balance (`R-28`)** | **RE 63/83 · SE 45/178 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 159 / 303 |
+| **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 158 / 302 |
 | Archive median prose generic fraction | 0.048 |
-| **Dispositions classified (Workstream 5)** | **302 / 302 — CLOSED** |
+| **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
 
@@ -414,6 +414,41 @@ the own-series clause. Sorrow Mass `C-Vω-925` (also no Interaction Record, no c
 `C-Vδ-290` (no condition, 9 dirty sections) and the Grieving Colossus (5 dirty sections: M.A.W., Observation Log, Final
 Observation, Flavor Text, Registrum; four `R-01` "corrected here" lines); (2) the `R-01` sweep on the 88-dossier list; (3) the Kind Echo shape, an event
 figure for an event the file calls practically impossible, and the layers that disagree (above); (4) the single-clause gaps already listed.
+
+### Fourth turn: another session was writing to this branch (2026-10-05)
+
+Between the third turn and the fourth, three commits by another agent session (same account, trailer
+`Co-authored-by: arena-agent`) were pushed to this branch: `f4c3499` (the gate's row-pipe check made to run on
+dossiers), `5fb6ede` (`R-28`: The Unconsoled `C-IIIγ-248` reclassified non-breaching on its own evidence) and
+`f8e3acc` (the Dawn of Mourning pair resolved). The owner's instruction, given there and repeated here, was to decide
+which Dawn of Mourning is right, delete the wrong one, and do the same for anything else found.
+
+**The decision, confirmed independently here: `C-Vω-001` (애도의 새벽) is the Dawn of Mourning, and `C-Vω-002`
+(애도의 여명) was correctly retired.** The evidence is in `SORROW_ENTITIES_PAIRS_AUDIT.md` §4. Replicated here: the
+M.A.W. registry set, which that audit's §2.1 makes the editorial authority, shares 17.3%, 4.8%, 6.2% and 6.3% of its
+six-word runs (side codex and the three pieces) with `-001`, and 1.5%, 0.0%, 0.2% and 0.6% with `-002`. The two
+dossiers share only 2.3% of their runs with each other: they were independent rewrites of one entity, which is why a
+text-similarity audit could not see them. Every other "Dawn" title in the archive renders it 새벽 (The Shield of Dawn,
+The Trinity of Dawn, The Dawn Initiative, Dawn That Forgot); 여명 is the title of no other file.
+
+**Everything else, re-run here, and nothing more to delete.** English filename, H1 title and Registrum Common Name:
+0 collisions in 301 dossiers. Korean title: one, `솟아오른 거울` on `C-Iα-392` and `N-IIβ-801`, two different entities,
+left for the owner as the audit says. Near names (ratio ≥ 0.88): four pairs, none the same entity (Soaking Shard and
+Shadow, Rising Wall and Well, Weight of Silence and Weighted Silence, Doorway and Door to Nowhere). Of the 191 side
+codices, every Source SECC Designation agrees with its Linked Entity (the Dawn's was the one disagreement); two name
+the Kind Healer progression designations, which differ from their filenames on purpose. Twenty-three groups of
+different entities share a Location, Element and Manifestation, which is a region and not an identity.
+
+**What the retirement made moot.** The third turn's commit `0e0f06c` (a management line, the clock, and two dirty
+lines on `C-Vω-002`). `R-29` is **53 / 301**. The paragraphs above that mention the second Dawn are left as they were
+written.
+
+**A hazard found, and fixed.** After the third turn the sandbox came back at the base commit with my working tree
+as an uncommitted snapshot, while the remote had moved on. The gate's old sync, `git reset --mixed FETCH_HEAD`, moves
+HEAD without the files, so the next `git add -A` would have staged the old files and reverted all three commits, the
+retirement included. The working tree was first verified byte-identical to my last pushed commit (2,269 files, no
+differences) and then synced by hand. `tools/syncbranch.py` now does that check and the sync, and `gate.sh` calls it.
+When two sessions share a branch, fetch before editing and do not trust a working tree that a snapshot restored.
 
 ## Workstream 8 — Breach Balance (`R-28`, done 2026-10-05)
 

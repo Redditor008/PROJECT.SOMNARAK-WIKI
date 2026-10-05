@@ -38,6 +38,9 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **The Dawn of Mourning pair resolved, and a sync hazard closed (2026-10-05)** —
+  - Recorded here because commit `f8e3acc`, made by another agent session at the owner's instruction, did not add an entry. The archive held two dossiers for one entity, `C-Vω-001` (애도의 새벽) and `C-Vω-002` (애도의 여명). `C-Vω-001` is the Dawn of Mourning and `C-Vω-002` was retired, with its gauge (12,000) and several passages carried into the kept file and the rest listed in `SORROW_ENTITIES_PAIRS_AUDIT.md` §4. References were repointed, and the live counts moved: Sorrow dossiers 291 to 290, all dossiers 302 to 301, dispositions 302 to 301. `R-29` is 53 of 301. The decision was re-checked independently in a later turn and stands; the same scan run on every other dossier found no further duplicate.
+  - Added `tools/syncbranch.py`, and `gate.sh` now calls it instead of `git reset --mixed FETCH_HEAD`, which moved HEAD without the files and would have let the next `git add -A` revert another session's commits.
 - **Workstream 9 / `R-29`: four series-only dossiers, and an honest tally (2026-10-05)** —
   - Broken Door, Door to Nowhere, Torn Window and Seething Tundra each failed only the own-series clause and each already kept its record in words. Their Observation Logs now state it in digits; nothing was invented. Seething Tundra's Activation row also lost a repeated fragment after a full stop. `R-29` moved 50 to 54 of 302.
   - Tally, recorded in the work record: since Study 02 the count rose from 43 to 54 across eleven units, of which three are real edits and eight are restatement units; counted without the restatements it is 46. Five dossiers that fail only the series clause are held back until the owner rules on counting number-words in the series test.
