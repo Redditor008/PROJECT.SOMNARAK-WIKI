@@ -369,7 +369,7 @@ Some sorrows mourn the dead. The Hollow Choir mourns the unsaid — the one hund
 **Common Name:** The Hollow Choir
 **Containment Status:** Contained — Zone C amphitheater
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Major (γ). It has never caused a Fracture and has twice transformed the facility into its own instrument, reaching every corridor within earshot at once. The psychological effect is the hazard and it is not reduced by distance, shielding, or seniority. The earlier entry grading it Moderate rested on the absence of Fractures and is corrected here.
+**Threat Assessment:** Major (γ). It has never caused a Fracture and has twice transformed the facility into its own instrument, reaching every corridor within earshot at once. The psychological effect is the hazard and it is not reduced by distance, shielding, or seniority. The grade is Major and not Moderate because an absence of Fractures measures the Choir's restraint and not its hazard: twice it has made the facility its own instrument, and no distance, shielding or seniority limits it.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type and Ferrehan also lowers the gauge; Viderehan holds it level and Pugnahan is prohibited.
 - On the Consolihan the chamber swells and additional personnel are assigned; the listening cap is halved for that watch and is not waivable.
