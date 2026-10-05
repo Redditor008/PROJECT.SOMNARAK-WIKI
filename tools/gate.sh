@@ -21,18 +21,15 @@ case "$BRANCH" in
     exit 1;;
 esac
 
-# R-11: sync with the remote branch first. Local history truncates between
-# turns; the reset is a no-op when history is intact and a repair when it is
-# not. It only ever moves HEAD forward (never drops a local-only commit).
+# R-11: sync with the remote branch first. Local history truncates between turns, the sandbox can
+# be restored from an older snapshot, and another session may have pushed to the same branch.
+# tools/syncbranch.py brings HEAD *and the working tree* level with origin, or refuses and says
+# why. The earlier `git reset --mixed FETCH_HEAD` moved HEAD but not the files, so with the
+# remote ahead the next `git add -A` would have staged the old files and reverted the other
+# session's commits.
 if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
-  git fetch -q origin "$BRANCH" 2>/dev/null
-  if git merge-base --is-ancestor HEAD FETCH_HEAD 2>/dev/null; then
-    git reset -q --mixed FETCH_HEAD
-  else
-    echo "BLOCKED: local HEAD is ahead of, or has diverged from, origin/$BRANCH."
-    echo "Push or reconcile before gating; nothing was committed."
-    exit 1
-  fi
+  python3 tools/syncbranch.py \
+    || { echo "BLOCKED: this checkout is not level with origin/$BRANCH; nothing was committed."; exit 1; }
 fi
 
 fail=0
