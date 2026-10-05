@@ -410,7 +410,7 @@ Some sorrows mourn the past. Broken Clock mourns the future that would not come 
 **Common Name:** Broken Clock
 **Containment Status:** Contained — Alpha Tree deep storage
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Major (γ). It has never escaped and never will, being anchored to its formation instant; it expands, three events are recorded, and it takes lived time from everybody who works it at a rate nobody can measure from inside. Immobility does not lower the grade: it is Major because a thing anchored to its formation instant cannot be outrun, avoided or left behind by anyone who has to work it.
+**Threat Assessment:** Major (γ). It has never escaped and never will, being anchored to its formation instant; it expands, three events are recorded, and it takes lived time from everybody who works it at a rate nobody can measure from inside. Immobility does not lower the grade, because the hazard is not movement: it is the lived time the Clock takes from everybody who works it, at a rate nobody can measure from inside.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type and the only one that lowers the gauge; Viderehan holds it level and is the only route into the loop's structure.
 - Ten minutes of outside time per person per watch, measured by the outside clock, acknowledged aloud at every reading, and never computed from anybody's own sense of the interval.
