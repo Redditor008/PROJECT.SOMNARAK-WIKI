@@ -141,6 +141,8 @@ Dawn of Mourning cannot be worked. It does not respond to Work Types. It does no
 
 Dawn of Mourning operates by rules that no other entity follows. It does not have a containment chamber. It does not respond to work cycles. The only "work" that matters is reaching the twelfth Mourner and convincing them to confess — and that is not a Work Type. It is a choice.
 
+Management: endure without striking, find the twelfth Mourner by observation, and keep that one person alive long enough to confess, because force feeds the Dawn and a twelfth Mourner lost first leaves the city no way to end it.
+
 ## Transformation Chain
 
 | Stage | Entity | Trigger | Result |
@@ -246,26 +248,41 @@ Dawn of Mourning operates by rules that no other entity follows. It does not hav
 | **10 turns survived** | The collar around the Dawn's neck is not decoration. Each name is a person the Kind Healer failed. The collar is the source of the Dawn's power — and its weakness. | The twelfth Mourner must confess. The collar's names are the key. |
 | **Confession initiated** | The twelfth Mourner confesses. Beams of pale light descend from an unknown source above. The light strikes the Dawn with the force of every hope the Hand of Hope ever carried. | Record the confession. Record the light. Record the Dawn's final words. |
 
+### The Clock — Turns 0 to 10
+
+The Breach table raises every holding's Sorrow Gauge by 10% a turn, read here as 10 points, and lets the Crown of Sorrows be deployed every 3 turns; the Mourners wake one turn after the Dawn appears. Laid end to end, those rules give the clock the Confession runs against:
+
+| Turn | Twelve Mourners | Gauge rise on every holding | Crown of Sorrows | Observation table |
+|---|---|---|---|---|
+| 0 | asleep | +0 | not yet | initial manifestation |
+| 1 | awake | +10 | not yet | the Mourners spreading |
+| 3 | awake | +30 | first deployment | 3 turns survived |
+| 6 | awake | +60 | second deployment | no entry |
+| 9 | awake | +90 | third deployment | no entry |
+| 10 | awake | +100 | none | 10 turns survived: the twelfth must confess |
+
+A rise of 100 points is more than any holding has to give, so by turn 10 every holding in the facility is at its limit whatever it began at, and turn 10 is also the first point at which the Observation table says the twelfth Mourner must confess. They are one clock. The 3 deployments of the Crown inside it go, by the file's own order, to the strongest personnel first.
+
 ## 이야기 보고 (Story Log) — Observation Entries
 
 **Entry 1 — <Manifestation>**
 The facility alarms do not sound for the Dawn of Mourning. They simply stop. Every siren, every light, every warning system goes silent — and then the grief arrives. It does not come from the Dawn. It comes from everywhere. Every citizen in every zone feels it simultaneously: a weight, a coldness, a sorrow so total it is indistinguishable from gravity. And then the Dawn is there, standing in the center of the facility, its five pairs of tear-wings extended, its crown of sorrows turning slowly above its head.
 
-**Entry 2 — <The Mourners>
-The twelve Mournners do not walk. They appear — one in each zone, standing where the blessed personnel once stood. Their eyes are wells. Their hands reach outward. And from their hands, sorrow radiates in concentric rings, each ring a different color: blue, red, white, black. Anyone caught in the rings begins to Fracture.
+**Entry 2 — <The Mourners>**
+The twelve Mourners do not walk. They appear — one in each zone, standing where the blessed personnel once stood. Their eyes are wells. Their hands reach outward. And from their hands, sorrow radiates in concentric rings, each ring a different color: blue, red, white, black. Anyone caught in the rings begins to Fracture.
 
-**Entry 3 — <The Collar>
+**Entry 3 — <The Collar>**
 The Dawn stands motionless for a long time. It does not attack. It does not speak. It simply exists, radiating grief, and the grief does the work. Then, slowly, it reaches up and touches its collar. It reads the names. All 3,000 of them. And as it reads, each name is spoken aloud — not by the Dawn, but by the city itself. The walls speak the names. The floor speaks the names. The air speaks the names.
 
-**Entry 4 — <The Twelfth>
+**Entry 4 — <The Twelfth>**
 The twelfth Mourner is different from the others. The twelfth remembers. The twelfth knows what they were before — before the blessing, before the chain, before the corruption. The twelfth still carries, deep inside, the warmth of the blessing they received. It is small. It is almost gone. But it is there. And it is the only thing in the city that the Dawn cannot reach.
 
-**Entry 5 — <Confession>
+**Entry 5 — <Confession>**
 The twelfth Mourner confesses. Not to the Dawn — to themselves. They acknowledge their sorrow, fully, without the Dawn's corruption. And the confession is not words. It is a feeling: the warmth of the blessing, remembered. And in that warmth, the Dawn sees the Hand of Hope — its mirror, its other self, the version of itself that succeeded — reaching across realities. The beams of pale light that descend are not punishment. They are the Hand of Hope, finally completing the chain the Dawn interrupted.
 
 ## 최종 관찰 (Final Observation)
 
-> *A choice presented to the observing worker at the climax of contact.*
+> *Confess, and the city lives and you do not; refuse, and you live and the city does not.*
 
 Dawn of Mourning does not offer a choice. It simply is. The choice belongs to the twelfth Mourner: confess and end the Dawn, or refuse and let the city drown. One path saves the city and kills the Mourner. The other saves the Mourner and loses the city. There is no third option. The chain was designed this way — two outcomes, hope and sorrow, and the difference is one person's choice in one moment of one day.
 
@@ -330,7 +347,7 @@ This is the healer who could not save herself. And this — all of this — is w
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The Dawn's behavior, Confession Protocol, Mourner interactions, and transformation chain must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The file holds one decision, and every other line exists to reach it. The twelfth Mourner is the one person who still carries the warmth the Dawn cannot reach, force only makes the Dawn larger, and the confession that ends it kills the one who gives it. The Combat Record says how quickly the facility is lost, the clock in the Observation Log says how many turns remain to find that person, and the chain chapters of the Sovereign Chronicle say why there is no earlier place to intervene, since every attempt to stop the ascent has accelerated it. What the Dawn has actually done, in losses and in dates, is filed under the historical Dawn; this record is its companion, and the two are meant to be read as a pair.
 
 **Review requirement:** Recheck the Kind Healer's blessing count, the Apostle Maker's conversion progress, and the city's overall sorrow index after every chain event, unusual interaction, or Hope Bearer activation.
 
