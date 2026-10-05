@@ -232,7 +232,7 @@ The planetary hoops spin along multiple axes with zero friction, warping backgro
 
 **Cost:** The wielder experiences the weight of every sentence delivered.
 
-*Stigmas are granted at random by The Convergence upon a successful work, not manufactured.*
+*None, and none is expected. A Stigma comes from a source to a worker who has completed a cycle with it; nothing has ever completed a cycle with this one, and the thirty-six seconds on record were spent taking it apart.*
 
 ### M.A.W. Use Notes
 
@@ -280,7 +280,7 @@ There is no extension of this entity, because nothing has been taken from it. Th
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Convergence (C-Vδ-010 [WS]) is logged as a Subject-Body — fusion of the Three Birds manifestation expressing Weight. The Convergence is not born from one sorrow. It is the completed shape of witnessing, judgment, and protection without mercy. Held at Forms only when Entities 031–033 breach simultaneously. Formed exactly seven times in recorded history before the current cycle.
+The Convergence is what the Observing, Weighting and Guarding Birds become if all three are active at once: one mask, wings layered over wings, markings braided blue, crimson and white. It has existed three times, for a total of thirty-six seconds, and each time three teams pulled it apart against a twelve-second clock.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
 Floats through the facility, judging and sentencing. Personnel experience the full weight of their accumulated sorrow and karmic debt. Each formation caused catastrophic facility losses.
