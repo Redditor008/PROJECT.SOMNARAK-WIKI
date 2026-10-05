@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per cycle, collected in a public room during ordinary hours. The Commons station bills nothing for it and has never been able to explain the cycle to the energy office in a way that sounds like work. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | α — Memorial-Bell, Mantle and Weight all graded |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.30 m/s |
-| **Resistance** | 20% against Weight pressure; 10% against other pressure types |
+| **Resistance** | 20% against Weight. There is nothing present to resist; the holding is the quiet in a room where people used to talk, and the only equipment the station issues for it is a chair and somebody willing to sit in it. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 207/207 |
 | **Han Pressure [ATK]** | 3–10 per hit · Weight |
@@ -81,21 +81,21 @@
 | { *The Unspoken* [**Debuff**] } | "Everything you never said gathers in your chest — and it weighs more than you do." | [The silence accrues; unspoken words become physical mass.] | *Target suffers -10 Resolve; the unsaid things are crushing.* **[10 Weight DMG [Weight]]** | When the target holds their tongue. |
 | { *The Loaded Pause* [**Debuff**] } | "The silence stretches — and with every second, it gets heavier." | [The silence compounds; each moment adds weight.] | *Target loses 10 Resolve; the pause is an anvil.* **[10 Weight DMG [Weight]]** | When the target fails to break the silence. |
 | { *The Dropped Word* [**Attack**] } | "One word, finally spoken — and it hits like a stone dropped from a height." | [A released word strikes with all its accumulated mass.] | *Inflicts Weight pressure and one heavy, blunt wound.* **[14-22 Weight DMG [Weight]]** | When the silence is broken. |
-| { *The Full Confession* [**Attack**] } | "Everything you ever held back — spoken at once, at full weight." | [The entire accumulated silence is released as a crushing wave.] | *A heavy Black avalanche; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the silence is forced. |
-| { *The Silent Mountain* [**Ultimate**] } | "The silence becomes a mountain — and it sits on everyone at once." | [The Weight extends its silence across the whole field.] | *All personnel suffer Weight pressure for three turns under the unsaid.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Confession* [**Attack**] } | "Everything a person held back comes out at once, at the weight it was held at." | [The accumulated silence of one person discharges in a single unstoppable telling.] | *Heavy Weight to the speaker and to everybody in the room; nine occurrences, and in all nine the speaker was accurate, unstoppable and afterwards ashamed.* **[Weight DMG [Weight]]** | When somebody is asked a direct question they have been avoiding. |
+| { *The Silent Mountain* [**Ultimate**] } | "The quiet becomes a weight and sits on the whole Commons at once." | [The silence generalises; nobody in the district can begin a sentence.] | *Weight erosion across the Commons for three cycles.* **[Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, twice, both in the fortnight after a consultation closed without a reply being published. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The Warden takes the chair in the Commons during ordinary hours, says good morning to whoever is there, and does nothing else. The room is not cleared and the public is not moved; that is the entire setup and it took three years to get it agreed.
 2. **Clash:** Speech is offered and never required. A worker may stop mid-sentence and the cycle still counts; a worker who is pressed to finish raises the gauge, which is the one reliable way to lose this encounter.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Allow safe speech; do not force a confession**.
+3. **Resolution:** Somebody says something ordinary and unprompted and the gauge falls four to nine points. 211 cycles; the median time to the first unprompted sentence is nineteen minutes and the longest on record is the whole shift.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resolve**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Weight of Silence’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Weight of Silence executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- The failure here is asking. A direct question to somebody who is clearly holding something produces a Full Confession, accurate and total, and all nine on record were asked kindly by people trying to help.
+- Past about an hour the Warden stops making small talk themselves, which is the thing the chair exists to prevent. The second Warden's only task is to notice the Warden going quiet.
+- The set's price is speech: wielders speak less, in measurable amounts, and all three have had the reduction pointed out to them by somebody at home rather than at work.
+- An unattended week leaves the room quieter. The station measures it crudely and honestly — words spoken per hour by members of the public, counted by hand — and the figure has fallen in every week the chair went unfilled.
 
 ## Appearance
 **Primary Form:** An invisible pressure that appears as a dark outline around people who have stopped speaking.
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Weight of Silence is recorded as a Subject with Subject-Weight manifestation and Weight elemental expression. The current record places it at Zone D, Mantle Commons — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Work Type table reads as usual and the number the station keeps is words per hour, counted by hand by whoever has the chair. Eleven years of counts: the figure falls in weeks when a consultation closes without a published reply, and recovers in weeks when the district answers anything at all. The gauge follows the count with a lag of about three days.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A falling gauge means somebody in the room said something they did not have to. It rises on unanswered consultations, on notices that invite comment and give no address, and on the chair being empty.
 ## Breach Behavior
 
 > *"The outline is on eleven people in the Commons at once and the room has gone quiet. Nothing is coming for anybody. That is the problem."*
@@ -163,7 +163,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 - **Breach type:** Transform. It does not change shape — it has none; it changes what the room is, from a place where people are quiet into a place where speaking is impossible.
 - **Containment priority:** Get ordinary conversation going in the room. Any subject. Do not clear the Commons, do not ask anybody what they are holding, and do not stop anybody leaving.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% a turn while the Commons stays quiet. Ordinary unrelated conversation in the room has flattened it on each occasion it has been tried, which is the whole of the suppression doctrine here.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% a turn while the Commons stays quiet. Ordinary unrelated conversation in the room flattens it, which is the only intervention on record and is not performed by the wing.
 
 ## M.A.W. Equipment
 
@@ -183,15 +183,15 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Weight of Silence's weight signature in the strike.
+**Ability:** Weight against the Han. Struck targets cannot finish a sentence for some minutes — they start, stop, and do not try again — and the fourteen on file all described the experience as familiar.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder speaks less. The Armoury counts words at issue and at return and the reduction has run between a fifth and a half.
 
 ### M.A.W. Suit — The Silence Mantle
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a heavy draped mantle that muffles the wearer's own footsteps and nothing else in the room, which the Armoury has confirmed by walking two people down a corridor.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -201,15 +201,15 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Weight of Silence's kind of pressure.
+**Ability:** Resistance to Weight against the Han, and the reason a Warden can hold the chair for a full shift without going quiet themselves.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** A constant low fatigue, and the habit of letting other people finish first — always, including when they are wrong.
 
 ### M.A.W. Stigma — The Silence Weight
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Weight
 
-**Appearance:** a weight-token of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a warm steel token the size of a thumbnail that is heavier in a quiet room than in a loud one, which the Armoury has measured on a bench scale with the door open and shut.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -223,18 +223,18 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Weight of Silence's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Every piece is made of things people did not say, and the set quietly takes its wielder's speech in payment. Nobody notices at work, where listening is a virtue. All three wielders were told at home. The Armoury's check is a word count at issue and return, which is crude, and the only measure that has ever caught it.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the week's words-per-hour count, and a timed two-minute sample of the wielder talking about their day, recorded. |
+| **During use** | Occasions on which the wielder had something to say and did not say it, as reported by the second Warden rather than by them. |
+| **At limit** | The wielder goes a full shift without speaking unprompted. Twice; both times the wielder gave a competent written report afterwards. |
+| **After use** | Repeat the two-minute sample and compare the word count. The reduction recovers over about a fortnight and has recovered fully in two of three wielders. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade measures extraction stability and has no column for a person who stops talking. Authorise on the two-minute sample, which costs four minutes and has caught what nothing else did.
 
 ## 관찰 기록 (Observation Log)
 
@@ -281,9 +281,9 @@ Weight of Silence is ambient and has no body. It settles on whoever in the Commo
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Weight of Silence; the other feeds it.
+> The choice arrives when somebody in the room is plainly holding something and is waiting to be asked.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Say something ordinary about the weather and leave the door open. | Ask them what is wrong. |
 |---|---|
 | Pressure eases when tears accompany speech. The sorrow is borne; Weight of Silence is fully recorded. | Weight presses harder against the chest. The gauge climbs and Weight of Silence withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -304,7 +304,7 @@ The room goes heavy around your mouth. The words are there and they will not com
 
 ### Interaction Pattern
 
-Weight of Silence does not exist in isolation. Its recorded relationships with The Silent Child, The Forgotten Silence, The Hollow Echo should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relations, all of them things that were not said, and all measured on words per hour. Two lowered the count. The third — the only one that raised it — did so by being noisy, which the station notes is not the same as being answered.
 
 **Interaction method:** Outline counts before, during and after, taken by the same Warden with the same consent arrangements. Pairings are observed in the Commons and never in a closed room, because a closed room is itself an intervention here.
 
@@ -313,7 +313,7 @@ Weight of Silence does not exist in isolation. Its recorded relationships with T
 
 Weight of Silence must be kept distinct from the other quiet holdings. The Forgotten Silence is a silence nobody remembers requesting; the Silent Child is a voice that was never permitted; this one is a silence everybody chose, separately, out of care, and it is the only one of the three that lifts when an unrelated person simply starts talking.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What it is | What the word count did | Required record |
 |---|---|---|---|
 | **The Silent Child** | A voice never permitted, against a silence freely chosen. The two are opposites and the counts behave as if they were the same thing. | Outline counts rise in both directions and the glow appears at doorways neither entity is near. | Counts at both holdings, timed together, with the doorway glows logged separately. |
 | **The Forgotten Silence** | That one is a quiet nobody can remember agreeing to; this one is a quiet everybody chose. Where both are present the outlined cannot say which they are carrying. | Counts hold steady; self-reports become unusable, which is the recorded finding. | The affected person's own words, transcribed, with no attempt to resolve them. |
@@ -364,9 +364,9 @@ The rule is right and this file would not have it changed. The weight is what be
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This holding is the quiet left in a public room by consultations that closed without a reply. It is measured in words per hour counted by hand, it falls when the district asks for comment and gives no address to send it to, and it recovers when anybody answers anything. The wing's entire containment is a chair in the Commons with a Warden in it who says good morning and does not ask questions. Nine Full Confessions in eleven years, every one of them caused by somebody kind asking what was wrong.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every cycle: words per hour, the time to the first unprompted sentence, whether the chair was filled all week, and every consultation closed in the district with whether a reply was published. The last field is obtained from the district office and has been refused twice.
 ## Watch Record
 
 ### A Dark Outline
@@ -399,7 +399,7 @@ Authorised Year 4235. A crew may push exactly one sentence out of the room: a ha
 
 The cost falls on the engineers. A sentence with no author cannot be asked a follow-up question, and roughly six hundred notes a year are unactionable for want of a detail that one short conversation would supply. The rule forbids the conversation: an engineer who went down to the floor to find an author, meaning nothing but good by it, was moved off the district within the month, correctly.
 
-The Engineering Office asked for a reply channel — an anonymous one, a box, anything that would let a question go back. It was refused, on the ground that a channel which can carry a question can carry an identification, and that any correspondence long enough to be useful is long enough to name its author. The refusal is correct. The office's objection — that the scheme now produces six hundred sentences a year which are known to be true, cannot be understood, and must be filed unread — stands in the scheme's first volume, recorded as correct and unanswered.
+The Engineering Office asked for a reply channel — anonymous, a box, anything that would let a question go back the other way. Refused, on the ground that a channel the office cannot answer within its service standard is worse than no channel. The minute records the reasoning as sound, the consequence as this holding, and the request as outstanding for six years.
 
 ### A Family That Said Nothing
 
