@@ -233,10 +233,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Protest No One Remembers the recorded cost is that the wielder loses small memories with each use, and specifically spoken ones: what was agreed in a conversation, who said which part of it, whether th. |
+| **During use** | Watch for Protest No One Remembers's toll — the wielder loses small memories with each use, and specifically spoken ones: what was agreed in a conversation, who said which part of it, whether th — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wearer feels faintly absent to themselves, and others overlook them — not deliberately, but in the way a room overlooks someone who has not spoken, and the wielder has stopped reporting it — the usual end point for a Protest No One Remembers piece. The observer calls the limit. |
+| **After use** | Return the piece and check the sealed baseline: has Protest No One Remembers's cost — the wearer feels faintly absent to themselves, and others overlook them — not deliberately, but in the way a room overlooks someone who has not spoken — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** The rating measures what a piece does to entities and never what it does to the wielder. A γ-grade item from this source can perform exactly to specification and leave its user unable to make themselves believed, which no column in the equipment table records and which shows up first as a performance concern raised by a supervisor. Read the grade and the charge together, authorise on the charge, and treat a sudden reputation for unreliability as equipment data.
 ## 관찰 기록 (Observation Log)

@@ -240,10 +240,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from The Debt Eater the recorded cost is that the wielder loses small, nameless memories with each use. |
+| **During use** | Watch for The Debt Eater's toll — the wielder loses small, nameless memories with each use — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wielder no longer notices The Debt Eater's toll — the wearer feels faintly absent to themselves — which is how every stand-down on this set has been caught. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether The Debt Eater's cost is still showing — the wearer feels faintly absent to themselves. |
 
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

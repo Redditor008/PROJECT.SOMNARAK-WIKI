@@ -251,10 +251,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, First Tear's toll being that the wielder carries the first grief and weeps involuntarily. Three authorised uses exist in the archive and all three bearers were retired from field . |
+| **During use** | Watch for First Tear's toll — the wielder carries the first grief and weeps involuntarily. Three authorised uses exist in the archive and all three bearers were retired from field  — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wielder no longer notices First Tear's toll — the wearer goes numb to small pleasures, and the numbness is slower to lift than with any other shroud on issue — the medical office budgets a fortnig — which is how every stand-down on this set has been caught. |
+| **After use** | Return, reconcile the baseline, and record whether First Tear's toll has reversed: the wearer goes numb to small pleasures, and the numbness is slower to lift than with any other shroud on issue — the medical office budgets a fortnig. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** The grade tells you how hard a piece hits, which on this post is irrelevant — nothing here is struck. What the table cannot show is that the observation rota is the longest continuous duty in the facility, that it is worked by two people a night, and that the second person exists solely so that the figure is witnessed.
 

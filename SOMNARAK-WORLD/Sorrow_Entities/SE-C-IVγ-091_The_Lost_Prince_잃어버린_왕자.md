@@ -240,10 +240,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against The Lost Prince's known toll: the wielder carries his unwept grief and weeps involuntarily, most often while writing a handover note. Opened at the end of the rotation, not before. |
+| **During use** | Watch for The Lost Prince's toll — the wielder carries his unwept grief and weeps involuntarily, most often while writing a handover note — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wearer goes numb to small pleasures, and reports children's voices elsewhere in the facility as unusually loud, without remission. On a The Lost Prince piece the use ends there whatever the wielder says. |
+| **After use** | Piece returned; re-assess a week later, because what The Lost Prince takes (the wearer goes numb to small pleasures, and reports children's voices elsewhere in the facility as unusually loud) does not present on the day. |
 
 **Stat interpretation:** Grade is not safety. What the table cannot show is that bearers of the crown of tears write unusually long handover notes and are, by the medical office's count, the least likely group in the facility to accept a transfer without working their full notice.
 ## 관찰 기록 (Observation Log)

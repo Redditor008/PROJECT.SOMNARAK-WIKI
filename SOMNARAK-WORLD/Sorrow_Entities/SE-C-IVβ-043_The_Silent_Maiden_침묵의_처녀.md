@@ -240,10 +240,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what The Silent Maiden takes: the wielder loses small, nameless memories with each use. |
+| **During use** | Every occurrence of what The Silent Maiden takes (the wielder loses small, nameless memories with each use), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | The wearer feels faintly absent to themselves, without remission. On a The Silent Maiden piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece and check the sealed baseline: has The Silent Maiden's cost — the wearer feels faintly absent to themselves — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -347,9 +347,9 @@ The silence crystallized. The grief of the third child — the grief of absence,
 
 The Silent Maiden is the cruelest of the three, because her sorrow is the quietest. Illness is tragic. Violence is outrageous. Neglect is neither — it is simply the absence of attention, and the absence of attention, sustained long enough, erases a person as thoroughly as a fever or a knife, and leaves no wound to point to, no villain to blame. The Silent Maiden is the figure of that erasure: the child who was there, and was not seen, and became, in the not-seeing, a silence that walks.
 
-The three sisters are kept together. The mother visits. And the The Silent Maiden, when her mother sits beside her, becomes — for a moment — visible. The mother, finally, sees her. And the seeing, brief and belated, is the only acknowledgment the third child ever received.
+The three sisters are kept together. The mother visits. And the Silent Maiden, when her mother sits beside her, becomes — for a moment — visible. The mother, finally, sees her. And the seeing, brief and belated, is the only acknowledgment the third child ever received.
 
-Those who come near the The Silent Maiden feel the grief of presence ignored — the particular anguish of being there and mattering to no one, of speaking into a silence that swallows every word.
+Those who come near the Silent Maiden feel the grief of presence ignored — the particular anguish of being there and mattering to no one, of speaking into a silence that swallows every word.
 
 Some sorrows mourn death. The Silent Maiden mourns invisibility — the child who did not die but was not seen, preserved now as a silence that walks, waiting, still, for the one glance that, in life, she never received.
 ## 증언 (Testimonium) — The Testimony
@@ -360,7 +360,7 @@ Some sorrows mourn death. The Silent Maiden mourns invisibility — the child wh
 
 > *“I felt the anguish of being present and mattering to no one.”* — Citizen, Zone C
 
-> *“When her mother visits, the The Silent Maiden becomes, for a moment, visible. The seeing is brief and belated.”* — Containment Lead, R.D.
+> *“When her mother visits, the Silent Maiden becomes, for a moment, visible. The seeing is brief and belated.”* — Containment Lead, R.D.
 
 > *“Neglect erases as thoroughly as a knife. The Silent Maiden is the proof.”* — Mender, Zone C
 ## 기록 (Registrum) — The Record

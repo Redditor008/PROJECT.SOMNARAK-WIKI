@@ -278,10 +278,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, The Empty Mask's toll being that the wielder feels progressively heavier. |
+| **During use** | The first sign that The Empty Mask is charging: the wielder feels progressively heavier. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The Empty Mask's cost is continuous rather than occasional: the wearer carries a constant low fatigue. The second worker's call stands against the wielder's. |
+| **After use** | Return, reconcile the baseline, and record whether The Empty Mask's toll has reversed: the wearer carries a constant low fatigue. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

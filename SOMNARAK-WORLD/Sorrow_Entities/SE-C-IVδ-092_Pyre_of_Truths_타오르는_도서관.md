@@ -252,10 +252,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Pyre of Truths's toll being that the wielder's old scars and burn marks ache. |
+| **During use** | Every occurrence of what Pyre of Truths takes (the wielder's old scars and burn marks ache), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | The wearer's reflexes dull, as if armored by resentment, without remission. On a Pyre of Truths piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Pyre of Truths's cost is still showing — the wearer's reflexes dull, as if armored by resentment. |
 
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

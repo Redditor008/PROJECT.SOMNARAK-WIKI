@@ -233,10 +233,10 @@ Each piece is a conditional extension of the Flame rather than ordinary equipmen
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from The Wrath Flame the recorded cost is that old wounds ache first — the ones long healed, in the order they were received — and faint bruising rises along the same lines. |
+| **During use** | Watch for The Wrath Flame's toll — old wounds ache first — the ones long healed, in the order they were received — and faint bruising rises along the same lines — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The Wrath Flame's cost is continuous rather than occasional: reflexes slow. The wearer answers a half-second late and remains certain they answered at once. The second worker's call stands against the wielder's. |
+| **After use** | Return, reconcile the baseline, and record whether The Wrath Flame's toll has reversed: reflexes slow. The wearer answers a half-second late and remains certain they answered at once. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** The grade tells you what the censer does to the Flame. It tells you nothing about what the ember does to the wearer, which is to put anger on the face at the moment it is least useful. The grade is the cheaper half of the reading.
 ## 관찰 기록 (Observation Log)
@@ -334,7 +334,7 @@ The fury condensed. The un-mourned anger of the Occlusihan's dead, denied the re
 
 The Flame does not spread. It burns, contained, at the Scar — a pillar of crimson fire that has not diminished in four thousand years, because the fuel — the fury — is not consumed by the burning. The anger feeds the fire, and the fire does not reduce the anger, and the two sustain each other in a perpetual combustion that will not end until the dead are mourned, and the dead, unmournable, will never be mourned, and the fire, therefore, will never go out.
 
-Those who come near the The Wrath Flame feel the specific fury of the un-grieved — the concentrated rage of soldiers who died unmourned, the anger that has burned since the war ended and that will burn, at the Scar, for as long as the dead remain unacknowledged.
+Those who come near the Wrath Flame feel the specific fury of the un-grieved — the concentrated rage of soldiers who died unmourned, the anger that has burned since the war ended and that will burn, at the Scar, for as long as the dead remain unacknowledged.
 
 Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourned fury, the condensed rage, the fire at the Scar that burns because the soldiers were never grieved and the grief, denied, became flame.
 ## 증언 (Testimonium) — The Testimony

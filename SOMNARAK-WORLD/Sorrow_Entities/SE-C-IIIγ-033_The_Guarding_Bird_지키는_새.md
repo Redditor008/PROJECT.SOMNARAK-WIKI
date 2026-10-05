@@ -341,7 +341,7 @@ This is a particular madness, and a particular grief. The defenders fought for s
 
 The defenders' sorrow sank with the market's ashes, and the Weeping gave it wings. The Guarding Bird formed — third of the Three, Void-element, the pale one. It does not guard anything now. There is nothing in its containment to guard. And yet it guards — pacing, wings half-spread, positioned always between the door and an imaginary threat, faithful to a duty whose object burned in the year two thousand eight hundred and forty-seven and was never rebuilt.
 
-Contained with the Three, the The Guarding Bird is the most restless — the one that cannot settle, because the guarding has no end and never had one. Those who work with it feel, briefly, the ache of loyalty outliving its purpose — the exhaustion of the soldier still at his post, the parent still hovering over a child long grown, the defender still shielding a thing that is already gone.
+Contained with the Three, the Guarding Bird is the most restless — the one that cannot settle, because the guarding has no end and never had one. Those who work with it feel, briefly, the ache of loyalty outliving its purpose — the exhaustion of the soldier still at his post, the parent still hovering over a child long grown, the defender still shielding a thing that is already gone.
 
 Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would not end — the faithful, empty guarding of a door that opens onto ash, kept for centuries by a heart that never learned the lost thing was already gone.
 ## 증언 (Testimonium) — The Testimony
@@ -354,7 +354,7 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 
 > *“The most restless of the Three. It cannot settle, because the guarding has no end.”* — Researcher, R.D.
 
-> *“Loyalty without purpose. That is the The Guarding Bird.”* — Elder, Forgotten Market District
+> *“Loyalty without purpose. That is the Guarding Bird.”* — Elder, Forgotten Market District
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `C-IIIγ-033 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Subject-Body manifestation

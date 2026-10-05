@@ -232,10 +232,10 @@ Each piece is a conditional extension of Gavel rather than ordinary equipment, a
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Gavel the recorded cost is that the wielder feels the judgment of every person they condemn. |
+| **During use** | The first sign that Gavel is charging: the wielder feels the judgment of every person they condemn. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | Gavel's cost is continuous rather than occasional: reflexes dull, and the wearer becomes slow to withdraw a statement — which in this chamber costs more than the slowness itself. The second worker's call stands against the wielder's. |
+| **After use** | Return the piece and check the sealed baseline: has Gavel's cost — reflexes dull, and the wearer becomes slow to withdraw a statement — which in this chamber costs more than the slowness itself — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Field performance and human cost are separate axes, and the separation is wide here. The verdict and the plate both perform. What the grades cannot show is that the charm, which has no combat value, is held by most of the personnel who have since submitted complaints about their own supervisors, and that every one of those complaints was upheld.
 ## 관찰 기록 (Observation Log)

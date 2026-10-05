@@ -236,10 +236,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Calling Bloom's known toll: the wielder is visited, unbidden, by the faces of everyone they failed to comfort. Opened at the end of the rotation, not before. |
+| **During use** | The first sign that Calling Bloom is charging: the wielder is visited, unbidden, by the faces of everyone they failed to comfort. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up, without remission. On a Calling Bloom piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece and check the sealed baseline: has Calling Bloom's cost — the wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Murmur Vine performs reliably yet can leave the wielder answering voices that are not there for days afterward.
 

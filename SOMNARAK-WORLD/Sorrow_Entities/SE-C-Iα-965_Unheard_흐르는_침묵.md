@@ -227,10 +227,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Unheard the recorded cost is that the wielder's old wounds ache. |
+| **During use** | The first sign that Unheard is charging: the wielder's old wounds ache. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer's reflexes dull, as if armored by resentment, and the wielder has stopped reporting it — the usual end point for a Unheard piece. The observer calls the limit. |
+| **After use** | Piece returned; re-assess a week later, because what Unheard takes (the wearer's reflexes dull, as if armored by resentment) does not present on the day. |
 
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 

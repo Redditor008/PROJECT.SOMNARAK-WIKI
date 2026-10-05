@@ -262,10 +262,10 @@ Each piece is a conditional extension of Perennial rather than ordinary equipmen
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Perennial's known toll: the wielder grows progressively heavier and ages slightly, in the way the ground here has aged: by rounds of being left. Opened at the end of the rotation, not before. |
+| **During use** | Watch for Perennial's toll — the wielder grows progressively heavier and ages slightly, in the way the ground here has aged: by rounds of being left — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | Perennial's cost is continuous rather than occasional: the wearer carries a constant low fatigue. The second worker's call stands against the wielder's. |
+| **After use** | Return, reconcile the baseline, and record whether Perennial's toll has reversed: the wearer carries a constant low fatigue. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Field performance and human cost are separate axes and diverge sharply here. The maul performs and the mantle holds. What the grades cannot show is that the petal, which has no combat value at all, is the piece that has ended careers — its wearers keep returning to postings they were released from.
 ## 관찰 기록 (Observation Log)

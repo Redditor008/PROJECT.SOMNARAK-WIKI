@@ -267,10 +267,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Broken Clocktower's known toll: the wielder feels progressively heavier. Opened at the end of the rotation, not before. |
+| **During use** | The first sign that Broken Clocktower is charging: the wielder feels progressively heavier. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | Broken Clocktower's cost is continuous rather than occasional: the wearer carries a constant low fatigue. The second worker's call stands against the wielder's. |
+| **After use** | Piece returned; re-assess a week later, because what Broken Clocktower takes (the wearer carries a constant low fatigue) does not present on the day. |
 
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 

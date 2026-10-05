@@ -233,10 +233,10 @@ Each piece remains part of the Sigh, and the set is unusually benign in operatio
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Survivors' Breath takes: each strike takes something small and unlabelled: a shift that was worked, a conversation in a corridor, the hour at which something was decided. Noth. |
+| **During use** | The first sign that Survivors' Breath is charging: each strike takes something small and unlabelled: a shift that was worked, a conversation in a corridor, the hour at which something was decided. Noth. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wielder no longer notices Survivors' Breath's toll — the veil keeps the self intact by holding it a little away from the body. Wearers report that their own breathing starts to sound like someone else's  — which is how every stand-down on this set has been caught. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Survivors' Breath's cost is still showing — the veil keeps the self intact by holding it a little away from the body. Wearers report that their own breathing starts to sound like someone else's . |
 
 **Stat interpretation:** The δ grades are high and accurately earned. What no column records is that this set's costs all fall due after the engagement rather than during it, which makes them invisible in exactly the reports the facility uses to assess equipment. Read the Cost lines as the specification, and ask the wearer about the following day rather than the cycle.
 ## 관찰 기록 (Observation Log)

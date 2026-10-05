@@ -278,10 +278,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Rem takes: the wearer experiences occasional microsleep episodes while resting. |
+| **During use** | Rem charging, which presents as this: the wearer experiences occasional microsleep episodes while resting. The wielder's own account is taken separately and afterwards. |
+| **At limit** | Rem's cost is continuous rather than occasional: the floating orb casts faint violet reflections in mirrors even in total darkness. The second worker's call stands against the wielder's. |
+| **After use** | Piece returned; re-assess a week later, because what Rem takes (the floating orb casts faint violet reflections in mirrors even in total darkness) does not present on the day. |
 
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

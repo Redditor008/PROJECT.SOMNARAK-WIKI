@@ -227,10 +227,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Torn Flower's known toll: the wielder's touch harms people they love. Opened at the end of the rotation, not before. |
+| **During use** | The first sign that Torn Flower is charging: the wielder's touch harms people they love. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer's reflexes dull, as if armored by resentment, and the wielder has stopped reporting it — the usual end point for a Torn Flower piece. The observer calls the limit. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Torn Flower's cost is still showing — the wearer's reflexes dull, as if armored by resentment. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 

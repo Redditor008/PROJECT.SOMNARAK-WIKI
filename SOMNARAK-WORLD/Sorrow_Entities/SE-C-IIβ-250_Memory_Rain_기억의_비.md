@@ -241,10 +241,10 @@ Each piece in this set is drawn from standing water under separate authorisation
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Memory Rain's known toll: the wielder feels the entity's unwept grief. Opened at the end of the rotation, not before. |
+| **During use** | The first sign that Memory Rain is charging: the wielder feels the entity's unwept grief. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The umbrella fills with memories that must later be processed, without remission. On a Memory Rain piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece and check the sealed baseline: has Memory Rain's cost — the umbrella fills with memories that must later be processed — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 

@@ -244,10 +244,10 @@ The set is drawn from the vault's fittings and the cold of the shape rather than
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Memorial Flame Mid-Ceremony takes: the wielder feels the entity's unwept grief. |
+| **During use** | Watch for Memorial Flame Mid-Ceremony's toll — the wielder feels the entity's unwept grief — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | Memorial Flame Mid-Ceremony's cost is continuous rather than occasional: the wearer becomes numb to minor joys. The second worker's call stands against the wielder's. |
+| **After use** | Return the piece and check the sealed baseline: has Memorial Flame Mid-Ceremony's cost — the wearer becomes numb to minor joys — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

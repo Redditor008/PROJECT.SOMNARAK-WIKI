@@ -233,10 +233,10 @@ Each piece remains part of the wall, and the set is organised around a single bi
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Welcome Haven's known toll: old injuries ache and faint bruising rises along the lines of them. Nothing new is broken. Opened at the end of the rotation, not before. |
+| **During use** | Watch for Welcome Haven's toll — old injuries ache and faint bruising rises along the lines of them. Nothing new is broken — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The shield remembers every person it failed to protect, and the wielder has stopped reporting it — the usual end point for a Welcome Haven piece. The observer calls the limit. |
+| **After use** | Return the piece and check the sealed baseline: has Welcome Haven's cost — the shield remembers every person it failed to protect — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** The δ grades are high and honestly earned — ten to fifteen damage, a one-use absorption, a +3 Stigma. The sheet nonetheless omits the governing fact about this set, which is that its protective item has a quantity of one. Read the Cost lines as the specification and treat the Broken Barrier's resistance table as describing the state of the plate rather than the state of the wearer.
 ## 관찰 기록 (Observation Log)

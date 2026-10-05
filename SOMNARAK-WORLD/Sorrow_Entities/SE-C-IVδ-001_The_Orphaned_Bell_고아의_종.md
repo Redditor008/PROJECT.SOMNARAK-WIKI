@@ -342,10 +342,10 @@ The set is drawn from the bell's crystal and the tower's corroded fittings, and 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from The Orphaned Bell the recorded cost is that the wielder feels the entity's unwept grief. |
+| **During use** | The first sign that The Orphaned Bell is charging: the wielder feels the entity's unwept grief. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer becomes numb to minor joys, without remission. On a The Orphaned Bell piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether The Orphaned Bell's cost is still showing — the wearer becomes numb to minor joys. |
 
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -448,7 +448,7 @@ They were not found. The expansion continued. The children did not come back. An
 
 The Orphaned Bell is that bell. Object-Lament, the first sorrow the R.D. ever catalogued: a bell that tolls, at midnight, for the children the expansion swallowed. Its sound is not loud. It is heavy — the weight of every search that ended without finding, every name called into a dark that did not answer, every parent who walked the new streets calling for a child who was already part of the city's foundations.
 
-Those who hear the The Orphaned Bell feel, in its tolling, the specific grief of a parent's search that fails — the particular, unbearable sorrow of looking for a child and finding nothing, of calling a name and hearing only the city's silence, of knowing that the expansion that was supposed to house the living has, instead, consumed them.
+Those who hear the Orphaned Bell feel, in its tolling, the specific grief of a parent's search that fails — the particular, unbearable sorrow of looking for a child and finding nothing, of calling a name and hearing only the city's silence, of knowing that the expansion that was supposed to house the living has, instead, consumed them.
 
 The Bell tolls at midnight. The Bell has tolled at midnight for as long as anyone can remember. It will toll at midnight when the last parent who remembers a lost child is themselves forgotten, because the grief it holds does not end. It only tolls.
 

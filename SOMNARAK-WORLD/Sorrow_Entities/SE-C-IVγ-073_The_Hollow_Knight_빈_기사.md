@@ -240,10 +240,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, The Hollow Knight's toll being that the wielder's old wounds ache. |
+| **During use** | Every occurrence of what The Hollow Knight takes (the wielder's old wounds ache), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | The wielder no longer notices The Hollow Knight's toll — the wearer's reflexes dull, as if armored by resentment — which is how every stand-down on this set has been caught. |
+| **After use** | Return, reconcile the baseline, and record whether The Hollow Knight's toll has reversed: the wearer's reflexes dull, as if armored by resentment. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -342,11 +342,11 @@ He was a guardian of an order — one of the small knightly brotherhoods the cit
 
 The war ended. The order was disbanded — officially, by Council decree, the brotherhood dissolved, its members released, its purpose fulfilled. But the decree did not reach the knight. The position he held was remote, the communications cut, the messengers lost to the Han or the Desolate. The knight, at his post, received no word that the war was over, the order disbanded, the duty fulfilled. He remained. He stood the watch. He guarded the thing, whatever it was, long after the thing had stopped mattering, long after the order had ceased to exist, long after the cause he had sworn to serve had crumbled into history.
 
-He died at the post. Old, faithful, unaware that the war he was guarding against had ended before his grandchildren were born. The body decayed. The armor did not. The duty did not. The oath, sworn in the old way, did not end with the swearer — and the figure that remains is the The Hollow Knight: Subject-Body, Grudge-element, armor without a body, duty without a purpose, standing an eternal watch over a thing that no longer matters, in a war that ended centuries ago.
+He died at the post. Old, faithful, unaware that the war he was guarding against had ended before his grandchildren were born. The body decayed. The armor did not. The duty did not. The oath, sworn in the old way, did not end with the swearer — and the figure that remains is the Hollow Knight: Subject-Body, Grudge-element, armor without a body, duty without a purpose, standing an eternal watch over a thing that no longer matters, in a war that ended centuries ago.
 
 The Hollow Knight does not know the war is over. Or perhaps it does, now, and cannot stop — the duty has outlived the reason for the duty, and the knight, hollow, continues not from ignorance but from inertia, the oath so thoroughly sworn that it persists independent of cause. The armor stands. The watch continues. The thing is guarded. No one remembers what the thing is, or why it mattered, or who ordered it guarded. Only the guarding remains.
 
-Those who encounter the The Hollow Knight feel the grief of duty without purpose — the exhaustion of responsibility that has outlived its reason, of serving a cause that no longer exists, of standing a watch whose object has been forgotten by everyone except the one sworn to guard it.
+Those who encounter the Hollow Knight feel the grief of duty without purpose — the exhaustion of responsibility that has outlived its reason, of serving a cause that no longer exists, of standing a watch whose object has been forgotten by everyone except the one sworn to guard it.
 
 Some sorrows mourn a loss. The Hollow Knight mourns a reason — the cause that ended, the order that disbanded, the war that finished, leaving behind only a knight, hollow, faithful, standing a watch that will never be relieved because no one remembers it was supposed to end.
 ## 증언 (Testimonium) — The Testimony

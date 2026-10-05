@@ -271,10 +271,10 @@ Each piece remains part of the Trace, and the set is built for the road rather t
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Quagmire's toll being that the bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tea. |
+| **During use** | Every occurrence of what Quagmire takes (the bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tea), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | Quagmire's cost is continuous rather than occasional: the shroud protects by filtering out everything below a certain weight, and it cannot tell a small grief from a small pleasure. Wearers come off the D. The second worker's call stands against the wielder's. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Quagmire's cost is still showing — the shroud protects by filtering out everything below a certain weight, and it cannot tell a small grief from a small pleasure. Wearers come off the D. |
 
 **Stat interpretation:** The α grades on this set are honest and low, and the useful functions — the oasis, the hidden routes — are not in the damage column at all. Read the Cost lines as the specification. The Lantern in particular should be assessed on what it does to the bearer's hearing rather than on its rating, since every traveller who never arrived is a larger number than the sheet implies.
 ## 관찰 기록 (Observation Log)

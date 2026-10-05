@@ -232,10 +232,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Cleaved takes: the wielder loses small, nameless memories with each use. |
+| **During use** | The first sign that Cleaved is charging: the wielder loses small, nameless memories with each use. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wielder no longer notices Cleaved's toll — the wearer feels faintly absent to themselves — which is how every stand-down on this set has been caught. |
+| **After use** | Return the piece and check the sealed baseline: has Cleaved's cost — the wearer feels faintly absent to themselves — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

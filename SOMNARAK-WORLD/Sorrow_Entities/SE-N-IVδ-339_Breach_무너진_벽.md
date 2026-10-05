@@ -234,10 +234,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Breach takes: the wielder carries its unwept grief and weeps involuntarily, most often while signing a safety certificate. |
+| **During use** | Breach charging, which presents as this: the wielder carries its unwept grief and weeps involuntarily, most often while signing a safety certificate. The wielder's own account is taken separately and afterwards. |
+| **At limit** | Breach's cost is continuous rather than occasional: the shield cracks into the wearer's memory of safety. The second worker's call stands against the wielder's. |
+| **After use** | Return, reconcile the baseline, and record whether Breach's toll has reversed: the shield cracks into the wearer's memory of safety. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

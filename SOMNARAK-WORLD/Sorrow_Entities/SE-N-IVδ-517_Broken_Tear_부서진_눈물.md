@@ -229,10 +229,10 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Broken Tear's toll being that the wielder carries the entity's unfinished grief and weeps without cause, more often the longer the piece is held, and never with any sense of releas. |
+| **During use** | The first sign that Broken Tear is charging: the wielder carries the entity's unfinished grief and weeps without cause, more often the longer the piece is held, and never with any sense of releas. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer goes numb to small pleasures — food, warmth, good news from home — while large griefs land undiminished, and the wielder has stopped reporting it — the usual end point for a Broken Tear piece. The observer calls the limit. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Broken Tear's cost is still showing — the wearer goes numb to small pleasures — food, warmth, good news from home — while large griefs land undiminished. |
 
 **Stat interpretation:** The grade describes extraction stability and says nothing about human safety. A δ-grade piece from this source can draw cleanly for years while its wielder loses the capacity to be cheered by anything, a cost that no column records and that colleagues notice before the wielder does. Read the grade and the charge together and authorise on the charge.
 

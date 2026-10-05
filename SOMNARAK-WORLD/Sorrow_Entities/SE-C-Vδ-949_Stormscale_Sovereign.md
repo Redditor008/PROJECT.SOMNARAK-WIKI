@@ -227,10 +227,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against The Stormscale Sovereign's known toll: the wielder is, for days afterward, unsettled in their own element — never quite one mood, cycling through all of them without rest. Opened at the end of the rotation, not before. |
+| **During use** | Every occurrence of what The Stormscale Sovereign takes (the wielder is, for days afterward, unsettled in their own element — never quite one mood, cycling through all of them without rest), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | The Stormscale Sovereign's cost is continuous rather than occasional: the wearer feels split — of two minds about everything, never wholly one thing, the way the Sovereign is never wholly one element. The second worker's call stands against the wielder's. |
+| **After use** | Return, reconcile the baseline, and record whether The Stormscale Sovereign's toll has reversed: the wearer feels split — of two minds about everything, never wholly one thing, the way the Sovereign is never wholly one element. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Fourfold Fang strikes with devastating evenness yet can leave the wielder cycling through every sorrow for a week, unable to settle on one.
 

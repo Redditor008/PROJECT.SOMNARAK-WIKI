@@ -235,10 +235,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Forgotten Soldier takes: the wielder's old wounds ache. |
+| **During use** | The first sign that Forgotten Soldier is charging: the wielder's old wounds ache. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wielder no longer notices Forgotten Soldier's toll — the wearer's reflexes dull, as if armored by resentment — which is how every stand-down on this set has been caught. |
+| **After use** | Return the piece and check the sealed baseline: has Forgotten Soldier's cost — the wearer's reflexes dull, as if armored by resentment — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 

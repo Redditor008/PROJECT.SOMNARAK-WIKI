@@ -246,10 +246,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Black River's toll being that the wielder feels progressively heavier. |
+| **During use** | The first sign that Black River is charging: the wielder feels progressively heavier. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer carries a constant low fatigue, and the wielder has stopped reporting it — the usual end point for a Black River piece. The observer calls the limit. |
+| **After use** | Return the piece and check the sealed baseline: has Black River's cost — the wearer carries a constant low fatigue — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

@@ -244,10 +244,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Labyrinth of Stolen Faces's toll being that the wielder loses small nameless memories with each use and cannot report the loss, since what is gone leaves no outline. |
+| **During use** | Every occurrence of what Labyrinth of Stolen Faces takes (the wielder loses small nameless memories with each use and cannot report the loss, since what is gone leaves no outline), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | The wearer feels faintly absent to themselves, and reports it most often as their own history sounding like something they were told, and the wielder has stopped reporting it — the usual end point for a Labyrinth of Stolen Faces piece. The observer calls the limit. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Labyrinth of Stolen Faces's cost is still showing — the wearer feels faintly absent to themselves, and reports it most often as their own history sounding like something they were told. |
 
 **Stat interpretation:** The grades describe extraction stability rather than human safety, and the gap is wide here. What the table cannot show is that the key's bearers navigate the facility itself by written notes afterwards — corridors they have walked for years — and that none of them has been able to say when they stopped trusting the route.
 ## 관찰 기록 (Observation Log)

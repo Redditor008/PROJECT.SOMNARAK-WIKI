@@ -272,10 +272,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Conservatory's known toll: the wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also report their own homes feeling provisional, as though lent to t. Opened at the end of the rotation, not before. |
+| **During use** | Every occurrence of what Conservatory takes (the wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also report their own homes feeling provisional, as though lent to t), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | Conservatory's cost is continuous rather than occasional: the wearer's reflexes dull and their attachment to places sharpens unhelpfully. Wearers become reluctant to leave rooms they have worked in, and the r. The second worker's call stands against the wielder's. |
+| **After use** | Return, reconcile the baseline, and record whether Conservatory's toll has reversed: the wearer's reflexes dull and their attachment to places sharpens unhelpfully. Wearers become reluctant to leave rooms they have worked in, and the r. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and the δ ratings here are accompanied by costs that are domestic rather than clinical — they surface in where a person lives and how they feel about it, which is not a thing the ledger has a column for. Read both columns, authorise on the second, and ask the wielder about their quarters rather than their cycle record.
 ## 관찰 기록 (Observation Log)

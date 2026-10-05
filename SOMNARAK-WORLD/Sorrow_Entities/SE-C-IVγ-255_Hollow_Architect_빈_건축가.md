@@ -227,10 +227,10 @@ The three pieces of this holding are issued against three different jobs: the Ma
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Hollow Architect the recorded cost is that the wielder carries weight for days afterwards and tires early. Two extraction leads have handed it back. |
+| **During use** | Watch for Hollow Architect's toll — the wielder carries weight for days afterwards and tires early. Two extraction leads have handed it back — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | Hollow Architect's cost is continuous rather than occasional: a low constant fatigue that does not clear on rest days. The second worker's call stands against the wielder's. |
+| **After use** | Return the piece and check the sealed baseline: has Hollow Architect's cost — a low constant fatigue that does not clear on rest days — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 

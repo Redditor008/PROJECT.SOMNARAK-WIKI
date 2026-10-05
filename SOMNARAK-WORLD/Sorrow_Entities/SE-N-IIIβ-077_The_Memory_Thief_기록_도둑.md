@@ -242,10 +242,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against The Memory Thief's known toll: the wielder loses small, nameless memories with each use. Opened at the end of the rotation, not before. |
+| **During use** | The Memory Thief charging, which presents as this: the wielder loses small, nameless memories with each use. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The wearer feels faintly absent to themselves, without remission. On a The Memory Thief piece the use ends there whatever the wielder says. |
+| **After use** | Return, reconcile the baseline, and record whether The Memory Thief's toll has reversed: the wearer feels faintly absent to themselves. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -347,7 +347,7 @@ The Memory Thief is that accumulated fear, crystallized. Subject-Phantasmal, Voi
 
 The Thief does not keep what it steals. It demonstrates. It shows the citizen, by the brief absence, what the permanent absence would feel like — and the demonstration is the sorrow, because the citizen, having felt the memory go and come back, now knows exactly what it will feel like when it goes and does not come back, which, in Somnarak, it eventually will.
 
-Those who encounter the The Memory Thief feel the specific terror of a memory stolen and returned — the vertigo of a face suddenly gone, a name suddenly blank, a moment suddenly empty, and then the relief of its return, and then, beneath the relief, the deeper dread: that the Thief showed them what is coming, and what is coming is the absence without the return.
+Those who encounter the Memory Thief feel the specific terror of a memory stolen and returned — the vertigo of a face suddenly gone, a name suddenly blank, a moment suddenly empty, and then the relief of its return, and then, beneath the relief, the deeper dread: that the Thief showed them what is coming, and what is coming is the absence without the return.
 
 Some sorrows are about losing memory. The Memory Thief is about the fear of losing it — the anxiety that crystallized into a creature, the dread that walks, the phantom that takes what you love briefly so you will know, forever after, exactly what it will feel like when it takes it for good.
 ## 증언 (Testimonium) — The Testimony

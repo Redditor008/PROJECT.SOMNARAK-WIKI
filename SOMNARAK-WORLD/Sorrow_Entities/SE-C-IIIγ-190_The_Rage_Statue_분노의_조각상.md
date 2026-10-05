@@ -241,10 +241,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from The Rage Statue the recorded cost is that the wearer's thoughts run hot. |
+| **During use** | The first sign that The Rage Statue is charging: the wearer's thoughts run hot. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The bearer's fingers become stiff and cold during periods of calm, without remission. On a The Rage Statue piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece and check the sealed baseline: has The Rage Statue's cost — the bearer's fingers become stiff and cold during periods of calm — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

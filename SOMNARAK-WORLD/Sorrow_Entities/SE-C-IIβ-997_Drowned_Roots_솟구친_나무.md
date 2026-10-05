@@ -227,10 +227,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Drowned Roots's toll being that the wielder feels the entity's unwept grief. |
+| **During use** | Drowned Roots charging, which presents as this: the wielder feels the entity's unwept grief. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The wearer becomes numb to minor joys, and the wielder has stopped reporting it — the usual end point for a Drowned Roots piece. The observer calls the limit. |
+| **After use** | Piece returned; re-assess a week later, because what Drowned Roots takes (the wearer becomes numb to minor joys) does not present on the day. |
 
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 

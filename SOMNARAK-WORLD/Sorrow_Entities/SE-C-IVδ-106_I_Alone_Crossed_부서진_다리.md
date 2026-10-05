@@ -232,10 +232,10 @@ The set is cut from the span: a sheared girder, silk that tightens on the approa
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, I Alone Crossed's toll being that the wielder feels the entity's unwept survivor grief. |
+| **During use** | I Alone Crossed charging, which presents as this: the wielder feels the entity's unwept survivor grief. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The wearer becomes numb to minor joys, without remission. On a I Alone Crossed piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether I Alone Crossed's cost is still showing — the wearer becomes numb to minor joys. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

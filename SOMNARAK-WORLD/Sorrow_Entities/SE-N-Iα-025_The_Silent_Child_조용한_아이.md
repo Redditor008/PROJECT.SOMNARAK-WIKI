@@ -242,10 +242,10 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what The Silent Child takes: the wielder loses small memories with each use, and specifically of being attended to: who listened to them, who asked how they were, which of their r. |
+| **During use** | The first sign that The Silent Child is charging: the wielder loses small memories with each use, and specifically of being attended to: who listened to them, who asked how they were, which of their r. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The Silent Child's cost is continuous rather than occasional: the wearer feels faintly absent to themselves and is overlooked in queues, in rosters, and at the ends of conversations. The second worker's call stands against the wielder's. |
+| **After use** | Return the piece and check the sealed baseline: has The Silent Child's cost — the wearer feels faintly absent to themselves and is overlooked in queues, in rosters, and at the ends of conversations — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Grade measures output and says nothing about cost, and an α rating is the most misread figure in the equipment file. A Minor-grade piece from this source takes very little per use and is therefore used constantly, which is how its wielders accumulate a charge that a δ-grade item would have billed in one visible instalment. Read both columns and authorise on the second; the low number is the hazard here, not the reassurance.
 ## 관찰 기록 (Observation Log)
@@ -348,7 +348,7 @@ None of it was against the rules. Every one of those children was marked present
 
 The Silent Child does not demand attention. That is the sorrow — the child has been overlooked so thoroughly that even as an entity, the child does not ask to be seen. The child simply exists, quietly, the way the overlooked children existed, waiting, still, for the attention that did not come in life and that the entity, faithfully, does not demand.
 
-Those who come near the The Silent Child feel the specific grief of existence-as-absence — the ache of being present and unregistered, of speaking and being unheard, of being a child in a city too busy and too burdened to notice the children who are right there, waiting, quiet, overlooked.
+Those who come near the Silent Child feel the specific grief of existence-as-absence — the ache of being present and unregistered, of speaking and being unheard, of being a child in a city too busy and too burdened to notice the children who are right there, waiting, quiet, overlooked.
 
 Some sorrows mourn neglect. This one is the record of a system that was mended correctly and left a hole exactly the shape of a quiet child: present, fed, housed, enrolled, compliant in every column, and spoken to by nobody. It is two point eight meters now. It was six.
 ## 증언 (Testimonium) — The Testimony

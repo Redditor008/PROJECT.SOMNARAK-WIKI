@@ -242,10 +242,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what The Smothering Mother takes: the wielder's old wounds ache. |
+| **During use** | The first sign that The Smothering Mother is charging: the wielder's old wounds ache. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wielder no longer notices The Smothering Mother's toll — the wearer's reflexes dull, as if armored by resentment — which is how every stand-down on this set has been caught. |
+| **After use** | Piece returned; re-assess a week later, because what The Smothering Mother takes (the wearer's reflexes dull, as if armored by resentment) does not present on the day. |
 
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

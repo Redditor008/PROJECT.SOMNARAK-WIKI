@@ -232,10 +232,10 @@ The blade is held by the watch's medic and has never been swung. The shroud belo
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Nemo the recorded cost is that nothing the wielder feels while it is drawn is their own. |
+| **During use** | The first sign that Nemo is charging: nothing the wielder feels while it is drawn is their own. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | Nemo's cost is continuous rather than occasional: small pleasures stop registering. Wearers notice it first in food. The second worker's call stands against the wielder's. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Nemo's cost is still showing — small pleasures stop registering. Wearers notice it first in food. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

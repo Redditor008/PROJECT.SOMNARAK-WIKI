@@ -232,10 +232,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Stranded Between Two Shores's toll being that the wielder carries the entity's unwept grief and weeps involuntarily, most often at the point of arriving somewhere. |
+| **During use** | The first sign that Stranded Between Two Shores is charging: the wielder carries the entity's unwept grief and weeps involuntarily, most often at the point of arriving somewhere. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | Stranded Between Two Shores's cost is continuous rather than occasional: the wearer goes numb to small pleasures and reports arrivals — home, the end of a rotation — as having no particular feeling attached. The second worker's call stands against the wielder's. |
+| **After use** | Return, reconcile the baseline, and record whether Stranded Between Two Shores's toll has reversed: the wearer goes numb to small pleasures and reports arrivals — home, the end of a rotation — as having no particular feeling attached. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** The grade tells you how hard a piece hits and nothing this post needs. What the table cannot show is that chains are issued in pairs and that their bearers report hearing the other bearer's breathing at distance for some weeks afterwards, which the medical office has recorded without explaining.
 ## 관찰 기록 (Observation Log)

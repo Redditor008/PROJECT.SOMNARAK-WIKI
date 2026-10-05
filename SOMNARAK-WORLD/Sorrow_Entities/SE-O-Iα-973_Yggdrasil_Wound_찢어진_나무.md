@@ -244,10 +244,10 @@ Each piece remains part of the Tree, and the set is organised around holding two
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Yggdrasil Wound's known toll: memories go in halves rather than whole. The wielder keeps the room and loses who was in it, keeps the decision and loses the argument that produced i. Opened at the end of the rotation, not before. |
+| **During use** | Watch for Yggdrasil Wound's toll — memories go in halves rather than whole. The wielder keeps the room and loses who was in it, keeps the decision and loses the argument that produced i — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The veil preserves the self by keeping two copies of it. Wearers report no distress and describe the sensation precisely and repeatedly as being one o, and the wielder has stopped reporting it — the usual end point for a Yggdrasil Wound piece. The observer calls the limit. |
+| **After use** | Piece returned; re-assess a week later, because what Yggdrasil Wound takes (the veil preserves the self by keeping two copies of it. Wearers report no distress and describe the sensation precisely and repeatedly as being one o) does not present on the day. |
 
 **Stat interpretation:** The α grades are low and accurate. What no column records is that this set's costs are all paid in coherence rather than capability — the wearer performs perfectly well, by every measure the facility takes, as two people. Read the Cost lines as the specification and take the grounding partner's account over the wearer's.
 

@@ -234,10 +234,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Absent Landmark's toll being that the wielder loses small, nameless memories, beginning with the routes they used to walk without thinking. |
+| **During use** | Watch for Absent Landmark's toll — the wielder loses small, nameless memories, beginning with the routes they used to walk without thinking — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wearer feels faintly absent to themselves, and needs a map in districts they have lived in for years, and the wielder has stopped reporting it — the usual end point for a Absent Landmark piece. The observer calls the limit. |
+| **After use** | Return, reconcile the baseline, and record whether Absent Landmark's toll has reversed: the wearer feels faintly absent to themselves, and needs a map in districts they have lived in for years. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

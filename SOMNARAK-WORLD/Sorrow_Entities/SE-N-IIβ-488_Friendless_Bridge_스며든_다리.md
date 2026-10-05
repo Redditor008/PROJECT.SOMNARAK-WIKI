@@ -270,10 +270,10 @@ Each piece is a conditional extension of the Bridge rather than ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Friendless Bridge the recorded cost is that the wielder's old wounds ache. |
+| **During use** | Watch for Friendless Bridge's toll — the wielder's old wounds ache — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | Reflexes dull, and the wearer becomes slow to answer a greeting — which on this post is closer to protective than the grading admits, and the wielder has stopped reporting it — the usual end point for a Friendless Bridge piece. The observer calls the limit. |
+| **After use** | Piece returned; re-assess a week later, because what Friendless Bridge takes (reflexes dull, and the wearer becomes slow to answer a greeting — which on this post is closer to protective than the grading admits) does not present on the day. |
 
 **Stat interpretation:** Field performance and human cost are separate axes and diverge sharply here. The fang and the plate are both ordinary. What the grades cannot show is that the bracelet's wearers stop initiating contact — not with the entity, with everyone — and that the effect has been recorded as lasting beyond the posting.
 ## 관찰 기록 (Observation Log)

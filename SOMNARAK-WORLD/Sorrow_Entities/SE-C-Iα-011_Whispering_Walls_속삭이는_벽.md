@@ -249,10 +249,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Whispering Walls's toll being that the wielder feels the entity's unwept grief. |
+| **During use** | The first sign that Whispering Walls is charging: the wielder feels the entity's unwept grief. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wielder no longer notices Whispering Walls's toll — the wearer becomes numb to minor joys — which is how every stand-down on this set has been caught. |
+| **After use** | Return, reconcile the baseline, and record whether Whispering Walls's toll has reversed: the wearer becomes numb to minor joys. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 

@@ -265,10 +265,10 @@ The set is cut from the shard's own crystal and keeps the film: every piece is f
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Soaking Shard takes: the wielder feels the entity's unwept grief. |
+| **During use** | The first sign that Soaking Shard is charging: the wielder feels the entity's unwept grief. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer becomes numb to minor joys, and the wielder has stopped reporting it — the usual end point for a Soaking Shard piece. The observer calls the limit. |
+| **After use** | Piece returned; re-assess a week later, because what Soaking Shard takes (the wearer becomes numb to minor joys) does not present on the day. |
 
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 

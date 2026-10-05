@@ -246,10 +246,10 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Pent's toll being that the wielder's old injuries ache and prolonged use leaves faint bruising across the ribs and diaphragm, where a held breath sits. |
+| **During use** | Every occurrence of what Pent takes (the wielder's old injuries ache and prolonged use leaves faint bruising across the ribs and diaphragm, where a held breath sits), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | The wearer's reflexes dull and their breathing shallows without their noticing, without remission. On a Pent piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Pent's cost is still showing — the wearer's reflexes dull and their breathing shallows without their noticing. |
 
 **Stat interpretation:** Field performance and human cost are separate axes and this set separates them further than most. A δ-grade piece here can perform to specification for a year while the wielder quietly loses the capacity to feel finished with anything, which is not a decline any supervisor is trained to see and not a figure the equipment table carries. Read both, authorise on the second, and ask the wielder when they last felt relieved about anything.
 ## 관찰 기록 (Observation Log)

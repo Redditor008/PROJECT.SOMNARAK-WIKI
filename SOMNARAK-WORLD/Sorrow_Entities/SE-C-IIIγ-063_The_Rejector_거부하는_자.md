@@ -230,10 +230,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, The Rejector's toll being that the wielder loses small, nameless memories with each use. |
+| **During use** | Every occurrence of what The Rejector takes (the wielder loses small, nameless memories with each use), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | The wearer feels faintly absent to themselves, and the wielder has stopped reporting it — the usual end point for a The Rejector piece. The observer calls the limit. |
+| **After use** | Piece returned; re-assess a week later, because what The Rejector takes (the wearer feels faintly absent to themselves) does not present on the day. |
 
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 

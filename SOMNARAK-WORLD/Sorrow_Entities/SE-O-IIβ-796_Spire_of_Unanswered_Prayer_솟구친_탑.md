@@ -233,10 +233,10 @@ The set has no vessel to be cut from and is taken out of the song itself, which 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Spire of Unanswered Prayer's known toll: the wielder carries the grief of a call that went up and never came back down. Prolonged use causes involuntary weeping, which users report as feeling. Opened at the end of the rotation, not before. |
+| **During use** | Spire of Unanswered Prayer charging, which presents as this: the wielder carries the grief of a call that went up and never came back down. Prolonged use causes involuntary weeping, which users report as feeling. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The wearer goes numb to small joys, and to small reassurances, without remission. On a Spire of Unanswered Prayer piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Spire of Unanswered Prayer's cost is still showing — the wearer goes numb to small joys, and to small reassurances. |
 
 **Stat interpretation:** Field performance and human cost are separate axes, and the β rating on this set describes only the first. An efficient piece can still leave its wielder Fractured, hollowed, or quietly bound to a settlement that drowned before they were born. Read both columns and authorise on the second.
 ## 관찰 기록 (Observation Log)

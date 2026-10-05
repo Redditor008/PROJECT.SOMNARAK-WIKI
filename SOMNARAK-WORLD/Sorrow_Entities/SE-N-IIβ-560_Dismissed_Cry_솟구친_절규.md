@@ -272,10 +272,10 @@ Each piece is a conditional extension of the relic rather than ordinary equipmen
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Dismissed Cry's known toll: the wielder hears their own anger as an external voice. Opened at the end of the rotation, not before. |
+| **During use** | Watch for Dismissed Cry's toll — the wielder hears their own anger as an external voice — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wielder no longer notices Dismissed Cry's toll — reflexes dull and the wearer becomes slow to answer, which in a chamber that punishes raised voices is closer to an advantage than the grading suggest — which is how every stand-down on this set has been caught. |
+| **After use** | Piece returned; re-assess a week later, because what Dismissed Cry takes (reflexes dull and the wearer becomes slow to answer, which in a chamber that punishes raised voices is closer to an advantage than the grading suggest) does not present on the day. |
 
 **Stat interpretation:** The grades describe extraction stability rather than human safety, and both are beside the point on this post. Nothing here is won by equipment. What the table cannot show is that the plate's wearer is protected from the pressure and still subject to the thing that causes it, which is how the shift writes up what happened.
 ## 관찰 기록 (Observation Log)

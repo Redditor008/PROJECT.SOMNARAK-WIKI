@@ -319,10 +319,10 @@ The set is cut from the drift rather than from a body, which is why none of the 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Driftglass's known toll: the wielder carries its unwept grief and weeps involuntarily, most often on returning home at the end of a rotation. Opened at the end of the rotation, not before. |
+| **During use** | The first sign that Driftglass is charging: the wielder carries its unwept grief and weeps involuntarily, most often on returning home at the end of a rotation. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | Driftglass's cost is continuous rather than occasional: the wearer goes numb to small pleasures, and reports familiar corridors as merely efficient. The second worker's call stands against the wielder's. |
+| **After use** | Return, reconcile the baseline, and record whether Driftglass's toll has reversed: the wearer goes numb to small pleasures, and reports familiar corridors as merely efficient. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 

@@ -234,10 +234,10 @@ Each piece is a conditional extension of the Rope rather than ordinary equipment
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what The Vanished Rope takes: the wielder carries the entity's unwept grief and weeps involuntarily, most often while putting the censer down. |
+| **During use** | The Vanished Rope charging, which presents as this: the wielder carries the entity's unwept grief and weeps involuntarily, most often while putting the censer down. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The wearer goes numb to small pleasures and reports it first as other people's company not registering, without remission. On a The Vanished Rope piece the use ends there whatever the wielder says. |
+| **After use** | Return, reconcile the baseline, and record whether The Vanished Rope's toll has reversed: the wearer goes numb to small pleasures and reports it first as other people's company not registering. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Field performance and human cost run on separate axes, and the separation is wide here. The censer and the shroud are both modest. What the grades cannot show is that the knot, which has no combat value, is worn by every worker on this roster who has since requested a transfer, and that none of them gave the entity as the reason.
 ## 관찰 기록 (Observation Log)
@@ -337,7 +337,7 @@ He made it back. He returned to the city carrying the rope — both ends, the fu
 
 The Vanished Rope is that tether. Subject-Grudge, Lament-element: the figure of a connection severed mid-storm, preserved as a rope that connects no one, held by the one who survived, carrying the helplessness of holding an invisible end — the specific grief of being tied to someone who vanished and surviving with both ends and no one on the other.
 
-Those who come near the The Vanished Rope feel the grief of the severed tether — the helplessness of holding a connection that leads to nothing, the ache of a bond that did not hold, the survivor's particular sorrow of carrying both ends of a rope that was supposed to keep them together.
+Those who come near the Vanished Rope feel the grief of the severed tether — the helplessness of holding a connection that leads to nothing, the ache of a bond that did not hold, the survivor's particular sorrow of carrying both ends of a rope that was supposed to keep them together.
 
 Some sorrows mourn the lost. The Vanished Rope mourns the connection — the tether that dissolved in the storm, preserved by the one who came back holding both ends, still tied to the companion who is gone, still holding, the rope going nowhere, the other end empty.
 ## 증언 (Testimonium) — The Testimony

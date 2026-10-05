@@ -229,10 +229,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Fading Whisper the recorded cost is that the wielder loses small, nameless memories with each use. |
+| **During use** | Fading Whisper charging, which presents as this: the wielder loses small, nameless memories with each use. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The wearer feels faintly absent to themselves, without remission. On a Fading Whisper piece the use ends there whatever the wielder says. |
+| **After use** | Piece returned; re-assess a week later, because what Fading Whisper takes (the wearer feels faintly absent to themselves) does not present on the day. |
 
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 

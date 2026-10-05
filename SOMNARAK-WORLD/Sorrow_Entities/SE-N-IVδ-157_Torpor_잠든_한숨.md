@@ -246,10 +246,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Torpor's known toll: the wielder grows progressively heavier and ages slightly, in the manner of a person who has not slept properly for a season. Opened at the end of the rotation, not before. |
+| **During use** | Watch for Torpor's toll — the wielder grows progressively heavier and ages slightly, in the manner of a person who has not slept properly for a season — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wearer carries a constant low fatigue, and the wielder has stopped reporting it — the usual end point for a Torpor piece. The observer calls the limit. |
+| **After use** | Piece returned; re-assess a week later, because what Torpor takes (the wearer carries a constant low fatigue) does not present on the day. |
 
 **Stat interpretation:** The grade describes how hard a piece hits and nothing a supervisor on this post needs. What the table cannot show is that the breath-token forces a moment of restorative calm on its wearer whether or not it is convenient, and that this is the only item in the archive to have been recorded as a cause of insubordination.
 ## 관찰 기록 (Observation Log)

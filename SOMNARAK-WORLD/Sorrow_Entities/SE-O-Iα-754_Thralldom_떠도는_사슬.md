@@ -233,10 +233,10 @@ Each piece remains part of the Chain, and the set has a property the grades do n
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Thralldom's toll being that every injury the wielder has ever recovered from begins to ache again, and faint bruising surfaces along the lines of old breaks. Nothing new is damag. |
+| **During use** | Thralldom charging, which presents as this: every injury the wielder has ever recovered from begins to ache again, and faint bruising surfaces along the lines of old breaks. Nothing new is damag. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The harness answers slightly after the wearer does. Nothing is prevented, but every movement away from something becomes deliberate, and wearers repor, and the wielder has stopped reporting it — the usual end point for a Thralldom piece. The observer calls the limit. |
+| **After use** | Return, reconcile the baseline, and record whether Thralldom's toll has reversed: the harness answers slightly after the wearer does. Nothing is prevented, but every movement away from something becomes deliberate, and wearers repor. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** The α grades are accurate and unremarkable — three to six damage, ten to fifteen Echoes, nothing concealed. What they omit is that this set's costs are all exerted on the wearer's capacity to disengage, which is not a combat statistic and does not appear on any sheet. Read the Cost lines as the specification.
 ## 관찰 기록 (Observation Log)

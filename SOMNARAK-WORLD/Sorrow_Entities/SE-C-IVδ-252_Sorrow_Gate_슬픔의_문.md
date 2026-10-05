@@ -247,10 +247,10 @@ Each piece is a conditional extension of the Gate rather than ordinary equipment
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Sorrow Gate takes: the wielder loses small nameless memories with each use, and loses the names of things more readily than the things. |
+| **During use** | The first sign that Sorrow Gate is charging: the wielder loses small nameless memories with each use, and loses the names of things more readily than the things. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wielder no longer notices Sorrow Gate's toll — the wearer feels faintly absent to themselves, and describes their own reports afterwards as having been written by somebody competent and unfamiliar — which is how every stand-down on this set has been caught. |
+| **After use** | Return the piece and check the sealed baseline: has Sorrow Gate's cost — the wearer feels faintly absent to themselves, and describes their own reports afterwards as having been written by somebody competent and unfamiliar — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Field performance and human cost are separate axes, and here the human cost falls on the archive as much as on the worker. What the grades cannot show is that four of the six people who have worn the charm subsequently applied to have their own earlier notes destroyed, and that the applications were granted.
 

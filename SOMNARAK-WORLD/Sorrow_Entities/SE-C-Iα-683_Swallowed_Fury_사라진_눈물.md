@@ -232,10 +232,10 @@ Each piece is a conditional extension of the entity rather than ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Swallowed Fury takes: the wielder's old wounds ache. |
+| **During use** | The first sign that Swallowed Fury is charging: the wielder's old wounds ache. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wielder no longer notices Swallowed Fury's toll — reflexes dull, and the wearer's face stops showing what they are feeling, which on this post is the precise shape of the problem — which is how every stand-down on this set has been caught. |
+| **After use** | Return the piece and check the sealed baseline: has Swallowed Fury's cost — reflexes dull, and the wearer's face stops showing what they are feeling, which on this post is the precise shape of the problem — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Field performance and human cost are separate axes and the gap matters here. The fang and the plate are ordinary. What the grades cannot show is that the ember's bearers weep easily and in public afterwards, that several have been written up for it, and that the write-ups have each been followed by an appearance.
 ## 관찰 기록 (Observation Log)

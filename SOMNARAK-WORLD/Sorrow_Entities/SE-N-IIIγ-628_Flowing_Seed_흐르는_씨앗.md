@@ -259,10 +259,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Flowing Seed's known toll: the wielder feels progressively heavier. Opened at the end of the rotation, not before. |
+| **During use** | Every occurrence of what Flowing Seed takes (the wielder feels progressively heavier), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | Flowing Seed's cost is continuous rather than occasional: the wearer carries a constant low fatigue. The second worker's call stands against the wielder's. |
+| **After use** | Return, reconcile the baseline, and record whether Flowing Seed's toll has reversed: the wearer carries a constant low fatigue. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 

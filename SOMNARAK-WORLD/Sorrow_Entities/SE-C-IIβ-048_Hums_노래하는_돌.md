@@ -278,10 +278,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Hums's known toll: the wielder carries its unwept grief and weeps involuntarily, usually while humming. Opened at the end of the rotation, not before. |
+| **During use** | Every occurrence of what Hums takes (the wielder carries its unwept grief and weeps involuntarily, usually while humming), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | The wielder no longer notices Hums's toll — the wearer goes numb to small pleasures, and reports music as information about a key and a tempo — which is how every stand-down on this set has been caught. |
+| **After use** | Return the piece and check the sealed baseline: has Hums's cost — the wearer goes numb to small pleasures, and reports music as information about a key and a tempo — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Field performance and human cost are separate axes and neither is the point of this post. What the grades cannot show is that the carrier register, not the equipment, is what holds the reading down, and that the register's weakest line is the six songs currently held by one carrier each.
 ## 관찰 기록 (Observation Log)

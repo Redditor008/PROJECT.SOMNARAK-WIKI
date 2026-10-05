@@ -346,7 +346,7 @@ The Memory Weaver is Subject-Dream, Void-element: a being made entirely of erase
 
 This is the Weaver's sorrow, and its terror: the loneliness of memories no one claims. The Weaver holds the lives of citizens who were erased so thoroughly that no one remembers they were erased. It carries their histories alone — the only repository of people the city decided did not exist. And it is, in its way, a guardian: the keeper of what the Keepers were forced to discard, weaving the erased back into a form that, while no one will ever read it, at least exists.
 
-Those who encounter the The Memory Weaver feel the terror of erasure — the chill of being forgotten not by accident but by design, of having your life struck from the record so that, afterward, there is no proof you were ever here. And they feel the Weaver's strange mercy: that someone, at least, is collecting what the city discards.
+Those who encounter the Memory Weaver feel the terror of erasure — the chill of being forgotten not by accident but by design, of having your life struck from the record so that, afterward, there is no proof you were ever here. And they feel the Weaver's strange mercy: that someone, at least, is collecting what the city discards.
 
 Some sorrows mourn the dead. The Memory Weaver mourns the unpersoned — the citizens erased from the record, their memories orphaned in the Archive's dark, gathered and woven by a creature that is itself made of nothing but the lives the city decided had never happened.
 ## 증언 (Testimonium) — The Testimony

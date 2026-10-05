@@ -240,10 +240,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what The Frozen Veil takes: the wielder loses small nameless memories with each use, and loses the feeling attached to large ones while retaining the facts. |
+| **During use** | The first sign that The Frozen Veil is charging: the wielder loses small nameless memories with each use, and loses the feeling attached to large ones while retaining the facts. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer feels faintly absent to themselves, and reports their own warmth toward others as something they are performing accurately, and the wielder has stopped reporting it — the usual end point for a The Frozen Veil piece. The observer calls the limit. |
+| **After use** | Return the piece and check the sealed baseline: has The Frozen Veil's cost — the wearer feels faintly absent to themselves, and reports their own warmth toward others as something they are performing accurately — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Field performance and human cost are separate axes and here the cost is to the roster rather than the individual. What the grades cannot show is that the office has twice found itself selecting observers by who had recently suffered a loss, that both selections were made informally and in good faith, and that the shell thickened on both occasions.
 ## 관찰 기록 (Observation Log)
@@ -346,7 +346,7 @@ The accumulated distance did not stay abstract. Generations of suppressed emotio
 
 The Frozen Veil does not attack. It drains. It drifts toward the warm — toward citizens who are, despite the Veil's training, still capable of feeling — and it draws the warmth out of them, the way cold draws heat, leaving them cooled, diminished, a little more like the city the Veil has been building. The Frozen Veil is, in a sense, the Veil's own sorrow: the loneliness of a people who suppressed feeling for so long that the suppression became a presence, a cold that walks, seeking warmth to drain.
 
-Those who come near the The Frozen Veil feel their own capacity for connection dim — the genuine attachments they have made grow distant, the warmth they carry cools, the risk of feeling seems, suddenly, not worth taking. The Veil does not freeze them permanently. It only shows them what the city has been training them toward: a life without warmth, without attachment, without the dangerous vulnerability of genuine feeling.
+Those who come near the Frozen Veil feel their own capacity for connection dim — the genuine attachments they have made grow distant, the warmth they carry cools, the risk of feeling seems, suddenly, not worth taking. The Veil does not freeze them permanently. It only shows them what the city has been training them toward: a life without warmth, without attachment, without the dangerous vulnerability of genuine feeling.
 
 Some sorrows are about loss. The Frozen Veil is about suppression — the generations of deliberate emotional distance, the conditioning against warmth, the slow freezing of a city that taught itself not to feel, preserved now as a cold that drifts toward the warm and drains them.
 ## 증언 (Testimonium) — The Testimony

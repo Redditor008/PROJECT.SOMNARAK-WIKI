@@ -228,10 +228,10 @@ Each piece is a conditional extension of the Rope rather than ordinary equipment
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Soaking Rope's toll being that the yoke is carried across the shoulders and goes on being carried after it is set down. The ache settles where the beam sat and corresponds to no inj. |
+| **During use** | Soaking Rope charging, which presents as this: the yoke is carried across the shoulders and goes on being carried after it is set down. The ache settles where the beam sat and corresponds to no inj. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The wearer becomes slower to answer and slower to leave, and reports afterwards that the shift felt shorter than it was, without remission. On a Soaking Rope piece the use ends there whatever the wielder says. |
+| **After use** | Return, reconcile the baseline, and record whether Soaking Rope's toll has reversed: the wearer becomes slower to answer and slower to leave, and reports afterwards that the shift felt shorter than it was. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** α is the lowest grade in the archive, and the knot is the most expensive thing in this file. The grade measures what the beam does to the Rope. It does not measure what it is to feel every unreciprocated expectation within thirty metres, which is what the wearer receives and what no figure here records.
 

@@ -272,10 +272,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Well of Unfinished Words's toll being that the wielder carries the Well's unwept grief and weeps involuntarily, usually part-way through saying something else. |
+| **During use** | Well of Unfinished Words charging, which presents as this: the wielder carries the Well's unwept grief and weeps involuntarily, usually part-way through saying something else. The wielder's own account is taken separately and afterwards. |
+| **At limit** | Well of Unfinished Words's cost is continuous rather than occasional: the wearer goes numb to small pleasures, and tends to notice first that other people's good news no longer registers. The second worker's call stands against the wielder's. |
+| **After use** | Piece returned; re-assess a week later, because what Well of Unfinished Words takes (the wearer goes numb to small pleasures, and tends to notice first that other people's good news no longer registers) does not present on the day. |
 
 **Stat interpretation:** Grade is not safety, and on this post it is close to irrelevant. Nothing here is decided by equipment. What the table cannot show is that the vial, which costs almost nothing to wear, makes its bearer unable to leave a conversation unfinished — and that this is why vial-bearers are over-represented on the Well's own roster.
 ## 관찰 기록 (Observation Log)

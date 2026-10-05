@@ -233,10 +233,10 @@ Each piece remains part of the Shard, and the set shares a property the grades d
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Anonym takes: each shot takes a small memory, and the loss is undetectable by design — what goes is minor and unlabelled, the name of a corridor, a face from a prev. |
+| **During use** | Anonym charging, which presents as this: each shot takes a small memory, and the loss is undetectable by design — what goes is minor and unlabelled, the name of a corridor, a face from a prev. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The veil protects the self by holding it slightly apart from the wearer. Nothing is lost and nothing hurts, and the wielder has stopped reporting it — the usual end point for a Anonym piece. The observer calls the limit. |
+| **After use** | Return, reconcile the baseline, and record whether Anonym's toll has reversed: the veil protects the self by holding it slightly apart from the wearer. Nothing is lost and nothing hurts. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** The α grades are honest — three to six damage, ten to fifteen Echoes, nothing concealed. What the columns cannot express is that every cost in this set is invisible to the person paying it and obvious to everyone around them, which inverts the usual reporting assumption. Read the Cost lines as the specification, and take the colleague's account over the wearer's.
 ## 관찰 기록 (Observation Log)

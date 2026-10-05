@@ -225,10 +225,10 @@ Each piece is a conditional extension of the Pillar rather than ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Dormant Monolith's known toll: small nameless memories go with each use. The wielder cannot audit the loss. Opened at the end of the rotation, not before. |
+| **During use** | Every occurrence of what Dormant Monolith takes (small nameless memories go with each use. The wielder cannot audit the loss), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | The wearer feels every duty they have postponed, and the wielder has stopped reporting it — the usual end point for a Dormant Monolith piece. The observer calls the limit. |
+| **After use** | Piece returned; re-assess a week later, because what Dormant Monolith takes (the wearer feels every duty they have postponed) does not present on the day. |
 
 **Stat interpretation:** Grade is not safety and here it is barely relevant. The shield performs unremarkably and anchors the wearer so completely that two observers have had to be told by colleagues that the shift was over. That is the characteristic cost of this file, and no figure in the table carries it.
 

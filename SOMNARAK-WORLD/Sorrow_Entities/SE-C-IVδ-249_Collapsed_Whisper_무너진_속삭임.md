@@ -227,10 +227,10 @@ The set carries the entity's single property into three forms: each piece gives 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Collapsed Whisper takes: the wielder's old wounds ache. |
+| **During use** | Every occurrence of what Collapsed Whisper takes (the wielder's old wounds ache), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | Collapsed Whisper's cost is continuous rather than occasional: the wearer's reflexes dull, as if armored by resentment. The second worker's call stands against the wielder's. |
+| **After use** | Return, reconcile the baseline, and record whether Collapsed Whisper's toll has reversed: the wearer's reflexes dull, as if armored by resentment. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 

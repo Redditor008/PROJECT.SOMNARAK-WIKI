@@ -263,10 +263,10 @@ Each piece remains part of the Tree. The Bramble Tanto raises a barrier that not
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Border Tree's known toll: the wielder becomes unable to cross a boundary they have created. Opened at the end of the rotation, not before. |
+| **During use** | Border Tree charging, which presents as this: the wielder becomes unable to cross a boundary they have created. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The wielder no longer notices Border Tree's toll — the harness tightens as it nears its source and will not loosen afterwards — which is how every stand-down on this set has been caught. |
+| **After use** | Piece returned; re-assess a week later, because what Border Tree takes (the harness tightens as it nears its source and will not loosen afterwards) does not present on the day. |
 
 **Stat interpretation:** The δ grades here describe what the equipment does to a target, and nothing else. Nothing in the damage figures records that a worker issued the tanto for a long encounter may finish it unable to walk back through a door they sealed themselves. Read the Cost line as the real specification and the numbers as a footnote to it.
 ## 관찰 기록 (Observation Log)

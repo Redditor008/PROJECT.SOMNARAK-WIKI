@@ -251,10 +251,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against The Kind Healer's known toll: the wielder feels the entity's unwept grief. Opened at the end of the rotation, not before. |
+| **During use** | Watch for The Kind Healer's toll — the wielder feels the entity's unwept grief — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wearer becomes numb to minor joys, without remission. On a The Kind Healer piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether The Kind Healer's cost is still showing — the wearer becomes numb to minor joys. |
 
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -358,7 +358,7 @@ She died after a lifetime of this. Old, exhausted, carrying the weight of every 
 
 The Kind Healer is that figure. Subject-Body, Lament-element: a woman-shaped presence, still walking the poorest districts, still tending, still sitting with the dying. She heals — genuinely, faintly, with compassion and presence and the limited power of comfort. But she cannot heal herself. The wounds she carries — the names of every person she failed, the weight of every hand she held that went cold — are not the kind of wounds that comfort reaches. She tends others. She cannot tend what is wrong with her.
 
-Those who come near the The Kind Healer feel her compassion — and, beneath it, the unbearable weight of the failure that accompanies it, the specific sorrow of someone who helps and helps and helps and cannot help everyone, and carries the ones she could not help as a permanent, unhealable wound.
+Those who come near the Kind Healer feel her compassion — and, beneath it, the unbearable weight of the failure that accompanies it, the specific sorrow of someone who helps and helps and helps and cannot help everyone, and carries the ones she could not help as a permanent, unhealable wound.
 
 Some sorrows are about receiving harm. The Kind Healer's sorrow is about failing to prevent it — the compassion that drove her to tend the city's abandoned, and the failure that accumulated from every citizen she could not save, preserved in a figure that still walks the poorest districts, still heals, still carries the weight of every hand she held that went cold.
 ## 증언 (Testimonium) — The Testimony

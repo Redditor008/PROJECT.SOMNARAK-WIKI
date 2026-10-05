@@ -238,10 +238,10 @@ Each piece is a conditional extension of the Walker rather than ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Scar Walker takes: old wounds ache, in the order they were received, and faint bruising rises along the same lines. |
+| **During use** | The first sign that Scar Walker is charging: old wounds ache, in the order they were received, and faint bruising rises along the same lines. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wielder no longer notices Scar Walker's toll — reflexes dull. The wearer becomes slow to step aside and slow to give way, which on this post is the precise behaviour that provokes the entity — which is how every stand-down on this set has been caught. |
+| **After use** | Return, reconcile the baseline, and record whether Scar Walker's toll has reversed: reflexes dull. The wearer becomes slow to step aside and slow to give way, which on this post is the precise behaviour that provokes the entity. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Grade is not safety and on this post it is not even relevant. The Walker has struck four times in the record, all four after a warning that was given and ignored. What the grade cannot express is that the plate protects against the rarest event in this file and does nothing about the common one, which is an escort that will not be dismissed.
 

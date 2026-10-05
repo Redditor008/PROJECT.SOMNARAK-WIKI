@@ -238,10 +238,10 @@ Each piece is a conditional extension of Cenotaph rather than ordinary equipment
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Cenotaph the recorded cost is that old wounds ache and faint bruising rises, in the pattern of a load carried across the shoulders. |
+| **During use** | Watch for Cenotaph's toll — old wounds ache and faint bruising rises, in the pattern of a load carried across the shoulders — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wielder no longer notices Cenotaph's toll — reflexes dull and the wearer becomes slow to step off a surface that has started to move, which on this post is the exact hesitation the entity punish — which is how every stand-down on this set has been caught. |
+| **After use** | Piece returned; re-assess a week later, because what Cenotaph takes (reflexes dull and the wearer becomes slow to step off a surface that has started to move, which on this post is the exact hesitation the entity punish) does not present on the day. |
 
 **Stat interpretation:** The grades describe extraction stability rather than human safety, and on this post the two diverge sharply. The plate is dependable and the shrine is unremarkable. What no grade records is that the ring, which costs nothing measurable, leaves its wearer volunteering for every crossing on the roster.
 ## 관찰 기록 (Observation Log)

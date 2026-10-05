@@ -232,10 +232,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Candela the recorded cost is that the wielder carries the entity's unwept grief and weeps involuntarily, generally for somebody who is in the room and in good health. |
+| **During use** | The first sign that Candela is charging: the wielder carries the entity's unwept grief and weeps involuntarily, generally for somebody who is in the room and in good health. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer goes numb to small pleasures, and reports it first as being unable to enjoy anything that is going to end, without remission. On a Candela piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Candela's cost is still showing — the wearer goes numb to small pleasures, and reports it first as being unable to enjoy anything that is going to end. |
 
 **Stat interpretation:** The grades describe extraction stability rather than human safety, and on this post that gap is the whole story. Nothing here is decided by equipment. What the table cannot show is that the halo's wearers are the personnel most often relieved from duty on this wing, and that the recorded reason is never the entity.
 ## 관찰 기록 (Observation Log)

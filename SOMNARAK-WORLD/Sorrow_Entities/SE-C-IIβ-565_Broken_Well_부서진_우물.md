@@ -227,10 +227,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Broken Well's known toll: the wielder's old wounds ache. Opened at the end of the rotation, not before. |
+| **During use** | Watch for Broken Well's toll — the wielder's old wounds ache — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | Broken Well's cost is continuous rather than occasional: the wearer's reflexes dull, as if armored by resentment. The second worker's call stands against the wielder's. |
+| **After use** | Piece returned; re-assess a week later, because what Broken Well takes (the wearer's reflexes dull, as if armored by resentment) does not present on the day. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 

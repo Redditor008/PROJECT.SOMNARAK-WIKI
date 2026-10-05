@@ -234,10 +234,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Redacted's toll being that the wielder loses small, nameless memories with each use. |
+| **During use** | Watch for Redacted's toll — the wielder loses small, nameless memories with each use — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wielder no longer notices Redacted's toll — the wearer feels faintly absent to themselves — which is how every stand-down on this set has been caught. |
+| **After use** | Return the piece and check the sealed baseline: has Redacted's cost — the wearer feels faintly absent to themselves — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

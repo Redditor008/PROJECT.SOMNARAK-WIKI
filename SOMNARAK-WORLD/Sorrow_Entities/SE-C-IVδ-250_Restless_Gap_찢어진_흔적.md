@@ -234,10 +234,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Restless Gap's known toll: the wielder feels progressively heavier. Opened at the end of the rotation, not before. |
+| **During use** | Watch for Restless Gap's toll — the wielder feels progressively heavier — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wearer carries a constant low fatigue, and the wielder has stopped reporting it — the usual end point for a Restless Gap piece. The observer calls the limit. |
+| **After use** | Return, reconcile the baseline, and record whether Restless Gap's toll has reversed: the wearer carries a constant low fatigue. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

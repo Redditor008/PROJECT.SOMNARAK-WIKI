@@ -233,10 +233,10 @@ Each M.A.W. piece taken from Ephemera is a fragment of a place that was allowed 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Ephemera takes: the wielder's recent memories thin first, and they begin relying on written logs for events within the same shift. |
+| **During use** | The first sign that Ephemera is charging: the wielder's recent memories thin first, and they begin relying on written logs for events within the same shift. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer becomes difficult for colleagues to remember, and is repeatedly omitted from rosters, without remission. On a Ephemera piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Ephemera's cost is still showing — the wearer becomes difficult for colleagues to remember, and is repeatedly omitted from rosters. |
 
 **Stat interpretation:** Field performance and human cost are different axes, and for Ephemera's pieces the gap between them is wide. The rating measures what the equipment does to entities; it says nothing about the recall it consumes. An efficient piece can leave the wielder unable to account for their own shift, and a low-rated one can carry the same cost at a slower rate.
 ## 관찰 기록 (Observation Log)

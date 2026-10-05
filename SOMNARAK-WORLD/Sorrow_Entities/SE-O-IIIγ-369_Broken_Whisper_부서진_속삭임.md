@@ -266,10 +266,10 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Broken Whisper takes: the wielder carries the grief of an appeal that was never heard. Prolonged use causes involuntary weeping, typically mid-sentence and typically while . |
+| **During use** | The first sign that Broken Whisper is charging: the wielder carries the grief of an appeal that was never heard. Prolonged use causes involuntary weeping, typically mid-sentence and typically while . Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer goes numb to small joys, and finds conversation effortful in a specific way: they stop finishing their own sentences, and stop noticing tha, and the wielder has stopped reporting it — the usual end point for a Broken Whisper piece. The observer calls the limit. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Broken Whisper's cost is still showing — the wearer goes numb to small joys, and finds conversation effortful in a specific way: they stop finishing their own sentences, and stop noticing tha. |
 
 **Stat interpretation:** Field performance and human cost are separate axes and the grade only measures the first. An efficient piece from this source can still leave its wielder Fractured, hollowed, or carrying a stranger's last words as a private recollection. Read both columns, and authorise on the second.
 

@@ -271,10 +271,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Life Behind Glass's toll being that the wielder stops moving. Operatives have been recovered mid-engagement watching their own prism turn, uninjured, with no account of the intervening m. |
+| **During use** | Watch for Life Behind Glass's toll — the wielder stops moving. Operatives have been recovered mid-engagement watching their own prism turn, uninjured, with no account of the intervening m — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The shroud achieves composure by holding everything at one remove, and it does not distinguish between sorrow and anything else, without remission. On a Life Behind Glass piece the use ends there whatever the wielder says. |
+| **After use** | Return, reconcile the baseline, and record whether Life Behind Glass's toll has reversed: the shroud achieves composure by holding everything at one remove, and it does not distinguish between sorrow and anything else. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** These are α-grade numbers and they are honest ones — three to six damage, fifteen Echoes, no hidden performance. What the grades cannot express is that the entire set improves what its bearer can perceive and improves nothing about what they can reach. Read the Cost lines as the specification and the damage figures as a footnote.
 ## 관찰 기록 (Observation Log)

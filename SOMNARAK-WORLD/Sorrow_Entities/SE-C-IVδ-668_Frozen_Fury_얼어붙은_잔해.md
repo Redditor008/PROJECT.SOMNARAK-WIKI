@@ -270,10 +270,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Frozen Fury the recorded cost is that the wielder loses small, nameless memories, beginning with the names of streets they grew up on. |
+| **During use** | Every occurrence of what Frozen Fury takes (the wielder loses small, nameless memories, beginning with the names of streets they grew up on), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | Frozen Fury's cost is continuous rather than occasional: the wearer feels faintly absent to themselves, and reads official language with an accuracy that colleagues find difficult. The second worker's call stands against the wielder's. |
+| **After use** | Return the piece and check the sealed baseline: has Frozen Fury's cost — the wearer feels faintly absent to themselves, and reads official language with an accuracy that colleagues find difficult — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

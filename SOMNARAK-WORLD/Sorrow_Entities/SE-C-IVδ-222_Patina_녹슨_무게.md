@@ -270,10 +270,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Patina's toll being that the wielder's old wounds ache. |
+| **During use** | Watch for Patina's toll — the wielder's old wounds ache — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | Patina's cost is continuous rather than occasional: the wearer feels inherited anger toward strangers. The second worker's call stands against the wielder's. |
+| **After use** | Piece returned; re-assess a week later, because what Patina takes (the wearer feels inherited anger toward strangers) does not present on the day. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

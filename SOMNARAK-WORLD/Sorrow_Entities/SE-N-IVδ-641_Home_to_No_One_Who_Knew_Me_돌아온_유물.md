@@ -270,10 +270,10 @@ Each M.A.W. piece is a conditional extension of the source rather than ordinary 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Home to No One Who Knew Me's known toll: the wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also mislay small possessions at a rate the wing has measured and de. Opened at the end of the rotation, not before. |
+| **During use** | Watch for Home to No One Who Knew Me's toll — the wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also mislay small possessions at a rate the wing has measured and de — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wearer's reflexes dull and their sense of belonging somewhere dulls with them. Wearers describe their own quarters as a place they are staying, and the wielder has stopped reporting it — the usual end point for a Home to No One Who Knew Me piece. The observer calls the limit. |
+| **After use** | Return the piece and check the sealed baseline: has Home to No One Who Knew Me's cost — the wearer's reflexes dull and their sense of belonging somewhere dulls with them. Wearers describe their own quarters as a place they are staying — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Performance and human cost are separate axes and the grade measures only the first. An efficient piece from this source can still leave its wielder Fractured, hollowed or sorrow-bound, and the costs here attach to memory and place rather than to the body, so they are reported late or not at all. Read both columns, authorise on the second, and ask the wielder where they are from.
 ## 관찰 기록 (Observation Log)

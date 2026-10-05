@@ -233,10 +233,10 @@ Each piece remains part of the Ruin, and the set is built for watching over rath
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Repose the recorded cost is that the wielder weeps while using it, steadily, for a settlement they never saw. The disc is the quietest weapon in the δ catalogue and its bearer is freq. |
+| **During use** | Repose charging, which presents as this: the wielder weeps while using it, steadily, for a settlement they never saw. The disc is the quietest weapon in the δ catalogue and its bearer is freq. The wielder's own account is taken separately and afterwards. |
+| **At limit** | Repose's cost is continuous rather than occasional: the wearer dreams of every ruin they have passed. The second worker's call stands against the wielder's. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Repose's cost is still showing — the wearer dreams of every ruin they have passed. |
 
 **Stat interpretation:** The δ grades are high and honest. What the columns cannot show is that every cost in this set falls due during sleep — the weeping, the dreams, the unrefreshing rest — which means they are invisible in any assessment taken on shift. Read the Cost lines as the specification and ask the wearer about their nights.
 ## 관찰 기록 (Observation Log)

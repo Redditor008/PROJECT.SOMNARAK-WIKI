@@ -239,10 +239,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Sunken Pillar the recorded cost is that the wielder loses small, nameless memories with each use. |
+| **During use** | Sunken Pillar charging, which presents as this: the wielder loses small, nameless memories with each use. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The wearer feels every future that did not occur, and the wielder has stopped reporting it — the usual end point for a Sunken Pillar piece. The observer calls the limit. |
+| **After use** | Piece returned; re-assess a week later, because what Sunken Pillar takes (the wearer feels every future that did not occur) does not present on the day. |
 
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 

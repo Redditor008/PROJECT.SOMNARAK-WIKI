@@ -387,7 +387,7 @@ No record exists of the Door's making. No inscription explains its purpose. The 
 
 The Final Door is Object-Void: the sorrow of the unknown, the fear of what cannot be understood. It does not threaten. It simply is sealed, and the sealing implies a content, and the content is unknowable. The Keepers have theories — that the Door holds the city's final sorrow; that it leads to whatever existed before the Weeping; that it is the planet's own threshold, sealed by the world against what sorrow becomes at its limit. None can be tested. The one Keeper who, in the third millennium, laid a hand against the seal to measure its resonance reported nothing — no reading, no echo, no Han-response at all, as though the Door existed in a place where measurement itself had not yet been invented. The instrument returned a blank that the Keeper described, in a log later restricted, as the silence of a thing that is not hiding but simply does not register on any sense the living possess.
 
-Those who stand before the The Final Door feel the absolute weight of the unknown — the dread of a closure so complete that it carries its own authority, a threshold so sealed that opening it would require knowing better than whatever sealed it.
+Those who stand before the Final Door feel the absolute weight of the unknown — the dread of a closure so complete that it carries its own authority, a threshold so sealed that opening it would require knowing better than whatever sealed it.
 
 Some sorrows are about what is known. The Final Door is about what cannot be known — the sealed threshold, the unnamed content, the closure that predates the city and that the city has never dared to open.
 

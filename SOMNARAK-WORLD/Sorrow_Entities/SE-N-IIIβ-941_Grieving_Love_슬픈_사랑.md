@@ -240,10 +240,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Grieving Love's known toll: the wielder is visited, unbidden, by the faces of everyone they failed to comfort. Opened at the end of the rotation, not before. |
+| **During use** | Every occurrence of what Grieving Love takes (the wielder is visited, unbidden, by the faces of everyone they failed to comfort), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | Grieving Love's cost is continuous rather than occasional: the wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up. The second worker's call stands against the wielder's. |
+| **After use** | Piece returned; re-assess a week later, because what Grieving Love takes (the wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up) does not present on the day. |
 
 **Stat interpretation:** Ratings describe field performance, not safety. The Comforting Coil performs reliably yet can leave the wielder hollowed by old, unsourced grief for days.
 

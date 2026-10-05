@@ -358,7 +358,7 @@ The descendants carried the debt. And the carrying, over generations, produced a
 
 The Inherited Debt is Subject-Mind, Weight-element: the figure of a self that has become indistinguishable from its obligations — the descendant who carries the ancestors' guilt, payment, and shame so thoroughly that the carrying has replaced the carrier, the debt consumed the debtor, the inherited obligation became the identity.
 
-Those who come near the The Inherited Debt feel the helpless weight of hereditary obligation — the specific, crushing burden of inheriting debts you did not create, of carrying guilt you did not earn, of paying for crimes you did not commit, and of discovering, in the paying, that the debt and the self have merged, that you cannot set the obligation down because the obligation is, now, the thing you are.
+Those who come near the Inherited Debt feel the helpless weight of hereditary obligation — the specific, crushing burden of inheriting debts you did not create, of carrying guilt you did not earn, of paying for crimes you did not commit, and of discovering, in the paying, that the debt and the self have merged, that you cannot set the obligation down because the obligation is, now, the thing you are.
 
 Some sorrows are about debt. The Inherited Debt is about the debt that became the debtor — the obligations passed through generations until the descendants could not tell where the debt ended and they began, preserved as a figure that carries, in place of a self, the accumulated weight of every obligation an ancestry bequeathed.
 ## 증언 (Testimonium) — The Testimony

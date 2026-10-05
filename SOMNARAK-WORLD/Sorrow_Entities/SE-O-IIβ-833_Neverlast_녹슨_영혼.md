@@ -236,10 +236,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Neverlast the recorded cost is that the wielder weeps involuntarily, most often on arriving somewhere early and waiting. |
+| **During use** | Neverlast charging, which presents as this: the wielder weeps involuntarily, most often on arriving somewhere early and waiting. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The wearer goes numb to minor joys, and stops noticing when they themselves are kept waiting, and the wielder has stopped reporting it — the usual end point for a Neverlast piece. The observer calls the limit. |
+| **After use** | Piece returned; re-assess a week later, because what Neverlast takes (the wearer goes numb to minor joys, and stops noticing when they themselves are kept waiting) does not present on the day. |
 
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

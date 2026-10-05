@@ -244,10 +244,10 @@ Each piece is a conditional extension of the Bridge rather than ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Bridge to Nowhere takes: the wielder carries the Bridge's unwept grief and weeps involuntarily, most often on arriving somewhere familiar. |
+| **During use** | Bridge to Nowhere charging, which presents as this: the wielder carries the Bridge's unwept grief and weeps involuntarily, most often on arriving somewhere familiar. The wielder's own account is taken separately and afterwards. |
+| **At limit** | Bridge to Nowhere's cost is continuous rather than occasional: the wearer goes numb to small pleasures, and reports first that arriving anywhere has stopped feeling like anything. The second worker's call stands against the wielder's. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Bridge to Nowhere's cost is still showing — the wearer goes numb to small pleasures, and reports first that arriving anywhere has stopped feeling like anything. |
 
 **Stat interpretation:** Field performance and human cost run on separate axes, and this entity separates them unusually far. The requiem is effective and the shroud is dependable. What neither grade records is that the span, worn long enough, leaves its bearer unable to describe where they live without describing a road that was erased.
 ## 관찰 기록 (Observation Log)

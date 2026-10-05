@@ -234,10 +234,10 @@ The halberd belongs to the Gate's fabric and the plate to the Ferrehan stand. Th
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Barrier of Nothing takes: the wielder tires early and keeps tiring early for some weeks after handing it in. |
+| **During use** | Watch for Barrier of Nothing's toll — the wielder tires early and keeps tiring early for some weeks after handing it in — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wearer is hard to admit into a room. Crews report it before the wearer does, and the wielder has stopped reporting it — the usual end point for a Barrier of Nothing piece. The observer calls the limit. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Barrier of Nothing's cost is still showing — the wearer is hard to admit into a room. Crews report it before the wearer does. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

@@ -229,10 +229,10 @@ Each piece is a conditional extension of the Shard rather than ordinary equipmen
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Sleeping Shard the recorded cost is that small nameless memories go with every use, and the wielder cannot audit the loss, because the faculty that would have noticed is the one being spent. |
+| **During use** | Watch for Sleeping Shard's toll — small nameless memories go with every use, and the wielder cannot audit the loss, because the faculty that would have noticed is the one being spent — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wearer feels faintly absent to themselves, as though watching the shift from a short distance behind their own shoulder, without remission. On a Sleeping Shard piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Sleeping Shard's cost is still showing — the wearer feels faintly absent to themselves, as though watching the shift from a short distance behind their own shoulder. |
 
 **Stat interpretation:** Performance and cost are separate axes here and they do not move together. δ describes what the Shard can do to a team. It says nothing about the knife, which is efficient, cheap in Echoes, and the most expensive item in this wing once the account is kept in memories instead.
 

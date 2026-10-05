@@ -265,10 +265,10 @@ The set is drawn from the frame and the corrosion rather than from the glass, wh
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Cracked Mirror takes: the wielder loses small, nameless memories with each use. |
+| **During use** | Cracked Mirror charging, which presents as this: the wielder loses small, nameless memories with each use. The wielder's own account is taken separately and afterwards. |
+| **At limit** | Cracked Mirror's cost is continuous rather than occasional: the wearer feels faintly absent to themselves. The second worker's call stands against the wielder's. |
+| **After use** | Return the piece and check the sealed baseline: has Cracked Mirror's cost — the wearer feels faintly absent to themselves — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 

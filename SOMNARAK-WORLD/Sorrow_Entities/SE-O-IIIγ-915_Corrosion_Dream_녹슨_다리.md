@@ -228,10 +228,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Corrosion Dream's known toll: the wielder loses small, nameless memories, beginning with the names of places they intended to go and did not. Opened at the end of the rotation, not before. |
+| **During use** | The first sign that Corrosion Dream is charging: the wielder loses small, nameless memories, beginning with the names of places they intended to go and did not. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | Corrosion Dream's cost is continuous rather than occasional: the wearer feels everyone who cannot follow. The second worker's call stands against the wielder's. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Corrosion Dream's cost is still showing — the wearer feels everyone who cannot follow. |
 
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 

@@ -229,10 +229,10 @@ Each piece is a conditional extension of the entity rather than ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Forgotten Silence's known toll: the wielder carries the entity's unwept grief and weeps involuntarily, at intervals, for some time afterwards and generally not in the chamber. Opened at the end of the rotation, not before. |
+| **During use** | Every occurrence of what Forgotten Silence takes (the wielder carries the entity's unwept grief and weeps involuntarily, at intervals, for some time afterwards and generally not in the chamber), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | The wearer goes numb to small pleasures — the first mouthful of something hot, a joke landing — and does not notice the absence until somebody else do, without remission. On a Forgotten Silence piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece and check the sealed baseline: has Forgotten Silence's cost — the wearer goes numb to small pleasures — the first mouthful of something hot, a joke landing — and does not notice the absence until somebody else do — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Performance and cost run on separate axes and do not correlate. δ measures what the silence can do to a team that arrives carrying things. It does not measure the lens, which costs almost nothing in Echoes and makes every unspoken thing in a room legible to the wearer, including the ones addressed to them.
 

@@ -249,10 +249,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, The Masked Dancer's toll being that the wielder's old wounds ache. |
+| **During use** | The first sign that The Masked Dancer is charging: the wielder's old wounds ache. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer's reflexes dull, as if armored by resentment, without remission. On a The Masked Dancer piece the use ends there whatever the wielder says. |
+| **After use** | Return, reconcile the baseline, and record whether The Masked Dancer's toll has reversed: the wearer's reflexes dull, as if armored by resentment. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -352,7 +352,7 @@ The wish to move, denied, does not vanish. It sits in the muscles, in the joints
 
 The Dancer does not stop. It cannot. It dances for everyone who could not — every paralyzed limb, every caged body, every bedbound soul, every sorrow-heavy citizen who longed to move and was held still. Its dance is beautiful, and terrible, because it is built entirely of denied motion: every leap is a leap someone was too broken to make, every spin a freedom someone was caged out of, every step a step the sorrow-bound could not take.
 
-Those who watch the The Masked Dancer feel the ache of denied movement — the longing to rise, to run, to dance, held back by body or cage or grief. And they feel, too, the strange mercy of the Dancer: that someone, at last, is moving — performing the motion they were denied, keeping the wish alive in a body that can still move, even if it is not their body, even if they can only watch.
+Those who watch the Masked Dancer feel the ache of denied movement — the longing to rise, to run, to dance, held back by body or cage or grief. And they feel, too, the strange mercy of the Dancer: that someone, at last, is moving — performing the motion they were denied, keeping the wish alive in a body that can still move, even if it is not their body, even if they can only watch.
 
 The Dancer is part of the Masked Troupe, and it is the most mournful of the masks, because its joy is entirely borrowed from sorrow. It dances because others could not. It will never stop, because the denied, the paralyzed, the caged, the sorrow-bound will never stop wishing they could.
 

@@ -229,10 +229,10 @@ The rifle belongs to the corridor and has never been discharged in the zone. The
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Vanity Asleep the recorded cost is that small unremarkable memories go. |
+| **During use** | The first sign that Vanity Asleep is charging: small unremarkable memories go. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer feels faintly absent to themselves and reports it late, usually when somebody else mentions it first, without remission. On a Vanity Asleep piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Vanity Asleep's cost is still showing — the wearer feels faintly absent to themselves and reports it late, usually when somebody else mentions it first. |
 
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 

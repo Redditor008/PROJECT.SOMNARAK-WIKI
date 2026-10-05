@@ -272,10 +272,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Mirror of Soaking's toll being that the wielder's old wounds ache. |
+| **During use** | The first sign that Mirror of Soaking is charging: the wielder's old wounds ache. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | Mirror of Soaking's cost is continuous rather than occasional: reflexes dull, and the wearer becomes slow to answer provocation — which on this post reads as composure and is not. The second worker's call stands against the wielder's. |
+| **After use** | Return, reconcile the baseline, and record whether Mirror of Soaking's toll has reversed: reflexes dull, and the wearer becomes slow to answer provocation — which on this post reads as composure and is not. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** The grade tells you how hard a piece hits and nothing a supervisor needs here. What the table cannot show is that the lens makes its wearer able to see which anger in a room belongs to the room, and that three wearers have used it to rewrite conduct notes they had previously signed.
 ## 관찰 기록 (Observation Log)

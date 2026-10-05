@@ -225,10 +225,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Forgotten Shadow takes: the wielder feels the entity's unwept grief. |
+| **During use** | Every occurrence of what Forgotten Shadow takes (the wielder feels the entity's unwept grief), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | The wearer becomes numb to minor joys, and the wielder has stopped reporting it — the usual end point for a Forgotten Shadow piece. The observer calls the limit. |
+| **After use** | Return the piece and check the sealed baseline: has Forgotten Shadow's cost — the wearer becomes numb to minor joys — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 

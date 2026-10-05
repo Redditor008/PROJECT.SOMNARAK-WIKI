@@ -262,10 +262,10 @@ Each piece is a conditional extension of the Tree rather than ordinary equipment
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Homecoming Tree's toll being that the wielder carries the Tree's unwept grief and weeps involuntarily afterwards, generally once they are somewhere familiar. |
+| **During use** | Homecoming Tree charging, which presents as this: the wielder carries the Tree's unwept grief and weeps involuntarily afterwards, generally once they are somewhere familiar. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The wearer goes numb to small comforts — a familiar route, a known voice in the corridor — and tends to notice only when the shroud comes off, and the wielder has stopped reporting it — the usual end point for a Homecoming Tree piece. The observer calls the limit. |
+| **After use** | Return, reconcile the baseline, and record whether Homecoming Tree's toll has reversed: the wearer goes numb to small comforts — a familiar route, a known voice in the corridor — and tends to notice only when the shroud comes off. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Grade is not safety and here it is not even the main reading. The requiem is unremarkable in the field. What the table cannot show is that the leaf, which costs almost nothing, makes every map the wearer looks at resolve into somewhere they used to live.
 ## 관찰 기록 (Observation Log)

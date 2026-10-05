@@ -234,10 +234,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Cold Burn's toll being that the wielder loses small, nameless memories with each use. |
+| **During use** | The first sign that Cold Burn is charging: the wielder loses small, nameless memories with each use. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer feels faintly absent to themselves, and the wielder has stopped reporting it — the usual end point for a Cold Burn piece. The observer calls the limit. |
+| **After use** | Piece returned; re-assess a week later, because what Cold Burn takes (the wearer feels faintly absent to themselves) does not present on the day. |
 
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

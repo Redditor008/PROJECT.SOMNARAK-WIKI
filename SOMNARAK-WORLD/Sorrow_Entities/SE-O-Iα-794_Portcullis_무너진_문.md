@@ -271,10 +271,10 @@ Each piece remains part of the Door, and the set has one consistent property tha
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Portcullis's known toll: the wielder weeps while using it, without warning and without any accompanying feeling they can identify, and reports afterwards that the grief did no. Opened at the end of the rotation, not before. |
+| **During use** | Watch for Portcullis's toll — the wielder weeps while using it, without warning and without any accompanying feeling they can identify, and reports afterwards that the grief did no — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The shroud protects by closing. It shuts out the small sorrows and shuts out the small pleasures with them, and wearers describe the following days as, and the wielder has stopped reporting it — the usual end point for a Portcullis piece. The observer calls the limit. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Portcullis's cost is still showing — the shroud protects by closing. It shuts out the small sorrows and shuts out the small pleasures with them, and wearers describe the following days as. |
 
 **Stat interpretation:** These are α-grade numbers and they are not misleading: three to six damage, ten to fifteen Echoes, no concealed performance. What no rating on the sheet conveys is that the Key's few seconds of open passage cost its bearer the departure of every person who once waited behind that door. Read the Cost lines as the specification and the damage values as a footnote to them.
 ## 관찰 기록 (Observation Log)

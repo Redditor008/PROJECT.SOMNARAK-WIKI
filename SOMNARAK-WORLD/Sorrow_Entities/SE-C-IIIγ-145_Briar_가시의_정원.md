@@ -270,10 +270,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Briar's known toll: the wearer experiences continuous minor prickling against their ribs and shoulders. Opened at the end of the rotation, not before. |
+| **During use** | The first sign that Briar is charging: the wearer experiences continuous minor prickling against their ribs and shoulders. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The coronet leaves small red puncture dots across the hairline when unequipped, without remission. On a Briar piece the use ends there whatever the wielder says. |
+| **After use** | Piece returned; re-assess a week later, because what Briar takes (the coronet leaves small red puncture dots across the hairline when unequipped) does not present on the day. |
 
 **Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

@@ -347,7 +347,7 @@ The city took the voices. One by one the hundred and forty-four were taken — n
 
 But songs that are stopped mid-note do not vanish. They wait.
 
-The unfinished songs sank — into the amphitheater's stones, into the Weeping beneath Zone C, into the place where silenced voices go. And there, in the dark, they found each other. A hundred and forty-four voices, each holding the next note of a song that was never completed, wove themselves into a single chorus — not singing, not yet, but trying. Always trying. The amphitheater filled with a sound that was almost music and almost silence and neither: the The Hollow Choir, singing the unfinished songs of a hundred and forty-four citizens the city had muted for demanding justice.
+The unfinished songs sank — into the amphitheater's stones, into the Weeping beneath Zone C, into the place where silenced voices go. And there, in the dark, they found each other. A hundred and forty-four voices, each holding the next note of a song that was never completed, wove themselves into a single chorus — not singing, not yet, but trying. Always trying. The amphitheater filled with a sound that was almost music and almost silence and neither: the Hollow Choir, singing the unfinished songs of a hundred and forty-four citizens the city had muted for demanding justice.
 
 The Hollow Choir is a Subject-Spirit, Lament-element, contained in the Zone C amphitheater. It does not attack. It sings — or tries to. Those who hear it feel the ache of a word half-spoken, a note half-struck, a truth the city cut off before it could be finished. On the Consolihan the Choir swells, and for one day the amphitheater rings with what those voices might have said, if the city had let them.
 

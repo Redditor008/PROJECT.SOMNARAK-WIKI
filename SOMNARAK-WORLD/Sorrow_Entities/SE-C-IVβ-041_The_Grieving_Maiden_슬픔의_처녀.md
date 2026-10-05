@@ -239,10 +239,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from The Grieving Maiden the recorded cost is that the wielder feels the entity's unwept grief. |
+| **During use** | The Grieving Maiden charging, which presents as this: the wielder feels the entity's unwept grief. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The wearer becomes numb to minor joys, and the wielder has stopped reporting it — the usual end point for a The Grieving Maiden piece. The observer calls the limit. |
+| **After use** | Return the piece and check the sealed baseline: has The Grieving Maiden's cost — the wearer becomes numb to minor joys — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
@@ -337,7 +337,7 @@ The Grieving Maiden must be read as one address of a three-address problem, and 
 
 ## 이야기 (Narratio) — The Tale
 
-There was a mother who lost three children in three different ways, and the first child's death became the The Grieving Maiden.
+There was a mother who lost three children in three different ways, and the first child's death became the Grieving Maiden.
 
 The first child was the gentlest. She sickened slowly — a Han-fever, the Menders called it, the kind that comes on quiet and leaves the way it came, taking the child with it. The mother sat by the bed for weeks. She did everything the Menders instructed. She prayed, in the private way citizens pray when the Veil will not let them pray aloud. She held the child's hand as the fever rose and the breath thinned and the small body, which she had carried and fed and sung to sleep, grew light and cold and still.
 
@@ -347,7 +347,7 @@ The Grieving Maiden is that figure — the first of the Three Sisters, born of t
 
 The Three Sisters are kept together — they share a containment, and they distress when separated. Their mother, the woman who lost all three, still lives. She comes to the containment, and sits with her dead children's sorrow, and her presence calms them. The Grieving Maiden, when her mother sits beside her, weeps more softly — as though the presence of the one who grieved her is the only thing that eases the tears.
 
-Those who come near the The Grieving Maiden feel the specific helplessness of a parent's love defeated by biology — the grief that comes from doing everything and losing the child anyway, the tears that fall because there is nothing else left for them to do.
+Those who come near the Grieving Maiden feel the specific helplessness of a parent's love defeated by biology — the grief that comes from doing everything and losing the child anyway, the tears that fall because there is nothing else left for them to do.
 
 Some sorrows are about injustice. The Grieving Maiden's sorrow is about helplessness — the love that could not save, the tears that could not be stopped, preserved in a figure who weeps forever for the child she could not keep alive, and who weeps more softly only when the mother who lost her comes, at last, to sit beside her.
 ## 증언 (Testimonium) — The Testimony

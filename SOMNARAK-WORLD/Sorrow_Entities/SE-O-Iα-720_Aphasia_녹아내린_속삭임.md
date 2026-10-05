@@ -237,10 +237,10 @@ Each piece remains part of the Whisper, and the set is organised around a single
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Aphasia's known toll: old injuries ache and faint bruising surfaces along the lines of them. Nothing new is broken. Opened at the end of the rotation, not before. |
+| **During use** | The first sign that Aphasia is charging: old injuries ache and faint bruising surfaces along the lines of them. Nothing new is broken. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | Aphasia's cost is continuous rather than occasional: the plate responds a half-beat late, so that every reaction becomes a decision. Wearers describe it as always being about to say something and arrivin. The second worker's call stands against the wielder's. |
+| **After use** | Return the piece and check the sealed baseline: has Aphasia's cost — the plate responds a half-beat late, so that every reaction becomes a decision. Wearers describe it as always being about to say something and arrivin — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** The α grades are honest — three to six damage, ten to fifteen Echoes, no concealed performance. What the sheet cannot express is that this set's costs are all exerted on speech and hearing, which no rating column covers. Read the Cost lines as the specification.
 ## 관찰 기록 (Observation Log)

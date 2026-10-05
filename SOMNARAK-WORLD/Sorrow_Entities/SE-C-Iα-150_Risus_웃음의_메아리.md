@@ -244,10 +244,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Risus's known toll: the wielder carries the Echo's unwept grief and weeps involuntarily, most often immediately after laughing. Opened at the end of the rotation, not before. |
+| **During use** | Risus charging, which presents as this: the wielder carries the Echo's unwept grief and weeps involuntarily, most often immediately after laughing. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The wearer goes numb to small pleasures, and reports it first as other people's jokes arriving as information, and the wielder has stopped reporting it — the usual end point for a Risus piece. The observer calls the limit. |
+| **After use** | Return, reconcile the baseline, and record whether Risus's toll has reversed: the wearer goes numb to small pleasures, and reports it first as other people's jokes arriving as information. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** The grades describe extraction stability rather than human safety, and both are marginal here. Nothing on this post is settled by equipment. What the table cannot show is that the bell rings faintly whenever its wearer laughs, anywhere in the facility, and that most wearers stop within a month.
 ## 관찰 기록 (Observation Log)

@@ -287,10 +287,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Mourner's Bloom's known toll: the wielder weeps involuntarily, and cannot afterwards recall the moment at which any of their own griefs began. Opened at the end of the rotation, not before. |
+| **During use** | The first sign that Mourner's Bloom is charging: the wielder weeps involuntarily, and cannot afterwards recall the moment at which any of their own griefs began. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer goes numb to minor joys, and finds funerals easy, without remission. On a Mourner's Bloom piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Mourner's Bloom's cost is still showing — the wearer goes numb to minor joys, and finds funerals easy. |
 
 **Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

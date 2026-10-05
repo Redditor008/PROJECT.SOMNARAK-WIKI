@@ -263,10 +263,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Mourning a Life I Never Lived the recorded cost is that the wielder loses small nameless memories with each use, and does not notice the losses, which is why the usage log is countersigned. |
+| **During use** | Watch for Mourning a Life I Never Lived's toll — the wielder loses small nameless memories with each use, and does not notice the losses, which is why the usage log is countersigned — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wielder no longer notices Mourning a Life I Never Lived's toll — the wearer feels faintly absent to themselves, and reports it most often as other people's greetings seeming to be meant for somebody else — which is how every stand-down on this set has been caught. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Mourning a Life I Never Lived's cost is still showing — the wearer feels faintly absent to themselves, and reports it most often as other people's greetings seeming to be meant for somebody else. |
 
 **Stat interpretation:** The grades describe extraction stability rather than human safety, and here the distinction is unusually sharp. The glaive and the veil both perform. What the table cannot show is that the seed's bearers are the personnel most likely to withdraw long-standing applications and transfer requests, and that each of them described the decision as a relief.
 ## 관찰 기록 (Observation Log)

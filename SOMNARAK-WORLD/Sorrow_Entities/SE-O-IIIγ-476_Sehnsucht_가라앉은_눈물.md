@@ -271,10 +271,10 @@ The three pieces were not cut from the object, which has never been reached. The
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Sehnsucht's toll being that the wielder grows progressively heavier and ages slightly, and reports their own history as something carried rather than lived. |
+| **During use** | The first sign that Sehnsucht is charging: the wielder grows progressively heavier and ages slightly, and reports their own history as something carried rather than lived. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer carries a constant low fatigue, without remission. On a Sehnsucht piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece and check the sealed baseline: has Sehnsucht's cost — the wearer carries a constant low fatigue — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

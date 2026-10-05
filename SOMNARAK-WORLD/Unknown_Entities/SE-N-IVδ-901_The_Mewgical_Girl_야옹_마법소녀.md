@@ -240,7 +240,7 @@ Each M.A.W. piece carries both voices and must be treated as a conditional exten
 | **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; Mimi/Shu Shu control state, equipment color. |
 | **During use** | Activation time, voice overlap, charge time, beam color, bomb count, healing output. |
 | **At limit** | Duration, persona conflict, self-hit, Cartoon Soot, staff instability. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **After use** | Piece returned; re-assess a week later, because what The Mewgical Girl takes (the wearer is pulled into performing a happiness they do not feel) does not present on the day. |
 
 **Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. The Star-Staff's support rating is high, but its instability makes it the most psychologically demanding δ-grade focus on record.
 

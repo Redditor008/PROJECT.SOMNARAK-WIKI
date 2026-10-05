@@ -355,9 +355,9 @@ The fire crystallized. The mother's rage — the rage at injustice, the helpless
 
 She does not weep. She burns. She rages — quietly, contained, a steady deep-red fire that does not spread but does not go out, the perpetual fury of a parent whose child was murdered and who was not permitted, by the city, by the Giltong, by the order of things, to find and punish the one who did it. The Angry Maiden carries the fire that the mother was not allowed to wield.
 
-The three sisters are kept together. The mother visits. And the The Angry Maiden, when her mother sits beside her, burns lower — not out, never out, but lower, the way a fire dims in the presence of the one who lit it.
+The three sisters are kept together. The mother visits. And the Angry Maiden, when her mother sits beside her, burns lower — not out, never out, but lower, the way a fire dims in the presence of the one who lit it.
 
-Those who come near the The Angry Maiden feel the specific fury of justice denied — the rage of a parent who could not protect, who could not avenge, whose grief had a name and a target and was forbidden from reaching either, preserved now in a figure of fire.
+Those who come near the Angry Maiden feel the specific fury of justice denied — the rage of a parent who could not protect, who could not avenge, whose grief had a name and a target and was forbidden from reaching either, preserved now in a figure of fire.
 
 Some sorrows weep. The Angry Maiden burns — for the child killed not by sickness but by someone, and for the rage that, having nowhere to land, became a flame, and walks now as the second sister, burning quietly, forever, for the violence the city would not let her answer.
 ## 증언 (Testimonium) — The Testimony

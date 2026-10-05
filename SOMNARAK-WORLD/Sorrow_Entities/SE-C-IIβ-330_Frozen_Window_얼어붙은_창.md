@@ -236,10 +236,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Frozen Window's toll being that the wearer feels every departure reflected in the pane, creating a heavy sense of solitary confinement. |
+| **During use** | Frozen Window charging, which presents as this: the wearer feels every departure reflected in the pane, creating a heavy sense of solitary confinement. The wielder's own account is taken separately and afterwards. |
+| **At limit** | The right eye perceives the world in chilled blue tones, without remission. On a Frozen Window piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece and check the sealed baseline: has Frozen Window's cost — the right eye perceives the world in chilled blue tones — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 

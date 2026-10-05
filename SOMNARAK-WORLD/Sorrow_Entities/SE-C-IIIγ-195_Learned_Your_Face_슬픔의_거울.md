@@ -270,10 +270,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Learned Your Face takes: the wielder loses small, nameless memories with each use. |
+| **During use** | Watch for Learned Your Face's toll — the wielder loses small, nameless memories with each use — and record the hour it is first seen rather than the hour it is first mentioned. |
+| **At limit** | The wearer feels faintly absent to themselves, without remission. On a Learned Your Face piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece and check the sealed baseline: has Learned Your Face's cost — the wearer feels faintly absent to themselves — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)

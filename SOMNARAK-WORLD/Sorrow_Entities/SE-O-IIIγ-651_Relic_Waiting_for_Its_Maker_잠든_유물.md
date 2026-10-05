@@ -271,10 +271,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Relic Waiting for Its Maker's known toll: the wielder loses small memories with each use, and specifically intentions: errands set out on and abandoned, sentences begun and dropped, the reason. Opened at the end of the rotation, not before. |
+| **During use** | The first sign that Relic Waiting for Its Maker is charging: the wielder loses small memories with each use, and specifically intentions: errands set out on and abandoned, sentences begun and dropped, the reason. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wielder no longer notices Relic Waiting for Its Maker's toll — the wearer becomes unable to share secrets or ask for help — which is how every stand-down on this set has been caught. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Relic Waiting for Its Maker's cost is still showing — the wearer becomes unable to share secrets or ask for help. |
 
 **Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and the costs in this set are unusually abstract: purpose, intention, the thread of a task. Those are hard to notice losing and harder to describe at a review. Read both columns, authorise on the second, and ask the wielder what they were working on last month rather than how the piece performed.
 ## 관찰 기록 (Observation Log)

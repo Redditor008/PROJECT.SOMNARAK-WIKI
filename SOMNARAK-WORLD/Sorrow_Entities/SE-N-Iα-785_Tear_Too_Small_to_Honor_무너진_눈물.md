@@ -271,10 +271,10 @@ Each piece remains part of the Tear, and each one is slightly less impressive th
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, and a dated baseline against what Tear Too Small to Honor takes: the wielder weeps, at inconvenient times, for a loss that is not theirs and that they cannot name. Operatives have reported finding the weeping more h. |
+| **During use** | The first sign that Tear Too Small to Honor is charging: the wielder weeps, at inconvenient times, for a loss that is not theirs and that they cannot name. Operatives have reported finding the weeping more h. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | Protection is achieved by scale. The shroud discards every feeling below a certain size, and it does not distinguish between a small grief and a small, without remission. On a Tear Too Small to Honor piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether Tear Too Small to Honor's cost is still showing — protection is achieved by scale. The shroud discards every feeling below a certain size, and it does not distinguish between a small grief and a small. |
 
 **Stat interpretation:** Read the β grade against the α entity and the mismatch is the point: equipment cut from a Minor residue outperforms the residue itself, and nothing in either number records what the wearer gives up. Treat the Cost lines as the specification and the damage values as a footnote to them.
 ## 관찰 기록 (Observation Log)

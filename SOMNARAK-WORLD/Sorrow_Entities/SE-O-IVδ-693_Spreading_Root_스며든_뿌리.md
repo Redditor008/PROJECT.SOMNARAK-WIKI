@@ -228,10 +228,10 @@ Each piece is a conditional extension of the Root rather than ordinary equipment
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Spreading Root's toll being that the wielder grows heavier by degrees and ages slightly with prolonged use. Neither effect reverses, and both are recorded in hours rather than in uses. |
+| **During use** | Every occurrence of what Spreading Root takes (the wielder grows heavier by degrees and ages slightly with prolonged use. Neither effect reverses, and both are recorded in hours rather than in uses), timed. One is noted; a pattern across a shift ends the use. |
+| **At limit** | The wearer carries a constant low fatigue, without remission. On a Spreading Root piece the use ends there whatever the wielder says. |
+| **After use** | Return, reconcile the baseline, and record whether Spreading Root's toll has reversed: the wearer carries a constant low fatigue. Where it has not, the piece is not reissued to that wielder. |
 
 **Stat interpretation:** Performance and cost run on separate axes here. δ measures the spread and the pressure. It says nothing about the mantle, which is unremarkable in the field and anchors the wearer so thoroughly that two of them have had to be told, by colleagues, that the shift had ended.
 

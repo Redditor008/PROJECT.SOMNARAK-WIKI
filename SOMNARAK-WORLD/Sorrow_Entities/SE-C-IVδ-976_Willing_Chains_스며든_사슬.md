@@ -232,10 +232,10 @@ The set is drawn from the links, and the links are open, which the armoury consi
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, gauge, and one pre-check, Willing Chains's toll being that the wielder loses small, nameless memories with each use. |
+| **During use** | The first sign that Willing Chains is charging: the wielder loses small, nameless memories with each use. Logged with the hour by the second worker, never by the wielder. |
+| **At limit** | The wearer feels faintly absent to themselves, without remission. On a Willing Chains piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece and check the sealed baseline: has Willing Chains's cost — the wearer feels faintly absent to themselves — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
 
 **Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
