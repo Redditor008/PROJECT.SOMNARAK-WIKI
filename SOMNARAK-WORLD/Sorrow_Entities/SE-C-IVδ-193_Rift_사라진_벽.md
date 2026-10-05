@@ -28,7 +28,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per cycle, drawn along a line in the Old Lament where a party wall used to run. The yield is the highest ambient figure in Zone B and the station has never been able to say what it is being drawn from. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Weight pressure; 35% against other pressure types |
+| **Resistance** | 45% against Weight. There is nothing to resist; the holding is an absence on a line, and the four attempts to mark it physically have all been removed overnight — pegs, paint and a chalked string. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 25–55 per hit · Weight |
@@ -81,21 +81,21 @@
 | { *The Missing Barrier* [**Debuff**] } | "The wall is gone — and the space where it was aches with the weight of everything it held back." | [The Wall's absence presses on the target; they feel exposed.] | *Target suffers -10 Resolve; they are unprotected where they should be safe.* **[10 Weight DMG [Weight]]** | When the target crosses where the Wall was. |
 | { *The Phantom Barrier* [**Debuff**] } | "You still feel it — solid, cold, pressing — but it is not there." | [The ghost-weight of the vanished Wall settles on the target.] | *Target loses 10 Resolve; they brace against nothing.* **[10 Weight DMG [Weight]]** | When the target leans on the absence. |
 | { *The Returned Slam* [**Attack**] } | "The wall comes back for one instant — and slams into you with all its missing mass." | [The Wall briefly manifests at full weight, then vanishes.] | *Inflicts Weight pressure and one crushing, ghostly wound.* **[14-22 Weight DMG [Weight]]** | When the absence is probed. |
-| { *The Held-Back Flood* [**Attack**] } | "Everything the wall was holding back — all of it, at once, through the gap." | [The Wall's absence releases everything it contained.] | *A heavy Black flood; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the gap is forced wider. |
-| { *Every Wall Gone* [**Ultimate**] } | "Now there are no walls — anywhere — and everything rushes in from every direction." | [The Wall's absence spreads; all barriers vanish.] | *All personnel suffer Weight pressure for three turns with no walls at all.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Held-Back Flood* [**Attack**] } | "Everything the wall was holding back arrives through the gap at once." | [The absence releases what the boundary had been keeping apart — noise, weather, people, obligation.] | *24–36 Weight to anybody on the line; the three occurrences each coincided with a formal merger of two administrative areas.* **[24-36 Weight DMG [Weight]]** | When a boundary elsewhere in the city is abolished on paper. |
+| { *Every Wall Gone* [**Ultimate**] } | "For a few minutes there are no partitions anywhere in the district and everyone can hear everyone." | [Interior boundaries across the zone stop functioning as separations.] | *12–20 Weight per cycle for three cycles to everyone indoors.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, once; the district's complaints office received ninety-four submissions that week and none of them was about the entity. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team walks the line with the old ward plan, marks where the two sides differ in temperature, and notes the gap width. Nothing is pegged; pegs do not last the night.
 2. **Clash:** There is nothing to clash with. The crew holds the perpendicular approach from the marked station, states the history at the line, and reads the onset distance; the only way to make this holding worse in a session is to work across the line instead of along one side of it.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the history of the boundary before crossing**.
+3. **Resolution:** Name the history of the boundary before anything is said about the present — which two communities, when they were made one, and by whose order. 188 cycles; the gap narrows four to eleven centimetres after a full naming and not at all after a partial one.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resolve** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Rift reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- The failure here is describing the two sides as having always been one place. It is the standard courtesy of the district's own literature and it widens the gap every time.
+- Past about half an hour on the line the worker loses track of which side they started on. It sounds trivial and is the reason the plan is carried: three wardens have walked out of the wrong end of the street and filed from the wrong ward office.
+- The set's cost is sortition: wielders stop being able to tell which of two similar things is theirs — coats, lockers, reports — and all three have been returned other people's work without noticing.
+- An unnamed quarter widens the gap. It was 1.1 metres at the first survey and is 2.9 now; the only reductions on record follow a naming, and they are measured in centimetres.
 
 ## Appearance
 **Physical Form:** A wall-shaped absence along a surveyed line in the Old Lament — pressure on a perpendicular approach, a faint vertical bend in the air, and nothing on the floor. **Extent:** onset at 5.2 metres and rising at every review.
@@ -144,9 +144,9 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Rift is recorded as an Object/Place with Place-Grudge manifestation and Weight elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table applies and the measurement is the gap: the distance across the line at which the two sides stop matching — temperature, sound, the way dust settles. 1.1 metres to 2.9 in nine years. It widens when an administrative boundary is abolished anywhere in the city and narrows only when somebody stands on the line and says which two places these were.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede events. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** A falling reading means the two former wards were named with their dates and the order that merged them. It rises on mergers elsewhere, on literature describing the district as one community, and on anniversaries of the amalgamation.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -160,7 +160,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Rift: it is not a generic containment event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at Zone B, Old Lament — ambient, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+Escalation is width. Record the gap at the three marked stations, the difference in temperature across it, any administrative merger in the city that fortnight, and whether the naming was complete. A partial naming counts as none and the series shows why.
 
 **Response sequence:** stop work across the line and move both parties to one side, read the onset distance from the marked station, withdraw anybody not needed, and state the history at the line — built in Year 3972, demolished in Year 4106, two halves, one district. Nothing is to be built on the line, and no unlisted Work Type is to be improvised here; there is nobody in this holding for Flerehan or Pugnahan to reach.
 
@@ -173,7 +173,7 @@ The escalation pattern is specific to Rift: it is not a generic containment even
 | **Manifestation** | Place-Grudge |
 | **Primary effect** | Functional division of open space, and the loss of ordinary speech across the line. |
 | **Duration / rate** | Continuous. Onset widens between surveys and has never narrowed between them. |
-| **Risk** | Critical (δ) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ), carried for the width and the propagation rather than for injury. Nine years, three Floods, no fatalities, and a gap that has not once been recorded narrowing without a naming. |
 | **Management** | The crossing statement at the marked station: two dates, two halves, one district. |
 
 **Activation reporting order:** onset distance from the marked station → bearing of the line against the last survey → which side each worker was on → the statement made and by whom → effect on cross-line communication → duration. Viderehan and Ferrehan only, and the Viderehan work is mostly a record of the staff rather than of the entity.
@@ -185,7 +185,7 @@ The escalation pattern is specific to Rift: it is not a generic containment even
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
+**Appearance:** a two-handed maul with a seam down the head where two pieces have been joined so well that the Armoury's own smith cannot find the weld.
 
 **Damage:** Weight 10–15
 **Speed:** 3 (Fast)
@@ -198,15 +198,15 @@ The escalation pattern is specific to Rift: it is not a generic containment even
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Direct and Tick are scored separately against the same resistance. Neither is the real cost here; the maul exists for the wing's own reassurance and has been drawn on this holding twice, both times by people who later wrote that they had nothing to swing it at.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Rift's weight signature in the strike.
+**Ability:** Weight against the Han. Struck targets cannot tell, for some hours, which of two rooms they were in; fourteen strikes, fourteen reports, and in nine of them the two rooms were in different buildings.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder ages slightly, and begins mixing up which of two similar things belongs to them.
 
 ### M.A.W. Suit — The Wall's Absence
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a gossamer absence-veil of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a veil you can see the far side of a room through, cold against the skin, which hangs as though something were holding its far edge.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -224,13 +224,13 @@ The escalation pattern is specific to Rift: it is not a generic containment even
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a warm steel charm cast as two halves, joined, with the join on the inside where it cannot be inspected.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 to the working stat at this holding — the highest in Zone B — and nothing elsewhere, which the Armoury attributes to there being only one line like this one
 
-**Ability:** Grants a minor boon tied to Rift's sorrow; the effect mirrors the entity's nature.
+**Ability:** The bearer can feel where a boundary used to be — a filled doorway, a removed fence, a merged ward line — and has been used four times to recover plans the mapping office had lost.
 
 **Cost:** The bearer moves a little slower.
 
@@ -238,18 +238,18 @@ The escalation pattern is specific to Rift: it is not a generic containment even
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Rift's sorrow within the equipment may activate. and may produce an effect tied to Rift's element. The Stigma is Rift's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Every piece is made from a join, and the set gives its wielder a sense for boundaries that no longer exist and takes away their sense of which side of one they belong on. It is useful — four lost ward plans recovered — and the cost shows up in a locker room: three wielders, all three wearing somebody else's coat home at least once, none of them able to see the error when it was pointed out.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the gap at three stations, and a photographed inventory of the wielder's own kit with their name legible on each item. |
+| **During use** | Every item the wielder picks up that is not theirs, logged by somebody else. |
+| **At limit** | The wielder files a report under the wrong ward office. Three rotations; all three reports were competent and filed to a district they had no business filing to. |
+| **After use** | Reconcile the kit against the photographs and recover whatever has been swapped. The Armoury's note is that this takes twenty minutes and has never once been disputed by the wielder, who cannot see the difference either way. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade says how hard it hits and nothing about a set that dissolves its wielder's sense of which side they are on. Authorise on the photographed inventory.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -266,10 +266,10 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Rift as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone B, Old Lament — ambient. |
+| **Initial exposure** | The team walks a street that looks ordinary, with the old ward plan in hand, until the thermometer disagrees with itself across a metre of air. That disagreement is the holding; there is nothing else to find. |
 | **Sustained observation** | Onset distance quarter by quarter — 2.1, 3.4, 5.2 metres — with the bearing and the record of who crossed, who stated the history, and who turned back. |
-| **Activation or escalation** | The team records the first visible activation or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Rift's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Activation or escalation** | The gap widening, or a Flood. Record the width at three stations, the temperature difference, and the city's administrative amendments for the fortnight — the last field has preceded all three Floods. |
+| **Post-contact review** | Gap at three stations, temperature across it, the naming as delivered word for word, and whether both former wards were named with dates. A partial naming is recorded as a partial naming and not as a cycle. |
 
 **Observation method:** Onset distance on a perpendicular approach from the marked station, bearing against the last quarterly shot, the statement and its speaker, how each worker routes afterwards without being told to, and whether any work was attempted across the line. The onset distance is the session's number.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Rift (C-IVδ-193 [WP]) is logged as a Place-Grudge manifestation expressing Weight, ambient along a line in the Old Lament of Zone B where a district wall stood for 134 years. There is no material on the line and nothing can be built on it. The holding is surveyed rather than contained.
+Rift runs along a line in the Old Lament where a party wall stood between two wards that were lawfully made one community in Year 4,106 and lawfully prevented from acting like two ever since. There is nothing on the line. Across one metre of empty air the temperature differs, the sound differs, and the dust settles differently.
 
 **Entry 2 — <Excerpt from Quarterly Survey Return, Old Lament>**
 Perpendicular onset distance, measured from the marked station: 2.1 metres, then 3.4, now 5.2. The line's bearing is unchanged since the second shift. Onset rises in the quarter following any public statement that the district was never divided, and the wing has logged nine such statements and nine such rises.
@@ -295,9 +295,9 @@ We are keeping the crossing statements. The Office has asked us twice to stop, p
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Rift; the other feeds it.
+> The choice is in the naming: whether to say what the two places were, or to describe the street as the single community the literature says it is.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Name both wards, with their dates and the order that merged them. | Call it one street, which is true now and is what everybody says. |
 |---|---|
 | Tests whether the worker can cross without denying the division. The sorrow is borne; Rift is fully recorded. | Reveals what the wall separated and protected. The gauge climbs and Rift withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -310,11 +310,11 @@ You enter a room and stop at a line no one drew. Air presses against your chest.
 
 **At first contact:** You stop before you know why. There is a vertical bend in the air over a floor with nothing on it, and your chest meets pressure at a distance the station will have predicted to within a few centimetres. Approach perpendicular or you will not find it at all; crews walking the line's length have missed it entirely and written the holding up as quiet.
 
-**With continued exposure:** Time in the containment zone moves differently. The Weight pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Grudge is teaching you its sorrow.
+**With continued exposure:** You stop being able to say which side you came in from. It is not disorientation — the street is legible and the buildings are where they were — it is that the question of which half you are standing in stops having an answer.
 
 **When the entity activates:** When the Gauge tips, the Weight becomes a force rather than a feeling. The Place-Grudge was holding; now it releases.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Weight in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** You check which side of something you are on. Wardens coming off the line report it for about a day and the station's briefing calls it the mildest after-effect in Old Lament.
 
 ### Interaction Pattern
 
@@ -327,7 +327,7 @@ The Old Lament is ambient and holds several records at once, so interaction here
 
 Each row below is kept with its survey sheets, because the only reliable evidence of anything happening to this holding is a number taken a quarter later from a fixed station. Impressions from the floor have been wrong about this line in both directions.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What it is | What the gap did | Required record |
 |---|---|---|---|
 | **The Rusted Wall** | Both preserve divided communities. | Untested and refused. The Rusted Wall still stands; bringing a wall that exists to a line that cannot be built on is a question the wing has declined twice to ask. | The refusals and their reasons, in the chamber order. |
 | **Event** | Shares the grief of failed protection. | Observed at distance during an unrelated Old Lament event: onset here rose 0.4 metres for two days and did not return to its previous figure. The only recorded instance of another holding costing this one ground. | Onset at twelve-hour intervals, both holdings' survey sheets, and the figure it settled at. |
@@ -379,9 +379,9 @@ Some sorrows are about barriers built. Rift is about a barrier removed — the w
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The gap widens when the city abolishes a boundary on paper and narrows when somebody stands on this one and names what it separated. 1.1 metres to 2.9 in nine years, three Floods, each within a fortnight of a merger elsewhere. The district's own literature describes the street as one community, which is true, legally correct, and the thing that widens it fastest. The station has stopped asking for the wording to change and now simply sends the gap figures to the office that writes it.
 
-**Review requirement:** The review requirement: every a manifestation, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every a manifestation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every cycle: the gap at three stations, the temperature difference, the naming transcribed in full, and every administrative amendment in the city that fortnight. One standing item — the Year 4,106 amalgamation order is kept in the file in copy, because it is the only document that names both wards and the mapping office no longer holds one.
 ## Apex Record
 
 ### A Wall That Is Not There
@@ -449,8 +449,8 @@ The archive prints the Office's letters immediately after the minute, in full, w
 
 ### Registry Trivia
 
-- **Classification detail:** Rift is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone B, Old Lament — ambient.
+- **Classification detail:** Entity (IV) coherence at Critical (δ) — two communities, one order, and a line that neither of them crosses comfortably a hundred and thirty years later.
+- **Field detail:** Weight, ambient along one line in Old Lament, Zone B, measured at three marked stations with a thermometer and a tape.
 - **Recognition detail:** Onset distance, bend in the air, empty floor. The emotional reading is real and arrives after the pressure, never before it.
 - **Record detail:** Several holdings in this archive turn on a record that is absent. This one is not a record destroyed, nor a record nobody was required to make: the record here is *forbidden*, lawfully and for good reason, and the holding sits in the Old Lament alongside records that fail in entirely different ways. Check the designation before treating any of them as this one.
 - **Containment detail:** There is nothing to seal. The holding is a surveyed line in an inhabited district, and the only containment instrument that has ever worked on it is a sentence said out loud at a station.
