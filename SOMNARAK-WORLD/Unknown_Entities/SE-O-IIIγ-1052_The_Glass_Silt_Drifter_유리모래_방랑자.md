@@ -90,10 +90,115 @@ Caravan vanguards observe that the entity possesses no hostility toward pedestri
 2. **Thermal Suppressant:** If the drifter boards a crawler deck, vanguards must blast it with liquid nitrogen sprays to induce thermal shock fracture.
 3. **Piston Dampening:** When approaching known roosting craters, engineers must throttle steam vents to sub-audible levels to prevent triggering pursuit instincts.
 
+Management: throttle below 38 piston strokes a minute and let it fall back; do not outrun it, do not engage it, and keep the chain live.
+
 ## Eyewitness Testimony
 
 > *"We were three days out from Corner 1, engines running hot under the dual suns. That was when the red shimmer started matching our speed. You could hear it over the roar of our six boilers—a high, dry hiss like hot iron quenching in vinegar. It didn't want our cargo. It just wanted to know if we were running to someone, or running from something."*
-> — Master Driver Eun-Seok, Horizon Caravan  [지평선대]  , Year 4,235
+> — Master Driver Eun-Seok, Horizon Caravan [지평선대], Year 4,235
+
+## Containment Event Behavior
+
+> *"Pursuit event in progress. The Drifter is matching a crawler's piston rhythm and will hold station until the engine stops."*
+
+| Field | Detail |
+|---|---|
+| **Event Type** | Pursuit in place along the corridor; it does not leave the vitrified ground |
+| **Movement** | Glides the glass at up to 4.5 m/s, matching speed rather than closing. It has never overtaken a crawler and has never been recorded off the glass. |
+| **Effect** | Thermal friction and silica blast against the hull; crews report the noise before the heat. |
+| **First Target** | The loudest piston. In 41 escorted crossings the Drifter has taken station beside the hardest-working engine every time, and has never approached a stationary camp. |
+| **Escalation** | It holds station while the engine runs. Throttle below the sub-audible threshold and it falls back, which is the whole of the containment. |
+
+### Escalation Notes
+
+- The copper-chain decoy works because it sparks, not because it is metal; an unelectrified chain was trialled in Year 4,236 and was ignored on all four runs.
+- No pursuit has ended in a boarding where the crew throttled down inside ninety seconds. All three boardings on file followed a decision to outrun it.
+- Nothing it does is directed at people on foot. Walkers have passed within four metres of a pursuing Drifter and been ignored, which the caravans discovered by accident and now rely on.
+
+## M.A.W. Equipment
+
+> **Materialized Agony Wear (M.A.W.):** Grade γ. Extraction is taken from the vitrified shell after a thermal-shock fracture, never from the turbine, which has not been opened.
+
+### M.A.W. Weapon — The Courier's Edge
+
+**Type:** Weapon | **Grade:** γ | **Element:** Grudge
+
+**Appearance:** a long blade knapped from fused obsidian and copper slag, warm along the spine, which hums when carried at a running pace and is silent when walked.
+
+**Ability:** Grudge against the Body. Struck targets run — not flee; run, with purpose, toward whatever they were last trying to reach. Eleven strikes, eleven targets found further down the corridor in the direction of their own destination.
+
+**Cost:** The wielder cannot arrive. They reach places and immediately feel they are late for somewhere else, and both wielders have been stood down for walking out of camp at night.
+
+### M.A.W. Armor — The Slag Mantle
+
+**Type:** Armor | **Grade:** γ | **Element:** Weight
+
+**Appearance:** a shoulder-mantle of layered glass flakes that chimes faintly in wind and does not conduct heat in either direction.
+
+**Ability:** Resistance to thermal friction and silica abrasion; the reason vanguard crews can stand the deck during a pursuit rather than sheltering inside.
+
+**Cost:** The wearer stops noticing distance. Three vanguards have walked a full stage beyond their relief point and reported the stage as short.
+
+### M.A.W. Use Notes
+
+| Field | Requirement |
+|---|---|
+| **Before use** | Wielder, piece, the crossing's stage length, and the name of the relief who will physically stop them at the stage marker. |
+| **During use** | Every occasion the wielder proposes to press on past a marker, with the reason given. |
+| **At limit** | The wielder passes a marker without acknowledging it. Three occurrences, all on the Corner 1 run. |
+| **After use** | Return the piece at the stage post, not in camp, and have the relief countersign the arrival. |
+
+## 관찰 기록 (Observation Log)
+
+| Stage | What is recorded |
+|---|---|
+| **Initial exposure** | A red shimmer on the horizon matching the convoy's speed. Identification is the match: nothing else on the Sea of Glass keeps pace with a crawler for hours without closing. |
+| **Sustained observation** | Across 41 escorted crossings: pursuit distance, piston rate in strokes per minute, and the stroke rate at which the Drifter falls back. The fall-back threshold has held at 38 strokes per minute for four years. |
+| **Activation or escalation** | A boarding. Record the stroke rate at contact, the time to throttle down, and whether the chain was electrified. All three boardings had the chain cold. |
+| **Post-contact review** | Stroke rates, the fall-back point, cargo and crew losses (none to date), and the distance the Drifter held station before turning. |
+
+**Observation method:** Count strokes, not metres. The corridor is 2,400 km of mirror with no landmarks, and every crew that has tried to log this holding by distance has produced figures that disagree with the next crew's by a factor of two.
+
+## 이야기 보고 (Story Log) — Observation Entries
+
+**Entry 1 — Route Notice** The Drifter is a road hazard, not a target. Horizon Caravan's standing order is that no convoy is to engage it and no bounty is payable for shell fragments.
+
+**Entry 2 — Field Log** First escorted crossing, Year 4,235. Six boilers, three days out, and a red shimmer holding station for eleven hours before falling back at dusk when the engines were banked.
+
+**Entry 3 — Driver's Log** The entry the cadre quotes most: *"It didn't want our cargo. It just wanted to know if we were running to someone, or running from something."*
+
+**Entry 4 — Containment Notice** Electrified chain astern, pistons throttled below 38 strokes at known roosting craters, no engagement, no boarding response other than throttling down.
+
+**Entry 5 — Cadre Note** The couriers it formed from were carrying dispatches that were never delivered. The cadre has recovered nine message cylinders from the glass in four years, all sealed, none opened, and has lodged all nine with the Archive unread.
+
+## 감각 묘사 (Flavor Text)
+
+**At first contact:** A red shimmer on a mirror horizon, keeping exact pace. Then, over the boilers, a high dry hiss like hot iron quenched in vinegar.
+
+**With continued exposure:** You start matching your own pace to the engine. Crews describe checking the stroke counter the way other postings check a clock.
+
+**When the entity activates:** It comes alongside. There is no charge and no roar — a towering figure of fused glass, chest turbine spinning red, running level with the deck plates at the speed of a hard-worked crawler.
+
+**After departure:** You think about a message you have not sent. Nine of the eleven vanguards interviewed had one in mind, and four sent it from the next stage post.
+
+## Trivia
+
+- It has never been recorded off the glass. The vitrified corridor is 2,400 km long and the Drifter's whole known range is inside it.
+- Walkers are ignored entirely; the entity pursues engines. The caravans found this out when a broken-down crew walked four hours beside one.
+- Nine sealed message cylinders have been recovered from the glass in four years. All nine were lodged unread with the Archive, at the cadre's own request.
+- The fall-back threshold — 38 piston strokes per minute — is the only figure in this file that four separate crews have independently reproduced.
+
+### Entity Interaction Record
+
+| Related entity | What it is | What the pursuit did | Required record |
+|---|---|---|---|
+| **The Singing Needle** | The other Sea of Glass holding; an acoustic presence in the Crystal Peaks above the corridor. | Two crossings under the Needle's audible range. The Drifter fell back 40 km early on both, at a stroke rate well above its own threshold. Neither cadre can explain it. | Stroke rate at fall-back, and the Needle's audible range that day. |
+
+The corridor itself is the other half of this record and is not an entity: 41 escorted crossings, three
+boardings, no fatalities and no cargo lost, and no sighting anywhere beyond the vitrified edge. The escort
+log is the primary source for this dossier.
+
+**Interaction procedure:** Record stroke rate and fall-back distance for every crossing, whether or not anything else is present. There is no way to bring a second party to a 2,400 km corridor and the cadre has stopped proposing it.
 
 ---
 
