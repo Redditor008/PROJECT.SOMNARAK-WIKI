@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **111 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **89 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **66 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **117 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **91 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **68 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 165 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 167 / 302 |
 | Archive median prose generic fraction | 0.048 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -661,6 +661,53 @@ title of that holding. Series clause closed by restating the file's own figures 
 407/407, 12–18, 9–21, 5%, 1,104, 19/11/4, 9 and 7 points) — a **restatement, disclosed**.
 `verify.py` residual 1 is the Story Log Entry 1 opener, left standing as in the two units before it.
 
+**The second unit of this batch closed Perennial `N-IIβ-845` (`07a3f05`).** The file measured **12 dirty
+sections** (worst 관찰 기록 0.440) and failed the series clause: 5,858 → 8,195 words, `0 section(s)
+over 0.05`, `tpl.py` residue 0, `wikistd.py` meets `True`. `R-29` **66 → 67 / 301**; section-clean
+**89 → 90**; own numeric series 195 → **196**. Its instrument is the file's own excavation: the 1.5 m
+soil core holding four occupation layers, and the clearance log with its three measured refusals —
+full removal returning in **9 days** with the reading **up 11**, the burn in **6 days** with the patch
+**11 m** toward the old hearth line and **up 14**, and the transport off site **back inside a
+fortnight** with the crate found empty and undamaged and the figure **up 19** — against the 1–2 points
+a season an untouched site gives back. The classification, threat and containment lines were rebuilt
+from the SECC header and that clearance history; the `Each piece is a conditional extension …` stock
+M.A.W. opener was replaced with the file's own terms, which is the residue line this unit retired.
+Three interaction rows were authored. The **first pairing named *The Sorrow Flower***, which is not a
+dossier title: the catalogue's *The Sorrow Flower* is **Mourner's Bloom `C-Iα-330`**, and the row was
+written against that file's own record (the low creeper with the luminous maw, whose distinction from
+this patch is the one the row states), the Korean name 슬픔의 꽃 being what the file's row had matched
+on. The other two rows are The Drift Fog (no dossier; recorded as co-incident, not paired) and The
+Lost Prince `C-IVγ-091`. `verify.py` residual 1 is the Story Log Entry 1 opener, unchanged.
+
+**The third unit of this batch closed Survivors' Breath `O-IVδ-895` (`70db794`) — the floor of three.** The file measured
+**12 dirty sections** (worst 관찰 기록 0.388) and failed the series clause: 6,605 → 9,453 words,
+`0 section(s) over 0.05`, `tpl.py` residue 1 → 0, `wikistd.py` meets `True`. `R-29` **67 → 68 / 301**;
+section-clean **90 → 91**; own numeric series 196 → **197**. Its instrument is the rest-area audit:
+fourteen buildings on the trail's recorded routes, thirty-one floors, six with a staffed rest area,
+and median transit **2 h 10 m** where every floor the trail crossed is staffed against **3 h 40 m** on
+a night the market-wall post stood alone. The escalation was written in the file's own accounting —
+**10%** on the gauge per unrelieved hour, **5** a turn of Clarity drain, **10%** back each time a
+rested replacement takes the position — alongside the 910/910 line at 45%/35% resistance over 24
+turns and the 65% Ultimate line. The identified splice was the literal `someone else's .` left in the
+Field Use Record's after-use row (the `verify.py` seam), together with the `…before approaching.
+before Work or contact.` artefact in the Identification line; both removed. The whole Field Use
+Record, the Story Log's entries 2–5 (night watch log, declined fitness review, reissued containment
+notice, provision audit) and the stock interaction opener — measured this turn at 118 carriers — were
+replaced in this file. The two spot splices the tools found were repaired alongside them. Three interaction
+rows were authored, and two names reconciled to their codes: *Silence We Forgot We Made* →
+**Forgotten Silence `N-IVδ-489`** (the codex title of that holding) and *The Crumbling Saint* →
+**Deteriorata `C-IVγ-130`**; *The Undersong* again resolved to **Hollow Echo `N-IIα-125`**.
+`verify.py` residual 1 is the Story Log Entry 1 opener, unchanged.
+
+**Batch accounting, this batch (the corrected `R-26` ladder).** Three units were finished in it —
+Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's
+floor. The ladder does **not** ratchet to five, because this cohort's units are not simple by
+`R-26`'s test: 12 dirty sections each, full Interaction Records, 6,000–9,500 words. Residue-free moved
+111 → **117 / 302** across the batch and file-clean 165 → **167 / 302**; most of the residue movement
+is spillover — retiring shared stock lines in three files dropped several of them under ten holders,
+so they stopped counting against every remaining dossier. Stated here so the movement is not read as
+six further files cleaned.
+
 **Sandbox rollback caught and recovered, this turn.** Partway through the unit the checkout
 reverted to `408797c` with the whole working tree still carrying the pushed content — a restore from
 an older snapshot, not a remote change. Diagnosis before touching anything: `git ls-remote` showed
@@ -673,8 +720,9 @@ tree equals the pushed state file by file. `tools/syncbranch.py` refused the fas
 what it exists to do.
 
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
-`sectfile.py`; the worst files are now Perennial `N-IIβ-845` and Survivors' Breath `O-IVδ-895` at
-12, followed by Hums `C-IIβ-048` and Loom of Unlived Dreams `C-IVγ-176` at 11; (2) the `R-01` sweep
+`sectfile.py`, re-measured at the head of the next batch because the queue is never carried over;
+Perennial and Survivors' Breath came off it this batch, and Hums `C-IIβ-048` and Loom of Unlived
+Dreams `C-IVγ-176` stood at 11 each when last measured; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);
 (3) the 211 + 127 stock sentences; (4) the remaining single-clause gaps from the third-turn list.
 

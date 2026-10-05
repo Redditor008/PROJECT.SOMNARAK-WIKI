@@ -82,6 +82,38 @@ This file records notable changes to the public Somnarak Wiki.
     descent; one co-presence in which the crew's gauges fell and the vault's interval did not move)
     and The Grieving Colossus (no co-presence and none proposed; the two ledgers read together,
     neither holding ever fought).
+- **Workstream 9 / `R-29`: Survivors' Breath `O-IVδ-895` (2026-10-05)** —
+  - One `gate.sh` commit (`70db794`), growth-only: 6,605 → 9,453 words. Twelve dirty sections closed
+    — `0 section(s) over 0.05` — plus the open **series** clause (the file's own figures written into
+    the record sections: 910/910, 45%/35%, 24 turns, 60–80%, 65%, 5, 10%, 20–28, 4%, disclosed).
+    `tpl.py` residue 1 → 0; `wikistd.py` meets `True`. `R-29` **67 → 68 / 301**; section-clean
+    **90 → 91**; own numeric series 196 → 197; residue-free 112 → 117 / 302; file-clean 166 → 167 / 302.
+  - The instrument is the file's own rest-area audit: fourteen buildings, thirty-one floors, six with
+    a staffed rest area, and median transit **2 h 10 m** where every floor crossed is staffed against
+    **3 h 40 m** on a night the market-wall post stood alone. The escalation is the file's own
+    accounting — **10%** on the gauge per unrelieved hour, **5** a turn of Clarity drain, **10%** back
+    per rested replacement — and the Story Log's entries 2–5 were rebuilt as a night watch log, a
+    declined fitness review, a reissued containment notice and that provision audit.
+  - Two defects repaired: the literal `someone else's .` left in the Field Use Record's after-use row
+    (the `verify.py` seam) and the `…before approaching. before Work or contact.` artefact in the
+    Identification line. Three interaction rows authored; two names reconciled to their catalogue
+    codes (*Silence We Forgot We Made* → **Forgotten Silence `N-IVδ-489`**, *The Crumbling Saint* →
+    **Deteriorata `C-IVγ-130`**), and *The Undersong* resolved again to **Hollow Echo `N-IIα-125`**.
+- **Workstream 9 / `R-29`: Perennial `N-IIβ-845` (2026-10-05)** —
+  - One `gate.sh` commit (`07a3f05`), growth-only: 5,858 → 8,195 words. Twelve dirty sections (worst
+    관찰 기록 0.440) closed — `0 section(s) over 0.05` — plus the open **series** clause (the file's own
+    figures written into the record sections: 60%, 361/361, 8–20, 12–18, 5%, the 9/11, 6/14 and
+    fortnight/19 clearance readings, disclosed). `tpl.py` residue 1 → 0 (the stock
+    `Each piece is a conditional extension …` M.A.W. opener); `wikistd.py` meets `True`. `R-29`
+    **66 → 67 / 301**; section-clean **89 → 90**; own numeric series 195 → 196.
+  - The instrument is the file's own excavation: the 1.5 m soil core with its four occupation layers,
+    against the clearance log's three measured refusals — full removal back in **9 days** and **up 11**
+    points, the burn in **6 days** with the patch **11 m** toward the old hearth line and **up 14**,
+    the transport off site returned **inside a fortnight** with the crate empty and undamaged and the
+    figure **up 19** — versus the 1–2 points a season an untouched site gives back. Three interaction
+    rows authored; the pairing named *The Sorrow Flower* was written against its catalogue file,
+    **Mourner's Bloom `C-Iα-330`** (the Korean 슬픔의 꽃 is what the row had matched on), with The
+    Drift Fog recorded as co-incident and The Lost Prince `C-IVγ-091` by its code.
 - **Workstream 9 / `R-29`: Dismissed Cry `N-IIβ-560` (2026-10-05)** —
   - One `gate.sh` commit (`26bd011`), growth-only: 6,135 → 8,223 words. Twelve dirty sections closed
     — `0 section(s) over 0.05` — plus both open clauses: the **specific condition** (the generic
