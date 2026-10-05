@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 78 / 303 dossiers free of template residue.**
+**Counter: 81 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,14 +225,39 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  3972   (prose only; R-23 furniture excluded)
-median generic fraction       0.060
+shared 8-grams (>= 10 files)  3889   (prose only; R-23 furniture excluded)
+median generic fraction       0.056
 worst                         0.195
-clean at <= 0.05              135 / 303   (file level; section-clean is 57)
+clean at <= 0.05              140 / 303   (file level; section-clean is 60)
 ```
 
-**Counter: 57 / 303 dossiers section-clean (`R-27`) — every description-bearing section at or
-under 0.05. Secondary: 135 / 303 file-clean on the whole-file fraction.**
+**Counter: 60 / 303 dossiers section-clean (`R-27`) — every description-bearing section at or
+under 0.05. Secondary: 140 / 303 file-clean on the whole-file fraction.**
+
+**Fourth `R-27` batch, 2026-10-05 — three shipped, two held, and three repairs to my own earlier work.**
+
+| Dossier | Worst section before | Dirty sections | Instrument the repair gave it |
+|---|---|---|---|
+| Vanished Tree `C-Iα-622` | Behavior **0.845** | 7 | visible seconds per pass, 19 → 4, against the frontier map reissues |
+| Rift `C-IVδ-193` | Behavior **0.827** | 9 | the gap where two sides stop matching, 1.1 m → 2.9 m |
+| Flotsam `C-IIβ-782` | M.A.W. **0.806** | 10 | 611 outlined objects, 41 with a use anybody can still state |
+
+**Held: Broken Compass `C-IIβ-290` and Melting Rope `N-IIIγ-447`.** The turn went instead on three
+corrections to work done in earlier turns, which was the better use of it:
+
+1. **`every a manifestation`** — the `R-28` word sweep had produced ungrammatical stock in 36 files
+   (*"every a manifestation, every Sorrow Tide"*). Repaired.
+2. **`after any a transformation in place`** — the same fault in another 12 files. Repaired.
+3. **The sweep's own replacement sentences had become residue.** `R-28` wrote the same
+   `Event type (non-breach)` sentence into sixteen dossiers, which pushed it over the ten-file
+   sharing threshold and made it exactly the kind of generated line this workstream exists to
+   remove. Each is now built from the dossier's own name, location and recorded effect; maximum
+   repeat is 1.
+
+That third one is the lesson worth keeping: **a corrective sweep that writes the same sentence into
+more than nine files has created new boilerplate, and `R-23` applies to the fix as much as to the
+original.**
+
 
 **Third `R-27` batch, 2026-10-05 — five dossiers, worst section first.**
 
