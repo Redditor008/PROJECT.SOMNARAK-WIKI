@@ -82,6 +82,25 @@ This file records notable changes to the public Somnarak Wiki.
     descent; one co-presence in which the crew's gauges fell and the vault's interval did not move)
     and The Grieving Colossus (no co-presence and none proposed; the two ledgers read together,
     neither holding ever fought).
+- **Workstream 9 / `R-29`: Friendless Bridge `N-IIβ-488` (2026-10-05)** —
+  - One `gate.sh` commit (`ad7d6c7`), growth-only: 6,084 → 8,187 words. Twelve dirty sections closed
+    — `0 section(s) over 0.05` — plus both open clauses: the **specific condition** (the generic
+    `Enforce valid Work Types …` Management row replaced with the file's own two-signature condition)
+    and the **series** (restated in digits from figures the file already keeps: 60%, 25%, 386/386,
+    12–18, 5%, 2 sectors, 3 discoveries, disclosed). `tpl.py` residue 0; `wikistd.py` meets `True`.
+    `R-29` **64 → 65 / 301**; section-clean **87 → 88**; specific condition 239 → 240; own numeric
+    series 193 → 194.
+  - The file's mechanism carries the rewrite: the **proxy act** — one person doing what a pair should
+    have done — lengthens the span and raises the reading; the condition that closes it is both
+    parties entering the distance in their own hand, separately, with no proxy and no single
+    signature. Two real splice artefacts were repaired: `Identification Profile: The.` in the
+    first-contact paragraph, and `Tool Use Profile — I-Relic Operational Rule: The relic remains.`
+    in the Observation Progression and the Flavor Text. Three interaction rows were authored and
+    cross-read (Broken Promise, Bridge of the Unchosen, Inherited Debt); the existing row naming
+    *"The Frozen Bridge"* was reconciled to **Bridge of the Unchosen** `N-IIIγ-874`, whose Korean
+    name is 얼어붙은 다리 and whose record matches the row's description.
+  - `verify.py` residual 1 is the Story Log Entry 1 opener, left standing for the archive-wide reason
+    recorded in the Homecoming Tree entry.
 - **Workstream 9 / `R-29`: Homecoming Tree `C-Iα-869` (2026-10-05)** —
   - One `gate.sh` commit (`e699c8e`), growth-only: 5,479 → 7,270 words. Eleven dirty sections
     measured and closed — `0 section(s) over 0.05` — plus the series clause and the residue line;
