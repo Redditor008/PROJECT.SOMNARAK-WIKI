@@ -38,6 +38,34 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 17 / unit 1 — Risus `C-Iα-150` closed (2026-10-06)** —
+  measured at `b5e74bc`: **8 dirty sections**, worst Behavior 0.432 (a 57-dossier carrier as a single line),
+  then Expansion Behavior 0.222, M.A.W. Equipment 0.202, 관찰 기록 (Observation Log) 0.202, 감각 묘사 (Flavor
+  Text) 0.178, 최종 관찰 (Final Observation) 0.153, Combat Record 0.076 and Trivia 0.053. All eight closed in
+  three waves (21 + 18 + 8 sites); 5,506 → **6,188 words**; `tpl.py` residue already **0**; `verify.py` residual
+  1 → **0** (Story Log Entry 1's `is logged as` carrier); `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True** with the **series clause closed** on the file's own figures — **40 to 60** separable
+  voices, the same range at the most recent survey as at the first; **11** of them personnel voices, **4** still
+  employed; the first recognised staff laugh entered **19** years ago; the turn takes **40** minutes to **2** hours
+  — written into the counted Registrum Observation Notes as a digit restatement of its own numbers, **disclosed**
+  as such (number-words ruling still pending); the condition was **already satisfied and left alone** (`R-05`).
+  Four internal contradictions were reconciled against the header, each with its cause stated (`R-01`): the
+  Registrum classification line carried **Entity (IV) coherence, Major (γ) potency and Place-Lament** against a
+  `C-Iα-150` Minor-residue designation; the Comprehension Level read **3 — Advanced** against Level 1 in the
+  header, parameters and combat record; the Threat Assessment read **Minimal** against the header's Minor (α);
+  and the handling line named **Flerehan as the sole valid Work Type** against a behaviour table that marks it N/A
+  on an Object/Place. The Detailed Activation Record's `Object-Lament` manifestation was corrected to
+  `Subject-Lament`, and the Expanded origin context — which ended mid-sentence (*And in its existence.*) and
+  described a *containment unit* this ambient holding does not have — was replaced with the file's own survey
+  material. Six beneficial side effects in files this unit did not edit: **Floating Well `C-IIIγ-448` 7 → 6**,
+  **Echo of Kindness `C-Iα-240` 8 → 7**, **Mourner's Bloom `C-Iα-330` 10 → 9**, **Floating Tree `N-IIIγ-585`
+  8 → 7**, **Harvest Beyond the Gate `N-IIβ-627` 8 → 7** and **Border Tree `O-IVδ-151` 8 → 7**. Archive dirty
+  sections 932 → **918**; worst whole-file fraction steady at 0.124; median steady at 0.018. Movement: `R-29`
+  113 → **114 / 301** (own numeric series 223 → **224**); section-clean 137 → **138 / 301**; residue-free steady
+  at **183 / 302** (carriers 119, instances 240, lines 20); file-clean 219 → **220 / 302**. **Batch 17 stands at
+  one of three**; Floating Pillar `N-IIIγ-409` (7, 0.430) is next, The Dancing Chains `C-IIIγ-102` (6, 0.429)
+  behind it.
+
 - **Batch 16 / unit 3 — Weeping Statue `C-IIβ-055` closed, closing batch 16 at three (2026-10-06)** —
   measured at `a33eba6`: **2 dirty sections** — 최종 관찰 (Final Observation) 0.442 in 52 grams and Combat Record
   0.172 — closed in **one wave** of 15 sites; 7,375 → **7,705 words**; `tpl.py` residue 3 → **0**; `verify.py`
