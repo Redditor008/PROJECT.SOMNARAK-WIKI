@@ -374,7 +374,7 @@ Some sorrows are carried. Owed is a sorrow that, carried too long by too many, s
 **Common Name:** Owed
 **Containment Status:** Uncontained — Collector's Row, Zone C, standing in the open across a public thoroughfare. It is monitored rather than held; the forty-one fixed marks and the joint inspection of the diversion are the whole of the regime.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It has injured nobody and is the heaviest single load in the district. It grows continuously, it has never lost a dimension, it has closed a thoroughfare that thirty households open onto, and its collapse is treated in every contingency document as a facility-wide catastrophe. The earlier entry grading it Moderate is inconsistent with that treatment and is corrected here.
+**Threat Assessment:** Major (γ). It has injured nobody and is the heaviest single load in the district. It grows continuously, it has never lost a dimension, it has closed a thoroughfare that thirty households open onto, and its collapse is treated in every contingency document as a facility-wide catastrophe. A Moderate grade would not fit that treatment: the contingency documents plan for the wall's collapse as they plan for a facility-wide catastrophe, and the grade follows the planning.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type and the only one that lowers the gauge; Viderehan holds it level and is the only route to the contents of a block.
 - It cannot be removed, demolished, escalated or climbed down the far side; two demolition attempts are on file and both ended with the equipment destroyed and the structure unmarked.
