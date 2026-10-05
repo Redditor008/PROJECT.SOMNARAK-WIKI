@@ -377,6 +377,17 @@ The R.D. extracted the Heart-Preservation intact. It is kept in a sealed cell on
 
 **Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, re-verify beat count, amber shade against the reference card, handler pulse records, the darkening calendar against the casualty register, and the standing of the fatigue-management certification and the relief-rota proposal.
 
+### Entity Interaction Record
+
+The relations below are held to one test: whether a pairing can be warned. This holding's whole hazard is that the exposed are the last to know they are exposed, so the wing pairs it only with holdings that announce themselves, and files what the pair did rather than what it was expected to do.
+
+| Related entity | Canonical interaction | Observed operational effect | Required record |
+|---|---|---|---|
+| **The Kind Healer** | Two healers' remains, one walking and one kept: the Healer attends whoever is hurt and files about them; this specimen holds a list of the forty-seven its owner could not keep. A single pairing, arranged in the fortieth year, after the preventability audit. | One co-presence, forty minutes, at the marked distance. The Healer's shudder ran long without a treatment and its keeper timed it; the amber held its constant shade and the beat did not vary; both gauges were flat. The finding is a difference of column: the shudder measures a treatment performed, the darkening series measures a fault graded, and neither instrument has anything to read in the other. | The pairing duration, the shudder time, the shade reading, and both flat gauges. |
+| **Endless Shift** | The holding this specimen's composure is least safe against: there a shift whose hours stop agreeing with the body, here a bearer who cannot be startled by a shift running long. Never paired, and the standing order gives the reason in one sentence — a control that removes alarm is not brought to a site whose only warning is alarm. | No co-presence. The link is documentary: the lower-bay extension rests on this specimen's composure readings, and the Shift is the wing's standing illustration of a body whose hours have stopped agreeing with the clock. | The staffing papers' citation, the standing order, and both containment statuses. |
+
+**Interaction procedure:** No pairing with a holding that announces itself only through alarm. Where a pairing is arranged at all, the caller's count and the visiting holding's own instrument are run side by side and both filed whether or not anything moved; a null result is entered as a result and not as a gap.
+
 ## Watch Record
 
 ### It Is Still Beating
