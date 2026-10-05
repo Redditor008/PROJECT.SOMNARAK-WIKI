@@ -20,14 +20,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **128 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **101 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **78 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **129 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **102 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **79 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 178 / 302 |
-| Archive median prose generic fraction | 0.037 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 179 / 302 |
+| Archive median prose generic fraction | 0.036 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -869,6 +869,21 @@ Trivia containment bullet carried a splice no tool flags, and rewriting the Beha
 a **new** residual (the replacement contained the stock fragment *is logged as a*) that `verify.py`
 caught. Batch 5 continues at the floor of three: Cenotaph `N-IVδ-525` is the next measured head, and
 the third unit is to be re-measured at the head of the batch.
+
+**Batch 5, unit 2: Cenotaph `N-IVδ-525` closed.** The file measured **10 dirty sections** at the head of
+its unit (worst 관찰 기록 (Observation Log) 0.484, Behavior 0.420, Origin 0.336) and all ten were closed;
+6,193 → **7,044 words**; `tpl.py` residue 3 → **0** and `verify.py` residual 3 → **0**; `sectfile.py` ends
+at **0 section(s) over 0.05**. The **condition** clause was already satisfied and was left alone; the
+**series** clause closed by restating the file's own figures inside a real edit (Trivia `Field detail`:
+910 gauge · 45 / 35 per cent · 24 turns · 20–28 Han-Energy · 406 crossings in a quarter, 91 shared) — a
+restatement, disclosed. The record's instrument is the traffic register: solo crossings raise the gauge
+by ten and paired crossings lower it by the same, so containment is read on the register rather than on
+the door. Two long-standing splices were repaired in passing (the Registrum's *Per classification*
+shell, and the Field Use Record's *the exact hesitation the entity punish*). Movement: `R-29` 78 → **79 /
+301**, series 204 → **205**, section-clean 101 → **102 / 301**, residue-free 128 → **129 / 302**
+(instances 599 → 596, carriers 174 → 173), file-clean 178 → **179 / 302**, median 0.037 → **0.036**,
+worst 0.169 → **0.168**. Batch 5 remains open at the floor of three; the third unit is to be re-measured
+at the head of the unit rather than carried over (the measured heads behind these two were 10s and 9s).
 
 **Batch accounting, the batch before this one** — three units were finished in it —
 Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's

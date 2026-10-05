@@ -38,6 +38,26 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 5 / unit 2 — Cenotaph `N-IVδ-525` brought to the standard (2026-10-05)** —
+  - The file measured **10 dirty sections** (worst 관찰 기록 (Observation Log) 0.484, Behavior 0.420,
+    Origin 0.336) and all ten were closed; 6,193 → **7,044 words**; `tpl.py` residue 3 → **0** and
+    `verify.py` residual 3 → **0**; `sectfile.py` ends at **0 section(s) over 0.05**. **Condition**
+    was already satisfied and was not touched.
+  - **Series** closed by restating the file's own figures inside a real edit — the Trivia
+    `Field detail` bullet now carries 910 gauge, 45 / 35 per cent, 24 turns, 20–28 Han-Energy and
+    the quarter's traffic (406 crossings, 91 shared). A restatement, disclosed as such.
+  - The record's instrument is the traffic register: the gauge rises by ten for each solo crossing
+    and falls by ten for each crossing made in pairs, so containment is measured on the register
+    rather than on the door, and the working condition is that responsibility for the crossing is
+    stated aloud and shared. Every carrier was rebuilt on that — both combat action rows, the Tension
+    line (its broken parenthesis repaired), Resolution, the Behavior notes, the Appearance rows, the
+    four M.A.W. field rows and two appearance lines, the Observation Progression and method, the
+    Final Observation pair (share the crossing vs. take the whole of it), the flavour-text beat and
+    all three interaction rows. Two long-standing splices were repaired in passing: the Registrum's
+    *Per classification* shell and the Field Use Record's `the exact hesitation the entity punish`.
+  - Movement: `R-29` 78 → **79 / 301**, series 204 → **205**, section-clean 101 → **102 / 301**,
+    residue-free 128 → **129 / 302** (instances 599 → 596, carriers 174 → 173), file-clean
+    178 → **179 / 302**, median 0.037 → **0.036**, worst 0.169 → **0.168**.
 - **Batch 5 / unit 1 — Breach `N-IVδ-339` brought to the standard (2026-10-05)** —
   - The file measured **11 dirty sections** (worst 관찰 기록 (Observation Log) 0.459, Behavior 0.427,
     Origin 0.392, 기록 (Registrum) 0.343) and all eleven were closed; 6,040 → **7,249 words**;
