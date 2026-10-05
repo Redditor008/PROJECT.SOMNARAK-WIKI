@@ -41,7 +41,7 @@
 - The Bridge in the Gardens is complete and carries load, and both of its ends terminate in open ground.
 - Work steadies the structure. The ends are unchanged, and no survey has found anything they were built toward.
 - Viderehan and Ferrehan are the only approaches. There is no one here to weep with: the travellers shown on the span are being remembered, not present, and the file is strict that they are not to be addressed.
-- No breach counter applies. The crossing is logged as a structural load rather than a route; personnel do not cross it for access.
+- No breach counter applies. The crossing is entered as a structural load rather than as a route, and personnel do not cross it for access; the Gardens roster is written so that no task requires the far side, because there is no far side.
 - Residue is recovered from the deck under separate authorization.
 
 ## Combat Record
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types |
+| **Resistance** | 45% against Lament, which is what a remembered journey presses with; 35% against everything else. Neither figure has ever been the one the holding watches — the span's length is |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 837/837 |
 | **Han Pressure [ATK]** | 22–48 per hit · Lament |
@@ -81,18 +81,18 @@
 | { *The Lift* [**Debuff**] } | "The bridge begins to rise — tilting upward — and you are still on it." | [The Bridge's impossible ascent catches the target; the ground falls away.] | *Target suffers -10 Composure; they are rising with no way down.* **[10 Lament DMG [Lament]]** | When the target stands on the Bridge. |
 | { *The Inverted View* [**Debuff**] } | "The higher it goes, the smaller everything looks — and the grief looks different from up here: total." | [The Bridge's height distorts perspective; the target sees the whole sorrow at once.] | *Target loses 10 Composure; the view is devastating.* **[10 Lament DMG [Lament]]** | When the target looks down. |
 | { *The Falling Plank* [**Attack**] } | "A plank shakes loose — and the fall from here is very, very long." | [A plank drops from the rising Bridge.] | *Inflicts Lament pressure and one wound of vertigo and impact.* **[14-22 Lament DMG [Lament]]** | When the Bridge is shaken. |
-| { *The Apex* [**Attack**] } | "The bridge reaches its peak — and at the peak, there is nowhere left to go but down." | [The Bridge's summit triggers a catastrophic descent.] | *A heavy Deep Blue plunge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Bridge is overloaded. |
-| { *The Sky-Bridge* [**Ultimate**] } | "Every bridge in the field rises — and everyone is lifted, and there is no ground anymore." | [The Bridge extends its ascent across the whole area.] | *All in range suffer Lament pressure for three turns of impossible height.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Apex* [**Attack**] } | "The span stops climbing and the view keeps going up without you." | [The rise fails, and everything the Bridge was carrying arrives back at the deck at once.] | *A heavy Deep Blue plunge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the span is overloaded, or a crossing is turned back at the apex. |
+| { *The Sky-Bridge* [**Ultimate**] } | "Other spans in the Gardens start rising too, and none of them lead where they used to." | [The ascent spreads to every crossing in range and lifts whatever is standing on it.] | *All in range suffer Lament pressure for three turns of impossible height.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while a crossing is in progress. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Bridge to Nowhere by the path-stones and the absent gap. Other spans are recorded in Zone D; this is the one that rises over flat ground and carries stones from a road that is not on any current survey, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** Confirmation is the path-stones and the absent gap: worn flagstones from a road no current survey carries, laid over flat ground with nothing under them. Two Echo Gardens records are bridges and they are opposites, so the designation is settled before anything else. Positions are taken at the near footing rather than on the deck, and the span's length is measured before the cycle opens.
 2. **Clash:** Viderehan shows the former route and the people who used it, and holds the gauge steady while it does. Ferrehan asks the worker to walk the span and arrive nowhere — to cross a memory without treating it as a way of getting somewhere. The gauge falls on the second and only on the second.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Mark the crossing as memory and allow the Bridge to settle**.
+3. **Resolution:** The session closes when the crossing has been recorded as a memory with the road named out loud in the structure's presence, which is also the only thing on record that makes the Bridge thinner. The condition this record carries is **Mark the crossing as memory and allow the Bridge to settle**; a shift that ends with the span longer than it began has not closed, and the added length is entered against the crossing rather than against the crew.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
+- A worker who fights the span becomes the conduit: **Clarity** drains by the number of crossings they make rather than by the time they spend, and what they were resisting is entered back into the gauge as the length it added.
 - The effect intensifies with use rather than with duration. A worker who stands on the span for an hour is less affected than one who crosses it four times, because each crossing adds another person's journey to the one the worker thinks they are making.
 - The requiem, the shroud and the span are all made from a route that no longer exists. Each activation borrows the conviction that it still does, and the operator keeps a share. The recorded cost is not confusion. It is that the operator starts giving directions by landmarks that were demolished before they were born.
 - Left unaddressed, the Bridge does not rupture or roam. It lengthens. Each unrecognised crossing adds span, and the far end — which has never had a destination — continues further out over ground that has nothing on it.
@@ -116,10 +116,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A bridge rising from the Echo Gardens, made of dark memory-crystal and old path stones. It leads across no physical gap. |
-| **Position / movement** | Stationary — a structure or location. The Bridge to Nowhere file carries the series rather than a single reading. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | Fixed at the near end and unfixed at the far one. Record where the span begins, how far it reaches now, and whether it has risen over ground with no gap in it; the length is the measurement that matters and it is the one most often left out of a first report. |
+| **Material / signature** | Lament in memory-crystal and old road stone: record the salt-cold of the deck, the singing while the structure forms, and the moment the sound stops. The stones are warmer where they have recently been walked, which is a reading rather than a comfort. |
 | **Distinctive markers** | Identify it by the path-stones and the absent gap. Other spans are recorded in Zone D; this is the one that rises over flat ground and carries stones from a road that is not on any current survey. |
-| **Identification** | Verify these observations against the SECC code before work or contact begins. Two Echo Gardens records are bridges with opposite requirements, and confusing them puts a worker on the wrong span doing the wrong thing. |
+| **Identification** | Match the designation before contact. Two Echo Gardens records are bridges with opposite requirements, and the wrong one in mind puts a worker on the wrong span doing the wrong thing. |
 
 **Appearance protocol:** Record the materials and the singing. The deck is dark memory-crystal set with worn path-stones that belong to a road the survey no longer carries, and the structure sings while it is forming — the sound stops when it is complete. Note the travellers visible on the span, their number, and the direction they are walking, which is always away.
 
@@ -128,7 +128,7 @@
 - **The Sorrow:** The grief of a place remembered more vividly than the people who once crossed it.
 - **The Event:** An old route was erased, but its travelers continued dreaming of crossing it. Their memories raised a bridge in the Gardens.
 - **The People:** The users of an erased route, who kept dreaming of crossing it. The Keepers' record has the road's name and not theirs, which is the inversion this entity is made of: the place is remembered in detail and the people who walked it are not.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a merchant who sold everything. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **Expanded origin context:** The route survives in the archive on one earlier survey sheet, carried as a dotted line with no settlements marked at either end and annotated in a hand nobody has identified: in use, not maintained. The path-stones set into the deck match that sheet's description of the surface, including a repair pattern recorded nowhere else. The archive treats this as sufficient — the road existed, it was ordinary, and it was removed without anyone writing down why — and the record's own standard is that the road gets named and the travellers get written into the roll.
 
 ## Behavior
 
@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Bridge to Nowhere is recorded as an Object/Place with Place-Grudge manifestation and Lament elemental expression. The current record places it at Zone D, Echo Gardens; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Two of the four responses apply, and the reason is structural: there is nothing here to weep with and nothing to confront, so Flerehan and Pugnahan both return nothing. Viderehan shows the former route and the travellers on it and holds the reading flat; Ferrehan is the one that moves it, and it asks the worker to walk a memory without using it as a route. Both are carried out from the near footing rather than from the deck. A flat reading is not a quiet session either — a worker standing still costs the holding nothing, and a crossing costs it length.
 
 **Reading the response:** A falling gauge under Ferrehan means a worker crossed and did not arrive — they walked the span, acknowledged it as something that used to be, and came back the way they came. Stability under Viderehan is the correct result and not a failure. The gauge rises when the span is used: as a shortcut, as a route to the far side of the Gardens, as anything with a destination.
 ## Expansion Behavior
@@ -160,9 +160,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern here is measured in span rather than in turns: the Bridge gains length for every crossing made toward a destination, holds at whatever length it has reached for as long as nobody uses it, and shortens only when the route is named as erased. It is not a generic containment event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at Zone D, Echo Gardens, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern here is measured in span rather than in turns: the Bridge gains length for every crossing made toward a destination, holds its length for as long as nobody uses it, and loses length only when the erased route is named aloud. Record the length at first sight and the length at the close, the travellers visible and their number, and whether anybody crossed and why — a single reading cannot show growth, and growth is the whole event.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a manifestation or an expansion, remove nonessential personnel, and apply this condition: Mark the crossing as memory and allow the Bridge to settle. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** hold the near footing, identify whether the event is a manifestation or an expansion, clear the deck of everyone not on the roster, then apply the condition: **Mark the crossing as memory and allow the Bridge to settle**. The warden speaks to anyone approaching the line rather than touching them, because the people who try to cross are usually following a route their body remembers and they stop when addressed. No unlisted Work Type is to be improvised.
 
 
 ### Detailed Activation Record
@@ -173,7 +173,7 @@ The escalation pattern here is measured in span rather than in turns: the Bridge
 | **Manifestation** | Place-Lament|
 | **Primary effect** | Visitors experience another person's journey as their own. |
 | **Duration / rate** | Appears suddenly, then grows slowly. |
-| **Risk** | Critical (δ) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ). The exposure is participation rather than pressure: a crossing adds another person's journey to the one the worker believes they are making, and the file's own finding is that four crossings affect a worker more than an hour spent standing still. |
 | **Management** | Name the road, record the crossing as a memory, and post the span as not a route. The Bridge settles and thins; it does not have to be dispersed. |
 
 **Activation reporting order:** what was being remembered and by whom → the span's length at first sight → the travellers visible and their number → whether anyone crossed and why they crossed → the length at the close. Two lengths are required; a single reading cannot show growth, and growth is the whole event.
@@ -185,7 +185,7 @@ The escalation pattern here is measured in span rather than in turns: the Bridge
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that flickers with inner light.
+**Appearance:** a slender blade of Lament Han-crystal that sings faintly while it is being drawn and stops the instant it is still. The armoury has twice been asked to damp the tone; both requests are filed under the note that the requiem has no effect on anyone who cannot hear it.
 
 **Damage:** Lament 10–15
 **Speed:** 3 (Fast)
@@ -194,11 +194,11 @@ The escalation pattern here is measured in span rather than in turns: the Bridge
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** A line of up to three, which is how the requiem works everywhere — it follows a route through its targets rather than striking one.
+**Target Coverage:** A line of up to three — the requiem follows a route through its targets rather than striking one, which is how the lament behaves everywhere on this post.
 **Falloff Rule:** Full effect on the first, seventy per cent on the second, fifty on the third. The lament thins along the line in the way a remembered journey thins with retelling.
 **Damage Application:** Record the strike and the lingering effect separately. The lament lands once and the displacement persists through the shift, and reports that merge the two consistently understate how long a worker stays disoriented.
 
-**Ability:** Lament damage to the mind. The requiem carries the Bridge's signature — somebody else's journey arriving as your own — and what it opens in a target is the certainty that they are on their way somewhere.
+**Ability:** Lament damage to the mind. What the requiem opens in a target is the certainty of being on the way somewhere; it does not add a wound so much as a destination, and the destination is not theirs.
 
 **Cost:** The wielder carries the Bridge's unwept grief and weeps involuntarily, most often on arriving somewhere familiar.
 
@@ -206,7 +206,7 @@ The escalation pattern here is measured in span rather than in turns: the Bridge
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that gathers itself slightly tighter when the bearer is being led somewhere they did not choose.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -216,15 +216,15 @@ The escalation pattern here is measured in span rather than in turns: the Bridge
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Turns Lament aside from the mind, which is the only pressure here. The shroud is what lets a worker cross the span and still know which journey was theirs.
+**Ability:** Wards the mind against Lament, which is the only pressure this holding applies. The shroud is what lets a worker cross the span and still know which journey was theirs; it does not prevent the crossing and is not meant to.
 
-**Cost:** The wearer goes numb to small pleasures, and reports first that arriving anywhere has stopped feeling like anything.
+**Cost:** The wearer goes numb to small pleasures and reports first that arriving anywhere has stopped feeling like anything — a description the counsellors treat as a finding rather than as fatigue.
 
 ### M.A.W. Stigma — The Memory Span
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm on one face only. The warm face is the one the bearer is told to hold.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -234,20 +234,20 @@ The escalation pattern here is measured in span rather than in turns: the Bridge
 
 **Cost:** The wearer feels the final goodbye of everyone who crossed.
 
-*The span is not manufactured. The Bridge gives one to a worker who crossed it and turned back, and has given none to a worker who used it to reach the other side of anything.*
+*The span is not manufactured and cannot be requisitioned. The Bridge gives one to a worker who crossed and turned back; it has never given one to a worker who used the crossing to reach the other side of anything. Two are in the Gardens, and the file records which crossing each was given after.*
 
 ### M.A.W. Use Notes
 
-Each piece is a conditional extension of the Bridge rather than ordinary equipment, and the condition is that the route is past. Carried by an operator who treats it that way, the requiem and the shroud hold to grade. Carried by one who does not, the cost scales and the Lament in them becomes active, which here means the operator's own route home stops being the one they take. The span is given, not issued.
+The three pieces extend the holding rather than serving as equipment against it, and the condition running through the set is that the route is past. In the hands of somebody who treats it that way, the requiem and the shroud hold to grade. In the hands of somebody who does not, the cost scales and the Lament in them becomes active — the operator's own route home stops being the one they take — while the span is given rather than issued and is the only piece of the three that cannot be asked for.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Bridge to Nowhere takes: the wielder carries the Bridge's unwept grief and weeps involuntarily, most often on arriving somewhere familiar. |
-| **During use** | Bridge to Nowhere charging, which presents as this: the wielder carries the Bridge's unwept grief and weeps involuntarily, most often on arriving somewhere familiar. The wielder's own account is taken separately and afterwards. |
-| **At limit** | Bridge to Nowhere's cost is continuous rather than occasional: the wearer goes numb to small pleasures, and reports first that arriving anywhere has stopped feeling like anything. The second worker's call stands against the wielder's. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Bridge to Nowhere's cost is still showing — the wearer goes numb to small pleasures, and reports first that arriving anywhere has stopped feeling like anything. |
+| **Before use** | Wielder, piece, and a dated baseline taken by the second worker. This set's toll is a conviction rather than a symptom — the bearer carries the Bridge's unwept grief and weeps on arriving somewhere familiar — so the baseline is what the after-entry is read against. |
+| **During use** | Watch for the toll's presenting shape: the wielder weeps involuntarily, most often on arriving somewhere familiar, and the hour goes into the log by the second worker's hand. The wielder's own account is taken afterwards and separately. |
+| **At limit** | The cost is continuous rather than occasional: the wearer has gone numb to small pleasures and says that arriving anywhere has stopped feeling like anything. The second worker's call stands against the wielder's, and on this set it has always been the one taken. |
+| **After use** | Return the piece and ask a colleague rather than the wielder whether the cost is still showing — the wearer describes arriving as flat. The answer is entered whether or not the wielder agrees, because this is the set whose bearers lose the vocabulary for the thing being asked about. |
 
 **Stat interpretation:** Field performance and human cost run on separate axes, and this entity separates them unusually far. The requiem is effective and the shroud is dependable. What neither grade records is that the span, worn long enough, leaves its bearer unable to describe where they live without describing a road that was erased.
 ## 관찰 기록 (Observation Log)
@@ -266,18 +266,18 @@ Each piece is a conditional extension of the Bridge rather than ordinary equipme
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Bridge to Nowhere as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone D, Echo Gardens. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Initial exposure** | Take the length before anything else: where the span starts, how far it reaches now, and whether the ground beneath it holds a gap. Record the singing while the structure forms and the moment it stops. Confirmation comes from the path-stones and from the designation, in that order. |
+| **Sustained observation** | Viderehan shows the former route and the travellers on it and holds the reading flat; Ferrehan moves it by asking the worker to walk a memory without treating it as a way of getting somewhere. Nobody addresses the figures on the span — they are being remembered, not present. Record every crossing and the reason given for it, because the reason is the growth. |
 | **Activation or escalation** | Collective remembrance of an erased route. Everything else in this row is secondary to getting that one fact written down accurately. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Bridge to Nowhere's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | The report is incomplete without both length readings, the number of travellers visible, and every crossing with its stated purpose. The worker's own account goes in afterwards, in a column of its own, and the file reads it against the length rather than instead of it. |
 
-**Observation method:** Record the first sign, which is singing with no source; the first sensation, which is the conviction of being part-way through a journey; the span's length at entry and exit; and the condition that ends the encounter, which is the crossing being recorded as a memory. The Bridge thins and goes when the memory is fully recognised, and the file notes that this has only ever been achieved by naming the road out loud.
+**Observation method:** Singing with no source is the first sign and the conviction of being part-way through a journey is the second. Take the span's length at entry and at exit, the travellers and their number, and every crossing with the reason it was made. The encounter ends when the crossing has been recorded as a memory with the road named out loud — the file notes this has only ever been achieved by naming the road, and that the naming has to be audible from the deck.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Bridge to Nowhere (C-IVδ-260 [LP]) is logged as a Place-Grudge manifestation expressing Lament. The Bridge formed from a remembered crossing. Held at Zone D, Echo Gardens. The Bridge sings during formation.
+Containment file for C-IVδ-260 [LP], the holding called Bridge to Nowhere: an Object/Place with a Place-Grudge manifestation of Lament, formed from a remembered crossing and held at Zone D in the Echo Gardens. It spans nothing — both shores are gone — and it is measured by its length rather than by any pressure at the boundary.
 
 **Entry 2 — <Road Survey, Echo Gardens: Entry for an Erased Route>**
 The route is carried on no current survey. It appears on one earlier sheet as a dotted line with no settlements marked at either end, annotated in a hand nobody has identified: in use, not maintained. The path-stones set into the Bridge's deck match that sheet's description of the surface, including a repair pattern recorded nowhere else. The archive takes this as sufficient: the road existed, it was ordinary, and it was removed without anyone writing down why.
@@ -291,15 +291,15 @@ Work response — Viderehan: Reveals the bridge's former route and travelers. (S
 **Entry 5 — <Standing Instruction: The Span Is Not a Route>**
 The span is not a route and is not to be used as one. Personnel crossing for any operational reason — a shortcut, a line of sight, an equipment transfer — are the documented cause of its growth, and the Gardens roster is written so that no task requires reaching the far side, because there is no far side. Where a crossing is part of a scheduled session, it is to be walked out and walked back by the same person, and logged with the road named. The instruction is deliberately absolute. Every exception so far has added length.
 
-**Threat rating:** Minimal. A bridge spanning nothing, built from remembered crossings. Effect: walking it induces the grief of places remembered more vividly than the people who crossed them.
+**Threat rating:** Critical (δ), re-read after any crossing made for a reason and after any change to the Gardens survey. The figure is the length: every crossing with a purpose adds span, and naming the erased road aloud is the only thing on record that takes any of it back.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Bridge to Nowhere; the other feeds it.
+> The choice at the end of a session is what the crossing is recorded as: a remembered route named out loud and marked as past, or a way of getting somewhere.
 
-| Do the thing on file: Mark the crossing as memory and allow the Bridge to settle. | Depart from the condition for good reasons, as Bridge to Nowhere's record shows people do. |
+| Do the thing on file: name the road aloud, mark the crossing as memory, and let the span settle. | Use it — for access, for a shortcut, for the far side of the Gardens — which is the reasonable-looking thing and the one that lengthens it. |
 |---|---|
-| Requires the worker to cross a memory without claiming it as present. The sorrow is witnessed; Bridge to Nowhere is fully recorded. | Reveals the bridge's former route and travelers. The gauge climbs and Bridge to Nowhere withdraws without revelation. |
+| The road is named, the crossing is entered as memory, and the span thins where the survey line can measure it. | The crossing ends with a destination attached; the span grows by it and the growth is entered against the shift. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -308,30 +308,30 @@ A bridge rises between two trees where no water flows. The stones are warm with 
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A bridge rising from the Echo Gardens, made of dark memory-crystal and old path stones. It leads across no physical gap. Notable Features: It sings while forming, shows former travelers, and disappears when the memory is. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Place-Grudge form.
+**At first contact:** The singing arrives first — a low sustained tone with no source anywhere in the Gardens, audible before the structure is. Then the span is standing over flat ground: no water, no gap, no far bank, laid in worn flagstones that belong to a road the current survey does not carry. The figures on it are walking away at an unhurried pace, dressed for weather that is not this weather.
 
 **With continued exposure:** Sustained contact reveals the entity's rhythm — the Lament pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
 
 **When the entity activates:** Activation reshapes the room. The Lament that was atmospheric becomes directed — aimed, purposeful, alive in a way the containment protocols anticipated but never fully contain.
 
-**After departure:** Departure is not relief. The Place-Grudge is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** The tone stops when the structure is complete, which is the holding's only warning and the only one it relies on. What travels out with the crew is the sense of being part-way through a journey; crews are walked back to the near footing and do not look toward the sound, and the standing order is written on the finding that a person who has not seen the figures does not have to be talked back from the line.
 
 ### Interaction Pattern
 
-Bridge to Nowhere does not exist in isolation. Its recorded relationships with The Sunken Bridge, The Memory Rain, Risus should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three records are filed alongside this one because each was made out of the same loss of ground, and the archive pairs them by that subject rather than by any observed contact. None of the three is an ally or an enemy, and no co-presence has been logged with both holdings' readings attached except where a row says otherwise. What is measured here is length: whether the span grew toward the other holding, whether the travellers changed direction, and whether the far end acquired anything resembling a destination.
 
 **Interaction method:** Solo baseline across a full formation cycle, since the Bridge sings while it builds and is a different entity once it has stopped. In shared conditions record whether the span grew toward the other entity, whether the travellers changed direction, and whether the far end acquired anything resembling a destination.
 
 
 ### Entity Interaction Record
 
-The Bridge is filed with the Echo Gardens records, which hold several things made by the same loss of ground. The relationships below are what the archive will support. They are not alliances; they are what remains of a district's routes, and in proximity each makes the others look more like somewhere you could still go.
+The Echo Gardens hold several structures made by the same removal of ground, and these three are the ones whose material can share a formation cycle with the Bridge. None of the three is an ally or an enemy; the pairing is a shared loss, and in proximity each makes the others look more like somewhere you could still go.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Sunken Bridge** | Shares memories of crossings that failed. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Memory Rain** | Rain collects on its remembered stones. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **Risus** | Carries laughter from former travelers. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Sunken Bridge** | Both are crossings that failed; the Bridge went under and this one was raised again out of being remembered. | Entered as a shared subject: no co-presence has been logged with both holdings' readings attached, so the pairing is a filing reason rather than a measurement. | Record the span's length and the Sunken Bridge's own readings on the same date, and whether either structure's handling notes moved. |
+| **The Memory Rain** | Rain collects on this Bridge's remembered stones, which is the only recorded case of the Gardens putting water on a structure that spans nothing. | One co-presence is on file and the span did not lengthen during it; both readings were flat and the session is retained as a null result. | Record both readings before, during and after, and whether any traveller appeared dressed for rain. |
+| **Risus** | Carries laughter from former travellers; the Bridge carries their footing, and the two together are the only surviving account of the erased route in use. | Entered as a shared subject: no co-presence has been logged with both holdings' readings attached, and the file does not assume the two are ever in the same place at once. | Record the span's length and whether any traveller appeared mid-laugh, and whether the case is reported by both holdings. |
 
 **Interaction procedure:** Full-cycle solo baseline first, then the shared encounter: the length before and after, the distance at which the growth began, how long it continued once the other entity withdrew, and whether anybody crossed during the overlap. A crossing invalidates the measurement and must be recorded rather than omitted.
 
@@ -366,14 +366,14 @@ Some sorrows mourn a place. Bridge to Nowhere mourns a transit — the daily cro
 **Classification:** Sorrow Entity — `C-IVδ-260 [LP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Lament · Place-Grudge manifestation
 **Common Name:** Bridge to Nowhere
 **Containment Status:** Contained — Echo Gardens
-**Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Minimal. A bridge spanning nothing, built from remembered crossings. Effect: walking it induces the grief of places remembered more vividly than people.
+**Comprehension Level:** 2 — Basic
+**Threat Assessment:** Critical (δ), reviewed after any crossing made for a reason. The operative figure is the span's length: it grows by the crossing and loses length only when the erased route is named aloud.
 **Containment & Handling Procedures:**
-- Flerehan is the only valid Work Type.
+- Viderehan and Ferrehan are the valid Work Types; Flerehan and Pugnahan have no purchase on a structure. The posted warden speaks to anyone approaching the line rather than touching them.
 - The bridge goes nowhere; both shores are gone.
 **Observation Notes:**
 - Formed from millions of remembered crossings of an erased route.
-**Cross-References:** Echo Gardens · The Forgotten Market Stall
+**Cross-References:** Echo Gardens · The Sunken Bridge · The Memory Rain · Risus — filed under the loss of ground rather than observed contact; the rows above state the extent of each.
 **Faction Involvement:** SED (D-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** Citizens who crossed a route that no longer exists.
 
@@ -417,10 +417,10 @@ The protocol closes without a recommendation. It sets out the procedure, the con
 
 ### Registry Trivia
 
-- **Classification detail:** Bridge to Nowhere is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone D, Echo Gardens.
+- **Classification detail:** Bridge to Nowhere is filed at Critical (δ) with Entity (IV) coherence and an Object/Place role. The sheet reads 837 / 837, a 60–80 % opening gauge, 20–28 on the yield, 45 / 35 % resistance and 24 turns, with the ultimate waiting at 65 %; none of those has ever decided a session. The length has.
+- **Field detail:** Lament is the defining element and Zone D, Echo Gardens, the location. The series the file runs on is measured in span, the recognition that would end the structure has never been performed, and the traveler roll exists so that a dissolution would not take the last account of the people with it.
 - **Recognition detail:** Identify it by the path-stones and the absent gap. Other spans are recorded in Zone D; this is the one that rises over flat ground and carries stones from a road that is not on any current survey.
-- **Record detail:** Check the designation before approach. More than one Echo Gardens record is a bridge, and they are opposites — one wants to be crossed in pairs, this one wants not to be crossed at all.
+- **Record detail:** Check the designation before approach. More than one Echo Gardens record is a bridge and the two are opposites; the other is walked in pairs, and this one is not to be crossed at all.
 - **Containment detail:** A sealed Bridge still lengthens. Influence here is measured in span, not in pressure at the boundary, and the containment reading is a tape measure.
 ## Document Information
 

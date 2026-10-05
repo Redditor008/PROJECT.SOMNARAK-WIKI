@@ -38,6 +38,31 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 7 / unit 3 — Bridge to Nowhere `C-IVδ-260` brought to the standard, closing the batch
+  (2026-10-05)** — the live head of the remaining tier (Origin 0.392) —
+  - The file measured **10 dirty sections** (worst Origin 0.392, Behavior 0.370, Expansion Behavior 0.241,
+    관찰 기록 (Observation Log) 0.205, 감각 묘사 (Flavor Text) 0.205) and all ten were closed; 6,404 →
+    **7,301 words**; `tpl.py` residue was already 0 and `verify.py` residual 3 → **0** (the no-breach-counter
+    line, the M.A.W. use-notes shell and Story-Log Entry 1); `sectfile.py` ends at **0 section(s) over
+    0.05** and `wikistd.py` meets **True**. **Condition** was already satisfied and was not touched.
+  - **Series** closed by restating the file's own figures inside a real edit — the Trivia bullets now carry
+    837 / 837, the 60–80 % opening gauge, 20–28 on the yield, 45 / 35 per cent resistance, the 24-turn
+    encounter and the 65 % ultimate. A restatement, disclosed as such.
+  - The record's instrument is **the span's length**: it grows by every crossing made toward a
+    destination, holds while unused, and loses length only when the erased road is named aloud — and the
+    recognition that would end the structure has never been performed, on the standing clause that the
+    wing does not consider itself the party entitled to decide a crossing remembered by this many people
+    should stop existing (the petition is read to every incoming commander; the traveler roll exists so a
+    dissolution would not take the last account of them). Three internal contradictions were corrected as
+    cause (`R-01`): the Registrum's comprehension level of 3 against the SECC and Operational Parameters'
+    2, its claim that Flerehan is the only valid Work Type (the file's own table and behaviour notes record
+    Viderehan and Ferrehan), and its minimal threat assessment against the file's Critical (δ).
+  - Movement: `R-29` 85 → **86 / 301**, series 211 → **212**, section-clean 108 → **109 / 301**,
+    residue-free 135 → **136 / 302** (instances 542 → 530, carriers 167 → 166, distinct residue lines
+    42 → **41**), file-clean 189 → **190 / 302**, median and worst unchanged at 0.031 / 0.158.
+  - **Batch 7 is closed at three** (`b95095f` Redacted, `de321c3` Swallowed Fury, this unit), each unit
+    re-measured live at its own head. **Batch 8 opens at three** on the freshly measured tier.
+
 - **Batch 7 / unit 2 — Swallowed Fury `C-Iα-683` brought to the standard (2026-10-05)** — the live head
   after unit 1, and a file opened below the 6,000-word floor (5,256 words) —
   - The file measured **10 dirty sections** (worst 관찰 기록 (Observation Log) 0.465, Behavior 0.414,
