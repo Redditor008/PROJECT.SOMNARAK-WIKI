@@ -29,7 +29,7 @@
 | **Entity role** | Object |
 | **Primary pressure** | Void / Phantasmal pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per channel of no more than two minutes. The Watch's return records that the cycle is short, the counselling appointment attached to it is an hour, and the hour is the expensive part. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 30% against Void pressure; 21% against other pressure types |
+| **Resistance** | 30% against Void. The glass has never been struck; it shows a place that is not there and there is nothing in the chamber to resist anything. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 426/426 |
 | **Han Pressure [ATK]** | 14–23 per hit · Void |
@@ -80,16 +80,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's phantasmal pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
-| { *The Phantasmal Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void phantasmal sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[23 Void DMG [Void]]** | When the entity is cornered or starved. |
-| { *The Phantasmal Collapse* [**Ultimate**] } | "The phantasmal breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "There is a room on the other side of the glass and it is somewhere you know." | [The surface resolves into a place the viewer recognises.] | *Void pressure; 188 of 211 viewers named the place within a minute and all 188 named somewhere that no longer exists.* **[Void DMG [Void]]** | On any viewing. |
+| { *The Phantasmal Surge* [**Attack**] } | "Somebody is in the room, with their back to you, and you know who it is." | [A figure appears in the reflected place.] | *Void damage to the viewer; the figure is always somebody the viewer has lost and is never facing them.* **[Void DMG [Void]]** | Past about forty seconds of a viewing. |
+| { *The Settling* [**Attack**] } | "The figure begins to turn." | [The figure in the glass starts to face the viewer.] | *Heavy Void damage. Four occurrences; in all four the channel was closed before the turn completed, and the station's standing instruction is that it must be.* **[Void DMG [Void]]** | When a viewing runs past ninety seconds. |
+| { *The Phantasmal Collapse* [**Ultimate**] } | "Every reflective surface in the wing shows somewhere that is gone." | [The effect propagates across the sector's glass.] | *Void erosion to anybody who looks at a window for three cycles.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, once; the wing's windows were curtained for nine days. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Glass Elsewhere's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+1. **Tension:** Two in the chamber — one at the glass, one at the clock with the authority to close the channel — and the counselling appointment booked before the cycle starts rather than after it.
+2. **Clash:** None. There is a pane of glass showing a room that was demolished, and a person looking at it for ninety seconds.
+3. **Resolution:** The channel closes at ninety seconds and the log records the category of the place — *home*, *workplace*, *public* — and nothing else. 211 channels; no face has ever been identified in the log and the prohibition on identifying one is the oldest line in the file.
 
 ### Consequences
 
@@ -154,19 +154,19 @@ Glass Elsewhere is an Object with Object-Phantasmal manifestation and Void expre
 | **Breach Type** | Expansion |
 | **Movement** | The entity's phantasmal influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Void pressure radiates — the phantasmal register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever is at the glass. It has never shown anything to the clock-holder, in 211 channels, which is the entire basis of the two-person rule. |
+| **Escalation** | +5 Void drain per cycle while a viewing runs past ninety seconds. It does not pursue; closing the channel ends it within the second. |
 
 ### Escalation Notes
 
 - **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on event:** Starts at 40% and rises 10% a turn while a viewing continues past the limit. It falls 10% for each demolition in the district that is afterwards recorded with the names of the households that lived there, which the district has done eleven times.
 
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
-> **This Relic is Capable of Sector / Facility Alteration**
-> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+> **Open channel: this relic shows a place that has been demolished, accurately, including the people who were in it**
+> **An abandoned channel puts the same room into every window in the wing for a day**
 
 **Activation Trigger:** Physical contact and intentional interaction.
 
@@ -185,19 +185,19 @@ Glass Elsewhere is an Object with Object-Phantasmal manifestation and Void expre
 | **Activation** | Physical contact and intentional interaction. |
 | **Primary Effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
 | **Duration** | Continuous while channeled |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
+| **Termination / Return** | The clock-holder closes the channel at ninety seconds and says the date aloud. The viewer does not close it; in 211 channels not one has, and the file does not treat that as a failing. |
 | **Risk** | Prolonged contact causes cognitive and emotional fatigue. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** Continuous concentration, an open conduit, ninety seconds, and a second person whose only task is the clock. The second person has no other duty and is not permitted to look at the glass.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Glass Elsewhere begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Glass Elsewhere: Projects concentrated Void sorrow resonance across the immediate perimeter. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the accumulated grief of unacknowledged void. forged during a crisis in the city where void went unaddressed. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Glass Elsewhere's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Void shockwave: Prolonged contact causes cognitive and emotional fatigue. all personnel in the sector take heavy damage. |
+| 10 Seconds | The pane clears and there is a room behind it, in daylight, at an hour that does not match the chamber's. | The channel opens; the viewer can describe the place in detail and almost always does. |
+| 30 Seconds | The place is one the viewer knows and it is one that was cleared, burnt or demolished — 188 of 211, with the district's own records confirming it in 94. | Speed and focus up, composure down; the clock-holder begins counting aloud from here. |
+| 1 Minute | Somebody is in the room with their back turned. | 5 Void every 15 seconds. The clock-holder states the date every ten seconds from this point and has had to do so eleven times. |
+| 2 Minutes | The figure turns. No channel has been allowed to reach this point and the four that approached it were closed at the first movement. | Overload vents into the wing's glass. The station's note is that nobody knows what the turn completes into and that nobody is going to find out on their watch. |
 
 ### Escalation Notes
 
@@ -225,17 +225,17 @@ Escalation here is recorded in categories and durations. Log what class of thing
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that glows along its edge when readied.
+**Appearance:** a single-edged blade of near-colourless glass that shows, along its flat, a corridor nobody at the Armoury recognises.
 
 **Damage:** Void 11–19 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels void phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.
+**Ability:** Void against the Mind. Struck targets see, briefly, the room they most want to be in; fourteen strikes, and eleven of the fourteen named a place that has been demolished.
 **Cost:** The wielder experiences a persistent low-grade headache with each use.
 
 ### M.A.W. Suit — Glass Elsewhere's Veil
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a near-colourless veil that shows the wearer's own quarters in its folds — as they were, not as they are, which two wearers established by measuring the furniture.
 
 **Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -245,16 +245,16 @@ Escalation here is recorded in categories and durations. Log what class of thing
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a glass token, cool, with a door-number pressed into one face. The number corresponds to an address in a cleared street and the Armoury has not been able to decide whether to tell anybody whose.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect:** +1 to the working stat on this holding's channels, which run ninety seconds and are followed by an hour with a counsellor
 **Ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.
-*The Glass Stigma is not manufactured and cannot be requisitioned. It has been conferred five times, in every case on a Warden who logged a recognition against themselves, knowing that the entry ended their work on the row permanently.*
+*Five in nineteen years, in every case to a Warden who logged a recognition by category and did not name the place. Nineteen have named one; none has been given anything, and the file records that naming is a natural thing to do and is the reason the categories exist.*
 
 ### M.A.W. Use Notes
 
-Each Glass Elsewhere piece is an extension of a place that no longer exists, rather than ordinary equipment. The grade describes extraction stability. The cost is separate and is always the same: the bearer becomes unable to accept that anywhere has been replaced, which does not impair them and which the counsellors have never found a way to reverse.
+Each piece extends a place that no longer exists, and the set does to its wielder what the pane does to a viewer: it shows them somewhere gone, accurately, and asks nothing. The cost is that they begin preferring it. Three wielders; all three were found to have extended their channel time by small amounts, none of them deliberately, and the Armoury's check is the clock-holder's log rather than the wielder's account.
 
 ### Field Use Record
 
@@ -262,8 +262,8 @@ Each Glass Elsewhere piece is an extension of a place that no longer exists, rat
 |---|---|
 | **Before use** | Operator and grade; gauge; the operator's own state in their words; piece condition; objective; confirmation from the register that the operator has no relative, partner or close colleague recorded as Fractured; and the category list for the preceding watch. |
 | **During use** | Contact time, category of each appearance against the short list, duration of each, affected volume, first cost, and a yes or no on recognition. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the operator or by the Warden outside. |
-| **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and a counsellors' session offered within the shift and never made conditional on the operator describing anything. |
+| **At limit** | The viewer asks for ten more seconds. Eleven channels; the clock-holder refused in all eleven and the file records each refusal with the clock-holder's name, because refusing is harder than it reads. |
+| **After use** | How the channel was closed, by whom, the category logged, and the counselling session — offered within the hour and attended in 188 of 211 cases. |
 
 ## 관찰 기록 (Observation Log)
 
@@ -288,15 +288,15 @@ Each Glass Elsewhere piece is an extension of a place that no longer exists, rat
 
 **Entry 3 — Counseling Log** *<Interview, Warden, after a recognition entry>* — "I wrote yes in the box and I went off the row the same day and I have not asked anybody a single question about it since, which is the rule, and which I agree with, and which I think about most evenings."
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are the valid Work Types. Log categories only. Faces are not identified, not named in any log, and not reported to anybody inside or outside the facility. The rule is absolute and has no authorisation pathway. Resemblance is not identification and the standing order says so in those words.
+**Entry 4 — Containment Notice** Two in the chamber, ninety seconds, log the category only. Faces are not identified, not named, and not described; places are logged as *home*, *workplace* or *public* and nothing finer. The notice adds that the rule exists to protect the log and not the viewer.
 
 **Entry 5 — Director's Note** *<Minute on the establishment review>* — The projection derived from the category series is sound and I have accepted it. I note that the series is a count of faces, that we have told none of the families anything, and that the use we have made of them is to conclude that the district needs fewer of us.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Let the clock-holder close it at ninety. | Ask for ten more seconds — they are just about to turn round. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| A category in the log, a closed channel, and an hour with somebody afterwards. | A face, in your log, that the archive will then hold for ever. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -342,7 +342,7 @@ It does not rage and does not weep. It is a mirror that will not show you the ro
 **Threat Assessment:** Moderate (β). It cannot move, cannot reach, has never injured anybody and has never put anything through the glass. It is graded Moderate for what it does to the people who watch it and for the standing problem set out in the three sections below, which is not a containment problem and has never been one.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither can worsen the position.
+- Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither can worsen the position, there being nothing in the chamber to worsen.
 - Flerehan and Pugnahan are unavailable to an Object and are not to be improvised.
 - Monitor by category log, duration and recognition yes-or-no. Do not monitor by description, by sketch, or by any record of what a face looked like, and do not accept such a record if one is volunteered.
 
@@ -350,7 +350,7 @@ It does not rage and does not weep. It is a mirror that will not show you the ro
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument and are read together: the convergence study shows the resemblances carry real identity information, the law excludes identification by resemblance however convergent and however confident, and the facility has used the aggregate count to project a falling Fracture rate and reduce the district's establishment. Where observation contradicts this record, preserve the contradiction rather than normalising it.
+**Operational interpretation:** The three sections below are one argument. The pane shows places the city demolished, accurately enough that the district's own records confirm 94 of 188 recognitions, and it shows the people who were in them. The log records a category and never a face, which is the only thing standing between this holding and a register of the dead compiled from other people's grief. The gauge answers to something the wing does not control: it falls when a demolition is recorded with the households named, which the district has managed eleven times in nineteen years.
 
 **Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, recheck containment status, the category list, the recognition entries, the convergence study's agreement score against any new trial, the establishment projection, and the standing of the notification proposal, which is to be reported as outstanding for as long as it is outstanding.
 
@@ -412,7 +412,7 @@ The projection showed the district's Fracture rate falling. **The response estab
 
 The objection is minuted at the thirty-first review and at each of the four since, raised by the Floor N Keeper and supported by the author of the convergence study. It holds, first, that the facility has now taken value from the faces — a planning instrument it uses and relies on — while every family connected to those faces has received nothing and has not been told that the glass exists, so the one direction in which this holding has been made to pay out is the direction away from the people in it. Second, that the convergence study established that there is real information about particular people in the drawer, and the facility has read that finding as confirming the no-identification rule and has never once read it as a reason to look for a lawful route that is not identification. Third, that the aggregate derived from a count of the missing was used to send fewer people to the district where they went missing, which the objection does not allege was wrong and asks only to have written down in one place.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the thirty-second year at two counsellor posts — a notification scheme offering a family, on application only, the single fact that a reflection consistent with their relative was logged on a stated date, framed expressly as not an identification, delivered with support and never by letter — and that it has not been laid before the board in four years. And it records the sentence the Floor N Keeper asked to have entered verbatim, which now stands at the head of the category log:
+The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the thirty-second year at two counsellor posts — enough to offer the hour to every viewer on the day rather than within the week — and that the posts were not created. Attendance is 188 of 211 and the twenty-three who did not attend were all offered the session more than four days afterwards.
 
 *We have thirty-one years of them and we have never said a word to anybody, and the one thing we have done with them is work out that we could afford to send fewer people to the place they disappeared from.*
 

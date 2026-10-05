@@ -296,7 +296,7 @@ The vault is full of prayer without words. A sleeping figure rests beneath the r
 
 
 
-**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Body, pressing or releasing like a tide. Then the form resolves: Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh. The crystal is dark at the limbs and torso, but translucent around the chest and face, where old prayer-light moves slowly beneath the surface. The figure remains motionless with its hands folded against its body and its head lowered as if listening to a prayer spoken thousands of years ago. . The space does not become generic; it shifts in the specific register of All four.
+**At first contact:** From the gallery rail: a shape asleep below, too large for the chamber, and four elemental needles all registering at once — which no other holding in the registry does. The air is not thick or thin. It is simply very quiet, and stays quiet for the whole of the cycle.
 
 **With continued exposure:** The quiet becomes ordinary and the holding becomes background. Gallery staff describe forgetting it while looking at it, and the third post exists because two of them once wrote up a cycle as uneventful without mentioning what it was a cycle of.
 
