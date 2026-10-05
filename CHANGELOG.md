@@ -38,6 +38,28 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 18 / unit 3 — Tear Too Small to Honor `N-Iα-785` closed; batch 18 closed at three (2026-10-06)** —
+  measured at `7f1ddd1`: **10 dirty sections**, worst Origin 0.390 (the 48-dossier stock-tale carrier), then 이야기
+  보고 (Story Log) 0.364 (the same tale family again), Final Observation 0.192, Behavior 0.181 (the 39-dossier
+  *Work Type responses are not standalone data* line), Activation Behavior 0.163, Flavor Text 0.111, Observation
+  Log 0.093, M.A.W. 0.071, Combat Record 0.065 and Trivia 0.051. All ten closed in two waves (13 + 15 sites);
+  7,402 → **7,859 words**; `tpl.py` residue 1 → **0** (the 10-dossier generic `| **Management** | Enforce valid
+  Work Types …` row); `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged as`); `sectfile.py` ends at **0
+  section(s) over 0.05**; `wikistd.py` meets **True** with the **condition clause closed** — it had been **False**
+  because the file's only management line was the generic valid-Work-Types sentence, now re-authored to this
+  holding's own rule (the Tear is placed down deliberately by its bearer, nobody takes it from them, and the four
+  measurements are taken before and after the contact) — and the **series clause already satisfied and left alone**
+  (`R-05`; the measured series, 2.3 three weeks before 2.1, was already counted). Both stock-tale carriers were
+  replaced with the file's own material (the shape of the visitor's omission and the flower ring; the sealed
+  intake question and the blind measurement series). Five beneficial side effects in files this unit did not edit:
+  **Frozen Echo `C-IIIγ-609` 7 → 6**, **Memorial Flame Mid-Ceremony `C-IVδ-763` 8 → 7**, **Broken Fragment
+  `O-IVδ-115` 7 → 6**, **Ember Phoenix `O-IVδ-190` 7 → 6**, **Aphasia `O-Iα-720` 6 → 5**. Archive dirty sections
+  868 → **853**; the shared corpus thinned to **14** distinct residue lines, carriers 104 → **99** (under a
+  hundred for the first time), instances 183 → **173**; median 0.016 → **0.015**. Movement: `R-29` 118 → **119 /
+  301** (specific condition 254 → **255**); section-clean 142 → **143 / 301**; residue-free 198 → **203 / 302**;
+  file-clean 227 → **229 / 302**. **Batch 18 is closed at three** (Relic Waiting for Its Maker `O-IIIγ-651`, Protest
+  No One Remembers `O-IIIγ-371`, Tear Too Small to Honor `N-Iα-785`).
+
 - **Batch 18 / unit 2 — Protest No One Remembers `O-IIIγ-371` closed (2026-10-06)** — measured at
   `1f5ee90`: **11 dirty sections**, worst M.A.W. Equipment 0.238, then 감각 묘사 (Flavor Text) 0.216, Behavior
   0.155 (the 37-dossier *The behavior table is a snapshot, not a system* line), 이야기 보고 (Story Log) 0.152,

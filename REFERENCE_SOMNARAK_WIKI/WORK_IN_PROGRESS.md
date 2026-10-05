@@ -20,14 +20,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **198 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **142 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **118 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **203 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **143 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **119 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 227 / 302 |
-| Archive median prose generic fraction | 0.016 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 229 / 302 |
+| Archive median prose generic fraction | 0.015 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -1611,6 +1611,22 @@ section: Dreaming Ruin `N-IIIγ-505` 5 → 4, Myrmidon `O-IIβ-235` 7 → 6, Feu
 301**; section-clean 141 → **142 / 301**; residue-free 193 → **198 / 302**; file-clean 226 → **227 / 302**.
 **Batch 18 stands at two of three.**
 
+
+**Batch 18, unit 3: Tear Too Small to Honor `N-Iα-785` closed; batch 18 closed at three.** Measured at `7f1ddd1`:
+**10 dirty sections**, worst Origin 0.390 and Story Log 0.364 (both carriers of the stock-tale family, both
+replaced with the file's own material), then Final Observation 0.192, Behavior 0.181, Activation 0.163, Flavor
+0.111, Observation 0.093, M.A.W. 0.071, Combat 0.065 and Trivia 0.051 — all ten closed in two waves (13 + 15
+sites); 7,402 → **7,859 words**; `tpl.py` residue 1 → **0**; `verify.py` residual 1 → **0**; `sectfile.py` **0
+section(s) over 0.05**; `wikistd.py` meets **True** with the **condition clause closed** — it had been **False** on
+the generic valid-Work-Types management row, now re-authored to the holding's own rule (the Tear is placed down
+deliberately by its bearer and nobody takes it from them) — and the series clause already satisfied and left alone
+(`R-05`; its measured series, 2.3 before 2.1, was already counted). Five neighbouring dossiers each shed a
+section: Frozen Echo 7 → 6, Memorial Flame Mid-Ceremony 8 → 7, Broken Fragment 7 → 6, Ember Phoenix 7 → 6,
+Aphasia 6 → 5. Archive dirty 868 → **853**; residue lines 15 → **14**; carriers 104 → **99** — under a hundred
+for the first time; instances 183 → **173**; median 0.016 → **0.015**; worst steady at 0.119. Movement: `R-29` 118
+→ **119 / 301** (condition **255**); section-clean 142 → **143 / 301**; residue-free 198 → **203 / 302**;
+file-clean 227 → **229 / 302**. **Batch 18 is closed at three.**
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1675,14 +1691,18 @@ two waves, series closed on its own survey figures, the 66-dossier Registrum she
 replaced, four neighbouring dossiers each shedding a section); and The Dancing Chains `C-IIIγ-102` closed the batch
 as unit 3 (6 → 0 in two waves, **both open clauses closed** — condition on the file's own two-person removal rule,
 series on a disclosed restatement of its own fourteen collapse series and nine conduct entries — plus six
-neighbouring dossiers each shedding a dirty section). **Batch 18 stands at two of three**: Relic Waiting for Its Maker `O-IIIγ-651` came off the head as unit 1 (11 → 0 in
-two waves, both clauses already satisfied and left alone, the 52-dossier Behavior carrier and both stock-tale
-carriers replaced, plus Brume `O-IIγ-007` 6 → 5), and Protest No One Remembers `O-IIIγ-371` came off it as unit 2
-(11 → 0 in three waves, both clauses already satisfied and left alone, the 37-dossier Behavior line and the third
-stock-tale carrier replaced, plus Dreaming Ruin 5 → 4, Myrmidon 7 → 6, Feu Follet 7 → 6 and Thralldom 8 → 7). The
-final unit comes from the 10-dirty group: Tear Too Small to Honor `N-Iα-785` (10, 0.240), Conservatory `N-IVδ-852`
+neighbouring dossiers each shedding a dirty section). **Batch 18 closed at three**: Relic Waiting for Its Maker `O-IIIγ-651` came off the head as unit 1 (11 → 0 in two
+waves, both clauses already satisfied and left alone, the 52-dossier Behavior carrier and both stock-tale carriers
+replaced, plus Brume `O-IIγ-007` 6 → 5); Protest No One Remembers `O-IIIγ-371` was unit 2 (11 → 0 in three waves,
+both clauses already satisfied and left alone, the 37-dossier Behavior line and the third stock-tale carrier
+replaced, plus Dreaming Ruin 5 → 4, Myrmidon 7 → 6, Feu Follet 7 → 6 and Thralldom 8 → 7); and Tear Too Small to
+Honor `N-Iα-785` closed it as unit 3 (10 → 0 in two waves, **condition clause closed from False** on the file's own
+deliberate-set-down rule, plus Frozen Echo 7 → 6, Memorial Flame Mid-Ceremony 8 → 7, Broken Fragment 7 → 6, Ember
+Phoenix 7 → 6 and Aphasia 6 → 5). **Batch 19's tier is headed by the 10-dirty group** — Conservatory `N-IVδ-852`
 (10, 0.091), Pent `N-IVδ-821` (10), Frozen Fury `C-IVδ-668` (10, 0.335, series open) and The Frozen Veil
-`C-IVδ-103` (10, 0.111); Labyrinth of Stolen Faces and Torpor
+`C-IVδ-103` (10, 0.111) — with the 9-dirty group behind them (Scar Walker `O-IIIδ-011`, Broken Tear `N-IVδ-517`,
+Mourner's Bloom `C-Iα-330`, Stranded Between Two Shores `C-IVδ-823`, Floating Shard `C-IVδ-503`, Candela
+`C-IVδ-165`); Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);
