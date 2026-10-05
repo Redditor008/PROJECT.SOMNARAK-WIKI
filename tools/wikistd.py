@@ -51,14 +51,26 @@ def own_series(s):
     return False
 
 
+def entity_code(path, text):
+    """The registry code a disposition row is filed under: the code in the filename
+    (the Document ID). The first backticked code inside the file is the wrong key for
+    the Kind-Healer progression variants (071b, 071c): the Catalog files them under the
+    base code while their Designation field carries the progressed state."""
+    m = re.match(r'SE-([A-Z]-[IVX]+[\u03b1-\u03c9]-\d+[a-z]?)_', os.path.basename(path))
+    if m:
+        return m.group(1)
+    m = re.search(r'`([A-Z]-[IVX]+[\u03b1-\u03c9]-\d+[a-z]?)', text)
+    return m.group(1) if m else None
+
+
 def check(path, classified, shared):
     s = io.open(path, encoding='utf-8').read()
     res = {}
     res['parity'] = [name for name, keys in PARITY if not any(k in s for k in keys)]
     res['condition'] = condition(s) is not None
     res['series'] = own_series(s)
-    code = re.search(r'`([A-Z]-[IVX]+[\u03b1-\u03c9]-\d+[a-z]?)', s)
-    res['disposition'] = bool(code) and code.group(1) in classified
+    code = entity_code(path, s)
+    res['disposition'] = bool(code) and code in classified
     dirty = 0
     for _, body in sect.split_sections(s):
         g = sect.grams(body)
