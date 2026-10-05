@@ -20,14 +20,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **145 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **117 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **94 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **146 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **118 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **95 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 198 / 302 |
-| Archive median prose generic fraction | 0.028 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 199 / 302 |
+| Archive median prose generic fraction | 0.026 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -1213,6 +1213,24 @@ Movement: `R-29` 93 → **94 / 301**, section-clean 116 → **117 / 301**, resid
 (instances 472 → 460, carriers 158 → 157, distinct residue lines 37 → **36**), file-clean 197 → **198 /
 302**, median 0.028 and worst 0.156 unchanged. **Batch 10 continues at the floor of three.**
 
+**Batch 10, unit 3: Unheard `C-Iα-965` closed — and batch 10 closed with it, at the floor of three.**
+Re-measured at the head (`dcc63f0`): **7 dirty sections**, worst 기록 (Registrum) 0.439, then M.A.W.
+Equipment 0.439, Behavior 0.374, 최종 관찰 (Final Observation) 0.182, Trivia 0.132, Combat Record 0.087 and
+감각 묘사 (Flavor Text) 0.082. All seven closed; 6,237 → **7,062 words**; `tpl.py` residue 3 → **0**;
+`verify.py` residual 2 → **0**; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+**True**. M.A.W. took a second pass again (0.071 → 0.045): the piece descriptors and the Field Use Record
+rows were re-authored away from the shared "dark and faintly warm" family into the holding's own terms —
+the fang that beats behind its bearer's pulse, the plates that bring the Row's char into the room, the
+lantern that gives no light and is carried for what it keeps. The instrument is the **hush radius**: two
+Wardens, one fixed phrase, a tape, and the distance at which the second stops receiving the first — 2.6,
+then 3.9, then 5.4 metres across the annual returns, the only figure in the file that can be taken twice,
+and read against the Records Office return on dictations never lodged at the Writer's Hour. The clean
+Hearing Record was not touched (`R-05`). Movement: `R-29` 94 → **95 / 301**, section-clean 117 → **118 /
+301**, residue-free 145 → **146 / 302** (instances 460 → 457, carriers 157 → 156, distinct residue lines
+unchanged at 36), file-clean 198 → **199 / 302**, median 0.028 → **0.026**, worst 0.156 unchanged.
+**Batch 10 is closed at three** (`1232808` Rem, `dcc63f0` Broken Clocktower, this unit), each unit
+measured live at its own head. **Batch 11 opens at three** on the freshly re-derived tier.
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1235,8 +1253,9 @@ now 6,157); the tier behind it: **Cleaved `C-IIβ-775` came off the list in batc
 head at `f5c779e`: 7 dirty, 0.548, now 6,966 words). **Rem `C-IIβ-135` came off that tier in batch 10's first unit** (the batch-10 head at `5b05f43`: 8 dirty,
 0.541, now 7,545 words). The tier behind it, re-measured at that head and to be re-measured again at the
 next: **Broken Clocktower `C-IVγ-240` came off it in batch 10's second unit** (the head at `1232808`:
-7 dirty, 0.529, now 8,049 words). The tier behind it: Unheard `C-Iα-965` (7, 0.523, residual 2), The Empty
-Mask `C-IIβ-054` (7, 0.515), Melting Rope
+7 dirty, 0.529, now 8,049 words). **Unheard `C-Iα-965` came off that tier in batch 10's third unit** (the head at `dcc63f0`: 7 dirty,
+0.523, now 7,062 words). The tier behind it, to be re-measured at the next head: The Empty Mask
+`C-IIβ-054` (7, 0.515), Melting Rope
 `N-IIIγ-447` (7, 0.512), Forgotten Shadow `N-IIβ-453` (6, 0.471 — it fell from 0.558 as the shared-shingle
 corpus shrank through these units); the older batch-7 names (The Lost Prince, Mirror of Soaking, Frozen Fury, Mourner's Bloom)
 remain in the cohort but are no longer the head. The

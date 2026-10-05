@@ -38,6 +38,26 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 10 / unit 3 — Unheard `C-Iα-965` brought to the standard, closing batch 10 at three
+  (2026-10-05)** — batch 10's final unit, the live head measured at `dcc63f0`: worst 기록 (Registrum) 0.439
+  across **7 dirty sections**. All seven closed (M.A.W. Equipment 0.439 → an interim 0.071 → **0.045 clean**
+  in a second pass, Behavior 0.374, 최종 관찰 0.182, Trivia 0.132, Combat Record 0.087, 감각 묘사 (Flavor
+  Text) 0.082); 6,237 → **7,062 words**; `tpl.py` residue 3 → **0**; `verify.py` residual 2 → **0**
+  (Story-Log Entry 1's carrier and the Flavor Text's "becomes a texture you can map" line); `sectfile.py`
+  ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition and series already satisfied
+  and untouched (`R-05`). The rewrite carries the holding's own instrument: the hush radius read by two
+  Wardens walking one fixed phrase apart until the other stops receiving it — 2.6, then 3.9, then 5.4
+  metres across the annual returns — that distance being the only figure in the file that can be taken
+  twice, and the radius read against the Records Office return on un-lodged Writer's Hour dictations.
+  Pugnahan is barred (both attempts in the injury schedule), the threshold is four, and escalation is not
+  louder silence but personnel reporting content. The clean Hearing Record (11 surveys finding nothing,
+  the Writer's Hour's 1,460 hours / 11,802 dictations / 3,118 never lodged, the clerks' refused amendment)
+  was not touched (`R-05`). Movement: `R-29` 94 → **95 / 301**, section-clean 117 → **118 / 301**,
+  residue-free 145 → **146 / 302** (instances 460 → 457, carriers 157 → 156, distinct residue lines
+  unchanged at 36), file-clean 198 → **199 / 302**, median 0.028 → **0.026**, worst 0.156 unchanged.
+  **Batch 10 is closed at three** (`1232808` Rem, `dcc63f0` Broken Clocktower, this unit), each unit
+  measured live at its own head. **Batch 11 opens at three** on a freshly re-derived tier.
+
 - **Batch 10 / unit 2 — Broken Clocktower `C-IVγ-240` brought to the standard (2026-10-05)** — batch 10's
   second unit, the live head measured at `1232808`: worst 기록 (Registrum) 0.529 across **7 dirty sections**.
   All seven closed (M.A.W. Equipment 0.300 → an interim 0.061 → **0.033 clean** in a second pass, 최종 관찰
