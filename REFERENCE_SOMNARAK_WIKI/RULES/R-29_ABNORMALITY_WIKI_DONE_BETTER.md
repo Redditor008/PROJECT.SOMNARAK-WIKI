@@ -51,3 +51,39 @@ and they are already rules; `R-29` is where they are collected as one test.
 archive totals. A dossier **meets `R-29`** when it has every parity section, a specific management
 condition, at least one numeric series of its own, a disposition row, and is section-clean under
 `R-27`.
+
+## Part three — the ladder (added after Comparative Study 02)
+
+Parts one and two were collected from a single comparison. `COMPARATIVE_STUDY_02_TWENTY_PAGES_FIVE_LEVELS.md`
+read twenty pages at all five risk levels, three of them on both wiki hosts, and set ten dossiers against
+them. **The test above is unchanged, and so is its denominator (`R-20`).** What the wider reading adds is
+guidance for whoever writes a dossier, and one correction to Part one.
+
+**The correction.** The wiki's management tips are a list of two to five guidelines that decay from
+statements of effect at ZAYIN into incident reports at HE. One obeyable sentence is our floor above the wiki,
+not parity with it. What every standard page above ZAYIN does state, nearly always with figures, is its
+trigger rule.
+
+**The frame does not vary with rank.** The wiki's frame is the same at ZAYIN and at ALEPH, so the nine parity
+sections are a presence test at every rank.
+
+**What varies is how tightly the entity is coupled to the facility.**
+
+| Rank | Reach of the effect, as the wiki's pages show it | What the file should state |
+|---|---|---|
+| I | the unit; leaving it is the exception | what was looked for, where no catch is claimed |
+| II | one target or one room | the event figures and the cost of the remedy |
+| III | a department, or another entity's counter | a price per event |
+| IV | the facility's own numbers (casualties, alert state); families and cures | the trigger rule with its figures; the named relations |
+| V | modes, formulas, several exits | the exits and what each costs, labelled as models where nothing was observed |
+
+Four habits follow, none of them a pass or fail test:
+
+1. State the trigger rule with its figures, in one place.
+2. Let the price of use or of the remedy climb with rank. A Rank IV relic that costs what a Rank I relic costs
+   has not been priced.
+3. Let a relation change a figure or an outcome, and record the pairings that did nothing.
+4. Where an event table gives a figure for an event the file calls practically impossible, say which it is.
+
+`python3 tools/ladder.py` reports the by-rank figures the study used. Rules the study puts in question (`R-06`,
+`R-19`, `R-28`) are listed with their evidence in its section 8.3 and are left to the owner.

@@ -34,7 +34,15 @@ PATTERN = re.compile(
     r"|(?:earlier|previous|older|former) (?:version|entry|draft|account|attribution)s?"
     r" (?:of|naming|offered|said|had|requiring|required|recorded)"
     r"|Every earlier version|Three previous versions"
-    r"|(?:was|were|been) withdrawn as intrusive",
+    r"|(?:was|were|been) withdrawn as intrusive"
+    # Second family, found while reading dossiers for Comparative Study 02: Registrum notes that
+    # grade the file against its own earlier copy ("The earlier entry grading it Moderate ... is
+    # an error and is corrected here", "Earlier copies named Pugnahan, which the Behavior table
+    # records ..."). The first family above does not match them.
+    r"|(?:earlier|previous|older|former) (?:copies|copy|entry|entries|versions?|drafts?)\b[^.|]{0,120}?"
+    r"(?:corrected|error|wrong|superseded|contradict|replac|record(?:ed|ing)|grad(?:ed|ing)"
+    r"|direct(?:ed|ing)|nam(?:ed|ing)|list(?:ed|ing))"
+    r"|(?:is|are) corrected here|the correction is made here",
     re.I)
 
 

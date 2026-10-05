@@ -19,6 +19,8 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | **Dossiers free of template residue (Workstream 6)** | **102 / 303** |
 | **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **80 / 303** |
 | **Dossiers meeting `R-29` (Workstream 9)** | **43 / 302** |
+| **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
+| **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/178 · OP 21/41 — all floors met** |
 | Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 159 / 303 |
 | Archive median prose generic fraction | 0.048 |
@@ -245,9 +247,11 @@ or containment stability,"* which **127** dossiers still carry.
 3. **The choice sentence in the other 211 dossiers**, worst section first; then the Interaction
    Pattern sentence in the other 127.
 4. **`R-01` sweep.** The four Expanded-origin sentences that narrated an earlier version are converted
-   (Mirror of Rising, Deadline, The Debt Chain, Forgotten Name). `tools/editmeta.py` finds **58 dossiers
-   with 73 further candidate sentences**, among them the *"has been corrected against the Behavior
-   table / the SECC header"* Registrum notes that `R-01` names verbatim. They are candidates, not
+   (Mirror of Rising, Deadline, The Debt Chain, Forgotten Name). `tools/editmeta.py` finds **88 dossiers
+   with 159 candidate lines** (it found 58 and 73 until the third turn, when reading dossiers for Study 02
+   turned up a second family it did not match), among them the *"has been corrected against the Behavior
+   table / the SECC header"* Registrum notes that `R-01` names verbatim and the *"The earlier entry grading it
+   Moderate … is an error and is corrected here"* form. They are candidates, not
    verdicts: in-world administrative history is content, so each is read before it is converted to cause.
 5. **Own numeric series, 13 dossiers that fail only that clause.** Three are Rank V holdings that are
    deliberately projection-only (The Convergence, Forgotten God, The Final Door); their series has to
@@ -274,6 +278,47 @@ or containment stability,"* which **127** dossiers still carry.
   Han-Resonance Bleed**` (18 dossiers) as residue, though it reads as a label. Whether it is
   sanctioned furniture is a Workstream 6 decision. It keeps Foam Flood and Deadline above zero.
 - The `071b` / `071c` designations differ from their filenames on purpose (Catalog scope note).
+
+### Research, 2026-10-05, third turn — Comparative Study 02
+
+The owner pointed out that `R-29` rests on one comparison (Study 01: two dossiers, two pages, two levels)
+and that five to ten comparisons beat one. Before anything more was concluded, **twenty Abnormality pages
+were read, four at each risk level** (ZAYIN to ALEPH; three re-read on the Fandom host; the five level pages
+and the Risk Level page), and **ten dossiers were set against them** by a rule fixed before reading (lowest
+registry number of the class at the rank). The record is
+`COMPARATIVE_STUDY_02_TWENTY_PAGES_FIVE_LEVELS.md`; `python3 tools/ladder.py` regenerates its archive
+figures. No dossier was edited this turn, so `R-29` stays **43 / 302**.
+
+**What it found, short.**
+
+- The wiki's frame is the same at every level; what changes is how tightly the entity is coupled to the
+  facility (the unit, one room, a department, the facility's own casualty and alert numbers, game-ending
+  modes with several priced exits). The level pages state this themselves.
+- Our archive's frame is level-invariant too, as it should be, and it has a second ladder the wiki lacks:
+  the rank record (Watch 894 words, Warden 1,100, Apex 1,450, Sovereign Chronicle 2,185). No test reads it.
+- Where our ladder is flat: breach capability 63 / 56 / 52 / 61 / 50% by rank (the wiki's is zero at the
+  bottom), the event section (about 300 words at every rank), the escalation figure (a drain of five per turn or
+  cycle in 95 of 189 cells), and the top of the stat line (Rank V's Sorrow Gauge median 897 against Rank IV's
+  827; ten of fourteen Rank V under the conversion guide's floor of 1,000).
+- Study 01 holds, with two corrections and a rider (the wiki's management text is a list that decays into
+  incident reports, so one obeyable sentence is our improvement; the price of the remedy climbs with level on
+  the wiki and not in our relics; three of four ZAYIN pages hide a catch).
+- Ten dossiers chosen by a neutral rule: one meets `R-29`. All ten have every parity section. The pairings and
+  the test agree on where the work is and not on which dossier is better.
+
+**Applied:** the study; `tools/ladder.py`; `R-29` Part three (additive, guidance, not a test); the
+`tools/editmeta.py` second pattern; an addendum to Study 01.
+
+**Left to the owner, because each changes canon or a measure** (the evidence for each is in the study,
+section 9): a rank gradient for breach capability (up to 18 Rank I dossiers to reach 75% non-breaching); the
+Rank V Sorrow Gauge against the conversion guide; a stated trigger rule as a seventh `R-29` test; broadening
+`R-06` to the nine trigger kinds the pages use; a dual-mode rule for `R-19` and the Queen of Hatred reference
+point (the wiki's page gives her a Passive Breach that assists suppression); whether the relic capability
+banner, a closed vocabulary of eight strings, is sanctioned furniture; a by-employee-level work matrix.
+
+**Next targets, re-ordered by the study** (the list above stands underneath): (1) the Rank V cohort, which fails
+the own-series clause in 9 of 14; (2) the `R-01` sweep on the 88-dossier list; (3) the Kind Echo shape, an event
+figure for an event the file calls practically impossible; (4) the single-clause gaps already listed.
 
 ## Workstream 8 — Breach Balance (`R-28`, done 2026-10-05)
 

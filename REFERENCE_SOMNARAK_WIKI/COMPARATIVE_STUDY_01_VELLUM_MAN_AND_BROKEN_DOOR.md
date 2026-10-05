@@ -150,3 +150,14 @@ Nothing in canon. Three things in practice, all carried forward to **Workstream 
 **Counters at time of writing:** dispositions **283 / 303** (20 pending) · cleans 291 / 291 · headline 0.00%
 (body scope) · prose Tale standard **85 / 303**, residue-free **29 / 303**, median **0.098**, worst **0.293**
 (`SE-N-Iα-686` Torn Window) · 5,031 shared 8-grams · rules 26.
+
+---
+
+## Addendum — tested against twenty pages
+
+`COMPARATIVE_STUDY_02_TWENTY_PAGES_FIVE_LEVELS.md` tested the five findings above against twenty pages at all
+five levels and ten pairings. All five stand. Two need correcting. Finding 1: the wiki's management text is a
+list that decays into incident reports above ZAYIN, so one obeyable sentence is our improvement on the wiki, not
+the wiki's practice. Finding 3: the wiki states the price of the remedy at every level above ZAYIN and the price
+rises with level, so an irreversible loss stated once is necessary and is not sufficient. Finding 5 gains a rider:
+three of four ZAYIN pages in the sample hide a catch in their Story. The original text above is left as written.
