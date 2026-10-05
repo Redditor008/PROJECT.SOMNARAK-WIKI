@@ -38,6 +38,32 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 6 / unit 2 — Labyrinth of Stolen Faces `C-IVγ-180` brought to the standard (2026-10-05)** —
+  the head of the re-measured tier after unit 1 (worst section 0.418) —
+  - The file measured **10 dirty sections** (worst Behavior 0.418, Expansion Behavior 0.259, M.A.W.
+    Equipment 0.223, 관찰 기록 (Observation Log) 0.208, 감각 묘사 (Flavor Text) 0.192) and all ten were
+    closed; 6,321 → **7,305 words**; `tpl.py` residue 1 → **0** (the stock veil appearance) and
+    `verify.py` residual 1 → **0** (Story-Log Entry 1); `sectfile.py` ends at **0 section(s) over 0.05**
+    and `wikistd.py` meets **True**. **Condition** was already satisfied and was not touched.
+  - **Series** closed by restating the file's own figures inside a real edit — the Trivia `Field detail`
+    bullet now carries 683 / 683, the 45–65 % opening gauge, the 16–22 yield, 40 / 30 per cent
+    resistance, the 20-turn encounter and the 65 % ultimate. A restatement, disclosed as such.
+  - The record's spine is **the tether discipline**: because the walls rearrange on an act of recall
+    rather than on movement, the file is kept by corridor count from an entrance that does not move, a
+    named handler who never enters, line length set by the handler chief and shortened three times and
+    lengthened never, loop detection performed outside on the handler's slack reading, recovery by
+    hauling, and a handler's call that is final. The hazard is adoption rather than injury — entrants
+    come back with vivid, coherent recollections that are not theirs — so debriefing runs the comparison
+    protocol against service and civil records and the findings are told to the entrant. Every carrier
+    was rebuilt on that: the combat action rows and consequences, the Behavior and Expansion notes, the
+    Appearance rows, the M.A.W. appearances, abilities, costs, use notes and all four field rows, the
+    Observation Progression and method, the Final Observation pair, the flavour beats, all three
+    interaction rows, the Registrum shells and the Trivia `Field detail`.
+  - Movement: `R-29` 81 → **82 / 301**, series 207 → **208**, section-clean 104 → **105 / 301**,
+    residue-free 132 → **133 / 302** (instances 580 → 579, carriers 170 → 169, distinct residue lines 45
+    unchanged), file-clean 181 → **182 / 302**, median 0.034 → **0.033**, worst unchanged 0.162.
+  - **Batch 6 stays at the floor of three**, with one unit to come from the measured heads behind it.
+
 - **Batch 6 / unit 1 — Spreading Root `O-IVδ-693` brought to the standard (2026-10-05)** — the head of
   the batch-6 tier, and the first unit ever opened with the file **in breach of the 6,000-word floor** —
   - The file measured **10 dirty sections** (worst 관찰 기록 (Observation Log) 0.453, Behavior 0.364,

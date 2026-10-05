@@ -20,14 +20,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **132 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **104 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **81 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **133 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **105 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **82 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 181 / 302 |
-| Archive median prose generic fraction | 0.034 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 182 / 302 |
+| Archive median prose generic fraction | 0.033 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -927,6 +927,26 @@ improved an encounter here. Movement: `R-29` 80 → **81 / 301**, series 206 →
 residue lines 45 unchanged), file-clean 180 → **181 / 302**, median 0.036 → **0.034**, worst unchanged
 0.162. **Batch 6 continues at the floor of three**; the next unit is re-measured at the head, never
 carried over.
+
+**Batch 6, unit 2: Labyrinth of Stolen Faces `C-IVγ-180` closed.** Re-measured at the head of the unit
+rather than carried over — it was the worst remaining section on the live tier (Behavior 0.418, and 10
+dirty sections overall: Expansion Behavior 0.259, M.A.W. Equipment 0.223, 관찰 기록 (Observation Log)
+0.208, 감각 묘사 (Flavor Text) 0.192). All ten closed; 6,321 → **7,305 words**; `tpl.py` residue 1 → **0**
+and `verify.py` residual 1 → **0** — both real: the stock veil appearance carried by 14 dossiers and the
+Story-Log Entry 1 stock opening; `sectfile.py` ends at **0 section(s) over 0.05** and `wikistd.py` meets
+**True**. **Condition** was already satisfied and was left alone; the **series** clause closed by
+restating the file's own figures inside a real edit (Trivia `Field detail`: 683 / 683 · 45–65 % · 16–22 ·
+40 / 30 % · 20 turns · 65 %) — a restatement, disclosed. The record's instrument is the tether rather
+than the map: the walls rearrange on an act of recall, so the holding runs on corridor counts from a
+fixed entrance, a named handler who never enters, line length shortened three times and lengthened never,
+loop detection from outside on the handler's slack reading, recovery by hauling, and a handler's call
+that cannot be argued with. The hazard is adoption — entrants come back with recollections that are
+vivid, coherent and not theirs — so the debrief is the comparison protocol against service and civil
+records and the findings are told to the entrant. Movement: `R-29` 81 → **82 / 301**, series 207 → **208**,
+section-clean 104 → **105 / 301**, residue-free 132 → **133 / 302** (instances 580 → 579, carriers 170 →
+169, distinct residue lines 45 unchanged), file-clean 181 → **182 / 302**, median 0.034 → **0.033**, worst
+unchanged 0.162. **Batch 6 continues at the floor of three**; the third unit is re-measured at its head,
+never carried over.
 
 **Batch accounting, the batch before this one** — three units were finished in it —
 Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's
