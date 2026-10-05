@@ -5,6 +5,7 @@
 **Total Canonical Dossiers:** 287 dossiers  
 **Unique Entity Codes:** 287 canonical entities  
 **Codes with Multiple File Variants:** 0 codes (All 241 duplicate pairs reconciled into single canonical files)  
+**Addendum 2026-10-05:** one duplicate this audit could not see, because its two files carry different codes, has since been resolved; see §4. The archive now holds 290 Sorrow dossiers.  
 
 ---
 
@@ -272,3 +273,65 @@ When determining which variant to cite in codices or armory references:
 | `SE-C-IVδ-976` | **2** | `SE-C-IVδ-976_Willing_Chains_스며든_사슬.md` (29,224 bytes) ; `SE-C-IVδ-976_Willing_Chains_스며든_사슬.md` (29,473 bytes) | `SE-C-IVδ-976_Willing_Chains_스며든_사슬.md` |
 | `SE-C-Iα-071b` | **2** | `SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md` (21,984 bytes) ; `SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md` (22,795 bytes) | `SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md` |
 | `SE-C-Iα-071c` | **2** | `SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md` (24,463 bytes) ; `SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md` (25,689 bytes) | `SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md` |
+
+---
+
+## 4. Addendum — the Dawn of Mourning pair (2026-10-05)
+
+**Why the audit missed it.** This audit counts file variants *per code* and found none. The archive
+still held two dossiers for one entity under two codes: `SE-C-Vω-001` (애도의 새벽) and
+`SE-C-Vω-002` (애도의 여명). They are the two survivors of the three source copies that
+[`REGISTRY_MASTER_STATUS.md`](REGISTRY_MASTER_STATUS.md) says were "treated as one canonical entity";
+the third, `C-Vω-044`, had been merged into `-002` in the V3 round (see the CHANGELOG). A code-keyed
+audit cannot see two files whose codes differ.
+
+**Decision.** `SE-C-Vω-001` is the canonical Dawn of Mourning and `SE-C-Vω-002` was retired, on the
+owner's instruction to decide which is right and delete the other. The tests are the two in §2, then
+the master codices, then the canon the rest of the archive already tells.
+
+| Test | `C-Vω-001` (애도의 새벽) | `C-Vω-002` (애도의 여명) |
+|---|---|---|
+| **§2.1 The M.A.W. registry is the editorial authority.** Nineteen phrases were taken from the `SE-044` side codex and its three pieces: source designation, entity type, coherence, potency, location, observation level, starting gauge, attack line, the four work responses, the resolution condition, the formation event, the three pieces' statistics, and the gauge. | **18 of 19** occur here and nowhere in the other file | 1 of 19, the 12,000 gauge, which is the one figure `-001` lacked and now carries |
+| **What the registry's own fields say.** `Source SECC Designation` names `C-Vω-001 [LS]`. `Linked Entity` names `-002`, which is the link the V3 merge retargeted when `-044` was folded into it; it says nothing about which text the set was drawn from. | the source | the link |
+| **§2.2 The Korean title is the anchor.** | 애도의 새벽 is the title of Tale 133 and of the M.A.W. Codex section | 애도의 여명 appears in the Conversion Guide, which is generated; the file's own chronicle calls it "the twilight aspect of the Dawn, the 여명 to the 새벽's daybreak", a companion name |
+| **Master codices.** | Tale 133 in `SOMNARAK_ENTITY_TALES`; M.A.W. Codex entries 397 to 399 and the section header | the Conversion Guide (twice) and the builder that generates it; the Entity Codex listed both |
+| **Canon told elsewhere.** The Hand of Hope's continuity note, the Kind Healer's file ("remains the catastrophic historical transformation path"), the Reverie Directorate's Year 4234 incident register (234 judged, ended by the Director's confession), the Convergence and Unconsoled rows. | the Dawn as the historical branch, holding the record: three manifestations, 234 and 891 lost, the third stopped by Director Majin's confession | a present-tense boss; says what the Dawn has done "is filed under the historical Dawn" |
+| **Lineage.** The oldest codex (`SOMNARAK_ENTITIES.md`, Chain 1) numbers the Dawn `V-Ω-001`. | the same serial | not in the lineage |
+
+**Carried into `C-Vω-001` from the retired file.** The gauge, 12,000/12,000, because the Conversion
+Guide (its Rank V example and Case Study 3), both copies of the system comparison ("1,000 – 12,000
+HP, e.g. Dawn of Mourning: 12,000 HP") and the side codex all give it; the file had said 1,200. The
+twelve as the Mourners, Hope Bearers inverted (Origin). A projected stature-and-dress row (Detailed
+Appearance Profile). The Mirror Event, as the one claim the wing will not carry as a finding
+(Entity Interaction Record). Four Trivia items: the only ω-grade entity made from an Iα-grade one,
+the one designed counterpart pair, the pulse of Hope, and the smell and silence. Two Testimonium
+quotes. The Sovereign Chronicle chapter *The Thirteenth Count*. The Escalation row's claim that the
+figure appears in "three other files" now says two other copies, which is what three source copies
+leaves.
+
+**Not carried over** (kept in history: `git show fec1fb3:"SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-002_Dawn_of_Mourning_애도의_여명.md"`).
+The manifest-boss reading (teleportation, 80% resistance, the Crown of Sorrows, a 40-turn battle);
+the three M.A.W. pieces *The Collar of Names*, *The Funeral Vestments* and *The Mourner's Tear*,
+which are in neither the registry nor the M.A.W. Codex; the turn 0 to 10 clock added to it in
+commit `0e0f06c`; the transformation-chain table, which `-071b` and `-071c` already carry; and eight
+chronicle chapters (*The Chain*, *Kind Healer*, *Blessing Giver*, *Apostle Maker*, *The Final
+Stage*, *The Divergence*, *The Hand That Is*, *Warden's Marginalia*) that restate chain doctrine the
+stage files and the kept chronicle already hold.
+
+**References repointed to `-001`.** `SE-044-A` to `-D` (Related and Linked Entity), `SE-071-A`,
+`SE-081-A`, the Registry 061 to 073 README, the Conversion Guide and its builder (code and Korean
+title). **Rows removed.** The second Dawn row in the Entity Codex (261 to 260), in this catalogue
+(291 to 290), and the two Dawn rows in the disposition index became one (302 to 301).
+
+**The same test, applied to everything else.**
+
+| Check | Found | Outcome |
+|---|---|---|
+| Same English name in two dossier filenames | the Dawn pair only | resolved above |
+| Same Korean title | one other pair: `솟아오른 거울` on `C-Iα-392` Mirror of Rising and `N-IIβ-801` Mirror of Soaking. Different origin, element, manifestation, rank and location | two entities sharing one title, **not a duplicate; nothing deleted**. §2.2 makes the Korean title the permanent anchor, so a shared anchor is itself a defect for the owner to resolve |
+| Near names (32 further pairs with a name ratio of 0.8 or more, or two shared name words) | none is the same entity. Closest: Doorway to Nowhere `N-IIβ-152` and Door to Nowhere `O-IIβ-922` (same rank, different element, origin, location and Korean title); Broken Mirror `C-IIα-081` and Mirror of Broken `N-IIIγ-127` (the Korean title of each is the other's English name); Kind Echo `C-Iα-000` and Echo of Kindness `C-Iα-240`; Weight of Silence `N-IIα-285` and Weighted Silence `O-IIIγ-924`; Broken Clock and Broken Clocktower | kept |
+| Repeated designation field | none; 302 distinct before the retirement | none needed |
+| Byte-identical files | one pair: `SOMNARAK_CITY_LAYOUT.svg` (the documented master blueprint at the root) and the Pages site's copy under `SOMNARAK-WORLD/Pages/images/` | a deliberate asset copy; kept |
+| Same file name in two folders | `CANON_TIMELINE.md` and `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md`, root and `Master_Codices/`. The root files declare themselves "Top-Level Gateway Copy" and the CHANGELOG records the decision ("Root Deduplication & Gateway Clarification") | kept. They have drifted: the codex copy of the timeline differs in seven places besides the gateway notice (Project Moon wording, and the words Wings and Floor, replaced), and the codex copy of the comparison says Gift where the root says Stigma. Whether the gateways should be re-synchronised is the owner's call |
+| Text shared across all markdown files (20% or more of the smaller file, 150 or more shared ten-word runs) | 39 pairs. Two are declared copies (above) and `docs/README.md` with `docs/FRONT_HOME_PAGE_SPECIFICATION.md` share 99% of their text, which the CHANGELOG records as a deliberate companion pair. The rest are siblings by design: Ordeal watches, the pieces of one M.A.W. set, a side codex and its own dossier, overviews that restate a master codex | kept |
+| M.A.W. piece names repeated across entities | generic names such as *The Empty Veil* (three) and *The Rage Plate* (three) | distinct registry codes and files; not duplicates |

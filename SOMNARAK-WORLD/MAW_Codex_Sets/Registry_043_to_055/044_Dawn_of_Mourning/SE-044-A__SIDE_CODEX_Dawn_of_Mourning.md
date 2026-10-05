@@ -5,7 +5,7 @@
 ---
 
 **Document ID:** `SE-044-A`  
-**Related Entity ID:** `SE-C-Vω-002`  
+**Related Entity ID:** `SE-C-Vω-001`  
 **Source SECC Designation:** `C-Vω-001 [LS]`  
 **Author:** Researcher Euncris Park  
 **Date:** Year 4,238 — Dawn Initiative  
@@ -57,7 +57,7 @@ The Stigma identifies Dawn of Mourning's source condition, the Suit lets a witne
 ---
 
 **Document ID:** `SE-044-A`  
-**Linked Entity:** `SE-C-Vω-002`  
+**Linked Entity:** `SE-C-Vω-001`  
 **Author:** Researcher Euncris Park  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified

@@ -19,12 +19,12 @@ from how dangerous they are. Defined in [`RULES/R-19_DISPOSITION_CLASSES.md`](RU
 
 | | Count |
 |---|---|
-| Catalogued files (both wings) | 303 |
-| Of those, **entity dossiers carrying an SECC code** | **302** |
-| **Classified here, with a quoted line of evidence** | **302** |
+| Catalogued files (both wings) | 302 |
+| Of those, **entity dossiers carrying an SECC code** | **301** |
+| **Classified here, with a quoted line of evidence** | **301** |
 | Pending | **0 — the index is complete** |
 
-The 303rd catalogued file is [`Book_of_Regressor_Log_Dramaturgy.md`](../SOMNARAK-WORLD/Unknown_Entities/Book_of_Regressor_Log_Dramaturgy.md),
+The 302nd catalogued file is [`Book_of_Regressor_Log_Dramaturgy.md`](../SOMNARAK-WORLD/Unknown_Entities/Book_of_Regressor_Log_Dramaturgy.md),
 a side-story log rather than an entity dossier. It carries no SECC designation, no containment
 record and no mechanics, so there is nothing for `R-19` to read; it is **out of scope** for this
 index rather than pending in it. Stating that plainly is the honest close — leaving a permanent
@@ -48,6 +48,13 @@ quietly filed as Neutral — a blank is not a finding.
 **Closed 2026-10-05 at 302 / 302.** The last three were Grasp `O-IVδ-762`, Once Told `O-IVδ-930`
 and Dawn of Mourning `C-Vω-002` — the only Negative in the final batch, and the only entity in the
 archive that can be produced from a `Iα` holding by transformation.
+
+**Re-based 2026-10-05 to 301 / 301.** The archive held two dossiers for the Dawn of Mourning,
+`C-Vω-001` and `C-Vω-002`, and the second was retired into the first (the addendum in
+[`SORROW_ENTITIES_PAIRS_AUDIT.md`](SORROW_ENTITIES_PAIRS_AUDIT.md) gives the evidence). The two Dawn
+rows above became one row keyed to `C-Vω-001`, so the classified count fell by one with the
+denominator and the index is still complete. The paragraph above is left as written: it describes
+what the closing batch was on the day it closed, when the Dawn row was filed under the retired code.
 
 **Ten duplicate rows were removed at closure.** Ten entities carried two rows each in the Neutral
 section, written in different batches; in every case the earlier row was the thinner one and the
@@ -429,7 +436,7 @@ The ones that cost F01 containment, not just personnel.
 | The Angry Maiden | `SE-C-IVβ-042` | *"Her load leads both her sisters within a short interval, every recorded time, with no instance of the reverse."* She has never breached and has never injured anybody, but a bad watch here is a bad week in the Three Sisters enclosure: escalation in this holding reliably raises the Sorrow Gauges of two other contained entities, and the facility works her first and hardest for that reason alone. Negative. |
 | Sorrow Tide | `SE-C-Vγ-260` | Trivia: *"It is the primary trigger for many entity activity changes."* Containment: *"Impossible; use Tide shelters and shared mourning protocols."* The archive-wide amplifier — dozens of dossiers carry a "becomes more active during the Sorrow Tide" line, and this is what they are pointing at. |
 | Apostle Maker | `SE-C-Iα-071c` | Registry note: *"Stage 3 of the Kind Healer transformation chain. The entity actively seeks the remaining blessed personnel and completes their conversion. This stage is the point of no return."* Breach type: *"the entity physically escapes and actively hunts the marked."* It converts the facility's own staff into the next stage of itself. |
-| Dawn of Mourning | `SE-C-Vω-001` / `-002` | *"What the Kind Healer becomes when the transformation chain completes not in hope but in grief"*; the terminal state of that chain, with *"no Hope remains"*. The counterpart entry notes it and the Hand of Hope are *"the only pair of entities in the SECC codex that are explicitly designed as counterparts."* |
+| Dawn of Mourning | `SE-C-Vω-001` | Breach: *"Dawn of Mourning has broken free. Hunts personnel indiscriminately."* Escalation: *"Projected: +10% to every holding in the facility per turn."* First Target: *"Projected: Hope Bearers, inverted first."* The file marks each of these as a projection and keeps them because *"the row is read by people planning evacuations"*; read as written, the entity raises every other holding in the building at once and takes F01's Positive assets first by inverting them, which is the textbook `R-19` Negative mechanism on both limbs. Registrum: *"Catastrophic (historical). Compassion inverted into judgment after absorbing twelve sorrows."* Trivia names it and the Hand of Hope as *"the only pair of entities in the SECC codex that are explicitly designed as counterparts"*, and it is the only entity in the archive that can be produced from a `Iα` holding by transformation. Negative. |
 | The Maw | `SE-C-IVω-001` | Resolution Condition: *"No true containment is possible. Architects reinforce the perimeter while Taeho negotiates with the thousand."* Role: *"Object/Place (Transforms to Breaching Subject upon Breach)."* It holds a jurisdiction rather than a chamber. |
 | The Convergence | `SE-C-Vδ-010` | *"Three containment operations were running simultaneously — three birds, three facilities, three sets of..."* An entity assembled out of other facilities' entities. |
 | The Final Door | `SE-C-Vδ-111` | Timed escalation: *"The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels."* |
@@ -438,7 +445,6 @@ The ones that cost F01 containment, not just personnel.
 | Repose | `SE-O-IVδ-844` | Re-evidenced after the file's rewrite. The breach does not pursue anybody — *"It does not rise and does not walk"* — but *"what moves is the dream, outward through the structures it has been holding up, and what follows the dream is the collapse of whatever it stops holding"*, and 56 standing buildings in the Old Lament exist only because it is dreaming them. The Old Lament is ambient and uncelled with several other Lament holdings in it, so the loss is containment fabric for a whole district, not one chamber. |
 | Ephemera | `SE-O-Iα-189` | *"Ephemera has broken free. Collapses the facility structure around it."* |
 | The Smothering Mother | `SE-N-IVδ-005` | *"Breaks free and moves through the facility seeking 'children' to protect. Grabs personnel and holds them. The held feel perfectly safe."* Interaction Record, re-evidenced after the file's rewrite: *"Holds the Child and does not close the hold — the single occasion in the record of a grip she opens herself"*, and the Orphaned Bell row, where the tolling is the only reliable suppression of her reach and the wing has declined to use it. She removes responders from the board during somebody else's incident, and the breach response diverts the floor's smallest personnel by name before anything else is attended to. |
-| Dawn of Mourning | `SE-C-Vω-002` | Breach `Secondary Effect`: *"Every entity in the facility's Sorrow Gauge increases by 10% per turn — the Dawn's grief feeds all sorrow."* `First Target`: *"Hope Bearers — the Dawn targets Hope Bearers first, attempting to invert them."* It raises every other holding in the building at once and destroys F01's Positive assets by converting them, which is the textbook `R-19` Negative mechanism on both limbs. The twelve Mourners spread Fracture Zones and reform within a turn unless the Dawn is ended; the only documented suppression is the Confession Protocol. Negative. |
 
 ---
 

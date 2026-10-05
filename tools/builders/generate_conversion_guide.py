@@ -46,7 +46,7 @@ The modern Project Somnarak architecture resolves this through a **dual-tier dur
    All standard tactical encounters across Ranks I through IV (Residue to Entity) are strictly clamped between 150 and 1,000 HP. Operatives with Speed-scaled Action Points (2–5 AP) engage entities across a 10-Node linear spatial grid, ensuring every strike, range band adjustment, and defensive reaction (*Pass, Pan, Par, Po*) carries immediate mechanical weight.
 
 2. **The 10,000 HP Sovereign Calamity Standard (Rank V / Grade ω):**  
-   The 10,000+ HP pool is **retained but strictly elevated** to represent macro-scale geological, district-wide, or multi-wing sovereign horrors. Entities possessing 10,000 to 12,000 HP are not single room monsters—they are living territorial wounds such as *The Maw* (  구라   / *Gura*), *Dawn of Mourning* (  애도의 여명   / *Aedo-ui Yeomyeong*), or *The Consoling Untouched Ocean* (  위안의 미답해   / *Wian-ui Midaphae*). These encounters function as multi-phase departmental Realizations requiring sustained, multi-day containment campaigns.
+   The 10,000+ HP pool is **retained but strictly elevated** to represent macro-scale geological, district-wide, or multi-wing sovereign horrors. Entities possessing 10,000 to 12,000 HP are not single room monsters—they are living territorial wounds such as *The Maw* (  구라   / *Gura*), *Dawn of Mourning* (  애도의 새벽   / *Aedo-ui Saebyeok*), or *The Consoling Untouched Ocean* (  위안의 미답해   / *Wian-ui Midaphae*). These encounters function as multi-phase departmental Realizations requiring sustained, multi-day containment campaigns.
 
 ---
 

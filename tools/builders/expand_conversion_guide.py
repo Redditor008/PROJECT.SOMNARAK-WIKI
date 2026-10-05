@@ -99,7 +99,7 @@ All standard contained entities across Ranks I through IV operate within calibra
 
 ### 2. Sovereign Calamity Raids (1,000 to 12,000 HP)
 The 10,000+ HP threshold is **retained but strictly elevated** to represent macro-scale geological, district-wide, or multi-wing sovereign horrors:
-- **Eligible Entities:** Only **Rank V Sovereign (Grade ω)** combat entities—such as *Dawn of Mourning* (  애도의 여명   / *Aedo-ui Yeomyeong*) at 12,000 HP or mobile district colossi like *The Walking Maw* (`C-IVω-001-B [GS]`).
+- **Eligible Entities:** Only **Rank V Sovereign (Grade ω)** combat entities—such as *Dawn of Mourning* (  애도의 새벽   / *Aedo-ui Saebyeok*) at 12,000 HP or mobile district colossi like *The Walking Maw* (`C-IVω-001-B [GS]`).
 - **Encounter Structure:** These entities are never fought in standard single-room containment cells; they function as multi-phase departmental Realizations or citywide crisis raids requiring multi-day containment campaigns.
 
 ### 3. Planetary Geography Boundary
@@ -294,7 +294,7 @@ Every Relic dossier must include a 4-tier progressive unlock table:
 
 ### Case Study 3: ALEPH Sovereign Boss Conversion
 - **PM Source:** *Apocalypse Bird* (ALEPH)
-- **PS Entity:** `SE-C-Vω-002 [MS]` — *Dawn of Mourning* (  애도의 여명   / *Aedo-ui Yeomyeong*)
+- **PS Entity:** `SE-C-Vω-001 [LS]` — *Dawn of Mourning* (  애도의 새벽   / *Aedo-ui Saebyeok*)
 - **SECC Profile:** City Sorrow (`C-`), Rank V Sovereign, Grade ω Catastrophic, Mixed Element (Cycles Crimson / Blue / Black / Pale White).
 - **Durability:** Sorrow Gauge: 12,000/12,000 HP (Multi-Phase Sovereign Raid Encounter).
 - **Mechanics:** 3 Distinct Targetable Core Organs (The Beak of Hunger, The Scales of Debt, The Blind Lamp). Destructible limbs require synchronized 10-node interception.

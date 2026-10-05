@@ -178,7 +178,7 @@ The ante-Dawn era encompasses all events up to and including the climactic concl
    - The six pacification purge arcs (`SOMNARAK-WORLD/Katharcheok/`, Purges 1–6) across The Raw, dismantling the Five Syndicates (Veil Merchants, Memory Washers, Harvesters, Debt Brokers, Entity Traders) and neutralizing rogue constructs. Operates on calendar years and tactical turns; does not track cycles.
 3. **The Reverie Directorate (R.D. / The Absolvohan):**
    - Facility 01 containment operations, Han-Energy harvesting, and the continuous 1,778-Cycle loop under Director Majin and the Echo-Core Leads.
-   - The containment, research, and pacification of the 291 canonical Sorrow Entities across Floors 1 through 8.
+   - The containment, research, and pacification of the 290 canonical Sorrow Entities across Floors 1 through 8.
    - The Stratum Realizations of the departmental Leads (Dekan, Zyrak, Marjuk, Sooah, Mellda, Ayshuk, Xyan, Ishall, Seiyon). The SOLE division that uses and experiences the Cycle system.
 
 ### 6.2 The Watershed Turning Point: The Dawn of Hope (Cycle 1,778 / Year 4,238)
@@ -191,7 +191,7 @@ The central turning point in planetary history:
 **ANYTHING ELSE** in the narrative chronology takes place strictly **AFTER** the Dawn of Hope, and **UNK SE is positioned strictly AFTER R.D.**:
 1. **Unknown Sorrow Entities (UNK SE /   미분류 슬픔 개체  ):**
    - Canonical Mandate: **UNK SE Is After R.D.**
-   - While the 291 standard Sorrow Entities are contained during R.D. Facility 01's 1,778-cycle loops, the 12 authentic Unknown Sorrow Entities (`SOMNARAK-WORLD/Unknown_Entities/`) manifest and are recorded strictly **AFTER R.D.**:
+   - While the 290 standard Sorrow Entities are contained during R.D. Facility 01's 1,778-cycle loops, the 12 authentic Unknown Sorrow Entities (`SOMNARAK-WORLD/Unknown_Entities/`) manifest and are recorded strictly **AFTER R.D.**:
      - `SE-N-IVγ-250 The Extinguished` specifically tracks and hunts Hope Bearers (who emerge only after the Dawn of Hope).
      - `SE-N-IIIβ-247 The Undelivered Thanks` carries gratitude stones honoring fallen Hope Bearers.
      - `SE-N-IVδ-902 The Repeated Survivor` and `Book of Regressor Log Dramaturgy` record the meta-conscious aftermath of the broken loop cycles.

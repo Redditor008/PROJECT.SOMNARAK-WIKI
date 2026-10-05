@@ -410,6 +410,8 @@ columns "What it is to this one" and "What is actually known", and the escalatio
 been cited back at itself as corroboration". The condition: a genuine confession before the twelfth blessing,
 with "no reliable post-formation method".
 
+*Post-study note, 2026-10-05.* The figures above are as measured on the day. The sibling `C-Vω-002` has since been retired into this file, which now carries the 12,000 Sorrow Gauge (WhiteNight's own figure, and the one the Conversion Guide gives the Dawn), 8,266 words, and a few facts taken from the retired file; the evidence is the addendum in [`SORROW_ENTITIES_PAIRS_AUDIT.md`](SORROW_ENTITIES_PAIRS_AUDIT.md).
+
 **Verdict.** Ours ahead on labelled projection (`R-29` clause 5): no wiki page separates what a relation is from
 what is known of it. Theirs ahead on exits and their prices, and on tactical figures for the retinue. A modelled
 holding can still model its exits, labelled as models.

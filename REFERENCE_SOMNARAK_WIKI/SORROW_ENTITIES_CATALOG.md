@@ -1,16 +1,16 @@
 # Master Sorrow Entities Catalog
 
 **Archive Authority:** Reverie Directorate & Facility 01 Containment Division  
-**Total Registered Entities:** 291 Unique Canonical Sorrow Entities  
+**Total Registered Entities:** 290 Unique Canonical Sorrow Entities  
 **Source Repository:** `SOMNARAK-WORLD/Sorrow_Entities/`
 
 ---
 
 ## Taxonomy & Classification Index
 
-This catalog indexes all 291 unique Sorrow Entities currently documented in Facility 01 containment. Threat ratings correspond to the classical SECC scale: `Residue` (I), `Echo` (II), `Fragment` (III), `Entity` (IV), and `Sovereign` (V).
+This catalog indexes all 290 unique Sorrow Entities currently documented in Facility 01 containment. Threat ratings correspond to the classical SECC scale: `Residue` (I), `Echo` (II), `Fragment` (III), `Entity` (IV), and `Sovereign` (V).
 
-> **Index scope:** 291 rows, one per dossier on disk. The two Kind-Healer transformation-progression variants (`SE-C-Iα-071b`, `SE-C-Iα-071c`) file under base code `C-Iα-071` and are indexed as their own rows; the five single-use Tool Relics (`C-IIIβ-072`, `C-Iα-114`, `N-IIβ-319`, `O-IIIγ-412`, `O-IVδ-515`) are now indexed. The former duplicate dossier `SE-C-Vω-044` was merged into `SE-C-Vω-002` and its row removed.
+> **Index scope:** 290 rows, one per dossier on disk. The two Kind-Healer transformation-progression variants (`SE-C-Iα-071b`, `SE-C-Iα-071c`) file under base code `C-Iα-071` and are indexed as their own rows; the five single-use Tool Relics (`C-IIIβ-072`, `C-Iα-114`, `N-IIβ-319`, `O-IIIγ-412`, `O-IVδ-515`) are now indexed. The former duplicate dossiers `SE-C-Vω-044` and `SE-C-Vω-002` were merged into `SE-C-Vω-001` and their rows removed; see the Dawn of Mourning addendum in [`SORROW_ENTITIES_PAIRS_AUDIT.md`](SORROW_ENTITIES_PAIRS_AUDIT.md).
 
 | SECC Code | English Codename | Korean Designation | Threat Tier | Elemental Affinity | Primary Dossier |
 |---|---|---|---|---|---|
@@ -19,7 +19,6 @@ This catalog indexes all 291 unique Sorrow Entities currently documented in Faci
 | `SE-C-IVω-001` | **The Maw** | 구라 | Entity (IV) | Grudge (Crimson) | [`SE-C-IVω-001_The_Maw_구라.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md) |
 | `SE-C-Vω-001` | **Dawn of Mourning** | 애도의 새벽 | Sovereign (V) | All four — Lament, Grudge, Void, Weight | [`SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md) |
 | `SE-C-Vδ-002` | **The Grieving Colossus** | 슬픔의 거인 | Sovereign (V) | Weight (Black) | [`SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) |
-| `SE-C-Vω-002` | **Dawn of Mourning** | 애도의 여명 | Unclassified | All Four — Lament, Grudge, Void, Weight (no Hope remains) | [`SE-C-Vω-002_Dawn_of_Mourning_애도의_여명.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-002_Dawn_of_Mourning_애도의_여명.md) |
 | `SE-O-Vγ-003` | **The Wilderness Tide** | 야생의 조수 | Sovereign (V) | Weight (Black) | [`SE-O-Vγ-003_Wilderness_Tide_야생의_조수.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-O-Vγ-003_Wilderness_Tide_야생의_조수.md) |
 | `SE-N-IVδ-005` | **The Smothering Mother** | 질식하는 어머니 | Entity (IV) | Grudge (Crimson) | [`SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md) |
 | `SE-O-IIγ-007` | **Brume** | drifting 안개 | Echo (II) | Void (Pale White) | [`SE-O-IIγ-007_Brume_안개.md`](../SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIγ-007_Brume_안개.md) |

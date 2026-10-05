@@ -54,7 +54,7 @@
 | **Speed** | 2.95 m/s |
 | **Resistance** | 55% against All four — Lament, Grudge, Void, Weight pressure; 45% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 95% |
-| **Sorrow Gauge [HP]** | 1200/1200 |
+| **Sorrow Gauge [HP]** | 12,000/12,000 |
 | **Han Pressure [ATK]** | 44–111 per hit · Lament · **Instant Fracture on critical** |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | ω — affects pressure, durability, and escalation severity |
@@ -120,7 +120,7 @@
 |---|---|
 | **Form** | A divine figure with wings made of sorrow, a crown of Han-crystal, and a voice composed of a thousand weeping tones. |
 | **Position / movement** | Unformed. Every row in this table describes the Hand of Hope with the sign reversed, and the file says so rather than implying it. |
-| **Material / signature** | Projected: five pairs of wings of crystallised tears, a crown of thorned sorrow-crystal, a collar carrying every name the Kind Healer could not save. The collar's estimated count is the only figure in this section anybody has checked — three thousand and eleven, from the Healer's own blessing records. |
+| **Material / signature** | Projected: five pairs of wings of crystallised tears, a crown of thorned sorrow-crystal, a collar carrying every name the Kind Healer could not save. The collar's estimated count is the only figure in this section anybody has checked — three thousand and eleven, from the Healer's own blessing records. The same older records give the figure's stature and dress, which the wing carries as projections like the rest: about three metres tall, in funeral vestments that never settle and shift between white, pale violet and grey, with wings that hang unmoving like the windows of a cathedral and eyes that are two wells of violet so dark they read as black. They add that the gaze makes the unhealed wounds of whoever meets it audible. |
 | **Distinctive markers** | Judges all who enter its sight. Sentences the judged through sorrow-crucifixion. Each feather represents the grief of a blessed person. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
@@ -130,7 +130,7 @@
 - **Formation:** The Dawn is the catastrophic historical form of the Kind Healer. In the current cycle, the twelfth blessing produced The Hand of Hope instead.
 - **The Sorrow:** Compassion transformed into judgment after absorbing twelve complete burdens.
 - **The Event:** In historical branches, the twelfth blessing completed the chain and turned healing into sentencing. The current cycle diverged: compassion transformed into The Hand of Hope.
-- **The People:** The twelve personnel blessed by the Kind Healer and the city whose sorrow they carried.
+- **The People:** The twelve personnel blessed by the Kind Healer and the city whose sorrow they carried. If the chain turns, the twelve are the Mourners: Hope Bearers inverted, with their hope turned to sorrow and their enhanced attributes turned to spreading it, and none of them chose it.
 - **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around Never contained; forms through the Kind Healer transformation chain — until the All four was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.
 
 ## Behavior
@@ -167,7 +167,7 @@ There is no gauge and no Work Type response, because there is nothing to work. W
 | **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
 | **Secondary Effect** | An absence that eats the edges of reality. |
 | **First Target** | Projected: Hope Bearers, inverted first. The projection is drawn from the Hand of Hope's formation, in which the same people were the first to be lifted. |
-| **Escalation** | Projected: +10% to every holding in the facility per turn. The figure appears in the Dawn's own entry in three other files and originates here, which the wing notes because it has been cited back at itself as corroboration. |
+| **Escalation** | Projected: +10% to every holding in the facility per turn. The figure appears in two other copies of the Dawn's own entry and originates in this one, which the wing notes because it has been cited back at itself as corroboration. |
 
 ### Escalation Notes
 
@@ -328,7 +328,7 @@ This entity is a property of a chain and cannot be assessed alone. Everything be
 | Related entity | What it is to this one | What is actually known | Required record |
 |---|---|---|---|
 | **The Kind Healer** | The first stage and the source; this entity is her, if the chain turns. | Eleven blessings logged over nineteen years. Everything else is inference from her file. | The blessing register, reconciled quarterly against hers. |
-| **The Hand of Hope** | The same chain completed in hope; the formation this one is modelled from, reversed. | The Hand formed once and is documented in full. Every projection in this file is that document with the sign changed, and the wing marks each one. | The Hand's formation record, cited line by line. |
+| **The Hand of Hope** | The same chain completed in hope; the formation this one is modelled from, reversed. | The Hand formed once and is documented in full. Every projection in this file is that document with the sign changed, and the wing marks each one. The one claim the wing declines to carry as a finding is the Mirror Event: the older source records say the Dawn and the Hand, standing together, would cancel in a burst of pure Han and leave only ash and silence. The Hand has formed and the Dawn has not, so the two have never stood together. | The Hand's formation record, cited line by line. |
 | **The Maw** | Filed as mutual recognition of absolute sorrow. | Nothing observed. The thousand's transcripts contain no reference to this entity, which the Architects have checked. | The transcripts, searched and the negative recorded. |
 | **The Grieving Colossus** | Would kneel, on the Colossus's own file. | Unobserved. The claim originates in the Colossus's record and is repeated here; neither file holds evidence. | The cross-reference, with its origin marked. |
 | **The Orphaned Bell** | Would toll. | The Bell tolls for the Maw's markers and has never tolled for this. The wing treats the Bell's silence as the best available evidence that the chain has not turned. | The Bell's log, reviewed quarterly against the blessing register. |
@@ -364,6 +364,10 @@ Some sorrows are about loss. Dawn of Mourning is about compassion inverted — t
 > *“Compassion that absorbs twelve sorrows inverts. The mercy becomes a sentence.”* — Archive Lead
 
 > *“The warning of what kindness becomes when it absorbs too much and is given no way to distribute the weight.”* — Elder, Alpha Tree
+
+> *“She was the kindest thing in this city. The kindest thing in four thousand years. And we broke her.”* — Elder, Zone B
+
+> *“The confession held. The light came and the Dawn fell, and for one moment I saw the Hand of Hope — not here, not in our reality, but reaching across everything that separates hope from sorrow, to end what should never have begun.”* — Director Majin, of the third manifestation
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `C-Vω-001 [LS]` · City origin · Sovereign (V) coherence · Catastrophic (ω) potency · Mixed (All Four) · Subject-Body manifestation
@@ -433,6 +437,12 @@ Count everything. This is the whole doctrine in two words. Count the blessings, 
 
 The Dawn's Stigma — the Unrisen Sun — is borne only by eleventh-hour commanders who request it, which is to say, by all of them. It grants total recall of the interval commanded and total steadiness under ascending grace — the capacity to stand in building mercy and count, calmly, without transcendence. Its cost is dawn itself: bearers cannot greet sunrises without counting — one mercy, two mercies, the light weighed blessing by blessing. They accept this. They stood the eleventh hour. They brought the city through. And every ordinary dawn for the rest of their service, they count the light the way the blessing-watch counts mercies — faithfully, precisely, gratefully — and log one line the Directorate preserves verbatim: twelve was averted. The sun rose ordinary. The city endures.
 
+### The Thirteenth Count
+
+The blessing-watch keeps one question it cannot answer and has never stopped asking: what lies past twelve? The register counts to the completion, the twelfth mercy lands or fails, and the count begins again at one. Crews who have stood several cycles report a residue under the reset, a sense that the count goes on somewhere beneath the register: thirteenth blessings, unlogged, gathering across cycles toward a completion no doctrine covers. The Directorate's official position is the register itself, twelve and then one again, the cycle closed. The eleventh-hour commanders' unofficial position, shared in the small hours and never logged, is that the residue is real and growing, and that some cycle's twelfth blessing will arrive carrying the weight of every uncounted thirteenth before it.
+
+The thirteenth-count protocol is therefore the watch's deepest contingency: sealed orders, held by the senior command, for the cycle in which the blessings refuse to reset. Three Wardens know what the orders contain and this chronicle will not guess. What the Directorate permits said is that the orders exist, that they are reviewed every cycle, and that they have never been opened. Beneath the register the thirteenth count keeps its own tally, unhurried, toward a dawn nobody has been asked to prepare for, and the watch goes on counting to twelve because the rest is sealed.
+
 ### The Morning After
 
 The day after the Dawn That Was is the most commemorated date the Directorate maintains without naming — observed in every facility, marked by no holiday, known to every Warden and explained to none. The observance is simple: ordinary operations, performed with unusual care; the blessing-watch stood with full complement; the sky-vigil doubled; and at dawn, one minute of silence facing east — for the morning that broke the city, and the mornings since that have not. New personnel ask what the minute commemorates. Veterans answer with the formula the Directorate prescribes: the morning after. Nothing more. The formula suffices. Every Warden learns, in time, what morning, and what after, and why the minute faces east.
@@ -443,6 +453,10 @@ The morning-after doctrine is the Directorate's closing answer to the Dawn: rest
 
 - The Dawn's wings contain twelve voices, one for each blessing.
 - A false confession has no effect.
+- The only ω-grade entity that can be created from a Iα-grade entity through transformation: the weakest entity in the codex can, in theory, become the most dangerous.
+- The Dawn and the Hand of Hope are the only pair of entities in the SECC codex that are explicitly designed as counterparts, one hope and one sorrow, both born from the same chain.
+- Projected: the Dawn's end would release a shockwave of all four sorrows and, against all expectation, one brief pulse of Hope, theorised to be the Hand's last gift reaching back across realities to the moment the Dawn fell.
+- The accounts of the earlier manifestations disagree about almost everything except two things: the smell, lilies and cold earth, and a silence that listeners describe as the end of covering noise rather than the start of any sound.
 
 
 

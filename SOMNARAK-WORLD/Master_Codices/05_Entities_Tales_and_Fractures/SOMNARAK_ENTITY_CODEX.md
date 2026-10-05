@@ -355,8 +355,8 @@ This is why work *manages* rather than *destroys*: every cycle reduces immediate
 
 A complete roster of every catalogued entity — each with its SECC designation, element, and a brief field description. Click any name to open its full record.
 
-### Sorrow Entities (261)
-> **Tabulation note:** 261 rows (254 Sorrow-dossier rows plus 7 Unknown-Entities cross-references). 39 dossiers indexed in `Sorrow_Entities/` await codex rows: `C-IIIγ-902`, `C-IIIγ-904`, `C-IIIγ-912`, `C-IIIγ-913`, `C-IIIγ-921`, `C-IIIγ-928`, `C-IIIγ-948`, `C-IIβ-901`, `C-IIβ-906`, `C-IIβ-947`, `C-IVγ-946`, `C-IVδ-907`, `C-IVδ-909`, `C-IVδ-915`, `C-IVδ-918`, `C-IVδ-922`, `C-IVδ-923`, `C-Iα-071b`, `C-Iα-071c`, `C-Iα-900`, `C-Vδ-949`, `C-Vω-925`, `N-IIIβ-941`, `N-IIIγ-908`, `N-IIIγ-917`, `N-IIIγ-929`, `N-IIβ-903`, `N-IIβ-910`, `N-IIβ-919`, `N-IVδ-927`, `N-Iα-905`, `O-IIIβ-944`, `O-IIIγ-916`, `O-IIIγ-920`, `O-IIIγ-924`, `O-IIIγ-926`, `O-IIβ-911`, `O-IIβ-914`, `O-IVδ-930`.
+### Sorrow Entities (260)
+> **Tabulation note:** 260 rows (253 Sorrow-dossier rows plus 7 Unknown-Entities cross-references). 39 dossiers indexed in `Sorrow_Entities/` await codex rows: `C-IIIγ-902`, `C-IIIγ-904`, `C-IIIγ-912`, `C-IIIγ-913`, `C-IIIγ-921`, `C-IIIγ-928`, `C-IIIγ-948`, `C-IIβ-901`, `C-IIβ-906`, `C-IIβ-947`, `C-IVγ-946`, `C-IVδ-907`, `C-IVδ-909`, `C-IVδ-915`, `C-IVδ-918`, `C-IVδ-922`, `C-IVδ-923`, `C-Iα-071b`, `C-Iα-071c`, `C-Iα-900`, `C-Vδ-949`, `C-Vω-925`, `N-IIIβ-941`, `N-IIIγ-908`, `N-IIIγ-917`, `N-IIIγ-929`, `N-IIβ-903`, `N-IIβ-910`, `N-IIβ-919`, `N-IVδ-927`, `N-Iα-905`, `O-IIIβ-944`, `O-IIIγ-916`, `O-IIIγ-920`, `O-IIIγ-924`, `O-IIIγ-926`, `O-IIβ-911`, `O-IIβ-914`, `O-IVδ-930`.
 
 
 | Designation | Entity | Element | Description |
@@ -498,7 +498,6 @@ A complete roster of every catalogued entity — each with its SECC designation,
 | `C-Vδ-265 [LS]` | [The Forgotten God](../../Sorrow_Entities/SE-C-Vδ-265_Forgotten_God_잊혀진_신.md) (잊혀진 신) | All | Unknown (dormant). The God sleeps. |
 | `C-Vδ-290 [LO]` | [The First Tear](../../Sorrow_Entities/SE-C-Vδ-290_First_Tear_첫_번째_눈물.md) (첫 번째 눈물) | Lament | Unknown. The oldest sorrow in the world. |
 | `C-Vω-001 [LS]` | [The Dawn of Mourning](../../Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md) (애도의 새벽) | All | Catastrophic (historical). Compassion inverted into judgment after absorbing twelve sorrows. |
-| `C-Vω-002 [MH]` | [The Dawn of Mourning](../../Sorrow_Entities/SE-C-Vω-002_Dawn_of_Mourning_애도의_여명.md) (애도의 여명) | All | The Dawn of Mourning is the city's grief given divine form — every sorrow the Kind Healer ever absorbed, apotheosized. It cannot be contained conventionally. |
 | `N-IIIβ-077 [VS]` | [The Memory Thief](../../Sorrow_Entities/SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md) (기록 도둑) | Void | Steals what you fear losing, briefly, then returns it. Effect: proximity induces the terror of forgotten faces. |
 | `N-IIIβ-155 [WS]` | [The Debt Collector's Shadow](../../Sorrow_Entities/SE-N-IIIβ-155_Harbinger_추징관의_그림자.md) (추징관의 그림자) | Weight | The dread of collection as a companion. Effect: proximity induces chronic anxiety of the approaching knock. |
 | `N-IIIβ-156 [WO]` | [The Debt Clock](../../Sorrow_Entities/SE-N-IIIβ-156_Deadline_빚의_시계.md) (빚의 시계) | Weight | A clock that ticks toward the unescapable. Effect: proximity induces the dread of the countdown. |

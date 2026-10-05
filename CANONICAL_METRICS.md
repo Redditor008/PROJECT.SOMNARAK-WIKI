@@ -10,10 +10,10 @@
 
 | Metric Dimension | Programmatic Count | Status / Benchmark |
 | :--- | :--- | :--- |
-| **Total Sorrow Entities (`SOMNARAK-WORLD/Sorrow_Entities/`)** | **291** | 100% Individualized & Audited |
-| **Relic-Entities (Object/Place/Time Work Entities)** | **88** | 30.24% (Quota >= 25.0% PASS) |
+| **Total Sorrow Entities (`SOMNARAK-WORLD/Sorrow_Entities/`)** | **290** | 100% Individualized & Audited |
+| **Relic-Entities (Object/Place/Time Work Entities)** | **88** | 30.34% (Quota >= 25.0% PASS) |
 | **Two-Work-Type Rule Compliance (Non-Subject Entities)** | **164 / 164** | **100.0% Compliant** |
-| **Core Stat Line Compliance (Speed, Gauges, Resistances)** | **291 / 291** | **100.0% Compliant** |
+| **Core Stat Line Compliance (Speed, Gauges, Resistances)** | **290 / 290** | **100.0% Compliant** |
 | **Unknown Entities (`SOMNARAK-WORLD/Unknown_Entities/`)** | **12** | Standardized |
 | **Hope Transformations (`SOMNARAK-WORLD/Hope_Transformations/`)** | **14** | Standardized |
 | **Ordeals (`SOMNARAK-WORLD/Ordeals/`)** | **60** | Dawn to Midnight |
@@ -46,9 +46,9 @@
 
 | Repository Scope | Programmatic File Count |
 | :--- | :--- |
-| **`SOMNARAK-WORLD/` Subtree** | **1897 files** |
+| **`SOMNARAK-WORLD/` Subtree** | **1896 files** |
 | **`docs/` Publishing Subtree** | **4 files** |
-| **Total Non-Git Repository Files** | **2269 files** |
+| **Total Non-Git Repository Files** | **2268 files** |
 
 ---
 

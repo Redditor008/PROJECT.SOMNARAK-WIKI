@@ -27,7 +27,7 @@ The repository is structured into distinct, authoritative functional environment
 
 ## Archive Metrics at a Glance
 
-- **Over 1,897 curated canonical markdown files in SOMNARAK-WORLD (2,269+ total files)** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
+- **Over 1,896 curated canonical markdown files in SOMNARAK-WORLD (2,268+ total files)** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
 - **Over 3.42 million words (3,420,000+ words)** of structured, authentic canonical lore
 - **49 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) across 6 canonical subfolders establishing macro-cosmology, planetary geology, institutional doctrines, and combat physics
 - **5 Planetary Biosphere & Ecological Codices** (`SOMNARAK-WORLD/Mugenhan_Ecology/`), documenting 15 Mundane species, 6 Sorrow Beasts/Plants, and 6 Mortal Sorrow Creatures across all planetary biomes
@@ -38,7 +38,7 @@ The repository is structured into distinct, authoritative functional environment
 - **6 Trans-Desolate Overland Arcs** (`SOMNARAK-WORLD/Jipyeongseondae/`), documenting the Horizon Caravan's planetary crossings
 - **10-Node Spatial Grid Combat Mechanics** (`SOMNARAK-WORLD/Tactical_Combat_Engine/`), defining turn-based spatial combat resolution; dice, AP, and clash law in [Action Dice & Clash Rules](SOMNARAK-WORLD/Tactical_Combat_Engine/ACTION_DICE_AND_CLASH_RULES.md).
 - **Game Battle Operations & Tactical Simulation Suite** (`GAME_BATTLE/`), housing turn-by-turn combat encounters, boss battle mechanics, and standard authoring templates
-- **291 Unique Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), cataloging entities across Coherence Ranks I to V and Potency Grades α to ω
+- **290 Unique Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), cataloging entities across Coherence Ranks I to V and Potency Grades α to ω
 - **42 Complete M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, quadripartite Side-Codex, Weapon, Suit, Gift across 1,165 files)
 - **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/Ordeals/`), documenting Blue, Obsidian, Ashen, Grey, and Purple Ordeals (archival codices render Obsidian/Ashen as Black/Pale) across 4 watches
 - **14 Hope Transformation Records** (`SOMNARAK-WORLD/Hope_Transformations/`), detailing resonant ascensions
@@ -121,7 +121,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── Mugenhan_Ecology/                   # 5 Planetary Biosphere & Ecological Codices (Mundane, Beasts, MSF)
 │   ├── Tactical_Combat_Engine/             # 10-Node Spatial Grid Combat Mechanics & Battle Integration Suite
 │   ├── Story_Cantos/                       # The Character Story Cantos (Dialogue-Driven Prose Novellas)
-│   ├── Sorrow_Entities/                    # 291 Unique Entity dossiers across Ranks I to V and Grades α to ω
+│   ├── Sorrow_Entities/                    # 290 Unique Entity dossiers across Ranks I to V and Grades α to ω
 │   ├── Echo_Cores/                         # 9 Echo-Core files: Facility 01 departmental leaders
 │   ├── MAW_Codex_Sets/                     # 1,165 files: 42 complete quadripartite sets across 42 folders
 │   ├── Ordeals/                            # 60 Ordeal files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
@@ -131,7 +131,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 └── REFERENCE_SOMNARAK_WIKI/                # Out-of-World Editorial Standards, Audits & Catalogs
     ├── README.md                           # Overview of the reference standards folder
     ├── ABSOLOVHAN_REPAIR_NOTES.md          # Canon harmonization and repair notes for Absolvohan texts
-    ├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 291 unique Sorrow Entities
+    ├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 290 unique Sorrow Entities
     ├── SORROW_ENTITIES_PAIRS_AUDIT.md      # Detailed audit and resolution guide for the 241 paired entity files
     ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line audit of the foundational codices
     ├── ALL_FILES_AUDIT_MANIFEST.md         # Comprehensive manifest of all reference files

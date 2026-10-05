@@ -5,7 +5,7 @@
 ---
 
 **Document ID:** `SE-044-D`  
-**Linked Entity:** `SE-C-Vω-002` — Dawn of Mourning  
+**Linked Entity:** `SE-C-Vω-001` — Dawn of Mourning  
 **Source SECC Designation:** `C-Vω-001 [LS]`  
 **Item Registry Code:** `MAW-G-044-01`  
 **Author:** Dreamer Sora  
@@ -51,7 +51,7 @@ Within *Dawn of Mourning — Witnessed Form*, The Dawn of Charm performs the sti
 ---
 
 **Document ID:** `SE-044-D`  
-**Linked Entity:** `SE-C-Vω-002`  
+**Linked Entity:** `SE-C-Vω-001`  
 **Item Registry Code:** `MAW-G-044-01`  
 **Author:** Dreamer Sora  
 **Date:** Year 4,238 — Dawn Initiative  
