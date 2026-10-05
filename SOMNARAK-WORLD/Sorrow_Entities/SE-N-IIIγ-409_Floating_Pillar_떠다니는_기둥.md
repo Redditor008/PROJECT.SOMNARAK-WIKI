@@ -161,7 +161,7 @@ Floating Pillar is a Subject with Subject-Spirit manifestation and Void expressi
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
+- **Event type (non-breach):** Transformation in place. Floating Pillar alters what is around it at Zone C, Mask Market and stays inside it; identity and memory begin to dissolve, draining clarity.
 - **Containment priority:** Flerehan and Ferrehan from the marks, with the floor beneath the gap already clear. Nobody is told that anything is holding; nobody offers it a substitute.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from a single Market event and is labelled as modelled wherever it is quoted.
 

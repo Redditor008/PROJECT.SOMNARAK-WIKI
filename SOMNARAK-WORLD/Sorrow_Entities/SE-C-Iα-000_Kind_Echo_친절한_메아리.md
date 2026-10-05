@@ -170,7 +170,7 @@ Kind Echo is the R.D.'s training standard — the entity every new agent works w
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corruption of its own zone. The zone warps and the warping spreads inside it; nothing walks out.
+- **Event type (non-breach):** Corruption of its own zone. The zone at SECTOR-D-01, The Forge District — Training Containment Unit turns and the turning spreads within it; waves of cold grief wash over personnel, draining composure.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
 - **Sorrow Gauge on event:** Starts at 40% and rises 10% per turn if unaddressed.
 

@@ -161,7 +161,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corruption of its own zone. The zone warps and the warping spreads inside it; nothing walks out.
+- **Event type (non-breach):** Corruption of its own zone. The zone at SECTOR-A-01, Alpha Tree deep storage turns and the turning spreads within it; floors buckle, walls bow inward, and every step in the sector costs what three should.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% per interval unaddressed, and rises faster in the weeks either side of an opening date.
 

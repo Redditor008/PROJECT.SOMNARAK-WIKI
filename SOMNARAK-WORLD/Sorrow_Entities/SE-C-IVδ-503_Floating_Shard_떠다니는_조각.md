@@ -161,7 +161,7 @@ Floating Shard is a Subject with Subject-Phantasmal manifestation and Lament exp
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corruption of its own zone. The zone warps and the warping spreads inside it; nothing walks out.
+- **Event type (non-breach):** Corruption of its own zone. The zone at Zone D, Forge District turns and the turning spreads within it; the air fills with audible weeping, eroding the will to continue.
 - **Containment priority:** Seal the bay and endure with Viderehan and Ferrehan. Nothing is thrown, struck or cut inside the seal; the mirrored injury holds through a event and has put two responders in medical.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from the two recorded Corrupt events in the Forge District and is labelled as modelled wherever it appears.
 

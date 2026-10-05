@@ -161,7 +161,7 @@ Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge exp
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
+- **Event type (non-breach):** Transformation in place. Flotsam alters what is around it at Zone B, Old Lament and stays inside it; everything stored in the affected volume becomes heavy and anonymous. Workers can lift the objects and cannot say what any of them are for.
 - **Containment priority:** Bring the sector inventory and read the use of each outlined object aloud. The event ends on recollection, has ended that way three times out of three, and cannot be ended by force.
 - **Sorrow Gauge on event:** Opens at 45% and falls 10% each time an object's use is correctly remembered aloud.
 
@@ -265,7 +265,7 @@ Every piece is a thing whose purpose went, and the set takes purposes from its w
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Flotsam (C-IIβ-782 [GS]) is logged as a Subject-Weight manifestation expressing Grudge. The Relic formed from a treasured object becoming meaningless over time. Held at Zone B, Old Lament. It spreads from object to object through emotional association.
+Flotsam is a condition spread across the stored material of Old Lament: 611 objects carrying a faint outline that will not photograph, each of them intact, each of them something nobody can any longer say the use of. Forty-one still have a name against them in the inventory.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through old objects and household memories. Personnel feel objects becoming emotionally meaningless. It burns without damaging material.
@@ -441,7 +441,7 @@ The objection is minuted at every annual review and is raised by the welfare off
 ### Registry Trivia
 
 - **Classification detail:** Echo (II) coherence at Moderate (β) — a condition distributed across 611 objects, none of which is the entity and all of which carry it.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone B, Old Lament.
+- **Field detail:** Grudge, distributed across the Old Lament stores in Zone B, worked from an inventory rather than at a position.
 - **Recognition detail:** Identify it by the outline and by weight in an object that has not changed mass; heat alone is shared with two other Grudge holdings in the sector.
 - **Record detail:** Read this file beside the off-site description store's index, which is the only part of the countermeasure that is not in this building, and beside the rememberers' register.
 - **Containment detail:** Do not equate a short outline list with a dormant holding. The list has been as low as four and as high as sixty-one, and the floor loading has risen in every one of the last four years regardless of it.

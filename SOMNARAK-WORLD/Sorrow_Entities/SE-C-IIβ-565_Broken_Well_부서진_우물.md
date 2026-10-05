@@ -161,7 +161,7 @@ Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Gr
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
+- **Event type (non-breach):** Transformation in place. Broken Well alters what is around it at Zone B, Old Lament and stays inside it; depth where there is none. Workers stop trusting the floor, and the ones who are drawn in are found standing over flat ground, looking down.
 - **Containment priority:** Staff the perimeter with personnel who hold the search record and have them read the findings aloud. Remembering halts the draw; it has halted it three times out of three, and force has never been attempted.
 - **Sorrow Gauge on event:** Opens at 45% and rises 10% per person drawn toward the depths.
 

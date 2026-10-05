@@ -161,7 +161,7 @@ Fading Whisper is a Subject with Subject-Grudge manifestation and Void expressio
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
+- **Event type (non-breach):** Transformation in place. Fading Whisper alters what is around it at Zone A, Alpha Tree and stays inside it; the containment zone loses definition, colors fade, sounds vanish.
 - **Containment priority:** Flerehan and Ferrehan together from the instrumented line. Nothing is answered, nothing is completed, and no responder repeats back anything they think they heard.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% per turn unaddressed. The figure is modelled from a single recorded event and is labelled as modelled wherever it is quoted.
 

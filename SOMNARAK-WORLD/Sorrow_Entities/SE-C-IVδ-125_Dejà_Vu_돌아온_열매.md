@@ -161,7 +161,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
+- **Event type (non-breach):** Transformation in place. Déjà Vu alters what is around it at Zone A, Alpha Tree and stays inside it; identity and memory begin to dissolve, draining clarity.
 - **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
 - **Sorrow Gauge on event:** Starts at 40% and rises 10% per turn if unaddressed.
 

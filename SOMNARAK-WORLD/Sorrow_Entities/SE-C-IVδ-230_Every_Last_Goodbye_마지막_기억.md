@@ -161,7 +161,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corruption of its own zone. The zone warps and the warping spreads inside it; nothing walks out.
+- **Event type (non-breach):** Corruption of its own zone. The zone at SECTOR-A-01, Alpha Tree deep vault turns and the turning spreads within it; the zone loses definition — colour drains, sound stops carrying — and anyone the pulse reaches loses memories of partings specifically.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% per interval unaddressed, and is highest in the week the Burial Office publishes its annual return.
 

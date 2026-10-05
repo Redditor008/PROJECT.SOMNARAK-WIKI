@@ -161,7 +161,7 @@ Rising Well is a Subject with Subject-Mind manifestation and Grudge expression, 
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
+- **Event type (non-breach):** Transformation in place. Rising Well alters what is around it at The Desolate — mobile and stays inside it; the entity's anger becomes physical, cracking walls and personnel alike.
 - **Containment priority:** Flerehan and Ferrehan together, from a position outside the drawing, with restraint authority already delegated to the team of three. Nobody argues with anybody.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% per turn unaddressed. Both recorded events ended by restraint rather than by Work, and the figure is labelled as drawn from two events wherever it appears.
 

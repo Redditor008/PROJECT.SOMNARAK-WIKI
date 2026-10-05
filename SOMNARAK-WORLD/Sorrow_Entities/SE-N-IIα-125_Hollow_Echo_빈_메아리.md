@@ -161,7 +161,7 @@ Both Work Types that lower the gauge here do so by the worker staying rather tha
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
+- **Event type (non-breach):** Transformation in place. Hollow Echo alters what is around it at Zone D, Echo Gardens — ambient and stays inside it; names stop being available. Not identity wholesale — names: colleagues, streets, the worker's own, in roughly that order, and returning in reverse over about a day.
 - **Containment priority:** Answer it. One Warden, the scripted line, read aloud into the enlarged volume. This is the only entity in the wing whose suppression condition is a sentence, and the Directorate has twice attempted to replace it with a physical measure and twice withdrawn the proposal.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% per turn, and the figure is close to meaningless on this holding. The interval is the instrument. During the single recorded expansion it fell to nine seconds and stayed there until the enclosure was answered.
 

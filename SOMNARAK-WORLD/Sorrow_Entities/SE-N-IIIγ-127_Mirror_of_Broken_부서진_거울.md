@@ -161,7 +161,7 @@ The table applies and the number the station keeps is the shard count against th
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corruption of its own zone. The zone warps and the warping spreads inside it; nothing walks out.
+- **Event type (non-breach):** Corruption of its own zone. The zone at Zone E, Exile's Gate vicinity turns and the turning spreads within it; burden across the whole affected zone: the floor reads as uphill in every direction and every step is work.
 - **Containment priority:** Wake everybody in the affected sections and keep them awake. Sealing does nothing — the perimeter is sleep, not a wall — and the only lever anybody has is that it cannot reach a person who is not asleep.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% for each former self a person in the affected zone denies aloud. It falls 10% when somebody names one without defending it, which is the only downward movement in nine years of readings.
 

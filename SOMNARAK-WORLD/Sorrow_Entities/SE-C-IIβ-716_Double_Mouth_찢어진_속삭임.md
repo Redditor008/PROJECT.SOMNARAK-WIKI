@@ -161,7 +161,7 @@ The gauge moves on this holding and says little. The figure that is kept is the 
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
+- **Event type (non-breach):** Transformation in place. Double Mouth alters what is around it at Zone D, Mantle Commons and stays inside it; everyone in hearing becomes certain of something they cannot support, and says it.
 - **Containment priority:** Rotate previously exposed personnel out of the sector. No suppression and no contradiction: the one reliable way to make this holding worse is to tell it that it is wrong.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% for each half-heard phrase a listener finishes for it. Listeners do this without noticing and report it as their own thought.
 

@@ -169,7 +169,7 @@ The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and 
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
+- **Event type (non-breach):** Transformation in place. The Hollow Knight alters what is around it at SECTOR-B-01, Zone B — contained and stays inside it; the Grudge becomes structural. Walls crack along the route first, then everywhere, and personnel in the volume take the same load the architecture does.
 - **Containment priority:** Evacuate outward from the route; do not form an assault element. Return the salute at the perimeter. Nobody who stepped aside has ever been pursued, in nine years and four transformations.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% per circuit completed rather than per turn.
 

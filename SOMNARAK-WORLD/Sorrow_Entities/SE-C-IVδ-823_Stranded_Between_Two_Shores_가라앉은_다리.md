@@ -161,7 +161,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corruption of its own zone. The zone warps and the warping spreads inside it; nothing walks out.
+- **Event type (non-breach):** Corruption of its own zone. The zone at Zone B, deep tunnels turns and the turning spreads within it; the air fills with audible weeping, eroding the will to continue.
 - **Containment priority:** Hold both mouths and send nobody across. Sealing one end is the one measure that has made an incident longer, and the standing order is that a team which cannot staff both ends does not open the tunnel at all.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% each time a worker sets foot on the span — it gives way beneath them by design, and the fall is survivable. It falls 10% for each pair of personnel holding opposite mouths in voice contact, and the single recorded closure was reached without anyone crossing.
 

@@ -169,7 +169,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transformation in place. The form shifts and the surrounding space changes with it; nothing leaves the zone.
+- **Event type (non-breach):** Transformation in place. The Memory Thief alters what is around it at SECTOR-C-01, Collector's Row — contained and stays inside it; particulars go missing across a corridor at once — names off badges people have worn for years, the route to a room they work in.
 - **Containment priority:** Attend it. Put two observers in the room and the movement stops being a event; there is nothing to seal and nothing to subdue.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% a turn while it is in an event state. It falls 10% for every memory an exchange recovers, which is the only downward movement recorded, and the exchanges that worked were all conducted by the person who had lost the memory.
 
