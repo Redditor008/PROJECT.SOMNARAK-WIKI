@@ -199,7 +199,7 @@ The escalation pattern is specific to Relic Waiting for Its Maker: it is not a g
 | **Primary effect** | Awakens a dormant resonance field that reinforces all allied armor by +20% and restores weapon sharpness. |
 | **Duration / rate** | Continuous while the channeler maintains the ritual posture. |
 | **Risk** | Major (γ) Place-Grudge producing Void pressure; The relic demands completion; withdrawing tools before the pulse concludes cracks their structural durability. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Speak only what the worker accepts responsibility for carrying, under certified Tool protocol. |
 
 **Activation reporting order:** trigger → what was presented or spoken, and by whom → first change in the lean, with the plumb figures → the boundary of the affected chamber and which adjoining stalls reported it → personnel effect, including anything said aloud that the speaker had not intended to say → duration → management condition. The fifth field is entered by the speaker themselves, in their own words, and is the only field on this holding's form that nobody else may complete for them. Viderehan and Ferrehan remain the only valid Work Types.
 ## M.A.W. Equipment

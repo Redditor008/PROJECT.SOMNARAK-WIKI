@@ -72,7 +72,7 @@
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone E, Border region |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | Viderehan and Ferrehan from the margin. The 25% figure is the consequence, not the objective, on every Broken Fragment cycle logged. |
 
 ### Combat Actions
 

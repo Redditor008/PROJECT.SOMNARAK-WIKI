@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Acknowledge the inheritance and choose whether it will be carried. Physical restraint is useless. Viderehan and Ferrehan are the valid Work Types and nothing else has been authorised. |
 
 ### Operational Notes
 

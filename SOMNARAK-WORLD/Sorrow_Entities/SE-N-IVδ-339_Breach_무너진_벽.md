@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Establish realistic anchors; do not promise perfect safety. Viderehan and Ferrehan are the valid Work Types and nothing else has been authorised. |
 
 ### Operational Notes
 
@@ -118,7 +118,7 @@
 | **Form** | A wall-shaped presence inside consciousness, cracked and leaning. It appears as a collapsing boundary between one thought and the next. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | There is nothing to see. Identify it by the sequence: the sensation of being watched for several minutes with nothing present, then the loss of the feeling that anything is holding. Several Gardens records are invisible; this is the one that arrives as a lean in the mind. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; more than one Gardens record concerns a protection that failed, and this is the one that worsens on being promised it will not happen again. |
 
 **Appearance protocol:** There is nothing to photograph. Record the watching interval in minutes, the sector, and the exact wording of any assurance given before the gauge moved — verbatim, including who it was given to. Observers are not to characterise the wall they feel; the descriptions vary, the mechanism does not.

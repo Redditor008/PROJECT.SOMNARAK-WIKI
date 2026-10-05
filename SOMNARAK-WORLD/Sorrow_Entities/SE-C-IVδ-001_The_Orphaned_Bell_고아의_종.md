@@ -270,7 +270,7 @@ In the channelled mode the pattern to watch is the operator rather than the bell
 | **Primary effect** | The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. |
 | **Duration / rate** | While equipped, until the removal condition is met. |
 | **Risk** | Critical (δ) — Facility-threatening if escalated Object-Lament producing Lament pressure; Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Anchored, never struck, Pugnahan never attempted; the watch stood in assigned pairs and ended from outside the circle. Enforced by the station rather than by the schedule. |
 
 **Activation reporting order (channelled use):** channel opened → names recited and in what order → elapsed time at each ten seconds → resonance at the circle edge → operator state at withdrawal → closure confirmed. Viderehan and Ferrehan remain the only valid Work Types outside channelling hours.
 ## M.A.W. Equipment

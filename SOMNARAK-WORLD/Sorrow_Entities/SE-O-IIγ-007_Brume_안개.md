@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | γ · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
 
 ### Operational Notes
 

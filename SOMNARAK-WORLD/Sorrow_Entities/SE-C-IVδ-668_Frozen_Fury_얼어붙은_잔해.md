@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Read the edges weekly, and ensure every clearance entry filed by this facility names the party that carried out the clearance, in the active voice — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
 
 ### Operational Notes
 
@@ -73,7 +73,7 @@
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Collector's Row |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | Read the edges weekly — the only close a Frozen Fury cycle has. |
 
 ### Combat Actions
 
@@ -119,7 +119,7 @@
 | **Form** | A frozen ruin fragment of black crystal, shaped like a broken building and burning with silent rage. |
 | **Position / movement** | Immovable; two attempts are on record and neither shifted it. Only the edge luminance varies. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the temperature and the edges. It is a slice of a building in black crystal, cold in a bay that sits under Forge heat, with no measurable interior temperature, and its fracture edges carry a silent crimson glow that gives off no heat at all and can only be read in darkness. |
 | **Identification** | Verify against the SECC code before work or contact begins; the markers are the absence of any interior temperature and the heatless crimson glow at the fracture edges. |
 
 **Appearance protocol:** Kill the bay lights and read the fracture edges against the step wedge at one metre; the glow is crimson, silent, and gives no heat, and the reading is meaningless in any other condition. Log the dimensions, the interior temperature, which no instrument returns a value for, and the state of the margin of original ground.

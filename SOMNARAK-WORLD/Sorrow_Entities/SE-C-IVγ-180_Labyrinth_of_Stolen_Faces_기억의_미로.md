@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | On Labyrinth of Stolen Faces: maintain a memory anchor and limit exploration time. The valid Work Types carry the cycle; the condition decides it. |
 
 ### Operational Notes
 
@@ -118,7 +118,7 @@
 | **Form** | A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the walls. Several structures are catalogued beneath Old Lament; this is the one whose walls are translucent, hold faces, and move when somebody remembers something. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; the undercroft holds more than one record that stores memory, and this is the one that must never be navigated from recall. |
 
 **Appearance protocol:** Record the walls as contents, not as surfaces. They are translucent, they flicker with faces and half-scenes, and the scenes are not the visitor's unless the visitor supplies them. Note any face recognised by anyone present, note who recognised it, and do not ask them to describe it further inside the structure.

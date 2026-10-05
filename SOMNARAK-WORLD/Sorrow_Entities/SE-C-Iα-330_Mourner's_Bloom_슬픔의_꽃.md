@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
 
 ### Operational Notes
 
@@ -72,7 +72,7 @@
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Echo Gardens |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | Count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists, and the gauge below 25% — on Mourner's Bloom the second follows the first and has never arrived without it. |
 
 ### Combat Actions
 
@@ -118,7 +118,7 @@
 | **Form** | A flower grown into a creature: a sinuous stalk-body on coiling root-legs, petals opening into a luminous maw. |
 | **Position / movement** | Mobile on coiling roots; never found more than forty metres from the bed it came up in. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the movement and the maw. The stalk is a body, the roots are legs that coil and carry it, and the petals open into something recognisably a mouth; the dark blue colour and the warmth at the centre are real but are shared with the ordinary Gardens stock, and three misidentifications have been made on colour alone. |
 | **Identification** | Verify against the SECC code before work or contact begins; colour alone has produced three misidentifications against ordinary Gardens stock, and the marker is the root-body and the maw. |
 
 **Appearance protocol:** Count the petals on the stalk and photograph the maw open and closed. Log the root span, the distance travelled since the last cycle, and the colour at the centre, which is warm to the hand and has not varied. Specific language only — it is not 'sinister', it walks at a metre every four seconds and has never touched anybody who was not crying.

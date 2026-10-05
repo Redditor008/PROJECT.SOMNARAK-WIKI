@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Mark the crossing as memory and allow the Bridge to settle. Nothing beyond that has ever lowered the gauge on Bridge to Nowhere. |
 
 ### Operational Notes
 
@@ -118,7 +118,7 @@
 | **Form** | A bridge rising from the Echo Gardens, made of dark memory-crystal and old path stones. It leads across no physical gap. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the path-stones and the absent gap. Other spans are recorded in Zone D; this is the one that rises over flat ground and carries stones from a road that is not on any current survey. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins. Two Echo Gardens records are bridges with opposite requirements, and confusing them puts a worker on the wrong span doing the wrong thing. |
 
 **Appearance protocol:** Record the materials and the singing. The deck is dark memory-crystal set with worn path-stones that belong to a road the survey no longer carries, and the structure sings while it is forming — the sound stops when it is complete. Note the travellers visible on the span, their number, and the direction they are walking, which is always away.

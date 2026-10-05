@@ -119,7 +119,7 @@
 | **Form** | A mirror that rises from the ground during periods of concentrated rage. Its surface reflects no face, only the anger beneath it. |
 | **Position / movement** | Physical Form: A mirror that rises from the ground during periods of concentrated rage. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the surface. Several reflective records are catalogued; this is the one that rises out of the floor, glows toward red near somebody holding something in, and gives back no face. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; the Row holds more than one record made of anger, and this is the one that is made worse by being soothed. |
 
 **Appearance protocol:** Record the height above floor level in centimetres before anything else — that figure is the entity's state and everything else is description. Note the glow, which deepens toward red in the presence of somebody holding anger in, and note that the surface returns no face at any angle. Personnel are not to be asked what they see in it.

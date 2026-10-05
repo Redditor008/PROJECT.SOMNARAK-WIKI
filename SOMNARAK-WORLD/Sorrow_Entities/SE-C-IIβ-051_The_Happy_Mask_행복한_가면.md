@@ -73,7 +73,7 @@
 | **Difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-01, contained with the Masked Troupe |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | Viderehan and Ferrehan only; certified Tool protocol; the mask is never worn; tray thermometer logged at both ends of every cycle; the room list recorded in full — the only close a The Happy Mask cycle has. |
 
 ### Combat Actions
 

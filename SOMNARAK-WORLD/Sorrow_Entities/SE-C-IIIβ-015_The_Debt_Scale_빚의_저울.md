@@ -73,7 +73,7 @@
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-01, used by Collectors |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | Viderehan and Ferrehan only at the plinth. The 25% figure is the consequence, not the objective, on every The Debt Scale cycle logged. |
 
 ### Combat Actions
 

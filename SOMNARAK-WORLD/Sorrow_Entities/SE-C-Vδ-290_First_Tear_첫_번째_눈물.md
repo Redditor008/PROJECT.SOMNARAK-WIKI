@@ -119,7 +119,7 @@
 | **Form** | A single crystallized tear smaller than a raindrop, suspended above a sealed pedestal. It glows with faint blue light. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | There is nothing to confuse it with. One crystallised tear, smaller than a raindrop, faint blue, four centimetres above a sealed pedestal, not falling. If something in this vault is falling, it is not this. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; this vault holds two records of unknown origin and their handling is opposite. |
 
 **Appearance protocol:** Record the glow value against the standard lamp, the height above the pedestal, and the time to the second. Nothing else about its appearance has ever varied: smaller than a raindrop, faint blue, motionless, not falling. Observers are not to describe what the sorrow feels like; that field was removed from the sheet in 4151 and is not to be reinstated.

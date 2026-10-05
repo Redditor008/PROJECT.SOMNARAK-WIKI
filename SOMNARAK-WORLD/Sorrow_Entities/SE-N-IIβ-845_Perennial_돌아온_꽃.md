@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Acknowledge the place's history and do not claim it as unchanged. Nothing beyond that has ever lowered the gauge on Perennial. |
 
 ### Operational Notes
 
@@ -118,7 +118,7 @@
 | **Form** | A patch of dark flowers growing from apparently empty ground in the Desolate. The flowers return after being removed. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the return. Several walking growths are catalogued in the Desolate; this is the one that comes back to the same ground after removal, and the ground is the part that identifies it. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; on this record the ground is part of the identification, and a patch identified without its site history will be treated as vegetation. |
 
 **Appearance protocol:** Record the patch and the ground as one object. The flowers are dark, the stem-legs are thin, the petals open like small mouths and sing faintly on approach — the singing stops when anyone steps onto the soil. Note the soil's weight underfoot, which is the clearest field reading this entity gives, and whether the patch has closed over a previous clearance line.

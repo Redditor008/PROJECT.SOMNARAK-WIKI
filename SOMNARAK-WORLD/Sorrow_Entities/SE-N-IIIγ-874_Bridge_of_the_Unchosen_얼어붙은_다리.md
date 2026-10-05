@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | On Bridge of the Unchosen: hold the probe series unbroken and enforce the Counterfactual Rule across every board of this facility that issues a finding. The valid Work Types carry the cycle; the condition decides it. |
 
 ### Operational Notes
 

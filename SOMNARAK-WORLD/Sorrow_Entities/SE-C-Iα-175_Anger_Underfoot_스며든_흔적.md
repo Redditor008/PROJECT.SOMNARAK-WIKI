@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Keep the station circuit unbroken and the Rule of the Named Respondent enforced across every complaints channel this facility operates. Viderehan and Ferrehan are the valid Work Types and nothing else has been authorised. |
 
 ### Operational Notes
 

@@ -119,7 +119,7 @@
 | **Form** | A massive Weight Han-crystal gate without handle, lock, or hinges. It predates the facility. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by what it lacks. Several sealed structures are catalogued beneath the Alpha Tree; this is the one with no handle, no lock, no hinges and no seam, cold on the outside and warm at the frame. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; more than one record here is described as a door, and this is the one with no procedure for opening it. |
 
 **Appearance protocol:** Record the slab — Weight Han-crystal, no handle, no lock, no hinges, no seam. Record the two temperatures separately and never as an average: the outer face is cold and the inner face, measured at the frame, is warm. Personnel are not to record what they think is behind it.

@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Do not promise reunion; name both the crossing and the loss. Nothing beyond that has ever lowered the gauge on Corrosion Dream. |
 
 ### Operational Notes
 
@@ -117,7 +117,7 @@
 | **Form** | A dreamlike figure made from rusted bridge plates and dark water. It sings in a voice heard only by people who have crossed a broken boundary. |
 | **Position / movement** | Mobile within the district; never twice in the same bay, and drawn to wherever unbuilt works are drawn or stored. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the song and the proportions, not by the shape, which changes between appearances. The song is heard only by personnel who have themselves crossed a boundary that broke behind them; most of the watch hears nothing, and the holding depends on the few who do, who are required to record that singing occurred and not what was sung. |
 | **Identification** | Verify against the SECC code before work or contact begins; the shape varies between appearances and the plate-to-water proportion, not the silhouette, is the identifying figure. |
 
 **Appearance protocol:** Estimate the proportion of corroded plate to standing water in quarters, not percentages; the coarse series has twice caught a change a finer irregular one would have missed. Log the bay, the height, whether the hands are raised or lowered, and whether singing occurred, recorded as a yes and not as a transcript.

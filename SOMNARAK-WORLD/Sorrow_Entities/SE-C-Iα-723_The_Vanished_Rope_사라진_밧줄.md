@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Name what was lost; do not attempt to recreate the bond. Viderehan and Ferrehan are the valid Work Types and nothing else has been authorised. |
 
 ### Operational Notes
 
@@ -118,7 +118,7 @@
 | **Form** | A burning humanoid figure with rope-like limbs that fade in and out of visibility. The rope appears severed at both ends. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the two cut ends. Several rope and chain forms are catalogued; this is the one severed at both ends, burning without ash, holding one end out. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins. Several records in this archive are ropes; they are handled in opposite ways, and the wrong one in mind puts a worker in the chamber ready to secure something that must only be held. |
 
 **Appearance protocol:** Record both severed ends. The limbs are rope gone to ember, burning without ash, and the fibre is cut cleanly at each end so that it leads to nothing in either direction. Note the fading, which is partial and irregular, and note the reach — the height of the offered end and whom in the room it is held out to.

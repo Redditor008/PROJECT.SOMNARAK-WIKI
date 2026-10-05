@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Establish a guarded rest area and permit sleep. Nothing beyond that has ever lowered the gauge on Torpor. |
 
 ### Operational Notes
 
@@ -118,7 +118,7 @@
 | **Form** | A quiet border place where every sound becomes a sleeping breath. The ground is soft and the air presses downward. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the sound. Several Zone E records are described as quiet; this is the one in which a sharp noise arrives as a breath, and there is nothing at all to see. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; several Zone E records come from the same posting, and the wrong one in mind sends a team in prepared to stay awake. |
 
 **Appearance protocol:** There is nothing to describe and that is the entry. Record the acoustic edge, the give in the ground underfoot, the downward pressure of the air, and the fact that nothing is visible at any range. Personnel are to stop recording the area as calm; four reports have, and all four were written by teams that then overran their rotation.

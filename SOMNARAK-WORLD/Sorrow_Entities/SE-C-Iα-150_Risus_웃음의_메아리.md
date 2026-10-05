@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | On Risus: let the laughter and grief coexist; do not suppress the sound. The valid Work Types carry the cycle; the condition decides it. |
 
 ### Operational Notes
 
@@ -118,7 +118,7 @@
 | **Form** | A sound rather than a body: distant laughter that arrives warm, then becomes quietly sad. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the turn. Several ambient records are catalogued in Zone D; this is the one that arrives as laughter and becomes grief without changing volume, and instruments register no vibration at any point. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; Zone D holds more than one ambient record, and this is the one where locating the source is itself the error. |
 
 **Appearance protocol:** There is nothing to see and the entry is the sound itself. Record how the laughter arrives — warm, bright, at conversational distance — and how long it takes to thin into grief, which is the only timing in this file that matters. Note how many distinct voices can be separated out, and whether any of them is recognised by anyone present.

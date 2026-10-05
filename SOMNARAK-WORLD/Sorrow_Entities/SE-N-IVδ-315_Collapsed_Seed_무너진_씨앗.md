@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Lift clear, log the partial form in full even though it will not recur, and file the observation under the Rule of the Negative Finding. Nothing beyond that has ever lowered the gauge on Collapsed Seed. |
 
 ### Operational Notes
 

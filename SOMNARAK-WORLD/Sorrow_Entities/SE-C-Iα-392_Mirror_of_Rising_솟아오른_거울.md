@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | β · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | On Mirror of Rising: name what is known without inventing the missing parts. The valid Work Types carry the cycle; the condition decides it. |
 
 ### Operational Notes
 

@@ -73,7 +73,7 @@
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | The Desolate, near The Scar |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | Viderehan and Ferrehan only, and the gauge below 25% — on Frozen Echo the second follows the first and has never arrived without it. |
 
 ### Combat Actions
 

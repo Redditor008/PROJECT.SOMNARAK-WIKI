@@ -119,7 +119,7 @@
 | **Form** | A bridge-shaped object of empty crystal that spreads across ledgers and floors without connecting two physical places. |
 | **Position / movement** | Physical Form: A bridge-shaped object of empty crystal that spreads across ledgers and floors without connecting two physical places. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the endings. Several span-shaped records are catalogued; this is the one made of empty crystal that terminates in air at both ends and lies across documents rather than ground. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins. The archive holds several bridges and they are managed in opposite ways; this is the one where helping is the failure mode. |
 
 **Appearance protocol:** Record both ends, and record that neither of them lands on anything. The crystal is empty, the span is bridge-shaped, and it terminates in air at both extremities regardless of the room it is in. Note what it has grown across — ledger pages, a floor, a shelf of family records — and copy the names on any document it is lying over.

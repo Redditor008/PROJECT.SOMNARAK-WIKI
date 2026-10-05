@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Present context and evidence; do not appeal with status or force. Nothing beyond that has ever lowered the gauge on Gavel. |
 
 ### Operational Notes
 
@@ -118,7 +118,7 @@
 | **Form** | A humanoid judge forged from black iron, with a sealed face and a crimson scale embedded in its chest. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the sealed face and the chest scale. Several iron forms are catalogued on the Row; this is the one with no features at all and a working balance where a heart would be. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; the Row holds several records that measure, and arriving with the wrong one in mind means arriving prepared to argue with something that does not hear argument. |
 
 **Appearance protocol:** Record the scale before anything else. The crimson scale set in the chest is the reading — note which pan is down and by how much, at entry, at each submission, and at exit. The face is a sealed plate with nothing on it, and personnel are to stop describing expressions on it; four separate reports have done so and no two agreed.

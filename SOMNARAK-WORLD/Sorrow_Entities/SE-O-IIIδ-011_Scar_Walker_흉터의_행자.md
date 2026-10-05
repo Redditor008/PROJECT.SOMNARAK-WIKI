@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Show respect, salute its duty, and acknowledge its sacrifice — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
 
 ### Operational Notes
 

@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Listen between the sobs and name both shores. Nothing beyond that has ever lowered the gauge on Stranded Between Two Shores. |
 
 ### Operational Notes
 
@@ -118,7 +118,7 @@
 | **Form** | A weeping bridge-shaped figure descending through the tunnels. Its arches resemble ribs and its surface is wet with crystallized tears. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the arches and the water. Several records in these tunnels are described as bridges; this is the one with ribbed arches, a permanently wet surface, and no gap underneath it. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; the archive holds four bridge-shaped records and the handling differs completely between them. |
 
 **Appearance protocol:** Record the arches, which are curved like ribs, and the surface, which is wet with crystallised tears that do not dry at any humidity. Record the span's depth and the width of the gap it arches over — there is no gap; the tunnel floor beneath it is continuous and has been surveyed four times to confirm it.

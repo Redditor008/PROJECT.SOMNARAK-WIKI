@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | On Homecoming Tree: mark the place as changed; do not attempt to restore a false past. The valid Work Types carry the cycle; the condition decides it. |
 
 ### Operational Notes
 
@@ -118,7 +118,7 @@
 | **Form** | A tree that appears in places where people have returned after long absence. Its roots hum with stored memory. |
 | **Position / movement** | Physical Form: A tree that appears in places where people have returned after long absence. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the bark and the leaves. Other walking growths are recorded in this region; this is the one carrying names and map fragments, and the names can be checked against the settlement rolls. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins. With a mobile site the registered location will often be wrong; the bark and the leaves are the check that holds. |
 
 **Appearance protocol:** Record the bark first. Names surface on it — people who returned too late — and the set is not fixed between observations; copy what is legible and note what has gone. Then the leaves, which carry fragments of old maps, and the root-legs, which show what ground the Tree has crossed since it was last seen.

@@ -199,7 +199,7 @@ The escalation pattern is specific to Quagmire: it is not a generic breach event
 | **Primary effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | While equipped, until the removal condition is met. |
 | **Risk** | Critical (δ) Object-Weight producing Lament pressure; Misuse increases emotional strain and may destabilize the operator. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Map the Trace and preserve the names it carries, under certified Tool protocol. |
 
 **Activation reporting order:** the route lost and where → change in measured mass → new breaks in the line → subsidence depth → footsteps counted → whether any name was recovered. The last field is the only one that discharges the resolution condition, and a report that fills every other column and leaves it blank has documented an activation without doing anything about it.
 ## M.A.W. Equipment

@@ -118,7 +118,7 @@
 | **Form** | A pressure-shaped humanoid that rises from the ground as a wall of invisible grief. It remembers things the city erased. |
 | **Position / movement** | Primary Form: A pressure-shaped humanoid that rises from the ground as a wall of invisible grief. |
 | **Material / signature** | No surface and no mass. A standing column of pressure that bends the air into the outline of a person, salt-damp, smelling of cold rain. Lament expression. Height is taken with a plumb line against the chamber's marked face, which is the only measurement this holding yields. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
 
 **Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”

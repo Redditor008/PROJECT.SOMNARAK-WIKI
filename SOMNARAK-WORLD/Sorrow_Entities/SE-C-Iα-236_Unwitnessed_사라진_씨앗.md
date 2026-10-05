@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Mark the absence; do not excavate or plant into it. Nothing beyond that has ever lowered the gauge on Unwitnessed. |
 
 ### Operational Notes
 

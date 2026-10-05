@@ -73,7 +73,7 @@
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Collector's Row — ambient |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | Viderehan and Ferrehan only at the fixed mount, and the gauge below 25% — on Debt-Collector's-Lantern the second follows the first and has never arrived without it. |
 
 ### Combat Actions
 

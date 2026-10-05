@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Allow testimony to finish; do not drain the Well. Nothing beyond that has ever lowered the gauge on Well of Unfinished Words. |
 
 ### Operational Notes
 
@@ -119,7 +119,7 @@
 | **Form** | A well rising from border ground, filled with liquid sorrow that climbs rather than falls. Nearby walls lean toward it. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the climb and the absence of reflection. Other standing water is recorded on the border; this is the one whose surface rises in the shaft and shows nothing of whoever leans over it. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; several Zone E records share this origin, and arriving with the wrong one means arriving prepared to answer an entity that must only be heard. |
 
 **Appearance protocol:** Record the surface first and the shaft second. The liquid produces no reflection at any level, which is the detail that distinguishes this record from every other water feature on the border. Note the height against the coping mark, the direction of the lean in the nearby walls, and whether the surface moved while anyone was speaking.
@@ -200,7 +200,7 @@ The escalation pattern here is measured in sentences rather than in turns: the l
 | **Primary effect** | Acoustic reverberation silences hostile psychic chants across Range Band 2, preventing mental panic cascades. |
 | **Duration / rate** | Continuous while the whisper echoes within the shaft. |
 | **Risk** | Moderate (β) Place-Lament producing Lament pressure; The well swallows the speaker's voice; the operative is afflicted with muteness for the remainder of the shift. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | On Well of Unfinished Words the measure is simple to state and hard to keep: allow testimony to finish; do not drain the Well. |
 
 **Activation reporting order:** what was being said → who stopped it and how → the level before and after → the lean in the surrounding walls → whether the speaker was offered the chance to finish afterwards. The last field is in the order because it is the only intervention that has ever brought a level back down.
 ## M.A.W. Equipment

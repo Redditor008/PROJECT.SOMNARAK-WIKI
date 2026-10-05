@@ -252,7 +252,7 @@ In relic mode the thing to watch is the operator's own navigation. Record the el
 | **Primary effect** | The operator reads routes as the entity reads them: every road open, none of them arriving anywhere. |
 | **Duration / rate** | While attached, and for some hours after removal in the form of a reluctance to go home. |
 | **Risk** | Major (γ). Prolonged attachment removes the operator's sense of which direction is theirs, and the recorded cost of the Lantern is exactly that. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Provide a memory anchor; do not force a destination, under certified Tool protocol. |
 
 **Activation reporting order:** anchor presented → whether it was recognised, and how that was judged → junctions taken afterwards → any change in drift speed → the reading. Recognition is judged by the drift slowing and by nothing else; observers' impressions of acknowledgement are not recorded on this sheet.
 ## M.A.W. Equipment

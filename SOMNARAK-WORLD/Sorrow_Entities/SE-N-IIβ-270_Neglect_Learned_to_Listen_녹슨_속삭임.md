@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | On Neglect Learned to Listen: keep the panel series unbroken and the Rule of the Named Duty enforced across the establishment office and every restructuring schedule this facility issues. The valid Work Types carry the cycle; the condition decides it. |
 
 ### Operational Notes
 

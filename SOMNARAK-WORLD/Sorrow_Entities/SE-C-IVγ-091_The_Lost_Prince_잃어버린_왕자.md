@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Listen to the story and remain present; do not promise the absent person will return. Nothing beyond that has ever lowered the gauge on The Lost Prince. |
 
 ### Operational Notes
 

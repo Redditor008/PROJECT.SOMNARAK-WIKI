@@ -73,7 +73,7 @@
 | **Difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, Alpha Tree vault — contained |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | Viderehan and Ferrehan only at the plinth. The 25% figure is the consequence, not the objective, on every The Cracked Hourglass cycle logged. |
 
 ### Combat Actions
 

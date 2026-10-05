@@ -118,7 +118,7 @@
 | **Form** | A fruit-shaped presence within consciousness rather than space. It appears as a familiar object returning to an impossible place. |
 | **Position / movement** | It appears as a familiar object returning to an impossible place. |
 | **Material / signature** | No physical signature of any kind. Nothing in the chamber registers on any instrument the wing possesses. Void expression, perceived identically by workers who have not spoken to one another, which is the only measurement this holding provides and the one everything else is built on. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
 **Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”

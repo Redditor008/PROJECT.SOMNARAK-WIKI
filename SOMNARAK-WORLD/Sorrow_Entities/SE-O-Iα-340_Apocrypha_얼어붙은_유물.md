@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · α (Minor) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | On Apocrypha: mark the site and speak the farewell that was missed. The valid Work Types carry the cycle; the condition decides it. |
 
 ### Operational Notes
 

@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Share the burden through witness; do not drain the pool. Viderehan and Ferrehan are the valid Work Types and nothing else has been authorised. |
 
 ### Operational Notes
 
@@ -200,7 +200,7 @@ Escalation here is spatial and slow. Record the flow at onset, the level against
 | **Primary effect** | Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%. |
 | **Duration / rate** | Continuous while the mourning conduit remains unblocked. |
 | **Risk** | Major (γ) Place-Lament producing Lament pressure; Prolonged exposure induces deep, paralyzing melancholy; personnel in the mist suffer -2 Movement Speed. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Share the burden through witness; do not drain the pool. Enforced by the station rather than by the schedule. |
 
 **Activation reporting order:** trigger → flow rate and level at onset → damp boundary before and after, with the chalk marks dated → moss line before and after → personnel effect, including anybody present who was not staff → duration → management condition. Viderehan and Ferrehan only; the pool is not drained under any circumstances, including as a response to expansion.
 ## M.A.W. Equipment

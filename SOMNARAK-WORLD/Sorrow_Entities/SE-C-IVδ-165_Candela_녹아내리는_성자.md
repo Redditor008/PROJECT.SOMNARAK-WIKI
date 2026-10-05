@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Do not treat every vision as inevitable; distinguish possibility from fate — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
 
 ### Operational Notes
 
@@ -118,7 +118,7 @@
 | **Form** | A saint-like figure made of melting wax and crystallized tears. Its face changes according to future grief it has perceived. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the melting without heat and by the face resetting. Several figures in Zone B are described as saint-like; this is the one that is smaller at the end of a session than at the start. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; Zone B holds more than one record that shows what is coming, and they do not carry the same obligation when it does. |
 
 **Appearance protocol:** Record the face and the rate together. The features run and reset to mirror a grief it has already perceived, so the face is a reading rather than an appearance: note whose grief it resembles, if anyone present recognises it. Then the melting — drops per minute if countable, height lost if not — and whether the crystallised tears threaded through the wax are holding or have begun to loosen.

@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | On Ephemera: map and name what remains; do not chase what is already gone. The valid Work Types carry the cycle; the condition decides it. |
 
 ### Operational Notes
 
@@ -117,7 +117,7 @@
 | **Form** | A faint humanoid figure made from dust, broken stone, and fading memories of a ruined settlement. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Ephemera is identified by the drifting dust line and the loss of outline definition before the figure itself is visible; the settlement structures in the dust resolve last. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
 **Appearance protocol:** Log the proportion of the outline currently holding, the composition of the shed material, and the wind speed — Ephemera loses definition measurably above light wind, and that rate is the primary variable on this row. Record which structures of the ruined settlement are legible in the dust separately, noting position rather than identity, because the legible details rotate between cycles and will otherwise be read as a change in the entity rather than a change in what it is currently carrying.

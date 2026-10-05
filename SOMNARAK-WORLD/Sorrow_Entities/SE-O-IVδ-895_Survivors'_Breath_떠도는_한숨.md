@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Permit rest; do not force personnel to continue working through it. Viderehan and Ferrehan are the valid Work Types and nothing else has been authorised. |
 
 ### Operational Notes
 
@@ -117,7 +117,7 @@
 | **Form** | An ethereal breath moving through the Old Lament as a voice without a body. It appears as a pale trail in cold air. |
 | **Position / movement** | Drifts through the Old Lament with no body to position; it is tracked by the pale trail it leaves in cold air and by the breath of personnel in its path. Record the direction of drift and the rooms it has passed through, not a distance. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify by the trail and the temperature. A pale line hanging in air measurably colder than the corridor around it, accompanied by a sound most listeners first take for someone else's relief. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
 
 **Appearance protocol:** There is no form to describe — the entity is a voice with no body, visible only as a trail hanging where the air is coldest. The protocol is therefore environmental. Record the temperature gradient along the trail, the rooms it has crossed and the order it crossed them in, the time taken between them, and whether the trail persisted after the sound stopped. Log the sound itself with particular care and resist the obvious word: the record states that it is closer to relief than to sadness, and observers who write that it sounded mournful have substituted the expected reading for the one in front of them. Note also what it did not enter. Its route through a building is as informative as its presence in any part of it.

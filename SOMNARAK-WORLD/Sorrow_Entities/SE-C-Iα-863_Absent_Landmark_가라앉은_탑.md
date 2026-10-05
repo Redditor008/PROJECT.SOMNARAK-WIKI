@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Record its former location; do not attempt to rebuild it around the entity. Nothing beyond that has ever lowered the gauge on Absent Landmark. |
 
 ### Operational Notes
 
@@ -118,7 +118,7 @@
 | **Form** | A humanoid tower-shaped figure, half-submerged in the ground and surrounded by empty windows. |
 | **Position / movement** | Walks the line of the old street only; exposed height above grade varies between eleven metres and one and a half. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the windows. It is a tower-shaped figure standing in the ground as though it sank upright, ringed with windows that have no rooms behind them, and a faint light climbs from the buried floors. The height varies between observations; the window pattern does not and is the reliable marker. |
 | **Identification** | Match what you see to the file before you act; the reliable marker is the ring of windows with no rooms behind them, since the height varies between observations. |
 
 **Appearance protocol:** Measure the exposed height against the bay datum at the start and end of the cycle; a single reading is worthless because it sinks and rises within a session. Count and photograph the windows, which do not change, and note whether light is climbing from the buried floors. Concrete terms only — it is not 'looming', it is at four point two metres and falling.

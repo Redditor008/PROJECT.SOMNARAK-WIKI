@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Controlled acknowledgment and team support. Viderehan and Ferrehan are the valid Work Types and nothing else has been authorised. |
 
 ### Operational Notes
 
@@ -122,7 +122,7 @@
 | **Form** | A humanoid figure whose body flows like a bridge over moving water. Its arms protect people who are already gone. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the span and the surface. Other flowing-form entities are catalogued in Zone D; this is the one that arches between two fixed points and offers to be walked on. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; several Echo Gardens records share this origin event, and the wrong identification here means arriving with the wrong idea of what the entity is trying to do. |
 
 **Appearance protocol:** Record the surface before anything else — stone when it is holding, moving water when it is not, and the transition between them is the only reliable warning this entity gives. Note the arms, which reach for people who are not in the corridor, and the direction they are reaching. They have twice pointed at a door before anybody came through it.

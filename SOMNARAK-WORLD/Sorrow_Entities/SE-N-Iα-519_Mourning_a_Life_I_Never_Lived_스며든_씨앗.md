@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Do not plant; distinguish possibility from memory. Viderehan and Ferrehan are the valid Work Types and nothing else has been authorised. |
 
 ### Operational Notes
 
@@ -117,7 +117,7 @@
 | **Form** | A small seed-shaped absence that spreads through the floor as a dark root pattern. |
 | **Position / movement** | Physical Form: A small seed-shaped absence that spreads through the floor as a dark root pattern. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by what is missing. Several root forms are catalogued; this is the one that has never produced a plant, and the absence of a plant is the identifying feature rather than an incidental one. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; the vault holds more than one record grown from something absent, and they are not managed alike. |
 
 **Appearance protocol:** Record the extent and the absence of a plant. The tendrils flow across the floor in a low spreading net and nothing has ever grown out of them — no stem, no leaf, nothing above ankle height. Measure the net at its widest, note where the edge has reached against the vault markings, and record what the floor underneath looks like, which is reportedly cleaner than the floor around it.

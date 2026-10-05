@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Listen to the Root's history; cutting roots causes further spread — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
 
 ### Operational Notes
 
@@ -117,7 +117,7 @@
 | **Form** | A ghostly humanoid threaded with black roots. The roots spread into floors and walls while the figure moves slowly. |
 | **Position / movement** | The roots spread into floors and walls while the figure moves slowly. |
 | **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the threading, not by the shape. The beast-form varies between sightings; the root-system entering floor and wall does not, and it is the part that confirms the designation. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type and the physical markers must all agree before work or contact begins; if one of them does not, stop there. |
 
 **Appearance protocol:** Record the ground before the creature. Note where the roots have entered floor or wall, how far the threading runs beyond the body, and whether the shadows left behind are still present at the end of the observation. The beast-shape is the part that moves; the root-system is the part that matters, and it is the part most reports leave out.

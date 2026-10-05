@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Permit tears and name the loss; do not suppress the anger — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
 
 ### Operational Notes
 
@@ -118,7 +118,7 @@
 | **Form** | A faint ghostly figure shaped like a tear that has begun to burn. It appears and disappears around the Forge District. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the mark. Several phantasmal records appear in Zone D; this is the tear-shaped one that burns, leaves a crimson mark and leaves nothing wet. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; the district holds more than one record made of denied feeling, and this is the one that goes after the person who did the denying. |
 
 **Appearance protocol:** Record the figure — translucent, tear-shaped, burning at the point where it would have fallen — and record what it leaves, which is a brief crimson mark and no moisture at all. The absence of moisture is the identifying feature and is to be stated positively in the log rather than left out.

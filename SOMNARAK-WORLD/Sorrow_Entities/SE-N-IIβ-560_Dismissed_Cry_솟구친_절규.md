@@ -119,7 +119,7 @@
 | **Form** | A crystallized scream floating in the air as a red object with a torn mouth-like opening. |
 | **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
+| **Distinctive markers** | Identify it by the discrepancy. Several hot objects are catalogued near the Scar; this is the one that registers as sound to the personnel and as nothing to the instruments. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins, and verify the wording as well — on this record a misdescription is not a clerical matter but the mechanism itself. |
 
 **Appearance protocol:** Record the opening and the surface separately. The torn mouth exhales silent heat and the crystal stores what it has been given, darkening along the fracture lines as the figure climbs. Note what instruments report, which is nothing, and note that the discrepancy between instrument and observer is itself the measurement here.
