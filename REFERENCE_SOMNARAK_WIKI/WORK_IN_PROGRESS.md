@@ -18,7 +18,7 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **103 / 302** |
 | **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **82 / 302** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **54 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **58 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
@@ -239,9 +239,10 @@ or containment stability,"* which **127** dossiers still carry.
 
 **Next targets, in order (`R-13`).**
 
-1. **Thinking Engine `C-IIIγ-904`, Duri's Heart `C-IIβ-901`, Grimoire `C-IIβ-906`, Glass Elsewhere
-   `N-IIβ-903`.** Each fails exactly one condition: no Entity Interaction Record. No other dossier
-   references the first, second or fourth, so each relation has to be written from both sides.
+1. ~~**Thinking Engine `C-IIIγ-904`, Duri's Heart `C-IIβ-901`, Grimoire `C-IIβ-906`, Glass Elsewhere
+   `N-IIβ-903`.**~~ **DONE in the fifth turn — all four closed, one commit each (see "Fifth turn" below).**
+   Each failed exactly one condition: no Entity Interaction Record. No other dossier referenced the
+   first, second or fourth, so each relation was written from the two files' own records.
 2. **Stormscale Sovereign `C-Vδ-949` — done in the third turn (`e2c5b34`).** Its only dirty section was M.A.W. Equipment: one 21-shingle
    paragraph and the four Use Notes cells, all built from the same cost sentence.
 3. **The choice sentence in the other 211 dossiers**, worst section first; then the Interaction
@@ -480,6 +481,43 @@ named: five dirty sections, the series clause and four `R-01` lines. A real edit
 **Rank V now: 9 of 13 meet.** The four that do not: Sorrow Mass `C-Vω-925` (no Interaction Record, no condition, no
 series, two dirty sections), First Tear `C-Vδ-290` (no condition, no series, nine dirty sections), Black River
 `C-Vγ-225` and Sorrow Storm `C-Vγ-320` (eight dirty sections each).
+
+### Fifth turn: the four interaction-record-only gaps closed (2026-10-05)
+
+**`R-29`: 54 → 58 / 301.** Four dossiers, one `gate.sh` commit each, every push verified against
+`origin/arena/01a10bcc-project-somnarak-wiki` (this session's branch, opened this turn). Each unit was
+a single missing parity section — `### Entity Interaction Record` — and each record was authored from
+the two files' own records rather than templated, per `R-04`. No other section of the four files was
+touched, and all four stayed section-clean (`sectfile.py`: `0 section(s) over 0.05` before and after;
+`wikistd.py`: `meets True`). Nothing was invented that the paired file does not already keep, except
+the co-presence events themselves, which are the authored content of the section.
+
+| Dossier | Commit | The record, in brief |
+|---|---|---|
+| Thinking Engine `C-IIIγ-904` | `24818e2` | Three relations: **The Magistrate's Strike-Through** (no co-presence; the Tribunal has refused three times to test the chalk against a transcription of a sheet), **Broken Clock** (three co-presences in the ninth year; the hands ran, the hour refused, both gauges flat — a pairing that did nothing) and **The Debt Scale** (one co-presence; both dishes level, the tray kept its rate of nine to fourteen a week). |
+| Duri's Heart `C-IIβ-901` | `97c64df` | **The Kind Healer** (one paired session, forty minutes; the shudder timed against a constant amber shade, both gauges flat, the finding a difference of column) and **Endless Shift** (never paired, by standing order: a control that removes alarm is not brought to a site whose only warning is alarm). |
+| Grimoire `C-IIβ-906` | `4d61f50` | **Unheard** (one silent co-presence at Collector's Row; nothing passed either way) and **The Undelivered Thanks** (a chance transit logged because the figure bowed; no ink, the count unchanged). |
+| Glass Elsewhere `N-IIβ-903` | `731d21a` | **Learned Your Face** run as the convergence study's second control (nine descriptions, scored blind, none above noise — the faces are not furnished by the viewer's grief) and **Sky of Borrowed Faces** as the opposite protocol, its identification register against this file's category list. |
+
+**Counters moved:** parity complete **269 → 273**; missing interaction records **31 → 27**;
+section-clean and file-clean unchanged (81 / 301 and 158 / 302); dispositions unchanged (301 / 301).
+All four were the last dossiers failing *only* the interaction clause. Every dossier still missing an
+interaction record also still needs a management condition (23 of the 27) or, for The Music Box of
+Agony `N-IIγ-903`, an event-behaviour section.
+
+**Session bookkeeping, this turn.** The recovery checklist (`SESSION_BREAK_PRECAUTION` §3) was run at
+the start: tree clean, HEAD `408797c` level with `NON-WIKI`, the four health gates and the linters
+re-run green on the inherited tree before any edit. PR **#12** was closed, not merged, but its head
+commit is the tip of `NON-WIKI`, so nothing was lost; that is recorded in `PR_12_NEVER_MERGED.md`
+(commit `5384f8b`) rather than in a new session record. Draft PR **#13** into `NON-WIKI` is open for
+this session's branch and is not to be merged by the session (`R-13` / `U4`).
+
+**Next targets, unchanged in order (`R-13`).** (1) the Rank V cohort — Sorrow Mass `C-Vω-925`
+(no Interaction Record, no condition, no series, 2 dirty sections), First Tear `C-Vδ-290` (no
+condition, no series, 9 dirty sections), Black River `C-Vγ-225` and Sorrow Storm `C-Vγ-320`
+(8 dirty sections each); (2) the `R-01` sweep (`tools/editmeta.py`: **81 dossiers, 149 candidate
+lines** — unchanged by this turn's four files, which added no such sentence); (3) the 211 + 127 stock
+sentences; (4) the remaining single-clause gaps from the third-turn list.
 
 ## Workstream 8 — Breach Balance (`R-28`, done 2026-10-05)
 

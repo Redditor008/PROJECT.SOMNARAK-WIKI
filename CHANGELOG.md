@@ -38,6 +38,28 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Workstream 9 / `R-29`: the four interaction-record-only gaps closed (2026-10-05)** —
+  - Thinking Engine `C-IIIγ-904`, Duri's Heart `C-IIβ-901`, Grimoire `C-IIβ-906` and Glass Elsewhere
+    `N-IIβ-903` each carried every parity section except `### Entity Interaction Record`. One
+    `gate.sh` commit per dossier; each record was written from the two files' own records and none
+    is a template. The Engine: the Strike-Through (the Tribunal has refused three times to test the
+    chalk against a transcription of a sheet), Broken Clock (three co-presences, hands ran, the hour
+    refused, both gauges flat) and the Debt Scale (one co-presence, both dishes level, the tray kept
+    its rate). Duri's Heart: one timed session with the Kind Healer that moved nothing, and the
+    Endless Shift refused by standing order, a control that removes alarm not going where alarm is
+    the only warning. Grimoire: Unheard (one silent co-presence) and the Undelivered Thanks (a chance
+    transit, the figure bowed, no ink, the count unchanged). Glass Elsewhere: Learned Your Face run
+    as the convergence study's grief-control (nine descriptions, scored blind, none above noise) and
+    the Sky of Borrowed Faces as the wing's opposite protocol, an identification register set against
+    a category list. Co-presence events are the authored content of the section; no figure was
+    invented that the paired file does not already keep.
+  - `R-29` **54 → 58 / 301**; parity complete **269 → 273**; missing interaction records **31 → 27**.
+    Section-clean unchanged at 81 / 301; file-clean unchanged at 158 / 302. Each unit kept
+    `sectfile.py` at `0 section(s) over 0.05` and `wikistd.py` at `meets True`.
+  - Session bookkeeping: PR #12 (closed, not merged; its head commit is the tip of `NON-WIKI`, so its
+    work is live) is recorded in `PR_12_NEVER_MERGED.md`; this session's draft PR is #13 into
+    `NON-WIKI`. The recovery checklist and the health gates were run on the inherited tree before any
+    edit, all green.
 - **Workstream 9 / `R-29`: The Grieving Colossus (2026-10-05)** —
   - `C-Vδ-002` failed five sections, the series clause and four `R-01` lines. Rewritten from its own record: seven M.A.W. lines, the Observation Log's Initial exposure row, the Final Observation's epigraph and cells, the Flavor Text's interaction paragraphs, and the Registrum's interpretation; the Interaction Record's introduction now states its finding (21 co-presences, no measured quantity moved). The Observation Log states in digits the record the Chronicle already keeps (a restatement for the series clause). Four Registrum and Escalation lines that corrected an earlier entry now state the fact. 8,844 to 9,253 words; `R-29` moved 53 to 54 of 301.
   - New descriptive details are listed in the commit message and the work record. Four Rank V dossiers still fail (Sorrow Mass, First Tear, Black River, Sorrow Storm).
