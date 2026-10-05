@@ -244,9 +244,9 @@ The three pieces come from a thing that received grief for a living, and they ke
 
 **R.D. Comprehension Level:** 4 — Mastered
 
-- The God has never fully awakened.
+- The God has never fully awakened. It breathes at an interval of 41 seconds, and the log has run unbroken for 19 years, taken twice a cycle by a third observer whose only task it is. The series holds 4 irregularities, every one of them following speech, and the interval has needed between 40 minutes and 6 hours to return to 41 seconds.
 - Its dreams leak into the city as prayer and nightmare.
-- The Library contains scripture associated with it.
+- The Library contains scripture associated with it, and the people who could name the God are going: 19 staff could when the vault was sealed and 6 can now, against a floor of 3 below which the vault cannot staff the gallery with people who know what they are watching.
 
 **Personnel Note:** *"It was quiet. I felt sorrow. Beneath the Tree, something ancient was dreaming that we had not abandoned it."* — Researcher, R.D.
 
