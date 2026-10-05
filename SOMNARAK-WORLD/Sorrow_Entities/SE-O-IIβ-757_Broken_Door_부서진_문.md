@@ -277,9 +277,9 @@ Both pieces were cut from the door itself under a Year 4,232 authorisation that 
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It opens only onto memories, never physical rooms.
-- Its flame grows when visitors attempt to force reunion.
-- It becomes calm when the reason for leaving is acknowledged.
+- It opens only onto memories, never physical rooms, and it has opened rarely: the Gardens series holds 201 mentions without contact and 4 contacts, and only the 4 opened it.
+- Its flame grows when visitors attempt to force reunion. The flame is graded every 10 minutes against the posted scale in a series that has run for 6 years, and an escalation runs name, grade and step within about 40 seconds.
+- It becomes calm when the reason for leaving is acknowledged. In those 6 years it has injured 4 people, every one of them holding the handle, and the announced-departure practice that keeps it calm has lapsed and been reinstated 3 times.
 
 **Personnel Note:** *"It was waiting. I felt grief. The Door did not want to be repaired; it wanted someone to admit that the home had already changed."* — Specialist, Zone B patrol
 
