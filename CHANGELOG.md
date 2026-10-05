@@ -82,6 +82,25 @@ This file records notable changes to the public Somnarak Wiki.
     descent; one co-presence in which the crew's gauges fell and the vault's interval did not move)
     and The Grieving Colossus (no co-presence and none proposed; the two ledgers read together,
     neither holding ever fought).
+- **Workstream 9 / `R-29`: Crucible `C-IIIβ-275` (2026-10-05)** —
+  - One `gate.sh` commit, growth-only: 6,972 → 7,768 words. Seven dirty sections closed —
+    `0 section(s) over 0.05` — including the two worst in the file, `기록 (Registrum)` 0.469 and
+    `M.A.W. Equipment` 0.389. `tpl.py` residue 6 → 0 and `verify.py` residual 2 → 0 (both were stock
+    phrases: the Story Log Entry 1 opener and the `becomes a force rather than a feeling` line).
+    `wikistd.py` meets `True`; the condition and series clauses were already satisfied and did not
+    move. `R-29` **73 → 74 / 301**; section-clean **96 → 97**; residue-free 122 → 123.
+  - The instrument is the cold-stone floor: the idle reading at the fixed point, taken by both
+    Wardens independently between watches, at 61, then 68, then 74 degrees across three years, and
+    the sweep sheet with two signatures in full and the time. The holding's governing figures are
+    the four generations of grievances heard and none closed with an action attached, the four
+    refusals from the Grievance Office, the Return's 9,900 answers and 3,140 yeses, and the press at
+    the Fourth Shop reported verbally eleven times and recorded none of them. The banner trio (the
+    channel-overload line retired again), the `Termination / Return` row, the four spliced Log and
+    Method rows, the generic Escalation paragraph, the Registrum's template `Operational
+    interpretation` and `Review requirement`, all three M.A.W. appearances with their ability and
+    cost pairs, the four Field Use Record rows and the `Stat interpretation`, the Final Observation
+    intro and choice row, four Combat Record consequence bullets, both stock flavor-text paragraphs
+    and the two stock interaction-record paragraphs, and two Trivia bullets were rewritten.
 - **Workstream 9 / `R-29`: Sehnsucht `O-IIIγ-476` (2026-10-05)** —
   - One `gate.sh` commit, growth-only: 7,283 → 7,934 words. Five dirty sections closed —
     `0 section(s) over 0.05` — and **the open condition clause closed**: the `Management` row now

@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **122 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **96 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **73 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **123 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **97 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **74 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 172 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 173 / 302 |
 | Archive median prose generic fraction | 0.039 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -768,8 +768,8 @@ One governing figure was reconciled in the same pass: the anchor testimony's "a 
 "a fifth … eighteen per cent, which agreed with me", against the Warden Record's own eighteen per cent.
 Movement into the counters: R-29 71 → **72 / 301**, section-clean 94 → **95 / 301**, series 199 →
 **200 / 301**, residue-free 120 → **121 / 302**, file-clean 170 → **171 / 302**; the condition and parity
-clauses were already satisfied and did not move. The two remaining units of the batch are Sehnsucht
-`O-IIIγ-476` (5 dirty, condition clause open) and the third file, to be re-measured at its head.
+clauses were already satisfied and did not move. The batch's next unit was Sehnsucht
+`O-IIIγ-476` (5 dirty, condition clause open); the third was Crucible `C-IIIβ-275`, re-measured at its head.
 
 **The second unit of the third batch is Sehnsucht `O-IIIγ-476`, closed in its own `gate.sh` commit** (the
 first, Driftglass `O-IIIγ-914`, is `25e5751`). The file measured **5 dirty sections** (worst 최종 관찰
@@ -782,8 +782,22 @@ Trivia bullets (2 cm a year, 9 rises, 3 attempts, 41 cm, 31 per cent against 4, 
 Movement: R-29 72 → **73 / 301**, condition 243 → **244**, series 200 → **201**, section-clean 95 →
 **96 / 301**, residue-free 121 → **122 / 302**, file-clean 171 → **172 / 302**. The record's instrument is
 the rod and the moisture ring — the ring grows about 40 cm for every week the watch is not kept, which
-makes the facility's own attendance the cleanest predictor in the file. The third unit of the batch
-follows.
+makes the facility's own attendance the cleanest predictor in the file.
+
+**The third batch closed at the floor of three, with Crucible `C-IIIβ-275` as its third unit** (Driftglass
+`25e5751`, Sehnsucht `e33134b`, Crucible in its own `gate.sh` commit). The file measured **7 dirty
+sections** (worst 기록 (Registrum) 0.469 and M.A.W. Equipment 0.389) and all seven were closed; 6,972 →
+**7,768 words**; `tpl.py` residue 6 → 0 and `verify.py` residual 2 → **0**; `wikistd.py` meets `True` with
+the condition and series clauses already satisfied. Movement: R-29 73 → **74 / 301**, section-clean 96 →
+**97 / 301**, residue-free 122 → **123 / 302**, file-clean 172 → **173 / 302**. The instrument is the
+cold-stone floor: the idle reading at the fixed point taken independently by both Wardens between
+watches — 61, then 68, then 74 degrees across three years — and the sweep sheet with two signatures in
+full and the time; the governing figures are four generations of grievances heard and none closed with
+an action attached, four refusals from the Grievance Office, the Return's 9,900 answers against 3,140
+yeses, and the press at the Fourth Shop reported verbally eleven times and recorded none of them. The
+batch closed at three, not five: the units remain 7–11 dirty sections and 7,000–10,000 words each, which
+is not simple by `R-26`'s test, and the owner restated the floor the same turn — **a batch never runs
+below three SE files**. The next batch opens at three again, on the freshly measured tier.
 
 **Batch accounting, the batch before this one** — three units were finished in it —
 Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's
@@ -807,10 +821,10 @@ what it exists to do.
 
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
-Driftglass `O-IIIγ-914` and Sehnsucht `O-IIIγ-476` came off it this batch; **Crucible `C-IIIβ-275`
-(7 dirty, series clause already satisfied) and Redacted `N-IIIγ-184` (6 dirty) are the measured
-next-tier files on the sample taken this turn**, with Labyrinth of Stolen Faces `C-IVγ-180` (10 dirty)
-and Torpor `N-IVδ-157` (10 dirty) behind them;
+Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
+**Redacted `N-IIIγ-184` (6 dirty) is the measured head of the next tier on the sample taken this turn**,
+with Labyrinth of Stolen Faces `C-IVγ-180` (10 dirty) and Torpor `N-IVδ-157` (10 dirty) behind it, and
+Crucible's neighbour Candela `C-IVδ-165` (0.107 by `sect.py`) to be measured at the head of the batch;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);
 (3) the 211 + 127 stock sentences; (4) the remaining single-clause gaps from the third-turn list.

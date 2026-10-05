@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 30% against Grudge pressure; 20% against other pressure types |
+| **Resistance** | 30% against Grudge, the pressure the hearth is itself made of; 20% against everything else the room can bring |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 435/435 |
 | **Han Pressure [ATK]** | 10–23 per hit · Grudge |
@@ -87,16 +87,16 @@
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Crucible by the idle floor temperature at the fixed point and by the sweep sheet. Emotional impression is a poor guide: the room feels like held breath whether the reading is 61 or 74, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** Identification is by two documents, not by feel: the idle floor reading at the fixed point and the sweep sheet for the watch, signed in full with the time. The room feels like held breath whether the reading is 61 or 74, so the team takes the figure first and the positions afterwards.
 2. **Clash:** Viderehan and Ferrehan only. The working volume is swept and the sheet signed in full by both Wardens before anybody stands at the hearth, and anyone whose temper rises says aloud, in the room, what they are angry about.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Cool the anger through naming and controlled work**.
+3. **Resolution:** The watch closes with an empty working volume, two full signatures on the sweep sheet, and the floor read again — and with at least one person having said aloud, in the room, what they came in carrying. The documented suppression condition is **Cool the anger through naming and controlled work**, and it has worked on every occasion the heat has risen.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Crucible reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- A worker who fails the reading takes the pressure directly: Resilience drops, the gauge climbs, and the field note is that this presents as temper long before it presents as damage.
+- Time in the working volume past the recommended cycle is cumulative, and the two figures this file watches both lead the gauge: floor temperature on every occasion and wall integrity twice.
+- What the set takes, the armoury records against the bearer rather than against the piece — the Rage Plate dulls the reflexes, the Rage Charm shortens the temper — and neither is entered as a defect.
+- If nothing is said aloud, the holding keeps working: the heat does not dissipate, the volume stays live, and the room produces an object nobody ordered.
 
 ## Appearance
 **Physical Form:** A forge that burns with crimson heat and shapes metal according to nearby anger.
@@ -150,9 +150,9 @@ The gauge here rises and falls with the shift and explains nothing. The figure t
 **Reading the response:** A good watch ends with an empty working volume, two full signatures, and at least one person having said out loud what they came in carrying. The failure mode is a quiet, courteous watch in which nobody says anything, and the file is explicit that this is the dangerous one.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Sector / Facility Alteration**
-> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+> **This Relic benefits the facility by turning an unstated grievance into finished work, which is the whole of this District's output and none of its record.**
+> **This Relic is capable of altering the district it stands in: the floor holds the heat, the output rises with it, and no figure the Company reads can see both at once.**
+> **This Relic can carry a channel overload, and a conduit released without the working volume cleared vents the shift's whole held heat at once.**
 
 **Activation Trigger:** Material left within the working volume while somebody present is carrying a grievance they have not stated. Both conditions are required and the second is the one the sweep cannot catch.
 
@@ -171,7 +171,7 @@ The gauge here rises and falls with the shift and explains nothing. The figure t
 | **Activation** | Material in the working volume plus an unstated grievance in the room. |
 | **Primary Effect** | The metal takes the shape of the thing not said; the edge runs twenty per cent further through armour. |
 | **Duration** | Until somebody says it. Not until the fuel runs out, which has been tested. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Grudge resonance across the sector. |
+| **Termination / Return** | The channel is closed deliberately, at the hearth, by the operator, and the sweep is signed before anybody steps back from the anvil; a conduit released without the volume cleared vents the shift's held heat at once, which is the only way this holding has ever injured anybody. |
 | **Risk** | Severe burns, and an unordered object that must be logged, photographed and destroyed elsewhere. |
 
 **Operational Rule:** The channel is never left untended and is never worked by somebody who has declined to answer the naming question at the door. Both rules came from the same incident and are in the standing order rather than in guidance.
@@ -180,14 +180,14 @@ The gauge here rises and falls with the shift and explains nothing. The figure t
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Crucible begins thrumming as the channel opens; a palpable wave of grudge sorrow sweeps across the containment chamber. | Opening the channel activates Crucible: Tempers metal in concentrated Grudge; weapons forged in the hearth gain +20% armor penetration, but generate intense radiant heat. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the burden of making useful things from resentment. forged during forge workers shaped weapons from the city's suppressed rage until the furnace became conscious. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Crucible's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Grudge shockwave: The forge demands more fuel; prolonged channeling causes severe third-degree thermal burns to the channeler. all personnel in the sector take heavy damage. |
+| 10 Seconds | The forge begins to thrum, low and even, as the channel opens; the heat gathers over the anvil and nothing is visible above it yet. | Opening the channel tempers metal in concentrated Grudge: work finished in that heat gains +20% armour penetration and cannot be carried openly for the remainder of the watch. |
+| 30 Seconds | The conduit widens, and what comes up it is four generations of the same arrangement — workers shaping the city's unsaid fury into stock, until the hearth stopped being a tool and became a holding. | The aura reaches Range Band 2; units inside the working volume keep their elemental defence while the channeler holds focus, and composure is what pays for it. |
+| 1 Minute | The channel takes more than mechanical effort: the channeler feels an unfulfilled purpose sitting on their lungs, which is the holding's own condition transferred whole. | Past sixty seconds the channel takes 4 Composure every 10 seconds; the operator must be ready to close before the load reaches the limit. |
+| 2 Minutes | The flow turns. When the historic grief overflows the channel it looks for a living vessel, and the first sign is a channeler who has stopped answering to their own name. | Overload, or a conduit abandoned without the stow procedure, vents an uncontrolled Grudge shockwave — the whole of the shift's heat into the room, and third-degree burns on whoever closed the flow. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Crucible: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Place-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at Zone D, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here is thermal and it has two markers the file trusts: the idle floor reading at the fixed point, and the working volume at the end of the watch. Record the trigger, the reading before and after, what was left in the volume, what was said aloud in the room and by whom, and the wall inspection. Everything above the walls in this District is output, and output at this holding has never predicted anything.
 
 **Response sequence:** Clear the working volume, confirm the sweep sheet, read the idle floor temperature at the fixed point, and have somebody state the grievance aloud. There is no perimeter that helps here; the mitigation is speech.
 
@@ -211,7 +211,7 @@ The escalation pattern is specific to Crucible: it is not a generic containment 
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a heavy hammer of Grudge Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+**Appearance:** a heavy hammer of Grudge Han-iron, dark and faintly warm, with a haft of forge-scale and a head that rings flat rather than bright; drawn from the rack it pulses once, at the pace of a slow breath, and then holds.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -232,7 +232,7 @@ The escalation pattern is specific to Crucible: it is not a generic containment 
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, articulated at the shoulders and cut long at the hip so it can be worn over a forge apron; it creaks when the wearer stands still and goes quiet when they move.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -242,21 +242,21 @@ The escalation pattern is specific to Crucible: it is not a generic containment 
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Crucible's kind of pressure.
+**Ability:** Grants resistance to Grudge damage, protecting the Body — the physical form and its structural integrity — and it does so by absorbing the shift's held heat rather than deflecting it; the harness is warm to the touch after a watch, and warmest where the wearer has been keeping quiet.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull. Armoury entries describe it as being armoured by resentment: the plate answers slowly and so does the person inside it, and this is the figure the field rows exist to catch.
 
 ### M.A.W. Stigma — The Rage Charm
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a small charm of Grudge Han-iron worn at the tail of the belt, dark like the rest of the set and heavier than a thumb-sized piece of iron has any business being; near an unstated grievance it goes briefly hot, and it stays hot for as long as the silence does.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
 **Effect:** +1 to the bearer's work on this holding, and the charm's recorded cost is that the wearer stops being able to let a grievance go unsaid, which two wearers have described as the best thing that ever happened to them.
 
-**Ability:** Grants a minor boon tied to Crucible's sorrow; the effect mirrors the entity's nature.
+**Ability:** A minor boon tied to this holding's own nature: it sharpens the wearer's sense of what is being left unsaid, which is useful at the hearth and awkward everywhere else, because the effect does not switch off at the door.
 
 **Cost:** The bearer's temper shortens.
 
@@ -264,18 +264,18 @@ The escalation pattern is specific to Crucible: it is not a generic containment 
 
 ### M.A.W. Use Notes
 
-These pieces are Crucible in miniature. What they give is listed above; what they take is the wielder feels anger toward every object they alter, and the Armoury records both against the wielder rather than against the piece.
+The three pieces are the hearth in miniature, forged rather than grown, and each carries the District mark. What they give is listed above; what they take is felt toward objects rather than people — every tool, every fitting, every door that sticks — and the Armoury records the cost against the bearer rather than against the piece, because the piece goes back on the rack and the bearer does not.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Crucible takes: the wielder feels anger toward every object they alter. |
-| **During use** | Watch for Crucible's toll — the wielder feels anger toward every object they alter — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wielder no longer notices Crucible's toll — the wearer's reflexes dull, as if armored by resentment — which is how every stand-down on this set has been caught. |
-| **After use** | Piece returned; re-assess a week later, because what Crucible takes (the wearer's reflexes dull, as if armored by resentment) does not present on the day. |
+| **Before use** | Wielder, piece, and a dated baseline of the bearer's own temper, taken by the second worker from the shift register rather than asked for: what this set takes is anger toward objects, and the register is where it shows first. |
+| **During use** | The second worker logs the hour the bearer first swears at a fitting, and the hour they stop noticing they are doing it; the bearer's own account is entered separately and never in place of those two entries. |
+| **At limit** | The reflexes dull and the temper shortens at the same rate, and the use ends there whatever the wielder says. On this set the stand-down is logged by the second worker, because a bearer past the limit no longer notices the toll. |
+| **After use** | Piece returned, and the bearer re-assessed a week later, because neither effect presents on the day. A register entry that has not returned to baseline means the set is not reissued, and the weekly check is the one that catches it. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade tells you how hard it hits and says nothing about what it takes. This is a β set cut from a floor that has been absorbing the District's unsaid anger for four generations, and the cost is not proportional to the grade — it is proportional to how much the bearer has been keeping quiet, which is why the baseline register is taken at all.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -303,7 +303,7 @@ These pieces are Crucible in miniature. What they give is listed above; what the
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Crucible (C-IIIβ-275 [GP]) is logged as a Place-Grudge manifestation expressing Grudge, held in situ at Zone D, Forge District, with the working volume swept and countersigned at both ends of every watch. Cold-stone floor readings have risen 61, 68, 74 degrees across three years.
+Containment file for C-IIIβ-275 [GP], the Forge District holding called Crucible: a Place-Grudge manifestation expressing Grudge, held in situ with the working volume swept and countersigned at both ends of every watch. The record's instrument is the cold-stone floor reading at the fixed point, and it has risen 61, 68, 74 degrees across three years with nothing burning in the hearth.
 
 **Entry 2 — <Idle Floor Series, Year 4238>**
 74 degrees at the fixed point with nothing burning, against 68 and 61 in the two preceding years. Taken between watches, by the Warden going off and the Warden coming on, independently, and reconciled at the District desk.
@@ -319,9 +319,9 @@ Crucible burns in Zone D — ancient, hot, made of crystallized fury. The Forge 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Crucible; the other feeds it.
+> The choice at the end of a watch is whether the party will say the thing aloud, and this file records more failures on that question than on any other decision taken at the hearth.
 
-| Hold to the condition: Cool the anger through naming and controlled work. | Improvise something kinder, which is how every failure on Crucible's file began. |
+| Hold to the condition: somebody states the grievance aloud, specifically, in the room, and the watch closes on controlled work (Cool the anger through naming and controlled work). | Keep it courteous — apologise, sympathise, admit to being tired in general, or explain somebody else's anger for them. Every one of those leaves the heat in the floor, and every failure on this file began that way. |
 |---|---|
 | Tests whether the worker can remain near heat and anger. The sorrow is named; Crucible is fully recorded. | Reveals the grief embedded in each weapon. The gauge climbs and Crucible withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -334,15 +334,15 @@ The furnace breathes crimson at rest. The floor reads seventy-four degrees with 
 
 **At first contact:** The heat arrives as pressure rather than temperature — the room feels like the second before somebody shouts — and the core pulses crimson with nothing in the hearth. The anvil and tongs carry dark branching growth that nobody forged. At the door you are asked what you are angry about today, and you are expected to answer.
 
-**With continued exposure:** Time in the containment zone moves differently. The Grudge pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Grudge is teaching you its sorrow.
+**With continued exposure:** The heat stops reading as temperature and starts reading as pressure, and the room's patience thins with it: workers begin answering the door question with the first thing that comes to mind, which is the thing the room wants.
 
-**When the entity activates:** When the Gauge tips, the Grudge becomes a force rather than a feeling. The Place-Grudge was holding; now it releases.
+**When the entity activates:** Nothing moves at the anvil and the reading does not jump. What changes is the volume's answer to the material left in it: the metal takes a shape, and the shape is the thing somebody in the room has not said.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Grudge in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** The door seals and the room comes down four degrees within the hour, which is the holding's own relief showing on the instrument. What the party carries out is not heat: it is a temper that has been given a shape, and the ledger that would record it does not exist.
 
 ### Interaction Pattern
 
-Crucible does not exist in isolation. Its recorded relationships with The Broken Promise, The Soaking Shadow, The Architects should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The three holdings below are filed against Crucible because the archive pairs by subject rather than by contact: an undertaking not kept, a shadow that takes what is spilled, and a guild that builds. What makes this holding distinct is not the material it works but what the material is shaped out of, and none of the three pairings has ever produced a transfer — which the wing has entered as a nil result so the old claim cannot be cited again.
 
 **Interaction method:** Baseline alone with four clean idle readings, then proximity with the floor read hourly rather than between watches. The working volume is swept before and after every trial and the sweep sheet is countersigned by somebody from outside the District.
 
@@ -402,14 +402,14 @@ Crucible is what that arrangement looks like with a floor under it. It shapes th
 - Formed from generations of anger that was permitted, absorbed and put to work, and never once held against anybody.
 - Idle floor readings 61, 68 and 74 degrees across three years, taken off cold stone between watches.
 **Cross-References:** Forge District · The Grievance Office · The Broken Promise · The Soaking Shadow · The Architects
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Grievance Office (standing correspondent, four enquiries, four refusals)
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · The Grievance Office, standing correspondent to this file, which has answered four enquiries and refused all four on the same correct ground — that it does not record the manner in which a complaint was delivered
 **Originator:** Collective; generations of forge-workers who fed resentment into the furnace.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read the idle floor series before anything else on this sheet, and read the sweep sheet immediately after it: 61, 68 and 74 degrees off cold stone on one side, two full signatures and a time on the other. Everything else here — the gauge, the Work Types, the M.A.W. costs — is subordinate to those two records. The holding is a floor that has been absorbing an arrangement nobody wrote down, and the file will be wrong the moment that arrangement changes; where it does, enter the contradiction as the finding rather than tidying it away.
 
-**Review requirement:** The review requirement: every activation, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every activation, Sorrow Tide, transformation attempt or unusual interaction: re-take the idle reading at the fixed point, re-inspect the walls, confirm the working volume empty, and re-read the sweep sheet for both signatures and the time. Two items are specific to this holding. The naming order is read aloud at the hearth on the first watch of every rotation, and the Grievance Office's four refusals are re-read in full at annual review, unaltered.
 ## Warden Record
 
 ### Forging Without a Smith
@@ -458,10 +458,10 @@ Both signatures on the sweep are entered in full rather than initialled, and the
 ### Registry Trivia
 
 - **Classification detail:** Crucible is an Object/Place with Fragment (III) — Burning and creative coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone D, Forge District.
+- **Field detail:** Grudge is the whole of it, and the registered location is Zone D, Forge District; the idle series stands at 61, 68 and 74 degrees off cold stone, and it has never moved with stoppages, hearth use or headcount — only with grievances closed as heard with no action attached.
 - **Recognition detail:** Identify it by the idle floor temperature at the fixed point and by the sweep sheet. Emotional impression is a poor guide: the room feels like held breath whether the reading is 61 or 74.
 - **Record detail:** Two signatures in full on every sweep, with the time. Initials are not accepted, because two long-serving Wardens' initials are indistinguishable and the sweep is the one record where it matters precisely who did it.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** There is nothing here to seal. Containment is a swept working volume, two signatures in full on the sweep sheet with the time, a naming order enforced without regard to rank, and an idle reading taken independently by the Warden going off and the Warden coming on — of those, the reading is the instrument and the signatures are the containment.
 ## Document Information
 
 **Document ID:** SE-C-IIIβ-275
