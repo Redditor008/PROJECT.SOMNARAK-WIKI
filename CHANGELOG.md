@@ -38,6 +38,37 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 15 / unit 3 — Cracked Mirror `C-IIβ-310` closed, closing batch 15 at three (2026-10-06)** —
+  measured at `97459df`: **5 dirty sections**, worst Activation Behavior 0.447, then M.A.W. Equipment 0.262,
+  최종 관찰 (Final Observation) 0.234, Combat Record 0.130 and 감각 묘사 (Flavor Text) 0.129. All five closed in
+  three waves (15 + 13 + 19 sites); 6,569 → **6,997 words**; `tpl.py` residue 4 → **0**; `verify.py` residual 1 →
+  **0** (Story Log Entry 1's `is logged as` carrier); `sectfile.py` ends at **0 section(s) over 0.05`;
+  `wikistd.py` meets **True** with **both open clauses closed**. **Condition:** the two registering candidates were
+  the two forbidden stock shapes (`entity-specific management condition` in the Battle-Phases line, `Enforce valid
+  Work Types` in the Detailed Activation Record) — both replaced with the file's own rule, *the timekeeper calls
+  the end before the worker begins to agree with the glass*, taken from its own Observation method (two people, one
+  looking and one outside with the clock and the authority to end it), stated identically in the Resolution
+  Condition row, the Battle-Phases resolution and the Management row. **Series:** closed by writing the file's own
+  figures into the counted Registrum Observation Notes — **47** fracture lines across **19** annual tracings,
+  **2** falls in transit and the move into the case recorded against that series, **4** written refusals issued —
+  a restatement of the file's own numbers in digits, **disclosed** as such (the owner's number-words ruling is
+  still pending; same method as Sorrow Mass, First Tear, Homecoming Tree, Dismissed Cry, Perennial and batch-14
+  unit 2). Re-authored: the Combat Consequences and Resistance rows; the whole Activation block (termination,
+  the four Log-and-Method rows, Escalation Notes and the Response sequence) onto the cloth, the clock, the
+  timekeeper and the standing refusal to log content; all thirteen M.A.W. sites onto the ledger's own phrase for
+  the toll (the bearer's own estimate of themselves); the Flavor block's three sustained-exposure lines, the
+  Interaction Pattern and its table header; and the Final Observation pair onto the outside call. One corpus side
+  effect, beneficial and in a file this unit did not edit: **Lacrima `N-Iα-905` shed one dirty section (3 → 2)**.
+  Archive dirty sections 950 → **944**; the shared corpus thinned to **22 distinct residue lines** with the median
+  whole-file fraction **0.019** and the worst steady at **0.132**. Movement: `R-29` 109 → **110 / 301**
+  (condition 251 → **252**, series 220 → **221**); section-clean 133 → **134 / 301**; residue-free 171 → **175 /
+  302** (carriers 127, instances 268, lines 22); file-clean 217 → **218 / 302**. **Batch 15 is closed at three**
+  (`f55e617` Patina, `97459df` Forgotten Soldier, this unit), each unit measured live at its own head. **Batch 16
+  opens at three** on a freshly re-derived tier: Emberling `C-IIβ-101` (2 dirty, 0.447, condition and series
+  open), Learned Your Face `C-IIIγ-195` (7, 0.443, both clauses already satisfied) and Weeping Statue `C-IIβ-055`
+  (2, 0.442, series open) — none of the three has ever shipped (the Weeping Statue code appears in the archive
+  only as a counterparty row authored into another file's registry).
+
 - **Batch 15 / unit 2 — Forgotten Soldier `N-IIβ-033` closed (2026-10-06)** —
   measured at `f55e617`: **8 dirty sections**, worst M.A.W. Equipment 0.451, then 최종 관찰 (Final Observation)
   0.318, Behavior 0.226, 관찰 기록 (Observation Log) 0.217, Combat Record 0.168, 기록 (Registrum) 0.162, Trivia

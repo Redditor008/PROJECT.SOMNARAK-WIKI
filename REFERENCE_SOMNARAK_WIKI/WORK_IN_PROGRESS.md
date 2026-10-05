@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **171 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **133 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **109 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **175 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **134 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **110 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 217 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 218 / 302 |
 | Archive median prose generic fraction | 0.021 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1469,6 +1469,23 @@ worst whole-file fraction 0.139 → **0.132**; median steady **0.020**. Movement
 section-clean 132 → **133 / 301**; residue-free 170 → **171 / 302** (carriers 131, instances 281, lines 23);
 file-clean 214 → **217 / 302**. **Batch 15 stands at two of three.**
 
+**Batch 15, unit 3: Cracked Mirror `C-IIβ-310` closed — batch 15 closed at three.** Measured at `97459df`: **5
+dirty sections**, worst Activation Behavior 0.447, then M.A.W. Equipment 0.262, 최종 관찰 0.234, Combat Record
+0.130 and 감각 묘사 (Flavor Text) 0.129 — all five closed in three waves (15 + 13 + 19 sites); 6,569 → **6,997
+words**; `tpl.py` residue 4 → **0**; `verify.py` residual 1 → **0**; `sectfile.py` ends at **0 section(s) over
+0.05**; `wikistd.py` meets **True** with **both open clauses closed**. The condition's two registering candidates
+were the two forbidden stock shapes (`entity-specific management condition`, `Enforce valid Work Types`), both
+replaced with the file's own rule — *the timekeeper calls the end before the worker begins to agree with the
+glass*; the series was closed by writing the file's own figures into the counted Registrum Observation Notes
+(**47** fracture lines / **19** tracings / **2** falls / **4** written refusals), a digit restatement of its own
+numbers, **disclosed** as such (number-words ruling still pending). Re-authored: the whole Activation block onto
+the cloth, the clock and the timekeeper; all thirteen M.A.W. sites onto the ledger's own phrase for the toll; the
+Flavor sustained-exposure lines and interaction table header; and the Final Observation pair. One beneficial side
+effect in a file this unit did not edit: **Lacrima `N-Iα-905` 3 → 2**. Archive dirty 950 → **944**; median
+whole-file fraction 0.020 → **0.019**; worst steady **0.132**. Movement: `R-29` 109 → **110 / 301** (condition
+252, series 221); section-clean 133 → **134 / 301**; residue-free 171 → **175 / 302** (carriers 127, instances
+268, lines 22); file-clean 217 → **218 / 302**. **Batch 15 is closed at three.**
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1514,10 +1531,13 @@ closed on the file's own 1.1-metre plumb line and nine-search series, 6,592 → 
 closed on the file's own map counts, 7,387 → 8,026 words, three waves). The batch-14 tier is exhausted and the
 next head was re-derived whole-archive at this commit: **Patina `C-IVδ-222` (8 dirty, 0.453, both clauses satisfied) came off
 that tier as batch 15's first unit** — three waves, 7,051 → 7,530 words, 0 sections over 0.05, archive dirty
-967 → 959. **Batch 15 stands at two of three**: Patina and Forgotten Soldier `N-IIβ-033` are
-closed (three waves each, both clauses already satisfied in each and left alone), leaving **Cracked Mirror
-`C-IIβ-310` (5, 0.447, condition and series open)** as the batch's final unit — the two open clauses travel with
-it; Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
+967 → 959. **Batch 15 is closed at three**: Patina `C-IVδ-222` (8 → 0, three waves), Forgotten Soldier
+`N-IIβ-033` (8 → 0, three waves, plus Weighting Bird `C-IIIγ-032` 4 → 3 as a side effect) and Cracked Mirror
+`C-IIβ-310` (5 → 0, three waves, both open clauses closed — condition on the file's own timekeeper rule, series
+on a disclosed digit restatement of its own figures, plus Lacrima `N-Iα-905` 3 → 2 as a side effect).
+**Batch 16 opens at three** on the freshly re-derived tier: Emberling `C-IIβ-101` (2 dirty, 0.447, condition and
+series open), Learned Your Face `C-IIIγ-195` (7, 0.443, both clauses already satisfied) and Weeping Statue
+`C-IIβ-055` (2, 0.442, series open); Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
 series open) remain in the cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
