@@ -254,11 +254,11 @@ There is no extension of this entity, because nothing has been taken from it. Th
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Formed exactly seven times in recorded history before the current cycle.
+- Formed exactly seven times in recorded history before the current cycle, 3 of them inside the 11 years the station has kept a drill record. Across those 3 occasions the fused form existed for 36 seconds in all, and every one of those seconds was spent pulling it apart.
 - Each formation caused catastrophic facility losses.
 - Judgment is always “Guilty,” regardless of conduct or history.
 - Other Sorrow Entities avoid the Convergence.
-- In the current cycle, the Three Birds did not form the Convergence; they harmonized into a Hope Entity instead.
+- In the current cycle, the Three Birds did not form the Convergence; they harmonized into a Hope Entity instead. What the station holds in its place is the drill record: 188 timed runs against a 12-second window, median 8 seconds and worst 16, with the margin to the limit twice no more than 1 second.
 
 **Personnel Note:**
 > *"It looked at me and said 'Guilty' without sound. I felt every mistake I had made at once. I was twenty-three. I have not slept well since."* — Commander Taeho
@@ -372,7 +372,7 @@ Some sorrows are partial. The Convergence is total — the Three Birds merged in
 **Classification:** Sorrow Entity — `C-Vδ-010 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Convergence
 **Containment Status:** Prevented — Three Birds containment maintained
-**Comprehension Level:** 5 — Sovereign
+**Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Catastrophic (potential). If the Three Birds merge, the Convergence sentences everything it sees. Twelve seconds to separate. Those sentenced Fracture.
 **Containment & Handling Procedures:**
 - Maintain Three Birds separation at all costs.
