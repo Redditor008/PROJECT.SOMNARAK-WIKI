@@ -82,6 +82,28 @@ This file records notable changes to the public Somnarak Wiki.
     descent; one co-presence in which the crew's gauges fell and the vault's interval did not move)
     and The Grieving Colossus (no co-presence and none proposed; the two ledgers read together,
     neither holding ever fought).
+- **Workstream 9 / `R-29`: Sehnsucht `O-IIIγ-476` (2026-10-05)** —
+  - One `gate.sh` commit, growth-only: 7,283 → 7,934 words. Five dirty sections closed —
+    `0 section(s) over 0.05` — and **the open condition clause closed**: the `Management` row now
+    carries the file's own figure, `Grief is mourned at the site without a cause being supplied for
+    it`, which is also the Combat Record's resolution condition. `tpl.py` residue 3 → 0 and
+    `verify.py` residual 1 → **0** (the `is logged as a` Story Log Entry 1 opener, rewritten in place,
+    as on Driftglass). The open **series** clause closed by restating the file's own figures in the
+    Trivia bullets (2 cm of descent a year, 9 recorded rises, 3 excavation attempts, 41 cm lost,
+    31 per cent against 4, 40 cm a week; disclosed). `wikistd.py` meets `True`. `R-29` **72 → 73 /
+    301**; condition 243 → 244; series 200 → 201; section-clean 95 → 96.
+  - The instrument is the rod and the ring: depth against a graduated rod benchmarked outside the
+    affected soil, the lit diameter after dark, and the moisture ring — 31 per cent above the object
+    against 4 per cent a metre away, growing about 40 cm for every week the watch is not kept, which
+    makes the facility's own attendance the best predictor of the holding's condition. The stock
+    `Termination / Return` row, the banner trio, the four spliced Log and Method rows, both stock
+    M.A.W. appearances with their `Ability` and `Cost` pairs, the four Field Use Record rows and the
+    `Stat interpretation`, the Final Observation intro and choice row — which had been carrying the
+    generic `Enforce valid Work Types` condition — both stock interaction-record paragraphs and the
+    two Trivia bullets were rewritten.
+  - Two consistency repairs inside the same pass: the Final Observation choice row no longer
+    instructs `Enforce valid Work Types`, and the Combat Record `Resistance` row keeps 35 / 25 with
+    bespoke wording.
 - **Workstream 9 / `R-29`: Driftglass `O-IIIγ-914` (2026-10-05)** —
   - One `gate.sh` commit, growth-only: 7,768 → 8,597 words. Six dirty sections closed —
     `0 section(s) over 0.05` — plus the open **series** clause (the file's own figures written into
