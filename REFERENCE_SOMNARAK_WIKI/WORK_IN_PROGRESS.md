@@ -21,8 +21,8 @@ All figures below are measured, not estimated, and each names the tool that prod
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **140 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **112 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **89 / 301** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **113 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **90 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
@@ -1115,6 +1115,26 @@ stopped counting against every remaining carrier. **Batch 8 is closed at three**
 `f19c6ec` Redcage, this unit), each unit measured live at its own head. **Batch 9 opens at three** on the
 freshly re-derived tier; its first unit is measured at the batch head, never carried over.
 
+**Batch 9, unit 1: Blessing Giver `C-Iα-071b` closed — the batch opens at the floor of three on the
+honest head.** The batch-9 tier was re-derived by running `sectfile.py` across all 302 dossiers at
+`070ad5e`, and the worst section in the archive on that pass belonged to a file the earlier lists had left
+off: Blessing Giver, a **Stage-2 transformation page** (the Kind Healer chain) at 3,507 words. It measured
+**3 dirty sections** — 기록 (Registrum) 0.568, Breach Behavior 0.138, 최종 관찰 (Final Observation) 0.083 —
+plus one `verify.py` residual (the Observation Log's "Monitor the " row) and an **open condition clause**.
+All three sections closed, the residual reworded, and `condition` False → **True** by a bespoke
+`**Management**` row in the Breach Behavior table; `series` was already True. **Growth took it 3,507 →
+6,209 words**, clearing the 6,000-word floor, every figure drawn from the file's own canon: the **Clock**
+(twelve blessings, numbered in the order she reached each person), the hem advance grey → off-white →
+white as a second and fallible count, the corridor preference order that ends at the memorial alcove she
+has never entered, the measured pull (six of seven marked workers take the long corridor — eleven metres
+and forty seconds), the interrupted blessing at ten with Warden Bram's two statements pinned together, and
+the branch arithmetic toward the Hand of Hope or the Dawn of Mourning with the R.D.'s recommendation and
+the Commander's objection entered side by side. Movement: `R-29` 89 → **90 / 301**, condition 247 → **248**,
+section-clean 112 → **113 / 301**; residue-free 140 / 302, file-clean 194 / 302, median 0.029 and worst
+0.156 all unchanged (this file was already residue-free and already under the whole-file threshold).
+**Batch 9 continues at the floor of three**; the second unit is measured at the batch head, never carried
+over.
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1129,12 +1149,14 @@ rather than trusting the older partial tier list (8 dirty, worst 기록 (Registr
 per-section fraction in the archive) — and **Redcage `C-IIIγ-120` came off it in batch 8's second unit**
 (7 dirty, worst 기록 (Registrum) 0.590, and both of its open clauses — condition and series — closed with
 it), and **Flowing Seed `N-IIIγ-628` came off it in batch 8's third unit** (8 dirty, worst 기록 (Registrum)
-0.576 — the batch-8 head at `f19c6ec`). The batch-9 tier, re-measured at that commit and to be re-measured
-again at the next head: Cleaved `C-IIβ-775` (7, 0.548, residual 2), Rem `C-IIβ-135` (8, 0.541), The
-Mewgical Girl `N-IVδ-901` (3, 0.548, condition open, 5,548 words), Broken Clocktower `C-IVγ-240` (7,
-0.529), Unheard `C-Iα-965` (7, 0.523, residual 2), Forgotten Shadow `N-IIβ-453` (6, 0.471 — it fell from
-0.558 as the shared-shingle corpus shrank through these units); the older batch-7 names (The Lost Prince,
-Mirror of Soaking, Frozen Fury, Mourner's Bloom) remain in the cohort but are no longer the head. The
+0.576 — the batch-8 head at `f19c6ec`). The batch-9 tier, re-measured at that commit: **Blessing Giver `C-Iα-071b` was the head** (3 dirty,
+worst 기록 (Registrum) 0.568, 3,507 words below the 6,000-word floor, condition open) and **came off the
+list in batch 9's first unit**. Behind it, to be re-measured again at the next head: The Mewgical Girl
+`N-IVδ-901` (3, 0.548, condition open, 5,548 words), Cleaved `C-IIβ-775` (7, 0.548, residual 2), Rem
+`C-IIβ-135` (8, 0.541), Broken Clocktower `C-IVγ-240` (7, 0.529), Unheard `C-Iα-965` (7, 0.523, residual 2),
+Forgotten Shadow `N-IIβ-453` (6, 0.471 — it fell from 0.558 as the shared-shingle corpus shrank through
+these units); the older batch-7 names (The Lost Prince, Mirror of Soaking, Frozen Fury, Mourner's Bloom)
+remain in the cohort but are no longer the head. The
 archive's whole-file worst is still Forgotten Market Stall `C-IIα-062` (9 dirty, 0.465 section, 0.156 file,
 condition open), and closing it is what would move the worst figure itself; Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;

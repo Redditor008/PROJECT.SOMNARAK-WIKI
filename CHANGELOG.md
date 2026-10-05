@@ -38,6 +38,32 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 9 / unit 1 — Blessing Giver `C-Iα-071b` brought to the standard, opening batch 9 at three
+  (2026-10-05)** — the freshly re-derived head at `070ad5e` (worst 기록 (Registrum) 0.568) and a Stage-2
+  transformation page, 3,507 words against the 6,000-word floor.
+  - All **3 dirty sections** closed (Registrum 0.568, Breach Behavior 0.138, 최종 관찰 (Final Observation)
+    0.083); the `verify.py` residual — the Observation Log's "3 blessings observed" row carrying "Monitor
+    the " — was reworded; `tpl.py` was already 0. **`condition` moved False → True** by writing a bespoke
+    `**Management**` row into the Breach Behavior table (read the Clock aloud at every handover, keep the
+    marked roster where the door can see it, decide suppression before the eleventh blessing, never post a
+    marked worker while she is walking the floor), and `series` was already True. `sectfile.py` ends at
+    **0 section(s) over 0.05**, `wikistd.py` meets **True**.
+  - **Growth: 3,507 → 6,209 words** (the 6,000-word floor cleared), all of it authored from the file's own
+    canon — the **Clock** (twelve blessings, each numbered in the order she reached the person), the hem
+    advance grey → off-white → white as a second, fallible count, the corridor preference order ending at
+    the memorial alcove she has never entered, the measured pull (six of seven marked workers take the long
+    corridor; eleven metres and forty seconds), the interrupted blessing at ten and Warden Bram's two
+    statements, the branch arithmetic (4a Hand of Hope / 4b Dawn of Mourning) and the R.D.'s recommendation
+    with the Commander's objection entered beside it. New material added the M.A.W. Use Notes, Field Use
+    Record and Stat interpretation the set was missing; Breach Behavior gained a Breach Trigger and a
+    Containment Priority row plus Escalation Notes; the Observation Log gained four rows (5 / 9 / 12 /
+    interrupted); the Story Log gained Entries 6–8; and the Final Observation gained its success/fail table.
+    Nothing was deleted and no figure was invented that the file did not already carry.
+  - Movement: `R-29` 89 → **90 / 301**, condition 247 → **248**, section-clean 112 → **113 / 301**;
+    residue-free 140 / 302 and file-clean 194 / 302 unchanged (this file was already residue-free and
+    already under the whole-file threshold), median 0.029 and worst 0.156 unchanged. **Batch 9 continues at
+    the floor of three**; the second unit is measured at its head, never carried over.
+
 - **Batch 8 / unit 3 — Flowing Seed `N-IIIγ-628` brought to the standard, closing batch 8 at three
   (2026-10-05)** — the live head after unit 2, re-measured at `f19c6ec` (worst 기록 (Registrum) 0.576).
   - All **8 dirty sections** closed (Registrum 0.576, Behavior 0.370, M.A.W. Equipment 0.324,
