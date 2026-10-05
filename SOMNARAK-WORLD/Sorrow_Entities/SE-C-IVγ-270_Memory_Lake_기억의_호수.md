@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Memory Lake by a still black surface in a stone basin beneath the Gardens, reflecting scenes instead of faces, with fixed sounding stations around it and no visible shore at the deepest point. If anybody is at the water's edge rather than at a station, the holding is being mishandled, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Nothing is done to the lake. The stations sound the margin, the pair converse aloud at intervals about matters unrelated to the holding, and the month's figures are set against the Records Office return for death files closed with no attributed account. Work Types hold the pair steady at the stations; they do not touch the water, and nothing ever will.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Seal access and catalogue memories without claiming them**.
 

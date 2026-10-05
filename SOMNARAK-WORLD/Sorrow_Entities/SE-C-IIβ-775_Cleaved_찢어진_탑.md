@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Cleaved is confirmed by a tall figure built like a tower split cleanly down its vertical axis, burning along the seam without heat, the upper half inclined toward a bearing nothing in the district matches. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** The team works the half it names first and states the name aloud, because the Void expression will have removed any memory of which half was addressed before the cycle ends. Position, not appearance, is the only reliable label.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not complete the structure; document what was intended and lost**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A cloven tower in the shape of a man, stone-flesh against live fire along the seam, the crown carried off true toward a fixed bearing. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every Cleaved cycle against the previous reading. |
 | **Material / signature** | Void. Stone-flesh braided with flame, bloodless-cold against fever-hot, ash and char, and no thermal reading at all. |
 | **Distinctive markers** | Lean bearing, seam, and measured height. The first two are constant and the third is not. |
 | **Identification** | If it is burning and the air is cold, it is this. Every other tall thing in the Old Lament gives off heat. |
@@ -226,7 +226,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Cleaved's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+A piece cut from Cleaved is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small, nameless memories with each use, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

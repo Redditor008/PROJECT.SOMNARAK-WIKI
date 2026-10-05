@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A well rising from border ground, filled with liquid sorrow that climbs rather than falls. Nearby walls lean toward it. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a structure or location. The Well of Unfinished Words file carries the series rather than a single reading. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Identify it by the climb and the absence of reflection. Other standing water is recorded on the border; this is the one whose surface rises in the shaft and shows nothing of whoever leans over it. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; several Zone E records share this origin, and arriving with the wrong one means arriving prepared to answer an entity that must only be heard. |
@@ -266,7 +266,7 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Well of Unfinished Words' element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Well of Unfinished Words and carries what Well of Unfinished Words carries: the wielder carries the Well's unwept grief and weeps involuntarily, usually part-way through saying something else. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 
@@ -296,7 +296,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Well of Unfinished Words as an Object/Place with Place-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone E, Border region. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The trigger on file: Leaning over the stone coping and whispering an unsaid confession. Log the time, the witnesses, and the condition of the holding before and after. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Well of Unfinished Words's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first sign, which is the lean of the walls before the shaft is in view; the first sensation, which is the impulse to say something that has been put off; the level against the coping mark at entry and exit; and the condition that ends the encounter, which is a testimony reaching its own end. Record who decided it had ended.

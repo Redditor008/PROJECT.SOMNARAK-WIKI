@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Echo of Kindness by two or three unhurried words of comfort from just behind the shoulder, with a warmth like breath and nobody standing there, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** There is nothing to engage. Viderehan counts returns and transcribes them; Ferrehan is sitting in the Commons and letting one be said to you. The second is the work and most Wardens find it the harder of the two.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **No containment required; preserve the conditions that form it**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A warm voice carried through the air, speaking brief words of kindness. It has no body. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Mobile — drifts or flows through the area. Posture and distance are logged because on Echo of Kindness neither has ever been assumed. |
 | **Material / signature** | Lament. No colour, no mass, no instrument reading at all: a voice, a warmth, and an absence where the speaker should be. |
 | **Distinctive markers** | Brevity, kindness, and the bearing — always behind, always the right shoulder, always about a pace. |
 | **Identification** | If it asked you for anything, it was not this. This one has never once asked for anything. |
@@ -235,7 +235,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Echo of Kindness' sorrow within the equipment may activate. and may produce an effect tied to Echo of Kindness' element. The Stigma is Echo of Kindness' prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Echo of Kindness and carries what Echo of Kindness carries: the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

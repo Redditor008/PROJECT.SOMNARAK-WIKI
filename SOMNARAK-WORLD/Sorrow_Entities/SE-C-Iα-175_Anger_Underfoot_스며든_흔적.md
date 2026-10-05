@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Anger Underfoot is confirmed by the advance against the chalk, not by the trace. The crimson looks identical at a still quarter and at ninety-four centimetres, and seven early reports describe an unchanged site across quarters in which the edge crossed a street. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** The reading is the advance of the crimson edge past the previous session's chalk line, in centimetres, at twelve fixed radial stations set into the cobbles, reported as the largest single advance. Seven at baseline, zero at the floor, ninety-four at the ceiling.
 3. **Resolution:** Second circuit of the twelve stations, the new line chalked, and the documented condition: **Map the trace and stop repeating the grievance.** The second half of that sentence was treated as decoration for ninety years and is the operative half.
 

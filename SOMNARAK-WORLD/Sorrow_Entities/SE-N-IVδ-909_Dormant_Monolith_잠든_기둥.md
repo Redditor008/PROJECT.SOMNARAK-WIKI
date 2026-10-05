@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Dormant Monolith is recognised by there are no physical markers to work from. Identify it by the conditions of appearance: a pale column standing in the observer's own thinking, a shadow running into rooms they had forgotten, and the fact that colleagues standing beside them see nothing at all — then the approach is set and the positions are taken.
 2. **Clash:** There is nothing in the room to engage. The Pillar stands in the worker's own thinking, and the encounter is conducted there — Viderehan to set out the duties holding them in place, Flerehan to let the grief through, Ferrehan to find out whether they can rest while the obligations are still outstanding. Pugnahan raises the Pillar through their thoughts and is logged as an escalation, not an attack.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Ground the worker and establish a rotation of duty**.
 

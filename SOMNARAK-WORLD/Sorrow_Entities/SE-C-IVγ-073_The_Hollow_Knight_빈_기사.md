@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Hollow Knight by the empty visor and the gait; the heat and the sound carry further than either and are not diagnostic on their own in a wing this noisy, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Twelve turns, worked from beside the route and never across it. Flerehan and Ferrehan only; Pugnahan is answered with disciplined, trained violence and is not an authorised approach on this holding.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Salute its duty, acknowledge its sacrifice, and assign a clear completed task**.
 
@@ -234,7 +234,7 @@ The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and 
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to The Hollow Knight's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of The Hollow Knight and carries what The Hollow Knight carries: the wielder's old wounds ache; prolonged use leaves faint bruising. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 
@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies The Hollow Knight as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-B-01, Zone B — contained. |
 | **Sustained observation** | Station and hour, gait over the measured stretch, stance from the two marks, salutes given with the recipient named, and the corridor crew's shift log for the same period. |
-| **Activation or escalation** | The team records the first visible activation or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | Transformation in place. The Hollow Knight alters what is around it at SECTOR-B-01, Zone B — contained and stays inside it; the Grudge becomes structural. Walls Everything else in this row is secondary to getting that one fact written down accurately. |
 | **Post-contact review** | Stance before and after, gait times, the worker's verbatim account of any salute received, and a counsellor's note at 14 days. The salute is reviewed as an exposure, not as a commendation. |
 
 **Observation method:** Observe from beside the route, for a whole hour of the circuit rather than a sample of it, and record the station, the gait, the stance, any salute, and the condition that ended the session. The form here is the sorrow and not a strategy: an order that outlived everybody who could cancel it has no shape available to it except a thing that walks and keeps walking.

@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the caliper reading, not by the figure. The relief is clearest at the lowest recessions and almost invisible at the highest, which means the wall looks most like a sleeping person on exactly the days the reading is best) and Bulwark is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Viderehan and Ferrehan only; Flerehan and Pugnahan are N/A under the Object/Place Work Rule. The reading is the recession: the depth of the carved brow below the plane of the wall face, in millimetres, taken with the fixed caliper bridge at the end of the hour. Eleven millimetres is baseline. The recorded range is zero to ninety-six.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Offer presence without forcing entry**.
 

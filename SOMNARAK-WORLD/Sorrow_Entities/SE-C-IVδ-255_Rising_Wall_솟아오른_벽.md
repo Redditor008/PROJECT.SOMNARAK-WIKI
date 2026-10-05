@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (personnel should identify the entity by its physical or environmental markers before relying on emotional impressions) and Rising Wall is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Rising Wall's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Patient endurance and honest acknowledgment**.
 

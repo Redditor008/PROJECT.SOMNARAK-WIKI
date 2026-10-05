@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — The Grieving Colossus is recognised by the double beat in the ground and the cratered footprints; no other holding in the city is announced by the floor — then the approach is set and the positions are taken.
 2. **Clash:** There is no clash. The cycle consists of accompanying the march at the marked interval, speaking names, and keeping the route ahead clear; no team has ever exchanged force with this entity and the doctrine forbids attempting it.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Cannot be stopped. It can only be guided by monitoring its path and clearing safe routes**.
 

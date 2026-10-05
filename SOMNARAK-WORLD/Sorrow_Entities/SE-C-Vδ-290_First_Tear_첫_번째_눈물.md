@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (there is nothing to confuse it with. One crystallised tear, smaller than a raindrop, faint blue, four centimetres above a sealed pedestal, not falling. If something in this vault is falling, it is not this) and First Tear is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** There is no clash. The session consists of taking the nightly reading from the observation line and leaving. Viderehan shows the shape of sorrow before there was language for it; Ferrehan tests whether the observer can stay in the room while that is being shown. Neither approach is permitted to go beyond the line, and no approach has ever altered the Tear.
 3. **Resolution:** The session closes when the reading is taken, entered, countersigned and added to the series. There is no containment outcome to achieve here and no retreat to log; a session is successful if the series is one night longer than it was.
 
@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A single crystallized tear smaller than a raindrop, suspended above a sealed pedestal. It glows with faint blue light. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a structure or location. Posture and distance are logged because on First Tear neither has ever been assumed. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | There is nothing to confuse it with. One crystallised tear, smaller than a raindrop, faint blue, four centimetres above a sealed pedestal, not falling. If something in this vault is falling, it is not this. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; this vault holds two records of unknown origin and their handling is opposite. |
@@ -245,7 +245,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and First Tear's sorrow within the equipment may activate. and may produce an effect tied to First Tear's element. The Stigma is First Tear's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+A piece cut from First Tear is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder carries the first grief and weeps involuntarily. Three authorised uses exist in the archive and all three bearers were retired from field duty afterwards at their own request, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

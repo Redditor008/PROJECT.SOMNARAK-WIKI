@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (a standing fire with nothing burnt in it, books turning themselves, and heat that your face and your hand disagree about) and Pyre of Truths is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** There is no exchange to win. The observer enters with one written question, reads what the flames permit, and comes out; the session's measure is pages permitted, and a team that arrives with a list reads nothing at all.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Approach with curiosity rather than possession or destruction**.
 
@@ -246,7 +246,7 @@ The escalation pattern is specific to Pyre of Truths: it is not a generic contai
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Pyre of Truths' sorrow within the equipment may activate. and may produce an effect tied to Pyre of Truths' element. The Stigma is Pyre of Truths' prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+A piece cut from Pyre of Truths is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder's old scars and burn marks ache; prolonged use leaves severe heat blisters and crimson bruising across the bearer's arms, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 
@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Pyre of Truths as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-B-02, Zone B — contained. |
 | **Sustained observation** | Pages permitted per session against the question asked, shelves opened and closed, and the heat at the instrumented boundary. The three together are the only description of this holding that has ever predicted anything. |
-| **Activation or escalation** | The team records the first visible activation or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | An approach that intends to possess, destroy or enumerate the collection. Record it with the hour, who was present, and what had been done in the preceding minutes. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Pyre of Truths's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** The written question, filed before entry and never reused. Pages permitted, shelves opened and closed, heat at the instrumented boundary, and the transcript's deposit number. The pages figure is the session's result and the question is the variable that produced it.

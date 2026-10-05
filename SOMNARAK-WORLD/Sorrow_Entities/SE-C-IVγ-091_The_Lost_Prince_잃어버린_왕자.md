@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (him by the crown and the question. Several figures are catalogued in the Gardens; this is the child-height one, half light, wearing crystallised tears, who asks where somebody has gone and waits for the answer) and The Lost Prince is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Flerehan and Ferrehan are the working approaches; Pugnahan is a failure mode and the table above says why — he recoils, expecting it to happen again. The worker sits with him, lets him ask, and answers the one question he asks with the truth, which is that nobody knows where that person went.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen to the story and remain present; do not promise the absent person will return**.
 
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A translucent child-like figure wearing a small crown made from crystallized tears. He flickers while wandering and asks where the person who left him has gone. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every The Lost Prince cycle against the previous reading. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Repeats the questions: “Where did they go?” Does not attack unless frightened. Remains hopeful despite centuries of waiting. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; the Gardens hold more than one record about somebody who did not come back, and this is the one that asks. |
@@ -234,7 +234,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to The Lost Prince's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+These pieces are The Lost Prince in miniature. What they give is listed above; what they take is the wielder carries his unwept grief and weeps involuntarily, most often while writing a handover note, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

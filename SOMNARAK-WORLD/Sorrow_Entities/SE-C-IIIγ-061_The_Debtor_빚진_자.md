@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Debtor by him by the stoop and the recitation; the smell of wet stone and iron carries further than either and is shared with two other holdings in Zone C, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Eleven turns, seated, with one speaker. Pugnahan is absorbed rather than resisted and leaves the gauge flat; Flerehan and Ferrehan are the authorised approaches and the only ones that move it.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Carry part of the burden willingly; do not command him to put it down**.
 
@@ -230,7 +230,7 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to The Debtor's element. No protocol produces Stigmas. They emerge from The Debtor's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of The Debtor and carries what The Debtor carries: the wielder feels progressively heavier; prolonged use ages them slightly. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

@@ -228,7 +228,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Dreaming Ruin's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Each piece extends Dreaming Ruin rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder loses small, unnamed things from their own home. They are reported afterwards as a wrongness in a room rather than as a missing object, and no wielder has ever named what went — arrives early and does not reverse on return.
 
 ### Field Use Record
 

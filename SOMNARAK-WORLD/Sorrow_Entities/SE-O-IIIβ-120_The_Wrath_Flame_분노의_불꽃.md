@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — The Wrath Flame is recognised by the route and the crimson core before anything else. Several things burn at the Scar; only one of them walks a fixed line and stops when it is saluted — then the approach is set and the positions are taken.
 2. **Clash:** The team works the Flame in the open at the Scar, where there is no cell wall to fall back behind and the only cover is conduct. Flerehan and Ferrehan carry the encounter; Pugnahan returns heat for heat and has never once been logged as useful. The gauge answers to how the team carries itself, not to how hard it presses.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Bow or salute; acknowledge the war and the dead**.
 

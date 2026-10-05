@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the hazard manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Hatred Above by a directionless fury that arrives after nine to fourteen seconds beneath the footprint and then settles on whoever is nearest. The interval is the most reliable figure in the file and the movement rule is built on it, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Hatred Above's recorded combat actions.
 3. **Resolution:** Distance, a barrier if one is to hand, and silence from everybody else. The worker comes back on their own. The team does not debrief them at the spot and does not require them to say anything about it afterwards.
 

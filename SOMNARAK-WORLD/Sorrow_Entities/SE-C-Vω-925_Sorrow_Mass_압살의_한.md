@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the hazard manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Sorrow Mass by indifference to shelter. Walls do not stop it, seals do not hold it, and distance attenuates it only gradually — the one place the record shows a sharp boundary is the floor plate of a warded structure, and the ward is ours, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Sorrow Mass's recorded combat actions.
 3. **Resolution:** The floor is cleared, the wards beneath it are inspected, and the survey continues on the structure whether or not anyone is still working in it. Nothing is suppressed, withdrawn from, or defeated; the event ends when the millimetres stop.
 

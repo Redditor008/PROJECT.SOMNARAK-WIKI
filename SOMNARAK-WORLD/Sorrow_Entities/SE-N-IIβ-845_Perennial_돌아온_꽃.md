@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Perennial is confirmed by the return. Several walking growths are catalogued in the Desolate; this is the one that comes back to the same ground after removal, and the ground is the part that identifies it. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Nothing is confronted and nothing is cleared. Viderehan reads the layers in the soil and holds the figure steady; Ferrehan asks the worker to stand on ground that is heavy with every return made to it, and to stay standing. The gauge falls under Ferrehan. It has never fallen under any procedure involving a tool.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge the place's history and do not claim it as unchanged**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A patch of dark flowers growing from apparently empty ground in the Desolate. The flowers return after being removed. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Mobile — moves as a creature. The Perennial file carries the series rather than a single reading. |
 | **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Identify it by the return. Several walking growths are catalogued in the Desolate; this is the one that comes back to the same ground after removal, and the ground is the part that identifies it. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; on this record the ground is part of the identification, and a patch identified without its site history will be treated as vegetation. |
@@ -286,7 +286,7 @@ Each piece is a conditional extension of Perennial rather than ordinary equipmen
 |---|---|
 | **Initial exposure** | The observer identifies Perennial as an Object/Place with Place-Void manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at The Desolate — mobile. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | A person returning to a place they abandoned. Everything else in this row is secondary to getting that one fact written down accurately. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Perennial's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first sign, which is the singing before the patch is in view; the first sensation, which is the ground feeling heavier than the survey says it is; the patch's position against the last recorded one; and the condition that ends the encounter, which is the site's history being entered in the file with the ground left undisturbed. Note whether anything was removed.

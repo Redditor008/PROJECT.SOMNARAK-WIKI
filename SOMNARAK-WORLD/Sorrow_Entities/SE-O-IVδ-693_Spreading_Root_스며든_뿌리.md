@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Spreading Root by the threading, not by the shape. The beast-form varies between sightings; the root-system entering floor and wall does not, and it is the part that confirms the designation, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The Root is already under the floor the team is standing on, so there is no approach phase and no safe distance — only a choice about what to do with the ground. Flerehan and Viderehan open the buried history; Ferrehan takes the weight and holds it. Pugnahan hardens the roots and widens the spread, and the file records it as the one Work Type that has never improved an encounter here.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen to the Root's history; cutting roots causes further spread**.
 

@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Stranded Between Two Shores is confirmed by the arches and the water. Several records in these tunnels are described as bridges; this is the one with ribbed arches, a permanently wet surface, and no gap underneath it. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** The session is worked from both tunnel mouths at once and never from one. Flerehan weeps with it and lowers the span; Ferrehan holds a worker in place until the sobbing subsides; Pugnahan cracks it and floods the tunnel, and is logged as a failure rather than an option. No part of the work involves getting to the other side.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen between the sobs and name both shores**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A weeping bridge-shaped figure descending through the tunnels. Its arches resemble ribs and its surface is wet with crystallized tears. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Stationary — a structure or location. Recorded at every Stranded Between Two Shores cycle against the previous reading. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Identify it by the arches and the water. Several records in these tunnels are described as bridges; this is the one with ribbed arches, a permanently wet surface, and no gap underneath it. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; the archive holds four bridge-shaped records and the handling differs completely between them. |
@@ -226,7 +226,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Stranded Between Two Shores' sorrow within the equipment may activate. and may produce an effect tied to Stranded Between Two Shores' element. The Stigma is Stranded Between Two Shores' prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+These pieces are Stranded Between Two Shores in miniature. What they give is listed above; what they take is the wielder carries the entity's unwept grief and weeps involuntarily, most often at the point of arriving somewhere, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 
@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Stranded Between Two Shores as a Subject with Subject-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone B, deep tunnels. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | Corruption of its own zone. The zone at Zone B, deep tunnels turns and the turning spreads within it; the air fills with audible weeping, eroding the will to co Record it with the hour, who was present, and what had been done in the preceding minutes. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Stranded Between Two Shores's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first sign, which is cold rain-smell in a dry tunnel; the first sensation, which is the need to get to the other end; the depth at entry and exit; whether both mouths were held and by whom; and the condition that ends the encounter, which is both shores named aloud in the same session. Record the names in both columns.

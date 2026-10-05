@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Melting Rope by a rope in a dream that is dissolving at one end and making itself at the other, salt-damp, cold rain on the air, with a pull along it toward somebody the dreamer has stopped thinking about, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Work is done from the sleeping side under instrument. No Warden handles the rope: handling is prohibited outright and the prohibition is the oldest standing order on the holding.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Release the rope consciously and wake with a present anchor**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A rope of constant length that is dissolving at one end and forming at the other, seen only by sleepers. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — travels the Desolate between sessions; bearing, not position, is the logged variable. The Melting Rope file carries the series rather than a single reading. |
 | **Material / signature** | Lament. Salt-damp fibre, cold rain, the run-off that leaves no trace, and a tension along the line that the dreamer can feel the direction of. |
 | **Distinctive markers** | Bearing, which end is melting, and the persistence figure in minutes after waking. |
 | **Identification** | Ask the dreamer who was at the other end. If they can name the person without effort, this is something else. |
@@ -223,7 +223,7 @@ The steel appears solid at rest but ripples visibly when swung, shedding droplet
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Melting Rope's sorrow within the equipment may activate. and may produce an effect tied to Melting Rope's element. The Stigma is Melting Rope's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+These pieces are Melting Rope in miniature. What they give is listed above; what they take is the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

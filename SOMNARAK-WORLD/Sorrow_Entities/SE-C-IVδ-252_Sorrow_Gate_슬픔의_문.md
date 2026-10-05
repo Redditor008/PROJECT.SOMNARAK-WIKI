@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Sorrow Gate is recognised by what it lacks. Several sealed structures are catalogued beneath the Alpha Tree; this is the one with no handle, no lock, no hinges and no seam, cold on the outside and warm at the frame — then the approach is set and the positions are taken.
 2. **Clash:** There is nothing to weep with and nothing to confront. Viderehan is worked at a distance and returns fragments of the whispering; Ferrehan is worked by remaining in the vault while the Gate says nothing at all, which it does for most of any session. No approved method of contact exists and the file does not supply one.
 3. **Resolution:** The session closes when every transcript, partial translation and working note produced during it has been destroyed under witness and the destruction entered in the vault log, and the reading falls below 25%. A session whose notes are retained for later study has not closed.
 
@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A massive Weight Han-crystal gate without handle, lock, or hinges. It predates the facility. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a structure or location. The Sorrow Gate file carries the series rather than a single reading. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Identify it by what it lacks. Several sealed structures are catalogued beneath the Alpha Tree; this is the one with no handle, no lock, no hinges and no seam, cold on the outside and warm at the frame. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; more than one record here is described as a door, and this is the one with no procedure for opening it. |

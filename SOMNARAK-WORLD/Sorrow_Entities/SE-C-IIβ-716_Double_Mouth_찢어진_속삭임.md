@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Double Mouth by the two tones and the bearing spread. Do not identify it by content: both voices say true things and the truth of what they say has never been establishable, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Flerehan and Ferrehan, two recorders on separate channels, neither hearing the other's sheet. Nothing is contradicted aloud — denial is the one input that reliably escalates this holding and the prohibition is absolute. The tone count runs throughout.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Record both tones; do not choose a convenient version**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | An ethereal voice divided into two tones, one whispering and one burning with anger. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — incorporeal; it arrives from several bearings at once and is recorded by bearing rather than by position. Posture and distance are logged because on Double Mouth neither has ever been assumed. |
 | **Material / signature** | Grudge. Cold smoke and grey ash, char and old apologies, and a residue on the skin like a damp handprint. |
 | **Distinctive markers** | Burning-tone share of the count — 61 in 100 this year — and the bearing spread on the gallery grid. |
 | **Identification** | Three voice holdings are worked in this wing. Only this one has two tones that disagree, and only this one gets louder when told it is wrong. |
@@ -226,7 +226,7 @@ The gauge moves on this holding and says little. The figure that is kept is the 
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Double Mouth's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Double Mouth and carries what Double Mouth carries: the wielder's old wounds ache; prolonged use leaves faint bruising. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

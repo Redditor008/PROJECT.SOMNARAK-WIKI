@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Smothering Mother by a room at exactly body heat, a lullaby in no archived language, and a ten-meter figure that reads as crystal from the door and as warm flesh from close to, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The crew works from behind the painted line. The reaching is permitted, the holding is not, and nobody closes the gap for any reason including a colleague inside it — a second person inside the reach has never once reduced the time taken to get the first one out.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Provide a memory, vision, or proof that the child is at peace. Flerehan is most effective**.
 
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ten-meter feminine figure, crystal at distance and flesh near to, with a room-wide reach. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. The The Smothering Mother file carries the series rather than a single reading. |
 | **Material / signature** | Grudge. Dark damp surface, hollow light-drinking eyes, 37°C, and a lullaby audible through the door. |
 | **Distinctive markers** | Arm extension against the painted line, interval between reaches, room temperature, and whether the lullaby stops when the door opens. |
 | **Identification** | If the room is cold, this is not her, whatever the door says. |
@@ -236,7 +236,7 @@ The sheer mass of the blade delivers devastating chopping strikes capable of sev
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to The Smothering Mother's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each piece extends The Smothering Mother rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder's old wounds ache; prolonged use leaves severe bruising and induces an obsessive panic whenever allies move out of reach — arrives early and does not reverse on return.
 
 ### Field Use Record
 

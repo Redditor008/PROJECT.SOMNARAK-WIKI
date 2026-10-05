@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the crystal plans and the accruing structure, never by posture. It has no face to read and the counselors would prefer nobody tried) and Hollow Architect is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** The crew works from the marked line with Flerehan and Ferrehan only. Pugnahan is prohibited on this holding: its confrontation response is to enclose, and an enclosed worker is a floor extraction measured in hours. Tonnage accruing during the cycle is logged by the clearing tally, not estimated.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not complete or destroy the structures; document their purpose**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A hollow humanoid architect carrying plans made of dark crystal. It builds continuously, but every structure remains unfinished. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Posture and distance are logged because on Hollow Architect neither has ever been assumed. |
 | **Material / signature** | Weight. Lead-cold, damp, wet stone and old dust; the chamber's floor load reading rises while it works and settles within the hour after clearing. |
 | **Distinctive markers** | The rolled dark-crystal plans, the accruing half-built structure, and the absence of any roof on anything it has ever raised. |
 | **Identification** | Three towers are filed within two codes of this one. Read the designation, not the silhouette. |

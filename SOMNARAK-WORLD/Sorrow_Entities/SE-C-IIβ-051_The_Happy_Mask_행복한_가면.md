@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Happy Mask by tray number and designation before the lid is lifted. Four masks in this vault answer to the same rough description and two of them are dangerous to handle, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Happy Mask's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 

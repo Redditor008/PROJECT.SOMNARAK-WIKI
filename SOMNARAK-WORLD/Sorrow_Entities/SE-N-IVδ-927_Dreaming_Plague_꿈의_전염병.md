@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the hazard manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Dreaming Plague by the agreement. Independent sleepers describe the same streets in the same order, and the counsellors’ standing note records that this is the most troubling feature of the file precisely because dreams do not ordinarily agree, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dreaming Plague's recorded combat actions.
 3. **Resolution:** The sleeper sits up. The attending crew takes their account before anyone speaks to them about it, in a separate place from any other sleeper, and the barriers go back on the rack. The district reopens the moment the account is signed.
 

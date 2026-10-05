@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Fading Fruit is recognised by the set count and the empty stems, not by the trees. In a bad season the rows look magnificent: the blossom is heavy, the fruit forms early, and the garden has never looked better than it did in Year 4230 — then the approach is set and the positions are taken.
 2. **Clash:** Viderehan and Ferrehan only; Flerehan and Pugnahan are N/A under the Object/Place Work Rule. The reading is the set count: fruit that formed on the branch across the season, counted at the fall against the empty stems, which have always matched it exactly. Three hundred and forty is baseline. The recorded range is ninety-six to four thousand one hundred and nineteen.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge desire without promising fulfillment**.
 

@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Debt Scale by the unaided dish movement and the warm bone; the courts' two ordinary balances are cold and still, and have been mistaken for it in correspondence twice, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Four turns at the plinth, observation and endurance only. Nobody places a hand on a dish, the circle is marked at the start and the end, and the dish positions are read by eye into the hand-ruled column.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 

@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Debt Chain by count the run; do not weigh the chain. The inventory grows every month and the length has never meant anything. The only figure that has ever predicted anything is how many consecutive links stand surety for one another, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Viderehan and Ferrehan only; Ferrehan lowers the gauge and Viderehan holds it level. The reading is the run: the longest sequence of consecutive links on which each link's name appears as surety on the next, counted at the quarterly survey. Baseline three. Floor one, ceiling sixty-one.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 

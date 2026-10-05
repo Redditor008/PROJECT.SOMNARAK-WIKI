@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the hazard manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Sky of Borrowed Faces is confirmed by the images move and speak. Nobody has ever recorded what is said, because the standing order forbids transcription and the reason given on the form is that a transcript would be evidence of something that was never said by the person whose mouth said it. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Viderehan and Ferrehan only; Flerehan and Pugnahan are N/A for a Hazard. The reading is the surface count: distinct surfaces carrying a projection at the hour of the sweep, walked along the fixed four-hundred-metre perimeter transect. Twenty-three is baseline. The recorded range is zero to three hundred and eleven.
 3. **Resolution:** The transect walked to its end regardless of what is on the surfaces, the count logged by surface and never by face, and the team out before dusk. No sweep has ever been abandoned part-walked, and the one that was nearly abandoned is written up in full with the Warden's reason.
 

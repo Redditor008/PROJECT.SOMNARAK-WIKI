@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Lonely Giant by a twenty-metre figure of dark, dense flesh knotted with Han-crystal, walking slowly and placing its feet, warm to stand near, wet stone on the air, and a tremor that arrives before it does, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** No crew closes with it. The work is done seated, at the corridor's width, by one Warden at a time, and the engagement ends on the clock rather than on the gauge.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Share its space and acknowledge its loneliness; do not drive it away by force**.
 
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A twenty-metre humanoid of leaden tissue and crystal, upright, moving at a walking pace well below its stride. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Posture and distance are logged because on The Lonely Giant neither has ever been assumed. |
 | **Material / signature** | Weight. Dark dense tissue, crystal at the joints, warmth at close range, wet stone on the air, and a ground tremor at about forty metres. |
 | **Distinctive markers** | Route length for the day, structures contacted (invariably none), whether it sat, and who sat with it. |
 | **Identification** | Watch it reach an obstacle. If it goes round, this is the holding; nothing else of this mass in the archive bothers. |
@@ -234,7 +234,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to The Lonely Giant's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each piece extends The Lonely Giant rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder feels progressively heavier; prolonged use ages them slightly — arrives early and does not reverse on return.
 
 ### Field Use Record
 

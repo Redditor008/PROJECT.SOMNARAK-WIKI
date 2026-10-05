@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the taped girth and the branch drawings. Emotional impression is specifically unreliable here: workers consistently report certainty about what is missing, and no two reports agree) and Redacted is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Flerehan and Ferrehan, notes in duplicate, one copy walked out of the room every ten minutes. Viderehan to record the shape of the absence without naming it. Pugnahan tightens the roots and is not applied.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not supply false memories; record the absence**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid tree of dark crystal with a face in its trunk and branches where memories should be. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. The Redacted file carries the series rather than a single reading. |
 | **Material / signature** | Void. Dark crystal, bloodless-cold, ash. The branches do not photograph; the count must be drawn on the spot. |
 | **Distinctive markers** | The marked line on the trunk, the tape reading against it, and branches that hold nothing. |
 | **Identification** | If you find yourself able to say what is missing, stop and report it. Certainty is the symptom here, not the finding. |
@@ -228,7 +228,7 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Redacted's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each piece extends Redacted rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder loses small, nameless memories with each use — arrives early and does not reverse on return.
 
 ### Field Use Record
 

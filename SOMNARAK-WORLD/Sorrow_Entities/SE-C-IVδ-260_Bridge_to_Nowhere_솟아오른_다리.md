@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Bridge to Nowhere by the path-stones and the absent gap. Other spans are recorded in Zone D; this is the one that rises over flat ground and carries stones from a road that is not on any current survey, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Viderehan shows the former route and the people who used it, and holds the gauge steady while it does. Ferrehan asks the worker to walk the span and arrive nowhere — to cross a memory without treating it as a way of getting somewhere. The gauge falls on the second and only on the second.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Mark the crossing as memory and allow the Bridge to settle**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A bridge rising from the Echo Gardens, made of dark memory-crystal and old path stones. It leads across no physical gap. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a structure or location. The Bridge to Nowhere file carries the series rather than a single reading. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Identify it by the path-stones and the absent gap. Other spans are recorded in Zone D; this is the one that rises over flat ground and carries stones from a road that is not on any current survey. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins. Two Echo Gardens records are bridges with opposite requirements, and confusing them puts a worker on the wrong span doing the wrong thing. |
@@ -268,7 +268,7 @@ Each piece is a conditional extension of the Bridge rather than ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Bridge to Nowhere as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone D, Echo Gardens. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | Collective remembrance of an erased route. Everything else in this row is secondary to getting that one fact written down accurately. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Bridge to Nowhere's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first sign, which is singing with no source; the first sensation, which is the conviction of being part-way through a journey; the span's length at entry and exit; and the condition that ends the encounter, which is the crossing being recorded as a memory. The Bridge thins and goes when the memory is fully recognised, and the file notes that this has only ever been achieved by naming the road out loud.

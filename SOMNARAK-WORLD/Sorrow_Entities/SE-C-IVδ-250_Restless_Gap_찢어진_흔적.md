@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the bend, the tear's angle, and the account you cannot repeat. Emotional impressions are the least reliable thing you will bring out of that gallery) and Restless Gap is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** The crew works from outside the bend, with the sequence card in hand and the counselor on the line. Flerehan and Ferrehan are the usable pair; Pugnahan tears the space further and is prohibited by the chamber order rather than by preference.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Use memory anchors and reconstruct the person's history without inventing missing pieces**.
 
@@ -228,7 +228,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Restless Gap's element. No protocol produces Stigmas. They emerge from Restless Gap's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Restless Gap and carries what Restless Gap carries: the wielder feels progressively heavier; prolonged use ages them slightly. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 
@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Restless Gap as a Subject with Subject-Void manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone D, Mantle Commons. |
 | **Sustained observation** | Bend magnitude at three stations against the derived track, and the exit sequence score against each worker's own baseline. The second is the sensitive instrument and the one the chamber order is written around. |
-| **Activation or escalation** | The team records the first visible activation or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | Corrupt — the zone warps outward from where it stands. Nothing is pursued; the hazard reaches people by growing, not by travelling Record it with the hour, who was present, and what had been done in the preceding minutes. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Restless Gap's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Bend readings at three stations with times, derived position, the worker's own account written in the gallery before leaving, the exit sequence card, and the counselor's score against baseline. The score against baseline is the session's result; everything else is supporting.

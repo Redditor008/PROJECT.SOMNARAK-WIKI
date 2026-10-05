@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Weighting Bird is confirmed by two balance scales in place of eyes, dark-crimson plumage, dry radiant heat, a smell of char, and a gait that labours. It is the only one of the Three that is audibly heavy. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Weighting Bird's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge the judgment without attempting to deny the weight**.
 

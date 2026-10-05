@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Mourner's Bloom by the movement and the maw. The stalk is a body, the roots are legs that coil and carry it, and the petals open into something recognisably a mouth; the dark blue colour and the warmth at the centre are real but are shared with the ordinary Gardens stock, and three misidentifications have been made on colour alone, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team counts the petals on the stalk, works Viderehan and Ferrehan only, and does not grieve within reach of it deliberately. The bloom takes the moment, not the memory; a worker who weeps at the glass leaves intact, remembers everything, and is one moment lighter in a way nobody has been able to describe.
 3. **Resolution:** The cycle ends when the petal count agrees twice, the vault's attribution register is attached, and the bloom has settled back onto its roots. There is no suppression step and none has ever been needed; it has not resisted a withdrawal.
 
@@ -281,7 +281,7 @@ The blade surface remains permanently damp with chilled water droplets that seep
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Mourner's Bloom's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Each piece extends Mourner's Bloom rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder weeps involuntarily, and cannot afterwards recall the moment at which any of their own griefs began — arrives early and does not reverse on return.
 
 ### Field Use Record
 

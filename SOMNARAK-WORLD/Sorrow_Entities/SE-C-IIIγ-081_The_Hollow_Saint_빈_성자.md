@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Hollow Saint by her by the hollow and the reach; the ash smell and the cold are shared with two other Void holdings in Zone B and are not diagnostic alone, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Ten turns, from beyond the marked line, with two workers who are required to speak to each other at every turn. Pugnahan is answered by a harder pull and is not authorised.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not feed it grief; establish distance and identity anchors**.
 
@@ -226,7 +226,7 @@ The Hollow Saint is a Fragment (III) Subject with Subject-Void manifestation and
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to The Hollow Saint's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+A piece cut from The Hollow Saint is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small, nameless memories with each use; excessive channeling makes the wielder feel detached from their own physical form, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Kind Healer by a soft humanoid of warm Han-crystal, hands faintly lit, moving unhurriedly toward anybody who is hurt. Comfort-warm to stand near; salt-damp and cold rain on old cloth in the air, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** No blow is struck here. The engagement is Flerehan at the rail with the blessing tally called aloud after every exchange, and the tally is what ends it, not the gauge.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not attack. Guide it gently back and prevent unauthorized contact**.
 
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid of warm lit crystal, roughly adult height, with hands that glow more strongly than the body. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every The Kind Healer cycle against the previous reading. |
 | **Material / signature** | Lament. Comfort-warm crystal, cold rain on old cloth, a steady low light, and the shudder that follows every treatment. |
 | **Distinctive markers** | Shudder length in seconds, blessing tally, hand brightness, and the direction it walks when somebody in the room is hurt. |
 | **Identification** | Stand at the rail with no injury on you. If it comes toward you anyway, somebody in the room is hurt and has not said so. |
@@ -245,7 +245,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to The Kind Healer's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+These pieces are The Kind Healer in miniature. What they give is listed above; what they take is the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

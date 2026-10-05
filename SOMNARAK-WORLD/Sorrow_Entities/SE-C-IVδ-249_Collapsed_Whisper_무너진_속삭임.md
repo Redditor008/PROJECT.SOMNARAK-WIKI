@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the cut. A sentence that stops at about a second and a half, in static and red light, from a figure that never fully arrives, is this holding and no other) and Collapsed Whisper is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Nothing is contested. The worker is in the dream layer listening to a sentence that will break, the second worker is there to surface them, and the only decision in the session is when to end it.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Capture fragments without inventing the missing message**.
 

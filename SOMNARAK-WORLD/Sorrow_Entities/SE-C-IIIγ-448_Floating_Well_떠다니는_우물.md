@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Floating Well is recognised by the suspension and the missing shadow; the Forge's other dark-rimmed fixtures sit on the floor and all of them cast one — then the approach is set and the positions are taken.
 2. **Clash:** Four turns from outside the marked clearance, Flerehan and Ferrehan only. Rim height is read at the start and end of every turn, and nothing is thrown, lifted toward, or dropped beneath the opening.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Create a safe mourning place; do not force it downward**.
 

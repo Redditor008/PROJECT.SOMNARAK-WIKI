@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — The Cracked Hourglass is recognised by the tick and the thread from the crack; the vault's two other glasses are sealed, warm and silent — then the approach is set and the positions are taken.
 2. **Clash:** Four turns at the plinth, observation and endurance only. The rate is timed against the vault clock at every turn and the crack is gauged with the feeler strip before and after.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 

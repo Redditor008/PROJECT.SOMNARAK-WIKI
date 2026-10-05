@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Forgotten Shadow by the shade card and the disused-ways survey, not by the song, which is understood rather than heard and cannot be recorded by any equipment the wing holds, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The worker walks beside it and sings, or does not sing and keeps walking. Nobody blocks its route, nobody names it, and nobody stands between it and the disused way it is following.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Walk beside it and record what it shows**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid shadow that sings softly while moving through the Desolate. It has no face, but understands anyone who watches it. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. The Forgotten Shadow file carries the series rather than a single reading. |
 | **Material / signature** | Lament. Salt-damp, cold rain, and a depth of shade that reads on the card and on nothing else. |
 | **Distinctive markers** | Shade grade against the card, position against the disused-ways survey, and whether singing occurred and for how long. |
 | **Identification** | If it is on a maintained road, it is not this entity. It has never once been recorded on one. |
@@ -219,7 +219,7 @@ The sabre delivers fluid, sweeping draw-cuts from horseback or on foot. The blue
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Forgotten Shadow's element. No protocol produces Stigmas. They emerge from Forgotten Shadow's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+These pieces are Forgotten Shadow in miniature. What they give is listed above; what they take is the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

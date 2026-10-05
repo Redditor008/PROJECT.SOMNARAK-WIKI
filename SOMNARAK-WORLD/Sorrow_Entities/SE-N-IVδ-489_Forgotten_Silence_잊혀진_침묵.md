@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the glow and by the sound going distant. Do not identify it by the face; no observer has been able to describe the same face twice, and the file treats any confident facial description as a reason to re-check the designation) and Forgotten Silence is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** No one strikes anything here. The team brings an unspoken grief of its own and offers it, or it does not, and the gauge moves accordingly — Flerehan for the exchange, Ferrehan to stay beside the figure while the answer does not arrive. Pugnahan does not escalate the encounter; it ends it, by sending the entity back into dream-space with the work unfinished.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the withheld truth without forcing another person to speak**.
 

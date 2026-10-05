@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Crucible by the idle floor temperature at the fixed point and by the sweep sheet. Emotional impression is a poor guide: the room feels like held breath whether the reading is 61 or 74, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Viderehan and Ferrehan only. The working volume is swept and the sheet signed in full by both Wardens before anybody stands at the hearth, and anyone whose temper rises says aloud, in the room, what they are angry about.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Cool the anger through naming and controlled work**.
 
@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A forge that burns with crimson heat and shapes metal according to nearby anger. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a device (internal parts may move). Posture and distance are logged because on Crucible neither has ever been assumed. |
 | **Material / signature** | Grudge. Soot-blackened stone, a crimson core that pulses at rest, and dark clawed metal on the anvil and tongs that has grown rather than been forged. |
 | **Distinctive markers** | Idle floor temperature at the fixed point — 74 °C this year — the branching growth on the tongs, and a sweep sheet with two full signatures and a time. |
 | **Identification** | If the floor is cool between watches, it is not this holding and somebody should be told today. |
@@ -264,7 +264,7 @@ The escalation pattern is specific to Crucible: it is not a generic containment 
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Crucible's sorrow within the equipment may activate. and may produce an effect tied to Crucible's element. The Stigma is Crucible's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+These pieces are Crucible in miniature. What they give is listed above; what they take is the wielder feels anger toward every object they alter, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

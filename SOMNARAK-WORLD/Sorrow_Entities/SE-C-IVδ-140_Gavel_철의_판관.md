@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the sealed face and the chest scale. Several iron forms are catalogued on the Row; this is the one with no features at all and a working balance where a heart would be) and Gavel is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** The session is conducted as a submission of evidence. Flerehan is entered as mitigation and lowers the scale; Ferrehan requires the worker to stand under the sealed face and wait without filling the silence, and lowers it further. Pugnahan is recorded as guilt. Nothing is argued, because nothing here answers argument.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Present context and evidence; do not appeal with status or force**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid judge forged from black iron, with a sealed face and a crimson scale embedded in its chest. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every Gavel cycle against the previous reading. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Identify it by the sealed face and the chest scale. Several iron forms are catalogued on the Row; this is the one with no features at all and a working balance where a heart would be. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; the Row holds several records that measure, and arriving with the wrong one in mind means arriving prepared to argue with something that does not hear argument. |

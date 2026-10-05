@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Kind Healer's Shadow by the warmth and the absence of a source; shape alone is not diagnostic, since the Commons is full of shadows and two other holdings in the wing are dark-formed, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Four turns, worked in the open ward with the attended patient's consent recorded beforehand. The patient is never moved for the convenience of the cycle.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Accept its help and acknowledge the healer it carries**.
 
@@ -219,7 +219,7 @@ The mirror-polished blade reflects no ambient distortion, remaining clinically s
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+Each piece extends Kind Healer's Shadow rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping — arrives early and does not reverse on return.
 
 ### Field Use Record
 

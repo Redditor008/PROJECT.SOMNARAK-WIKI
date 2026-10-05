@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Swallowed Fury is recognised by the mark. Several phantasmal records appear in Zone D; this is the tear-shaped one that burns, leaves a crimson mark and leaves nothing wet — then the approach is set and the positions are taken.
 2. **Clash:** Flerehan and Ferrehan are the working approaches and Pugnahan is logged as a failure mode rather than an option — confrontation feeds it, and the table says so in the row above. The worker weeps if they can, or stays near it if they cannot, and nobody present is to steady anybody.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Permit tears and name the loss; do not suppress the anger**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A faint ghostly figure shaped like a tear that has begun to burn. It appears and disappears around the Forge District. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every Swallowed Fury cycle against the previous reading. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Identify it by the mark. Several phantasmal records appear in Zone D; this is the tear-shaped one that burns, leaves a crimson mark and leaves nothing wet. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; the district holds more than one record made of denied feeling, and this is the one that goes after the person who did the denying. |

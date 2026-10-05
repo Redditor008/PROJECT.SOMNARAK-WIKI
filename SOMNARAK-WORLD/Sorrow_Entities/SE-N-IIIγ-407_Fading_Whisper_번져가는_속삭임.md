@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the heatless fire and the break point; never by the content of the whisper, which no two transcripts render identically) and Fading Whisper is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Twelve turns, worked at the instrumented distance with the gain unaltered. Two transcribers record independently throughout and neither speaks; the pairing is the measurement and a single transcriber invalidates the watch.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Record the whisper without inventing the lost place**.
 
@@ -223,7 +223,7 @@ The breech is fitted with an internal lead baffler that silences the detonation 
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Fading Whisper's sorrow within the equipment may activate. and may produce an effect tied to Fading Whisper's element. The Stigma is Fading Whisper's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Each piece extends Fading Whisper rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder loses small, nameless memories with each use — arrives early and does not reverse on return.
 
 ### Field Use Record
 

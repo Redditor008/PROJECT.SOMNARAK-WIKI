@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Memory Weaver by personnel should identify the entity by its physical or environmental markers before relying on emotional impressions, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Memory Weaver's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger**.
 
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A massive spider-like being whose body is made from crystallized memories. Its webs are spun from stolen pasts, and its eyes resemble thousands of memories turning in Han-crystal sockets. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). Posture and distance are logged because on The Memory Weaver neither has ever been assumed. |
 | **Material / signature** | Translucent braided memory-thread, cold and dry and almost weightless, flickering with faces and voices held inside it. Void expression. A thin numb damp appears wherever a memory dissolves and evaporates without residue. Webs register in the Dream layer only. |
 | **Distinctive markers** | Webs are visible only in the Dream layer. It offers memories as if conducting a trade. Its lair contains more than ten thousand catalogued stolen memories. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |

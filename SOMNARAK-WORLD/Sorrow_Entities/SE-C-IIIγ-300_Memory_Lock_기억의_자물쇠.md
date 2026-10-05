@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Memory Lock is confirmed by the fused keyhole and the turning clouding; never by the whispering, which is constant and tells an observer nothing they are permitted to use. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Twelve turns, Viderehan and Ferrehan only, with the whisper mark entered as it occurs and nothing of its content written anywhere. Nobody speculates aloud in the chamber about what is behind the plate; the prohibition covers the bay, the corridor, and the wing, and it is the third of those that required a written rule.
 3. **Resolution:** Containment, management, retreat, or the documented condition: **the worker stands in front of the seal, does not try to open it, and the gauge falls below 25%**. Nothing is loosened by a good cycle and nothing is meant to be.
 

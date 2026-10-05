@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Aegis is confirmed by an armoured figure of ancient Han-crystal, scarred, fever-hot, far above human height, standing square to the Exile's Gate with its weapon held low and never raised. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Every approach is authorised singly and every worker states their direction aloud at the threshold before the cycle opens. Outbound and inbound are different procedures here and the holding draws no distinction the Directorate's people do not draw first.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **State the purpose of departure; do not attempt to return through the Gate**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | Scarred Han-crystal plate at better than human scale, nothing living visible inside it, weapon held low and still. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Stationary — holds its ground at the Gate. Under a Corrupt event it intensifies in place and does not advance. Recorded at every Aegis cycle against the previous reading. |
 | **Material / signature** | Grudge. Fever-hot plate, char, a low pressure on the chest felt from about four metres, and no sound at all. |
 | **Distinctive markers** | Weapon angle, stance, and the standing figure on the Gate ledger scale. |
 | **Identification** | Ask which way you are facing before you ask what you are looking at. This holding answers the first question and not the second. |
@@ -226,7 +226,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Aegis' element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Aegis and carries what Aegis carries: the wielder feels every exile they prevent from returning. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

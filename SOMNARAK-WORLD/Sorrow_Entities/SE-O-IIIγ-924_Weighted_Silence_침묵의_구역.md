@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the hazard manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the boundary is abrupt rather than graded. A person standing with one foot across it hears their own voice from one side of their head only, and every account of the crossing describes this before it describes anything else) and Weighted Silence is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Weighted Silence's recorded combat actions.
 3. **Resolution:** The team withdraws across the boundary, counts itself, and compares slates. The silence does not pursue and has never been observed to contract; the sitting ends because the team decides it has, which is the single most repeated sentence in the responders’ account.
 

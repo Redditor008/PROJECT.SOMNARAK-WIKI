@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Rage Statue by the fissures and the warmth; posture is not diagnostic here and the reference plates exist because of that, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Six turns, worked from outside the five-metre line. The wrong is named aloud at the opening of every turn whether or not the gauge has moved, which is procedure and not ritual.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not attempt to force the fist down; name the wrong**.
 
@@ -235,7 +235,7 @@ Thin crimson capillaries glow between the stone plates, pulsing in sync with the
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to The Rage Statue's element. No protocol produces Stigmas. They emerge from The Rage Statue's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each piece extends The Rage Statue rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wearer's thoughts run hot; small grievances feel immediately personal and urgent — arrives early and does not reverse on return.
 
 ### Field Use Record
 

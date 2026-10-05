@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Emberling is recognised by the carried ember and the gait. Brightness is the operational reading and is taken before anything else — then the approach is set and the positions are taken.
 2. **Clash:** Four turns, seated, at the distance the entity chooses. It approaches slowly and stops short; nothing in the record describes it closing the last pace itself.
 3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: somebody remains beside it until the brightness falls. Refusal does not end a cycle — it extends one.
 

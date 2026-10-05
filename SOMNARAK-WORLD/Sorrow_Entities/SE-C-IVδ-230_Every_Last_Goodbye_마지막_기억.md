@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Every Last Goodbye is recognised by a translucent standing figure in a vault without shadows, holding no face for longer than a sixth of a second, cold and light and smelling faintly of ash — then the approach is set and the positions are taken.
 2. **Clash:** Worked in silence, by two operatives, with the flicker rate counted from the frame marks and the slot used for every word that has to leave the room.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not attempt to erase a final moment; acknowledge and record it**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A translucent figure of final moments, flickering through faces at a counted rate. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Stationary — it has not moved from the centre of the vault in the whole of the record, and nothing it does requires it to. Recorded at every Every Last Goodbye cycle against the previous reading. |
 | **Material / signature** | Void. A vault without shadows, cold and light to the touch, ash on the air, and an absolute absence of sound from the entity itself. |
 | **Distinctive markers** | Flicker rate from the frame marks, height and attitude of the figure, the shadowless condition of the vault, and the slot's slip count. |
 | **Identification** | Count the flicker. Anything that holds a face for a full second is not this holding. |
@@ -226,7 +226,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Every Last Goodbye's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+These pieces are Every Last Goodbye in miniature. What they give is listed above; what they take is the wielder loses small, nameless memories with each use, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

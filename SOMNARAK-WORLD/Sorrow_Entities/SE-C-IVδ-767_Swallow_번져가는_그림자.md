@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (dimming without a source, a floor ringed in old chalk, fixed lighting that does nothing, and detail going soft at the edges of what you are looking at) and Swallow is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** There is nothing to strike and nothing that strikes. The team marks the edge, works the shift inside the fixed light, and comes out tethered to its own equipment; the encounter is scored on the chalk band and on who the worker turns out to be grieving.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the source of the grief and return emotional ownership**.
 
@@ -238,7 +238,7 @@ The escalation pattern is specific to Swallow: it is not a generic containment e
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Swallow's element. No protocol produces Stigmas. They emerge from Swallow's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+These pieces are Swallow in miniature. What they give is listed above; what they take is the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

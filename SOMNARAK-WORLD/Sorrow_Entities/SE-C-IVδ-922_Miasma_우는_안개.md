@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the hazard manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Miasma by the weeping is the marker and it is involuntary. It is not sadness and cannot be composed away; personnel are instructed not to apologise for it, not to explain it, and not to try to stop, and that instruction is in the induction material because the attempt to stop is what makes it worse, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Miasma's recorded combat actions.
 3. **Resolution:** The far spotter calls the run clear, the near spotter repeats it back, and the doors stay open for a further ten minutes by the clock. Only then is the corridor walked, and it is walked by the spotters, who have been watching it.
 

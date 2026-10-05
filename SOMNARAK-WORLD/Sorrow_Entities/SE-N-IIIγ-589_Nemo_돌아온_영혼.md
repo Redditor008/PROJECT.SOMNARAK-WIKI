@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Nemo is recognised by the tears and the mapped site, never by the face; the face has been described differently by every observer and the descriptions are kept because the disagreement is the finding — then the approach is set and the positions are taken.
 2. **Clash:** Flerehan and Ferrehan from the watch position. Pugnahan is not applied: it answers confrontation with waves of other people's memory and the gauge climbs for the rest of the cycle. The names in the tears are read and written down as they fall; they are not spoken back and they are not searched.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Speak the names carried by the tears; do not deny the return**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A translucent figure that returns whenever its tears fall. Each tear carries a name. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Stationary — a body or drop of liquid. Recorded at every Nemo cycle against the previous reading. |
 | **Material / signature** | Lament. Salt-damp, faintly warm, cold rain; half-flesh and half-light, and no two observers have described the face the same way. |
 | **Distinctive markers** | Tears with names legible in them, and the fact that it is standing at a mapped loss-site and nowhere else. |
 | **Identification** | Subject-Lament at a mapped site. If the figure is anywhere else, it is not this file. |

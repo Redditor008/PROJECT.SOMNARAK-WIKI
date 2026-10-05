@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The Silent Maiden is confirmed by a young woman of flesh and bone, bloodless and cold, eyes open and tracking nothing, entirely silent, frequently unnoticed by personnel who are not deliberately looking for her. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** One named Warden works her at a time and that Warden's name is on the door roster in ink before they enter. Pugnahan is not attempted; there is nothing in the chamber that can be struck.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **See her, hear her, and recognize that she is present**.
 
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | Flesh and bone, cold to the touch, silent, still, standing in a chamber that four people can walk through without registering her. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Posture and distance are logged because on The Silent Maiden neither has ever been assumed. |
 | **Material / signature** | Void. Flat ash on the air, a hush that takes sound out of the room, and no reading on any instrument the wing has tried. |
 | **Distinctive markers** | An absence where a person is; a reach toward anyone who addresses her; and more of both through a Tide. |
 | **Identification** | If the chamber looks empty, look again and say your own name out loud. The second part is not superstition; it is the badging protocol. |
@@ -234,7 +234,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to The Silent Maiden's element. No protocol produces Stigmas. They emerge from The Silent Maiden's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of The Silent Maiden and carries what The Silent Maiden carries: the wielder loses small, nameless memories with each use. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

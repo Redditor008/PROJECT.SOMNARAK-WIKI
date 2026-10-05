@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the uncarved names and the page-turning sound; the Row's three ordinary boundary walls are silent and blank) and Owed is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Four turns at the face, observation and endurance only. Nobody climbs it, nobody strikes it, and the marks are read at the start and the end of every turn by two people independently.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Measure and acknowledge the debt; the Wall cannot be demolished**.
 

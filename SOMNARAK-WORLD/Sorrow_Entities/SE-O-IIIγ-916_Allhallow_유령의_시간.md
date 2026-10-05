@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the time manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Allhallow by the exactness of the hour. Sixty minutes from the first walker to the last, thirty-four times, with no occurrence shorter and none longer — the most regular figure anywhere in the wing and the one the whole posting is built around, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Allhallow's recorded combat actions.
 3. **Resolution:** The last walker is gone at the minute the first one appeared plus sixty. Both posts hand in their tallies without conferring, the difference is written down as a difference and not resolved, and the border reopens.
 

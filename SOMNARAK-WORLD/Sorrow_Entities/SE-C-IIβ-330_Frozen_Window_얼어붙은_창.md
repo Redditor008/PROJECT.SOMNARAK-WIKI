@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Frozen Window is recognised by the paired frost-and-scorch footprint, which no other holding in the Commons leaves; the figure itself is often seen only at distance and in motion — then the approach is set and the positions are taken.
 2. **Clash:** Five turns, worked moving. Nobody stands still in front of it and nobody blocks the circuit; the forced-stillness escalation is the one behaviour in this file that is fully established.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Allow it to complete its circuit and name the ending**.
 
@@ -230,7 +230,7 @@ Delicate frost fractures run through the lens without obscuring vision, highligh
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Frozen Window's element. No protocol produces Stigmas. They emerge from Frozen Window's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Each piece extends Frozen Window rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wearer feels every departure reflected in the pane, creating a heavy sense of solitary confinement — arrives early and does not reverse on return.
 
 ### Field Use Record
 

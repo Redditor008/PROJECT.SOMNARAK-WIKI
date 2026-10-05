@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Torpor is confirmed by the sound. Several Zone E records are described as quiet; this is the one in which a sharp noise arrives as a breath, and there is nothing at all to see. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** There is no body to work against; the team works inside the hush. Viderehan reads the duties that kept the original watch awake and holds the reading steady. Ferrehan requires a worker to sleep on site while the rest of the team stands over them, and it is the only approach that lowers it. A session in which nobody slept is logged as incomplete.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish a guarded rest area and permit sleep**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A quiet border place where every sound becomes a sleeping breath. The ground is soft and the air presses downward. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Mobile — drifts or flows through the area. The Torpor file carries the series rather than a single reading. |
 | **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Identify it by the sound. Several Zone E records are described as quiet; this is the one in which a sharp noise arrives as a breath, and there is nothing at all to see. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; several Zone E records come from the same posting, and the wrong one in mind sends a team in prepared to stay awake. |
@@ -240,7 +240,7 @@ The weapon discharges high-pressure gusts of freezing, condensed breath harveste
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Torpor's sorrow within the equipment may activate. and may produce an effect tied to Torpor's element. The Stigma is Torpor's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Torpor and carries what Torpor carries: the wielder grows progressively heavier and ages slightly, in the manner of a person who has not slept properly for a season. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 
@@ -270,7 +270,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Torpor as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone E, Border region. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | Sustained exhaustion and denied rest. Everything else in this row is secondary to getting that one fact written down accurately. |
 | **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Torpor's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first sign, which is your own footsteps going quiet; the first sensation, which is the ground seeming to give; the acoustic edge at entry and exit; the hours each team member has been awake; and the condition that ends the encounter, which is one person asleep and one person watching them. Record both names.

@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the time manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Dawn That Forgot is confirmed by the awareness. Sleepers report knowing that morning had come and being unable to open their eyes, and they report it consistently — not confusion, not dreaming, but a morning attended from the wrong side of the eyelids. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dawn That Forgot's recorded combat actions.
 3. **Resolution:** People get up. The post records the minute the first shutter opens and the minute the last one does, and the pair of figures goes into the series. There is no suppression step because there has never been anything to suppress.
 

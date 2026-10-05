@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the sleepers themselves, 212 of them, in the positions they fell asleep in on the same night. They breathe, they age slowly, they do not stir when a wall moves in the next room) and Unwaking Block is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Unwaking Block's recorded combat actions.
 3. **Resolution:** The caller outside says the time and the party leaves whatever room it is standing in. Plans are signed at the threshold, not inside. Forty-one plans are on file and no two of them agree.
 

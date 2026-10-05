@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Sleeping Shard is confirmed by the float and the curl. Several crystal-bearing entities are held in this wing; only this one carries the shard rather than being carried by it, and only this one is asleep. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** There is no exchange of blows here. The team works at the edge of a sleep it must not interrupt — Flerehan to settle the weeping, Ferrehan to stay present without reaching, Viderehan to read the memory underneath. Every gauge movement is a statement about how quiet the room was.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not wake it; reduce disturbance and provide a dream anchor**.
 

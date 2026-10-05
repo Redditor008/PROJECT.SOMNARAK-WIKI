@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Weeping Willow is recognised by the wet ground and the silent shatter; the Gardens' four ordinary willows are dry beneath and their leaves are leaves — then the approach is set and the positions are taken.
 2. **Clash:** Four turns from the margin, observation and endurance only. Nothing is cut, nothing is swept while anyone is sitting beneath it, and the saturated boundary is marked at both ends of the cycle.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Sit beneath it and allow endings to be acknowledged**.
 

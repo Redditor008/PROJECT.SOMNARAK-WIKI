@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Soaking Rope by the single end and by the tension. Other bound and knotted things are held in this wing; only this one is taut with nothing at the far end of it, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The Rope does not have to be reached; it is already in the room with anyone who is waiting for somebody. Work proceeds by Flerehan and Ferrehan — naming the wait, then enduring it without taking hold — while Pugnahan tightens the one thing it is meant to loosen. The gauge tracks what the team is privately hoping for rather than what it is doing.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not promise return; release the rope consciously**.
 

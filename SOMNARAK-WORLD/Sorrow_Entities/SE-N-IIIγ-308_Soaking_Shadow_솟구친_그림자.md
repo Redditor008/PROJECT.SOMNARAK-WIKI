@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Soaking Shadow by a man-shaped shadow on the vault floor with nothing above it to cast it, soaked in crimson light that drips and scorches, the floor beneath it permanently wet, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Viderehan or Ferrehan from outside the wetted outline, by a Warden the infirmary has cleared that week. Nobody carrying a live grievance of their own goes in, and the clearance is checked at the door, not at the roster.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A man-shaped darkness on the floor, saturated with burning crimson, dripping, with clear air above it. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a discrete object. Posture and distance are logged because on Soaking Shadow neither has ever been assumed. |
 | **Material / signature** | Grudge. Char and hot metal, a wet margin, light that runs downhill across a level floor. |
 | **Distinctive markers** | Card grade, outline position, and the dampness of the floor beyond the chalk. |
 | **Identification** | If anything above it could be casting it, you are in the wrong vault. |
@@ -259,7 +259,7 @@ The escalation pattern is specific to Soaking Shadow: it is not a generic contai
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Soaking Shadow's element. No protocol produces Stigmas. They emerge from Soaking Shadow's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+These pieces are Soaking Shadow in miniature. What they give is listed above; what they take is the wielder's old wounds ache; prolonged use leaves faint bruising, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

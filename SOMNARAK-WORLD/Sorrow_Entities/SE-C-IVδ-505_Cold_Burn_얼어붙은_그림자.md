@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Cold Burn by the lattice and the cold, never by the edges: the crimson edge appears only when somebody has stopped looking, which means the observer who sees it has already made the error, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Direct attention held throughout, handed off aloud, double-staffed; nobody's gaze drifts. Flerehan and Ferrehan from the post. Pugnahan answers with frozen force and is not used. The reflection list is walked and signed before anybody enters.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Complete the duty symbolically, then tell the Shadow it may stop**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A figure made from frozen shadow, with edges that burn crimson when someone looks away. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every Cold Burn cycle against the previous reading. |
 | **Material / signature** | Void. Bloodless-cold, ash; cold enough that the Forge's proximity does not overcome it, and the chamber thermometer is the holding's second instrument. |
 | **Distinctive markers** | The lattice along the wall seams, the chamber temperature, and a figure with no caster. |
 | **Identification** | If you can see its edges burning, you have already looked away. Report it; do not correct it quietly. |
@@ -228,7 +228,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Cold Burn's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Cold Burn and carries what Cold Burn carries: the wielder loses small, nameless memories with each use. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The Grieving Maiden is confirmed by a young woman weeping without pause, warm to stand near, hair and dress soaked through, cold rain on old cloth in the air, and a sump gauge outside the door that is never at zero. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Nothing is struck. The crew works in counted pairs, answers the three-minute verbal check, and reads the sump figure before the chamber gauge, because the sump moves first.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Share her grief and acknowledge the loss; never command her to stop**.
 
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A woman's figure, soaked through, moving slowly and only toward her sisters' side of the corridor. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every The Grieving Maiden cycle against the previous reading. |
 | **Material / signature** | Lament. Warm damp skin, cold rain on old cloth, continuous low weeping, and standing water that has to be drained. |
 | **Distinctive markers** | Sister-distance, sump volume, and whether the story she is telling has reached the illness yet. |
 | **Identification** | Check the corridor. If the other two are not within sister-range, whatever you are looking at has already been moved and the ledger will show it by evening. |
@@ -233,7 +233,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to The Grieving Maiden's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each piece extends The Grieving Maiden rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping — arrives early and does not reverse on return.
 
 ### Field Use Record
 

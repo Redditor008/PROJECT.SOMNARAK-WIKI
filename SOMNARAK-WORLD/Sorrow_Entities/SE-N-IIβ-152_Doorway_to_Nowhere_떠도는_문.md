@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Doorway to Nowhere is recognised by the lamp reading, not by the fire. The frame burns at the same apparent brightness to the eye at two metres of reach and at fifty; the reference lamp exists because four early watches graded it by looking and produced a series that correlated with nothing — then the approach is set and the positions are taken.
 2. **Clash:** All four Work Types are valid. The reading is the reach of the glow: the distance, in metres, at which the frame's light is still brighter than the Warden's reference lamp, taken on the open ground east of the Alpha Tree after dusk. Three point one metres is baseline. The recorded range is zero to fifty-seven.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Close the door consciously; do not force passage**.
 

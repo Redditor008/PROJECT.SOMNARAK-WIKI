@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Dismissed Cry is recognised by the discrepancy. Several hot objects are catalogued near the Scar; this is the one that registers as sound to the personnel and as nothing to the instruments — then the approach is set and the positions are taken.
 2. **Clash:** Only two approaches exist here and neither is confrontation. Viderehan uncovers what the scream was about; Ferrehan asks the worker to stay beside sustained anger without taking it up and repeating it. The gauge falls under Ferrehan and holds under Viderehan, and raised voices anywhere in the chamber end the session.
 3. **Resolution:** The session closes when the gauge is under 25% and the grievance has been written down as a grievance — complainant, injustice, date — rather than as an acoustic event. A session that ends with the chamber quiet but the log reading "pressure phenomenon, no acoustic trace" has not resolved anything and the next shift will find the figure higher.
 
@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A crystallized scream floating in the air as a red object with a torn mouth-like opening. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a device (internal parts may move). The Dismissed Cry file carries the series rather than a single reading. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Identify it by the discrepancy. Several hot objects are catalogued near the Scar; this is the one that registers as sound to the personnel and as nothing to the instruments. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins, and verify the wording as well — on this record a misdescription is not a clerical matter but the mechanism itself. |

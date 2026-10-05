@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Forgotten Name by there is nothing to recognise and no marker to check. What is verified is the slate: the carriers write, the slates are compared, and the count is the holding. A Warden who is certain of the name is in exactly the same position as one who is not, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** All four Work Types are valid and none is spoken. The reading is the divergence: at the monthly check each Warden formally carrying the name writes it on a slate alone and without conferring, and the slates are compared position by position. Two disagreements is baseline. The recorded range is zero to thirty-one.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Write and speak the name with another witness present**.
 

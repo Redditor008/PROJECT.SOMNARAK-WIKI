@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (silent wall movement and sternum pressure; Old Lament's subsidence is audible, directional, and visible on the engineers' own gauges) and Screaming Masonry is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Four turns on contact sensors, observation and endurance only. The vibration line is marked at both ends of the cycle and any utterance newly legible is transcribed before the team stands down.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge duties without accepting impossible blame**.
 

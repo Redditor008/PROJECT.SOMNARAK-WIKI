@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The Orphaned Bell is confirmed by the hands. The corrosion on the bell's surface has warped into small reaching shapes, and no other holding in Zone B carries that. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** There is nothing to trade with. The pair stands braced, the timekeeper outside the acoustic circle holds the clock, and the recorded combat actions describe what the toll does on the way past rather than anything the team can influence.
 3. **Resolution:** The toll finishes or the pair is withdrawn. The documented condition is **the bell stays anchored, Pugnahan is never attempted, and the watch is completed standing in pair** — nothing here is suppression, and the record does not call it that.
 

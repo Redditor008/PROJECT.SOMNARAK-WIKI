@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the span and the surface. Other flowing-form entities are catalogued in Zone D; this is the one that arches between two fixed points and offers to be walked on) and Cenotaph is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** The team works along the span rather than in front of it. Flerehan and Ferrehan both lower the gauge, and both require the worker to stay on the bridge while it is moving. Pugnahan is answered with flowing force and is recorded as the only approach that has ever put personnel in the water that is not there.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Controlled acknowledgment and team support**.
 
@@ -120,7 +120,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid figure whose body flows like a bridge over moving water. Its arms protect people who are already gone. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. The Cenotaph file carries the series rather than a single reading. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Identify it by the span and the surface. Other flowing-form entities are catalogued in Zone D; this is the one that arches between two fixed points and offers to be walked on. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; several Echo Gardens records share this origin event, and the wrong identification here means arriving with the wrong idea of what the entity is trying to do. |

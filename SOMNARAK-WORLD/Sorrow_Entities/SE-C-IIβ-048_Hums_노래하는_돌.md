@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Hums is confirmed by the warmth. Several small objects are displayed in the Gardens; this is the palm-sized dark one that is warmer than the room and sings to one person at a time. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** The session is one worker, one quiet room, one song. Viderehan catalogues what is sung; Ferrehan is a matter of listening through to the end, which takes between four and forty minutes and must not be curtailed. Nobody takes notes during the singing — the sheet is filled in afterwards, from memory, deliberately.
 3. **Resolution:** The session closes when the song sung has been learned by the listener well enough to sing back unaccompanied, and the reading falls below 25%. A session that produces a transcript and no singer has not closed; by the register's own figures it has made things slightly worse.
 
@@ -120,7 +120,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A small, smooth, dark stone warm to the touch. It sings under the right conditions. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a body or drop of liquid. Recorded at every Hums cycle against the previous reading. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Performs lullabies, work songs, love songs, and funeral songs of the dead. Sings more clearly when the air is still and sorrow is concentrated. The songs are historical records rather than random sounds. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; more than one record in this archive is made of sound, and this is the one that is to be learned rather than collected. |
@@ -272,7 +272,7 @@ The escalation pattern is specific to Hums: it is not a generic containment even
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Hums' element. No protocol produces Stigmas. They emerge from Hums' own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Hums and carries what Hums carries: the wielder carries its unwept grief and weeps involuntarily, usually while humming. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

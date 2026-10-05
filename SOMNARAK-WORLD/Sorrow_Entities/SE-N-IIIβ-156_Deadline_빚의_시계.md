@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (read the hands and log the reader. The face is unverifiable by design — two people in the same room get different figures and neither is wrong — and a reading entered without a name attached is void and is struck through rather than erased) and Deadline is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Viderehan and Ferrehan only; Ferrehan lowers the gauge and Viderehan holds it level. The reading is the interval: the number of days the hands show remaining to the duty Warden, taken at the start of watch and logged with the reader's name because the face shows a different figure to every observer. Baseline fifty-eight days. Here the reading falling is the bad direction. Floor zero, ceiling six hundred and eleven.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 

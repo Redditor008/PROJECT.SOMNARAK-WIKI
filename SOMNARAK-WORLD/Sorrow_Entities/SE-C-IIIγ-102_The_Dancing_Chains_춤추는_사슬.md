@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Dancing Chains by the repeating figure and by the fused, grown links; never by stillness, which it has never exhibited, and never by sound, of which it makes almost none, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Twelve turns, Viderehan and Ferrehan only, and never by one person. The two-person rule admits no exception for brevity, both names are written by two different hands, and the second Warden stands outside the working distance throughout so that there is always somebody whose hands are free.
 3. **Resolution:** Containment, management, retreat, or the documented condition: **the pattern is slowed to the logged baseline and the gauge falls below 25%**. If a worker is bound at any point, the cycle is over and the only remaining task is removal.
 

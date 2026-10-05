@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Carrying Nothing by the sighted displacement and by the fire that leaves no ash. Emotional impression is the worst guide here: the first reported feeling is relief, and it is accurate, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Flerehan and Ferrehan, one Warden at a time, approach scheduled and logged. The straight edge is sighted past its back before and after. Nobody reaches for what it is holding, and nobody tells it that it is holding nothing.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not replace the missing thing with a false explanation**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A burning humanoid figure carrying nothing, though the air around its back bends under an invisible weight. It stands motionless until approached. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Posture and distance are logged because on Carrying Nothing neither has ever been assumed. |
 | **Material / signature** | Grudge. Fever-hot, char and old smoke, continuous flame and no residue of any kind. |
 | **Distinctive markers** | The sighted displacement from the two floor marks, the swept and empty floor, and the turn at a half-metre of the same distance every time. |
 | **Identification** | If it is moving before you approach, it is not this holding. Stop and report it. |
@@ -226,7 +226,7 @@ The gauge here moves with the approach and says nothing about the holding. The f
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Carrying Nothing's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+A piece cut from Carrying Nothing is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder's old wounds ache; prolonged use leaves faint bruising, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

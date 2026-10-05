@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Friendless Bridge is confirmed by the endings. Several span-shaped records are catalogued; this is the one made of empty crystal that terminates in air at both ends and lies across documents rather than ground. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** The work is done on the ledgers the span has grown into, not on the crystal. Viderehan shows the connection it was trying to build and holds the reading steady; Ferrehan requires the worker to wait at one end without starting across, which is harder than it reads, because the span appears to be waiting for them specifically.
 3. **Resolution:** The session closes when both parties to the original obligation have entered, each in their own hand, that the distance between them has not been crossed — and the reading falls below 25%. One signature closes nothing here, however senior the signatory.
 

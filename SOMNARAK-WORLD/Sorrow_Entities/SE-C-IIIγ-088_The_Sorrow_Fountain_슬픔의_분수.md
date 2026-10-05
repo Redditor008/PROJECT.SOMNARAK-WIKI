@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Sorrow Fountain by the absent reflection, the living moss, and the smell of rain on old cloth; never by the atmosphere, which is the pleasantest in Zone D and tells an observer nothing, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Twelve turns, Viderehan and Ferrehan only, worked from the stone rim and never from inside the basin. The pool is not drained, decanted, sampled beyond the authorised residue draw, or diverted. The damp boundary and the moss line are both marked before the cycle opens and again when it closes.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Share the burden through witness; do not drain the pool**.
 

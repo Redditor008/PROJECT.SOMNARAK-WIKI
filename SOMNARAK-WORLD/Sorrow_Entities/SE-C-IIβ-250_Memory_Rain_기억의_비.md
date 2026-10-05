@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Memory Rain is confirmed by the clear sky and by the contents of the beads. The Gardens hold several memory-bearing records; this is the one that comes down out of nothing and is gone in an hour. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** There is no clash. The fall continues at its own rate, the team works beneath it under the time limit, and the only decisions available are how long to stay and whether anybody is to be called out early.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Collect drops carefully and provide identity anchors**.
 

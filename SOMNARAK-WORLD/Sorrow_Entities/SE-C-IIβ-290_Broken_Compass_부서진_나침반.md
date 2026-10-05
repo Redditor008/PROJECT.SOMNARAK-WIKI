@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (a tarnished brass case, cracked and warm at the crack while the metal around it is bloodless-cold, with a needle that has not settled in centuries and a face bearing no markings at all) and Broken Compass is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Nobody holds it. Viderehan is a timed revolution count from the cradle; Ferrehan is sitting with a spinning instrument for the interval and not picking it up. Holding the compass alters the figure, which is the first paragraph of the method and the reason for the cradle.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A broken compass whose needle spins without settling. Its casing is cracked and warm. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a device (internal parts may move). Recorded at every Broken Compass cycle against the previous reading. |
 | **Material / signature** | Void. Tarnished brass, clouded glass, an unmarked face, cold metal with a warm crack, and ash. |
 | **Distinctive markers** | A needle that never rests, a face with no markings to rest against, and warmth at the crack that no instrument accounts for. |
 | **Identification** | If the needle has stopped, it is not this holding and you should not be near whatever it is. |
@@ -261,7 +261,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Broken Compass' sorrow within the equipment may activate. and may produce an effect tied to Broken Compass' element. The Stigma is Broken Compass' prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+A piece cut from Broken Compass is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small, nameless memories with each use, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

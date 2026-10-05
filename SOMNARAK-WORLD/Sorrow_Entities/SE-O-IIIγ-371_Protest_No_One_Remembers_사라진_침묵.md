@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Protest No One Remembers by the radius, since there is nothing else to identify. Approach until ordinary sound thins, mark where it stops, and confirm the upright voice-like proportions of the quiet space at the centre; several things in Zone D suppress sound, and only this one is shaped like somebody about to speak, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Twenty turns in the Commons, all four Work Types available, conducted under the knowledge that nothing said during the engagement will be audible to anyone more than a few paces off. Teams work with pre-agreed hand signals and a written running sheet, and the running sheet is the engagement record, since no one outside the radius can hear enough to keep one.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Record the absence without inventing its content**.
 
@@ -227,7 +227,7 @@ The reversed blade design allows for powerful downward hooking strikes and sweep
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Protest No One Remembers' element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+A piece cut from Protest No One Remembers is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small memories with each use, and specifically spoken ones: what was agreed in a conversation, who said which part of it, whether they objected at the time, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (blank oval faces in cracked oil, four exceptions among them, a hum in the boards, and your own voice arriving from a position you are not in) and Whispering Gallery is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** There is no clash. The team walks the hall end to end, reads the contact gauge, counts voices against the standing list of 212, and leaves; the session fails if anybody answers a voice, and it fails more seriously if anybody writes down who they think it was.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Restore names and listen without replacing missing details**.
 
@@ -233,7 +233,7 @@ The escalation pattern is specific to Whispering Gallery: it is not a generic co
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Whispering Gallery's sorrow within the equipment may activate. and may produce an effect tied to Whispering Gallery's element. The Stigma is Whispering Gallery's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Whispering Gallery and carries what Whispering Gallery carries: the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Black River by a tone felt in the teeth and not in the ear, a line that comes up cold and dry, and a depth greater than the instrument lowered to find it, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** From the bank, on a line, double-escorted. Viderehan reads the tone and the depth; Ferrehan is holding position at open water for the stated interval. No work type has ever returned a clean report from within arm's reach of the water and none is authorised.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Impossible. Access is sealed and the River is monitored**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A vast underground river of black liquid sorrow. It flows beneath the city like blood through veins. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Mobile — flows or falls. The Black River file carries the series rather than a single reading. |
 | **Material / signature** | Weight. Black, dense, lead-cold, wet stone, and a tone felt through bone at the listening bell. |
 | **Distinctive markers** | No reflection, no bank, no bottom within the line's reach, and a temperature that does not change with the season. |
 | **Identification** | If the line comes up dry and cold from water you can hear, you are at the River and you should be on the gantry. |
@@ -240,7 +240,7 @@ The escalation pattern is specific to Black River: it is not a generic containme
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Black River's element. No protocol produces Stigmas. They emerge from Black River's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+A piece cut from Black River is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder feels progressively heavier; prolonged use ages them slightly, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

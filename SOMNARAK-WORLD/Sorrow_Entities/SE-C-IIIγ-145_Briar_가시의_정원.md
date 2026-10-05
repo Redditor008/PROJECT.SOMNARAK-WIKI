@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Briar is recognised by the reach and the turning blooms; never by beauty, which is what the margin distance exists to protect — then the approach is set and the positions are taken.
 2. **Clash:** Fourteen turns, worked from the margin with taped straps and nothing carried loose. Movement is kept slow and deliberate throughout; the vines track motion, and a team that hurries is a team that gets held.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge the injury; do not cut the flowers**.
 
@@ -264,7 +264,7 @@ The sharp metallic thorns prick the forehead upon activation, channeling a stead
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Briar's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Each piece extends Briar rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wearer experiences continuous minor prickling against their ribs and shoulders — arrives early and does not reverse on return.
 
 ### Field Use Record
 
@@ -294,7 +294,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Briar as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-D-02, near Echo Gardens. |
 | **Sustained observation** | The four bearings with the tape, the paired bloom count entered as a range, the position of the paths, and whether anybody inside the margin has begun speaking about an old grievance unprompted. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The trigger on file: New injustice or unacknowledged rage. Log the time, the witnesses, and the condition of the holding before and after. |
 | **Post-contact review** | Reach before and after, both counts with both names, every bloom that appeared without a matching incident in the district record, and the irritability screening for everybody who entered the margin. |
 
 **Observation method:** Observe from the margin, with the tape and the tally, and count in pairs who do not confer. Record the first movement against the wind, the first bloom to turn, the reach at the start and the end, and the condition that ended the watch. The form here is the sorrow and not the intention: a memorial that has grown thorns is what mourning becomes in a district where mourning never once stopped the thing being mourned.

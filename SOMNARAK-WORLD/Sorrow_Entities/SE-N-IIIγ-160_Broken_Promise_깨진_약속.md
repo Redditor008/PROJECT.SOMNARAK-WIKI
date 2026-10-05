@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Broken Promise is recognised by the rearranging fragments and the fever-cold surface; the other red-crystal objects on the Row are inert and warm to the hand — then the approach is set and the positions are taken.
 2. **Clash:** Four turns, observation and endurance only. Nothing is said aloud that could be construed as an undertaking, and the team lead holds the single sheet on which the session's management condition is written.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 

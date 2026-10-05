@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Soaking Shard is confirmed by the wet. A blue shard standing in its own fluid inside a vault reading dry is this holding and no other. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Nothing is exchanged. The crew holds position in a wet chamber while the shard does what it does, and the live decisions are the rotation clock and the moment a worker is sent out.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 

@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Beating Relic is recognised by the independent beat, audible through the plinth before contact; the warmth exceeding the room; the brightening veins; and the rate rising with the handler's anger rather than with their exertion — then the approach is set and the positions are taken.
 2. **Clash:** Four turns from the plinth, observation and endurance only. Handler rate is read aloud by the second Warden at each turn, and the relic's own tempo is counted separately and by somebody who is not holding it.
 3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the grievance acknowledged in a form that can be put in front of it. Nothing else has ever lowered the tempo for longer than a cycle.
 

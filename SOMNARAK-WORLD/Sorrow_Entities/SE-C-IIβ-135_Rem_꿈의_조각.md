@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Rem is recognised by a shard of something at chest height that will not hold a shape — a room, a face, a warm tear in the air — never fully solid, never absent, and different for whoever is looking — then the approach is set and the positions are taken.
 2. **Clash:** Viderehan and Ferrehan only, one Warden at a time, each writing down what they saw before any of them speaks. Conferring before the sheets are in is the single disciplinary offence this holding records.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A half-solid shard that cycles through an interior, a face and a suspended tear, warm at a hand's distance and never still. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a body or drop of liquid. Recorded at every Rem cycle against the previous reading. |
 | **Material / signature** | Lament. Half-solid, salt-damp, cold rain with something just below waking under it, warm to within a hand's distance. |
 | **Distinctive markers** | Form seen, interval between forms, and the observer's name. The last is not optional. |
 | **Identification** | If two of you see the same thing, it is not this, or it is this and the watch should be halted. |
@@ -272,7 +272,7 @@ Tiny luminescent silver dream flecks drift inside the floating orb like falling 
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Rem's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Rem and carries what Rem carries: the wearer experiences occasional microsleep episodes while resting. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

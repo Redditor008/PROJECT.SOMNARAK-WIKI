@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (dark fruit in heavy clusters over ground that is permanently wet and crimson, air sweet and burned together, and a set of orchard rows still visible beneath the pool) and Harvest Beyond the Gate is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Viderehan or Ferrehan from the path, upwind where the wind allows it. Nobody enters the crimson ground, nobody picks, and the frontage is paced before the cycle and again after.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Let the fruit decay naturally; do not promise return**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | An orchard standing in its own melt: dark clusters above, crimson ground below, the old row spacing visible through both. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a place or zone; spreads rather than moves. The Harvest Beyond the Gate file carries the series rather than a single reading. |
 | **Material / signature** | Grudge. Overripe sugar and char at once, fever-warm ground, a surface that never sets and never soaks away. |
 | **Distinctive markers** | Frontage in paces, fruit set and fruit lost, and whether the smell is present. |
 | **Identification** | If anything can be picked and kept, you are not at this holding. |
@@ -240,7 +240,7 @@ The congealed tallow insulates the blade against electrical discharge while soft
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Harvest Beyond the Gate and carries what Harvest Beyond the Gate carries: the wielder's old wounds ache; prolonged use leaves faint bruising. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

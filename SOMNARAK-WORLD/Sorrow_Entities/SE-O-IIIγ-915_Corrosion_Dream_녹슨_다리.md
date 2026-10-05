@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Corrosion Dream by the song and the proportions, not by the shape, which changes between appearances. The song is heard only by personnel who have themselves crossed a boundary that broke behind them; most of the watch hears nothing, and the holding depends on the few who do, who are required to record that singing occurred and not what was sung, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The work is naming what was never built. Flerehan lowers the rusted hands and lowers the reading; Ferrehan is staying beside it while the distance is admitted rather than closed; Pugnahan turns the plates to edges and raises it. The one forbidden sentence is any promise that the crossing will be rebuilt, which the facility is not in a position to keep and has made twice.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not promise reunion; name both the crossing and the loss**.
 
@@ -222,7 +222,7 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Corrosion Dream's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Corrosion Dream and carries what Corrosion Dream carries: the wielder loses small, nameless memories, beginning with the names of places they intended to go and did not. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

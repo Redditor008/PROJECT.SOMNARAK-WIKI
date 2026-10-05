@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Debt-Collector's-Lantern is confirmed by the cold light and the floor mark; the Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Four turns at the mount, observation and endurance only. No one carries it, no one tilts it, and the radius is measured at the start and the end of every turn.
 3. **Resolution (Debt-Collector's-Lantern):** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 

@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (read the scale on the wall, not the glass. The rise is the only measurement this holding has ever produced, and a worker's impression of how high it looks has disagreed with the scale in roughly a third of logged watches) and Mirror of Rising is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Viderehan and Ferrehan lower the gauge, Flerehan holds it level, Pugnahan raises it and is prohibited. The reading is the rise: the height in metres of the glass's lower edge above the floor at the eighteen-hundred measurement, read off a scale painted on the wall behind it. Baseline 0.4 m. Floor zero, ceiling 2.6 m.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name what is known without inventing the missing parts**.
 

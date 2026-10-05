@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the reflectionless water, the uphill run and the sound beneath; Desolate groundwater has a reflection, runs downhill, and is silent) and Spreading Well is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Four turns on the stake line, observation and endurance only. No channel is dammed, diverted or stepped in, and the ends reached since the last session are listed before anything else is done.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge each linked site; do not dam the channels**.
 
@@ -259,7 +259,7 @@ Escalation here is reach. Record the stake line, every new channel end with what
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+Each piece extends Spreading Well rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping — arrives early and does not reverse on return.
 
 ### Field Use Record
 

@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Redcage is recognised by the absence of a door and by the dated marks cut into the floor around it; never by size, which is different from the last time anybody looked — then the approach is set and the positions are taken.
 2. **Clash:** Twelve turns, Viderehan and Ferrehan only, worked from outside the bars with gloves on. Nobody reaches between the bars, nobody attempts to open what has no door, and nobody argues with it — the gauge rises on resistance of any kind, including verbal.
 3. **Resolution:** Containment, management, retreat, or the documented condition: **the injustice is acknowledged aloud, in specific terms, by someone who had no part in it, and the gauge falls below 25%**.
 

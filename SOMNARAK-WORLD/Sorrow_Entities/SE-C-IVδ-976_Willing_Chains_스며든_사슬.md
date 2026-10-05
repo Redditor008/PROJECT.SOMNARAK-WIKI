@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Willing Chains is recognised by the stillness and the slack. A motionless burning figure with chains lying unfastened across every surface is this holding and no other — then the approach is set and the positions are taken.
 2. **Clash:** The figure does nothing. The chains do the work, the crew holds the mapped standoff, and the only live decision is whether a worker who has started to find the room comfortable is sent out.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not cut blindly; identify what each chain represents**.
 

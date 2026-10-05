@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Patina is recognised by the vegetation line is the earliest indicator and dies back weeks ahead of a mass increase. It was first reported by a member of one of the border families, who is credited by name in the protocol — then the approach is set and the positions are taken.
 2. **Clash:** Work is done from the margin monuments and never from inside the affected ground. Viderehan reads the rust and the vegetation line; Ferrehan holds the line briefly and heavily, and the worker is screened on the way out.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge the original conflict without assigning it to the living**.
 
@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A rusted mass embedded in border ground, shaped like a weight attached to an invisible chain. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a discrete object. Posture and distance are logged because on Patina neither has ever been assumed. |
 | **Material / signature** | Grudge. Orange rust bleeding into the soil, wet iron and char, fever-cold to the hand and lead-heavy to the instrument. |
 | **Distinctive markers** | Subsidence against the monuments, the rust front through non-corroding markers, and the vegetation line, which dies back weeks before the mass increases. |
 | **Identification** | If the vegetation line is intact, the reading you are about to take is a baseline and not an incident. |
@@ -264,7 +264,7 @@ The escalation pattern is specific to Patina: it is not a generic containment ev
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+A piece cut from Patina is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder's old wounds ache; prolonged use leaves faint bruising, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

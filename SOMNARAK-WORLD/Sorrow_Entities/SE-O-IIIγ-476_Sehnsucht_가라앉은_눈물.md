@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Sehnsucht by the glow and the sinking. Several buried records are catalogued near The Scar; this is the tear-shaped one that is visible as light through the soil and that goes down whenever a hand goes toward it, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Nothing is dug and nothing is touched. Viderehan reads the event under the forgotten grief and holds the depth steady; Ferrehan requires the worker to sit beside buried sorrow for the length of the session without trying to bring it up. A trowel on the inventory list is grounds for standing the team down.
 3. **Resolution:** The session closes when the object is nearer the surface than it was and the reading is below 25%. It rises for honest mourning that names no cause, and nothing else has ever raised it; a session that produced an explanation has not closed, whatever the explanation was.
 

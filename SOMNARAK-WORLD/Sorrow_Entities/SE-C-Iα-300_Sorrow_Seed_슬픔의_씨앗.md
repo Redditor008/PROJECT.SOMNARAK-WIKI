@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Sorrow Seed is recognised by a fist-sized dark crystal with a split shell and one thick warm tendril, lying on bare soil, with a chalked bearing line and a day's crawl measured off it in centimetres. If it is not on bare soil, or there is no chalk line, it is not this holding and the chamber has been entered improperly — then the approach is set and the positions are taken.
 2. **Clash:** The watch does not act on the Seed and cannot. The session is a measurement: the overnight crawl in centimetres, the bearing in degrees off the chamber's north mark, and the name of the roster the bearing points at. Work Types are performed to hold the observers steady while they take it, not to change anything in the bed.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
@@ -274,7 +274,7 @@ There is no escalation pattern and the room has stopped pretending to one. There
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Sorrow Seed's element. No protocol produces Stigmas. They emerge from Sorrow Seed's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+These pieces are Sorrow Seed in miniature. What they give is listed above; what they take is the wielder feels progressively heavier; prolonged use ages them slightly, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

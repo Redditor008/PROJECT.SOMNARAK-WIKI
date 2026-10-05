@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Pent by the gap in the sound, taken from the marked point, together with the inward lean of the surrounding structures. The Old Lament is full of quiet ground; this is the parcel where something audible is missing rather than merely absent, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Twenty-four turns, Viderehan and Ferrehan only, worked in relays against the exposure cap rather than in a single sustained engagement. No member of the team exhales audibly inside the boundary and nobody speaks toward the absence, which is a δ-grade engagement conducted under a rule about breathing and is as awkward in practice as it reads.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Permit rest and acknowledge exhaustion as real**.
 
@@ -240,7 +240,7 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design it charges immediately and personally, and the sorrow carried in it can wake — which on this set presents as a wielder who cannot put anything down at the end of a shift. No protocol produces a Stigma; it comes from the source at the source's disposition or not at all.
+A piece cut from Pent is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder's old injuries ache and prolonged use leaves faint bruising across the ribs and diaphragm, where a held breath sits, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

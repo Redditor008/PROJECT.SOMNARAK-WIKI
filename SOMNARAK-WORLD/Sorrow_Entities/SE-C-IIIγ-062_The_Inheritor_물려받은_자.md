@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — The Inheritor is recognised by him by the closed hands and the heat; the pacing is the better indicator of state but tells you nothing about which Triplet you are looking at — then the approach is set and the positions are taken.
 2. **Clash:** Nine turns, standing, with the unfairness stated in the opening line and not repeated. Pugnahan is answered in kind and raises the gauge for days; Flerehan and Ferrehan are the authorised approaches.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Validate the resentment; do not call it ingratitude**.
 
@@ -229,7 +229,7 @@ The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Gr
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and The Inheritor's sorrow within the equipment may activate. and may produce an effect tied to The Inheritor's element. The Stigma is The Inheritor's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+These pieces are The Inheritor in miniature. What they give is listed above; what they take is the wielder's old wounds ache; prolonged use leaves deep bruising and stirs unspoken resentment until acknowledged by an ally, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the outline. Several things in the Market margin are crystalline and red; this is the one whose shape is a floor plan, accurate to the door aperture, of a building that is not there) and Conservatory is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Viderehan and Ferrehan are worked from the permitted path across a long engagement, with the heat margin monitored throughout. Nothing is brought into the radius that resembles any part of the house, and nothing is said inside it about the house that the survey cannot support.
 3. **Resolution:** The cycle closes when the gauge falls below 25% and the survey entries for that watch have been checked against the standing architectural record — which on this holding means the team measured a house that is not there and confirmed that the file still describes it correctly.
 
@@ -266,7 +266,7 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Conservatory's sorrow within the equipment may activate. and may produce an effect tied to Conservatory's element. The Stigma is Conservatory's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+A piece cut from Conservatory is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also report their own homes feeling provisional, as though lent to them, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

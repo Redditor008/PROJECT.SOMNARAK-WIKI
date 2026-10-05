@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Clapperless is recognised by the quiet-field radius against the last reading, not by the bell. The bell is identical at six tenths of a metre and at twenty-six, and three early reports describe an unchanged holding on days the fork walk differed by eleven metres — then the approach is set and the positions are taken.
 2. **Clash:** Viderehan and Ferrehan only. The reading is taken with a reference fork struck at the plinth and carried outward until it stops being audible; the distance is the quiet-field radius. Four point two metres is baseline. The recorded range is six tenths of a metre to twenty-six.
 3. **Resolution:** Second radius, rim-vibration log, and the session closes. No suppression condition is recorded and none is to be invented; the bell has never rung and the containment does not attempt to make it.
 

@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Absent Landmark is confirmed by the windows. It is a tower-shaped figure standing in the ground as though it sank upright, ringed with windows that have no rooms behind them, and a faint light climbs from the buried floors. The height varies between observations; the window pattern does not and is the reliable marker. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** The work is naming the corner. Flerehan stops the sinking and raises it in the ground; Ferrehan is standing in front of the gap without filling it; Pugnahan drives it down and is the one approach that has ever cost height. Nobody climbs it. Four attempts, four sinkings, and the lowest reading on record followed the last.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Record its former location; do not attempt to rebuild it around the entity**.
 
@@ -228,7 +228,7 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+These pieces are Absent Landmark in miniature. What they give is listed above; what they take is the wielder loses small, nameless memories, beginning with the routes they used to walk without thinking, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

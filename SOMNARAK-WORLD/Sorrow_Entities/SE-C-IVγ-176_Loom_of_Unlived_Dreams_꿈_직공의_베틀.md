@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (a loom of pale crystallised Dream-stuff, cold and salt-damp, cold rain on the air, with the shuttle crossing to no hand and a painted line on the floor between the frame and the weave) and Loom of Unlived Dreams is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Dream Weaver’s Loom's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution (The Dream Weaver’s Loom):** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A massive loom made from crystallized Dream-stuff. Its threads weave without a visible operator. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a device (internal parts may move). Posture and distance are logged because on Loom of Unlived Dreams neither has ever been assumed. |
 | **Material / signature** | Lament. Pale crystal, salt-damp cold, cold rain on the air, and the sound of a shuttle crossing with nothing behind it. |
 | **Distinctive markers** | Finished length on the beam, shuttle rate, radius edge, and whether any worker has described themselves as feeling well. |
 | **Identification** | Watch the shuttle for a minute. Nothing else in the wing runs with no hand on it and no power to it. |
@@ -264,7 +264,7 @@ The escalation pattern is specific to Loom of Unlived Dreams: it is not a generi
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Loom of Unlived Dreams' sorrow within the equipment may activate. and may produce an effect tied to Loom of Unlived Dreams' element. The Stigma is Loom of Unlived Dreams' prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+A piece cut from Loom of Unlived Dreams is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

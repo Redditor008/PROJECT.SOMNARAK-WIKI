@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The Vanished Rope is confirmed by the two cut ends. Several rope and chain forms are catalogued; this is the one severed at both ends, burning without ash, holding one end out. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** The figure reaches, and the entire session turns on what the team does with the offered end. Flerehan is answered with recognition and Ferrehan with a test of whether the worker can hold on without pulling; both lower the gauge. Pugnahan makes it burn harder and recoil. Nobody is to be tied.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name what was lost; do not attempt to recreate the bond**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A burning humanoid figure with rope-like limbs that fade in and out of visibility. The rope appears severed at both ends. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every The Vanished Rope cycle against the previous reading. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Identify it by the two cut ends. Several rope and chain forms are catalogued; this is the one severed at both ends, burning without ash, holding one end out. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins. Several records in this archive are ropes; they are handled in opposite ways, and the wrong one in mind puts a worker in the chamber ready to secure something that must only be held. |

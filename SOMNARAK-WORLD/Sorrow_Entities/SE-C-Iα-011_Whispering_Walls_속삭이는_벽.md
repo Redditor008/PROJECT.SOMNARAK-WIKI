@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the site by the wall run and the boundary map; there is no object here to recognise and the murals continue into districts that do not whisper) and Whispering Walls is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Four turns, worked at night in the mapped corridor, out of earshot of occupied rooms. Nothing is scraped, washed, or replastered at any point.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **No physical containment; listening and acknowledgment prevent escalation**.
 
@@ -243,7 +243,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Whispering Walls' sorrow within the equipment may activate. and may produce an effect tied to Whispering Walls' element. The Stigma is Whispering Walls' prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+A piece cut from Whispering Walls is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

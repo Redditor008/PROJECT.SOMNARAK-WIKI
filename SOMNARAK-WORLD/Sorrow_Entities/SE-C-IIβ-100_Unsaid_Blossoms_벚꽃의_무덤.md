@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (a single marked grave under a living cherry whose blossoms are pale crystal, salt-cold, falling in still air and never rotting; a chalked marker ring for the heavy-air boundary; a locked store. If blossoms are being opened, read, or carried off the site, the holding is being mishandled and the count is stopped) and Unsaid Blossoms is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** There is no clash and the standing order's first line forbids treating the site as though there could be: this is a burial place before it is a containment. What the party does is count the day's fall, blossom by blossom, into the store without reading a single one, and hold the count against the quarter's traffic return from the operational net.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Speak honestly at the grave; do not remove blossoms**.
 

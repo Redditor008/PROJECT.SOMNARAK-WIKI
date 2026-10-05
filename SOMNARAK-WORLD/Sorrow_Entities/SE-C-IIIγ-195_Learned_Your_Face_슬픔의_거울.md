@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the frame and the bay marks; never by looking at the surface to check, which is the one identification method this holding charges for) and Learned Your Face is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Fourteen turns, worked from the floor marks with the team's backs to the glass and one nominated channeller facing it. Nobody else looks, for any reason, including to confirm what the channeller reports.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
@@ -264,7 +264,7 @@ Escalation here is range and clarity, not force. Record the trigger, the first c
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Learned Your Face's sorrow within the equipment may activate. and may produce an effect tied to Learned Your Face's element. The Stigma is Learned Your Face's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+These pieces are Learned Your Face in miniature. What they give is listed above; what they take is the wielder loses small, nameless memories with each use, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

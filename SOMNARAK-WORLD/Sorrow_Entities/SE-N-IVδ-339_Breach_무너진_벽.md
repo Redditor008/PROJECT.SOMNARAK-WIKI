@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Breach by there is nothing to see. Identify it by the sequence: the sensation of being watched for several minutes with nothing present, then the loss of the feeling that anything is holding. Several Gardens records are invisible; this is the one that arrives as a lean in the mind, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** There is nothing in the room; the wall is inside the worker. Flerehan widens the cracks gently and lowers the reading; Ferrehan requires the worker to keep working after the sense of safety has gone, which is the whole of the duty. Pugnahan collapses it into their thoughts and is logged as a failure, not an option.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish realistic anchors; do not promise perfect safety**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A wall-shaped presence inside consciousness, cracked and leaning. It appears as a collapsing boundary between one thought and the next. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Stationary — a place or zone; spreads rather than moves. The Breach file carries the series rather than a single reading. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | There is nothing to see. Identify it by the sequence: the sensation of being watched for several minutes with nothing present, then the loss of the feeling that anything is holding. Several Gardens records are invisible; this is the one that arrives as a lean in the mind. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; more than one Gardens record concerns a protection that failed, and this is the one that worsens on being promised it will not happen again. |
@@ -228,7 +228,7 @@ The pike's length holds large sorrow entities at bay outside claw reach. The tat
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Breach's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+These pieces are Breach in miniature. What they give is listed above; what they take is the wielder carries its unwept grief and weeps involuntarily, most often while signing a safety certificate, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

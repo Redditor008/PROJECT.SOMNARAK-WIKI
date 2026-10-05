@@ -265,7 +265,7 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Life Behind Glass' element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each piece extends Life Behind Glass rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder stops moving. Operatives have been recovered mid-engagement watching their own prism turn, uninjured, with no account of the intervening minutes beyond saying that the colours had not finished — arrives early and does not reverse on return.
 
 ### Field Use Record
 

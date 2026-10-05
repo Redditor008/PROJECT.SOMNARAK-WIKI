@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The Masked Dancer is confirmed by the step sequence and the crack, not by the mask; the Mask Market contains a great many smiling masks and two of them are on other holdings. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Five turns, worked from the rail. Nobody steps onto the floor, nobody keeps time, and the transcriber works from the fixed camera rather than from the room.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Match its rhythm and share the performance; do not command it to stop**.
 
@@ -243,7 +243,7 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to The Masked Dancer's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+A piece cut from The Masked Dancer is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder's old wounds ache; prolonged use leaves faint bruising, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

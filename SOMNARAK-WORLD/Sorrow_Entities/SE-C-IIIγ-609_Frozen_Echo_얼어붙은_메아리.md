@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Frozen Echo is recognised by the imprints and the temperature differential; never by weight alone, which changes slightly every time somebody touches it — then the approach is set and the positions are taken.
 2. **Clash:** Fourteen turns, worked at the field edge. Only the nominated handler touches it, once, in fresh gloves, with the clock held by somebody else; no turn is repeated by a second person to confirm it.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
@@ -259,7 +259,7 @@ Escalation here is the field edge and the pronoun, not force. Record the trigger
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Frozen Echo's sorrow within the equipment may activate. and may produce an effect tied to Frozen Echo's element. The Stigma is Frozen Echo's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Frozen Echo and carries what Frozen Echo carries: the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

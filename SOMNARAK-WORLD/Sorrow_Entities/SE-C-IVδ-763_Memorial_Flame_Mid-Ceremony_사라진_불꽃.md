@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Memorial Flame Mid-Ceremony is confirmed by the inversion of heat. A warm room with a cold corridor outside it, a dark shape where a fire should be, and no light: that is this holding and no other. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Nothing is exchanged and nothing is said. The worker stands in a warm room with a cold shape in it while the rite holds where it holds, and the only live decision is the clock.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Complete the memorial without attempting to recreate the original flame**.
 

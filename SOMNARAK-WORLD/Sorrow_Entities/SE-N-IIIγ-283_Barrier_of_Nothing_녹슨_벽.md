@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the rusted plate and the transit line, not by posture; the plates carry marks that look like a record and personnel are instructed not to read them) and Barrier of Nothing is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Flerehan and Ferrehan from the transit line. Pugnahan hardens the plates and narrows the dream-space around whoever is sleeping on the holding that night, which is why it is logged as an increase and why the Warden carries the halberd and does not use it. One test of the barrier per session, recorded with the tester's name.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name both sides of the separation; do not choose a false neutrality**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A dreamlike humanoid formed from rusted wall plates. It appears beside the Exile's Gate and blocks no physical passage. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every Barrier of Nothing cycle against the previous reading. |
 | **Material / signature** | Weight. Rusted plate, bleeding orange, lead-cold; wet iron and char. No sound at any range. |
 | **Distinctive markers** | The accumulating marks on the plates and the fact that people walk through where it is standing. |
 | **Identification** | Subject-Dream, not a structure. If it is not standing in the shape of a man, it is one of the other wall files. |

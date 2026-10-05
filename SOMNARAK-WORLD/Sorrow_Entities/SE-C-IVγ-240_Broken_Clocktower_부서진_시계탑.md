@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Broken Clocktower is recognised by the drift on a carried timepiece and by a bell chamber that is inspected through a port and never opened. Emotional impression is unreliable: observers consistently misjudge how long they have been inside — then the approach is set and the positions are taken.
 2. **Clash:** Viderehan and Ferrehan only, watch timed to the facility clock, sealed timepiece carried and surrendered on exit. One instruction, given once. The second instruction — issued because the first appeared to have been ignored — is the cause of every incident on this file.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Accept that the moment cannot be changed; limit exposure**.
 
@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A broken tower with a clock frozen at 3:47. Its gears turn without moving the hands. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a device (internal parts may move). Recorded at every Broken Clocktower cycle against the previous reading. |
 | **Material / signature** | Weight. Cold stone, corroded metal, lead-heavy, wet stone; the gear train is audible from the stair and runs continuously. |
 | **Distinctive markers** | Hands at 3:47, gears turning behind them, a sealed bell chamber with an inspection port, and a numbered row of retired timepieces on the bench downstairs. |
 | **Identification** | Three time-holdings are worked in this Directorate and only this one has an open inquiry attached to it. Check the file reference, not the clock face. |
@@ -261,7 +261,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Broken Clocktower's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+These pieces are Broken Clocktower in miniature. What they give is listed above; what they take is the wielder feels progressively heavier; prolonged use ages them slightly, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

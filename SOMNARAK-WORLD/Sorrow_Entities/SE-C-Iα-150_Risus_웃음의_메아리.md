@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Risus is recognised by the turn. Several ambient records are catalogued in Zone D; this is the one that arrives as laughter and becomes grief without changing volume, and instruments register no vibration at any point — then the approach is set and the positions are taken.
 2. **Clash:** The team works inside the sound rather than toward it. Viderehan shows the people and the moment the laughter came from and holds the reading steady. Ferrehan keeps the laughter going around the worker until they can hear the sadness inside it, which takes between forty minutes and two hours and cannot be hurried.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Let the laughter and grief coexist; do not suppress the sound**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A sound rather than a body: distant laughter that arrives warm, then becomes quietly sad. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Mobile — drifts or flows through the area. Recorded at every Risus cycle against the previous reading. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Identify it by the turn. Several ambient records are catalogued in Zone D; this is the one that arrives as laughter and becomes grief without changing volume, and instruments register no vibration at any point. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; Zone D holds more than one ambient record, and this is the one where locating the source is itself the error. |
@@ -238,7 +238,7 @@ The escalation pattern is specific to Risus: it is not a generic breach event. P
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Risus' element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each piece extends Risus rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder carries the Echo's unwept grief and weeps involuntarily, most often immediately after laughing — arrives early and does not reverse on return.
 
 ### Field Use Record
 
@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Risus as an Object/Place with Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone D, Mantle Commons — ambient. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | Shared laughter followed by unacknowledged loss. Everything else in this row is secondary to getting that one fact written down accurately. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Risus's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first sign, which is laughter at a distance that does not resolve as you approach; the first sensation, which is pleasure; the interval before the sound turns; every laugh contributed by the team; and the condition that ends the encounter, which is a worker hearing the grief inside the sound without needing it explained. Record the interval in minutes.

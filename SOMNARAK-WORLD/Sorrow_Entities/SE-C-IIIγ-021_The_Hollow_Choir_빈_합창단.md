@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — The Hollow Choir is recognised by the surfaces sounding and the mid-phrase breaks; the district has two choirs of ordinary singers and both finish their lines — then the approach is set and the positions are taken.
 2. **Clash:** Five turns, worked from the stage edge. Nobody sings a line the Choir has not sung first, nobody completes a broken phrase, and the group pattern is logged every turn.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Sing to it. Acknowledge the voices and give them a voice in return. Attempts to impose silence fail**.
 

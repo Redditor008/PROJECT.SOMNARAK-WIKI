@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Aphonia is recognised by the diagonal against the last reading, not by the figure. The figure is identical at six millimetres and at three hundred and ten, and five early reports describe an unchanged chamber on days the tape differed by a hand's width — then the approach is set and the positions are taken.
 2. **Clash:** The reading is the chamber diagonal, taken with a steel tape between two fixed brass studs and reported as millimetres short of the surveyed value — forty-one at baseline, six at the floor, three hundred and ten at the ceiling. It is not an acoustic measurement and cannot be. Four attempts at acoustic detection are in the folder, all negative, all retained.
 3. **Resolution:** Second diagonal, and the documented condition: **Say, “I hear you,” and remain present.** The words are not a formula and the Warden is not ordered to speak them. An order would make the answer a procedure, and the entity has never responded to a procedure.
 

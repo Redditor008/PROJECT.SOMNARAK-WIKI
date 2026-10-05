@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Mourning a Life I Never Lived is confirmed by what is missing. Several root forms are catalogued; this is the one that has never produced a plant, and the absence of a plant is the identifying feature rather than an incidental one. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Only two approaches exist and neither involves contact. Viderehan shows what was imagined and never formed, and holds the reading steady. Ferrehan asks the worker to accept that the thing shown did not exist — not that it was lost, that it was never there — and lowers it. The tendrils are not to be touched, cut, lifted, or rooted in anything.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not plant; distinguish possibility from memory**.
 
@@ -257,7 +257,7 @@ The broad crescent blade performs sweeping horizontal cuts that reap through cro
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Mourning a Life I Never Lived's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+These pieces are Mourning a Life I Never Lived in miniature. What they give is listed above; what they take is the wielder loses small nameless memories with each use, and does not notice the losses, which is why the usage log is countersigned, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 
@@ -287,7 +287,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Mourning a Life I Never Lived as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone A, Alpha Tree vault. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The trigger on file: Collective longing for an unrealized future. Log the time, the witnesses, and the condition of the holding before and after. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Mourning a Life I Never Lived's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first sign, which is the smell of ash in a vault that has never burned; the first sensation, which is the urge to mention something you have been meaning to do; the net's extent at entry and exit; every open intention voiced in the chamber; and the condition that ends the encounter, which is the absence being named as an absence. Note who named it.

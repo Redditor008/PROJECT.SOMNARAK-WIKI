@@ -260,7 +260,7 @@ The whispering mist murmurs forgotten names and navigational headings in dead to
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; used against its grain the cost arrives immediately and personally, and the sorrow carried in the piece can wake — which on this set presents as half-heard speech at the edge of hearing and the certainty that someone was about to say something. No protocol produces a Stigma. They emerge from the source's own disposition during a cycle, unbidden and unrepeatable.
+Each piece extends Broken Whisper rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder carries the grief of an appeal that was never heard. Prolonged use causes involuntary weeping, typically mid-sentence and typically while making a routine report — arrives early and does not reverse on return.
 
 ### Field Use Record
 

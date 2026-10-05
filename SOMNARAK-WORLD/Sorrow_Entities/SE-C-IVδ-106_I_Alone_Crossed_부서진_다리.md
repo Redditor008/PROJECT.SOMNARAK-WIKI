@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the account. A four-point gradient with no visible source and a spoken claim of having crossed alone is this holding and no other) and I Alone Crossed is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** The account is given and the crew takes it down word for word. The live risk is not the pressure but the crew's own agreement, and the timekeeper is watching for that rather than for the gauge.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the limits of one person's responsibility**.
 

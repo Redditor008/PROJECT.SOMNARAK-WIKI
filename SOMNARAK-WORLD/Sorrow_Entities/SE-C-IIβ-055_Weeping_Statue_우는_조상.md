@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Weeping Statue is recognised by pedestal, stain line and designation. The face is not a recognition marker and is excluded from the description on file — then the approach is set and the positions are taken.
 2. **Clash:** Four turns. Personnel sit within the pool's edge and do not speak; the entity continues exactly as before. Nothing in the record describes it responding to a party as a party rather than to the people in it.
 3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: **share the grief, and do not drain or break the tears**. A crew that leaves dry-eyed has not failed; a crew that drains the pool has.
 

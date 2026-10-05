@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Walking Calendar is confirmed by a bowed figure under fused slabs, calendars and city records, walking a straight line at the pace of an old man, singing years in order. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** The crew walks the long chamber alongside it at its own pace, takes the traverse tally and the date count, and does not argue with it about history, including when it is wrong.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Archive the truth; do not erase or excuse it**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A bowed figure of fused slabs, calendars and city records, ageing by a year per step. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Slow Walking — lead-heavy and slow; each step adds another year to its frame. Recorded at every Walking Calendar cycle against the previous reading. |
 | **Material / signature** | Weight. Wet stone and dust, a measurable load on the suit before the figure is in view, and a voice like stone on stone. |
 | **Distinctive markers** | Traverse tally, distinct dates in the song, suit load at the door, and whether any date in the session has been heard before. |
 | **Identification** | Take three dates from the song and check them against the civil record outside. If none of them is real, this is not the Calendar. |
@@ -226,7 +226,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Walking Calendar's sorrow within the equipment may activate. and may produce an effect tied to Walking Calendar's element. The Stigma is Walking Calendar's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Each piece extends Walking Calendar rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder feels progressively heavier; prolonged use ages them slightly — arrives early and does not reverse on return.
 
 ### Field Use Record
 

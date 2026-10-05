@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Vanity Asleep is recognised by the template displacement and the sleeping posture, not by the reflection; the reflection is only ever available to somebody who has already turned away — then the approach is set and the positions are taken.
 2. **Clash:** Flerehan and Ferrehan from the template line, with the mirror at the observer's back for the walk out. Pugnahan is not applied: it fractures the surface into hostile versions of the worker and the gauge stays up for the remainder of the cycle. Nobody attempts to catch the reflection directly; nobody ever has.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not wake it by force; look at the reflected self without turning away**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A sleeping, mirror-like figure whose surface reflects the viewer's face only after the viewer has looked away. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Stationary — a discrete object. Recorded at every Vanity Asleep cycle against the previous reading. |
 | **Material / signature** | Void. Bloodless-cold, ash; a surface that holds no image of the room at all while you are facing it. |
 | **Distinctive markers** | The composed sleeping posture, the measured displacement against the template, and an empty surface that should be reflecting you. |
 | **Identification** | If the surface shows you anything while you are looking at it, you are not working this file. |

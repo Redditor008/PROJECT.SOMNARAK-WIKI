@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Unwitnessed is confirmed by the logged depth against the last recovery, not by the outline. The hollow looks identical at four millimetres and at a hundred and fifty-seven, and six early reports describe an unchanged site across weeks in which the logger recorded a hand's depth of movement. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** There is no clash and no team present. The reading is the depth of the hollow below the surveyed ground plane, in millimetres, taken by an unattended dial logger on a fixed tripod and recovered after seven days; the deepest value in the week is the reading. Twenty-three at baseline, four at the floor, one hundred and fifty-seven at the ceiling.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Mark the absence; do not excavate or plant into it**.
 

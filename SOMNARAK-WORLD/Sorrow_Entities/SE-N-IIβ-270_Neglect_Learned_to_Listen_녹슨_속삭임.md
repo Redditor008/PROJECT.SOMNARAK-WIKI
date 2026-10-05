@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Neglect Learned to Listen is confirmed by the traced extent against the last survey, not by the rust. The corrosion looks the same at eight square metres and at a hundred and ninety, and four early reports describe an unchanged patch on days the trace differed by thirty square metres. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Viderehan and Ferrehan only. The extent is traced onto the fixed panel survey — thirty-one square metres at baseline, eight at the floor, one hundred and ninety at the ceiling — and the trace is made during the session, on the panels, not reconstructed from the photographs afterwards.
 3. **Resolution:** Second trace and the documented condition: **Preserve and acknowledge what was discarded; do not simply remove the rust.** Removal has been tried. The ward's maintenance crews established before the facility was involved that cleaning increases both the weight and the extent, recorded it accurately, reported it upward, and were instructed to carry on cleaning for a further eleven months.
 

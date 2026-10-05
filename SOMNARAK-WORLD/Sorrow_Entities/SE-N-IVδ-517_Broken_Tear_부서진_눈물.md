@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Broken Tear is confirmed by the face, which cannot hold an arrangement, and by the sound, which is a lament in a style no living practice uses. The vault holds other dream-manifestations; this is the one that is always about to run and never does. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Twenty-four turns inside the dream layer, all four Work Types available, worked by a single entrant with the rest of the team holding the vault outside. Nothing is said to the figure that the speaker does not mean, and nothing is promised. The engagement is not interrupted and not hurried; the entrant remains until the turn count is served or the layer closes.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not interrupt or promise relief; remain present**.
 
@@ -223,7 +223,7 @@ The prism sheds continuous streams of luminous blue tears that dissolve before t
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design it charges immediately and personally, and the sorrow carried in it can wake — which on this set presents as a grief that belongs to someone the wielder never met. No protocol produces a Stigma; it comes from the source at the source's disposition or not at all.
+Every piece in this set is a fragment of Broken Tear and carries what Broken Tear carries: the wielder carries the entity's unfinished grief and weeps without cause, more often the longer the piece is held, and never with any sense of release afterward. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

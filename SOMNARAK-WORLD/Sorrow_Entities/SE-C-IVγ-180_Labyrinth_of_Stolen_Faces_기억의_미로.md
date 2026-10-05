@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Labyrinth of Stolen Faces is confirmed by the walls. Several structures are catalogued beneath Old Lament; this is the one whose walls are translucent, hold faces, and move when somebody remembers something. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** The work is navigation. Viderehan reads the memory architecture from a fixed position and holds the reading steady; Ferrehan requires the worker to keep moving without a map that stays true between corridors. The rule that governs both is that the route is taken from the written anchor and never from recollection.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Maintain a memory anchor and limit exploration time**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a place or zone; spreads rather than moves. Recorded at every Labyrinth of Stolen Faces cycle against the previous reading. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Identify it by the walls. Several structures are catalogued beneath Old Lament; this is the one whose walls are translucent, hold faces, and move when somebody remembers something. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; the undercroft holds more than one record that stores memory, and this is the one that must never be navigated from recall. |
@@ -238,7 +238,7 @@ The escalation pattern is specific to Labyrinth of Stolen Faces: it is not a gen
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Labyrinth of Stolen Faces' element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+A piece cut from Labyrinth of Stolen Faces is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small nameless memories with each use and cannot report the loss, since what is gone leaves no outline, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 
@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Labyrinth of Stolen Faces as an Object/Place with Place-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-B-02, beneath Old Lament. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | New forgotten memories entering the Maze. Everything else in this row is secondary to getting that one fact written down accurately. |
 | **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Labyrinth of Stolen Faces's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first sign, which is ash-smell at the entrance; the first sensation, which is recognition of a corridor you have not walked; the corridor count at entry, turnaround and exit; every memory spoken inside; and the condition that ends the encounter, which is the team returning to the anchor point on the written route within the time limit. Record the time limit and whether it was kept.

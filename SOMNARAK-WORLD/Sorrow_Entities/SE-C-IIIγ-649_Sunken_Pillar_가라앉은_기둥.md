@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the carving-shaped absences; position cannot be used, since the position is different every time anybody looks) and Sunken Pillar is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Seven turns, worked from the survey line at twenty metres. Nothing is dug, nothing is probed, and the exposed face is photographed before the first turn and after the last.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Distinguish possibility from memory; do not excavate**.
 
@@ -233,7 +233,7 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Sunken Pillar's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Sunken Pillar and carries what Sunken Pillar carries: the wielder loses small, nameless memories with each use. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

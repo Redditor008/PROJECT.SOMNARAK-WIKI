@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Rejector by him by the weight deficit and the posture; never by the refusal, which the other two Triplets can also produce under pressure, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Twelve turns, conducted seated, with no instruction given and no question repeated. The register-keeper writes in the room throughout. A turn in which anybody tells him to do anything is logged as void and the sequence restarts.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Permit him to refuse; forced acceptance increases resistance**.
 
@@ -224,7 +224,7 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and The Rejector's sorrow within the equipment may activate. and may produce an effect tied to The Rejector's element. The Stigma is The Rejector's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+A piece cut from The Rejector is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small, nameless memories with each use, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

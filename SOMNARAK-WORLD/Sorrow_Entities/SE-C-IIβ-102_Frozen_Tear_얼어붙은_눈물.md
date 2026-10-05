@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (a fist-sized tear of dark blue crystal, warm rather than cold, faintly lit, suspended and still, smelling of cold rain on old cloth) and Frozen Tear is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Nobody touches it. Viderehan is conducted at the case with the drawing for reference; Ferrehan is sitting inside the field for the interval without reaching for it. The field edge is walked and marked physically before either begins.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A fist-sized drop of dark blue crystal, suspended without support, lit faintly from inside and warm to a cloth. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a body or drop of liquid. The Frozen Tear file carries the series rather than a single reading. |
 | **Material / signature** | Lament. Dark blue crystal, salt-damp to the cloth, cold rain on old cloth, a faint internal light best read at night. |
 | **Distinctive markers** | Warmth without a source, light without variation, and a field edge that is further out every year. |
 | **Identification** | If it is cold, it is not this. Everything about this holding is the wrong way round and the warmth is the first of it. |
@@ -262,7 +262,7 @@ The escalation pattern is specific to Frozen Tear: it is not a generic containme
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Frozen Tear's element. No protocol produces Stigmas. They emerge from Frozen Tear's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+A piece cut from Frozen Tear is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

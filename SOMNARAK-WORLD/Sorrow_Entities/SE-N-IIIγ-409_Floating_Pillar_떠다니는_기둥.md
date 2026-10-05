@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the gap and the two-directional voice; never by elevation, which is recorded against a floor that has never been levelled to anything) and Floating Pillar is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Twelve turns, worked from the two sighting marks and never from beneath the gap. Positions are read at the start and the end of every turn, by both observers independently, and no reading is discarded for disagreeing with the other.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish real support; do not replace the missing thing with another illusion**.
 
@@ -223,7 +223,7 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Floating Pillar's element. No protocol produces Stigmas. They emerge from Floating Pillar's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+A piece cut from Floating Pillar is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small, nameless memories with each use, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

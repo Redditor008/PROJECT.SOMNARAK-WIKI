@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Flowing Seed by the pins and the plate, never by feel. The ground is heaviest where it has already been, and the corridor behind it reads as safe to anyone who has not read the survey, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The pins are read, the plate is set at the marked distances, and the Warden works from the raised post. Nobody stands on the floor the entity has crossed within the hour, whatever the plate says.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not block the flow; acknowledge its source**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A seed-shaped place of emptiness through which black Han flows like a river. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). Posture and distance are logged because on Flowing Seed neither has ever been assumed. |
 | **Material / signature** | Weight. Lead-cold, wet stone, dark Han oozing from the tendrils and left in the track. |
 | **Distinctive markers** | Pin displacement since the last watch, softened ground behind it, and the loaded-plate curve falling off with distance. |
 | **Identification** | If the corridor floor reads normal and the pins have moved, trust the pins. |
@@ -253,7 +253,7 @@ The blade flat is etched with botanical germination diagrams filled with dark co
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Flowing Seed's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Flowing Seed and carries what Flowing Seed carries: the wielder feels progressively heavier; prolonged use ages them slightly. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

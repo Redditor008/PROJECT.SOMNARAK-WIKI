@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Torn Flower is recognised by a split bloom in a crack between old buildings, weeping from the tear, fever-cold at the split and warm everywhere else, with the tear sitting further down the stem each year — then the approach is set and the positions are taken.
 2. **Clash:** Flerehan or Ferrehan at the crack, with the tear measured from the crown before and after. Pugnahan is barred here: the table records it as an Increase and the torn edge spreads under it.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not repair or pick it; witness the torn form**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A figure shaped like a torn flower, weeping from its split petals. It appears in cracks between old buildings. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. The Torn Flower file carries the series rather than a single reading. |
 | **Material / signature** | Grudge. Crimson light along the split, petals warm and yielding like flesh, fever-cold at the tear itself, char and crushed bloom. |
 | **Distinctive markers** | The measured position of the tear, the reach without approach, and the small figure at the bloom's centre that does not grasp. |
 | **Identification** | If it has reached and not stepped, it is this one. If it has stepped, it is not. |
@@ -221,7 +221,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+Each piece extends Torn Flower rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder's touch harms people they love — arrives early and does not reverse on return.
 
 ### Field Use Record
 

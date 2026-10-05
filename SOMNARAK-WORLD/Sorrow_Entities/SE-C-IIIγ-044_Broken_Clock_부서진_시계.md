@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Broken Clock is confirmed by the uncountable tick and the chalked line; the bay's two other clocks keep correct time and are read by the watch as a check. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Four turns, timed by the outside clock and never by anyone inside the line. The inside worker acknowledges each reading aloud; an unacknowledged reading ends the cycle at once, whatever else is in progress.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 

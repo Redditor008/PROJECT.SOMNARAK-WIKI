@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Driftglass is recognised by the drift and the weeping. Several crystalline records are held in these vaults; this is the half-light one that moves, weeps without a body, and leaves no fixed position to log — then the approach is set and the positions are taken.
 2. **Clash:** The work is walking. Viderehan shows routes that run beyond the city wall and holds the reading steady; Ferrehan requires the worker to accompany it without choosing where it goes, for the length of the session. No door is closed ahead of it and no corridor is cleared to steer it, which is the instruction teams most often break on their first rotation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Provide a memory anchor; do not force a destination**.
 

@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — The Angry Maiden is recognised by her by the thermal chart against the last watch, not by the fire. She looks the same at two degrees and at sixty-eight, and five early reports describe a quiet chamber on watches the probe recorded at over forty — then the approach is set and the positions are taken.
 2. **Clash:** Flerehan and Ferrehan only. Pugnahan is prohibited on this file and the prohibition is read aloud at shift start rather than assumed. The reading is the peak thermal load of the watch, in degrees above corridor ambient at the fixed wall probe, charted by the thermal crews: eleven point four at baseline, two point one at the floor, sixty-eight at the ceiling.
 3. **Resolution:** The documented condition — **validate the anger; do not deny or argue with it** — then the cooling hour, then the relief. No watch has ever closed without the hour, including through the hardship rotations when every other provision in the wing was shortened.
 

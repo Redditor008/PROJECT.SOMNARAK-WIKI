@@ -230,7 +230,7 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern — patience, gentleness, presence; forcing a piece toward aggression amplifies the cost and may trigger an echo of the source entity's grief. The Stigma is granted at random by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Calling Bloom and carries what Calling Bloom carries: the wielder is visited, unbidden, by the faces of everyone they failed to comfort. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

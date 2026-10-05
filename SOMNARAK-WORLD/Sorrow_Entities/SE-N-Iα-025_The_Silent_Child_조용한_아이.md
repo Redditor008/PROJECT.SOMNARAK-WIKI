@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The Silent Child is confirmed by the combination of translucency, silence and position: small, half-lit, seated low, in a corner or beneath a structure, and visible only while nobody looks straight at it. The Gardens hold other faint presences; this is the one that gets clearer when someone sits down. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Ten turns, all four Work Types available, conducted seated and at distance. The team does not close on the Child and does not call to it; the engagement consists almost entirely of remaining present and looking slightly away, and new personnel are warned that it will not feel like work.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Sit beside the Child and share silence. Do not demand speech**.
 
@@ -236,7 +236,7 @@ The rubberized grip absorbs all vibration, ensuring silent deployment from conce
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design it charges immediately and personally, and the sorrow carried in it can wake — which on this α-grade set presents mildly, as a reluctance to speak first in any room. No protocol produces a Stigma; it comes from the source at the source's disposition or not at all.
+These pieces are The Silent Child in miniature. What they give is listed above; what they take is the wielder loses small memories with each use, and specifically of being attended to: who listened to them, who asked how they were, which of their requests were answered, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Candela is confirmed by the melting without heat and by the face resetting. Several figures in Zone B are described as saint-like; this is the one that is smaller at the end of a session than at the start. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** The work is done while the figure is losing shape, and the rate of loss is the instrument. Flerehan slows the melting by sharing what it is carrying; Ferrehan asks the worker to be told a future loss and do nothing about it. Pugnahan collapses the body faster and leaves the floor unsafe. Nothing recovers wax that has already run.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not treat every vision as inevitable; distinguish possibility from fate**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A saint-like figure made of melting wax and crystallized tears. Its face changes according to future grief it has perceived. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. The Candela file carries the series rather than a single reading. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Identify it by the melting without heat and by the face resetting. Several figures in Zone B are described as saint-like; this is the one that is smaller at the end of a session than at the start. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; Zone B holds more than one record that shows what is coming, and they do not carry the same obligation when it does. |
@@ -226,7 +226,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Candela's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+A piece cut from Candela is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder carries the entity's unwept grief and weeps involuntarily, generally for somebody who is in the room and in good health, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

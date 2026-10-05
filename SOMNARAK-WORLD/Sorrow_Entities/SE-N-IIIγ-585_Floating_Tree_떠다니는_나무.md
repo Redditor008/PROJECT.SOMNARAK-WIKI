@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Floating Tree by a pale tree drifting root-first, four to nine metres up, roots hanging and sweeping without contact, foliage of broken memory, and a shadow on the ground beneath it that stays a while after it has gone, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Work is conducted from the ground, inside the shadow, with the Tree overhead and the shadow's edge pegged before anybody steps in. Nobody works it from a height and nobody works it from the current side.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Mark its route; do not attempt to anchor it physically**.
 
@@ -253,7 +253,7 @@ The living vines absorb emotional recoil, anchoring the wielder against heavy im
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Floating Tree and carries what Floating Tree carries: the wielder feels every place they can no longer return to. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

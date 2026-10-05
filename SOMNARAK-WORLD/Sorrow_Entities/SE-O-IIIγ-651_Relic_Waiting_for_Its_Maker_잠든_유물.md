@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Relic Waiting for Its Maker is recognised by the room, since the relic cannot be seen. This is the chamber whose walls are out of plumb inward on every wall at once, which no structural account of the Mask Market has ever explained — then the approach is set and the positions are taken.
 2. **Clash:** Twenty turns, Viderehan and Ferrehan only, conducted in silence and on slates. Nothing confidential is spoken aloud in the chamber at any point in the engagement, and the plumb line is read at the start and the end of every turn in which anybody speaks at all.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Speak only what the worker accepts responsibility for carrying**.
 
@@ -265,7 +265,7 @@ The prisms rotate in synchrony, refracting psychic trauma away from the bearer's
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Relic Waiting for Its Maker's sorrow within the equipment may activate. and may produce an effect tied to Relic Waiting for Its Maker's element. The Stigma is Relic Waiting for Its Maker's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Each piece extends Relic Waiting for Its Maker rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder loses small memories with each use, and specifically intentions: errands set out on and abandoned, sentences begun and dropped, the reason for having come into a room — arrives early and does not reverse on return.
 
 ### Field Use Record
 

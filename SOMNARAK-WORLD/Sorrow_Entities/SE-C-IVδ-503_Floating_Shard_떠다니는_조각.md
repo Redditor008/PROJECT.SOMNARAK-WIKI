@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Floating Shard is recognised by the unsupported height and the figure that turns with the crystal; never by brightness, which is a reading about the room and not about the entity — then the approach is set and the positions are taken.
 2. **Clash:** Sixteen turns, worked from the marked standing positions at the edge of the bay. Nothing is broken, cut, struck or dropped anywhere inside the bay for the duration, including on unrelated equipment, and the team's own injuries are the thing being managed rather than the entity's reach.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not dismiss the pain or promise impossible rescue**.
 

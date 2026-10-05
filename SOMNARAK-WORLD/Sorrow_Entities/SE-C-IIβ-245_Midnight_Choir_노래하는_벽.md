@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Midnight Choir by eleven frescoes of named dead along ninety-four metres of east corridor, pigment salt-damp and smelling of cold rain, silent until midnight. If anything is heard before midnight, or outside the ninety-four metres, it is not this holding and the corridor is cleared and re-walked, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** There is no clash. The corridor is attended for the whole performance and the night's count is taken: how many songs were begun, how many broke off, and at what words. Work Types hold the attending party steady through it; nothing done by the party has ever shortened, lengthened or altered a performance.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen and catalogue; do not silence the walls**.
 

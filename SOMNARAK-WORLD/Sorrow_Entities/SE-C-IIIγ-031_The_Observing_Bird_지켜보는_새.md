@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Observing Bird by one hundred and forty-four open eyes, damp deep-water plumage, cold-rain smell, no vocalisation of any kind. The other two Birds have voices, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Observing Bird's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Look at the Bird and accept its gaze**.
 

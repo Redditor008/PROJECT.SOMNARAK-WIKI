@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Neverlast is confirmed by stillness and by the overlay. Several corroded figures are catalogued in Old Lament; this is the one that does not move at all, is made of dark tear-crystal under the rust, and has a traced spread that grows every cycle without ever consuming anything. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** The work is attendance. Flerehan is answering the reach and lowers the reading; Ferrehan is sitting the full watch without leaving early; Pugnahan is treated as a walkout and raises it. The one prohibited sentence is any form of "I'll come back" — a worker who says it is replaced for the cycle, and the replacement is told why in front of the figure.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Remain with it and acknowledge the abandonment; do not promise a return**.
 
@@ -230,7 +230,7 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Neverlast's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Neverlast and carries what Neverlast carries: the wielder weeps involuntarily, most often on arriving somewhere early and waiting. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

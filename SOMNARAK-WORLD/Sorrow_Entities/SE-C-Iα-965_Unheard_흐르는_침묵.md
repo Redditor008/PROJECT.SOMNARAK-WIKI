@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Unheard is recognised by no body and nothing to see — a travelling hush along Collector's Row, cold without draught, in which ordinary speech stops carrying at a measurable distance — then the approach is set and the positions are taken.
 2. **Clash:** The crew works at the measured hush radius and not inside it. Anyone who reports the content of speech is withdrawn at once and debriefed alone, before they can tell the others what they heard.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not force sound into it; listen and record what remains**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | An unseen weight travelling the Row, within which speech carries no further than 5.4 metres and falls off sharply at the edge. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — drifts or flows through the area. Recorded at every Unheard cycle against the previous reading. |
 | **Material / signature** | Grudge. Char on the air, cold without movement, pressure on the chest, and an absence where every instrument expects a reading. |
 | **Distinctive markers** | Hush radius in metres, position along the Row, and whether any Warden has reported content. |
 | **Identification** | Say a fixed phrase to a colleague five metres off. If they answer, this is not it. |
@@ -221,7 +221,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to Unheard's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+A piece cut from Unheard is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder's old wounds ache; prolonged use leaves faint bruising, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

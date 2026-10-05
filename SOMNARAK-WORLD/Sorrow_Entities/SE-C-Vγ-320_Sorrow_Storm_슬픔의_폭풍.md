@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Sorrow Storm is confirmed by a static ceiling of black cloud that is not weather, crystalline rain that stains stone, and a falling ring pressure that preceded all of it by days. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** There is no clash under the wall. Crews work earthed and ballasted, call the ring pressure aloud at the quarter-hour, and log their own heart rates beside the dials so that dread and weight can be told apart.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge sorrow and shelter until the Storm passes**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A static storm-wall across every zone at once, with crystal rain beneath it and a continuous structural groan under that. |
-| **Position / movement** | The object/place remains fixed until its recorded activation or expansion condition occurs. |
+| **Position / movement** | Stationary — a place or zone; spreads rather than moves. Posture and distance are logged because on Sorrow Storm neither has ever been assumed. |
 | **Material / signature** | Weight. Lead-heavy air, wet stone, dark crystal underfoot, and the joints of the city complaining audibly in every district. |
 | **Distinctive markers** | Ring pressure, River gauge, boundary of the affected zone, and the number of other holdings that have begun to stir. |
 | **Identification** | Read the ring, not the sky. One station is no station; the false-clear taught that at a price the wall inscription still records. |
@@ -240,7 +240,7 @@ The escalation pattern is specific to Sorrow Storm: it is not a generic breach e
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Sorrow Storm's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+These pieces are Sorrow Storm in miniature. What they give is listed above; what they take is the wielder feels progressively heavier; prolonged use ages them slightly, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

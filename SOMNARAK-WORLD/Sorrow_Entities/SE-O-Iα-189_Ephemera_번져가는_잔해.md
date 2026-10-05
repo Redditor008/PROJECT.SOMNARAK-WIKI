@@ -115,7 +115,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A faint humanoid figure made from dust, broken stone, and fading memories of a ruined settlement. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. The Ephemera file carries the series rather than a single reading. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Ephemera is identified by the drifting dust line and the loss of outline definition before the figure itself is visible; the settlement structures in the dust resolve last. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |

@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Harbinger by in the fixed mirrors, never by turning. Every attempt on record to face it has found it behind the person turning, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Debt Collector’s Shadow's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Review and acknowledge the debt; force cannot remove the Shadow**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A human-shaped shadow that follows debtors without speaking. It is visible only from the corner of the eye or in reflected light. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; moves within its own zone and does not pursue. Recorded at every Harbinger cycle against the previous reading. |
 | **Material / signature** | Weight. Lead-cold and wet stone; a human-shaped absence cast by nothing, legible only at the edge of sight or in the fixed mirrors. |
 | **Distinctive markers** | The coat it is not wearing is the usual report: observers describe a collector's silhouette, and no two describe the same coat. |
 | **Identification** | If you can look at it directly, it is not this file. |

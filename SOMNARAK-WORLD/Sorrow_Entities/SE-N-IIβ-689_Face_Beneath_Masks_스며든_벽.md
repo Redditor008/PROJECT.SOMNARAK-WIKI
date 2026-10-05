@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (through the schedule and the carrier's own account; there is nothing to see, and a worker claiming to have seen it is to be scheduled themselves) and Face Beneath Masks is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Ten turns, conducted as conversation rather than as approach, with the carrier seated and the infirmary officer present throughout. Nothing is forced open; a turn in which the wall thickens is logged and the sequence restarts from the beginning.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish safe contact; do not force the wall open**.
 
@@ -228,7 +228,7 @@ The culverin fires dense canister shot filled with lead shrapnel and salt-gravel
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Face Beneath Masks' element. No protocol produces Stigmas. They emerge from Face Beneath Masks' own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+These pieces are Face Beneath Masks in miniature. What they give is listed above; what they take is the wielder loses small, nameless memories with each use, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

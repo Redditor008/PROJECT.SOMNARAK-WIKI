@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (her by the rim and the dust; the cold and the smell of old rain are shared with two other Old Lament holdings and are not diagnostic alone) and Broken Well is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Seven turns, tethered, at the rail, with the current search finding read at the first turn. Pugnahan hardens the rim and raises the gauge and is not authorised.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not enter the opening; listen from the edge**.
 
@@ -221,7 +221,7 @@ Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Gr
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like forcing the holding outside its pattern with your own body — the cost is immediate and personal. and may produce an effect tied to Broken Well's element. No protocol produces Stigmas. They emerge from Broken Well's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+A piece cut from Broken Well is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder's old wounds ache; prolonged use leaves faint bruising, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

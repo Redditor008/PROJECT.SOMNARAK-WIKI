@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Debt Eater by the hands and the absence of a mouth; height alone is not diagnostic in the Collector district, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Five turns, worked from outside the painted radius. No hand enters the line at any point, and the worker with the largest outstanding balance stands furthest back by roster rule.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Provide a specific amount of Echoes for absorption. Once fed, the fog dissipates**.
 
@@ -234,7 +234,7 @@ The Debt Eater is a Fragment (III) Subject with Subject-Body manifestation and V
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Misusing a M.A.W. — forcing it against its intended design — amplifies the cost and may trigger an echo of the source entity's element. and may produce an effect tied to The Debt Eater's element. Stigmas are not manufactured; the entity bestows them unpredictably upon successful work, as if deciding to share a fragment of itself. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of The Debt Eater and carries what The Debt Eater carries: the wielder loses small, nameless memories with each use; repeated use makes the bearer increasingly certain that measurable debt is the only truth worth keeping. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

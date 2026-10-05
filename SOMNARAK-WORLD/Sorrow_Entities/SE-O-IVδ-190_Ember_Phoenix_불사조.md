@@ -222,7 +222,7 @@ The culverin discharges volcanic fire-slugs wrapped in dense black soot that exp
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forcing a piece against its design amplifies the cost immediately and can wake the sorrow carried in it, which on this set presents as the conviction that one more effort is required and that stopping now would waste everything already spent. No protocol produces a Stigma; it comes from the source or not at all.
+Each piece extends Ember Phoenix rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder's old injuries ache, every one of them, in the order they were received. Prolonged use leaves faint bruising over scars that healed years ago — arrives early and does not reverse on return.
 
 ### Field Use Record
 

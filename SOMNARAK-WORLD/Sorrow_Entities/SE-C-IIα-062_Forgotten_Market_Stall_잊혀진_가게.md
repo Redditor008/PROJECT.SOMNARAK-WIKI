@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Forgotten Market Stall by the labels and by the warm ground it leaves behind; never by its shape, which is different at every appearance, and never by its position, which is never repeated, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Viderehan and Ferrehan only, worked from the public side of the table, through the hours of darkness. Labels are copied and nothing is taken up. A worker who has picked an item up puts it down, says so aloud, and is logged as having done it; the entry carries no fault and exists so that the count stays honest.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 

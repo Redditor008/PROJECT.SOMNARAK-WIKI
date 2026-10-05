@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the cold and the clarity. Several figures are held in deep storage; this is the translucent one made of frozen feeling, which numbs before it chills and is always described as beautiful) and The Frozen Veil is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Flerehan is the only approach that moves it and it cannot be performed on command. Pugnahan is stable — not resisted, simply irrelevant, as the table above records. The team's actual task is to be present without arranging anything, and the shell thickness is measured before and after.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Tears and sincere emotional expression crack the Veil. Physical force is ineffective**.
 
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid figure made of frozen emotion rather than frozen water. It is beautiful, translucent, and radiates emotional cold. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Posture and distance are logged because on The Frozen Veil neither has ever been assumed. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Ambient temperature reads normal despite a perceived -40°C cold. Within five meters, emotional capacity drains rapidly. Tears create small cracks in its surface. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; this archive holds records on both sides of the same error, and this is the one that is fed by arranging feeling rather than by stopping it. |
@@ -234,7 +234,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to The Frozen Veil's element. No protocol produces Stigmas. They emerge from The Frozen Veil's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+A piece cut from The Frozen Veil is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small nameless memories with each use, and loses the feeling attached to large ones while retaining the facts, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the suspended field and the kneeling posture, never by the face, which is stone and has been read four different ways in four reports filed in one week) and Deteriorata is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Flerehan from the surveyed route, outside the suspended field. Ferrehan only under the cap and only with a second worker watching, because what it transfers in a Ferrehan stand is load, and load is the thing this holding screens its people for. Pugnahan accelerates the shedding and is not applied.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not repair or reinforce it; acknowledge the right to rest**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A saint-like humanoid made of cracking stone and dark Han-crystal. Pieces crumble from its body but never reach the floor. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every Deteriorata cycle against the previous reading. |
 | **Material / signature** | Weight. Cracking stone sheathed in dark Han-crystal, lead-cold, wet stone; a 621-class load the weight-discipline crews feel in the knees before the instruments read it. |
 | **Distinctive markers** | The suspended debris field, the survey pegs, and the kneeling posture that has not altered in eleven years. |
 | **Identification** | If anything it has shed is on the floor, you are not in this chamber. |
@@ -226,7 +226,7 @@ The Behavior table contains the holding's own trap and the wing states it here r
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Using a M.A.W. against its grain is like breaching containment with your own body — the cost is immediate and personal. and may produce an effect tied to Deteriorata's element. No protocol produces Stigmas. They emerge from Deteriorata's own will during work cycles, unbidden and unrepeatable. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Deteriorata and carries what Deteriorata carries: the wielder feels progressively heavier; prolonged use ages them slightly. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

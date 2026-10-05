@@ -234,7 +234,7 @@ The gauge response is only meaningful in context. Grieving Love is recorded as a
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern — patience, gentleness, presence; forcing a piece toward aggression amplifies the cost and may trigger an echo of the source entity's grief. The Stigma is granted at random by the entity upon a successful work, not manufactured.
+Each piece extends Grieving Love rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder is visited, unbidden, by the faces of everyone they failed to comfort — arrives early and does not reverse on return.
 
 ### Field Use Record
 

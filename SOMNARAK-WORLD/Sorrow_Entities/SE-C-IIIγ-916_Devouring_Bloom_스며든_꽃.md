@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Devouring Bloom is confirmed by the petals in the floor and walls behind it rather than by the bloom, which is not always where it was and is not always open. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Twelve turns. The growth front is marked against the cut wall marks before anything else and again at the close, the engineers' survey is walked alongside the Warden's, and no petal is cut, lifted, pocketed or sampled outside the authorised residue draw.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Witness the memories and prevent unauthorized petal collection**.
 
@@ -304,7 +304,7 @@ All three pieces are made of the same crystal as the petals and behave the same 
 |---|---|
 | **Initial exposure** | A cart-sized bloom of black crystal in an unlit tunnel, rooted or hauling, with petals pushed through the floor and walls for some distance behind it. |
 | **Sustained observation** | Front position against the cut wall marks, root-leg positions, open petal count, floor condition within two metres, and the engineers' independent figure entered beside the Warden's without reconciliation. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The trigger on file: New grief deposited without release. Log the time, the witnesses, and the condition of the holding before and after. |
 | **Post-contact review** | Both front series, the divergence between them, any petal handled and by whom, the structural note for the section, and the longing reported at the shaft head rather than at shift end. |
 
 **Observation method:** Walk the section with a tunnel engineer, not alone, and file both sets of notes together. Record the first visible sign, the first emotional response and what preceded it, the front against the cut marks at the start and the end, and the condition that ended the watch. The form here is the history: a flower that eats, in the dark, where people left flowers for the people who did not come back up.

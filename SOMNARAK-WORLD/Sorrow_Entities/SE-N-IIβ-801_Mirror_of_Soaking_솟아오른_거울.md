@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Mirror of Soaking by the surface. Several reflective records are catalogued; this is the one that rises out of the floor, glows toward red near somebody holding something in, and gives back no face, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team works in front of the surface rather than against it. Viderehan shows the event the anger came from and holds the reading steady; Ferrehan requires the worker to stand before their own fury without disowning it. The height the Mirror has risen to is the instrument, and it is read at the start and the end.
 3. **Resolution:** The session closes when the anger displayed has been attributed in writing to the condition that produced it rather than to the temperament of whoever is carrying it, and the reading falls below 25%. A session that ends with a note describing a worker as difficult has not closed; it has contributed.
 
@@ -266,7 +266,7 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Mirror of Soaking's sorrow within the equipment may activate. and may produce an effect tied to Mirror of Soaking's element. The Stigma is Mirror of Soaking's prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Mirror of Soaking and carries what Mirror of Soaking carries: the wielder's old wounds ache; prolonged use leaves faint bruising. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

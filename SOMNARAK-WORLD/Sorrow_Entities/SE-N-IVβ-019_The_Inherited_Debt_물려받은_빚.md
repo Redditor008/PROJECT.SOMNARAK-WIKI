@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies The Inherited Debt by there is nothing to recognise. A sitter who can see it will say so within the first minute and a sitter who cannot will sit the hour and report nothing, and both outcomes are entered on the same form. The absence of a report is a reading and is counted as one, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** All four Work Types are valid, Pugnahan excepted in practice because it raises the gauge and returns nothing. The reading is the ledger length: the number of distinct obligations the entity lays out for a single sitter in one session, each afterwards checked against the Collector instruments in the chamber file. Four is baseline. The recorded range is zero to seventy-one.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge the inheritance and choose whether it will be carried. Physical restraint is useless**.
 

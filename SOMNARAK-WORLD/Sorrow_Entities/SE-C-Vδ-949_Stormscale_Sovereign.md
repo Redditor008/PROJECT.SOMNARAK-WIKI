@@ -221,7 +221,7 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment — and each is drawn from resonance, never from direct work, for the Sovereign is not worked, only remembered. The listed benefit is strongest when the operator holds the four sorrows in balance rather than favouring one; forcing a piece toward a single element unbalances it and amplifies the cost. The Stigma is granted at random (and rarely), not manufactured.
+Every piece in this set is a fragment of The Stormscale Sovereign and carries what The Stormscale Sovereign carries: the wielder is, for days afterward, unsettled in their own element — never quite one mood, cycling through all of them without rest. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

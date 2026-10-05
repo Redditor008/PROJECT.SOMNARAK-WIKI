@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Déjà Vu by personnel should identify the entity by its physical or environmental markers before relying on emotional impressions, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Déjà Vu's recorded combat actions. Sorrow Gauge changes determine escalation.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Anchor personnel to the present and name the difference between return and restoration**.
 
@@ -258,7 +258,7 @@ Each piece of this entity's equipment is an extension of a return that restores 
 |---|---|
 | **Initial exposure** | The observer identifies Déjà Vu as a Subject with Subject-Mind manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone A, Alpha Tree. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The trigger on file: Transformation in place. Déjà Vu alters what is around it at Zone A, Alpha Tree and stays inside it; identity and memory begin to dissolve, draining clarity Log the time, the witnesses, and the condition of the holding before and after. |
 | **Post-contact review** | Record what changed, what held, and the detail hardest to name. On this holding the review has one mandatory item before all others: the sealed account is opened, read against the session log, and the agreement or disagreement is scored. The reviewer scoring it is not permitted to have been in the room. |
 
 **Observation method:** Record the onset and character of the song, the first sensation reported, the worker's willingness to leave at each interval, and the condition that ends the encounter — the watch completed and the worker out of the boundary. There is no measurable environmental change on this holding and the log provides no field for one.

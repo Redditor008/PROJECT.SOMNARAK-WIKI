@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Cracked Mirror by the mismatch. The glass is cracked across its whole surface and the reflection is not, and no other mirror in the Market does that, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** There is no exchange to manage. The glass shows what it shows for as long as the worker keeps looking, and the only live decision in the session is who calls the end of it.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 

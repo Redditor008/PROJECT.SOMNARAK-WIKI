@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the escort behaviour before the armour. Several armed shapes have been reported on the Desolate; this is the one that takes station behind a party and keeps pace without closing) and Scar Walker is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** The Walker escorts rather than engages. It falls in behind the team on arrival and stays there for the duration, and the work is done with it at the shoulder — Viderehan at the distance it permits, Ferrehan for as long as the team can keep its composure with an armed phantom walking behind it. Pugnahan ends the encounter immediately and is classed as desecration.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Show respect, salute its duty, and acknowledge its sacrifice**.
 
@@ -118,7 +118,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A tall phantom warrior in armor made of crystallized rage. It carries a weapon of solidified fury and patrols the rift known as The Scar. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — walks upright; can breach and pursue. The Scar Walker file carries the series rather than a single reading. |
 | **Material / signature** | Grudge elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | Appears when visitors approach The Scar. Salutes respectful visitors. Its presence evokes the rage of the six factions that fought in the Occlusihan. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; at this site the wrong identification means the wrong gesture, and the gesture is the whole of the procedure. |

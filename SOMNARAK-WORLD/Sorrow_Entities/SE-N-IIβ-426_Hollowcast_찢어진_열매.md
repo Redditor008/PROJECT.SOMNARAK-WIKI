@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the opening width against the last sighting, not by the figure. The outline looks identical at three centimetres and at sixty-one, and two early reports describe an unchanged entity on days the sighting found a nineteen-centimetre difference) and Hollowcast is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Flerehan and Ferrehan from the sighting line. Pugnahan is authorised once and consumes two steps of margin when it is used, because the gauge rises sharply on confrontation and the opening widens with it. The widening does not reverse between cycles.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Use identity anchors and do not invent memories for it**.
 

@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The team identifies Miscast by the gap against the last reading, not by the drift. The fragments look identical at one millimetre and at eighty-eight, and three early reports describe an unchanged holding on days the bench recorded a forty-millimetre difference, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Viderehan and Ferrehan only, from the mount side. The optical bench takes the gap between the two largest fragments at the closest point of their approach, in millimetres, twice a session. Eleven millimetres is baseline. The recorded range is one to eighty-eight.
 3. **Resolution:** Second reading, mount load-check, and the session closed. There is no suppression condition on this holding and the file says so rather than printing one: the fragments have never been brought together and the containment does not attempt it.
 

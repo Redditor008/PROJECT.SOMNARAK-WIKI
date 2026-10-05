@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Burning Root is confirmed by the permanent floor scarring and the warmth that does not hurt; the Row's other heat sources burn what they stand on and none of them marks stone. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Four turns, Flerehan and Ferrehan, no Pugnahan. The floor marks made during the engagement are photographed before anybody leaves the chamber, since they are permanent and are the chamber's only position record.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name the burden without calling it selfhood**.
 

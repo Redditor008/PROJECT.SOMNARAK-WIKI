@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Lament pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (a ghostly tree-beast walking on four root-limbs, burning and weeping at once, with a howling face set in the bark and branches that cast no ordinary shadow) and Drowned Roots is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Faces uncovered, the route fixed in the brief, nobody stepping over a root. The crew works beneath the branches for a timed interval and leaves on the clock.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Speak the soldier's duty without forcing a false name**.
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ghostly tree-shaped presence with a human face in its trunk. It burns with a fury that has no clear target. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). Recorded at every Drowned Roots cycle against the previous reading. |
 | **Material / signature** | Lament. Cold rain and char together, warmth at close range, audible weeping under the burning, and branches that throw no ordinary shadow. |
 | **Distinctive markers** | Branch count, limb posture, ceiling clearance, and whether anybody present has their face covered. |
 | **Identification** | Watch the shadows. The branches move and the shadows do not follow them, which nothing else in the Market does. |
@@ -221,7 +221,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Pattern violations in M.A.W. use are expensive: the cost scales, and Drowned Roots' sorrow within the equipment may activate. and may produce an effect tied to Drowned Roots' element. The Stigma is Drowned Roots' prerogative — a random offering after successful work, as unpredictable as the sorrow that birthed it. by the entity upon a successful work, not manufactured.
+These pieces are Drowned Roots in miniature. What they give is listed above; what they take is the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping, and the Armoury records both against the wielder rather than against the piece.
 
 ### Field Use Record
 

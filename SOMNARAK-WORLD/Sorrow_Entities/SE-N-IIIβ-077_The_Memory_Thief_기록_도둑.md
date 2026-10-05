@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (small, fast, faceless, visible only at the edge of sight, cold and ash-smelling, and gone the moment you look straight at it) and The Memory Thief is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** It does not fight and has never been struck. A contact is two observers at an angle holding a peripheral fix while it works the room; the encounter is scored afterwards at the infirmary, against a sealed page, by somebody who was not there.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Corner and contain it; negotiate the return of memories when possible**.
 
@@ -236,7 +236,7 @@ The barrels rotate manually after each discharge, cycling paper cartridges packe
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; Improper use strains the M.A.W.'s bond with the wielder, multiplying the cost and potentially releasing the source entity's pressure. and may produce an effect tied to the entity's element. Stigmas appear without pattern. The entity offers them as a M.A.W. accessory when the work resonates deeply enough, and the criteria are its own. by the entity upon a successful work, not manufactured.
+A piece cut from The Memory Thief is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small, nameless memories with each use, and it is paid whether the use was correct or not.
 
 ### Field Use Record
 

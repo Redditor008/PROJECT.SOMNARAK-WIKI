@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the temperature and the edges. It is a slice of a building in black crystal, cold in a bay that sits under Forge heat, with no measurable interior temperature, and its fracture edges carry a silent crimson glow that gives off no heat at all and can only be read in darkness) and Frozen Fury is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** There is nothing to fight and nothing to move; the fragment weighs what a building weighs. The team reads the edge glow in the dark bay against the step wedge, works Viderehan and Ferrehan only, and states aloud at the start of the cycle who cleared the district. That sentence is part of the procedure and is minuted.
 3. **Resolution:** The cycle ends when the luminance reading agrees twice, the week's district paperwork is attached, and the margin of original ground has been swept by hand. There is no suppression step. The fragment has never harmed anybody and the holding has twice refused to pretend otherwise in order to justify its budget.
 
@@ -264,7 +264,7 @@ The escalation pattern is specific to Frozen Fury: it is not a generic containme
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; When a M.A.W. piece is used outside its pattern, the wielder pays more and risks awakening the sorrow embedded in the equipment. and may produce an effect tied to Frozen Fury's element. The entity alone decides when to grant a Stigma — no procedure, no probability, no guarantee. It is an act of sorrow, not production. by the entity upon a successful work, not manufactured.
+Every piece in this set is a fragment of Frozen Fury and carries what Frozen Fury carries: the wielder loses small, nameless memories, beginning with the names of streets they grew up on. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

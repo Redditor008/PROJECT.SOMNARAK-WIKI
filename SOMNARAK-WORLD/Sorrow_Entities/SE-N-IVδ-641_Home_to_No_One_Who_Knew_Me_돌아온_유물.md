@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the object/place manifestation, assess the Grudge pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** Identification first — Home to No One Who Knew Me is recognised by the crimson light inside it and by nothing else. The shape will be wrong, and more precisely it will be whatever the person looking has reason to find familiar — then the approach is set and the positions are taken.
 2. **Clash:** Viderehan and Ferrehan only, worked at distance, with the watch recording and keeping others back and doing nothing else. The relic is not approached, handled, moved, marked or addressed. Nobody says that it has come back, within its hearing or outside it, during the engagement.
 3. **Resolution:** The cycle closes when the gauge falls below 25% and the appearance has been logged — light, position, duration, form marked unidentified — and the district association has been told. On this holding a completed cycle consists almost entirely of having refrained, and the sheet says so in those words so that nobody records it as a failure.
 
@@ -264,7 +264,7 @@ The escalation pattern is specific to Home to No One Who Knew Me: it is not a ge
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the source rather than ordinary equipment. The listed benefit is strongest inside the intended use pattern; forced against its design the cost is immediate and personal, and the sorrow carried in it can wake — which on this set presents as the certainty of having been somewhere before, in a place the wielder has demonstrably never been. No protocol produces a Stigma; it comes from the source at the source's disposition or not at all.
+Every piece in this set is a fragment of Home to No One Who Knew Me and carries what Home to No One Who Knew Me carries: the wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also mislay small possessions at a rate the wing has measured and declines to explain. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 

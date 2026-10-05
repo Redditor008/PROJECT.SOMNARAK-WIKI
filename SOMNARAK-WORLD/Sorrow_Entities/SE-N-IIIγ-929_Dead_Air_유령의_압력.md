@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the hazard manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The marker is checked (the sensation of being leaned on by someone standing behind you, with a direction and an apparent weight, in a room containing nobody. Personnel name a mass without being asked to; the form has a column for it because they did it anyway) and Dead Air is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dead Air's recorded combat actions.
 3. **Resolution:** The watch ends at the hour. The Warden hands over the form, the relief reads the barometer, and the pressure — both kinds — is where it was. No watch in the series has ever been ended early by the holding; four have been ended early by the Warden.
 
