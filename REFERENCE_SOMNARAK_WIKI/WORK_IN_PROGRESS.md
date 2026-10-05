@@ -990,9 +990,13 @@ what it exists to do.
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
-**Redacted `N-IIIγ-184` (6 dirty) is the measured head of the next tier on the sample taken this turn**,
-with Labyrinth of Stolen Faces `C-IVγ-180` (10 dirty) and Torpor `N-IVδ-157` (10 dirty) behind it, and
-Crucible's neighbour Candela `C-IVδ-165` (0.107 by `sect.py`) to be measured at the head of the batch;
+**Redacted `N-IIIγ-184` is the measured head of the next tier** — re-measured again at the close of batch 6
+and still the worst section on the board (**6 dirty, worst 기록 (Registrum) 0.554**), which is why it opens
+batch 7. On the same fresh sample behind it: Swallowed Fury `C-Iα-683` (10 dirty, worst 0.465, and below
+the 6,000-word floor at 5,256 words), Bridge to Nowhere `C-IVδ-260` (10, 0.392), The Lost Prince
+`C-IVγ-091` (9, 0.389), Mirror of Soaking `N-IIβ-801` (10, 0.381, and the only file on the tier whose
+condition clause is still open), Frozen Fury `C-IVδ-668` (10, 0.338) and Mourner's Bloom `C-Iα-330`
+(10, 0.301). Labyrinth of Stolen Faces and Torpor came off this list by being closed in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);
 (3) the 211 + 127 stock sentences; (4) the remaining single-clause gaps from the third-turn list.
