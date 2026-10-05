@@ -263,7 +263,7 @@ Every piece is made of things people did not say, and the set quietly takes its 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Weight of Silence (N-IIα-285 [WS]) is logged as a Subject-Weight manifestation expressing Weight, ambient throughout the Zone D Mantle Commons. It has no body and nothing to strike with. It outlines people who have stopped speaking about something the room already knows, and the outline is visible to everybody except the person wearing it.
+Weight of Silence is the quiet in the Mantle Commons: a public room where the words-per-hour count has been falling for eleven years and where nobody can start a sentence when the pressure is up. It is made of consultations that closed without a reply. The wing's containment is a chair with somebody in it.
 
 **Entry 2 — <Excerpt from Outline Count, Year 4238>**
 31 persons outlined per watch on the quarterly mean, against 24 and 17 in the two preceding years. The count is of people, not of intensity; no instrument reaches the load itself and self-report remains the only measure of it.
