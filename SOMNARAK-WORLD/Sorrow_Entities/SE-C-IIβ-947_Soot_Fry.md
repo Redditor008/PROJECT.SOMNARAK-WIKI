@@ -311,7 +311,7 @@ Management: Do not reach in — name the hunger aloud (the thing it cannot remem
 
 ### Interaction Pattern
 
-The Soot Fry does not exist in total isolation. Its record carries a cross-flag to one other entity and a classified transformation outcome (see WARNING, SE-C-Vδ-949). When the related entity (or references to it) is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability. The fish is calmer near open water and agitated near stone or sky.
+The fish is watched on its own terms and on one other. Its file is cross-flagged to the Foam Flood and to the classified outcome under SE-C-Vδ-949, and the flag is a prohibition, not a finding: in the carving's presence the fish's gauge spikes and its sealed memory strains toward the surface, so the two holdings are never moved toward each other. Alone, the fish is calmer near open water and agitated near stone or sky, and its drift is read against a stated feeding state.
 
 **Interaction method:** Observe the fish alone first and establish the drift baseline against a stated feeding state. Then, under Echo-Core authorisation only, record the first shared response at controlled distance and whether the appetite calms, amplifies or redirects. No interaction is assumed repeatable; the sealed memory runs closest to the surface near the cross-flagged entity, and proximity to that entity is not a test that exists.
 
