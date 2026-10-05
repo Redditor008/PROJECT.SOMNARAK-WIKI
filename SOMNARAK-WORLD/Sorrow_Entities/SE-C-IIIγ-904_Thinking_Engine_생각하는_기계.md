@@ -352,6 +352,18 @@ Now it sits in a containment cell on Floor 4, covered in dials that turn on thei
 
 **Review requirement:** Re-verify after any extension event, Tide, Ordeal or unusual interaction: gauge, dial series, tray counts, altered returns across the sector, the accuracy audit of the prediction register, and the standing of the establishment arrangement described in the Warden Record.
 
+### Entity Interaction Record
+
+The three relations below are documentary rather than routine. This wing does not bring a second holding into a chamber that writes about people, and the reason is recorded with each result: two of the three were arranged and moved nothing, and the third has been refused by the other party three times.
+
+| Related entity | Canonical interaction | Observed operational effect | Required record |
+|---|---|---|---|
+| **The Magistrate's Strike-Through** | The Tribunal's chalk takes a name off a page as completely as this register writes one onto it, and the two instruments have been held up in the same argument — what may be written about a person who has done nothing. Only the compliance opinion joins them. | No co-presence exists, and none is to be arranged. The Tribunal has refused three requests to test the chalk against a transcription of a sheet, on the ground that a nullification visited on a prediction destroys the only copy of a finding the facility has already audited. Neither side has a measurement. | The three requests, the three refusals, and the opinion's citation of the standing rule. |
+| **Broken Clock** | The wing's question to the pair is whether a clock has anything to say to a figure measured in days: here a probability of Fracture within ninety, there two hands that turn while the hour refuses to follow. | Three co-presences in the ninth year of the catalogue, not repeated. The Clock's hands ran and its hour refused to follow, as at every other hour; the sheet's figure was unchanged and both gauges were flat across all three sessions. There is no shared unit for the pairing to move. | All three co-presences, both flat series, and the figure as filed. |
+| **The Debt Scale** | A Collector's request, granted once: weigh a sheet as an obligation and see what the dishes say. It is the only contact this wing has permitted between a prediction and an instrument of account. | One co-presence. Both dishes stayed level and the Scale returned no reading, while the tray kept its ordinary rate of nine to fourteen sheets a week and yielded four during the session. A prediction is owed by nobody; the Scale does not weigh one. | The single co-presence, both dish readings, the tray count, and the standing rate. |
+
+**Interaction procedure:** No second holding is brought into the chamber and none is to be. The register's rule — nobody is judged on a likelihood — is the reason, and it is a rule about the facility rather than about the machine: a pairing arranged to test a prediction becomes part of the conditions the prediction was made under, which is the objection the annual review has already minuted. Where contact has been arranged, both instruments' series are filed as found and neither is read back against the other.
+
 ## Warden Record
 
 ### Dials That Turn Alone
