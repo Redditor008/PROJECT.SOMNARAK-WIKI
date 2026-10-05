@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
+| **Resistance** | 25% against Lament pressure, 15% against other pressure types — a standing figure read at the watch distance, since nothing here has ever struck anybody and the number has never had a field trial. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 390/390 |
 | **Han Pressure [ATK]** | 9–22 per hit · Lament |
@@ -81,21 +81,21 @@
 | { *The Flicker* [**Debuff**] } | "The child glows — faintly, fadingly — and the warmth it gives is almost gone." | [Emberling's dying warmth touches the target; they feel the impending dark.] | *Target suffers -10 Composure; the cold is coming.* **[10 Lament DMG [Lament]]** | When the target holds the Child. |
 | { *The Cooling* [**Debuff**] } | "The glow dims — and with it, your hope dims too, and you cannot tell which is fading faster." | [The Child's fading heat drains the target's warmth of spirit.] | *Target loses 10 Composure; they are going cold inside.* **[10 Lament DMG [Lament]]** | When the target stays close. |
 | { *The Spark* [**Attack**] } | "One last flare — bright, hot, desperate." | [A final ember-flash burns outward.] | *Inflicts Lament pressure and one small, hot wound.* **[14-22 Lament DMG [Lament]]** | When the Child is disturbed. |
-| { *The Final Dark* [**Attack**] } | "The ember goes out — and the dark that follows is absolute." | [The Child's death-flash releases all its stored warmth as cold grief.] | *A heavy Deep Blue extinction; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Child is extinguished. |
-| { *The Cold World* [**Ultimate**] } | "Every ember in the field goes dark — and the cold is permanent." | [The Child's cooling spreads to every source of warmth.] | *All in range suffer Lament pressure for three turns in the cold dark.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Final Dark* [**Attack**] } | "The ember goes out — and the dark that follows is the one that stands behind every watch on this path." | [The Child's stored warmth goes at once, and what it leaves is colder than the Gardens at night.] | *A heavy Deep Blue extinction; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Child is extinguished — recorded once, in sixty years of watches. |
+| { *The Cold World* [**Ultimate**] } | "Every ember goes dark — and the cold already in the room turns out to have been the Child's all along." | [The Child's cooling spreads through every source of warmth in reach, the lamp scale included.] | *All in range suffer Lament pressure for three turns in the cold dark.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Emberling is recognised by the carried ember and the gait. Brightness is the operational reading and is taken before anything else — then the approach is set and the positions are taken.
+1. **Tension:** Identification first — Emberling is recognised by the carried ember and by a gait that avoids open ground, and by nothing else. Brightness against the lamp scale is the operating reading and is taken before anything else moves; the approach is set seated, at the distance the entity chooses, with the positions fixed before the watch opens.
 2. **Clash:** Four turns, seated, at the distance the entity chooses. It approaches slowly and stops short; nothing in the record describes it closing the last pace itself.
 3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: somebody remains beside it until the brightness falls. Refusal does not end a cycle — it extends one.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Clarity** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Emberling embers’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Emberling embers’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- A worker whose resistance fails takes the cold instead of the room: **Clarity** degrades, the gauge climbs, and the entry is logged by name under the refusal rule rather than as an incident.
+- The longer the watch, the deeper the mark, and it is not the heat: personnel who describe the embers as comforting are rotated out the same day, because that description has preceded all four prolonged-attachment cases in the file.
+- The M.A.W. set is never costless and the armoury is precise about what it costs: the brooch's coal cools within a day of being set down, and the Keepers' standing advice is that the pieces suit people who are already warm and ruin people who are not.
+- Refusal, not time, is what arms the breach: the gauge opens at 35% and rises 10% at each declination, and an emptied corridor is a refusal performed by everybody at once.
 
 ## Appearance
 **Primary Form:** A small child, approximately five years old, made of glowing embers. The Child carries one ember that never dies.
@@ -156,7 +156,7 @@ Emberling is a Subject with Subject-Body manifestation and Lament expression, he
 **Reading the response:** A falling gauge means the immediate state is easing and the underlying sorrow is exactly where it was. A rising gauge means the work has fed the wound — on this holding that nearly always means somebody declined it, or left early, or was present without attending. Record brightness at both ends of the cycle whatever the gauge did; brightness is the number that has never misled anybody here.
 ## Breach Behavior
 
-> *"Emberling embers has broken free. Moves toward adults who might protect it."*
+> *"Emberling is out. It has not run, it has not forced anything, and it is walking toward whichever of us it takes to be able to carry it."*
 
 | Field | Detail |
 |---|---|
@@ -292,7 +292,8 @@ The cold is reported by everybody within four metres and recorded by no instrume
 **Entry 3 — <Excerpt from Counseling Log>** *<Warden, after a fourth consecutive watch>* — "It is not that it wants to be picked up. It has never reached past the last pace. It wants somebody to still be there in an hour, which I can do, and which turns out to be the hardest thing anybody has ever asked me for."
 The Warden asked, at the end of the session, whether the watch counted as work. The counsellor recorded that she did not know, that nobody present knew, and that the question was later answered by the activity review rather than by anybody in that room.
 
-**Entry 4 — <Containment Notice>** Management: sit within reach, remain, and do not take the ember. Pugnahan is prohibited. Refusal — declining, leaving early, or passing the watch to somebody else once the entity has approached — is the single documented escalation trigger on this holding and is logged by name, not as an incident.
+**Entry 4 — <Containment Notice>**
+Management: sit within reach, remain for the stated duration, and do not take the ember. Pugnahan is prohibited. Refusal — declining, leaving early, or passing the watch to somebody else once the entity has approached — is the single documented escalation trigger on this holding and is logged by name, not as an incident.
 Nothing in this notice is a request for warmth, empathy or feeling of any kind, and the earlier wording that asked for them was withdrawn in Y4243. What is required is physical presence for the stated duration. What happens inside the person providing it is not the facility’s business and has twice been held not to be.
 
 **Entry 5 — <The Dimming Series>** Across eleven years the carried ember was photometered every quarter-hour of every watch and every unwatched hour. The curve is reproducible to a degree nothing else in this wing approaches, and what it discriminates is set out in the Watch Record below. The archivist's note on the series is one line: it can tell the difference, and we cannot.
@@ -300,11 +301,11 @@ No crystallisation event is recorded for this entity and none is claimed. It was
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Emberling embers; the other feeds it.
+> What the watch comes down to: remain beside it until the brightness falls, or decline the sitting and let the count of refusals do the rest.
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Stay: sit within reach, remain for the stated duration, and leave the ember where it is. | Decline: withdraw early, or pass the watch to somebody else once the entity has approached. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is witnessed; Emberling is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Emberling withdraws without revelation. |
+| The ember climbs back to baseline and brightness holds; the gauge falls as it has fallen in every attended watch for sixty years, and the cycle is recorded. | The ember keeps falling toward its floor, the weeping starts somewhere that is not its mouth, and the breach opens at 35% with 10% added at the next refusal. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -378,8 +379,8 @@ Some sorrows are about cruelty. Emberling is about absence — the simple absenc
 - Flerehan and Ferrehan lower the gauge; Viderehan is inert; Pugnahan raises it and is prohibited.
 - Personnel frequently stay past the end of a watch. The practice is recorded, is not discouraged, is not rostered, and since Y4243 is not paid; the history of that decision is set out in the Watch Record.
 **Observation Notes:**
-- Formed from a forgotten fairy tale about a girl with embers.
-- The ember never goes out; it warms no one.
+- Formed from a forgotten fairy tale about a girl with embers; three partial tellers' versions are held, none complete, and none agreeing on what she was looking for. The dimming series has run for 11 years, and the substitutions were tried in 1,406 trials, each one an hour long with the photometer running.
+- The ember never goes out; it warms no one. Left alone it falls to its floor over about 90 minutes, and it climbs back to baseline in about 20 minutes once somebody sits within the last pace — the curve that the 211 off-shift attendances and the 940 hours a year exist to keep alive.
 **Cross-References:** Echo Gardens · Zone D · The Consolihan · the dimming series · the welfare-jurisdiction opinion of Y4242 · the Y4243 activity review · the presence-allowance proposal
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** A forgotten fairy tale; the girl’s sorrow survived the story.

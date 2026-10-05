@@ -20,9 +20,9 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **175 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **134 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **110 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **179 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **135 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **111 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
@@ -1486,6 +1486,21 @@ whole-file fraction 0.020 → **0.019**; worst steady **0.132**. Movement: `R-29
 252, series 221); section-clean 133 → **134 / 301**; residue-free 171 → **175 / 302** (carriers 127, instances
 268, lines 22); file-clean 217 → **218 / 302**. **Batch 15 is closed at three.**
 
+**Batch 16, unit 1: Emberling `C-IIβ-101` closed.** Measured at `7a4c2d5`: 2 dirty sections (최종 관찰 0.447 in
+47 grams, Combat Record 0.167), closed in one wave of 11 sites plus a second wave for the clauses; 7,898 →
+**8,194 words**; `tpl.py` residue 2 → **0**; `verify.py` residual 0 throughout; `sectfile.py` **0 section(s) over
+0.05**; `wikistd.py` meets **True** with **both open clauses closed** — the condition restated at line start in
+the file's own words (the Entry 4 notice split so `Management:` registers: *sit within reach, remain for the
+stated duration, and do not take the ember*), the series on its own digits written into the counted Registrum
+Observation Notes (11 years, 1,406 trials, 211 attendances, 940 hours a year — disclosed restatement). Repaired
+along the way: four name splices from the filename's `embers`, and a Final Observation table that had been
+spliced in from a grappling entity and contradicted a file whose subject has never touched anybody. Board
+effects outrun the file: removing the 10-dossier M.A.W. never-costless carrier retired that shared line
+archive-wide, so residue-free went 175 → **179 / 302** (carriers **123**, instances **257**, lines **21**) and the
+worst whole-file fraction 0.132 → **0.125**. Movement: `R-29` 110 → **111 / 301** (condition **253**, series
+**222**); section-clean 134 → **135 / 301**; file-clean steady **218 / 302**; median **0.019**; archive dirty
+sections 944 → **942**. **Batch 16 stands at one of three.**
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1535,9 +1550,12 @@ that tier as batch 15's first unit** — three waves, 7,051 → 7,530 words, 0 s
 `N-IIβ-033` (8 → 0, three waves, plus Weighting Bird `C-IIIγ-032` 4 → 3 as a side effect) and Cracked Mirror
 `C-IIβ-310` (5 → 0, three waves, both open clauses closed — condition on the file's own timekeeper rule, series
 on a disclosed digit restatement of its own figures, plus Lacrima `N-Iα-905` 3 → 2 as a side effect).
-**Batch 16 opens at three** on the freshly re-derived tier: Emberling `C-IIβ-101` (2 dirty, 0.447, condition and
-series open), Learned Your Face `C-IIIγ-195` (7, 0.443, both clauses already satisfied) and Weeping Statue
-`C-IIβ-055` (2, 0.442, series open); Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
+**Batch 16 stands at one of three**: Emberling `C-IIβ-101` came off the head in two
+waves — 2 dirty sections closed, both open clauses closed (condition restated at line start in the file's own
+words; series on its own digits: 11 years, 1,406 trials, 211 attendances, 940 hours a year), 7,898 → 8,194 words,
+and the retired 10-dossier M.A.W. never-costless carrier took that residue line out of the board with it
+(carriers 123, instances 257, lines 21). Learned Your Face `C-IIIγ-195` (7, 0.443, both clauses already
+satisfied) leads the remainder, Weeping Statue `C-IIβ-055` (2, 0.442, series open) behind it; Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
 series open) remain in the cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep

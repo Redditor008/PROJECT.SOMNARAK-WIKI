@@ -38,6 +38,32 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 16 / unit 1 — Emberling `C-IIβ-101` closed (2026-10-06)** —
+  measured at `7a4c2d5`: **2 dirty sections** — 최종 관찰 (Final Observation) 0.447 in 47 grams and Combat Record
+  0.167 — both closed in one wave (11 sites), and the unit's second wave closed the rest; 7,898 → **8,194 words**;
+  `tpl.py` residue 2 → **0**; `verify.py` residual already **0**; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True** with **both open clauses closed**. **Condition:** the file's only `Management:` sat
+  mid-line inside Story Log Entry 4, where no registering shape can see it — the entry was split so the file's own
+  rule starts a line: *sit within reach, remain for the stated duration, and do not take the ember*. **Series:**
+  closed by writing the file's own figures into the counted Registrum Observation Notes — **11** years of dimming
+  series, **1,406** substitution trials, **211** off-shift attendances, **940** hours a year — a digit restatement
+  of its own numbers, **disclosed** as such (number-words ruling still pending). Also repaired: **four name
+  splices** (`Emberling embers's`, `Emberling embers` — from the filename's `embers` — in both Consequences
+  bullets, the breach banner quote and the Final Observation header) and the **Final Observation table**, whose
+  stock pair (*Endure it — bear the weight / Struggle free — try to throw it off*) described a grappling entity
+  and contradicted this file, which has never touched anybody; it now holds the file's own choice — stay and
+  remain, or decline and feed the refusal count. Both Residue blockers were re-authored onto the file's own
+  practice: the 13-dossier `**Resistance**` carrier (a standing figure read at the watch distance) and the
+  10-dossier M.A.W. never-costless carrier (the brooch's coal and the Keepers' standing advice). Removing the
+  latter's tenth dossier **retired that shared line archive-wide** (10 → 9 carriers), which is why the counters
+  fall by more than this file: residue-free 175 → **179 / 302** (carriers 127 → **123**, instances 268 → **257**,
+  distinct residue lines 22 → **21**), and the archive's worst whole-file fraction 0.132 → **0.125**. Movement:
+  `R-29` 110 → **111 / 301** (condition 252 → **253**, series 221 → **222**); section-clean 134 → **135 / 301**;
+  file-clean steady at **218 / 302** (this file was already whole-file clean); median steady at **0.019**. No
+  corpus edits; archive dirty sections 944 → **942**. **Batch 16 stands at one of three**; Learned Your Face
+  `C-IIIγ-195` (7 dirty, 0.443, both clauses satisfied) is next, Weeping Statue `C-IIβ-055` (2, 0.442, series
+  open) behind it.
+
 - **Batch 15 / unit 3 — Cracked Mirror `C-IIβ-310` closed, closing batch 15 at three (2026-10-06)** —
   measured at `97459df`: **5 dirty sections**, worst Activation Behavior 0.447, then M.A.W. Equipment 0.262,
   최종 관찰 (Final Observation) 0.234, Combat Record 0.130 and 감각 묘사 (Flavor Text) 0.129. All five closed in
