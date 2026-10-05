@@ -147,6 +147,8 @@
 The table is nearly useless here and is kept for completeness. Two of the four Work Types are invalid for a Place and the other two do not touch the mechanism: this entity is made of what people do not say to each other, and no procedure the R.D. owns can say it for them. The honest operational document for the Unspoken Line is the metres-closed board, which is not a work record at all.
 
 **Reading the response:** Measure the seam, not the gauge. Length in metres, bearing in degrees, taken from the same two marks on the fountain rim every week; the gauge has never once disagreed with the tape and the tape is four days faster. The second reading is social and is taken by the shelter-matron rather than by the R.D.: how many people crossed the junction on an ordinary Tuesday. That figure has risen from eleven to sixty-three since the register opened.
+
+Management: never clear the junction, keep the market open, and find somebody on either side with a reason to talk, because the seam grew during every evacuation and stops when somebody speaks across it.
 ## Expansion Behavior
 
 | Field | Detail |
