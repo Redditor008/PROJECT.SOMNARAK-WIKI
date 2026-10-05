@@ -38,6 +38,14 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Workstream 9 / `R-29` turn: the Unknown-wing short-forms completed, the cheap `R-29` gaps closed, and the gate and dashboard corrected (2026-10-05)** —
+  - Completed the three remaining short-form Unknown-wing dossiers to the `R-29` standard: The Unbroken Pledge, The Ancestral Guilt and The Singing Needle. Seven parity sections each, authored from each file's own canon with its own instrument, management condition and institutional cost. With The Glass Silt Drifter, all four short-form Unknown-wing files now meet the standard.
+  - Closed single-clause `R-29` gaps in thirteen further dossiers, one commit each: the management condition (Survivor's Span, Grasp, Errant, The Unspoken Line) and one dirty section (Uprooted, Memory Chain, Animus, Forgotten Tear, Mirror of Rising, Deadline, Foam Flood, Soot Fry, Exiles' Wall). Mirror of Rising and Deadline also lost a sentence that narrated an earlier version of the file (`R-01`).
+  - `R-29` moved 27 → 43 of 302; section-clean (`R-27`) 70 → 79; dispositions read 302 of 302.
+  - `tools/gate.sh` now pushes the checked-out session branch instead of a hard-coded earlier one, refuses `main` and `NON-WIKI`, requires each linter's explicit PASS string, and regenerates the metrics; the CI SSOT-parity step had been red on the inherited tree.
+  - `tools/wikistd.py` keys the disposition lookup on the filename code; `tools/dirtylines.py` added (the lines inside each dirty section that carry shared 8-grams).
+  - Regenerated `CANONICAL_METRICS.json`, `CANONICAL_METRICS.md` and the README totals.
+  - State, next targets and the findings left for the owner are in `REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS.md`.
 - **V6 integrity round (decoration revert, bespoke records, label lint)** —
   - V6-1: reverted all appended `[SE-code]` tags and own-name label parentheticals, including
     395 instances hidden inside table cells that an end-of-sentence sweep had missed.

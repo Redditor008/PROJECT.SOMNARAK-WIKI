@@ -10,14 +10,15 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 
 | Measure | Value |
 |---|---|
-| Dossier body lines | 31308 |
+| Dossier body lines | 31314 |
 | Lines shared by 30+ dossiers | 0 |
 | **Headline** | **0.00%** |
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **102 / 303** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **71 / 303** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **80 / 303** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **43 / 302** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/178 · OP 21/41 — all floors met** |
 | Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 159 / 303 |
 | Archive median prose generic fraction | 0.048 |
@@ -73,9 +74,9 @@ The owner is right and the `0.00%` is also right. `tools/boilerplate_report.py` 
 
 | Measure | Value |
 |---|---|
-| Distinct residue lines | 135 |
-| Residue instances | 3382 |
-| Dossiers carrying residue | 278 / 303 |
+| Distinct residue lines | 59 |
+| Residue instances | 809 |
+| Dossiers carrying residue | 201 / 303 |
 | **Dossiers clean (fixed counter)** | **102 / 303** |
 
 Opening baseline was 146 distinct / 3,745 instances / 11 clean. The first ten entities taken under this workstream were all drawn from the Workstream 5 pending pool, so each one closed a disposition row in the same commit as its clean.
@@ -175,6 +176,98 @@ Section-cleanliness is the binding constraint, as it has been since `R-27`. The 
 concentrated: 34 dossiers have no Entity Interaction Record, and four short-form Unknown-wing files
 were missing seven sections each. The first of those four — The Glass Silt Drifter `O-IIIγ-1052` —
 was completed from its own canon this turn and now meets `R-29` in full.
+
+### Progress, 2026-10-05, second turn
+
+**`R-29`: 27 → 43 / 302.** One `gate.sh` commit per dossier, each pushed and verified against the
+remote ref. Draft pull request #12 into `NON-WIKI` is open and is not merged (`R-13`).
+
+| Clause | Start of turn | Now |
+|---|---|---|
+| **Meets `R-29`** | **27** | **43** |
+| Parity complete | 267 | 270 |
+| Specific management condition | 229 | 236 |
+| Own numeric series | 176 | 179 |
+| Disposition classified | 300 | 302 |
+| Section-clean (`R-27`) | 70 | 79 |
+
+Dossiers by how many conditions they still fail: **0 → 43 · 1 → 114 · 2 → 112 · 3 → 26 · 4 → 7.**
+Archive-wide there are **1,458 dirty sections in 223 dossiers**, which is the size of the Workstream 7
+reset pass.
+
+| Dossier | Gap | How it was closed |
+|---|---|---|
+| The Unbroken Pledge `N-IIIβ-1056` | 7 parity sections | Authored. Instrument: turns of the braid, read as ridges at the throat. Three bearers cannot be treated because the Office will only say *service cannot be confirmed*; this ties it to the Year 4164 instrument defined in the Forgotten Soldier file. |
+| The Ancestral Guilt `N-Vω-1055` | 7 parity sections | Authored. Instrument: lines of script, one per generation of the visitor's lineage. The Starting Sorrow Gauge row read `980/980` against `6,800 / 6,800` in the Combat Record and was reconciled to the Combat Record; one pre-existing ` ,` seam repaired. |
+| The Singing Needle `O-IVγ-1053` | 7 parity sections | Authored. The hazard and the instrument are one object: the picket anemometer cups stop when it sings, and the first bleed follows a median 4 seconds later. |
+| Survivor's Span, Grasp, Errant | management condition | The sentence was already in the file as "Management is … / turns on …"; moved into the `Management:` form. `R-18` batch-short, nothing invented. |
+| The Unspoken Line `C-IVδ-251` | management condition | One line written from its own Response sequence. |
+| Uprooted, Memory Chain, Animus, Forgotten Tear | one dirty section | The whole section hung on one slot-filled sentence (below); replaced by one written from the file. |
+| Mirror of Rising, Deadline | one dirty section, and `R-01` | The same sentence. Both also opened their Expanded origin context by narrating an earlier version of the file ("has been removed"); converted to cause. |
+| Foam Flood, Soot Fry | one dirty section | One paragraph, the Interaction Pattern opener, rewritten from each file and deliberately not as parallel templates (`R-04`). |
+| Exiles' Wall | one dirty section | One sentence, the stock "record the first X, the first Y" method opener. |
+
+**The largest single residue found.** The sentence *"A choice presented to the observing worker at
+the climax of contact. One path reveals `<Name>`; the other feeds it."* sits, name slotted, in the
+`최종 관찰 (Final Observation)` section of **211** dossiers (217 at the start of the turn). It is `R-23`
+shape 2, slot-filled prose, and it is the reason that section is dirty across most of the archive
+(0.73 on the league table at the start of the turn). It is careful-detail under `R-18`: each
+replacement is written from the one file, is longer than the template, and must not restate the two
+table options. In a dossier where it is the only dirty line, one sentence completes the dossier.
+
+The second family is the third sentence of the Interaction Pattern paragraph, *"… the team must
+record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge,
+or containment stability,"* which **127** dossiers still carry.
+
+**Tooling changed this turn.**
+
+- `tools/gate.sh` had the previous session's branch name hard-coded and would have pushed this
+  session's commits there. It now pushes the checked-out session branch, refuses `main` and
+  `NON-WIKI`, requires each linter's explicit PASS string (`R-11`), runs `audit_lore_archive.py`,
+  regenerates and stages the metrics (the old step printed PASS unconditionally, and the CI
+  SSOT-parity step was red on the inherited tree), and verifies HEAD against the remote ref.
+- `tools/wikistd.py` keyed the disposition lookup on the first code inside the file, which misread
+  the Kind-Healer progression variants `071b` and `071c` (filed under the base code by design). It
+  now keys on the filename code; the dashboard reads 302 / 302, matching the index.
+- `tools/dirtylines.py` (new): for each section over 0.05, only the lines inside it that carry
+  shared 8-grams. Four dossiers were finished on its output, each on a single sentence.
+
+**Next targets, in order (`R-13`).**
+
+1. **Thinking Engine `C-IIIγ-904`, Duri's Heart `C-IIβ-901`, Grimoire `C-IIβ-906`, Glass Elsewhere
+   `N-IIβ-903`.** Each fails exactly one condition: no Entity Interaction Record. No other dossier
+   references the first, second or fourth, so each relation has to be written from both sides.
+2. **Stormscale Sovereign `C-Vδ-949`.** Its only dirty section is M.A.W. Equipment: one 21-shingle
+   paragraph and the four Use Notes cells, all built from the same cost sentence.
+3. **The choice sentence in the other 211 dossiers**, worst section first; then the Interaction
+   Pattern sentence in the other 127.
+4. **`R-01`:** The Debt Chain `N-IIIβ-160` and Forgotten Name `N-IIα-215` still narrate an earlier
+   version of themselves in the first Expanded-origin sentence.
+5. **Own numeric series, 13 dossiers that fail only that clause.** Three are Rank V holdings that are
+   deliberately projection-only (The Convergence, Forgotten God, The Final Door); their series has to
+   stay honest under `R-29` clause 5, so they need reading before anything is added.
+6. **The Music Box of Agony `N-IIγ-903`:** its `## Activation / Expansion Behavior` heading is not one
+   of the four event headings `wikistd.py` recognises. Decide by the `R-28` precedent, on evidence,
+   whether to rename it; it also has four dirty sections.
+
+**Noticed and deliberately left.**
+
+- `SOMNARAK-WORLD/Unknown_Entities/README.md` says Floor 6 is supervised by "Zyrak (The Exile)". The
+  Reverie Directorate codex has Floor 6 under Archive Lead Marjuk, Zyrak as Extraction Lead on Floor 3
+  and The Exile as Xyan on Floor 8. It is an owner file, so it is reported and not edited; this
+  turn's text uses Marjuk.
+- `sect.py` skips only four named table headers as furniture, although `R-24` says all header rows
+  are. Measured: skipping them all would move the archive by one dossier (75 → 76 of 303). Not
+  changed; a measure should not move mid-campaign without the owner.
+- `verify.py` lists `..` as a seam, so a deliberate dialogue ellipsis reads as one (The Unspoken
+  Line's Story Log has one). `seam_lint.py`, the gate, is right and `..` there excludes `...`.
+- `verify.py` flags the Story Log Entry 1 opener "X is logged as a … manifestation expressing …" in
+  176 dossiers. Entry 1 is on the "Deliberately untouched" list; rewording it to dodge the marker
+  would be metric reframing (`R-14`).
+- `tpl.py` reports the capability banner `> **This Relic is Capable of Channel Overload and
+  Han-Resonance Bleed**` (18 dossiers) as residue, though it reads as a label. Whether it is
+  sanctioned furniture is a Workstream 6 decision. It keeps Foam Flood and Deadline above zero.
+- The `071b` / `071c` designations differ from their filenames on purpose (Catalog scope note).
 
 ## Workstream 8 — Breach Balance (`R-28`, done 2026-10-05)
 
@@ -297,6 +390,8 @@ Not repaired, because history is not rewritten (`R-17`).
 - A commit message reading `48->??`.
 - A commit pushed with two open `label_lint` violations, fixed in a later commit.
 - A commit message reading `45->10` where the measured figure was 9.
+- The Memory Chain commit message reads `6,601 -> 6,613`; the measured figures were 6,613 -> 6,624.
+- The Foam Flood and Soot Fry commit messages describe the stock opener as carried by many dossiers. The exact first sentence ("does not exist in total isolation") was in those two files only; the shared part was the third sentence, which 127 dossiers still carry.
 
 ## Traps that have cost time
 
@@ -306,4 +401,8 @@ Not repaired, because history is not rewritten (`R-17`).
 - Two cleaner patterns sharing an opening fragment will eat each other; the assert catches it and aborts before writing.
 - Changing a Story Log entry tag without changing the entry under it leaves the document claiming to be one thing and reading as another. Caught in Forgotten Silence after the tag was rewritten and the paragraph was not.
 - Measuring on a hand-rolled line scan gives the wrong population. Use `br.collect`.
+- A branch name written into a script outlives the session it belonged to. `gate.sh` had one; it now reads the checked-out branch.
+- A helper kept outside the repository is lost on a sandbox reset. `dirtylines.py` lives in `tools/` for that reason.
+- Two replacements written to cure the same slot-filled line must not be parallel templates; that reintroduces the defect one level up. Vary structure and focus (Foam Flood and Soot Fry).
+- A key taken from the first match inside a file can differ from the key the index uses; match on the filename code.
 
