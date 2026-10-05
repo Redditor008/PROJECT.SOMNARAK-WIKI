@@ -38,6 +38,33 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 4 / unit 3 — Mourning a Life I Never Lived `N-Iα-519` brought to the standard (2026-10-05)** —
+  - The file measured **11 dirty sections** (worst Behavior 0.386, Expansion Behavior 0.327,
+    관찰 기록 (Observation Log) 0.325, Origin 0.324) and all eleven were closed; 5,745 → **6,507
+    words**; `tpl.py` residue 1 → **0** and `verify.py` residual 1 → **0** with the `seam` flag
+    cleared (a stock flavour line's unspaced ellipsis, rewritten); `sectfile.py` ends at
+    **0 section(s) over 0.05**. **Condition** was already satisfied and was not touched.
+  - **Series** closed by restating the file's own figures inside a real edit — the Trivia
+    `Field detail` bullet now carries 198 gauge, 15 per cent against Void, 5 per cent against
+    anything else, 10 turns and 10–14 Han-Energy a cycle. A restatement, disclosed as such.
+  - The record's instrument is the tape and the roster: the file's own log runs thirty shifts
+    against the intentions voiced during them — no open intention, no growth; one to three, eleven
+    centimetres; more than three, thirty-four — so the containment reading is the net's measured
+    extent and the control is the roster office rather than the Wardens. Every carrier was rebuilt
+    on that: the Origin's `Expanded origin context` (the plan is deliberately not reproduced, since
+    a worker who can picture the life cannot say that nothing is missing), the Behavior notes, the
+    Expansion escalation and response sequence, the four M.A.W. field rows and three appearance/cost
+    lines, the Observation Progression and method, the Final Observation pair (say it plainly vs.
+    keep it open), the flavour-text beats and all three interaction rows. The Sorrow Seed pairing is
+    entered as a subject pairing with no co-presence logged; the Memory Well's single co-presence
+    left the gauge unmoved on both sides.
+  - Movement: `R-29` 76 → **77 / 301**, series 202 → **203**, section-clean 99 → **100 / 301**,
+    residue-free 126 → **127 / 302** (instances 605 → 604, carriers 176 → 175), file-clean
+    176 → **177 / 302**, median and worst unchanged at 0.037 / 0.169.
+  - **Batch 4 closes at the floor of three** (`376a045` Broken Whisper → `bc8e7ac` Sorrow Gate →
+    this unit). Its units measured 11 dirty sections and 5,700–7,800 words each — not simple by
+    `R-26`'s test, so the ladder does not ratchet upward. Batch 5 opens at three on the freshly
+    measured tier: Breach `N-IVδ-339` and Cenotaph `N-IVδ-525` are the measured heads.
 - **Batch 4 / unit 2 — Sorrow Gate `C-IVδ-252` brought to the standard (2026-10-05)** —
   - The file measured **11 dirty sections** (worst 관찰 기록 (Observation Log) 0.444, Behavior 0.400,
     Operational Parameters 0.276) and all eleven were closed; 6,578 → **7,479 words**; `tpl.py`

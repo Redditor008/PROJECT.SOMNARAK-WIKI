@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **126 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **99 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **76 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **127 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **100 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **77 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 176 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 177 / 302 |
 | Archive median prose generic fraction | 0.037 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -833,6 +833,25 @@ event. Movement: `R-29` 75 → **76 / 301**, condition 245 → **246**, series 2
 residue lines 47 → 46), file-clean 175 → **176 / 302**, median 0.038 → **0.037**, worst unchanged 0.169.
 Batch 4 stays at the floor of three: Mourning a Life I Never Lived `N-Iα-519` (series False) is the third
 unit, and if the batch can honestly run further, Breach `N-IVδ-339` and Cenotaph `N-IVδ-525` follow.
+
+**Batch 4, unit 3: Mourning a Life I Never Lived `N-Iα-519` closed — and the batch closed with it, at
+the floor of three.** The file measured **11 dirty sections** at the head of its unit (worst Behavior
+0.386, Expansion Behavior 0.327, 관찰 기록 0.325, Origin 0.324) and all eleven were closed; 5,745 →
+**6,507 words**; `tpl.py` residue 1 → **0** and `verify.py` residual 1 → **0** with the `seam` flag
+cleared; `sectfile.py` ends at **0 section(s) over 0.05**. The **condition** clause was already
+satisfied and was left alone; the **series** clause closed by restating the file's own figures inside
+a real edit (Trivia `Field detail`: 198 gauge · 15 per cent against Void · 5 per cent against anything
+else · 10 turns · 10–14 Han-Energy a cycle) — a restatement, disclosed. The record's instrument is the
+tape and the roster: an open intention voiced in the chamber grows the net, and the file's own thirty-
+shift log (no intention, no growth; one to three, eleven centimetres; more than three, thirty-four) is
+the whole expansion model. Movement: `R-29` 76 → **77 / 301**, series 202 → **203**, section-clean 99 →
+**100 / 301**, residue-free 126 → **127 / 302** (instances 605 → 604, carriers 176 → 175), file-clean
+176 → **177 / 302**, median and worst unchanged at 0.037 / 0.169. **Batch 4 is closed at three** — its
+units were 11 dirty sections and 5,700–7,800 words each, which is not simple by `R-26`'s test, so the
+ladder does not ratchet upward. Batch 5 opens at three on the freshly measured tier: Breach
+`N-IVδ-339` (11 dirty · condition True · series False) and Cenotaph `N-IVδ-525` (10 dirty) are the
+measured heads, and the third unit is to be re-measured at the head of the batch rather than carried
+over.
 
 **Batch accounting, the batch before this one** — three units were finished in it —
 Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's
