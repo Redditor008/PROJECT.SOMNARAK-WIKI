@@ -38,6 +38,37 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 4 / unit 2 — Sorrow Gate `C-IVδ-252` brought to the standard (2026-10-05)** —
+  - The file measured **11 dirty sections** (worst 관찰 기록 (Observation Log) 0.444, Behavior 0.400,
+    Operational Parameters 0.276) and all eleven were closed; 6,578 → **7,479 words**; `tpl.py`
+    residue 4 → **0** and `verify.py` residual 2 → **0**; `sectfile.py` ends at **0 section(s) over
+    0.05**. Two clauses closed with the work rather than around it.
+  - **Condition** was `None` on prose alone — the record's `| **Management** |` row carried the
+    blacklisted stock phrase *Enforce valid Work Types…*. It now carries the holding's own
+    mechanism: destroy every rendering of the whispering produced in the session under witness,
+    enter the destruction in the vault log, and keep no copy anywhere in the facility, *because the
+    Gate's measured state responds to documents and this is the only action on the record that
+    cools it*. That mechanism is the file's own: 209 transcription attempts logged, 207 destroyed,
+    2 unaccounted from the same quarter of 4213, and the inner face has not returned to its
+    pre-4213 reading in the thirty-one years since.
+  - **Series** closed by restating the file's own figures inside a real edit — the Trivia
+    `Field detail` bullet now carries 910 gauge, 45 per cent against Void, 35 per cent against
+    anything else, 24 turns and 20–28 Han-Energy a cycle. This is a restatement, disclosed as
+    such, not new data.
+  - The record's instrument is the pair of temperatures taken at the frame — outer face cold, inner
+    face warm, never averaged — and its unit of escalation is the document rather than the event:
+    the audible range widens as renderings of the whisper exist anywhere in the facility. Every
+    carrier was rebuilt on that: the five combat action rows, the trio of banners (which drops the
+    stock channel-overload wording from this file), the Log-and-Method rows, the four M.A.W.
+    appearance/cost lines and all four Field Use Record rows, the four Observation Progression
+    rows, the Final Observation pair (write nothing down vs. carry an interpretation out), the
+    flavour-text beats, the three interaction rows and the Registrum's faction and review lines.
+    The Memory Weaver pairing is entered as a claim, not a result — no co-presence has been logged
+    with both holdings' readings attached.
+  - Movement: `R-29` 75 → **76 / 301**, condition 245 → **246**, series 201 → **202**,
+    section-clean 98 → **99 / 301**, residue-free 124 → **126 / 302** (instances 618 → 605,
+    carriers 178 → 176, distinct residue lines 47 → 46), file-clean 175 → **176 / 302**, median
+    0.038 → **0.037**, worst unchanged at 0.169.
 - **Batch 4 / unit 1 — Broken Whisper `O-IIIγ-369` brought to the standard (2026-10-05)** —
   - The file measured **11 dirty sections** (worst 이야기 보고 (Story Log) 0.403, Origin 0.321,
     Behavior 0.266) and all eleven were closed in one commit; 7,801 → **8,612 words**; `tpl.py`

@@ -20,14 +20,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **124 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **98 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **75 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **126 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **99 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **76 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 175 / 302 |
-| Archive median prose generic fraction | 0.038 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 176 / 302 |
+| Archive median prose generic fraction | 0.037 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -816,6 +816,23 @@ found and added to the list below: replacing a whole Story-Log entry leaves the 
 the floor of three — Sorrow Gate `C-IVδ-252` (condition False) and Mourning a Life I Never Lived
 `N-Iα-519` (series False) are the next two; Breach `N-IVδ-339` and Cenotaph `N-IVδ-525` follow if the
 batch can honestly run past three.
+
+**Batch 4, unit 2: Sorrow Gate `C-IVδ-252` closed.** The file measured **11 dirty sections** at the head
+of its unit (worst 관찰 기록 (Observation Log) 0.444, Behavior 0.400, Operational Parameters 0.276) and all
+eleven were closed; 6,578 → **7,479 words**; `tpl.py` residue 4 → **0** and `verify.py` residual 2 → **0**;
+`sectfile.py` ends at **0 section(s) over 0.05**. Both open clauses closed honestly with the work: the
+**condition** clause had been `None` because the record's `| **Management** |` row carried the
+blacklisted stock phrase *Enforce valid Work Types…*; it now carries the holding's own mechanism
+(destroy every rendering of the whispering under witness and keep no copy anywhere — the Gate's measured
+state responds to documents). The **series** clause closed by restating the file's own figures inside a
+real edit (Trivia `Field detail`: 910 gauge · 45 per cent against Void · 35 per cent against anything
+else · 24 turns · 20–28 Han-Energy a cycle) — a restatement, disclosed. The record's instrument is the
+pair of frame temperatures, never averaged, and its unit of escalation is the document rather than the
+event. Movement: `R-29` 75 → **76 / 301**, condition 245 → **246**, series 201 → **202**, section-clean
+98 → **99 / 301**, residue-free 124 → **126 / 302** (instances 618 → 605, carriers 178 → 176, distinct
+residue lines 47 → 46), file-clean 175 → **176 / 302**, median 0.038 → **0.037**, worst unchanged 0.169.
+Batch 4 stays at the floor of three: Mourning a Life I Never Lived `N-Iα-519` (series False) is the third
+unit, and if the batch can honestly run further, Breach `N-IVδ-339` and Cenotaph `N-IVδ-525` follow.
 
 **Batch accounting, the batch before this one** — three units were finished in it —
 Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's

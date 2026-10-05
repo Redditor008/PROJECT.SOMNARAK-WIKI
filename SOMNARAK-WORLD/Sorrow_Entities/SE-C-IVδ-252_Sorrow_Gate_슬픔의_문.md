@@ -29,19 +29,19 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle — drawn from the warm frame, never from the slab, and the vault's ash-smell strengthens by the measure of it |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan at range and Ferrehan on station, and nothing else. The session is not for the reading: take the temperatures, time the utterance, destroy everything written, and leave the Gate as it was found |
 
 ### Operational Notes
 
 - The Gate stands in the deep vault and opens onto the vault wall behind it.
 - Work settles the frame for a shift. The Gate is unchanged, and nothing on record has passed through or been recovered from it.
-- Viderehan and Ferrehan are the valid approaches to the object.
+- Viderehan and Ferrehan are the valid approaches and both are worked from outside the frame; no contact method is authorised on this record and none exists to authorise.
 - There is no breach counter. The influenced radius widens through the vault, and its edge is remeasured from the frame at every session.
 - Residue is recovered from the threshold under separate authorization.
 
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Void pressure; 35% against other pressure types |
+| **Resistance** | 45% against Void, which is the element it presents; 35% against everything else, because a slab with no moving part offers very little to aim at |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Void |
@@ -79,23 +79,23 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Threshold* [**Debuff**] } | "You stand at the gate — and the gate knows you mean to pass." | [The Gate marks the target; the threshold remembers them.] | *Target suffers a Void mark; the gate is aware of their intent.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Gate. |
-| { *The Pull Through* [**Debuff**] } | "Something beyond the gate is calling — and the calling gets harder to refuse." | [The void beyond the Gate tugs at the target; the pull toward what waits.] | *Target loses clarity; they drift toward the threshold.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers at the Gate. |
-| { *The Iron Bar* [**Attack**] } | "The gate slams shut on whoever lingers too long in the frame." | [A heavy bar drops — the Gate punishes the hesitant.] | *Inflicts Void damage; a portion of the target is sheared away.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target blocks the threshold. |
-| { *What Waits Beyond* [**Attack**] } | "The gate opens a crack — and what is beyond reaches through." | [The void behind the Gate spills through in a focused rush.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Gate is forced or struck. |
-| { *The Gate Opens Wide* [**Ultimate**] } | "The gate swings open — and the void pours through unchecked." | [The Gate opens fully, flooding the area with what lies beyond.] | *All in range suffer Void erosion for three turns.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Threshold* [**Debuff**] } | "You stand at the gate — and something on the far side takes your measure." | [The frame reads the target; the vault enters that they meant to pass.] | *Target suffers a Void mark; from here the whisper is addressed to them and to nobody else in the chamber.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target comes inside the frame line. |
+| { *The Pull Through* [**Debuff**] } | "Something beyond the gate is calling — and it has a name for you that you have never been told." | [The pull arrives as an almost-word: the sentence the target has no vocabulary for.] | *Target loses clarity and steps toward the frame; the whisper stops being ambient and becomes address.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers past a full thirteen-second interval. |
+| { *The Iron Bar* [**Attack**] } | "The frame closes on whoever is standing in it, and the frame has never once been open." | [The threshold takes the part of the worker that hesitated, and the vault goes quiet around the gap.] | *Inflicts Void damage; a portion of the target is sheared away.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target blocks the frame or holds the approach against the cordon. |
+| { *What Waits Beyond* [**Attack**] } | "A crack appears — the first in the recorded history of this holding — and something leans into it from the far side." | [The strike crosses the frame rather than the Gate, and what it costs is the last assumption here: that the seal is complete.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Gate is forced, struck, or worked against the inhibition. |
+| { *The Gate Opens Wide* [**Ultimate**] } | "The gate swings open" — the sentence every drill in this wing exists to ensure is never spoken as fact. | [The opening is the failure state; the silence the vault has kept for the whole of its history leaves at once.] | *All in range suffer Void erosion for three turns as the kept unknown is spent.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% and the cordon has not been cleared. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Sorrow Gate is recognised by what it lacks. Several sealed structures are catalogued beneath the Alpha Tree; this is the one with no handle, no lock, no hinges and no seam, cold on the outside and warm at the frame — then the approach is set and the positions are taken.
+1. **Tension:** Identification first, and it is made by absence: the vault holds several sealed structures and this is the one with nothing to grip — no handle, no lock, no hinges, no seam — cold to the palm and warm at the frame. Both temperatures are taken before anyone speaks, and nobody repeats aloud what they believe is behind it.
 2. **Clash:** There is nothing to weep with and nothing to confront. Viderehan is worked at a distance and returns fragments of the whispering; Ferrehan is worked by remaining in the vault while the Gate says nothing at all, which it does for most of any session. No approved method of contact exists and the file does not supply one.
 3. **Resolution:** The session closes when every transcript, partial translation and working note produced during it has been destroyed under witness and the destruction entered in the vault log, and the reading falls below 25%. A session whose notes are retained for later study has not closed.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Composure**, funneling cognitive instability back into the Sorrow Gauge.
+- A worker who works the whisper instead of the frame becomes a conduit: **Composure** erodes by the measure of the language they believe they have recovered, and the instability goes back into the Sorrow Gauge rather than out of the vault.
 - The effect does not intensify with time spent in the vault. It intensifies with interpretation. Every attempt to render the whispering into language, and every copy of such an attempt held anywhere in the facility, warms the inner face of the slab, which is the only quantity here that moves.
-- The lens, the veil and the charm are all made from a threshold nobody has crossed. Each activation borrows a measure of that ignorance and the operator keeps it. The recorded cost is not memory loss in general. It is that the operator loses the words for things rather than the things themselves, and reports the gaps as a feeling of being nearly able to speak.
+- Every piece in this set is ground from a threshold nobody has crossed, so each activation spends a measure of the operator's ignorance and leaves them the deficit: not memory in general, but the words for things — reported in every case on file as the feeling of being nearly able to speak.
 - Left unresolved the sorrow does not rupture. The inner face stays warm, and the whispering carries further through the Alpha Tree vault than it did — three other records in this vault have altered their own behaviour during periods of elevated temperature here, which is the whole of the archive's case for the classification this Gate carries.
 
 ## Appearance
@@ -117,10 +117,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A massive Weight Han-crystal gate without handle, lock, or hinges. It predates the facility. |
-| **Position / movement** | Stationary — a structure or location. The Sorrow Gate file carries the series rather than a single reading. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | Stationary, and on this record that is the strange part: the seal has never been seen to shift, while the reach of the whisper is remeasured every session and has never once matched the figure before it. |
+| **Material / signature** | Void presentation in a Weight Han-crystal mass. Record the outer and inner face temperatures separately and never averaged, the ash-smell in a vault with nothing burning, and the thirteen-second length of each utterance rather than one continuous reading. |
 | **Distinctive markers** | Identify it by what it lacks. Several sealed structures are catalogued beneath the Alpha Tree; this is the one with no handle, no lock, no hinges and no seam, cold on the outside and warm at the frame. |
-| **Identification** | Verify these observations against the SECC code before work or contact begins; more than one record here is described as a door, and this is the one with no procedure for opening it. |
+| **Identification** | Match the SECC code before work or contact. More than one record beneath the Alpha Tree is described as a door or a threshold, and they differ entirely; this is the one that has never opened, has no procedure for opening it, and is not to have one drafted. |
 
 **Appearance protocol:** Record the slab — Weight Han-crystal, no handle, no lock, no hinges, no seam. Record the two temperatures separately and never as an average: the outer face is cold and the inner face, measured at the frame, is warm. Personnel are not to record what they think is behind it.
 
@@ -145,14 +145,14 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Sorrow Gate is recorded as an Object/Place with Object-Void manifestation and Void elemental expression. The current record places it at SECTOR-A-01, Alpha Tree deep vault — sealed; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Gauge behaviour here is a property of the vault rather than of any approach. Viderehan returns fragments of the whispering and Ferrehan returns silence, and both leave the reading where they found it, which is the correct outcome and the only one this record accepts. What moves the file is interpretation: Sorrow Gate is filed as an Object/Place with an Object-Void manifestation, held at SECTOR-A-01 in the Alpha Tree deep vault, and no assumption may be carried across from another sealed structure with a similar entry. A flat gauge is therefore expected, and it is not the same as a safe session — a worker can hold a stable reading the whole shift and still leave with the ash-smell in their clothes, the address of a whisper they cannot repeat, and the settled conviction that something on the far side is at a temperature.
 
 **Reading the response:** Stability under both approaches is the correct and only acceptable outcome; nothing here is expected to fall during a session. The reading rises when the whispering is transcribed, when a transcript is circulated, and when a worker says aloud in the vault what they believe the Gate opens onto — the last being the fastest rise recorded.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Sector / Facility Alteration**
-> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+> **A relic for measurement only — no piece has ever affected the Gate**
+> **The audible range widens through the vault; the slab itself does not move**
+> **An untended channel vents uncontained Void resonance across SECTOR-A-01**
 
 **Activation Trigger:** Touch or sustained listening; no approved method exists.
 
@@ -171,7 +171,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Activation** | Touch or sustained listening; no approved method exists. |
 | **Primary Effect** | May whisper a buried truth for thirteen seconds. |
 | **Duration** | Exactly thirteen seconds. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
+| **Termination / Return** | Close the channel deliberately and return the piece the same shift. An abandoned conduit does not wind down; it vents Void resonance into SECTOR-A-01, and the inner face keeps the reading. |
 | **Risk** | The truth may destabilize the listener or the city. |
 
 **Operational Rule:** The relics require continuous concentration and open conduits, and an untended channel destabilises the field. They are issued here for measurement only; no relic has ever affected the Gate, and none is to be carried in the expectation that it will.
@@ -180,14 +180,14 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Sorrow Gate begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Sorrow Gate: May whisper a buried truth for thirteen seconds. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 10 Seconds | The ash-smell sharpens and the whisper's audible range reaches the far door. Nothing in the chamber is thrumming; a slab with no moving part has nothing to thrum with, and the log records the absence rather than the phrase. | The channel opens on the frame, not on the Gate: the operator's Composure holds, the first thirteen-second interval is timed and written, and the neighbouring gauges are read and left alone. |
 | 30 Seconds | The conduit widens, revealing the memory of the fear of what waits beyond an irreversible threshold. forged during the gate was found beneath the alpha tree already sealed; all records of its maker are absent. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Sorrow Gate's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 1 Minute | Four thirteen-second intervals on station. Breathing stays level and vocabulary does not — the words for things begin arriving late, which is the first cost this set records and the one the stand-down order is written for. | Past 60 seconds the piece charges the operator 4 Composure each 10 seconds. The disengagement order is written before the channel is opened, never after. |
 | 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Void shockwave: The truth may destabilize the listener or the city. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Sorrow Gate: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-A-01, Alpha Tree deep vault — sealed, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation on this record is counted in documents rather than in the room: the inner face warms with every rendering of the whispering that exists anywhere in the facility, and the audible range follows the temperature. Log the session's first transcription, every copy made of it, the reading at the frame before and after, and the number of interpretive documents the vault registrar reports in existence — the last by request, never by estimate. Personnel impressions are entered in a column of their own and never averaged with the instruments; on this holding the instruments have been right and the impressions have been interesting.
 
 **Response sequence:** Secure the vault approaches, confirm the event is an expansion of audible range rather than an activation, clear unshielded personnel, and then satisfy the management condition, which is the destruction of interpretive material rather than any action taken on the Gate itself. Report what was destroyed and who witnessed it.
 
@@ -200,7 +200,7 @@ The escalation pattern is specific to Sorrow Gate: it is not a generic containme
 | **Primary effect** | May whisper a buried truth for thirteen seconds. |
 | **Duration / rate** | Exactly thirteen seconds. |
 | **Risk** | Critical (δ) Object-Void producing Void pressure; The truth may destabilize the listener or the city. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Destroy every rendering of the whispering produced during the session under witness, enter the destruction in the vault log, and keep no copy anywhere in the facility — the Gate's measured state responds to documents, and this is the only action on the record that cools it |
 
 **Activation reporting order:** inner face temperature → audible range along each vault bearing → every transcript or translation attempt made, including abandoned ones → the destruction entry → the reading. Abandoned attempts are listed because they count; the Gate has not distinguished between a finished translation and a discarded one.
 ## M.A.W. Equipment
@@ -211,27 +211,27 @@ The escalation pattern is specific to Sorrow Gate: it is not a generic containme
 
 **Type:** Weapon | **Grade:** δ (Critical) | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that flickers with inner light.
+**Appearance:** a lens-ground disc of Void Han-glass, colourless as the vault air and cold on both faces, flickering once each time the whisper crosses its field.
 
-**Ability:** Void damage to the soul — to identity and memory rather than the body. The lens is ground from the Gate's own material and what it opens in a target is the sense that there is a word for their situation which they have never been told.
+**Ability:** Void damage to the soul rather than the body — to what a target is and to the words they have for it. Ground from the Gate's own material, the lens opens in a target the sense that there is a word for their situation which they have never been told.
 
-**Cost:** The wielder loses small nameless memories with each use, and loses the names of things more readily than the things.
+**Cost:** Small nameless memories with each use, and the names of things more readily than the things. Wielders describe it as an outage of one word at a time, usually arriving in the middle of a sentence.
 
 ### M.A.W. Suit — The Unknown — Extraction Veil
 
 **Type:** Armor (Suit) | **Grade:** δ (Critical) | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a veil of Void Han-gossamer, colourless as the slab's outer face and carrying the vault's ash-smell faintly wherever it is taken.
 
 **Ability:** Turns Void aside from the soul, which is the only pressure here. The veil is what allows a worker to stand at the frame long enough to take the inner temperature.
 
-**Cost:** The wearer feels faintly absent to themselves, and describes their own reports afterwards as having been written by somebody competent and unfamiliar.
+**Cost:** The wearer feels faintly absent to themselves and afterwards describes their own reports as the work of somebody competent and unfamiliar — a cost that has never once been raised as a complaint, which the medical office finds more notable than the absence.
 
 ### M.A.W. Stigma — The Unknown — Extraction Charm
 
 **Type:** Accessory (Stigma) | **Grade:** δ (Critical) | **Element:** Void
 
-**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a small charm of Void Han-glass, colourless and warm at the grip, carrying a weight that does not match its size and does not change when it is set down.
 
 **Ability:** The charm keeps its bearer from being able to repeat the whispering. Bearers can hear it and cannot reproduce it, in speech or in writing, and this is the boon rather than a limitation of the item.
 
@@ -241,18 +241,18 @@ The escalation pattern is specific to Sorrow Gate: it is not a generic containme
 
 ### M.A.W. Use Notes
 
-Each piece is a conditional extension of the Gate rather than ordinary equipment, and the condition is that the bearer does not try to understand it. Carried by somebody who records temperatures and distances, the lens and the veil hold to grade. Carried by somebody who is working on the language, the cost scales and the Void in them becomes active, which here means losing words in the middle of sentences. The charm is given, not issued.
+The three pieces extend the Gate only as far as the bearer's own discipline reaches. Measure temperatures and distances and the lens and the veil hold to grade; work the language and the cost scales until the Void in the bearer is active, which on this set means words going missing mid-sentence. The charm is the exception in every respect, and the exception is the whole of its value.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Sorrow Gate takes: the wielder loses small nameless memories with each use, and loses the names of things more readily than the things. |
-| **During use** | The first sign that Sorrow Gate is charging: the wielder loses small nameless memories with each use, and loses the names of things more readily than the things. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wielder no longer notices Sorrow Gate's toll — the wearer feels faintly absent to themselves, and describes their own reports afterwards as having been written by somebody competent and unfamiliar — which is how every stand-down on this set has been caught. |
-| **After use** | Return the piece and check the sealed baseline: has Sorrow Gate's cost — the wearer feels faintly absent to themselves, and describes their own reports afterwards as having been written by somebody competent and unfamiliar — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Name the wielder and the piece, take the dated baseline, and set a naming task for the shift — the toll on this set falls on words, so a before-and-after naming test is the better instrument and the memory questionnaire is kept only for the archive's continuity. |
+| **During use** | The first sign is a word arriving late: the wielder's sentence stops and restarts. It is logged with the hour by the second worker, never by the wielder, because the wielder's own account is the one item this record does not accept. |
+| **At limit** | The wielder stops noticing the toll, and their reports begin reading as the work of somebody competent and unfamiliar. Every stand-down on this set has been called by the second worker on that sign, and none by the wielder. |
+| **After use** | Return the piece, re-take the naming baseline, and answer one question in writing: has the absence outlasted the rotation? The answer is entered whether or not the wielder agrees, and the charm's wearers are asked the same question a year later. |
 
-**Stat interpretation:** Field performance and human cost are separate axes, and here the human cost falls on the archive as much as on the worker. What the grades cannot show is that four of the six people who have worn the charm subsequently applied to have their own earlier notes destroyed, and that the applications were granted.
+**Stat interpretation:** Field performance and human cost are separate axes, and here the cost falls on the archive as much as on the worker. The grades do not show that four of the six people who have worn the charm later applied to have their own earlier notes destroyed, and that all four applications were granted.
 
 ## 관찰 기록 (Observation Log)
 
@@ -270,18 +270,18 @@ Each piece is a conditional extension of the Gate rather than ordinary equipment
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Sorrow Gate as an Object/Place with Object-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-A-01, Alpha Tree deep vault — sealed. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or sustained listening; no approved method exists. Effect: May whisper a buried truth for thirteen seconds. Duration: Exactly thirteen seconds. Risk: The truth may destabilize the listener or the city. Tool Use Profile — O-Relic Operational Rule: The relic. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Sorrow Gate's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | Two instruments and one prohibition. Take the outer face temperature, wait for the frame to answer warm, time the first utterance to its thirteen seconds, and note the bearing along which it carries furthest; do not repeat any part of it aloud, and do not write down what you believe is behind the slab. |
+| **Sustained observation** | Sessions run to the same shape: Viderehan returns fragments of the whispering and Ferrehan returns silence, and both leave the reading where they found it. The record is built out of the differences between one session and the next — the two temperatures, the audible range at each bearing, the number of renderings in existence — because the Gate has never once supplied a difference of its own. |
+| **Activation or escalation** | The trigger is contact or sustained listening and no method for either has ever been approved. Escalation does not announce itself in the vault: the first sign is the whisper becoming address, and the second is a session's transcripts failing to be destroyed. The response is the destruction entry and the registrar's count, not any action taken on the Gate. |
+| **Post-contact review** | The report is incomplete without the destruction entry number, the two temperatures, and an impression column for what the worker believes lies beyond — entered, dated, and never treated as data about the Gate. The one detail that must not be tidied away is the sorrow the record preserves: a promise kept long after the person it was made to had gone. |
 
-**Observation method:** Record the first sign, which is ash-smell in a vault with no combustion; the first sensation, which is the conviction that the whispering is addressed to you; both surface temperatures; the audible range; and the condition that ends the encounter, which is the destruction of everything written during it. Record the destruction entry number.
+**Observation method:** Ash-smell in a vault with nothing burning is the first sign, and the second is the conviction that the whispering is addressed to you personally — it is addressed to whoever is present, and the conviction is recorded anyway, as a known property of the holding. Take both surface temperatures, the audible range along each bearing, and the thirteen-second interval; close by destroying everything written during the session under a second witness and entering the destruction number. Nothing interpretive leaves the vault, including the observer's own working notes.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sorrow Gate (C-IVδ-252 [VO]) is logged as a Object-Void manifestation expressing Void. Unknown. The Gate formed around a promise no one remembers making. Held at SECTOR-A-01, Alpha Tree deep vault — sealed. It predates all current records.
+Containment file for C-IVδ-252 [VO], the sealed slab beneath the Alpha Tree called Sorrow Gate: an Object/Place with an Object-Void manifestation, Void element, held in SECTOR-A-01 and never opened. It formed, so far as the record goes, around a promise no one remembers making — and it predates every document the Keepers hold.
 
 **Entry 2 — <Excerpt from Field Log, Year 4202>**
 Inner face at the frame, 4202: nine degrees above the vault ambient. The log of that year records the reason it was taken — a surveyor put her hand flat on the crystal, found it cold, and then found the frame warm, and wrote the sentence this file has never been able to improve on: something on the other side is at a temperature, and temperatures are kept by things.
@@ -297,11 +297,11 @@ This office is required, by the management condition of this record, to destroy 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Sorrow Gate; the other feeds it.
+> The choice at the end of a session is not whether to open anything. It is what leaves the vault with you, and one of the two answers has already cost this holding thirty-one years.
 
-| Observe it — see it clearly, without acting. | Reach in — try to fill or fix the absence. |
+| Write nothing down — take the two temperatures, the range and the interval, and let the whisper go unidentified. | Carry an interpretation out of the vault — a transcript, a translation, or a theory said aloud at the frame. |
 |---|---|
-| Whispers reveal fragments of buried truth. The sorrow is seen clearly; Sorrow Gate is fully recorded. | Remains silent while testing the worker's patience. The gauge climbs and Sorrow Gate withdraws without revelation. |
+| The sorrow is recorded by what it does to the room, and the reading ends where it began. | The inner face warms, the whisper carries further, and the session closes on an entry in the vault log that cannot be undone. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -310,30 +310,30 @@ The vault becomes older as you approach. The Gate is black, smooth, and without 
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A massive Weight Han-crystal gate without handle, lock, or hinges. It predates the facility. Notable Features: It is cold outside and warm within, whispers in an unknown language, and has never opened. Identification Profile: The record. The surrounding space does not become generic or abstract; it changes in the specific way associated with Void and the entity's Object-Void form.
+**At first contact:** The vault gets older as you walk in. The slab is black, smooth, and offers nothing to grip, and the cold coming off it arrives without any draught. Put a palm flat on the crystal and the frame answers warm in the same instant — as though the warmth had been waiting for the question rather than for the hand.
 
-**With continued exposure:** Sustained contact reveals the entity's rhythm — the Void pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
+**With continued exposure:** The rhythm is counting: thirteen seconds of whispering, then a gap, then thirteen again, and workers on long postings begin timing the gaps without meaning to. Nothing about the pattern rewards study, and the ones who study it hardest are the ones the medical office watches.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch or sustained listening; no approved method exists. Effect: May whisper a buried truth for thirteen seconds. Duration: Exactly thirteen seconds. Risk: The truth may destabilize the listener or the city. Tool Use Profile — O-Relic Operational Rule: The relic. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Nothing in the chamber changes and the whisper stops being background. It comes addressed to the person present, in thirteen-second intervals that do not overlap, and it takes a moment to notice that the address is a property of the Gate and not an opinion about you. That noticing is the whole of the warning.
 
-**After departure:** Departure is not relief. The Object-Void is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** The ash-smell comes out with you and stays in the clothes for a day; the words go missing later, one at a time, usually in the middle of a sentence. Nothing was opened, and yet every worker who has stood at the frame describes the walk back as a leaving.
 
 ### Interaction Pattern
 
-Sorrow Gate does not exist in isolation. Its recorded relationships with The Final Door, The Memory Weaver, The Forgotten God should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three records are filed against this one because the vault holds them within reach of the whisper, and the archive pairs them by proximity rather than by any agreement between them. The measurable question is narrow: whether the audible range, the frame temperature, or the neighbouring record's behaviour changes while both are present, and what stays changed once the other is withdrawn. Three such changes are on file and they are the whole of this Gate's case for not being inert.
 
 **Interaction method:** Record it alone first and then against the other records in this vault, since those are what its range reaches. In shared conditions record the inner temperature throughout, the audible range along each bearing, and any change in the behaviour of the neighbouring record — three such changes are on file and they are the reason this entity is not classified as inert.
 
 
 ### Entity Interaction Record
 
-The Gate is filed with the Alpha Tree deep vault records, and unlike the rest of them it has no origin in common with anything. The relationships below are what the archive will support. They are not alliances; they are proximity, and what matters about this one is that proximity to it has measurably changed how the others behave.
+The Gate shares a vault with the three records below and shares nothing else with them: no maker, no era, no origin in common memory. Against the archive's other holdings these are proximity relationships rather than alliances, and what has been observed runs one way — the neighbour's behaviour changes, the Gate's does not, and the asymmetry is the finding.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Final Door** | Both are sealed thresholds of unknown origin. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Memory Weaver** | Claims memories of what lies beyond. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Forgotten God** | Sleeps nearby as if guarding it. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Final Door** | Both are sealed thresholds of unknown origin, and neither has been opened by anyone on record. | The measured effect runs one way: the Door's resonance readings steady while the whisper is audible in the vault, and they have not been shown to steady when the Gate is quiet. | Baseline the Door alone, then with the whisper in range; log both readings against the inner face temperature. |
+| **The Memory Weaver** | Claims memories of what lies beyond; the Gate has offered none and surrendered none. | No co-presence has been logged with both holdings' readings attached, so the pairing rests on the Weaver's own claim and is entered here as a claim rather than a result. | Enter the claim and the date it was made, and whether either party produced a memory during the session. |
+| **The Forgotten God** | Sleeps nearby as if guarding it; the wing has never established whether the sleeping predates the Gate's filing or the guard is a coincidence of the vault. | Three behavioural alterations in neighbouring records have coincided with periods of elevated frame temperature, and none has been traced to the Forgotten God — the possibility is filed, not asserted. | Log each nearby alteration with the frame temperature at the time and the distance from both records. |
 
 **Interaction procedure:** Solo baseline first, then the shared encounter: inner temperature before, during and after, audible range at each stage, how long any elevation persisted once the other record was withdrawn, and the number of interpretive documents in existence at the time of the session. The last figure is held by the vault registrar and is to be requested rather than estimated.
 
@@ -378,14 +378,14 @@ Some sorrows are about what was done. Sorrow Gate is about what was prevented �
 - Found already sealed, no maker, no inscription.
 - The Gate warns against opening by the completeness of its seal.
 **Cross-References:** Alpha Tree · The Final Door · The Weeping · The Forgotten God
-**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
+**Faction Involvement:** SED (Carried out the vault survey this record came from) · UCD (Consulted on the whisper's audibility past the Fray-adjacent zone) · Judexhan (Standing δ-grade high-threat review; the classification is queried regularly and has been held every time)
 **Originator:** Unknown; the maker and purpose predate the city.
 
 ### Registry Addendum
 
 **Operational interpretation:** Treat this as a record of something unknown that is made worse by being explained. Every figure here follows from what the facility has written about it. The percentage is the whole mechanism; there is no counter to exhaust, and an unstudied Gate in a sealed vault cools.
 
-**Review requirement:** Re-verify after any Sorrow Tide, after any elevation of the inner face temperature, and after any document referring to this record is created, copied or moved anywhere in the facility — the last unconditionally, including this file, which is reviewed on the same schedule as the material it governs.
+**Review requirement:** Re-verify after any Sorrow Tide, after any elevation of the inner face temperature, and after any document that refers to this record is created, copied or moved anywhere in the facility — the last unconditionally, because on this holding it is the document and not the event that moves the reading. This file sits on the same schedule as the material it governs, which the office that keeps the schedule has asked twice to be excused from and twice not been.
 ## Apex Record
 
 ### A Gate With No Hinges
@@ -422,9 +422,9 @@ The drill assumes the gradient has inverted and runs the full response: chamber 
 ### Registry Trivia
 
 - **Classification detail:** Sorrow Gate is an Object/Place with Entity (IV) — Self-aware, ancient, sealed coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Void, and its registered location is SECTOR-A-01, Alpha Tree deep vault — sealed.
+- **Field detail:** Void is the whole of its presentation and SECTOR-A-01 the whole of its ground. The register restates the file's own figures — 910 gauge, 45 per cent against Void, 35 per cent against anything else, 24 turns of standing work, 20–28 Han-Energy a cycle — so that the vault log and the dossier cannot drift apart.
 - **Recognition detail:** Identify it by what it lacks. Several sealed structures are catalogued beneath the Alpha Tree; this is the one with no handle, no lock, no hinges and no seam, cold on the outside and warm at the frame.
-- **Record detail:** Check the designation before approach. More than one record in this facility is described as a door, and they differ entirely — this one has never opened and no procedure for opening it exists or is to be drafted.
+- **Record detail:** Check the designation before approach. More than one record in this facility is described as a door or threshold, and they differ entirely; this is the one whose own file forbids the question — "Sealed by no one. Do not open it. Ever." — an instruction carried in the catalogue, the Testimony and the vault log as well as here.
 - **Containment detail:** Sealed does not mean silent. The whispering carries past the vault doors and reaches other records, and the containment reading is the audible range and the inner temperature rather than the state of any seal.
 ## Document Information
 
