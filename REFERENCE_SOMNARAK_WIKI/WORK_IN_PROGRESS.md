@@ -1427,8 +1427,10 @@ forced by a corpus side effect on a shipped file, never by the dossier). The tie
 whole-archive at that head rather than carried: **The Rejector `C-IIIγ-063` came off it in batch 13's first
 unit** (7 dirty, 0.506, series open — now closed, 6,915 → 7,773 words, two waves, no second pass). **Walking Calendar `C-IVδ-220` came off it in batch 13's second unit** (7 dirty,
 0.489, both clauses already satisfied and left alone — 7,406 → 8,197 words, two waves). **Drowned Roots `C-IIβ-997` came off it in batch 13's third unit** (7 dirty, 0.483, both clauses already
-satisfied and left alone — 6,271 → 7,034 words, two waves). The batch-13 tier is exhausted and the next head
-is re-derived whole-archive at this commit (below); Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
+satisfied and left alone — 6,271 → 7,034 words, two waves). The batch-13 tier is exhausted and the next head was re-derived whole-archive at this commit:
+**Whispering Gallery `C-IIβ-185` (7 dirty, 0.471, both clauses already satisfied) leads batch 14**, with
+Broken Well `C-IIβ-565` (9, 0.463, series open) and Spreading Well `C-IIIγ-373` (6, 0.457, series open)
+behind it; Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
 series open) remain in the cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
