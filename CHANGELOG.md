@@ -38,6 +38,32 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 4 / unit 1 — Broken Whisper `O-IIIγ-369` brought to the standard (2026-10-05)** —
+  - The file measured **11 dirty sections** (worst 이야기 보고 (Story Log) 0.403, Origin 0.321,
+    Behavior 0.266) and all eleven were closed in one commit; 7,801 → **8,612 words**; `tpl.py`
+    residue 5 → **0** and `verify.py` residual 1 → **0**; `wikistd.py` `meets True`, with the
+    **condition** clause registering the holding's own method — `Keep the transcript a list — one
+    transcriber, one timekeeper, nobody conferring, and no fragment joined to another`, entered as
+    the Detailed Activation Record's `| **Management** | … |` row — and `own_series` already
+    satisfied by the file's own figures.
+  - The record's instrument is the transcript. Fragments are logged one to a line, and the failure
+    state is written as *coherence*: the point at which two half-words begin completing each other,
+    which this holding treats as easier work rather than progress. Every edited section carries that
+    distinction instead of a stock sentence — the choice at the end of a cycle is between keeping
+    the list a list and making sense of it, and the second is the holding's own method rather than
+    the worker's. Object, not place: the crystal drifts against the current running past it, a
+    discrepancy logged every cycle since the holding was filed. The Log-and-Method rows, the banner
+    trio, both combat action rows and the four Field Use Record rows were rebuilt from the file's
+    own terms (2.1-word mean fragment, longest ever nine, the 653/653 pool) rather than patched.
+  - A duplicate was introduced and removed in the same wave: replacing Story Log Entry 5 left the
+    original `**Entry 5 — <Archive Note>**` header standing above the replacement, so the file
+    briefly carried two. No tool flags this; `grep -n` found it. It is now recorded in the traps
+    list (`WORK_IN_PROGRESS.md`).
+  - Movement: `R-29` 74 → **75 / 301**, condition 244 → **245**, section-clean 97 → **98 / 301**,
+    residue-free 123 → **124 / 302** (instances 632 → 618, carriers 179 → 178, distinct residue
+    lines 47), file-clean 173 → **175 / 302**, median generic fraction 0.039 → **0.038**, worst
+    unchanged at 0.169. Batch 4 continues at the floor of three: Sorrow Gate `C-IVδ-252` (condition
+    clause open) and Mourning a Life I Never Lived `N-Iα-519` (series clause open) are next.
 - **Workstream 9 / `R-29`: the four interaction-record-only gaps closed (2026-10-05)** —
   - Thinking Engine `C-IIIγ-904`, Duri's Heart `C-IIβ-901`, Grimoire `C-IIβ-906` and Glass Elsewhere
     `N-IIβ-903` each carried every parity section except `### Entity Interaction Record`. One

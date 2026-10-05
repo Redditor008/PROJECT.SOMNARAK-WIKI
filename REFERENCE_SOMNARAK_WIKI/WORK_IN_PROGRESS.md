@@ -20,14 +20,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **123 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **97 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **74 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **124 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **98 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **75 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 173 / 302 |
-| Archive median prose generic fraction | 0.039 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 175 / 302 |
+| Archive median prose generic fraction | 0.038 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -799,6 +799,24 @@ batch closed at three, not five: the units remain 7–11 dirty sections and 7,00
 is not simple by `R-26`'s test, and the owner restated the floor the same turn — **a batch never runs
 below three SE files**. The next batch opens at three again, on the freshly measured tier.
 
+**Batch 4, unit 1: Broken Whisper `O-IIIγ-369` closed.** The file measured **11 dirty sections** at the
+head of the batch (worst 이야기 보고 (Story Log) 0.403, Origin 0.321, Behavior 0.266) and all eleven were
+closed; 7,801 → **8,612 words**; `tpl.py` residue 5 → **0** and `verify.py` residual 1 → **0**;
+`sectfile.py` ends at **0 section(s) over 0.05**. The **condition** clause had been False on prose alone
+and now registers the holding's own method as the Detailed Activation Record's `| **Management** | … |`
+row — *Keep the transcript a list — one transcriber, one timekeeper, nobody conferring, and no fragment
+joined to another* — and `own_series` was already True and was not touched. The record's instrument is
+the transcript kept one fragment to a line; its failure state is written as *coherence*, the point at
+which two half-words begin completing each other, which this holding counts as the work getting easier
+rather than as progress. Movement: `R-29` 74 → **75 / 301**, condition 244 → **245**, section-clean 97 →
+**98 / 301**, residue-free 123 → **124 / 302** (instances 632 → 618, carriers 179 → 178), file-clean
+173 → **175 / 302**, median generic fraction 0.039 → **0.038**, worst unchanged 0.169. One new trap was
+found and added to the list below: replacing a whole Story-Log entry leaves the original
+`**Entry N — <…>**` header above the replacement, and no tool flags the duplicate. Batch 4 continues at
+the floor of three — Sorrow Gate `C-IVδ-252` (condition False) and Mourning a Life I Never Lived
+`N-Iα-519` (series False) are the next two; Breach `N-IVδ-339` and Cenotaph `N-IVδ-525` follow if the
+batch can honestly run past three.
+
 **Batch accounting, the batch before this one** — three units were finished in it —
 Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's
 floor. The ladder does **not** ratchet to five, because this cohort's units are not simple by
@@ -977,6 +995,7 @@ Not repaired, because history is not rewritten (`R-17`).
 - `set -e` does not abort on a failing left-hand side of `&&`.
 - Two cleaner patterns sharing an opening fragment will eat each other; the assert catches it and aborts before writing.
 - Changing a Story Log entry tag without changing the entry under it leaves the document claiming to be one thing and reading as another. Caught in Forgotten Silence after the tag was rewritten and the paragraph was not.
+- Replacing a whole Story Log entry leaves the original `**Entry N — <…>**` header standing above the replacement, so the file briefly carries two. No tool flags it; `grep -n` the entry header after any Story-Log rewrite (Broken Whisper, batch 4, 2026-10-05).
 - Measuring on a hand-rolled line scan gives the wrong population. Use `br.collect`.
 - A branch name written into a script outlives the session it belonged to. `gate.sh` had one; it now reads the checked-out branch.
 - A helper kept outside the repository is lost on a sandbox reset. `dirtylines.py` lives in `tools/` for that reason.
