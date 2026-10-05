@@ -282,7 +282,7 @@ At three of the nineteen sites the entity raises structures overnight — wall c
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Uprooted; the other feeds it.
+> The observing worker is standing on the nineteenth site, held four months and still underfoot, with one gesture to spend. The eighteen settlements before it spent theirs on building.
 
 | Name the site out loud as you cross it, and keep walking. | Put your hand on the wall it built, to see whether it is solid. |
 |---|---|
