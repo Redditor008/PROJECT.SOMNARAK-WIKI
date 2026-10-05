@@ -20,14 +20,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **134 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **107 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **84 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **135 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **108 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **85 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 187 / 302 |
-| Archive median prose generic fraction | 0.032 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 189 / 302 |
+| Archive median prose generic fraction | 0.031 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -989,6 +989,26 @@ residue lines 45 → **43**), file-clean 183 → **187 / 302** (partly spillover
 ten holders), median unchanged 0.032, worst unchanged 0.162. **Batch 7 continues at the floor of three**;
 the second unit is re-measured at its head, never carried over.
 
+**Batch 7, unit 2: Swallowed Fury `C-Iα-683` closed.** The live head after unit 1, and the second file
+opened below the 6,000-word floor (5,256 words). It measured **10 dirty sections** (worst 관찰 기록
+(Observation Log) 0.465, Behavior 0.414, 감각 묘사 (Flavor Text) 0.348, Origin 0.328) and all ten were
+closed; 5,256 → **6,336 words**; `tpl.py` residue was already 0 and `verify.py` residual 3 → **0** — two
+pre-existing splices (the Clash beat and the M.A.W. use-notes boilerplate) and one created by this unit's
+own rewrite, caught by the tool in the same wave and reworded; `sectfile.py` ends at **0 section(s) over
+0.05** and `wikistd.py` meets **True**. **Condition** was already satisfied and was left alone; the
+**series** clause closed by restating the file's own figures inside a real edit (Trivia: 216 / 216 ·
+25–40 % · 10–14 · 15 / 5 % · 10 turns · threshold 4 · 0.95 m/s) — a restatement, disclosed. The record's
+instrument is the interruption count: it tracks not grief but the moment somebody was stopped mid-grief —
+54 of the file's own 61 appearances followed an instruction to compose — and the gauge falls when
+somebody weeps in its presence uninterrupted. Two internal contradictions were corrected as cause
+(`R-01`): the Registrum's "Pugnahan is the primary Work Type" (the file's own table and breach notes
+record Pugnahan as the failure mode) and its comprehension level of 2 against the SECC and the
+Operational Parameters' 1. Movement: `R-29` 84 → **85 / 301**, series 210 → **211**, section-clean 107 →
+**108 / 301**, residue-free 134 → **135 / 302** (instances 555 → 542, carriers 168 → 167, distinct
+residue lines 43 → **42**), file-clean 187 → **189 / 302**, median 0.032 → **0.031**, worst 0.162 →
+**0.158**. **Batch 7 stays at the floor of three**; the third unit is re-measured at its head, never
+carried over.
+
 **Batch accounting, the batch before this one** — three units were finished in it —
 Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's
 floor. The ladder does **not** ratchet to five, because this cohort's units are not simple by
@@ -1014,10 +1034,12 @@ what it exists to do.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
 **Redacted `N-IIIγ-184` came off this list by being closed in batch 7's first unit** (it was the head:
 6 dirty, worst 기록 (Registrum) 0.554). On the fresh sample taken for batch 7, the tier behind it is:
-Swallowed Fury `C-Iα-683` (10 dirty, worst 0.465, and below the 6,000-word floor at 5,256 words), Bridge to
-Nowhere `C-IVδ-260` (10, 0.392), The Lost Prince `C-IVγ-091` (9, 0.389), Mirror of Soaking `N-IIβ-801`
-(10, 0.381, and the only file on the tier whose condition clause is still open), Frozen Fury
-`C-IVδ-668` (10, 0.338) and Mourner's Bloom `C-Iα-330` (10, 0.301); Labyrinth of Stolen Faces and Torpor
+Swallowed Fury `C-Iα-683` came off this list by
+being closed in batch 7's second unit (it was the live head: 10 dirty, worst 0.465, 5,256 words below the
+6,000-word floor). Still on the tier: Bridge to Nowhere `C-IVδ-260` (10, 0.392), The Lost Prince
+`C-IVγ-091` (9, 0.389), Mirror of Soaking `N-IIβ-801` (10, 0.381, and the only file on the tier whose
+condition clause is still open), Frozen Fury `C-IVδ-668` (10, 0.338) and Mourner's Bloom `C-Iα-330`
+(10, 0.301); Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);

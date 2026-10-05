@@ -38,6 +38,28 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 7 / unit 2 — Swallowed Fury `C-Iα-683` brought to the standard (2026-10-05)** — the live head
+  after unit 1, and a file opened below the 6,000-word floor (5,256 words) —
+  - The file measured **10 dirty sections** (worst 관찰 기록 (Observation Log) 0.465, Behavior 0.414,
+    감각 묘사 (Flavor Text) 0.348, Origin 0.328) and all ten were closed; 5,256 → **6,336 words**;
+    `tpl.py` residue was already 0; `verify.py` residual 3 → **0** — two of them pre-existing splices (the
+    Clash beat and the M.A.W. use-notes boilerplate) and one created by this unit's own rewrite and caught
+    by the tool in the same wave; `sectfile.py` ends at **0 section(s) over 0.05** and `wikistd.py` meets
+    **True**. **Condition** was already satisfied and was not touched.
+  - **Series** closed by restating the file's own figures inside a real edit — the Trivia bullets now carry
+    216 / 216, the 25–40 % opening gauge, the 10–14 yield, 15 / 5 per cent resistance, the 10-turn
+    encounter, the threshold of 4 and the 0.95 m/s speed. A restatement, disclosed as such.
+  - The file's instrument is the **interruption count**: it tracks not grief but the moment somebody was
+    stopped mid-grief — 54 of the record's own 61 logged appearances followed an instruction to compose —
+    and the gauge falls when somebody weeps in its presence uninterrupted. The handling notes were rebuilt
+    on that. Two internal contradictions were corrected as cause (`R-01`): the Registrum's claim that
+    Pugnahan is the primary Work Type (the file's own table and breach notes record Pugnahan as the
+    failure mode) and its comprehension level of 2 against the SECC and Operational Parameters' 1.
+  - Movement: `R-29` 84 → **85 / 301**, series 210 → **211**, section-clean 107 → **108 / 301**,
+    residue-free 134 → **135 / 302** (instances 555 → 542, carriers 168 → 167, distinct residue lines
+    43 → **42**), file-clean 187 → **189 / 302**, median 0.032 → **0.031**, worst 0.162 → **0.158**.
+  - **Batch 7 stays at the floor of three**, with one unit to come.
+
 - **Batch 7 / unit 1 — Redacted `N-IIIγ-184` brought to the standard (2026-10-05)** — the head of the
   batch-7 tier and the worst section in the archive (기록 (Registrum) **0.554**) —
   - The file measured **6 dirty sections** — Registrum 0.554, M.A.W. Equipment 0.405, Trivia 0.312,
