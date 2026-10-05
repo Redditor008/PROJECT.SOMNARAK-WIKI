@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 84 / 303 dossiers free of template residue.**
+**Counter: 86 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,14 +225,42 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  3814   (prose only; R-23 furniture excluded)
-median generic fraction       0.053
+shared 8-grams (>= 10 files)  3771   (prose only; R-23 furniture excluded)
+median generic fraction       0.052
 worst                         0.195
-clean at <= 0.05              143 / 303   (file level; section-clean is 63)
+clean at <= 0.05              146 / 303   (file level; section-clean is 65)
 ```
 
-**Counter: 63 / 303 dossiers section-clean (`R-27`) — every description-bearing section at or
-under 0.05. Secondary: 143 / 303 file-clean on the whole-file fraction.**
+**Counter: 65 / 303 dossiers section-clean (`R-27`) — every description-bearing section at or
+under 0.05. Secondary: 146 / 303 file-clean on the whole-file fraction.**
+
+**Sixth `R-27` batch, 2026-10-05 — the two ω/δ-grade files that had been held.**
+
+| Dossier | Dirty sections | Dirty lines | What the rewrite had to resolve |
+|---|---|---|---|
+| The Convergence `C-Vδ-010` | 11 | 60 | an entity that has existed for **36 seconds in eleven years** |
+| Dawn of Mourning `C-Vω-001` | 11 | 62 | an entity that **has never formed at all** |
+
+These two raised a problem the earlier batches did not. Both files were full of confident
+operational prose about things nobody has observed — breach behaviour, escalation rates, sensory
+progressions — for entities with, respectively, thirty-six seconds of total observation and none.
+The rewrite could not replace that with better-invented detail; it had to **mark the projections as
+projections**. Every modelled row in both files now says so on its face, and the sections that
+cannot honestly be filled say that instead:
+
+- Convergence: *"There is no observation method for the fused form and the station has stopped
+  pretending otherwise."* What it has instead is a drill — 188 timed separations, median eight
+  seconds, against a twelve-second window that has twice been met with one second to spare.
+- Dawn of Mourning: *"This file documents something that has not happened and is written so that
+  nobody mistakes it for something that has."* Its real contents are a blessing register at eleven
+  of twelve, a list of four names, a charm that gets colder, and three people who can tell a genuine
+  confession from a performed one **38 times in 41**.
+
+Both files also now carry a rule against circular citation: neither may be used as evidence in the
+other, and neither may upgrade a projection to a finding on the way in. That had already happened
+twice — the Dawn's escalation figure originates in its own file and had been cited back at it as
+corroboration from three others.
+
 
 **Fifth `R-27` batch, 2026-10-05 — three shipped.**
 
