@@ -38,6 +38,32 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 11 / unit 3 — Forgotten Market Stall `C-IIα-062` closed, closing batch 11 at three
+  (2026-10-05)** — the archive's whole-file worst and its only open-clause candidate, measured at
+  `77c3873`: worst 최종 관찰 (Final Observation) 0.465 across **9 dirty sections**. All nine closed
+  (기록 (Registrum) 0.435, M.A.W. Equipment 0.349 → **0.048 clean** after a second pass, 감각 묘사 (Flavor
+  Text) 0.278, 관찰 기록 (Observation Log) 0.244, Combat Record 0.165, Trivia 0.112, Operational Parameters
+  0.103 and Activation Behavior 0.295); 7,015 → **7,865 words**; `tpl.py` residue 7 → **0**; `verify.py`
+  residual 2 → **0** (the SECC Movement row's and Story-Log Entry 1's "is logged as a" carriers); the
+  **condition clause closed** — the generic `Enforce valid Work Types` Management row was replaced with the
+  holding's own: Viderehan and Ferrehan from the public side of the table, labels copied, nothing taken up,
+  watch ended at dawn with the bearing entered to the nearest metre, and a purchase ending the cycle with
+  the buyer entered; the **series clause closed** on the file's own figures. `sectfile.py` ends at **0
+  section(s) over 0.05**; `wikistd.py` meets **True**. The rewrite carries the stall's own instruments: the
+  bearing and distance from the market gate to the nearest metre, the table height that has varied by
+  almost half a metre, the corpus of 3,118 labels and the ~9,000-item estimate standing instruction
+  excludes from every decision, the eleven matches against the district's loss registers left unfollowed,
+  and the by-law position — a market that cannot be closed because it is empty and a trader who cannot be
+  served because there is nobody at the table. The clean Watch Record (the six refused applicants, the
+  clerk funded for nine years, the refusal appealed and overturned, the objection minuted nine times as
+  correct in all three parts) was not touched (`R-05`). Movement: `R-29` 97 → **98 / 301** (specific
+  condition 249 → **250**, own numeric series 214 → **215**), section-clean 120 → **121 / 301**,
+  residue-free 149 → **150 / 302** (instances 437 → 412, carriers 153 → 152, distinct residue lines 35 →
+  **33**), file-clean 201 → **202 / 302**, median 0.024 unchanged, and the archive's **worst whole-file
+  fraction fell 0.156 → 0.142** — the Stall had been the worst file in the archive. **Batch 11 is closed at
+  three** (`09d4bcf` Melting Rope, `77c3873` Forgotten Shadow, this unit), each unit measured live at its
+  own head. **Batch 12 opens at three** on a freshly re-derived tier.
+
 - **Batch 11 / unit 2 — Forgotten Shadow `N-IIβ-453` brought to the standard (2026-10-05)** — batch 11's
   second unit, the live head measured at `09d4bcf`: worst 기록 (Registrum) 0.471 across **6 dirty sections**.
   All six closed in one pass (Behavior 0.374, M.A.W. Equipment 0.281 → **0.020 clean**, Combat Record

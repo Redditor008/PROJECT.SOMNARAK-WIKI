@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **149 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **120 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **97 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **150 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **121 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **98 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 201 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 202 / 302 |
 | Archive median prose generic fraction | 0.024 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1262,6 +1262,26 @@ Movement: `R-29` 96 → **97 / 301**, section-clean 119 → **120 / 301**, resid
 **201 / 302**, median 0.026 → **0.024**, worst 0.156 unchanged. **Batch 11 continues at the floor of
 three.**
 
+**Batch 11, unit 3: Forgotten Market Stall `C-IIα-062` closed — the archive's worst file, and the only
+open-clause candidate off the board, closing batch 11 at three.** Re-measured at the head (`77c3873`):
+**9 dirty sections**, worst 최종 관찰 (Final Observation) 0.465, then 기록 (Registrum) 0.435, M.A.W.
+Equipment 0.349, Activation Behavior 0.295, 감각 묘사 (Flavor Text) 0.278, 관찰 기록 (Observation Log)
+0.244, Combat Record 0.165, Trivia 0.112 and Operational Parameters 0.103. All nine closed; 7,015 →
+**7,865 words**; `tpl.py` residue 7 → **0**; `verify.py` residual 2 → **0**; `sectfile.py` ends at **0
+section(s) over 0.05**; `wikistd.py` meets **True**, with **both open clauses closed**: the generic
+Management row in the Detailed Activation Record was replaced with the holding's own condition, and the
+numbers the series test reads are now the file's own — 3,118 labels, ~9,000-item estimate, eleven register
+matches, one night in three, bearing to the nearest metre. M.A.W. took a second pass (0.052 → 0.048) to
+clear the last of the "near-translucent and almost colourless" family. The clean Watch Record (three
+thousand one hundred and eighteen labels indexed by night, six genuine applicants refused in nine years,
+the clerk funded for nine years to keep the by-laws alive, the market office's objection minuted as correct
+in all three parts) was not touched (`R-05`). Movement: `R-29` 97 → **98 / 301** (condition 249 → **250**,
+series 214 → **215**), section-clean 120 → **121 / 301**, residue-free 149 → **150 / 302** (instances 437
+→ 412, carriers 153 → 152, distinct residue lines 35 → **33**), file-clean 201 → **202 / 302**, median
+0.024 unchanged, **worst whole-file fraction 0.156 → 0.142**. **Batch 11 is closed at three** (`09d4bcf`
+Melting Rope, `77c3873` Forgotten Shadow, this unit), each unit measured live at its own head. **Batch 12
+opens at three** on the freshly re-derived tier.
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1288,16 +1308,13 @@ next: **Broken Clocktower `C-IVγ-240` came off it in batch 10's second unit** (
 0.523, now 7,062 words). **Melting Rope `N-IIIγ-447` came off that tier in batch 11's first unit** (the batch-11 head at
 `d84beca`: 7 dirty, 0.507, now 7,166 words — one pass, no second wave). The tier behind it, re-measured at
 that head: **Forgotten Shadow `N-IIβ-453` came off it in batch 11's second unit** (6 dirty, 0.471, now
-6,939 words — one pass). Still on it: Forgotten Market Stall `C-IIα-062` (9, 0.465, the only
-open-clause candidate), The Empty Mask `C-IIβ-054` (7, 0.437), The Lost Prince `C-IVγ-091` (9, 0.389,
-series clause open), Mirror of Soaking `N-IIβ-801` (10, 0.381, condition and series open), Frozen Fury
-`C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301, series open). The older
-batch-7 names beyond these are no longer the head;
-`N-IIIγ-447` (7, 0.512), Forgotten Shadow `N-IIβ-453` (6, 0.471 — it fell from 0.558 as the shared-shingle
-corpus shrank through these units); the older batch-7 names (The Lost Prince, Mirror of Soaking, Frozen Fury, Mourner's Bloom)
-remain in the cohort but are no longer the head. The
-archive's whole-file worst is still Forgotten Market Stall `C-IIα-062` (9 dirty, 0.465 section, 0.156 file,
-condition open), and closing it is what would move the worst figure itself; Labyrinth of Stolen Faces and Torpor
+6,939 words — one pass). **Forgotten Market Stall `C-IIα-062` came off it in batch 11's third unit** (9 dirty, 0.465, the last
+open-clause candidate — both clauses now closed, now 7,865 words, and the archive's worst whole-file
+fraction fell 0.156 → **0.142** with it). The tier behind it, re-measured at that head: The Empty Mask
+`C-IIβ-054` (7, 0.437), The Lost Prince `C-IVγ-091` (9, 0.389, series clause open), Mirror of Soaking
+`N-IIβ-801` (10, 0.381, condition and series open), Frozen Fury `C-IVδ-668` (10, 0.335, series open) and
+Mourner's Bloom `C-Iα-330` (10, 0.301, series open); the older batch-7 names beyond these remain in the
+cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);
