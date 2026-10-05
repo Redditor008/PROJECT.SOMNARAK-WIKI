@@ -38,6 +38,31 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 5 / unit 3 — The Vanished Rope `C-Iα-723` brought to the standard (2026-10-05)** —
+  - The file measured **10 dirty sections** (worst 관찰 기록 (Observation Log) 0.548, Origin 0.372,
+    Behavior 0.372, 감각 묘사 0.326) and all ten were closed; 5,482 → **6,372 words**; `tpl.py`
+    residue 5 → **0** and `verify.py` residual 2 → **0**; `sectfile.py` ends at **0 section(s) over
+    0.05**. **Condition** was already satisfied and was not touched.
+  - **Series** closed by restating the file's own figures inside a real edit — the Trivia
+    `Field detail` bullet now carries 181 gauge, 15 / 5 per cent, 10 turns, 10–14 Han-Energy and the
+    breach counter's opening 4. A restatement, disclosed as such.
+  - The record's instrument is the counter rather than the clock: the end is offered first to the
+    newest person in the room (26 of the file's own 31 logged sessions) and the gauge moves when a
+    worker holds the end as though they were the one who was lost. Every carrier was rebuilt on that
+    — both combat action rows, the Tension line, Resolution, the Behavior notes, the Appearance rows,
+    the M.A.W. abilities, appearances and all four field rows, the Observation Progression and
+    method, the Final Observation pair (hold and give back vs. keep hold), the flavour beats and all
+    three interaction rows. The Lost Prince row carries its code `C-IVγ-091`; the Grieving Colossus
+    row records the joint session as a null result.
+  - Movement: `R-29` 79 → **80 / 301**, series 205 → **206**, section-clean 102 → **103 / 301**,
+    residue-free 129 → **131 / 302** (instances 596 → 582, carriers 173 → 171, distinct residue
+    lines 46 → 45), file-clean 179 → **180 / 302**, median unchanged 0.036, worst 0.168 → **0.162**.
+  - **Batch 5 closes at the floor of three** (`9ec5fa9` Breach → `fcbe188` Cenotaph → this unit),
+    its units measuring 10–11 dirty sections and 5,500–7,200 words each — not simple by `R-26`'s
+    test, so the ladder again does not ratchet upward. Batch 6 opens at three on a freshly measured
+    tier: Spreading Root `O-IVδ-693` (10 dirty, worst 0.542), The Frozen Veil `C-IVδ-103` (10 dirty,
+    worst 0.412) and Labyrinth of Stolen Faces `C-IVγ-180` (10 dirty, worst 0.418) are the measured
+    heads, with Torpor `N-IVδ-157` and The Lost Prince `C-IVγ-091` behind them.
 - **Batch 5 / unit 2 — Cenotaph `N-IVδ-525` brought to the standard (2026-10-05)** —
   - The file measured **10 dirty sections** (worst 관찰 기록 (Observation Log) 0.484, Behavior 0.420,
     Origin 0.336) and all ten were closed; 6,193 → **7,044 words**; `tpl.py` residue 3 → **0** and

@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **129 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **102 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **79 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **131 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **103 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **80 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 179 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 180 / 302 |
 | Archive median prose generic fraction | 0.036 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -884,6 +884,25 @@ shell, and the Field Use Record's *the exact hesitation the entity punish*). Mov
 (instances 599 → 596, carriers 174 → 173), file-clean 178 → **179 / 302**, median 0.037 → **0.036**,
 worst 0.169 → **0.168**. Batch 5 remains open at the floor of three; the third unit is to be re-measured
 at the head of the unit rather than carried over (the measured heads behind these two were 10s and 9s).
+
+**Batch 5, unit 3: The Vanished Rope `C-Iα-723` closed — and the batch closed with it, at the floor of
+three.** The file measured **10 dirty sections** at the head of its unit (worst 관찰 기록 (Observation
+Log) 0.548, Origin 0.372, Behavior 0.372, 감각 묘사 0.326) and all ten were closed; 5,482 → **6,372
+words**; `tpl.py` residue 5 → **0** and `verify.py` residual 2 → **0**; `sectfile.py` ends at **0
+section(s) over 0.05**. The **condition** clause was already satisfied and was left alone; the **series**
+clause closed by restating the file's own figures inside a real edit (Trivia `Field detail`: 181 gauge ·
+15 / 5 per cent · 10 turns · 10–14 Han-Energy · the breach counter's opening 4) — a restatement,
+disclosed. The record's instrument is the counter rather than the clock: the offered end goes first to
+the newest person in the room (26 of the file's own 31 logged sessions) and the gauge moves on what
+personnel decide to hold. Movement: `R-29` 79 → **80 / 301**, series 205 → **206**, section-clean 102 →
+**103 / 301**, residue-free 129 → **131 / 302** (instances 596 → 582, carriers 173 → 171, distinct
+residue lines 46 → 45), file-clean 179 → **180 / 302**, median unchanged 0.036, worst 0.168 → **0.162**.
+**Batch 5 is closed at three** (`9ec5fa9` Breach, `fcbe188` Cenotaph, this unit). **Batch 6 opens at
+three** on the freshly measured tier: Spreading Root `O-IVδ-693` (10 dirty, worst 0.542), The Frozen Veil
+`C-IVδ-103` (10 dirty, worst 0.412) and Labyrinth of Stolen Faces `C-IVγ-180` (10 dirty, worst 0.418)
+are the measured heads, with Torpor `N-IVδ-157` (10 dirty, worst 0.415), The Lost Prince `C-IVγ-091`
+(10 dirty, worst 0.389) and Bridge to Nowhere `C-IVδ-260` (10 dirty, worst 0.392) behind them — all
+re-measured this turn rather than carried over.
 
 **Batch accounting, the batch before this one** — three units were finished in it —
 Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's
