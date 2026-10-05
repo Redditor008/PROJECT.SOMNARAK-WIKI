@@ -38,6 +38,29 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 17 / unit 3 — The Dancing Chains `C-IIIγ-102` closed; batch 17 closed at three (2026-10-06)** —
+  measured at `f31e1b0`: **6 dirty sections**, worst 최종 관찰 (Final Observation) 0.429, then 기록 (Registrum)
+  0.331, Activation Behavior 0.300, M.A.W. Equipment 0.153, Trivia 0.125 and 감각 묘사 (Flavor Text) 0.110; all
+  six closed in two waves (22 + 13 sites); 7,333 → **7,914 words**; `tpl.py` residue 3 → **0** (the 11-dossier
+  generic `| **Management** | Enforce valid Work Types …` row and two Log and Method lines); `verify.py` residual
+  1 → **0** (Story Log Entry 1's `is logged as`); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py`
+  meets **True** with **both open clauses closed** — the condition on the file's own two-person removal rule
+  (`Termination / Return` and the Management row re-authored in its own terms, where the condition had been a
+  generic valid-Work-Types line) and the **series clause closed on a disclosed digit restatement** of the file's
+  own figures (14 collapse series frozen by ethics ruling, 9 minutes 40 to 31 minutes, 9 conduct entries in 9
+  years, 3 self-reported single-signature entries, 2 refused petitions) written into the counted Registrum
+  Observation Notes (number-words ruling still pending). Two record errors were left standing as the file's own
+  design: the older Registrum entry naming Pugnahan is corrected where the file corrects it, and the Registrum
+  shell pair (66 and 100+ dossier carriers) was re-authored onto the period series, the two-person rule and the
+  conduct cross-reference. Six beneficial side effects in files this unit did not edit: **Sorrow Fountain
+  `C-IIIγ-088` 7 → 6**, **Rage Statue `C-IIIγ-190` 7 → 6**, **Memory Lock `C-IIIγ-300` 7 → 6**, **Angry Maiden
+  `C-IVβ-042` 3 → 2**, **Orphaned Bell `C-IVδ-001` 6 → 5**, **Soaking Shard `C-IVδ-219` 8 → 7**. Archive dirty
+  sections 907 → **895**; residue lines 19 → **18**; median 0.017 → **0.016**; worst 0.124 → **0.119**. Movement:
+  `R-29` 115 → **116 / 301** (specific condition 253 → **254**, own numeric series 225 → **226**); section-clean
+  139 → **140 / 301**; residue-free 186 → **188 / 302** (carriers 116 → **114**, instances 226 → **214**);
+  file-clean 222 → **225 / 302**. **Batch 17 is closed at three** (Risus `C-Iα-150`, Floating Pillar
+  `N-IIIγ-409`, The Dancing Chains `C-IIIγ-102`).
+
 - **Batch 17 / unit 2 — Floating Pillar `N-IIIγ-409` closed (2026-10-06)** —
   measured at `051a96a`: **7 dirty sections**, worst M.A.W. Equipment 0.430, then 기록 (Registrum) 0.339, 이야기
   보고 (Story Log) 0.157, 최종 관찰 (Final Observation) 0.156, Containment Event Behavior 0.152, Trivia 0.078 and

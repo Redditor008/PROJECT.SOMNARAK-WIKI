@@ -20,14 +20,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **186 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **139 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **115 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **188 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **140 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **116 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 222 / 302 |
-| Archive median prose generic fraction | 0.021 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 225 / 302 |
+| Archive median prose generic fraction | 0.016 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -240,6 +240,22 @@ or containment stability,"* which **127** dossiers still carry.
   shared 8-grams. Four dossiers were finished on its output, each on a single sentence.
 - `tools/editmeta.py` (new): finds candidate `R-01` sentences (reconciliation notes about earlier
   wording). It reports and never edits.
+
+
+**Batch 17, unit 3: The Dancing Chains `C-IIIγ-102` closed; batch 17 closed at three.** Measured at `f31e1b0`: **6
+dirty sections**, worst Final Observation 0.429 (the shared `Do the thing on file: Enforce valid Work Types…` row,
+with the 66-dossier Registrum shell pair behind it in the same file), then Registrum 0.331, Activation Behavior
+0.300, M.A.W. Equipment 0.153, Trivia 0.125 and Flavor Text 0.110 — all six closed in two waves (22 + 13 sites);
+7,333 → **7,914 words**; `tpl.py` residue 3 → **0**; `verify.py` residual 1 → **0**; `sectfile.py` **0 section(s)
+over 0.05**; `wikistd.py` meets **True** with **both open clauses closed** — condition on the file's own
+two-person removal rule (the condition had been the generic valid-Work-Types line) and series on a **disclosed
+digit restatement** of the file's own figures (14 collapse series frozen by ethics ruling, 9 minutes 40 to 31
+minutes, 9 conduct entries in 9 years, 3 single-signature entries, 2 petitions). Six neighbouring dossiers each
+shed a dirty section: Sorrow Fountain 7 → 6, Rage Statue 7 → 6, Memory Lock 7 → 6, Angry Maiden 3 → 2, Orphaned
+Bell 6 → 5, Soaking Shard 8 → 7. Archive dirty 907 → **895**; residue lines 19 → **18**; median 0.017 → **0.016**;
+worst 0.124 → **0.119**. Movement: `R-29` 115 → **116 / 301** (condition **254**, series **226**); section-clean
+139 → **140 / 301**; residue-free 186 → **188 / 302** (carriers **114**, instances **214**); file-clean 222 →
+**225 / 302**.
 
 **Next targets, in order (`R-13`).**
 
@@ -1615,12 +1631,15 @@ and the retired 10-dossier M.A.W. never-costless carrier took that residue line 
 dirty sections in three waves, 7,349 → 7,924 words, the 41-dossier stock tale in its Story Log Entry 5 replaced
 with the sealed-room register, plus Apostle Maker `C-Iα-071c` 2 → 1 as a side effect). **Weeping Statue
 `C-IIβ-055` came off it as batch 16's final unit (2 → 0 dirty sections in one wave, series closed on the file's
-own assaying figures, 7,375 → 7,705 words), closing the batch at three. **Batch 17 stands at one of three**: Risus `C-Iα-150` came off the head
+own assaying figures, 7,375 → 7,705 words), closing the batch at three. **Batch 17 is closed at three**: Risus `C-Iα-150` came off the head
 (8 → 0 dirty sections in three waves, series closed on its own voice counts, four contradictions reconciled, six
-neighbouring dossiers each shedding a dirty section). Floating Pillar `N-IIIγ-409` came off it as unit 2 (7 → 0 in two waves,
-series closed on its own survey figures, plus four neighbouring dossiers each shedding a section). **The Dancing
-Chains `C-IIIγ-102` (6, 0.429)** remains as batch 17's final unit; Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
-series open) remain in the cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor
+neighbouring dossiers each shedding a dirty section); Floating Pillar `N-IIIγ-409` came off it as unit 2 (7 → 0 in
+two waves, series closed on its own survey figures, the 66-dossier Registrum shell pair and a stock Story Log tale
+replaced, four neighbouring dossiers each shedding a section); and The Dancing Chains `C-IIIγ-102` closed the batch
+as unit 3 (6 → 0 in two waves, **both open clauses closed** — condition on the file's own two-person removal rule,
+series on a disclosed restatement of its own fourteen collapse series and nine conduct entries — plus six
+neighbouring dossiers each shedding a dirty section). The next batch's tier is headed by Frozen Fury
+`C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301, series open); Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);
