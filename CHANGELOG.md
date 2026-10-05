@@ -38,6 +38,31 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 8 / unit 3 — Flowing Seed `N-IIIγ-628` brought to the standard, closing batch 8 at three
+  (2026-10-05)** — the live head after unit 2, re-measured at `f19c6ec` (worst 기록 (Registrum) 0.576).
+  - All **8 dirty sections** closed (Registrum 0.576, Behavior 0.370, M.A.W. Equipment 0.324,
+    Expansion Behavior 0.161, 최종 관찰 (Final Observation) 0.133, Combat Record 0.101, Breach Behavior
+    0.099, 감각 묘사 (Flavor Text) 0.099): 6,479 → **7,173 words**; `tpl.py` residue 4 → **0** (the
+    Resistance row, the Breach First-target cell, the seax's cost line and the Stat interpretation);
+    `verify.py` residual 1 → **0** (Story-Log Entry 1's "is logged as a " carrier rewritten; no new
+    carrier created); `sectfile.py` ends at **0 section(s) over 0.05** and `wikistd.py` meets **True**,
+    with the condition and series clauses already satisfied and untouched (`R-05`).
+  - One internal contradiction was corrected as cause (`R-01`): Behavior's stock block called the holding
+    an **Object/Place at Zone A** while the SECC header, the Identification Profile and the Registrum all
+    file it as a **Subject — mobile and breaching**; the rewritten block states the Subject role and says
+    what a breaching, travelling holding changes about the readings. The file's instrument is the **pin
+    survey and the loaded plate**: 1.9, then 2.6, then 3.4 metres per watch against the count of deaths in
+    service whose only surviving record is a termination code and a date, with the 11-page unsealed honours
+    file as the sentence that stops it. The clean Warden Record and Narratio (the plain statement scheme:
+    1,460 requested, 1,207 issued, 253 refused, 88 contradictions, 6 reopened) were not touched.
+  - Movement: `R-29` 88 → **89 / 301**, section-clean 111 → **112 / 301**, residue-free 138 →
+    **140 / 302** (instances 503 → 490, carriers 164 → 162, distinct residue lines 39 → **38**), file-clean
+    192 → **194 / 302**, median and worst unchanged at 0.029 / 0.156. One of the two residue-free and one
+    of the two file-clean files are **spillover**: retiring the Resistance row in this unit dropped it to
+    nine holders, below the ten-holder threshold, so it stopped counting against every remaining carrier
+    as well. **Batch 8 is closed at three** (`09fa48c` Soaking Shadow, `f19c6ec` Redcage, this unit), each
+    unit measured live at its own head. **Batch 9 opens at three** on a freshly re-derived tier.
+
 - **Batch 8 / unit 2 — Redcage `C-IIIγ-120` brought to the standard
   (2026-10-05)** — the head of the queue after unit 1's commit, re-measured at `09fa48c`
   (worst 기록 (Registrum) 0.590).

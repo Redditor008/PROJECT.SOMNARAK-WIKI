@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | Slow — 3.4 metres per watch on the pins, and it does not stop |
-| **Resistance** | 35% against Weight pressure; 25% against other pressure types |
+| **Resistance** | 35% against Weight pressure, which is the element it moves through; 25% against everything else. Neither figure is what a session turns on — this holding is measured in metres per watch on iron pins, and it has never been stopped, only read. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 567/567 |
 | **Han Pressure [ATK]** | 18–41 per hit · Weight |
@@ -81,21 +81,21 @@
 | { *The Current* [**Debuff**] } | "The seed rides a current of sorrow-water — heading for you, heading for the soft ground of your chest." | [The Seed's liquid vehicle seeks the target; it is being planted in them.] | *Target suffers -10 Resolve; the seed is coming for their heart.* **[10 Weight DMG [Weight]]** | When the current touches the target. |
 | { *The Taking Root* [**Debuff**] } | "The seed lands — and immediately begins to grow, heavy and fast, in whatever it touches." | [The Seed germinates on contact; its sorrow-weight anchors fast.] | *Target loses 10 Resolve; something is growing in them.* **[10 Weight DMG [Weight]]** | When the Seed makes contact. |
 | { *The Seed-Burst* [**Attack**] } | "The flowing seed detonates on impact — a splash of potential and weight." | [An exploding seed-projectile strikes.] | *Inflicts Weight pressure and one wound of planted sorrow.* **[14-22 Weight DMG [Weight]]** | When the Seed is intercepted. |
-| { *The Full Bloom* [**Attack**] } | "Every seed in the current blooms at once — a river of heavy, sorrow-laden flowers." | [The Seed's entire payload matures simultaneously.] | *A heavy Black bloom; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the current is dammed. |
-| { *The Sorrow River* [**Ultimate**] } | "The current overflows its banks — and seeds spread across the whole field, each one taking root." | [The Seed extends its flow across the whole area.] | *All in range suffer Weight pressure for three turns of flowing seeds.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Bloom* [**Attack**] } | "Every seed the current has been carrying opens at once, and the corridor fills with heavy black flowers." | [The payload the Seed has hauled along the whole corridor matures in a single pass.] | *A heavy Black bloom; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the flow is dammed, which is the one thing the file forbids. |
+| { *The Sorrow River* [**Ultimate**] } | "The current leaves the pins, and every root under the floor starts carrying it further than the corridor does." | [The Seed stops being a corridor problem and takes the root network as its channel.] | *All in range suffer Weight pressure for three turns of flowing seeds.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Flowing Seed by the pins and the plate, never by feel. The ground is heaviest where it has already been, and the corridor behind it reads as safe to anyone who has not read the survey, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** Confirmation is the pins, the loaded plate and the advance since the last watch. Nobody identifies this holding by feel, because the ground behind it reads lighter than the ground it is about to cross, and every misidentification in the file was made by somebody standing on the track. The corridor is checked for softening, the plate is set at the marked distances, the floor it has crossed within the hour is cleared, and the raised post is manned before anything else is attempted.
 2. **Clash:** The pins are read, the plate is set at the marked distances, and the Warden works from the raised post. Nobody stands on the floor the entity has crossed within the hour, whatever the plate says.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not block the flow; acknowledge its source**.
+3. **Resolution:** The session closes with the advance read against the quarterly mean, the ground ahead cleared, and the originating matter said aloud in the corridor — the citation drafted, the recommendation signed, the one-line note that it was not proceeded with — in plain words, by somebody who has read the honours file. The condition this record carries is **Do not block the flow; acknowledge its source**; the dam was tried once and the corridor it was tried in is still closed. A shift that ends with a barricade anywhere on the corridor has not closed.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resolve** and identity cohesion, accelerating Sorrow Gauge escalation.
+- Personnel who cannot hold against the pressure lose **Resolve** by the hour, and the file's own screening rule is not a gauge figure: a Warden who describes the weight in the first person comes off the post that day, whatever the instruments say.
 - Extended contact risks Flowing Seed’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
 - Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Flowing Seed defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Without the resolution the flow does not stop. It leaves the corridor through the floor and travels the roots, and denied containment it plants in whoever is nearest rather than going somewhere harmless. The planting is not felt at the time, which is why the ground ahead is cleared rather than the ground behind defended.
 
 ## Appearance
 **Physical Form:** A burst seed sprouted into a writhing mass of dark root-tendrils — a many-limbed root-creature oozing black Han. **Movement:** It drags itself forward on its tendrils, flowing as it crawls.
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Flowing Seed is recorded as an Object/Place with Place-Void manifestation and Weight elemental expression. The current record places it at Zone A, Alpha Tree vault; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the responses against the classification. Flowing Seed is a Subject — mobile, breaching, Place-Void in manifestation and Weight in expression — held at Zone A beside the Alpha Tree roots, and nothing here should be read with the assumptions a stationary holding allows. Flerehan and Pugnahan are available against a Subject and both are barred on this one, each for a recorded reason. Viderehan holds the gauge while the pins and the plate are read; Ferrehan is the long watch under the weight, with the honours file read before the posting and its one-line note read aloud. A stable gauge is not a quiet session: the observation can be completed perfectly while the floor under the observer keeps getting heavier.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** A falling gauge means the weight was carried for the length of the watch, not that anything was lifted; no session has ever put the advance back. The quarterly means are 1.9, 2.6 and 3.4 metres per watch, and what moves the gauge is the sentence in the corridor — the originating matter, stated plainly by somebody who has read the file. Log the gauge, the advance, and whether the matter was said aloud; the third field is the one that explains the first two.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -159,7 +159,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Escalation Notes
 
-The escalation pattern is specific to Flowing Seed: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Void form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at Zone A, Alpha Tree vault, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation here is measured in metres rather than in turns. Record the advance since the last watch against the quarterly mean, the bearing at every pin — the turn toward the underground River is the earliest sign of a breach through the floor — the plate's curve at the marked distances, the softening behind it, and whether the honours file has been read on this posting. That last field is on the form because Wardens who have read it describe the weight precisely, and the difference has held for nine years. Nothing on this holding is escalated by attention; it rises with the number of deaths in service that nobody was allowed to write down.
 
 **Response sequence:** Read the pins, clear the floor it has crossed, open the raised post, and state the originating matter aloud. Do not block the corridor; the one occasion it was dammed produced the full bloom.
 
@@ -186,8 +186,8 @@ The escalation pattern is specific to Flowing Seed: it is not a generic breach e
 | **Movement** | Flowing Seed bursts free and crawls or slithers in search of prey. It plants itself in personnel, growing within. |
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
 | **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resolve drain increases by 5 per turn until suppressed. |
+| **First Target** | The nearest person standing on ground it has crossed, or the one whose record carries a death nobody wrote down. The planting is not felt at the time and is found afterwards in the weight the person is carrying. |
+| **Escalation** | While it is free the ground keeps gaining weight and the Resolve drain rises by 5 per turn. Force has never reversed the advance; the only thing on record that has held it flat is the matter said aloud. |
 
 ### Escalation Notes
 
@@ -213,15 +213,15 @@ The blade flat is etched with botanical germination diagrams filled with dark co
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Flowing Seed's weight signature in the strike.
+**Ability:** Weight damage against the Han — the reserves and what is owed. The edge leaves spores in the wound that drain momentum from whatever the target does next, so the blade's work is done after the cut rather than during it.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The bearer gets heavier without gaining weight, and prolonged use ages them slightly, most visibly in the hands. The armoury records the ageing against the wielder's ledger rather than against the piece, and on this set that has never been contested.
 
 ### M.A.W. Suit — Flowing Seed Mantle
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that breathes a half-beat behind the wearer and drags along the floor. The drag is the fabric's own weight, not anything it collects.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -231,15 +231,15 @@ The blade flat is etched with botanical germination diagrams filled with dark co
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Flowing Seed's kind of pressure.
+**Ability:** Wards the Han against Weight damage, which is this holding's whole manner of pressing. The mantle does not stop the ground from getting heavier; it stops the wearer from carrying the ground away with them after they step off it.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** A constant low fatigue, low enough that bearers stop noticing it and are told to report it anyway. Two returns state that the bearers recognised it only after a week in another post.
 
 ### M.A.W. Stigma — Flowing Seed Vial
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Weight
 
-**Appearance:** a small vial of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a small vial of Weight Han-steel, matte and unnaturally heavy, that grows cool near an unresolved service record. The cooling is the piece's only outward sign, and it is the reason the vial is used — informally and without authority — to search for them.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -253,18 +253,18 @@ The blade flat is etched with botanical germination diagrams filled with dark co
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Flowing Seed and carries what Flowing Seed carries: the wielder feels progressively heavier; prolonged use ages them slightly. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+Every piece in the set is cut from the holding it is issued against, and it carries that holding's manner of pressing: weight that arrives without announcement and leaves slowly. The grade describes how stable the extraction was, not what the tool is like to carry. The toll sits in the column beside it — the bearer goes heavy and the ageing shows first in the hands — which is why the set is issued one rotation at a time and why the armoury reads the return baseline before it reads anything else.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Flowing Seed's known toll: the wielder feels progressively heavier. Opened at the end of the rotation, not before. |
-| **During use** | Every occurrence of what Flowing Seed takes (the wielder feels progressively heavier), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | Flowing Seed's cost is continuous rather than occasional: the wearer carries a constant low fatigue. The second worker's call stands against the wielder's. |
-| **After use** | Return, reconcile the baseline, and record whether Flowing Seed's toll has reversed: the wearer carries a constant low fatigue. Where it has not, the piece is not reissued to that wielder. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline taken by the second worker against the set's known toll: the bearer gets heavier without gaining weight. The envelope stays sealed until the rotation ends. |
+| **During use** | Every occurrence of the toll, timed. The bearer reports heaviness and the second worker records the hour; one is noted, and a pattern across a shift ends the use and brings the piece back. |
+| **At limit** | The toll is continuous rather than occasional — a constant low fatigue the bearer stops noticing. The second worker's call stands against the wielder's, and on this set it has always been the one taken. |
+| **After use** | Return the piece, open the sealed baseline, and record whether the toll has reversed. Where it has not, the piece is not reissued to that wielder, a rule the armoury has applied without exception. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade measures how cleanly the piece was taken from its source; it says nothing about what the piece does to the person holding it. A low-grade tool can perform flawlessly and still return a bearer who is heavier for a season, and on this set the two columns have never moved together. Read both columns and authorise on the second.
 
 ## 관찰 기록 (Observation Log)
 
@@ -293,7 +293,7 @@ Every piece in this set is a fragment of Flowing Seed and carries what Flowing S
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Flowing Seed (N-IIIγ-628 [D]) is logged as a Place-Void manifestation expressing Weight, held in the Zone A vault beside the Alpha Tree roots. It is a Subject: it travels, it breaches, and it plants in personnel. It has never grown.
+Containment description for N-IIIγ-628 [D], the holding called Flowing Seed: a Subject with a Place-Void manifestation of Weight, held in the Zone A vault beside the Alpha Tree roots. It moves, it breaches, and it plants in personnel, and it has never germinated — in four generations of record it has not grown by any measure. Its position is fixed each watch against surveyed iron pins.
 
 **Entry 2 — <Excerpt from Pin Survey, Year 4238>**
 Advance 3.4 metres per watch on the quarterly mean, against 2.6 and 1.9 in the two preceding years. Four pins replaced for softening. The entity does not germinate anywhere it rests and has never grown.
@@ -311,7 +311,7 @@ The honours file lies unsealed beside the vault door and any Warden on the posti
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Flowing Seed; the other feeds it.
+> The choice at the close of a session is what happens to the weight: carried for the length of the watch and put down with the file, or answered on the floor by somebody who has not read it.
 
 | Do the thing on file: Do not block the flow; acknowledge its source. | Reach for Flerehan, which the Behavior table shows raising the gauge every time it has been logged. |
 |---|---|
@@ -324,7 +324,7 @@ A black current in the shape of a seed, hauling itself three and a half metres a
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A seed-shaped place of emptiness through which black Han flows like a river. Notable Features: It remembers erased things, carries grief through roots, and makes the ground feel heavier around it. Identification Profile: The record classifies. The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Place-Void form.
+**At first contact:** The pins are read before the object is looked at. It is a seed-shaped hollow in the corridor floor with black Han moving through it like a current, hauling itself on root-tendrils and leaving the ground behind it heavier than the ground ahead. The plate is set at the marked distances before anybody enters, and the first number recorded is the advance rather than the appearance.
 
 **With continued exposure:** The plate gives you the map the body will not: heaviest in the track, lighter at the margins, and nothing at all where it is about to go.
 
@@ -334,7 +334,7 @@ A black current in the shape of a seed, hauling itself three and a half metres a
 
 ### Interaction Pattern
 
-Flowing Seed does not exist in isolation. Its recorded relationships with The Sorrow Seed, The Sorrow River, The Alpha Tree should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings are filed beside this one because the same burst seed, the same underground River and the same root network are involved in all three, and the archive pairs them by that shared material rather than by contact. None of the three is an ally or an enemy. The rows below give the pairings that have a record; the rest is a filing reason and is called one.
 
 **Interaction method:** Pin advance before, during and after; plate curve at the marked distances; and the hour at which the floor is reopened. No pairing here has been observed under a Tide, and the advance rises under a Tide regardless.
 
@@ -343,7 +343,7 @@ Flowing Seed does not exist in isolation. Its recorded relationships with The So
 
 Flowing Seed must be kept distinct from the other seed holdings. The Sorrow Seed is dormant potential and Collapsed Seed is potential that fell in on itself; this one never grows at all. It is the only seed on the register whose whole behaviour is travel, and the only one whose originating matter is a recognition that was drafted and withheld.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
 | **The Sorrow Seed** | The dormant body this one began as. Dormant potential against a thing that will never grow; the two are the same object before and after a decision was taken about a dead man. | Advance falls to 1.1 metres per watch while within sixty metres of the Sorrow Seed, the only measure that has ever reduced it. | Pin advance, range, and how long the reduction holds after separation. |
 | **The Sorrow River** | It steers toward the underground River whenever the corridor allows and has never reached it. | Advance rises and the track turns; the turn is the earliest sign of an attempted breach through the floor. | Bearing at every pin, not merely distance. |
@@ -388,14 +388,14 @@ The rule is right. The seed is what the rule costs, measured in metres per watch
 **Observation Notes:**
 - Advance 1.9, 2.6 and 3.4 metres per watch across three quarterly means; no session has ever recorded growth.
 **Cross-References:** Zone A, Alpha Tree vault · The Sorrow Seed · The Sorrow River · The Alpha Tree · The Inquiry Office
-**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED (B-territory exploration) holds the pin survey and the corridor closure register; UCD (Fray-adjacent zone) is the office of record for the ground it has crossed. Neither pursues the entity and neither is authorised to block it.
 **Originator:** A soldier whose unacknowledged rage entered a dormant seed.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Read this record as three series side by side — the advance in metres per watch, the plate's weight curve at the marked distances, and the count of deaths in service that leave only a termination code and a date. Only the first has ever risen, and it rises against the third: 1.9, then 2.6, then 3.4 metres per watch. Record what the corridor does on the day and enter it against the pins rather than against the previous watch's mood; where the room and the paper disagree, the room is entered first and the paper with the date it was consulted.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** At every watch: pin reading, advance since the last watch, plate curve at the marked distances, softening behind the entity, whether the floor-closure hour was respected, and whether the honours file has been read on this posting. An advance above the quarterly mean is reviewed on its own with the bearing at every pin, and the review records metres and bearings rather than describing the corridor as worse.
 ## Warden Record
 
 ### Dragging on Tendrils
