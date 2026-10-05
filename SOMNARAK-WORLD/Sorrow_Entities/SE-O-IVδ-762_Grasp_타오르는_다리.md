@@ -273,7 +273,7 @@ Moves through Desolate paths and broken crossings. Personnel feel rage at people
 The grief of trying to rescue people who could no longer be reached.
 
 **Entry 4 — <Containment Notice>**
-Management is one sentence a worker can obey: nobody crosses, and nobody promises anybody that they will. Flerehan softens it, Viderehan shows the caravan and holds the gauge level, Ferrehan is staying put, and Pugnahan sets the span alight. The holding does not distinguish a rescue that could work from one that cannot — that is the whole of what is wrong with it, and it is also why a competent worker is the one at risk.
+Management: nobody crosses, and nobody promises anybody that they will. That is one sentence a worker can obey. Flerehan softens it, Viderehan shows the caravan and holds the gauge level, Ferrehan is staying put, and Pugnahan sets the span alight. The holding does not distinguish a rescue that could work from one that cannot — that is the whole of what is wrong with it, and it is also why a competent worker is the one at risk.
 
 **Entry 5 — <Oral Tradition Excerpt, Director's File>**
 The prohibition on crossing has been proposed for relaxation three times, each time on sound engineering grounds — the ground is stable, the surface bears weight, the detour costs the caravans four hours — and refused three times. The refusals get harder to write. The current one, from Year 4,235, is four lines long and ends: *The span will hold. It held in Year 4,229 for four seconds and two of ours started across it. The question is not whether the ground is safe. It is who is standing at the edge of it asking you to come over.*
