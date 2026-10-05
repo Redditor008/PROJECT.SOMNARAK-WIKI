@@ -1,20 +1,31 @@
-# R-26 — Five, Then Seven, Then Ten
+# R-26 — Three, Then Five, Then Seven, Then Ten
 
 **Stated by the archive owner, 2026-10-05:** *"Do It Per 5 or 10 If It Was Simple E.G. If Per 5 Is
-Fast Continue To 7 Then 10"*.
+Fast Continue To 7 Then 10"*, and **corrected the same day**: *"You Start With 3 per batch but if it
+small enough you up it to 5 then to 7 then to 10 so per batch it can be per 3 SE File Up To Per 10
+SE File : 3 > 5 > 7 > 10"*.
 
 ## The rule
 
-The batch size is no longer fixed at five. It is a **floor that ratchets on evidence**.
+The batch size is not fixed. It is a **floor that ratchets on evidence**, and the floor is **three**.
 
 | Stage | Condition to move up |
 |---|---|
-| **5** | The standing batch. Always start here. |
-| **7** | The first five were *simple* — see the test below — and all five passed the gate first time. |
+| **3** | The standing batch floor. Always start here. |
+| **5** | The first three were *simple* — see the test below — and all three passed the gate first time. |
+| **7** | Five were simple too. |
 | **10** | Seven were simple too. |
 
-A batch never ratchets back up inside the same turn after a file has turned out hard; it stops at
-whatever number was honestly finished.
+The ladder is **3 > 5 > 7 > 10** and it stops at 10. A batch never ratchets up inside the same turn
+after a file has turned out hard; it stops at whatever number was honestly finished. A batch of
+fewer than three is permitted only by the quality clause below — it is the number that was
+finished properly, named and explained, never a short batch reported as a full one.
+
+The earlier wording of this rule put the floor at five, which was the owner's first instruction and
+is superseded by the correction above; the superseded figure is recorded here rather than removed
+(`R-17`: history is not rewritten). Beyond ten the rule is silent: more than ten SE files in one
+batch is not contemplated, and a turn that has ten finished units reports them and stops rather
+than starting an eleventh.
 
 ## What counts as "simple"
 
@@ -34,6 +45,10 @@ follow-up pass, and one of them is worth two of the others.
 `R-25`'s five conditions per dossier are untouched and are the reason the number may rise at all:
 `verify.py` RESIDUAL 0 · `tpl.py` RESIDUE 0 · `sect.py` ≤ 0.05 · a disposition row or a stated hold ·
 one `gate.sh` commit per dossier.
+
+The filename of this rule still reads `FIVE_THEN_SEVEN_THEN_TEN`. It is left as it is because other
+files reference it by name and the ladder it describes is the same ladder with a lower floor; the
+title above is the corrected one and the correction is dated in the header.
 
 **The quality clause outranks the size clause.** `R-22` said each batch must be done right and
 `R-25` repeated it; this rule only says that when the work is genuinely easy, the archive should get
