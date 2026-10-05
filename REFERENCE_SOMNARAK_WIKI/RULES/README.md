@@ -34,6 +34,7 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-26`](R-26_FIVE_THEN_SEVEN_THEN_TEN.md) | Five, Then Seven, Then Ten — the batch floor ratchets when the files are simple and the gate passes first time |
 | [`R-27`](R-27_THE_TALE_STANDARD_IS_PER_SECTION.md) | The Tale Standard Is Per Section, Not Per File — every description-bearing section is measured on its own; Behavior is an example, not the list |
 | [`R-28`](R-28_NOT_EVERYTHING_BREACHES.md) | Not Everything Breaches — non-breaching floors of 75% RE / 25% SE / 50% OP, reclassified only on the dossier's own evidence |
+| [`R-29`](R-29_ABNORMALITY_WIKI_DONE_BETTER.md) | The Standard Is An Abnormality Wiki, Done Better — nine parity sections as the floor, six clauses above it as the work |
 
 ## Precedence
 
