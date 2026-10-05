@@ -206,6 +206,7 @@ reset pass.
 | Mirror of Rising, Deadline | one dirty section, and `R-01` | The same sentence. Both also opened their Expanded origin context by narrating an earlier version of the file ("has been removed"); converted to cause. |
 | Foam Flood, Soot Fry | one dirty section | One paragraph, the Interaction Pattern opener, rewritten from each file and deliberately not as parallel templates (`R-04`). |
 | Exiles' Wall | one dirty section | One sentence, the stock "record the first X, the first Y" method opener. |
+| The Debt Chain, Forgotten Name | `R-01` only | Each opened its Expanded origin context by narrating an earlier version of the file; converted to cause from facts already in the file. No `R-29` movement: both still have dirty sections. |
 
 **The largest single residue found.** The sentence *"A choice presented to the observing worker at
 the climax of contact. One path reveals `<Name>`; the other feeds it."* sits, name slotted, in the
@@ -231,6 +232,8 @@ or containment stability,"* which **127** dossiers still carry.
   now keys on the filename code; the dashboard reads 302 / 302, matching the index.
 - `tools/dirtylines.py` (new): for each section over 0.05, only the lines inside it that carry
   shared 8-grams. Four dossiers were finished on its output, each on a single sentence.
+- `tools/editmeta.py` (new): finds candidate `R-01` sentences (reconciliation notes about earlier
+  wording). It reports and never edits.
 
 **Next targets, in order (`R-13`).**
 
@@ -241,8 +244,11 @@ or containment stability,"* which **127** dossiers still carry.
    paragraph and the four Use Notes cells, all built from the same cost sentence.
 3. **The choice sentence in the other 211 dossiers**, worst section first; then the Interaction
    Pattern sentence in the other 127.
-4. **`R-01`:** The Debt Chain `N-IIIβ-160` and Forgotten Name `N-IIα-215` still narrate an earlier
-   version of themselves in the first Expanded-origin sentence.
+4. **`R-01` sweep.** The four Expanded-origin sentences that narrated an earlier version are converted
+   (Mirror of Rising, Deadline, The Debt Chain, Forgotten Name). `tools/editmeta.py` finds **58 dossiers
+   with 73 further candidate sentences**, among them the *"has been corrected against the Behavior
+   table / the SECC header"* Registrum notes that `R-01` names verbatim. They are candidates, not
+   verdicts: in-world administrative history is content, so each is read before it is converted to cause.
 5. **Own numeric series, 13 dossiers that fail only that clause.** Three are Rank V holdings that are
    deliberately projection-only (The Convergence, Forgotten God, The Final Door); their series has to
    stay honest under `R-29` clause 5, so they need reading before anything is added.

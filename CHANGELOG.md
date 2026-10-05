@@ -38,6 +38,9 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **`R-01` follow-up to the Workstream 9 turn (2026-10-05)** —
+  - The Debt Chain and Forgotten Name each opened their Expanded origin context by narrating an earlier version of the file; converted to cause from facts already in the file, as Mirror of Rising and Deadline were earlier in the turn.
+  - Added `tools/editmeta.py`, which finds candidate `R-01` sentences. It reports 58 dossiers with 73 candidate lines; they are left for the next session to read and convert, not changed here.
 - **Workstream 9 / `R-29` turn: the Unknown-wing short-forms completed, the cheap `R-29` gaps closed, and the gate and dashboard corrected (2026-10-05)** —
   - Completed the three remaining short-form Unknown-wing dossiers to the `R-29` standard: The Unbroken Pledge, The Ancestral Guilt and The Singing Needle. Seven parity sections each, authored from each file's own canon with its own instrument, management condition and institutional cost. With The Glass Silt Drifter, all four short-form Unknown-wing files now meet the standard.
   - Closed single-clause `R-29` gaps in thirteen further dossiers, one commit each: the management condition (Survivor's Span, Grasp, Errant, The Unspoken Line) and one dirty section (Uprooted, Memory Chain, Animus, Forgotten Tear, Mirror of Rising, Deadline, Foam Flood, Soot Fry, Exiles' Wall). Mirror of Rising and Deadline also lost a sentence that narrated an earlier version of the file (`R-01`).
