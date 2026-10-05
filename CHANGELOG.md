@@ -38,6 +38,23 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 10 / unit 1 — Rem `C-IIβ-135` brought to the standard (2026-10-05)** — batch 10's opening unit,
+  the live head measured at the batch head (`5b05f43`): worst 기록 (Registrum) 0.541 across **8 dirty
+  sections**. All eight closed in one pass (Behavior 0.374, Activation Behavior 0.230, M.A.W. Equipment
+  0.148, 감각 묘사 (Flavor Text) 0.145, 최종 관찰 (Final Observation) 0.138, Trivia 0.124, Combat Record
+  0.114); 6,926 → **7,545 words**; `tpl.py` residue 3 → **0**; `verify.py` residual 1 → **0**;
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, with condition and series
+  already satisfied and untouched (`R-05`). The rewrite carries the file's own instruments: the forms
+  tally — rooms 54, 71, then 88 in a hundred sightings across three annual returns — read against the
+  Company's deaths and departures partway through work, the shard's fixed half-metre, the escalation
+  signal of agreement that halts the watch, and the M.A.W. set's three costs (microsleep, mirror-light,
+  the cage's drain) written into the Use Notes, the four-stage Field Use Record and the Stat
+  interpretation. Two splices in the Log and Method rows were repaired as cause rather than reworded
+  around. Movement: `R-29` 92 → **93 / 301**, section-clean 115 → **116 / 301**, residue-free 143 →
+  **144 / 302** (instances 475 → 472, carriers 159 → 158, distinct residue lines unchanged at 37),
+  file-clean 196 → **197 / 302**, median 0.029 → **0.028**, worst 0.156 unchanged. **Batch 10 continues at
+  the floor of three**; the next unit is measured at its own head, never carried over.
+
 - **Batch 9 / unit 3 — Cleaved `C-IIβ-775` brought to the standard, closing batch 9 at three
   (2026-10-05)** — the live head after unit 2, re-measured at `f5c779e` (worst 기록 (Registrum) 0.548).
   - All **7 dirty sections** closed (Registrum 0.548, M.A.W. Equipment 0.465 → an interim 0.068 → **0.028**,

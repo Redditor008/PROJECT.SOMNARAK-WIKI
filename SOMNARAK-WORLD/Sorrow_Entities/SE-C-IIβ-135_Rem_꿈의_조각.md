@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
+| **Resistance** | 25% ward against Lament, 15% against everything else — and at the Gates only the first is ever tested. Nothing here strikes a body; the pressure is Lament or it is nothing, and the second figure stands against a class of harm the shard has never once produced. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 357/357 |
 | **Han Pressure [ATK]** | 9–21 per hit · Lament |
@@ -82,18 +82,18 @@
 | { *The Lucid Edge* [**Debuff**] } | "The fragment pulses — and for a moment, you cannot tell if you are awake or inside someone's broken dream." | [The Fragment destabilizes the target's sense of reality.] | *Target suffers -10 Composure; dream and waking bleed together.* **[10 Lament DMG [Lament]]** | When the target touches the Fragment. |
 | { *The Recurring Loop* [**Debuff**] } | "The same moment repeats — a fragment of a dream, looping — and you cannot wake from it." | [The Fragment traps the target in a dream-loop.] | *Target loses 10 Composure; they cannot distinguish repetition from reality.* **[10 Lament DMG [Lament]]** | When the target lingers. |
 | { *The Nightmare Shard* [**Attack**] } | "The fragment turns dark — and the dream becomes a nightmare, and the nightmare has teeth." | [The Fragment's dark side manifests as a striking horror.] | *Inflicts Lament pressure and one surreal, dream-logic wound.* **[14-22 Lament DMG [Lament]]** | When the Fragment is disturbed. |
-| { *The Full Dream* [**Attack**] } | "The fragment expands — trying to reconstitute the whole dream — and the dream was terrible." | [The Fragment attempts completion, releasing its full stored narrative.] | *A heavy Deep Blue surge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Fragment is forced whole. |
-| { *Everyone Dreams the Same Dream* [**Ultimate**] } | "The fragment multiplies — and everyone falls into the same broken dream at once." | [The Fragment spreads its dream-state across the whole field.] | *All in range suffer Lament pressure for three turns of shared nightmare.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Dream* [**Attack**] } | "The shard stops flickering and starts assembling — a house by water, a table laid, a face at the door — and it is nearly finished when you understand that you are the only thing still missing from it." | [The shard attempts the whole of the dream at once, and the attempt is what the order warns observers off understanding.] | *A heavy Lament surge; the target's Sorrow Gauge climbs 15%.* **[24-36 Lament DMG [Lament]]** | When an observer works out what the showing is toward. |
+| { *Everyone Dreams the Same Dream* [**Ultimate**] } | "The showing comes off the shard entirely and settles on everyone at the drift edge — the same image in every head, which is how the watch knows the cycle is lost." | [The shard sheds its showing across the whole field at once.] | *All in range take Lament pressure for three turns of one shared, unfinished dream.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Rem is recognised by a shard of something at chest height that will not hold a shape — a room, a face, a warm tear in the air — never fully solid, never absent, and different for whoever is looking — then the approach is set and the positions are taken.
+1. **Tension:** Identification first, and identification is all it ever is. Rem is recognised by the thing at chest height that will not hold a shape — a corridor, a half-known face, one warm tear in the air — and the sheet carries the observer's name before it carries anything else. Nobody works out what the showing is toward; the standing order is to stop short, and a Warden who comes close is stood down for the return.
 2. **Clash:** Viderehan and Ferrehan only, one Warden at a time, each writing down what they saw before any of them speaks. Conferring before the sheets are in is the single disciplinary offence this holding records.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The cycle closes when every sheet is in the tin, no two accounts agree, and the gauge has fallen below 25% — the only close this holding recognises. Nothing is healed by it: the shard hangs where it hung, the dream keeps its unfinished middle, and the watch writes the return up as a watch that stopped short for another year.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Clarity** and identity cohesion, accelerating Sorrow Gauge escalation.
+- Personnel who remain inside a showing past their turn lose Clarity quietly rather than suddenly. The reverie returns +20 Composure on waking and takes something unmeasured out of the return, and the two Wardens who had to be carried off the drift both reported afterwards that they had understood where they were and chosen not to move.
 - Extended contact risks Rem’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
 - Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
 - Without timely resolution, Rem defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
@@ -145,14 +145,14 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Rem is recorded as an Object/Place with Dream manifestation and Lament elemental expression. The current record places it at SECTOR-A-01, near Dream Gates; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the responses against the classification. Rem is filed as an Object/Place with a Dream manifestation and a Lament expression, and each of those words does work at the drift: an Object cannot be emotionally engaged and a Place cannot be confronted, so Flerehan and Pugnahan are not merely ineffective on this holding — they are inapplicable, and the file records that neither has ever been attempted. What remains is the pair the Gates watch actually runs. Viderehan reads the showing and leaves the gauge exactly where it was; Ferrehan stays inside one repeating image until the pressure comes off. A stable gauge is not a safe cycle here: the same watch that leaves the gauge untouched can send a Warden home with a showing they cannot stop returning to, and the sheets are the only instrument that shows it.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** Gauge movement on this holding measures endurance, not progress. A falling gauge means a Warden held their place inside a repeating image long enough for the pressure to come off — the showing is unchanged, the dream is still unfinished, and the drift has not moved a finger's width. A rising gauge means the cycle has been fed: somebody tried to work out what the showing was toward, which is the one thing the standing order forbids. Log the form and the interval before the gauge, because here the gauge tells you how long a person lasted and the sheet tells you what they were shown while they lasted.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic draws on the bearer's own dream-life and returns it thinner**
 
 **Activation Trigger:** Contact at the forehead, or sleep within the drift. Both are recorded; the second accounts for most of the series.
 
@@ -180,14 +180,14 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Rem rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Rem activates its primary resonance: Induces a restorative lucid reverie, purging cognitive confusion and restoring +20 Composure. Grants +10% resistance to Lament damage while equipped. |
-| 30 Seconds | The artifact was born from the loss of an imagined life that felt more real than the waking one; the bearer begins perceiving echoes of a dreamer died before completing a cherished dream; its emotional residue broke loose near the dream gates. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Rem begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Rem too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The dream is difficult to abandon; removing the shard induces drowsiness and -2 Movement Speed. |
+| 10 Seconds | The shard brightens once at the operative's approach, which is the only reading two observers have ever matched on, and the contact begins at the forehead. | Forehead contact starts a lucid reverie: confusion clears and +20 Composure returns on waking, with no recall of the content; Lament resistance +10% while the contact is held. |
+| 30 Seconds | The showing settles into its unfinished interior — a corridor that stops, a table laid for a meal partway through — and the operative begins following it rather than reading it. | Contact still returns Composure, but the operative's account of the showing lengthens while their account of the room they are standing in shortens; action speed rises against composure. |
+| 1 Minute | The toll starts at the breath: the operative's breathing falls into the same rhythm as the showing, and the Warden at the drift edge calls the minute against the watch glass rather than counting along. | Continuous contact past sixty seconds costs 5 Lament damage every fifteen seconds, and the second worker is required to time it from outside the drift. |
+| 2 Minutes | The showing stops belonging to the shard and starts belonging to the operative; a Warden who reaches this mark has begun supplying the unfinished parts themselves, which is the failure the whole procedure exists to prevent. | Contact beyond two minutes, or breaking it by force, brings acute panic, then drowsiness and -2 Movement Speed; the returning Warden is stood down for the watch and their sheet is held with the year's tally. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Rem: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Subject-Dream form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-A-01, near Dream Gates, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation signal on this holding is agreement, not violence. Personnel record the first trigger (forehead contact, or sleep inside the four-metre drift), the form shown, the interval before it changed, and whether any second account matches — and two matching sheets halt the watch and clear the Gates approach until the drift has stood empty for a full cycle. Because the pressure is Lament and the holding is registered to SECTOR-A-01, near Dream Gates, the emotional indicators are logged beside the physical ones rather than behind them.
 
 **Response sequence:** Clear the Gates approach, take the forms sheet from every Warden present before they confer, and halt the watch if two sheets agree. Agreement is the escalation signal here and the only one.
 
@@ -272,18 +272,18 @@ Tiny luminescent silver dream flecks drift inside the floating orb like falling 
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Rem and carries what Rem carries: the wearer experiences occasional microsleep episodes while resting. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+Every piece in this set is drawn from the same shard and carries the same cost in the column beside it: microsleep while resting, for the shroud; faint violet reflections in mirrors, for the orb; cognitive drain while the cage is held, for the prisms. The grade records only how cleanly the archetype came off Rem. It does not measure what the wearer pays, and the set is issued one rotation at a time for that reason.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Rem takes: the wearer experiences occasional microsleep episodes while resting. |
-| **During use** | Rem charging, which presents as this: the wearer experiences occasional microsleep episodes while resting. The wielder's own account is taken separately and afterwards. |
-| **At limit** | Rem's cost is continuous rather than occasional: the floating orb casts faint violet reflections in mirrors even in total darkness. The second worker's call stands against the wielder's. |
-| **After use** | Piece returned; re-assess a week later, because what Rem takes (the floating orb casts faint violet reflections in mirrors even in total darkness) does not present on the day. |
+| **Before use** | Wielder, piece, and a dated baseline against what Rem takes: the sleeps the shroud costs its wearer, and the mirror-light the orb leaves behind. |
+| **During use** | Rem's charge presents as the set's own signatures: short unexplained sleeps for the shroud's wearer, a slowed pulse where the prisms orbit, and a Warden at the edge timing the cage rather than the wielder. The wielder's own account is taken separately and afterwards. |
+| **At limit** | Rem's cost is continuous rather than occasional: the shroud's wearer does not wake when the reverie holds them, and the orb keeps its mirror-light in a dark room. The second worker's call stands against the wielder's. |
+| **After use** | Piece returned; re-assess a week later, because what Rem takes — sleeps the wearer cannot account for, and a reflection the orb leaves in a dark room — does not present on the day. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade records extraction stability, not safety. A β set that performs flawlessly can still return a wearer who sleeps without dreaming for about a day and reports the day as a loss, which is what a third of the orb's recipients do. A lower-rated piece can carry the heavier cost; here the cost column, not the grade, is what the rotation is built around.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -311,7 +311,7 @@ Every piece in this set is a fragment of Rem and carries what Rem carries: the w
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Rem (C-IIβ-135 [LO]) is logged as a Subject-Dream manifestation expressing Lament, at the Dream Gates in SECTOR-A-01. It shows a different thing to every observer, it ends if anybody understands it, and the proportion of observers shown an unfinished interior rises every year.
+Containment description for C-IIβ-135 [LO], the holding called Rem: a Subject-Dream manifestation expressing Lament at the Dream Gates in SECTOR-A-01. It shows a different thing to every observer, it ends if anybody understands it, and the proportion of observers shown an unfinished interior rises every year.
 
 **Entry 2 — <Dream Gates Watch Return, Year 4238>**
 One hundred sightings logged. Rooms 88, faces 9, tears 3, against 71 and 54 rooms in the two preceding returns. No two observers described the same room. Flicker intervals timed and again showing no pattern.
@@ -329,9 +329,9 @@ The archive holds four hundred and eleven observation sheets for this holding an
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Rem; the other feeds it.
+> What the observing worker is asked to do at the close of contact: put the sheet in the tin before speaking, or say what they saw.
 
-| Do the thing on file: Sheets before speech, one observer at a time, no contact without authority, and the watch halted on any agreement between accounts. | Do the obvious, decent thing instead, and feed Rem. |
+| Do the thing on file: sheets collected before anybody speaks, one observer at a time, no contact without written authority, and a return that leaves the shard exactly where it hangs. | Do the obvious, decent thing instead: compare accounts at the drift edge, and feed Rem. |
 |---|---|
 | Makes the worker remain inside a repeating dream image. The sorrow is witnessed; Rem is fully recorded. | Reveals the dream's incomplete structure. The gauge climbs and Rem withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -346,13 +346,13 @@ A shard floats beside the Dream Gates. A room forms around it, then a face, then
 
 **With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Lament presses hardest, where it recedes, where the Subject-Dream lets you breathe.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Sleep, direct touch, or Dream-layer proximity. Effect: Manifests a fragment of a desired or lost dream. Duration: Until the dreamer wakes or the fragment fades. Risk: The user may prefer the dream to reality and refuse to wake. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Sleep inside the four-metre drift, or forehead contact under written authority — and the shard answers with a showing: a room, a face, one warm tear, chosen by whoever is looking. Duration: as long as the contact or the sleep lasts, and not a breath longer. The observable sign on the watch side is the brightening, which is the only reading two observers have ever matched on; the operative's own report on waking is almost always nil.
 
-**After departure:** After contact, the body holds what the mind files away. The Lament is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The showing stops at the drift edge and does not follow anyone out, but the interval goes with them: Wardens report the form returning unbidden for a day or two, and the composure the reverie returned is spent slowly and unevenly. Two Wardens were carried out, and both asked to be taken back before the watch was over.
 
 ### Interaction Pattern
 
-Rem does not exist in isolation. Its recorded relationships with The Memory Weaver, Silence We Forgot We Made, The Lost Prince should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Rem is filed beside three holdings because all three touch the showing, and none of the pairings is an alliance. When another entity stands at the drift edge, the watch records what changes in the form shown, in the interval between forms, in the forms tally, and in the reporter's clarity on waking; the pairing itself is never entered as an intention on either side, because nothing on this holding is written down as something anyone meant to do.
 
 **Interaction method:** Forms tally taken for a full watch before the pairing and a full watch after, by the same observers, with the sheets sealed until both watches are done.
 
@@ -361,7 +361,7 @@ Rem does not exist in isolation. Its recorded relationships with The Memory Weav
 
 Rem must be kept apart from the other Dream Gates holdings in the file. The Loom of Unlived Dreams manufactures lives that were never begun; this one preserves a single life that was begun and stopped, which is a smaller thing and the reason its drift has never grown.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
 | **The Memory Weaver** | The Weaver works at it and cannot fix it in place. Seven attempts, seven failures, and the Weaver's own output drops for days afterwards. | No change here; measurable fatigue in the Weaver. The only holding in the wing it cannot take. | Record the Weaver's output before and after. This holding's tally is unaffected. |
 | **Silence We Forgot We Made** | The showings acquire speech that the observer cannot hear and knows the sense of. Rooms rise to nearly all of the tally while the pairing lasts. | Tally distorted for the duration and back to trend within two watches. | Keep the tally hourly through the pairing and for two watches after. |
@@ -414,9 +414,9 @@ Some sorrows mourn what was. Rem mourns what was imagined — the unlived life, 
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Two figures govern this record and only one of them moves. The tally does: rooms ran 54, 71, then 88 in a hundred sightings across three annual returns, with faces and tears dividing the rest and no interior ever described twice. The shard's position does not move: it has hung in the same half-metre since the day it came loose, with no breach on record and no breach counter to keep. Read the tally against the year it was taken and against the Company's own losses, because the Watch Record's finding is that the two move together. Where the sheet and the tally disagree, the sheet is entered with the observer's name and the discrepancy is left standing.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** At every watch: the sheets collected and sealed before any conference, every observer named, the form and interval entered, the composure reading taken on waking, and the tally returned to the annual file. Two accounts agreeing halts the watch and clears the Gates approach; a showing described twice is the anomaly this record is built around, and neither account is reconciled into the other. The review records what was shown and what was withheld, and it closes nothing.
 ## Watch Record
 
 ### It Shows Differently to Everyone
@@ -462,11 +462,11 @@ A dreamer died before completing something they had been dreaming toward and the
 
 ### Registry Trivia
 
-- **Classification detail:** Rem is an Object/Place with Echo (II) — Repeats flickering coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is SECTOR-A-01, near Dream Gates.
+- **Classification detail:** Rem is an Object/Place with Echo (II) — Repeats flickering coherence and Moderate (β) potency. The coherence grade is the honest one here: the shard has no stable form to classify, so the record classifies the repetition instead.
+- **Field detail:** Its defining element is Lament, and its registered location is SECTOR-A-01, near Dream Gates. The drift has not grown by a finger's width, and the only figure in this record that moves at all is the tally.
 - **Recognition detail:** A shard of something at chest height that will not hold a shape — a room, a face, a warm tear in the air — never fully solid, never absent, and different for whoever is looking.
 - **Record detail:** The manifestation label read Subject-Dream in the header and plain Dream in three other places; standardised here. The Registrum named Viderehan primary where only Ferrehan moves the gauge, assigned the holding to D-territory against a Zone A location, and the activation record carried two different triggers; all corrected.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment here is a procedure rather than a barrier. The shard hangs where it came loose and nothing is sealed; what keeps the holding is the order of the cycle — sheets collected before speech, one observer at a time, no contact without written authority, and the watch halted the moment two accounts agree.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-135
