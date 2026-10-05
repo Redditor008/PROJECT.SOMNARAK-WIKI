@@ -277,9 +277,9 @@ Both pieces came off a thing that will not be gone through, and they keep the pr
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It rises from floors without damaging them.
-- It appears near old lockdown sites.
-- Its red pressure increases when someone says they have no choice.
+- It rises from floors without damaging them. In 11 years it has appeared 94 times, with 4 handle contacts, 1 propagation and no fatalities.
+- It appears near old lockdown sites, and its handle has risen 50 centimetres across the 11-year series, every increment inside a week when the district had closed something and none of it ever recovered.
+- Its red pressure increases when someone says they have no choice. Any proposal to open it is an escalation to the Warden, and 2 such proposals have been made.
 
 **Personnel Note:** *"I felt longing. The Door did not promise escape; it showed me the shape of the choice I had refused to admit was mine."* — Specialist, Zone B patrol
 
