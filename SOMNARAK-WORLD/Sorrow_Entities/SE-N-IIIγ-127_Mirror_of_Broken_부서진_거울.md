@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per cycle, worked at the Gate where the shards lie. The Gate station bills it against the exile rota rather than the containment line, which is an accounting decision it has had to defend twice. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Weight pressure; 25% against other pressure types |
+| **Resistance** | 35% against Weight. The shards cannot be swept, moved or collected; four attempts are on file and in each case the pieces were back in the same arrangement by morning. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Weight |
@@ -81,21 +81,21 @@
 | { *The Heavy Shard* [**Debuff**] } | "A shard of the broken mirror presses on your chest — heavier than glass should be." | [The Mirror's fragments carry weight; the target is burdened by their reflection.] | *Target suffers -10 Resolve; the self-image is physically heavy.* **[10 Weight DMG [Weight]]** | When the target picks up a shard. |
 | { *The Distorted Mass* [**Debuff**] } | "The broken pieces show a body that is not yours — heavier, older, sadder." | [The Mirror's shattered images distort the target's self-perception gravitationally.] | *Target loses 10 Resolve; they feel heavier just by looking.* **[10 Weight DMG [Weight]]** | When the target gathers the shards. |
 | { *The Crushing Reflection* [**Attack**] } | "A shard slams into you — and the weight of the broken self it carries is enormous." | [A weighted shard impacts the target.] | *Inflicts Weight pressure and one heavy, reflective wound.* **[14-22 Weight DMG [Weight]]** | When the Mirror is disturbed. |
-| { *The Full Reassembly* [**Attack**] } | "The shards fly together — briefly, the mirror is whole — and then it detonates." | [The Mirror reconstitutes and immediately shatters again.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Mirror is forced together. |
-| { *The Shard Avalanche* [**Ultimate**] } | "Every shard in the field becomes heavy — impossibly heavy — and they all fall at once." | [The Mirror's weight spreads to every fragment.] | *All in range suffer Weight pressure for three turns in the avalanche of shards.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Reassembly* [**Attack**] } | "The pieces come together, the mirror is whole for about a second, and then it is not." | [The mirror reconstitutes and shatters again in the same breath.] | *24–36 Weight to anybody looking at it; in the whole second it is intact, every observer reports seeing themselves as they were before the Gate.* **[24-36 Weight DMG [Weight]]** | When somebody denies, aloud, having been who they were. |
+| { *The Shard Avalanche* [**Ultimate**] } | "Every shard goes heavy at once and the ground takes them." | [The pieces become impossibly heavy and sink where they lie.] | *12–20 Weight per cycle for three cycles to everyone at the Gate; the shards are back on the surface within the day.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, twice, both in weeks when the Gate processed more than forty exits. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the subject manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
+1. **Tension:** The warden counts the shards, photographs the arrangement, and takes position where the reflection does not reach. Nobody stands where they can see themselves until the count is done.
 2. **Clash:** There is nothing to engage. The exposure is a dream and the work is done afterwards, in a room, with an account taken voluntarily and the volunteering written down beside it.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish a present identity without denying the former one**.
+3. **Resolution:** Somebody names a person they used to be, plainly, without arguing about whether that person was better. 188 cycles; the gauge falls on the naming and has never fallen on a defence of the present self, which the station tried for a year.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resolve**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Mirror of Broken’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Mirror of Broken executes its documented event pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- The failure here is denial. Not grief, not shame — a flat statement that the earlier self was somebody else, which is the one thing that reassembles it.
+- Past about half an hour the warden begins arguing with their own reflection about which version was real, usually silently, and the second warden watches the mouth rather than the eyes.
+- The set's price is the day's clarity: wielders recall a version of themselves with unusual precision and cannot, that evening, say which of their own memories belong to it.
+- An unworked week adds shards. The count has risen from nine to sixty-one in nine years, each arrival overnight, each piece reflecting a different age of the same unidentified person.
 
 ## Appearance
 **Primary Form:** A figure that holds together without ever settling — broken mirror fused into black weight-crystal, every shard carrying a different version of whoever is in front of it. **Shape:** never twice the same, and never once the shape of the viewer.
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | Mirror fragments set in black weight-crystal, assembled differently at every sighting. |
-| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
+| **Position / movement** | The shards lie where they lie, inside the Gate's outer wall, and reassemble their arrangement whenever it is disturbed. Nothing has ever moved outside the pattern. |
 | **Material / signature** | Weight. Lead-cold glass, edges that look sharp and are, wet stone on the air, and a pressure that makes breathing feel like lifting. |
 | **Distinctive markers** | The count of distinct faces, and nothing whatever about their content. |
 | **Identification** | Count the faces. One face is a mirror; eleven is this holding. |
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Mirror of Broken is recorded as a Subject with Subject-Dream manifestation and Weight elemental expression. The current record places it at Zone E, Exile's Gate vicinity; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table applies and the number the station keeps is the shard count against the Gate's exit register. Nine to sixty-one in nine years, each arrival inside a fortnight of a week when the Gate processed more exits than usual. The mirror is accumulating people who left.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A falling reading means a person at the Gate named who they used to be. It rises on denial, on busy exit weeks, and — four times — on a clerk recording an exile's prior occupation as *not applicable*.
 ## Containment Event Behavior
 
 > *"Mirror of Broken has gone past the Gate vicinity. It is not chasing anybody. Everyone asleep in the affected sections is in it."*
@@ -163,7 +163,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 - **Event type (non-breach):** Corruption of its own zone. The zone warps and the warping spreads inside it; nothing walks out.
 - **Containment priority:** Wake everybody in the affected sections and keep them awake. Sealing does nothing — the perimeter is sleep, not a wall — and the only lever anybody has is that it cannot reach a person who is not asleep.
-- **Sorrow Gauge on event:** Opens at 40% and rises 10% for each former self a person in the affected zone denies aloud. It falls 10% when somebody names a self they used to be without arguing that it was the real one. Silence holds it.
+- **Sorrow Gauge on event:** Opens at 40% and rises 10% for each former self a person in the affected zone denies aloud. It falls 10% when somebody names one without defending it, which is the only downward movement in nine years of readings.
 
 ## M.A.W. Equipment
 
@@ -188,15 +188,15 @@ Each facet reflects a different perspective of the surrounding room at impossibl
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** The multiplier applies to the strike and to each Tick separately, and the prism must be held by the same bearer throughout an engagement; three bearers in sequence produced three incompatible after-action accounts of the same minute.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Mirror of Broken's weight signature in the strike.
+**Ability:** Weight against the Han. Struck targets spend the following hours certain that an earlier version of themselves was the real one, which all fourteen described as neither pleasant nor distressing.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder ages slightly, and misplaces which decade a memory belongs to.
 
 ### M.A.W. Suit — The Broken Mantle
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a draped mantle, cold against the skin, whose inner face is mirrored in patches and shows the wearer at an age they cannot place.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -206,19 +206,19 @@ Each facet reflects a different perspective of the surrounding room at impossibl
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Mirror of Broken's kind of pressure.
+**Ability:** Resistance to Weight against the Han, and the reason a warden can work the shard field for a full cycle without arguing with the reflections.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** A constant low fatigue, and the habit of correcting other people's accounts of their own pasts.
 
 ### M.A.W. Stigma — The Broken Reflection
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a mirror-tile of Weight Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance:** a mirror-tile, matte on the back and warm near grief, which reflects whoever holds it at the age they were when they last changed their mind about something important.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat, and for about a day the wearer can recall, with unusual precision, a version of themselves they had stopped being able to picture. Several wearers have asked for the piece back and the request is always refused.
+**Effect:** +2 to the working stat, and for about a day the bearer recalls with unusual precision a version of themselves they had stopped being. The station requires that recollection to be written down the same day, because it does not survive the night.
 
 **Ability:** Anchors the wearer between conflicting identities.
 
@@ -228,18 +228,18 @@ Each facet reflects a different perspective of the surrounding room at impossibl
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece is a conditional extension of the entity, not ordinary equipment. The listed benefit is strongest when the operator follows the intended use pattern; A M.A.W. forced beyond its design degrades the user faster and may invert the protection into exposure. and may produce an effect tied to Mirror of Broken's element. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Every piece is a fragment of somebody's earlier self, and the set lends that to its wielder for a day. The benefit is real and limited: a clear sight of who you were, once, in detail. The cost is that by the next evening the wielder cannot sort their own memories by decade, and two of the three have had to be shown their own service record to settle an argument about where they were posted.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
-| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
-| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
-| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
+| **Before use** | Wielder, piece, the shard count, and a dated list of three things the wielder did more than ten years ago. Sealed. |
+| **During use** | Every recollection the wielder reports, written down with the age they assign to it. The ages are the reading. |
+| **At limit** | The wielder assigns two incompatible dates to the same memory and does not notice. Three rotations; all three. |
+| **After use** | Open the sealed list and ask for the dates. The Armoury keeps the discrepancy and does not correct the wielder, which is a decision it has recorded in full. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade measures extraction stability. This set costs a person their chronology for a day or two and the only detector is a sealed list of dated facts; authorise on that.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Mirror of Broken (N-IIIγ-127 [WS]) is logged as a Subject-Dream manifestation expressing Weight, in the vicinity of the Exile's Gate in Zone E. It is met in sleep, it has never acted on anybody, and the number of selves it holds at once is greater at every annual return.
+Mirror of Broken is sixty-one shards lying inside the Exile's Gate wall, each reflecting a different age of the same person, none of them identifiable. The pieces return to their arrangement whenever they are disturbed, and the count rises in the weeks the Gate is busy.
 
 **Entry 2 — <Exile's Gate Watch, Year 4238>**
 Eleven distinct faces counted at the last return, against seven and four. Content not recorded, by standing order. Dream-side accounts volunteered by nine of the eleven dreamers; two declined and were not asked again.
@@ -278,16 +278,16 @@ A person is assessed on their present standing. Service, grade, qualification an
 The weight of becoming someone else in order to survive.
 
 **Entry 4 — <Containment Notice>**
-Management: let the earlier selves stand. The gauge rises on denial and falls when somebody names a person they used to be without arguing about which one was real. Work response — Flerehan: Shards turn toward the worker's grief. (Decrease); Pugnahan: The dream fractures into hostile reflections. (Increase); Viderehan: Shows the selves the worker abandoned. (Stable); Ferrehan: Tests whether the worker can remain without choosing one self. (Decrease). Personnel feel fear after seeing selves they cannot reconcile.
+Management: let the earlier selves stand. The gauge rises on denial and falls when somebody names a person they used to be without arguing about which version counts. The clerks are briefed to ask exiles what they did before, and to write the answer down whether or not it is useful.
 
 **Entry 5 — <Archive Note>**
 An exile once stood before the Gate and found that the reflection had no single face. One shard showed the person who had entered the city years ago. Another showed the person who had learned to survive inside it. A third showed the stranger who would walk back out through the Gate if the exile stayed much longer. None of the three agreed to be the reflection. The shards have turned toward grief rather than toward the body standing in front of them ever since, and personnel leave the chamber carrying an oppressive mass that makes breathing feel like lifting.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Mirror of Broken; the other feeds it.
+> The choice comes at the shard field, where there is a version of you on the ground that you had decided was not you any more.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Name who you used to be and let it lie there. | Say that person is gone and this one is the real one. |
 |---|---|
 | Shards turn toward the worker's grief. The sorrow is borne; Mirror of Broken is fully recorded. | The dream fractures into hostile reflections. The gauge climbs and Mirror of Broken withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -298,17 +298,17 @@ The shards float around a figure with no single face. One reflection belongs to 
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Weight always changes a room. Then the Subject-Dream resolves: A dreamlike figure formed from broken mirror shards and black weight. Each shard reflects a different self.
+**At first contact:** Broken glass on the ground inside the Gate wall, arranged rather than scattered, and every piece shows somebody at a different age. None of the faces is yours until you have been there about a minute.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Weight is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** You begin to rank them. Which version of yourself was better, which was a mistake, which one the Gate would have let through — and the ranking is the denial the gauge is measuring.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Weight becomes something you can taste, hear, or feel on your skin. The Subject-Dream has crossed the line between containing and becoming.
+**When the entity activates:** The pieces lift and fit, the mirror is whole for about a second, and everybody present sees themselves as they were before they came to the Gate.
 
-**After departure:** You leave, but the Weight follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** You mention something you used to do. Gate staff do it within the day and the station's briefing records it as harmless and, in two cases, as the first time a colleague had heard it.
 
 ### Interaction Pattern
 
-Mirror of Broken does not exist in isolation. Its recorded relationships with The Exile's Gate, The Empty Mask, Silence We Forgot We Made should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three relations, all of them things the Gate makes of people, and all measured on the shard count. Two added pieces. The Empty Mask is the only one that has ever taken one away.
 
 **Interaction method:** Establish this holding's own face count across several nights with no second holding present, then introduce the other and count again from the same watch, at the same distance from the Gate, with every account volunteered and none merged into another.
 
@@ -317,7 +317,7 @@ Mirror of Broken does not exist in isolation. Its recorded relationships with Th
 
 Mirror of Broken must be distinguished from the identity holdings it is filed beside. The Empty Mask concerns being taken for somebody else; this one concerns having been somebody else, provably, in a system that holds only who you are today — which is why its figure is a count of faces rather than anything about a face.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What it is | What the shard count did | Required record |
 |---|---|---|---|
 | **The Exile's Gate** | The Gate supplies the division itself: an inward row and an outward row for one person, with nothing in the system joining them. Face counts taken at the Gate run roughly double those taken a hundred metres off. | Count doubled; no other change. | Record the count against the distance. The passage records are consulted but never matched up, matching being outside anybody's authority. |
 | **The Empty Mask** | Opposite problems in one corridor: the Mask is taken for somebody it is not, this holding is nobody it has been. Dreamers exposed to both report selves wearing faces that are not theirs. | Count rises; the accounts become unusable and are filed unedited. | Record both counts. No reconciliation is attempted and none is permitted. |
@@ -357,7 +357,7 @@ Some sorrows mourn a home. Mirror of Broken mourns a self — the identity shatt
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ). It never acts and it cannot be sealed out, because the way in is sleep; a event takes a whole section's dreamers at once. Effect: the vertigo of a self that was changed in order to get through.
 **Containment & Handling Procedures:**
-- Flerehan is the primary Work Type and Ferrehan the alternate. Viderehan is run for record. Pugnahan is prohibited.
+- Flerehan is the primary Work Type and Ferrehan the alternate; Viderehan is run for the record and Pugnahan is prohibited, there being nothing to confront but glass.
 - Do not attempt to reassemble the shards, and do not describe what any of them showed. Both prohibitions are standing orders with reasons attached.
 **Observation Notes:**
 - An exile's standing ended at the Gate and a new one began there, and the record holds no line connecting the two.
@@ -367,9 +367,9 @@ Some sorrows mourn a home. Mirror of Broken mourns a self — the identity shatt
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The shard count rises with the Gate's exit register and falls when somebody names a self they used to be without defending it. Nine pieces to sixty-one in nine years. The clerks' question — what did you do before — is the only containment measure this holding has, it costs nothing, and four times it has been answered on the form as *not applicable* by a clerk in a hurry, each time followed by a rise.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every a corruption event, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every cycle: the shard count, the arrangement photographed, the Gate's exit figures for the fortnight, and every prior-occupation field recorded as not applicable. The last is reported to the Gate's own supervisor, who has twice asked for it to stop being reported and twice been refused.
 ## Warden Record
 
 ### Shards That Disagree
@@ -404,7 +404,7 @@ Year 4237: 9,870 cards issued; 0 entitlements conferred; 0 proceedings in which 
 
 The costs are set out on the back of the card. Two dates are not a history and cannot be made into one: the gap between them is the whole of a life at this Company and the card is silent across all of it, deliberately, because a card that said anything about what a person was would be prior standing in a pocket. The card proves no service and supports no claim. And for most people it cannot be issued at all, since the inward row was made under a standing that has since lapsed and lapsed standings are not indexed by person. A man may know perfectly well he came through in 4209 and be unable to be told so.
 
-The Gate clerks asked for one line. Not a grade, not conduct — one line of plain fact, where the books support it, saying what the person did before. Refused, and the refusal is correct on the Office's own reasoning: a line about what somebody was is prior standing, prior standing is what followed 1,440 people in 4188, and a line that may be written for some people is a line whose absence speaks about the rest. Their submission stands in the Year 4231 return, recorded as correct and unanswered. The Gate watch keeps it inside the lid of the tally box, under the day's count: we hold only who a person is now, so that nothing anybody was can ever be used against them, and there is something out by the Gate tonight holding eleven people who all used to be somebody and are not on file anywhere.
+The Gate clerks asked for one line. Not a grade, not conduct — one line of plain fact, where the books support it, saying what the person did before. Refused, on the ground that the Gate records departures and not histories. The minute records the request as costless, the refusal as consistent with the Gate's remit, and the shard count as having risen in every quarter since.
 
 ## Trivia
 
@@ -415,11 +415,11 @@ The Gate clerks asked for one line. Not a grade, not conduct — one line of pla
 
 ### Registry Trivia
 
-- **Classification detail:** Mirror of Broken is a Subject with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone E, Exile's Gate vicinity.
+- **Classification detail:** Fragment (III) coherence at Major (γ) — sixty-one pieces of one person, none of them whole and none of them discarded.
+- **Field detail:** Weight, on the ground inside the Exile's Gate wall in Zone E, counted and photographed each cycle.
 - **Recognition detail:** A figure of broken mirror and black crystal that is never the same shape twice, lead-cold, sharp to be near, with wet stone on the air and a different self in every shard.
-- **Record detail:** The Registrum recorded Echo (II) coherence and Moderate (β) potency against a Fragment (III), Major (γ) header, rated the holding Low on the same line, named Viderehan the primary Work Type where Flerehan and Ferrehan move the gauge, and placed the containment in the Desolate while the header gives Zone E, Exile's Gate vicinity; the personnel note was attributed to a Zone D patrol. The event rows described cracking walls and a nearest-personnel target on a holding that works in sleep and does not act. The M.A.W. grade was blank against three γ pieces. All corrected. The Warden Record, the prohibition on describing faces and the Gate passage material are untouched.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Record detail:** The Registrum recorded Echo (II) coherence and Moderate (β) potency against a Fragment (III), Major (γ) header and rated the holding Low. All three discrepancies were reported upstream twice and remain; they are listed here so the next reader does not take them for findings.
+- **Containment detail:** Nothing contains it. The shards lie inside a wall nobody maintains, in a place people pass through on their way out of the city, and the only measure is a question on a form.
 ## Document Information
 
 **Document ID:** SE-N-IIIγ-127

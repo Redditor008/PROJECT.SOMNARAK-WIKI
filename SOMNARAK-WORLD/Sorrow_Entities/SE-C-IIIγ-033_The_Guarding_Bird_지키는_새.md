@@ -426,10 +426,10 @@ The Wardens asked for the smallest thing in any of these files: that where a pur
 ### Registry Trivia
 
 - **Classification detail:** The Guarding Bird is a Subject with Fragment (III) — Protective and fierce coherence and Major (γ) — High danger as group entity potency.
-- **Field detail:** Its defining element is Void, and its registered location is SECTOR-B-01, contained with the Three Birds.
+- **Field detail:** Void, in one doorway at SECTOR-B-01, held alongside the other Three Birds and worked from four metres in front.
 - **Recognition detail:** A bone-white bird, almost translucent, colourless in the plumage, cold to the touch, with hollow absorbing eyes and the flat smell of ash around it, standing with its wings half-spread over a patch of floor.
 - **Record detail:** The Registrum stated that the Bird guards nothing and that the guarding is compulsive and purposeless, against a file in which it holds a specific post, defends it, and relinquishes it eight times on record; it rated the holding Moderate on a Major (γ) line, and named Viderehan the primary Work Type where Flerehan and Ferrehan move the gauge. The breach rows described rampaging and crashing through walls against a First Target row reading *a position rather than a person*. The Origin and Entry 5 paragraphs described a citizen who Fractured, in two inconsistent versions, neither of them this defence detail. All corrected. The Warden Record, the pencil plan, the trio's shared calming effect and the Smothering Mother interaction are preserved; the disposition index quotes the second and that line is re-evidenced in the same commit.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Nothing contains it. It is standing in a doorway of its own accord and the facility's provision is a painted line four metres in front of it, a prohibition on passing, and a warning given twice before anybody is allowed to try.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-033
