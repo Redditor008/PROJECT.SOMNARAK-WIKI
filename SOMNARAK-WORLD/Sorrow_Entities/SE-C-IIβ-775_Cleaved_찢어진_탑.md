@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Void pressure; 15% against other pressure types |
+| **Resistance** | 25% against Void and 15% against everything else. Both figures are read against the clarity drain rather than against damage: what this holding takes is the name of the thing being looked at, and no treatment on file gives a name back. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 373/373 |
 | **Han Pressure [ATK]** | 8–18 per hit · Void |
@@ -78,21 +78,21 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Crack Spreads* [**Debuff**] } | "A crack opens in the wall — and it is shaped exactly like the wound you hide." | [The Tower's fracture resonates with the target's hidden damage.] | *Target suffers a Void mark; their own cracks are exposed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Tower. |
-| { *The Leaning* [**Debuff**] } | "The whole structure tilts — and you tilt with it, and cannot right yourself." | [The Tower's instability infects the target; balance fails.] | *Target loses clarity; they cannot tell which way is up.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers inside. |
+| { *The Crack Spreads* [**Debuff**] } | "A crack opens in the wall ahead of you, and it is the width and shape of the gap you have spent years not mentioning." | [The figure's fracture reaches the nearest structure and stops there, holding both halves of the split in view.] | *Target suffers a Void mark; their own cracks are exposed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target comes within the footprint of the works. |
+| { *The Leaning* [**Debuff**] } | "The upper half goes over toward a skyline nobody in the district can see, and your balance goes with it." | [The constant bearing of the lean is applied to everyone standing on the route.] | *Target loses clarity; they cannot tell which way is up.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains on the route past the second sighting. |
 | { *The Falling Masonry* [**Attack**] } | "A block tears free from the wall and falls — heavy, jagged, aimed." | [A chunk of torn tower strikes the target.] | *Inflicts Void damage; a piece of structure tears away.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tower is shaken. |
-| { *The Split* [**Attack**] } | "The tower tears down the middle — and the void inside it shows its face." | [The Tower rips apart, revealing the hollow at its core.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Tower is struck. |
-| { *Total Collapse* [**Ultimate**] } | "The tower comes down — and takes everything around it into the void." | [The Tower collapses entirely, pulling the field into its hollow.] | *All in range suffer Void erosion for three turns in the rubble.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Split* [**Attack**] } | "The seam widens along its whole length — not damage, an opening — and the interior is visible through it, tenanted, at heights that were never poured." | [The figure opens along the drawn line and the designed interior is exposed as designed.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the figure is struck, which splits it further rather than slowing it. |
+| { *Total Collapse* [**Ultimate**] } | "It goes down on the tallest thing within reach, and the street fills with the rubble of buildings that were never raised." | [The figure abandons the route and leans its whole height onto a standing structure.] | *All in range suffer Void erosion for three turns in the rubble.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%, or any structure on the footprint is completed. |
 
 ### Battle Phases
 
-1. **Tension:** Cleaved is confirmed by a tall figure built like a tower split cleanly down its vertical axis, burning along the seam without heat, the upper half inclined toward a bearing nothing in the district matches. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Confirmation is the seam, the lean bearing and the height read from the fixed station with the theodolite. The bearing agrees with the drawn orientation of the unbuilt tower and is the one figure on this holding that has never moved. The route is traced against the period street plan before the cycle opens, because the entity walks a city that no longer exists and will not follow anybody onto a street built since.
 2. **Clash:** The team works the half it names first and states the name aloud, because the Void expression will have removed any memory of which half was addressed before the cycle ends. Position, not appearance, is the only reliable label.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not complete the structure; document what was intended and lost**.
+3. **Resolution:** The session ends with the height taken, the route traced, the register's standing recorded, and nothing on the footprint built or demolished. The condition this record carries is **Do not complete the structure; document what was intended and lost** — building any part of the design gives the holding a finished thing to measure itself against, and clearing the foundation is a cancellation by other means. A cycle that ends with the register still open is the success the file recognises.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Composure** and identity cohesion, accelerating Sorrow Gauge escalation.
+- Personnel who cannot carry the drain lose **Composure** by the hour, and the loss is ordered rather than random: the names of what they are looking at go first, then the names of what they came for. The clarity test is administered before the worker notices either, because by the time it is noticed it can no longer be taken correctly.
 - Extended contact risks Cleaved’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
 - Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
 - Without timely resolution, Cleaved defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Cleaved is recorded as a Subject with Subject-Grudge manifestation and Void elemental expression. The current record places it at Zone B, Old Lament; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the responses against the classification. Cleaved is a Subject with a Subject-Grudge manifestation and Void expression, held at Zone B in the Old Lament, and each of those words does work here: a Subject walks and breaches, a Subject-Grudge answers structure rather than people, and Void takes the name of a thing before it takes the thing. Flerehan lowers the seam fire and shows the interior as designed; Ferrehan is the interval spent standing in it, which workers describe as arriving repeatedly and never once getting there. Pugnahan widens the seam and burns the nearest party wall. Viderehan shows the tower as drawn and tenanted and does not move the gauge; on this holding a stable reading means the drawing was read, not that the wound is closing.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured; the procedure achieves containment stabilization, not permanent healing. A rising gauge means the Work Type has triggered the entity’s originating sorrow — the wound is responding, not healing, or the work has inadvertently fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, or a visual change not predicted must be documented before the next assignment.
+**Reading the response:** A falling gauge means the design was held in view for the length of the cycle. No Work Type amends the register, and the register is what the holding measures itself against, so a session that returns the gauge to 20 % leaves the scheme exactly as open as it found it. The reading that matters most for the record is the height, taken before and after from the same station: the seam and the bearing have never moved, and the height moves at every survey. Log the height first, the bearing second, and the register's standing third.
 ## Breach Behavior
 
 > *"Cleaved has broken free. Topples, crushing corridors."*
@@ -173,7 +173,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of Void Han-glass, near-translucent and almost colourless, that hums faintly when gripped.
+**Appearance:** a disc of Void Han-glass ground from a single lens-blank, colourless to the point of vanishing against a wall, that hums faintly when gripped and stops the instant the wielder's eyes leave it.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)
@@ -186,15 +186,15 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** The Lens applies Void as a clarity drain rather than a wound: targets lose the names of what they are looking at before they lose anything else. Suits are rated against the armoury bands, and no band above Normal has been issued for this piece.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Cleaved's void signature in the strike.
+**Ability:** Void damage against the Soul — identity, memory and the self. The disc does not cut so much as subtract: the struck party loses the name of what it is looking at before anything else goes, and putting the piece down does not bring the name back.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Each use costs the wielder a small, nameless memory — the drawer the cutlery lives in, a street that used to lead somewhere — and the Armoury logs them as they are reported rather than waiting for a season's total.
 
 ### M.A.W. Suit — The Torn Veil
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a veil of Void Han-gossamer that casts no shadow of its own, shifts and breathes with the wearer, and reads as an absence of colour rather than as a colour. Tailors have twice refused to re-hem it; both refusals are in the requisition file.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -204,15 +204,15 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Cleaved's kind of pressure.
+**Ability:** wards the Soul against Void pressure, which is the only pressure this holding applies. It cannot return a name that has already gone; it stops the drain at the hem, and on this set the hem is the whole of the protection.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** the wearer goes faintly absent from the inside — present to the room, unanswered to themselves — and every stand-down on this set was caught by the second worker noticing a sentence with no first person in it.
 
 ### M.A.W. Stigma — The Torn Keystone
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a keystone of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a keystone of Void Han-glass, colourless and cold on one face only, heavy out of all proportion to its size. Eleven were cut from the foundation stones of suspended works, and each carries its scheme number on the reverse.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -226,18 +226,18 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### M.A.W. Use Notes
 
-A piece cut from Cleaved is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small, nameless memories with each use, and it is paid whether the use was correct or not.
+A piece cut from Cleaved is not equipment turned against the holding; it is a part of the holding carried away, and it works by being what it is near. The toll is the drain the file already records — small nameless memories, and a wearer who grows faintly absent to themselves — and it is paid whether the use was correct or not. That is why the set is issued one rotation at a time.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Cleaved takes: the wielder loses small, nameless memories with each use. |
-| **During use** | The first sign that Cleaved is charging: the wielder loses small, nameless memories with each use. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wielder no longer notices Cleaved's toll — the wearer feels faintly absent to themselves — which is how every stand-down on this set has been caught. |
-| **After use** | Return the piece and check the sealed baseline: has Cleaved's cost — the wearer feels faintly absent to themselves — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, and a sealed baseline taken by the second worker: the drain on file, the small nameless memories, and the first sentence with no first person in it. |
+| **During use** | The first sign is a name that will not come — the wearer reaches for a colleague's and gets the shape of the person instead. Timed by the second worker. |
+| **At limit** | The wearer stops noticing, which on this set is the limit rather than a settling-in; going faintly absent to oneself is what the stand-down order exists for. |
+| **After use** | Return the piece, open the sealed baseline, and read the two entries side by side. Where the drain outlasts the rotation, the piece is not reissued to that wielder, and the entry stands whether or not they agree. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade records how cleanly the archetype came off the foundation stone; it says nothing about how much of the wearer the piece will take. A β tool can perform to specification and still return a bearer who reaches for the word for a colleague and finds the shape of the person.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -265,7 +265,7 @@ A piece cut from Cleaved is not ordinary equipment: it works by being a part of 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Cleaved (C-IIβ-775 [VS]) is logged as a Subject-Grudge manifestation expressing Void, in the Old Lament at Zone B. It walks the footprint of a scheme that was suspended and never cancelled, and it is taller at every survey.
+Containment description for C-IIβ-775 [VS], the holding called Cleaved: a Subject with a Subject-Grudge manifestation of Void, walking the Old Lament at Zone B. It is the suspended works given a body — a scheme never cancelled and never resumed — and it is taller at every survey: 31, 44 and 58 metres across the three annual readings on file.
 
 **Entry 2 — <Old Lament Street Survey, Year 4238>**
 Subject measured at 58 metres against 44 and 31 in the two preceding surveys. Route unchanged and still confined to pre-project streets. Lean bearing unchanged and still in agreement with the drawn orientation of the unbuilt tower.
@@ -283,9 +283,9 @@ The works folder is the fullest in the Old Lament series and the most useless. I
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Cleaved; the other feeds it.
+> *What the observing worker is asked to do at the close of contact: hold the design in view as a design, or give the district the building.*
 
-| Hold to the condition: Do not complete the structure; document what was intended and lost. | Substitute your own judgement, which on Cleaved has never yet cost less than the condition. |
+| Hold to the condition: keep the scheme open, read the height, and leave the foundation exactly as it lies. | Finish it — pour the missing floors, close the scheme, and give the district a building to have. |
 |---|---|
 | Its flame lowers and unfinished rooms become visible. The sorrow is seen clearly; Cleaved is fully recorded. | It splits further and burns through nearby walls. The gauge climbs and Cleaved withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -298,15 +298,15 @@ The skyline tears open above the Old Lament. A tower walks where no tower could 
 
 **At first contact:** You see the fire before the figure and you feel no heat from it, and that is the moment the encounter turns. Then the seam resolves, crown to base, and the upper half is carried over at an angle toward nothing — no building stands on that bearing and none ever has.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The shock does not last and the familiarity is worse. The drain begins to feel like a working condition: the names of the district's buildings come slower, then the names of colleagues, and the worker reports the change as tiredness. Nothing about the figure is changing. The reading is the only measure, and it is the second worker who takes it.
 
 **When the entity activates:** The Gauge tips. The Subject-Grudge does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.
 
-**After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The figure walks on and the district keeps what it took — the names of what was looked at, in the order the seam exposed them. The clarity test is administered at the station before the crew disperses, and the results go to the watch file rather than to the worker, because on this holding the workers who have lost the most are the last to describe it as a loss.
 
 ### Interaction Pattern
 
-Cleaved does not exist in isolation. Its recorded relationships with The Crumbling Saint, The Returning Tree, The Broken Promise should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings are filed beside this one because all three are what is left when a structure fails to arrive: one fell, one grew into the vacancy, and one was promised. None of the three is an ally or an enemy. The rows below are the pairings with a record attached, and the file treats exactly one of them as dangerous.
 
 **Interaction method:** Height and bearing taken before the pairing and again after, from the same station, by the same surveyor, with the street cleared of anything tall enough to lean on.
 
@@ -315,7 +315,7 @@ Cleaved does not exist in isolation. Its recorded relationships with The Crumbli
 
 Cleaved must be kept distinct from the other unfinished-architecture holdings. The Hollow Architect preserves the man who drew the thing; this one preserves the scheme as an administrative object, which is why its height tracks a register and not a memory.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
 | **The Crumbling Saint** | The Saint's collapse rate halves in its presence and the seam fire climbs. Both hold failures of structure, from opposite ends. | Saint stabilises for the duration; this holding gains four to six metres and keeps them. | Measure the Saint's rate and this one's height before and after. The gain has never reversed. |
 | **The Returning Tree** | The Tree roots into the open foundation and the holding neither prevents it nor reacts to it. Nine seasons of this and no reading has moved. | Nil on every measure. The foundation is now substantially occupied by root. | Photograph the foundation; record the height as usual and expect no change. |
@@ -363,14 +363,14 @@ Some sorrows mourn what was destroyed. Cleaved mourns what was never finished �
 - An architect's design, suspended rather than abandoned, and given form by the difference.
 - Measured heights: 31, 44 and 58 metres across three annual surveys. Lean bearing and seam unchanged throughout.
 **Cross-References:** Zone B, Old Lament · The Hollow Architect · The Alpha Tree · The Broken Promise · the works register · the Honest Register return
-**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED (B-territory exploration) holds the theodolite station and the period street plan; UCD (Fray-adjacent zone) records the clarity-test results. Neither has authority over the register, which is the point the Watch Record makes at length.
 **Originator:** An architect and workers who vanished mid-construction.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Three figures govern this record and only one of them moves. The lean bearing agrees with the drawn orientation of the unbuilt tower and has never shifted; the seam runs crown to base unbroken; the height goes 31, then 44, then 58 metres across the annual surveys and has gone outward at every reading taken. Read the height against the register rather than against the last survey, because what the holding measures itself against is a scheme that is still, administratively, coming. Where the room and the paper disagree, the room is entered first and the paper is entered with the date it was consulted.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** At every survey: the height from the fixed station by theodolite, the lean bearing by compass, seam continuity by eye, the route traced against the period street plan, and the works register's current standing taken from the register office. A departure from the period route, or any lean against a standing building, is reviewed on its own; the review records metres and bearings and it does not close anything.
 ## Watch Record
 
 ### Leaning at a Skyline That Is Not There
@@ -416,11 +416,11 @@ The tower ceased when its architect and workers disappeared and the city was lef
 
 ### Registry Trivia
 
-- **Classification detail:** Cleaved is a Subject with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Void, and its registered location is Zone B, Old Lament.
+- **Classification detail:** Cleaved is a Subject with Echo (II) coherence and Moderate (β) potency, and the standing note is that the coherence grade is the reason two figures never move while the third moves every year.
+- **Field detail:** Void is the defining element and Zone B, Old Lament, the location. The series the record runs on is the height — 31, 44 and 58 metres across the three annual surveys — set against a lean bearing and a seam that have never changed.
 - **Recognition detail:** A tall figure built like a tower split cleanly down its vertical axis, burning along the seam without heat, the upper half inclined toward a bearing nothing in the district matches.
 - **Record detail:** The Registrum placed the holding at Zone A and rated it Low as a flicker, against a Zone B subject that breaches, topples corridors and drains clarity; both corrected. The M.A.W. grade was blank against three β pieces, and Viderehan was named primary where only Flerehan and Ferrehan lower the gauge.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment here is a station, a compass and a register entry rather than a door: the holding walks the streets of a city that no longer exists, and it is watched as a live subject because a walking figure can take a new height, a new route, or a bearing off the drawing at any survey.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-775

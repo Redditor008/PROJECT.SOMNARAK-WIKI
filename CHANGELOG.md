@@ -38,6 +38,31 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 9 / unit 3 — Cleaved `C-IIβ-775` brought to the standard, closing batch 9 at three
+  (2026-10-05)** — the live head after unit 2, re-measured at `f5c779e` (worst 기록 (Registrum) 0.548).
+  - All **7 dirty sections** closed (Registrum 0.548, M.A.W. Equipment 0.465 → an interim 0.068 → **0.028**,
+    Behavior 0.392, Trivia 0.164, 최종 관찰 (Final Observation) 0.145, Combat Record 0.112,
+    감각 묘사 (Flavor Text) 0.103): 6,188 → **6,966 words**; `tpl.py` residue 3 → **0**; `verify.py`
+    residual 2 → **0** (Story-Log Entry 1's carrier and the Flavor Text's "becomes a texture you can map"
+    line); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, with condition and
+    series already satisfied and untouched (`R-05`). One hidden `R-01`-class defect was repaired as cause:
+    the Registry Trivia's Containment-detail line carried the spliced tail "…destabilise adjacent cells. the
+    entity is inactive; fixed entities may activate…".
+  - The holding's instrument is the **height read against the works register**: two figures that never move
+    (the lean bearing, agreeing with the drawn orientation of the unbuilt tower, and the seam, crown to
+    base) against a third that moves every survey — 31, then 44, then 58 metres — because the scheme is
+    still, administratively, coming. The clean Watch Record (the nil returns, 806 dead promises kept alive
+    and fourteen thousand people still assigned to them, the compilers' unanswered objection) was not
+    touched (`R-05`). The M.A.W. section needed a second pass after the first: rewriting the three piece
+    descriptions to the file's own "Torn" family dropped its shared-8-gram fraction from 0.068 to 0.028.
+  - Movement: `R-29` 91 → **92 / 301**, section-clean 114 → **115 / 301**, **missing parity sections:
+    event behaviour 1 → 0** (closed as a side effect of Blessing Giver's new Escalation Notes, which is
+    the section the parity test reads), residue-free 142 → **143 / 302** (instances 478 → 475, carriers
+    160 → 159, distinct residue lines unchanged at 37), file-clean 195 → **196 / 302**, median 0.029 and
+    worst 0.156 unchanged. **Batch 9 is closed at three** (`3005d6a` Blessing Giver, `f5c779e` The Mewgical
+    Girl, this unit), each unit measured live at its own head. **Batch 10 opens at three** on a freshly
+    re-derived tier.
+
 - **Batch 9 / unit 2 — The Mewgical Girl `N-IVδ-901` brought to the standard (2026-10-05)** — the live
   head after unit 1, re-measured at `3005d6a` (worst Breach Behavior 0.548), an Unknown-wing δ-grade
   dossier at 5,548 words.

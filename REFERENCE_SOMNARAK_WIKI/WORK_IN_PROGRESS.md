@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **142 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **114 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **91 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **143 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **115 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **92 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 195 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 196 / 302 |
 | Archive median prose generic fraction | 0.029 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1158,6 +1158,26 @@ two file-clean files are **spillover**: the shared Escalation line dropped to ni
 ten-holder threshold, and stopped counting against every remaining carrier. **Batch 9 continues at the floor
 of three**; the third unit is measured at the batch head, never carried over.
 
+**Batch 9, unit 3: Cleaved `C-IIβ-775` closed — and the batch closed with it, at the floor of three.**
+Re-measured at the head (`f5c779e`): **7 dirty sections**, worst 기록 (Registrum) 0.548, then M.A.W.
+Equipment 0.465, Behavior 0.392, Trivia 0.164, 최종 관찰 (Final Observation) 0.145, Combat Record 0.112 and
+감각 묘사 (Flavor Text) 0.103. All seven closed; 6,188 → **6,966 words**; `tpl.py` residue 3 → **0**;
+`verify.py` residual 2 → **0**; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+**True**. The M.A.W. section took a second pass: after the first rewrite it still measured 0.068, and
+writing the three pieces in the file's own "Torn" family — the lens-blank disc, the gossamer veil that
+casts no shadow, the keystone cut from a suspended works' foundation stone — brought it to 0.028. The
+instrument is the **height read against the works register**: two figures never move (the lean bearing
+agreeing with the drawn orientation, and the seam) against a third that moves every survey — 31, then 44,
+then 58 metres — because the scheme is still, administratively, coming; the clean Watch Record (806 dead
+promises kept alive, fourteen thousand people still assigned, the compilers' unanswered objection) was not
+touched (`R-05`). Movement: `R-29` 91 → **92 / 301**, section-clean 114 → **115 / 301**, **missing parity
+sections: event behaviour 1 → 0** (closed as a side effect of Blessing Giver's new Escalation Notes, which
+is the section the parity test reads), residue-free 142 → **143 / 302** (instances 478 → 475, carriers
+160 → 159, distinct residue lines unchanged at 37), file-clean 195 → **196 / 302**, median 0.029 and worst
+0.156 unchanged. **Batch 9 is closed at three** (`3005d6a` Blessing Giver, `f5c779e` The Mewgical Girl,
+this unit), each unit measured live at its own head. **Batch 10 opens at three** on the freshly re-derived
+tier; its first unit is measured at the batch head, never carried over.
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1176,10 +1196,12 @@ it), and **Flowing Seed `N-IIIγ-628` came off it in batch 8's third unit** (8 d
 worst 기록 (Registrum) 0.568, 3,507 words below the 6,000-word floor, condition open) and **came off the
 list in batch 9's first unit**. Behind it, to be re-measured again at the next head: **The Mewgical Girl
 `N-IVδ-901` came off the list in batch 9's second unit** (3 dirty, 0.548, both clauses open, 5,548 words,
-now 6,157); the tier behind it: Cleaved `C-IIβ-775` (7, 0.548, residual 2), Rem
-`C-IIβ-135` (8, 0.541), Broken Clocktower `C-IVγ-240` (7, 0.529), Unheard `C-Iα-965` (7, 0.523, residual 2),
-Forgotten Shadow `N-IIβ-453` (6, 0.471 — it fell from 0.558 as the shared-shingle corpus shrank through
-these units); the older batch-7 names (The Lost Prince, Mirror of Soaking, Frozen Fury, Mourner's Bloom)
+now 6,157); the tier behind it: **Cleaved `C-IIβ-775` came off the list in batch 9's third unit** (the batch-9
+head at `f5c779e`: 7 dirty, 0.548, now 6,966 words). The batch-10 tier, re-measured at that commit and to
+be re-measured again at the next head: Rem `C-IIβ-135` (8, 0.541), Broken Clocktower `C-IVγ-240` (7,
+0.529), Unheard `C-Iα-965` (7, 0.523, residual 2), The Empty Mask `C-IIβ-054` (7, 0.515), Melting Rope
+`N-IIIγ-447` (7, 0.512), Forgotten Shadow `N-IIβ-453` (6, 0.471 — it fell from 0.558 as the shared-shingle
+corpus shrank through these units); the older batch-7 names (The Lost Prince, Mirror of Soaking, Frozen Fury, Mourner's Bloom)
 remain in the cohort but are no longer the head. The
 archive's whole-file worst is still Forgotten Market Stall `C-IIα-062` (9 dirty, 0.465 section, 0.156 file,
 condition open), and closing it is what would move the worst figure itself; Labyrinth of Stolen Faces and Torpor
