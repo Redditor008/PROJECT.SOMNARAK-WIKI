@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **127 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **100 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **77 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **128 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **101 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **78 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 177 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 178 / 302 |
 | Archive median prose generic fraction | 0.037 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -852,6 +852,23 @@ ladder does not ratchet upward. Batch 5 opens at three on the freshly measured t
 `N-IVδ-339` (11 dirty · condition True · series False) and Cenotaph `N-IVδ-525` (10 dirty) are the
 measured heads, and the third unit is to be re-measured at the head of the batch rather than carried
 over.
+
+**Batch 5, unit 1: Breach `N-IVδ-339` closed.** The file measured **11 dirty sections** at the head of
+its unit (worst 관찰 기록 (Observation Log) 0.459, Behavior 0.427, Origin 0.392, 기록 (Registrum) 0.343)
+and all eleven were closed; 6,040 → **7,249 words**; `tpl.py` residue 5 → **0** and `verify.py`
+residual 2 → **0**; `sectfile.py` ends at **0 section(s) over 0.05**. The **condition** clause was
+already satisfied and was left alone; the **series** clause closed by restating the file's own figures
+inside a real edit (Trivia `Field detail`: 827 gauge · 45 / 35 per cent · 24 turns · 20–28 Han-Energy ·
+2 to 9 minutes) — a restatement, disclosed. The record's instrument is the sentence: the gauge rises on
+assurance and only on assurance, the watching interval (two to nine minutes) is the withdrawal window,
+and the Registrum's stock cross-reference shells were replaced with the wing's actual rules. Movement:
+`R-29` 77 → **78 / 301**, series 203 → **204**, section-clean 100 → **101 / 301**, residue-free 127 →
+**128 / 302** (instances 604 → 599, carriers 175 → 174), file-clean 177 → **178 / 302**, median and
+worst unchanged at 0.037 / 0.169. Two traps fired inside the unit and both are recorded patterns: the
+Trivia containment bullet carried a splice no tool flags, and rewriting the Behavior paragraph created
+a **new** residual (the replacement contained the stock fragment *is logged as a*) that `verify.py`
+caught. Batch 5 continues at the floor of three: Cenotaph `N-IVδ-525` is the next measured head, and
+the third unit is to be re-measured at the head of the batch.
 
 **Batch accounting, the batch before this one** — three units were finished in it —
 Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's

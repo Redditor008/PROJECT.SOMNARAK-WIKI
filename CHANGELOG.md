@@ -38,6 +38,32 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 5 / unit 1 — Breach `N-IVδ-339` brought to the standard (2026-10-05)** —
+  - The file measured **11 dirty sections** (worst 관찰 기록 (Observation Log) 0.459, Behavior 0.427,
+    Origin 0.392, 기록 (Registrum) 0.343) and all eleven were closed; 6,040 → **7,249 words**;
+    `tpl.py` residue 5 → **0** and `verify.py` residual 2 → **0**; `sectfile.py` ends at
+    **0 section(s) over 0.05**. **Condition** was already satisfied and was not touched.
+  - **Series** closed by restating the file's own figures inside a real edit — the Trivia
+    `Field detail` bullet now carries 827 gauge, 45 / 35 per cent, 24 turns, 20–28 Han-Energy and
+    the 2-to-9-minute watching interval. A restatement, disclosed as such.
+  - The record's instrument is the sentence rather than the strike: the gauge rises on assurance and
+    only on assurance, and the working figures are the watching interval (two to nine minutes, the
+    withdrawal window) and the shift's assurance count. Every carrier was rebuilt on that — the four
+    consequences, both battle-phase entries, the Behavior notes (Flerehan calms by opening the cracks
+    further; Pugnahan is the one approach that raises the reading), the four M.A.W. field rows and
+    three appearance/ability lines, the Observation Progression and method, the Final Observation
+    pair (brief it straight vs. say the reassuring thing), the flavour-text beats and all three
+    interaction rows. The Crumbling Saint row carries its catalogue name, **Deteriorata `C-IVγ-130`**,
+    and the Echo Gardens' stock cross-reference shells (*See entity's Work Type responses…*, *See
+    Origin section for formation…*) were replaced with the wing's actual handling rules — smallest
+    roster, brief in figures with the gaps named, and never seal a door behind anyone.
+  - Two traps confirmed in one unit: the Registrum's *Containment detail* bullet carried a splice
+    (`…adjacent cells. the entity is inactive;…`) that no tool flags, and rewriting the Behavior
+    paragraph created a **new** residual — the replacement contained the stock fragment *is logged as
+    a*, caught by `verify.py` and reworded. Both are the documented patterns.
+  - Movement: `R-29` 77 → **78 / 301**, series 203 → **204**, section-clean 100 → **101 / 301**,
+    residue-free 127 → **128 / 302** (instances 604 → 599, carriers 175 → 174), file-clean
+    177 → **178 / 302**, median and worst unchanged at 0.037 / 0.169.
 - **Batch 4 / unit 3 — Mourning a Life I Never Lived `N-Iα-519` brought to the standard (2026-10-05)** —
   - The file measured **11 dirty sections** (worst Behavior 0.386, Expansion Behavior 0.327,
     관찰 기록 (Observation Log) 0.325, Origin 0.324) and all eleven were closed; 5,745 → **6,507
