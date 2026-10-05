@@ -20,14 +20,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **137 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **110 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **87 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **138 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **111 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **88 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 191 / 302 |
-| Archive median prose generic fraction | 0.030 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 192 / 302 |
+| Archive median prose generic fraction | 0.029 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -1071,6 +1071,28 @@ cited, 58 withdrawals refused, the two single-recipient discharges, the wet floo
 median 0.031 → **0.030**, worst unchanged at 0.158. **Batch 8 continues at the floor of three**; the
 second unit is measured at the batch head, never carried over.
 
+**Batch 8, unit 2: Redcage `C-IIIγ-120` closed, and both of its open clauses with it.** Re-measured at the
+head of the unit (`09fa48c`): **7 dirty sections**, worst 기록 (Registrum) 0.590, then Activation Behavior
+0.301, 최종 관찰 (Final Observation) 0.238, Operational Parameters 0.136, Trivia 0.132, M.A.W. Equipment
+0.101 and 감각 묘사 (Flavor Text) 0.098. All seven closed; 7,319 → **7,943 words**; `tpl.py` residue
+4 → **0**; `verify.py` residual 1 → **0** (Story-Log Entry 1's "is logged as a " carrier rewritten; one new
+carrier created by the first wave — "is logged as a discharge" — was caught by the post-wave re-measure and
+reworded in the second); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**.
+`condition` moved False → **True** by replacing the stock `**Management**` row with this holding's actual
+ending — count the bars twice from the gap photographs, dimension against every dated mark, close by reading
+the particular injustice aloud, named, by somebody with no part in it — and `series` moved False → **True**
+by naming the file's own three series in the Trivia Field detail (409 bars against 361 at commissioning,
+37 convictions quashed, 3 compensated, 34 owed nothing), a **restatement** disclosed here and in the
+CHANGELOG. The instrument is the **bar count read against the cut floor marks**; the Warden Record (the
+removed reason column, the two readings printed and neither adopted, the forty minutes to Sector C, the two
+kilometres with no detention capability) is clean and was not touched (`R-05`). Two splices were repaired as
+cause: the Appearance Identification cell's repeated tail (`. before Work or contact.`) and the Registry
+Trivia's Containment-detail line. Movement: `R-29` 87 → **88 / 301**, condition 246 → **247**, series
+212 → **213**, section-clean 110 → **111 / 301**, residue-free 137 → **138 / 302** (instances 516 → 503,
+carriers 165 → 164, distinct residue lines 40 → **39**), file-clean 191 → **192 / 302**, median 0.030 →
+**0.029**, worst 0.158 → **0.156**. **Batch 8 continues at the floor of three**; the third unit is measured
+at the batch head, never carried over.
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1082,8 +1104,9 @@ being closed in batch 7's second unit (it was the live head: 10 dirty, worst 0.4
 unit (it was the live head: 10 dirty, worst Origin 0.392). **Soaking Shadow `N-IIIγ-308` came off it in
 batch 8's first unit** — the re-derived head, found by re-running `sectfile.py` across all 302 dossiers
 rather than trusting the older partial tier list (8 dirty, worst 기록 (Registrum) 0.602, the highest
-per-section fraction in the archive). The tier behind it, re-measured at `6871343` and to be re-measured
-again at the next head: Redcage `C-IIIγ-120` (7 dirty, 0.590, condition clause open), Flowing Seed
+per-section fraction in the archive) — and **Redcage `C-IIIγ-120` came off it in batch 8's second unit**
+(7 dirty, worst 기록 (Registrum) 0.590, and both of its open clauses — condition and series — closed with
+it). The tier behind it, re-measured at `09fa48c` and to be re-measured again at the next head: Flowing Seed
 `N-IIIγ-628` (8, 0.576, T/T), Forgotten Shadow `N-IIβ-453` (6, 0.558, T/T), The Mewgical Girl
 `N-IVδ-901` (3, 0.548, condition open), Cleaved `C-IIβ-775` (7, 0.548), Rem `C-IIβ-135` (8, 0.541),
 Broken Clocktower `C-IVγ-240` (7, 0.529), Unheard `C-Iα-965` (7, 0.523); the older batch-7 names (The

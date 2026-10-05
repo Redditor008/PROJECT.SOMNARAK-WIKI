@@ -38,6 +38,35 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 8 / unit 2 — Redcage `C-IIIγ-120` brought to the standard
+  (2026-10-05)** — the head of the queue after unit 1's commit, re-measured at `09fa48c`
+  (worst 기록 (Registrum) 0.590).
+  - All **7 dirty sections** closed (Registrum 0.590, Activation Behavior 0.301, 최종 관찰
+    (Final Observation) 0.238, Operational Parameters 0.136, Trivia 0.132, M.A.W. Equipment 0.101,
+    감각 묘사 (Flavor Text) 0.098): 7,319 → **7,943 words**; `tpl.py` residue 4 → **0** (the Recommended
+    response cell, the Response sequence, the stock Management row and the Fang's cost line);
+    `verify.py` residual 1 → **0** — the Story-Log Entry 1 carrier ("is logged as a ") was rewritten, and
+    one new carrier created by this unit's own first wave ("is logged as a discharge") was caught and
+    reworded in the second wave; `sectfile.py` ends at **0 section(s) over 0.05**, `wikistd.py` meets
+    **True**. This file also **closed both open clauses**: `condition` False → **True**, by the
+    Activation Record's `**Management**` row being written as the holding's actual ending (count the bars
+    twice from the gap photographs, dimension against every dated mark, close by reading the particular
+    injustice aloud — named, by somebody with no part in it) instead of the stock "Enforce valid Work
+    Types…" row; and `series` False → **True** by naming the file's own three series in the Trivia's Field
+    detail — 409 bars against 361 at commissioning, 37 convictions quashed, 3 compensated, 34 owed nothing
+    — a **restatement**, disclosed as such.
+  - The holding's instrument is the **bar count read against the cut floor marks**, and the file's
+    strongest material (the Warden Record: the removed reason column, the two readings printed and neither
+    adopted, the forty minutes to Sector C and the two kilometres with no detention capability) is clean and
+    was not touched (`R-05`). Two splices were repaired as cause: the Appearance Identification cell's
+    repeated tail ("must align before Work begins. before Work or contact.") and the Registry Trivia's
+    Containment-detail line ("The door is a filter, not a wall. the entity is inactive; …").
+  - Movement: `R-29` 87 → **88 / 301**, condition 246 → **247**, series 212 → **213**, section-clean
+    110 → **111 / 301**, residue-free 137 → **138 / 302** (instances 516 → 503, carriers 165 → 164,
+    distinct residue lines 40 → **39**), file-clean 191 → **192 / 302**, median 0.030 → **0.029**,
+    worst 0.158 → **0.156**. **Batch 8 continues at the floor of three**; the third unit is re-measured at
+    its head, never carried over.
+
 - **Batch 8 / unit 1 — Soaking Shadow `N-IIIγ-308` brought to the standard, opening batch 8 at three
   (2026-10-05)** — the re-derived head of the queue, and the highest per-section fraction in the archive
   on the day it was worked (기록 (Registrum) 0.602); it was found by re-running `sectfile.py` across all

@@ -29,19 +29,19 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle, a range that has not moved in nine years while the bar count has gone from 361 to 409. The yield is flat; the holding is not. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan to name the injustice each bar holds, Ferrehan to stand near the rage without answering it, both worked from outside the frame. The only thing that ends an activation is the injustice acknowledged aloud, in specific terms, by somebody who had no part in it. |
 
 ### Operational Notes
 
 - The cage is empty, has always been empty, and has no door. The inner face of the bars is warmer than the outer face by a consistent margin, which is the only asymmetry on the object and the only reason anybody ever thought there was an inside.
 - Work cools the frame for a shift and changes nothing else. The bars return to temperature within a day, the dimension never comes back in, and no cycle in the record has reduced the count.
-- Viderehan and Ferrehan are the valid approaches to the object; the cage does not respond to anything else.
+- Viderehan and Ferrehan are the valid approaches; nothing is reached through the bars, and the older entry naming Pugnahan is wrong and has been wrong for years. A raised voice is the fastest way to make the count irrelevant.
 - Grudge expression reaches the operative through the metal; gloves are mandatory and are replaced after each session.
 - Extraction is separate from work and never issued as a reward for a clean shift.
 
@@ -120,7 +120,7 @@
 | **Position / movement** | Fixed in position, growing in dimension. Record the frame against every cut floor mark at each watch and speak the current dimension aloud at handover. |
 | **Material / signature** | Grudge. Dark crimson bars, ridged, fused in places with what resembles calcified sinew and clenched-finger bone, pulsing together in a slow angered rhythm; warm on the inner face. |
 | **Distinctive markers** | Vertical bars with no door, no hinge, no lock and no gap wide enough to pass a hand; an enclosure that cannot be entered or opened, and never held anybody. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Match the code, the manifestation and the physical markers at the threshold, before anyone crosses the first floor mark. The bars are read from the gaps rather than from the outline, and the count is taken twice — a disagreement between the two counters is itself a reportable event. |
 
 **Appearance protocol:** Count the bars. That is the first field and it is counted rather than estimated, twice, by two people, because the count is the holding's primary series and a disagreement between the two counters is itself a reportable event. Then take the dimension against each cut floor mark, the inner and outer face temperatures at the three fixed points, and the pulse interval timed over a full minute. Photograph the gaps rather than the bars; a new bar appears in a gap, and the gap record is what makes an addition provable. Write concretely enough that another agent could identify the object from the words alone.
 
@@ -171,7 +171,7 @@ Redcage is an Object/Place with Object-Grudge manifestation and Grudge expressio
 | **Activation** | Touching or attempting to open the Cage. |
 | **Primary Effect** | Releases a wave of anger and memories of unjust imprisonment. |
 | **Duration** | Until the attempt stops and the injustice is acknowledged aloud; the object has no door and cannot be shut. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
+| **Termination / Return** | The piece comes off when the wearer's count stops agreeing with the second worker's, and the second worker does the removal. Detaching it early is safe and reports as a cost; forcing it off a wearer who has stopped answering is entered as a discharge. |
 | **Risk** | The user may become convinced they are imprisoned even in open space. |
 
 **Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
@@ -180,16 +180,16 @@ Redcage is an Object/Place with Object-Grudge manifestation and Grudge expressio
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Redcage rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Redcage activates its primary resonance: Releases a wave of anger and memories of unjust imprisonment. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the fury of being trapped by a system that refuses to admit error; the bearer begins perceiving echoes of citizens were jailed for debts and crimes they did not commit; their rage became the bars of an empty cage. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Redcage begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Redcage too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user may become convinced they are imprisoned even in open space. |
+| 10 Seconds | The bars' rhythm arrives through the harness as a pulse in the wrist — faster than the wearer's own and settling toward it within the count. | The piece begins reading the room. Nothing is absorbed yet; the second worker records the wearer's starting pulse and the frame's side by side, because from here the two move together. |
+| 30 Seconds | The wearer starts counting things. Not the bars — floor marks, studs in the door, the exits. The behaviour appears at about this interval in every wearer and the log notes it without explanation. | Resistance to Grudge pressure is live. Attention narrows to the nearest boundary, and the second worker opens the running note on what the wearer has stopped saying. |
+| 1 Minute | The wearer begins making a case — something real, in good order — and the pulse comes up with their voice. This is the interval at which the piece stops being neutral. | Continuous use past 60 seconds returns 5 Grudge damage every 15 seconds and adds to the frame's heat. Anyone who is arguing is walked out, and the withdrawal is entered as a clinical decision rather than a disciplinary one. |
+| 2 Minutes | The wearer describes the room as smaller than the measurements say it is, and is certain the door has been accounted for elsewhere. They will object to being walked out, and the objection will be well put. | Take the piece and the wearer out together. A forcible detachment without the wearer's agreement releases the store as a single-recipient discharge; both recorded discharges came after this point. |
 
 ### Escalation Notes
 
 Escalation here is dimensional. Record the pulse rate at onset, the temperature gap, the bar count, the distance at which personnel first report grievance, the floor mark the frame has reached, and the point at which the advance stops. The emotional indicator and the physical one move at different rates on this holding and the file treats the gap between them as the finding rather than as noise.
 
-**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+**Response sequence:** Clear the floor to the outermost mark, count the bars twice by two people, and take the pulse and the temperature gap before anybody speaks. Viderehan and Ferrehan only; the acknowledgement is made by somebody who had no part in the injustice, in specific terms, and their name goes in the log. Nothing is improvised and nothing is reached through the bars.
 
 ### Detailed Activation Record
 
@@ -200,7 +200,7 @@ Escalation here is dimensional. Record the pulse rate at onset, the temperature 
 | **Primary effect** | Releases a wave of anger and memories of unjust imprisonment. |
 | **Duration / rate** | Until the attempt stops and the injustice is acknowledged aloud; there is no door to close and no mechanism by which the frame contracts. |
 | **Risk** | Major (γ) Object-Grudge producing Grudge pressure; The user may become convinced they are imprisoned even in open space. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Count the bars twice from the gap photographs, take the dimension against every dated floor mark at each watch, and close the session by reading the particular injustice aloud — named, by somebody with no part in it. No unlisted Work Type is applied and nothing is reached through the bars. |
 
 **Activation reporting order:** trigger → bar count, taken twice → pulse rate and temperature gap at onset → floor mark reached and whether a new mark was cut → personnel effect, with the grievance each affected worker reported → duration → acknowledgement made and by whom. Viderehan and Ferrehan only; nothing is reached through the bars at any stage.
 ## M.A.W. Equipment
@@ -226,15 +226,15 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Redcage's grudge signature in the strike.
+**Ability:** Grudge damage against the Body, delivered as heat and weight. The censer carries the Cage's anger rather than channeling it: the steam is the holding's own store, and it does not distinguish between the person who was wronged and the person holding the chain.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The bearer's old injuries ache in the order they were received, and the chain leaves a bruise across the palm that the armoury has learned to expect. Prolonged use leaves both, and the file records the pairing rather than treating either as a complaint.
 
 ### M.A.W. Suit — The Cage Shield
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a shield-backed harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a shield-backed harness of Grudge Han-iron, dark and faintly warm, that tightens a notch while the wearer is being argued with and slackens when the argument stops. The armoury has measured the notch and has no explanation for it on file.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -252,13 +252,13 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+**Appearance:** a small charm of Grudge Han-iron that weighs more than its size accounts for, and grows heavier in a room where somebody is being blamed for something they did not do. The weight returns to its resting figure within an hour of leaving the room.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 to the working stat against Redcage, and for as long as the charm is worn the bearer can hold a grievance in mind without needing to say it aloud. Bearers report that the second half is what they miss when the piece goes back.
 
-**Ability:** Grants a minor boon tied to Redcage's sorrow; the effect mirrors the entity's nature.
+**Ability:** A minor boon borrowed from the holding's patience: the charm holds one grievance for the bearer without letting it harden and gives it back when asked. It cannot hold two.
 
 **Cost:** The bearer's temper shortens.
 
@@ -274,8 +274,8 @@ All three pieces are made of the same thing the bars are made of, and they behav
 |---|---|
 | **Before use** | Wielder, grade, gauge, state, condition of the piece, the objective, and whether the wielder is party to any live grievance, complaint or disciplinary matter. The last field is a bar to issue, not a note. |
 | **During use** | Activation time, effect strength, the area protected, who was inside it, and the first cost noticed by anybody other than the wielder. |
-| **At limit** | Duration, activations, attribute movement, rejection signs, and whether the wielder has begun describing a confinement that is not happening. |
-| **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and whether the wielder left the room without checking the door. |
+| **At limit** | Hours worn, activations, the wearer's own count against the second worker's, and the first sentence in which the wearer describes a room as smaller than it measures. That sentence is the limit and is entered as one. |
+| **After use** | Removal, injuries, and whether the wearer left the room without checking the door. The last field has been recorded at every issue since the set was struck, and the armoury reads it before any other. |
 
 **Stat interpretation:** Grade states how hard a piece works and nothing about what it does to the person wearing it. This set performs well and has never failed in the field; the armoury's objection to it is that everybody who has carried it for a season has become harder to settle an argument with. Read both columns and authorise on the second.
 ## 관찰 기록 (Observation Log)
@@ -305,7 +305,7 @@ All three pieces are made of the same thing the bars are made of, and they behav
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Redcage (C-IIIγ-120 [GO]) is logged as a Object-Grudge manifestation expressing Grudge. The Cage formed from people imprisoned without cause. Held at SECTOR-B-01, Zone B. The Cage is empty but never silent.
+Containment description for C-IIIγ-120 [GO], the holding called Redcage: an Object/Place with an Object-Grudge manifestation of Grudge, formed from people imprisoned without cause and held at SECTOR-B-01, Zone B. The frame has no door, no prisoner and no voice; the bars pulse together whether or not anyone is in the room, and the count stands at 409 against 361 at commissioning.
 
 **Entry 2 — <One Bar per Injustice>**
 New injustice adds a bar.
@@ -321,9 +321,9 @@ The cage has no door, and that is the whole of it: it was not built to hold anyt
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Redcage; the other feeds it.
+> The choice at the close of a session is what happens to the anger the watch brought up: named and left with the frame, or argued in the room.
 
-| Do the thing on file: Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. | Improvise something kinder, which is how every failure on Redcage's file began. |
+| Do the thing on file: Viderehan and Ferrehan only, worked from outside the bars, with the count taken twice by two people. | Answer it — make the case, in the room, at the bars, where the argument will be heard and agreed with. |
 |---|---|
 | Tests whether the worker can remain near rage without feeding it. The sorrow is named; Redcage is fully recorded. | Reveals the injustices that formed each bar. The gauge climbs and Redcage withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -344,22 +344,22 @@ The Cage stands empty, pulsing with the anger of people who were locked away for
 
 ### Interaction Pattern
 
-Redcage does not exist in isolation. Its recorded relationships with The Iron Judge, The Debt Wall, The Angry Maiden should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings are filed beside this one because the debt system built them in the same decades, and the archive pairs them by that origin rather than by any observed contact. None of the three is an ally or an enemy. The rows below give the pairings that have a record; where a pairing does not, the row says so instead of assuming an effect.
 
-**Interaction method:** Baseline each party alone over a long series; the count rises on events outside the facility, so a single paired reading cannot be attributed to anything. Log the first mutual change with its distance, duration and trigger, the gauge movement on both sides, the effect on pulse and temperature, and whatever persists after separation. Re-verify each cycle; a Sorrow Tide or a transformation has inverted settled readings in Zone B before.
+**Interaction method:** Baseline each party alone over a long series, because the count rises on events outside the facility and a single paired reading attributes nothing. Log the first mutual change with its distance, duration and trigger, the gauge movement on both sides, and what persists after separation. Re-verify each cycle; a Sorrow Tide has inverted settled readings in Zone B before.
 
 
 ### Entity Interaction Record
 
-This holding is read against the other things the debt system left behind. The relations below have been observed and filed and none is settled; two of the three are hard to measure, because this object's own series rises on events nobody in the facility can see. A result obtained once carries no authority during a Sorrow Tide, an Ordeal, or a transformation event.
+This holding is read against the other things the debt system left behind. None of the three relationships below is settled, and two are hard to measure at all, because the object's own series rises on events nobody in the facility can see: a bar appears for an injustice that happened somewhere else, and no pair of readings taken here can attribute it.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
 | **The Iron Judge** | The Judge holds the record of each proceeding, which makes it the only external source against which a bar could in principle be dated. | Attempted three times under authorisation and abandoned. No bar has ever been matched to a proceeding: the Judge's record is complete and the cage's additions carry nothing that could be matched against it. | The three attempts, the method used, and the reason each was abandoned. |
 | **The Debt Wall** | Both grew out of institutional obligation and both keep a total that only rises. | Six co-presences. Neither total moved in response to the other, and the wing's note is that the resemblance is thematic rather than operational and has misled two separate inquiries. | The six co-presences and the standing caution against reading the pairing as a mechanism. |
 | **The Angry Maiden** | The only pairing on file with a measurable effect: her presence raises the pulse rate and the inner-face temperature. | Measured across four approaches. The pulse rose on all four and returned to baseline within a day of separation; the bar count did not change on any of them, which is the part the file emphasises. | All four approaches, with pulse and temperature series and the unchanged count. |
 
-**Interaction procedure:** Baseline both parties alone, approach along the marked floor rather than across it, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect on pulse, temperature and dimension, and whatever persists after separation. The field this holding adds is the bar count, taken before, immediately after, and at seven days.
+**Interaction procedure:** Work each party alone first and only then in sight of the other, approaching along the marked floor and never across it. Enter the first shared change with its distance, duration and trigger, the gauge movement on both sides, and anything still measurable a week after separation. The count is taken before, at once after, and on the seventh day; a rise that appears in all three is the only kind this file will name as an effect.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -402,14 +402,14 @@ Some sorrows mourn freedom lost. Redcage mourns the particular freedom of being 
 - Formed from the accumulated rage of citizens jailed without cause.
 - The Cage is empty. The rage is not.
 **Cross-References:** Zone B · The Collectors · the debt system · the Giltong · the cut-mark authorisation register
-**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** SED (C-territory exploration) holds the floor-mark survey and the cut-mark authorisation register; Wound Walkers (Fracture-relevant) are the office of record for the Fracture cases on the list. Neither has an operational role against the object itself.
 **Originator:** Collective; citizens of Zone B imprisoned for debts they did not owe, named where the court records permit and listed incompletely on purpose.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The instrument here is the count, and the count is not a threat reading. Read the file as three series side by side — bars, quashed convictions, compensation payments — and note that only the first has ever risen: 409 against 361 at commissioning, 37 quashed, 3 paid. Record what the frame does on the day and enter it against the floor marks rather than against the previous watch's mood; where the room and the paper disagree, the room is entered first.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** At every watch: the count twice from the gap photographs, the dimension against each dated floor mark, the pulse and the temperature gap, and the outer mark's distance spoken aloud at handover. A new mark is reviewed on its own and needs the senior Warden's authorisation before it is cut; the review records the distance in centimetres and the date, and appends the cut-mark register's latest entry.
 ## Warden Record
 
 ### Empty
@@ -476,10 +476,10 @@ The security office's objection is minuted at every annual review and has never 
 ### Registry Trivia
 
 - **Classification detail:** Redcage is an Object/Place with Fragment (III) — Furious and trapped coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-B-01, Zone B.
+- **Field detail:** Grudge is the defining element and SECTOR-B-01, Zone B, the location. The series this file runs on is the bar count — 409 now against 361 at commissioning, taken twice by two people from photographs of the gaps — with 37 convictions quashed in the same nine years, 3 compensated, and 34 owed nothing through any channel the wing holds.
 - **Recognition detail:** Identify it by the absence of a door and by the dated marks cut into the floor around it; never by size, which is different from the last time anybody looked.
 - **Record detail:** This file should be read with the cut-mark authorisation register and the Zone B detention instruction beside it; most of what this holding costs the wing is recorded in those two documents and not in this one.
-- **Containment detail:** Sealed does not mean silent. Influence extends past the boundary through Han resonance and ambient sorrow density. The door is a filter, not a wall. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Sealed does not mean silent, and the boundary here is the outermost cut mark rather than the bars: influence crosses the floor without being carried, and the frame is monitored as a live holding because a fixed object can still gain a bar. The chalk-and-mark discipline exists for that reason and not for tidiness.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-120
