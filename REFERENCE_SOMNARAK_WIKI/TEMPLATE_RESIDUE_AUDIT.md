@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 73 / 303 dossiers free of template residue.**
+**Counter: 78 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,14 +225,32 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  4040   (prose only; R-23 furniture excluded)
-median generic fraction       0.064
+shared 8-grams (>= 10 files)  3972   (prose only; R-23 furniture excluded)
+median generic fraction       0.060
 worst                         0.195
-clean at <= 0.05              130 / 303   (file level; section-clean is 52)
+clean at <= 0.05              135 / 303   (file level; section-clean is 57)
 ```
 
-**Counter: 52 / 303 dossiers section-clean (`R-27`) — every description-bearing section at or
-under 0.05. Secondary: 130 / 303 file-clean on the whole-file fraction.**
+**Counter: 57 / 303 dossiers section-clean (`R-27`) — every description-bearing section at or
+under 0.05. Secondary: 135 / 303 file-clean on the whole-file fraction.**
+
+**Third `R-27` batch, 2026-10-05 — five dossiers, worst section first.**
+
+| Dossier | Worst section before | Dirty sections | Instrument the repair gave it |
+|---|---|---|---|
+| Remembrance `C-IIIγ-115` | Behavior **0.855** | 9 | rim gauge against the Grand Archive's own backlog of unentered deposits |
+| Weight of Silence `N-IIα-285` | Behavior **0.855** | 6 | words per hour, counted by hand, against consultations closed without a reply |
+| Holdout `C-IIβ-240` | Behavior **0.854** | 8 | a stone count rising with the city's demolitions, falling on a memorial reading |
+| The Guarding Bird `C-IIIγ-033` | Behavior **0.851** | 7 | the grey measured at four bearings, 4 m to 11 m in nine years |
+| Mirror of Broken `N-IIIγ-127` | Behavior **0.845** | 7 | a shard count against the Gate's exit register |
+
+**A regression from the `R-28` sweep was caught here and fixed.** The bare-word pass had replaced
+the entity name *Breach* (`N-IVδ-339`) with *event* inside Holdout's Interaction Record, and had
+left Memory Lock reading *"does not open, event, or spread"*. An archive-wide scan found eight
+candidate lines, six of them legitimate sentence-internal substitutions and two genuine damage; both
+are repaired. The lesson is recorded: a word-level sweep over an archive that contains an entity
+**named** for that word needs a name list, not a word boundary.
+
 
 **Second `R-27` batch, 2026-10-05 — five dossiers, worst section first.**
 
