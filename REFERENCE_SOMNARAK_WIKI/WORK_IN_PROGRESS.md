@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **133 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **106 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **83 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **134 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **107 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **84 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 183 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 187 / 302 |
 | Archive median prose generic fraction | 0.032 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -967,6 +967,28 @@ distinct residue lines 45), file-clean 182 → **183 / 302**, median 0.033 → *
 this unit), each unit measured live at its own head. **Batch 7 opens at three** on the freshly measured
 tier; its first unit is measured at the batch head, never carried over.
 
+**Batch 7, unit 1: Redacted `N-IIIγ-184` closed.** The head of the batch-7 tier and the worst section in
+the archive: **기록 (Registrum) 0.554**. It measured **6 dirty sections** (Registrum 0.554, M.A.W.
+Equipment 0.405, Trivia 0.312, Combat Record 0.204, 감각 묘사 (Flavor Text) 0.163, 최종 관찰 (Final
+Observation) 0.161) and all six were closed; 6,508 → **7,421 words**; `tpl.py` residue 6 → **0** (the
+stock resistance line, the M.A.W. cost boilerplate, the weapon cost, the veil appearance, the
+stat-interpretation shell and the spliced containment trivia) and `verify.py` residual 2 → **0** with the
+`seam` flag cleared (an unspaced ellipsis in an action row); `sectfile.py` ends at **0 section(s) over
+0.05** and `wikistd.py` meets **True**. **Condition** was already satisfied and was left alone; the
+**series** clause closed by restating the file's own figures inside a real edit (Trivia: 660 / 660 ·
+45–65 % · 16–22 · 20 turns · threshold 2 · the girth series 1,140 / 1,206 / 1,288 mm · the Withheld Index's
+18,600 / 2,744 / 61 / nine restored) — a restatement, disclosed. The record's instrument is the tape and
+the duplicate notebook: an authorised destruction whose subject was never written, so the file runs on an
+annual girth reading against a line cut into the trunk, branch drawings from three fixed angles,
+duplicate notes on a ten-minute removal clock, and certainties filed as a hazard log rather than as
+findings. Three superseded-version narrations were converted to cause (`R-01`): the earlier
+Viderehan-primary entry, the Registrum's "Corrected." cross-reference and the Breach record's
+contradicted earlier entry. Movement: `R-29` 83 → **84 / 301**, series 209 → **210**, section-clean 106 →
+**107 / 301**, residue-free 133 → **134 / 302** (instances 579 → 555, carriers 169 → 168, distinct
+residue lines 45 → **43**), file-clean 183 → **187 / 302** (partly spillover — two stock lines fell below
+ten holders), median unchanged 0.032, worst unchanged 0.162. **Batch 7 continues at the floor of three**;
+the second unit is re-measured at its head, never carried over.
+
 **Batch accounting, the batch before this one** — three units were finished in it —
 Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's
 floor. The ladder does **not** ratchet to five, because this cohort's units are not simple by
@@ -990,13 +1012,13 @@ what it exists to do.
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
-**Redacted `N-IIIγ-184` is the measured head of the next tier** — re-measured again at the close of batch 6
-and still the worst section on the board (**6 dirty, worst 기록 (Registrum) 0.554**), which is why it opens
-batch 7. On the same fresh sample behind it: Swallowed Fury `C-Iα-683` (10 dirty, worst 0.465, and below
-the 6,000-word floor at 5,256 words), Bridge to Nowhere `C-IVδ-260` (10, 0.392), The Lost Prince
-`C-IVγ-091` (9, 0.389), Mirror of Soaking `N-IIβ-801` (10, 0.381, and the only file on the tier whose
-condition clause is still open), Frozen Fury `C-IVδ-668` (10, 0.338) and Mourner's Bloom `C-Iα-330`
-(10, 0.301). Labyrinth of Stolen Faces and Torpor came off this list by being closed in batch 6;
+**Redacted `N-IIIγ-184` came off this list by being closed in batch 7's first unit** (it was the head:
+6 dirty, worst 기록 (Registrum) 0.554). On the fresh sample taken for batch 7, the tier behind it is:
+Swallowed Fury `C-Iα-683` (10 dirty, worst 0.465, and below the 6,000-word floor at 5,256 words), Bridge to
+Nowhere `C-IVδ-260` (10, 0.392), The Lost Prince `C-IVγ-091` (9, 0.389), Mirror of Soaking `N-IIβ-801`
+(10, 0.381, and the only file on the tier whose condition clause is still open), Frozen Fury
+`C-IVδ-668` (10, 0.338) and Mourner's Bloom `C-Iα-330` (10, 0.301); Labyrinth of Stolen Faces and Torpor
+came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);
 (3) the 211 + 127 stock sentences; (4) the remaining single-clause gaps from the third-turn list.

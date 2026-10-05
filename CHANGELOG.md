@@ -38,6 +38,30 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 7 / unit 1 — Redacted `N-IIIγ-184` brought to the standard (2026-10-05)** — the head of the
+  batch-7 tier and the worst section in the archive (기록 (Registrum) **0.554**) —
+  - The file measured **6 dirty sections** — Registrum 0.554, M.A.W. Equipment 0.405, Trivia 0.312,
+    Combat Record 0.204, 감각 묘사 (Flavor Text) 0.163, 최종 관찰 (Final Observation) 0.161 — and all six
+    were closed; 6,508 → **7,421 words**; `tpl.py` residue 6 → **0** (the stock resistance line, the M.A.W.
+    cost boilerplate, the weapon cost, the veil appearance, the stat-interpretation shell and the spliced
+    containment trivia); `verify.py` residual 2 → **0** and the `seam` flag cleared (an unspaced ellipsis
+    in an action row); `sectfile.py` ends at **0 section(s) over 0.05** and `wikistd.py` meets **True**.
+    **Condition** was already satisfied and was not touched.
+  - **Series** closed by restating the file's own figures inside a real edit — the Trivia bullets now carry
+    660 / 660, 45–65 %, 16–22, 20 turns, threshold 2, the girth series 1,140 / 1,206 / 1,288 mm and the
+    Withheld Index's 18,600 attested / 2,744 living / 61 unknown / nine restored. A restatement, disclosed.
+  - The record's instrument is the **tape and the duplicate notebook**: an authorised destruction whose
+    subject was never written, so the file runs on an annual girth reading against a line cut in the trunk,
+    branch drawings from three fixed angles (photographs never resolve a count), duplicate notes on a
+    ten-minute removal clock, and certainties filed as the hazard log rather than as findings. Three
+    superseded-version narrations were converted to cause (`R-01`): the earlier Viderehan-primary entry,
+    the Registrum's "Corrected." cross-reference, and the Breach record's contradicted earlier entry.
+  - Movement: `R-29` 83 → **84 / 301**, series 209 → **210**, section-clean 106 → **107 / 301**,
+    residue-free 133 → **134 / 302** (instances 579 → 555, carriers 169 → 168, distinct residue lines
+    45 → **43** — two stock lines fell below ten holders), file-clean 183 → **187 / 302** (partly
+    spillover), median unchanged 0.032, worst unchanged 0.162.
+  - **Batch 7 stays at the floor of three**, with two units to come from the measured tier behind it.
+
 - **Batch 6 / unit 3 — Torpor `N-IVδ-157` brought to the standard, closing the batch (2026-10-05)** —
   the worst remaining section on the re-measured tier (Behavior 0.415) —
   - The file measured **10 dirty sections** (worst Behavior 0.415, Expansion Behavior 0.237, 감각 묘사

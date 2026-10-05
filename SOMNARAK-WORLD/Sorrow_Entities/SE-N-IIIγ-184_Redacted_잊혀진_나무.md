@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Void pressure; 25% against other pressure types |
+| **Resistance** | 35% against Void, which is what an absence is made of here; 25% against everything else, and no session on this holding has ever been decided by either figure — the tape decides them |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 660/660 |
 | **Han Pressure [ATK]** | 15–35 per hit · Void |
@@ -78,24 +78,24 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unnamed* [**Debuff**] } | "The tree is here — enormous, ancient — but no one remembers planting it, or naming it, or why it grows." | [The Tree's forgotten nature unsettles the target; they sense something vast and unnamed.] | *Target suffers a Void mark; the forgotten thing presses on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target notices the Tree. |
-| { *The Memory Gap* [**Debuff**] } | "You know this tree — or you should — but the memory of it is simply... not there." | [The Tree's erased history creates a void in the target's recall.] | *Target loses clarity; the gap where the memory should be is wrong.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target tries to remember. |
+| { *The Unnamed* [**Debuff**] } | "The mark on the trunk is older than the mark above it, and no drawing of either one exists anywhere the paperwork admits to." | [The Tree presents its own unaccounted presence, and the target begins supplying a history for it.] | *Target suffers a Void mark; the forgotten thing presses on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target notices the trunk and starts to account for it. |
+| { *The Memory Gap* [**Debuff**] } | "You are certain you have stood here before, and the certainty has no date on it." | [The Tree opens the gap in the target's recall and lets them furnish it.] | *Target loses clarity as the gap is filled from the wrong side; the certainty reads as evidence.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target begins to remember. |
 | { *The Unnamed Branch* [**Attack**] } | "A branch from the forgotten tree swings — and where it strikes, you forget what hit you." | [A blow that erases the memory of being struck.] | *Inflicts Void damage; the impact removes a recollection.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tree is disturbed. |
-| { *The Full Remembrance* [**Attack**] } | "The tree remembers everything — including why it was forgotten — and the memory is devastating." | [The Tree's complete recollection is released.] | *A heavy Void flood of returned memory; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Tree is forced to remember. |
-| { *The Forgotten Forest* [**Ultimate**] } | "Every tree in the field becomes forgotten — and without memory of what grew here, the void claims everything." | [The Tree extends its forgotten-ness across the whole area.] | *All in range suffer Void erosion for three turns of universal forgetting.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Remembrance* [**Attack**] } | "Every blank in the live notes fills at once, in a hand the note-taker recognises as their own." | [The Tree returns the withholding in full, and the session's record is completed by something that was not in the room.] | *A heavy Void flood of returned memory; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Tree is forced to remember, or a name is supplied to it. |
+| { *The Forgotten Forest* [**Ultimate**] } | "The blanking stops respecting the notebooks and starts taking the room; every record in it loses its point of identification at once." | [The Tree widens the gap until the whole area is inside an unauditable removal.] | *All in range suffer Void erosion for three turns of universal forgetting.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% with a duplicate still inside the room. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the taped girth and the branch drawings. Emotional impression is specifically unreliable here: workers consistently report certainty about what is missing, and no two reports agree) and Redacted is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** Confirmation is procedural rather than observational. The mark on the trunk is checked against the tape, the branch drawings from the three fixed angles are laid out, and the duplicate notebooks and the ten-minute removal clock are set with a worker outside the room whose only duty is the clock. Emotional impression is explicitly excluded from identification here: workers report certainty about what is missing and no two reports agree, which is the symptom and not the finding.
 2. **Clash:** Flerehan and Ferrehan, notes in duplicate, one copy walked out of the room every ten minutes. Viderehan to record the shape of the absence without naming it. Pugnahan tightens the roots and is not applied.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not supply false memories; record the absence**.
+3. **Resolution:** The session closes on paper: two drawings from the fixed angles, both notebook copies compared line by line with no blanks, and no name supplied by anyone in the room. The condition on the record is **Do not supply false memories; record the absence**, and a session that produced a name has not closed — it has ended early, and the name is entered as an exposure rather than as a result.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Composure** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Redacted’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Redacted defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Resistance here fails as conviction rather than as collapse: the worker does not feel overcome, they feel informed, and **Composure** drains by the length of time they spend certain of what the blanking removed. The gauge rises on the certainty, not on the fear, which is why an unshaken worker is the exposure the session is watching for.
+- Extended contact produces certainties that do not fade while the worker keeps attending. Two of the four rings in service were issued to workers who finished a posting with a certainty they still hold, and the recommendation that such workers be stood down for one cycle is filed by the holding and is now three quarters old.
+- This set's price is the same removal it is used against, and it is paid in a currency the wielder cannot audit: the piece takes, the wielder cannot report the loss, and the sealed baseline is opened at return because the taker's own account is not evidence on this holding.
+- An unresolved session does not rupture. It files itself: the blanking appears in both copies, the word at which it began is recorded from the copy already out of the room, and the figure roots where the record gaps are densest — twice, both times at a records store, neither time at a worker.
 
 ## Appearance
 **Primary Form:** A humanoid tree of dark crystal with a face in its trunk and branches where memories should be.
@@ -153,7 +153,7 @@ The gauge on this holding is a shift-level reading and nothing more. The figure 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | It walks out and roots where the record gaps are densest, extending through floor seams as it settles. It does not hunt; the earlier entry contradicted both escape reports and the Warden Record. |
+| **Movement** | It walks out and roots where the record gaps are densest, extending through floor seams as it settles. Both recorded escapes ended at a records store, and in neither was a worker pursued. |
 | **Effect** | Records in the rooms it settles in develop blanks at the point of identification, in the originals and in any duplicate held in the same room. |
 | **Secondary Effect** | Workers nearby become certain of what the blanks contained, and no two accounts agree. |
 | **First Target** | No personnel. It goes to paper. |
@@ -188,15 +188,15 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Armoury figures, transcribed. The lance has never been discharged on this holding; it is carried because the breach protocol requires a long tool for root clearance, not because anybody expects to strike the figure.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Redacted's void signature in the strike.
+**Ability:** Void damage to identity and memory rather than to the body. The lance carries the holding's own signature — the strike does not add a wound so much as remove the account of one, and what a target cannot describe afterwards they cannot report.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Small nameless memories, unreportable by the person losing them. On this post the lance has never been discharged; the cost is recorded against the two clearance exercises that used it on rooted floor seams, and both bearers had to have their notes countersigned for a fortnight.
 
 ### M.A.W. Suit — Redacted Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a veil of Void Han-gossamer so light it reads as a change in the light rather than as cloth. Its hem carries a faint tape-mark pattern, which the armoury says was a weaver's error and which four successive bearers have refused to have corrected.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -206,19 +206,19 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Redacted's kind of pressure.
+**Ability:** Wards the Soul — identity and memory — against Void, which here means the wearer keeps the ability to say which of their recollections they can cite a source for. It does not stop the gap; it keeps the wearer from furnishing it.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** A faint absence the wearer describes as their own history sounding like something they were told. It is the state the holding watches for rather than the state it forbids, and no bearer has yet reported it while it was still early.
 
 ### M.A.W. Stigma — Redacted Ring
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a ring of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a ring of Void Han-glass that catches the light as though the light had been read about rather than seen. Four exist; the armoury holds them in the same case as the blank notebooks, which a previous keeper arranged and no successor has seen fit to change.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +2 to the bearer's work on this holding. The armoury's note records no measured effect anywhere else and declines to describe the ring as a benefit.
+**Effect:** +2 to work on this holding, and nothing measurable anywhere else — the armoury's note declines to call that a benefit and records the figure beside a blank column it has never filled in.
 
 **Ability:** Reveals what is missing from a person's history.
 
@@ -228,18 +228,18 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 
 ### M.A.W. Use Notes
 
-Each piece extends Redacted rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder loses small, nameless memories with each use — arrives early and does not reverse on return.
+Each piece is an extension of the holding rather than a defence against it, and the useful range of all three is the same range in which the holding is legible: inside the taped line, on the clock, with a duplicate already out of the room. Outside that the cost arrives early — the removal the wielder is carrying — and it does not reverse on return, which is why the set is issued against a sealed baseline rather than against a signature.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Redacted's toll being that the wielder loses small, nameless memories with each use. |
-| **During use** | Watch for Redacted's toll — the wielder loses small, nameless memories with each use — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wielder no longer notices Redacted's toll — the wearer feels faintly absent to themselves — which is how every stand-down on this set has been caught. |
-| **After use** | Return the piece and check the sealed baseline: has Redacted's cost — the wearer feels faintly absent to themselves — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline written by somebody other than the wielder. The toll is an unreportable loss, so the baseline is the only instrument that can speak to it afterwards. |
+| **During use** | Have the bearer's notes duplicated on the ten-minute removal clock like any session record. The hour to record is the hour the duplicate first shows a blank, not the hour the bearer mentions one. |
+| **At limit** | The bearer has stopped being able to name what the piece took, and describes their own history as something they were told. That description is the limit, and the observer outside the room calls it — the wearer is the last person able to. |
+| **After use** | Return the piece, open the sealed baseline, and compare it against the bearer's account before the bearer files anything. The comparison is entered whether or not the two agree, and on this set the disagreement is the finding. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grades describe extraction stability, not safety, and the divergence on this holding is the widest in the archive. What the table cannot show is that the four rings in service were issued for restraint — a full posting without once supplying the figure a name — and that the restraint is the qualification, not the reward.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -267,7 +267,7 @@ Each piece extends Redacted rather than equipping its wielder against it. The be
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Redacted (N-IIIγ-184 [N]) is logged as a Subject-Body manifestation expressing Void, held at Zone E, Border region, taped annually against a marked line on the trunk. It presents an absence rather than a ruin and thickens where the record office's unattributable destructions are densest.
+Containment file for N-IIIγ-184 [N], the holding called Redacted: a Subject with a Subject-Body manifestation of Void, held at Zone E on the border and taped annually against a marked line on the trunk. It presents an absence rather than a ruin, and it thickens where the record office's unattributable destructions are densest.
 
 **Entry 2 — <Excerpt from Girth Record, Year 4238>**
 Taped at the marked line, three readings, mean 1,288 mm against 1,206 and 1,140 in the two preceding years. Branch count from the three fixed angles unchanged at the north angle, two additional at the east. Drawings attached; photography of the branches again failed to resolve a count.
@@ -287,11 +287,11 @@ What this Archive is obliged to record is the second consequence, which is not a
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Redacted; the other feeds it.
+> The choice at the end of a session is what the room does with the gap: record it as an absence, or fill it with the name that feels like remembering.
 
-| Hold to the condition: Do not supply false memories; record the absence. | Depart from the condition for good reasons, as Redacted's record shows people do. |
+| Hold to the condition: draw the absence, count the branches, name nothing, and leave the gap unfurnished. | Supply the name the room is certain of — which is what every worker who ended a session early believed they were remembering. |
 |---|---|
-| Leaves fall and the missing shape becomes visible. The sorrow is seen clearly; Redacted is fully recorded. | Roots tighten and the branches burn. The gauge climbs and Redacted withdraws without revelation. |
+| The drawings are taken from all three angles, both copies compare clean, and nobody in the room has supplied a name. | A name is supplied, or the duplicate is found already blank at the point of identification; the session ends early and the entry is filed as an exposure. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -302,15 +302,15 @@ A tree stands at the border with a tape mark cut into its trunk at chest height.
 
 **At first contact:** There is no pressure at the door and nothing that reads as threat. You notice the mark cut into the trunk before you notice the face, and the face resolves — clearly, in good light — to nobody you have ever seen. The branches are bare in a way that is not winter. Your notebook is already duplicated and the clock outside has already started.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The blanking begins in the notes rather than in the head, which is the part nobody is ready for: the duplicate shows a gap at a word, and the word is one the note-taker would have said they were certain of. The figure does not change; the room's account of it does, and the account is the instrument.
 
-**When the entity activates:** The Gauge tips. The Subject-Body does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.
+**When the entity activates:** At the threshold the blanking stops waiting for the notebooks. Records in the room lose their point of identification where they stand — the file's own entry number among them — and the figure roots into the floor seams under whatever is densest in paper rather than in people.
 
-**After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The crew come out with the drawings, both copies and their certainties. The certainties go into the hazard log, the two copies are compared line by line, and whatever was filled in on the walk home is not entered; the standing advice is that it will not fade while the worker keeps attending.
 
 ### Interaction Pattern
 
-Redacted does not exist in isolation. Its recorded relationships with Vestige, The Forgotten Name, The Memory Lock should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three records are filed alongside this one because each concerns a removal, and the archive pairs them on that ground rather than on any observed contact. They are kept distinct for a reason this file states plainly: Vestige holds what survived, the Forgotten Name is a name that exists and cannot be retained, the Memory Lock withholds something known to exist, and here there is no document on which a subject appears at all. The measurable question is narrow — whether the girth departs from its established rate across a proximity trial.
 
 **Interaction method:** Baseline each file alone. Proximity trials are run against the girth series rather than the gauge, which means a trial takes two years to produce a result and the holding runs at most one at a time. Record distance, duration, blanking in the live notes, and the following two tape readings.
 
@@ -353,13 +353,13 @@ Some sorrows mourn the forgotten. This one is about the protection of a secret o
 > *“I am not asking for the reasons column back. I know what the reasons column did. I am asking what we are supposed to do instead, and nobody has answered that in six years.”* — Archive Lead
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-184 [N]` · Inner origin · Fragment (III) coherence · Major (γ) potency · Void · Subject-Body manifestation
+**Classification:** Sorrow Entity — `N-IIIγ-184 [N]` · Inner Sorrow (내한) · Fragment (III) coherence · Major (γ) potency · Void · Subject-Body manifestation
 **Common Name:** Redacted
 **Containment Status:** Contained — Zone E, Border region, taped annually at the marked line
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ). Live session notes blank at the point of identification, in duplicate; workers acquire durable and mutually contradictory certainties; both escapes ended in a records store.
 **Containment & Handling Procedures:**
-- Flerehan is the primary Work Type, with Viderehan to hold the absence steady while it is measured. The earlier entry made Viderehan primary, which only holds the gauge level.
+- Flerehan is the primary Work Type because it opens the branch structure so the gap can be drawn; Viderehan holds the absence steady while it is measured but does not move the gauge, which is why it is recorded as the second instrument rather than the first.
 - The girth rises annually and nothing done on this holding has altered the rate. Do not supply a name to slow it; four workers have tried and the series did not move.
 **Observation Notes:**
 - A destruction was authorised and signed, and whether it covered a person's history cannot be established from any surviving document.
@@ -369,9 +369,9 @@ Some sorrows mourn the forgotten. This one is about the protection of a secret o
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The one thing this record cannot do is audit itself, and everything practical follows from that: the girth is the instrument, the duplicate notebooks are the method, and any figure in this file that reads like a total is a count of entries rather than of subjects. Where two sections disagree, both are entered — on this holding a contradiction is a surviving document, which is a good deal more than the destruction entry that made the figure leaves behind.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-verified after every breach, after any session whose duplicate showed a blank, and at the annual tape reading — the last being a standing appointment rather than a review, since the girth is taken once a year and cannot be hurried. A review that finds a name in the session record treats it as an exposure: the worker is stood down for one cycle and the name is filed without being checked against anything.
 ## Warden Record
 
 ### Branches Where Memories Should Be
@@ -380,7 +380,7 @@ The figure is a tree of dark crystal with a face set in the trunk, and what shou
 
 ### Growing Around the Forgotten
 
-It thickens around people who have been let go of, which means its growth is a measure of the border region rather than of itself, and the trunk girth is taken annually with a tape against a marked line. The figure is rising steadily. The file states that fact without projection, having removed an estimated future dimension from an earlier version of the document on the archivist's objection that a forecast would imply the facility knew what the growth was counting.
+It thickens around people who have been let go of, which means its growth is a measure of the border region rather than of itself, and the trunk girth is taken annually with a tape against a marked line. The figure is rising steadily. The file states that fact without projection: the archivist's objection, entered at review and retained, is that a forecast would imply the facility knew what the growth was counting.
 
 ### What the Archive Did
 
@@ -417,11 +417,11 @@ What the entity shows is a gap rather than a ruin, and arriving Wardens are brie
 
 ### Registry Trivia
 
-- **Classification detail:** Redacted is a Subject with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Void, and its registered location is Zone E, Border region.
+- **Classification detail:** Redacted is filed at Major (γ) with Fragment (III) coherence and a Subject role. The sheet reads 660 / 660, a 45–65 % opening gauge, a 16–22 yield, 20 turns and an activation threshold of 2; none of those figures has ever been what decided a session on this holding.
+- **Field detail:** Void is the defining element and the location is Zone E, Border region. The series this file actually runs on is the tape — 1,140, then 1,206, then 1,288 millimetres across three annual readings — and the only attempt to explain it (the Withheld Index: 18,600 destructions attested, 2,744 concerning a living person, 61 unknown, nine people restored) is entered beside it as the office's objection and the clerk's death are entered: without resolution.
 - **Recognition detail:** Identify it by the taped girth and the branch drawings. Emotional impression is specifically unreliable here: workers consistently report certainty about what is missing, and no two reports agree.
-- **Record detail:** The Registrum cross-referenced Zone C, The Memory Weaver and The Empty Mask; the holding is in Zone E and the recorded neighbours are Vestige, The Forgotten Name and The Memory Lock. Corrected.
-- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Record detail:** The recorded neighbours are Vestige, The Forgotten Name and The Memory Lock, and the holding stands at Zone E on the border. The three are filed together because each concerns a removal, and they are kept distinct because only Vestige can be shown to hold anything that survived.
+- **Containment detail:** Containment on this holding is a tape reading and a set of drawings, not a door. The figure has walked out twice and gone to a records store both times without pursuing anyone; the standing instruction is to clear people from the store, let it settle, then re-cut the mark at the same height and call the witnesses.
 ## Document Information
 
 **Document ID:** SE-N-IIIγ-184
