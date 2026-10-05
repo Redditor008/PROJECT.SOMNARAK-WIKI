@@ -20,14 +20,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **131 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **103 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **80 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **132 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **104 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **81 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 180 / 302 |
-| Archive median prose generic fraction | 0.036 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 181 / 302 |
+| Archive median prose generic fraction | 0.034 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -903,6 +903,30 @@ three** on the freshly measured tier: Spreading Root `O-IVδ-693` (10 dirty, wor
 are the measured heads, with Torpor `N-IVδ-157` (10 dirty, worst 0.415), The Lost Prince `C-IVγ-091`
 (10 dirty, worst 0.389) and Bridge to Nowhere `C-IVδ-260` (10 dirty, worst 0.392) behind them — all
 re-measured this turn rather than carried over.
+
+
+**Batch 6, unit 1: Spreading Root `O-IVδ-693` closed.** The head of the batch-6 tier and the first unit
+opened on a file that was **below the 6,000-word floor** (5,860 words). It measured **10 dirty sections**
+at the head of the unit (worst 관찰 기록 (Observation Log) 0.453, Behavior 0.364, 감각 묘사 (Flavor Text)
+0.333, Origin 0.213) and all ten were closed; 5,860 → **7,075 words**; `tpl.py` residue 2 → **0** and
+`verify.py` residual 2 → **0**, both of them real splices — the Story-Log Entry 1 header and the M.A.W.
+use-notes line; `sectfile.py` ends at **0 section(s) over 0.05** and `wikistd.py` meets **True**. The
+**condition** clause (Work Type response and Resolution Condition rows) was already satisfied and was
+left alone; the **series** clause closed by restating the file's own figures inside a real edit (Trivia
+`Field detail`: 910 / 910 · 60–80 % · 20–28 · threshold 1 · 90 %; `Classification detail`: 45 / 35 % ·
+24 turns) — a restatement, disclosed. The record's spine is the threading rather than the shape: the
+beast-form varies and the roots entering floor and wall do not, so identification is by threading; the
+damage map is one amended sheet with the district holding the original; growth follows remembered places
+and the projection rests, in writing, on one watch member's memory; attention orients the entity and
+observation is capped and enforced by rotation; a breach takes people at ankle height and the cutting
+tools are staged at knee height with the reason painted on the mount; it drags rather than runs and every
+logged incident was a fall; the hearing is the instrument — aloud, on the ground the roots came out of,
+invited not compelled, no named burial ever dug up — and Pugnahan is the one Work Type that has never
+improved an encounter here. Movement: `R-29` 80 → **81 / 301**, series 206 → **207**, section-clean 103 →
+**104 / 301**, residue-free 131 → **132 / 302** (instances 582 → 580, carriers 171 → 170, distinct
+residue lines 45 unchanged), file-clean 180 → **181 / 302**, median 0.036 → **0.034**, worst unchanged
+0.162. **Batch 6 continues at the floor of three**; the next unit is re-measured at the head, never
+carried over.
 
 **Batch accounting, the batch before this one** — three units were finished in it —
 Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's

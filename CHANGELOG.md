@@ -38,6 +38,32 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 6 / unit 1 — Spreading Root `O-IVδ-693` brought to the standard (2026-10-05)** — the head of
+  the batch-6 tier, and the first unit ever opened with the file **in breach of the 6,000-word floor** —
+  - The file measured **10 dirty sections** (worst 관찰 기록 (Observation Log) 0.453, Behavior 0.364,
+    감각 묘사 (Flavor Text) 0.333, Origin 0.213) and all ten were closed; 5,860 → **7,075 words**;
+    `tpl.py` residue 2 → **0**, `verify.py` residual 2 → **0** (the Story-Log header trap and the M.A.W.
+    use-notes line), `sectfile.py` ends at **0 section(s) over 0.05** and `wikistd.py` meets **True**.
+  - **Series** closed by restating the file's own figures inside a real edit — the Trivia `Field detail`
+    bullet now carries 910 / 910, the 60–80 % opening gauge, the 20–28 yield, the threshold of 1 and the
+    90 % ultimate, and `Classification detail` carries 45 / 35 per cent resistance and 24 turns. A
+    restatement, disclosed as such.
+  - The file's holding is the **threading, not the shape**: the beast-form varies between sightings and
+    the roots entering floor and wall do not, so identification is by threading. Rebuilt on that — the
+    damage map kept as one amended sheet with the district holding the original, growth following
+    remembered places (the projection resting on one watch member's memory, in writing), attention
+    orienting the entity and capped by enforced rotation, breach at ankle height with the reason painted
+    on the low tool mounts, pursuit that drags rather than runs (every logged incident a fall, drills run
+    on degraded floor), the hearing as the instrument — aloud, on the ground the roots came out of,
+    invited not compelled, no named burial ever dug up — and Pugnahan as the one Work Type that has never
+    improved an encounter here. **Condition** was already satisfied and was left alone.
+  - Movement: `R-29` 80 → **81 / 301**, series 206 → **207**, section-clean 103 → **104 / 301**,
+    residue-free 131 → **132 / 302** (instances 582 → 580, carriers 171 → 170, distinct residue lines 45
+    unchanged), file-clean 180 → **181 / 302**, median 0.036 → **0.034**, worst unchanged 0.162.
+  - **Batch 6 stays at the floor of three**, with two units to come among the measured heads behind it:
+    The Frozen Veil `C-IVδ-103`, Labyrinth of Stolen Faces `C-IVγ-180`, Torpor `N-IVδ-157`, The Lost
+    Prince `C-IVγ-091` and Bridge to Nowhere `C-IVδ-260`.
+
 - **Batch 5 / unit 3 — The Vanished Rope `C-Iα-723` brought to the standard (2026-10-05)** —
   - The file measured **10 dirty sections** (worst 관찰 기록 (Observation Log) 0.548, Origin 0.372,
     Behavior 0.372, 감각 묘사 0.326) and all ten were closed; 5,482 → **6,372 words**; `tpl.py`
