@@ -38,6 +38,9 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **`R-01` sweep begun: six single-line conversions (2026-10-05)** —
+  - The Debt Eater, The Cracked Hourglass, The Hollow Choir, Broken Clock, The Debtor and Owed each lost one Registrum sentence about an earlier entry; each now states the reason for the grade or the fact it was correcting, from the file's own sentences. One commit per dossier. `tools/editmeta.py` reports 82 dossiers and 153 lines, from 88 and 159.
+  - Two of the six first added a claim the file does not make and were corrected in follow-up commits; the work record says so. `R-29` is unchanged by these units.
 - **The Dawn of Mourning pair resolved, and a sync hazard closed (2026-10-05)** —
   - Recorded here because commit `f8e3acc`, made by another agent session at the owner's instruction, did not add an entry. The archive held two dossiers for one entity, `C-Vω-001` (애도의 새벽) and `C-Vω-002` (애도의 여명). `C-Vω-001` is the Dawn of Mourning and `C-Vω-002` was retired, with its gauge (12,000) and several passages carried into the kept file and the rest listed in `SORROW_ENTITIES_PAIRS_AUDIT.md` §4. References were repointed, and the live counts moved: Sorrow dossiers 291 to 290, all dossiers 302 to 301, dispositions 302 to 301. `R-29` is 53 of 301. The decision was re-checked independently in a later turn and stands; the same scan run on every other dossier found no further duplicate.
   - Added `tools/syncbranch.py`, and `gate.sh` now calls it instead of `git reset --mixed FETCH_HEAD`, which moved HEAD without the files and would have let the next `git add -A` revert another session's commits.

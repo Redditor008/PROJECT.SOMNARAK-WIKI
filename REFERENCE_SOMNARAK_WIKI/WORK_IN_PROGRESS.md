@@ -247,8 +247,8 @@ or containment stability,"* which **127** dossiers still carry.
 3. **The choice sentence in the other 211 dossiers**, worst section first; then the Interaction
    Pattern sentence in the other 127.
 4. **`R-01` sweep.** The four Expanded-origin sentences that narrated an earlier version are converted
-   (Mirror of Rising, Deadline, The Debt Chain, Forgotten Name). `tools/editmeta.py` finds **88 dossiers
-   with 159 candidate lines** (it found 58 and 73 until the third turn, when reading dossiers for Study 02
+   (Mirror of Rising, Deadline, The Debt Chain, Forgotten Name). `tools/editmeta.py` finds **82 dossiers
+   with 153 candidate lines** (88 and 159 before the fourth turn's six conversions; it found 58 and 73 until the third turn, when reading dossiers for Study 02
    turned up a second family it did not match), among them the *"has been corrected against the Behavior
    table / the SECC header"* Registrum notes that `R-01` names verbatim and the *"The earlier entry grading it
    Moderate … is an error and is corrected here"* form. They are candidates, not
@@ -450,6 +450,15 @@ retirement included. The working tree was first verified byte-identical to my la
 differences) and then synced by hand. `tools/syncbranch.py` now does that check and the sync, and `gate.sh` calls it.
 When two sessions share a branch, fetch before editing and do not trust a working tree that a snapshot restored.
 
+**R-01 sweep, started: six single-line conversions, one commit each (`R-29` unchanged).** The Debt Eater, The Cracked
+Hourglass, The Hollow Choir, Broken Clock, The Debtor and Owed each carried exactly one Registrum sentence about an
+earlier entry ("The earlier entry grading it Moderate … is corrected here"). Each is now the reason for the grade it
+states, taken from the sentences beside it. `tools/editmeta.py`: 88 dossiers and 159 lines before, **82 and 153**
+after. **Two of the six overreached and were corrected in follow-up commits** (`4ff03eb`, `545204c`): The Debtor's first
+conversion added a claim the file does not make ("a blameless worker is the easiest place for it to land") and Broken
+Clock's inferred that an anchored thing cannot be outrun. The rule for this sweep is that a conversion states only
+what the file already says; the other 38 single-line dossiers are the next units, and `tools/editmeta.py` lists them.
+
 ## Workstream 8 — Breach Balance (`R-28`, done 2026-10-05)
 
 The archive declared **285 of 302 entities capable of breaching**. It was generator output, not a
@@ -574,6 +583,7 @@ Not repaired, because history is not rewritten (`R-17`).
 - The Memory Chain commit message reads `6,601 -> 6,613`; the measured figures were 6,613 -> 6,624.
 - The Final Door, Forgotten God and Convergence commit messages say "nothing new invented" and "restated in digits", which is accurate, and describe the units as closing the series clause; the clause was failing on a counting convention, as the measurement finding above says.
 - The Torn Window commit message calls it "the worst section on the Study 01 league table when this campaign began". It was the worst *file* on Study 01's table (0.293 generic fraction), at the time Study 01 was written.
+- The first R-01 conversions for The Debtor (`a0d4308`) and Broken Clock (`3994646`) each added an inference the file does not state; replaced in `4ff03eb` and `545204c`.
 - The Sorrow Tide commit message says "no word was turned into a digit". The new Observation Log bullets do state, in digits, figures that other sections of the file give in words (nine stations, eleven minutes, sixty years). Nothing was invented, but the sentence was too strong.
 - The Foam Flood and Soot Fry commit messages describe the stock opener as carried by many dossiers. The exact first sentence ("does not exist in total isolation") was in those two files only; the shared part was the third sentence, which 127 dossiers still carry.
 
