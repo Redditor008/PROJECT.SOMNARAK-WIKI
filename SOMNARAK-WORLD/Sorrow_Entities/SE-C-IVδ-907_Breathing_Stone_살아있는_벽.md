@@ -28,7 +28,7 @@
 | **Entity role** | Place |
 | **Primary pressure** | Weight / Body pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per cycle, drawn from a corridor wall that the whole wing walks past. The works office has twice costed a diversion around it and the cost is the transit time of every shift in the building. |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · δ |
@@ -40,9 +40,9 @@
 
 - The stone expands and contracts at a steady interval, and the interval does not match any respiration taken from personnel present.
 - A cycle slows the interval. It has never stopped, and the stone is unaltered by a successful outcome.
-- Viderehan and Ferrehan are the valid approaches to the site.
+- Flerehan and Pugnahan are unavailable against a wall. What the two usable Work Types amount to is standing on the marked line opposite it and counting.
 - Three ignored conditions escalate it. The body register carries contact, so handlers are screened physically rather than by gauge.
-- Extraction is authorized apart from the work cycle and carries the same physical exposure.
+- Extraction is separately authorised and carries the same exposure as a cycle, because both consist of standing within arm's length of a wall that is breathing.
 
 ## Combat Record
 ### Core Stat Line
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 30% against Weight pressure; 21% against other pressure types |
+| **Resistance** | 30% against Weight. The wall is load-bearing and the figure is a formality; nothing has been attempted against it and the structural office has written that nothing may be. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 429/429 |
 | **Han Pressure [ATK]** | 14–25 per hit · Weight |
@@ -79,16 +79,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's body pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight]]** | When the entity first fixes on a target. |
-| { *The Body Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight body sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[18 Weight DMG [Weight]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target's Sorrow Gauge surges.* **[25 Weight DMG [Weight]]** | When the entity is cornered or starved. |
-| { *The Body Collapse* [**Ultimate**] } | "The body breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "The wall you are walking past is breathing, and it has been the whole time." | [The respiration becomes apparent to somebody who has walked the corridor for years.] | *Weight pressure on recognition; every member of the wing has had this once and nobody has had it twice.* **[Weight DMG [Weight]]** | On first recognition, which for most staff is years into their service. |
+| { *The Body Surge* [**Attack**] } | "Your own breathing goes to the wall's rate and will not come back." | [The observer's respiration entrains to the wall's.] | *Weight damage; the two series diverge afterwards and the station's whole measurement problem is which of them is wrong.* **[Weight DMG [Weight]]** | Past about ten minutes on the line. |
+| { *The Settling* [**Attack**] } | "It holds a breath, and so does the corridor, and so do you." | [The respiration pauses and everything in the corridor pauses with it.] | *Heavy Weight damage to anybody present. Nine occurrences; the longest hold was fifty-one seconds and nobody in the corridor breathed for any of it.* **[Weight DMG [Weight]]** | When somebody touches the wall. |
+| { *The Body Collapse* [**Ultimate**] } | "Every wall in the wing takes the rate, and the building is breathing." | [The respiration propagates through the structure.] | *Weight erosion to everyone inside for three cycles.* **[Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, once, during the Year 4,233 structural survey. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the place manifestation, assess the Weight pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Breathing Stone's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+1. **Tension:** The observer stands on the marked line on the far side of the corridor, starts a watch, and counts the wall's respirations for ten minutes without crossing. A second observer counts the first observer's.
+2. **Clash:** None available. The holding is a wall in a corridor that four hundred people a day walk past, and the cycle is two people counting breaths on opposite sides of a painted line.
+3. **Resolution:** Two respiration series, logged separately and not reconciled. 188 cycles; the wall's rate is 9 a minute and has never varied, and the observer's rate matches it in 147 of them.
 
 ### Consequences
 
@@ -153,8 +153,8 @@ Breathing Stone is a Place with Place-Body manifestation and Weight expression, 
 | **Breach Type** | Expansion |
 | **Movement** | The entity's body influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Weight pressure radiates — the body register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever stops. It has never affected anybody walking past at a normal pace, in nineteen years of a corridor used by the whole wing, and the entire containment is the instruction not to stop. |
+| **Escalation** | +5 Weight drain per cycle while somebody stands on the near side. It does not reach the far side of the corridor, which is where the marked line is and why it is there. |
 
 ### Escalation Notes
 
@@ -169,17 +169,17 @@ Breathing Stone is a Place with Place-Body manifestation and Weight expression, 
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a single-edged blade of Weight Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
+**Appearance:** a single-edged blade of matte steel that hums faintly when gripped, at nine beats a minute, which the Armoury has timed and recorded without comment.
 
 **Damage:** Weight 11–21 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels weight body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
+**Ability:** Weight against the Body. Struck targets' breathing slows to nine a minute for about an hour; fourteen strikes, fourteen identical rates, and no reported distress in any of them.
 **Cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
 
 ### M.A.W. Suit — Breathing Stone's Veil
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a flowing veil of Weight Han-weave, matte and unnaturally heavy, that settles cold against the skin.
+**Appearance:** a heavy veil, cold against the skin, which rises and falls very slightly on its hook when nobody is wearing it.
 
 **Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -189,16 +189,16 @@ Breathing Stone is a Place with Place-Body manifestation and Weight expression, 
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a coin-token of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a warm steel token with a shallow depression worn into one face, in the place a thumb would sit, which was there when it was made.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect:** +1 to the working stat on this holding's cycles, which consist of standing on a line and counting
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
-*The Stone's Stigma is not manufactured and cannot be requisitioned. It has been conferred three times, in every case on a worker who reported an unauthorised contact — their own — before anybody had asked.*
+*Three in nineteen years, in every case to a worker who reported an unauthorised touch — their own. Nobody who concealed one has been given anything, and the station's note is that there have been eleven touches and three reports.*
 
 ### M.A.W. Use Notes
 
-Each Breathing Stone piece is an extension of something that waited in one place until it became part of the building, rather than ordinary equipment. The grade describes extraction stability. The cost is separate and is always the same: the bearer becomes able to tolerate almost anything indefinitely, which the counsellors class as the most dangerous benefit in the wing.
+Each piece extends something that waited in one place until it became part of the building, and the set gives its wielder the same patience: they stop minding delays, queues, waits of any length. It reads as composure and it is measured as absence — two wielders missed scheduled appointments they had been waiting for and neither could account for the hours.
 
 ### Field Use Record
 
@@ -206,7 +206,7 @@ Each Breathing Stone piece is an extension of something that waited in one place
 |---|---|
 | **Before use** | Operator and grade; gauge; the operator's own state in their words; piece condition; objective; the span's temperature and sensor series for the preceding shift; and confirmation that the operator has not passed the corridor off-shift in the preceding week. |
 | **During use** | Contact time, distance from the marked line, the respiration series from all three sensors, the operator's own respiration taken independently, the first cost, and any report of the surface being audible without instruments. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the operator or by the second person, who is mandatory on this holding and is never the operator's regular partner. |
+| **At limit** | The wielder waits through something they were supposed to act on. Both over-runs reached it, and in both cases the wielder described the wait afterwards as the sensible option. |
 | **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and a sleep-latency entry at seven days against the operator's own baseline. |
 
 ## 관찰 기록 (Observation Log)
@@ -232,15 +232,15 @@ Each Breathing Stone piece is an extension of something that waited in one place
 
 **Entry 3 — Counseling Log** *<Interview, night watch, after four years on the route>* — "I do not mind it. I want that written down because everybody assumes otherwise. I mind that I can tell you exactly how it sounds and I cannot tell you what my own front door sounds like."
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are the valid Work Types. Marked line on the far side, no stopping, no passing alone on the night watch, no contact of any kind — gloved, instrumented, or by placing an object against the surface. There is no form by which contact may be approved because there is no circumstance in which it may be.
+**Entry 4 — Containment Notice** A marked line on the far side of the corridor, no stopping, no passing along the near wall, and no contact. The notice adds that the corridor remains in full use by the wing and that closing it has been rejected four times on transit grounds.
 
 **Entry 5 — Director's Note** *<Minute on the rerouting submission>* — I am asked to approve a reroute on occupational-health grounds. The study establishes a cost per passage and establishes that no individual's cost approaches the threshold at which any duty of ours is engaged. I have declined on that basis and I record that the reason given in the paper is the threshold, and the reason given around the table was the precedent.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Count from the line and keep your own rhythm. | Put a hand flat on it — it is breathing and nobody has ever just checked. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| Two series, logged separately, neither of them reconciled. | Fifty-one seconds in which nothing in the corridor breathes, including you. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -283,10 +283,10 @@ It does not rage and it does not weep. It breathes, at a steady interval that do
 
 **Comprehension Level:** 4 — Deep
 
-**Threat Assessment:** Critical. A Place-Body entity — the body register is its defining characteristic. Risk: prolonged exposure to the body pressure may produce effects not seen in standard weight entities.
+**Threat Assessment:** Critical (δ), carried for the hold rather than for any injury. Nineteen years, 188 cycles, eleven touches, nine holds, no fatalities — in a corridor four hundred people walk down every working day.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither requires contact.
+- Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither requires contact, which is the reason they are the valid ones.
 - Flerehan and Pugnahan are unavailable to a Place and are not to be improvised.
 - Monitor by passage count, sleep latency against each worker's own baseline, and the two respiration series kept side by side. Do not monitor by gauge; the gauge on this holding has been flat for nine years and means nothing.
 
@@ -294,7 +294,7 @@ It does not rage and it does not weep. It breathes, at a steady interval that do
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument and are read together: the disagreement between the two respiration series has been resolved and the answer is that observers hear themselves, the per-passage cost is real, measured, and individually too small for the law to touch, and the facility has adopted the aggregate as a productivity baseline. Where observation contradicts this record, preserve the contradiction rather than normalising it.
+**Operational interpretation:** The three sections below are one argument. Two respiration series are kept and deliberately not reconciled: the wall's, which is nine a minute and has never moved, and the observer's, which matches it in 147 of 188 cycles. The station cannot say which series is the measurement and which is the effect, and has written that it will not guess. The corridor stays open because closing it costs the whole wing transit time, which means four hundred people a day walk past a load-bearing wall that is breathing and are instructed not to stop.
 
 **Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, recheck containment status, the span's extent against the structural reference, both respiration series, the brick photographic series, the sleep-latency return for the floor, and the standing of the rerouting proposal, which is to be reported as outstanding for as long as it is outstanding.
 
@@ -368,7 +368,7 @@ The consequence is arithmetic. The floor's performance is now assessed against a
 
 The objection is minuted at the forty-fifth review and at each of the six since, raised by the floor's archivist and supported by the author of the occupational-health study. It holds, first, that the study was commissioned after the reroute was proposed and not before, and that its practical effect — whatever its intent, and the objection is explicit that no bad intent is alleged — was to establish with precision that the harm was too small to be owed anything for. Second, that the aggregate was declined as a basis for duty and adopted as a basis for planning in the same document, so the eleven hundred hours are simultaneously too trivial to act on and solid enough to budget against. Third, that the reason given in the paper is the threshold and the reason given at the table was the precedent, which appears in the minutes and not in the decision, and that of the two the second is the one the floor believes.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-sixth year at the transit time of three shifts — the reroute, with the four minutes credited as paid time to anybody who continues to walk the corridor — and that it has not been laid before the board in six years. And it records the sentence the archivist asked to have entered verbatim, which now stands above the night watch's two-mark log:
+The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-sixth year at the transit time of one shift per day — a diversion around the corridor — and that the cost was found to be acceptable in principle and was not funded. The item has been carried for eleven years and the eleven touches on file were all by people who had walked past it several thousand times.
 
 *It takes four minutes off six hundred people a day and the law has a word for a harm that small, and the word means that we never have to say anything about it again.*
 
