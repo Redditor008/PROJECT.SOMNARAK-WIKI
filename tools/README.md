@@ -40,6 +40,9 @@ tools/
 | **`box_formatter.py`** | TablesGenerator reference engine (`https://www.tablesgenerator.com/text_tables`): creates perfectly aligned 74-column chatroom and wide-format ASCII grid tables and boxes with zero crooked rows and 5-row vertical growth cell wrapping. | `python3 tools/box_formatter.py` |
 | **`tpl.py`** | Workstream 6 census: template residue — lines shared by ten or more dossiers that are not sanctioned furniture (`R-23`). No args = summary, `--top N` = worst lines, `<path>…` = per-file residue with line numbers. | `python3 tools/tpl.py --top 20` |
 | **`sect.py`** | The Tale standard (`R-24`): generic-prose census by 8-gram sharing. `--sections` = per-section league table, `--files N` = best/worst dossiers, `<path>` = per-line attribution. | `python3 tools/sect.py --sections` |
+| **`dirtylines.py`** | `R-27` attribution: for every section of a dossier over 0.05, only the lines inside it that carry shared 8-grams. Often a single slot-filled sentence is the whole defect. | `python3 tools/dirtylines.py <path>` |
+| **`wikistd.py`** | The `R-29` test: abnormality-wiki parity (nine sections), a specific management condition, an own numeric series, a classified disposition and section-cleanliness, per dossier and in total. The disposition lookup is keyed on the filename code (Document ID). | `python3 tools/wikistd.py [--gaps N \| <path>]` |
+| **`gate.sh`** | The standing push gate: linters (each must print its explicit PASS string), unit tests, row-pipe check, breach floors (`R-28`), metrics regenerated and staged, then commit, push to the **checked-out session branch** and verify HEAD against the remote ref. Refuses `main` and `NON-WIKI`. | `bash tools/gate.sh "<commit message>"` |
 | **`tests/test_linters.py`** | Unit test suite verifying that linters catch known defects and accept valid fixtures. | `python3 -m unittest tools/tests/test_linters.py` |
 
 ---
