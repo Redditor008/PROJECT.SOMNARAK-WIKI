@@ -38,6 +38,33 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 6 / unit 3 — Torpor `N-IVδ-157` brought to the standard, closing the batch (2026-10-05)** —
+  the worst remaining section on the re-measured tier (Behavior 0.415) —
+  - The file measured **10 dirty sections** (worst Behavior 0.415, Expansion Behavior 0.237, 감각 묘사
+    (Flavor Text) 0.233, 관찰 기록 (Observation Log) 0.221, M.A.W. Equipment 0.176) and all ten were
+    closed; 6,143 → **7,354 words**; `tpl.py` residue was already 0 and `verify.py` residual 2 → **0**
+    (the Story-Log Entry 1 opening and the stock activation beat); `sectfile.py` ends at **0 section(s)
+    over 0.05** and `wikistd.py` meets **True**. **Condition** was already satisfied and was not touched.
+  - **Series** closed by restating the file's own figures inside a real edit — the Trivia `Field detail`
+    bullet now carries 910 / 910, the 60–80 % opening gauge, the 20–28 yield, 45 / 35 per cent
+    resistance, the 24-turn encounter, the 90 % activation threshold and the 65 % ultimate. A
+    restatement, disclosed as such.
+  - The record's spine is that **rest must be ordered and watched**: the site holds the exhaustion of a
+    border watch that slept in shifts for eleven years and never rested unwatched, so the condition is a
+    guarded rest area with one person actually asleep and one named watcher standing over them — an
+    unwatched rest has never moved the reading, and permitted-but-declined rest advances the edge. Every
+    carrier was rebuilt on that: the combat rows and consequences, the Appearance rows, the Behavior
+    reading, the Expansion notes, the M.A.W. appearances, abilities, costs, use notes and all four field
+    rows, the Observation Progression and method, the Final Observation pair, the flavour beats, all
+    three interaction rows, the Operational Parameter rows and Registrum shells, and the Trivia
+    `Field detail`.
+  - Movement: `R-29` 82 → **83 / 301**, series 208 → **209**, section-clean 105 → **106 / 301**,
+    residue-free unchanged at **133 / 302** (instances 579, carriers 169, distinct residue lines 45),
+    file-clean 182 → **183 / 302**, median 0.033 → **0.032**, worst unchanged 0.162.
+  - **Batch 6 is closed at three** (`dac7fe6` Spreading Root, `98c6a71` Labyrinth of Stolen Faces, this
+    unit), each unit re-measured live at its own head. **Batch 7 opens at three** on the freshly measured
+    tier; the next unit is measured at the head of that batch, never carried over.
+
 - **Batch 6 / unit 2 — Labyrinth of Stolen Faces `C-IVγ-180` brought to the standard (2026-10-05)** —
   the head of the re-measured tier after unit 1 (worst section 0.418) —
   - The file measured **10 dirty sections** (worst Behavior 0.418, Expansion Behavior 0.259, M.A.W.

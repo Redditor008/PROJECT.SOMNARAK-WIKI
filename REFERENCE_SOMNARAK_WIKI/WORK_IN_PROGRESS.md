@@ -21,13 +21,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **133 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **105 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **82 / 301** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **106 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **83 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 182 / 302 |
-| Archive median prose generic fraction | 0.033 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 183 / 302 |
+| Archive median prose generic fraction | 0.032 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -947,6 +947,25 @@ section-clean 104 → **105 / 301**, residue-free 132 → **133 / 302** (instanc
 169, distinct residue lines 45 unchanged), file-clean 181 → **182 / 302**, median 0.034 → **0.033**, worst
 unchanged 0.162. **Batch 6 continues at the floor of three**; the third unit is re-measured at its head,
 never carried over.
+
+**Batch 6, unit 3: Torpor `N-IVδ-157` closed — and the batch closed with it, at the floor of three.**
+Re-measured live at its own head: **10 dirty sections**, worst Behavior 0.415 (Expansion Behavior 0.237,
+감각 묘사 (Flavor Text) 0.233, 관찰 기록 (Observation Log) 0.221, M.A.W. Equipment 0.176), all ten closed;
+6,143 → **7,354 words**; `tpl.py` residue was already 0 and `verify.py` residual 2 → **0** (the Story-Log
+Entry 1 opening and the stock activation beat); `sectfile.py` ends at **0 section(s) over 0.05** and
+`wikistd.py` meets **True**. **Condition** was already satisfied and was left alone; the **series** clause
+closed by restating the file's own figures inside a real edit (Trivia `Field detail`: 910 / 910 ·
+60–80 % · 20–28 · 45 / 35 % · 24 turns · 90 % · 65 %) — a restatement, disclosed. The record's
+instrument is the roster: rest must be ordered and watched, one person asleep inside the edge and one
+named watcher standing, because an unwatched rest has never moved the reading and permitted-but-declined
+rest advances the edge; the site gives tiredness back to whoever stays, so retrieval runs on a fixed
+schedule rather than on request, the boards are counted out and counted back, and the duration cap has
+been reduced twice and never raised. Movement: `R-29` 82 → **83 / 301**, series 208 → **209**,
+section-clean 105 → **106 / 301**, residue-free unchanged at **133 / 302** (instances 579, carriers 169,
+distinct residue lines 45), file-clean 182 → **183 / 302**, median 0.033 → **0.032**, worst unchanged
+0.162. **Batch 6 is closed at three** (`dac7fe6` Spreading Root, `98c6a71` Labyrinth of Stolen Faces,
+this unit), each unit measured live at its own head. **Batch 7 opens at three** on the freshly measured
+tier; its first unit is measured at the batch head, never carried over.
 
 **Batch accounting, the batch before this one** — three units were finished in it —
 Dismissed Cry `26bd011`, Perennial `07a3f05`, Survivors' Breath `70db794` — which is the ladder's

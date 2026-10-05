@@ -28,18 +28,18 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28, and it rises with stored exhaustion — which is why the site is worked after a long rotation rather than at the start of one, a scheduling decision the file records as the least popular on the border |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Establish a guarded rest area and permit sleep. Nothing beyond that has ever lowered the gauge on Torpor. |
+| **Recommended response** | Establish a guarded rest area and permit sleep — ordered as a task and watched by name. Nothing else has ever lowered the gauge on this file, and rest that is permitted but declined has reliably raised it |
 
 ### Operational Notes
 
 - No breach counter applies. Torpor expands its quiet rather than escaping, and the trigger is accumulation rather than failure.
-- Viderehan and Ferrehan are the only valid approaches; a border place cannot be engaged emotionally or confronted.
+- Two approaches only: Viderehan reads the duties that kept the watch awake; Ferrehan requires somebody to sleep on site under a named watcher. A border place cannot be engaged emotionally or confronted, and the request to rest has to come from the roster rather than from the worker.
 - Observation reveals the duties that kept people awake. Endurance requires remaining while the air presses downward and the ground gives underfoot.
 - Every sound entering the site becomes a sleeping breath. Verbal communication fails inside the perimeter and crews work to hand signals agreed before entry.
 - Yield rises with stored exhaustion, so the site is worked after long shifts rather than at the start of them.
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Weight pressure; 35% against other pressure types |
+| **Resistance** | 45% against Weight, which is what the place presses with; 35% against everything else, and the second figure is what a standing crew is reduced to once the hush has had them a full rotation |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Weight |
@@ -81,18 +81,18 @@
 | { *The Slow Exhale* [**Debuff**] } | "A sigh — barely audible, barely a breath — escapes from something vast and dormant." | [The Sigh's sleeping exhalation carries enormous weight; the target is pressed by it.] | *Target suffers -10 Resolve; the sleeping breath is heavy.* **[10 Weight DMG [Weight]]** | When the target feels the Sigh. |
 | { *The Stirring* [**Debuff**] } | "The sleeper shifts — the sigh deepens — and the exhaled air thickens into something you can lean against." | [The Sigh's exhalation becomes physical; the target is pushed by dormant breath.] | *Target loses 10 Resolve; the sleeping thing is stirring.* **[10 Weight DMG [Weight]]** | When the target remains in the path. |
 | { *The Sudden Breath* [**Attack**] } | "The sleeper exhales sharply — a gust of concentrated, dormant weight." | [A sudden exhalation-strike.] | *Inflicts Weight pressure and one wound of heavy breath.* **[14-22 Weight DMG [Weight]]** | When the Sigh is disturbed. |
-| { *The Full Awakening* [**Attack**] } | "The sleeper's eyes open — for one second — and the full weight of their attention is devastating." | [The Sigh's brief waking releases its complete dormant mass.] | *A heavy Black surge; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Sigh is forced awake. |
-| { *The Waking Giant* [**Ultimate**] } | "Every sleeping sigh in the field stirs — and the combined exhalation of dormant giants fills the room." | [The Sigh extends its stirring across the whole area.] | *All in range suffer Weight pressure for three turns of awakening breath.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Awakening* [**Attack**] } | "Something under the ground takes a breath it has been holding for eleven years, and the whole border leans on you at once." | [The mass of every deferred rest in the sector arrives in a single exhalation.] | *A heavy Black surge; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Sigh is forced awake, or a resting worker is woken early. |
+| { *The Waking Giant* [**Ultimate**] } | "The quiet does not break — it deepens past what an awake person can stand under, and it applies to everything inside the edge at once." | [The hush widens and presses; the acoustic edge moves outward past the crew.] | *All in range suffer Weight pressure for three turns of awakening breath.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% with nobody asleep inside the edge. |
 
 ### Battle Phases
 
-1. **Tension:** Torpor is confirmed by the sound. Several Zone E records are described as quiet; this is the one in which a sharp noise arrives as a breath, and there is nothing at all to see. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Confirmation is acoustic and nothing is visible. Several Zone E records are described as quiet; this is the one in which a dropped tool lands as a breath rather than a clatter, and the edge of the hush is walked and marked before anyone works inside it. The withdrawal is fixed at the same time: retrieval happens on the schedule, not on request, because a request to be brought out is the first thing the place stops people making.
 2. **Clash:** There is no body to work against; the team works inside the hush. Viderehan reads the duties that kept the original watch awake and holds the reading steady. Ferrehan requires a worker to sleep on site while the rest of the team stands over them, and it is the only approach that lowers it. A session in which nobody slept is logged as incomplete.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Establish a guarded rest area and permit sleep**.
+3. **Resolution:** The session closes when the rest has been ordered, taken and watched: one person asleep inside the edge and one named person standing over them for the whole interval. The condition on the record is **Establish a guarded rest area and permit sleep**, and a session where rest was permitted but declined has not closed — it is logged as an advance of the edge. The watcher's name goes in the entry; an unwatched rest has never moved the reading.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resolve** and accelerating Sorrow Gauge escalation.
+- Resistance here fails quietly. The worker does not fight anything; they begin to experience their own watch as something they are holding up alone, **Resolve** drains by the length of the shift, and the reading climbs while everyone on the roster reports feeling fine — which is the report the site is built to produce.
 - Exposure is not the danger here; wakefulness is. Personnel who stay alert through a long rotation in the area accumulate the entity's own history, and the first sign is not drowsiness but an inability to hand the watch over to the person who has come to take it.
 - The culverin, the mantle and the breath-token all carry the same thing out of the area: rest taken by somebody who was not safe. Each activation spends a measure of the operator's own capacity to be off duty, and the recorded cost is not tiredness. It is that the operator cannot sleep anywhere they are not the last one awake.
 - If no guarded rest is established, the area does not rupture. It widens. The hush takes in the next stretch of ground, and the file notes that every recorded expansion followed a decision to push a shift through rather than break it.
@@ -116,10 +116,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A quiet border place where every sound becomes a sleeping breath. The ground is soft and the air presses downward. |
-| **Position / movement** | Mobile — drifts or flows through the area. The Torpor file carries the series rather than a single reading. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Identify it by the sound. Several Zone E records are described as quiet; this is the one in which a sharp noise arrives as a breath, and there is nothing at all to see. Confirm it against the designation before contact; the registry holds more than one record of this form. |
-| **Identification** | Verify these observations against the SECC code before work or contact begins; several Zone E records come from the same posting, and the wrong one in mind sends a team in prepared to stay awake. |
+| **Position / movement** | Mobile, and the drift is measured against the survey line rather than against landmarks: the edge is walked at the start and end of every rotation and the bearing between the two readings is entered. Two bearings in a row in the same direction trigger the review, not the reading itself. |
+| **Material / signature** | Nothing is visible at any range, and the entry says so rather than leaving the field blank. What is recorded is the downward press of the air, the give in the ground underfoot, and the point at which a sharp sound stops arriving as sound. |
+| **Distinctive markers** | Identify it by the sound and by the absence: several Zone E records are quiet and this is the one where a sharp noise comes back as an exhalation. Register the designation from a cleared position outside the edge, since the registry holds more than one quiet record and the wrong one is worked awake. |
+| **Identification** | Verify against the designation before contact. Several Zone E records come from the same posting and the difference is decisive: this is the one whose condition requires somebody to sleep on site, under a named watcher, while the rest of the crew stands. |
 
 **Appearance protocol:** There is nothing to describe and that is the entry. Record the acoustic edge, the give in the ground underfoot, the downward pressure of the air, and the fact that nothing is visible at any range. Personnel are to stop recording the area as calm; four reports have, and all four were written by teams that then overran their rotation.
 
@@ -144,9 +144,9 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Torpor is recorded as an Object/Place with Place-Grudge manifestation and Weight elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Two of the four Work Types are available and the reason is structural: there is no surface here to confront and nothing that can be engaged emotionally, so Flerehan and Pugnahan both return nothing. Viderehan reads the duties that kept the original watch awake and holds the reading flat; Ferrehan is the one that moves it, and what it requires is that somebody lie down inside the edge and sleep while somebody else stands over them by name. Both are measured across a full rotation rather than a session, because the quantity the place works in is hours awake and nothing shorter contains any of it.
 
-**Reading the response:** A falling reading under Ferrehan means somebody slept while somebody else kept watch — both halves are required, and sleep taken by a lone worker moves nothing. Stability under Viderehan is correct. The reading rises whenever rest is declined, deferred, or described in the chamber as something to be earned.
+**Reading the response:** A falling reading under Ferrehan means sleep was ordered and watched — both halves are required, and sleep taken by a lone worker moves nothing. Stability under Viderehan is the correct result and is not a null session. The reading rises whenever rest is declined, deferred, or described in the chamber as something to be earned, and it rises whether the person declining is refusing out of care for the roster or out of pride; the place does not distinguish, which is why the rota issues rest as a task rather than granting it as a favour.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -160,7 +160,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Torpor: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at Zone E, Border region, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+Torpor grows by being worked, and it grows without anything visible happening. The trigger is accumulation: each rotation pushed through without an ordered rest adds to the store, and the edge moves outward at a slow rate that the survey line measures rather than the eye. Record where the edge was at the start of the shift, where it was at relief, and the cumulative hours awake carried by the team between those two readings. The expansion will not be visible in the chamber, which is why the two readings are taken by different people.
 
 **Response sequence:** Establish the perimeter, identify whether the event is an expansion rather than an activation, withdraw personnel who are not rostered to sleep, and then satisfy the management condition, which is a guarded rest area with a named watcher and at least one person actually asleep in it. Report the watcher's name; an unwatched rest area has never moved the reading.
 
@@ -173,7 +173,7 @@ The escalation pattern is specific to Torpor: it is not a generic breach event. 
 | **Manifestation** | Place-Weight|
 | **Primary effect** | Personnel become sleepy, heavy, and unable to leave. |
 | **Duration / rate** | Slow across border camps. |
-| **Risk** | Critical (δ) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ). The exposure effect is not injury and not drowsiness: personnel who stay awake through a long rotation take on the site's own history, and the first sign is that they cannot hand the watch over to the person who has come to relieve them. |
 | **Management** | Establish a guarded rest area and permit sleep. |
 
 **Activation reporting order:** hours worked without a break by the team present → the acoustic edge before and after → the ground covered by the drift → whether anyone slept and who stood over them → the reading. The sleep field is a yes or no and is not to be reported as a percentage of the shift.
@@ -196,7 +196,7 @@ The weapon discharges high-pressure gusts of freezing, condensed breath harveste
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** A line of up to three. The weight settles along a row of people in the order they are standing, which on this post is usually the order of a watch handover.
+**Target Coverage:** A line of up to three, and the weight settles along it in standing order — which on this post is a relief handover, so the figure is logged against the roster rather than against the corridor.
 **Falloff Rule:** Full on the first, seventy per cent on the second, fifty on the third. What thins is the compulsion: the third reports having wanted to sit down rather than having been unable to remain standing.
 **Damage Application:** Record the strike and the residue separately. The Weight lands once; the fatigue persists through the following rotation and is the figure the medical office actually needs.
 
@@ -208,7 +208,7 @@ The weapon discharges high-pressure gusts of freezing, condensed breath harveste
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance:** a mantle of Weight Han-weave, matte and heavier than its bulk accounts for, that smells faintly of wet stone and grows heavier to the wearer over a shift the way a coat does in rain.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -218,15 +218,15 @@ The weapon discharges high-pressure gusts of freezing, condensed breath harveste
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Torpor's kind of pressure.
+**Ability:** Wards the Han against Weight — the reserves and the karmic debt this pressure goes after. On this post it is worn for the standing rather than for the strike: the mantle is what lets a watcher remain upright through an interval while the person they are watching sleeps.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** A constant low fatigue that the wearer stops reporting after the first season, which is why the roster, and not the wearer, is asked whether the piece should be reissued.
 
 ### M.A.W. Stigma — The Sleeping Breath
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a breath-token of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a breath-token of Weight Han-steel, matte and cold to the touch, that warms slightly when the person carrying it has gone past the point where they would admit to being tired.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -236,22 +236,22 @@ The weapon discharges high-pressure gusts of freezing, condensed breath harveste
 
 **Cost:** The wearer feels all the exhaustion the surrounding camp is suppressing, including the exhaustion of people who have insisted they are fine.
 
-*The breath-token is not manufactured. Torpor gives one to a worker who lay down on site and let somebody else watch, and has given none to a worker who volunteered for the extra rotation.*
+*The breath-token is not manufactured and cannot be requisitioned. The site gives one to a worker who lay down on it and let somebody else keep the watch; it has never given one to a worker who volunteered for the extra rotation instead. Three are held, and the service record of each bearer is checked before reissue.*
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Torpor and carries what Torpor carries: the wielder grows progressively heavier and ages slightly, in the manner of a person who has not slept properly for a season. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+Every piece in this set carries what the site carries — a body's debt for rest it never took — and pays it to the wielder as weight and as age, slowly, in the manner of a person who has not slept properly for a season. The grade describes extraction stability and not human safety; the cost is the column beside it, and it is why these pieces are issued one rotation at a time and returned to the shed rather than to the bearer.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Torpor's known toll: the wielder grows progressively heavier and ages slightly, in the manner of a person who has not slept properly for a season. Opened at the end of the rotation, not before. |
-| **During use** | Watch for Torpor's toll — the wielder grows progressively heavier and ages slightly, in the manner of a person who has not slept properly for a season — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wearer carries a constant low fatigue, and the wielder has stopped reporting it — the usual end point for a Torpor piece. The observer calls the limit. |
-| **After use** | Piece returned; re-assess a week later, because what Torpor takes (the wearer carries a constant low fatigue) does not present on the day. |
+| **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline. The toll here is weight and age arriving slowly, so the before-entry is the only one that can prove anything at the end of the rotation — and it is opened then, not before, by the supervisor rather than the wielder. |
+| **During use** | Watch the clock rather than the wearer: record the hour the piece first slows them, not the hour they first say so. A wearer who has stopped mentioning it is the usual state of a piece at its limit, and that silence is a recordable event on this set. |
+| **At limit** | Constant low fatigue, no longer reported. That silence is the limit on this set and the watcher calls it, not the wearer — the same rule as the site itself, where the person standing outside is the one who decides. |
+| **After use** | Piece returned to the shed; the bearer is re-assessed a week later, because what this set takes does not present on the day it is taken. A piece whose bearer misses the re-assessment is not reissued to them. |
 
-**Stat interpretation:** The grade describes how hard a piece hits and nothing a supervisor on this post needs. What the table cannot show is that the breath-token forces a moment of restorative calm on its wearer whether or not it is convenient, and that this is the only item in the archive to have been recorded as a cause of insubordination.
+**Stat interpretation:** The grades describe extraction stability rather than human safety. What the table cannot show is that the breath-token forces a moment of restorative calm on its bearer at a time of the site's choosing rather than theirs — which has produced exactly one recorded insubordination in the archive, and the file keeps the entry because the bearer was right.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced
@@ -268,18 +268,18 @@ Every piece in this set is a fragment of Torpor and carries what Torpor carries:
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Torpor as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone E, Border region. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Initial exposure** | Confirmed from outside the edge. The markers are the drop in sound — a tool landing as a breath rather than a clatter — the softness underfoot, and the fact that there is nothing whatever to see. Walk the edge and mark it before any depth reading is taken, and register the designation before the first shift inside. |
+| **Sustained observation** | Viderehan reads the duties that kept the original watch awake and holds the reading flat; Ferrehan is the one that moves it, and it requires a worker to sleep inside the edge under a named watcher. Nothing is engaged or confronted here. Observe across a full rotation: the quantity this record works in is hours awake, and a shorter session does not contain any of them. |
 | **Activation or escalation** | Sustained exhaustion and denied rest. Everything else in this row is secondary to getting that one fact written down accurately. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Torpor's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | The report is incomplete without the edge readings at both ends of the shift, the roster's cumulative hours awake, the name of the watcher and the name of the sleeper. The last two are the record of whether the condition was met, and a review that lists only what the place felt like has not recorded what the crew did. |
 
-**Observation method:** Record the first sign, which is your own footsteps going quiet; the first sensation, which is the ground seeming to give; the acoustic edge at entry and exit; the hours each team member has been awake; and the condition that ends the encounter, which is one person asleep and one person watching them. Record both names.
+**Observation method:** Log your own footsteps going quiet as the first sign and the give in the ground as the second; take the acoustic edge at entry and at relief and have the two readings made by different people. Both names go down — sleeper and watcher — because an unwatched rest has never moved the reading. Record the team's cumulative hours awake, without which the session cannot be entered in the series.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Torpor (N-IVδ-157 [WP]) is logged as a Place-Grudge manifestation expressing Weight. The Sigh formed from exhaustion that had no safe place to rest. Held at Zone E, Border region. It is most dangerous when personnel refuse to rest.
+Containment file for N-IVδ-157 [WP], the holding called Torpor: an Object/Place with a Place-Grudge manifestation of Weight, formed from exhaustion that had no safe place to rest and held at Zone E on the border. The site is quietest when somebody is asleep inside it, and the figure the record turns on is not the gauge but the hours the crew have been awake.
 
 **Entry 2 — <Border Watch Rota, Eleven Years>**
 The rota survives entire: eleven years, four names to a night, each name initialled on waking. The sleep column is filled in on every line. What the archive noticed only on the third reading is that the watch column is filled in on every line as well, by the same four people, which means that across eleven years of records nobody was ever recorded as asleep while a different name held the watch. They covered for each other on paper. The ground took the paper at its word.
@@ -295,11 +295,11 @@ The management condition requires this facility to order personnel to sleep on d
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Torpor; the other feeds it.
+> The choice at the end of a shift is what the crew does with the roster: order the rest and stand over it, or finish the work and let everyone get some sleep later.
 
-| Establish a guarded rest area and permit sleep. | Depart from the condition for good reasons, as Torpor's record shows people do. |
+| Order the rest, name the watcher, and let somebody be asleep on the ground while the shift is still running. | Finish the rotation first and let people rest afterwards — the departure the record shows every reasonable crew making, and the one that moves the edge. |
 |---|---|
-| Tests whether the worker can sleep without abandoning duty. The sorrow is borne; Torpor is fully recorded. | Reveals the duties that kept people awake. The gauge climbs and Torpor withdraws without revelation. |
+| The sleeper is asleep, the watcher is standing, and the edge holds where the survey line was taken. The record closes. | The crew stays awake and finishes; the edge advances past the day's marker and the shift is entered as an expansion. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -308,30 +308,30 @@ The Border becomes silent. Your breath slows, and the ground seems to hold you g
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A quiet border place where every sound becomes a sleeping breath. The ground is soft and the air presses downward. Notable Features: It stores exhaustion, suppresses movement, and appears peaceful while carrying immense pressure. Identification Profile: The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Place-Grudge form.
+**At first contact:** There is nothing to see and that is the first detail. The border goes quiet on approach — not silent, but softened, so that a boot on stone arrives a half-beat late and with no edge on it. The ground gives underfoot as though recently dug, and the air comes down on the shoulders with a weight that the crew invariably describe as pleasant before they describe it as wrong.
 
-**With continued exposure:** Time in the containment zone moves differently. The Weight pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Grudge is teaching you its sorrow.
+**With continued exposure:** The wish to leave thins out and the wish to sit down arrives dressed as good sense. Nothing about it feels like pressure; it feels like the end of a long day, and that is the inversion the briefing spends most of its length on. The edge is measured from outside by the watch, because the crew inside it stops reporting conditions and starts reporting relief.
 
-**When the entity activates:** When the Gauge tips, the Weight becomes a force rather than a feeling. The Place-Grudge was holding; now it releases.
+**When the entity activates:** At the threshold the pressure changes character. What was a pleasant heaviness becomes a downward force with direction to it, the hush widens past the marked edge, and the crews inside find that the ground no longer bears their weight; the site does not attack, it settles.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Weight in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** Out past the edge, the pressure drops and the body discovers it has been carrying something. The crew come back heavy, sleep for unearned hours, and are useless for a rotation afterwards; the boards are counted back and the tally is the only part of the procedure that has never been revised.
 
 ### Interaction Pattern
 
-Torpor does not exist in isolation. Its recorded relationships with The Wandering Sigh, The Sleeping Weight, The Guardian of the Gate should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three records are filed alongside this one because all four stand on the same border ground and all four carry a watch's exhausted history; the archive pairs them on that basis rather than on any observed contact. The measurable question is narrow: whether the edge moves toward the other holding, whether the drift changes bearing, and whether anybody in the overlap slept — which has happened once, and the entry is the most useful line in the interaction file.
 
 **Interaction method:** Baseline across a full rotation rather than a session, because the measurement is hours awake and nothing shorter contains any. In shared conditions record whether the acoustic edge moved toward the other entity, whether the drift changed bearing, and whether anybody slept during the overlap — the last has happened once and the result is the most useful line in the interaction file.
 
 
 ### Entity Interaction Record
 
-Torpor is filed with the Zone E border records, several of which come from the same long posting. The relationships below are what the archive will support. They are not alliances; they are what a watch leaves behind, and in proximity each makes the others' ground harder to stand on for a full shift.
+The Zone E border records mostly come from the same long posting, and these three are the ones whose material can stand on the same ground. None of the three is an ally or an enemy, and no co-presence is on file with both holdings' readings attached except where a row says otherwise.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Wandering Sigh** | The Wandering Sigh enters and settles here. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Sleeping Weight** | Both preserve exhaustion as responsibility. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Guardian of the Gate** | The Guardian refuses to sleep near the Gate. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Wandering Sigh** | The Sigh moves through and settles here, which makes this the only record in the group with an arrival in it. | Entered as a shared ground rather than a measured effect: the drift bearing is the instrument, and a bearing that reverses while the Sigh is present is logged as unattributed. | Record the edge and the bearing before, during and after, and whether the Sigh's own reading moved in the same direction. |
+| **The Sleeping Weight** | Both keep what a watch could not put down; one stores the exhaustion and the other carries it. | Entered as a shared subject. The overlap is the file's standing question — whether the stored hours are added to or drawn on — and it has not been measured with both readings attached. | Record both readings at the edge, the cumulative hours awake in the crew, and whether the drift continued once the other holding withdrew. |
+| **The Guardian of the Gate** | The Guardian will not sleep near the Gate and this place will not let anyone sleep unwatched; the two rules are kept side by side. | One co-presence is on file in which the edge stopped moving for the length of the overlap and resumed after; the entry is retained as the group's only null result. | Record both readings before, during and after, the bearing at separation, and the roster hours of everyone present. |
 
 **Interaction procedure:** Full-rotation solo baseline first, then the shared encounter: the acoustic edge before, during and after, the bearing of any drift, how long the drift continued once the other entity withdrew, and the team's cumulative hours awake. Sessions without the hours recorded are not comparable and are not to be entered in the series.
 
@@ -361,18 +361,18 @@ Some sorrows are about danger. Torpor is about the weariness of watching for dan
 > *“The weariness that gave up on bodies and sought rest in the earth.”* — Elder, Border District
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IVδ-157 [WP]` · Per classification origin · Per classification coherence · Per classification potency · Weight · Place-Grudge manifestation
+**Classification:** Sorrow Entity — `N-IVδ-157 [WP]` · Inner Sorrow (내한) · Entity (IV) coherence · Critical (δ) potency · Weight · Place-Grudge manifestation
 **Common Name:** Torpor
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Per entity classification. See SECC Classification table for details.
+**Threat Assessment:** Critical (δ), and the rating is reviewed on the roster rather than on the reading. The operative figure is the hours the crew have been awake: the edge advances on work pushed through without an ordered rest, and it has never advanced on the site being left alone.
 **Containment & Handling Procedures:**
 - Refer to the Work Type responses in the Behavior section, and note that two of the four are unavailable, which is standard for an Object/Place record and not an omission.
-- Standard containment protocols apply.
+- The standard schedule applies as far as it can. The holding is ground rather than a body, so the perimeter is drawn on the survey line and walked at each rotation, and every entry is made under the roster rather than at the discretion of whoever is on shift.
 **Observation Notes:**
 - See Origin section for formation details.
 - See Combat Record for engagement parameters.
-**Cross-References:** See entity’s interaction record and cross-references in the full file.
+**Cross-References:** Three border filings share the ground rather than the encounter — The Wandering Sigh, The Sleeping Weight and The Guardian of the Gate; the interaction rows state the extent of each, and none of the three has a co-presence on file with both readings attached except where a row says otherwise.
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** The border watch of Zone E, collectively; the rota survives and no individual originator is recoverable from it.
 
@@ -422,8 +422,8 @@ Vehicles turn on the standing and leave facing outward. The instruction is unwri
 
 ### Registry Trivia
 
-- **Classification detail:** Torpor is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone E, Border region.
+- **Classification detail:** Torpor is filed at Critical (δ) with Entity (IV) coherence and an Object/Place role; the resistance line reads 45 / 35 %, the encounter is balanced at 24 turns, and neither figure has ever decided a shift.
+- **Field detail:** Weight is the defining element and the registered location is Zone E, Border region. The sheet stands at 910 / 910 with a starting gauge of 60–80 %, a yield of 20–28, an activation threshold at a gauge of 90 % or above, and the Waking Giant waiting at 65 %; the figure the roster actually watches is the hours awake, which is not on the sheet at all.
 - **Recognition detail:** Identify it by the sound. Several Zone E records are described as quiet; this is the one in which a sharp noise arrives as a breath, and there is nothing at all to see.
 - **Record detail:** Check the designation before entry. More than one border record involves sleep, and they differ on the decisive point — this one requires that somebody actually sleeps, on site, while watched.
 - **Containment detail:** Containment holds ground, not exhaustion. The area widens with nobody in it whenever a shift elsewhere on the border is pushed through, and the containment reading is the acoustic edge against the survey line, not the state of any barrier.
