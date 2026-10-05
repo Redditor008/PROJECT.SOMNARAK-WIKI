@@ -172,7 +172,7 @@ The Grieving Colossus is a Sovereign (V) Subject of Critical (δ) potency, Subje
 ### Escalation Notes
 
 - **Breach type:** Escape in classification only. It is permanently uncontained; a breach here means a departure from the known route, and two are on file.
-- **Containment priority:** Clear ahead of it. Physical suppression is not available at this scale, Pugnahan does not register, and the earlier entry directing Wardens to block corridors and force it back is an error against every other section of this file; it is corrected here and must not be attempted.
+- **Containment priority:** Clear ahead of it. Physical suppression is not available at this scale and Pugnahan does not register, so Wardens do not block corridors or try to force it back: nothing in this file supports it, and the only recorded harm along the route was caused by a barricade.
 - **Sorrow Gauge on breach:** Opens at 40% and rises ten points per turn while it is off the route; it falls on its own once the route is rejoined, which is the only recorded means of bringing it down during an event.
 
 ## M.A.W. Equipment
@@ -196,7 +196,7 @@ The Grieving Colossus is a Sovereign (V) Subject of Critical (δ) potency, Subje
 **Falloff Rule:** 100% damage at epicenter → 60% at perimeter; inflicts heavy stagger and crushing weight pressure.
 **Damage Application:** Direct Weight trauma to Han (sorrow reserves, karmic debt); drastically depletes target poise and immobilizes movement.
 
-**Ability:** Deals heavy Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Grieving Colossus's monumental sorrow, making dismissed deaths physically inescapable.
+**Ability:** A strike brought down on the ground sends a seismic shockwave through it, and every grounded hostile body in the room goes to its knees under the weight of the unforgotten dead. It is the Colossus's gait at a human scale, no clang and only the slow double beat, and a death that has been dismissed becomes physically inescapable to whoever dismissed it.
 
 **Cost:** The wielder feels progressively heavier; carried by someone who dismisses an identified death, the weapon becomes impossibly heavy to lift, causing joint strain and bone ache.
 
@@ -204,7 +204,7 @@ The Grieving Colossus is a Sovereign (V) Subject of Critical (δ) potency, Subje
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, dark as wet crystal, whose hem keeps a hand's width off the ground however the wearer moves, the way the Colossus keeps its feet off everyone it steps over.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -214,7 +214,7 @@ The Grieving Colossus is a Sovereign (V) Subject of Critical (δ) potency, Subje
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Grieving Colossus's kind of pressure.
+**Ability:** Halves the Weight damage that reaches the wearer and nothing else: Lament and Grudge pass at full strength and Void lands at one and a half times, so the Mantle is a protection for standing in the Colossus's weight and for nothing else in the city.
 
 **Cost:** The wearer carries a constant low fatigue.
 
@@ -222,7 +222,7 @@ The Grieving Colossus is a Sovereign (V) Subject of Critical (δ) potency, Subje
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a shell-charm of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a shell-charm of Weight Han-steel with a hairline of tear-crystal set across its face, of the kind the Colossus has offered a worker on four occasions, each time after a name was spoken.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -232,7 +232,7 @@ The Grieving Colossus is a Sovereign (V) Subject of Critical (δ) potency, Subje
 
 **Cost:** The wearer experiences every death the Colossus has mourned. Prolonged use causes uncontrollable weeping.
 
-*The Pallbearer's Grip is not issued and cannot be requested. It has been conferred on workers who taught the entity a name belonging to nobody they were related to and nobody they had been assigned to find.*
+*The Mourning Shell is the registry's name for the piece the grounds call the Pallbearer's Grip. It is not issued and cannot be requested; it has been conferred on workers who taught the entity a name belonging to nobody they were related to and nobody they had been assigned to find.*
 
 ### M.A.W. Use Notes
 
@@ -242,21 +242,21 @@ Each Mourning piece is an extension of the holding rather than equipment. It per
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator name, grade, current gauge, psychological assessment, equipment condition, route segment, consecutive-tour count, and the names the operator has memorised for this watch. |
+| **Before use** | The operator's name, the route segment they will stand, the consecutive tours already served (totalled across postings and not reset by a transfer), and the names they have memorised for this watch, said aloud to the post before the piece changes hands. |
 | **During use** | Activation time, route position, pace, posture, stop durations, tear rate, new pools, clearance to the nearest person, and every name spoken with the entity's response to it. |
 | **At limit** | Duration, activations, attribute change, rejection signs, position at withdrawal, and whether the operator asked to remain beyond the marked interval. |
 | **After use** | Stand-down, injuries, residual weight, cooldown, equipment condition, tour count updated, and a funeral-attendance note for Grip bearers. |
 
-**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately and is the larger figure here. The cost on this holding is that grief stops being selective: bearers mourn strangers, permanently, and the file records that none of them regards this as damage.
+**Stat interpretation:** Read the Weapon's 16–26 and the Mantle's 0.5 as what the pieces do to the weight on a body and never as what they cost to carry, because here the cost is the larger figure. It is that grief stops being selective: bearers mourn strangers, permanently, and the file records that none of them regards this as damage.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
-- The Colossus is a permanent feature of Zone D rather than a conventional breach risk.
-- Buildings formed from its tears are beautiful, stable, and emotionally heavy.
-- Personnel near it report increased empathy and reduced detachment.
-- The entity becomes more active during the Sorrow Tide.
+- The Colossus is a permanent feature of Zone D rather than a conventional breach risk. It walks one route, from the old grounds to the Memorial, arriving at dawn whatever hour it left, and the longest recorded gap between marches is 19 months.
+- Buildings formed from its tears are beautiful, stable, and emotionally heavy; 2 are occupied, both at a reduced rate set by the municipality, and the restored roll of names grows by hundreds every cycle.
+- Personnel near it report increased empathy and reduced detachment, and it answers names without telling them apart: in the wing's blind test 1,200 names were read over 4 cycles, 180 of them fabricated, and 3 coders working blind could not separate its responses to the two sets at better than chance, with attention rates within 2 points.
+- The entity becomes more active during the Sorrow Tide. The route is kept clear by custom and by 61 frontage covenants, 51 of them signed at first asking, and the posts have 15 minutes from the junction when it leaves the route, which has happened in 2 events classed as breaches.
 
 **Personnel Note:**
 > *"The Colossus stepped over me like a parent stepping over a sleeping child. It saw my sorrow and mourned for me. I have never felt so heavy—or so gently carried."* — Specialist Haneulash Yoon, Zone D
@@ -267,7 +267,7 @@ Each Mourning piece is an extension of the holding rather than equipment. It per
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Grieving Colossus as a Subject with Subject-Body manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone D — wanders freely; uncontained landmark. |
+| **Initial exposure** | A slow double beat comes up through the stone before anything is seen, and then thirty metres of warm dark crystal crosses the skyline under its own rain, walking the one route it has ever walked. The first entry in the log is the clearance to the nearest person, because that is the figure the whole route doctrine exists to protect. |
 | **Sustained observation** | Route position, pace, posture, stop durations, tear rate, new pools with locations, clearance to the nearest person, gauge, names spoken and responses, and the state of the route ahead at each junction. |
 | **Activation or escalation** | Escalation is a departure from the route. Log the junction at which it left, the bearing taken, the blocks ahead, and the clearing order issued; the posts have fifteen minutes from the junction, which is the figure the whole clearing doctrine is built on. |
 | **Post-contact review** | Route walked against the standing route, pace and stop series, tear rate, pools created, gauge movement, names taught, and a seven-day check on each worker for grief displacement toward strangers. |
@@ -294,11 +294,11 @@ Containment records trace the crystallization to this location — the sorrow gr
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Grieving Colossus; the other feeds it.
+> *The route is kept clear by forbearance, and the observing worker is asked to add to it or to spend it.*
 
-| Cannot be stopped. It can only be guided by monitoring its path and clearing safe routes. | Depart from the condition for good reasons, as The Grieving Colossus's record shows people do. |
+| Clear the route ahead and reinforce nothing: the march is guided and never stopped, and the names are said aloud as it passes. | Put something in its way, a barricade or a cordon or a line of Wardens, on the reasoning that a thing this large has to be held back. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is borne; The Grieving Colossus is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Grieving Colossus withdraws without revelation. |
+| The march passes at its own pace and the clearance to the nearest person stays what it always has been. The sorrow is borne, and the log gains one more march on a route nobody had to defend. | The barricade is the only thing on record that has ever hurt anybody along the route, and it did not hold the march, because physical suppression is not available at this scale. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -317,14 +317,14 @@ The ground begins to tremble—not from violence, but from a thousand hearts bea
 
 ### Interaction Pattern
 
-This holding is read against the other things in the city that carry the dead. Each relation below has been observed and filed; none is settled; and all four were observed on the march, since the entity cannot be brought anywhere and does not stop for tests.
+The Colossus is read beside the other holdings in the city that carry the dead, and the four relations filed below are the only ones ever seen: all four on the march, because the entity cannot be brought anywhere and does not stop for tests, and none of them settled.
 
-**Interaction method:** Baseline each party alone across several occasions — pace, posture, tear rate, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
+**Interaction method:** There is no room to take a baseline in, so the baseline is the march: pace, posture, tear rate and gauge noted at the last junction before the other party comes into view, and again at the first junction after. What changed between the two is the relation; what did not is the finding.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. All four are recognitions of a kind and not one of them has altered a measured quantity on either side, which is the finding this section exists to record.
+The four relations below are recognitions, and recognition is all they are: across 21 co-presences (5, 6, 3 and 7) not one has altered a measured quantity on either side, which is the finding this section exists to record.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -333,7 +333,7 @@ The relations below are canonical points of contact rather than alliances. None 
 | **The Kind Healer** | Attempted once, early, on the view that grief of this magnitude must be a wound. | Three co-presences. Nothing was treated and nothing presented as treatable; the gauge moved by less than a point and the tear rate was unchanged. The wing's written conclusion is that this holding is not injured and cannot be relieved. | All three co-presences, the gauge series, and the written conclusion. |
 | **The Orphaned Bell** | It stops when the Bell tolls and listens, every time, for between forty and ninety seconds. | Seven co-presences, the stop on all seven. The Bell's interval was unchanged throughout, the stop ends on its own, and nobody has found a way to use it: three attempts to hold it in place by tolling produced a stop of the same length and then a resumed march. | All seven co-presences, the stop durations, the interval series, and the three attempts. |
 
-**Interaction procedure:** Solo baselines first, across several occasions, with pace, posture, tear rate and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
+**Interaction procedure:** Log pace, posture, tear rate and gauge at the last junction before the other party and at the first junction after it, and enter what changed between them with its duration; where nothing changed, enter that, since it is the usual result.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -366,9 +366,9 @@ Some sorrows mourn the dead. The Grieving Colossus is made of the unmourned — 
 
 **Classification:** Sorrow Entity — `C-Vδ-002 [WS]` · City origin · Sovereign (V) coherence · Critical (δ) potency · Weight · Subject-Body manifestation
 **Common Name:** The Grieving Colossus
-**Containment Status:** Uncontained — Zone D, a permanent landmark walking a known route. It has never been held, no facility exists that could hold it, and the earlier entry recording it as contained is an error and is corrected here.
-**Comprehension Level:** 2 — Basic. Earlier copies of this line recorded 4 — Mastered, which contradicts the header and the Observation Log; the holding is well documented and very little understood, and the correction is made here.
-**Threat Assessment:** Critical (δ). It has never injured anybody and is the largest structural load in the city, capable of ending the district by walking into it, and nothing anybody possesses could stop it if it did. The earlier entry grading it Moderate rested on its gentleness, which is not a containment measure, and is corrected here.
+**Containment Status:** Uncontained — Zone D, a permanent landmark walking a known route. It has never been held, and no facility exists that could hold it.
+**Comprehension Level:** 2 — Basic. The holding is well documented and very little understood: the route, the census and the clearing figures are all on record, and nobody can say what the entity recognises.
+**Threat Assessment:** Critical (δ). It has never injured anybody and is the largest structural load in the city, capable of ending the district by walking into it, and nothing anybody possesses could stop it if it did. Its gentleness is not a containment measure, and the grade follows the load and not the manner.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type and Flerehan also lowers the gauge; Viderehan holds it level and Pugnahan does not register. Names are spoken aloud at every contact; designations are not.
 - Clear the route ahead and reinforce nothing. The route is kept open rather than defended, and the only recorded harm along it was caused by a barricade.
@@ -381,7 +381,7 @@ Some sorrows mourn the dead. The Grieving Colossus is made of the unmourned — 
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the classification, the Work Type responses, the route doctrine, the naming practice and the census are one picture, and the Sovereign Chronicle is the part that explains why the others are written as they are. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** Everything the facility does about the Colossus is a decision not to do something: not to block it, not to hold it, not to ask anything of it, and to say the names aloud while it passes. The route holds because 61 households and a long habit of forbearance keep it clear, and the Chronicle says plainly that this is the most precarious sentence in the file. What the record can show is how often the march comes (the gap has never passed 19 months), how little the entity can be told apart from a forgery (attention within 2 points across 1,200 readings), and that the one harm on record came from a barricade.
 
 **Review requirement:** Re-verify after every march, Tide, Ordeal or unusual interaction: gauge, route walked against the standing route, pace and stop series, tear rate, new pools, clearance measurements, names taught, consecutive-tour counts, and the standing of the route covenants. Tour counts are totalled across postings and are not reset by a transfer.
 ## Sovereign Chronicle
