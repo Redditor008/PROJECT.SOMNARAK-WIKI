@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **140 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **113 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **90 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **142 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **114 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **91 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 194 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 195 / 302 |
 | Archive median prose generic fraction | 0.029 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1135,6 +1135,29 @@ section-clean 112 → **113 / 301**; residue-free 140 / 302, file-clean 194 / 30
 **Batch 9 continues at the floor of three**; the second unit is measured at the batch head, never carried
 over.
 
+**Batch 9, unit 2: The Mewgical Girl `N-IVδ-901` closed.** Re-measured at the head (`3005d6a`): **3 dirty
+sections**, worst Breach Behavior 0.548 (a 42-gram section, so a single stock row dominates it), then
+최종 관찰 (Final Observation) 0.114 and M.A.W. Equipment 0.079; `tpl.py` residue 3, `verify.py` residual 1,
+and **both clauses open** — `condition` False and `series` False — with the file at 5,548 words against the
+6,000-word floor. All three sections closed, the three residue rows and the residual reworded, and both
+clauses closed: the condition by a bespoke `**Management**` row (address both voices by name, record which
+persona leads, never force a choice; suppression only if the drain rises for two consecutive turns, with the
+two recorded separation attempts standing as the reason), and the series by a Registrum line restating the
+file's own figures (2.0 m / 1.7 m / 60 cm / 837 / 837 / 60–80 % / 20–28 / 35 / 20 % / 20+ turns /
+3.10 m/s) — a **restatement**, disclosed. Three splices repaired as cause: the Use Notes trailing fragment
+("by the entity upon a successful work, not manufactured."), the Interaction Pattern's `to repeat;`
+fragment, and a doubled opening quotation mark; the two remaining double dots are deliberate dialogue
+ellipses, read and left alone. **Growth: 5,548 → 6,157 words**, from the file's own canon — the Breach
+escalation notes (containment priority, what ends a roam), two Observation Progression rows (State change,
+Transition), the M.A.W. Use Notes' Suit toll and the Bell's unpredictable grant, the interaction section's
+persona-by-persona filing note, and two Trivia bullets. Movement: `R-29` 90 → **91 / 301**, condition
+248 → **249**, series 213 → **214**, section-clean 113 → **114 / 301**, residue-free 140 → **142 / 302**
+(instances 490 → 478, carriers 162 → 160, distinct residue lines 38 → **37**), file-clean 194 →
+**195 / 302**, median and worst unchanged at 0.029 / 0.156. One of the two residue-free files and one of the
+two file-clean files are **spillover**: the shared Escalation line dropped to nine holders, below the
+ten-holder threshold, and stopped counting against every remaining carrier. **Batch 9 continues at the floor
+of three**; the third unit is measured at the batch head, never carried over.
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1151,8 +1174,9 @@ per-section fraction in the archive) — and **Redcage `C-IIIγ-120` came off it
 it), and **Flowing Seed `N-IIIγ-628` came off it in batch 8's third unit** (8 dirty, worst 기록 (Registrum)
 0.576 — the batch-8 head at `f19c6ec`). The batch-9 tier, re-measured at that commit: **Blessing Giver `C-Iα-071b` was the head** (3 dirty,
 worst 기록 (Registrum) 0.568, 3,507 words below the 6,000-word floor, condition open) and **came off the
-list in batch 9's first unit**. Behind it, to be re-measured again at the next head: The Mewgical Girl
-`N-IVδ-901` (3, 0.548, condition open, 5,548 words), Cleaved `C-IIβ-775` (7, 0.548, residual 2), Rem
+list in batch 9's first unit**. Behind it, to be re-measured again at the next head: **The Mewgical Girl
+`N-IVδ-901` came off the list in batch 9's second unit** (3 dirty, 0.548, both clauses open, 5,548 words,
+now 6,157); the tier behind it: Cleaved `C-IIβ-775` (7, 0.548, residual 2), Rem
 `C-IIβ-135` (8, 0.541), Broken Clocktower `C-IVγ-240` (7, 0.529), Unheard `C-Iα-965` (7, 0.523, residual 2),
 Forgotten Shadow `N-IIβ-453` (6, 0.471 — it fell from 0.558 as the shared-shingle corpus shrank through
 these units); the older batch-7 names (The Lost Prince, Mirror of Soaking, Frozen Fury, Mourner's Bloom)

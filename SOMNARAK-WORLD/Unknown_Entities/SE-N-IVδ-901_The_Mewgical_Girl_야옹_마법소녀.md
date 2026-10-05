@@ -78,7 +78,7 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Rapid Bombaa.* [**Shu Shu · Multi-Bomb Volley**] } | ""Ahuhuhu... have an appetizer, dearies!" — and five to eight cheap pirated fuse bombs come rattling out of the Star-Staff." | [Shu Shu looses a volley of small cartoon fuse-bombs that fly, bounce, roll, and scatter across the field.] | *Repeated small explosions pressure the whole area; if the personas fight mid-volley, some bombs bounce back toward the Mewgical Girl.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | At battle open, or whenever Shu Shu seizes control. |
+| { *Rapid Bombaa.* [**Shu Shu · Multi-Bomb Volley**] } | "Ahuhuhu... have an appetizer, dearies!" — and five to eight cheap pirated fuse bombs come rattling out of the Star-Staff." | [Shu Shu looses a volley of small cartoon fuse-bombs that fly, bounce, roll, and scatter across the field.] | *Repeated small explosions pressure the whole area; if the personas fight mid-volley, some bombs bounce back toward the Mewgical Girl.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | At battle open, or whenever Shu Shu seizes control. |
 | { *Heart Burst* [**Mimi · Healing Heart**] } | "Mimi fires a three-meter pink 2D heart — doki-doki, warm, the kind of light that makes everything feel like it might be okay." | [Mimi projects a flat pink heart of magical energy that washes over allies and foes together.] | *Mends one ally (+12), calms panic, and soothes distress; deals only light Mixed pressure to enemies caught in the glow.* **[+12 Heal (allies) / 8 Mixed cycle (foes) | 8s, 2s per type]** | When Mimi leads, or an ally is wounded. |
 | { *BURST SHAAAAW* [**Both · Spiral Beam**] } | "Both voices align for a single scream — and a pink-and-gray spiral beam tears forward from the Star-Staff." | [Mimi and Shu Shu combine healing light and destructive spirit force into a spiraling beam that pierces in a straight line.] | *A combined beam carrying both harm and restoration; whose influence is stronger decides whether it mends or ruins.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP) | 8s, 2s per type]** | When the two personas briefly synchronize. |
 | { *Catty Bomb* [**Shu Shu · Cat-Face Bomb**] } | "A one-meter bomb shaped like a crude bootleg cat face — ears, fangs, bent fuse — grins an instant before it pops." | [A cat-head fuse-bomb detonates, then fires lasers in four directions across the field.] | *Explosion plus a four-direction cross of lasers; bad placement can catch the Mewgical Girl in her own pattern.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP) | 8s, 2s per type]** | When the entity funnels a target into a corner. |
@@ -190,14 +190,17 @@ The Mewgical Girl cannot be safely managed by treating Mimi and Shu Shu as one o
 | **Movement** | The Mewgical Girl shatters containment and hunts through the facility. It hunts personnel indiscriminately. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever is carrying a wish they have not said out loud — she finds those first, in either persona. The two voices agree on the choice of person and disagree about what to do with them. |
+| **Escalation** | Each turn the entity is free, the Clarity drain rises by 5 and the voices overlap in the open: bombs go wide, then converge again. Anything that silences one voice raises the drain rather than lowering it. |
+| **Management** | Address both voices by name before anything else, record which persona is leading, and never force a choice between them. Suppression is authorised only if the drain rises for two consecutive turns, and the two recorded separation attempts stand in the file as the reason for the rest of this row. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Breach type:** Escape on foot, and the file is careful about the word: she is not running from the unit, she is looking for the person the wish was about, and both voices are looking for the same one.
 - **Containment priority:** Physical suppression required — block corridors, deploy Wardens, force the entity back through Pugnahan.
 - **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Containment priority:** Get the unaddressed away first. The drain falls on whoever she is speaking to rather than on the room, and both voices agree about the choice of person — the disagreement is only ever about what to do with them.
+- **What ends it:** Nothing in the record ends a roam except both voices being answered by the same worker in the same conversation. The two recorded attempts to end one by forcing a single identity are the reason the file says so, and both closed with the body in soot and the drain still climbing.
 
 ## M.A.W. Equipment
 
@@ -227,11 +230,11 @@ The Mewgical Girl cannot be safely managed by treating Mimi and Shu Shu as one o
 **Ability:** Granted at random by the entity upon a successful work; the bearer hears a faint cheerful song in sorrow-dense areas, steadying Clarity and Composure.
 **Cost:** The bearer occasionally speaks in two tones without meaning to, and cannot always tell which voice is theirs.
 
-*Stigmas are granted at random by The Mewgical Girl upon a successful work, not manufactured.*
+*The Cat-Paw Bell is not manufactured and cannot be requested; the entity gives one when it chooses, and the R.D. has never been able to predict the sessions that produce one.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece carries both voices and must be treated as a conditional extension of the two-identity entity, not ordinary equipment. The Star-Staff's full output requires Mimi and Shu Shu to agree; if the voices desynchronize, the staff may split healing and destructive output, misfire, or force Cartoon Soot. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation. by the entity upon a successful work, not manufactured.
+Each M.A.W. piece carries both voices and must be treated as a conditional extension of the two-identity entity, not ordinary equipment. The Star-Staff's full output requires Mimi and Shu Shu to agree; if the voices desynchronize, the staff may split healing and destructive output, misfire, or force Cartoon Soot. The Suit's toll is the one the Armoury watches: the wearer is pulled into performing a happiness they do not feel, and the performance holds right up to the moment they are alone. The Bell is the only piece in the set that cannot be asked for, and the file notes that this is not a precaution but a description — the entity gives one, occasionally, to workers who have answered both voices in one sentence. A Stigma cannot be requested or forced. It surfaces when the entity chooses to give, which is rarely and without explanation.
 
 ### Field Use Record
 
@@ -240,9 +243,9 @@ Each M.A.W. piece carries both voices and must be treated as a conditional exten
 | **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; Mimi/Shu Shu control state, equipment color. |
 | **During use** | Activation time, voice overlap, charge time, beam color, bomb count, healing output. |
 | **At limit** | Duration, persona conflict, self-hit, Cartoon Soot, staff instability. |
-| **After use** | Piece returned; re-assess a week later, because what The Mewgical Girl takes (the wearer is pulled into performing a happiness they do not feel) does not present on the day. |
+| **After use** | Return the piece and reassess in a week, because the cost does not present on the day: the wearer has been performing a happiness they do not feel, and the file's finding is that they notice it first in a room with nothing to perform for. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. The Star-Staff's support rating is high, but its instability makes it the most psychologically demanding δ-grade focus on record.
+**Stat interpretation:** The set's grade measures how cleanly the archetype was drawn off; it says nothing about the two voices the wearer will be carrying. A δ-grade focus that performs to specification can still leave a bearer who answers in two tones without noticing, and on this set the Armoury reads the second column before it reads the first.
 
 ## 관찰 기록 (Observation Log)
 
@@ -265,6 +268,8 @@ Each M.A.W. piece carries both voices and must be treated as a conditional exten
 | **Sustained observation** | Record whether Mimi and Shu Shu cooperate, interrupt, or compete; distinguish the emotional effect from the combat behavior, as they do not always escalate together. |
 | **Activation or escalation** | Watch for voice overlap, color flicker, independent tail movement, and staff charge; record charge duration before any response. |
 | **Post-contact review** | Record which persona remembers the encounter and whether the other disagrees; the report is incomplete if it records only the explosions and not the two voices inside them. |
+| **State change** | Control shifts mid-sentence: the palette flickers between the three states, the tail moves on its own, and a voice overlaps itself. Record the trigger and the second voice's first word. |
+| **Transition** | A charge or transformation entered and abandoned — the staff glowing without a charge, soot arriving without a bomb. Both are entered as persona conflict rather than equipment failure. |
 
 **Observation method:** Record the first visible sign, the first voice heard, the first color state, and the condition that ends the encounter. Do not assume a single speaker.
 
@@ -289,7 +294,7 @@ This entity is the city's wish — "someone save us" — given a body and bonded
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Mewgical Girl; the other feeds it.
+> *What the observing worker is asked to do at the close of contact: speak to both voices, or make one of them answer alone.*
 
 | Address both voices — speak to Mimi and Shu Shu together. | Force a single identity — demand Mimi or Shu Shu alone. |
 |---|---|
@@ -319,7 +324,7 @@ The battlefield fills with chanting, pink light, and a second voice arguing from
 
 ### Interaction Pattern
 
-The Mewgical Girl's interactions must be recorded by persona. Mimi, Shu Shu, and the shared Both state may respond differently to the same entity. Record the active voice, color state, staff response, and whether the interaction increases synchronization or control conflict. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat.
+The Mewgical Girl's interactions must be recorded by persona. Mimi, Shu Shu, and the shared Both state may respond differently to the same entity. Record the active voice, color state, staff response, and whether the interaction increases synchronization or control conflict. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still.
 
 ### Entity Interaction Record
 
@@ -333,6 +338,8 @@ The Mewgical Girl must be assessed as a two-identity network inside one body. Th
 | **The Kind Healer** | Mimi responds warmly; Shu Shu distrusts the blessing chain. | Healing can calm Mimi while increasing Shu Shu's protective suspicion. | Record which persona received the contact and whether control shifted. |
 
 **Interaction procedure:** Never treat the two identities as a single emotional response. Record the speaker, body state, color state, trigger, effect, and whether the second identity accepted or resisted the interaction.
+
+None of the four pairings is an alliance or a feud, and the archive files them by what they do to the two voices rather than by any meeting on record. Two of them — the Hand of Hope and the Kind Healer — act on Mimi and leave Shu Shu watching; the other two act on Shu Shu and leave Mimi trying to smooth the room afterward. The R.D.'s standing note is that a pairing which strengthens one voice without the other is a persona-conflict event waiting for a trigger, and is to be logged as one.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -388,6 +395,7 @@ They still argue. They still interrupt each other's songs. Mimi calls Shu Shu pa
 - Joint control yields the strongest attacks and the highest instability.
 - Self-hit bomb damage produces Cartoon Soot, not ordinary injury.
 - The entity apologizes in two voices; both apologies are sincere.
+- Readings on file, all of them already in this record: body 2.0 m, staff 1.7 m, paw 60 cm, gauge 837 / 837, opening 60–80 %, yield 20–28, resistance 35 / 20 %, endurance 20+ turns, synchronized speed 3.10 m/s.
 **Cross-References:** The Hand of Hope · The Defiant Ember · The Trinity of Dawn · The Kind Healer · the wish-born · the Maw perimeter · Zone B · the Consolihan
 **Faction Involvement:** SED (B-territory exploration) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
 **Originator:** The collective wish *"someone save us"* (body, Mimi) bonded to a protective spirit (soul, Shu Shu) through the Hand of Hope's opening, Year 4238.
@@ -406,6 +414,8 @@ They still argue. They still interrupt each other's songs. Mimi calls Shu Shu pa
 - Mimi's healing grows stronger when the background song is active; Shu Shu's bombs grow stronger when she sings along.
 - Joint singing produces the strongest and least stable attacks.
 - The entity apologizes after almost every attack — twice, once per voice, and both times sincerely.
+- The staff's colour is not a state indicator but a state record: it shows the palette the body was in a half-second before, which is why R.D. observation is timed against it rather than read from it.
+- The two voices have never both been heard singing and arguing at the same time; the file notes this as the closest thing to a tell the entity has.
 
 ### Registry Trivia
 

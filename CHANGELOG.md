@@ -38,6 +38,35 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 9 / unit 2 — The Mewgical Girl `N-IVδ-901` brought to the standard (2026-10-05)** — the live
+  head after unit 1, re-measured at `3005d6a` (worst Breach Behavior 0.548), an Unknown-wing δ-grade
+  dossier at 5,548 words.
+  - All **3 dirty sections** closed (Breach Behavior 0.548, 최종 관찰 (Final Observation) 0.114,
+    M.A.W. Equipment 0.079); 5,548 → **6,157 words** (the 6,000-word floor cleared); `tpl.py` residue
+    3 → **0** (the Breach First-target and Escalation rows and the breach-type bullet); `verify.py` residual
+    1 → **0** (the Stigma line's "Stigmas are granted at random by" carrier); `sectfile.py` ends at
+    **0 section(s) over 0.05**, `wikistd.py` meets **True**. **Both open clauses closed**: `condition`
+    False → **True** by a bespoke `**Management**` row in the Breach Behavior table (address both voices by
+    name, record which persona leads, never force a choice; suppression only if the drain rises for two
+    consecutive turns, with the two recorded separation attempts standing as the reason for the rest of the
+    row), and `series` False → **True** by a Registrum line restating the file's own figures (2.0 m /
+    1.7 m / 60 cm / 837 / 837 / 60–80 % / 20–28 / 35 / 20 % / 20+ turns / 3.10 m/s) — a **restatement**,
+    disclosed.
+  - Three splices were repaired as cause: the Use Notes trailing fragment ("…which is rarely and without
+    explanation. by the entity upon a successful work, not manufactured."), the Interaction Pattern's
+    `to repeat;` fragment, and a doubled opening quotation mark in the first action row. The two remaining
+    double dots are deliberate dialogue ellipses and were read and left alone (`verify.py seam`); both
+    linters and the timeline check pass explicitly. Growth came from the file's own canon: the Breach
+    Behavior escalation notes (containment priority, what ends a roam), two Observation Progression rows
+    (State change, Transition), the M.A.W. Use Notes' Suit toll and the Bell's unpredictable grant, the
+    interaction section's persona-by-persona filing note, and two Trivia bullets.
+  - Movement: `R-29` 90 → **91 / 301**, condition 248 → **249**, series 213 → **214**, section-clean
+    113 → **114 / 301**, residue-free 140 → **142 / 302** (instances 490 → 478, carriers 162 → 160,
+    distinct residue lines 38 → **37**), file-clean 194 → **195 / 302**, median and worst unchanged at
+    0.029 / 0.156. One of the two residue-free and one of the two file-clean files are **spillover**: the
+    shared Escalation line dropped to nine holders and stopped counting against every remaining carrier.
+    **Batch 9 continues at the floor of three**; the third unit is re-measured at its head.
+
 - **Batch 9 / unit 1 — Blessing Giver `C-Iα-071b` brought to the standard, opening batch 9 at three
   (2026-10-05)** — the freshly re-derived head at `070ad5e` (worst 기록 (Registrum) 0.568) and a Stage-2
   transformation page, 3,507 words against the 6,000-word floor.
