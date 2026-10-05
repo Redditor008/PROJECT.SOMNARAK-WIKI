@@ -282,7 +282,7 @@ The single change in the order came in Year 4,233, when a word none of the recor
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Memory Chain; the other feeds it.
+> The voice has reached the end of the forty-one letters and turned toward the observing worker, who is the first listener expected to answer for one of the six who wrote them.
 
 | Say the one name you can honestly match, and let the rest pass. | Say all six, to be sure the right one is among them. |
 |---|---|
