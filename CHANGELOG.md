@@ -38,6 +38,34 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 13 / unit 1 — The Rejector `C-IIIγ-063` closed; batch 13 stands at one of three (2026-10-06)** —
+  the batch-13 head measured at `5191abe`: **7 dirty sections**, worst M.A.W. Equipment 0.506, then 최종 관찰
+  (Final Observation) 0.481, 기록 (Registrum) 0.421, 이야기 보고 (Story Log) 0.326, Combat Record 0.077,
+  Breach Behavior 0.074 and 감각 묘사 (Flavor Text) 0.059. All seven closed in two waves (25 + 13 sites);
+  6,915 → **7,773 words**; `tpl.py` residue 5 → **0**; `verify.py` residual 1 → **0** (Story Log Entry 1's
+  `is logged as` carrier); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**,
+  with the **series clause closed on the file's own figures** — **406** register entries, **3** of them new
+  in nine years, **41** years of payments into a book that never makes a demand, and a breach gauge that
+  opens at **25%** — while the condition clause was already satisfied by the file's own `Management:` line
+  and was left alone (`R-05`). Two defects repaired in the same unit: the Tension phase's splice (*"identifies
+  The Rejector by him by the weight deficit"*) restored to the scale, the posture and the register; and Story
+  Log Entry 5, whose body was still the stock abandoned-lover tale that contradicted the file's own origin,
+  replaced with the instrument-and-book history the Warden Record and the Registrum both carry, header
+  retitled with it. Authored from the file's own canon throughout: the register written in the room because
+  an asking does not survive the hour, the sealed note of three small things the M.A.W. toll is read against,
+  the cell-scale weight deficit that has not moved in nine years, and combat actions that trigger on
+  instructions rather than on strikes. Corpus side effects, all beneficial and none of them an edit to a
+  shipped file: Broken Tear `N-IVδ-517` 10 → 9 dirty sections, three dossiers fell out of the residue list
+  (this file plus Briar `C-IIIγ-145` and The Repeated Survivor `N-IVδ-902`) as the recycled stock-line family
+  shrank, and the archive-wide dirty-section total went 1,021 → **1,013**. Movement: `R-29` 101 → **102 /
+  301** (own numeric series 217 → **218**; specific condition 251 and parity 274 unchanged), section-clean
+  125 → **126 / 301**, residue-free **153 → 156 / 302** (carriers 149 → **146**, instances 396 → **382**,
+  distinct residue lines 32 → **31**) — recorded from the tool's own clean count, which also corrects a
+  two-point drift: the row read 151 at `5191abe` while `tpl.py` reported 153 clean at that commit, so the
+  series is written here as measured — file-clean 205 → **206 / 302**, median 0.023 and worst 0.142
+  unchanged. **Batch 13 stands at one of three**; next on the re-measured tier: Walking Calendar `C-IVδ-220`
+  (7, 0.489) and Drowned Roots `C-IIβ-997` (7, 0.483).
+
 - **Batch 12 / unit 3 — Mirror of Soaking `N-IIβ-801` closed, closing batch 12 at three (2026-10-06)** —
   the batch-12 head measured at `9e0ea26`: **10 dirty sections**, worst Behavior 0.381, then Activation
   Behavior 0.306, 관찰 기록 (Observation Log) 0.236, 감각 묘사 (Flavor Text) 0.234, 최종 관찰 (Final

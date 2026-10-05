@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **151 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **125 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **101 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **156 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **126 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **102 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 205 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 206 / 302 |
 | Archive median prose generic fraction | 0.023 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1339,6 +1339,25 @@ section-clean 123 → **125 / 301** (this file plus The Sky of Borrowed Faces `O
 (`baeab5c` The Empty Mask, `9e0ea26` The Lost Prince, this unit), each unit measured live at its own head.
 **Batch 13 opens at three** on a freshly re-derived whole-archive tier (below).
 
+**Batch 13, unit 1: The Rejector `C-IIIγ-063` closed.** Measured at the batch-13 head (`5191abe`):
+**7 dirty sections**, worst M.A.W. Equipment 0.506, then 최종 관찰 (Final Observation) 0.481, 기록 (Registrum)
+0.421, 이야기 보고 (Story Log) 0.326, Combat Record 0.077, Breach Behavior 0.074 and 감각 묘사 (Flavor Text)
+0.059; all seven closed in two waves (25 + 13 sites); 6,915 → **7,773 words**; `tpl.py` residue 5 → **0**;
+`verify.py` residual 1 → **0**; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+**True**, with the **series clause closed** on the file's own figures (406 register entries, 3 new in nine
+years, 41 years of payments, a 25% breach opening) and the condition clause already satisfied and untouched
+(`R-05`). Two defects repaired: the Tension phase's splice and Story Log Entry 5's stock abandoned-lover
+tale, replaced with the instrument-and-book history the file's own Warden Record and Registrum carry.
+Beneficial corpus side effects, no shipped file edited: Broken Tear `N-IVδ-517` 10 → 9 dirty sections and
+three dossiers (this file, Briar `C-IIIγ-145`, The Repeated Survivor `N-IVδ-902`) fell out of the residue
+list as the retired stock-line family shrank; archive-wide dirty sections 1,021 → **1,013**. Movement:
+`R-29` 101 → **102 / 301** (series 217 → **218**), section-clean 125 → **126 / 301**, residue-free **153 →
+156 / 302** (carriers 149 → **146**, instances 396 → **382**, lines 32 → **31**; recorded from the tool's
+clean count, which corrects the row's earlier two-point drift — it read 151 at `5191abe` while `tpl.py`
+reported 153 clean there), file-clean 205 → **206 / 302**, median 0.023 and worst 0.142 unchanged. **Batch 13
+stands at one of three**; next on the re-measured tier: Walking Calendar `C-IVδ-220` (7, 0.489) and Drowned
+Roots `C-IIβ-997` (7, 0.483).
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1373,9 +1392,10 @@ second unit** (the head at `baeab5c`: 9 dirty, 0.389, series clause open — now
 words, and it produced and cleared one residual of its own). **Mirror of Soaking `N-IIβ-801` came off that tier in batch 12's third unit** (the head at `9e0ea26`:
 10 dirty, 0.381, condition and series open — now both closed, 6,152 → 6,995 words; one extra wave was
 forced by a corpus side effect on a shipped file, never by the dossier). The tier was then re-derived
-whole-archive at that head rather than carried: **The Rejector `C-IIIγ-063` (7 dirty, 0.506, series open)
-leads batch 13**, with Walking Calendar `C-IVδ-220` (7, 0.489) and Drowned Roots `C-IIβ-997` (7, 0.483)
-behind it; Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
+whole-archive at that head rather than carried: **The Rejector `C-IIIγ-063` came off it in batch 13's first
+unit** (7 dirty, 0.506, series open — now closed, 6,915 → 7,773 words, two waves, no second pass). The tier
+behind it, re-measured at this head: Walking Calendar `C-IVδ-220` (7 dirty, 0.489) and Drowned Roots
+`C-IIβ-997` (7, 0.483); Frozen Fury `C-IVδ-668` (10, 0.335, series open) and Mourner's Bloom `C-Iα-330` (10, 0.301,
 series open) remain in the cohort but are no longer the head; Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
