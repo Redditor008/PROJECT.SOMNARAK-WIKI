@@ -261,7 +261,7 @@ Every piece comes out of something buried and sworn away, and the set gives its 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Rising Well (C-IVδ-869 [GS]) is logged as a Subject-Mind manifestation expressing Grudge. The Well formed from rage buried so deeply that it became an inner landscape. Held at The Desolate — mobile. The Well is mobile because it manifests through consciousness.
+Rising Well is a well-shaft standing eleven metres proud of the ground it was sunk into, out in the Desolate, singing a note no instrument has ever caught. Something was buried there and nineteen people undertook in writing never to discuss it. Three inquiries have closed without findings.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears in the minds of personnel and spreads through shared memory. Personnel experience fury without a clear object. It sings rather than speaks.
