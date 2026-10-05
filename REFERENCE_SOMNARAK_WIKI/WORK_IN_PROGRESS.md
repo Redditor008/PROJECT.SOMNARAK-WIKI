@@ -602,7 +602,9 @@ Broken Ruin and Pandora's Jar files; the Flavor Text's stock interaction opener 
 stock Threat Assessment were replaced, and the Registry Trivia's two splice lines were expanded in
 place. The Story Log Entry 1 opener was reworded for this file only — the standing decision not to
 chase that opener across the archive is unchanged and is noted here so the count in the "Noticed and
-deliberately left" list is read as one lower for this row.
+deliberately left" list is read as one lower for this row. PR #13's body now carries the nine units,
+set by API after the previous turn's `gh pr edit` calls were found not to have applied at all (see
+the traps list).
 
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`; the worst file is now Homecoming Tree `C-Iα-869` (12), followed by Friendless Bridge
@@ -764,4 +766,5 @@ Not repaired, because history is not rewritten (`R-17`).
 - A helper kept outside the repository is lost on a sandbox reset. `dirtylines.py` lives in `tools/` for that reason.
 - Two replacements written to cure the same slot-filled line must not be parallel templates; that reintroduces the defect one level up. Vary structure and focus (Foam Flood and Soot Fry).
 - A key taken from the first match inside a file can differ from the key the index uses; match on the filename code.
+- **`gh pr edit` does not apply here.** It exits 1 with `GraphQL: Projects (classic) is being deprecated in favor of the new Projects experience` and leaves the body untouched, while still looking like an attempted edit in the console. The previous turn's note that PR #13's body "carries all eight units" was therefore wrong. Set a body with `gh api -X PATCH repos/Redditor008/PROJECT.SOMNARAK-WIKI/pulls/<n> -F body=@<file> --jq '.number, .state'` and verify by grepping the result of `gh pr view <n> --json body -q .body`. The body now carries all nine units, checked that way.
 
