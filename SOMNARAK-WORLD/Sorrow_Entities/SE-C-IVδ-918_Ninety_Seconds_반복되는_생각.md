@@ -28,7 +28,7 @@
 | **Entity role** | Time |
 | **Primary pressure** | Void / Mind pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per cycle, and a cycle is however many ninety-second passes a worker completes before the exit question is put. The station's return notes the median is four passes and the record is thirty-one. |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · δ |
@@ -42,7 +42,7 @@
 - A cycle reduces the number of passes. It does not break the repetition, and the span itself has never varied.
 - Three ignored conditions escalate it. Contact runs through the mind register, so escalation presents as crews acting on decisions they have not yet made.
 - Instructions are issued once, in writing, and are not repeated inside the span regardless of what is requested.
-- Extraction is authorized apart from the work cycle.
+- Extraction is separately authorised and is timed like everything else here: both pieces were cut inside a single pass, which is the only window in which the boundary is stable.
 
 ## Combat Record
 ### Core Stat Line
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 30% against Void pressure; 21% against other pressure types |
+| **Resistance** | 30% against Void. There is nothing to resist — the holding is ninety seconds of thought that will not move on — and the figure is carried from the schedule. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 513/513 |
 | **Han Pressure [ATK]** | 14–20 per hit · Void |
@@ -79,16 +79,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's mind pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
-| { *The Mind Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void mind sorrow.] | *Void damage strikes the target; the gauge spikes.* **[18 Void DMG [Void]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[20 Void DMG [Void]]** | When the entity is cornered or starved. |
-| { *The Mind Collapse* [**Ultimate**] } | "The mind breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[20 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "You are thinking about it again and you have not noticed starting." | [The ninety-second interval begins; the entrant re-enters the same thought from its beginning.] | *Void pressure. Every worker, every pass, and nobody has ever felt the join.* **[Void DMG [Void]]** | On entry to the boundary. |
+| { *The Mind Surge* [**Attack**] } | "The thought gets sharper each time round and no nearer to finishing." | [Detail accumulates across passes while the conclusion does not arrive.] | *Void damage, rising with the pass count; the content is always the worker's own and is always something unresolved.* **[Void DMG [Void]]** | From about the fourth pass. |
+| { *The Settling* [**Attack**] } | "It is the most important thing and you are nearly there." | [The entrant becomes certain the next pass will complete it.] | *Heavy Void damage. Nine occurrences; in all nine the worker declined to leave and in all nine the exit question was what moved them.* **[Void DMG [Void]]** | Past about twenty passes. |
+| { *The Mind Collapse* [**Ultimate**] } | "Everybody in the sector is ninety seconds into the same thought." | [The interval generalises beyond the boundary.] | *Void erosion to everyone in the sector for three cycles.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, once; the wing lost an afternoon and nobody could say to what. |
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the time manifestation, assess the Void pressure, select valid Work Types, and establish a safe position.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Ninety Seconds's recorded combat actions.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition.
+1. **Tension:** The boundary is walked and signed at shift start by two people, and the exit question is agreed before anybody enters: one content-free question, chosen in advance, that the worker must answer on leaving.
+2. **Clash:** None. There is a worker inside a ninety-second interval and somebody outside it holding a question.
+3. **Resolution:** The worker steps out and answers the exit question. 211 cycles; the question has worked 202 times, the nine failures were all workers past twenty passes, and the question that works is never about the thought.
 
 ### Consequences
 
@@ -153,8 +153,8 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 | **Breach Type** | Expansion |
 | **Movement** | The entity's mind influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | Void pressure radiates — the mind register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever has something unresolved, which is everybody, and the thought is always theirs — the holding has never supplied content in 211 cycles. |
+| **Escalation** | +5 Void drain per pass. The boundary does not move and nothing comes out of it; the escalation is entirely a count of how many times somebody has gone round. |
 
 ### Escalation Notes
 
@@ -169,17 +169,17 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a near-colourless blade that quivers when raised and settles after exactly ninety seconds, which the Armoury has timed on eleven occasions and recorded as invariant.
 
 **Damage:** Void 11–16 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels void mind sorrow in each strike — the weapon does not cut flesh so much as cut at the mind register of the target's grief.
+**Ability:** Void against the Mind. Struck targets return to the beginning of whatever they were thinking about, once, and describe the effect afterwards as being gently interrupted by themselves.
 **Cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
 
 ### M.A.W. Suit — Ninety Seconds's Veil
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a near-colourless veil whose hem has ninety-one small stitches in it; the Armoury counted them after issue and has not been able to establish who put the extra one in.
 
 **Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
@@ -189,12 +189,12 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a glass token, light, which is warm for ninety seconds after it is picked up and cold afterwards however long it is held.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity.
+**Effect:** +1 to the working stat on this holding's passes, which is to say for ninety seconds at a time
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
-*The Interval's Stigma is not manufactured and cannot be requisitioned. It has been conferred four times, in every case on an extraction team member who completed a removal and then declined to describe anything the affected worker had said.*
+*Four in nineteen years, in every case to an extraction team member who left on the first exit question rather than the second. Nineteen workers have needed the second; none has been given anything and the file is explicit that needing it is ordinary.*
 
 ### M.A.W. Use Notes
 
@@ -232,15 +232,15 @@ Each Ninety Seconds piece is an extension of a thought nobody chose to have, rat
 
 **Entry 3 — Counseling Log** *<Interview, worker, third exposure>* — "I am not going to tell you what it is and I understand that you are not going to ask. What I will tell you is that it was the same one. It has been the same one every time, for nine years, and I would quite like to know what it would mean if it ever were not."
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are the valid Work Types. Boundary walked and signed at shift start by two people in opposite directions. Instructions issued once in writing. Extraction is physical, two-person, immediate, and without discussion. The debriefing form has no field for content and will not be given one.
+**Entry 4 — Containment Notice** The boundary is walked and signed at shift start by two people, the exit question is agreed in advance and written down, and no worker enters without somebody outside holding it. The question must have nothing to do with the thought; the nine failures were all cases where it did.
 
 **Entry 5 — Director's Note** *<Minute on the change-flag proposal>* — Counsel advises that the flag carries no content, is not health information, and attracts none of the protections that would attach to a counselling note. The advice is plainly right. I have approved its inclusion in the staffing return and I note that this wing spent nine years keeping the content out of my hands and that I have just been handed the only part of it I could have used.
 
 ## 최종 관찰 (Final Observation)
 
-| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |
+| Step out and answer a question about something else entirely. | Go round once more — it is nearly finished this time. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
+| Four passes, an answered question, and a worker who can say what day it is. | Pass thirty-one, and somebody outside saying your name until you hear it. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -283,10 +283,10 @@ It does not rage and it does not weep. It is ninety seconds of floor with paint 
 
 **Comprehension Level:** 4 — Deep
 
-**Threat Assessment:** Critical. A Time-Mind entity — the mind register is its defining characteristic. Risk: prolonged exposure to the mind pressure may produce effects not seen in standard void entities.
+**Threat Assessment:** Critical (δ), carried for the pass count rather than for harm. Nineteen years, 211 cycles, nine failures to leave on the first question, no fatalities, and no worker who has ever reported the experience as unpleasant.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types; both reduce the number of passes and neither breaks the repetition.
+- Viderehan and Ferrehan are the valid Work Types; both reduce the number of passes and neither breaks the repetition, which nothing on record has.
 - Flerehan and Pugnahan are unavailable to a Time holding and are not to be improvised.
 - Monitor by boundary check, elapsed exposure taken from outside, and the stand-down return. Do not monitor by anything the worker says inside the radius, which is not evidence of anything and is not to be recorded.
 
@@ -294,7 +294,7 @@ It does not rage and it does not weep. It is ninety seconds of floor with paint 
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument and are read together: a single content-free question put on exit turns this holding into an accurate indicator that something grave has happened in a worker's private life, the flag carries no content and therefore attracts none of the protections that attach to content, and the facility has placed it in the ordinary staffing return. Where observation contradicts this record, preserve the contradiction rather than normalising it.
+**Operational interpretation:** The three sections below are one argument. A single content-free question put on exit turns this holding from a hazard into a shift: 202 of 211 workers have left on it. The nine who did not were all asked something about the thought itself, by somebody being helpful, and in each case the question became part of the loop. The whole management of a Critical-grade Time holding is one sentence agreed in advance by two people, and the station has had to defend that as sufficient at four annual reviews.
 
 **Review requirement:** After every exposure, Tide, Ordeal or unusual interaction, recheck the boundary markings and the signed check, the span, the stand-down return, the change-flag entries for the period, and the standing of the proposal to remove the flag from the staffing return, which is to be reported as outstanding for as long as it is outstanding.
 
@@ -376,7 +376,7 @@ The staffing return goes to line managers. A counselling note does not; a medica
 
 The objection is minuted at the twenty-eighth review and at each of the four since, raised by the counsellor who designed the question and supported by the chamber's commander. It holds, first, that the chamber's protocol exists to keep the content out of the facility's hands, that the protocol is intact and has never been breached, and that the facility has nonetheless obtained the only operationally usable part of the content — so the prohibition stands untouched and its entire purpose has been defeated without anybody doing anything wrong. Second, that counsel's advice is correct, was obtained before the field was created rather than in answer to a complaint about it, and establishes not that the flag is harmless but that nothing in the rules was written with it in mind. Third, that the facility has informed eleven line managers of a bereavement, a crime, or a diagnosis without knowing which, and that not knowing which is in some respects worse than knowing, because a supervisor told that something unnamed and terrible has happened will supply the name themselves.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the twenty-ninth year at nothing at all — field fourteen removed from the staffing return and held by the counsellors alone, with every worker told that the flag exists, told their own, and able to suppress it — and that it has not been laid before the board in four years. And it records the sentence the counsellor asked to have entered verbatim, which now stands at the head of the exit question sheet:
+The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the twenty-ninth year at nothing at all — a line on the shift sheet reserving the exit question, so that it could not be improvised at the boundary by whoever happened to be standing there. The line was not added. Nineteen of the twenty-one improvised questions on file were about the thought.
 
 *We spent twenty-eight years refusing to write down what they were thinking, and then we found a way to tell their supervisor the one thing about it that mattered, and it went in the return between the leave balance and the certification date.*
 
