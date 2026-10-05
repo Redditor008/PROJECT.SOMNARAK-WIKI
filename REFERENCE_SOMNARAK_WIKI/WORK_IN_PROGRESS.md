@@ -16,11 +16,11 @@ All figures below are measured by `tools/boilerplate_report.py`, not estimated.
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **98 / 303** |
+| **Dossiers free of template residue (Workstream 6)** | **102 / 303** |
 | **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **71 / 303** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/178 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 155 / 303 |
-| Archive median prose generic fraction | 0.049 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 159 / 303 |
+| Archive median prose generic fraction | 0.048 |
 | **Dispositions classified (Workstream 5)** | **302 / 302 — CLOSED** |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -76,7 +76,7 @@ The owner is right and the `0.00%` is also right. `tools/boilerplate_report.py` 
 | Distinct residue lines | 135 |
 | Residue instances | 3382 |
 | Dossiers carrying residue | 278 / 303 |
-| **Dossiers clean (fixed counter)** | **98 / 303** |
+| **Dossiers clean (fixed counter)** | **102 / 303** |
 
 Opening baseline was 146 distinct / 3,745 instances / 11 clean. The first ten entities taken under this workstream were all drawn from the Workstream 5 pending pool, so each one closed a disposition row in the same commit as its clean.
 

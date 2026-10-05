@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 98 / 303 dossiers free of template residue.**
+**Counter: 102 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,14 +225,38 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  3421   (prose only; R-23 furniture excluded)
-median generic fraction       0.049
-worst                         0.195
-clean at <= 0.05              155 / 303   (file level; section-clean is 71)
+shared 8-grams (>= 10 files)  3298   (prose only; R-23 furniture excluded)
+median generic fraction       0.048
+worst                         0.178
+clean at <= 0.05              159 / 303   (file level; section-clean is 71)
 ```
 
 **Counter: 71 / 303 dossiers section-clean (`R-27`) — every description-bearing section at or
 under 0.05. Secondary: 148 / 303 file-clean on the whole-file fraction.**
+
+**Fourth scale pass, 2026-10-05 — four more stock rows, 185 dossiers.**
+
+| Row | Was in | Rebuilt from |
+|---|---|---|
+| `Each M.A.W. piece is a conditional extension of…` | 92 | the entity's name and its own recorded `**Cost:**` |
+| `1. **Tension:** Personnel identify the … manifestation` | 51 across two element variants | the dossier's own recognition detail |
+| `| **Position / movement** |` (two stock forms) | 36 + 39 | the dossier's own Movement row |
+| `| **Activation or escalation** |` | 26 | the dossier's own activation trigger |
+
+Residue instances **1,040 → 809**; residue-free 98 → 102; file-clean 155 → 159; median 0.048;
+worst file 0.189 → 0.178.
+
+**Where the sweeps stop.** The residue table's top entries are now in the 18–23 range and three of
+them are `**Cost:**` lines — the very text the sweeps quote from. Those cannot be swept: rewriting a
+dossier's recorded toll is authoring new canon, not redistributing what the file already says, and
+`R-23` would be satisfied while the archive quietly filled up with invented costs. They go back on
+the per-file queue with everything else.
+
+**Section-clean has not moved across four passes (71 / 303) and that is the honest headline.** The
+sweeps removed 1,075 instances of shared text and took the median to 0.048, but they thin every
+section rather than finishing any one of them. `R-27` is earned a dossier at a time; what the
+sweeps have bought is shorter per-file work, not fewer files.
+
 
 **Second and third scale passes, 2026-10-05 — the Final Observation choice, and four Operational rows.**
 
