@@ -52,7 +52,7 @@ dossiers carrying residue     282 / 303
 clean dossiers                 21
 ```
 
-**Counter: 95 / 303 dossiers free of template residue.**
+**Counter: 98 / 303 dossiers free of template residue.**
 
 The first ten were chosen from the Workstream 5 pending pool on purpose, so that each clean
 closed a disposition row in the same commit: Moktak `N-IIβ-910`, Weighted Silence `O-IIIγ-924`,
@@ -225,14 +225,36 @@ Two things in that table are uncomfortable and are recorded rather than smoothed
 
 ```
 dossiers                      303
-shared 8-grams (>= 10 files)  3557   (prose only; R-23 furniture excluded)
-median generic fraction       0.050
+shared 8-grams (>= 10 files)  3421   (prose only; R-23 furniture excluded)
+median generic fraction       0.049
 worst                         0.195
-clean at <= 0.05              151 / 303   (file level; section-clean is 71)
+clean at <= 0.05              155 / 303   (file level; section-clean is 71)
 ```
 
 **Counter: 71 / 303 dossiers section-clean (`R-27`) — every description-bearing section at or
 under 0.05. Secondary: 148 / 303 file-clean on the whole-file fraction.**
+
+**Second and third scale passes, 2026-10-05 — the Final Observation choice, and four Operational rows.**
+
+| Pass | Lines replaced | Dossiers | Built from | Max repeat |
+|---|---|---|---|---|
+| Final Observation choice | *"Endure it / Struggle free"* (122) and *"Weep with it / Hold your composure"* (75) | 190 | that dossier's own management condition, and the Work Type its own Behavior table records as raising the gauge | 1 |
+| Operational rows | Recommended response (63), Management (29), Resolution Condition (30), Distinctive markers (29) | 71 | the same condition, plus the file's own recognition detail | 5 |
+
+The choice row is now a real choice out of the file: the left cell is the condition the dossier
+already carries, the right is the specific thing that dossier records as making it worse — *"Reach
+for Pugnahan, which the Behavior table shows raising the gauge every time it has been logged"*.
+**Seven dossiers were held** because their management condition is itself still generic; they
+cannot be repaired by a sweep and go back on the per-file queue.
+
+Residue instances across the three passes: **1,884 → 1,040.** Residue-free 92 → 98, file-clean
+148 → 155, median 0.052 → 0.049.
+
+**What the passes cannot do.** Section-clean has not moved (71): these rows are spread thinly
+across many sections, so clearing them lowers every section's score without taking any single
+section under 0.05. The section-clean counter still has to be earned one dossier at a time, and the
+sweeps are making that work shorter rather than replacing it.
+
 
 **Scale pass, 2026-10-05 — the M.A.W. Use Notes, 138 dossiers in one operation.**
 
