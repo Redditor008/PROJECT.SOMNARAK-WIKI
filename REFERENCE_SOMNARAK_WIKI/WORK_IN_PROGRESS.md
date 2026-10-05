@@ -147,6 +147,35 @@ One generator artefact was found and repaired by this pass: 29 dossiers publishe
 Python expression in the Combat Record `Difficulty` row, with the entity's numeric suffix standing
 where the difficulty word belonged. All 29 were rebuilt from each file's own `Work difficulty` row.
 
+## Workstream 9 — The R-29 Standard (opened 2026-10-05)
+
+The owner named the target: *"what an abnormality wiki does, but better."* `R-29` writes that down
+as a test with two halves, and `tools/wikistd.py` measures it.
+
+**Parity — nine sections every dossier must carry**, mapped to what an abnormality page has:
+identification, stats, work results, escalation/breach, equipment with its cost, flavour text,
+observation and story logs, trivia, related entities.
+
+**Better — six clauses above the floor:** every figure traceable to the dossier's own record; no
+line shared with ten others; one instrument per holding and no instrument reused; the institutional
+cost stated; projections labelled as projections; a disposition classified under `R-19` with quoted
+evidence.
+
+**Baseline, the day the rule was written: 27 / 302 meet it.**
+
+| Clause | Dossiers |
+|---|---|
+| Parity complete | 267 |
+| Specific management condition | 229 |
+| Own numeric series | 176 |
+| Disposition classified | 300 |
+| Section-clean (`R-27`) | 70 |
+
+Section-cleanliness is the binding constraint, as it has been since `R-27`. The parity gaps are
+concentrated: 34 dossiers have no Entity Interaction Record, and four short-form Unknown-wing files
+were missing seven sections each. The first of those four — The Glass Silt Drifter `O-IIIγ-1052` —
+was completed from its own canon this turn and now meets `R-29` in full.
+
 ## Workstream 8 — Breach Balance (`R-28`, done 2026-10-05)
 
 The archive declared **285 of 302 entities capable of breaching**. It was generator output, not a
