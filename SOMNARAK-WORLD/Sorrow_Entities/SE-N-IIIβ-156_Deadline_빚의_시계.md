@@ -132,7 +132,7 @@
 - **The Sorrow:** Not the knock. The published date arriving for somebody who was ill, absent, bereaved or unable to read it, and the entitlement going out correctly and on time.
 - **The Event:** The extinguishment of entitlements at their published dates. A claim for an injury award, a death benefit or back pay not lodged by its date was ended, automatically, with the date published a year in advance and applied without exception, because a limitation period applied with exceptions is a favour and a favour is not a rule.
 - **The People:** Every person on Collector's Row who held an entitlement and did not claim it before the published date — the injured, the bereaved, the illiterate, the absent and the simply overwhelmed — and whose claim was extinguished correctly, on time, by a clerk applying a rule that exists so that nobody is favoured.
-- **Expanded origin context:** The passage formerly here described the entity as a teacher and a mirror and said nothing about it; it has been removed. The limitation period is not an abuse and the claims office's case for it is the strongest in this wing. A published date does not care who your father was, whether you can write, or whom you know. It falls on the strong and the weak in the same minute, it is posted a year ahead, and it is the only protection an inarticulate claimant has ever had in this building. The holding has never responded to the Collectors' calling schedule, to the volume of debt on the Row, or to a single collection visit. The interval sat flat through all three. It responds to the quarterly time-bar list, which the claims registry did not begin publishing until Year 4223.
+- **Expanded origin context:** It is neither a teacher nor a mirror: it is a clock in the claims registry's clock room, and what it counts is the published dates on which claims lapse. The limitation period is not an abuse and the claims office's case for it is the strongest in this wing. A published date does not care who your father was, whether you can write, or whom you know. It falls on the strong and the weak in the same minute, it is posted a year ahead, and it is the only protection an inarticulate claimant has ever had in this building. The holding has never responded to the Collectors' calling schedule, to the volume of debt on the Row, or to a single collection visit. The interval sat flat through all three. It responds to the quarterly time-bar list, which the claims registry did not begin publishing until Year 4223.
 
 ## Behavior
 
@@ -335,7 +335,7 @@ The clock counts down to the next deadline of whoever is nearest, and it ticks f
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Deadline; the other feeds it.
+> The hands have reached a figure that means something to the person reading it, and the reader has two minutes in the clock room to decide whether to write it down and leave, or to find out whose date it is.
 
 | Viderehan and Ferrehan only; two readers, separate figures, never reconciled; contact ended at two minutes; no winding, no repair, no asking whose. | Substitute your own judgement, which on Deadline has never yet cost less than the condition. |
 |---|---|
