@@ -1738,7 +1738,7 @@ layers in place, and take nothing out*), and `own_series` was restated from the 
 178 / 301; residue-free 292 / 302; archive dirty 501; file-clean 291 / 302. **Batch 26 stands at one of
 five.**
 
-**Batch 25 is closed at ten — the ladder's top rung, every unit pushed and verified.** - SE-O-IVδ-151 Border Tree 스며든 나무 — `__HASH__` — PUSH VERIFIED — [[SE-O-IVδ-151_Border_Tree_스며든_나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IVδ-151_Border_Tree_스며든_나무.md")
+**Batch 25 is closed at ten — the ladder's top rung, every unit pushed and verified.** - SE-O-IVδ-151 Border Tree 스며든 나무 — `fcfae41` — PUSH VERIFIED — [[SE-O-IVδ-151_Border_Tree_스며든_나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IVδ-151_Border_Tree_스며든_나무.md")
 - SE-C-IVδ-219 Soaking Shard 솟구친 조각 — `688b79c` — PUSH VERIFIED — [[SE-C-IVδ-219_Soaking_Shard_솟구친_조각]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-219_Soaking_Shard_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%A1%B0%EA%B0%81.md "SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md")
 PR #13's batch-25 section carries the same ten links, with the cohort counters and the disclosure list, read back from the API (`gh api` GET at 96,944 characters, section header and all ten unit names verified). Ten dossiers, **69 / 69
 dirty sections closed**, **+6,525 words** net, nothing deleted (`R-15`). Movement across the cohort: `R-29`
