@@ -1716,6 +1716,16 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 28, unit 3: Whispering Walls `C-Iα-011` closed.** Measured at `96adc76`: **6 dirty sections**, worst Final
+Observation 0.349, then M.A.W. Equipment 0.141, Registrum 0.067, Combat Record 0.066, Flavor Text 0.063 and
+Observation Log 0.056 — **all six closed in a single wave** (41 sites plus the digit bullet); 6,625 → **7,318 words**;
+`tpl.py` residue 0 throughout; `verify.py` residual 1 → **0**; the pipe check failed inside the unit and was repaired
+before the gate (the rewritten initial-exposure row had lost its trailing `|`) — disclosed; `sectfile.py` **0
+section(s) over 0.05**; `wikistd.py` meets **True**; the `own_series` clause closed from **False** to **True** by
+restating the file's own figures (217/217, 3–9, 15 / 5, 45 per cent, 4 turns, 3–6 at 15, 10, 5 per cent, +1, 2
+conferrals, 140 households) — disclosed. Movement: `R-29` 163 / 301; section-clean 188 / 301; residue-free
+302 / 302; archive dirty 411; file-clean 302 / 302. **Batch 28 stands at three of seven.**
+
 **Batch 28, unit 2: The Masked Dancer `C-IIβ-099` closed.** Measured at `2c8e9fa`: **6 dirty sections**, worst Final
 Observation 0.343, then M.A.W. Equipment 0.112, Flavor Text 0.075, Registrum 0.072, Combat Record 0.064 and
 Observation Log 0.051 — **all six closed in a single wave** (39 sites plus the digit bullet; one aborted first attempt
@@ -1867,6 +1877,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 28 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
+- SE-C-Iα-011 Whispering Walls 속삭이는 벽 — `__HASH__` — PUSH VERIFIED — [[SE-C-Iα-011_Whispering_Walls_속삭이는_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-011_Whispering_Walls_%EC%86%8D%EC%82%AD%EC%9D%B4%EB%8A%94_%EB%B2%BD.md "SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md")
 - SE-C-IIβ-099 The Masked Dancer 가면 무용수 — `30e1a6f` — PUSH VERIFIED — [[SE-C-IIβ-099_The_Masked_Dancer_가면_무용수]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-099_The_Masked_Dancer_%EA%B0%80%EB%A9%B4_%EB%AC%B4%EC%9A%A9%EC%88%98.md "SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md")
 - SE-C-IIIγ-448 Floating Well 떠다니는 우물 — `d3caa84` — PUSH VERIFIED — [[SE-C-IIIγ-448_Floating_Well_떠다니는_우물]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-448_Floating_Well_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%EC%9A%B0%EB%AC%BC.md "SE-C-IIIγ-448_Floating_Well_떠다니는_우물.md")
 

@@ -82,6 +82,25 @@ This file records notable changes to the public Somnarak Wiki.
   rows. Movement at the unit commit: `R-29` 162 / 301 (condition 259; series 252); section-clean 187 /
   301; residue-free 302 / 302; residue lines 0; archive dirty 432; file-clean 302 / 302. **Batch 27
   stands at five of five.**
+- **Batch 28 / unit 3 — Whispering Walls `C-Iα-011` closed (2026-10-07)** — measured at `96adc76`: **6 dirty sections**,
+  worst Final Observation 0.349 (the choice blockquote, the condition row and the result row), then M.A.W. Equipment
+  0.141 (the shroud and stone appearances, both abilities, the weapon ability and cost, the effect line, the
+  conferral note, the Use Notes, all four field-use rows and the stat interpretation), Registrum 0.067 (the
+  operational interpretation), Combat Record 0.066 (the resistance row, both shared action rows and two phases),
+  Flavor Text 0.063 (the intro, all four contact lines, the interaction preamble, method, record intro, table header
+  and the procedure) and Observation Log 0.056 (the initial-exposure row). **Closed in a single wave** (41 sites plus
+  the digit bullet); 6,625 → **7,318 words**; `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0** (Story Log
+  Entry 1's `is logged as `) and the pipe check caught and repaired inside the unit — disclosed: the rewritten
+  initial-exposure row lost its trailing `|`, found by `verify.py` before the gate, restored, re-verified;
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition and disposition already
+  satisfied and left alone (`R-05`). The `own_series` clause closed from **False** to **True** by restating the file's
+  own figures — gauge 217/217 · 3–9 per hit · 15 / 5 per cent · 45 per cent · 4 turns · 3–6 at 15 Echoes · 10 ·
+  5 per cent · +1 · 2 conferrals · 140 households — **restated from the file, disclosed**. The stock pieces went onto
+  the site's own economics: the painted boundary, the 140 households and the acknowledgment into the resolution and
+  the choice, and the hearing-and-pleasure charge onto the M.A.W. rows. Movement at the unit commit: `R-29` 163 /
+  301 (series 255); section-clean 188 / 301; residue-free 302 / 302; residue lines 0; archive dirty
+  411; file-clean 302 / 302. **Batch 28 stands at three of seven.**
+
 - **Batch 28 / unit 2 — The Masked Dancer `C-IIβ-099` closed (2026-10-07)** — measured at `2c8e9fa`: **6 dirty sections**,
   worst Final Observation 0.343 (the choice blockquote and both result rows), then M.A.W. Equipment 0.112 (the glove,
   robe and shard appearances, all four abilities, the weapon and robe cost lines, the effect line, the conferral note,

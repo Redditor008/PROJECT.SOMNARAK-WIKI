@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Lament pressure; 5% against other pressure types |
+| **Resistance** | 15 per cent against Lament pressure and 5 against anything else — the lowest figures in the register, and they describe a site rather than a creature: nothing here pursues anybody, and what a crew holds against is the willingness to stand in a cold street listening. The gauge opens at 217 and trips at 45 per cent, and the file allows 4 turns in the mapped corridor. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 217/217 |
 | **Han Pressure [ATK]** | 3–9 per hit · Lament |
@@ -81,14 +81,14 @@
 | { *The Breath Behind the Plaster* [**Debuff**] } | "The wall exhales — and the breath carries words you almost understand." | [The Walls breathe out whispered fragments; the target catches them.] | *Target suffers -10 Composure; the walls are speaking to them.* **[10 Lament DMG [Lament]]** | When the target leans close. |
 | { *The Spread of Secrets* [**Debuff**] } | "The whispers multiply — wall to wall, room to room — and they are all about you." | [The whispers propagate; the target hears themselves discussed.] | *Target loses 10 Composure; privacy is impossible here.* **[10 Lament DMG [Lament]]** | When the target lingers. |
 | { *The Deafening Hush* [**Attack**] } | "The whispers stop — and the silence that follows is louder than any scream." | [A wall of oppressive silence strikes the target.] | *Inflicts Lament pressure and one wound of absolute quiet.* **[14-22 Lament DMG [Lament]]** | When the Walls are commanded to stop. |
-| { *The Spoken Aloud* [**Attack**] } | "The walls say the one thing you never wanted anyone to hear — clearly, at volume." | [The Walls broadcast the target's deepest secret.] | *A heavy Deep Blue exposure; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Walls are struck. |
-| { *Every Wall Speaks* [**Ultimate**] } | "Now every surface in the building is whispering — and none of them are kind." | [The Walls spread their whispers across the entire field.] | *All in range suffer Lament pressure for three turns of relentless murmuring.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Spoken Aloud* [**Attack**] } | "The walls say the one thing you never wanted anyone to hear — clearly, at volume." | [A confidence the plaster has been holding comes back out of it at speaking volume, in the voice that gave it.] | *A heavy Deep Blue exposure; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Walls are struck. |
+| { *Every Wall Speaks* [**Ultimate**] } | "Now every surface in the building is whispering — and none of them are kind." | [The overlap widens past the marked line until the whole street is in a room full of people talking at once.] | *All in range suffer Lament pressure for three turns of relentless murmuring.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the site by the wall run and the boundary map; there is no object here to recognise and the murals continue into districts that do not whisper) and Whispering Walls is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** What is checked is the site and not the shape: the wall run against the boundary map, since there is no object here to recognise and the murals continue on into districts that do not whisper. Positions are taken in the mapped corridor, out of earshot of occupied rooms, and the cycle opens from there.
 2. **Clash:** Four turns, worked at night in the mapped corridor, out of earshot of occupied rooms. Nothing is scraped, washed, or replastered at any point.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **No physical containment; listening and acknowledgment prevent escalation**.
+3. **Resolution:** The cycle closes with the boundary walked, the murmur answered aloud where there is nobody to hear it, and nothing scraped, washed or replastered at any point. There is no containment to achieve: the boundary is painted on the street, the field crosses it in both directions, and 140 households sleep inside it — which is why the acknowledgment is the procedure and the plaster stays where it is.
 
 ### Consequences
 
@@ -203,15 +203,15 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Whispering Walls's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and carries the site's signature: the struck do not hear a voice they can name, they hear the beginning of a confidence that stops once they turn to it.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The bearer takes on grief that has never been shed, and cries without an account of whose it is; on a long issue the weeping becomes ordinary and stops being reported. The charge reverses on return, which the file records as the one mercy in the set.
 
 ### M.A.W. Suit — The Listening Shroud
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that lies cold on the skin and deadens the wearer's hearing where it crosses the ears.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -221,40 +221,40 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Whispering Walls's kind of pressure.
+**Ability:** Turns Lament aside from the Mind — emotional stability and willpower — which is the pressure this site applies and the only kind it has ever applied. It is the wing's least-issued suit and its most-returned, because it works by making the wearer less able to hear what they came to listen for.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to small pleasures — a warm room, a familiar voice, the first decent weather of the year — and the numbness does not announce itself, which is why the second worker is the one who asks.
 
 ### M.A.W. Stigma — The Listening Stone
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a small stone of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a small stone of Lament Han-crystal, cool and faintly luminous, that runs hot in the palm when the wearer is standing where something was said and never answered.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 on this holding's work and nothing anywhere else on the register: the stone answers the site's own register, and it goes out with the night rotation rather than the day one.
 
-**Ability:** Allows the wearer to hear sorrow embedded in any wall.
+**Ability:** Lets the bearer hear sorrow held in any wall, in any district, which is the only recorded method of finding a whisper run before it has been mapped.
 
-**Cost:** The whispers become a permanent background that cannot be fully silenced.
+**Cost:** The whispers stay on afterwards as a background that never entirely goes quiet: the bearer hears the beginnings of speech in plumbing, wind and empty offices, and the seven-day check exists because of this line.
 
-*The Listening Stone is not issued and cannot be requested. It has been conferred twice, in both cases on a chronicler who stood a full night at the boundary and answered the walls aloud where there was nobody to hear them do it.*
+*The Listening Stone is not issued and cannot be requested. It has been conferred 2 times, in both cases on a chronicler who stood a full night at the boundary and answered the walls aloud where there was nobody to hear them do it.*
 
 ### M.A.W. Use Notes
 
-A piece cut from Whispering Walls is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping, and it is paid whether the use was correct or not.
+Nothing cut from this site is ordinary equipment; each piece works by taking part in what it stands near. The toll is the one already recorded here — grief never shed, and weeping on prolonged use — and it is charged whether the work was performed correctly or not.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Whispering Walls's toll being that the wielder feels the entity's unwept grief. |
-| **During use** | The first sign that Whispering Walls is charging: the wielder feels the entity's unwept grief. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wielder no longer notices Whispering Walls's toll — the wearer becomes numb to minor joys — which is how every stand-down on this set has been caught. |
-| **After use** | Return, reconcile the baseline, and record whether Whispering Walls's toll has reversed: the wearer becomes numb to minor joys. Where it has not, the piece is not reissued to that wielder. |
+| **Before use** | Wielder, piece, the gauge, and one pre-check put by a second person: has the bearer been weeping without an account of it this week, and can they name the last thing that gave them pleasure? The second question exists only on this set. |
+| **During use** | The charge shows as the bearer growing quieter about themselves: weeping without a reason they can give, and stopping hearing the small pleasures back. The hour goes into the log from the second worker's hand, never the bearer's. |
+| **At limit** | The limit is numbness the bearer has stopped accounting for: the weeping is ordinary and the small pleasures have gone unmentioned for a fortnight. The observer calls the limit on those two signs, and every stand-down on this set has been caught that way. |
+| **After use** | Take the piece back and put the pre-check to the bearer's colleague as well as to the bearer: is the weeping accounted for, and has anything given them pleasure in the last seven days? Where not, the piece stays in stores and the bearer comes off night rotation. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade records how hard a piece hits and nothing about what it takes; on this set the cost is hearing and pleasure, and it moves in the opposite direction to the rating. Read the cost column, authorise on the second worker's report rather than the bearer's, and treat a low-rated piece carrying the site's charge as the ordinary case here.
 
 ## 관찰 기록 (Observation Log)
 
@@ -274,7 +274,7 @@ A piece cut from Whispering Walls is not ordinary equipment: it works by being a
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Whispering Walls as an Object/Place with Place-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone B, Old Lament — ambient, not contained. |
+| **Initial exposure** | Identify the site on the wall run against the boundary map and confirm the Lament signature; nothing is recognised by eye here, and the murals carry on into districts that are silent. Record the hour the walk starts, since the field is read at night. |
 | **Sustained observation** | The wall run, the boundary against the marked line, the hour, density of overlap, languages heard, and every occupied dwelling inside the field by reference number. |
 | **Activation or escalation** | Escalation is the boundary. Any reading beyond the marked line closes the rotation and raises the district notice; the threshold is the painted line itself and the walk lead applies it. |
 | **Post-contact review** | Boundary before and after, overlap density, the chronicler's verbatim transcript, and a seven-day check on personnel for hearing the walls outside the district. |
@@ -285,7 +285,7 @@ A piece cut from Whispering Walls is not ordinary equipment: it works by being a
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Whispering Walls (C-Iα-011 [LP]) is logged as a Place-Lament manifestation expressing Lament. The phenomenon formed from the whispers of the first settlers. Held at Zone B, Old Lament — ambient, not contained. Voices are faint, ancient, and sometimes spoken in unknown languages.
+Whispering Walls (C-Iα-011 [LP]) is a Place-Lament manifestation expressing Lament, held ambient in Zone B on the Old Lament line. It formed from whispers the first settlers exchanged in the dark, and the plaster kept them: the voices are faint, ancient, in several languages, and none of them has ever been answered by anybody who could hear them.
 
 **Entry 2 — <Excerpt from Field Log, Year 4224>**
 The Han-signature predates the city and the Consolihan.
@@ -301,45 +301,45 @@ In the early days of Zone B, when the first settlers built their homes from soli
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Whispering Walls; the other feeds it.
+> Two ways to close a night on the boundary, and the site's own instruments separate them within a week: one leaves the line where it was painted, and the other is the thing every new chronicler reaches for on the first cold night.
 
-| Hold to the condition: No physical containment; listening and acknowledgment prevent escalation. | Substitute your own judgement, which on Whispering Walls has never yet cost less than the condition. |
+| Walk the boundary, listen to the overlap without following any single voice, and acknowledge aloud where there is nobody to hear it — the condition exactly, with nothing scraped, washed or replastered. | Pick one voice out of the overlap and answer it, or clean the wall up: on this site following a single whisper has held three recorded workers for a whole shift, and the plaster is the only listener that has ever stayed in the room. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is witnessed; Whispering Walls is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Whispering Walls withdraws without revelation. |
+| The boundary holds where it was painted, the overlap is logged with its dwelling references, and the walk closes with the acknowledgment written down and the district notice unchanged. | The field reaches past the marked line, a wall that was quiet last week is speaking with somebody living on the other side of it, and the entry closes with a district notice raised. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-The light dims, though nothing blocks it. A wall beside you exhales a word. Another wall answers. Soon the apartment is full of voices speaking through plaster and stone: a goodbye, a name, a warning, a promise. You press your ear closer and understand that the building has not become haunted. It has become a witness.
+The light dims with nothing in the way of it, and a wall beside you lets out a word. Another wall answers, and in a minute the whole street is talking through its plaster: a goodbye, a name, a warning, a promise. Put an ear to it and the understanding arrives that the building is not haunted. It has been a witness for four generations and nobody has ever asked it anything.
 
 
 
-**At first contact:** Cold rain off dry stone, and then the sense of a crowded room in an empty street. The individual words arrive late; what arrives first is the certainty that you have walked in on something.
+**At first contact:** Cold rain coming off dry stone, and then the sense of a crowded room standing in an empty street. The individual words come later; what arrives first is the certainty of having walked in on something long-running.
 
-**With continued exposure:** You stop hearing a noise and start hearing people. The overlap resolves into turn-taking, and the turn-taking is the part that keeps personnel standing in the cold longer than the rotation allows.
+**With continued exposure:** The noise resolves into people. The overlap begins to sound like turn-taking, and the turn-taking is what keeps personnel standing in the cold past the end of a rotation — which is why the walk is timed by clock and not by step.
 
-**When the entity activates:** The field simply reaches further. There is no surge and nothing to see; a wall that was quiet last week is speaking, and somebody lives on the other side of it.
+**When the entity activates:** The field reaches further, and that is the whole of it: no surge, nothing visible, and a wall that was quiet last week is speaking — with somebody living on the other side of it.
 
-**After departure:** It follows people as attentiveness. Workers report hearing the beginnings of speech in plumbing, in wind, in an empty office, for about a week, and the seven-day check asks about exactly that.
+**After departure:** It follows the crew out as attentiveness. For about a week workers hear the beginnings of speech in plumbing, in wind, in an empty office, and the seven-day check asks about precisely that.
 
 ### Interaction Pattern
 
-This site is read against the other things in Old Lament that hold or carry speech. Each relation below has been observed and filed; none is settled; and all three were run at the boundary rather than inside occupied ground.
+The site is read against the other things in Old Lament that hold or carry speech. Each row below was observed and filed and none is settled; all three were run at the boundary rather than inside occupied ground.
 
-**Interaction method:** Baseline each party alone across several rotations before any paired approach, with boundary, overlap density and hour logged throughout. Record the onset of any shared change with its range, duration and trigger, both carries, and what persists after separation. Re-verify each rotation.
+**Interaction method:** Baseline each party alone across several rotations before any pairing, with boundary, overlap density and hour logged throughout. Record the onset of a shared change with its range, duration, trigger, both carries and whatever persists after separation, and re-verify every rotation.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. The site is the oldest thing in the register and the wing's standing caution is that age has repeatedly been mistaken here for influence.
+The rows below are points of contact and not alliances; none is settled. This site is the oldest thing in the register, and the wing's standing caution is that age has repeatedly been taken here for influence.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Record read alongside | What happened at the boundary | What the measurements actually showed | Entry the file requires |
 |---|---|---|---|
 | **The Hollow Choir** | Sings at the walls, which is read across the district as recognition and is the most-cited relation in this file. | Five co-presences. The Choir's singing and the walls' overlap have never been in any measurable relation: no phase alignment, no shared phrase, no boundary movement, and the Choir's own gauge flat throughout. Two sounds in one street. | All five co-presences, the phase measurements, and both flat series. |
 | **The Grieving Colossus** | Will not enter the district, consistently, which is the only avoidance behaviour recorded against this site. | Four approaches, all aborted by the Colossus at between sixty and ninety metres from the boundary. The boundary did not move on any occasion and nothing was exchanged. The wing records a reliable avoidance with no effect in either direction. | All four approaches, the turn-back distances, and the unchanged boundary. |
 | **The Forgotten Soldier** | Stands the perimeter of the district, which residents read as protection and the file does not. | Nine observations over six years. It stands, it does not enter, and nothing it does has ever altered the boundary, the overlap, or any measured quantity here. Residents nonetheless report feeling safer, and the wing records that as a fact about residents. | All nine observations, the unchanged boundary series, and the residents' reports as reports. |
 
-**Interaction procedure:** Solo rotations first, over several cycles, with boundary and overlap established for each party before anything is brought near. Then record the first shared change, its range, duration and trigger, both carries, the dwelling register, and whether anything persists once the parties are separated.
+**Interaction procedure:** Solo rotations first, across several cycles, with boundary and overlap established for each party before anything is brought near. Then enter the first shared change — range, duration, trigger, both carries, the dwelling register — and whether any of it persists after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -386,7 +386,7 @@ Some sorrows are about silence. Whispering Walls are about the whisper — the h
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map and not the territory: the SECC code, the gauge thresholds and the M.A.W. notes are instruments for standing in the street, not substitutes for it. What governs is small and old — a wall run on a painted boundary, 140 households inside it, an overlap that answers to acknowledgment and to nothing else, and a plaster that must not be scraped. Where behaviour departs from this file, the departure is worth more than the record it contradicts and is preserved as evidence rather than tidied away.
 
 **Review requirement:** Re-verify after every expansion, Tide, or unusual interaction: the boundary against the marked line, the wall runs affected, the occupied-dwelling register, the overlap density, and the acknowledgment log. A rotation that did not acknowledge aloud is recorded as incomplete and is re-walked.
 ## Fabric Record
@@ -441,15 +441,17 @@ The objection is minuted at every annual review and is raised by the district's 
 
 ## Trivia
 
-- *Don't forget* is the most frequently recorded utterance on the site, by a margin of four to one over the next.
-- The walls carry testimony the official record does not, and none of it can be used for anything, for the reasons set out in the Fabric Record.
+- The register keeps its own figures in numerals for look-up: gauge 217/217, pressure 3–9 per hit, resistance 15 / 5 per cent, threshold 45 per cent, 4 turns, the weapon at 3–6 and 15 Echoes, the shroud at 10, the stone at 5 per cent and +1, 2 conferrals, and 140 households inside the boundary.
+
+- *Don't forget* is the most frequently recorded utterance on the site, leading the next phrase by 4 to 1 — and the official record keeps the count without the phrase.
+- The walls carry testimony the official record does not hold, and none of it can be used for anything, for the reasons set out in the Fabric Record.
 
 
 
 ### Registry Trivia
 
 - **Classification detail:** Whispering Walls is an Object/Place with Residue (I) — Barely formed, ambient coherence and Minor (α) — Low danger potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone B, Old Lament — ambient, not contained.
+- **Field detail:** Lament is its element and the Old Lament line in Zone B is its registered ground — ambient, not contained, and held by nothing but a painted boundary and a habit of answering.
 - **Recognition detail:** Identify the site by the wall run and the boundary map; there is no object here to recognise and the murals continue into districts that do not whisper.
 - **Record detail:** Read this file beside the verification register and the dwelling register, which together are the whole of what the wing knows and the whole of who it affects.
 - **Containment detail:** There is no containment. The boundary is painted on the street, the field crosses it in both directions, and a hundred and forty households sleep inside it.
