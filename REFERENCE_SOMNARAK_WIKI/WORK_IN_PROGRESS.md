@@ -2037,7 +2037,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 30 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IIβ-250 Memory Rain 기억의 비 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIβ-250_Memory_Rain_기억의_비]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-250_Memory_Rain_%EA%B8%B0%EC%96%B5%EC%9D%98_%EB%B9%84.md "SE-C-IIβ-250_Memory_Rain_기억의_비.md")
+- SE-C-IIβ-250 Memory Rain 기억의 비 — `1f6cb9a` — PUSH VERIFIED — [[SE-C-IIβ-250_Memory_Rain_기억의_비]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-250_Memory_Rain_%EA%B8%B0%EC%96%B5%EC%9D%98_%EB%B9%84.md "SE-C-IIβ-250_Memory_Rain_기억의_비.md")
 **Batch 29 — CLOSED at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IVδ-763 Memorial Flame Mid-Ceremony 사라진 불꽃 — `a6dcab9` — PUSH VERIFIED — [[SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-763_Memorial_Flame_Mid-Ceremony_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B6%88%EA%BD%83.md "SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md")
