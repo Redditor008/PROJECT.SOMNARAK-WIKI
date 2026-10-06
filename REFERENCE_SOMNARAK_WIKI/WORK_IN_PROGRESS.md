@@ -1716,7 +1716,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
-**Batch 25 is closed at ten — the ladder's top rung, every unit pushed and verified.** Ten dossiers, **69 / 69
+**Batch 25 is closed at ten — the ladder's top rung, every unit pushed and verified.** PR #13's batch-25 section carries the same ten links, with the cohort counters and the disclosure list, read back from the API (`gh api` GET at 96,944 characters, section header and all ten unit names verified). Ten dossiers, **69 / 69
 dirty sections closed**, **+6,525 words** net, nothing deleted (`R-15`). Movement across the cohort: `R-29`
 145 → 153 / 301; own numeric series 243 → 246 / 301; section-clean 169 → 177 / 301; residue-free
 251 → 291 / 302; `tpl.py` residue lines 6 → 1 (the stock Resolution line alone remains, 11 holders),
