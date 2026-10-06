@@ -1685,6 +1685,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 
 **Batch 23 — OPEN, five targeted; finished dossiers, each with its SE git link and closing commit** ([`R-12`](RULES/R-12_REFER_TO_GITHUB.md); links generated with `tools/ghlink.py`):
 
+- SE-C-Iα-247 Torn Flower 찢어진 꽃 — `__HASH__` — PUSH VERIFIED — [[SE-C-Iα-247_Torn_Flower_찢어진_꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-247_Torn_Flower_%EC%B0%A2%EC%96%B4%EC%A7%84_%EA%BD%83.md "SE-C-Iα-247_Torn_Flower_찢어진_꽃.md")
 - SE-C-Iα-240 Echo of Kindness 친절의 메아리 — `4913bf2` — PUSH VERIFIED — [[SE-C-Iα-240_Echo_of_Kindness_친절의_메아리]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-240_Echo_of_Kindness_%EC%B9%9C%EC%A0%88%EC%9D%98_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-C-Iα-240_Echo_of_Kindness_친절의_메아리.md")
 - SE-C-Iα-330 Mourner's Bloom 슬픔의 꽃 — `6458f77` — PUSH VERIFIED — [[SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-330_Mourner's_Bloom_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%BD%83.md "SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃.md")
 - SE-C-IIIγ-916 Devouring Bloom 스며든 꽃 — `c972526` — PUSH VERIFIED — [[SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-916_Devouring_Bloom_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EA%BD%83.md "SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md")
@@ -1702,6 +1703,20 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-C-IVδ-125 Dejà Vu 돌아온 열매 — `1e7f61e` — PUSH VERIFIED — [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
+
+**Batch 24, unit 5: Torn Flower `C-Iα-247` closed.** Measured at `517656c`: **7 dirty sections**, worst M.A.W.
+Equipment 0.309 (the 11-dossier harness appearance line and the 13-dossier *reflexes dull, as if armoured by
+resentment* cost line — both residues — plus the sword and charm appearances, the abilities, the set note, the four
+field-use rows and the stat interpretation), then Behavior 0.279, Registrum 0.194 (the 21-dossier operational
+interpretation and the 20-dossier review requirement, and the faction line), Final Observation 0.188, Trivia
+0.129, Flavor Text 0.072 (the 32-dossier isolation line and the header row) and Combat Record 0.055 — all seven
+closed in three waves (19 + 11 + 6 sites; the third pass needed because the appearance shells themselves were the
+shared run); 5,863 → **6,620 words**; `tpl.py` residue 2 → **0**; `verify.py` residual 1 → **0**; `sectfile.py`
+**0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause was already **True** and left
+alone (`R-05`), the file's own figures (the tear's 11, 19 and 26 millimetres from the crown, the 4 to 6 centimetres
+the Sorrow Flower keeps, the Bell's 11 tolls out of 11) carried into the rebuilt rows rather than created for the
+clause. Movement: `R-29` 142 / 301 (series **242**); section-clean 166 / 301; residue-free
+244 / 302; archive dirty 603; file-clean 273 / 302. **Batch 24 stands at five of seven.**
 
 **Batch 24, unit 4: Echo of Kindness `C-Iα-240` closed.** Measured at `62d8b20`: **7 dirty sections**, worst Behavior
 0.307 (the 37-dossier behavior-table line), then M.A.W. Equipment 0.246 (the 12-dossier *unwept grief* cost line —

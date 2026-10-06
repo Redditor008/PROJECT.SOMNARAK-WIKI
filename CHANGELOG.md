@@ -63,6 +63,24 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 24 / unit 5 — Torn Flower `C-Iα-247` closed (2026-10-06)** — measured at `517656c`: **7 dirty
+  sections**, worst M.A.W. Equipment 0.309 (the 11-dossier harness appearance line and the 13-dossier
+  *reflexes dull, as if armoured by resentment* cost line — both residues — the sword and charm appearances, the
+  abilities, the set note, the four field-use rows and the stat interpretation), then Behavior 0.279 (the
+  37-dossier stable-gauge line), Registrum 0.194 (the 21-dossier operational interpretation and the 20-dossier
+  review requirement, plus the faction line), Final Observation 0.188, Trivia 0.129 (the classification, field and
+  containment rows), Flavor Text 0.072 (the 32-dossier isolation line and the header row) and Combat Record 0.055
+  (the resistance row, both combat actions and the Tension/Resolution lines). All seven closed in three waves
+  (19 + 11 + 6 sites; the third pass needed because the appearance shells themselves were the shared run); 5,863 →
+  **6,620 words**; `tpl.py` residue 2 → **0**; `verify.py` residual 1 → **0** (Story Log Entry 1's stock
+  `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series`
+  clause was already **True** and was left alone (`R-05`), with the file's own figures carried into the rebuilt
+  rows rather than created for the clause — the tear's annual record of 11, 19 and 26 millimetres from the crown of
+  the stem, the 4 to 6 centimetres the Sorrow Flower keeps from the split, and the Orphaned Bell's 11 tolls out of
+  11. Movement at the unit commit: `R-29` 142 / 301 (series **242**); section-clean 166 / 301;
+  residue-free 244 / 302; residue lines 7, instances 75, carriers 58 / 302; archive dirty
+  603; file-clean 273 / 302; worst 0.067, median 0.011. **Batch 24 stands at five of seven.**
+
 - **Batch 24 / unit 4 — Echo of Kindness `C-Iα-240` closed (2026-10-06)** — measured at `62d8b20`: **7 dirty
   sections**, worst Behavior 0.307 (the 37-dossier behavior-table line), then M.A.W. Equipment 0.246 (the 12-dossier
   *unwept grief* cost line — the file's residue — the two abilities, the two costs, three appearances, the set note,
