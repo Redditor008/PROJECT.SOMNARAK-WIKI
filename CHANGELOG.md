@@ -63,6 +63,24 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 23 / unit 5 — Face Beneath Masks `N-IIβ-689` closed (2026-10-06)** — measured at `5199f64`: **8 dirty
+  sections**, worst Registrum 0.192 (the shared operations and review paragraphs), then Final Observation 0.143,
+  Breach Behavior 0.085 (movement, breach type, gauge and first-target rows), Combat Record 0.073 (the Total
+  Enclosure and Walls Within Walls rows and the Tension and Resolution phase lines), M.A.W. Equipment 0.072 (the
+  Void Han-gossamer veil and Void Han-glass shard appearance lines, the set notes and three field-use rows), Trivia
+  0.069, Flavor Text 0.052 (the relations preamble and the canonical-points line) and Observation Log. All eight
+  closed in three waves (12 + 17 + 7 sites); 6,633 → **7,812 words**; `tpl.py` residue 1 → **0** (the shard
+  appearance line re-authored); `verify.py` residual 1 → **0** (Story Log Entry 1's stock `is logged as `);
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from
+  **False** to **True** on the file's own counted record — the 18-item schedule fixed since the third year and never
+  varied, 23 enrolled carriers, 6 years of post-service sheet retention, 4 addresses in the Market, 11 third
+  parties named without consent, and the schedule predicting a thickening about 9 days before the carrier notices —
+  **restated from the file, disclosed**; condition and disposition were already satisfied and left alone (`R-05`).
+  Stock pieces were replaced with the holding's own material throughout: the four progression rows onto the draft of
+  a life spent making faces, the behaviour and Breach rows onto the definition going out of a zone, and the M.A.W.
+  charges onto what the pieces actually take — the small personal fact first, then presence, then the certainty of
+  one's own face. **Batch 23 stands at five of five.**
+
 - **Batch 23 / unit 4 — Well of Unfinished Words `N-IIβ-778` closed (2026-10-06)** — measured at `1124a6a`: **8
   dirty sections**, worst Behavior 0.262 (the generic *Work Type responses are not standalone data* line), then
   M.A.W. Equipment 0.147 (the 13-dossier Han-silk shroud appearance line — the file's `tpl.py` residue — plus the

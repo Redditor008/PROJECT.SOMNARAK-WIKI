@@ -1698,6 +1698,16 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 23, unit 5: Face Beneath Masks `N-IIβ-689` closed.** Measured at `5199f64`: **8 dirty sections**, worst
+Registrum 0.192, then Final Observation 0.143, Breach Behavior 0.085, Combat Record 0.073, M.A.W. Equipment 0.072
+(the veil and the shard appearance lines — the file's `tpl.py` residue — the set notes and three field-use rows),
+Trivia 0.069, Flavor Text 0.052 and Observation Log — all eight closed in three waves (12 + 17 + 7 sites); 6,633 →
+**7,812 words**; `tpl.py` residue 1 → **0**; `verify.py` residual 1 → **0**; `sectfile.py` **0 section(s) over
+0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** on the file's own
+counted record — the 18-item schedule, 23 enrolled carriers, 6 years of retention, 4 Market addresses, 11
+third-party names and the 9-day predictive lead — restated from the file and disclosed; the condition and
+disposition clauses were already satisfied and left alone (`R-05`). **Batch 23 stands at five of five.**
+
 **Batch 23, unit 4: Well of Unfinished Words `N-IIβ-778` closed.** Measured at `1124a6a`: **8 dirty sections**, worst
 Behavior 0.262, then M.A.W. Equipment 0.147 (the 13-dossier shroud appearance line, the file's `tpl.py` residue,
 plus the use-notes and the four field-use rows), Final Observation 0.136, Flavor Text 0.107 (the 32-dossier
