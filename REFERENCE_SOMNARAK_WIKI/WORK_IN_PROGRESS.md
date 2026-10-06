@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 30, unit 2: Grieving Love `N-IIIβ-941` closed.** Measured at `1f6cb9a`: **6 dirty sections**, worst Entity
+Interactions 0.139, then Behavior 0.114, Registrum 0.113, M.A.W. Equipment 0.072, Final Observation 0.069 and
+Operational Parameters 0.052 — **closed in a single wave** (33 sites) after one aborted attempt with two
+mis-transcribed anchors (nothing written); 6,242 → **6,645 words**; `tpl.py` residue 0; `verify.py` residual **3 → 0**;
+`sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition re-registered inside the rewritten
+resolution line and held **True**, series held. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free
+@clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 30 stands at two of five.**
+
 **Batch 30, unit 1: Memory Rain `C-IIβ-250` closed.** Measured at `ed0893e`: **6 dirty sections**, worst Final
 Observation 0.145, then M.A.W. Equipment 0.108, Operational Parameters 0.074, Flavor Text 0.067, Combat Record 0.064
 and Expansion Behavior 0.058 — **closed in a single wave** (32 sites); 6,157 → **6,573 words**; `tpl.py` residue 0;
@@ -2036,6 +2044,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 30 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIIβ-941 Grieving Love 슬픈 사랑 — `__HASH__` — PUSH VERIFIED — [[SE-N-IIIβ-941_Grieving_Love_슬픈_사랑]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-941_Grieving_Love_%EC%8A%AC%ED%94%88_%EC%82%AC%EB%9E%91.md "SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md")
 
 - SE-C-IIβ-250 Memory Rain 기억의 비 — `1f6cb9a` — PUSH VERIFIED — [[SE-C-IIβ-250_Memory_Rain_기억의_비]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-250_Memory_Rain_%EA%B8%B0%EC%96%B5%EC%9D%98_%EB%B9%84.md "SE-C-IIβ-250_Memory_Rain_기억의_비.md")
 **Batch 29 — CLOSED at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).

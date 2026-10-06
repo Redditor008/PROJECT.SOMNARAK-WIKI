@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 30 / unit 2 — Grieving Love `N-IIIβ-941` closed (2026-10-07)** — measured at `1f6cb9a`: **6 dirty sections**,
+  worst Entity Interactions 0.139 (the network preamble, the table header and all three relation rows), then Behavior
+  0.114 (the gauge-context paragraph and Reading the Response), Registrum 0.113 (the operational interpretation and the
+  review requirement), M.A.W. Equipment 0.072 (three appearance rows, the effect line, the piece paragraph and four
+  field-use rows), Final Observation 0.069 (the choice blockquote, both option rows and the result row) and Operational
+  Parameters 0.052 (the yield and resistance rows, the extraction bullet and the resolution). **Closed in a single wave**
+  (33 sites) after one aborted attempt in which two anchors were mis-transcribed and **nothing was written**; 6,242 →
+  **6,645 words**; `tpl.py` residue 0 throughout; `verify.py` residual **3 → 0** (the Stigmas note, Story Log Entry 1's
+  `is logged as ` line and the review requirement); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True** with condition and series held. The file's own condition was re-registered inside the rewritten resolution
+  line in its own words (`do not flee her embrace — sit with her grief until she lets go of her own accord`), and the
+  relation rows were re-authored onto the file's own three holdings. Movement at the unit commit: `R-29` 182 / 301;
+  section-clean 207 / 301; residue-free 302 / 302; residue lines 0; archive dirty 290; file-clean 302 /
+  302. **Batch 30 stands at two of five.**
+
+
+
 - **Batch 30 / unit 1 — Memory Rain `C-IIβ-250` closed (2026-10-07)** — measured at `ed0893e`: **6 dirty sections**, worst
   Final Observation 0.145 (the choice blockquote and the condition row), then M.A.W. Equipment 0.108 (both appearance
   rows, the effect line, four field-use rows and the stat interpretation), Operational Parameters 0.074 (the yield and
