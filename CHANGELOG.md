@@ -63,6 +63,22 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 27 / unit 1 — Scar Walker `O-IIIδ-011` closed (2026-10-07)** — measured at `a715ef1`: **6 dirty sections**,
+  worst Final Observation 0.344 (the choice blockquote and both result rows), then Behavior 0.213 (all four Work Type
+  rows, the gauge note and the reading response), Flavor Text 0.078 (the five contact lines, the interaction preamble
+  and method, the record intro, the table header, all three rows and the procedure), Observation Log 0.067 (two rows
+  and the method), M.A.W. Equipment 0.064 (the plate and pendant appearances, the four field-use rows and the Use
+  Notes opener) and Appearance 0.056 (all five profile rows). Both closed in two waves (21 + 18 sites); 5,620 →
+  **5,914 words**; `tpl.py` residue 0 throughout; `verify.py` residual 3 → **0** (the M.A.W. Use Notes opener, Story
+  Log Entry 1's `is logged as `, the stock continued-exposure line); `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** by restating the file's own
+  figures — 24 turns · 60–80 per cent · 10–15 at 50 Echoes · 45 Echoes · 4 per cent · +3 · 4 engagements —
+  **restated from the file, disclosed**; condition and disposition pre-True and left alone (`R-05`). The stock pieces
+  went onto the site's own economics: the escort and the salute into the choice, the conduct readings into the Work
+  Type table, and the survivor pairings onto what a party can actually observe. Movement at the unit commit:
+  `R-29` 158 / 301 (series 251); section-clean 183 / 301; residue-free 302 / 302; residue lines 0;
+  archive dirty 460; file-clean 302 / 302. **Batch 27 stands at one of five.**
+
 - **Batch 26 / unit 5 — Frozen Echo `C-IIIγ-609` closed (2026-10-06)** — measured at `304e14a`: **6 dirty sections**,
   worst Story Log 0.410 (Entry 1's `is logged as ` and Entry 5's stock tale), then M.A.W. Equipment 0.203 (the
   blade, harness and charm appearances, both abilities, the first cost, the effect line, the Charm conferral note,

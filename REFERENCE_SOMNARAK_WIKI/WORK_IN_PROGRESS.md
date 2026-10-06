@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 27, unit 1: Scar Walker `O-IIIδ-011` closed.** Measured at `a715ef1`: **6 dirty sections**, worst Final
+Observation 0.344, then Behavior 0.213, Flavor Text 0.078, Observation Log 0.067, M.A.W. Equipment 0.064 and
+Appearance 0.056 — all six closed in two waves (21 + 18 sites); 5,620 → **5,914 words**; `tpl.py` residue 0
+throughout; `verify.py` residual 3 → **0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**; the
+`own_series` clause closed from **False** to **True** by restating the file's own figures (24 turns, 60–80, 10–15 at
+50, 45, 4 per cent, +3, 4 engagements) — disclosed. Movement: `R-29` 158 / 301; section-clean 183 / 301;
+residue-free 302 / 302; archive dirty 460; file-clean 302 / 302. **Batch 27 stands at one of five.**
+
 **Batch 26, unit 5: Frozen Echo `C-IIIγ-609` closed.** Measured at `304e14a`: **6 dirty sections**, worst Story Log
 0.410, then M.A.W. Equipment 0.203, Final Observation 0.125, Registrum 0.121, Flavor Text 0.095 and Combat Record
 0.076 — all six closed in one wave (29 sites plus the digit line); 7,209 → **7,907 words**; `tpl.py` residue 1 → **0**
@@ -1791,6 +1799,10 @@ above (`R-12`), each with its commit hash and PUSH VERIFIED; the PR #13 section 
 next entry in this file. The full disclosure list lives in the batch-25 CHANGELOG entry: the u3 pipe repair, the
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
+
+**Batch 27 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IIIδ-011 Scar Walker 흉터의 행자 — `__HASH__` — PUSH VERIFIED — [[SE-O-IIIδ-011_Scar_Walker_흉터의_행자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B4-011_Scar_Walker_%ED%9D%89%ED%84%B0%EC%9D%98_%ED%96%89%EC%9E%90.md "SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md")
 
 **Batch 26 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
