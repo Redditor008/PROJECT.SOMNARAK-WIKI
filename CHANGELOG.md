@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 29 / unit 10 — Memorial Flame Mid-Ceremony `C-IVδ-763` closed (2026-10-07)** — measured at `6110265`:
+  **6 dirty sections**, worst Final Observation 0.130 (the choice blockquote, the condition row and the result row),
+  then Story Log 0.119 (Entry 1's `is logged as ` line and the shared origin fragment), M.A.W. Equipment 0.071 (four
+  field-use rows and the stat-interpretation line), Operational Parameters 0.067 (the escalation row and the response
+  sequence), Flavor Text 0.061 (the interaction preamble) and Combat Record 0.052 (two action rows, the tension phase
+  and the resolution). **Closed in two waves** (21 + 2 sites); 6,929 → **7,393 words**; `tpl.py` residue 0 throughout;
+  `verify.py` residual **2 → 0** (the no-breach line and the exposure line's `becomes a texture you can map`);
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held **True** throughout, and
+  series went **False → True** by restating the file's own figures in numerals for the register's look-up (gauge
+  993/993 · pressure 27–60 per hit · resistance 45 / 35 per cent · threshold 90 per cent · weapon 14–22 at 50 Echoes ·
+  suit 45 · Stigma 4 per cent · Max 2 pieces per issue). The shared origin fragment was replaced with this holding's own
+  account — an interrupted rite and a vault left warm — and the relation preamble was re-authored to its real neighbours.
+  Movement at the unit commit: `R-29` 180 / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; residue lines
+  @lines@; archive dirty 303; file-clean @fc@ / 302. **Batch 29 stands at ten of ten — the batch is complete.**
+
+
+
 - **Batch 29 / unit 9 — Anonym `O-Iα-126` closed (2026-10-07)** — measured at `ed8101b`: **5 dirty sections**, worst
   Final Observation 0.164 (the blockquote, condition row and result row), then Behavior 0.159 (the operational work
   notes paragraph), Combat Record 0.062 (two action rows, the escalation row and the resolution), Flavor Text 0.060
