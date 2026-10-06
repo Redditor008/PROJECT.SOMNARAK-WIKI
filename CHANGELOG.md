@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 30 / unit 5 — The Memory Weaver `C-IVγ-009` closed (2026-10-07)** — measured at `381ee7f`: **5 dirty sections**,
+  worst Final Observation 0.286 (the choice blockquote and the result row), then Behavior 0.124 (the 33-hit caution
+  paragraph, whose internal repetition was collapsed), Combat Record 0.094 (the resistance row, three action rows, the
+  tension, the clash — which carried a broken `The team identifies… by personnel should identify` splice — and the
+  resolution), M.A.W. Equipment 0.080 (two appearance rows, the suit cost, the effect and stat lines, the at-limit row
+  and the Stigma note) and Flavor Text 0.063 (the relations preamble, the initial-exposure row and the post-contact
+  review). **Closed in a single wave** (32 sites); 7,896 → **8,380 words**; `tpl.py` residue 0 throughout; `verify.py`
+  residual 0 throughout; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with condition and
+  series held. The file's own condition was re-registered inside the rewritten resolution line in its own words
+  (`present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger`), and all five relation
+  rows plus the table header were re-authored onto the file's own five holdings. Movement at the unit commit: `R-29`
+  186 / 301; section-clean 211 / 301; residue-free 302 / 302; residue lines 0; archive dirty 271;
+  file-clean 302 / 302. **Batch 30 stands at five of five — the batch is complete.**
+
+
+
 - **Batch 30 / unit 4 — The Memory Thief `N-IIIβ-077` closed (2026-10-07)** — measured at `d8f61a4`: **5 dirty sections**,
   worst Final Observation 0.324 (the choice blockquote, the option row and the result row), then Behavior 0.150 (the
   33-hit caution paragraph, whose internal repetition of its own opening line was collapsed), M.A.W. Equipment 0.127
