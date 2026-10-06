@@ -8,6 +8,32 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 30 — CLOSED at five (2026-10-07).** Five dossiers, **27 / 27 dirty sections closed**, **+1,991 words** net
+  (34,807 → 36,798), `verify.py` residuals **8 → 0**, nothing deleted (`R-15`); each unit's SE link, closing commit and
+  PUSH VERIFIED status stand in the batch block in `WORK_IN_PROGRESS.md` (`R-12`). The cohort: Memory Rain `C-IIβ-250` ·
+  Grieving Love `N-IIIβ-941` · Pyre of Truths `C-IVδ-092` · The Memory Thief `N-IIIβ-077` · The Memory Weaver
+  `C-IVγ-009`. Every wave validated at 0 section(s) over 0.05, RESIDUAL 0, RESIDUE 0, `pipe True` and `seam []`, and
+  `wikistd.py` meets **True** on each file at close. Series: one conversion to **True** (u1) by restating the file's own
+  figures in numerals for the register's look-up, disclosed, with no clause prose written to fit the test (`R-05`);
+  every condition and disposition state that already held was left alone, and four units re-registered their own
+  condition inside a rewritten resolution line and held **True**. Movement across the cohort, b29 close → b30 close:
+  `R-29` 180 → **186 / 301**; own numeric series 260 → **261 / 301**; condition 259 → 259 / 301; section-clean 205 →
+  **211 / 301**; residue-free 302 → 302 / 302; `tpl.py` residue lines 0; archive dirty 303 → **271**; file-clean 302 →
+  302 / 302; scene-clean 206 → 212; worst 0.038 → 0.033; median 0.009. Disclosures for the batch: **u1** — the sandbox
+  rolled the checkout back to `408797c` mid-command (rollback #24); the worktree was untouched, the branch was restored
+  level with the remote per the standing recovery procedure, and the unit re-gated cleanly, with only the counter
+  repair noted below. **u2** — one aborted attempt in which two anchors were mis-transcribed; the all-or-nothing guard
+  fired and **nothing was written**. **u3** — the review requirement carried a duplicated `The review requirement:`
+  preamble, collapsed in the rewrite. **u4** — the caution paragraph repeated its own opening line inside itself, and
+  the operational interpretation carried a duplicated `Operational interpretation:` preamble; both collapsed. **u5** —
+  the clash phase carried a broken `The team identifies… by personnel should identify` splice from an earlier pass,
+  rebuilt whole-line, and all five relation rows were re-authored onto the file's own holdings. **Housekeeping,
+  disclosed in its own commit:** the per-unit counter placeholders in the u1–u5 CHANGELOG entries and WIP paragraphs
+  were left unsubstituted by the docs template; each counter was re-measured at its unit's commit and substituted in
+  place (`67236f8`, and the same repair applied to b30 while writing). **Next cohort opens at three or five.**
+
+
+
 - **Batch 30 / unit 5 — The Memory Weaver `C-IVγ-009` closed (2026-10-07)** — measured at `381ee7f`: **5 dirty sections**,
   worst Final Observation 0.286 (the choice blockquote and the result row), then Behavior 0.124 (the 33-hit caution
   paragraph, whose internal repetition was collapsed), Combat Record 0.094 (the resistance row, three action rows, the

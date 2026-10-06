@@ -1716,6 +1716,20 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 30 — CLOSED at five.** Five dossiers, **27 / 27 dirty sections closed**, **+1,991 words** net (34,807 →
+36,798), `verify.py` residuals **8 → 0**, nothing deleted (`R-15`); each unit's SE link, closing commit and PUSH
+VERIFIED status stand in the block below (`R-12`). Movement across the cohort, b29 close → b30 close: `R-29` 180 →
+**186 / 301**; own numeric series 260 → **261 / 301**; condition 259 → 259 / 301; section-clean 205 → **211 / 301**;
+residue-free 302 → 302 / 302; `tpl.py` residue lines 0; archive dirty 303 → **271**; file-clean 302 → 302 / 302;
+scene-clean 206 → 212; worst 0.038 → 0.033; median 0.009. One series conversion (u1, via numerals, disclosed); four
+units re-registered their own condition inside a rewritten resolution line (held **True**). Disclosures: **u1** the
+sandbox rollback #24 — checkout restored level with the remote, unit re-gated cleanly · **u2** one aborted attempt with
+two mis-transcribed anchors, nothing written · **u3** duplicated review-requirement preamble collapsed · **u4** repeated
+caution line and duplicated operational-interpretation preamble collapsed · **u5** a broken clash-phase splice rebuilt
+whole-line and all five relation rows re-authored. **Housekeeping, disclosed:** the b30 per-unit counter placeholders
+were substituted with values re-measured at each unit's commit as the entries were written. **Next cohort opens at
+three or five.**
+
 **Batch 30, unit 5: The Memory Weaver `C-IVγ-009` closed — batch complete.** Measured at `381ee7f`: **5 dirty
 sections**, worst Final Observation 0.286, then Behavior 0.124, Combat Record 0.094, M.A.W. Equipment 0.080 and Flavor
 Text 0.063 — **closed in a single wave** (32 sites); 7,896 → **8,380 words**; `tpl.py` residue 0; `verify.py` residual 0;
@@ -2070,7 +2084,7 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
-**Batch 30 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 30 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IVγ-009 The Memory Weaver 기억의 직공 — `a44809b` — PUSH VERIFIED — [[SE-C-IVγ-009_The_Memory_Weaver_기억의_직공]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-009_The_Memory_Weaver_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%A7%81%EA%B3%B5.md "SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md")
 
