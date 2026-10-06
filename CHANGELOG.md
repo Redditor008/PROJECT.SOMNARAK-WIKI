@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 29 / unit 4 — Feu Follet `O-IIβ-301` closed (2026-10-07)** — measured at `0a977f1`: **5 dirty sections**,
+  worst Story Log 0.202 (the archive-story paragraph in Entry 5, which carried the shared soldier-origin fragment
+  rather than this holding's own), then Final Observation 0.167 (the blockquote, condition row and result row),
+  Operational Parameters 0.074 (the recommended-response row and the M.A.W. extraction bullet), Trivia 0.064
+  (classification, field and record detail) and Flavor Text 0.059 (the interaction preamble and procedure, which sit
+  under that heading). **Closed in a single wave** (14 sites) plus one follow-up site for a stock phrase left in the
+  rewritten watch-record line; 7,422 → **7,633 words**; `tpl.py` residue 0 throughout; `verify.py` residual **3 → 0**
+  (the clash line, Story Log Entry 1's `is logged as `, and the watch-record line's `is logged as a `); the pipe check
+  was clean throughout; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series`
+  clause closed from **False** to **True** by restating the file's own figures — gauge 415/415 · 10–23 per hit ·
+  25 / 15 per cent · 60 per cent · 5–9 at 25 Echoes · 20 · 5 per cent · 3 flame-form holdings · 2 of 3 breaches —
+  **restated from the file, disclosed**. The shared origin fragment was replaced with this holding's own account: one
+  survivor's remembered warmth, admitted to be ordinary, imperfect and over. Movement at the unit commit: `R-29` 174
+  / 301 (series 258); section-clean @sc@ / 301; residue-free @clean@ / 302; residue lines @lines@; archive dirty
+  347; file-clean @fc@ / 302. **Batch 29 stands at four of ten.**
+
+
+
 - **Batch 29 / unit 3 — Dormant Monolith `N-IVδ-909` closed (2026-10-07)** — measured at `07759df`: **6 dirty
   sections**, worst Behavior 0.236 (the operational work notes paragraph), then Origin 0.180 (the expanded origin
   context, which was carrying the archive's shared Architect story rather than this holding's own), Final Observation

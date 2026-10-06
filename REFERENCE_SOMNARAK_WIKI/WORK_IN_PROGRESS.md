@@ -1716,6 +1716,15 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 29, unit 4: Feu Follet `O-IIβ-301` closed.** Measured at `0a977f1`: **5 dirty sections**, worst Story Log
+0.202 (the shared origin fragment in Entry 5), then Final Observation 0.167, Operational Parameters 0.074, Trivia
+0.064 and Flavor Text 0.059 — **closed in a single wave** (14 sites) plus one follow-up patch for a stock phrase left
+inside the rewritten watch-record line; 7,422 → **7,633 words**; `tpl.py` residue 0; `verify.py` residual **3 → 0**;
+`sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**; `own_series` closed from **False** to **True**
+by restating the file's own figures (415/415, 10–23, 25 / 15, 60 per cent, 5–9 at 25, 20, 5 per cent, 3 holdings,
+2 of 3 breaches) — disclosed. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302;
+archive dirty @dirty@; file-clean @fc@ / 302. **Batch 29 stands at four of ten.**
+
 **Batch 29, unit 3: Dormant Monolith `N-IVδ-909` closed.** Measured at `07759df`: **6 dirty sections**, worst Behavior
 0.236, then Origin 0.180 (the shared Architect story in the expanded origin context — re-authored onto this holding's
 own intake account), Final Observation 0.155, M.A.W. Equipment 0.064, Combat Record 0.054 and Trivia 0.053 —
@@ -1954,6 +1963,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 29 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IIβ-301 Feu Follet 녹아내린 불꽃 — `__HASH__` — PUSH VERIFIED — [[SE-O-IIβ-301_Feu_Follet_녹아내린_불꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-301_Feu_Follet_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EB%B6%88%EA%BD%83.md "SE-O-IIβ-301_Feu_Follet_녹아내린_불꽃.md")
 
 - SE-N-IVδ-909 Dormant Monolith 잠든 기둥 — `7acc499` — PUSH VERIFIED — [[SE-N-IVδ-909_Dormant_Monolith_잠든_기둥]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-909_Dormant_Monolith_%EC%9E%A0%EB%93%A0_%EA%B8%B0%EB%91%A5.md "SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md")
 
