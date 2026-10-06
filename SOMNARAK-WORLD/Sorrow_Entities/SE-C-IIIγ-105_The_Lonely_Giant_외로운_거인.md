@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Weight pressure; 25% against other pressure types |
+| **Resistance** | 35% against Weight pressure; 25% against everything else. Nothing is rated against the walking itself: the Giant does not chase, it crosses Zone D placing its feet one at a time, and the percentages describe the pressure that arrives ahead of it, with the tremor. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 633/633 |
 | **Han Pressure [ATK]** | 18–41 per hit · Weight |
@@ -81,14 +81,14 @@
 | { *The Long Reach* [**Debuff**] } | "Its arm comes from impossibly far away — loneliness has made it desperate to touch someone." | [The Giant reaches across the distance; its enormous hand closes near the target.] | *Target suffers -10 Resolve; the reach is inescapable.* **[10 Weight DMG [Weight]]** | When the Giant notices the target. |
 | { *The Empty Hand* [**Debuff**] } | "The hand closes on nothing — and the nothing is the worst part." | [The Giant grasps and finds no one; the rejection deepens its sorrow.] | *Target loses 10 Resolve under the weight of that loneliness.* **[10 Weight DMG [Weight]]** | When the target avoids the hand. |
 | { *The Heavy Step* [**Attack**] } | "One footstep, and the ground buckles for a hundred meters." | [The Giant treads forward; the impact alone is a blow.] | *Inflicts Weight pressure and one tremor-wound.* **[14-22 Weight DMG [Weight]]** | When the Giant moves. |
-| { *The Solitary Howl* [**Attack**] } | "It howls for company — and the sound is heavy enough to break." | [A bellow of pure loneliness, dense with sorrow, crashes outward.] | *A heavy Black wave; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Giant is wounded or ignored. |
-| { *The Alone* [**Ultimate**] } | "It does not want to hurt you. It just cannot bear to be alone — and it will make you understand." | [The Giant spreads its loneliness across the field, pressing everyone into isolation.] | *All personnel suffer Weight pressure for three turns under the weight of solitude.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Solitary Howl* [**Attack**] } | "It howls for company — and the sound is heavy enough to break." | [When it is wounded or left unanswered, the call comes out as weight instead of sound, and the ground around it takes the difference.] | *A heavy Black wave; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Giant is wounded or ignored. |
+| { *The Alone* [**Ultimate**] } | "It does not want to hurt you. It just cannot bear to be alone — and it will make you understand." | [The loneliness spreads out from the figure and presses every worker within the tremor's reach into his own company.] | *All personnel suffer Weight pressure for three turns under the weight of solitude.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies The Lonely Giant by a twenty-metre figure of dark, dense flesh knotted with Han-crystal, walking slowly and placing its feet, warm to stand near, wet stone on the air, and a tremor that arrives before it does, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** Identification first — a 20-metre figure of dark, dense flesh knotted with Han-crystal, walking slowly and placing its feet, warm to stand near, wet stone on the air, and a tremor that arrives before it does. The approach is confirmed, positions are set along the tremor line rather than in the Giant's path, and nothing is done before the ground has answered twice.
 2. **Clash:** No crew closes with it. The work is done seated, at the corridor's width, by one Warden at a time, and the engagement ends on the clock rather than on the gauge.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Share its space and acknowledge its loneliness; do not drive it away by force**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Share its space and acknowledge its loneliness; do not drive it away by force**. The condition is met when a worker has stood within the tremor's line, said aloud what the Giant is carrying, and left it standing where it was; a cycle that ends with the figure driven off is filed as the holding having been made lonelier.
 
 ### Consequences
 
@@ -151,9 +151,9 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. The Lonely Giant is recorded as a Subject with Subject-Body manifestation and Weight elemental expression. The current record places it at Zone D — wanders, semi-contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table is one input among many, and on this holding the code and the coherence level decide what a stable gauge is worth in the field. The Lonely Giant is a Subject with a Subject-Body manifestation and Weight elemental expression, wandering semi-contained through Zone D, and nothing here transfers to another holding with a giant in its name. A stable gauge is not a safe encounter: observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects, and on this figure the specific exposure is company nobody asked for.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A lower gauge is a window and not a door; the pressure returns unless the cycle is sustained, so this is ongoing stabilisation and not healing. A rising gauge means the wrong Work Type has been applied, and the Giant's sorrow is deepening rather than settling. Unusual responses precede events: log them, flag them, and adjust the protocol before the next assignment.
 ## Breach Behavior
 
 > *"The Lonely Giant is off its route. It is not coming for anybody. Clear the line and get out of the way of the walls."*
@@ -181,7 +181,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that pulses with the source sorrow when drawn.
+**Appearance:** a two-handed Weight Han-steel maul, matte and heavier than its length explains, that answers the tremor with a pulse of its own when it is drawn — on a figure that walks, the set's only piece that reads distance.
 
 **Damage:** Weight 7–12
 **Speed:** 3 (Fast)
@@ -202,7 +202,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, matte and heavy across the shoulders, that draws in near the source element: within the tremor's line the weave tightens of its own accord, and the wearer's first warning of the Giant's approach is the coat.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -214,13 +214,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Lonely Giant's kind of pressure.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** The wearer carries a low fatigue that rest does not clear, and the onset is invisible from the inside — the second worker is the one who enters it, never the wearer.
 
 ### M.A.W. Stigma — The Giant's Ring
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a ring of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a ring of Weight Han-steel, matte and heavier than the hand expects, warm to the touch; it is sized to be worn while working and is the piece issued to the workers who will be standing in the tremor line and talking.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
@@ -234,18 +234,18 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### M.A.W. Use Notes
 
-Each piece extends The Lonely Giant rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder feels progressively heavier; prolonged use ages them slightly — arrives early and does not reverse on return.
+All 3 pieces extend the Giant rather than arm anybody against it. The benefit holds only inside the pattern the file records — the figure walking, the tremor arriving first, a worker standing still and speaking — and outside it the charge arrives early and does not reverse on the return: the wearer grows progressively heavier, and prolonged use ages them by a measure nobody has been able to name.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what The Lonely Giant takes: the wielder feels progressively heavier. |
-| **During use** | Watch for The Lonely Giant's toll — the wielder feels progressively heavier — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wielder no longer notices The Lonely Giant's toll — the wearer carries a constant low fatigue — which is how every stand-down on this set has been caught. |
-| **After use** | Piece returned; re-assess a week later, because what The Lonely Giant takes (the wearer carries a constant low fatigue) does not present on the day. |
+| **Before use** | Wielder, piece, and a dated baseline taken by a second person: does the bearer still feel the tremor in the ground, or has the weight settled into them? On this set the charge does not present on the day, and the pre-check is about what has gone quiet rather than what is felt. |
+| **During use** | Watch for the weight arriving without the tremor: the second worker logs the hour it is first seen, and the bearer's account is taken afterwards and set beside the log rather than used to fill it in. |
+| **At limit** | The limit here is silence: the bearer stops registering the weight at all while the fatigue stays in the body. On a Lonely Giant piece the use ends at that point whatever the bearer says, and the call belongs to the observer. |
+| **After use** | The piece comes back, and the bearer is re-assessed a week later because the fatigue does not present on the day; the same second worker asks whether the tremor has returned to the feet or stayed in the shoulders, and the answer goes into the file either way. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grades describe extraction stability and nothing about human safety: a well-graded piece can demand a toll no rating accounts for, and on this set the toll is weight that moves into the wearer and does not leave. Authorise on the cost column — a low-rated piece carrying a severe psychological cost is the ordinary case here.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced. The grade is high because almost everything about this holding is legible from outside: the route is visible, the length is measurable, the behaviour has not varied in sixty years, and nothing about it has ever had to be inferred from damage.
@@ -276,7 +276,7 @@ Each piece extends The Lonely Giant rather than equipping its wielder against it
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Lonely Giant (C-IIIγ-105 [WS]) is logged as a Subject-Body manifestation expressing Weight, tracked rather than held across Zone D. It has never harmed anybody on purpose, it walks the long way round every structure in the district, and the distance it covers to touch nothing is greater at every annual return. The Giant has never intentionally harmed anyone.
+The Lonely Giant (C-IIIγ-105 [WS]) is a Subject-Body manifestation expressing Weight, wandering semi-contained through Zone D. It stands around 20 metres, dark and dense, knotted with Han-crystal, and it walks slowly, placing its feet; the tremor arrives before it does and the air smells of wet stone. It is warm to stand near and it does not pursue; the condition is to share its space, acknowledge aloud what it is carrying, and never to drive it away by force.
 
 **Entry 2 — <Choosing Its Routes>**
 Wanders through Zone D, carefully selecting routes. Personnel feel the weight of isolation; ground tremors may damage structures. It avoids structures even when doing so increases its own isolation.
@@ -292,11 +292,11 @@ The crystallization is traced to Zone D and the withdrawal records of the period
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Lonely Giant; the other feeds it.
+> Two ways to close the same encounter. The file's way: stand inside the tremor line, hold the ground, say aloud what the figure has been carrying, and leave it where it stands. The other way is the closing tool a crew reaches for when a shadow twenty metres tall is between them and the road out.
 
-| Hold to the condition: Share its space and acknowledge its loneliness; do not drive it away by force. | Substitute your own judgement, which on The Lonely Giant has never yet cost less than the condition. |
+| Hold to the condition: stand in the tremor line, share the space, and say aloud what it is carrying — as written, without improvising. | Substitute your own judgement, or push it back: on this holding that has never cost less than the condition, and every attempt to move the Giant has left it standing further from the next crew that came. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is borne; The Lonely Giant is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Lonely Giant withdraws without revelation. |
+| It answers. The weight settles, the walk resumes at its own pace, and the file gains one more line about what it said. | The pushed route: the tremor deepens behind the crew, the gauge climbs, and the giant moves off without another word — the encounter closes as a chase and is filed as one. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -315,7 +315,7 @@ The horizon moves. A twenty-meter figure crosses the district with the care of s
 
 ### Interaction Pattern
 
-The Lonely Giant does not exist in isolation. Its recorded relationships with The Kind Healer, The Forgotten Soldier, The Grieving Colossus, The Smothering Mother should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The Lonely Giant is read beside the 4 holdings the file has paired it with — The Kind Healer, The Forgotten Soldier, The Grieving Colossus and The Smothering Mother — and none of the 4 is treated as an alliance or a hostility: they are resonance candidates, filed as such. In a shared event the team records whether anything changes at all in the tremor, the walking pace, the gauge or the containment, and the standing note is that a resemblance is the reason a pairing was proposed and not a finding that came out of one.
 
 **Interaction method:** Route measured the day before and the day after by the same two Wardens with the wheel, pairing held on open ground, both watches logging in parallel, and no account merged with another.
 
@@ -324,7 +324,7 @@ The Lonely Giant does not exist in isolation. Its recorded relationships with Th
 
 The Lonely Giant must be distinguished from the burden holdings it is grouped with. Hollow Tree keeps work that was never toward anything; this one keeps people who were never refused anything and for whom nothing issued fitted, which is why its figure is a distance walked rather than a weight borne.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
 |---|---|---|---|
 | **The Kind Healer** | The Healer examines it at length — the longest examination in that holding's record — and finds nothing to treat. There is no wound here, only a size. | No movement in either gauge. The Healer's shudder occurs anyway and runs long. | Time the shudder and log the examination's duration. Both figures belong in the Healer's file too. |
 | **The Forgotten Soldier** | The Soldier comes to attention and holds it while the Giant passes. The Giant stops, every time, and waits until the salute ends before going on. | Route length falls by about a kilometre on the days this occurs. | Record the halt and the following day's distance. This is the only thing that shortens the walk. |
@@ -374,14 +374,14 @@ Some sorrows are about belonging lost. The Lonely Giant's sorrow is about belong
 - Formed from citizens for whom nothing issued fitted and who were refused nothing at any point.
 - The walk is nine point six kilometres a day in a district two across, and it lengthens every year.
 **Cross-References:** Zone D · The Smothering Mother · The Grieving Colossus · The Forgotten Soldier · the Issue Office standard-provision rule · the Pattern Book
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED, on the D-territory patrol whose ground the wandering crosses · UCD, on the Fray-adjacent zone. Neither holds a cell for it: the giant wanders Zone D and the management is a route and a sentence spoken aloud.
 **Originator:** Citizens who withdrew until loneliness became immense.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification is the frame and this record is the picture, and neither is a substitute for standing in the tremor line. The facts that govern are these — the figure stands about 20 metres, it places its feet one at a time, the tremor arrives ahead of it, and the condition is to share the space and speak to what it carries rather than to drive it off. Where behaviour deviates from the file, the deviation is the most important data on the holding, and personnel must preserve the contradiction as evidence rather than trying to smooth it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every incident, recheck the gauge, the field, the personnel and the location — and on this holding re-read the route: where the Giant was left standing, how far the tremor carried that day, and whether anybody tried to force it. What was true yesterday may not be true today; the R.D. record describes a living sorrow pattern and not a permanently complete explanation.
 ## Warden Record
 
 ### Care
@@ -430,10 +430,10 @@ The issue clerks asked for one power: to fit a suit to a man in a single case, w
 ### Registry Trivia
 
 - **Classification detail:** The Lonely Giant is a Subject with Fragment (III) — Gentle and sad coherence and Major (γ) — High danger potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone D — wanders, semi-contained.
+- **Field detail:** Element Weight, registered to Zone D — wanders, semi-contained — where containment is a route rather than a perimeter: the figure crosses the district placing its feet, the tremor is read from the ground, and no crew forms a line in its path.
 - **Recognition detail:** A twenty-metre figure of dark, dense flesh knotted with Han-crystal, walking slowly and placing its feet, warm to stand near, wet stone on the air, and a tremor that arrives before it does.
 - **Record detail:** The breach quotation claimed indiscriminate hunting and deliberate pursuit against a First Target row reading *Nobody* and a holding that has never intentionally harmed anyone; the handling line said redirect away from structures against a standing order to track the route and clear it. The Registrum rated the holding Moderate against a Major (γ) header. The Interaction Record carried a related entity named *The Grieving The Lonely Giant*, a substitution fault for The Grieving Colossus. All corrected. The Warden Record, the wide corridor and the specification note are untouched.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** It does not need to breach to be dangerous, and containment here limits movement rather than influence: the sorrow radiates regardless of walls. What the file actually manages is the distance between its walk and anybody's door — and the one thing the record treats as certain is that force makes it worse, because the holding is loneliness and a pushed giant is a lonelier one.
 ## Document Information
 
 **Document ID:** SE-C-IIIγ-105

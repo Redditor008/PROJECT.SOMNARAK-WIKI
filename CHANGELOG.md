@@ -63,6 +63,22 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 25 / unit 3 — The Lonely Giant `C-IIIγ-105` closed (2026-10-06)** — measured at `87f2d72`: **7 dirty
+  sections**, worst Final Observation 0.329 (the choice blockquote, the condition row and the success/fail row),
+  then M.A.W. Equipment 0.228 (the maul, mantle and ring appearances, the second cost, the set note, the four
+  field-use rows and the stat interpretation), Behavior 0.208, Registrum 0.189 (the operational interpretation and
+  review requirement, plus the faction line), Trivia 0.071 (field and containment rows), Combat Record 0.069 (the
+  resistance row, both combat actions, the Tension/Resolution lines and the Resolve bullet) and Flavor Text 0.064
+  (the isolation line and the header row). All seven closed in three waves (18 + 9 + 2 sites); 6,635 → **7,203
+  words**; `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0** (Story Log Entry 1's stock `is logged as `);
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. All three clauses were already
+  **True** and left alone (`R-05`). The stock pieces were rebuilt onto the walk: the condition (share its space,
+  acknowledge its loneliness, never drive it off) went into the resolution and the choice block, the tremor and the
+  footfall into the contact and combat rows, and the M.A.W. rows onto the set's charge — the weight moving into the
+  wearer and not leaving. Movement at the unit commit: `R-29` 147 / 301 (series **242**); section-clean
+  171 / 301; residue-free 242 / 302; residue lines 7, instances 72, carriers 60 / 302;
+  archive dirty 566; file-clean 281 / 302. **Batch 25 stands at three of ten.** The gate's malformed-row check caught the Resistance row missing its trailing pipe; repaired in place, 7,203 → **7,204 words** (one token added), disclosed.
+
 - **Batch 25 / unit 2 — Floating Tree `N-IIIγ-585` closed (2026-10-06)** — measured at `136b701`: **7 dirty
   sections**, worst Behavior 0.272, then M.A.W. Equipment 0.266 (the Lament Han-silk shroud appearance line, both
   abilities, the second cost, the charm appearance, the minor-boon line, the set note and the four field-use rows),
