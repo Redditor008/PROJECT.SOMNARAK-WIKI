@@ -63,6 +63,21 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 27 / unit 4 — Restless Gap `C-IVδ-250` closed (2026-10-07)** — measured at `68eef8f`: **6 dirty sections**,
+  worst Behavior 0.279 (all four Work Type rows, the gauge note and the reading response), then M.A.W. Equipment 0.227
+  (the mantle and anchor-charm appearances, the weapon ability and cost, the set note, the four field-use rows and the
+  stat interpretation), Registrum 0.177 (the operational interpretation, the review requirement and the faction
+  line), Final Observation 0.148 (the choice blockquote and both result rows), Combat Record 0.092 (the resistance
+  row, both shared action rows, all three phases and a consequences bullet) and Trivia 0.057 (two Registry Trivia
+  entries). Both closed in two waves (28 + 7 sites); 7,288 → **7,767 words**; `tpl.py` residue 0 throughout;
+  `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged as `); `sectfile.py` ends at **0 section(s) over
+  0.05**; `wikistd.py` meets **True**, all three clauses already satisfied and left alone (`R-05`). The stock pieces
+  went onto the holding's own evidence: the 846-point gauge, the 5-per-turn escalation and the exit-screen score
+  into the phases and the notes, and the anchor-and-sequence condition into the choice, the resolution and the
+  review. Movement at the unit commit: `R-29` 161 / 301 (series 251); section-clean 186 / 301; residue-free
+  302 / 302; residue lines 0; archive dirty 439; file-clean 302 / 302. **Batch 27 stands at four of
+  five.**
+
 - **Batch 27 / unit 3 — The Hollow Knight `C-IVγ-073` closed (2026-10-07)** — measured at `4f89d0a`: **6 dirty sections**,
   worst Final Observation 0.343 (the choice blockquote and both result rows), then M.A.W. Equipment 0.189 (the blade
   and harness appearances, the weapon ability and cost, the conferred note, the set note, the four field-use rows and
