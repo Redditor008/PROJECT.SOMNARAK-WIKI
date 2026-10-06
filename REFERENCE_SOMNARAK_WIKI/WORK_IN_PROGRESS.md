@@ -2206,7 +2206,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 32 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-O-IIIβ-120 The Wrath Flame 분노의 불꽃 — `__HASH__` — PUSH VERIFIED — [[SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B2-120_The_Wrath_Flame_%EB%B6%84%EB%85%B8%EC%9D%98_%EB%B6%88%EA%BD%83.md "SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md")
+- SE-O-IIIβ-120 The Wrath Flame 분노의 불꽃 — `4621056` — PUSH VERIFIED — [[SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B2-120_The_Wrath_Flame_%EB%B6%84%EB%85%B8%EC%9D%98_%EB%B6%88%EA%BD%83.md "SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md")
 
 - SE-C-IVδ-001 The Orphaned Bell 고아의 종 — `61bd2d7` — PUSH VERIFIED — [[SE-C-IVδ-001_The_Orphaned_Bell_고아의_종]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-001_The_Orphaned_Bell_%EA%B3%A0%EC%95%84%EC%9D%98_%EC%A2%85.md "SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md")
 
