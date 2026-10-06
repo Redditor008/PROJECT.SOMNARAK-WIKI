@@ -1681,6 +1681,10 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 302**; file-clean 235 → **236 / 302**. **Batch 19 is closed at three.**
 
 
+**Batch 23 — OPEN, five targeted; finished dossiers, each with its SE git link and closing commit** ([`R-12`](RULES/R-12_REFER_TO_GITHUB.md); links generated with `tools/ghlink.py`):
+
+- SE-C-Iα-863 Absent Landmark 가라앉은 탑 — `ae168d3` — PUSH VERIFIED — [[SE-C-Iα-863_Absent_Landmark_가라앉은_탑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-863_Absent_Landmark_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%ED%83%91.md "SE-C-Iα-863_Absent_Landmark_가라앉은_탑.md")]
+
 **Batch 22 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (owner's instruction, 2026-10-06, under [`R-12`](RULES/R-12_REFER_TO_GITHUB.md): the SE git link accompanies **every** finished dossier, not only the one just closed; links generated with `tools/ghlink.py`):
 
 - SE-C-IVβ-043 The Silent Maiden 침묵의 처녀 — `a3b724e` — PUSH VERIFIED — [[SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-043_The_Silent_Maiden_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EC%B2%98%EB%85%80.md "SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md")]
