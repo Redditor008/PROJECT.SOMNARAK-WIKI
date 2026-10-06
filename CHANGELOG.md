@@ -82,6 +82,22 @@ This file records notable changes to the public Somnarak Wiki.
   rows. Movement at the unit commit: `R-29` 162 / 301 (condition 259; series 252); section-clean 187 /
   301; residue-free 302 / 302; residue lines 0; archive dirty 432; file-clean 302 / 302. **Batch 27
   stands at five of five.**
+- **Batch 28 / unit 6 — Broken Promise `N-IIIγ-160` closed (2026-10-07)** — measured at `0c6ae1f`: **6 dirty sections**,
+  worst Final Observation 0.127 (the choice blockquote, the condition row and the result row), then Flavor Text 0.087
+  (the intro, all four contact lines, the interaction preamble, method, record intro, table header and the procedure),
+  Combat Record 0.078 (the resistance row, both shared action rows and two phases), Registrum 0.073 (the operational
+  interpretation), M.A.W. Equipment 0.068 (the fang and plate appearances, both abilities, both costs, the shard
+  ability and cost, the effect line, the conferral note, the Use Notes, all four field-use rows and the stat
+  interpretation) and Observation Log 0.065 (the initial-exposure row). **Closed in a single wave** (39 sites plus the
+  digit bullet); 6,925 → **7,550 words**; `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0** (Story Log
+  Entry 1's `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition
+  and series already satisfied and left alone (`R-05`) — the `condition` registration lives in the Detailed Activation
+  Record's `| **Management** |` row and was left untouched. The stock pieces went onto the Row's own filings: the
+  standing order read aloud at the door, the fracture diagram that fills either way, the 3 undisclosed sureties and the
+  quarterly withdrawal into the resolution, the choice and the outcome rows. Movement at the unit commit: `R-29` 166
+  / 301 (series 256); section-clean 191 / 301; residue-free 302 / 302; residue lines 0; archive dirty
+  380; file-clean 302 / 302. **Batch 28 stands at six of seven.**
+
 - **Batch 28 / unit 5 — Every Last Goodbye `C-IVδ-230` closed (2026-10-07)** — measured at `a3bc20f`: **6 dirty
   sections**, worst Behavior 0.251 (all four Work Type rows, Reading the response and the operational work notes),
   then M.A.W. Equipment 0.154 (the disc, veil and token appearances, both abilities, the disc and token costs, the
