@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 32 / unit 6 — The Wrath Flame `O-IIIβ-120` closed (2026-10-07)** — measured at `3f9c0ca`: **4 dirty sections**,
+  worst Behavior 0.219 (the 33-gram behavior-diagnostic paragraph, rebuilt in the file's own terms), then Final
+  Observation 0.159 (the choice blockquote and the choose row), Flavor Text 0.065 (the 32-gram relations preamble, the
+  relations header and the after-departure line) and M.A.W. Equipment 0.055 (two appearance lines, the before/at-limit/
+  after-use rows and the use-notes paragraph). **Closed in a single wave** (13 sites); 6,718 → **6,821 words**; `tpl.py`
+  residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with series and condition held.
+  Both residuals cleared in the same wave: the M.A.W. use-notes line carrying `is a conditional extension of` (rewritten
+  as the Flame's condition carried in metal) and the Story Log Entry 1 `is logged as ` line (now `stands on the register
+  as a Subject-Body manifestation`) — residual **2 → 0**. Movement at the unit commit: `R-29` 197 / 301; section-clean
+  222 / 301; residue-free 302 / 302; residue lines 0; archive dirty 187; file-clean 302 / 302.
+  **Batch 32 stands at six of seven.**
+
+
+
 - **Batch 32 / unit 5 — The Orphaned Bell `C-IVδ-001` closed (2026-10-07)** — measured at `151994c`: **4 dirty sections**,
   worst Final Observation 0.160 (the 9-gram choice blockquote, the choose row and the result row), then M.A.W. Equipment
   0.107 (two appearance lines, the stat-bonus effect, the before/during/at-limit/after-use rows and the stat

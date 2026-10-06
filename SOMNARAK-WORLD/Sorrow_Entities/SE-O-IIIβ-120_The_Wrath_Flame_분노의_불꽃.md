@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. The Wrath Flame is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at The Desolate, near The Scar; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table above is a diagnostic to be read, not a procedure to be followed: it states which Work Type settles this holding and which one moves it. The Flame stands as a Subject with Subject-Body manifestation and Grudge in its element, filed at The Desolate, near The Scar. Two cautions belong with the record. Nothing carries over from a holding whose name resembles this one; the Flame's neighbours are set out in their own section, and not one of them is this. And a gauge that does not move is not the same as a watch that cost nothing — the figure can sit flat while the worker is being reached through memory, ground or identity.
 
 **Reading the response:** The Flame answers conduct, so the response measures the worker as much as the entity. Dimming means the grief was named and accepted; it does not mean the fire is lower. Concentrated heat means the approach read as disrespect, whatever was intended, and the correction belongs in the bearing rather than in the technique. A salute returned is the clearest success this file records, and the exact words used are to be logged with it.
 ## Breach Behavior
@@ -195,7 +195,7 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and blood-warm on the rack, that goes cold the moment it is worn closed.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -213,7 +213,7 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** an ember-charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** an ember-charm of Grudge Han-iron, dark, and warmer in the hand than the room it was kept in.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -227,16 +227,16 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 ### M.A.W. Use Notes
 
-Each piece is a conditional extension of the Flame rather than ordinary equipment, and the condition is the same one the entity sets in the field: respect. Used as intended, the censer and the plate perform to grade. Used against their pattern, the cost scales and the Grudge held in the metal becomes active, which at the Scar means heat arriving from the equipment rather than from the entity. The ember is not issued at all. It is offered, after work the Flame judged respectful, and it cannot be requisitioned.
+Every item in this set is the Flame's condition carried in metal rather than ordinary gear, and the condition it carries is the one the entity sets in the field: respect. Used as intended, the censer and the plate perform to grade. Used against their pattern, the cost scales and the Grudge held in the metal becomes active, which at the Scar means heat arriving from the equipment rather than from the entity. The ember is not issued at all. It is offered, after work the Flame judged respectful, and it cannot be requisitioned.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from The Wrath Flame the recorded cost is that old wounds ache first — the ones long healed, in the order they were received — and faint bruising rises along the same lines. |
+| **Before use** | Wielder and piece, the day's reading, and a baseline written down and lodged with a second worker. The cost opens along old wounds — the fully healed ones first, in the order they were taken — with faint bruising following the same lines, which is why the baseline is compared against a body and not against a figure. |
 | **During use** | Watch for The Wrath Flame's toll — old wounds ache first — the ones long healed, in the order they were received — and faint bruising rises along the same lines — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The Wrath Flame's cost is continuous rather than occasional: reflexes slow. The wearer answers a half-second late and remains certain they answered at once. The second worker's call stands against the wielder's. |
-| **After use** | Return, reconcile the baseline, and record whether The Wrath Flame's toll has reversed: reflexes slow. The wearer answers a half-second late and remains certain they answered at once. Where it has not, the piece is not reissued to that wielder. |
+| **At limit** | The toll here runs continuously rather than in bursts: the reflexes go slow, and the bearer answers half a second late while being certain they answered at once. On this piece the second worker's call stands against the wielder's. |
+| **After use** | Return the piece, reconcile the baseline, and enter whether the Flame's toll has lifted — the delay and the certainty have to have gone together. Where they have not, the piece is not reissued to that bearer. |
 
 **Stat interpretation:** The grade tells you what the censer does to the Flame. It tells you nothing about what the ember does to the wearer, which is to put anger on the face at the moment it is least useful. The grade is the cheaper half of the reading.
 ## 관찰 기록 (Observation Log)
@@ -266,7 +266,7 @@ Each piece is a conditional extension of the Flame rather than ordinary equipmen
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Wrath Flame (O-IIIβ-120 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Flame formed from the rage of the six factions that fought in the Occlusihan. Held at The Desolate, near The Scar. It has never attacked a respectful visitor.
+The Wrath Flame (O-IIIβ-120 [GS]) stands on the register as a Subject-Body manifestation expressing Grudge. The Flame formed from the rage of the six factions that fought in the Occlusihan. Held at The Desolate, near The Scar. It has never attacked a respectful visitor.
 
 **Entry 2 — <Excerpt from Field Log, Year 4230>**
 Patrols beyond The Scar and along the Desolate border. Disrespectful personnel experience the rage of the Occlusihan. The Flame patrols the same rift repeatedly.
@@ -282,9 +282,9 @@ The Director notes: this sorrow is representative, not anomalous. It is the city
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Wrath Flame; the other feeds it.
+> The watch on the Flame closes one of two ways, and the file separates them by whether the observer gives the war its due with ceremony and the dead their names, or decides for themselves what the moment calls for.
 
-| Do the thing on file: Bow or salute; acknowledge the war and the dead. | Substitute your own judgement, which on The Wrath Flame has never yet cost less than the condition. |
+| Bow or salute as the sheet requires, acknowledge the war aloud, and name the dead before leaving the ground. | Substitute your own judgement — skip the acknowledgement, give the war a different meaning, or decide the dead can be honoured later. |
 |---|---|
 | Fire dims in recognition of shared grief. The sorrow is named; The Wrath Flame is fully recorded. | Attacks with concentrated heat. The gauge climbs and The Wrath Flame withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -301,11 +301,11 @@ The Scar glows before the Flame appears. A humanoid fire walks through the dust,
 
 **When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Grudge pressure spikes — not gradually but like a door slamming open. The Subject-Body shifts from presence to action.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Grudge in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** The door seals and the pressure comes down, but the watch leaves something behind: Grudge in the suit fibres, in the recollection, and in that thin space between thoughts where a Fracture starts.
 
 ### Interaction Pattern
 
-The Wrath Flame does not exist in isolation. Its recorded relationships with The Scar Walker, The Forgotten Soldier, The Orphaned Bell should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings stand in the Flame's working range — The Scar Walker, The Forgotten Soldier and The Orphaned Bell — and each is a question about resonance rather than an alliance or a feud. Any pairing that is run is entered with whatever the response did in sound, movement, temperature, memory pressure, gauge or containment stability, distance, duration and trigger recorded beside it.
 
 **Interaction method:** Take the Flame's baseline alone, on its route, before recording it alongside anything else. With the Scar Walker the two share a patrol and the gauge reads lower for both. With the Orphaned Bell the fire visibly dims on the toll and does not recover until the sound has gone; record the toll, the distance, and how long the dimming lasts, because that last figure has not held steady across two cycles.
 
@@ -314,7 +314,7 @@ The Wrath Flame does not exist in isolation. Its recorded relationships with The
 
 The Flame is one of several things still carrying the Occlusihan at the Scar, and it behaves differently when another of them is present. The entries below are the relationships the record will stand behind. None of them are alliances. They are the war continuing to arrange its survivors.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Nearby holding | How the two have stood | What the watch logged | What the entry carries |
 |---|---|---|---|
 | **The Scar Walker** | Shares the patrol and the same war. | They overlap on the eastern leg for roughly forty minutes a pass and both gauges read lower throughout. Nobody arranged it and nobody can end it; it is the only standing arrangement at the Scar that costs the facility nothing. | Overlap times, both gauges, and the point at which each rejoins its own route. |
 | **The Forgotten Soldier** | Salutes the Flame, and the salute is returned. | Recorded twice. On both occasions the Flame halted — the warning posture — and then returned the gesture instead of acting, which is the only time halting has resolved without heat or acknowledgement from a person. | The exchange, the halt duration, and both holdings' books, filed together. |
