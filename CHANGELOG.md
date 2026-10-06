@@ -63,6 +63,24 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 23 / unit 4 — Well of Unfinished Words `N-IIβ-778` closed (2026-10-06)** — measured at `1124a6a`: **8
+  dirty sections**, worst Behavior 0.262 (the generic *Work Type responses are not standalone data* line), then
+  M.A.W. Equipment 0.147 (the 13-dossier Han-silk shroud appearance line — the file's `tpl.py` residue — plus the
+  set's use-notes and four field-use rows), Final Observation 0.136, Flavor Text 0.107 (the 32-dossier isolation
+  line and three shared contact paragraphs), Observation Log 0.107 (all four progression rows), Appearance 0.054,
+  Trivia 0.052 and Activation Behavior 0.052. All eight closed in two waves (12 + 10 sites); 6,160 → **6,865
+  words**; `tpl.py` residue 1 → **0** (the shroud appearance line re-authored); `verify.py` residual 1 → **0**
+  (Story Log Entry 1's stock `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True**. The `own_series` clause closed from **False** to **True** on the file's own counted record — 51 counted
+  at the gathering by the 2 who returned to the site, 0 speakers who finished, 3 drainage attempts each returning
+  the water higher within a shift, and the reference case session 212 (2 hours and 11 minutes, the fall coming from
+  the ending and not from the duration) — **restated from the file, disclosed**; condition and disposition were
+  already satisfied and left alone (`R-05`). Stock pieces were replaced with the holding's own material: the
+  behaviour notes rebuilt around the level as the only instrument, the interaction preamble and rows onto the four
+  border holds that share the dispersal morning, and the M.A.W. charges onto the set's own property — it holds a
+  thing that was said, and what it spends is the operator's capacity to let something go unspoken. **Batch 23
+  stands at four of five.**
+
 - **Batch 23 / unit 3 — Rising Wall `C-IVδ-255` closed (2026-10-06)** — measured at `c3207f1`: **8 dirty sections**,
   worst Behavior 0.311 (the 55-dossier *Read the behavior table as a diagnostic, not a prescription* line), then
   Breach Behavior 0.278 (the shared movement, containment-priority and gauge rows), M.A.W. Equipment 0.186 (the

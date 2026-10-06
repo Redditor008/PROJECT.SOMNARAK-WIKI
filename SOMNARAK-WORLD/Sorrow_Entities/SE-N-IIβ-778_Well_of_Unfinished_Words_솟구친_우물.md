@@ -118,7 +118,7 @@
 |---|---|
 | **Form** | A well rising from border ground, filled with liquid sorrow that climbs rather than falls. Nearby walls lean toward it. |
 | **Position / movement** | Stationary — a structure or location. The Well of Unfinished Words file carries the series rather than a single reading. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Material / signature** | Lament, and nothing a camera can hold: the liquid climbs a shaft it should not climb, shows no reflection at any level, and is read against a graduated staff fixed to the inner wall. The walls around it lean inward by an amount the survey reports annually with its error stated. |
 | **Distinctive markers** | Identify it by the climb and the absence of reflection. Other standing water is recorded on the border; this is the one whose surface rises in the shaft and shows nothing of whoever leans over it. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Verify these observations against the SECC code before work or contact begins; several Zone E records share this origin, and arriving with the wrong one means arriving prepared to answer an entity that must only be heard. |
 
@@ -145,7 +145,7 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Well of Unfinished Words is recorded as an Object/Place with Place-Lament manifestation and Lament elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+**Two of the four responses are unavailable and the table is read in that light.** Nothing is consoled here and nothing is confronted; the Well takes Viderehan and Ferrehan and answers neither on the day. The instrument is the level against the coping mark, and it moves only while somebody is speaking: a stable reading under Viderehan means the grief in the water was read and seen, which is what that approach is for, and a fall under Ferrehan means a testimony arrived at its own ending. A rising level is the holding's one alarm, and it means somebody interrupted, completed another person's sentence for them, or called time — the third of those most often of all, since a session closed by the clock is an interruption whether or not the log describes it as one.
 
 **Reading the response:** A falling level under Ferrehan means a testimony reached its end without being cut into. A stable level under Viderehan means the grief in the water was read and seen, which is the correct outcome for that approach and is not a failed session. A rising level means somebody interrupted, finished another person's sentence for them, or called time.
 ## Activation Behavior
@@ -187,7 +187,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 ### Escalation Notes
 
-The escalation pattern here is measured in sentences rather than in turns: the level rises by a fixed increment for each testimony that is cut short, holds for as long as somebody is speaking however long they take, and falls when one is allowed to end. It is not a generic containment event. Personnel must record the first trigger, the visible change in the Place-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
+The escalation is counted in sentences, not turns: the level rises by a fixed increment for every testimony cut short, holds for as long as somebody is speaking however long they take, and falls only when one is allowed to arrive at its own ending. Personnel log the first trigger, the visible change in the Place-Lament form, the distance at which the effect begins, and the boundary where the resonance settles; alongside those go the emotional and behavioural indicators, since on a Lament hold at the border the telemetry and the account disagree less often than the wing expects and the account is the earlier warning of the two.
 
 **Response sequence:** Secure the perimeter; confirm the event is an activation and not a channel surge from the border ground; withdraw personnel who are not there to listen; then satisfy the management condition, which is to let whoever is speaking arrive at their own ending. Do not drain the Well — the three recorded drainage attempts each returned the water within a shift, higher.
 
@@ -234,7 +234,7 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a shroud of Lament Han-silk in undyed grey, cold to the hand, that stays damp through a full session and dries slowly afterwards.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -266,16 +266,16 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Well of Unfinished Words and carries what Well of Unfinished Words carries: the wielder carries the Well's unwept grief and weeps involuntarily, usually part-way through saying something else. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+Every piece in this set carries the Well's one property: it holds a thing that was said. The sceptre keeps a sentence the target never finished, the shroud lets a worker stand at the coping through an ending without needing to supply one, and the vial preserves a single testimony whole. What all three spend is the operator's own capacity to let something go unspoken, and the pieces do not take memories — they take the option of silence, which is why the vial is the one that costs least to wear and the one whose bearers are most often found at the coping after hours.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Well of Unfinished Words's toll being that the wielder carries the Well's unwept grief and weeps involuntarily, usually part-way through saying something else. |
-| **During use** | Well of Unfinished Words charging, which presents as this: the wielder carries the Well's unwept grief and weeps involuntarily, usually part-way through saying something else. The wielder's own account is taken separately and afterwards. |
-| **At limit** | Well of Unfinished Words's cost is continuous rather than occasional: the wearer goes numb to small pleasures, and tends to notice first that other people's good news no longer registers. The second worker's call stands against the wielder's. |
-| **After use** | Piece returned; re-assess a week later, because what Well of Unfinished Words takes (the wearer goes numb to small pleasures, and tends to notice first that other people's good news no longer registers) does not present on the day. |
+| **Before use** | Wielder, piece, the level against the coping mark at issue, and one pre-check made by the second worker rather than the wielder: whether the operator can leave a sentence unfinished today. The toll on this set is the capacity to keep something back, and it does not present on the day, so the pre-check is a question about the operator's own week and not about the water. |
+| **During use** | The charge presents as the operator starting to say more than the work requires — the Well is good at listening, which is the whole of what it was made to need, and a worker on a long session begins speaking into the shaft themselves. The second worker logs the hour it is first seen rather than the hour it is first mentioned, and does not interrupt the session to give the operator this information. |
+| **At limit** | The wearer has gone numb to small pleasures and has begun to notice that other people's good news no longer registers; on the vial-bearers the same limit presents first as being unable to leave a conversation unfinished, which is why they are over-represented on the Well's own roster. The second worker calls the limit at either sign and the call stands against the wielder's. |
+| **After use** | Piece returned and re-assessed a week later rather than on the day, because the numbness does not present at once: the pre-check question is asked again by the same second worker, and an operator who cannot now say what they could leave unfinished a week ago is not issued the piece again. |
 
 **Stat interpretation:** Grade is not safety, and on this post it is close to irrelevant. Nothing here is decided by equipment. What the table cannot show is that the vial, which costs almost nothing to wear, makes its bearer unable to leave a conversation unfinished — and that this is why vial-bearers are over-represented on the Well's own roster.
 ## 관찰 기록 (Observation Log)
@@ -294,10 +294,10 @@ Every piece in this set is a fragment of Well of Unfinished Words and carries wh
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Well of Unfinished Words as an Object/Place with Place-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone E, Border region. |
-| **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The trigger on file: Leaning over the stone coping and whispering an unsaid confession. Log the time, the witnesses, and the condition of the holding before and after. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Well of Unfinished Words's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | The level against the coping mark, read in silence by one person before anybody speaks, and the lean of the surrounding walls before the shaft is in view. The series this holding keeps is a record of a single morning: 51 people counted at the gathering by the 2 who returned to the site, 0 speakers who finished, and — on the reference case — session 212, one worker, 2 hours and 11 minutes, and a fall of roughly one handspan at the moment the worker stopped and said nothing further. |
+| **Sustained observation** | The observation is a transcription of an ending and not of a subject: what was being said, who stopped it and how, the level before and after, and whether the speaker was offered the chance to finish afterwards — the last of those being the only intervention that has ever brought a level back down. Readings are still taken in silence, and the person taking them does not speak during a testimony, because on this holding the instrument is also the treatment and interrupting to take a measurement destroys the thing being measured. |
+| **Activation or escalation** | The trigger is a confession whispered over the coping, and the escalation is measured in sentences rather than turns: the level rises by a set increment for each testimony cut short and falls when one is allowed to end. Three drainage attempts are on record and each returned the water within a shift, higher than before. The response sequence has not changed — secure the perimeter, withdraw everybody who is not there to listen, and then let whoever is speaking arrive at their own ending, however long that takes. |
+| **Post-contact review** | The level at entry and at exit, the lean of the walls, the minute the testimony ended and who decided that it had, and whether any part of it was cut short by the clock. Sessions closed by a shift ending are reviewed unconditionally, and the review examines the scheduling rather than the worker: the file's position, stated once and never revised, is that a session closed on schedule is an interruption whether or not the log says so, and that the water will hold the difference until somebody comes back to finish it. |
 
 **Observation method:** Record the first sign, which is the lean of the walls before the shaft is in view; the first sensation, which is the impulse to say something that has been put off; the level against the coping mark at entry and exit; and the condition that ends the encounter, which is a testimony reaching its own end. Record who decided it had ended.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -305,7 +305,7 @@ Every piece in this set is a fragment of Well of Unfinished Words and carries wh
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Well of Unfinished Words (N-IIβ-778 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Well formed from mourning that had no witness. Held at Zone E, Border region. It is most active at border funerals and departures.
+Well of Unfinished Words (N-IIβ-778 [LP]) is a Place-Lament manifestation expressing Lament, formed where border mourners gathered to speak of their dead and were moved on before the first of them had finished. Held at Zone E in the border region. The liquid climbs the shaft rather than settling, the surface shows no reflection, and the level is the reading on every occasion.
 
 **Entry 2 — <Border Funeral Notes, Zone E>**
 Survey taken three days after the dispersal. Present at the gathering: fifty-one, by the count of the two who returned to the site. Speakers who finished: none. The notes record that the ground was already damp at the centre of where the mourners had stood, and that neither witness could say what had been said, only that the first speaker was four or five sentences in.
@@ -321,11 +321,11 @@ The archive cross-references this entity with its registered location — the so
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Well of Unfinished Words; the other feeds it.
+> Two ways to end the same session. One is the resolution on file — let the testimony reach its own ending and do not drain the Well — and the other is the intervention that looks like kindness from outside the chamber.
 
 | Do the thing on file: Allow testimony to finish; do not drain the Well. | Do the obvious, decent thing instead, and feed Well of Unfinished Words. |
 |---|---|
-| Requires the worker to remain and listen without interruption. The sorrow is witnessed; Well of Unfinished Words is fully recorded. | Reveals the grief embedded in the water. The gauge climbs and Well of Unfinished Words withdraws without revelation. |
+| Do the thing on file: stay at the coping, let the testimony arrive at its own ending even if that takes hours past the shift, and leave the water where it stands. | Intervene instead — drain the shaft, cap the session on the clock, complete somebody's sentence for them, or take the speaker away mid-account — and the level rises by a set increment and stays risen, with no event occurring in between. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -334,9 +334,9 @@ The walls lean inward before the Well appears. Liquid climbs from a hole in the 
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A well rising from border ground, filled with liquid sorrow that climbs rather than falls. Nearby walls lean toward it. Notable Features: It listens to spoken grief, overflows when ignored, and produces no reflection. Identification Profile: The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Place-Lament form.
+**At first contact:** The lean comes before the well does. Walls around the border ground incline toward a shaft that is not yet in view, and the first sensation reported is not dread but an impulse to say something that has been put off for years. The well itself resolves late by comparison: a rough stone coping, liquid standing higher in the shaft than the ground should allow, and a surface that returns nothing of whoever is leaning over it.
 
-**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Lament presses hardest, where it recedes, where the Place-Lament lets you breathe.
+**With continued exposure:** The chamber becomes a place where sentences are expected to finish. Workers report the specific discomfort of hearing a colleague stop mid-thought and being unable to supply the rest, and the file's instruction for that moment is the whole of the procedure — wait, do not help, and let them find their own end.
 
 **When the entity activates:** The shift happens between one breath and the next. The Place-Lament crosses from presence to action, and the Lament goes from weather to weapon.
 
@@ -344,14 +344,14 @@ The walls lean inward before the Well appears. Liquid climbs from a hole in the 
 
 ### Interaction Pattern
 
-Well of Unfinished Words does not exist in isolation. Its recorded relationships with The Memory Well, The Undersong, The Whispering Walls should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Well of Unfinished Words is read beside the three border records that share its morning, and the sharing is a fact about one dispersal rather than a bond between four entities. The Memory Well keeps liquid memory and does not listen; The Undersong carries testimony past the border and does not hold it; The Whispering Walls lean toward whatever is spoken and repeat it; and the four are entered here because they stood in one place when the gathering was moved on, not because they recognise each other. The file's caution is flat: a silent shared encounter on this holding is a null and is to be logged as one.
 
 **Interaction method:** Baseline the Well across a full session rather than a fixed interval, since its reading changes only when someone is speaking. In shared conditions, record whether the level moved while the other entity was present, whether the lean changed direction, and whether anything was said at all — a silent shared encounter here is a null result and should be logged as one.
 
 
 ### Entity Interaction Record
 
-The Well is filed with the border records because the dispersal that made it also ended several other things that day. The relationships below are what the archive will support. They are not alliances; they are what was left in one place by one morning, and the Well is the part of it that is still waiting for somebody to finish.
+The Well is filed with the border records because the dispersal that made it also ended several other things that morning, and the rows below are what the archive will support about four holds that have only ever been examined as a group once. None of the four is an alliance, and the Well is the only one of them that is still waiting for a sentence to be finished.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -359,7 +359,7 @@ The Well is filed with the border records because the dispersal that made it als
 | **The Undersong** | Carries testimony beyond the border. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Whispering Walls** | Walls lean toward its stories. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Full-session solo baseline first, then the shared encounter: the level before, during and after, the distance at which the water responded, how long any change held, and whether a testimony given in the other entity's presence still brought the level down. That last question is unresolved after four attempts.
+**Interaction procedure:** Baseline the Well across a full session rather than a fixed interval, because its reading only moves while somebody is speaking, then take the shared encounter with the same discipline: the level before, during and after, the distance at which the water responded, how long any change held, and whether a testimony given in the other hold's presence still brought the level down. That last question is unresolved after four attempts, and the file keeps the four as four rather than reporting a finding.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -435,7 +435,7 @@ People gathered at the border to speak of their dead and were moved on before an
 ### Registry Trivia
 
 - **Classification detail:** Well of Unfinished Words is an Object/Place with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone E, Border region.
+- **Field detail:** Element Lament, registered to Zone E in the border region, where the level is the state: 51 counted at the gathering by the 2 who went back, 0 speakers who finished, 3 drainage attempts each returning the water higher within a shift, and a reference session — 212 — in which the fall came from the ending and not from the duration.
 - **Recognition detail:** Identify it by the climb and the absence of reflection. Other standing water is recorded on the border; this is the one whose surface rises in the shaft and shows nothing of whoever leans over it.
 - **Record detail:** Check the designation before approach. Several Zone E records come from the same dispersal and they want opposite things — this is the one that must not be answered, only heard out.
 - **Containment detail:** A quiet Well is not a contained one. The level is the state, it holds at whatever height it was left at, and a chamber that has been undisturbed for a season will be exactly as full as the last interruption left it.

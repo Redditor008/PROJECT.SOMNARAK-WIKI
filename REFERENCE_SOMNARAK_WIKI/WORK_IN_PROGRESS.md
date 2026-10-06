@@ -1685,7 +1685,8 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 
 **Batch 23 — OPEN, five targeted; finished dossiers, each with its SE git link and closing commit** ([`R-12`](RULES/R-12_REFER_TO_GITHUB.md); links generated with `tools/ghlink.py`):
 
-- SE-C-IVδ-255 Rising Wall 솟아오른 벽 — `f74baee` — PUSH VERIFIED — [[SE-C-IVδ-255_Rising_Wall_솟아오른_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-255_Rising_Wall_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%B2%BD.md "SE-C-IVδ-255_Rising_Wall_솟아오른_벽.md")
+- SE-C-IVδ-255 Rising Wall 솟아오른 벽 — `f74baee` — PUSH VERIFIED —
+- SE-N-IIβ-778 Well of Unfinished Words 솟구친 우물 — commit recorded on completion — [[SE-N-IIβ-778_Well_of_Unfinished_Words_솟구친_우물]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-778_Well_of_Unfinished_Words_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%9A%B0%EB%AC%BC.md "SE-N-IIβ-778_Well_of_Unfinished_Words_솟구친_우물.md") [[SE-C-IVδ-255_Rising_Wall_솟아오른_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-255_Rising_Wall_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%B2%BD.md "SE-C-IVδ-255_Rising_Wall_솟아오른_벽.md")
 - SE-O-IIIγ-915 Corrosion Dream 녹슨 다리 — `a324ee3` — PUSH VERIFIED — [[SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-915_Corrosion_Dream_%EB%85%B9%EC%8A%A8_%EB%8B%A4%EB%A6%AC.md "SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md")
 - SE-C-Iα-863 Absent Landmark 가라앉은 탑 — `ae168d3` — PUSH VERIFIED — [[SE-C-Iα-863_Absent_Landmark_가라앉은_탑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-863_Absent_Landmark_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%ED%83%91.md "SE-C-Iα-863_Absent_Landmark_가라앉은_탑.md")]
 
@@ -1696,6 +1697,18 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-C-IVδ-125 Dejà Vu 돌아온 열매 — `1e7f61e` — PUSH VERIFIED — [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
+
+**Batch 23, unit 4: Well of Unfinished Words `N-IIβ-778` closed.** Measured at `1124a6a`: **8 dirty sections**, worst
+Behavior 0.262, then M.A.W. Equipment 0.147 (the 13-dossier shroud appearance line, the file's `tpl.py` residue,
+plus the use-notes and the four field-use rows), Final Observation 0.136, Flavor Text 0.107 (the 32-dossier
+isolation line and three shared contact paragraphs), Observation Log 0.107, Appearance 0.054, Trivia 0.052 and
+Activation Behavior 0.052 — all eight closed in two waves (12 + 10 sites); 6,160 → **6,865 words**; `tpl.py`
+residue 1 → **0**; `verify.py` residual 1 → **0** (Story Log Entry 1); `sectfile.py` **0 section(s) over 0.05**;
+`wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** on the file's own counted
+record — 51 counted at the gathering by the 2 who returned, 0 speakers who finished, 3 drainage attempts each
+returning the water higher within a shift, and session 212 (2 hours 11 minutes, the fall from the ending rather
+than the duration) — restated from the file and disclosed; the condition and disposition clauses were already
+satisfied and left alone (`R-05`). **Batch 23 stands at four of five.**
 
 **Batch 23, unit 3: Rising Wall `C-IVδ-255` closed.** Measured at `c3207f1`: **8 dirty sections**, worst Behavior
 0.311 (the 55-dossier *Read the behavior table as a diagnostic, not a prescription* line), then Breach Behavior
