@@ -1733,7 +1733,7 @@ sections closed**, **+3,909 words** net, nothing deleted (`R-15`). Movement acro
 its floor for the first time, a **threshold effect rather than an extinction**: the stock Resolution row fell
 from 11 holders at open to 9, below the tool's 10-holder bar, and 9 dossiers still carry that exact line
 individually (disclosed); archive dirty 508 → 467; file-clean 291 → 301 / 302; scene-clean
-178 → 182; worst 0.061 → 0.054. Every unit's SE link is in the block above (`R-12`); the PR #13 section carrying
+178 → 182; worst 0.061 → 0.054. Every unit's SE link is in the block below (`R-12`), re-flowed out of the running list on 2026-10-06 because row inserts had been landing mid-paragraph; the PR #13 section carrying
 the same five links is the next entry in this file. Disclosure list: guards 21–26 (all safe redos), the own-series
 digit restatements on u1, u3, u4 and u5, and the condition closures on u1 and u4 — full text in the batch-26
 CHANGELOG entry. **Next cohort opens at three or five.**
@@ -1780,21 +1780,25 @@ layers in place, and take nothing out*), and `own_series` was restated from the 
 178 / 301; residue-free 292 / 302; archive dirty 501; file-clean 291 / 302. **Batch 26 stands at one of
 five.**
 
-**Batch 25 is closed at ten — the ladder's top rung, every unit pushed and verified.** - SE-C-IIIγ-609 Frozen Echo 얼어붙은 메아리 — `107115e` — PUSH VERIFIED — [[SE-C-IIIγ-609_Frozen_Echo_얼어붙은_메아리]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-609_Frozen_Echo_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-C-IIIγ-609_Frozen_Echo_얼어붙은_메아리.md")
-- SE-N-IVδ-641 Home to No One Who Knew Me 돌아온 유물 — `ea07d68` — PUSH VERIFIED — [[SE-N-IVδ-641_Home_to_No_One_Who_Knew_Me_돌아온_유물]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-641_Home_to_No_One_Who_Knew_Me_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%9C%A0%EB%AC%BC.md "SE-N-IVδ-641_Home_to_No_One_Who_Knew_Me_돌아온_유물.md")
-- SE-C-IIIβ-014 The Debt Eater 빚을 먹는 자 — `5f2ec8a` — PUSH VERIFIED — [[SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-014_The_Debt_Eater_%EB%B9%9A%EC%9D%84_%EB%A8%B9%EB%8A%94_%EC%9E%90.md "SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md")
-- SE-O-IVδ-151 Border Tree 스며든 나무 — `fcfae41` — PUSH VERIFIED — [[SE-O-IVδ-151_Border_Tree_스며든_나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IVδ-151_Border_Tree_스며든_나무.md")
-- SE-C-IVδ-219 Soaking Shard 솟구친 조각 — `688b79c` — PUSH VERIFIED — [[SE-C-IVδ-219_Soaking_Shard_솟구친_조각]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-219_Soaking_Shard_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%A1%B0%EA%B0%81.md "SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md")
+**Batch 25 is closed at ten — the ladder's top rung, every unit pushed and verified.**
 PR #13's batch-25 section carries the same ten links, with the cohort counters and the disclosure list, read back from the API (`gh api` GET at 96,944 characters, section header and all ten unit names verified). Ten dossiers, **69 / 69
 dirty sections closed**, **+6,525 words** net, nothing deleted (`R-15`). Movement across the cohort: `R-29`
 145 → 153 / 301; own numeric series 243 → 246 / 301; section-clean 169 → 177 / 301; residue-free
 251 → 291 / 302; `tpl.py` residue lines 6 → 1 (the stock Resolution line alone remains, 11 holders),
 instances 63 → 11, carriers 51 → 11 / 302; archive dirty 587 → 508; file-clean 276 → 291 / 302;
-scene-clean 170 → 178; worst 0.064 → 0.061; median 0.011 → 0.01. Every unit's SE link is in the block
-below (`R-12`), each with its commit hash and PUSH VERIFIED; the PR #13 section carrying the same ten links is the
+scene-clean 170 → 178; worst 0.064 → 0.061; median 0.011 → 0.01. Every unit's SE link is in the running block
+above (`R-12`), each with its commit hash and PUSH VERIFIED; the PR #13 section carrying the same ten links is the
 next entry in this file. The full disclosure list lives in the batch-25 CHANGELOG entry: the u3 pipe repair, the
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
+
+**Batch 26 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IVδ-219 Soaking Shard 솟구친 조각 — `688b79c` — PUSH VERIFIED — [[SE-C-IVδ-219_Soaking_Shard_솟구친_조각]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-219_Soaking_Shard_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%A1%B0%EA%B0%81.md "SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md")
+- SE-O-IVδ-151 Border Tree 스며든 나무 — `fcfae41` — PUSH VERIFIED — [[SE-O-IVδ-151_Border_Tree_스며든_나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IVδ-151_Border_Tree_스며든_나무.md")
+- SE-C-IIIβ-014 The Debt Eater 빚을 먹는 자 — `5f2ec8a` — PUSH VERIFIED — [[SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-014_The_Debt_Eater_%EB%B9%9A%EC%9D%84_%EB%A8%B9%EB%8A%94_%EC%9E%90.md "SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md")
+- SE-N-IVδ-641 Home to No One Who Knew Me 돌아온 유물 — `ea07d68` — PUSH VERIFIED — [[SE-N-IVδ-641_Home_to_No_One_Who_Knew_Me_돌아온_유물]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-641_Home_to_No_One_Who_Knew_Me_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%9C%A0%EB%AC%BC.md "SE-N-IVδ-641_Home_to_No_One_Who_Knew_Me_돌아온_유물.md")
+- SE-C-IIIγ-609 Frozen Echo 얼어붙은 메아리 — `107115e` — PUSH VERIFIED — [[SE-C-IIIγ-609_Frozen_Echo_얼어붙은_메아리]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-609_Frozen_Echo_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-C-IIIγ-609_Frozen_Echo_얼어붙은_메아리.md")
 
 **Batch 25, unit 10: Aegis `C-IVδ-200` closed.** Measured at `e93247f`: **6 dirty sections**, worst M.A.W.
 Equipment 0.285 (the 10-dossier reflexes cost line — the file's residue — plus three appearances, the suit ability,
