@@ -63,6 +63,44 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 26 / unit 5 — Frozen Echo `C-IIIγ-609` closed (2026-10-06)** — measured at `304e14a`: **6 dirty sections**,
+  worst Story Log 0.410 (Entry 1's `is logged as ` and Entry 5's stock tale), then M.A.W. Equipment 0.203 (the
+  blade, harness and charm appearances, both abilities, the first cost, the effect line, the Charm conferral note,
+  the set note, the four field-use rows and the stat interpretation), Final Observation 0.125 (the choice
+  blockquote, the condition row and the success/fail row), Registrum 0.121 (the operational interpretation and the
+  review requirement), Flavor Text 0.095 (the four contact lines, the two interaction preambles, the method, the
+  header row, the procedure and the isolation line) and Combat Record 0.076 (the resistance row, both combat
+  actions and the Tension line). All six closed in one wave (29 + the digit line); 7,209 → **7,907 words**;
+  `tpl.py` residue 1 → **0** — the stock Resolution line this unit carried was its last site, so the line retires
+  archive-wide: **residue lines 1 → 0, instances 11 → 0, carriers 11 → 0, clean dossiers 291 → 302 / 302**, the
+  first time the archive has been wholly free of shared-line residue; `verify.py` residual 1 → **0**; `sectfile.py`
+  ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**; condition and disposition already **True** and
+  left alone (`R-05`). The `own_series` clause closed from **False** to **True** by restating the file's own figures
+  — resistance 35 / 25, the blade at 10–15 damage and 50 Echoes, the harness at 45, the charm's 4-per-cent line and
+  3 conferrals — **restated from the file, disclosed**. The stock pieces went onto the object's own economics: the
+  clock-holder's call, the one named handler and the imprint cost into the resolution, the choice block and the
+  interaction table, and the M.A.W. rows onto the set's charge — other people's unfinished minutes carried home.
+  Movement at the unit commit: `R-29` 157 / 301 (series **250**); section-clean 182 / 301; residue-free
+  302 / 302; residue lines 0, instances 0, carriers 0 / 302; archive dirty 467; file-clean
+  301 / 302. **Batch 26 stands at five of five.**
+- **Batch 26 closed at five (2026-10-06)** — the cohort opened at five and finished at five. Which hunts opened:
+  Soaking Shard `C-IVδ-219`, Border Tree `O-IVδ-151`, The Debt Eater `C-IIIβ-014`, Home to No One Who Knew Me
+  `N-IVδ-641`, Frozen Echo `C-IIIγ-609` — **32 / 32 dirty sections closed**, and **+3,909 words** net (7,110 /
+  8,143 / 7,037 / 8,688 / 7,209 → 8,112 / 9,067 / 7,868 / 9,142 / 7,907), nothing deleted (`R-15`). Which counters
+  moved: `R-29` 153 → **157 / 301** (specific condition 256 → **258 / 301**; own numeric series 246 →
+  **250 / 301**; section-clean 177 → **182 / 301**); the residue ledger moved to its floor — **residue lines
+  1 → 0, instances 11 → 0, carriers 11 → 0, clean dossiers 291 → 302 / 302** (the stock *Resolution* line
+  retired archive-wide, its last site being Soaking Shard's and its final holder Frozen Echo's); archive dirty
+  508 → **467**; file-clean 291 → **301 / 302**; scene-clean 178 → 182; worst 0.061 → 0.054; median 0.010.
+  `verify.py` residuals across the cohort: 5 → 0. Disclosures: guards 21–26 fired (all safe redos, nothing
+  written on an aborted pass); `own_series` closed **False → True** on units 1, 3, 4 and 5 by restating each file's
+  own counted record in digits (650/650 · 30–66 · 24 · 10/30/60/120 · 4 · 2 — 14/23/34 — 35 · 15 · 3 · 11 · 2 · 6–10
+  — 809/809 · 28–60 · 60 · 5 per 15 · 1–10 · +3 — 35/25 · 10–15 · 50 · 45 · 4 · 3), and the **suppression
+  condition** closed **False → True** on units 1 and 4, where the register had been carrying the skipped
+  `enforce valid work types` placeholder and now carries the holding's own management in a registered form —
+  both disclosed; units 2, 3 and 5 were pre-satisfied. Batch 26 delivered its five; the next cohort opens at
+  **three or five** unless the owner directs otherwise.
+
 - **Batch 26 / unit 4 — Home to No One Who Knew Me `N-IVδ-641` closed (2026-10-06)** — measured at `1136249`:
   **6 dirty sections**, worst M.A.W. Equipment 0.188 (the blade, harness and charm appearances, the weapon ability,
   the effect line, the Stigma note, the set note, the four field-use rows and the stat interpretation), then
