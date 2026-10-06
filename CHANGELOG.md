@@ -63,6 +63,27 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 25 / unit 6 — Spire of Unanswered Prayer `O-IIβ-796` closed (2026-10-06)** — measured at `f65b9d1`:
+  **7 dirty sections**, worst Story Log 0.301 (Entry 4's management line and Entry 5's stock tale), then Flavor Text
+  0.164 (the relations preamble, the interaction procedure, the header row, the two contact lines and the isolation
+  line), Final Observation 0.143 (the choice blockquote, the condition row, the success/fail row and the entry's own
+  residual), M.A.W. Equipment 0.108 (the shroud and Tear appearances, both costs, the effect line, the Tear-given
+  note, the four field-use rows and the stat interpretation), Combat Record 0.072 (the resistance row, both combat
+  actions, the Resolution and the Clarity bullet), Operational Parameters 0.070 (the Han-Energy yield and the
+  extraction bullet) and Trivia 0.067 (three registry rows). All seven closed in two waves (16 + 16 sites); 7,163 →
+  **7,778 words**; `tpl.py` residue 0 throughout; `verify.py` residual 2 → **0** (the stock *Reading the response*
+  line and Story Log Entry 1's `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py`
+  meets **True**. The `own_series` clause closed from **False** to **True** by restating the file's own counted
+  record in the Registrum — 3,140 elevation readings from 4 metres to rather more than 300, 2 silences under 1
+  minute, the 400-hour lifetime ceiling and the 11 listeners who have reached it, all figures the file's Watch
+  Record already carries — **restated from the file, disclosed**; condition and disposition were already satisfied
+  and left alone (`R-05`). The stock pieces went onto the holding's own weather: the condition (listen to the song,
+  do not silence it) into the resolution and the choice block, the warmth-that-feels-like-rescue into the resistance
+  and contact rows, and the M.A.W. rows onto the set's charge — the bearer hearing the drowned settlement while
+  asleep, and going numb to small reassurances. Movement at the unit commit: `R-29` 151 / 301 (series
+  **244**); section-clean 175 / 301; residue-free 266 / 302; residue lines 4, instances 41,
+  carriers 36 / 302; archive dirty 533; file-clean 287 / 302. **Batch 25 stands at six of ten.**
+
 - **Batch 25 / unit 5 — The Grieving Maiden `C-IVβ-041` closed (2026-10-06)** — measured at `1d906cd`: **7 dirty
   sections**, worst Final Observation 0.358 (the choice blockquote, the condition row and the success/fail row),
   then M.A.W. Equipment 0.247 (the 10-dossier *unwept grief* cost line — the file's residue — the blade, shroud and
