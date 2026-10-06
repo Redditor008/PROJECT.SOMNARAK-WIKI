@@ -2053,7 +2053,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 30 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IVδ-092 Pyre of Truths 타오르는 도서관 — `__HASH__` — PUSH VERIFIED — [[SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-092_Pyre_of_Truths_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EB%8F%84%EC%84%9C%EA%B4%80.md "SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md")
+- SE-C-IVδ-092 Pyre of Truths 타오르는 도서관 — `d8f61a4` — PUSH VERIFIED — [[SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-092_Pyre_of_Truths_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EB%8F%84%EC%84%9C%EA%B4%80.md "SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md")
 
 - SE-N-IIIβ-941 Grieving Love 슬픈 사랑 — `bb4b87c` — PUSH VERIFIED — [[SE-N-IIIβ-941_Grieving_Love_슬픈_사랑]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-941_Grieving_Love_%EC%8A%AC%ED%94%88_%EC%82%AC%EB%9E%91.md "SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md")
 
