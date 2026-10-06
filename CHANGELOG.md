@@ -63,6 +63,41 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 27 / unit 5 — Memory Lock `C-IIIγ-300` closed (2026-10-07)** — measured at `495359c`: **5 dirty sections**,
+  worst Final Observation 0.150 (the choice blockquote, the placeholder condition row and both result rows), then
+  Registrum 0.119 (the operational interpretation and the review requirement), Flavor Text 0.108 (the intro, four
+  contact lines, the interaction preamble, method, record intro, table header and the procedure), M.A.W. Equipment
+  0.079 (the lens, veil and key appearances, both abilities, the effect line, the cost lines, the resistance ability
+  and the At-limit row) and Combat Record 0.057 (the resistance row, two shared action rows, all three phases and a
+  consequences bullet). Both closed in two waves (19 + 19 sites; guards 27 and 28 fired — two anchors had already
+  been re-authored in wave A, both safe redos, nothing written); 7,104 → **7,653 words**; `tpl.py` residue 0
+  throughout; `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged as `); `sectfile.py` ends at **0
+  section(s) over 0.05**; `wikistd.py` meets **True**. **Two clauses closed from False**: the suppression condition —
+  previously the skipped `enforce valid work types` placeholder in both the Resolution Condition row and the
+  Management row — is now the holding's own (*stand before the seal, do not try to open it, and write nothing of
+  what it whispers*), registered in both forms the standard reads; and `own_series` closed by restating the file's
+  own figures — gauge 574/574 · pressure 14–31 · resistance 35 / 25 · threshold 75 per cent · 12 turns · 7–12 at 40
+  Echoes — **restated from the file, disclosed**. The stock pieces went onto the vault's own terms: hardness rising
+  under curiosity into the phases, the choice and the review, and the set's charge of legibility onto the M.A.W.
+  rows. Movement at the unit commit: `R-29` 162 / 301 (condition 259; series 252); section-clean 187 /
+  301; residue-free 302 / 302; residue lines 0; archive dirty 432; file-clean 302 / 302. **Batch 27
+  stands at five of five.**
+- **Batch 27 closed at five (2026-10-07)** — the cohort opened at five and finished at five. Which hunts opened:
+  Scar Walker `O-IIIδ-011`, The Silent Child `N-Iα-025`, The Hollow Knight `C-IVγ-073`, Restless Gap `C-IVδ-250`,
+  Memory Lock `C-IIIγ-300` — **29 / 29 dirty sections closed**, and **+2,221 words** net (5,620 / 7,715 / 7,411 /
+  7,288 / 7,104 → 5,914 / 8,104 / 7,921 / 7,767 / 7,653), nothing deleted (`R-15`). Which counters moved, measured
+  `a715ef1` → post-u5: `R-29` 157 → **162 / 301** (specific condition 258 → **259 / 301**; own numeric series
+  250 → **252 / 301**; section-clean 182 → **187 / 301**); residue ledger **0 throughout** — lines **0**,
+  instances **0**, carriers **0 / 302**, residue-free **302 / 302**, the floor held for a second consecutive batch;
+  archive dirty 467 → **432**; file-clean 301 → **302 / 302**; scene-clean 183 → **188**; worst 0.054 →
+  **0.041**; median 0.010. `verify.py` residuals across the cohort: 8 → **0**. Disclosures: guards 27 and 28 fired
+  (both safe redos, nothing written); the unit-2 documentation script aborted on a mis-typed link-row anchor after
+  its CHANGELOG half had committed, and the WIP half was re-issued in the next commit; a stray pipe left by unit
+  3's first wave was removed before that unit's docs commit; `own_series` closed **False → True** on units 1 and 5
+  by restating each file's own figures, and the **suppression condition** closed **False → True** on unit 5, where
+  both registered forms had been carrying the skipped `enforce valid work types` placeholder — all disclosed. Batch
+  27 delivered its five; the next cohort opens at **seven** unless the owner directs otherwise.
+
 - **Batch 27 / unit 4 — Restless Gap `C-IVδ-250` closed (2026-10-07)** — measured at `68eef8f`: **6 dirty sections**,
   worst Behavior 0.279 (all four Work Type rows, the gauge note and the reading response), then M.A.W. Equipment 0.227
   (the mantle and anchor-charm appearances, the weapon ability and cost, the set note, the four field-use rows and the
