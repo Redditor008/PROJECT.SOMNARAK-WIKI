@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 31 / unit 4 — Deteriorata `C-IVγ-130` closed (2026-10-07)** — measured at `bd844db`: **5 dirty sections**,
+  worst Final Observation 0.179 (the choice blockquote and the condition row), then M.A.W. Equipment 0.105 (three
+  appearance rows, the use notes, the stat interpretation and the field-use rows), Combat Record 0.084 (the resistance
+  and position rows, two action rows, the tension phase and the resolution), Trivia 0.074 (the field-detail bullet,
+  which repeated the archive-shared `Operational Parameters line gave the M.A.W. grade as a pair of em dashes` phrasing)
+  and Flavor Text 0.061 (the relations preamble and the table header). **Closed in two passes** (25 + 12 sites); 7,084 →
+  **7,324 words**; `tpl.py` residue 0 throughout; `verify.py` residual **1 → 0** (Story Log Entry 1's `is logged as `
+  line); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, with the condition re-registered
+  inside the rewritten resolution line in the file's own words (`do not repair or reinforce it; acknowledge the right to
+  rest`) and held **True**. Disclosed: the second pass was needed because the first left the standard `matte and
+  unnaturally heavy` appearance wording, the `gauge at issue, and a sealed baseline` field-use opening and the shared
+  relations sentence — all replaced with the file's own phrasing; the Year-4237 figures (9,400 · 1,106 · 214 ·
+  sixty-one · nine · four · one) were restated with every figure preserved. Movement at the unit commit: `R-29` 189 /
+  301; section-clean 214 / 301; residue-free 302 / 302; residue lines 0; archive dirty 226; file-clean
+  302 / 302. **Batch 31 stands at four of five.**
+
+
+
 - **Batch 31 / unit 3 — Harbinger `N-IIIβ-155` closed (2026-10-07)** — measured at `478585b`: **5 dirty sections**,
   worst Final Observation 0.189 (the choice blockquote and the condition row), then M.A.W. Equipment 0.086 (three
   appearance rows, the effect line, the stat interpretation and four field-use rows, two of which had ledger text spliced
