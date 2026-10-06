@@ -82,6 +82,23 @@ This file records notable changes to the public Somnarak Wiki.
   rows. Movement at the unit commit: `R-29` 162 / 301 (condition 259; series 252); section-clean 187 /
   301; residue-free 302 / 302; residue lines 0; archive dirty 432; file-clean 302 / 302. **Batch 27
   stands at five of five.**
+- **Batch 28 / unit 1 — Floating Well `C-IIIγ-448` closed (2026-10-07)** — measured at `ef9a9c8`: **6 dirty sections**,
+  worst Final Observation 0.167 (the choice blockquote and both result rows), then Story Log 0.159 (Entry 1's
+  `is logged as ` and Entry 5's stock tale), Flavor Text 0.120 (the intro, the interaction preamble, method, record
+  intro, table header and the procedure), M.A.W. Equipment 0.119 (the blade, plate and ring appearances, both
+  abilities, the weapon cost, the ring's effect, ability and cost, the conferral note, the Use Notes and the
+  before/after-use rows), Registrum 0.066 (the operational interpretation) and Trivia 0.051 (one bullet and two
+  Registry Trivia entries). **Closed in a single wave** (35 sites plus the digit bullet — the file came down in one
+  pass, no wave B and no abort); 7,072 → **7,825 words**; `tpl.py` residue 0 throughout; `verify.py` residual 2 → **0**
+  (the stock After-use row and Story Log Entry 1); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True**, condition and disposition already satisfied and left alone (`R-05`). The `own_series` clause closed from
+  **False** to **True** by restating the file's own figures — gauge 660/660 · 17–39 per hit · 35 / 25 per cent ·
+  75 per cent · 4 turns · 10–15 at 50 Echoes · 45 · 4 per cent · +3 · 4 conferrals — **restated from the file,
+  disclosed**. The stock pieces went onto the bay's own economics: the height series, the single recorded descent and
+  the laydown-yard acquisition into the resolution, the choice and the interpretation. Movement at the unit commit:
+  `R-29` 163 / 301 (series 253); section-clean 188 / 301; residue-free 302 / 302; residue lines 0;
+  archive dirty 425; file-clean 302 / 302. **Batch 28 stands at one of seven.**
+
 - **Batch 27 closed at five (2026-10-07)** — the cohort opened at five and finished at five. Which hunts opened:
   Scar Walker `O-IIIδ-011`, The Silent Child `N-Iα-025`, The Hollow Knight `C-IVγ-073`, Restless Gap `C-IVδ-250`,
   Memory Lock `C-IIIγ-300` — **29 / 29 dirty sections closed**, and **+2,220 words** net (5,620 / 7,715 / 7,411 /
