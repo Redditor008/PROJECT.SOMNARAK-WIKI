@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **210 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **147 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **123 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **211 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **148 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **124 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 238 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 240 / 302 |
 | Archive median prose generic fraction | 0.014 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1678,6 +1678,22 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 `R-29` 121 → **122 / 301** (condition **256**); section-clean 145 → **146 / 301**; residue-free 208 → **209 /
 302**; file-clean 235 → **236 / 302**. **Batch 19 is closed at three.**
 
+
+**Batch 20, unit 2: Candela `C-IVδ-165` closed.** Measured at `8c06e31`: **9 dirty sections**, worst 관찰 기록
+(Observation Log) 0.288, then Behavior 0.281, 최종 관찰 (Final Observation) 0.210, 감각 묘사 (Flavor Text) 0.164,
+M.A.W. Equipment 0.153, Operational Parameters 0.108, Combat Record 0.088, Trivia 0.076 and Appearance 0.060. All
+nine closed in three waves (17 + 23 + 4 sites); 6,237 → **7,421 words**; `tpl.py` residue 1 → **0** (the 15-dossier
+`| **Resistance** | 45% against Lament pressure …` row); `verify.py` residual 1 → **0**; `sectfile.py` ends at **0
+section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** on the
+Registrum's own reconciled figures (84 visions entered in the first year, 19 occurring as shown, 22 altered, 31 that
+never happened, 12 unresolvable) — **restated from the register's entry rather than invented for the clause**, and
+disclosed as such in the CHANGELOG; the condition clause was already satisfied and was left alone (`R-05`). Three
+shared Lament Han-silk appearance lines were re-authored onto this set's own materials, and a first version of the
+shroud line left shared grams in place that pushed Collapsed Seed 1 → 2 dirty sections — re-authored, Collapsed Seed
+back to 1. Benefits elsewhere: Mourner's Bloom 8 → **7**, The Smothering Mother 7 → **6**, Scar Walker 7 → **6**,
+Miscast 3 → **2**. Archive dirty sections 800 → **787**; residue instances 160 → **159**, carriers 92 → **91**;
+median steady at **0.014**, worst at **0.114**. Movement: `R-29` 123 → **124 / 301**; section-clean 147 → **148 /
+301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at two of three.**
 
 **Batch 20, unit 1: Pent `N-IVδ-821` closed.** Measured at `d34ebd3`: **10 dirty sections**, worst Final Observation
 0.236, then M.A.W. 0.223, Behavior 0.214 (the 54-dossier *The gauge response is only meaningful in context* line),

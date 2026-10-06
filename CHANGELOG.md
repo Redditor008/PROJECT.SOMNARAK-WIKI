@@ -38,6 +38,31 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 20 / unit 2 — Candela `C-IVδ-165` closed (2026-10-06)** — measured at `8c06e31`: **9 dirty sections**,
+  worst 관찰 기록 (Observation Log) 0.288, then Behavior 0.281 (the 51-dossier *Read the behavior table as a
+  diagnostic, not a prescription* line), 최종 관찰 (Final Observation) 0.210, 감각 묘사 (Flavor Text) 0.164,
+  M.A.W. Equipment 0.153 (the 15-dossier `| **Resistance** | 45% against Lament pressure …` row and three shared
+  Han-silk appearance lines), Operational Parameters 0.108, Combat Record 0.088, Trivia 0.076 and Appearance 0.060.
+  All nine closed in three waves (17 + 23 + 4 sites); 6,237 → **7,421 words**; `tpl.py` residue 1 → **0** (the
+  15-dossier Lament resistance row); `verify.py` residual 1 → **0** (Story Log Entry 1); `sectfile.py` ends at
+  **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from **False** to
+  **True**: the Registrum's reconciled figures — 84 visions entered in the first year, 19 occurring as shown, 22
+  altered and 31 that never happened, of 12 unresolvable — are the file's own counted record and are **restated
+  from the register rather than invented for the clause**, and the observation-method row and the Registrum healer
+  bullet were the sites that carry them. The condition clause was already satisfied and was left alone (`R-05`).
+  The shared resistance row was replaced with the file's own defence reading (nothing is rated against the
+  anticipation, which arrives as knowledge and engages no defence in the set), and three shared Lament Han-silk
+  appearance lines were re-authored onto this set's own materials — the requiem that hums under hearing and shows
+  a face in its flat, the shroud that smells of tallow and never warms, and the circlet that runs cold until its
+  wearer stands near somebody who will be grieved for. A first pass of the shroud line left the shared
+  `a wrapping shroud of Lament Han-silk, cool and faintly luminous` grams in place and pushed **Collapsed Seed**
+  from 1 to 2 dirty sections; the line was re-authored to shed those grams and Collapsed Seed returned to 1.
+  Benefits elsewhere: Mourner's Bloom 8 → **7**, The Smothering Mother 7 → **6**, Scar Walker 7 → **6**,
+  Miscast 3 → **2**. Archive dirty sections 800 → **787**; residue instances 160 → **159**, carriers 92 → **91**;
+  median steady at **0.014** and worst at **0.114**. Movement: `R-29` 123 → **124 / 301**; section-clean
+  147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
+  two of three.**
+
 - **Batch 20 / unit 1 — Pent `N-IVδ-821` closed (2026-10-06)** — measured at `d34ebd3`: **10 dirty sections**,
   worst 최종 관찰 (Final Observation) 0.236, then M.A.W. Equipment 0.223, Behavior 0.214 (the 54-dossier *The gauge
   response is only meaningful in context* line), 감각 묘사 (Flavor Text) 0.196 (the 53-dossier *…must be assessed as

@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Do not treat every vision as inevitable; distinguish possibility from fate — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
+| **Recommended response** | Hold the condition and arrange nothing: enter every vision in the register as one possibility among several, in writing, where the figure can see it being written, and do not treat any of them as inevitable. The register entry is the containment apparatus; nobody is warned on the strength of a vision, and no plan is made around one. |
 
 ### Operational Notes
 
@@ -42,7 +42,7 @@
 - A cycle slows the melt. The height is unchanged, and the run-off has never been collected in any measurable quantity.
 - One ignored condition escalates it. There is no margin, and the pre-entry check is read aloud from the brief.
 - Emotional pressure builds in personnel who watch the flame directly; viewing is indirect and timed.
-- Extraction is authorized apart from the work cycle.
+- Extraction is authorized apart from the work cycle, and on this file the collected material has its own custody rule: pools are stored unanalyzed for a fixed interval longer than any grief the entity has been seen to anticipate, and a proposal to shorten it must be put in writing and signed. None ever has been.
 
 ## Combat Record
 ### Core Stat Line
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types |
+| **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the anticipation, which arrives as knowledge and engages no defence in the set |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 938/938 |
 | **Han Pressure [ATK]** | 22–48 per hit · Lament |
@@ -81,18 +81,18 @@
 | { *The Weeping Stone* [**Debuff**] } | "The saint's face runs — stone becoming liquid, detail becoming blur — and the melting is grief made visible." | [The Saint's dissolution releases sorrow; the target absorbs the runoff.] | *Target suffers -10 Composure; the holy figure's grief is contagious.* **[10 Lament DMG [Lament]]** | When the target approaches the Saint. |
 | { *The Pooling Halo* [**Debuff**] } | "The halo melts — pooling at the saint's feet — and the liquid faith burns where it touches." | [The Saint's dissolved divinity spreads; the target is splashed.] | *Target loses 10 Composure; the liquid faith is corrosive to certainty.* **[10 Lament DMG [Lament]]** | When the target steps in the pool. |
 | { *The Melting Hand* [**Attack**] } | "A stone hand, half-liquid, swings — heavy, formless, grieving." | [A dissolving limb strikes the target.] | *Inflicts Lament pressure and one wound of molten devotion.* **[14-22 Lament DMG [Lament]]** | When the Saint is touched. |
-| { *The Full Dissolution* [**Attack**] } | "The entire saint gives way — stone, faith, and centuries — collapsing into a pool of liquid grief." | [The Saint's total melt releases everything it held.] | *A heavy Deep Blue liquefaction; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Saint is shattered. |
-| { *The Sea of Faith* [**Ultimate**] } | "Every statue melts — every saint, every monument — and the liquid pools until the field is drowned." | [The Saint extends its melting across the whole area.] | *All in range suffer Lament pressure for three turns in the sea of dissolved faith.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Dissolution* [**Attack**] } | "The saint gives way — wax, faith and centuries together — and what pools on the floor describes something that has not happened yet." | [A whole grief arrives at once for a loss that has no date and may have no existence.] | *A heavy Lament surge; the target's Sorrow Gauge rises 15% and the material collected this turn is logged and stored unanalyzed, unopened.* **[3 Lament DMG [Lament] [3 = 15% Max HP]]** | When the melting runs past the mark. |
+| { *The Sea of Faith* [**Ultimate**] } | "Every saint in the district pools at once — and the floor holds a grief for every loss the city has not had yet." | [The figures melt across the field; the pools do not spread and do not dry.] | *All in range lose Composure for three turns and cannot finish a plan; every vision shown during those turns is entered in the register as a possibility.* **[2 Lament DMG [Lament] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Candela is confirmed by the melting without heat and by the face resetting. Several figures in Zone B are described as saint-like; this is the one that is smaller at the end of a session than at the start. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Candela is confirmed by the melting without heat and by the face resetting. Several figures in Zone B are described as saint-like, and this is the one measurably shorter at the end of a session than at the start; check the height mark, note the face and whose grief it resembles without interpreting it, and open the register before anything else is attempted.
 2. **Clash:** The work is done while the figure is losing shape, and the rate of loss is the instrument. Flerehan slows the melting by sharing what it is carrying; Ferrehan asks the worker to be told a future loss and do nothing about it. Pugnahan collapses the body faster and leaves the floor unsafe. Nothing recovers wax that has already run.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not treat every vision as inevitable; distinguish possibility from fate**.
+3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **do not treat every vision as inevitable; distinguish possibility from fate** — each vision written into the register as one possibility among several, in the presence of the figure, with nobody warned and nothing arranged around the date.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
+- Failed resistance is a double loss: the worker takes the raw sorrow and the entity takes the planning. Clarity goes into the anticipatory grief, the register fills with entries that have been acted on, and the gauge rises on the arrangement rather than on the exposure — which is why a session in which somebody warned a colleague is reviewed as a containment failure even when the warning was right.
 - Time is not the hazard here; acting is. The figure holds its shape through long quiet sessions and loses it in minutes once a team begins trying to prevent what it has shown them. Personnel who find a session uneventful have usually understood the entity correctly.
 - The requiem, the shroud and the halo are all made from compassion that outran what it could do. Each activation borrows a measure of foreknowledge and the operator keeps it. The recorded cost is not visions. It is that the operator begins grieving things that have not happened to people who are still fine.
 - An unresolved session does not transform the entity; it spends it. What is left in the chamber afterwards is the wax, and the wax does not come back. The file records the entity's whole history as a quantity, and the quantity has only ever gone one way.
@@ -116,10 +116,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A saint-like figure made of melting wax and crystallized tears. Its face changes according to future grief it has perceived. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. The Candela file carries the series rather than a single reading. |
-| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | Mobile; it walks only toward people, and it walks slowly. The reading on this file is a series rather than a point: height at entry against height at the mark on exit, session by session, which is the only measurement the melting has ever yielded. |
+| **Material / signature** | Lament, presented as wax and crystallised tears: tallow-cold to the nose in a room that is not warm, drops that run and reset, and pools on the floor that neither spread nor dry. |
 | **Distinctive markers** | Identify it by the melting without heat and by the face resetting. Several figures in Zone B are described as saint-like; this is the one that is smaller at the end of a session than at the start. Confirm it against the designation before contact; the registry holds more than one record of this form. |
-| **Identification** | Verify these observations against the SECC code before work or contact begins; Zone B holds more than one record that shows what is coming, and they do not carry the same obligation when it does. |
+| **Identification** | Check the designation before approach: more than one Zone B record shows the future, and they differ on what is owed when it arrives — this is the one that must not be acted upon, and confirming the designation is the whole of the precaution. |
 
 **Appearance protocol:** Record the face and the rate together. The features run and reset to mirror a grief it has already perceived, so the face is a reading rather than an appearance: note whose grief it resembles, if anyone present recognises it. Then the melting — drops per minute if countable, height lost if not — and whether the crystallised tears threaded through the wax are holding or have begun to loosen.
 
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Candela is recorded as a Subject with Subject-Lament manifestation and Lament elemental expression. The current record places it at SECTOR-B-02, Zone B; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table is read against the register rather than against the gauge, because on this holding the register is the containment apparatus and the chamber is incidental to it. Candela is a Subject with a Subject-Lament manifestation and a Lament expression, held at SECTOR-B-02, and the four responses do four distinct things: Flerehan slows the melt when the sorrow is shared, Pugnahan collapses the body faster and makes the floor slippery, Viderehan shows possible future losses without moving anything, and Ferrehan tests whether a worker can be shown a loss and not go and warn anybody. A stable gauge is not a safe cycle — Viderehan holds it flat by design and is still the approach that costs the observer the most, because it is the one that shows them a face.
 
 **Reading the response:** A falling gauge under Flerehan means the grief was shared rather than received; under Ferrehan it means the worker was shown a loss and let it stand as a possibility. Stability under Viderehan is correct and is not a failure. The gauge rises whenever anybody in the chamber starts planning around what they were shown — the entity reads the planning, not the outcome.
 ## Breach Behavior
@@ -173,7 +173,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
+**Appearance:** a slender blade of Lament Han-crystal that hums a note a little under hearing when drawn, and shows a face briefly in its flat if it is turned to the light.
 
 **Damage:** Lament 10–15
 **Speed:** 3 (Fast)
@@ -186,7 +186,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Falloff Rule:** Full effect on the first, seventy per cent on the second, fifty on the third. What thins along the line is certainty: the third target reports having been worried rather than having known.
 **Damage Application:** Record the strike and the anticipation separately. The lament lands once; the conviction that something is coming persists for the rest of the shift and is the part personnel need relieving of.
 
-**Ability:** Lament damage to the mind. The requiem channels grief for something that has not happened, and what it opens in a target is the certainty that it will.
+**Ability:** Deals Lament damage to the mind. The requiem channels grief for something that has not happened, and the certainty it opens is not fear but information: a target under it reports having been told rather than warned, which is the state the shroud exists to let a worker finish the session in.
 
 **Cost:** The wielder carries the entity's unwept grief and weeps involuntarily, generally for somebody who is in the room and in good health.
 
@@ -194,7 +194,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a shroud of Lament Han-silk that hangs cool and faintly luminous, smells of tallow, and never quite warms to its wearer.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -204,15 +204,15 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Turns Lament aside from the mind, which is the only pressure this entity applies — it has never struck anyone. The shroud is what allows a worker to be shown a future loss and still finish the session.
+**Ability:** Turns Lament aside from the mind, which is the only pressure this entity applies; it has never struck anybody. The shroud is what allows a worker to be shown a future loss, write it in the register and go home, and the numbness it leaves is the price of that and is entered as such.
 
-**Cost:** The wearer goes numb to small pleasures, and reports it first as being unable to enjoy anything that is going to end.
+**Cost:** The wearer goes numb to small pleasures, and reports it first as an inability to enjoy anything that is going to end — which on this wing is most things, and is the cost in the form the duty officer actually has to act on.
 
 ### M.A.W. Stigma — The Melted Halo
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a halo-circlet of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a halo-circlet of Lament Han-crystal that sits cold until its wearer is near somebody who is going to be grieved for, and then goes briefly hot.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -222,20 +222,20 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Cost:** The wearer grieves possible futures before they happen.
 
-*The halo is not manufactured. Candela gives one to a worker who was shown a death and did not go and warn anyone, and has given none to a worker who acted on a vision, however well it turned out.*
+*The halo is given and never made. It appears on a worker who was shown a death, wrote it in the register, and did not go and warn anybody — the file records that no worker who acted on a vision has ever been given one, however well the action turned out.*
 
 ### M.A.W. Use Notes
 
-A piece cut from Candela is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder carries the entity's unwept grief and weeps involuntarily, generally for somebody who is in the room and in good health, and it is paid whether the use was correct or not.
+Nothing in this set removes the knowledge; all of it is a way of carrying knowledge that cannot be used. The requiem opens the certainty in a target; the shroud lets a bearer keep working under it; and the halo reveals approaching emotional danger at the price of grieving possible futures before they arrive. The recorded toll is involuntary weeping for somebody in the room and in good health, paid whether the use was correct or not, and the deeper cost is the one the table cannot carry: the halo's wearers are the personnel most often relieved from duty on this wing, and the recorded reason is never the entity.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Candela the recorded cost is that the wielder carries the entity's unwept grief and weeps involuntarily, generally for somebody who is in the room and in good health. |
-| **During use** | The first sign that Candela is charging: the wielder carries the entity's unwept grief and weeps involuntarily, generally for somebody who is in the room and in good health. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wearer goes numb to small pleasures, and reports it first as being unable to enjoy anything that is going to end, without remission. On a Candela piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Candela's cost is still showing — the wearer goes numb to small pleasures, and reports it first as being unable to enjoy anything that is going to end. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else: what the wielder currently expects to happen this month, in their own words, and whether they have registered any of it. The baseline is what shows whether the piece is editing their expectations or only their composure. |
+| **During use** | The first sign is involuntary weeping for somebody who is in the room and in good health, followed by that someone being quietly planned for. Logged with the hour by the second worker and never by the wielder, because the planning is the effect and the wielder cannot see it. |
+| **At limit** | The wearer goes numb to small pleasures and reports it as an inability to enjoy anything that is going to end, with no remission and no self-report that treats it as damage. On this set the use ends when the second worker says so, and a wearer who has filed no expectations for a fortnight is stood down at once. |
+| **After use** | Return the piece and re-read the sealed baseline with a colleague: does the wielder still expect what they expected, and have they stopped looking forward to anything. The finding is entered whether or not the wielder agrees, and the entry is made against the holding rather than against the person. |
 
 **Stat interpretation:** The grades describe extraction stability rather than human safety, and on this post that gap is the whole story. Nothing here is decided by equipment. What the table cannot show is that the halo's wearers are the personnel most often relieved from duty on this wing, and that the recorded reason is never the entity.
 ## 관찰 기록 (Observation Log)
@@ -254,18 +254,18 @@ A piece cut from Candela is not ordinary equipment: it works by being a part of 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Candela as a Subject with Subject-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-B-02, Zone B. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Candela's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Initial exposure** | A Subject with a Subject-Lament manifestation. The reliable markers are the Lament signature, the saint-like figure of melting wax and crystallised tears, and the presence at SECTOR-B-02. The first sign is not visual: the smell of tallow arrives in a room that is not warm. |
+| **Sustained observation** | Height at entry and against the mark at exit — the figure is measurably shorter at the end of an active session — the face and whose grief it resembles, the pools and their position, and the register entries with their numbers. Record the face and do not interpret it, and do not ask the figure in any form whether a perceived grief concerns the observer or anyone they know. |
+| **Activation or escalation** | Anything planned around. The entity reads the planning rather than the outcome, and it rises whenever personnel begin arranging their conduct around what they were shown — including in cases where the arrangement would have worked. Record distance, duration, gauge movement and the change in the figure, then enter the vision in the register as one possibility among several, in writing, where the figure can see it being written: that is the only measure that has ever slowed the melt. |
+| **Post-contact review** | The height at entry and exit, every vision shown and whose grief it resembled, the register numbers, and every instance of anybody acting or failing to act on what they were shown — the second logged as a finding about the holding and never against the worker. The report is incomplete if it records only the danger; the file requires the sorrow the entity preserves to be present in it, because the anticipatory grief is the whole of what this holding is. |
 
-**Observation method:** Record the first sign, which is the smell of tallow in a cold room; the first sensation, which is grief for somebody who is not in danger; the figure's height at entry and exit; the number of visions shown and whose; and the condition that ends the encounter, which is each vision being entered in the register as a possibility. Record the register entry numbers.
+**Observation method:** Record the first sign, which is the smell of tallow in a cold room; the first sensation, which is grief for somebody who is not in danger; the figure's height at entry and at the mark on exit; every vision shown and whose; and the condition that ends the encounter, which is each vision being entered in the register as a possibility rather than a prediction. The register numbers are taken down as the entries are made. The register's first year holds 84 visions: 19 occurred as shown, 22 in altered form, 31 did not occur, and 12 remain unresolvable — and the standing note beside those figures is that the second and third categories together are the majority, which is what to quote when personnel ask whether the entity is ever wrong.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Candela (C-IVδ-165 [LS]) is logged as a Subject-Lament manifestation expressing Lament. The Saint formed from compassion overwhelmed by anticipation. Held at SECTOR-B-02, Zone B. The Saint loses material continuously but never disappears.
+Candela (C-IVδ-165 [LS]) is carried on the wing's register as a Subject-Lament manifestation expressing Lament. The Saint formed from compassion overwhelmed by anticipation. Held at SECTOR-B-02, Zone B. The Saint loses material continuously and never disappears, and the register rather than the chamber is the apparatus that holds it.
 
 **Entry 2 — <Prediction Register, Zone B: Outcomes Checked at One Year>**
 Visions entered in the register's first year: eighty-four. Checked at one year: occurred as shown, nineteen; occurred in altered form, twenty-two; did not occur, thirty-one; unresolvable, twelve. The register's standing note is that the second and third categories together are the majority and that this is the figure to quote when personnel ask whether the entity is ever wrong. It is wrong constantly. It grieves anyway, and the grief is identical in every case.
@@ -283,11 +283,11 @@ The instruction not to act on Candela's visions is the hardest thing this office
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Candela; the other feeds it.
+> What the watch comes down to: write the vision into the register as one possibility among several and let it stand, or go and warn somebody, because the face on the wax looked like a person who is still here.
 
-| Do not treat every vision as inevitable; distinguish possibility from fate — as written, without improvising. | Depart from the condition for good reasons, as Candela's record shows people do. |
+| Hold the condition as written: every vision entered in the register as one possibility among several, in writing, where the figure can see it being written, and nobody warned on the strength of it. | Depart from the condition for good reasons, as this file's record shows people do — go and warn the person, arrange your own conduct around the date, or ask the figure whether the grief concerns you — which raises the figure exactly as a failed intervention does. |
 |---|---|
-| Melting slows when its sorrow is shared. The sorrow is witnessed; Candela is fully recorded. | The body collapses faster and the floor becomes slippery with grief. The gauge climbs and Candela withdraws without revelation. |
+| The melt slows within minutes of the register entry, the height loss for the session comes in under the mark, and the cycle closes with no one warned and nothing planned around. | The body collapses faster, the floor becomes slippery with grief, and the figure withdraws having shown nothing further. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -302,24 +302,24 @@ Wax tears run down the Saint's face. Each drop shows a different future: a door 
 
 **When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Lament becomes something you can taste, hear, or feel on your skin. The Subject-Lament has crossed the line between containing and becoming.
 
-**After departure:** You leave, but the Lament follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** What follows the worker out is anticipatory grief: a conviction that something is coming, held with the calm of a person who has been told rather than warned. The shroud is what allows a session to be finished in that state, and the numbness it leaves — the inability to enjoy anything that is going to end — is the cost the equipment file records and the duty officer has to manage.
 
 ### Interaction Pattern
 
-Candela does not exist in isolation. Its recorded relationships with The Kind Healer, The Cracked Hourglass, The Dawn of Mourning should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The three filed relations are other Zone B records that concern knowing rather than doing, and each is read against a single question: does the other holding make it easier or harder to leave a vision unacted on. The Kind Healer is on file for the compassion that became unsustainable in the first place; The Cracked Hourglass for futures shaped by wasted time; The Dawn of Mourning because the Saint's possible visions include its own transformation. None of the three is settled, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal or a transformation event.
 
 **Interaction method:** Observe it alone and with the full team present, since the number of people available to be grieved for changes what it shows. In shared conditions record whether the visions turned toward the other entity, whether the melting rate changed, and whether anything it showed had already been entered in the register.
 
 
 ### Entity Interaction Record
 
-Candela is filed with the Zone B records that concern knowing rather than doing. The relationships below are what the archive will support. They are not alliances; they are several forms of information that arrived too early, and in proximity each makes the others harder to leave unacted on.
+Candela is filed with the Zone B records that concern knowing rather than doing, and the relations below are the whole of its co-presence record: three holdings, none of them arranged by the wing, none of them settled, and every entry written by observers who had just been shown something.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Kind Healer** | Recognizes compassion becoming unsustainable. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Cracked Hourglass** | Shows futures shaped by wasted time. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Dawn of Mourning** | The Saint's possible visions include its transformation. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Kind Healer** | Recognises the compassion that became unsustainable. | Never co-located, and the refusal is the wing's own: the Healer's presence is the one thing on this holding that reliably makes personnel want to help, and helping is the act that raises the figure. The relation is kept as a reminder of what the entity was made of rather than as a pairing to test. | The refusal with its reasoning, re-entered at each annual review. |
+| **The Cracked Hourglass** | Shows futures shaped by wasted time. | Compared on paper only. Every vision either holding produces is a possibility, and the wing's position is that a joint session would produce an hour of material nobody could act on and a chamber of personnel who wanted to. | The comparison sheet and the standing decision not to arrange one. |
+| **The Dawn of Mourning** | The Saint's possible visions include its own transformation. | Observed once, from outside the chamber, when a registered prediction named the Dawn's cycle: no gauge movement, no change in the melt rate, and the figure's face ran and reset as it does for any grief. The entry is kept because personnel still cite it as evidence that the visions are real, and the file's answer to that is printed underneath — the melt rate did not move. | The single observation, both series, and the note that the melt rate did not move. |
 
 **Interaction procedure:** Solo and full-team baselines first, then the shared encounter: melting rate before, during and after, the distance at which the visions began, how long the rate stayed elevated once the other entity withdrew, and whether any vision shown during the overlap has since been checked against an outcome. The last is a one-year field and is to be left open, not estimated.
 
@@ -360,7 +360,7 @@ Some sorrows grieve the present. Candela grieves the future — every loss that 
 - Flerehan is the only valid Work Type.
 - The Saint heals faintly; the reflex outlived the self.
 **Observation Notes:**
-- A healer who began mourning tragedies before they occurred.
+- One healer of Zone B who began mourning her patients' losses in advance, and could not stop at the ones that were going to happen. The Keepers' record names her and lists the people she mourned; 84 visions were entered in the register's first year alone — 19 occurred as shown, 22 in altered form, 31 did not occur, 12 remain unresolvable — and a third of the people on her original mourning list are still alive, which the file keeps because that proportion is the management condition in evidential form.
 - The boundary between present and future dissolved.
 **Cross-References:** Zone B · The Hollow Saint · The Kind Healer · The Crumbling Saint
 **Faction Involvement:** SED (E-territory exploration) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
@@ -406,10 +406,10 @@ Collected pools are held unanalyzed for a fixed interval before the material is 
 
 ### Registry Trivia
 
-- **Classification detail:** Candela is a Subject with Entity (IV) — Self-aware, dissolving, compassionate coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is SECTOR-B-02, Zone B.
+- **Classification detail:** Subject with Entity (IV) coherence and Critical (δ) potency, `C-IVδ-165 [LS]`; the grade belongs to the anticipation rather than the melting — the figure has never left its alcove and has never struck anybody.
+- **Field detail:** Element Lament, registered to SECTOR-B-02 in Zone B, where the height mark is read at entry and exit and the register, not the door, is the containment reading.
 - **Recognition detail:** Identify it by the melting without heat and by the face resetting. Several figures in Zone B are described as saint-like; this is the one that is smaller at the end of a session than at the start.
-- **Record detail:** Check the designation before approach. More than one Zone B record shows the future, and they differ on what is owed in response — this is the one that must not be acted upon.
+- **Record detail:** More than one Zone B record shows the future and they differ on what is owed when it arrives; this is the one that must not be acted upon, and the register's own figures are the reason — in its first year, 84 visions were entered and only 19 occurred as shown, while 22 altered and 31 never happened at all.
 - **Containment detail:** The entity does not need to breach to cost something. It melts in a sealed chamber with nobody present whenever a registered prediction is treated as settled elsewhere in the facility, and the containment reading is taken from the register and the height mark, not from the door.
 ## Document Information
 
