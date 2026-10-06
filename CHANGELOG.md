@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 30 / unit 1 — Memory Rain `C-IIβ-250` closed (2026-10-07)** — measured at `ed0893e`: **6 dirty sections**, worst
+  Final Observation 0.145 (the choice blockquote and the condition row), then M.A.W. Equipment 0.108 (both appearance
+  rows, the effect line, four field-use rows and the stat interpretation), Operational Parameters 0.074 (the yield and
+  resistance rows and the approaches bullet), Flavor Text 0.067 (the interaction preamble, method, procedure and table
+  header), Combat Record 0.064 (two action rows, the tension phase and the resolution) and Expansion Behavior 0.058
+  (the escalation paragraph and the response sequence). **Closed in a single wave** (32 sites); 6,157 → **6,573 words**;
+  `tpl.py` residue 0 throughout; `verify.py` residual **2 → 0** (the identification row's stock opener and Story Log
+  Entry 1's `is logged as ` line); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition
+  held **True** — re-registered inside the rewritten resolution line in the file's own words (`collect drops carefully and
+  provide identity anchors`) — and series went **False → True** by restating the file's own figures in numerals for the
+  register's look-up (gauge 415/415 · pressure 10–23 per hit · resistance 25 / 15 per cent · yield 12–18 · weapon 5–9 at
+  25 Echoes · suit 20 · Max 4 pieces · acquisition 5 per cent). The relation preamble was re-authored to the file's own
+  three holdings. Movement at the unit commit: `R-29` 181 / 301; section-clean 206 / 301; residue-free 302 / 302;
+  residue lines 0; archive dirty 297; file-clean 302 / 302. **Batch 30 stands at one of five.**
+
+
+
 - **Batch 29 — CLOSED at ten (2026-10-07).** Ten dossiers, **57 / 57 dirty sections closed**, **+3,746 words** net
   (73,808 → 77,554), `verify.py` residuals **19 → 0**, nothing deleted (`R-15`); each unit's SE link, closing commit
   and PUSH VERIFIED status stand in the batch block in `WORK_IN_PROGRESS.md` (`R-12`). The cohort: Sleeping Shard
