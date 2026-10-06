@@ -21,13 +21,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
 | **Dossiers free of template residue (Workstream 6)** | **208 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **144 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **120 / 301** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **145 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **121 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 231 / 302 |
-| Archive median prose generic fraction | 0.015 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 235 / 302 |
+| Archive median prose generic fraction | 0.014 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
 ## Workstream 1 — De-boilerplate (CLOSED)
@@ -1645,6 +1645,22 @@ neighbouring dossiers each shed a section: Unrung 4 → 3, Doorway to Nowhere 3 
 Movement: `R-29` 119 → **120 / 301**; section-clean 143 → **144 / 301**; residue-free 203 → **208 / 302**;
 file-clean 229 → **231 / 302**; clean at ≤ 0.05 229 → **231 / 302**. **Batch 19 stands at one of three.**
 
+
+**Batch 19, unit 2: Frozen Fury `C-IVδ-668` closed.** Measured at `86ec1b3`: **10 dirty sections**, worst Behavior
+0.302, then M.A.W. 0.236, Observation Log 0.230, Flavor 0.215 (the 32-dossier isolation block, the 21-dossier stock
+interaction columns and the 17-dossier interaction procedure), Registrum 0.186 (its two shell lines at 21 and 13),
+Final Observation 0.128, Trivia 0.120, Operational Parameters 0.111, Activation 0.105 and Combat 0.083 — all ten
+closed in three waves (25 + 22 + 4 sites); 6,934 → **7,948 words**; `tpl.py` **0** throughout; `verify.py` residual
+1 → **0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True** with the **series clause closed
+from False** on a disclosed digit restatement of the file's own figures (9 days, 2 attempts, 19 falls in two
+centuries, 87/19/68 documents, 11 letters, 4 pages / 3 acknowledgments, 4 thermal points, 4 refused abstracts),
+condition already satisfied and left alone (`R-05`). Three Registrum figures reconciled with cause (`R-01`):
+Zone B → **Zone C**, Comprehension 3 → **2**, Threat *Moderate* → **Critical (δ)**; the Pugnahan primary-Work-Type
+line corrected to the Object/Place rule. Five neighbouring dossiers each shed a section: Broken Compass 8 → 7,
+Pyre of Truths 7 → 6, Swallow 7 → 6, Mourner's Bloom 9 → 8, Repose 7 → 6. Archive dirty 840 → **825**; median 0.015
+→ **0.014**; worst steady 0.114. Movement: `R-29` 120 → **121 / 301** (series **227**); section-clean 144 → **145 /
+301**; file-clean 231 → **235 / 302**. **Batch 19 stands at two of three.**
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1709,12 +1725,14 @@ two waves, series closed on its own survey figures, the 66-dossier Registrum she
 replaced, four neighbouring dossiers each shedding a section); and The Dancing Chains `C-IIIγ-102` closed the batch
 as unit 3 (6 → 0 in two waves, **both open clauses closed** — condition on the file's own two-person removal rule,
 series on a disclosed restatement of its own fourteen collapse series and nine conduct entries — plus six
-neighbouring dossiers each shedding a dirty section). **Batch 19 opens at three** on the tier re-derived at `8f3634d`: The Frozen Veil `C-IVδ-103` (10, 0.364), Frozen
-Fury `C-IVδ-668` (10, 0.302), Conservatory `N-IVδ-852` (10, 0.250) and Pent `N-IVδ-821` (10, 0.244) head it. The
-Frozen Veil came off as unit 1 (10 → 0 in three waves, both clauses already satisfied and left alone, two
-Registrum figures and the faction line reconciled against the classification block with cause, five stock
-interaction rows re-authored as the file's own relations, plus Unrung 4 → 3, Doorway to Nowhere 3 → 2 and
-Portcullis 8 → 7 as side effects); Labyrinth of Stolen Faces and Torpor
+neighbouring dossiers each shedding a dirty section). **Batch 19 stands at two of three**: The Frozen Veil `C-IVδ-103` came off the head as unit 1 (10 → 0 in three waves,
+both clauses already satisfied and left alone, two Registrum figures and the faction line reconciled with cause,
+five stock interaction rows re-authored, plus Unrung 4 → 3, Doorway to Nowhere 3 → 2 and Portcullis 8 → 7), and
+Frozen Fury `C-IVδ-668` came off it as unit 2 (10 → 0 in three waves, **series closed from False** on a disclosed
+restatement of its own clearance figures, three Registrum figures reconciled with cause and the Pugnahan line
+corrected, plus Broken Compass 8 → 7, Pyre of Truths 7 → 6, Swallow 7 → 6, Mourner's Bloom 9 → 8 and Repose 7 →
+6). The final unit comes from the 10-dirty group: Conservatory `N-IVδ-852` (10, 0.250) and Pent `N-IVδ-821`
+(10, 0.244); Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);

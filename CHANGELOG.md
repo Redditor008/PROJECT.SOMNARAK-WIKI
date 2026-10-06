@@ -38,6 +38,33 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 19 / unit 2 — Frozen Fury `C-IVδ-668` closed (2026-10-06)** — measured at `86ec1b3`: **10 dirty
+  sections**, worst Behavior 0.302 (the 38-dossier *The behavior table is a snapshot, not a system* line), then
+  M.A.W. Equipment 0.236, 관찰 기록 (Observation Log) 0.230, 감각 묘사 (Flavor Text) 0.215 (the 32-dossier
+  *…does not exist in isolation* block, the 21-dossier stock interaction columns and the 17-dossier interaction
+  procedure), 기록 (Registrum) 0.186 (the 21-dossier and 13-dossier shell pair), 최종 관찰 (Final Observation)
+  0.128, Trivia 0.120, Operational Parameters 0.111, Activation Behavior 0.105 and Combat Record 0.083. All ten
+  closed in three waves (25 + 22 + 4 sites); 6,934 → **7,948 words**; `tpl.py` residue was already **0** and stayed
+  **0**; `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged as`); `sectfile.py` ends at **0 section(s)
+  over 0.05**; `wikistd.py` meets **True** with the **series clause closed** — it had been **False**, and it was
+  closed on a **disclosed digit restatement of the file's own figures** (the clearance ran **9** days; **2**
+  attempts to move the fragment, neither successful; the edge reading has fallen **19** times in two centuries;
+  last year's district file **87** documents, **19** naming an actor and **68** not; **11** letters to the
+  Collector offices, **4** pages back and **3** acknowledgments; **4** thermal points logged per shift; **4**
+  refused requests for a briefing abstract) — written into the counted Observation Log and Registrum Observation
+  Notes, number-words ruling still pending; the condition was **already satisfied and left alone** (`R-05`).
+  Three Registrum figures were **reconciled against the classification block with the cause stated** (`R-01`):
+  Containment Status *Contained — Zone B* → **Zone C, Collector's Row** (the patrol route is not where the
+  fragment sits), Comprehension Level *3 — Advanced* → **2 — Basic** (the 3 came from a period when the edge
+  readings were taken as predictive) and Threat *Moderate* → **Critical (δ)** (the old word described proximity
+  effects; the older story-log layer is named as superseded). The Registry's *Pugnahan is the primary Work Type*
+  was corrected to **Viderehan and Ferrehan only** on the Object/Place rule, the correction carried because the
+  wrong line reached a briefing roster once. Five beneficial side effects in files this unit did not edit: **Broken
+  Compass `C-IIβ-290` 8 → 7**, **Pyre of Truths `C-IVδ-092` 7 → 6**, **Swallow `C-IVδ-767` 7 → 6**, **Mourner's
+  Bloom `C-Iα-330` 9 → 8**, **Repose `O-IVδ-844` 7 → 6**. Archive dirty sections 840 → **825**; median 0.015 →
+  **0.014**; worst steady at 0.114. Movement: `R-29` 120 → **121 / 301** (own numeric series 226 → **227**);
+  section-clean 144 → **145 / 301**; file-clean 231 → **235 / 302**. **Batch 19 stands at two of three.**
+
 - **Batch 19 / unit 1 — The Frozen Veil `C-IVδ-103` closed (2026-10-06)** — measured at `8f3634d`: **10 dirty
   sections**, worst Behavior 0.364 (the 52-dossier *The gauge response is only meaningful in context* line), then
   최종 관찰 (Final Observation) 0.358, 관찰 기록 (Observation Log) 0.321 (its four progression rows and method line
