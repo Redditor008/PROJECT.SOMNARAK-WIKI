@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 29 / unit 9 — Anonym `O-Iα-126` closed (2026-10-07)** — measured at `ed8101b`: **5 dirty sections**, worst
+  Final Observation 0.164 (the blockquote, condition row and result row), then Behavior 0.159 (the operational work
+  notes paragraph), Combat Record 0.062 (two action rows, the escalation row and the resolution), Flavor Text 0.060
+  (the interaction preamble) and Story Log 0.057 (the archive note's shared origin fragment plus its generator tail).
+  **Closed in a single wave** (18 sites); 7,538 → **7,916 words**; `tpl.py` residue 0 throughout; `verify.py` residual
+  **2 → 0** (Story Log Entry 1's `is logged as ` and the exposure line's `becomes a texture you can map`); the pipe
+  check was clean throughout; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition
+  and series already satisfied — the condition re-registered inside the rewritten resolution line in the file's own
+  words (`use names and present anchors; do not force a fixed identity`), held **True**. The shared origin fragment was
+  replaced with this holding's own account — a border clerk's run of individually correct refusals wearing through a
+  self-image — and the truncated generator tail in the before-use and during-use rows was rebuilt into the observer's
+  own baseline test. Movement at the unit commit: `R-29` 179 / 301; section-clean @sc@ / 301; residue-free @clean@ /
+  302; residue lines @lines@; archive dirty 311; file-clean @fc@ / 302. **Batch 29 stands at nine of ten.**
+
+
+
 - **Batch 29 / unit 8 — Carrying Nothing `C-IIβ-357` closed (2026-10-07)** — measured at `b310c4f`: **5 dirty
   sections**, worst Final Observation 0.167 (the blockquote, condition row and result row), then M.A.W. Equipment 0.155
   (the blade and harness appearances, the Use Notes, all four field-use rows and the stat interpretation), Registrum

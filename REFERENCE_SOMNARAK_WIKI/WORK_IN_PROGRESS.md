@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 29, unit 9: Anonym `O-Iα-126` closed.** Measured at `ed8101b`: **5 dirty sections**, worst Final Observation
+0.164, then Behavior 0.159, Combat Record 0.062, Flavor Text 0.060 and Story Log 0.057 — **closed in a single wave**
+(18 sites); 7,538 → **7,916 words**; `tpl.py` residue 0; `verify.py` residual **2 → 0**; `sectfile.py` **0 section(s)
+over 0.05**; `wikistd.py` meets **True**, condition re-registered inside the rewritten resolution line and held
+**True**. Disclosed: a truncated generator tail in two field-use rows was rebuilt. Movement: `R-29` @r29@ / 301;
+section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 29 stands
+at nine of ten.**
+
 **Batch 29, unit 8: Carrying Nothing `C-IIβ-357` closed.** Measured at `b310c4f`: **5 dirty sections**, worst Final
 Observation 0.167, then M.A.W. Equipment 0.155, Registrum 0.117, Flavor Text 0.060 and Combat Record 0.058 — **closed
 in a single wave** (19 sites); 6,515 → **6,881 words**; `tpl.py` residue 0; `verify.py` residual **1 → 0**;
@@ -1995,6 +2003,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 29 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-Iα-126 Anonym 녹아내린 조각 — `__HASH__` — PUSH VERIFIED — [[SE-O-Iα-126_Anonym_녹아내린_조각]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-126_Anonym_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%A1%B0%EA%B0%81.md "SE-O-Iα-126_Anonym_녹아내린_조각.md")
 
 - SE-C-IIβ-357 Carrying Nothing 사라진 무게 — `05ec95b` — PUSH VERIFIED — [[SE-C-IIβ-357_Carrying_Nothing_사라진_무게]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-357_Carrying_Nothing_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%AC%B4%EA%B2%8C.md "SE-C-IIβ-357_Carrying_Nothing_사라진_무게.md")
 
