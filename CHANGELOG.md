@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 32 / unit 5 — The Orphaned Bell `C-IVδ-001` closed (2026-10-07)** — measured at `151994c`: **4 dirty sections**,
+  worst Final Observation 0.160 (the 9-gram choice blockquote, the choose row and the result row), then M.A.W. Equipment
+  0.107 (two appearance lines, the stat-bonus effect, the before/during/at-limit/after-use rows and the stat
+  interpretation), Operational Parameters 0.083 (the yield row and two approach bullets) and Flavor Text 0.078 (the
+  32-gram relations preamble, the relations header and the interaction procedure). **Closed in a single wave** (20 sites);
+  8,514 → **8,691 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True** with series and condition held. Also cleared this unit: the `is logged as ` stock line in Story Log Entry 1
+  (residual **1 → 0**; the register sentence rewritten as `stands on the register as an Object-Lament manifestation`) and
+  the archive dupe on the activation-effect line, whose second identical copy (`**Effect:** The bell's toll propagates …`)
+  was rewritten in place so the pair now reads as two distinct entries (`dupes []`). Movement at the unit commit:
+  `R-29` 196 / 301; section-clean 221 / 301; residue-free 302 / 302; residue lines 0; archive dirty 191;
+  file-clean 302 / 302. **Batch 32 stands at five of seven.**
+
+
+
 - **Batch 32 / unit 4 — Sorrow Seed `C-Iα-300` closed (2026-10-07)** — measured at `1f6cacc`: **4 dirty sections**, worst
   Behavior 0.241 (the 33-gram gauge-interpretation paragraph, rebuilt in the file's own terms — object response, the two
   cautions, the flat gauge that still costs the observer), then M.A.W. Equipment 0.121 (three `matte and unnaturally heavy`
