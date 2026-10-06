@@ -1685,7 +1685,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 
 **Batch 23 — OPEN, five targeted; finished dossiers, each with its SE git link and closing commit** ([`R-12`](RULES/R-12_REFER_TO_GITHUB.md); links generated with `tools/ghlink.py`):
 
-- SE-O-IIIγ-915 Corrosion Dream 녹슨 다리 — commit recorded on completion — [[SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-915_Corrosion_Dream_%EB%85%B9%EC%8A%A8_%EB%8B%A4%EB%A6%AC.md "SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md")
+- SE-O-IIIγ-915 Corrosion Dream 녹슨 다리 — `a324ee3` — PUSH VERIFIED — [[SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-915_Corrosion_Dream_%EB%85%B9%EC%8A%A8_%EB%8B%A4%EB%A6%AC.md "SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md")
 - SE-C-Iα-863 Absent Landmark 가라앉은 탑 — `ae168d3` — PUSH VERIFIED — [[SE-C-Iα-863_Absent_Landmark_가라앉은_탑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-863_Absent_Landmark_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%ED%83%91.md "SE-C-Iα-863_Absent_Landmark_가라앉은_탑.md")]
 
 **Batch 22 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (owner's instruction, 2026-10-06, under [`R-12`](RULES/R-12_REFER_TO_GITHUB.md): the SE git link accompanies **every** finished dossier, not only the one just closed; links generated with `tools/ghlink.py`):
