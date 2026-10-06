@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 32 / unit 1 — Double Mouth `C-IIβ-716` closed (2026-10-07)** — measured at `018f49d`: **5 dirty sections**, worst
+  Final Observation 0.158 (the choice blockquote, the condition row and the result row), then M.A.W. Equipment 0.126
+  (three appearance rows, the effect line, the use notes, four field-use rows and the stat interpretation), Flavor Text
+  0.060 (the relations preamble, the table header and the faction line), Registrum 0.059 (the operational interpretation
+  and the review requirement, the latter carrying a duplicated `Review protocol:` preamble) and Combat Record 0.054 (the
+  resistance row, two action rows and the tension phase, which carried a `has never been establishable, confirms the
+  approach` splice). **Closed in a single wave** (28 sites); 6,449 → **6,759 words**; `tpl.py` residue 0 throughout;
+  `verify.py` residual **1 → 0** (Story Log Entry 1's truncated `is logged as ` line, rebuilt whole); `sectfile.py` ends
+  at **0 section(s) over 0.05**; `wikistd.py` meets **True** with condition (the `Management:` line) and series held. The
+  condition was re-registered inside the rewritten resolution line in the file's own words (`record both tones; do not
+  choose a convenient version`), the result row's clipped cells were rewritten in order, and the containment-detail
+  bullet, which ended mid-splice at `the entity is inactive; fixed entities may`, was rebuilt whole-line. Movement at the
+  unit commit: `R-29` 191 / 301; section-clean 216 / 301; residue-free 302 / 302; residue lines 0; archive
+  dirty 210; file-clean 302 / 302. **Batch 32 stands at one of seven.**
+
+
+
 - **Batch 31 — CLOSED at five (2026-10-07).** Five dossiers, **25 / 25 dirty sections closed**, **+1,776 words** net
   (35,441 → 37,217), `verify.py` residuals **5 → 0**, nothing deleted (`R-15`); each unit's SE link, closing commit and
   PUSH VERIFIED status stand in the batch block in `WORK_IN_PROGRESS.md` (`R-12`). The cohort: The Sorrow Fountain
