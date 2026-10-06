@@ -1716,6 +1716,20 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 28 — CLOSED at seven.** Seven dossiers, **38 / 38 dirty sections closed**, **+4,418 words** net,
+`verify.py` residuals **8 → 0**, nothing deleted (`R-15`); each unit's SE link, closing commit and PUSH VERIFIED
+status stand in the block below (`R-12`). Movement across the cohort, b28 base → close: `R-29` 162 → **170 / 301**;
+own numeric series 252 → **257 / 301**; condition 259 → 259 / 301; section-clean 187 → **195 / 301**;
+residue-free 302 → 302 / 302; `tpl.py` residue lines 0; archive dirty 432 → **374**; file-clean 302 →
+302 / 302; scene-clean 188 → 196; worst 0.041 → 0.04; median 0.01. Every unit closed in a **single
+wave** — the exception, not the rule — and each was validated at 0 section(s) over 0.05, RESIDUAL 0, RESIDUE 0,
+`pipe True`, `seam []`; all seven files meet **True** at close. Disclosures: u1 guard-29 miscount (safe redo, nothing
+written) · u2 one aborted first attempt (stray placeholder tuple) · u3 trailing-pipe repair before the gate · u4
+condition re-registration after its old banner was rewritten (held True) · u5 stray trailing bar removed · u7
+mid-unit reword of its numerals bullet. **Housekeeping, disclosed:** the shared numerals-bullet opener reached 15
+holders and was reworded uniquely across the four closed-batch files it had pushed over 0.05 — figures untouched,
+holders 15 → 10. **Next cohort opens at three or five.**
+
 **Batch 28, unit 7: Weeping Willow `C-IIIγ-140` closed.** Measured at `ddc6769`: **3 dirty sections**, worst Final
 Observation 0.158, then Flavor Text 0.087 and Combat Record 0.052 — **all three closed in a single wave** (20 sites
 plus the digit bullet); 6,863 → **7,232 words**; `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0**;
@@ -1913,7 +1927,7 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
-**Batch 28 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 28 — CLOSED at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IIIγ-140 Weeping Willow 우는 버드나무 — `8f54b9a` — PUSH VERIFIED — [[SE-C-IIIγ-140_Weeping_Willow_우는_버드나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-140_Weeping_Willow_%EC%9A%B0%EB%8A%94_%EB%B2%84%EB%93%9C%EB%82%98%EB%AC%B4.md "SE-C-IIIγ-140_Weeping_Willow_우는_버드나무.md")
 - SE-N-IIIγ-160 Broken Promise 깨진 약속 — `c76cdea` — PUSH VERIFIED — [[SE-N-IIIγ-160_Broken_Promise_깨진_약속]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-160_Broken_Promise_%EA%B9%A8%EC%A7%84_%EC%95%BD%EC%86%8D.md "SE-N-IIIγ-160_Broken_Promise_깨진_약속.md")

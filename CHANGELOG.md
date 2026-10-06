@@ -82,6 +82,28 @@ This file records notable changes to the public Somnarak Wiki.
   rows. Movement at the unit commit: `R-29` 162 / 301 (condition 259; series 252); section-clean 187 /
   301; residue-free 302 / 302; residue lines 0; archive dirty 432; file-clean 302 / 302. **Batch 27
   stands at five of five.**
+- **Batch 28 — CLOSED at seven (2026-10-07).** Seven dossiers, **38 / 38 dirty sections closed**, **+4,418 words**
+  net, `verify.py` residuals **8 → 0**, nothing deleted (`R-15`). Units: Floating Well `C-IIIγ-448` 7,072 → 7,825 ·
+  The Masked Dancer `C-IIβ-099` 6,916 → 7,586 · Whispering Walls `C-Iα-011` 6,625 → 7,318 · The Hollow Choir
+  `C-IIIγ-021` 7,131 → 7,749 · Every Last Goodbye `C-IVδ-230` 7,709 → 8,399 · Broken Promise `N-IIIγ-160`
+  6,925 → 7,550 · Weeping Willow `C-IIIγ-140` 6,863 → 7,232. All seven closed in **single waves** — the exception,
+  not the rule, and each wave ran without a count assert after the batch's first guard (u1's miscounted `assert
+  len(R)`, safe redo, nothing written); every wave validated at 0 section(s) over 0.05, RESIDUAL 0, RESIDUE 0,
+  `pipe True` and `seam []`, and `wikistd.py` meets **True** on each file at close. Series: five conversions to
+  **True** (u1, u2, u3, u4, u7) by restating each file's own figures, disclosed, with no clause prose written to fit
+  the test (`R-05`); u5 and u6 were already True and were left alone, as were all condition and disposition states
+  that already held. Movement across the cohort, b28 base → close: `R-29` 162 → **170 / 301**; own numeric series
+  252 → **257 / 301**; condition 259 → 259 / 301; section-clean 187 → **195 / 301**; residue-free 302 → 302
+  / 302; `tpl.py` residue lines 0; archive dirty 432 → **374**; file-clean 302 → 302 / 302; scene-clean
+  188 → 196; worst 0.041 → 0.04; median 0.01. Disclosures for the batch: u1 the guard-29 miscount (safe
+  redo below the count clamp — the wave dropped the count assert and kept per-anchor uniqueness checks) · u2 one
+  aborted first attempt on a stray placeholder tuple (nothing written) · u3 the trailing-pipe repair on the rewritten
+  initial-exposure row (caught by `verify.py` before the gate) · u4 the condition re-registration after the old
+  resolution banner it had been read from was rewritten (held True) · u5 one stray trailing bar removed from a
+  non-table bullet · u7 the mid-unit reword of its own numerals bullet. **Housekeeping sweep, disclosed in its own
+  entry:** the shared numerals-bullet opener (15 holders) was reworded uniquely across the four closed-batch files it
+  had pushed over 0.05. **Next cohort opens at three or five.**
+
 - **Batch 28 / unit 7 — Weeping Willow `C-IIIγ-140` closed (2026-10-07)** — measured at `ddc6769`: **3 dirty sections**,
   worst Final Observation 0.158 (the choice blockquote, the condition row and the result row), then Flavor Text 0.087
   (the intro, all four contact lines, the interaction preamble, method, record intro, table header and the procedure)
