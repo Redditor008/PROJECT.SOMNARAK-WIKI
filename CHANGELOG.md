@@ -82,6 +82,23 @@ This file records notable changes to the public Somnarak Wiki.
   rows. Movement at the unit commit: `R-29` 162 / 301 (condition 259; series 252); section-clean 187 /
   301; residue-free 302 / 302; residue lines 0; archive dirty 432; file-clean 302 / 302. **Batch 27
   stands at five of five.**
+- **Batch 28 / unit 4 — The Hollow Choir `C-IIIγ-021` closed (2026-10-07)** — measured at `c083a21`: **5 dirty sections**,
+  worst Final Observation 0.286 (the choice blockquote, the condition row and the result row), then M.A.W. Equipment
+  0.071 (the blade, shroud and lyre appearances, both abilities, the weapon cost, the effect line, the conferral note,
+  the Use Notes and three field-use rows), Flavor Text 0.077 (the intro, all four contact lines, the interaction
+  preamble, method, record intro, table header and the procedure), Registrum 0.060 (the operational interpretation)
+  and Combat Record 0.055 (the resistance row, both shared action rows and two phases). **Closed in a single wave**
+  (40 sites plus the digit bullet); 7,131 → **7,749 words**; `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0**
+  (Story Log Entry 1's `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**.
+  One in-unit repair, disclosed: the rewritten resolution line had been the file's own registered condition form, so
+  `condition` read False after the wave; the file's own condition was re-registered in the standard form
+  (`suppression condition: **…**`) inside the new prose — condition **True → True**, held rather than closed.
+  The `own_series` clause closed from **False** to **True** by restating the file's own figures — gauge 726/726 ·
+  15–33 per hit · 35 / 25 per cent · 75 per cent · 5 turns · 7–12 at 40 Echoes · 35 · 4 per cent · +2 · 2 conferrals ·
+  144 voices in 12 groups · 1-hour listening cap — **restated from the file, disclosed**. Movement at the unit
+  commit: `R-29` 164 / 301 (series 256); section-clean 189 / 301; residue-free 302 / 302; residue lines
+  0; archive dirty 404; file-clean 302 / 302. **Batch 28 stands at four of seven.**
+
 - **Batch 28 / unit 3 — Whispering Walls `C-Iα-011` closed (2026-10-07)** — measured at `96adc76`: **6 dirty sections**,
   worst Final Observation 0.349 (the choice blockquote, the condition row and the result row), then M.A.W. Equipment
   0.141 (the shroud and stone appearances, both abilities, the weapon ability and cost, the effect line, the
