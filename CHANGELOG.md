@@ -82,6 +82,30 @@ This file records notable changes to the public Somnarak Wiki.
   rows. Movement at the unit commit: `R-29` 162 / 301 (condition 259; series 252); section-clean 187 /
   301; residue-free 302 / 302; residue lines 0; archive dirty 432; file-clean 302 / 302. **Batch 27
   stands at five of five.**
+- **Batch 28 / unit 7 — Weeping Willow `C-IIIγ-140` closed (2026-10-07)** — measured at `ddc6769`: **3 dirty sections**,
+  worst Final Observation 0.158 (the choice blockquote, the condition row and the result row), then Flavor Text 0.087
+  (the intro, all four contact lines, the interaction preamble, method, record intro, table header and the procedure)
+  and Combat Record 0.052 (the resistance row, both shared action rows and two phases). **Closed in a single wave**
+  (20 sites plus the digit bullet); 6,863 → **7,232 words**; `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0**
+  (Story Log Entry 1's `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**,
+  condition and disposition already satisfied and left alone (`R-05`) — the `condition` registration lives in the
+  Detailed Activation Record's `| **Management** |` row and was left untouched. The `own_series` clause closed from
+  **False** to **True** by restating the file's own figures — gauge 653/653 · 18–41 per hit · 35 / 25 per cent ·
+  75 per cent · 4 turns · 40 Echoes · 5 conferrals · 4 memorials · 2 rotations · 11 years of dye sampling — **restated
+  from the file, disclosed**. The stock pieces went onto the Gardens' own filed economics: the open access, the
+  two-rotation sweep cap, the dated boundary marks and the standing objection in the resolution, the choice and the
+  result rows. Movement at the unit commit: `R-29` 170 / 301 (series 257); section-clean 195 / 301;
+  residue-free 302 / 302; residue lines 0; archive dirty 374; file-clean 302 / 302. **Batch 28 stands
+  at seven of seven.**
+- **Batch 28 — housekeeping sweep, disclosed.** The numerals-bullet opener `The register keeps its own figures in
+  numerals for look-up` reached the residue threshold at 15 holders and pushed four *closed-batch* Trivia sections
+  over 0.05 (Frozen Echo 0.060 · Soaking Shard 0.075 · Home to No One 0.053 · Scar Walker 0.053). Each opener was
+  reworded uniquely in place — **figures unchanged, no `own_series` figure touched** — and all four sections are now
+  clean (0.033 / 0.045 / 0.031 / 0.029); holders 15 → 10. The unit's own bullet was reworded mid-unit for the same
+  reason. No prose or figures were removed from any of the five files (`R-15`); measured, and disclosed rather than
+  left to the next batch. This sweep is why the section-clean and archive-dirty counters below move by more than
+  unit 7 alone.
+
 - **Batch 28 / unit 6 — Broken Promise `N-IIIγ-160` closed (2026-10-07)** — measured at `0c6ae1f`: **6 dirty sections**,
   worst Final Observation 0.127 (the choice blockquote, the condition row and the result row), then Flavor Text 0.087
   (the intro, all four contact lines, the interaction preamble, method, record intro, table header and the procedure),

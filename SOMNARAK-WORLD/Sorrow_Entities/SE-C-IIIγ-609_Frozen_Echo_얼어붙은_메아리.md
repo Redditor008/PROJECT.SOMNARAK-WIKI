@@ -464,7 +464,7 @@ The objection is minuted at every annual review, raised by the legal officer rat
 
 ## Trivia
 
-- The register keeps its own figures in numerals for look-up: resistance 35 / 25 per cent, the set's blade at 10–15 damage and 50 Echoes, the harness at 45, the charm's line at 4 per cent, and 3 conferrals on the Charm.
+- Kept to hand as digits, for this file's look-up: resistance 35 / 25 per cent, the set's blade at 10–15 damage and 50 Echoes, the harness at 45, the charm's line at 4 per cent, and 3 conferrals on the Charm.
 
 - No handler has ever been given the same former owner twice, across nine years and several hundred contacts.
 - The surface carries imprints and no wear: no scratch, no chip, no polish, after a hundred hands and a displacement.

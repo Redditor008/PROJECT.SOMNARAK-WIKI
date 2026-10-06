@@ -464,7 +464,7 @@ The safety office's objection is on the file and has never been answered. The co
 
 - Some of the film runs up the faces rather than down, which the engineers log and have stopped trying to explain.
 - A released vision stops when the chamber empties, and the volume it took is never recovered at the sump.
-- The register keeps its own figures in numerals for look-up: gauge 650/650, pressure 30–66 per hit, battle length 24 turns, the channel timings 10 / 30 / 60 / 120 seconds, a 4 per cent acquisition line on the pendant, and 2 pieces per issue.
+- The figures below are written as numerals so the register can find them: gauge 650/650, pressure 30–66 per hit, battle length 24 turns, the channel timings 10 / 30 / 60 / 120 seconds, a 4 per cent acquisition line on the pendant, and 2 pieces per issue.
 
 
 

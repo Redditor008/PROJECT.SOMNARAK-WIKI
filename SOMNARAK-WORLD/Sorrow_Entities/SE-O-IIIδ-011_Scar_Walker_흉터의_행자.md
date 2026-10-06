@@ -399,7 +399,7 @@ Han erupted at The Scar during the first war and the ground was left as an injur
 
 ## Trivia
 
-- The register keeps its own figures in numerals for look-up: battle length 24 turns, opening gauge 60–80 per cent, weapon damage 10–15 at 50 Echoes, the plate at 45 Echoes for 2 copies, Stigma acquisition 4 per cent with +3, and 4 recorded engagements.
+- Its own numbers are in digits here for ease of look-up: battle length 24 turns, opening gauge 60–80 per cent, weapon damage 10–15 at 50 Echoes, the plate at 45 Echoes for 2 copies, Stigma acquisition 4 per cent with +3, and 4 recorded engagements.
 
 - The Walker's weapon is made from the collective fury of six factions, not one nation's metal.
 - It patrols a consistent route around The Scar, though no map records the full route.

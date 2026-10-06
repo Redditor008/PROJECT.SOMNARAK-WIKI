@@ -470,7 +470,7 @@ The disclosure office's objection is standing, annual, and correct. A safety hea
 
 ## Trivia
 
-- The register keeps its own figures in numerals for look-up: gauge 809/809, pressure 28–60 per hit, the channel note at 60 seconds and 5 Grudge every 15, vessel destruction about 1–10 tons, and +3 from the third piece.
+- For anyone checking the register, this file's numbers are set down as digits: gauge 809/809, pressure 28–60 per hit, the channel note at 60 seconds and 5 Grudge every 15, vessel destruction about 1–10 tons, and +3 from the third piece.
 
 - The form follows the observer's own history, which is why two witnesses to the same appearance have almost never described the same object.
 - What comes back is the thing, never the people, and the district it comes back to has no record of either.
