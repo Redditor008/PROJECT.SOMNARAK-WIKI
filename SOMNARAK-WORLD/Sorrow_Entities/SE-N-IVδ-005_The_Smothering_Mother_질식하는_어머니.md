@@ -151,7 +151,7 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. The Smothering Mother is recorded as a Subject with Subject-Body manifestation and Grudge elemental expression. The current record places it at SECTOR-D-01, Zone D — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The Work Type table is one input among several, and it is the SECC code with the coherence level that tells a reader what a steady gauge means out here. The Mother stands as a Subject with Subject-Body manifestation and Grudge in its element, filed at SECTOR-D-01 in Zone D, contained. Two cautions travel with the entry. Nothing is carried across from a holding with a similar name; her neighbours are listed in their own section and none of them is this. And a flat gauge is not a safe watch — the figure can hold while a worker is being reached through memory, ground or identity, and the cost of such a watch shows up later, off the page.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Breach Behavior
@@ -204,7 +204,7 @@ The sheer mass of the blade delivers devastating chopping strikes capable of sev
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a plated harness of Grudge Han-iron, dark and warm to the touch on the rack, that shifts and breathes as though it had been fitted around someone larger.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -222,11 +222,11 @@ The sheer mass of the blade delivers devastating chopping strikes capable of sev
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** an embrace-clasp of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.
+**Appearance:** an embrace-clasp of Grudge Han-iron, dark and warm, that turns cold when its source sorrow is close enough to be felt.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 stat bonus while working the source holding, entered at issue against the wielder's name
 
 **Ability:** Makes the wearer nearly invulnerable to physical harm by absorbing damage as a mother's embrace.
 
@@ -242,12 +242,12 @@ Each piece extends The Smothering Mother rather than equipping its wielder again
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what The Smothering Mother takes: the wielder's old wounds ache. |
-| **During use** | The first sign that The Smothering Mother is charging: the wielder's old wounds ache. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wielder no longer notices The Smothering Mother's toll — the wearer's reflexes dull, as if armored by resentment — which is how every stand-down on this set has been caught. |
+| **Before use** | Wielder, piece, and a dated baseline taken before issue against what this holding takes — old hurts waking in the order they were received, which is the first thing the set does to a new bearer. |
+| **During use** | Charging announces itself in the bearer: old wounds begin to ache ahead of anything the piece is meant to do. The second worker logs the hour, and the bearer's own account is taken afterwards and kept apart from it. |
+| **At limit** | The limit arrives when the bearer stops noticing the toll at all — the reflexes dull, as though resentment had armoured them — and that unawareness is the sign every stand-down on this set has been caught by. |
 | **After use** | Piece returned; re-assess a week later, because what The Smothering Mother takes (the wearer's reflexes dull, as if armored by resentment) does not present on the day. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade is about extraction stability and was never a statement about the person holding the item. A piece can grade well and still take a toll no figure on the sheet covers — this set is the standing example, and it is graded the way it is graded.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Mastered
@@ -278,7 +278,7 @@ Each piece extends The Smothering Mother rather than equipping its wielder again
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Smothering Mother (N-IVδ-005 [GS]) is logged as a Subject-Body manifestation expressing Grudge, held at SECTOR-D-01, Zone D. She formed from Soojin, a Zone B labourer whose two children were taken by the Han and could not be certified dead. She has never deliberately harmed anybody. She holds, and she does not squeeze, and the chamber is kept at the temperature of a living body because she keeps it there.
+The Smothering Mother (N-IVδ-005 [GS]) stands on the register as a Subject-Body manifestation expressing Grudge, held at SECTOR-D-01, Zone D. She formed from Soojin, a Zone B labourer whose two children were taken by the Han and could not be certified dead. She has never deliberately harmed anybody. She holds, and she does not squeeze, and the chamber is kept at the temperature of a living body because she keeps it there.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232>**
 Breaks free and moves through the facility seeking “children” to protect. Grabs personnel and holds them. The held feel perfectly safe and gradually lose the will to resist. Personnel released after six hours report crying for days because they had never felt so safe.
@@ -296,7 +296,7 @@ Containment records trace the crystallization to this location — the sorrow gr
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Smothering Mother; the other feeds it.
+> The watch on the Mother ends one of two ways, and the difference is what the observer does with the instinct the room produces: one keeps to the sheet and stays on the far side of the embrace, and the other tries to give her what she is asking for.
 
 | Hold to the condition: Provide a memory, vision, or proof that the child is at peace. Flerehan is most effective. | Try Pugnahan instead, which is the one response this holding has never tolerated. |
 |---|---|
@@ -376,14 +376,14 @@ Some sorrows mourn a child. This one cannot, because mourning is a status and th
 - Reach interval in the empty room: 41 minutes, then 29, now 21, over the life of the holding.
 - Chamber held at 37°C by the entity, unbroken, including through two facility power failures.
 **Cross-References:** The Silent Child · The Orphaned Bell · The Grieving Colossus · The Kind Healer · The Hollow Choir · the Family Office certification rule · the Presumption Return
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
+**Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground · Wound Walkers, on the Fracture reading · Judexhan, attending on the δ-grade high-threat list
 **Originator:** Soojin (수진), Zone B labourer. Two children taken by the Han in one season, neither recovered, neither certified. Eleven applications refused. The Crack opened where her heart was and the grief took three months to crystallize.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification is the frame and this record is the picture; neither is complete alone and neither replaces a watch. Behaviour, Work Type response, activation or breach condition, M.A.W. risk and interaction pattern are read together or not usefully at all. Where this file and a watch disagree, keep the disagreement: the deviation is the most valuable entry in the room, preserved as evidence rather than smoothed into the existing account.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Containment here is a process rather than a state. After every incident, recheck the gauge, the ground, the personnel and the location — exposure and position both change after a breach, an expansion, a transformation attempt or an unusual interaction, and yesterday's readings are not evidence about today. The R.D. record describes a pattern that is still living, not an explanation that is ever finished.
 ## Apex Record
 
 ### The Reach

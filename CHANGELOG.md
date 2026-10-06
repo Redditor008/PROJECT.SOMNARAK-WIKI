@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 32 / unit 7 — The Smothering Mother `N-IVδ-005` closed (2026-10-07)** — measured at `75edbc9`: **4 dirty
+  sections**, worst Behavior 0.137 (the 33-gram Work-Type-context paragraph, rebuilt in the file's own terms), then Final
+  Observation 0.127 (the choice blockquote), Registrum 0.066 (the faction line, the operational interpretation and the
+  review requirement, whose clipped tail `personnel exposure, and location after every breach` was rebuilt whole-line)
+  and M.A.W. Equipment 0.061 (two appearance lines, the stat-bonus effect, the before/during/at-limit rows and the stat
+  interpretation). **Closed in a single wave** (13 sites); 7,857 → **8,011 words**; `tpl.py` residue 0; `sectfile.py` ends
+  at **0 section(s) over 0.05**; `wikistd.py` meets **True** with series and condition held. The Entry 1 `is logged as `
+  line was rewritten in the same wave (residual **1 → 0**). Movement at the unit commit: `R-29` 198 / 301; section-clean
+  223 / 301; residue-free 302 / 302; residue lines 0; archive dirty 183; file-clean 302 / 302.
+  **Batch 32 stands at seven of seven — units complete, close entry to follow.**
+
+
+
 - **Batch 32 / unit 6 — The Wrath Flame `O-IIIβ-120` closed (2026-10-07)** — measured at `3f9c0ca`: **4 dirty sections**,
   worst Behavior 0.219 (the 33-gram behavior-diagnostic paragraph, rebuilt in the file's own terms), then Final
   Observation 0.159 (the choice blockquote and the choose row), Flavor Text 0.065 (the 32-gram relations preamble, the
