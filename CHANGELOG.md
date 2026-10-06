@@ -63,6 +63,29 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 26 / unit 4 — Home to No One Who Knew Me `N-IVδ-641` closed (2026-10-06)** — measured at `1136249`:
+  **6 dirty sections**, worst M.A.W. Equipment 0.188 (the blade, harness and charm appearances, the weapon ability,
+  the effect line, the Stigma note, the set note, the four field-use rows and the stat interpretation), then
+  Behavior 0.174 (the gauge note and the reading response), Flavor Text 0.112 (the four contact lines, the two
+  interaction preambles, the method, the header row, the procedure and the isolation line), Final Observation 0.110
+  (the choice blockquote, the placeholder condition row and both result rows), Combat Record 0.072 (the resistance
+  row, both combat actions, the Tension line and the Resilience bullet) and Activation Behavior 0.061 (the warning
+  blockquote, the termination row, the 1-minute row, the escalation line and the reporting order). Both closed in
+  two waves (25 + 15 sites; the first two attempts aborted on guards 25 and 26 — the Resolution line on this file
+  was already file-specific, so no rework was needed there, and the second was a mis-counted assert; both safe
+  redos); 8,688 → **9,142 words**; `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0** (Story Log Entry
+  1's `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. **Two clauses
+  closed from False**: the suppression condition — previously the placeholder row that the standard skips — is now
+  the holding's own (*record the form, cordon the street, brief the district afterwards, and do nothing to the
+  object*), entered in the Management row and echoed in the resolution condition and the choice; and `own_series`
+  closed by restating the file's own figures — gauge 809/809, pressure 28–60, 60 seconds and 5 Grudge every 15,
+  vessel destruction about 1–10 tons, +3 — **restated from the file, disclosed**. The stock pieces went onto the
+  return: the unsteady form and the witness effect into the contact and behaviour rows, and the M.A.W. rows onto
+  the set's charge — belonging itself thinning, bearers describing their own quarters as somewhere they are
+  staying. Movement at the unit commit: `R-29` 156 / 301; section-clean 181 / 301; residue-free 292 / 302;
+  residue lines 1, instances 10, carriers 10 / 302; archive dirty 476; file-clean 300 / 302.
+  **Batch 26 stands at four of five.**
+
 - **Batch 26 / unit 3 — The Debt Eater `C-IIIβ-014` closed (2026-10-06)** — measured at `a06cbcd`: **6 dirty
   sections**, worst Final Observation 0.352 (the choice blockquote, the condition row and the success/fail row),
   then M.A.W. Equipment 0.266 (the prism, veil and scale appearances, both abilities, both costs, the effect line,

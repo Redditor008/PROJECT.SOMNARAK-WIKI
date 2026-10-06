@@ -1716,6 +1716,16 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 26, unit 4: Home to No One Who Knew Me `N-IVδ-641` closed.** Measured at `1136249`: **6 dirty sections**,
+worst M.A.W. Equipment 0.188, then Behavior 0.174, Flavor Text 0.112, Final Observation 0.110, Combat Record 0.072
+and Activation Behavior 0.061 — all six closed in two waves (25 + 15 sites; guards 25 and 26 fired on the way, both
+safe redos, and the first established that this file's Resolution line was already file-specific); 8,688 → **9,142
+words**; `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0**; `sectfile.py` **0 section(s) over 0.05**;
+`wikistd.py` meets **True**. **Two clauses closed from False** — the suppression condition (record the form, cordon
+the street, brief the district, do nothing to the object) and `own_series` (809/809, 28–60, 60 s / 5 per 15,
+1–10 tons, +3), both disclosed. Movement: `R-29` 156 / 301; section-clean 181 / 301; residue-free 292 / 302;
+archive dirty 476; file-clean 300 / 302. **Batch 26 stands at four of five.**
+
 **Batch 26, unit 3: The Debt Eater `C-IIIβ-014` closed.** Measured at `a06cbcd`: **6 dirty sections**, worst Final
 Observation 0.352, then M.A.W. Equipment 0.266, Registrum 0.174 (including the Warden Record accumulation line —
 one of the file's two `verify.py` residuals), Flavor Text 0.093, Combat Record 0.061 and Trivia 0.052 — all six
@@ -1748,7 +1758,8 @@ layers in place, and take nothing out*), and `own_series` was restated from the 
 178 / 301; residue-free 292 / 302; archive dirty 501; file-clean 291 / 302. **Batch 26 stands at one of
 five.**
 
-**Batch 25 is closed at ten — the ladder's top rung, every unit pushed and verified.** - SE-C-IIIβ-014 The Debt Eater 빚을 먹는 자 — `5f2ec8a` — PUSH VERIFIED — [[SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-014_The_Debt_Eater_%EB%B9%9A%EC%9D%84_%EB%A8%B9%EB%8A%94_%EC%9E%90.md "SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md")
+**Batch 25 is closed at ten — the ladder's top rung, every unit pushed and verified.** - SE-N-IVδ-641 Home to No One Who Knew Me 돌아온 유물 — `__HASH__` — PUSH VERIFIED — [[SE-N-IVδ-641_Home_to_No_One_Who_Knew_Me_돌아온_유물]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-641_Home_to_No_One_Who_Knew_Me_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%9C%A0%EB%AC%BC.md "SE-N-IVδ-641_Home_to_No_One_Who_Knew_Me_돌아온_유물.md")
+- SE-C-IIIβ-014 The Debt Eater 빚을 먹는 자 — `5f2ec8a` — PUSH VERIFIED — [[SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-014_The_Debt_Eater_%EB%B9%9A%EC%9D%84_%EB%A8%B9%EB%8A%94_%EC%9E%90.md "SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md")
 - SE-O-IVδ-151 Border Tree 스며든 나무 — `fcfae41` — PUSH VERIFIED — [[SE-O-IVδ-151_Border_Tree_스며든_나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IVδ-151_Border_Tree_스며든_나무.md")
 - SE-C-IVδ-219 Soaking Shard 솟구친 조각 — `688b79c` — PUSH VERIFIED — [[SE-C-IVδ-219_Soaking_Shard_솟구친_조각]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-219_Soaking_Shard_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%A1%B0%EA%B0%81.md "SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md")
 PR #13's batch-25 section carries the same ten links, with the cohort counters and the disclosure list, read back from the API (`gh api` GET at 96,944 characters, section header and all ten unit names verified). Ten dossiers, **69 / 69
