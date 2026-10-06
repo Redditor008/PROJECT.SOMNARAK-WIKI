@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 28, unit 5: Every Last Goodbye `C-IVδ-230` closed.** Measured at `a3bc20f`: **6 dirty sections**, worst
+Behavior 0.251, then M.A.W. Equipment 0.154, Registrum 0.133, Final Observation 0.129, Combat Record 0.084 and
+Flavor Text 0.058 — **all six closed in a single wave** (44 sites plus the digit bullet; one stray trailing bar on a
+non-table bullet removed before the gate, disclosed); 7,709 → **8,399 words**; `tpl.py` residue 0 throughout;
+`verify.py` residual 1 → **0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition and
+series held and untouched. Movement: `R-29` 165 / 301; section-clean 190 / 301; residue-free 302 / 302;
+archive dirty 398; file-clean 302 / 302. **Batch 28 stands at five of seven.**
+
 **Batch 28, unit 4: The Hollow Choir `C-IIIγ-021` closed.** Measured at `c083a21`: **5 dirty sections**, worst Final
 Observation 0.286, then M.A.W. Equipment 0.071, Flavor Text 0.077, Registrum 0.060 and Combat Record 0.055 — **all
 five closed in a single wave** (40 sites plus the digit bullet); 7,131 → **7,749 words**; `tpl.py` residue 0
@@ -1888,6 +1896,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 28 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
+- SE-C-IVδ-230 Every Last Goodbye 마지막 기억 — `__HASH__` — PUSH VERIFIED — [[SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-230_Every_Last_Goodbye_%EB%A7%88%EC%A7%80%EB%A7%89_%EA%B8%B0%EC%96%B5.md "SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md")
 - SE-C-IIIγ-021 The Hollow Choir 빈 합창단 — `44aaf9a` — PUSH VERIFIED — [[SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-021_The_Hollow_Choir_%EB%B9%88_%ED%95%A9%EC%B0%BD%EB%8B%A8.md "SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md")
 - SE-C-Iα-011 Whispering Walls 속삭이는 벽 — `8abe978` — PUSH VERIFIED — [[SE-C-Iα-011_Whispering_Walls_속삭이는_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-011_Whispering_Walls_%EC%86%8D%EC%82%AD%EC%9D%B4%EB%8A%94_%EB%B2%BD.md "SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md")
 - SE-C-IIβ-099 The Masked Dancer 가면 무용수 — `30e1a6f` — PUSH VERIFIED — [[SE-C-IIβ-099_The_Masked_Dancer_가면_무용수]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-099_The_Masked_Dancer_%EA%B0%80%EB%A9%B4_%EB%AC%B4%EC%9A%A9%EC%88%98.md "SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md")

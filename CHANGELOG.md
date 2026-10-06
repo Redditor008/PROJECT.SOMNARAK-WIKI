@@ -82,6 +82,22 @@ This file records notable changes to the public Somnarak Wiki.
   rows. Movement at the unit commit: `R-29` 162 / 301 (condition 259; series 252); section-clean 187 /
   301; residue-free 302 / 302; residue lines 0; archive dirty 432; file-clean 302 / 302. **Batch 27
   stands at five of five.**
+- **Batch 28 / unit 5 — Every Last Goodbye `C-IVδ-230` closed (2026-10-07)** — measured at `a3bc20f`: **6 dirty
+  sections**, worst Behavior 0.251 (all four Work Type rows, Reading the response and the operational work notes),
+  then M.A.W. Equipment 0.154 (the disc, veil and token appearances, both abilities, the disc and token costs, the
+  effect line, the Use Notes and all four field-use rows and the stat interpretation), Registrum 0.133 (the
+  operational interpretation and the review requirement), Final Observation 0.129 (the choice blockquote, the
+  condition row and the result row), Combat Record 0.084 (the resistance row, both shared action rows, the escalation
+  row and one phase) and Flavor Text 0.058 (the intro, all four contact lines, the interaction preamble and the
+  method). **Closed in a single wave** (44 sites plus the digit bullet, plus one stray trailing bar removed from a
+  non-table bullet before the gate — disclosed); 7,709 → **8,399 words**; `tpl.py` residue 0 throughout; `verify.py`
+  residual 1 → **0** (Story Log Entry 1's `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**, condition and series already satisfied and left alone (`R-05`). The stock pieces went
+  onto the vault's own filings: the slot protocol, the 11 years of the older instruction logged unperformed, the
+  6.4-against-4.6 flicker and the three logged pulses in the resolution, the choice and the escalation. Movement at
+  the unit commit: `R-29` 165 / 301 (series 256); section-clean 190 / 301; residue-free 302 / 302;
+  residue lines 0; archive dirty 398; file-clean 302 / 302. **Batch 28 stands at five of seven.**
+
 - **Batch 28 / unit 4 — The Hollow Choir `C-IIIγ-021` closed (2026-10-07)** — measured at `c083a21`: **5 dirty sections**,
   worst Final Observation 0.286 (the choice blockquote, the condition row and the result row), then M.A.W. Equipment
   0.071 (the blade, shroud and lyre appearances, both abilities, the weapon cost, the effect line, the conferral note,
