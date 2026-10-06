@@ -2190,7 +2190,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 32 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-Iα-300 Sorrow Seed 슬픔의 씨앗 — `__HASH__` — PUSH VERIFIED — [[SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-300_Sorrow_Seed_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%94%A8%EC%95%97.md "SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md")
+- SE-C-Iα-300 Sorrow Seed 슬픔의 씨앗 — `f4ad00a` — PUSH VERIFIED — [[SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-300_Sorrow_Seed_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%94%A8%EC%95%97.md "SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md")
 
 - SE-C-IIIγ-031 The Observing Bird 지켜보는 새 — `af3e61f` — PUSH VERIFIED — [[SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-031_The_Observing_Bird_%EC%A7%80%EC%BC%9C%EB%B3%B4%EB%8A%94_%EC%83%88.md "SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md")
 
