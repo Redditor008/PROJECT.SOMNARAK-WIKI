@@ -22,13 +22,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **233 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **157 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **133 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **237 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **158 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **134 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 258 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 260 / 302 |
 | Archive median prose generic fraction | 0.014 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1688,6 +1688,30 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-C-IVδ-125 Dejà Vu 돌아온 열매 — `1e7f61e` — PUSH VERIFIED — [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
+
+**Batch 23, unit 1: Absent Landmark `C-Iα-863` closed.** Measured at `007e10f`: **8 dirty sections**, the archive's
+worst file at a whole-file fraction of **0.106**, worst Behavior 0.301 (the 41-dossier *A stable gauge does not mean
+a safe encounter* line), then M.A.W. Equipment 0.225 (the 33-dossier stat-interpretation line, the field-use block,
+the 7-dossier veil line), Registrum 0.224 (the 21-dossier operational-interpretation and 20-dossier
+review-requirement lines), Observation Log 0.219, Flavor Text 0.180 (the 32-dossier isolation line, the 21-dossier
+interaction shell rows and a 17-dossier procedure line), Final Observation 0.153, Trivia 0.139 and Combat Record
+0.072 — all eight closed in two waves (19 + 19 sites); 5,443 → **6,764 words**; `tpl.py` residue 1 → **0** — the
+10-dossier stat-interpretation line's last sites were retired and it fell below the 10-holder threshold
+archive-wide (residue lines 8 → 7, instances 95 → 85, carriers 69 → 65, clean dossiers 233 → 237); `verify.py`
+residual 1 → **0** (Story Log Entry 1's stock `is logged as `); `sectfile.py` **0 section(s) over 0.05**;
+`wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** on the file's own counted
+record — 44 printed items for the junction in 4238 with 9 naming the tower and 35 accurate; heights 7.1 metres at
+the first measurement of the year and 4.2 at the last against a recorded range of 11 down to 1.5; four Pugnahan
+attempts costing nine metres; a breach walk through four corridors, 2–9 minutes at the corner and half a metre a
+turn; 60 years of directions after the demolition and 11 years after the correct map edition; the notation since
+used for 9 other sites — **restated from the file**, disclosed, and placed inside rows rebuilt for their own sake;
+the condition and disposition clauses were already satisfied and left alone (`R-05`). The behaviour notes were
+rebuilt around print as the single variable the height tracks, the three interaction rows re-authored from what the
+file keeps, and the M.A.W. charges onto the set's own three tolls in the order they fall. Four neighbours shed a
+section (Screaming Masonry 6 → 5, Whispering Walls 7 → 6, Home to No One Who Knew Me 7 → 6, Portcullis 6 → 5).
+Archive dirty sections 705 → **693**; worst whole-file fraction 0.106 → **0.087**; median 0.012 steady. Movement:
+`R-29` 133 → **134 / 301** (series **234**); section-clean 157 → **158 / 301**; residue-free 233 → **237 / 302**;
+file-clean 258 → **260 / 302**. **Batch 23 opens at five targeted; stands at one of five.**
 
 **Batch 22, unit 5: Neverlast `O-IIβ-833` closed; BATCH 22 IS CLOSED AT FIVE.** Measured at `15188f0`: **8 dirty
 sections**, worst Final Observation 0.368 (the choice-presented blockquote and the success/fail row), then Origin

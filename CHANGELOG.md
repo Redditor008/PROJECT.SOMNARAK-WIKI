@@ -63,6 +63,38 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 23 / unit 1 — Absent Landmark `C-Iα-863` closed (2026-10-06)** — measured at `007e10f`: **8 dirty
+  sections**, the archive's worst file at a whole-file fraction of 0.106, worst Behavior 0.301 (the 41-dossier
+  *A stable gauge does not mean a safe encounter* line), then M.A.W. Equipment 0.225 (the 33-dossier
+  stat-interpretation line, the 14-line field-use block, the 7-dossier Han-gossamer veil line and the
+  2-dossier suit cost line), Registrum 0.224 (the 21-dossier operational-interpretation and 20-dossier
+  review-requirement lines), Observation Log 0.219 (three progression rows), Flavor Text 0.180 (the 32-dossier
+  isolation line, the 21-dossier interaction shell rows and the 17-dossier procedure line), Final Observation
+  0.153, Trivia 0.139 and Combat Record 0.072 (the shared Corrosion-side action rows and phase lines). All eight
+  closed in two waves (19 + 19 sites); 5,443 → **6,764 words**; `tpl.py` residue 1 → **0** — the 10-dossier
+  stat-interpretation line's last sites were retired and it fell below the 10-holder threshold archive-wide
+  (residue lines 8 → 7, instances 95 → 85, carriers 69 → 65, clean dossiers 233 → 237); `verify.py` residual
+  1 → **0** (Story Log Entry 1's stock `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** on the file's own counted
+  record — 44 printed items issued for the junction in 4238 with 9 naming the tower and 35 drawing it accurately;
+  heights of 7.1 metres at the first measurement of the year and 4.2 at the last, against a recorded range of 11
+  down to 1.5; four Pugnahan attempts costing nine metres; a breach walk through four corridors standing 2–9
+  minutes at the corner and sinking half a metre a turn; 60 years of directions after the demolition and 11 years
+  after the map edition that drew the junction correctly; the notation used for 9 other sites — **restated from the
+  file rather than invented for the clause**, disclosed, and placed inside rows that were being rebuilt for their
+  own sake. Condition and disposition were already satisfied and left alone (`R-05`). Stock pieces were replaced
+  with the holding's own material: the behaviour notes rebuilt around print as the single variable, the three
+  interaction rows re-authored from what the file keeps (two distant co-presences with the Vanished Tower and no
+  measurement transferred; no co-presence with Breach at all; one distant observation of the Whispering Gallery,
+  entered as unmeasured), the M.A.W. charges re-authored onto the set's own three tolls in the order they fall
+  (the unthinking routes, the habit of the corner, the confidence that a familiar street is familiar), and the
+  resistance row replaced with the file's own defence reading — nothing is rated against the sinking, which is not
+  pressure. Four neighbours shed a section (Screaming Masonry 6 → 5, Whispering Walls 7 → 6, Home to No One Who
+  Knew Me 7 → 6, Portcullis 6 → 5). Movement: `R-29` 133 → **134 / 301** (own numeric series 233 → **234**);
+  section-clean 157 → **158 / 301**; residue-free 233 → **237 / 302**; file-clean 258 → **260 / 302**; archive
+  dirty sections 705 → **693**; worst whole-file fraction 0.106 → **0.087**; median 0.012 steady. **Batch 23 opens
+  at five targeted; stands at one of five.**
+
 - **Batch 22 / unit 5 — Neverlast `O-IIβ-833` closed (2026-10-06)** — measured at `15188f0`: **8 dirty sections**,
   worst Final Observation 0.368 (the choice-presented blockquote and the success/fail row), then Origin 0.310 (the
   48-shared *There is a story in Somnarak* line), Behavior 0.275 (the 38-shared *behavior table is a snapshot* line),
