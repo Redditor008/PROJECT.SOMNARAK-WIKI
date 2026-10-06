@@ -1989,7 +1989,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 29 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-O-IVδ-844 Repose 잠든 잔해 — `__HASH__` — PUSH VERIFIED — [[SE-O-IVδ-844_Repose_잠든_잔해]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-844_Repose_%EC%9E%A0%EB%93%A0_%EC%9E%94%ED%95%B4.md "SE-O-IVδ-844_Repose_잠든_잔해.md")
+- SE-O-IVδ-844 Repose 잠든 잔해 — `33e425c` — PUSH VERIFIED — [[SE-O-IVδ-844_Repose_잠든_잔해]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-844_Repose_%EC%9E%A0%EB%93%A0_%EC%9E%94%ED%95%B4.md "SE-O-IVδ-844_Repose_잠든_잔해.md")
 
 - SE-C-IVδ-505 Cold Burn 얼어붙은 그림자 — `80092be` — PUSH VERIFIED — [[SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-505_Cold_Burn_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자.md")
 
