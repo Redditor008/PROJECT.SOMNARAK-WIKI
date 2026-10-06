@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 32, unit 4: Sorrow Seed `C-Iα-300` closed.** Measured at `1f6cacc`: **4 dirty sections**, worst Behavior
+0.241 — the shared gauge-interpretation paragraph rebuilt in the file's own terms — then M.A.W. Equipment 0.121, Final
+Observation 0.088 and Flavor Text 0.063; **closed in a single wave** (20 sites); 8,144 → **8,470 words**; `tpl.py`
+residue 0; `verify.py` residual 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, series and
+condition held. Disclosed: the choose row's second cell had been clipped mid-word at `no.` and was rewritten whole.
+Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean
+@fc@ / 302. **Batch 32 stands at four of seven.**
+
 **Batch 32, unit 3: The Observing Bird `C-IIIγ-031` closed.** Measured at `1faa7c8`: **4 dirty sections**, worst
 Final Observation 0.254, then Flavor Text 0.073, Combat Record 0.070 and M.A.W. Equipment 0.051 — **closed in a single
 wave** (24 sites); 7,838 → **8,105 words**; `tpl.py` residue 0; `verify.py` residual 0; `sectfile.py` **0 section(s)
@@ -2181,6 +2189,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 32 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-Iα-300 Sorrow Seed 슬픔의 씨앗 — `__HASH__` — PUSH VERIFIED — [[SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-300_Sorrow_Seed_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%94%A8%EC%95%97.md "SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md")
 
 - SE-C-IIIγ-031 The Observing Bird 지켜보는 새 — `af3e61f` — PUSH VERIFIED — [[SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-031_The_Observing_Bird_%EC%A7%80%EC%BC%9C%EB%B3%B4%EB%8A%94_%EC%83%88.md "SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md")
 

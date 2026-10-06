@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 32 / unit 4 — Sorrow Seed `C-Iα-300` closed (2026-10-07)** — measured at `1f6cacc`: **4 dirty sections**, worst
+  Behavior 0.241 (the 33-gram gauge-interpretation paragraph, rebuilt in the file's own terms — object response, the two
+  cautions, the flat gauge that still costs the observer), then M.A.W. Equipment 0.121 (three `matte and unnaturally heavy`
+  appearance lines re-authored, the constant-fatigue cost line, the before/during/at-limit rows, the stat interpretation),
+  Final Observation 0.088 (the choice blockquote, the choose row whose second cell had been clipped mid-word at `no.`) and
+  Flavor Text 0.063 (the relations preamble at 32 grams, the relations header and the Rusted Seed row). **Closed in a
+  single wave** (20 sites); 8,144 → **8,470 words**; `tpl.py` residue 0; `verify.py` residual 0; `sectfile.py` ends at
+  **0 section(s) over 0.05**; `wikistd.py` meets **True** with series and condition held. No splice, no `NOPIPE`, no
+  `is logged as ` residue. Movement at the unit commit: `R-29` 195 / 301; section-clean 220 / 301; residue-free
+  302 / 302; residue lines 0; archive dirty 195; file-clean 302 / 302. **Batch 32 stands at four of seven.**
+
+
+
 - **Batch 32 / unit 3 — The Observing Bird `C-IIIγ-031` closed (2026-10-07)** — measured at `1faa7c8`: **4 dirty
   sections**, worst Final Observation 0.254 (the choice blockquote, the condition row and the result row), then Flavor
   Text 0.073 (the relations preamble, the interaction method — rebuilt whole-line from a badly spliced generator tail
