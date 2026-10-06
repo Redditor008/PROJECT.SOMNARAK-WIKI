@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **222 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **154 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **130 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **223 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **155 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **131 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 253 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 255 / 302 |
 | Archive median prose generic fraction | 0.014 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1678,6 +1678,28 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 `R-29` 121 → **122 / 301** (condition **256**); section-clean 145 → **146 / 301**; residue-free 208 → **209 /
 302**; file-clean 235 → **236 / 302**. **Batch 19 is closed at three.**
 
+
+**Batch 22, unit 3: Déjà Vu `C-IVδ-125` closed.** Measured at `f66cffd`: **8 dirty sections**, worst Behavior 0.376 (the
+52-dossier gauge-in-context line and a 13-dossier reading shell), then M.A.W. 0.212 (the 11-dossier nameless-memories
+cost line, the 13-dossier stat-interpretation line and four shared appearance lines), Flavor 0.205 (the 32-dossier
+isolation line, a 21-dossier network header, three 21-dossier shell rows and a 17-dossier procedure line), Combat
+Record 0.146, Final Observation 0.132, Observation Log 0.108, Containment Event Behavior 0.103 and Trivia 0.076. All
+eight closed in two waves (18 + 20 sites); 7,038 → **8,528 words**; `tpl.py` residue 2 → **0** (the 13-dossier
+stat-interpretation line fell below the 10-holder threshold archive-wide); `verify.py` residual 0; `sectfile.py` ends
+at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True**
+on the file's own figures (2,140 accounts; 84 per cent correct; 16 per cent wrong with 2 thirds timing; 14 injury
+accounts; 9 years pending; 4 minuted askings; 1 costed post in the 46th year) — **restated from its own record**,
+disclosed; the condition clause was already satisfied. The garbled Tension line and the two template phase shells
+were replaced with the holding's own procedure (sealed pre-session account at the gate; spotter outside the boundary
+with the written roster; boundary re-pegged first), and the three interaction rows were re-authored onto the Tree,
+the Well and the Prince from what the file actually records. No neighbouring dossier changed. Archive dirty sections
+730 → **722**; residue instances 128 → **126**, carriers 80 → **79**, clean dossiers 222 → **223**, file-clean 253 →
+**255 / 302**, worst 0.111 → **0.107**. Movement: `R-29` 130 → **131 / 301**; section-clean 154 → **155 / 301**;
+residue-free 222 → **223 / 302**. **Batch 22 stands at three of five.**
+
+**Correction to a shipped count (disclosed):** the Frozen Tear entry above states 7,989 words at first measurement;
+after the gate's malformed-row repair on the Before-use line the measured count is **7,990**. The CHANGELOG entry now
+carries both figures rather than being silently edited (`R-17`).
 
 **Batch 22, unit 2: Frozen Tear `C-IIβ-102` closed.** Measured at `a3b724e`: **8 dirty sections**, worst Behavior
 0.376 (the 52-dossier gauge-in-context line and a 13-dossier reading shell), then M.A.W. 0.237 (a 14-dossier cost

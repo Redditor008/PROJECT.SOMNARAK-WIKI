@@ -63,13 +63,38 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 22 / unit 3 — Déjà Vu `C-IVδ-125` closed (2026-10-06)** — measured at `f66cffd`: **8 dirty sections**, worst
+  Behavior 0.376 (the 52-dossier *The gauge response is only meaningful in context* line and a 13-dossier reading
+  shell), then M.A.W. Equipment 0.212 (the 11-dossier *loses small, nameless memories* cost line, the 13-dossier
+  stat-interpretation line, four shared appearance lines and a shared limit row), Flavor Text 0.205 (the 32-dossier
+  isolation line, a 21-dossier interaction network header, three 21-dossier shell rows and a 17-dossier procedure
+  line), Combat Record 0.146 (an action row, the three phase shells and a shared consequence line), Final
+  Observation 0.132, Observation Log 0.108 (two 11/14-dossier progression rows), Containment Event Behavior 0.103
+  and Trivia 0.076. All eight closed in two waves (18 + 20 sites); 7,038 → **8,528 words**; `tpl.py` residue 2 → **0**
+  (the 11-dossier cost line and the 13-dossier stat-interpretation line — the latter fell below the 10-holder
+  threshold archive-wide); `verify.py` residual 0 throughout; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** on the file's own figures —
+  **2,140** accounts lodged and opened, **84** per cent of scored particulars correct, **16** per cent wrong of which
+  **2** thirds were about timing, **14** accounts that described an injury before it happened, **9** years pending
+  validation, **4** minuted askings and **1** reading-officer post costed in the **46th** year — **restated from its
+  own record rather than invented for the clause**, and the condition clause was already satisfied and left alone
+  (`R-05`). The garbled Tension line (*The team identifies Déjà Vu by personnel should identify…*) and the two
+  template phase shells were replaced with this holding's own procedure — the sealed pre-session account dictated at
+  the gate, the spotter outside the boundary with the written roster, and the boundary re-pegged before anything else
+  is recorded — and the three interaction shell rows were re-authored onto the Tree, the Well and the Prince from
+  what the file actually records (four watches locating memories under the Tree; a cancellation that scores as
+  nothing; one co-presence treated as a control). No neighbouring dossier changed. Archive dirty sections 730 →
+  **722**; residue instances 128 → **126**, carriers 80 → **79**, clean dossiers 222 → **223**, file-clean
+  253 → **255 / 302**, worst 0.111 → **0.107**. Movement: `R-29` 130 → **131 / 301**; section-clean 154 →
+  **155 / 301**; residue-free 222 → **223 / 302**. **Batch 22 stands at three of five.**
+
 - **Batch 22 / unit 2 — Frozen Tear `C-IIβ-102` closed (2026-10-06)** — measured at `a3b724e`: **8 dirty sections**,
   worst Behavior 0.376 (the 52-dossier *The gauge response is only meaningful in context* line and a 13-dossier
   reading shell), then M.A.W. Equipment 0.237 (a 14-dossier cost line, an 11-dossier use-notes line and six shared
   field-use rows), Registrum 0.145 (the *starting point, not a conclusion* and *four pillars* shells), Combat Record
   0.127 (an 11-dossier resistance row, a 13-dossier resolution shell and three shared consequence lines), Final
   Observation 0.125, Trivia 0.098, Flavor Text 0.095 (the 32-dossier isolation line) and Activation Behavior 0.055
-  (a 23-dossier escalation shell). All eight closed in two waves (12 + 15 sites); 6,824 → **7,989 words**;
+  (a 23-dossier escalation shell). All eight closed in two waves (12 + 15 sites); 6,824 → **7,990 words** (7,989 at first measurement; the gate's malformed-row repair on the Before-use line added one token);
   `tpl.py` residue 3 → **0**; `verify.py` residual 0 throughout; `sectfile.py` ends at **0 section(s) over 0.05**;
   `wikistd.py` meets **True**. **Both clauses were already satisfied and were left alone** (`R-05`) — the file's own
   figures (radius 4.1 / 5.6 / 7.2 metres across three annual surveys; the bench authorised in 4232, 61 per cent of

@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Void pressure; 35% against other pressure types |
+| **Resistance** | 45% against Void pressure; 35% against other pressure types. Nothing is rated against the return itself, which is not pressure: the song arrives through perception, no instrument in the chamber registers it, and the only defence on file is a sealed account written before entry |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 883/883 |
 | **Han Pressure [ATK]** | 29–64 per hit · Void |
@@ -78,21 +78,21 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Return* [**Debuff**] } | "You threw the fruit away — and here it is again, in your hand, heavier than before." | [The Fruit returns to the target; the cycle begins anew.] | *Target suffers a Void mark; they cannot get rid of it.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target discards the Fruit. |
-| { *The Compounding Harvest* [**Debuff**] } | "Each time it returns, there are more — two, then four, then eight — and each one is riper." | [The Fruit multiplies with each return; the burden grows.] | *Target loses clarity; the returns are accelerating.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target tries to refuse. |
-| { *The Rotting Return* [**Attack**] } | "The fruit comes back — but this time, it is rotten, and the rot is contagious." | [A decayed returning fruit bursts on impact.] | *Inflicts Void damage; the rot spreads through identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Fruit is crushed. |
-| { *The Infinite Yield* [**Attack**] } | "Every fruit the tree ever produced — returned at once, a mountain of rotting produce." | [The Fruit's complete cycle of returns culminates.] | *A heavy Void avalanche; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the cycle is broken. |
-| { *The Endless Orchard* [**Ultimate**] } | "Fruit appears everywhere — on every surface, in every hand — and none of it can be thrown away." | [The Fruit extends its returns across the whole field.] | *All in range suffer Void erosion for three turns of returning fruit.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Return* [**Debuff**] } | "You put it down, and it is in your hand, and the second time is heavier in a way the first one was not." | [The returned object comes back to the target no matter what is done with it.] | *Target suffers a Void mark; discarding, burying or burning changes nothing, and the return lands heavier each cycle.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target discards the Fruit. |
+| { *The Compounding Harvest* [**Debuff**] } | "One becomes two, two become four, and every one of them is riper than the last." | [Each refusal doubles the return; the burden compounds inside the target's own memory.] | *Target loses clarity; the multiplication is in the recollection rather than in the room, and it accelerates with every attempt to refuse.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target tries to refuse. |
+| { *The Rotting Return* [**Attack**] } | "It comes back different, and the difference is decay, and the decay knows where it is going." | [A decayed return bursts on the target and spoils the memory it arrived with.] | *Inflicts Void damage; the rot spreads through identity, and the target cannot tell afterwards whether the memory was always like this.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Fruit is crushed. |
+| { *The Infinite Yield* [**Attack**] } | "Everything the tree ever carried, arriving at once, and none of it fresh." | [The whole cycle of returns culminates in a single delivery.] | *A heavy Void avalanche; the target's Sorrow Gauge surges 15%, and the arrivals are logged against the present watch rather than the past one.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the cycle is broken. |
+| { *The Endless Orchard* [**Ultimate**] } | "It is on every surface, in every hand, and there is nowhere to put it down." | [The return extends across the whole field, and nobody inside can set their own down.] | *All in range suffer Void erosion for three turns of returning fruit; the boundary is re-pegged before anything else is recorded.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Déjà Vu by personnel should identify the entity by its physical or environmental markers before relying on emotional impressions, confirms the approach, and takes position before anything else is attempted.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Déjà Vu's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Anchor personnel to the present and name the difference between return and restoration**.
+1. **Tension:** The team identifies the holding in the same order every time: the marker set is taken from the file rather than from impressions — no body, nothing in the chamber, no instrument reading — and the pre-session account is dictated at the gate, sealed, witnessed and lodged before anybody goes in. The spotter is named and stays outside the boundary with the written roster, and the bereavement check is run against the personnel record rather than declared.
+2. **Clash:** The watch is worked from outside the marked boundary with the written roster, Viderehan and Ferrehan doing the work and Pugnahan prohibited. The Clarity drain is logged per turn against the willingness-to-leave reading, which the spotter takes and never the worker, and the session closes when the boundary is re-established rather than when the party agrees it should.
+3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Anchor personnel to the present and name the difference between return and restoration** — said aloud at each interval from outside the boundary, with the sealed account opened afterwards and scored by a reviewer who was not in the room.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Composure**, funneling cognitive instability back into the Sorrow Gauge.
+- A worker who cannot hold the return becomes a conduit: **Composure** erodes quietly rather than loudly, because the effect is pleasant, and what they carry back is the present rendered slightly less convincing than the recollection. The second Warden's read ends the watch, and on this holding the read belongs to the spotter, since the person the spell is working on is the last person able to report it.
 - Dejà Vu’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
 - Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
 - Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Déjà Vu's dossier.
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Déjà Vu is recorded as a Subject with Subject-Mind manifestation and Void elemental expression. The current record places it at Zone A, Alpha Tree; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read this table as a description of what the song does rather than as a menu of levers. Flerehan returns a comforting memory and Ferrehan tests whether a worker can remember without reclaiming, and both lower the reading; Viderehan holds it level and shows where the object and its owner were lost, which on this holding is the honest result rather than a failure; Pugnahan is prohibited outright, because the response to being confronted is to sing louder and fill the mind with intrusive absence. Déjà Vu is a Subject with Subject-Mind manifestation and Void expression, held at Zone A beneath the Alpha Tree, and what makes it unlike its neighbours is that it produces information rather than pressure: the accounts lodged at the gate are accurate about the session before it happens. A stable gauge is not a safe reading here, since a watch that holds level is still a watch whose account has already described how it ends.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists, providing containment stabilization, not permanent healing. The gauge rising signals that the Work Type is resonating with the entity’s wound rather than soothing it, or has inadvertently fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve all observations before the next work cycle begins and log them before the next assignment.
+**Reading the response:** The falling gauge does not present as relief. Under Flerehan the song returns a comforting memory, and the sensation workers report is warmth followed by emptiness when the return fades — the thing that came back was proof of the loss and not the loss undone. The rising gauge is the loudness: under confrontation the song fills the mind with intrusive absence, and the brief is repeated at every shift start that pleasantness is not safety, because the holding's specific hazard is that nobody inside the boundary wants the watch to stop. The load-bearing reading on this file is not the gauge at all. It is the sealed account opened after the session and scored by a reviewer who was not in the room, and where the entity reacts outside this table the reaction is data: preserve it before the next cycle and log it before the next assignment.
 ## Containment Event Behavior
 
 > *"Transformation event in progress. Déjà Vu is changing the space around itself and staying in it."*
@@ -156,8 +156,8 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | **Movement** | Déjà Vu widens past the marked boundary like a spreading tide. It reaches whoever is inside the affected area; it does not seek anybody out. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
+| **First Target** | Whoever is inside the marked boundary when it widens. The event does not seek anybody out; it spreads past the line like a tide, and the people it reaches are the people who were standing where the boundary used to be — which is why the perimeter is worked from outside it and the roster is written down. |
+| **Escalation** | Every turn the volume holds, the Clarity drain rises by 5 and the song draws further past the last peg. It has never been observed to fall while anyone remains inside, and it stops when the boundary is re-established and the workers are out; nobody inside reports wanting to leave, so the decision belongs to the spotter and is not referred to the room. |
 
 ### Escalation Notes
 
@@ -188,15 +188,15 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Déjà Vu's void signature in the strike.
+**Ability:** Void damage against the Soul — identity, memory, sense of self — carried in the strike as this holding's signature. Recipients describe the wound as a return: something they had put down is in their hands again, heavier than it was, and they cannot say where it came from.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Small, unattributable things go first: a route, a name at a counter, the face of somebody dealt with last month. The charge is cumulative on this set and is measured at 90 days against a baseline taken before issue; the Armoury's note is that it is reported by colleagues before the wielder notices it.
 
 ### M.A.W. Suit — The Returning Veil
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a veil of Void Han-gossamer, near-colourless and faintly cold, that hangs without moving in a draught and leaves its wearer's reflection a half-step behind them.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -206,25 +206,25 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Déjà Vu's kind of pressure.
+**Ability:** Turns Void pressure aside from the Soul. It holds against the pressure and not against the song — a wearer inside the boundary still hears it exactly as clearly, and the veil's note is that the protection here is against the surrounding zone and not against the return. Worn against Déjà Vu's kind of pressure, with that qualification on the line.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer comes to feel faintly absent to themselves — present, recorded, and not entirely convinced of either — and reports the present as slightly less convincing than their recollection of it, which is the same sentence the ninety-day measurement produces.
 
 ### M.A.W. Stigma — The Returning Seed
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a seed-charm of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a seed-charm of Void Han-glass on a short cord, near-colourless, that grows cool near its source sorrow and warm again when held.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 while working beneath the Alpha Tree, and nothing anywhere else in the enclosure; the seed's other property is not measurable and is the one that matters — the wearer can recall one lost thing with exceptional clarity, once.
 
 **Ability:** Recalls one lost memory with exceptional clarity.
 
 **Cost:** The wearer temporarily loses a present memory of equal emotional weight.
 
-*The Returning Stigma is not manufactured and cannot be requisitioned. It has been conferred three times, in every case on a worker who asked to be withdrawn from a watch they were not finding unpleasant.*
+*The Returning Stigma is issued rather than manufactured, and it has been conferred 3 times on the same kind of worker: one who asked to be withdrawn from a watch they were not finding unpleasant, which is the single act the holding treats as a correct reading of itself.*
 
 ### M.A.W. Use Notes
 
@@ -236,10 +236,10 @@ Each piece of this entity's equipment is an extension of a return that restores 
 |---|---|
 | **Before use** | Wielder and grade; gauge; the operator's own state in their words; piece condition; objective; the sealed pre-session account lodged and witnessed; the bereavement check run against the personnel record rather than declared; and the name of the spotter, who remains outside the boundary throughout. |
 | **During use** | Contact time, the song's onset and character, the first cost, any reluctance to leave, and the spotter's independent note of the same, taken without conferring. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the operator or by the spotter. On this holding it has been called by the spotter in all but three cases. |
+| **At limit** | Duration and activations, the movement in the wearer's own attributes, the rejection signs, the source's behaviour, and one field specific to this set: whether the limit was called by the wearer or by the spotter. On this holding it has been called by the spotter in all but 3 cases, which the Armoury records as the finding rather than as an anomaly. |
 | **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, the opening of the sealed account, and a comparison of the account against the session log. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade states what a piece can do and says nothing about what it leaves the wearer believing. The listed benefit on all three pieces is strongest against Void, and the cost is separate and always the same: the bearer begins to find the present slightly less convincing than their own recollection of it, measured at 90 days against a baseline taken before issue. An efficient issue can still leave the wielder hollowed, and a low-rated piece can carry the severe charge; read both columns, authorise on the second, and take the baseline before the issue rather than after it.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -256,8 +256,8 @@ Each piece of this entity's equipment is an extension of a return that restores 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Déjà Vu as a Subject with Subject-Mind manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone A, Alpha Tree. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
+| **Initial exposure** | The observer identifies Déjà Vu as a Subject with Subject-Mind manifestation, and the markers are taken in a set order: the song's onset and character, the first sensation reported, and the pre-session account lodged and witnessed at the gate before entry. The chamber contains nothing and registers nothing on any instrument, which the file states plainly; what the holding produces is that workers who have not spoken to each other describe the same perception, and that identity of description is the only measurement available. |
+| **Sustained observation** | Continued observation keeps two things apart that are easy to merge: the song's behaviour, which is stable and characterised, and the workers' willingness to leave, which is the number that moves. The watch records the onset and character of the song, the first sensation reported, and at each interval whether the worker wants to remain — and the last of those is read by the spotter rather than declared by the worker, because the effect works against the worker's own judgement. The two do not escalate at the same rate, and the file reads the willingness first. |
 | **Activation or escalation** | The trigger on file: Transformation in place. Déjà Vu alters what is around it at Zone A, Alpha Tree and stays inside it; identity and memory begin to dissolve, draining clarity Log the time, the witnesses, and the condition of the holding before and after. |
 | **Post-contact review** | Record what changed, what held, and the detail hardest to name. On this holding the review has one mandatory item before all others: the sealed account is opened, read against the session log, and the agreement or disagreement is scored. The reviewer scoring it is not permitted to have been in the room. |
 
@@ -285,9 +285,9 @@ A fruit-shaped presence occupying consciousness rather than space, perceived as 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Dejà Vu; the other feeds it.
+> One reading of the record and one departure from it. The condition is sentence-level: name aloud, at every interval, the difference between the thing having come back and the loss having been undone.
 
-| Anchor personnel to the present and name the difference between return and restoration — as written, without improvising. | Substitute your own judgement, which on Déjà Vu has never yet cost less than the condition. |
+| Do the thing on file: anchor the workers to the present and name aloud the difference between return and restoration, at every interval, from outside the boundary. | Substitute your own judgement, which on Déjà Vu has never yet cost less than the condition — the worker who lets the song be enough, or who opens an account early to know what is coming. |
 |---|---|
 | Returns a comforting memory. The sorrow is seen clearly; Déjà Vu is fully recorded. | Sings louder and fills the mind with intrusive absence. The gauge climbs and Déjà Vu withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -304,26 +304,26 @@ A sweetness appears on your tongue before the fruit appears. You remember a kitc
 
 **When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Void becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Mind was waiting; now it moves.
 
-**After departure:** Departure is not relief. The Subject-Mind is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** What follows a watch out is emptiness, and the file treats it as the expected course rather than a complication: the thing the song returned was not the thing that was lost, and once the return fades what is left is the proof that it was lost. Workers report it in the same shape every time — the memory intact, the warmth gone, and a conviction that the present is slightly less convincing than the recollection. The Armoury measures that effect at ninety days against a baseline taken before issue, and it is the reason the pre-session account is sealed rather than trusted to memory.
 
 ### Interaction Pattern
 
-Déjà Vu does not exist in isolation. Its recorded relationships with The Returning Tree, The Memory Well, The Lost Prince should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Déjà Vu is read against three Alpha Tree holdings rather than in isolation, and the reading has a control built into it that most of the archive lacks: the song is heard only by the person carrying the memory, so a paired observation has to be taken from two independent accounts and never from agreement between observers. The Returning Tree, The Memory Well and The Lost Prince are the three the file has tested, and the interaction series is small because a pairing here requires two operatives with different memories and the same watch.
 
 **Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, events, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, event, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
 
-Déjà Vu must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, event, Ordeal, or transformation conditions.
+The three relations below are points of contact rather than alliances, and none is settled. What the file requires of a reader is that they not assume a repeated interaction reproduces itself: a Sorrow Tide, an event, an Ordeal or a transformation has overturned settled readings in this district before, and on this holding the observers' own memories are part of the apparatus, which is why every pairing is logged against the two accounts separately and never against a consensus.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Returning Tree** | Provides places for returned memories to root. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Memory Well** | Draws memories from the Well's surface. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Lost Prince** | Returns fragments of absent bonds. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Returning Tree** | Provides places for returned memories to root — the only relation on file with a direction, and one carried entirely on the Tree's side. | The song does not change; what changes is where operatives locate what they have remembered. Four watches have put returned memories under the Tree rather than in the chamber, and each of those operatives described the memory as still there afterwards, which is a sentence no other pairing produces. | The Tree's own record, the operative's account written alone, and whether the memory still locates under the Tree at the following watch. |
+| **The Memory Well** | Draws from the surface of the Well rather than from the memory, and reads as a competing source. | Two watches, no measurable change on either side. The operational finding is negative and worth keeping: the Well takes memories that are already present, this brings back ones that are not, and together they appear to cancel. | Both records, the two accounts written independently, and the absence of any change in either gauge. |
+| **The Lost Prince** | Returns fragments of absent bonds, which is close enough to this holding's own work that the file tests it by similarity rather than by proximity. | One co-presence. The song quieted for the duration and the operative's account scored by generic statements only, which is what the series does when a session is planned and nothing happens; the reviewers treat its silence as a control rather than a result. | The single co-presence in full, the account's score, and the reviewers' note on why it is not counted. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Solo baselines first, and on this holding the baselines are accounts rather than readings: what each operative carries into the watch, sealed, before the pairing. Then the shared encounter, logged as two separate accounts written alone, neither compared with the other's, plus the distance at which the song changes, the duration, the gauge on both sides, and whether anything survives separation. A pairing recorded as a single agreed observation is entered as unmeasured, because the only instrument here is the observer's own memory and the spell that makes observers agree is the hazard.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -372,7 +372,7 @@ Some sorrows mourn what was lost. Déjà Vu mourns the return — the recovered 
 
 **Operational interpretation:** The three sections below are one argument and are read together: the pre-session accounts are accurate, including about injuries, an unopened account is not knowledge in law and the protocol is what makes it unopened, and the validation that justifies the protocol has run nine years without a completion criterion. Where observation contradicts this record, preserve the contradiction rather than normalising it.
 
-**Review requirement:** After every event, Tide, Ordeal or unusual interaction, re-verify the gauge baseline, the bereavement check against the personnel record, the seal integrity on every lodged account, the agreement score of the series, and the standing of the reading-officer proposal, which is to be reported as outstanding for as long as it is outstanding.
+**Review requirement:** After every event, Tide, Ordeal or unusual interaction, re-verify the gauge baseline, the bereavement check against the personnel record, the seal integrity on every lodged account, the agreement score of the series, and the standing of the reading-officer proposal, which is to be reported as outstanding for as long as it is outstanding. The series carries these figures and the review re-reads them rather than trusting the last return: 2,140 accounts lodged and opened; 84 per cent of scored particulars correct; 16 per cent scored wrong, of which 2 thirds were wrong about timing rather than content; 14 accounts that described an injury before it happened, each opened afterwards, scored correct, and filed with an incident report that does not mention it; 9 years the protocol has been pending validation, with no completion criterion in the adoption paper, any annual return, the research plan, or the committee minutes; 4 times the question has been minuted; and 1 reading-officer post costed in the 46th year that has not been laid before the board in 5.
 ## Apex Record
 
 ### A Fruit in the Mind
@@ -448,8 +448,8 @@ The minute records the objection as **correct in all three parts**. It records t
 
 ### Registry Trivia
 
-- **Classification detail:** Déjà Vu is a Subject with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Void, and its registered location is Zone A, Alpha Tree.
+- **Classification detail:** Déjà Vu is a Subject with Entity (IV) coherence and Critical (δ) potency, and the earlier rating of Low was struck: it has no body, no reach beyond perception and no capacity to compel, and it is rated Critical because its event dissolves identity across a volume in which nobody wants to be rescued, and because exposure to it is pleasant.
+- **Field detail:** Element Void, registered to Zone A beneath the Alpha Tree, where the chamber is maintained daily although it contains nothing and the site is surveyed quarterly with the municipal botanical office because the tree is still there.
 - **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
 - **Record detail:** Among Subject-Mind holdings it is distinguished by producing information rather than pressure. Everything difficult about this file follows from the information being correct and from the procedure that keeps it sealed until it is too late to use.
 - **Containment detail:** Sealed does not mean inert. The chamber is swept daily by a crew who know there is nothing in it, because a room can be bounded and a perception cannot, and because a worker who has watched the room be maintained carries in a boundary that belongs to the facility rather than to their own attention.
