@@ -1716,6 +1716,22 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 29 — CLOSED at ten.** Ten dossiers, **57 / 57 dirty sections closed**, **+3,746 words** net (73,808 →
+77,554), `verify.py` residuals **19 → 0**, nothing deleted (`R-15`); each unit's SE link, closing commit and PUSH
+VERIFIED status stand in the block below (`R-12`). Movement across the cohort, b28 base → close: `R-29` 170 → **180 /
+301**; own numeric series 257 → **260 / 301**; condition 259 → 259 / 301; section-clean 195 → **205 / 301**;
+residue-free 302 → 302 / 302; `tpl.py` residue lines 0; archive dirty 374 → **303**; file-clean 302 → 302 / 302;
+scene-clean 196 → 206; worst 0.04 → 0.038; median 0.01 → 0.009. Series conversions u4, u5 and u10 (**False → True**)
+restated each file's own figures for the register's look-up, disclosed; every unit validated at 0 section(s) over 0.05,
+RESIDUAL 0, RESIDUE 0, `pipe True` and `seam []`, and `wikistd.py` meets **True** on each file at close. Disclosures:
+u1 two waves · u2 three passes and two whole-line splice rebuilds · u3 appearance swaps and the shared Architect story
+re-authored · u4 one wave plus a follow-up patch · u5 two aborted attempts then one wave, shared origin replaced,
+relation rows re-authored · u6 and u8 condition re-registrations after their banners were rewritten · u7 and u9
+truncated generator fragments rebuilt · u9 and u10 shared origin replaced · u10 two waves. **Housekeeping, disclosed:**
+the per-unit counter placeholders in the u1–u10 CHANGELOG entries and these paragraphs were left unsubstituted by the
+docs template; each counter was re-measured at its unit's commit and substituted in place (`67236f8`) — counters only,
+no prose or figures changed (`R-15`). **Next cohort opens at three or five.**
+
 **Batch 29, unit 10: Memorial Flame Mid-Ceremony `C-IVδ-763` closed — batch complete.** Measured at `6110265`:
 **6 dirty sections**, worst Final Observation 0.130, then Story Log 0.119, M.A.W. Equipment 0.071, Operational
 Parameters 0.067, Flavor Text 0.061 and Combat Record 0.052 — **closed in two waves** (21 + 2 sites); 6,929 → **7,393
@@ -2011,7 +2027,7 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
-**Batch 29 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 29 — CLOSED at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IVδ-763 Memorial Flame Mid-Ceremony 사라진 불꽃 — `a6dcab9` — PUSH VERIFIED — [[SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-763_Memorial_Flame_Mid-Ceremony_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B6%88%EA%BD%83.md "SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md")
 

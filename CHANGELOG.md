@@ -8,6 +8,33 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 29 — CLOSED at ten (2026-10-07).** Ten dossiers, **57 / 57 dirty sections closed**, **+3,746 words** net
+  (73,808 → 77,554), `verify.py` residuals **19 → 0**, nothing deleted (`R-15`); each unit's SE link, closing commit
+  and PUSH VERIFIED status stand in the batch block in `WORK_IN_PROGRESS.md` (`R-12`). The cohort: Sleeping Shard
+  `N-IVδ-611` · Swallow `C-IVδ-767` · Dormant Monolith `N-IVδ-909` · Feu Follet `O-IIβ-301` · Broken Fragment
+  `O-IVδ-115` · Cold Burn `C-IVδ-505` · Repose `O-IVδ-844` · Carrying Nothing `C-IIβ-357` · Anonym `O-Iα-126` ·
+  Memorial Flame Mid-Ceremony `C-IVδ-763`. Every wave validated at 0 section(s) over 0.05, RESIDUAL 0, RESIDUE 0,
+  `pipe True` and `seam []`, and `wikistd.py` meets **True** on each file at close. Series: three conversions to
+  **True** (u4, u5, u10) by restating each file's own figures in numerals for the register's look-up, disclosed, with
+  no clause prose written to fit the test (`R-05`); every condition and disposition state that already held was left
+  alone. Movement across the cohort, b28 base → close: `R-29` 170 → **180 / 301**; own numeric series 257 → **260 /
+  301**; condition 259 → 259 / 301; section-clean 195 → **205 / 301**; residue-free 302 → 302 / 302; `tpl.py` residue
+  lines 0; archive dirty 374 → **303**; file-clean 302 → 302 / 302; scene-clean 196 → 206; worst 0.04 → 0.038; median
+  0.01 → 0.009. Disclosures for the batch: u1 two waves (26 + 4) · u2 three passes and two whole-line splice rebuilds
+  after the first pass left old tails behind new prose · u3 the weapon and suit appearance swaps and the shared
+  Architect story re-authored onto the holding's own intake account · u4 one wave plus a follow-up patch, series via
+  numerals · u5 two aborted attempts (nothing written) then one wave, the shared origin story replaced and two generic
+  relation rows re-authored, series via numerals · u6 the condition re-registration after its old resolution banner was
+  rewritten (held True) · u7 a truncated generator phrase in two field-use rows rebuilt · u8 the condition
+  re-registration after its banner was rewritten (held True) · u9 a truncated generator tail in two field-use rows
+  rebuilt and the shared origin fragment replaced · u10 two waves (21 + 2) and the shared origin fragment replaced.
+  **Housekeeping, disclosed in its own commit:** the per-unit counter placeholders in the u1–u10 CHANGELOG entries and
+  WIP paragraphs were left unsubstituted by the docs template; each counter was re-measured at its unit's commit and
+  substituted in place (`67236f8`) — counters only, no prose or figures changed (`R-15`). **Next cohort opens at three
+  or five.**
+
+
+
 - **Batch 29 / unit 10 — Memorial Flame Mid-Ceremony `C-IVδ-763` closed (2026-10-07)** — measured at `6110265`:
   **6 dirty sections**, worst Final Observation 0.130 (the choice blockquote, the condition row and the result row),
   then Story Log 0.119 (Entry 1's `is logged as ` line and the shared origin fragment), M.A.W. Equipment 0.071 (four
