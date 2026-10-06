@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 29 / unit 1 — Sleeping Shard `N-IVδ-611` closed (2026-10-07)** — measured at `66b7766`: **6 dirty sections**,
+  worst Behavior 0.254 (the operational work notes paragraph, which is the generator's own template), then Final
+  Observation 0.138 (the blockquote, condition row and result row), M.A.W. Equipment 0.096 (the knife appearance,
+  the veil and vial appearances, the Use Notes opener, all four field-use rows and the stat interpretation), Combat
+  Record 0.079 (the resistance row, two action rows and the resolution phase), Trivia 0.058 (classification detail
+  and field detail) and Flavor Text 0.057 (the intro, all four contact lines, and the interaction preamble that sits
+  under the same heading). **Closed in two waves** (26 sites, then 4 — the second wave took out the interaction
+  preamble, which alone accounted for most of the Flavor Text share); 7,240 → **7,402 words**; `tpl.py` residue 0
+  throughout; `verify.py` residual **3 → 0** (the escalation bullet's `logged as a step up`, the Use Notes opener's
+  `is a conditional extension of`, and Story Log Entry 1's `is logged as `); `sectfile.py` ends at **0 section(s) over
+  0.05**; `wikistd.py` meets **True**, condition and series already satisfied and left alone (`R-05`). The stock pieces
+  went onto the chamber's own filings: the anchor rota, the bare chamber and the two reused refusals, the tear-rate
+  series and the care-cycles heading. Movement at the unit commit: `R-29` 171 / 301; section-clean 196 / 301;
+  residue-free 302 / 302; residue lines 0; archive dirty 368; file-clean 302 / 302. **Batch 29 stands
+  at one of ten.**
+
+
+
 ### Corrected
 
 - **Retraction — the V5-12 boilerplate figure above is wrong.** The entry below claims dossier

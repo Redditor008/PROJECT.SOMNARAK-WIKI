@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Void pressure; 35% against other pressure types |
+| **Resistance** | 45 per cent against Void pressure and 35 against everything else — the highest band a δ holding carries here, and it is written for the dream rather than the figure: nothing in the chamber swings, so what a crew holds against is the radius. The gauge opens at 846 and trips at 90 per cent, and the drain runs 5 Clarity per turn per person inside it. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 846/846 |
 | **Han Pressure [ATK]** | 27–59 per hit · Void |
@@ -81,14 +81,14 @@
 | { *The Slow Breath* [**Debuff**] } | "The shard breathes — in, out — so slowly you almost miss it. But it is alive, and it is sleeping." | [The Shard's dormant life radiates; the target senses a sleeping danger.] | *Target suffers a Void mark; the slumbering thing is aware of them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Shard. |
 | { *The Twitch* [**Debuff**] } | "The shard shifts in its sleep — a micro-movement — and the movement sends a ripple of void through everything nearby." | [The Shard's dream-twitch releases void-ripples; the target is caught in the wake.] | *Target loses clarity; the sleeping thing stirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
 | { *The Reflex* [**Attack**] } | "The sleeping shard twitches violently — a reflex-strike from a dormant edge." | [An involuntary strike from the sleeping Shard.] | *Inflicts Void damage; the reflex cut is deep and unexpected.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shard is touched. |
-| { *The Waking* [**Attack**] } | "The shard's eyes open — if shards had eyes — and the waking is violent, disorienting, and sharp." | [The Shard's awakening releases its full dormant potential.] | *A heavy Void eruption; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is forced awake. |
-| { *The Waking Field* [**Ultimate**] } | "Every dormant shard in the field wakes — and they are all sharp, and they are all hungry, and they are all awake." | [The Shard extends its waking across the whole area.] | *All in range suffer Void erosion for three turns of waking edges.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Waking* [**Attack**] } | "The shard's eyes open — if shards had eyes — and the waking is violent, disorienting, and sharp." | [The chamber's quiet ends at once, and everything the anchoring held back arrives in the same breath.] |
+| { *The Waking Field* [**Ultimate**] } | "Every dormant shard in the field wakes — and they are all sharp, and they are all hungry, and they are all awake." | [The sleep stops being the chamber's condition and becomes the whole floor's, and the anchor is left holding one point of it.] |
 
 ### Battle Phases
 
 1. **Tension:** Sleeping Shard is confirmed by the float and the curl. Several crystal-bearing entities are held in this wing; only this one carries the shard rather than being carried by it, and only this one is asleep. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** There is no exchange of blows here. The team works at the edge of a sleep it must not interrupt — Flerehan to settle the weeping, Ferrehan to stay present without reaching, Viderehan to read the memory underneath. Every gauge movement is a statement about how quiet the room was.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not wake it; reduce disturbance and provide a dream anchor**.
+3. **Resolution:** The cycle closes with disturbance reduced, an anchor set within arm's reach, and the sleep uninterrupted; the file's condition is not to wake it, and every recorded escalation here began with an attempt to end the sleep rather than sit beside it. The anchor is a kept object with a known owner, replaced at each shift change, and a rota entry records whose object is in the chamber on which day.
 
 ### Consequences
 
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Sleeping Shard is recorded as a Subject with Subject-Lament manifestation and Void elemental expression. The current record places it at Zone E, Exile's Gate vicinity; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Nothing in the table above means anything read on its own. The element, the coherence and the manifestation together decide what a Work Type can do here, and the notes below are the whole of what the wing has established about that.
 
 **Reading the response:** Success is a quieter sleep and slower tears — a change of degree rather than of state, measured against the start of the shift rather than against the file. An angry waking means the work turned into an attempt to take the grief away instead of to sit beside it. The Shard tells those two apart reliably. Personnel so far do not.
 ## Breach Behavior
@@ -163,7 +163,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 - **Breach type:** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Do not force the waking — a forced waking is the one action this entity answers. Set an anchor first, quieten the zone second, and accept a slow recovery of the radius over a fast one.
-- **Sorrow Gauge on breach:** It rises with disturbance and falls with anchoring, and neither runs on a clock. A voice in the chamber, a light brought close, a hand laid on the crystal: each is logged as a step up. A dream anchor correctly placed brings it down and goes on bringing it down for as long as the anchor holds, which has never yet been longer than a single shift.
+- **Sorrow Gauge on breach:** It climbs on disturbance and settles on anchoring, and neither of the two runs to a clock. A voice in the chamber, a light brought near, a hand on the crystal: every one of those is entered as a step up. A correctly placed anchor takes it down and keeps taking it down for as long as the anchor holds, which the rota has never recorded past a single shift.
 
 ## M.A.W. Equipment
 
@@ -173,7 +173,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-Appearance : A rugged seven-inch trench knife with an intentionally blunted false edge clip, featuring a broad carbon blade with dark patina and a cast-brass knuckle-duster grip.
+Appearance : A trench knife of seven inches with the false edge deliberately blunted, a broad carbon blade gone dark with patina and a cast-brass knuckle grip, hung on the chamber wall rather than carried.
 
 Designed for brutal trench defense, the knife combines punching blunt trauma with deep stabbing punctures. The knuckle grip provides exceptional security during desperate hand-to-hand combat.
 
@@ -191,7 +191,7 @@ Designed for brutal trench defense, the knife combines punching blunt trauma wit
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a veil of Void Han-gossamer, near-translucent and all but colourless, that draws in against the body when it is taken into the Gate's dream layer and hangs slack everywhere else. |
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -209,7 +209,7 @@ Designed for brutal trench defense, the knife combines punching blunt trauma wit
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a small vial of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** a vial of Void Han-glass, shy of translucence and without colour, stoppered with wax and warm to the palm when the dream is running close to the surface. |
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -223,18 +223,18 @@ Designed for brutal trench defense, the knife combines punching blunt trauma wit
 
 ### M.A.W. Use Notes
 
-Each piece is a conditional extension of the Shard rather than ordinary equipment, and the condition is quiet. Used as intended — slowly, at distance, without insistence — the knife and the veil hold to grade. Used in haste, the cost scales and the Void held in them becomes active, which here means the wielder loses more than the listed debit and loses it in one block instead of in fragments. The vial is given rather than drawn, and it cannot be requested.
+Each piece stands in a conditional relation to the Shard rather than being ordinary equipment, and the condition is a quiet one. Used the way the file intends — slowly, from a distance, without insistence — the knife and the veil hold to grade. Used in a hurry the cost scales, and the Void they hold turns active: the bearer loses more than the recorded debit and loses it in one block instead of in fragments. The vial is given rather than drawn, and it cannot be requested.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Sleeping Shard the recorded cost is that small nameless memories go with every use, and the wielder cannot audit the loss, because the faculty that would have noticed is the one being spent. |
-| **During use** | Watch for Sleeping Shard's toll — small nameless memories go with every use, and the wielder cannot audit the loss, because the faculty that would have noticed is the one being spent — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wearer feels faintly absent to themselves, as though watching the shift from a short distance behind their own shoulder, without remission. On a Sleeping Shard piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Sleeping Shard's cost is still showing — the wearer feels faintly absent to themselves, as though watching the shift from a short distance behind their own shoulder. |
+| **Before use** | Wielder, piece, the day's reading, and a baseline the second worker takes down and keeps — the recorded cost on this set is one small nameless memory per use, unauditable by the bearer, since the faculty that would have caught the loss is the one being spent. |
+| **During use** | Watch for the set's toll on the colleague rather than the bearer: a small nameless memory leaves with each use, and the bearer will report the loss as nothing. Enter the hour it is first seen by the observer, not the hour the bearer first mentions it. |
+| **At limit** | The limit is absence that no longer lifts — the bearer watching the shift from just behind their own shoulder — and on a piece from this source the use ends at that point whatever the bearer says about it. |
+| **After use** | Return the piece, and then ask the colleague rather than the bearer whether the absence is still showing and whether the night's reading matches the dried tears; the surface readings for this set are taken from the chamber, not from the person. |
 
-**Stat interpretation:** Performance and cost are separate axes here and they do not move together. δ describes what the Shard can do to a team. It says nothing about the knife, which is efficient, cheap in Echoes, and the most expensive item in this wing once the account is kept in memories instead.
+**Stat interpretation:** Performance and cost run on separate axes here and do not move together. The δ band records what the waking would do to a team and nothing about the knife, which is cheap in Echoes, efficient in the hand and the most expensive object in this wing once the account is kept in memories. Read the cost column first. |
 
 ## 관찰 기록 (Observation Log)
 
@@ -252,7 +252,7 @@ Each piece is a conditional extension of the Shard rather than ordinary equipmen
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Sleeping Shard as a Subject with Subject-Lament manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone E, Exile's Gate vicinity. |
+| **Initial exposure** | Confirm the holding from the float and the curl, check the station against the Gate, and take the day's reading before anything else — nothing in this chamber is identified by sound, because there has never been any. |
 | **Sustained observation** | Tear rate in the layer, the distance at which the weeping stops being liquid, the resting height, and where in the chamber it has drifted to. The crystal does not change; the body around it does. |
 | **Activation or escalation** | Any disturbance of the sleep: a voice in the chamber, a light brought close, a hand laid on the crystal. Each is a step up, and the threshold is 1. |
 | **Post-contact review** | Tear rate at open and close, the shape report in the entrant's own words, the drift position, and the cycle's return — which falls as the work improves and is booked under the care heading for that reason. |
@@ -263,7 +263,7 @@ Each piece is a conditional extension of the Shard rather than ordinary equipmen
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sleeping Shard (N-IVδ-611 [N]) is logged as a Subject-Lament manifestation expressing Void. The Shard formed from grief deliberately placed into sleep. Held at Zone E, Exile's Gate vicinity. It has never fully awakened.
+Sleeping Shard (N-IVδ-611 [N]) is a Subject-Lament manifestation expressing Void, held at the Exile's Gate in Zone E. It formed from a grief deliberately put to sleep, and it has never fully woken: the figure floats, curls and weeps, and the weeping is liquid only inside the dream layer.
 
 **Entry 2 — <Excerpt from Dream-Watch Log, Exile's Gate>**
 Spreads through dreams near the Exile's Gate. Personnel experience sleeping grief and emotional paralysis. Its dreams are visible to personnel near the Gate.
@@ -281,30 +281,30 @@ The anchor is a kept object with a known owner, set within arm's reach of the cr
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Sleeping Shard; the other feeds it.
+> Two ways to close a watch in the chamber, and the file's own series separates them: one leaves the sleep unbroken and the tears slower, and the other is the single action the holding has ever answered — the one the chamber exists to prevent.
 
-| Do not wake it; reduce disturbance and provide a dream anchor — as written, without improvising. | Depart from the condition for good reasons, as Sleeping Shard's record shows people do. |
+| Leave the sleep unbroken, hold the chamber quiet, and set an anchor that means something to somebody — kept within arm's reach and swapped at shift change, with the rota recording whose object is in the room. | Depart from the condition for good reasons, as the record shows people do: force the waking, take the memory up, or furnish the room to satisfy an inspection — the first is the only thing the holding answers, and the third was refused twice and the refusal reused verbatim. |
 |---|---|
-| It sleeps more peacefully and its tears slow. The sorrow is seen clearly; Sleeping Shard is fully recorded. | The dream fractures and the Shard wakes angrily. The gauge climbs and Sleeping Shard withdraws without revelation. |
+| The sleep quiets, the tears slow against the shift's own opening, and the watch closes with the anchor logged, the tear rate entered at both ends and the chamber left as bare as it was found. | The dream fractures, the opening arrives in a single breath, and the entry closes with the new distance of the liquid line recorded and the radius noted against the last mark. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-A figure sleeps inside a crystal shard. Its face changes as dreams pass through it. You hear a sob, then a breath, then silence. The Shard does not need rescue. It needs the world not to demand that it wake before it is ready.
+A figure sleeps inside a shard of pale crystal, its face changing as dreams pass through it. A sob, then a breath, then nothing. The Shard is not waiting to be rescued, and it does not need the room to be furnished: it needs the world not to require that it wake before it is ready.
 
 
 
-**At first contact:** The Subject-Lament does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A sleeping figure made from a large shard of pale crystal. It weeps while unconscious and changes shape inside dreams.
+**At first contact:** Nothing announces it — no sound and no movement. What arrives is a sensation, Void settling on the skin the way weather does, like memory, like the particular weight of a grief with no source attached to it. Then the shape resolves: a sleeping figure of pale crystal, weeping while unconscious, changing inside its own dream.
 
-**With continued exposure:** Time stretches in the containment zone. The Subject-Lament becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
+**With continued exposure:** Time stretches in the chamber and the holding becomes more distinct rather than less: the line between its presence and your own reaction blurs, sharpens, blurs again, until what you are feeling and what it is become hard to separate.
 
-**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Void becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Lament was waiting; now it moves.
+**When the entity activates:** That is not a subtle thing. Han density doubles and then triples, and the Void turns into something with direction to it — pressure that pushes, pulls, dissolves or crushes. The figure was waiting, and now it is doing.
 
-**After departure:** Departure is not relief. The Subject-Lament is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** Leaving is not relief. The holding stays behind the seal, and the encounter does not: a sound, a temperature, an absence that persists past the threshold and shows up in the following shift's readings.
 
 ### Interaction Pattern
 
-Sleeping Shard does not exist in isolation. Its recorded relationships with The Frozen Shard, The Dream Weaver's Loom, The Frozen Sigh should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The Shard is not held alone in fact: The Frozen Shard, The Dream Weaver's Loom and The Frozen Sigh are all kept within reach of it, and none of the three is an alliance. Every pairing on this file runs the same way — record whether the reading changed in sound, movement, temperature, memory pressure, gauge or containment, with the distance at which the change begins and how long it holds.
 
 **Interaction method:** Baseline the Shard alone across a full shift before any pairing; its readings drift unaided, and a short baseline will mislead. With the Loom the dreams become legible from further off and the tears travel further before they stop. With the Frozen Sigh the two settle each other and both gauges fall. Record the distance at which the change begins, how long it holds, and whether the Shard's drift pattern is different afterwards.
 
@@ -438,11 +438,11 @@ The finance office objects, re-tables the objection annually, and is right to. A
 
 ### Registry Trivia
 
-- **Classification detail:** Sleeping Shard is a Subject with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Void, and its registered location is Zone E, Exile's Gate vicinity.
+- **Classification detail:** Subject, Entity (IV) coherence, Critical (δ) potency: a self-aware holding that has never struck and cannot be worked on without being disturbed. |
+- **Field detail:** Void is its element and the outer Grounds of the Exile's Gate in Zone E are its registered ground — held there floating, curled, and asleep.
 - **Recognition detail:** Identify it by the float and the curl. Several crystal-bearing entities are held in this wing; only this one carries the shard rather than being carried by it, and only this one is asleep.
 - **Record detail:** Check the designation before work begins. The Frozen Shard is a separate record under different management, and the two have been confused in requisitions more than once.
-- **Containment detail:** Sealed is not isolated. The dream crosses the boundary — personnel on the far side of the Gate have reported its contents without entering the chamber — and the seal is rated for drift and disturbance rather than for containment of the effect.
+- **Containment detail:** Sealed is not the same as isolated: the dream comes through the boundary, and personnel on the far side of the Gate have described its contents without ever entering the chamber, which is why the seal is rated for drift and disturbance rather than for holding an effect in.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-611
