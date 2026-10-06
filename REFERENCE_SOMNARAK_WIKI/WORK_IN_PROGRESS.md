@@ -2045,7 +2045,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 30 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-N-IIIβ-941 Grieving Love 슬픈 사랑 — `__HASH__` — PUSH VERIFIED — [[SE-N-IIIβ-941_Grieving_Love_슬픈_사랑]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-941_Grieving_Love_%EC%8A%AC%ED%94%88_%EC%82%AC%EB%9E%91.md "SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md")
+- SE-N-IIIβ-941 Grieving Love 슬픈 사랑 — `bb4b87c` — PUSH VERIFIED — [[SE-N-IIIβ-941_Grieving_Love_슬픈_사랑]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-941_Grieving_Love_%EC%8A%AC%ED%94%88_%EC%82%AC%EB%9E%91.md "SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md")
 
 - SE-C-IIβ-250 Memory Rain 기억의 비 — `1f6cb9a` — PUSH VERIFIED — [[SE-C-IIβ-250_Memory_Rain_기억의_비]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-250_Memory_Rain_%EA%B8%B0%EC%96%B5%EC%9D%98_%EB%B9%84.md "SE-C-IIβ-250_Memory_Rain_기억의_비.md")
 **Batch 29 — CLOSED at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
