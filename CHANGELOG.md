@@ -63,6 +63,22 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 27 / unit 2 — The Silent Child `N-Iα-025` closed (2026-10-07)** — measured at `a68af9a`: **6 dirty sections**,
+  worst Final Observation 0.338 (the choice blockquote and both result rows), then Behavior 0.143 (all four Work Type
+  rows, the gauge note and the reading response), M.A.W. Equipment 0.125 (the veil and ring appearances, the weapon
+  ability, the effect line, the Use Notes and the four field-use rows), Flavor Text 0.104 (the intro, four contact
+  lines, the interaction preamble, method, record intro, table header, all five pairing rows and the procedure),
+  Combat Record 0.067 (the resistance row, both shared action rows, all three phases and a consequences bullet) and
+  Trivia 0.051 (two bullets and two Registry Trivia entries). Both closed in two waves (26 + 20 sites); 7,715 →
+  **8,104 words**; `tpl.py` residue 0 throughout; `verify.py` residual 2 → **0** (the Registrum opener's `is logged
+  as ` and the stock continued-exposure line); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True**, its three clauses already satisfied and left alone (`R-05`). The stock pieces went onto the holding's own
+  evidence: the six-word condition and the seated interval into the phases and the choice, the first-apparent
+  distance and the sighting rules into the Work Type rows, and the set's charge — attendances lost, invisibility
+  acquired — onto the M.A.W. rows rather than the entity's. Movement at the unit commit: `R-29` 159 / 301
+  (series 251); section-clean 184 / 301; residue-free 302 / 302; residue lines 0; archive dirty
+  453; file-clean 302 / 302. **Batch 27 stands at two of five.**
+
 - **Batch 27 / unit 1 — Scar Walker `O-IIIδ-011` closed (2026-10-07)** — measured at `a715ef1`: **6 dirty sections**,
   worst Final Observation 0.344 (the choice blockquote and both result rows), then Behavior 0.213 (all four Work Type
   rows, the gauge note and the reading response), Flavor Text 0.078 (the five contact lines, the interaction preamble
