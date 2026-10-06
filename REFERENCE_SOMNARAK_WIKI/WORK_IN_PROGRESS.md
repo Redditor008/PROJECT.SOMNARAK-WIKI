@@ -1981,7 +1981,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 29 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IVδ-505 Cold Burn 얼어붙은 그림자 — `__HASH__` — PUSH VERIFIED — [[SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-505_Cold_Burn_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자.md")
+- SE-C-IVδ-505 Cold Burn 얼어붙은 그림자 — `80092be` — PUSH VERIFIED — [[SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-505_Cold_Burn_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자.md")
 
 - SE-O-IVδ-115 Broken Fragment 부서진 파편 — `efa92ec` — PUSH VERIFIED — [[SE-O-IVδ-115_Broken_Fragment_부서진_파편]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-115_Broken_Fragment_%EB%B6%80%EC%84%9C%EC%A7%84_%ED%8C%8C%ED%8E%B8.md "SE-O-IVδ-115_Broken_Fragment_부서진_파편.md")
 
