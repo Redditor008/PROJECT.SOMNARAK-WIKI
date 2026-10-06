@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 0.95 m/s |
-| **Resistance** | 15% against Lament pressure; 5% against other pressure types |
+| **Resistance** | 15% against Lament pressure; 5% against everything else. Nothing is rated against the care itself: the Healer's whole danger is that it treats what it is shown and what it is not, and the percentages describe the pressure around a healer that does not stop. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 224/224 |
 | **Han Pressure [ATK]** | 2–7 per hit · Lament |
@@ -81,18 +81,18 @@
 | { *The Gentle Hand* [**Debuff**] } | "It reaches out to heal you — and the healing is real, and warm, and carries more sorrow than any wound." | [The Healer's touch mends and burdens simultaneously.] | *Target suffers -10 Composure; they are healed and heartbroken at once.* **[10 Lament DMG [Lament]]** | When the target accepts healing. |
 | { *The Cost of Care* [**Debuff**] } | "Every wound the healer closes opens a grief somewhere else — and that grief is yours." | [The Healer's balance demands payment; the target absorbs displaced sorrow.] | *Target loses 10 Composure; the price of healing is grief.* **[10 Lament DMG [Lament]]** | When the target is healed again. |
 | { *The Bitter Medicine* [**Attack**] } | "The healer's hand turns rough — the kindness curdling into something that hurts because it cares too much." | [A healing-turned-harmful strike.] | *Inflicts Lament pressure and one wound of overwhelming compassion.* **[14-22 Lament DMG [Lament]]** | When the Healer is rejected. |
-| { *The Full Cure* [**Attack**] } | "The healer tries to fix everything at once — and the concentrated care is devastating." | [The Healer's total effort overwhelms the target.] | *A heavy Lament flood of healing that becomes drowning; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Healer is cornered. |
-| { *The Sanatorium* [**Ultimate**] } | "The healer extends its care to everyone — and the combined cost of universal healing crushes everyone under accumulated grief." | [The Healer extends its burden across the whole field.] | *All in range suffer Lament pressure for three turns of overwhelming care.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Cure* [**Attack**] } | "The healer tries to fix everything at once — and the concentrated care is devastating." | [Cornered, it treats everything at once — injuries it was never shown included — and the total effort is what drowns the target.] | *A heavy Lament flood of healing that becomes drowning; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Healer is cornered. |
+| { *The Sanatorium* [**Ultimate**] } | "The healer extends its care to everyone — and the combined cost of universal healing crushes everyone under accumulated grief." | [Every injury in the field is attended to at once, and the accumulated cost is carried by everybody standing near.] | *All in range suffer Lament pressure for three turns of overwhelming care.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies The Kind Healer by a soft humanoid of warm Han-crystal, hands faintly lit, moving unhurriedly toward anybody who is hurt. Comfort-warm to stand near; salt-damp and cold rain on old cloth in the air, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** The team identifies The Kind Healer by a soft humanoid of warm Han-crystal, hands faintly lit, moving unhurriedly toward anybody who is hurt — comfort-warm to stand near, with salt-damp and cold rain on old cloth in the air. The approach is confirmed, the tally is called aloud as the standing rule requires, and the injured are kept behind the rail before anything else is attempted.
 2. **Clash:** No blow is struck here. The engagement is Flerehan at the rail with the blessing tally called aloud after every exchange, and the tally is what ends it, not the gauge.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not attack. Guide it gently back and prevent unauthorized contact**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not attack. Guide it gently back and prevent unauthorized contact**. The condition is met when the tally has been called aloud, every acceptance of healing has been authorised by name and in writing, the injured have stayed behind the rail, and the Healer has been walked back on foot; violence produces confusion rather than suppression, and a cycle that ends with a strike is filed as a failure of the approach.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
+- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their destabilisation to escalate the gauge. That is why acceptance of healing is authorised by name and in writing, and why the tally is called aloud before anything else begins.
 - Time is The Kind Healer’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
 - M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
 - An unresolved encounter never simply ends; it transforms. The Kind Healer executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
@@ -152,9 +152,9 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. The Kind Healer is recorded as a Subject with Subject-Body manifestation and Lament elemental expression. The current record places it at SECTOR-B-02, Zone B — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table is one input among many, and on this holding the code and the coherence level are what decide whether a 'stable' gauge means anything in the field. The Kind Healer is a Subject with a Subject-Body manifestation and Lament elemental expression, held at SECTOR-B-02 in Zone B — contained. It finds injuries nobody showed it, closes them completely, and keeps what it has taken; nothing here transfers to another holding with a healer in its name, and a stable gauge is not a safe encounter — observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
+**Reading the response:** A lower gauge is a window and not a door: the pressure returns unless the cycle is sustained, so this is ongoing stabilisation and not permanent healing. A rising gauge is a warning — the wrong Work Type has been applied, or the Healer's sorrow is escalating — and the file's caution is that unusual responses precede events: log them, flag them, and adjust the protocol before the next assignment.
 ## Transformation Chain
 
 | Stage | Entity | Trigger | Result |
@@ -192,7 +192,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that flickers with inner light.
+**Appearance:** a slender Lament Han-crystal blade, faintly luminous, that sings under the hand and flickers with inner light; the edge is ground fine as a scalpel, and it is the only piece in the set meant to be used near a wound.
 
 **Damage:** Lament 3–6
 **Speed:** 2 (Normal)
@@ -205,15 +205,15 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** The multiplier applies to the strike and to each Tick separately, and both are logged against the wielder's own Mind figure as well as the target's, because this archetype takes its toll inward.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Kind Healer's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the healer's signature in the strike: the target is given more than they asked for, which is the whole of the file's warning.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder takes on the holding's unwept grief and weeps without being able to place why; prolonged use makes the weeping ordinary, and both are entered against the wielder rather than the piece, because on this set the two do not separate.
 
 ### M.A.W. Suit — The Gentle Shroud
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping Lament Han-silk shroud, cool to the hand and faintly luminous, that settles cold and holds the drape of a working posture — shoulders down, hands forward — which the armoury notes is the only piece in the set cut for standing over somebody.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -223,19 +223,19 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Kind Healer's kind of pressure.
+**Ability:** Grants resistance to Lament damage and protects the Mind — emotional stability and willpower — and it is worn against this healer's particular pressure: what arrives is care, it is not refused cheaply, and the piece's job is to let the wearer carry it without keeping it.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to minor joys — the same numbness the file records on the weeping side of this set — and the onset is not announced, so a colleague checks it at the return of the piece.
 
 ### M.A.W. Stigma — The Gentle Touch
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a touch-token of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+**Appearance:** a touch-token of Lament Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size. It is sized for a palm and is the piece issued to people who will be standing within arm's reach of the injured.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat, and for about a day the wearer notices, without looking for it, which of the people around them is in pain and has not said so.
+**Effect:** +1 to the working stat, and for about a day the wearer notices, without looking for it, which of the people around them is in pain and has not said so. It is the Healer's own faculty, lent, and it does not distinguish between the two kinds of finding.
 
 **Ability:** Heals minor wounds through touch.
 
@@ -245,18 +245,18 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 ### M.A.W. Use Notes
 
-These pieces are The Kind Healer in miniature. What they give is listed above; what they take is the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping, and the Armoury records both against the wielder rather than against the piece.
+These pieces are The Kind Healer in miniature. What they give is listed above; what they take is the holding's unwept grief and the weeping that follows, and the Armoury enters both against the wielder rather than the piece — on this set the two are never separated.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against The Kind Healer's known toll: the wielder feels the entity's unwept grief. Opened at the end of the rotation, not before. |
-| **During use** | Watch for The Kind Healer's toll — the wielder feels the entity's unwept grief — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wearer becomes numb to minor joys, without remission. On a The Kind Healer piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether The Kind Healer's cost is still showing — the wearer becomes numb to minor joys. |
+| **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline put by a colleague: name the last person whose pain you noticed before they mentioned it. The toll on this set — the holding's unwept grief — does not present on the day, and the piece is opened at the end of the rotation and not before. |
+| **During use** | The charge shows as weeping the wielder cannot place and does not explain. The second worker logs the hour it is first seen and never the wielder, and does not interrupt the work to name it. |
+| **At limit** | The wearer goes numb to minor joys, without remission, and the file's test is the baseline question: a bearer who can no longer say whose pain they noticed first has reached the limit. On a Kind Healer piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether the cost is still showing — the numbness, and whether the baseline question can be answered at all. The answer is filed against the wielder, and where the question cannot be answered the piece is not reissued to them. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** M.A.W. grades describe extraction stability and not human safety: a well-graded piece can still demand a toll no rating system accounts for, and on this set the toll is the holding's unwept grief arriving on the wearer. Authorise on the cost column; a low-rated piece carrying a severe psychological cost is the ordinary case here, not the exception.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Mastered
@@ -287,7 +287,7 @@ These pieces are The Kind Healer in miniature. What they give is listed above; w
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Kind Healer (C-Iα-071 [LS]) is logged as a Subject-Body manifestation expressing Lament, held at SECTOR-B-02 in Zone B. It finds injuries it has not been shown, closes them completely, keeps what it has taken, and shudders longer afterwards at every annual return. The Healer has completed twelve blessings in the current cycle and transformed into The Hand of Hope.
+The Kind Healer (C-Iα-071 [LS]) is a Subject-Body manifestation expressing Lament, held at SECTOR-B-02 in Zone B. It finds injuries it has not been shown, closes them completely, keeps what it has taken, and moves unhurriedly toward anybody who is hurt. The standing rule at the containment is that nobody strikes it, the tally is called aloud, the injured stay behind the rail, and every acceptance of healing is authorised by name and in writing.
 
 **Entry 2 — <Zone B Containment Watch, Year 4238>**
 Shudder timed at 6.8 seconds across the nine authorised treatments of the year, after 5.1 and 3.4. Tally at twelve of twelve, reconciled at every shift change. It continues to walk toward unreported injuries, which remains the only reliable detector of them the wing possesses.
@@ -304,11 +304,11 @@ The crystallization is traced to Zone B and the Office's own holdings explain th
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Kind Healer; the other feeds it.
+> Two ways to end the same watch. One is the resolution on file — do not strike it, call the tally aloud, keep the injured behind the rail, and walk it back on foot — and the other is the intervention that looks like common sense and is the one thing this holding cannot absorb.
 
-| Do not attack. Guide it gently back and prevent unauthorized contact — as written, without improvising. | Do the obvious, decent thing instead, and feed The Kind Healer. |
+| Do not attack. Guide it gently back and prevent unauthorised contact — as written, without improvising. | Strike it, or let it finish treating somebody who never consented: violence produces confusion rather than suppression, and the file's whole record of the Healer is that it attends what was never shown to it. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is witnessed; The Kind Healer is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Kind Healer withdraws without revelation. |
+| The entity responds as its record predicts; the tally is entered and the sorrow is witnessed. | Confusion rather than injury: it treats what it finds, the gauge climbs, and the Healer withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -327,7 +327,7 @@ It approaches as if you are the most important person in the world. Its hands fi
 
 ### Interaction Pattern
 
-The Kind Healer does not exist in isolation. Its recorded relationships with The Smothering Mother, The Orphaned Bell, The Forgotten Soldier, The Frozen Veil, The Hollow Choir should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The Kind Healer is read beside the 5 holdings the file has paired it with — The Smothering Mother, The Orphaned Bell, The Forgotten Soldier, The Frozen Veil and The Hollow Choir — and none of the 5 is treated as an alliance or a hostility: they are resonance candidates, filed as such. In a shared event the team records whether anything changes at all in station-keeping, in the gauges, or in either holding's own behaviour, and the standing note is that a resemblance is the reason a pairing was proposed and not a finding that came out of one.
 
 **Interaction method:** Tally reconciled before and after by both keepers, shudder timed at every contact, and no pairing run at all with any holding that can produce an injury.
 
@@ -336,7 +336,7 @@ The Kind Healer does not exist in isolation. Its recorded relationships with The
 
 The Kind Healer must be kept distinct from the holdings it is often filed beside. Unheard keeps words that were said and had no standing; this one keeps a condition nobody else happened to look at, which is why its figure is a shudder length and not a radius. Its own chain — Blessing Giver, Apostle Maker, and the two twelfth-blessing outcomes — is a separate matter from its interactions and must not be read as one.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
 |---|---|---|---|
 | **The Smothering Mother** | The two keep station together and neither interferes with the other. Personnel between them find themselves unable to leave the space, gently and completely. | Movement restriction without force. Four pairings, four cases of personnel detained for the duration. | Record who was held and for how long. Pairings run only with a Warden outside the space holding the door. |
 | **The Orphaned Bell** | It attends the Bell and can do nothing with it. It stays regardless, for the whole of the pairing, and shudders without having treated anything. | No change in either gauge; the shudder occurs anyway and runs long. | Time the shudder. It is the only recorded instance of the response without a treatment. |
@@ -386,14 +386,14 @@ Some sorrows are about receiving harm. The Kind Healer's sorrow is about failing
 - A woman who tended Zone B for forty-one years and filed 4,106 reports, all of them about other people.
 - Her condition appears nowhere in the Office's holdings. The first document about it is the entry recording her death.
 **Cross-References:** Zone B · The Hollow Saint · The Kind Healer’s Shadow · The Dawn of Mourning · The Hand of Hope · the Welfare Office rule against self-report · the Looking Round
-**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** SED, on the B-territory containment watch that keeps the tally · UCD, on the Fray-adjacent zone · Wound Walkers, on Fracture-relevant screening.
 **Originator:** An unnamed woman of Zone B.
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification is the frame and this record is the picture, and neither replaces standing at the rail. The facts that govern are these: it finds injuries it was not shown, closes them completely, and keeps what it has taken; acceptance is authorised by name and in writing; and violence produces confusion rather than suppression. Do not normalise anomalies: where behaviour deviates from this file, the deviation is the most important data on the holding, and personnel must preserve the contradiction as evidence rather than silently normalising it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After every incident, recheck the gauge, the field, the personnel and the location — and on this holding re-read the tally and the authorisations together: every acceptance of healing by name and in writing, every refusal recorded, and the rail intact at the moment of contact. What was true yesterday may not be true today; the R.D. record describes a living sorrow pattern rather than a permanently complete explanation.
 ## Care Record
 
 ### Timing the Shudder
@@ -424,10 +424,10 @@ The watchers asked for one question. Four words — *are you all right* — and 
 ### Registry Trivia
 
 - **Classification detail:** The Kind Healer is a Subject with Residue (I) — Barely formed, passive coherence and Minor (α) — Low danger; transformation risk catastrophic potency.
-- **Field detail:** Its defining element is Lament, and its registered location is SECTOR-B-02, Zone B — contained.
+- **Field detail:** Element Lament, registered to SECTOR-B-02 in Zone B — contained — where containment is a rail, a tally and a walk: the Healer is guided back on foot, nobody strikes it, and the injured are kept behind the line.
 - **Recognition detail:** A soft humanoid of warm Han-crystal, hands faintly lit, moving unhurriedly toward anybody who is hurt. Comfort-warm to stand near; salt-damp and cold rain on old cloth in the air.
 - **Record detail:** The Registrum read Entity (IV) and Major (γ) against a Residue (I), Minor (α) header and gave Comprehension Level 3 against 4 — Mastered. It named Flerehan the only valid Work Type where Ferrehan also lowers the gauge. The breach quotation claimed indiscriminate hunting against a Special Behaviour that records it seeking the wounded, and the escalation notes prescribed forcing it back through Pugnahan, which this holding does not understand and which the standing order forbids. Entry 2 was dated `Year 4232+1778`, an unreduced arithmetic string. All corrected. The transformation chain and the current 12 of 12 status are untouched.
-- **Containment detail:** The entity does not need to breach to be dangerous. Containment limits movement, not influence; the sorrow radiates regardless. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** It does not need to breach to be dangerous, and containment here limits movement rather than influence: the sorrow radiates regardless, and the rule is built around what the Healer does when it is allowed to work. Nobody accepts healing without authorising it by name and in writing, because the Healer finds injuries it was never shown.
 ## Document Information
 
 **Document ID:** SE-C-Iα-071

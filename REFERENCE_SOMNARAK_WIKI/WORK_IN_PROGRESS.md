@@ -1685,6 +1685,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 
 **Batch 23 — OPEN, five targeted; finished dossiers, each with its SE git link and closing commit** ([`R-12`](RULES/R-12_REFER_TO_GITHUB.md); links generated with `tools/ghlink.py`):
 
+- SE-C-Iα-071 The Kind Healer 친절한 치유자 — `__HASH__` — PUSH VERIFIED — [[SE-C-Iα-071_The_Kind_Healer_친절한_치유자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-071_The_Kind_Healer_%EC%B9%9C%EC%A0%88%ED%95%9C_%EC%B9%98%EC%9C%A0%EC%9E%90.md "SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md")
 - SE-C-IIβ-290 Broken Compass 부서진 나침반 — `c037695` — PUSH VERIFIED — [[SE-C-IIβ-290_Broken_Compass_부서진_나침반]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-290_Broken_Compass_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%82%98%EC%B9%A8%EB%B0%98.md "SE-C-IIβ-290_Broken_Compass_부서진_나침반.md")
 - SE-C-Iα-247 Torn Flower 찢어진 꽃 — `0c33c30` — PUSH VERIFIED — [[SE-C-Iα-247_Torn_Flower_찢어진_꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-247_Torn_Flower_%EC%B0%A2%EC%96%B4%EC%A7%84_%EA%BD%83.md "SE-C-Iα-247_Torn_Flower_찢어진_꽃.md")
 - SE-C-Iα-240 Echo of Kindness 친절의 메아리 — `4913bf2` — PUSH VERIFIED — [[SE-C-Iα-240_Echo_of_Kindness_친절의_메아리]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-240_Echo_of_Kindness_%EC%B9%9C%EC%A0%88%EC%9D%98_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-C-Iα-240_Echo_of_Kindness_친절의_메아리.md")
@@ -1704,6 +1705,17 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-C-IVδ-125 Dejà Vu 돌아온 열매 — `1e7f61e` — PUSH VERIFIED — [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
+
+**Batch 24, unit 7: The Kind Healer `C-Iα-071` closed.** Measured at `95cbd3e`: **7 dirty sections**, worst Final
+Observation 0.375 (the choice blockquote, the resolution row and the success/fail row), then M.A.W. Equipment 0.261
+(the 11-dossier *unwept grief* cost line and the 10-dossier shroud appearance line — both residues — plus the blade,
+token and shroud appearances, the abilities, the second cost, the effect line, the set note, four field-use rows
+and the stat interpretation), Behavior 0.236, Registrum 0.183, Combat Record 0.097, Trivia 0.065 and Flavor Text
+0.056 — all seven closed in two waves (22 + 11 sites); 6,540 → **7,179 words**; `tpl.py` residue 2 → **0**;
+`verify.py` residual 1 → **0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**;
+`own_series`, `condition` and `disposition` already True and left alone (`R-05`). Movement: `R-29` 145 / 301
+(series **242**); section-clean 169 / 301; residue-free 251 / 302; archive dirty 587;
+file-clean 276 / 302. **Batch 24 stands at seven of seven.**
 
 **Batch 24, unit 6: Broken Compass `C-IIβ-290` closed.** Measured at `c3dffb9`: **7 dirty sections**, worst Behavior
 0.290 (the 37-dossier table line and the *reading the response* shell), then M.A.W. Equipment 0.199, Registrum

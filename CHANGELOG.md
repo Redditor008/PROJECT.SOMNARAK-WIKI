@@ -63,6 +63,25 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 24 / unit 7 — The Kind Healer `C-Iα-071` closed (2026-10-06)** — measured at `95cbd3e`: **7 dirty
+  sections**, worst Final Observation 0.375 (the choice blockquote, the resolution row and the success/fail row),
+  then M.A.W. Equipment 0.261 (the 11-dossier *unwept grief* cost line and the 10-dossier shroud appearance line —
+  both residues — the blade, token and shroud appearances, the two abilities, the second cost, the effect line, the
+  set note, four field-use rows and the stat interpretation), Behavior 0.236, Registrum 0.183 (the operational
+  interpretation and the review requirement, plus the faction line), Combat Record 0.097 (the resistance row, both
+  combat actions, the Tension/Resolution lines and the Clarity bullet), Trivia 0.065 and Flavor Text 0.056. All
+  seven closed in two waves (22 + 11 sites); 6,540 → **7,179 words**; `tpl.py` residue 2 → **0**; `verify.py`
+  residual 1 → **0** (Story Log Entry 1's stock `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**. `own_series`, `condition` and `disposition` were already **True** and left alone
+  (`R-05`). Stock pieces were replaced with the holding's own material: the resolution and choice block onto the
+  standing rule (do not strike it, call the tally aloud, keep the injured behind the rail, authorise every
+  acceptance by name and in writing, walk it back on foot), the interaction block onto the 5 paired holdings, and
+  the M.A.W. rows onto what the set takes — the holding's unwept grief arriving on the wearer, entered against the
+  wielder rather than the piece. Movement at the unit commit: `R-29` 145 / 301 (series **242**);
+  section-clean 169 / 301; residue-free 251 / 302; residue lines 6, instances 63, carriers
+  51 / 302; archive dirty 587; file-clean 276 / 302; worst 0.064, median 0.011.
+  **Batch 24 stands at seven of seven.**
+
 - **Batch 24 / unit 6 — Broken Compass `C-IIβ-290` closed (2026-10-06)** — measured at `c3dffb9`: **7 dirty
   sections**, worst Behavior 0.290 (the 37-dossier table line and the 13-dossier *reading the response* shell),
   then M.A.W. Equipment 0.199 (the ability, both costs, the veil and charm appearances, the set note and the four
