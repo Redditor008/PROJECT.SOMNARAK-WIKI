@@ -63,6 +63,29 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 21 / unit 2 — Floating Shard `C-IVδ-503` closed (2026-10-06)** — measured at `cd7b32c`: **9 dirty sections**,
+  worst Story Log 0.254 (the 48-dossier stock-tale carrier), then Registrum 0.186 (the *map, not the territory*
+  interpretation and review-requirement shell lines), M.A.W. Equipment 0.168 (the 12-dossier `| **Resistance** | 45%
+  against Lament pressure …` row, a 15-dossier shared cost line and eleven shared equipment lines), Final
+  Observation 0.164, Trivia 0.127, Flavor Text 0.115 (the 32-dossier isolation line and a 17-dossier procedure
+  line), Containment Event Behavior 0.071, Operational Parameters 0.061 and Combat Record 0.055. All nine closed in
+  two waves of 16 + 22 sites; 7,006 → **8,146 words**; `tpl.py` residue 2 → **0** (the resistance row and the shared
+  *the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping* cost line — both remain
+  live elsewhere, so no other dossier's counters moved); `verify.py` residual 1 → **0** (Story Log Entry 1);
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from
+  **False** to **True** on figures the file already carries — the **23**-point brightness calibration curve, the
+  **11** times the light rose with nothing logged, the **4** refused proposals to widen it deliberately, the **9**
+  conceded claims in nine years, the **14**-month median determination and the **22**-month longest — **restated
+  from its own record rather than invented for the clause**; the condition clause was already satisfied and left
+  alone (`R-05`). The stock tale in Story Log Entry 5 was replaced with the file's own material — the Director's
+  single-page memo and the reproduced standing refusal *we do not make the points* — the 32-dossier isolation block
+  and the interaction shell lines were re-authored onto the bay's own handicap (the instrument responds to the
+  people taking the reading), and eleven shared equipment lines were rewritten onto this set's own behaviour and
+  charges. No neighbouring dossier changed. Archive dirty sections 767 → **758**; residue instances 157 → **155**,
+  carriers 89 → **88**; median 0.014 → **0.013**, worst steady at **0.114**. Movement: `R-29` 126 → **127 / 301**;
+  section-clean 150 → **151 / 301**; residue-free 213 → **214 / 302**; file-clean 243 → **244 / 302**. **Batch 21
+  stands at two of three.**
+
 - **Batch 21 / unit 1 — Broken Tear `N-IVδ-517` closed (2026-10-06)** — measured at `dd20965`: **9 dirty sections**,
   worst Origin 0.268 (the 48-dossier stock-tale carrier), then Story Log 0.265 (the same tale family in Entry 5),
   M.A.W. Equipment 0.210 (the 13-dossier `| **Resistance** | 45% against Lament pressure …` row, three shared
