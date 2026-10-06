@@ -1716,6 +1716,21 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 31 — CLOSED at five.** Five dossiers, **25 / 25 dirty sections closed**, **+1,776 words** net (35,441 →
+37,217), `verify.py` residuals **5 → 0**, nothing deleted (`R-15`); each unit's SE link, closing commit and PUSH
+VERIFIED status stand in the block below (`R-12`). Movement across the cohort, b30 close → b31 close: `R-29` 186 →
+**190 / 301**; own numeric series 261 → **263 / 301**; condition 259 → 259 / 301; section-clean 211 → **215 / 301**;
+residue-free 302 → 302 / 302; `tpl.py` residue lines 0; archive dirty 271 → **216**; file-clean 302 → 302 / 302;
+scene-clean 212 → 216; worst 0.033 → 0.031; median 0.009 → 0.008. Series conversions u1 and u5 (**False → True**) set
+each file's own figures down in digits, disclosed; four units (u1, u3, u4, u5) re-registered their own condition inside
+a rewritten resolution line and held **True**. Disclosures: **u1** the sandbox rollback #25 — checkout restored level
+with the remote, unit re-gated cleanly · **u2** two `intervening m.` truncations and an `Operational Rule: The relic.`
+seam rebuilt · **u3** and **u4** each closed in two passes after the first kept standard generator phrasing
+(`matte and unnaturally heavy`, `gauge at issue, and a sealed baseline`, shared correction and relations sentences) ·
+**u5** swapped cells fixed and a splice rebuilt · three result rows (u1, u2, u5) carried swapped success/failure cells,
+all rewritten in order. The archive-dirty fall is larger than the cohort's own 25 sections because rewriting
+archive-shared phrasing thins the shared set for other files as well. **Next cohort opens at three or five.**
+
 **Batch 31, unit 5: The Hollow Saint `C-IIIγ-081` closed — batch complete.** Measured at `0ba64b2`: **5 dirty
 sections**, worst Final Observation 0.175, then M.A.W. Equipment 0.106, Combat Record 0.071, Registrum 0.060 and Flavor
 Text 0.057 — **closed in a single wave** (35 sites including the numerals bullet); 6,871 → **7,242 words**; `tpl.py`
@@ -2134,7 +2149,7 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
-**Batch 31 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 31 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IIIγ-081 The Hollow Saint 빈 성자 — `747990a` — PUSH VERIFIED — [[SE-C-IIIγ-081_The_Hollow_Saint_빈_성자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-081_The_Hollow_Saint_%EB%B9%88_%EC%84%B1%EC%9E%90.md "SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md")
 

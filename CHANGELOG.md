@@ -8,6 +8,34 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 31 — CLOSED at five (2026-10-07).** Five dossiers, **25 / 25 dirty sections closed**, **+1,776 words** net
+  (35,441 → 37,217), `verify.py` residuals **5 → 0**, nothing deleted (`R-15`); each unit's SE link, closing commit and
+  PUSH VERIFIED status stand in the batch block in `WORK_IN_PROGRESS.md` (`R-12`). The cohort: The Sorrow Fountain
+  `C-IIIγ-088` · Life Behind Glass `N-Iα-518` · Harbinger `N-IIIβ-155` · Deteriorata `C-IVγ-130` · The Hollow Saint
+  `C-IIIγ-081`. Every wave validated at 0 section(s) over 0.05, RESIDUAL 0, RESIDUE 0, `pipe True` and `seam []`, and
+  `wikistd.py` meets **True** on each file at close. Series: two conversions to **True** (u1, u5) by setting the file's
+  own figures down in digits, disclosed, with no clause prose written to fit the test (`R-05`); four units (u1, u3, u4,
+  u5) re-registered their own condition inside a rewritten resolution line and held **True**, while u2's condition,
+  which lives in a `| **Management** |` row, was left untouched. Movement across the cohort, b30 close → b31 close:
+  `R-29` 186 → **190 / 301**; own numeric series 261 → **263 / 301**; condition 259 → 259 / 301; section-clean 211 →
+  **215 / 301**; residue-free 302 → 302 / 302; `tpl.py` residue lines 0; archive dirty 271 → **216**; file-clean 302 →
+  302 / 302; scene-clean 212 → 216; worst 0.033 → 0.031; median 0.009 → 0.008. The archive-dirty fall is larger than
+  the cohort's own 25 sections because rewriting archive-shared phrasing thins the shared set for other files as well
+  (`sect.py`, `MIN_SHARE=10`). Disclosures for the batch: **u1** — the sandbox rolled the checkout back to `408797c`
+  mid-command (rollback #25); the worktree was untouched, the branch was restored level with the remote per the standing
+  recovery procedure, and the unit re-gated cleanly. **u2** — two field-use rows truncated mid-word at `intervening m.`
+  were rebuilt whole-line, and the activation block's `Operational Rule: The relic.` seam was rebuilt. **u3** — closed
+  in two passes: the first left the archive-shared `Operational Parameters line gave the M.A.W. grade as a pair of em
+  dashes against three graded β pieces` correction phrasing in the Trivia field detail and the shared
+  `every stand-down on this set has been caught` line. **u4** — closed in two passes: the first left the standard
+  `matte and unnaturally heavy` appearance wording, the `gauge at issue, and a sealed baseline` field-use opening and
+  the shared relations sentence. **u5** — swapped success/failure cells rewritten in order and an
+  `identifies The Hollow Saint by her by the hollow` splice rebuilt. **Shared with all units:** three result rows
+  (u1, u2, u5) had their success and failure descriptions swapped, and every unit's relations preamble was re-authored
+  to the file's own holdings to avoid over-templating. **Next cohort opens at three or five.**
+
+
+
 - **Batch 31 / unit 5 — The Hollow Saint `C-IIIγ-081` closed (2026-10-07)** — measured at `0ba64b2`: **5 dirty sections**,
   worst Final Observation 0.175 (the choice blockquote, the condition row and the result row, whose success and failure
   cells carried each other's descriptions), then M.A.W. Equipment 0.106 (two appearance rows, the suit cost, the effect
