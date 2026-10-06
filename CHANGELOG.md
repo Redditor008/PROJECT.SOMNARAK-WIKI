@@ -8,6 +8,27 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 31 / unit 1 — The Sorrow Fountain `C-IIIγ-088` closed (2026-10-07)** — measured at `f984dd0`: **5 dirty
+  sections**, worst Story Log 0.202 (Entry 1's residual line, the Work-response entry and the shared Architect origin
+  fragment), then Final Observation 0.156 (the choice blockquote, the condition row and the result row, whose success
+  and failure cells carried each other's descriptions), Operational Parameters 0.113 (the yield row and the recommended
+  response), Registrum 0.088 (the trivia bullet, the faction line, the operational interpretation with its mangled
+  double seam, and the review requirement) and Flavor Text 0.076 (the interaction preamble, method, relations intro and
+  table header). **Closed in a single wave** (29 sites) plus the numerals bullet; 7,351 → **7,825 words**; `tpl.py`
+  residue 0 throughout; `verify.py` residual **1 → 0** (Story Log Entry 1's `is logged as ` line); `sectfile.py` ends
+  at **0 section(s) over 0.05**; `wikistd.py` meets **True**, with the own series closed **False → True** by restating
+  the file's own figures in digits (gauge 653/653 · pressure 18–41 per hit · resistance 35 / 25 per cent · threshold
+  75 per cent · weapon 10–16 at 40 Echoes · suit 35 Echoes · Stigma 4 per cent · Max 3 pieces). The condition was
+  re-registered inside the rewritten resolution line in the file's own words (`share the burden through witness; do not
+  drain the pool`) and held **True**. Two mangled seams were rebuilt whole-line — the tension phase, which had a
+  `tells an observer nothing, confirms the approach` splice, and the identification row, which ended `before Work or
+  contact.` twice over — and the shared Architect origin fragment was replaced with the holding's own account (the
+  tower, the remembering at its foot, the low ground). Movement at the unit commit: `R-29` 187 / 301; section-clean
+  212 / 301; residue-free 302 / 302; residue lines 0; archive dirty 260; file-clean 302 / 302. **Batch
+  31 stands at one of five.**
+
+
+
 - **Batch 30 — CLOSED at five (2026-10-07).** Five dossiers, **27 / 27 dirty sections closed**, **+1,991 words** net
   (34,807 → 36,798), `verify.py` residuals **8 → 0**, nothing deleted (`R-15`); each unit's SE link, closing commit and
   PUSH VERIFIED status stand in the batch block in `WORK_IN_PROGRESS.md` (`R-12`). The cohort: Memory Rain `C-IIβ-250` ·
