@@ -1716,6 +1716,16 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 29, unit 5: Broken Fragment `O-IVδ-115` closed.** Measured at `f463a14`: **6 dirty sections**, worst Story Log
+0.192 (the shared origin fragment), then Final Observation 0.149, Flavor Text 0.135, Trivia 0.093, Operational
+Parameters 0.068 and M.A.W. Equipment 0.052 — **closed in a single wave** (21 sites); 7,954 → **8,360 words**;
+`tpl.py` residue 0; `verify.py` residual **1 → 0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets
+**True**; `own_series` closed from **False** to **True** by restating the file's own figures (910/910, 29–64,
+45 / 35, 90 per cent, 10–15 at 50, 45, 4 per cent, 2 pieces) — disclosed. The two generic relation rows were
+re-authored onto the file's own findings, and the shared origin fragment was replaced with the border-stone account.
+Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@;
+file-clean @fc@ / 302. **Batch 29 stands at five of ten.**
+
 **Batch 29, unit 4: Feu Follet `O-IIβ-301` closed.** Measured at `0a977f1`: **5 dirty sections**, worst Story Log
 0.202 (the shared origin fragment in Entry 5), then Final Observation 0.167, Operational Parameters 0.074, Trivia
 0.064 and Flavor Text 0.059 — **closed in a single wave** (14 sites) plus one follow-up patch for a stock phrase left
@@ -1963,6 +1973,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 29 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IVδ-115 Broken Fragment 부서진 파편 — `__HASH__` — PUSH VERIFIED — [[SE-O-IVδ-115_Broken_Fragment_부서진_파편]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-115_Broken_Fragment_%EB%B6%80%EC%84%9C%EC%A7%84_%ED%8C%8C%ED%8E%B8.md "SE-O-IVδ-115_Broken_Fragment_부서진_파편.md")
 
 - SE-O-IIβ-301 Feu Follet 녹아내린 불꽃 — `82709ee` — PUSH VERIFIED — [[SE-O-IIβ-301_Feu_Follet_녹아내린_불꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-301_Feu_Follet_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EB%B6%88%EA%BD%83.md "SE-O-IIβ-301_Feu_Follet_녹아내린_불꽃.md")
 

@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 29 / unit 5 — Broken Fragment `O-IVδ-115` closed (2026-10-07)** — measured at `f463a14`: **6 dirty sections**,
+  worst Story Log 0.192 (the shared origin fragment in the archive note), then Final Observation 0.149 (the blockquote,
+  condition row and result row), Flavor Text 0.135 (both interaction preambles and the procedure, which sit under that
+  heading), Trivia 0.093 (field detail and record detail), Operational Parameters 0.068 (the M.A.W. extraction bullet)
+  and M.A.W. Equipment 0.052 (the suit and charm appearances, the Stigma note and the at-limit row). **Closed in a
+  single wave** (21 sites); 7,954 → **8,360 words**; `tpl.py` residue 0 throughout; `verify.py` residual **1 → 0**
+  (Story Log Entry 1's `is logged as `); the pipe check was clean throughout; `sectfile.py` ends at **0 section(s) over
+  0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** by restating the
+  file's own figures — gauge 910/910 · 29–64 per hit · 45 / 35 per cent · 90 per cent · 10–15 at 50 Echoes · 45 ·
+  4 per cent · 2 pieces — **restated from the file, disclosed**. Both relation rows that carried the generator's
+  generic effect and record cells were re-authored onto the file's own findings, and the shared origin fragment was
+  replaced with this holding's own account: a border stone whose inscription outgrew it, with nobody left to settle
+  the account. Movement at the unit commit: `R-29` 175 / 301 (series 259); section-clean @sc@ / 301;
+  residue-free @clean@ / 302; residue lines @lines@; archive dirty 336; file-clean @fc@ / 302. **Batch 29 stands
+  at five of ten.**
+
+
+
 - **Batch 29 / unit 4 — Feu Follet `O-IIβ-301` closed (2026-10-07)** — measured at `0a977f1`: **5 dirty sections**,
   worst Story Log 0.202 (the archive-story paragraph in Entry 5, which carried the shared soldier-origin fragment
   rather than this holding's own), then Final Observation 0.167 (the blockquote, condition row and result row),
