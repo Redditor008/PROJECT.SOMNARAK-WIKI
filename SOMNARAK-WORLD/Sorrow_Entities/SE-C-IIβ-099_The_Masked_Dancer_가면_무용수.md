@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Grudge pressure; 15% against other pressure types |
+| **Resistance** | 25 per cent against Grudge pressure and 15 against everything else — low figures for a β band, and deliberate: the Dancer does not attack, it performs, so what a crew resists is its own willingness to keep watching. The gauge opens at 436 points and trips at 60 per cent, and the file allows 5 turns before the tempo is past the working figure. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 436/436 |
 | **Han Pressure [ATK]** | 8–19 per hit · Grudge |
@@ -81,14 +81,14 @@
 | { *The First Step* [**Debuff**] } | "The dancer moves — graceful, precise — and each step lands on a wound you did not know you had." | [The Dancer's choreography targets the target's hidden injuries.] | *Target suffers -10 Resilience; the dance finds their weak points.* **[10 Grudge DMG [Grudge]]** | When the Dancer begins. |
 | { *The Accelerando* [**Debuff**] } | "The pace increases — and the grace becomes fury, the beauty becomes violence." | [The Dancer accelerates; the movements turn aggressive.] | *Target loses 10 Resilience; the rhythm is relentless.* **[10 Grudge DMG [Grudge]]** | When the target tries to keep up. |
 | { *The Pirouette Strike* [**Attack**] } | "A spin — blindingly fast — and the mask's edge slashes on the turn." | [A spinning slash from the masked Dancer.] | *Inflicts Grudge pressure and one precise, cutting wound.* **[14-22 Grudge DMG [Grudge]]** | When the Dancer is interrupted. |
-| { *The Grand Finale* [**Attack**] } | "The dance reaches its climax — every step a strike, every gesture a blow." | [The Dancer performs the full routine as one devastating combo.] | *A heavy Crimson flurry; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Dancer is cornered. |
-| { *The Endless Performance* [**Ultimate**] } | "The music does not stop — the dancer does not stop — and neither can you, until the dance kills you." | [The Dancer extends the performance across the whole field.] | *All in range suffer Grudge pressure for three turns of endless dancing.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Grand Finale* [**Attack**] } | "The dance reaches its climax — every step a strike, every gesture a blow." | [The whole routine is delivered as a single combination, on the beat, without a pause anywhere in it.] | *A heavy Crimson flurry; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Dancer is cornered. |
+| { *The Endless Performance* [**Ultimate**] } | "The music does not stop — the dancer does not stop — and neither can you, until the dance kills you." | [The performance widens until the whole floor is keeping time, and the rail crew notices its own feet first.] | *All in range suffer Grudge pressure for three turns of endless dancing.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The Masked Dancer is confirmed by the step sequence and the crack, not by the mask; the Mask Market contains a great many smiling masks and two of them are on other holdings. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Confirmation rests on the step sequence and the crack beneath the smile, and never on the mask — the Mask Market holds a great many smiling masks and two of them are on other holdings. The rail position and the withdrawal are set before the cycle opens, and nobody stands on the floor to identify anything.
 2. **Clash:** Five turns, worked from the rail. Nobody steps onto the floor, nobody keeps time, and the transcriber works from the fixed camera rather than from the room.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Match its rhythm and share the performance; do not command it to stop**.
+3. **Resolution:** The cycle closes when the crew has matched the rhythm and taken part in the performance without ever ordering it to stop. The file's own evidence for the condition is one entry long and it is a stoppage: 11 members of the district troupe danced with it on a fixed date, in the seventh year, and it stopped — 8 of the 11 recorded stoppages in the whole operation are those visits, and the gauge fell 6 to 9 points each time and stayed down for a month or more.
 
 ### Consequences
 
@@ -186,9 +186,9 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 **Range:** 3 (Medium — 2–4m)
 **Pattern:** Tri-Blade Flurry / Telekinetic Skewer
 
-**Appearance:** A pale, semi-translucent glove woven from gossamer mourning silk, adorned with faint red ribbon embroidery along the knuckles. Suspended in mid-air around the gloved hand are three floating, weightless daggers of mirror-polished silver that hum with held resentment. The bearer does not throw or physically touch the daggers—fluid finger twitches and dance-like hand choreography launch all three blades darting through the air in rapid succession, stitching through enemy vulnerabilities before returning to orbit around the palm.
+**Appearance:** a pale, semi-translucent glove of gossamer mourning silk with faint red ribbon embroidery across the knuckles, and three weightless silver daggers of mirror polish riding in orbit about the hand, humming with held resentment. The bearer never throws them: finger-work and dance-like hand choreography send all three darting out in sequence and back to the palm.
 
-**Ability:** *Choreographed Flurry* — Deals multi-hit Grudge damage at Range 3. The three floating daggers strike three times in rapid succession, applying bleeding lacerations and disrupting enemy casting or focus.
+**Ability:** *Choreographed Flurry* — three strikes in rapid succession at Range 3, each one opening a shallow laceration, and the third is timed to land on whatever the target was in the middle of doing.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -201,16 +201,16 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Masked Dancer's grudge signature in the strike.
+**Ability:** Deals Grudge damage against the Body — physical form and structural integrity — and carries the source's signature: the strike arrives on a beat the target has already been keeping for several seconds without noticing.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** Old injuries ache and prolonged use leaves bruising in the same lines, paid whether the work was correct or not — the file's own note, because a piece cut from a performance charges the bearer the same for standing still as for dancing.
 
 ### M.A.W. Suit — The Performer's Silk Robe & Ghostly Stole
 
 **Category:** Protective Attire (Ceremonial Silk Robe & Flowing Ribbon Stole)
 **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
+**Appearance:** a ceremonial silk robe and flowing ribbon stole, cut for movement and lined with Grudge Han-iron at the seams, that stirs a half-beat after the wearer and keeps the rhythm of a room the wearer has left.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -220,41 +220,41 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against The Masked Dancer's kind of pressure.
+**Ability:** Turns Grudge aside from the Body — physical form and structural integrity — which is the pressure this holding applies and the only kind it has ever applied; the robe is rated for a performance, not for a fight, which is why the rail crew wears it and the floor party does not.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes thin and the wearer's tempo slows a fraction behind every beat in the room — the armoury's earliest stand-down signal on this set, and the one every bearer tries to argue away.
 
 ### M.A.W. Stigma — The Hollow Porcelain Shard
 
 **Category:** Stigma (Facial Mask Fragment)
 **Grade:** β | **Element:** Grudge
 
-**Appearance:** a mask-charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a shard of pale porcelain from the mask's jaw, mounted as a charm and warm to the touch; it carries a hairline crack the bearer is asked to measure monthly and never explains.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 on this holding's work and nothing anywhere else on the register: the shard answers the performance's own register, and it goes out with the watch that intends to stay at the rail rather than the one sent to the floor.
 
-**Ability:** Enhances agility, balance, and reflexes.
+**Ability:** Sharpens agility, balance and reflexes for as long as the cycle runs, which on this holding is the same thing as sharpening the wearer's capacity to keep going.
 
-**Cost:** Stillness becomes difficult; the wearer feels compelled to dance.
+**Cost:** Stillness becomes difficult: the wearer paces, taps and keeps time against nothing, and reports the urge as an obligation rather than a pleasure.
 
-*The Hollow Porcelain Shard is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who held the rail through a full Ferrehan cycle without once looking away and filed the duration without comment.*
+*The Hollow Porcelain Shard is not issued and cannot be requested. It has been conferred 2 times, in both cases on a warden who held the rail through a full Ferrehan cycle without once looking away and filed the duration without comment — which is the wing's only recorded method.*
 
 ### M.A.W. Use Notes
 
-A piece cut from The Masked Dancer is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder's old wounds ache; prolonged use leaves faint bruising, and it is paid whether the use was correct or not.
+Nothing cut from the Dancer is ordinary equipment; each piece works by taking part in what it is used near. The toll is the one recorded above — old injuries aching, bruising in the same lines on prolonged use — and it is charged whether the work was performed correctly or not, which the armoury prints on the issue slip in those words.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, The Masked Dancer's toll being that the wielder's old wounds ache. |
-| **During use** | The first sign that The Masked Dancer is charging: the wielder's old wounds ache. Logged with the hour by the second worker, never by the wielder. |
+| **Before use** | Wielder, piece, the gauge, and one pre-check written by a second person: which of the bearer's old injuries ache, and whether they can stand still for a full minute. The second question exists only on this set. |
+| **During use** | The charge shows as tempo arriving in the bearer's own body: the old aches come on a regular beat, and the minute-stop test fails before the gauge moves. The hour goes into the log from the second worker's hand, never the bearer's. |
 | **At limit** | The wearer's reflexes dull, as if armored by resentment, without remission. On a The Masked Dancer piece the use ends there whatever the wielder says. |
-| **After use** | Return, reconcile the baseline, and record whether The Masked Dancer's toll has reversed: the wearer's reflexes dull, as if armored by resentment. Where it has not, the piece is not reissued to that wielder. |
+| **After use** | Take the piece back and set the pre-check against the person: are the old injuries back on the weather's schedule, and can they stand still a full minute? Where the second answer is no, the piece stays in stores and the bearer comes off rail duty for the fortnight. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade records output and says nothing about cost: a β piece from this source can perform perfectly for months and still leave its bearer unable to be still, with the whole of the damage attaching to stopping rather than to doing. Read the cost column first, and read a bearer's restlessness as the finding rather than as a complaint.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -274,7 +274,7 @@ A piece cut from The Masked Dancer is not ordinary equipment: it works by being 
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Masked Dancer as a Subject with Subject-Body manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-C-01, Mask Market — contained. |
+| **Initial exposure** | Stand at the rail and take the tempo first: the step sequence and the crack identify the holding, the Grudge signature confirms it, and the mask is not used for identification at all. The observer-minute clock starts when the watching does. |
 | **Sustained observation** | Tempo in steps per minute, the step reached, the crack measurement, the gauge, and any tear with its time and circumstance. Transcription is taken from the fixed camera and never from the rail. |
 | **Activation or escalation** | Escalation is tempo. Above the set figure, or on any approach toward the rail, the session closes and the floor is cleared; the threshold is numeric and the rail lead applies it. |
 | **Post-contact review** | Tempo and step at open and close, gauge, total observer minutes per person, and a check at seven days for the workers' own restlessness — specifically whether rest periods are being used. |
@@ -285,7 +285,7 @@ A piece cut from The Masked Dancer is not ordinary equipment: it works by being 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Masked Dancer (C-IIβ-099 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Dancer formed from those who wanted to dance but could not. Held at SECTOR-C-01, Mask Market — contained. The Dancer has never breached without invitation or an audience.
+The Masked Dancer (C-IIβ-099 [GS]) is a Subject-Body manifestation expressing Grudge, held at SECTOR-C-01 in the Mask Market: it dances without music, its mask fused to the face, and it has never breached without either an invitation or an audience.
 
 **Entry 2 — <Excerpt from Field Log, Year 4213>**
 Dances through corridors and public areas. Anyone who watches feels compelled to dance. Its movement is graceful, precise, and physically tireless.
@@ -301,16 +301,16 @@ The Dancer does not stop, and the body beneath the mask is fever-hot to the touc
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Masked Dancer; the other feeds it.
+> Two ways to close a watch at the Mask Market floor, and the file prices them months apart: one ends with the performance shared and the recorder still able to stand still, the other ends with an order given.
 
-| Match its rhythm and share the performance; do not command it to stop — as written, without improvising. | Answer it with Pugnahan — reasonable, available, and recorded as raising the gauge. |
+| Match the rhythm from the rail, take part in the performance in rotation, and never give the order to stop — the condition as written, with the observer minutes capped and logged by name. | Answer it with Pugnahan, or tell it to stop: reasonable, available, and on the file it raises the gauge, widens the crack and puts the room one order further from the only thing that has ever paused it. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is named; The Masked Dancer is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Masked Dancer withdraws without revelation. |
+| The tempo holds inside the working figure, the crack is measured unchanged, and the watch closes with the step and the gauge written up and the floor cleared at the rail lead's word. | The tempo climbs past the set figure, the crack widens by the measured increment, and the entry closes with the session abandoned and the room cleared. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-The mask smiles first. Then the body moves. Every step is beautiful enough to make you forget how long it has continued. Beneath the musicless rhythm, you sense exhaustion. A tear slips from beneath the mask and vanishes before it reaches the floor. The Dancer does not dance because it is happy. It dances because the sorrow of stopping would be worse.
+The mask smiles first and the body follows it. Every step is fine enough to make the watching forget how long the watching has been going on, and under the rhythm there is exhaustion that has nothing to do with the steps. A tear comes out from under the mask and is gone before it reaches the floor. The Dancer is not dancing because it is glad. It is dancing because stopping is the one thing that has been made worse.
 
 
 
@@ -318,29 +318,29 @@ The mask smiles first. Then the body moves. Every step is beautiful enough to ma
 
 **With continued exposure:** The steps start to look like reasons. You find yourself certain that a particular turn means a particular room, and the certainty is strong enough that the wing requires it to be written down and discounted.
 
-**When the entity activates:** Nothing dramatic. The tempo lifts and the room's attention narrows, and the person in the most danger is the one who has stopped checking the clock.
+**When the entity activates:** Nothing loud happens. The tempo lifts, the room's attention narrows to a point, and the person in the most danger is the one who has stopped checking the clock — which the rail lead reads off the log rather than off the floor.
 
-**After departure:** It leaves rhythm behind. Workers tap, pace, and keep time against nothing for a day or two, and the counsellors ask about sleep rather than about the entity.
+**After departure:** It leaves the rhythm behind in the people. Workers tap, pace and keep time against nothing for a day or two, and the counsellors ask about sleep rather than about the entity, because on this holding the question that finds it is whether the rest period was used.
 
 ### Interaction Pattern
 
-This holding is read against the other things in the Mask Market that perform, cover, or stand in for a face. Each relation below has been observed and filed; none is settled; and all four were run from the rail with observer minutes capped.
+The holding is read against the other things in the Mask Market that perform, cover a face, or stand in for one. Each row below was observed and filed and none of them is settled; all four were run from the rail with the observer minutes capped and logged by name.
 
-**Interaction method:** Baseline each party alone across several sessions before any paired approach, with tempo, gauge and observer minutes logged throughout. Record the onset of any shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
+**Interaction method:** Baseline each party alone across several sessions before any pairing, with tempo, gauge and observer minutes logged throughout. Record the onset of any shared change with its range, duration, trigger, both gauges and whatever persists after separation, and re-verify every cycle.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. Three of the four were set up in the hope that something could take the performance over, and none of them did.
+The rows below are points of contact and not alliances; none is settled. Three of the four were set up in the hope that something might take the performance over, and none of them did.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Record read alongside | What the two did in the same room | What the log actually measured | Entry the file requires |
 |---|---|---|---|
 | **The Hollow Choir** | Sings while this one moves, which is the pairing everybody expects to be a collaboration. | Seven co-presences. The singing and the stepping are not in time and have never been: measured against each other they drift apart within ninety seconds, every occasion, and neither gauge moves. Two things in the same room are not an accompaniment. | All seven co-presences, the drift measurements, and both flat series. |
 | **The Kind Healer** | Approaches it and cannot find anything to treat, there being no injury under the duty. | Three co-presences. The Healer's own gauge fell on all three; this one's did not move. The Healer's file records the same asymmetry and its Care Record carries the fuller account. Nothing passed back. | All three co-presences, both series, and the cross-reference to the Care Record. |
 | **The Smothering Mother** | Reaches toward it as a kindred sorrow, which is the one relation here the wing treats as dangerous. | Two co-presences, both terminated early by the rail lead. The tempo rose on both occasions and did not return to baseline for nine hours afterwards. No further tests are authorised and the refusal is recorded in both files. | Both co-presences, the tempo series, the nine-hour recovery, and the standing refusal. |
 | **The Masked Market** | The Market's stock changes while this one performs, which is the most-cited and least-understood effect in the sector. | Nine observations. Mask inventory altered on six of the nine, with no pattern in which masks or how many, and the Market's own gauge flat throughout. The wing records a correlation it cannot explain and has declined three times to describe it as communication. | All nine observations, the inventory records, and the three refusals with their reasons. |
 
-**Interaction procedure:** Solo sessions first, over several cycles, with tempo and gauge established for each party before anything is brought near. Then record the first shared change, its range, duration and trigger, both gauges, the observer minutes accrued, and whether anything persists once the parties are separated.
+**Interaction procedure:** Solo sessions first, across several cycles, with tempo and gauge established for each party before anything is brought near. Then enter the first shared change — range, duration, trigger, both gauges, the observer minutes accrued — and whether any of it survives the parties being separated.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -387,7 +387,7 @@ Some sorrows are about what was lost. The Masked Dancer is about what was wanted
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is one layer of the holding's record, read against the classification, the Combat Record and the equipment profile — and read together, because the parts are one finding seen from four sides. What governs is small and strange: a Subject-Body holding on Echo (II) coherence, a sightline rather than a door, a tempo that is the escalation figure, and a condition that forbids the one instruction every relief crew wants to give. Where behaviour departs from this file, the departure is the most important thing about the holding and is preserved as evidence rather than reconciled.
 
 **Review requirement:** Re-verify after every breach, slowing, transformation attempt, or unusual interaction: gauge, tempo, the step reached, the crack measurement, observer minutes by name, and the currency of the transcript file. The crack measurement is taken by two people independently, because it is the only irreversible change this holding has shown.
 ## Watch Record
@@ -456,15 +456,17 @@ The objection is minuted at every annual review and is raised by the wing's coun
 
 ## Trivia
 
+- The register keeps its own figures in numerals for look-up: gauge 436/436, pressure 8–19 per hit, resistance 25 / 15 per cent, threshold 60 per cent, 5 turns, the glove's daggers at 5–9 and 25 Echoes, the robe at 20, the shard at 5 per cent and +1, and 2 conferrals.
+
 - The smile is constant; the crack beneath it has widened after every forced performance and has never narrowed.
-- Observers recognise particular dances in the steps and name them correctly; the dances belong to people who can no longer perform them.
+- Observers recognise particular dances in the steps and name them correctly, and the dances belong to people who can no longer perform them.
 
 
 
 ### Registry Trivia
 
 - **Classification detail:** The Masked Dancer is a Subject with Echo (II) — Repeats dancing coherence and Moderate (β) — Manageable potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-C-01, Mask Market — contained.
+- **Field detail:** Grudge is its element and the Mask Market its registered ground — SECTOR-C-01 — held there by a sightline rather than by any door.
 - **Recognition detail:** Identify it by the step sequence and the crack, not by the mask; the Mask Market contains a great many smiling masks and two of them are on other holdings.
 - **Record detail:** Read this file beside the surviving pages left by the original audiences, which are short, practical, and about anything other than dancing.
 - **Containment detail:** Containment here is a sightline rather than a door. The holding is bounded by who can see it, which is why the observer-minute log is treated as a containment record and not as a timesheet.

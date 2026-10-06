@@ -82,6 +82,24 @@ This file records notable changes to the public Somnarak Wiki.
   rows. Movement at the unit commit: `R-29` 162 / 301 (condition 259; series 252); section-clean 187 /
   301; residue-free 302 / 302; residue lines 0; archive dirty 432; file-clean 302 / 302. **Batch 27
   stands at five of five.**
+- **Batch 28 / unit 2 — The Masked Dancer `C-IIβ-099` closed (2026-10-07)** — measured at `2c8e9fa`: **6 dirty sections**,
+  worst Final Observation 0.343 (the choice blockquote and both result rows), then M.A.W. Equipment 0.112 (the glove,
+  robe and shard appearances, all four abilities, the weapon and robe cost lines, the effect line, the conferral note,
+  the Use Notes, the four field-use rows and the stat interpretation), Flavor Text 0.075 (the intro, the activation
+  and after-departure lines, the interaction preamble, method, record intro, table header and the procedure),
+  Registrum 0.072 (the operational interpretation), Combat Record 0.064 (the resistance row, both shared action rows
+  and two phases) and Observation Log 0.051 (the initial-exposure row). **Closed in a single wave** (39 sites plus the
+  digit bullet; one aborted first attempt on a stray placeholder tuple in the draft — safe redo, nothing written);
+  6,916 → **7,586 words**; `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0** (Story Log Entry 1's
+  `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition and
+  disposition already satisfied and left alone (`R-05`). The `own_series` clause closed from **False** to **True** by
+  restating the file's own figures — gauge 436/436 · 8–19 per hit · 25 / 15 per cent · 60 per cent · 5 turns · 5–9 at
+  25 Echoes · 20 · 5 per cent · +1 · 2 conferrals — **restated from the file, disclosed**. The stock pieces went onto
+  the holding's own evidence: the troupe's eleven visitors and the eight recorded stoppages into the resolution and
+  the choice, and the observer-minute log into the review discipline. Movement at the unit commit: `R-29` 162 /
+  301 (series 254); section-clean 187 / 301; residue-free 302 / 302; residue lines 0; archive dirty
+  421; file-clean 302 / 302. **Batch 28 stands at two of seven.**
+
 - **Batch 28 / unit 1 — Floating Well `C-IIIγ-448` closed (2026-10-07)** — measured at `ef9a9c8`: **6 dirty sections**,
   worst Final Observation 0.167 (the choice blockquote and both result rows), then Story Log 0.159 (Entry 1's
   `is logged as ` and Entry 5's stock tale), Flavor Text 0.120 (the intro, the interaction preamble, method, record
