@@ -1955,7 +1955,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 29 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-N-IVδ-909 Dormant Monolith 잠든 기둥 — `__HASH__` — PUSH VERIFIED — [[SE-N-IVδ-909_Dormant_Monolith_잠든_기둥]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-909_Dormant_Monolith_%EC%9E%A0%EB%93%A0_%EA%B8%B0%EB%91%A5.md "SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md")
+- SE-N-IVδ-909 Dormant Monolith 잠든 기둥 — `7acc499` — PUSH VERIFIED — [[SE-N-IVδ-909_Dormant_Monolith_잠든_기둥]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-909_Dormant_Monolith_%EC%9E%A0%EB%93%A0_%EA%B8%B0%EB%91%A5.md "SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md")
 
 - SE-C-IVδ-767 Swallow 번져가는 그림자 — `a53d7a2` — PUSH VERIFIED — [[SE-C-IVδ-767_Swallow_번져가는_그림자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-767_Swallow_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-C-IVδ-767_Swallow_번져가는_그림자.md")
 
