@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Mourner's Bloom is recorded as an Object/Place with Object-Lament manifestation and Lament elemental expression. The current record places it at Zone D, Echo Gardens; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The behaviour table is a diagnostic and not a system: the classification and the origin explain why Flerehan calms this holding and agitates others, and nothing here transfers to another entity with a similar name. Mourner's Bloom is an Object/Place with an Object-Lament manifestation and a Lament expression, held at Zone D in the Echo Gardens. Read the table with the vault in mind — it blooms near grief, wilts near forced happiness, and its only working disposal is a petal matched to a claimant, which dissolves on receipt. A stable gauge is not a safe encounter: observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
 
 **Reading the response:** A falling count means a petal was matched to its owner and claimed. Stability under Viderehan is correct. The count rises each time a moment is taken and filed by date alone, and the vault's own rule against recording whose moment is in which is the reason the count has only ever risen except in the year the register was opened.
 ## Activation Behavior
@@ -241,7 +241,7 @@ The blade surface remains permanently damp with chilled water droplets that seep
 **Falloff Rule:** 100% to the selected target only; the dirk has no spread and the holding records this because the entity it came from does not either.
 **Damage Application:** Apply the multiplier to direct damage and Tick damage separately, and log the Tick separately again, since the Tick here is the part that takes something.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Mourner's Bloom's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the bloom's signature in the strike: the target is left carrying a moment of mourning that belongs to somebody else, which is the vault's whole problem arriving on the field.
 
 **Cost:** The wielder weeps involuntarily, and cannot afterwards recall the moment at which any of their own griefs began.
 
@@ -249,7 +249,7 @@ The blade surface remains permanently damp with chilled water droplets that seep
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, undyed and faintly luminous, that settles cold against the skin and takes the drape of a mourner's shoulders rather than the wearer's; bearers are recognised by the fall of it long before the face is seen.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -267,7 +267,7 @@ The blade surface remains permanently damp with chilled water droplets that seep
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a petal-tile of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a petal-tile of Lament Han-crystal, deep blue and warm at the centre, that grows briefly hot near sorrow and cools slowly afterwards. The tile carries the bloom's colours and none of its mass, and the file notes the distinction because the mass is what the vault exists to hold.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -281,18 +281,18 @@ The blade surface remains permanently damp with chilled water droplets that seep
 
 ### M.A.W. Use Notes
 
-Each piece extends Mourner's Bloom rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder weeps involuntarily, and cannot afterwards recall the moment at which any of their own griefs began — arrives early and does not reverse on return.
+Each piece extends Mourner's Bloom rather than arming its wielder against it. The benefit holds only inside the pattern the file records — bloom near grief, wilt near forced happiness, one honest mourner in the room — and outside it the cost arrives early: the wielder weeps involuntarily and cannot afterwards recall the moment at which any of their own griefs began.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Mourner's Bloom's known toll: the wielder weeps involuntarily, and cannot afterwards recall the moment at which any of their own griefs began. Opened at the end of the rotation, not before. |
-| **During use** | The first sign that Mourner's Bloom is charging: the wielder weeps involuntarily, and cannot afterwards recall the moment at which any of their own griefs began. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wearer goes numb to minor joys, and finds funerals easy, without remission. On a Mourner's Bloom piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Mourner's Bloom's cost is still showing — the wearer goes numb to minor joys, and finds funerals easy. |
+| **Before use** | Wielder, piece, the gauge at issue and a sealed baseline; the baseline's second question is put by a colleague and not by the wielder: which of your own griefs could you name this morning? The toll on this set does not present on the day, and a bearer's own answer is the one thing the file will not accept. |
+| **During use** | The charge shows as weeping the wielder neither explains nor remembers starting. The second worker logs the hour it is first seen, never the wielder, and does not interrupt the work to name it; on this set the first hour is filed with the same weight as the last. |
+| **At limit** | The wearer goes numb to minor joys and finds funerals easy, without remission, and the file's test is not how they say they feel but what they can still name: a bearer who can no longer say which griefs are their own has reached the limit. On a Mourner's Bloom piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether the cost is still showing — the numbness, the ease at funerals, the griefs that cannot be named. The answer is filed with the piece, and where the baseline question can no longer be answered the piece is not issued to that wielder again. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The rating measures what a piece does to a holding and nothing about what it does to the person holding it, and on this set the distance between the two columns is the whole of the file's caution: a piece that quiets a vault can leave a bearer unable to say which grief is theirs. Authorise on the cost column, and re-ask the baseline question by colleague at every return.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -309,10 +309,10 @@ Each piece extends Mourner's Bloom rather than equipping its wielder against it.
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Mourner's Bloom as an Object/Place with Object-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone D, Echo Gardens. |
+| **Initial exposure** | The observer identifies Mourner's Bloom as an Object/Place with Object-Lament manifestation. The first reliable markers are its Lament signature, the change in the space itself — specific rather than generic, in the way associated with Lament — and its registered place at Zone D in the Echo Gardens. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Grief expressed near the flower. Effect: Crystallizes one moment of mourning into a petal. Duration: Until the grief is acknowledged and released. Risk: the moment is taken without consent and returns only to its owner. The relic answers only to a held channel. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Mourner's Bloom's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | After contact: what changed in the holding, in the room, in yourself; what stayed the same; what was hardest to name, and which detail was most difficult to describe. The lines of the vault register are read beside the report — petals taken, matched and still held — and on this holding the review is incomplete if it records the danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the petal count, the distance travelled, who was grieving in range and at what remove, what they report missing afterwards, and the vault's attribution register for the month. The condition that ends the encounter is the bloom returning to the bed, which it does on its own. Appearance is diagnosis, not prediction.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -320,7 +320,7 @@ Each piece extends Mourner's Bloom rather than equipping its wielder against it.
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Mourner's Bloom (C-Iα-330 [D]) is logged as a Object-Lament manifestation expressing Lament. The Flower formed from one honest moment of mourning. Held at Zone D, Echo Gardens. Flowers bloom in response to nearby sorrow.
+Mourner's Bloom (C-Iα-330 [D]) is an Object-Lament manifestation expressing Lament, formed from one honest moment of mourning and fed by proximity to grief. Held at Zone D in the Echo Gardens, where it flowers in response to nearby sorrow and sets what it takes into a petal; the vault's register is the record that matters, and petals are catalogued by the date shed and by nothing else.
 
 **Entry 2 — <Vault Return: Sixty-Three Taken, Twenty-Two Returned>**
 Moments taken by the bloom in 4238: sixty-three. Matched to a named person, who was told and claimed the petal, upon which it dissolved: twenty-two. Held in the vault catalogued by the date shed and by nothing else: forty-one. Of the twenty-two, nineteen asked what had been taken, and the register records that the Department could not say, only when. Of the forty-one, eleven are attributable on the duty rosters alone and have not been attributed, the vault's standing practice being not to look.
@@ -336,9 +336,9 @@ The bloom moves. Its roots coil and carry it, its petals open into something tha
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Mourner's Bloom; the other feeds it.
+> Two ways to end the same work. One is the resolution on file — count the petals, work the register, and match every petal in the vault to a claimant — and the other is the kindness the file has watched fail every time it was tried.
 
-| Count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal — as written, without improvising. | Improvise something kinder, which is how every failure on Mourner's Bloom's file began. |
+| Count the petals and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves, and that is the only disposal — as written, without improvising. | Improvise something kinder, or leave the vault uncounted: every failure on this holding's file began with a decision not to look, and 41 petals are held on the date-shed catalogue alone. |
 |---|---|
 | Blooms slowly beside a patient worker. The sorrow is witnessed; Mourner's Bloom is fully recorded. | Reveals the emotion in each petal. The gauge climbs and Mourner's Bloom withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -349,7 +349,7 @@ The flower sits in the Garden without moving. Its petals hold the color of a bru
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A delicate flower made from crystallized sorrow. Its petals are dark blue and warm at the center. Notable Features: It blooms near grief, wilts near forced happiness, and responds to the presence of mourners. Identification Profile: The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Object-Lament form.
+**At first contact:** What identifies it is the flower: crystallized sorrow in the shape of a bloom, petals dark blue and warm at the centre, and a response that is easy to watch — it opens near grief, wilts near forced happiness, and turns toward mourners. The space around it is the second signature, and the file is precise about it: the room does not go generic or abstract, it changes in the specific way associated with Lament and with this holding's Object-Lament form.
 
 **With continued exposure:** With time the Object-Lament becomes less a presence and more a climate — the Lament is no longer an event but an environment, something you exist inside rather than encounter.
 
@@ -359,7 +359,7 @@ The flower sits in the Garden without moving. Its petals hold the color of a bru
 
 ### Interaction Pattern
 
-Mourner's Bloom does not exist in isolation. Its recorded relationships with The Weeping Willow, The Grieving Fountain, The Frozen Tear should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Mourner's Bloom is read beside the 3 holdings the file has paired it with — The Weeping Willow, The Grieving Fountain and The Frozen Tear — and none of the 3 is treated as an alliance or a hostility: they are resonance candidates, filed as such. In a shared event the team records whether anything changes at all in the space, the petals, the register, the gauge or the containment, and the standing note is that a resemblance is the reason a pairing was proposed and not a finding that came out of one.
 
 **Interaction method:** Document it alone first, with the vault register alongside. In shared conditions log the petal count before and after and whether anything was taken; across every joint session in the Gardens this entity has taken nothing, which the file records as the clearest evidence that it feeds on grieving people rather than on grief.
 
@@ -368,13 +368,13 @@ Mourner's Bloom does not exist in isolation. Its recorded relationships with The
 
 It is filed with the Echo Gardens records, which now run to five. The relationships below are what the archive will support. They are not alliances; each concerns grief held somewhere other than in the person it belongs to, and in proximity this one sheds nothing and takes nothing.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
 |---|---|---|---|
-| **The Weeping Willow** | Willow leaves settle around the Flower. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Grieving Fountain** | The Fountain feeds its roots. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Frozen Tear** | Both preserve grief in tiny forms. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Weeping Willow** | Willow leaves settle around the Flower. | Settling is what the willow does; nothing has been established beyond it, and the row records what has been seen and nothing that it implies. |
+| **The Grieving Fountain** | The Fountain feeds its roots. | Water reaching the roots is observed; whether the bloom takes anything from the fountain has never been separated from the fountain's own effect. |
+| **The Frozen Tear** | Both preserve grief in tiny forms. | The closest resemblance of the 3, and the register treats it as resemblance only: two vaults are not thereby one vault, and no petal has moved between them. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Establish individual baselines before any joint observation — on this holding the baseline is the vault register itself: petals taken, matched and still held. Then record the first shared change, its distance, duration and trigger, the gauge movement, the effect on the field, and whether anything remains after separation. The file's caution holds here as everywhere in the Gardens: you cannot measure resonance without first measuring silence.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -415,14 +415,14 @@ Some sorrows mourn a loss. Mourner's Bloom mourns the hiding — the grief the c
 **Observation Notes:**
 - A gardener wept for her dead parent; the tears grew a flower.
 **Cross-References:** Echo Gardens · The Frozen Tear · The Weeping Willow
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED, on the D-territory exploration whose grounds the vault stands in · UCD, on the Fray-adjacent zone. Both have standing to read the vault register; the claimants are the only people who may amend an entry, and an unclaimed petal stays on the catalogue by the date it was shed.
 **Originator:** One gardener of the Echo Gardens, named in the commissioning file. Her moment is the first petal on the stalk; it cannot dissolve, and the register carries her name against it with the note that attribution is complete and the remedy is not available.
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** No single section of this file is sufficient: the classification, the Work Type responses and the breach protocols make one operational picture, and on this holding the picture has a register attached. The counts that govern are 63 moments taken in 4238, 22 matched to a named person and dissolved on receipt, 41 still held in the vault on the date-shed catalogue and nothing else, and 19 of the 22 claimants who asked what had been taken from them. Where observation contradicts the file, the file is wrong: preserve the discrepancy, report it, and let the record grow rather than shrink.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, Sorrow Tide, Ordeal or interaction event, confirm the gauge reading, the Fracture risk and the containment integrity before the next cycle — and on this holding, re-read the vault register: petals taken, matched, dissolved and held, with every claimant's entry checked against the date shed. The file's position is that the review's job is to keep the count honest, since the R.D. record describes a living sorrow pattern rather than a permanently complete explanation.
 ## Trivia
 
 - Some flowers bloom for centuries.
@@ -433,10 +433,10 @@ Some sorrows mourn a loss. Mourner's Bloom mourns the hiding — the grief the c
 ### Registry Trivia
 
 - **Classification detail:** Mourner's Bloom is an Object/Place with Residue (I) — Barely formed, passive coherence and Minor (α) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone D, Echo Gardens.
+- **Field detail:** Element Lament, registered to Zone D in the Echo Gardens, where containment is a vault and a register rather than a cordon: petals are catalogued by the date shed and by nothing else, and the count is the state of the holding.
 - **Recognition detail:** Identify it by the movement and the maw. The stalk is a body, the roots are legs that coil and carry it, and the petals open into something recognisably a mouth; the dark blue colour and the warmth at the centre are real but are shared with the ordinary Gardens stock, and three misidentifications have been made on colour alone.
-- **Record detail:** Check the designation before approach. The archive holds other records of grief kept outside its owner, and they differ on the remedy — the Seething Tundra requires that a feeling be spoken instead of deposited, while this requires that something already taken be given back to the person it was taken from.
-- **Containment detail:** Containment is not silence. Even without a breach, the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Record detail:** Check the designation before approach: the archive holds other records of grief kept outside its owner, and they differ on the remedy — the Seething Tundra requires that a feeling be spoken instead of deposited, this holding requires that something already taken be given back to the person it was taken from. The 63 taken and the 22 returned are the numbers to read the file by.
+- **Containment detail:** Containment here is not silence. Even without a breach the sorrow bleeds through walls, through the Veil, through personnel in adjacent cells, and the event the file watches for is a worker who leaves carrying a grief that is not theirs. The vault, not the perimeter, is the instrument.
 ## Document Information
 
 **Document ID:** SE-C-Iα-330

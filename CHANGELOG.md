@@ -63,6 +63,29 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 24 / unit 3 — Mourner's Bloom `C-Iα-330` closed (2026-10-06)** — measured at `d8b3222`: **7 dirty sections**,
+  worst Behavior 0.268 (the 37-dossier *The behavior table is a snapshot, not a system* line), then Registrum 0.223
+  (the 20-dossier operational interpretation and review requirement, and the faction line), M.A.W. Equipment 0.191
+  (the 11-dossier shroud appearance line — the file's residue — the ability, the petal-tile, the set note and the
+  four field-use rows, and the stat-interpretation line), Flavor Text 0.143 (the 32-dossier isolation line, the
+  three relation rows, the header row, the procedure and the first-contact line), Final Observation 0.128, Trivia
+  0.104 (the field, record and containment rows) and Observation Log 0.076. All seven closed in two waves
+  (12 + 16 sites; the second aborted once on an under-counted assert — a safe redo); 6,289 → **6,858 words**;
+  `tpl.py` residue 1 → **0** (the shroud appearance line re-authored — the drape of a mourner's shoulders rather
+  than the wearer's); `verify.py` residual 1 → **0** (Story Log Entry 1's stock `is logged as `); `sectfile.py`
+  ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from **False** to
+  **True** on the vault's own counted register — 63 moments taken in 4238, 22 matched to a named person and
+  dissolved on receipt, 41 still held on the date-shed catalogue and nothing else, 19 of the 22 claimants who asked
+  what had been taken, and the comprehension thresholds 1 and 2 — **restated from the file, disclosed**; condition
+  and disposition were already satisfied and left alone (`R-05`). Stock pieces were replaced with the holding's own
+  material: the three relation rows onto what the 3 pairings actually rest on (a willow's leaves, water at the
+  roots, two vaults that are not one vault), the interaction block onto the register as baseline, the choice block
+  and the containment row onto the vault rather than a perimeter, and the M.A.W. rows onto what the set takes — the
+  bearer weeps involuntarily and can no longer name which griefs are their own. Movement at the unit commit:
+  `R-29` 141 / 301 (series **241**); section-clean 165 / 301; residue-free 242 / 302;
+  residue lines 7, instances 78, carriers 60 / 302; archive dirty 620; file-clean
+  270 / 302; worst 0.072, median 0.011. **Batch 24 stands at three of seven.**
+
 - **Batch 24 / unit 2 — Devouring Bloom `C-IIIγ-916` closed (2026-10-06)** — measured at `2a5e982`: **8 dirty
   sections**, worst Story Log 0.219 (Entry 5's stock tale), then Registrum 0.172 (the 20-dossier operational
   interpretation and review requirement and the faction line), Final Observation 0.136 (the choice blockquote),
