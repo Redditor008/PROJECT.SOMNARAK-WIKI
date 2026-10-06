@@ -1716,6 +1716,17 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 25 is closed at ten — the ladder's top rung, every unit pushed and verified.** Ten dossiers, **69 / 69
+dirty sections closed**, **+6,525 words** net, nothing deleted (`R-15`). Movement across the cohort: `R-29`
+145 → 153 / 301; own numeric series 243 → 246 / 301; section-clean 169 → 177 / 301; residue-free
+251 → 291 / 302; `tpl.py` residue lines 6 → 1 (the stock Resolution line alone remains, 11 holders),
+instances 63 → 11, carriers 51 → 11 / 302; archive dirty 587 → 508; file-clean 276 → 291 / 302;
+scene-clean 170 → 178; worst 0.064 → 0.061; median 0.011 → 0.01. Every unit's SE link is in the block
+below (`R-12`), each with its commit hash and PUSH VERIFIED; the PR #13 section carrying the same ten links is the
+next entry in this file. The full disclosure list lives in the batch-25 CHANGELOG entry: the u3 pipe repair, the
+u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
+and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
+
 **Batch 25, unit 10: Aegis `C-IVδ-200` closed.** Measured at `e93247f`: **6 dirty sections**, worst M.A.W.
 Equipment 0.285 (the 10-dossier reflexes cost line — the file's residue — plus three appearances, the suit ability,
 the effect line, the set note and the four field-use rows), then Behavior 0.272 (the table note and the reading

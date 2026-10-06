@@ -63,6 +63,28 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 25 closed at ten (2026-10-06)** — the ladder's top rung, run end to end. Which hunts opened: Harvest
+  Beyond the Gate `N-IIβ-627`, Floating Tree `N-IIIγ-585`, The Lonely Giant `C-IIIγ-105`, The Inheritor `C-IIIγ-062`,
+  The Grieving Maiden `C-IVβ-041`, Spire of Unanswered Prayer `O-IIβ-796`, Forgotten Silence `N-IVδ-489`, Sunken
+  Pillar `C-IIIγ-649`, Willing Chains `C-IVδ-976`, Aegis `C-IVδ-200` — **69 / 69 dirty sections closed**, and
+  **+6,525 words** net (6,563 / 6,722 / 6,635 / 6,762 / 7,243 / 7,163 / 7,165 / 6,685 / 6,550 / 6,955 →
+  7,271 / 7,236 / 7,204 / 7,513 / 7,871 / 7,778 / 7,704 / 7,460 / 7,370 / 7,561), nothing deleted (`R-15`).
+  Which counters moved: `R-29` 145 → **153 / 301**; own numeric series 243 → **246 / 301**; section-clean
+  169 → **177 / 301**; residue-free 251 → **291 / 302**; `tpl.py` residue lines 6 → **1** (the stock
+  Resolution line alone remains, 11 holders), instances 63 → **11**, carriers 51 → **11 / 302**;
+  archive dirty 587 → **508**; file-clean 276 → **291 / 302**; scene-clean 170 → **178**; worst 0.064 →
+  **0.061**, median 0.011 → **0.01**. `verify.py` residuals across the cohort: 5 → 0. Disclosures carried by
+  this batch: u3's Resistance row lost its trailing pipe and blocked the gate (repaired in place, +1 token, 7,203 →
+  7,204, disclosed); u9's Resistance row dropped its pipe and was repaired before its commit with the section
+  re-measured; my own interaction-table header reached 10 holders and became a residue line (`tpl.py` 6 → 7,
+  instances 62 → 72, carriers 50 → 60) and was re-worded distinctly across all 10 files, retiring the family, with
+  Mourner's Bloom's Behavior line re-authored in place after the same rebuild; guards fired 6 times in this batch
+  (mis-counted asserts on u3, u4, u5, u6, u9, u10) and every one aborted before writing, all redone safely;
+  `own_series` closed **False → True** on units 4, 6, 8 and 9 by restating each file's own counted record in digits
+  (Triplet figures; 3,140 / 4 / 300 / 2 / 1 / 400 / 11; 94 / 0 / 1 / 2; 2.45 / 855 / 90 / 1–10 / +1) — disclosed —
+  and units 1–3, 5, 7 and 10 were pre-satisfied and left alone (`R-05`). Batch 25 delivered its ten; the next cohort
+  opens at **three or five** unless the owner directs otherwise.
+
 - **Batch 25 / unit 10 — Aegis `C-IVδ-200` closed (2026-10-06)** — measured at `e93247f`: **6 dirty sections**
   (the file opened cleaner than the rest of the cohort), worst M.A.W. Equipment 0.285 (the blade, harness and charm
   appearances, the suit ability, the 10-dossier *reflexes dull, as if armored by resentment* cost line — the file's
