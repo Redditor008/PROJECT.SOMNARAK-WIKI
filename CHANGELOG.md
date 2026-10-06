@@ -71,9 +71,11 @@ This file records notable changes to the public Somnarak Wiki.
   review requirement), Flavor Text 0.095 (the four contact lines, the two interaction preambles, the method, the
   header row, the procedure and the isolation line) and Combat Record 0.076 (the resistance row, both combat
   actions and the Tension line). All six closed in one wave (29 + the digit line); 7,209 → **7,907 words**;
-  `tpl.py` residue 1 → **0** — the stock Resolution line this unit carried was its last site, so the line retires
-  archive-wide: **residue lines 1 → 0, instances 11 → 0, carriers 11 → 0, clean dossiers 291 → 302 / 302**, the
-  first time the archive has been wholly free of shared-line residue; `verify.py` residual 1 → **0**; `sectfile.py`
+  `tpl.py` residue 1 → **0** — the register's last shared line was the stock *Resolution* row this unit carried, and
+  rewriting it took that line from **10 holders to 9** — one short of the tool's 10-holder bar — so the residue
+  register empties: **lines 1 → 0, instances 10 → 0, carriers 10 → 0 / 302, clean dossiers 292 → 302 / 302**.
+  Threshold effect, disclosed: 9 dossiers still carry that exact line individually and go unregistered only
+  because it no longer meets the bar, so the register is at its floor while the line itself is not extinct; `verify.py` residual 1 → **0**; `sectfile.py`
   ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**; condition and disposition already **True** and
   left alone (`R-05`). The `own_series` clause closed from **False** to **True** by restating the file's own figures
   — resistance 35 / 25, the blade at 10–15 damage and 50 Echoes, the harness at 45, the charm's 4-per-cent line and
@@ -89,8 +91,9 @@ This file records notable changes to the public Somnarak Wiki.
   8,143 / 7,037 / 8,688 / 7,209 → 8,112 / 9,067 / 7,868 / 9,142 / 7,907), nothing deleted (`R-15`). Which counters
   moved: `R-29` 153 → **157 / 301** (specific condition 256 → **258 / 301**; own numeric series 246 →
   **250 / 301**; section-clean 177 → **182 / 301**); the residue ledger moved to its floor — **residue lines
-  1 → 0, instances 11 → 0, carriers 11 → 0, clean dossiers 291 → 302 / 302** (the stock *Resolution* line
-  retired archive-wide, its last site being Soaking Shard's and its final holder Frozen Echo's); archive dirty
+  1 → 0, instances 11 → 0, carriers 11 → 0, clean dossiers 291 → 302 / 302** (the stock *Resolution* row fell
+  from **11 holders at open to 9**, under the tool's 10-holder bar — the register empties while 9 dossiers still
+  carry that exact line individually: a threshold effect, disclosed); archive dirty
   508 → **467**; file-clean 291 → **301 / 302**; scene-clean 178 → 182; worst 0.061 → 0.054; median 0.010.
   `verify.py` residuals across the cohort: 5 → 0. Disclosures: guards 21–26 fired (all safe redos, nothing
   written on an aborted pass); `own_series` closed **False → True** on units 1, 3, 4 and 5 by restating each file's

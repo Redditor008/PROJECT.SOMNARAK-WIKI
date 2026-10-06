@@ -1719,16 +1719,20 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 **Batch 26, unit 5: Frozen Echo `C-IIIγ-609` closed.** Measured at `304e14a`: **6 dirty sections**, worst Story Log
 0.410, then M.A.W. Equipment 0.203, Final Observation 0.125, Registrum 0.121, Flavor Text 0.095 and Combat Record
 0.076 — all six closed in one wave (29 sites plus the digit line); 7,209 → **7,907 words**; `tpl.py` residue 1 → **0**
-— and this unit's site was the stock Resolution line's last one, so the line retired archive-wide: **lines 0,
-instances 0, carriers 0 / 302, clean dossiers 302 / 302**; `verify.py` residual 1 → **0**; `sectfile.py` **0
+— the register's last shared line was the stock Resolution row this unit carried, and rewriting it took it from
+**10 holders to 9**, one short of the 10-holder bar, so the register empties: **lines 0, instances 0, carriers
+0 / 302, clean dossiers 292 → 302 / 302** — a threshold effect, disclosed (9 dossiers still carry that exact
+line individually); `verify.py` residual 1 → **0**; `sectfile.py` **0
 section(s) over 0.05**; `wikistd.py` meets **True**; the `own_series` clause closed from **False** to **True** by
 restating the file's own figures (35 / 25, 10–15 at 50, 45, 4 per cent, 3 conferrals) — disclosed.
 
 **Batch 26 is closed at five — the cohort opened at five and finished at five.** Five dossiers, **32 / 32 dirty
 sections closed**, **+3,909 words** net, nothing deleted (`R-15`). Movement across the cohort: `R-29` 153 → 157 /
 301 (condition 256 → 258 / 301; series 246 → 250 / 301; section-clean 177 → 182 / 301); **residue lines
-1 → 0, instances 11 → 0, carriers 11 → 0, clean dossiers 291 → 302 / 302** — the archive is wholly free of
-shared-line residue for the first time; archive dirty 508 → 467; file-clean 291 → 301 / 302; scene-clean
+1 → 0, instances 11 → 0, carriers 11 → 0, clean dossiers 291 → 302 / 302** — the residue register stands at
+its floor for the first time, a **threshold effect rather than an extinction**: the stock Resolution row fell
+from 11 holders at open to 9, below the tool's 10-holder bar, and 9 dossiers still carry that exact line
+individually (disclosed); archive dirty 508 → 467; file-clean 291 → 301 / 302; scene-clean
 178 → 182; worst 0.061 → 0.054. Every unit's SE link is in the block above (`R-12`); the PR #13 section carrying
 the same five links is the next entry in this file. Disclosure list: guards 21–26 (all safe redos), the own-series
 digit restatements on u1, u3, u4 and u5, and the condition closures on u1 and u4 — full text in the batch-26
