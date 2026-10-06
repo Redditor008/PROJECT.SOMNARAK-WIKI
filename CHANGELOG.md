@@ -8,6 +8,32 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 32 / unit 3 — The Observing Bird `C-IIIγ-031` closed (2026-10-07)** — measured at `1faa7c8`: **4 dirty
+  sections**, worst Final Observation 0.254 (the choice blockquote, the condition row and the result row), then Flavor
+  Text 0.073 (the relations preamble, the interaction method — rebuilt whole-line from a badly spliced generator tail
+  that ended `a Sorrow Tide, breach, Ordeal, or transformation event.` twice over — the after-departure line, the
+  observation method and the post-contact review), Combat Record 0.070 (the resistance row, two action rows, the tension
+  phase, whose `no vocalisation of any kind. The other two Birds have voices, confirms the approach` splice was rebuilt,
+  the clash phase and the resolution) and M.A.W. Equipment 0.051 (two appearance rows, the effect line, the Stigma note
+  and the at-limit row). **Closed in a single wave** (24 sites); 7,838 → **8,105 words**; `tpl.py` residue 0 throughout;
+  `verify.py` residual 0 throughout; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with
+  series held. The condition was re-registered inside the rewritten resolution line in the file's own words as
+  `suppression condition: **look at the Bird and accept its gaze**` after a first attempt used a non-matching phrasing
+  and read **False**; corrected in place and held **True**. The result row's clipped cells were rewritten in order.
+  Movement at the unit commit: `R-29` 194 / 301; section-clean 219 / 301; residue-free 302 / 302; residue lines
+  0; archive dirty 199; file-clean 302 / 302. **Batch 32 stands at three of seven.**
+
+- **Housekeeping sweep, b32, disclosed (2026-10-07).** The relation-table header `| Holding on file | How the two have met | What
+  the watch has seen move | What belongs in the entry |`, re-authored across the b30 and b31 units as their own relations
+  preamble, reached the residue threshold at **10 holders** and put `tpl.py` back on the register — 1 line, 10 instances,
+  10 carriers, residue-free 292 / 302. Each of the ten holders' headers was reworded uniquely in place (no prose, figures
+  or rows changed, `R-15`), and the register returned to its floor: **0 lines, 0 instances, 0 carriers, 302 / 302**
+  (`1faa7c8`). The holders touched are b30's Grieving Love, Pyre of Truths, The Memory Thief and The Memory Weaver;
+  b31's The Sorrow Fountain, Life Behind Glass, Harbinger, Deteriorata and The Hollow Saint; and this batch's Double
+  Mouth and Briar. Disclosed rather than left to the next batch.
+
+
+
 - **Batch 32 / unit 2 — Briar `C-IIIγ-145` closed (2026-10-07)** — measured at `0373e98`: **5 dirty sections**, worst
   Final Observation 0.145 (the choice blockquote, the condition row and the result row), then Breach Behavior 0.065 (the
   escalation row and the gauge-on-breach line), Registrum 0.060 (the faction line, the operational interpretation and

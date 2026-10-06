@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful work cycle, taken off the watch and not off the eyes |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Lament pressure; 25% against other pressure types |
+| **Resistance** | 35% against Lament pressure and 25% against other types — a body that has never had to resist anything it chose to do |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 719/719 |
 | **Han Pressure [ATK]** | 17–39 per hit · Lament |
@@ -81,14 +81,14 @@
 | { *The Unblinking Stare* [**Debuff**] } | "It fixes you with one pale eye and does not blink — and you feel everything you have done rise up to meet it." | [The Bird locks its gaze on the target; the weight of being truly seen settles on them.] | *Target suffers -10 Composure; they cannot hide while the eye holds them.* **[10 Lament DMG [Lament]]** | When the Bird singles out a target. |
 | { *The Counted Steps* [**Debuff**] } | "It counts every step you take, every breath — and waits for the number that condemns you." | [The Bird tallies the target's movements; the count itself becomes a pressure.] | *Target loses 10 Composure and moves as though watched from every angle.* **[10 Lament DMG [Lament]]** | When the target lingers in its sight. |
 | { *The Sudden Wing* [**Attack**] } | "Move wrong, and the wing comes down faster than thought." | [A wing sweeps low — a flat, heavy strike at whoever broke the pattern.] | *Inflicts Lament pressure and one wound of cold scrutiny.* **[14-22 Lament DMG [Lament]]** | When the target moves too fast or tries to flee. |
-| { *What It Saw* [**Attack**] } | "It shows you what it witnessed — the moment you failed someone, perfectly recalled." | [The Bird forces a memory into the target's mind: the worst thing it ever observed them do.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Bird is provoked or a marked target confronts it. |
-| { *The Long Vigil* [**Ultimate**] } | "It has watched the city for four thousand years. Now it watches all of you at once." | [The Bird opens its full attention across the field; nothing moves without being recorded.] | *All personnel suffer Lament pressure for three turns under the perfect gaze.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *What It Saw* [**Attack**] } | "It shows you what it witnessed — the moment you failed someone, perfectly recalled." | [The Bird returns one of its recordings to the person who made it: the moment they failed somebody, played back complete, with the angle nobody present had.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Bird is provoked or a marked target confronts it. |
+| { *The Long Vigil* [**Ultimate**] } | "It has watched the city for four thousand years. Now it watches all of you at once." | [The attention widens until nobody in the field is unobserved, and every movement, spoken or not, lands in the record.] | *All personnel suffer Lament pressure for three turns under the perfect gaze.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies The Observing Bird by one hundred and forty-four open eyes, damp deep-water plumage, cold-rain smell, no vocalisation of any kind. The other two Birds have voices, confirms the approach, and takes position before anything else is attempted.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Observing Bird's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Look at the Bird and accept its gaze**.
+1. **Tension:** Establish the holding by its four markers — the hundred and forty-four open eyes, the damp deep-water plumage, the cold-rain smell, and the complete absence of any voice, which is what separates it from the other two Birds. The approach is confirmed and positions are taken before anything else is attempted.
+2. **Clash:** The crew works its Work Types and its kit while the holding answers along the line recorded in its combat table; how the gauge moves decides whether the watch escalates or closes.
+3. **Resolution:** The cycle closes with the watch completed, the eye count held, and every worker having looked at the Bird rather than around it. The registration carries the file's suppression condition: **look at the Bird and accept its gaze** — the clause that costs crews the most, because everything in the room rewards looking away, and looking away is permitted but is not the resolution.
 
 ### Consequences
 
@@ -168,7 +168,7 @@ The Observing Bird is a Subject with Subject-Body manifestation and Lament expre
 
 - **Breach type:** Escape — it leaves the chamber and surveys. Treating it as a hunt has prolonged every event in which it was treated as a hunt.
 - **Containment priority:** Run a full disclosure sweep of the sector, including the sheets staff would rather not file, and do it first rather than after the physical measures have failed. The Bird settles once nothing within the sector remains unrecorded. Mean duration where the sweep was run first: fifty-one minutes. Where it was run last: nineteen hours.
-- **Sorrow Gauge on breach:** Opens at 30% and rises 10% for each personnel file it completes, rather than per turn elapsed. The gauge therefore measures how much the facility did not already know about itself.
+- **Sorrow Gauge on breach:** Starts at 30% and climbs 10% for every personnel file the holding completes — not per turn elapsed. What the figure actually measures is the size of what the facility did not know about itself.
 
 ## M.A.W. Equipment
 
@@ -196,7 +196,7 @@ The Observing Bird is a Subject with Subject-Body manifestation and Lament expre
 **Category:** Protective Attire (Weeping Feather Mantle & Eye-Tile Shroud)
 **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that hangs heavier than the fabric explains while the wearer is being watched.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -215,17 +215,17 @@ The Observing Bird is a Subject with Subject-Body manifestation and Lament expre
 **Category:** Stigma (Ocular Relic Mark)
 **Grade:** γ | **Element:** Lament
 
-**Appearance:** an eye-tile of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** an eye-tile of Lament Han-crystal, cool and faintly luminous, that reads warm in a closed hand and cold the moment it is held up.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 stat bonus while working the source holding, entered at issue and struck from the sheet the day the bearer leaves the perch posting
 
 **Ability:** Shows the history and sorrow embedded in anything observed.
 
 **Cost:** Once sorrow is seen, the wearer cannot look away from it mentally.
 
-*The Watcher's Stigma is not manufactured and cannot be requisitioned. It has been conferred eleven times, in every case on a worker who filed a disclosure sheet against their own interest in the same cycle.*
+*The Watcher's Stigma is conferred, never made, and no requisition reaches it. Eleven workers carry it. Every one of them filed a disclosure sheet against their own interest in the same cycle.*
 
 ### M.A.W. Use Notes
 
@@ -237,7 +237,7 @@ Each piece of this entity's equipment is an extension of accurate, unwanted know
 |---|---|
 | **Before use** | Wielder and grade; gauge at the perch; the operator's own disclosure sheet, filed and dated before issue and not after; piece condition; objective; and the name of the second observer who will keep the eye count. |
 | **During use** | Contact time, eye count on the bearer at five-minute intervals, the first thing the bearer notices that they would rather not have, first cost, and any request to stop. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the limit was called by the bearer or by the observer. |
+| **At limit** | The bearer's account of their own week has begun to fold back on itself, or the eye count on them has stopped changing. Either sign ends the use; who called it — the bearer or the second observer — is entered with the hour. |
 | **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and a note of anything the bearer disclosed in the following week that they had not disclosed before. |
 
 **Stat interpretation:** The grade describes pressure, not harm. This holding has injured nobody in sixty-one years and is graded Major because of what it does to a facility rather than to a person: it makes concealment physically uncomfortable in a building that runs on a certain amount of it.
@@ -263,9 +263,9 @@ Each piece of this entity's equipment is an extension of accurate, unwanted know
 | **Initial exposure** | The observer identifies the holding by eye count, damp plumage and the cold-rain smell, and confirms the designation against the other two Birds before entering. First watches are rostered with a second observer present in every case. |
 | **Sustained observation** | Continued watching confirms the pattern: the eyes redistribute, the gauge holds or falls, and nothing else occurs. Personnel must distinguish the Bird's effect from their own response to being seen; the counsellors record that almost every difficulty reported on this holding is the second thing and not the first. |
 | **Activation or escalation** | The team records the bearing of the eyes, the moment attention leaves the worker, distance, duration and gauge movement before applying any response. On this holding the response procedure is a paper exercise and the team is told so in advance. |
-| **Post-contact review** | Record what changed, what held, and the detail hardest to describe. The report is incomplete if it records only the sensation of exposure and omits the Bird's own position, which is that it is holding something for somebody and has never been relieved of it. |
+| **Post-contact review** | Enter what shifted, what held, and the detail the observer could not get onto the page. On this file the sheet is incomplete if it carries only the feeling of being seen: the Bird is holding something on somebody's behalf, and nothing has ever relieved it of the charge. |
 
-**Observation method:** Record the eye count and bearing, the first sensation reported, the measurable change in the chamber — there is rarely one — and the condition that ends the encounter, which is the completion of the watch and not the calming of the entity. The entity does not require calming.
+**Observation method:** Log the eye count with its bearing, whatever sensation is reported first, any measurable change in the chamber — there is rarely one — and the condition the encounter ended under, which is the completion of the watch rather than any settling of the Bird. Nothing here needs settling.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -287,11 +287,11 @@ A lean, damp, deep-water-coloured bird bearing exactly one hundred and forty-fou
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Observing Bird; the other feeds it.
+> Two ways to close a watch on the perch, and the file prices them by what the worker does with their own face: one meets the gaze and holds it, and the other is the turn of the head that every instinct in the room asks for.
 
-| Look at the Bird and accept its gaze. | Substitute your own judgement, which on The Observing Bird has never yet cost less than the condition. |
+| Look at the Bird, take the gaze, and hold it for the length of the watch — the eye count kept, the sheet filed before entry, nothing represented that is not so. | Substitute your own judgement, as the record shows people doing: turn the head, work past the perch and file it afterwards, or tell the Bird something that is merely convenient. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is witnessed; The Observing Bird is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Observing Bird withdraws without revelation. |
+| The watch runs its full length, the eyes stay open, the count goes into the day book unchanged, and the entry closes with the holding recorded whole. | The gaze is broken and the room goes tight; the gauge climbs and the entry closes with the holding turned away and the disclosure sheet still unwritten. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -306,20 +306,20 @@ The eyes find you before the shape does — one on your face, one on your hands,
 
 **When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Lament pressure spikes — not gradually but like a door slamming open. The Subject-Body shifts from presence to action.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** The door seals and the pressure comes down, but the watch leaves a residue behind it: Lament held in the suit fibres, in the recollection, and in that thin space between thoughts where a Fracture starts.
 
 ### Interaction Pattern
 
-The Observing Bird does not exist in isolation. Its recorded relationships with The Weighting Bird, The Guarding Bird, The Convergence, The Kind Healer, The Maw should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Five holdings stand in the Bird's working range — The Weighting Bird, The Guarding Bird, The Convergence, The Kind Healer and The Maw — and none of the five is friend or enemy to the perch. Where a pairing is run, enter whether the answer moved in sound, movement, temperature, memory pressure, gauge or containment stability, with distance, duration and trigger beside whatever remains once the two are apart.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Record each holding on its own first; pair data means nothing without the solo baseline to read it against. Where two do meet, take the range, the duration, the trigger, the gauge on both sides, the field effect and the residue after separation, and set down whether the meeting calmed, amplified, echoed or redirected the sorrow that started it. A steady pairing is a hypothesis and never a rule: re-verify each cycle, since either holding can change overnight, and a Sorrow Tide, an Ordeal, a breach or a transformation event can invert a dynamic that stood for years.
 
 
 ### Entity Interaction Record
 
 The Observing Bird must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Bird's neighbour | How the two have stood | What the perch watch noted | What the entry must hold |
 |---|---|---|---|
 | **The Weighting Bird** | Sees what the Weighter measures. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Guarding Bird** | Watches what the Guardian protects. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
@@ -370,12 +370,12 @@ Some sorrows act. The Observing Bird only watches — and the watching is its so
 - Formed from the four hundred and eleven witnesses at the Forgotten Market cordon, Year 2847; their depositions survive in full and were never determined.
 - Its record of the fire is complete from four hundred and eleven points of view, has been decoded in part, and cannot be used by anybody for the purpose it would obviously serve.
 **Cross-References:** The Three Birds · The Weighting Bird · The Guarding Bird · The Convergence · the deposition bundle of Y2847 · the Decode Study Y4247–Y4252 · the jurisdiction opinion · the internal-proceedings decode practice
-**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** SED, on the B-territory survey · UCD, for the Fray-adjacent ground · Wound Walkers, on the Fracture reading and the decode register they consult
 **Originator:** The witnesses at the cordon. Four hundred and eleven of them, named in a schedule the Archive still holds, none of whom was ever called.
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument and are read together: the Bird's record is accurate to a degree no human testimony reaches, the forum that could have determined the depositions no longer exists and its jurisdiction did not pass to anybody, and the facility has made the decode admissible in the one kind of proceeding where the problem does not arise — its own. Where observation contradicts this record, preserve the contradiction rather than normalising it.
+**Operational interpretation:** The three sections below are one argument and hold only read together: the Bird's record is accurate past anything human testimony reaches; the forum that could once have weighed the depositions no longer sits and its jurisdiction passed to nobody; and the facility has made the decode admissible only in the kind of proceeding where that problem cannot arise — its own. Where a watch contradicts what is written here, the contradiction is kept as found rather than smoothed away.
 
 **Review requirement:** After every breach, Tide, Ordeal or unusual interaction, re-verify the eye count, the decode channel's accuracy against a fresh corroborated event, the standing of the internal-proceedings practice, and the status of the commission of inquiry proposal, which is to be reported as outstanding for as long as it is outstanding.
 ## Warden Record

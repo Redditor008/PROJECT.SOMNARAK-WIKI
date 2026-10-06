@@ -1716,6 +1716,19 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 32, unit 3: The Observing Bird `C-IIIγ-031` closed.** Measured at `1faa7c8`: **4 dirty sections**, worst
+Final Observation 0.254, then Flavor Text 0.073, Combat Record 0.070 and M.A.W. Equipment 0.051 — **closed in a single
+wave** (24 sites); 7,838 → **8,105 words**; `tpl.py` residue 0; `verify.py` residual 0; `sectfile.py` **0 section(s)
+over 0.05**; `wikistd.py` meets **True**, series held. Disclosed: the interaction method and the tension phase were
+rebuilt whole-line from spliced generator tails; the condition read **False** on the first attempt (a non-matching
+phrasing), was re-registered as `suppression condition: **look at the Bird and accept its gaze**` and held **True**.
+Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean
+@fc@ / 302. **Batch 32 stands at three of seven.**
+
+**Housekeeping sweep, disclosed:** the relation-table header shared across ten holders (b30–b32 units) hit the residue
+threshold; each was reworded uniquely in place — no prose or figures changed — and the register returned to 0 lines /
+0 carriers / 302 of 302 (`1faa7c8`).
+
 **Batch 32, unit 2: Briar `C-IIIγ-145` closed.** Measured at `0373e98`: **5 dirty sections**, worst Final
 Observation 0.145, then Breach Behavior 0.065, Registrum 0.060, Flavor Text 0.054 and M.A.W. Equipment 0.050 — **closed
 in a single wave** (33 sites including the numerals bullet); 7,190 → **7,571 words**; `tpl.py` residue 0; `verify.py`
@@ -2168,6 +2181,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 32 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIIγ-031 The Observing Bird 지켜보는 새 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-031_The_Observing_Bird_%EC%A7%80%EC%BC%9C%EB%B3%B4%EB%8A%94_%EC%83%88.md "SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md")
 
 - SE-C-IIIγ-145 Briar 가시의 정원 — `cb95ccb` — PUSH VERIFIED — [[SE-C-IIIγ-145_Briar_가시의_정원]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-145_Briar_%EA%B0%80%EC%8B%9C%EC%9D%98_%EC%A0%95%EC%9B%90.md "SE-C-IIIγ-145_Briar_가시의_정원.md")
 
