@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-The behaviour table is a diagnostic and not a system: the classification and the origin explain why Flerehan calms this holding and agitates others, and nothing here transfers to another entity with a similar name. Mourner's Bloom is an Object/Place with an Object-Lament manifestation and a Lament expression, held at Zone D in the Echo Gardens. Read the table with the vault in mind — it blooms near grief, wilts near forced happiness, and its only working disposal is a petal matched to a claimant, which dissolves on receipt. A stable gauge is not a safe encounter: observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
+Use the table as a diagnostic, never as a system: the classification and the origin are what explain why Flerehan calms this bloom and agitates others, and nothing on this file can be carried over to a differently-named holding. Mourner's Bloom is an Object/Place with an Object-Lament manifestation and a Lament expression, held at Zone D in the Echo Gardens. Read the table beside the vault register — the bloom opens near grief, wilts near forced happiness, and the only disposal it has is a petal matched to a claimant, which dissolves on receipt. A steady gauge is no guarantee of safety: observation can leave the gauge flat while still exposing the worker to memory, environmental or identity effects.
 
 **Reading the response:** A falling count means a petal was matched to its owner and claimed. Stability under Viderehan is correct. The count rises each time a moment is taken and filed by date alone, and the vault's own rule against recording whose moment is in which is the reason the count has only ever risen except in the year the register was opened.
 ## Activation Behavior
@@ -368,7 +368,7 @@ Mourner's Bloom is read beside the 3 holdings the file has paired it with — Th
 
 It is filed with the Echo Gardens records, which now run to five. The relationships below are what the archive will support. They are not alliances; each concerns grief held somewhere other than in the person it belongs to, and in proximity this one sheds nothing and takes nothing.
 
-| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
+| Paired record | Claimed resemblance | Observed in company | File keeps |
 |---|---|---|---|
 | **The Weeping Willow** | Willow leaves settle around the Flower. | Settling is what the willow does; nothing has been established beyond it, and the row records what has been seen and nothing that it implies. |
 | **The Grieving Fountain** | The Fountain feeds its roots. | Water reaching the roots is observed; whether the bloom takes anything from the fountain has never been separated from the fountain's own effect. |

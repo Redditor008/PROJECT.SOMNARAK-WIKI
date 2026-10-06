@@ -351,7 +351,7 @@ Broken Compass is read beside the 3 holdings the file has paired it with — The
 
 Broken Compass must be kept distinct from the other orientation holdings. The Wandering Door moves the way through a place; this one leaves the place exactly where it is and takes away the means of being sure of it. The distinction decides which survey party is sent and which instruments they are allowed to bring.
 
-| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
+| Related record | Basis claimed | Observed result | Entry owed |
 |---|---|---|---|
 | **The Echo Compass** | Both answer to grief rather than to magnetism, and placed together they slow toward each other and then resume, every time, without ever settling. | Counts fall by about a fifth on both for the duration. Nothing else changes. | Paired counts on one sheet, with the slowing intervals timed to the second. |
 | **The Wandering Door** | The needle slows toward thresholds the Door has used and no longer occupies, which has twice told the survey where the Door had been. | Slowings cluster on vacated positions; the Door is unaffected and the information does not survive separation. | Plot the slowings against the Door's own position log, same hours, two crews. |

@@ -361,7 +361,7 @@ Devouring Bloom is read beside the 3 holdings the file has paired it with — Th
 
 This holding is read against the other things in Somnarak that accumulate and are never cleared, and the 3 rows below are filed points of contact rather than alliances: none is settled. All 3 are slow, which makes them easy to measure and just as easy to over-interpret — 9 years of this section's record holds only a few hundred usable front readings, and a result obtained once carries no authority during a Sorrow Tide, an Ordeal or a transformation.
 
-| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
+| Paired holding | Stated basis for the pairing | Co-presence result | Required entry |
 |---|---|---|---|
 | **The Sorrow Flower** | A resemblance that has repeatedly been mistaken for a relationship, including in two survey reports. | Five co-presences, no measurable effect on the front, the weight at the front, or the gauge in either direction. The wing's note is that the two have nothing in common but a shape. | The five co-presences and the standing correction to the survey reports. |
 | **The Broken Whisper** | Both hold what was said to the dead, which is a description of their origins and not of any observed exchange. | Three co-presences. No transfer, no amplification, no change in front rate; the Whisper's own series was likewise unaffected. | The three co-presences and both unchanged series. |

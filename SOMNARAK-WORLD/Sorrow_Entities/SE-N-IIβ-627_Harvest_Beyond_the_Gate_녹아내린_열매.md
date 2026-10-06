@@ -329,7 +329,7 @@ Harvest Beyond the Gate is read beside the 3 holdings the file has paired it wit
 
 Harvest Beyond the Gate must be kept distinct from the other produce holdings. The Last Fruit keeps a want that could not be voiced; this one keeps a competence that had nowhere to be used, which is why its instrument is a frontage and not a hunger.
 
-| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
+| Companion place | Grounds for the comparison | What was seen when both stood together | Note required |
 |---|---|---|---|
 | **The Exile's Gate** | Not a pairing but a geography: the holding grows along the Gate's path and nowhere else, and its frontage advances only in the direction people walk. | Growth tracks traffic through the Gate with no measurable lag. | Pace the frontage against the Gate's own tally. The two series are filed as one sheet. |
 | **The Returning Fruit** | The resemblance is in the name and nothing else. Brought within range, that holding's fruit keeps and this one's still goes, side by side, in the same hour. | No change in either. The clearest demonstration that keeping is not what is missing here. | Photograph both at the same ripeness. Record the time each takes to go. |

@@ -336,7 +336,7 @@ The Kind Healer is read beside the 5 holdings the file has paired it with — Th
 
 The Kind Healer must be kept distinct from the holdings it is often filed beside. Unheard keeps words that were said and had no standing; this one keeps a condition nobody else happened to look at, which is why its figure is a shudder length and not a radius. Its own chain — Blessing Giver, Apostle Maker, and the two twelfth-blessing outcomes — is a separate matter from its interactions and must not be read as one.
 
-| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
+| Companion record | Why the two are read together | Observed behaviour under co-presence | Entry the file requires |
 |---|---|---|---|
 | **The Smothering Mother** | The two keep station together and neither interferes with the other. Personnel between them find themselves unable to leave the space, gently and completely. | Movement restriction without force. Four pairings, four cases of personnel detained for the duration. | Record who was held and for how long. Pairings run only with a Warden outside the space holding the door. |
 | **The Orphaned Bell** | It attends the Bell and can do nothing with it. It stays regardless, for the whole of the pairing, and shudders without having treated anything. | No change in either gauge; the shudder occurs anyway and runs long. | Time the shudder. It is the only recorded instance of the response without a treatment. |

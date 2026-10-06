@@ -343,7 +343,7 @@ Floating Tree is read beside the 3 holdings the file has paired it with — The 
 
 Floating Tree must be kept distinct from the rooted holdings in the Desolate series. The Returning Tree keeps a place that people can still go to; this one keeps a people that no longer has a place, which is why it drifts and why the shadow is the only part of it anybody can measure.
 
-| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
+| Companion holding | Basis of comparison | Co-presence findings | Record required |
 |---|---|---|---|
 | **The Returning Tree** | Brought within sight of a tree that is rooted, this one holds against the current for as long as the sighting lasts — the only occasions on record of it resisting a current at all. | Up to four hours of station-keeping, then it resumes. Shadow unchanged. | Time the hold and record the current it is holding against. Do not attempt to extend it. |
 | **The Spreading Root** | The Root grows upward beneath it and has reached within two metres on one occasion. No contact has been made and the Tree does not descend. | No change in shadow, bearing or gauge. The approach has never been completed. | Measure the gap at closest approach. Both holdings continue as normal afterwards. |

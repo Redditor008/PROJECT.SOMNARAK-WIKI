@@ -311,7 +311,7 @@ Torn Flower is read beside the 3 holdings the file has paired it with — The So
 
 Torn Flower must be kept distinct from the other Echo Gardens files. The Sorrow Flower is a thing that grew and was let alone; this one is a thing that was finished and not seen. The distinction decides whether the Gardens' own staff are asked to attend a session.
 
-| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
+| Record paired | Comparison basis | What the pairing produced | Entry to make |
 |---|---|---|---|
 | **The Sorrow Flower** | It grows alongside at a hand's distance and never contacts the split; the gap has been measured at four to six centimetres on every occasion. | Reach drops on both; tear position unchanged. The steadiest pairing recorded in the wing. | Measure the gap to the millimetre and leave both alone for the hour. |
 | **The Garden of Thorns** | Thorn growth closes around the crack and will not permit a hand through it, which prevents the one thing that makes this holding dangerous. | Spore fall halves; no worker can reach the bloom while the thorns stand. | Record the thorn line, the spore weight, and the fact that the protection is of personnel from themselves. |

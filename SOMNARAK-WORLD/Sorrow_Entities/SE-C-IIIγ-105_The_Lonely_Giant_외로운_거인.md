@@ -324,7 +324,7 @@ The Lonely Giant is read beside the 4 holdings the file has paired it with — T
 
 The Lonely Giant must be distinguished from the burden holdings it is grouped with. Hollow Tree keeps work that was never toward anything; this one keeps people who were never refused anything and for whom nothing issued fitted, which is why its figure is a distance walked rather than a weight borne.
 
-| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
+| Other holding | Where the resemblance comes from | What was actually observed together | What the record keeps |
 |---|---|---|---|
 | **The Kind Healer** | The Healer examines it at length — the longest examination in that holding's record — and finds nothing to treat. There is no wound here, only a size. | No movement in either gauge. The Healer's shudder occurs anyway and runs long. | Time the shudder and log the examination's duration. Both figures belong in the Healer's file too. |
 | **The Forgotten Soldier** | The Soldier comes to attention and holds it while the Giant passes. The Giant stops, every time, and waits until the salute ends before going on. | Route length falls by about a kilometre on the days this occurs. | Record the halt and the following day's distance. This is the only thing that shortens the walk. |

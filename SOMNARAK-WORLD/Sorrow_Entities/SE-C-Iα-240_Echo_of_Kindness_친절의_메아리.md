@@ -325,7 +325,7 @@ Echo of Kindness is read beside the 3 voice holdings the file has paired it with
 
 Echo of Kindness must be kept distinct from the other voice holdings. The Hollow Echo gives back what was shouted into it; this one gives back only what was given away, and gives back nothing at all for anything done to order. The distinction is the entire finding of the Commons series.
 
-| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
+| Holding | Reason for the pairing | Measured co-presence | Required note |
 |---|---|---|---|
 | **The Hollow Echo** | It returns what was shouted; this one returns what was given. Placed in the same square they do not interfere and the counts stay separable, which is how the pair was told apart in the first place. | Both counts unchanged. The Hollow Echo repeats; this one does not repeat anything that was not freely done. | Keep two tallies on one sheet and mark which column each utterance belongs in. |
 | **The Kind Healer** | Returns rise sharply while the Healer is working in the square — forty-one in the month of the last attendance — and fall back within a fortnight of its leaving. | The largest single movement in the series. The Healer is unaffected and the effect does not persist. | Count daily through the attendance and for a fortnight after. |

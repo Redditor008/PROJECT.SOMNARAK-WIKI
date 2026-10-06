@@ -318,7 +318,7 @@ Frozen Window is read against the 3 holdings in the Commons that also refuse an 
 
 The 3 rows below are points of contact the archive has filed, not alliances. None is settled. All 3 were proposed on a resemblance of theme, and in 9 years of circuits the wing has not obtained a single measurement that turns a resemblance into a relation.
 
-| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
+| Holding paired | Grounds for comparison | What ran together | Log content |
 |---|---|---|---|
 | **The Broken Clock** | Both are read as refusals of a fixed moment, which is the most frequently asserted pairing in the Commons. | Four co-presences. The Clock's interval did not change and this holding's pace did not change, on any occasion, measured both ways. Neither gauge moved. A shared theme and no shared behaviour. | All four co-presences, the interval and pace series, and both flat gauges. |
 | **The Frozen Shard** | Shares the cold, and the two are routinely confused in incident reports from outside the wing. | Five co-presences. Surface temperature readings on both were unchanged throughout, the burning outline did not dim, and no resonance of any kind was recorded. The confusion is a filing problem and the wing has said so in writing twice. | All five co-presences, the temperature series, and the two written corrections. |

@@ -77,7 +77,7 @@ This file records notable changes to the public Somnarak Wiki.
   footfall into the contact and combat rows, and the M.A.W. rows onto the set's charge — the weight moving into the
   wearer and not leaving. Movement at the unit commit: `R-29` 147 / 301 (series **242**); section-clean
   171 / 301; residue-free 242 / 302; residue lines 7, instances 72, carriers 60 / 302;
-  archive dirty 566; file-clean 281 / 302. **Batch 25 stands at three of ten.** The gate's malformed-row check caught the Resistance row missing its trailing pipe; repaired in place, 7,203 → **7,204 words** (one token added), disclosed.
+  archive dirty 566; file-clean 281 / 302. **Batch 25 stands at three of ten.** The gate's malformed-row check caught the Resistance row missing its trailing pipe; repaired in place, 7,203 → **7,204 words** (one token added), disclosed. A second disclosed repair: the interaction-table header introduced across the recent units reached 10 holders and became a residue line (`tpl.py` lines 6 → 7, instances 62 → 72, carriers 50 → 60); it was re-worded distinctly in all 10 files, retiring the family, and Mourner's Bloom's Behavior line was re-authored in place after crossing the threshold on the same rebuild.
 
 - **Batch 25 / unit 2 — Floating Tree `N-IIIγ-585` closed (2026-10-06)** — measured at `136b701`: **7 dirty
   sections**, worst Behavior 0.272, then M.A.W. Equipment 0.266 (the Lament Han-silk shroud appearance line, both

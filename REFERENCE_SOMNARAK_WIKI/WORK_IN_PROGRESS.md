@@ -1685,7 +1685,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 
 **Batch 23 — OPEN, five targeted; finished dossiers, each with its SE git link and closing commit** ([`R-12`](RULES/R-12_REFER_TO_GITHUB.md); links generated with `tools/ghlink.py`):
 
-- SE-C-IIIγ-105 The Lonely Giant 외로운 거인 — `87f2d72` — PUSH VERIFIED — [[SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-105_The_Lonely_Giant_%EC%99%B8%EB%A1%9C%EC%9A%B4_%EA%B1%B0%EC%9D%B8.md "SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md")
+- SE-C-IIIγ-105 The Lonely Giant 외로운 거인 — `4fa8f39` — PUSH VERIFIED — [[SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-105_The_Lonely_Giant_%EC%99%B8%EB%A1%9C%EC%9A%B4_%EA%B1%B0%EC%9D%B8.md "SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md")
 - SE-N-IIIγ-585 Floating Tree 떠다니는 나무 — `d6c19ef` — PUSH VERIFIED — [[SE-N-IIIγ-585_Floating_Tree_떠다니는_나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-585_Floating_Tree_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%EB%82%98%EB%AC%B4.md "SE-N-IIIγ-585_Floating_Tree_떠다니는_나무.md")
 - SE-N-IIβ-627 Harvest Beyond the Gate 녹아내린 열매 — `c20408e` — PUSH VERIFIED — [[SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-627_Harvest_Beyond_the_Gate_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md")
 - SE-C-Iα-071 The Kind Healer 친절한 치유자 — `9319456` — PUSH VERIFIED — [[SE-C-Iα-071_The_Kind_Healer_친절한_치유자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-071_The_Kind_Healer_%EC%B9%9C%EC%A0%88%ED%95%9C_%EC%B9%98%EC%9C%A0%EC%9E%90.md "SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md")
@@ -1715,7 +1715,7 @@ Observation 0.329, then M.A.W. Equipment 0.228, Behavior 0.208, Registrum 0.189,
 `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0**; `sectfile.py` **0 section(s) over 0.05**;
 `wikistd.py` meets **True**; all three clauses already True and left alone (`R-05`). Movement: `R-29` 147 /
 301 (series **242**); section-clean 171 / 301; residue-free 242 / 302; archive dirty 566;
-file-clean 281 / 302. **Batch 25 stands at three of ten.** Gate pipe repair on u3's Resistance row added one token (7,203 → 7,204), disclosed.
+file-clean 281 / 302. **Batch 25 stands at three of ten.** Repair, disclosed: the new interaction-table header used across the batch-23/24/25 units reached 10 holders and became a residue line archive-wide (`tpl.py` lines 6 → 7, instances 62 → 72, carriers 50 → 60); it has been re-worded distinctly in all 10 files — the family is retired — and Mourner's Bloom's Behavior line, whose stock formulation also crossed the shared threshold on the same rebuild, was re-authored in place. Measurements return to lines 6, instances 62, carriers 50 / 302. Gate pipe repair on u3's Resistance row added one token (7,203 → 7,204), disclosed.
 
 **Batch 25, unit 2: Floating Tree `N-IIIγ-585` closed.** Measured at `136b701`: **7 dirty sections**, worst Behavior
 0.272, then M.A.W. Equipment 0.266, Registrum 0.190, Final Observation 0.121, Trivia 0.087, Flavor Text 0.076 and
