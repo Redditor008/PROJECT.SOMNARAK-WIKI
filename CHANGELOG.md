@@ -63,6 +63,25 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 26 / unit 2 — Border Tree `O-IVδ-151` closed (2026-10-06)** — measured at `e48e45d`: **7 dirty
+  sections**, worst Behavior 0.268 (the gauge note and the reading response), then Final Observation 0.167 (the
+  choice blockquote and both result rows), Flavor Text 0.095 (the four contact lines, the interaction method, the
+  header row, the procedure and the isolation line), Trivia 0.074 (classification and field rows), Combat Record
+  0.070 (the resistance row, four combat actions and the Tension, Resolution and Resilience lines), Story Log 0.063
+  (Entry 1's `is logged as ` and the stock tale) and M.A.W. Equipment 0.062 (both appearances, both costs, the
+  weapon ability, the charm ability and note, the set note, the four field-use rows and the stat interpretation).
+  All seven closed in two waves (28 + 20 sites; the first aborted once on a mis-counted assert — guard 23, a safe
+  redo); 8,143 → **9,067 words**; `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0** (Story Log Entry 1);
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. All three clauses were already
+  **True** and left alone (`R-05`) — the condition registered as the line-start `Management:` row in Entry 4, which
+  was rewritten in place with the registration kept. The stock pieces went onto the ground: the survey figures
+  (14 / 23 / 34 metres, the Year 4186 instrument) and the standing instruction against sealing into the entry
+  lines, the condition (negotiate the boundary, acknowledge both sides) into the resolution and the choice block,
+  and the M.A.W. rows onto the set's charge — a bearer who can no longer cross a line they drew themselves.
+  Movement at the unit commit: `R-29` 155 / 301; section-clean 179 / 301; residue-free 292 / 302; residue
+  lines 1, instances 10, carriers 10 / 302; archive dirty 494; file-clean 292 / 302. **Batch 26
+  stands at two of five.**
+
 - **Batch 26 opens at five / unit 1 — Soaking Shard `C-IVδ-219` closed (2026-10-06)** — measured at `825b166`:
   **7 dirty sections**, worst Story Log 0.329 (Entry 5's stock tale, Entry 4, and Entry 1's `is logged as `),
   then M.A.W. Equipment 0.170 (three film appearances, two costs, the blade ability, the pendant effect, the

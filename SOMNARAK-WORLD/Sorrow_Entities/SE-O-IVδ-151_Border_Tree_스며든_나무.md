@@ -40,7 +40,7 @@
 
 - A good cycle slows the creep and loosens the roots already under a floor. It does not recover a metre. Ground this holding has taken, it keeps, and that is the single most important sentence in the file.
 - A rising gauge, a failed cycle, or a new border dispute anywhere in Zone E will start the expansion recorded below; the Tree does not need to be provoked directly to begin moving.
-- The 20–28 Han-Energy yield is paid for in ground: every cycle worked at close range leaves the working party inside the footprint the roots will occupy next, so recovery rotations must be scheduled against the expansion rate, not against the clock.
+- The 20–28 Han-Energy yield is paid for in ground: every cycle worked at close range leaves the working party inside the footprint the roots will occupy next, so recovery rotations are scheduled against the creep rather than against the roster, and the survey goes out with the crew every time.
 - Extracting M.A.W. material means cutting living root, which the Tree registers as a new border drawn across itself; schedule extraction as its own operation with its own expansion forecast.
 
 ## Combat Record
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Grudge pressure; 35% against other pressure types |
+| **Resistance** | 45 per cent against Grudge pressure and 35 against anything else, with the file's own note that nothing here is exchanged: the Tree does not duel, it creeps and it grows, and a party resists the pressure of ground going out from under them. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Grudge |
@@ -77,21 +77,21 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Fast Seed* [**Debuff**] } | "A seed lands at your feet — and before you can step away, it is already a sapling, already reaching for your ankle." | [The Tree's accelerated growth rate is terrifying; the target cannot outrun it.] | *Target suffers -10 Resilience; the growth is too fast.* **[10 Grudge DMG [Grudge]]** | When the target stands near the Tree. |
-| { *The Root Network* [**Debuff**] } | "Roots spread underground — faster than walking — and they are heading for the foundations of everything." | [The Tree's subterranean expansion undermines all structures.] | *Target loses 10 Resilience; the ground itself is being colonized.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
-| { *The Whipping Branch* [**Attack**] } | "A branch grows toward you in real-time — extending, reaching, and whipping." | [ A rapidly-grown branch lashes out.] | *Inflicts Grudge pressure and one fast, woody strike.* **[14-22 Grudge DMG [Grudge]]** | When the Tree is cut. |
-| { *The Full Bloom* [**Attack**] } | "The tree reaches full size in seconds — canopy, trunk, root system — and the sudden mass is staggering." | [The Tree's complete instantaneous growth releases enormous biological energy.] | *A heavy Crimson biomass-explosion; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Tree is uprooted. |
-| { *The Instant Forest* [**Ultimate**] } | "Trees erupt across the entire field — each one growing to full size in seconds — and the forest consumes everything." | [The Tree extends its spreading across the whole area.] | *All in range suffer Grudge pressure for three turns of instant forest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Fast Seed* [**Debuff**] } | "A seed lands at your feet — and before you can step away, it is already a sapling, already reaching for your ankle." | [The growth rate is turned on a single spot, and the spot is wherever the party is standing.] | *The roots mark the ground as theirs: -1 to movement, and the sapling anchors where it fell.* **[1 Grudge DMG [Grudge]]** | When the party stops moving. |
+| { *The Root Network* [**Debuff**] } | "Roots spread underground — faster than walking — and they are heading for the foundations of everything." | [The subterranean line extends under the party's position, and the file records it as a border being drawn beneath their feet.] | *Foundations under the target are undermined: anything built on the ground below records -1 stability.* **[1 Grudge DMG [Grudge]]** | When a severance is published anywhere in Zone E. |
+| { *The Whipping Branch* [**Attack**] } | "A branch grows toward you in real-time — extending, reaching, and whipping." | [A limb is grown along the line the party is standing on and used to close it.] | *Inflicts Grudge pressure and one flowering lash-wound.* **[1 Grudge DMG [Grudge]]** | When the marker line is crossed. |
+| { *The Full Bloom* [**Attack**] } | "The tree reaches full size in seconds — canopy, trunk, root system — and the sudden mass is staggering." | [The whole mass arrives at once, and the staggering thing is the ground that is now under it.] | *A heavy Crimson biomass-explosion; the gauge jumps 15 at a stroke.* **[24-36 Grudge DMG [Grudge]]** | When the boundary is contested. |
+| { *The Instant Forest* [**Ultimate**] } | "Trees erupt across the entire field — each one growing to full size in seconds — and the forest consumes everything." | [The creep stops being measurable and becomes the ground: the whole field is inside a footprint that arrived in seconds.] | *Every worker in range takes Grudge pressure across 3 turns of instant forest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The party establishes which side of the Tree's current boundary it is standing on, maps the roots already under the surface, and confirms that Viderehan and Ferrehan are the only responses available to it.
+1. **Tension:** The first job is a survey, not an approach: establish which side of the current boundary the party is standing on, map the roots already under the surface, and confirm Viderehan and Ferrehan as the only responses authorised here. Nothing on this file is sealed, because sealing anything is the one measure that reliably makes the holding worse.
 2. **Clash:** Over a long twenty-four-turn encounter the party works Viderehan and Ferrehan against 910 points of accumulated grievance while roots come up through the floor behind them; at 45% resistance to its own Grudge pressure the Tree cannot be out-damaged, only out-negotiated.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Negotiate boundaries and acknowledge both sides of the loss**.
+3. **Resolution:** **Negotiate boundaries and acknowledge both sides of the loss**. The condition is met when the party has stated the line as it now runs, has named what was on each side of the original drawing, and has left without driving a marker of its own into the ground; a cycle that ends with something newly sealed is filed as a border drawn across the Tree, and the file treats that as a provocation, not a result.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Resilience**, funneling cognitive instability back into the Sorrow Gauge.
+- A worker who cannot hold becomes a conduit rather than a casualty: the pressure takes their **Resilience** down with it and the Tree receives the instability back, which is how a working cycle turns into an expansion the forecast already listed.
 - Prolonged exposure does not escalate in intensity so much as in geography: a worker who stays too long begins to experience the containment wall as a national border, the corridor behind them as foreign territory, and their own posting as an exile they consented to.
 - Every piece drawn from the Tree takes payment in the same currency the Tree deals in — the bearer loses the ability to cross something. A line they drew, a doorway they once used, a person they are no longer able to approach; the debit is never recorded as damage and never appears in a grade ledger.
 - Nothing about this grievance resolves on its own, because a border does not forget where it was drawn. Left unaddressed, the roots simply continue under the foundations until the expansion behaviour recorded below begins on its own schedule.
@@ -142,9 +142,9 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Border Tree is recorded as an Object/Place with Place-Grudge manifestation and Grudge elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the gauge only beside the ground: this holding's response depends on element, coherence and manifestation, and on which side of the line the party is standing. Border Tree is an Object/Place with a Place-Grudge manifestation and Grudge elemental expression, held at Zone E in the border region, where every cycle is measured in metres of creep rather than in gauge points. A good cycle slows the creep and loosens the roots already under a floor; it does not recover a metre, and ground this holding has taken it keeps.
 
-**Reading the response:** Viderehan holds the gauge stable because being seen is not what the Tree wants; it shows the worker every boundary that ever crossed this ground and is neither soothed nor inflamed by the showing. Ferrehan lowers the gauge because endurance between territories is the only answer the grievance accepts — a worker who stands in the gap without choosing a side demonstrates the thing the settlement was never permitted to do. Falling pressure here means the Tree has been heard, not that it has withdrawn; the roots do not retreat. If the gauge rises during Ferrehan, the worker has taken a side, and the record of which side they took is more valuable than the cycle that was lost.
+**Reading the response:** Viderehan holds the gauge steady because being seen is not what the Tree wants, and it is neither soothed nor insulted by the watching: what moves the number is Ferrehan, and what Ferrehan costs is the worker standing on the line itself for the full interval without stepping to either side. A rising gauge means a line somewhere in Zone E has been redrawn or disputed, and the answer is a new survey rather than a harder push.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -217,15 +217,15 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 **Falloff Rule:** 100% at the point of entry, 70% through the second body and 50% through the third, as the alkaloid load carried on the blade is spent along the line.
 **Damage Application:** The laceration and the alkaloid resolve separately — the cut scored once, the burn scored again on each following interval against the same resistance. Bearers are rotated out of the district after three applications, because the charge from this set is the loss of a crossing and the bearer never notices which one.
 
-**Ability:** Creates a barrier that prevents hostile crossing.
+**Ability:** Raises a barrier nothing hostile can cross — grown along a line the bearer chooses, which is the holding's own gesture and never a neutral one.
 
-**Cost:** The wielder becomes unable to cross a boundary they have created.
+**Cost:** The bearer cannot cross a boundary they have created: the tanto's line holds them on the far side of it, and the set's own note is that bearers learn this at the worst possible moment.
 
 ### M.A.W. Suit — The Border Plate
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance:** a plated Grudge Han-iron harness, dark and warm to the touch, that tightens as it nears the source element — inside the creep line the plate draws in against the ribs, and bearers read the squeeze as the boundary's own distance.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -235,40 +235,40 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Han-iron plate that stiffens against Grudge pressure, holding the wearer's body together under the crushing weight of roots and the slow structural failure of anything the Tree has grown into.
+**Ability:** Han-iron plate that stiffens against Grudge pressure and holds the wearer's body together under the weight of roots and the slow failure of anything the Tree has grown — worn on this post because the work is standing still while the ground moves.
 
-**Cost:** The harness tightens as it nears its source and will not loosen afterwards; the wearer moves at the Tree's pace, deliberate and unhurried, and finds that stepping out of the way of anything has become a decision rather than a reflex.
+**Cost:** The harness tightens near its source and does not loosen after: the wearer moves at the Tree's own pace, deliberate and unhurried, and finds that stepping aside from anything has become somebody else's decision — which is how every stand-down on this set has been caught.
 
 ### M.A.W. Stigma — The Border Charm
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a small charm of Grudge Han-iron, dark and warm in the palm, that takes light at an angle nothing else in the room does; near a map table it reads warm, and near a freshly drawn line it reads warmer, which is the whole of its use.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 to the bearer's rating while working Border Tree, conditional on the bearer remaining on the side of the boundary they began the cycle on
+**Effect:** +3 while working this holding, and only while the bearer stays on the side of the boundary they started the cycle on: the charm's whole value is the reading it gives, and it goes blank the moment the bearer has crossed something.
 
-**Ability:** The charm lets its bearer feel where a line has been drawn before anyone announces it — useful during negotiations, intolerable at home.
+**Ability:** The charm lets its bearer feel where a line has been drawn before anybody announces it — useful at a negotiation table and intolerable at home, which the Armoury records as the reason it is issued for the season and not the year.
 
-**Cost:** The bearer's temper shortens.
+**Cost:** The bearer's temper shortens: lines that were never visible start feeling like lines, and the second worker watches for it at the return rather than during the rotation.
 
-*The Border Charm is given, not taken. It appears on a worker who completed a Ferrehan cycle without choosing a side, and no procedure has reproduced it deliberately.*
+*The Border Charm is given, not taken. It appears on a worker who has completed a Ferrehan cycle without choosing a side, and no procedure has ever reproduced it deliberately — the armoury's line is 4 per cent, and the file keeps the number as an open question rather than a rate.*
 
 ### M.A.W. Use Notes
 
-Each piece remains part of the Tree. The Bramble Tanto raises a barrier that nothing hostile can cross and then refuses to let its own wielder back over it; the Border Plate resists the pressure it was cut from and slows the body wearing it; the Border Charm reads boundaries and shortens the temper of whoever reads them. The pattern is consistent and is not a design flaw: this entity's whole grievance is that a line can be drawn by someone who does not have to live behind it, and its equipment declines to make that mistake twice. Anyone who wants the benefit lives behind the line too.
+All 3 pieces remain part of the Tree rather than extensions of an arsenal: the tanto raises a barrier and then refuses to let its own wielder back across it, the plate stiffens the wearer at the Tree's pace, and the charm makes every line in a room legible. The toll differs by piece but the shape is one — a bearer who can no longer step over what they drew — and the set is issued per season rather than per rotation for that reason.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Border Tree's known toll: the wielder becomes unable to cross a boundary they have created. Opened at the end of the rotation, not before. |
-| **During use** | Border Tree charging, which presents as this: the wielder becomes unable to cross a boundary they have created. The wielder's own account is taken separately and afterwards. |
-| **At limit** | The wielder no longer notices Border Tree's toll — the harness tightens as it nears its source and will not loosen afterwards — which is how every stand-down on this set has been caught. |
-| **After use** | Piece returned; re-assess a week later, because what Border Tree takes (the harness tightens as it nears its source and will not loosen afterwards) does not present on the day. |
+| **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline laid down by a second person: which side of the marker line does the bearer believe they are on, and does the survey agree? The charge on this set settles in as a refusal to cross, and the pre-check is a question about where somebody is standing. |
+| **During use** | The charge presents as a line the bearer stops crossing without noticing: a doorway avoided, a corridor walked the long way round, a room left by the wrong door. The hour goes into the log from the second worker's hand; the bearer's account is taken afterwards. |
+| **At limit** | The limit is invisible from the inside: the harness will not loosen, the crossing has stopped happening, and the bearer reports nothing at all. On a Border Tree piece the use ends there, and the call belongs to the observer. |
+| **After use** | The piece comes back and the bearer is re-assessed a week later, because this charge does not present on the day: the same second worker walks the bearer over a threshold they drew themselves and records whether they crossed, and where they did not the piece is not reissued. |
 
-**Stat interpretation:** The δ grades here describe what the equipment does to a target, and nothing else. Nothing in the damage figures records that a worker issued the tanto for a long encounter may finish it unable to walk back through a door they sealed themselves. Read the Cost line as the real specification and the numbers as a footnote to it.
+**Stat interpretation:** Grades describe extraction stability and nothing about human safety: the rating measures what a piece does to a holding, and on this set the bearer's toll — a refusal to cross a line of their own making — is filed beside it and is the heavier column. Read both, authorise on cost, and treat a low-rated piece carrying that charge as the ordinary case on the border.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -296,7 +296,7 @@ Each piece remains part of the Tree. The Bramble Tanto raises a barrier that not
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Border Tree (O-IVδ-151 [GP]) is logged as a Place-Grudge manifestation expressing Grudge, in the Zone E border region, where it is surveyed rather than contained. It formed from a boundary that moved once and never moved back, and it takes ground every year along the course of that boundary and gives none of it back.
+Border Tree (O-IVδ-151 [GP]) is a Place-Grudge manifestation expressing Grudge, in the Zone E border region, where it is surveyed rather than contained. It grew from a boundary that was moved through a living settlement: what stands now is a creeping tree whose bark is the courses of old walls and whose roots follow the map the line was drawn on, not the terrain. Ground it has taken it keeps, and the condition is to negotiate the boundary and acknowledge both sides of the loss.
 
 **Entry 2 — <Survey Marker Log, Zone E Perimeter>**
 Frontage taken, measured from fixed markers by two parties who do not confer: 14 metres, then 23, now 34 in the year. The advance follows the course of the Year 4186 instrument, not the terrain and not the current boundary, and it reaches markers in the order the instrument names them. Crimson leaf-fall accompanies every new severance determination published by the Office, within a day, which the watch has logged forty-one times.
@@ -307,55 +307,55 @@ Its leaves fall during border negotiations.
 The pain of belonging being defined by lines that separate families and communities.
 
 **Entry 4 — <Containment Notice>**
-Management: keep the crossings open and staffed, be seen using them, and read the severed addresses aloud when the Office publishes. Work response — Viderehan: every line ever drawn across the ground, in order. (Stable); Ferrehan: standing on the line for the full interval without stepping to either side. (Decrease).
+Management: keep the crossings open and staffed, be seen using them in both directions, and read the severed addresses aloud when the Office publishes. Work response — Viderehan: every line ever drawn across the ground, in order, including three the map series had lost (Stable); Ferrehan: the worker stands on the line itself for the full interval and does not step to either side (Decrease). Sealing anything is the one response that reliably makes this holding worse, and the file states that before it states anything else.
 
 **Entry 5 — <Standing Instruction to Zone E Wardens>**
-Do not barricade and do not seal. The bark is already made of walls; every corridor closed against this holding is another line it can grow along, and the gauge records it within the hour. Keep the crossings open, keep them staffed, and be seen using them. On the day the Office publishes the visit list, walk the crossing and read the severed addresses as you pass each one. This instruction has been in force for nine years and the wardens drafted it themselves.
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+Do not barricade and do not seal. The bark is already made of walls, and every corridor closed against this holding is one more line it can grow along — the gauge records it within the hour, and the survey records the metres within the season. Keep the crossings used, in both directions, and treat a refusal at a crossing as a line drawn rather than a boundary respected.
+What the file keeps instead of a story is a survey: frontage measured from fixed markers by two parties who do not confer, reading 14 metres, then 23, now 34 in the year, with the advance following the course of the Year 4186 instrument rather than the terrain. The number matters more than any account of it, because this is the one holding in the region whose grief can be measured in metres and whose metre has never been given back.
 
-**Threat rating:** Critical (δ). It takes ground permanently, cannot be pushed back to any earlier line, and answers only to Viderehan and Ferrehan. Effect: divided belonging, reported at full strength by personnel standing well outside the marked boundary.
+**Threat rating:** Critical (δ), on three counts the register states plainly: ground taken is never returned, no earlier line has ever been restored, and the holding answers only to Viderehan and Ferrehan. The effect is divided belonging at full strength — people standing on the far side of a line that was drawn after they moved in — and the file's standing order is a survey rather than a strategy.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Border Tree; the other feeds it.
+> Two ways to close the same cycle on the same ground. The file's way: state the line as it runs, name what stood on each side of the original drawing, and leave without planting anything. The other way is the tidy one — drive a marker, run a barricade, settle the matter where it stands.
 
-| Hold to the condition: Negotiate boundaries and acknowledge both sides of the loss. | Improvise something kinder, which is how every failure on Border Tree's file began. |
+| State the line as it now runs, name both sides of the loss aloud, and leave nothing planted in the ground — as written, whichever side the party walked in on. | Settle it: plant a marker, close a crossing, or move a boundary back, and the Tree registers a new line drawn across itself. |
 |---|---|
-| Tests whether the worker can remain between territories. The sorrow is named; Border Tree is fully recorded. | Shows every boundary that crossed the ground. The gauge climbs and Border Tree withdraws without revelation. |
+| The worker stands on the line for the full interval and does not choose a side: the creep slows by 1 reading against the last survey, and the record gains a metre's worth of honesty. | The ground is claimed in the worker's own name, however well meant: the roots take the line as theirs, the gauge climbs, and the survey books the advance against the season. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-The ground splits along an old boundary and roots rise through it. The Tree is beautiful from a distance, but every branch carries a fence, a checkpoint, or a house left on the wrong side. When you stand beneath it, you feel belonging divide into pieces.
+The ground opens along a boundary nobody had drawn for years and roots come up through it. From a distance the Tree is beautiful; up close every branch is carrying something — a fence, a checkpoint, a roof course, a house left standing on the wrong side of a line. What it reproduces is not grief in the abstract but the furniture of a decision, and the whole of the file's work is to keep from adding to it.
 
 
 
-**At first contact:** The bark is the thing that registers first, because it is not bark: it is courses of stone, the pattern of a wall, reproduced in living wood around a trunk the size of a building. Roots run under the ground you are standing on and they are already past the marker you were told was the boundary. Nothing moves while you watch. The marker will have moved by next cycle.
+**At first contact:** The bark registers first, because it is not bark: courses of stone, the pattern of a wall, grown into living wood around a trunk the size of a building. The smell is cut grass and wet stone, the whole shape is fever-cold, and the roots under the party's feet are already on their side of the line they thought they were standing behind. The identification is the marking itself — the trunk reproduces old walls, and nothing else in Zone E does.
 
-**With continued exposure:** Sustained contact reveals the entity's rhythm — the Grudge pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
+**With continued exposure:** The rhythm shows up in the survey before it shows up in the body: the advance keeps its pace, the leaves come down whenever an Office publication goes out, and the party's own marker line begins reading as a suggestion. Understanding the pattern does not make it easier to stand next to, and the file's rotation rule exists because the ground a crew works from is the ground the roots will occupy next.
 
-**When the entity activates:** Activation reshapes the room. The Grudge that was atmospheric becomes directed — aimed, purposeful, alive in a way the containment protocols anticipated but never fully contain.
+**When the entity activates:** Activation is a transformation of ground rather than a lunge: the Grudge that was atmospheric becomes directional, and the footprint moves outward along the lines the region has argued about most recently. The containment protocols anticipated the pressure and never the accuracy — the holding grows toward what people are already disputing, which is why the countermeasure on file is a survey team and not a cordon.
 
-**After departure:** Departure is not relief. The Place-Grudge is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** Leaving does not close the cycle: the party carries the line home, and the file hears about it as a refusal to cross ordinary thresholds rather than as grief. Follow-up is scheduled against the survey — the next reading of the frontage — and the worker's own account is taken by somebody who did not walk the boundary with them.
 
 ### Interaction Pattern
 
-Border Tree does not exist in isolation. Its recorded relationships with The Returning Tree, The Garden of Thorns, The Maw should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+This file reads Border Tree against the 3 records it has been paired with — The Returning Tree, The Garden of Thorns and The Maw — and all 3 are filed as resonance candidates, never as alliances or hostilities. Nothing on this holding can be measured without the ground, and the ground is what the pairing changes: a second record posted to Zone E alters which lines are live, and the file's rule is that the expansion rate comes first, the pairing second. A resemblance put these names together; a survey is the only thing that has ever moved them apart.
 
-**Interaction method:** Three uncontested cycles of expansion rate before any second entity enters Zone E; the variable here is metres of ground and it cannot be recovered once confused. Then log separation, whether roots turn toward the other presence or away, and the measurement specific to this holding — whether it treats the other as a neighbour sharing the ground or as a border to grow along. Those two look identical for several cycles and then diverge completely.
+**Interaction method:** Three uncontested cycles of expansion rate are taken before any second record enters Zone E, because the variable here is metres of ground and it cannot be recovered once it has been confused. Then log the pairing separately: range, duration, trigger, both gauges, the survey line each side of the test, and what the frontage reads a season later.
 
 
 ### Entity Interaction Record
 
-Border Tree shares Zone E with everything else posted to the border region, and unlike most entities it is slowly changing the terrain those relationships take place on. The interactions below are canonical, but each was recorded at a particular distance, and the distances are no longer what they were. Personnel must re-measure before assuming any of them still applies.
+The Tree shares Zone E with the rest of the border postings, and unlike nearly all of them it is slowly changing the terrain those relationships happen on — which the file takes seriously enough to date every entry by the survey rather than the year. The relationships below are canonical in that they have been observed and filed; none is settled, and 1 of them concerns ground that no longer belongs to the side it was recorded from.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Record posted alongside | Where the resemblance comes from | What the sharing of Zone E has shown | Entry the file requires |
 |---|---|---|---|
 | **The Returning Tree** | Their roots exchange memories of changed homes. | Untested. The forecast is that both advance and neither recedes, which would make the session's cost permanent ground. | Marker positions before and after, and which of the two holdings took the metres. |
 | **The Garden of Thorns** | Thorns grow along contested borders. | Tested twice at separation. Thorn growth turned to follow the Year 4186 course within one cycle; it has not turned back. | Thorn direction against the instrument's course, and whether the Garden treats this holding as neighbour or as line. |
 | **The Maw** | Both carry the sorrow of foundations built through exclusion. | Not to be attempted in Zone E. The Maw consumes ground and this holding keeps it; there is no reading worth the frontage. | Refusal recorded with reasons, per the Zone E standing order. |
 
-**Interaction procedure:** Markers fixed before contact, separation at first response, root direction during, gauge movement, divided-belonging reports from everyone present, and every marker resurveyed afterwards. The marker positions are the only reading that shows what the session cost, and the cost is permanent.
+**Interaction procedure:** Solo observation precedes every pairing, on this file more strictly than on most: know what each record does to the ground alone before watching what two of them do to it together. Enter the first shared change with range, duration, trigger, both gauges, the survey reading either side of it and the frontage a season afterwards, and mark any test run across a line that has moved in the meantime as void.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -478,8 +478,8 @@ Three instructions, handed on rather than issued. Read the refusals as well as t
 
 ### Registry Trivia
 
-- **Classification detail:** Border Tree is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone E, Border region.
+- **Classification detail:** An Object/Place of Entity (IV) coherence and Critical (δ) potency: the record treats the holding as ground and boundary at once, and the classification is the reason the countermeasure is a survey rather than a seal.
+- **Field detail:** Element Grudge, registered to the Zone E border region, where containment is a surveyed line, two parties who do not confer, and a standing instruction against sealing; the frontage is measured at every cycle and the reading is never allowed to come from a single team.
 - **Recognition detail:** Identify by bark pattern. The trunk's surface reproduces the courses of old walls and barricades, and that marking is present on Border Tree and on nothing else in Zone E.
 - **Record detail:** Several Zone E records refer to displacement and to borders; confirm the designation O-IVδ-151 and the Place-Grudge manifestation before treating any of them as this entity.
 - **Containment detail:** There is no seal here in any useful sense. The roots are already past whatever line is currently drawn, and personnel standing well outside the marked boundary have reported divided belonging at full strength. Treat the perimeter as a survey reference, not as containment.
