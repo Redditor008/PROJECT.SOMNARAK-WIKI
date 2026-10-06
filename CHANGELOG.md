@@ -63,6 +63,24 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 25 / unit 7 — Forgotten Silence `N-IVδ-489` closed (2026-10-06)** — measured at `cae8730`: **7 dirty
+  sections**, worst Behavior 0.367, then Origin 0.343 (Entry 1's stock tale), Final Observation 0.169 (the choice
+  blockquote, the condition row and both result rows), M.A.W. Equipment 0.097 (the 10-dossier Lament resistance
+  line — the file's residue — the shroud and lens appearances, the set note, the four field-use rows), Flavor Text
+  0.084 (the after-departure line, the isolation line and the header row), Combat Record 0.077 (the resistance row,
+  both combat actions, the Resolution and the Clarity bullet — the stock *Tension* line was already specific to the
+  glow and the face) and Trivia 0.060 (classification and field rows). All seven closed in two waves (9 + 16
+  sites); 7,165 → **7,704 words**; `tpl.py` residue 1 → **0** (the Lament resistance line re-authored on the
+  chamber's own terms); `verify.py` residual 2 → **0** (the set-note family line and Story Log Entry 1's
+  `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**; all three
+  clauses already **True** and left alone (`R-05`). The stock pieces went onto the exchange: reciprocity into the
+  set note and the M.A.W. rows (offered to, not taken from), the condition (name the withheld truth, force nobody)
+  into the resolution and the choice block, and the brightness reading into the behavior note — brightness is the
+  only signal the entity reliably gives, and here the reading and the cost are the same event. Movement at the unit
+  commit: `R-29` 152 / 301 (series **244**); section-clean 176 / 301; residue-free 273 / 302; residue
+  lines 3, instances 31, carriers 29 / 302; archive dirty 526; file-clean 288 / 302. **Batch 25
+  stands at seven of ten.**
+
 - **Batch 25 / unit 6 — Spire of Unanswered Prayer `O-IIβ-796` closed (2026-10-06)** — measured at `f65b9d1`:
   **7 dirty sections**, worst Story Log 0.301 (Entry 4's management line and Entry 5's stock tale), then Flavor Text
   0.164 (the relations preamble, the interaction procedure, the header row, the two contact lines and the isolation
