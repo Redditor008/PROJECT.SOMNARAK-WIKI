@@ -102,7 +102,7 @@ This file records notable changes to the public Somnarak Wiki.
   instruction the file actually carries — no containment, and the figure entered unaltered. Movement at the unit
   commit: `R-29` 142 / 301 (series **242**); section-clean 166 / 301; residue-free 243 / 302;
   residue lines 7, instances 77, carriers 59 / 302; archive dirty 613; file-clean
-  272 / 302; worst 0.069, median 0.011. **Batch 24 stands at four of seven.**
+  272 / 302; worst 0.069, median 0.011. **Batch 24 stands at four of seven.** A disclosed repair followed the close: the file's M.A.W. section sat at 0.050 on the 302-corpus build, because the appearance and set-note shells it retained were at the shared-line threshold; three of its lines were re-authored in place and the section is clean again.
 
 - **Batch 24 / unit 3 — Mourner's Bloom `C-Iα-330` closed (2026-10-06)** — measured at `d8b3222`: **7 dirty sections**,
   worst Behavior 0.268 (the 37-dossier *The behavior table is a snapshot, not a system* line), then Registrum 0.223
