@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per successful work cycle, taken from the trades that came off rather than the hours stood |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | β · β (Moderate) |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.80 m/s |
-| **Resistance** | 30% against Void pressure; 20% against other pressure types |
+| **Resistance** | 30% against Void pressure and 20% against other types — a small, quick, faceless thing that slides out of most of what is aimed at it |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 422/422 |
 | **Han Pressure [ATK]** | 8–20 per hit · Void |
@@ -79,16 +79,16 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The Light Fingers* [**Debuff**] } | "Something brushes your temple — and a memory you were just thinking about is suddenly gone." | [The Thief lifts a memory from the target; the gap is immediate.] | *Target suffers a Void mark; a piece of their past is missing.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Thief approaches. |
-| { *The Growing Gaps* [**Debuff**] } | "More memories vanish — faces, names, places — and the gaps connect, forming voids in your mind." | [The Thief's thefts accumulate; the target's past is Swiss cheese.] | *Target loses clarity; they cannot trust their own history.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target fails to guard. |
-| { *The Stolen Strike* [**Attack**] } | "The thief throws one of your own memories at you — weaponized, sharpened, returned as a blade." | [A stolen memory is thrown back as a weapon.] | *Inflicts Void damage; the recalled-but-not-yours memory erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Thief is caught. |
-| { *The Full Heist* [**Attack**] } | "Every memory the thief ever stole — returned at once, in a flood of other people's pasts." | [The Thief releases its entire stolen collection.] | *A heavy Void flood of foreign memories; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Thief is cornered. |
-| { *The Empty Mind* [**Ultimate**] } | "Now everyone's memories are being stolen — and without pasts, no one knows who they are." | [The Thief extends its theft across the whole field.] | *All in range suffer Void erosion for three turns of stolen memory.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Growing Gaps* [**Debuff**] } | "More memories vanish — faces, names, places — and the gaps connect, forming voids in your mind." | [The small thefts stop being separate and begin to join up, and the target's past comes apart in patches with nothing behind them.] | *Target loses clarity; their own history stops being something they can vouch for.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target fails to guard. |
+| { *The Stolen Strike* [**Attack**] } | "The thief throws one of your own memories at you — weaponized, sharpened, returned as a blade." | [A memory the target still thought was theirs comes back across the room at them, sharp edge first.] | *Inflicts Void damage; the recollection is clear, close and not theirs, and it eats at who they are.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Thief is caught. |
+| { *The Full Heist* [**Attack**] } | "Every memory the thief ever stole — returned at once, in a flood of other people's pasts." | [Everything the Thief has ever taken comes out of its hiding place at once and lands on whoever is nearest.] | *A heavy Void flood of other people's pasts; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Thief is cornered. |
+| { *The Empty Mind* [**Ultimate**] } | "Now everyone's memories are being stolen — and without pasts, no one knows who they are." | [The theft stops being aimed and becomes general, and the whole field starts losing names at the same rate.] | *All in range suffer Void erosion for three turns while their memories go on being taken.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (small, fast, faceless, visible only at the edge of sight, cold and ash-smelling, and gone the moment you look straight at it) and The Memory Thief is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** The marker is read the only way this one allows — small, fast and faceless, cold and smelling faintly of ash, caught at the edge of vision and never face-on, because looking straight at it is how it goes. Positions are taken and the cycle opens.
 2. **Clash:** It does not fight and has never been struck. A contact is two observers at an angle holding a peripheral fix while it works the room; the encounter is scored afterwards at the infirmary, against a sealed page, by somebody who was not there.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Corner and contain it; negotiate the return of memories when possible**.
+3. **Resolution:** The cycle closes with the holding cornered, contained, and the returns negotiated where there is anything left to negotiate. The registration carries the file's condition: **corner and contain it; negotiate the return of memories when possible**. What crews get wrong is the order — the negotiation only works from a corner, and it only works with the person the memory was taken from doing the asking.
 
 ### Consequences
 
@@ -151,7 +151,7 @@
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the activation threshold and M.A.W. cost before assigning personnel. The Memory Thief is recorded as a Subject with Subject-Phantasmal manifestation and Void elemental expression. The current record places it at SECTOR-C-01, Collector's Row — contained; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the Work Types for this file against the activation threshold and the kit cost before anybody is assigned to the Row. The holding is a Subject with Subject-Phantasmal manifestation and Void expression, contained at SECTOR-C-01 on Collector's Row, and nothing learned about another quick-handed holding carries across to it. The caution here is particular: a flat gauge is not a quiet watch, because a worker can leave the Row with the gauge exactly where they found it and a name missing they will not notice for a week.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
 ## Containment Event Behavior
@@ -198,13 +198,13 @@ The barrels rotate manually after each discharge, cycling paper cartridges packe
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Memory Thief's void signature in the strike.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The bearer gives up small, nameless recollections with every use — the way to a room, a face from a season ago — and cannot feel them go.
 
 ### M.A.W. Suit — The Shadow Veil
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and all but colourless, that moves a half-breath behind the wearer and never quite matches them.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -216,17 +216,17 @@ The barrels rotate manually after each discharge, cycling paper cartridges packe
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Memory Thief's kind of pressure.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer comes to feel faintly absent from their own account — present in the room, not quite present in the story of it.
 
 ### M.A.W. Stigma — The Shadow Cloak
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a cloak-clasp of Void Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a cloak-clasp of Void Han-glass, near-translucent and without colour, warm in the hand and cold against the collarbone.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 stat bonus while working the source holding, entered at issue and withdrawn the day the bearer is no longer posted to the Row
 
 **Ability:** Makes the wearer nearly invisible and difficult to remember.
 
@@ -236,18 +236,18 @@ The barrels rotate manually after each discharge, cycling paper cartridges packe
 
 ### M.A.W. Use Notes
 
-A piece cut from The Memory Thief is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small, nameless memories with each use, and it is paid whether the use was correct or not.
+Nothing from this kit is ordinary equipment; it works by belonging, in part, to what it is carried near. The toll is the one already on the sheet — small, nameless memories gone with each use — and it is charged whether the use was right or wrong, which is the part every new bearer argues with.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against The Memory Thief's known toll: the wielder loses small, nameless memories with each use. Opened at the end of the rotation, not before. |
-| **During use** | The Memory Thief charging, which presents as this: the wielder loses small, nameless memories with each use. The wielder's own account is taken separately and afterwards. |
-| **At limit** | The wearer feels faintly absent to themselves, without remission. On a The Memory Thief piece the use ends there whatever the wielder says. |
-| **After use** | Return, reconcile the baseline, and record whether The Memory Thief's toll has reversed: the wearer feels faintly absent to themselves. Where it has not, the piece is not reissued to that wielder. |
+| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline written against the recorded toll for these pieces: small, nameless recollections given up with each use. The envelope opens at the end of the rotation and not a day before. |
+| **During use** | The charge shows as small nameless losses inside the baseline — a corridor's name gone, a face unplaceable — and the bearer is the last person able to notice. The second worker tests the baseline aloud at the hour marks, and the bearer's own account is taken afterwards. |
+| **At limit** | The bearer has begun describing their own days as if they belonged to somebody they used to know, and there is no remission written for it. On a piece out of this holding the use ends there, whatever the bearer says about continuing. |
+| **After use** | Take the piece back and walk the baseline yourself: the way to quarters, the name of the person they report to, the face they came in with. Where any of it is missing, the piece stays in stores and that bearer is not issued from the Row again. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade and risk are not the same axis. The damage line describes what the piece does to a holding; the effect on the bearer runs separately and usually heavier, and a low-rated piece can cost a person more than a heavy one. Read the cost column first.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -278,7 +278,7 @@ A piece cut from The Memory Thief is not ordinary equipment: it works by being a
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Memory Thief (N-IIIβ-077 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void, held at SECTOR-C-01 on Collector's Row. It is small, fast, faceless and non-confrontational. It takes small memories, keeps them somewhere nobody has found, and gives them back only in trade.
+The Memory Thief (N-IIIβ-077 [VS]) is a Subject-Phantasmal manifestation expressing Void, held at SECTOR-C-01 on Collector's Row. It is small, fast, faceless and disinclined to fight. It takes small recollections, keeps them in a place no search has turned up, and gives them back for nothing but trade.
 
 **Entry 2 — <Infirmary Return: Baseline Page Comparisons>**
 Confirmed losses over the life of the holding: 318, every one of them a face, a name, a route or an ordinary afternoon. Large memories: none taken, ever. Losses noticed by the worker before the page comparison: 31 of 318. The remaining 287 were discovered by a clerk reading a sealed page back to somebody who did not know anything was gone.
@@ -294,11 +294,11 @@ The origin is a diagnosis rather than a mystery: a market that priced memory, a 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Memory Thief; the other feeds it.
+> Two ways to close a watch on the Row, and the file prices them in what the crew walks out with: one leaves everybody holding their own names, and the other is the grabbing that turns a thief into a fence.
 
-| Corner and contain it; negotiate the return of memories when possible — as written, without improvising. | Substitute your own judgement, which on The Memory Thief has never yet cost less than the condition. |
+| Corner it, contain it, and negotiate the returns where there is something to negotiate — with the person who lost the memory doing the asking. | Substitute your own judgement, as the record shows people doing: grab for the collection, trade something you were not carrying, or promise it a memory that is not yours. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is seen clearly; The Memory Thief is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Memory Thief withdraws without revelation. |
+| The corner holds, the trades come off one at a time, and the watch closes with every bearer still carrying their own history and the Row's count squared. | The collection is scattered and the count never squares; the entry closes with a bearer missing something they cannot name and the holding gone quiet somewhere it was not filed. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -326,7 +326,7 @@ Four relationships, two of them transits nobody arranged, one refused by the oth
 
 Each row carries its own measurement and none of them is comparable to another, which is stated here rather than disguised by a common column. The one figure that recurs is the baseline comparison, and it is the figure that decides whether a session was harmless.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Holding on file | How the two have met | What the watch has seen move | What belongs in the entry |
 |---|---|---|---|
 | **The Forgotten Soldier** | The Soldier salutes the Thief, honouring what has been lost. | Corridor transit, once. The Thief held still for the only recorded time — eleven seconds, both observers agree — and took nothing from anybody present. Unarrangeable; the Soldier cannot be ordered to do it again. | The two fixes, the eleven seconds, and all four baseline comparisons, which came back unchanged. |
 | **The Grieving Colossus** | Pauses near the Thief and listens. | Observed twice at distance. Fix rate halves while the Colossus is in the district and returns afterwards; no effect on the loss rate either way. | Fix rates, Colossus transit times, and the loss rate stated as unchanged. |
@@ -378,9 +378,9 @@ Some sorrows are about losing memory. The Memory Thief is about the fear of losi
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and containment-event behaviour must be read as one interconnected system. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Nothing in this entry stands alone: the designation, the Work Type responses, the kit cost and the event behaviour only hold read as one system, and the record itself is alive. Where the holding does something these pages do not describe, the gap is written down as found — a contradiction left standing beside the entry that it contradicts, never tidied away.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every transformation in place, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any incident the watch runs the checklist: the gauge, the seal on the Row, the medical status of everyone who went in, where the holding is standing, and whether any resonance moved on the issued pieces. Where a figure has shifted, the file is updated before the roster turns over, and everything is re-checked again after any expansion, transformation attempt or interaction that does not read like the ones on file.
 ## Warden Record
 
 ### Difficult to See Directly
@@ -439,7 +439,7 @@ The wing has written the obvious conclusion down once and declined to build anyt
 ### Registry Trivia
 
 - **Classification detail:** The Memory Thief is a Subject with Fragment (III) — Curious and sneaky coherence and Moderate (β) — Manageable potency.
-- **Field detail:** Its defining element is Void, and its registered location is SECTOR-C-01, Collector's Row — contained.
+- **Field detail:** Void is its element and Collector's Row in SECTOR-C-01 is its registered ground — contained, and counted twice a shift because small things go missing.
 - **Recognition detail:** Small, fast, faceless, visible only at the edge of sight, cold and ash-smelling, and gone the moment you look straight at it.
 - **Record detail:** Other holdings in this archive remove or withhold things. This one takes property — memory is property here, with a published price — and the injury it causes is fully recognised, correctly valued and worth almost nothing. Confirm the designation N-IIIβ-077 before reading any of this across to an entity that erases rather than takes.
 - **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.

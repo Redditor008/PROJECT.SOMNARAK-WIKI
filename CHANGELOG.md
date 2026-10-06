@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 30 / unit 4 — The Memory Thief `N-IIIβ-077` closed (2026-10-07)** — measured at `d8f61a4`: **5 dirty sections**,
+  worst Final Observation 0.324 (the choice blockquote, the option row and the result row), then Behavior 0.150 (the
+  33-hit caution paragraph, whose internal repetition of its own opening line was collapsed), M.A.W. Equipment 0.127
+  (two costs, two appearance rows, the effect line, the piece paragraph, four field-use rows and the stat
+  interpretation), Combat Record 0.078 (the resistance row and four action rows) and Registrum 0.066 (the relation
+  table header, the operational interpretation with its duplicated preamble, the review requirement and the field
+  detail). **Closed in a single wave** (32 sites); 6,807 → **7,173 words**; `tpl.py` residue 0 throughout; `verify.py`
+  residual **1 → 0** (Story Log Entry 1's `is logged as ` line); `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True** with condition and series held. The file's own condition was re-registered inside the
+  rewritten resolution line in its own words (`corner and contain it; negotiate the return of memories when possible`).
+  Movement at the unit commit: `R-29` 185 / 301; section-clean 210 / 301; residue-free 302 / 302; residue lines
+  0; archive dirty 276; file-clean 302 / 302. **Batch 30 stands at four of five.**
+
+
+
 - **Batch 30 / unit 3 — Pyre of Truths `C-IVδ-092` closed (2026-10-07)** — measured at `bb4b87c`: **5 dirty sections**,
   worst Final Observation 0.328 (the choice blockquote, the option row and the result row), then Behavior 0.165 (the
   33-hit diagnostic paragraph), M.A.W. Equipment 0.086 (two appearance rows, the effect line, the piece paragraph, four

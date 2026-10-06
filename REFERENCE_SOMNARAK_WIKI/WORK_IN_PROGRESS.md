@@ -1716,6 +1716,15 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 30, unit 4: The Memory Thief `N-IIIβ-077` closed.** Measured at `d8f61a4`: **5 dirty sections**, worst Final
+Observation 0.324, then Behavior 0.150, M.A.W. Equipment 0.127, Combat Record 0.078 and Registrum 0.066 — **closed in a
+single wave** (32 sites); 6,807 → **7,173 words**; `tpl.py` residue 0; `verify.py` residual **1 → 0**; `sectfile.py`
+**0 section(s) over 0.05**; `wikistd.py` meets **True**, condition re-registered inside the rewritten resolution line
+and held **True**, series held. Disclosed: the Behavior paragraph's internal repetition of its own opening caution and
+the Operational interpretation's duplicated preamble were both collapsed in the rewrite. Movement: `R-29` @r29@ / 301;
+section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 30 stands
+at four of five.**
+
 **Batch 30, unit 3: Pyre of Truths `C-IVδ-092` closed.** Measured at `bb4b87c`: **5 dirty sections**, worst Final
 Observation 0.328, then Behavior 0.165, M.A.W. Equipment 0.086, Registrum 0.081 and Combat Record 0.067 — **closed in a
 single wave** (24 sites); 7,705 → **8,027 words**; `tpl.py` residue 0; `verify.py` residual **2 → 0**; `sectfile.py`
@@ -2052,6 +2061,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 30 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIIβ-077 The Memory Thief 기록 도둑 — `__HASH__` — PUSH VERIFIED — [[SE-N-IIIβ-077_The_Memory_Thief_기록_도둑]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-077_The_Memory_Thief_%EA%B8%B0%EB%A1%9D_%EB%8F%84%EB%91%91.md "SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md")
 
 - SE-C-IVδ-092 Pyre of Truths 타오르는 도서관 — `d8f61a4` — PUSH VERIFIED — [[SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-092_Pyre_of_Truths_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EB%8F%84%EC%84%9C%EA%B4%80.md "SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md")
 
