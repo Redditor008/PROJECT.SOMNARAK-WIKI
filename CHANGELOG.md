@@ -8,6 +8,25 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 31 / unit 5 — The Hollow Saint `C-IIIγ-081` closed (2026-10-07)** — measured at `0ba64b2`: **5 dirty sections**,
+  worst Final Observation 0.175 (the choice blockquote, the condition row and the result row, whose success and failure
+  cells carried each other's descriptions), then M.A.W. Equipment 0.106 (two appearance rows, the suit cost, the effect
+  and stat lines, the Chalice note, the piece paragraph and the field-use rows), Combat Record 0.071 (the resistance
+  row, four action rows, the tension phase — which carried an `identifies The Hollow Saint by her by the hollow` splice —
+  and the resolution), Registrum 0.060 (the operational interpretation and the review requirement) and Flavor Text 0.057
+  (the relations intro, the interaction method, the preamble and the table header). **Closed in a single wave** (35 sites
+  including the numerals bullet); 6,871 → **7,242 words**; `tpl.py` residue 0 throughout; `verify.py` residual **1 → 0**
+  (Story Log Entry 1's `is logged as ` line); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True**, with the condition re-registered inside the rewritten resolution line in the file's own words (`do not feed
+  it grief; establish distance and identity anchors`) and the own series closed **False → True** by setting the file's
+  figures down in digits (gauge 712/712 · pressure 18–41 per hit · resistance 35 / 25 per cent · threshold 75 per cent ·
+  weapon 8–14 at 40 Echoes · suit 35 Echoes · Stigma 4 per cent · Max 3 pieces). The result row's swapped cells were
+  rewritten in order and the tension-phase splice was rebuilt whole-line. Movement at the unit commit: `R-29` 190 /
+  301; section-clean 215 / 301; residue-free 302 / 302; residue lines 0; archive dirty 216; file-clean
+  302 / 302. **Batch 31 stands at five of five — the batch is complete.**
+
+
+
 - **Batch 31 / unit 4 — Deteriorata `C-IVγ-130` closed (2026-10-07)** — measured at `bd844db`: **5 dirty sections**,
   worst Final Observation 0.179 (the choice blockquote and the condition row), then M.A.W. Equipment 0.105 (three
   appearance rows, the use notes, the stat interpretation and the field-use rows), Combat Record 0.084 (the resistance

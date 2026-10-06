@@ -1716,6 +1716,16 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 31, unit 5: The Hollow Saint `C-IIIγ-081` closed — batch complete.** Measured at `0ba64b2`: **5 dirty
+sections**, worst Final Observation 0.175, then M.A.W. Equipment 0.106, Combat Record 0.071, Registrum 0.060 and Flavor
+Text 0.057 — **closed in a single wave** (35 sites including the numerals bullet); 6,871 → **7,242 words**; `tpl.py`
+residue 0; `verify.py` residual **1 → 0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**,
+condition re-registered inside the rewritten resolution line and held **True**, series **False → True** via digits.
+Disclosed: the result row's swapped success/failure cells were rewritten in order; the tension-phase
+`identifies The Hollow Saint by her by the hollow` splice was rebuilt whole-line; the numerals bullet uses a fresh
+wording. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@;
+file-clean @fc@ / 302. **Batch 31 stands at five of five.**
+
 **Batch 31, unit 4: Deteriorata `C-IVγ-130` closed.** Measured at `bd844db`: **5 dirty sections**, worst Final
 Observation 0.179, then M.A.W. Equipment 0.105, Combat Record 0.084, Trivia 0.074 and Flavor Text 0.061 — **closed in
 two passes** (25 + 12 sites); 7,084 → **7,324 words**; `tpl.py` residue 0; `verify.py` residual **1 → 0**;
@@ -2125,6 +2135,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 31 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIIγ-081 The Hollow Saint 빈 성자 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIIγ-081_The_Hollow_Saint_빈_성자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-081_The_Hollow_Saint_%EB%B9%88_%EC%84%B1%EC%9E%90.md "SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md")
 
 - SE-C-IVγ-130 Deteriorata 무너지는 성자 — `0ba64b2` — PUSH VERIFIED — [[SE-C-IVγ-130_Deteriorata_무너지는_성자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-130_Deteriorata_%EB%AC%B4%EB%84%88%EC%A7%80%EB%8A%94_%EC%84%B1%EC%9E%90.md "SE-C-IVγ-130_Deteriorata_무너지는_성자.md")
 
