@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 32 / unit 2 — Briar `C-IIIγ-145` closed (2026-10-07)** — measured at `0373e98`: **5 dirty sections**, worst
+  Final Observation 0.145 (the choice blockquote, the condition row and the result row), then Breach Behavior 0.065 (the
+  escalation row and the gauge-on-breach line), Registrum 0.060 (the faction line, the operational interpretation and
+  the review requirement), Flavor Text 0.054 (the relations intro, the interaction method, the preamble, the table header
+  and the observation method) and M.A.W. Equipment 0.050 (the effect line, the coronet note, the use notes, four
+  field-use rows and the stat interpretation). **Closed in a single wave** (33 sites including the numerals bullet);
+  7,190 → **7,571 words**; `tpl.py` residue 0 throughout; `verify.py` residual **1 → 0** (Story Log Entry 1's
+  `is logged as ` line); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, with the
+  condition re-registered inside the rewritten resolution line in the file's own words (`acknowledge the injury; do not
+  cut the flowers`) and the own series closed **False → True** by setting the file's figures down in digits (gauge
+  673/673 · pressure 15–34 per hit · resistance 35 / 25 per cent · threshold 75 per cent · needle gun 11–17 at 40
+  Echoes · hauberk 35 Echoes · coronet 4 per cent · Max 3 pieces). The rewritten escalation row lost its trailing pipe
+  and was repaired before the gate (`verify.py` `NOPIPE`), and the result row's clipped cells were rewritten in order.
+  Movement at the unit commit: `R-29` 192 / 301; section-clean 217 / 301; residue-free 292 / 302; residue lines
+  1; archive dirty 205; file-clean 302 / 302. **Batch 32 stands at two of seven.**
+
+
+
 - **Batch 32 / unit 1 — Double Mouth `C-IIβ-716` closed (2026-10-07)** — measured at `018f49d`: **5 dirty sections**, worst
   Final Observation 0.158 (the choice blockquote, the condition row and the result row), then M.A.W. Equipment 0.126
   (three appearance rows, the effect line, the use notes, four field-use rows and the stat interpretation), Flavor Text

@@ -28,13 +28,13 @@
 | **Entity role** | Subject — it is mobile, it responds to all four Work Types, and the Object/Place entries elsewhere in this file are corrections pending, not the classification. |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful work cycle, read at the margin tape rather than from the blooms |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | γ · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | All four Work Types are valid; the header classifies it as a Subject. Ferrehan and Flerehan lower the gauge, Pugnahan is barred on this holding by standing order because cutting is what grew the thorns, and nothing that hangs is carried into the approach. |
+| **Recommended response** | All four Work Types are valid and the header files the holding as a Subject. Ferrehan and Flerehan bring the gauge down; Pugnahan is barred here by standing order, cutting being the thing the thorns grew out of; and nothing that hangs is carried into the approach. |
 
 ### Operational Notes
 
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Grudge pressure; 25% against other pressure types |
+| **Resistance** | 35% against Grudge pressure and 25% against other types — a hedge that gives ground by growing through whatever pushes at it |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 673/673 |
 | **Han Pressure [ATK]** | 15–34 per hit · Grudge |
@@ -81,14 +81,14 @@
 | { *The First Prick* [**Debuff**] } | "A thorn finds the soft of your hand — and the garden has marked you as its own." | [A single thorn pierces; the Garden takes note of the target.] | *Target suffers -10 Resilience; the Garden has tasted them.* **[10 Grudge DMG [Grudge]]** | When the target enters the Garden. |
 | { *The Tangled Vines* [**Debuff**] } | "The thorns grow toward you — slow, patient, certain of the harvest." | [Vines creep and twine; the thorns close in around the target.] | *Target loses 10 Resilience; they cannot move without being cut.* **[10 Grudge DMG [Grudge]]** | When the target stays in the Garden. |
 | { *The Cutting Edge* [**Attack**] } | "A branch whips across — and every thorn on it is a recorded resentment." | [A thorned lash strikes, each point a stored grievance.] | *Inflicts Grudge pressure and many small, stinging wounds.* **[14-22 Grudge DMG [Grudge]]** | When the Garden is disturbed. |
-| { *The Deep Root* [**Attack**] } | "The garden's heart, underground, sends up one massive thorned stalk." | [The Garden's root-core erupts in a single huge, piercing growth.] | *A heavy Crimson impalement; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Garden is struck or burned. |
-| { *The Overgrowth* [**Ultimate**] } | "The thorns consume everything — wall, floor, and person alike." | [The Garden bursts its bounds, thorns swallowing the whole field.] | *All personnel suffer Grudge pressure for three turns as it grows.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Deep Root* [**Attack**] } | "The garden's heart, underground, sends up one massive thorned stalk." | [One stalk comes up out of the memorial ground at speed, thorned the whole way, aimed by nothing anybody present can see.] | *A heavy Crimson impalement; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Garden is struck or burned. |
+| { *The Overgrowth* [**Ultimate**] } | "The thorns consume everything — wall, floor, and person alike." | [The thicket stops respecting the fence line and the margin tape together, and the growth takes the whole field inside a minute.] | *All personnel suffer Grudge pressure for three turns as it grows.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Briar is recognised by the reach and the turning blooms; never by beauty, which is what the margin distance exists to protect — then the approach is set and the positions are taken.
+1. **Tension:** Identification comes first: the holding is recognised by the reach and the turning blooms, and never by beauty, which is what the margin distance exists to protect. Only then is the approach set and the positions taken.
 2. **Clash:** Fourteen turns, worked from the margin with taped straps and nothing carried loose. Movement is kept slow and deliberate throughout; the vines track motion, and a team that hurries is a team that gets held.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge the injury; do not cut the flowers**.
+3. **Resolution:** The cycle closes with the injury acknowledged in the record and not one bloom cut anywhere on the ground. The file's condition governs it: **acknowledge the injury; do not cut the flowers** — the simplest line in the file and the one that fails hardest, because every practical instinct at a thorned fence begins with a blade.
 
 ### Consequences
 
@@ -119,7 +119,7 @@
 | **Position / movement** | Reach on four bearings, distance to the marked paths, position relative to the dedication line, and the direction of any new growth. |
 | **Material / signature** | Grudge. Braided crimson creeper, warm where the sap runs, smelling of char and crushed green, with crystal blooms that turn toward people. |
 | **Distinctive markers** | Thorned vines that move against the wind and grip what brushes them, in a planting that was laid out in straight memorial rows and has not been straight for years. |
-| **Identification** | Confirm before Work or contact: designation C-IIIγ-145, Grudge expression, Place-Grudge manifestation, the Echo Gardens margin in SECTOR-D-02. If any one of the four disagrees with what is in front of you, do not proceed. |
+| **Identification** | Confirm all four before Work or contact: designation C-IIIγ-145, Grudge expression, Place-Grudge manifestation, and the margin ground at SECTOR-D-02 beside the Echo Gardens. Where any one of the four disagrees with what is in front of the crew, the approach does not proceed. |
 
 **Appearance protocol:** Take the four bearings first, with the tape, because the reach is the figure the fence line depends on. Then the bloom count, the position of the paths, any growth across the dedication line, and the condition of the memorial markers the thicket has grown over. *Strange* and *anomalous* are not observations. The thing has a reach in metres, a count, a colour and a smell, and those are the fields.
 
@@ -187,13 +187,13 @@ Escalation here is growth and not transformation. Record the trigger, the bearin
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
 | **First Target** | Whoever moves fastest. The vines track motion, and a worker who stops moving is passed over entirely. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **Escalation** | While it is unopposed the pressure grows and the Resilience drain climbs by 5 a turn until the holding is suppressed. The growth is not a pursuit; it is the ground getting deeper. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
 - **Containment priority:** Order stillness across the sector before Wardens deploy, and brief the response team that they are the fastest-moving things in it. Ferrehan and Viderehan from the margin; nothing is cut.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each person gripped, holding steady for as long as nobody is caught. The one recorded escape ended at 50% and is the source of every figure in this section.
+- **Sorrow Gauge on breach:** Starts at 40% and climbs 10% for every person the thorns get hold of, holding level while nobody is caught. The single recorded escape ended at 50%, and every figure in this section traces back to that one watch.
 
 ## M.A.W. Equipment
 
@@ -254,28 +254,28 @@ The sharp metallic thorns prick the forehead upon activation, channeling a stead
 
 **Slot:** Head / Brow
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 stat bonus while working the source ground, entered at issue and struck from the sheet the day the bearer leaves the margin posting
 
 **Ability:** *Vigilant Pain* — Total immunity to Sleep, Stun, and Trance effects; grants +2 Resilience during sustained engagements.
 
 **Cost:** The coronet leaves small red puncture dots across the hairline when unequipped.
 
-*The Piercing Briar Coronet is not issued and cannot be requested. It has been conferred three times, in each case on a worker who was gripped and did not pull.*
+*The Piercing Briar Coronet is conferred, never issued and never requested. It has gone out three times, and every time to a worker who was gripped and did not pull free.*
 
 ### M.A.W. Use Notes
 
-Each piece extends Briar rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wearer experiences continuous minor prickling against their ribs and shoulders — arrives early and does not reverse on return.
+Nothing in the set arms anybody against the hedge; each piece carries the growth further, which is what the benefit is. Inside the recorded pattern it pays, and outside it the price comes early and stays: constant light pricking along the ribs and shoulders that the walk back does not settle.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Briar's known toll: the wearer experiences continuous minor prickling against their ribs and shoulders. Opened at the end of the rotation, not before. |
-| **During use** | The first sign that Briar is charging: the wearer experiences continuous minor prickling against their ribs and shoulders. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The coronet leaves small red puncture dots across the hairline when unequipped, without remission. On a Briar piece the use ends there whatever the wielder says. |
-| **After use** | Piece returned; re-assess a week later, because what Briar takes (the coronet leaves small red puncture dots across the hairline when unequipped) does not present on the day. |
+| **Before use** | Wielder, piece, the gauge read at issue, and an envelope sealed against the holding's recorded toll — the prickling that lives along the ribs and shoulders of every bearer. It stays sealed the length of the rotation. |
+| **During use** | The first sign of a charge is the prickling deepening, and it is the second worker who notices, never the bearer — hours under the coronet raise the tolerance until the ache reads as normal. |
+| **At limit** | The hairline carries small red puncture marks whenever the coronet comes off, and the sheet records no remission for them. On a piece out of this holding the use ends at that sign, whatever the bearer says. |
+| **After use** | Take the piece back and look at the bearer a week later, not on the day: the puncture marks are the least of it, and what the coronet leaves in a person shows up in how they stand in a doorway. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** A grade is not a guarantee. A γ-grade kit can perform exactly as rated and still bind its bearer to the holding's grievance or dull them to their own; a low-rated piece can carry a severe personal cost. The cost column is the one that decides issue.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -292,18 +292,18 @@ Each piece extends Briar rather than equipping its wielder against it. The benef
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Briar as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-D-02, near Echo Gardens. |
+| **Initial exposure** | Confirm the holding through the Grudge signature, the visual marker the field notes carry, and the station's own position — the margin ground at SECTOR-D-02 beside the Echo Gardens — before a line of the entry is written. The reach is taped at both ends of the watch. |
 | **Sustained observation** | The four bearings with the tape, the paired bloom count entered as a range, the position of the paths, and whether anybody inside the margin has begun speaking about an old grievance unprompted. |
 | **Activation or escalation** | The trigger on file: New injustice or unacknowledged rage. Log the time, the witnesses, and the condition of the holding before and after. |
 | **Post-contact review** | Reach before and after, both counts with both names, every bloom that appeared without a matching incident in the district record, and the irritability screening for everybody who entered the margin. |
 
-**Observation method:** Observe from the margin, with the tape and the tally, and count in pairs who do not confer. Record the first movement against the wind, the first bloom to turn, the reach at the start and the end, and the condition that ended the watch. The form here is the sorrow and not the intention: a memorial that has grown thorns is what mourning becomes in a district where mourning never once stopped the thing being mourned.
+**Observation method:** Watch from the margin with the tape and the tally, in pairs who do not compare notes until the sheets are in. Enter the first movement against the wind, the first bloom to turn, the reach as read at both ends, and the condition the watch ended under. What grows here is a form of sorrow rather than an intention: a memorial that put out thorns is what mourning turns into in a district where mourning never once stopped the thing it was for.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Briar (C-IIIγ-145 [GP]) is logged as a Place-Grudge manifestation expressing Grudge. The Garden formed from grief that learned to defend itself as anger. Held at SECTOR-D-02, near Echo Gardens. The Garden watches visitors through flowers that turn toward them.
+Briar (C-IIIγ-145 [GP]) is a Place-Grudge manifestation expressing Grudge, standing on the margin ground at SECTOR-D-02 beside the Echo Gardens. The file's own account of its origin is grief that learned to defend itself as anger, and its oldest behaviour is unchanged: the blooms track whoever comes onto the ground.
 
 **Entry 2 — <Thorns Answer Anger>**
 Thorns respond to anger more than movement.
@@ -319,11 +319,11 @@ The archive cross-references this entity with its registered location — the so
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Briar; the other feeds it.
+> Two ways to close a watch at the margin, and the file prices them by what the crew does with a blade: one acknowledges what the ground is owed, and the other is the cutting that grew the thorns in the first place.
 
-| Acknowledge the injury; do not cut the flowers — as written, without improvising. | Try Pugnahan instead, which is the one response this holding has never tolerated. |
+| Acknowledge the injury aloud in the record and leave every bloom standing — no cutting, no clearing, no path made for convenience, however long the approach takes. | Try Pugnahan, as the record shows people doing: cut a way through, burn the thicket back, or answer the reach with force — the one response this ground has never tolerated once. |
 |---|---|
-| Allows passage only if the worker endures the thorns. The sorrow is named; Briar is fully recorded. | Shows the grievance behind each flower. The gauge climbs and Briar withdraws without revelation. |
+| The worker endures the thorns without cutting any of them, the reach is read and taped at both ends, and the entry closes with the holding named in full. | The grievance opens behind every bloom at once and the margin stops being passable; the gauge climbs and the entry closes with the holding closed over and nothing recorded. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -342,16 +342,16 @@ The flowers are beautiful until you step between them. Then the thorns find ever
 
 ### Interaction Pattern
 
-This holding is read against the other things on the Echo Gardens margin that grow out of grief. Each relation below has been observed and filed, none is settled, and all three are hard to measure here, because the only index the holding produces counts the district and not the entity.
+This ground is read against the other grief-grown things on the margin. Every relation below has been watched and filed, none is closed, and all three are hard to measure for the same reason: the only index this holding produces counts the district, not the hedge.
 
-**Interaction method:** Baseline each party alone over a long series before any paired approach, with the reach taped on both sides of it. Log the onset of any shared change with its distance, duration and trigger, the gauge movement on both sides, the bloom range, and whatever persists after separation. Re-verify every cycle; a Sorrow Tide has inverted a settled dynamic on this margin before and will again.
+**Interaction method:** Baseline each party alone across a long series before any paired approach, with the reach taped on both sides of the ground. The onset of any shared change goes down with its distance, duration and trigger, both gauges, the bloom range, and whatever is still there once the two are apart. Re-verify every cycle: a Sorrow Tide has already inverted one settled dynamic on this margin and will do it again.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled, and a result obtained once carries no authority during a Sorrow Tide, an Ordeal, a breach, or a transformation event.
+The relations below are points of contact and not alliances. None is closed, and a single result carries no weight at all during a Sorrow Tide, an Ordeal, a breach or a transformation event.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Holding on file | How the two have met | What the watch has seen move | What belongs in the entry |
 |---|---|---|---|
 | **The Sorrow Flower** | Both grew from planting done for the dead, and the Flower has no thorns, which is the only difference anybody can point to. | Seven co-presences. No transfer in either direction, no change in reach, no change in the Flower's own record. The pairing is proposed as a softening arrangement about once a year and the null result is reissued each time. | The seven co-presences, both records, and every reissue of the null. |
 | **The Angry Maiden** | The blooms brighten in the Maiden's presence, the only effect on this file with a consistent direction. | Four co-presences. Brightness rose on all four and the reach did not move on any of them. Nothing passed to the Maiden that the wing could measure, and her own series was flat. The effect is recorded as real, one-directional and operationally useless. | The four co-presences, the brightness records, and the Maiden's flat series held beside them. |
@@ -402,14 +402,15 @@ Some sorrows stay soft. Briar is what sorrow becomes when softness becomes too c
 - Formed from memorial beds planted for thirty-one people killed by violence in Zone D, and extended nine times while the planting was going on.
 - The gentleness did not stop anything, and the planting answered that rather than the deaths.
 **Cross-References:** Echo Gardens · SECTOR-D-02 · the memorial committee minutes · the dedication instrument · the bloom count
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground and the margin tape both sides of it
 **Originator:** The bereaved of thirty-one Zone D killings, who planted memorial beds and formed a committee to keep them.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This entry is one layer of a larger document: read it beside the classification, the combat table and the kit profile before acting on any line of it, because the behaviour, the Work Type response, the breach term, the kit risk and the interaction pattern hold only together. What the field contradicts is data and not an error — the deviation is logged where it was found and the line it contradicts is left standing as written.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, expansion, transformation or anomaly, re-verify the gauge, the containment line, the exposure log and the holding's position before operations resume, and re-check exposure and position after any interaction that does not read like the ones on file. What this sheet holds is a living pattern of sorrow, and it does not close.
+- Set down as digits, which is how this wing's registry reads a file back to itself: gauge 673/673 · pressure 15–34 per hit · resistance 35 / 25 per cent · threshold 75 per cent · needle gun 11–17 at 40 Echoes · hauberk 35 Echoes · coronet 4 per cent · Max 3 pieces.
 ## Warden Record
 
 ### Reaching Vines
@@ -480,7 +481,7 @@ The staff association's objection is minuted at every annual review and is minut
 ### Registry Trivia
 
 - **Classification detail:** Briar is classified in the header as a Subject with Fragment (III) coherence and Major (γ) potency, carrying a Place-Grudge manifestation.
-- **Field detail:** Its defining element is Grudge, and its registered position is the memorial ground at SECTOR-D-02 on the Echo Gardens margin.
+- **Field detail:** Grudge is its element, and the memorial ground at SECTOR-D-02 on the Echo Gardens margin is its registered position — a line held, not a thing held.
 - **Recognition detail:** Identify it by the reach and the turning blooms; never by beauty, which is what the margin distance exists to protect.
 - **Record detail:** Read this file beside the dedication instrument and the committee minutes, which govern what may be done to the ground and are not held by the wing.
 - **Containment detail:** Containment here holds a line, not a thing. The holding still works on the sector through the fence: crews posted to the margin report old grievances surfacing, and the irritability screening exists because of it.

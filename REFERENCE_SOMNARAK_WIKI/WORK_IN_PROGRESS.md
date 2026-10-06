@@ -1716,6 +1716,15 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 32, unit 2: Briar `C-IIIγ-145` closed.** Measured at `0373e98`: **5 dirty sections**, worst Final
+Observation 0.145, then Breach Behavior 0.065, Registrum 0.060, Flavor Text 0.054 and M.A.W. Equipment 0.050 — **closed
+in a single wave** (33 sites including the numerals bullet); 7,190 → **7,571 words**; `tpl.py` residue 0; `verify.py`
+residual **1 → 0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition re-registered
+inside the rewritten resolution line and held **True**, series **False → True** via digits. Disclosed: the rewritten
+escalation row lost its trailing pipe and was repaired before the gate (`verify.py` `NOPIPE`); the result row's clipped
+cells were rewritten in order. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302;
+archive dirty @dirty@; file-clean @fc@ / 302. **Batch 32 stands at two of seven.**
+
 **Batch 32, unit 1: Double Mouth `C-IIβ-716` closed.** Measured at `018f49d`: **5 dirty sections**, worst Final
 Observation 0.158, then M.A.W. Equipment 0.126, Flavor Text 0.060, Registrum 0.059 and Combat Record 0.054 — **closed in
 a single wave** (28 sites); 6,449 → **6,759 words**; `tpl.py` residue 0; `verify.py` residual **1 → 0**; `sectfile.py`
@@ -2159,6 +2168,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 32 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIIγ-145 Briar 가시의 정원 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIIγ-145_Briar_가시의_정원]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-145_Briar_%EA%B0%80%EC%8B%9C%EC%9D%98_%EC%A0%95%EC%9B%90.md "SE-C-IIIγ-145_Briar_가시의_정원.md")
 
 - SE-C-IIβ-716 Double Mouth 찢어진 속삭임 — `0373e98` — PUSH VERIFIED — [[SE-C-IIβ-716_Double_Mouth_찢어진_속삭임]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-716_Double_Mouth_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-C-IIβ-716_Double_Mouth_찢어진_속삭임.md")
 **Batch 31 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
