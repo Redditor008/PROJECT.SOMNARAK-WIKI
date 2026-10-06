@@ -1974,7 +1974,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 29 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-O-IVδ-115 Broken Fragment 부서진 파편 — `__HASH__` — PUSH VERIFIED — [[SE-O-IVδ-115_Broken_Fragment_부서진_파편]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-115_Broken_Fragment_%EB%B6%80%EC%84%9C%EC%A7%84_%ED%8C%8C%ED%8E%B8.md "SE-O-IVδ-115_Broken_Fragment_부서진_파편.md")
+- SE-O-IVδ-115 Broken Fragment 부서진 파편 — `efa92ec` — PUSH VERIFIED — [[SE-O-IVδ-115_Broken_Fragment_부서진_파편]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-115_Broken_Fragment_%EB%B6%80%EC%84%9C%EC%A7%84_%ED%8C%8C%ED%8E%B8.md "SE-O-IVδ-115_Broken_Fragment_부서진_파편.md")
 
 - SE-O-IIβ-301 Feu Follet 녹아내린 불꽃 — `82709ee` — PUSH VERIFIED — [[SE-O-IIβ-301_Feu_Follet_녹아내린_불꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-301_Feu_Follet_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EB%B6%88%EA%BD%83.md "SE-O-IIβ-301_Feu_Follet_녹아내린_불꽃.md")
 
