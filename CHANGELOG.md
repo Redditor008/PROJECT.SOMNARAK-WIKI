@@ -63,6 +63,25 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 25 / unit 5 — The Grieving Maiden `C-IVβ-041` closed (2026-10-06)** — measured at `1d906cd`: **7 dirty
+  sections**, worst Final Observation 0.358 (the choice blockquote, the condition row and the success/fail row),
+  then M.A.W. Equipment 0.247 (the 10-dossier *unwept grief* cost line — the file's residue — the blade, shroud and
+  veil-clasp appearances, both abilities, the second cost, the set note, the four field-use rows and the stat
+  interpretation), Behavior 0.240, Registrum 0.160 (the operational interpretation and review requirement, plus the
+  faction line), Combat Record 0.081 (the resistance row, both combat actions, the Tension/Resolution lines and the
+  Clarity bullet), Trivia 0.064 (classification, field and containment rows) and Flavor Text 0.059 (the isolation
+  line and the header row; the section needed a third pass for its own shared spellings). All seven closed in three
+  waves (21 + 11 + 6 sites; the first two aborted once each on mis-counted asserts, safe redos); 7,243 → **7,871
+  words**; `tpl.py` residue 1 → **0**; `verify.py` residual 1 → **0** (Story Log Entry 1's stock `is logged as `);
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. All three clauses were already
+  **True** and left alone (`R-05`). The stock pieces went onto the room: the condition (share her grief,
+  acknowledge the loss, never command her to stop) into the resolution and the choice block, the sump gauge and the
+  rain-cold air into the contact and containment rows, and the M.A.W. rows onto the set's charge — the bearer
+  carries her unwept grief and weeps with no account of why, the one asymmetry being that this weeping reverses on
+  the return. Movement at the unit commit: `R-29` 150 / 301 (series **243**); section-clean 174 / 301;
+  residue-free 266 / 302; residue lines 4, instances 41, carriers 36 / 302; archive dirty
+  540; file-clean 285 / 302. **Batch 25 stands at five of ten.**
+
 - **Batch 25 / unit 4 — The Inheritor `C-IIIγ-062` closed (2026-10-06)** — measured at `850f622`: **7 dirty
   sections**, worst Final Observation 0.390 (the choice blockquote and the success/fail row), then M.A.W. Equipment
   0.202 (the harness and charm appearances, both abilities, both costs, the effect line, the gauntlet conferral
