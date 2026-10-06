@@ -2214,7 +2214,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 32 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-N-IVδ-005 The Smothering Mother 질식하는 어머니 — `__HASH__` — PUSH VERIFIED — [[SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-005_The_Smothering_Mother_%EC%A7%88%EC%8B%9D%ED%95%98%EB%8A%94_%EC%96%B4%EB%A8%B8%EB%8B%88.md "SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md")
+- SE-N-IVδ-005 The Smothering Mother 질식하는 어머니 — `ce35f52` — PUSH VERIFIED — [[SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-005_The_Smothering_Mother_%EC%A7%88%EC%8B%9D%ED%95%98%EB%8A%94_%EC%96%B4%EB%A8%B8%EB%8B%88.md "SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md")
 
 - SE-O-IIIβ-120 The Wrath Flame 분노의 불꽃 — `4621056` — PUSH VERIFIED — [[SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B2-120_The_Wrath_Flame_%EB%B6%84%EB%85%B8%EC%9D%98_%EB%B6%88%EA%BD%83.md "SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md")
 
