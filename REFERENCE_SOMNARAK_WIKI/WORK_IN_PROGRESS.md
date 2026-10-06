@@ -1685,6 +1685,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 
 **Batch 23 — OPEN, five targeted; finished dossiers, each with its SE git link and closing commit** ([`R-12`](RULES/R-12_REFER_TO_GITHUB.md); links generated with `tools/ghlink.py`):
 
+- SE-C-IIβ-330 Frozen Window 얼어붙은 창 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIβ-330_Frozen_Window_얼어붙은_창]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-330_Frozen_Window_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%B0%BD.md "SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md")
 - SE-C-IVδ-255 Rising Wall 솟아오른 벽 — `f74baee` — PUSH VERIFIED — [[SE-C-IVδ-255_Rising_Wall_솟아오른_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-255_Rising_Wall_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%B2%BD.md "SE-C-IVδ-255_Rising_Wall_솟아오른_벽.md")
 - SE-N-IIβ-689 Face Beneath Masks 스며든 벽 — `a92f8fe` — PUSH VERIFIED — [[SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-689_Face_Beneath_Masks_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%B2%BD.md "SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md")
 - SE-N-IIβ-778 Well of Unfinished Words 솟구친 우물 — `5199f64` — PUSH VERIFIED — [[SE-N-IIβ-778_Well_of_Unfinished_Words_솟구친_우물]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-778_Well_of_Unfinished_Words_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%9A%B0%EB%AC%BC.md "SE-N-IIβ-778_Well_of_Unfinished_Words_솟구친_우물.md")
@@ -1698,6 +1699,21 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-C-IVδ-125 Dejà Vu 돌아온 열매 — `1e7f61e` — PUSH VERIFIED — [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
+
+**Batch 24 opens at seven (owner's ladder) — unit 1: Frozen Window `C-IIβ-330` closed.** Measured at `54049a8`: **8
+dirty sections**, worst Final Observation 0.158, then Story Log 0.147 (Entry 5's stock tale), M.A.W. Equipment
+0.146 (the 11-dossier stat-interpretation line — the file's residue — plus the conferral note, the set note and the
+five field-use rows), Flavor Text 0.098 (the isolation line, the interaction preambles and the procedure line),
+Registrum 0.097 (the containment line, the faction line and the 21-dossier operational interpretation), Trivia
+0.080, Observation Log 0.067 (the initial-exposure row and the observation method) and Combat Record 0.051 — all
+eight closed in two waves (15 + 14 sites); 6,907 → **7,745 words**; `tpl.py` residue 1 → **0**; `verify.py`
+residual 1 → **0** (Story Log Entry 1's stock `is logged as `); `sectfile.py` **0 section(s) over 0.05**;
+`wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** on the file's own counted
+record — 1.45 metres per second as the registered pace, 9 categories as the printed list of scene types, 4,100
+scenes logged against it, the register's 23 declarations (19 followed within 2 years by the household giving up its
+tenancy and its standing search, 2 of the named returned), 12 filed co-presences across the 3 relations and 2
+conferrals of the monocle — restated from the file and disclosed; the condition and disposition clauses were
+already satisfied and left alone (`R-05`). **Batch 24 stands at one of seven.**
 
 **Batch 23 is closed at five (units 1–5; the owner's ladder, 3 or 5 then 7 or 10).** Measured at `a92f8fe`: all
 five units carried **8 dirty sections** each at their measurement, 40 in total, and all 40 are closed; the five

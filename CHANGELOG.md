@@ -63,6 +63,31 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 24 / unit 1 — Frozen Window `C-IIβ-330` closed (2026-10-06)** — measured at `54049a8`: **8 dirty
+  sections**, worst Final Observation 0.158 (the choice blockquote and the success/fail row), then Story Log 0.147
+  (Entry 5's stock tale), M.A.W. Equipment 0.146 (the 11-dossier stat-interpretation line — the file's residue — the
+  monocle conferral note, the set note and the five field-use rows), Flavor Text 0.098 (the isolation line, the
+  interaction preambles and the procedure line), Registrum 0.097 (the containment line, the faction line and the
+  21-dossier operational interpretation), Trivia 0.080 (the classification and field rows), Observation Log 0.067
+  (the initial-exposure row and the observation method) and Combat Record 0.051 (the resistance row, the Full
+  Shatter and Every Window Freezes rows, and the Tension and Resolution lines). All eight closed in two waves
+  (15 + 14 sites); 6,907 → **7,745 words**; `tpl.py` residue 1 → **0** (the stat-interpretation line re-authored on
+  the set's own cost — the monocle cannot be requested at all and the 2 conferrals are cited for what the Warden
+  refrained from writing); `verify.py` residual 1 → **0** (Story Log Entry 1's stock `is logged as `);
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from
+  **False** to **True** on the file's own counted record — 1.45 metres per second as the registered pace, 9
+  categories as the whole printed list of scenes, 4,100 scenes logged against it, the register's 23 declarations of
+  which 19 were followed within 2 years by the household giving up its tenancy and its standing search, 2 of the
+  named since returned, 12 filed co-presences across the 3 relations, and 2 conferrals of the monocle — **restated
+  from the file, disclosed**; condition and disposition were already satisfied and left alone (`R-05`). Stock
+  pieces were replaced with the holding's own material throughout: the choice block and both combat actions onto the
+  circuit and the register, the interaction block onto the 3 Commons holdings that also refuse an ending, and the
+  M.A.W. rows onto what the set actually takes — the wearer begins treating the reflections as correspondence.
+  Movement at the unit commit: `R-29` 138 → **139 / 301** (series **239**); section-clean 163 → **164 / 302**;
+  residue-free 240 → **241 / 302**; residue lines 7, instances 80 → **79**, carriers 62 → **61 / 302**; archive
+  dirty 648 → **639**; file-clean 266 → **267 / 302**; worst 0.078 and median 0.011 steady. **Batch 24 opens at
+  seven; stands at one of seven.**
+
 - **Batch 23 / unit 5 — Face Beneath Masks `N-IIβ-689` closed (2026-10-06)** — measured at `5199f64`: **8 dirty
   sections**, worst Registrum 0.192 (the shared operations and review paragraphs), then Final Observation 0.143,
   Breach Behavior 0.085 (movement, breach type, gauge and first-target rows), Combat Record 0.073 (the Total

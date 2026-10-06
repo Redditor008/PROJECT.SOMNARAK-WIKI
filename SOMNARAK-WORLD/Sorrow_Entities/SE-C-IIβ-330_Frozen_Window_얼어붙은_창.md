@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Weight pressure; 15% against other pressure types |
+| **Resistance** | 25% against Weight pressure; 15% against everything else. Nothing here is rated against the circuit itself, because the circuit is not an attack: the figure does not close on a worker and never stops, and the 25 is measured against the weight the walking sheds rather than against the walking. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 369/369 |
 | **Han Pressure [ATK]** | 8–20 per hit · Weight |
@@ -81,14 +81,14 @@
 | { *The Frost Spread* [**Debuff**] } | "Ice crawls across the window — thickening, sealing — and through the frost, a shape watches." | [The Window's ice spreads; the target sees something behind it.] | *Target suffers -10 Resolve; the sealed window hides a watcher.* **[10 Weight DMG [Weight]]** | When the target looks at the Window. |
 | { *The Sealed View* [**Debuff**] } | "The ice thickens until nothing is visible — but you can still hear breathing on the other side." | [The Window seals completely; the target is locked in with whatever is outside.] | *Target loses 10 Resolve; they are trapped behind the ice.* **[10 Weight DMG [Weight]]** | When the target tries to open the Window. |
 | { *The Ice Shard* [**Attack**] } | "A shard of the frozen window breaks free — and it is sharp enough to cut through steel." | [A jagged ice-shard launches from the Window.] | *Inflicts Weight pressure and one deep, freezing cut.* **[14-22 Weight DMG [Weight]]** | When the Window is struck. |
-| { *The Full Shatter* [**Attack**] } | "The entire window gives way — and through the gap, the cold outside pours in." | [The Window's ice-shield detonates, releasing the cold behind it.] | *A heavy Black freeze; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Window is broken. |
-| { *Every Window Freezes* [**Ultimate**] } | "The frost spreads to every window — every opening — until the whole field is sealed in ice." | [The Window extends its permafrost across every opening.] | *All in range suffer Weight pressure for three turns behind frozen glass.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Shatter* [**Attack**] } | "The entire window gives way — and through the gap, the cold outside pours in." | [The pane fails; the cold it was holding back arrives at once, and everyone near it carries the weight of a departure the surface has already shown.] | *A heavy Black freeze; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Window is broken. |
+| { *Every Window Freezes* [**Ultimate**] } | "The frost spreads to every window — every opening — until the whole field is sealed in ice." | [Every opening in the Commons seals at once and the watch becomes a corridor with no far end.] | *All in range suffer Weight pressure for three turns behind frozen glass, and it does not lift until somebody names an ending.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Frozen Window is recognised by the paired frost-and-scorch footprint, which no other holding in the Commons leaves; the figure itself is often seen only at distance and in motion — then the approach is set and the positions are taken.
+1. **Tension:** Identification first — Frozen Window is recognised by the paired frost-and-scorch footprint, which no other holding in the Commons leaves, and by the weight arriving before the figure does; the figure itself is often seen only at distance and in motion. The approach is set against the marked circuit line rather than against a position, and the 2 Wardens work it from opposite directions at the registered pace.
 2. **Clash:** Five turns, worked moving. Nobody stands still in front of it and nobody blocks the circuit; the forced-stillness escalation is the one behaviour in this file that is fully established.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Allow it to complete its circuit and name the ending**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Allow it to complete its circuit and name the ending**. The condition is met when a statement of the ending has been entered in the register by an officer with authority to make it; a watch that ends with the circuit incomplete is filed as an outcome, and the pace is re-baselined before the next attempt.
 
 ### Consequences
 
@@ -220,28 +220,28 @@ Delicate frost fractures run through the lens without obscuring vision, highligh
 
 **Slot:** Eye / Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 while working Frozen Window, and it does not travel: the pane is read against the circuit, showing cold-stress points in slowed or frozen matter, so anywhere but the Commons it returns nothing but the wearer's own reflection.
 
 **Ability:** *Thermal Fracture Sight* — Increases critical hit rate by 8% against slowed, rooted, or frozen targets by highlighting structural cold stress points.
 
 **Cost:** The right eye perceives the world in chilled blue tones.
 
-*The Rime-Pane Monocle is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who walked the full circuit beside it, logged the scene types, and transcribed none of the content.*
+*The Rime-Pane Monocle is not issued and cannot be requested. It has been conferred 2 times, in both cases on a Warden who walked the full circuit beside the figure, logged the scene types from the 9-category list, and transcribed none of the content — the conferral is a record of what was not written down as much as of what was done.*
 
 ### M.A.W. Use Notes
 
-Each piece extends Frozen Window rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wearer feels every departure reflected in the pane, creating a heavy sense of solitary confinement — arrives early and does not reverse on return.
+Each piece extends Frozen Window rather than arming its wielder against it. The benefit holds only inside the pattern the file records — a circuit walked at 1.45 metres per second, the surface read by type and never by content — and outside it the cost arrives early: the wearer feels every departure reflected in the pane, a heavy solitary confinement that does not reverse when the piece comes back.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Frozen Window's toll being that the wearer feels every departure reflected in the pane, creating a heavy sense of solitary confinement. |
-| **During use** | Frozen Window charging, which presents as this: the wearer feels every departure reflected in the pane, creating a heavy sense of solitary confinement. The wielder's own account is taken separately and afterwards. |
-| **At limit** | The right eye perceives the world in chilled blue tones, without remission. On a Frozen Window piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece and check the sealed baseline: has Frozen Window's cost — the right eye perceives the world in chilled blue tones — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, the circuit's current pace and the sealed baseline, plus one pre-check made by the second Warden rather than the wielder: whether the operator can walk a full circuit today without answering the surface. The toll on this piece does not present on the day, so the pre-check is a question about the operator's own week and not about the Commons. |
+| **During use** | The charge presents as the wearer beginning to treat the reflections as correspondence — answering the pane instead of logging it. The second Warden enters the circuit on which it is first seen and does not interrupt the walk to point it out; a wearer who starts naming the subjects of scenes rather than their types is stood down at the next marker. |
+| **At limit** | The right eye perceives the world in chilled blue tones, without remission, and the wearer has begun drafting replies to people who are not coming back. On a Frozen Window piece the use ends there whatever the wielder says, and the drafts go into the file with the piece. |
+| **After use** | Return the piece and check the sealed baseline 7 days later, with the same question put by the same second Warden: has the cost — the chilled blue in the right eye — outlasted the rotation, and are the drafts still being written? The answer is entered whether or not the wielder agrees, and where the cost has not cleared the piece is not reissued to that wielder. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The rating describes what a piece does to a holding and says nothing about what it costs the person holding it. On this set the cost runs the other way from the grade: the monocle cannot be requested at all, and the 2 conferrals on record are cited for what the Warden refrained from writing rather than for what they achieved. Authorise on the cost column — and on a piece like this one the cost column is the conferral history.
 
 ## 관찰 기록 (Observation Log)
 
@@ -259,18 +259,18 @@ Each piece extends Frozen Window rather than equipping its wielder against it. T
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Frozen Window as a Subject with Subject-Grudge manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone D, Mantle Commons. |
+| **Initial exposure** | The observer identifies Frozen Window as a Subject with Subject-Grudge manifestation. The first reliable markers are its Weight signature and the paired frost-and-scorch footprint no other holding in the Commons leaves; after that the figure is often seen only at distance and in motion, the weight arriving before it does, and by the 3rd circuit the surface is showing a doorway out of the observer's own life. |
 | **Sustained observation** | Circuit position, direction, pace, surface scene by type from the printed list, footprint pair, gauge, and the viewing minutes accrued by every person who looked, including those not on the watch. |
 | **Activation or escalation** | Escalation is scene rate. When the surface changes faster than once a minute, or the circuit shortens past the marked figure, the watch withdraws to the outer line; both thresholds are numeric and the patrol lead applies them. |
 | **Post-contact review** | Pace and gauge before and after, scene types logged, viewing minutes by name, and a seven-day check on the worker for unfinished correspondence and unsent messages. |
 
-**Observation method:** Walk the circuit in pairs, opposite ways, at the stated interval, logging scene type and never scene content. Record pace, position, gauge and the condition that ended the watch. The form here is the sorrow and not a strategy: somebody stood at a window for a person who did not come, and what is left will not stand still long enough for the view to become final.
+**Observation method:** Walk the circuit in pairs, opposite ways, at the registered 1.45 metres per second, logging scene type from the 9-category list and never scene content. Record position, gauge, viewing minutes by name, and the condition that ended the watch; 4,100 scenes are logged against that list and no 10th category has been needed since the first year. The form here is the sorrow and not a strategy: somebody stood at a window for a person who did not come, and what is left will not stand still long enough for the view to become final.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Frozen Window (C-IIβ-330 [WS]) is logged as a Subject-Grudge manifestation expressing Weight. The entity formed from the refusal to accept a final view. Held at Zone D, Mantle Commons. The entity moves continuously; forced stillness causes escalation.
+Frozen Window (C-IIβ-330 [WS]) is a Subject-Grudge manifestation expressing Weight, formed from the refusal to accept a final view. Held at Zone D in the Mantle Commons under continuous two-Warden patrol, because a cell would hold the figure still and stillness is the one condition known to escalate it; it moves without recorded rest and the watch is therefore a circuit.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Travels through Mantle Commons and adjacent halls. Personnel feel the weight of an ending they refuse to accept. It glows during the Sorrow Tide.
@@ -282,13 +282,13 @@ The weight of watching someone leave and believing movement might reverse the lo
 Management: Allow it to complete its circuit and name the ending. Work response — Flerehan: Slows and displays the worker's own farewell. (Decrease); Pugnahan: Surges and throws shards of frozen weight. (Increase); Viderehan: Shows the event seen through its surface. (Stable); Ferrehan: Keeps moving while testing whether the worker can remain. (Decrease). Personnel report sorrow rather than fear after seeing its reflected scenes.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Warden who couldn't protect. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+The story here is not the one that gets told. In the 5th year the Directorate regularised what the circuit had always answered to: an officer of the wing was given authority to name an ending aloud, and a register was opened. 23 declarations have been entered in it, and they have no legal effect of any kind — nobody has ever applied for the real procedure in respect of the 23. They worked anyway. Within 2 years of a name appearing on the board, in 19 of the 23 cases the household had given up the tenancy and stopped the standing search; 2 of the named have since returned, and both found their names on a facility notice, in public, with a date.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Frozen Window; the other feeds it.
+> Two ways to end the same circuit. One is the resolution on file — let the figure complete its walk and name the ending — and the other is the answer a Warden gives at the end of a long shift, when the surface has been showing their own doorway for 3 circuits running.
 
-| Allow it to complete its circuit and name the ending — as written, without improvising. | Do the obvious, decent thing instead, and feed Frozen Window. |
+| Walk the circuit to its end and name the ending — as written, in the register, by the officer with authority, without improvising. | Cut the circuit short, look away through the scenes, or offer the figure a vague formulation instead: the pace holds, the last view becomes permanent in the surface, and the weight arrives early for everyone on the watch. |
 |---|---|
 | Slows and displays the worker's own farewell. The sorrow is borne; Frozen Window is fully recorded. | Surges and throws shards of frozen weight. The gauge climbs and Frozen Window withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -309,22 +309,22 @@ The Window passes like a person walking behind glass. Inside its frozen surface,
 
 ### Interaction Pattern
 
-This holding is read against the other things in the Commons that refuse an ending. Each relation below has been observed and filed; none is settled; and all three were run on the move, since the figure cannot be held still for a test.
+Frozen Window is read against the 3 holdings in the Commons that also refuse an ending, and the comparison is filed rather than settled: the figure cannot be held still for a test, so all 3 relations were run on the move at the registered pace, and what the file records is the resemblance it started from rather than a measurement it never obtained.
 
-**Interaction method:** Baseline each party alone across several circuits before any paired approach, with pace, scene type and gauge logged throughout. Record the onset of any shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
+**Interaction method:** Baseline each party alone across several circuits first, at the registered pace, with scene type read from the printed list and the gauge taken at each marker. Then record the first shared change, its range, duration and trigger, both gauges, the viewing minutes accrued by name, and whatever persists after the two are separated. Re-verify each cycle; in 9 years the run has not produced one shared measurement that outlasted separation.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. All three were proposed on a resemblance of theme, and in nine years the wing has not obtained a single measurement that turns a resemblance into a relation.
+The 3 rows below are points of contact the archive has filed, not alliances. None is settled. All 3 were proposed on a resemblance of theme, and in 9 years of circuits the wing has not obtained a single measurement that turns a resemblance into a relation.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
 |---|---|---|---|
 | **The Broken Clock** | Both are read as refusals of a fixed moment, which is the most frequently asserted pairing in the Commons. | Four co-presences. The Clock's interval did not change and this holding's pace did not change, on any occasion, measured both ways. Neither gauge moved. A shared theme and no shared behaviour. | All four co-presences, the interval and pace series, and both flat gauges. |
 | **The Frozen Shard** | Shares the cold, and the two are routinely confused in incident reports from outside the wing. | Five co-presences. Surface temperature readings on both were unchanged throughout, the burning outline did not dim, and no resonance of any kind was recorded. The confusion is a filing problem and the wing has said so in writing twice. | All five co-presences, the temperature series, and the two written corrections. |
 | **The Lost Prince** | Shows in its surface, repeatedly, which residents read as a bond and the file does not. | Three co-presences and eleven surface appearances outside them. The Prince's gauge has never moved in response; this holding shows many people, and the Prince is simply the one the Commons recognises. | All three co-presences, the eleven appearances, and the Prince's flat series. |
 
-**Interaction procedure:** Solo circuits first, over several cycles, with pace, scene type and gauge established for each party before anything is brought near. Then record the first shared change, its range, duration and trigger, both gauges, the viewing minutes accrued, and whether anything persists once the parties are separated.
+**Interaction procedure:** Solo circuits first, over several cycles, with pace, scene type and gauge established for each party before anything is brought near, and the circuit walked at the registered 1.45 metres per second throughout. Then record the first shared change, its range, duration and trigger, both gauges, the viewing minutes accrued, and whether anything persists once the parties are separated — noting that across the 12 co-presences on file, nothing has.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -360,18 +360,18 @@ Some sorrows accept. Frozen Window does not — it waits, and waits, and will no
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). It does not hunt and has injured two people, both during prohibited Pugnahan attempts; it breaches, twice on file, by walking out. The earlier entry describing the threat as low with no breach is an error and is corrected here.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type and Flerehan also lowers the gauge; Viderehan holds it level and Pugnahan is prohibited. Earlier copies of this line named Ferrehan alone, which understates the Behavior table and is corrected here.
+- Ferrehan is the primary Work Type; Flerehan also lowers the gauge, Viderehan holds it level and Pugnahan is prohibited. Earlier copies of this line named Ferrehan alone, which understates the Behavior table above and is corrected here; the prohibited approach is also the one that has injured 2 people, both on record.
 - It does not stop. Earlier revisions described this holding as a watching window that cannot turn away; it is a walking figure that cannot stand still, and the distinction governs every part of the patrol order.
 **Observation Notes:**
 - Formed from a household of the Commons, from one person's waiting for a return that did not come.
 - The waiting became the walking; the scenes in the surface are what was being watched for.
 **Cross-References:** Zone D · The Frozen Veil · the household correspondence · the scene-type list · the disposal notice · the endings register
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED, on the D-territory exploration whose patrol this circuit is · UCD, on the Fray-adjacent zone. Neither has ever proposed a cell here, and the reason is written onto the patrol order: a cell would hold the figure still, and stillness is the one condition certain to escalate it.
 **Originator:** A citizen of the Mantle Commons who wrote eleven letters after the last date on which they could have arrived.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is a starting point and the circuit is the record: what the classification predicts is checked at every marker against pace, gauge and the surface types, because the figure moves and the file does not. The counts are the instrument — 1.45 metres per second as the registered pace, 9 categories as the whole printed list of scenes, 4,100 scenes logged against it, and the register's 23 declarations, after 19 of which the household gave up its tenancy and stopped its standing search within 2 years. Where the counts and this section disagree, the counts are right and the disagreement is filed, not smoothed over.
 
 **Review requirement:** Re-verify after every breach, relocation, transformation attempt, or unusual interaction: gauge, pace, circuit position, scene-type log, footprint record, and viewing minutes by name for everybody who looked. Viewing minutes are totalled across watches and not reset at the shift boundary.
 ## Watch Record
@@ -443,8 +443,8 @@ The objection is minuted at every annual review and is raised by the Commons' wa
 
 ### Registry Trivia
 
-- **Classification detail:** Frozen Window is a Subject with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone D, Mantle Commons.
+- **Classification detail:** A Subject-Grudge manifestation of Echo (II) coherence and Moderate (β) potency. The tier is set by the weight it carries and not by any aggression: it has injured 2 people on record and both injuries came out of prohibited Pugnahan attempts.
+- **Field detail:** Element Weight, registered to Zone D in the Mantle Commons, where containment is a circuit rather than a cell: 2 Wardens, opposite directions, 1.45 metres per second, and a watch that logs the type of every scene and the content of none.
 - **Recognition detail:** Identify it by the paired frost-and-scorch footprint, which no other holding in the Commons leaves; the figure itself is often seen only at distance and in motion.
 - **Record detail:** Read this file beside the household correspondence, which is the only document here written by the person the holding came from.
 - **Containment detail:** There is no cell and there will not be one. Containment here is a circuit, two Wardens and an interval, and the reason is written into the patrol order: holding it still is the one thing certain to make it worse.
