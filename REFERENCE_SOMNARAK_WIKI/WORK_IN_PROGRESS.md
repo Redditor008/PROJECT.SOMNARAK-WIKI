@@ -2169,7 +2169,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 32 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IIIγ-145 Briar 가시의 정원 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIIγ-145_Briar_가시의_정원]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-145_Briar_%EA%B0%80%EC%8B%9C%EC%9D%98_%EC%A0%95%EC%9B%90.md "SE-C-IIIγ-145_Briar_가시의_정원.md")
+- SE-C-IIIγ-145 Briar 가시의 정원 — `cb95ccb` — PUSH VERIFIED — [[SE-C-IIIγ-145_Briar_가시의_정원]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-145_Briar_%EA%B0%80%EC%8B%9C%EC%9D%98_%EC%A0%95%EC%9B%90.md "SE-C-IIIγ-145_Briar_가시의_정원.md")
 
 - SE-C-IIβ-716 Double Mouth 찢어진 속삭임 — `0373e98` — PUSH VERIFIED — [[SE-C-IIβ-716_Double_Mouth_찢어진_속삭임]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-716_Double_Mouth_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-C-IIβ-716_Double_Mouth_찢어진_속삭임.md")
 **Batch 31 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
