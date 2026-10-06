@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 29 / unit 8 — Carrying Nothing `C-IIβ-357` closed (2026-10-07)** — measured at `b310c4f`: **5 dirty
+  sections**, worst Final Observation 0.167 (the blockquote, condition row and result row), then M.A.W. Equipment 0.155
+  (the blade and harness appearances, the Use Notes, all four field-use rows and the stat interpretation), Registrum
+  0.117 (the operational interpretation and the review requirement), Flavor Text 0.060 (the interaction preamble) and
+  Combat Record 0.058 (two action rows, the tension phase and the resolution). **Closed in a single wave** (19 sites);
+  6,515 → **6,881 words**; `tpl.py` residue 0 throughout; `verify.py` residual **1 → 0** (Story Log Entry 1's
+  `is logged as `); the pipe check was clean throughout; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**, condition and series already satisfied — the condition re-registered inside the
+  rewritten resolution line in the file's own words (`do not replace the missing thing with a false explanation`),
+  held **True**. The stock pieces went onto the vault's own readings: the 24-millimetre sighted displacement, the fire
+  that leaves no ash, one Warden at a time on a logged approach, and the clause against filling the gap. Movement at
+  the unit commit: `R-29` 178 / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; residue lines @lines@;
+  archive dirty 318; file-clean @fc@ / 302. **Batch 29 stands at eight of ten.**
+
+
+
 - **Batch 29 / unit 7 — Repose `O-IVδ-844` closed (2026-10-07)** — measured at `85423fe`: **6 dirty sections**, worst
   Behavior 0.168 (the operational work notes paragraph, the generator's own template), then Final Observation 0.150
   (the blockquote, condition row and result row), M.A.W. Equipment 0.071 (the charm appearance and all four field-use
