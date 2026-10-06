@@ -1812,7 +1812,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 27 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-N-Iα-025 The Silent Child 조용한 아이 — `__HASH__` — PUSH VERIFIED — [[SE-N-Iα-025_The_Silent_Child_조용한_아이]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-025_The_Silent_Child_%EC%A1%B0%EC%9A%A9%ED%95%9C_%EC%95%84%EC%9D%B4.md "SE-N-Iα-025_The_Silent_Child_조용한_아이.md")
+- SE-N-Iα-025 The Silent Child 조용한 아이 — `3d507df` — PUSH VERIFIED — [[SE-N-Iα-025_The_Silent_Child_조용한_아이]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-025_The_Silent_Child_%EC%A1%B0%EC%9A%A9%ED%95%9C_%EC%95%84%EC%9D%B4.md "SE-N-Iα-025_The_Silent_Child_조용한_아이.md")
 - SE-O-IIIδ-011 Scar Walker 흉터의 행자 — `fc1a8c6` — PUSH VERIFIED — [[SE-O-IIIδ-011_Scar_Walker_흉터의_행자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B4-011_Scar_Walker_%ED%9D%89%ED%84%B0%EC%9D%98_%ED%96%89%EC%9E%90.md "SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md")
 
 **Batch 26 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
