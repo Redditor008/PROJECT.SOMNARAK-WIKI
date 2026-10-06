@@ -1706,6 +1706,28 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 24 is closed at seven (units 1–7; the owner's ladder, 3 or 5, then 7, then 10).** Measured at `6c0e4f0`:
+the seven units carried **7 or 8 dirty sections** each at their own measurement (8 + 8 + 7 + 7 + 7 + 7 + 7 = 51),
+and all 51 are closed; the dossiers grew 6,907 → **7,745** (u1 Frozen Window), 7,054 → **7,815** (u2 Devouring
+Bloom), 6,289 → **6,858** (u3 Mourner's Bloom), 6,078 → **6,916** (u4 Echo of Kindness), 5,863 → **6,620** (u5
+Torn Flower), 6,620 → **7,320** (u6 Broken Compass) and 6,540 → **7,179** (u7 The Kind Healer) words — a net
+**+5,102 words** with nothing deleted (`R-15`). `tpl.py` residue instances 80 → **63**, carriers 62 → **51 / 302**,
+residue lines 7 → **6**: the Lament Han-silk shroud appearance line was retired archive-wide, its last two sites
+being u3's and u7's. `verify.py` residual 5 → 0 across the cohort. `sectfile.py` 0 sections in all seven;
+`wikistd.py` meets **True** in all seven, with `own_series` closed from False to True in u1–u4 on each file's own
+counted record (restated and disclosed) and pre-satisfied in u5–u7 (left alone, `R-05`). Archive movement across
+the batch: `R-29` 138 → **145 / 301** (parity 274 · specific condition 256 · own numeric series 238 → **242** ·
+disposition 301 · section-clean 162 → **169**); residue-free 240 → **251 / 302**; archive dirty sections 648 →
+**587**; file-clean 266 → **276 / 302**; worst whole-file fraction 0.078 → **0.064**; median 0.011 steady. The
+remaining 10 of those 61 sections came off neighbours as the shared families thinned (Soaking Rope 6 → 5, Anonym
+7 → 6, Aphasia 5 → 4, Thralldom 6 → 5 and six more across the later waves). Disclosures: the u5 commit message
+recorded `R-29` 143 / 301 while the measured figure at that moment was **142 / 301** — the difference was a
+neighbour regression, Echo of Kindness's M.A.W. section crossing 0.05 on shared appearance shells, re-authored in
+place at `c114acf` and disclosed in both files, after which 143 stood; and the diagnostic formulations written
+during this batch were deliberately varied so that no re-authored line could join a shared-line family. The seven
+units and their SE links are listed above. **The next cohort is the ten** (`R-26`; the ladder is 3 or 5, then 7,
+then 10).
+
 **Batch 24, unit 7: The Kind Healer `C-Iα-071` closed.** Measured at `95cbd3e`: **7 dirty sections**, worst Final
 Observation 0.375 (the choice blockquote, the resolution row and the success/fail row), then M.A.W. Equipment 0.261
 (the 11-dossier *unwept grief* cost line and the 10-dossier shroud appearance line — both residues — plus the blade,

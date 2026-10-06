@@ -63,6 +63,18 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 24 closed at seven (2026-10-06)** — 51 / 51 dirty sections closed across the seven units (8 + 8 + 7 + 7 + 7 +
+  7 + 7); the dossiers grew 6,907 → 7,745 · 7,054 → 7,815 · 6,289 → 6,858 · 6,078 → 6,916 · 5,863 → 6,620 · 6,620 →
+  7,320 · 6,540 → 7,179 words, a net **+5,102 words** with nothing deleted (`R-15`). `tpl.py` residue instances
+  80 → **63**, carriers 62 → **51 / 302**, residue lines 7 → **6** (the Lament Han-silk shroud appearance line
+  retired archive-wide on its last two sites); `verify.py` residual 5 → 0; `sectfile.py` **0** sections in all
+  seven; `wikistd.py` meets **True** in all seven. Archive movement: `R-29` 138 → **145 / 301** (parity **274**,
+  condition **256**, series 238 → **242**, disposition **301**, section-clean 162 → **169**); residue-free 240 →
+  **251 / 302**; archive dirty sections 648 → **587**; file-clean 266 → **276 / 302**; worst 0.078 → **0.064**;
+  median 0.011 steady. Disclosed: the u5 commit message said `R-29` 143 / 301 against a measured 142 / 301 — a
+  neighbour regression (Echo of Kindness's M.A.W. section on shared shells, re-authored in place at `c114acf`) —
+  after which 143 stood. **The next cohort is the ten** (`R-26`).
+
 - **Batch 24 / unit 7 — The Kind Healer `C-Iα-071` closed (2026-10-06)** — measured at `95cbd3e`: **7 dirty
   sections**, worst Final Observation 0.375 (the choice blockquote, the resolution row and the success/fail row),
   then M.A.W. Equipment 0.261 (the 11-dossier *unwept grief* cost line and the 10-dossier shroud appearance line —
