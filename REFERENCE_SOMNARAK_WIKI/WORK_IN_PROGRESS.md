@@ -1685,6 +1685,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 
 **Batch 23 — OPEN, five targeted; finished dossiers, each with its SE git link and closing commit** ([`R-12`](RULES/R-12_REFER_TO_GITHUB.md); links generated with `tools/ghlink.py`):
 
+- SE-C-Iα-240 Echo of Kindness 친절의 메아리 — `__HASH__` — PUSH VERIFIED — [[SE-C-Iα-240_Echo_of_Kindness_친절의_메아리]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-240_Echo_of_Kindness_%EC%B9%9C%EC%A0%88%EC%9D%98_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-C-Iα-240_Echo_of_Kindness_친절의_메아리.md")
 - SE-C-Iα-330 Mourner's Bloom 슬픔의 꽃 — `6458f77` — PUSH VERIFIED — [[SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-330_Mourner's_Bloom_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%BD%83.md "SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃.md")
 - SE-C-IIIγ-916 Devouring Bloom 스며든 꽃 — `c972526` — PUSH VERIFIED — [[SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-916_Devouring_Bloom_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EA%BD%83.md "SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md")
 - SE-C-IIβ-330 Frozen Window 얼어붙은 창 — `81d36e0` — PUSH VERIFIED — [[SE-C-IIβ-330_Frozen_Window_얼어붙은_창]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-330_Frozen_Window_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%B0%BD.md "SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md")
@@ -1701,6 +1702,22 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-C-IVδ-125 Dejà Vu 돌아온 열매 — `1e7f61e` — PUSH VERIFIED — [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
+
+**Batch 24, unit 4: Echo of Kindness `C-Iα-240` closed.** Measured at `62d8b20`: **7 dirty sections**, worst Behavior
+0.307 (the 37-dossier behavior-table line), then M.A.W. Equipment 0.246 (the 12-dossier *unwept grief* cost line —
+the file's residue — plus the abilities, costs, appearances, the set note, four field-use rows and the stat
+interpretation), Registrum 0.176 (the 20-dossier operational interpretation and review requirement, and the faction
+line), Final Observation 0.159, Trivia 0.110, Flavor Text 0.106 (the 32-dossier isolation line, the first-contact,
+activation and departure lines, and the header row) and Combat Record 0.074 — all seven closed in two waves
+(20 + 13 sites; the first aborted once on an under-counted assert, a safe redo); 6,078 → **6,916 words**; `tpl.py`
+residue 1 → **0**; `verify.py` residual 2 → **0** (Story Log Entry 1 and the stock activation line); `sectfile.py`
+**0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True**
+on the Commons count book — 61 returns a month, then 44, then 29, kept by a stallholder for 41 years, the longest
+series the archive holds on any entity; the 9 identified voices of 4238; and the roster rule that no return in 3
+years has followed a rostered act — restated from the file and disclosed; the condition and disposition clauses
+were already satisfied and left alone (`R-05`). Movement: `R-29` 142 / 301 (series **242**);
+section-clean 166 / 301; residue-free 243 / 302; archive dirty 613; file-clean 272 / 302.
+**Batch 24 stands at four of seven.**
 
 **Batch 24, unit 3: Mourner's Bloom `C-Iα-330` closed.** Measured at `d8b3222`: **7 dirty sections**, worst Behavior
 0.268 (the 37-dossier behavior-table line), then Registrum 0.223 (the 20-dossier operational interpretation and

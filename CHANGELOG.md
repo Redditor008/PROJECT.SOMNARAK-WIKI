@@ -63,6 +63,29 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 24 / unit 4 — Echo of Kindness `C-Iα-240` closed (2026-10-06)** — measured at `62d8b20`: **7 dirty
+  sections**, worst Behavior 0.307 (the 37-dossier behavior-table line), then M.A.W. Equipment 0.246 (the 12-dossier
+  *unwept grief* cost line — the file's residue — the two abilities, the two costs, three appearances, the set note,
+  four field-use rows and the stat interpretation), Registrum 0.176 (the 20-dossier operational interpretation and
+  review requirement, plus the faction line), Final Observation 0.159, Trivia 0.110 (the field and containment
+  rows), Flavor Text 0.106 (the 32-dossier isolation line, the first-contact line, the activation line, the
+  departure line and the header row) and Combat Record 0.074 (the resistance row, both combat actions, the
+  Tension/Resolution lines and the Clarity bullet). All seven closed in two waves (20 + 13 sites; the first aborted
+  once on an under-counted assert, a safe redo); 6,078 → **6,916 words**; `tpl.py` residue 1 → **0** (the cost line
+  re-authored — the wielder carries the holding's unwept grief and weeps without meaning to); `verify.py` residual
+  2 → **0** (Story Log Entry 1's stock `is logged as ` and the stock activation line); `sectfile.py` ends at **0
+  section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** on
+  the Commons count book — 61 returns a month, then 44, then 29, kept by a stallholder for 41 years and the longest
+  series the archive holds on any entity; the 9 identified voices of 4238; and the roster rule that no return in 3
+  years has followed a rostered act — **restated from the file, disclosed**; condition and disposition were already
+  satisfied and left alone (`R-05`). The interaction block was rebuilt around the file's own distinction (the
+  Hollow Echo gives back what was shouted, this one only what was given away, which is how the two were told apart),
+  the combat and equipment rows onto what the set takes and the file's own count book, and the choice block onto the
+  instruction the file actually carries — no containment, and the figure entered unaltered. Movement at the unit
+  commit: `R-29` 142 / 301 (series **242**); section-clean 166 / 301; residue-free 243 / 302;
+  residue lines 7, instances 77, carriers 59 / 302; archive dirty 613; file-clean
+  272 / 302; worst 0.069, median 0.011. **Batch 24 stands at four of seven.**
+
 - **Batch 24 / unit 3 — Mourner's Bloom `C-Iα-330` closed (2026-10-06)** — measured at `d8b3222`: **7 dirty sections**,
   worst Behavior 0.268 (the 37-dossier *The behavior table is a snapshot, not a system* line), then Registrum 0.223
   (the 20-dossier operational interpretation and review requirement, and the faction line), M.A.W. Equipment 0.191

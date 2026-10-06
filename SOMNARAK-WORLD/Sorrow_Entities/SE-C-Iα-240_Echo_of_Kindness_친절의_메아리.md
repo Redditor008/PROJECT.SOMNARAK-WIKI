@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Lament pressure; 5% against other pressure types |
+| **Resistance** | 15% against Lament pressure; 5% against everything else. Nothing is rated against the kindness itself, because the return is not an attack and the file's whole position is that this holding has never harmed anybody; what the percentages describe is the pressure around a voice that is already fading. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Han Pressure [ATK]** | 3–10 per hit · Lament |
@@ -81,18 +81,18 @@
 | { *The Warm Whisper* [**Debuff**] } | "A voice says something kind — from very far away, from very long ago — and the warmth of it aches." | [The Echo's fading kindness touches the target; they miss what was lost.] | *Target suffers -10 Composure; the kindness is almost gone.* **[10 Lament DMG [Lament]]** | When the target hears the Echo. |
 | { *The Cooling* [**Debuff**] } | "The warmth fades with each repetition — and soon, only the shape of the kind word will remain, empty." | [The Echo's diminishing warmth leaves the target cold.] | *Target loses 10 Composure; the kindness is draining away.* **[10 Lament DMG [Lament]]** | When the target listens. |
 | { *The Gentle Cut* [**Attack**] } | "The echo sharpens — and the kindness, compressed, becomes a blade of pure intention." | [A focused echo of kindness strikes.] | *Inflicts Lament pressure and one wound of bittersweet pain.* **[14-22 Lament DMG [Lament]]** | When the Echo is disturbed. |
-| { *The Final Repetition* [**Attack**] } | "The echo repeats one last time — the kindest word ever spoken, at full force — and then goes silent forever." | [The Echo's last and strongest repetition.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Echo is silenced. |
-| { *The Silent Kindness* [**Ultimate**] } | "Every kind echo in the field fades — and the silence where warmth used to be is the coldest thing of all." | [The Echo extends its fading across the whole area.] | *All in range suffer Lament pressure for three turns of cooling kindness.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Final Repetition* [**Attack**] } | "The echo repeats one last time — the kindest word ever spoken, at full force — and then goes silent forever." | [The last return the square will ever hear, spent in one turn; the count book records the fall to zero and nothing after it.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Echo is silenced. |
+| { *The Silent Kindness* [**Ultimate**] } | "Every kind echo in the field fades — and the silence where warmth used to be is the coldest thing of all." | [Every return in the square fades at once, and the ordinary noise of the Commons comes back into the room.] | *All in range suffer Lament pressure for three turns of cooling kindness.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Echo of Kindness by two or three unhurried words of comfort from just behind the shoulder, with a warmth like breath and nobody standing there, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** Identification first — 2 or 3 unhurried words of comfort from just behind the shoulder, warmth like breath, and nobody standing there. The team confirms the approach by watching what the square is doing rather than what the voice says: a return arrives only for an act nobody was rostered to perform, and the count book is consulted before position is taken.
 2. **Clash:** There is nothing to engage. Viderehan counts returns and transcribes them; Ferrehan is sitting in the Commons and letting one be said to you. The second is the work and most Wardens find it the harder of the two.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **No containment required; preserve the conditions that form it**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **No containment required; preserve the conditions that form it**. The condition is met when the monthly figure is entered unaltered and anybody who heard their own voice has been rotated out of the Commons; there is nothing here to hold, and the file's failure mode is a decision to interfere.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
+- If resistance fails, the pressure moves directly into the worker's psychological matrix, depleting **Clarity** and accelerating the gauge, and the worker is rotated out of the Commons for a full cycle. The count is not adjusted to excuse it: on this holding an adjusted figure is the only thing that can hide a rising series.
 - Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
 - The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
 - If the resolution condition is not fulfilled, Echo of Kindness reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
@@ -144,9 +144,9 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Echo of Kindness is recorded as an Object/Place with Lament manifestation and Lament elemental expression. The current record places it at Zone D, Mantle Commons — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the behaviour table as a diagnostic and not a prescription: the classification says which Work Type calms this holding and which provokes it, and nothing here transfers to another entity with a similar name. Echo of Kindness is an Object/Place with a Lament manifestation and Lament elemental expression, held at Zone D in the Mantle Commons — ambient, in a working square. The fact that governs every reading is the roster: no return in 3 years has followed an act performed under it. A stable gauge is not a safe encounter — observation can leave the gauge unchanged and still expose the worker to memory, environmental or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** Work success is measured by the holding's response, the worker's condition and the information recovered. A gauge decrease confirms the Work Type is functioning and does not confirm the holding is safe — only quieter; this is stabilisation, not permanent healing. A gauge increase means the holding is absorbing emotional energy rather than releasing it, and unusual responses precede a change in the series long before the count shows it.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -195,15 +195,15 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Echo of Kindness's lament signature in the strike.
+**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the return in the strike: the target hears the kindest thing ever said to them, in the voice of somebody who is not there.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder carries the holding's unwept grief and weeps without meaning to; prolonged use makes the weeping ordinary rather than remarkable, and the piece is issued one rotation at a time because the cost does not show on the day.
 
 ### M.A.W. Suit — The Kindness Shroud
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin. It is cut from the same exchange the holding is — something given freely, and nothing done to order — and the scent is filed with the piece rather than described.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -213,15 +213,15 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Echo of Kindness's kind of pressure.
+**Ability:** Grants resistance to Lament damage and protects the Mind — emotional stability and willpower — and it is worn against this holding's particular pressure: a return cannot be argued with or deflected, and the piece's job is to let the wearer hear it and not answer.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer goes numb to minor joys. The onset is not announced and the wearer is the last person to notice it, so a colleague checks it at the return of the piece against one question: what last pleased you, and when.
 
 ### M.A.W. Stigma — The Kindness Stone
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a small stone of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a small stone of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow. It is sized to a palm and carried in a pocket, which is the Armoury's answer to a holding that arrives from behind the shoulder: something to hold that is not a voice.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -235,18 +235,18 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Echo of Kindness and carries what Echo of Kindness carries: the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+Every piece in this set is a fragment of the same exchange — kindness given and not ordered — and all 3 carry one cost: the wielder feels the holding's unwept grief, and prolonged use brings weeping the wielder cannot place. Grade describes extraction stability and says nothing about that; the cost sits in the column beside it, and it is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what Echo of Kindness takes: the wielder feels the entity's unwept grief. |
-| **During use** | Watch for Echo of Kindness's toll — the wielder feels the entity's unwept grief — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wearer becomes numb to minor joys, without remission. On a Echo of Kindness piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Echo of Kindness's cost is still showing — the wearer becomes numb to minor joys. |
+| **Before use** | Wielder, piece, and a dated baseline put by a colleague rather than by the wielder: what pleased you last, and when. The toll on this set — the holding's unwept grief arriving on the wearer — does not announce itself, and the baseline question is the only instrument the Armoury trusts. |
+| **During use** | Watch for the toll rather than for the weeping: the hour it is first seen is logged by the second worker and never by the wielder, and the question the record asks is not whether the wearer is weeping but whether anything on this rotation was done to order — the set has one rotation for a reason. |
+| **At limit** | The wearer goes numb to minor joys, without remission, and the file's test is the baseline question: a bearer who can no longer say what last pleased them has reached the limit. On an Echo of Kindness piece the use ends there whatever the wielder says. |
+| **After use** | Return the piece, then ask a colleague rather than the wielder whether the cost is still showing — the numbness, and whether the baseline question can be answered at all. The answer is filed with the piece, and where it cannot be answered the piece is not issued to that wielder again. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade tells you how hard a piece hits and nothing about what it takes, and on this set the two are not related in any direction: the cost sits in the column beside it and is frequently the more dangerous of the two. Read both columns and authorise on the second; a low-rated piece carrying a severe psychological cost is the ordinary case here, not the exception.
 
 ## 관찰 기록 (Observation Log)
 
@@ -275,7 +275,7 @@ Every piece in this set is a fragment of Echo of Kindness and carries what Echo 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Echo of Kindness (C-Iα-240 [LO]) is logged as a Place-Lament manifestation expressing Lament, ambient in the Mantle Commons of Zone D. It returns freely given kindnesses in the voice of whoever gave them, it has never harmed anybody, and it is getting quieter every year.
+Echo of Kindness (C-Iα-240 [LO]) is a Place-Lament manifestation expressing Lament, ambient in the Mantle Commons of Zone D. It returns freely given kindnesses in the voice of whoever gave them, it has never harmed anybody, and it is getting quieter: the count book that has followed it for 41 years reads 61 returns a month, then 44, then 29, and no return in 3 years has followed an act performed under roster.
 
 **Entry 2 — <Commons Count Sheet, Year 4238>**
 Twenty-nine returns a month, mean, against forty-four and sixty-one in the two preceding series. Voice identified in nine cases. No return in the whole year followed an act performed under roster.
@@ -293,9 +293,9 @@ Two or three words arrive from just behind the shoulder, unhurried and kind, and
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Echo of Kindness; the other feeds it.
+> Two ways to end the same work. One is the resolution on file — no containment, preserve the conditions that form it — and the other is the intervention that looks like common sense and is the only way this holding has ever been harmed.
 
-| No containment required; preserve the conditions that form it — as written, without improvising. | Improvise something kinder, which is how every failure on Echo of Kindness's file began. |
+| No containment required; preserve the conditions that form it — as written, without improvising, with the monthly figure entered unaltered. | Interfere instead — confine the square, tidy the roster, or correct the count — and the returns stop being replaced; the 61, then 44, then 29 series is already the plainest fact in this file. |
 |---|---|
 | Remains nearby while the worker accepts comfort. The sorrow is witnessed; Echo of Kindness is fully recorded. | Reveals the act that formed the Echo. The gauge climbs and Echo of Kindness withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -306,17 +306,17 @@ A voice speaks from the air: you matter, sit down, I see you. The words are ordi
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A warm voice carried through the air, speaking brief words of kindness. It has no body. Notable Features: It appears after small compassionate acts, fades quickly, and leaves warmth after the sound ends. Identification Profile: The. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Lament form.
+**At first contact:** What identifies it is a warm voice with no body behind it, speaking 2 or 3 ordinary words of comfort — you matter, sit down, I see you — and a space that does not go generic or abstract but changes in the specific way associated with Lament. The words are ordinary, which is why they land; the sound does not last and cannot be recorded after it fades.
 
 **With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Subject-Lament is teaching you its sorrow.
 
-**When the entity activates:** When the Gauge tips, the Lament becomes a force rather than a feeling. The Subject-Lament was holding; now it releases.
+**When the entity activates:** When the gauge tips, the Lament stops being a texture and becomes a force: the holding, which was holding, releases — every return in earshot goes silent at once, and the ordinary noise of the Commons comes back into the room where the warmth had been.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** The pressure drops and the square goes back to ordinary work. What clings is not residue in the suit fibres but the change in the count: the hour of the return is entered, the voice is identified where it can be, and a worker who heard their own voice is rotated out before the next shift.
 
 ### Interaction Pattern
 
-Echo of Kindness does not exist in isolation. Its recorded relationships with The Hollow Echo, The Kind Healer, The Silent Child should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Echo of Kindness is read beside the 3 voice holdings the file has paired it with — The Hollow Echo, The Kind Healer and The Silent Child — and none of the 3 is treated as an alliance or a hostility: they are resonance candidates, filed as such. In a shared event the team records whether anything changes at all in the counts, the space, the gauge or the containment, and the standing note is that a resemblance is the reason a pairing was proposed and not a finding that came out of one. The pair the file leans on hardest is The Hollow Echo: it gives back what was shouted into it, this one gives back only what was given away, and that distinction is how the two were told apart in the first place.
 
 **Interaction method:** Counts kept on the same sheet and on the same days, with the other party's figures taken by its own staff. Nothing is brought into the Commons for a pairing; the square is left exactly as the people who use it keep it.
 
@@ -325,7 +325,7 @@ Echo of Kindness does not exist in isolation. Its recorded relationships with Th
 
 Echo of Kindness must be kept distinct from the other voice holdings. The Hollow Echo gives back what was shouted into it; this one gives back only what was given away, and gives back nothing at all for anything done to order. The distinction is the entire finding of the Commons series.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
 |---|---|---|---|
 | **The Hollow Echo** | It returns what was shouted; this one returns what was given. Placed in the same square they do not interfere and the counts stay separable, which is how the pair was told apart in the first place. | Both counts unchanged. The Hollow Echo repeats; this one does not repeat anything that was not freely done. | Keep two tallies on one sheet and mark which column each utterance belongs in. |
 | **The Kind Healer** | Returns rise sharply while the Healer is working in the square — forty-one in the month of the last attendance — and fall back within a fortnight of its leaving. | The largest single movement in the series. The Healer is unaffected and the effect does not persist. | Count daily through the attendance and for a fortnight after. |
@@ -376,14 +376,14 @@ On the Consolihan, when the city permits itself one day of shared grief, the Ech
 - Twenty-nine returns a month, after forty-four and sixty-one. The Commons count book, kept by a stallholder for forty-one years, is the longest series the archive holds on any entity.
 - Rises during the Consolihan and falls back. No return in three years has followed an act performed under roster.
 **Cross-References:** Mantle Commons · The Consolihan · The Veil (causal factor) · The Hollow Echo · The Kind Healer · The Silent Child · the Works Office · the Spare Hand roster
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** SED, on the D-territory exploration whose ground the square stands on · UCD, on the Fray-adjacent zone · Wound Walkers, on Fracture-relevant screening of the hearers rotated out.
 **Originator:** Collective; no single originator. Formed from the accumulated kindness of Zone D citizens.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map and not the territory: the SECC code, the gauge thresholds and the M.A.W. notes are tools for understanding the Commons, not substitutes for standing in the square. The numbers that govern are the count book's series — 61 returns a month, then 44, then 29, kept by a stallholder for 41 years, the longest series the archive holds on any entity — the 9 identified voices of the last year, and the roster rule that no return in 3 years has followed a rostered act. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts, and the count is entered unaltered.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every breach, Sorrow Tide and transformation attempt invalidates the current baseline: re-verify the count against the book, the roster against the Works Office and the rotated-out list before proceeding. On this holding the first review question is not whether the numbers moved but whether anybody changed them, and the second is whether the file's own record still describes a living sorrow pattern rather than a permanently complete explanation.
 ## Commons Record
 
 ### What the Return Count Is Measuring
@@ -414,10 +414,10 @@ The charge hands asked for the narrowest possible exception: that a worker might
 ### Registry Trivia
 
 - **Classification detail:** Echo of Kindness is an Object/Place with Residue (I) — Barely formed, ambient coherence and Minor (α) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone D, Mantle Commons — ambient.
+- **Field detail:** Element Lament, registered to Zone D in the Mantle Commons — ambient, in a working square — where containment is a count rather than a cordon: nothing is sealed, the figure is reported unaltered, and the series is the state of the holding.
 - **Recognition detail:** Two or three unhurried words of comfort from just behind the shoulder, with a warmth like breath and nobody standing there.
 - **Record detail:** The file carried four different manifestation labels — Subject-Lament, Lament, Object-Lament, Place-Lament — and two designation tags, `[LO]` and `[LP]`. Standardised here to Place-Lament and `[LO]`. The Registrum also named Flerehan as the only Work Type producing consistent data, against a Place that cannot be worked through Flerehan at all.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment holds the body and not the sorrow, and on this holding there is no body to hold: the return is a voice from behind the shoulder, and the containment is a count and a rotation. Even sealed, adjacent personnel report dreams, headaches and gauge drift, which is why the instruction is to preserve the conditions that form it rather than to cordon them.
 ## Document Information
 
 **Document ID:** SE-C-Iα-240
