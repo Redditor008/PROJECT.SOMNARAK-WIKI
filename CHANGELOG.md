@@ -8,6 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 29 / unit 3 — Dormant Monolith `N-IVδ-909` closed (2026-10-07)** — measured at `07759df`: **6 dirty
+  sections**, worst Behavior 0.236 (the operational work notes paragraph), then Origin 0.180 (the expanded origin
+  context, which was carrying the archive's shared Architect story rather than this holding's own), Final Observation
+  0.155 (the blockquote, condition row and result row), M.A.W. Equipment 0.064 (the sceptre and greatsword
+  appearances, the suit ability, the charm appearance, the Use Notes, all four field-use rows and the stat
+  interpretation), Combat Record 0.054 (the resistance row, two action rows and the resolution) and Trivia 0.053
+  (classification detail and field detail). **Closed in a single wave** (25 sites); 7,194 → **7,681 words**; `tpl.py`
+  residue 0 throughout; `verify.py` residual **3 → 0** (the Use Notes opener's `is a conditional extension of `,
+  Story Log Entry 1's `is logged as `, and the Flavor Text exposure line's `becomes a texture you can map`); the pipe
+  check was clean throughout; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition
+  and series already satisfied and left alone (`R-05`). Two stock props were re-authored onto the file's own object
+  rather than left in place: the weapon named a zweihander while its appearance described a sceptre, and the suit
+  named a shield while its appearance described a greatsword — both appearances now match their pieces and the
+  holding's Border post. The stock pieces went onto the file's own filings: the rota sheet as the containment
+  document, the intake book's one-line account, and the roster that shows one name volunteering. Movement at the unit
+  commit: `R-29` 173 / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; residue lines @lines@; archive
+  dirty 355; file-clean @fc@ / 302. **Batch 29 stands at three of ten.**
+
+
+
 - **Batch 29 / unit 2 — Swallow `C-IVδ-767` closed (2026-10-07)** — measured at `71adb35`: **6 dirty sections**,
   worst Behavior 0.250 (the operational work notes and the reading-the-response paragraph), then M.A.W. Equipment
   0.166 (three appearances, three ability lines, the knife and veil costs, the Use Notes, all four field-use rows and

@@ -1716,6 +1716,15 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 29, unit 3: Dormant Monolith `N-IVδ-909` closed.** Measured at `07759df`: **6 dirty sections**, worst Behavior
+0.236, then Origin 0.180 (the shared Architect story in the expanded origin context — re-authored onto this holding's
+own intake account), Final Observation 0.155, M.A.W. Equipment 0.064, Combat Record 0.054 and Trivia 0.053 —
+**closed in a single wave** (25 sites); 7,194 → **7,681 words**; `tpl.py` residue 0; `verify.py` residual **3 → 0**;
+`sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the weapon's appearance described a
+sceptre under a zweihander's name and the suit's described a greatsword under a shield's — both appearances were
+re-authored to match their pieces. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ /
+302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 29 stands at three of ten.**
+
 **Batch 29, unit 2: Swallow `C-IVδ-767` closed.** Measured at `71adb35`: **6 dirty sections**, worst Behavior
 0.250, then M.A.W. Equipment 0.166, Final Observation 0.150, Registrum 0.124, Combat Record 0.078 and Trivia
 0.055 — **closed in three passes** (26 + 3 + a whole-line rebuild of the two addendum paragraphs); 7,517 → **8,020
@@ -1945,6 +1954,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 29 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IVδ-909 Dormant Monolith 잠든 기둥 — `__HASH__` — PUSH VERIFIED — [[SE-N-IVδ-909_Dormant_Monolith_잠든_기둥]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-909_Dormant_Monolith_%EC%9E%A0%EB%93%A0_%EA%B8%B0%EB%91%A5.md "SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md")
 
 - SE-C-IVδ-767 Swallow 번져가는 그림자 — `a53d7a2` — PUSH VERIFIED — [[SE-C-IVδ-767_Swallow_번져가는_그림자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-767_Swallow_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-C-IVδ-767_Swallow_번져가는_그림자.md")
 
