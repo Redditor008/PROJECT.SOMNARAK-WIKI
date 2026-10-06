@@ -63,6 +63,23 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 25 / unit 10 — Aegis `C-IVδ-200` closed (2026-10-06)** — measured at `e93247f`: **6 dirty sections**
+  (the file opened cleaner than the rest of the cohort), worst M.A.W. Equipment 0.285 (the blade, harness and charm
+  appearances, the suit ability, the 10-dossier *reflexes dull, as if armored by resentment* cost line — the file's
+  residue — the effect line, the set note and the four field-use rows), then Behavior 0.272 (the table note and the
+  reading response), Final Observation 0.167, Registrum 0.141 (the operational interpretation and the review
+  requirement), Flavor Text 0.075 (the isolation line, the header row and the first-contact line) and Combat Record
+  0.057 (the resistance row, both combat actions and the Resolution line). All six closed in two waves (18 + 9
+  sites; the first aborted once on a mis-counted assert, a safe redo); 6,955 → **7,561 words**; `tpl.py` residue
+  1 → **0** (the reflexes line re-authored on the post's own terms); `verify.py` residual 1 → **0** (Story Log Entry
+  1's `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**; all three
+  clauses already **True** and left alone (`R-05`). The stock pieces went onto the post: the condition (state the
+  purpose of departure; never attempt a return) into the resolution and the choice block, the ledger figures — 760,
+  834, 910 — and the no-return register into the behavior note and the entry line, and the M.A.W. rows onto the
+  set's charge — a bearer whose stance arrives on its own. Movement at the unit commit: `R-29` 153 / 301 (series
+  **246**); section-clean 177 / 301; residue-free 291 / 302; residue lines 1, instances 11,
+  carriers 11 / 302; archive dirty 508; file-clean 291 / 302. **Batch 25 closes at ten of ten.**
+
 - **Batch 25 / unit 9 — Willing Chains `C-IVδ-976` closed (2026-10-06)** — measured at `6486e96`: **7 dirty
   sections**, worst M.A.W. Equipment 0.298 (three Void Han-glass appearances, both costs, the effect line, the four
   field-use rows and the 10-dossier stat-interpretation line — the file's residue), then Final Observation 0.148,
