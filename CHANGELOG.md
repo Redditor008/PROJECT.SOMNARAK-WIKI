@@ -38,6 +38,30 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 19 / unit 3 — Conservatory `N-IVδ-852` closed; batch 19 closed at three (2026-10-06)** — measured at
+  `ba0b47b`: **10 dirty sections**, worst 이야기 보고 (Story Log) 0.250 (the 24-dossier stock-tale carrier), then
+  Behavior 0.234 (the 51-dossier *Read the behavior table as a diagnostic, not a prescription* line), M.A.W.
+  Equipment 0.213, 감각 묘사 (Flavor Text) 0.173 (the 32-dossier *…does not exist in isolation* block), 최종 관찰
+  (Final Observation) 0.164, Origin 0.161 (the same tale family again), 관찰 기록 (Observation Log) 0.130,
+  Activation Behavior 0.072, Trivia 0.068 and Combat Record 0.068. All ten closed in two waves (19 + 22 sites);
+  8,465 → **9,316 words**; `tpl.py` residue 1 → **0** (the 12-dossier `| **Resistance** | 45% against Grudge
+  pressure …` row); `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged as`); `sectfile.py` ends at **0
+  section(s) over 0.05**; `wikistd.py` meets **True** with the **condition clause closed** — it had been **False**
+  because the file's only management line was the generic valid-Work-Types sentence, now re-authored to this
+  holding's own rule (the cleared margin is walked for combustible material before any session and nothing is
+  built, braced, propped or shored inside the radius at any time, because shoring resembles building more closely
+  than anything else a competent team does under pressure) — and the **series clause already satisfied and left
+  alone** (`R-05`; the fourteen marked stations and the outline series were already counted). Both stock-tale
+  carriers were replaced with the file's own material (the caretaker's technical account, the two reviewers who
+  tried to strike the *method was sound* sentence, the east-range connection; the six naming notices and the two
+  letters). Four beneficial side effects in files this unit did not edit: **Home to No One Who Knew Me `N-IVδ-641`
+  8 → 7**, **Broken Ruin `O-IIIγ-559` 2 → 1**, **Scar Walker `O-IIIδ-011` 9 → 7** (two sections) and **Atlas
+  `O-Iα-169` 7 → 6**. Archive dirty sections 825 → **810**; total dirty 810 across 301 files; median steady at
+  **0.014**, worst at **0.114**, residue instances 163 → **162**, carriers 94 → **93**. Movement: `R-29` 121 →
+  **122 / 301** (specific condition 255 → **256**); section-clean 145 → **146 / 301**; residue-free 208 → **209 /
+  302**; file-clean 235 → **236 / 302**. **Batch 19 is closed at three** (The Frozen Veil `C-IVδ-103`, Frozen Fury
+  `C-IVδ-668`, Conservatory `N-IVδ-852`).
+
 - **Batch 19 / unit 2 — Frozen Fury `C-IVδ-668` closed (2026-10-06)** — measured at `86ec1b3`: **10 dirty
   sections**, worst Behavior 0.302 (the 38-dossier *The behavior table is a snapshot, not a system* line), then
   M.A.W. Equipment 0.236, 관찰 기록 (Observation Log) 0.230, 감각 묘사 (Flavor Text) 0.215 (the 32-dossier

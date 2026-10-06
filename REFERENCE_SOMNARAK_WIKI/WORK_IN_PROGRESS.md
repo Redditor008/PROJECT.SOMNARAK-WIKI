@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **208 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **145 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **121 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **209 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **146 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **122 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 235 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 236 / 302 |
 | Archive median prose generic fraction | 0.014 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1661,6 +1661,23 @@ Pyre of Truths 7 → 6, Swallow 7 → 6, Mourner's Bloom 9 → 8, Repose 7 → 6
 → **0.014**; worst steady 0.114. Movement: `R-29` 120 → **121 / 301** (series **227**); section-clean 144 → **145 /
 301**; file-clean 231 → **235 / 302**. **Batch 19 stands at two of three.**
 
+
+**Batch 19, unit 3: Conservatory `N-IVδ-852` closed; batch 19 closed at three.** Measured at `ba0b47b`: **10 dirty
+sections**, worst Story Log 0.250 (the 24-dossier stock-tale carrier, with the same family again in Origin at
+0.161), then Behavior 0.234 (the 51-dossier *Read the behavior table as a diagnostic, not a prescription* line),
+M.A.W. 0.213, Flavor 0.173, Final Observation 0.164, Observation Log 0.130, Activation 0.072, Trivia 0.068 and
+Combat 0.068 — all ten closed in two waves (19 + 22 sites); 8,465 → **9,316 words**; `tpl.py` residue 1 → **0**;
+`verify.py` residual 1 → **0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True** with the
+**condition clause closed from False** (the generic management row replaced with the holding's own rule: the margin
+walked for combustible material, nothing built, braced, propped or shored inside the radius), series already
+satisfied and left alone. Both stock-tale carriers replaced with the file's own material (the caretaker's technical
+account and the east-range connection; the six notices and two letters), and the 32-dossier isolation block
+re-authored onto resemblance as the entity's only criterion. Four neighbouring dossiers shed a section, Scar
+Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker 9 → 7, Atlas 7 → 6. Archive dirty 825
+→ **810**; residue instances 163 → **162**; carriers 94 → **93**; median 0.014 and worst 0.114 steady. Movement:
+`R-29` 121 → **122 / 301** (condition **256**); section-clean 145 → **146 / 301**; residue-free 208 → **209 /
+302**; file-clean 235 → **236 / 302**. **Batch 19 is closed at three.**
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1725,14 +1742,19 @@ two waves, series closed on its own survey figures, the 66-dossier Registrum she
 replaced, four neighbouring dossiers each shedding a section); and The Dancing Chains `C-IIIγ-102` closed the batch
 as unit 3 (6 → 0 in two waves, **both open clauses closed** — condition on the file's own two-person removal rule,
 series on a disclosed restatement of its own fourteen collapse series and nine conduct entries — plus six
-neighbouring dossiers each shedding a dirty section). **Batch 19 stands at two of three**: The Frozen Veil `C-IVδ-103` came off the head as unit 1 (10 → 0 in three waves,
-both clauses already satisfied and left alone, two Registrum figures and the faction line reconciled with cause,
-five stock interaction rows re-authored, plus Unrung 4 → 3, Doorway to Nowhere 3 → 2 and Portcullis 8 → 7), and
-Frozen Fury `C-IVδ-668` came off it as unit 2 (10 → 0 in three waves, **series closed from False** on a disclosed
-restatement of its own clearance figures, three Registrum figures reconciled with cause and the Pugnahan line
-corrected, plus Broken Compass 8 → 7, Pyre of Truths 7 → 6, Swallow 7 → 6, Mourner's Bloom 9 → 8 and Repose 7 →
-6). The final unit comes from the 10-dirty group: Conservatory `N-IVδ-852` (10, 0.250) and Pent `N-IVδ-821`
-(10, 0.244); Labyrinth of Stolen Faces and Torpor
+neighbouring dossiers each shedding a dirty section). **Batch 19 closed at three**: The Frozen Veil `C-IVδ-103` came off the head as unit 1 (10 → 0 in three waves, both
+clauses already satisfied and left alone, two Registrum figures and the faction line reconciled with cause, five
+stock interaction rows re-authored, plus Unrung 4 → 3, Doorway to Nowhere 3 → 2 and Portcullis 8 → 7); Frozen Fury
+`C-IVδ-668` was unit 2 (10 → 0 in three waves, **series closed from False** on a disclosed restatement of its own
+clearance figures, three Registrum figures reconciled with cause and the Pugnahan line corrected, plus Broken
+Compass 8 → 7, Pyre of Truths 7 → 6, Swallow 7 → 6, Mourner's Bloom 9 → 8 and Repose 7 → 6); and Conservatory
+`N-IVδ-852` closed it as unit 3 (10 → 0 in two waves, **condition closed from False** on the holding's own margin
+rule, both stock-tale carriers replaced, plus Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
+9 → 7 and Atlas 7 → 6). **Batch 20's tier is headed by Pent `N-IVδ-821`** (10, 0.244) with the 9-dirty group
+behind it — Stranded Between Two Shores `C-IVδ-823`, Candela `C-IVδ-165`, Scar Walker `O-IIIδ-011` (now 7),
+Broken Tear `N-IVδ-517`, Mourner's Bloom `C-Iα-330` (now 8), Floating Shard `C-IVδ-503` — and the 8-dirty group
+after that (Gavel `C-IVδ-140`, Broken Compass `C-IIβ-290`, Rising Wall `C-IVδ-255`, Absent Landmark `C-Iα-863`,
+The Silent Maiden `C-IVβ-043`, The Inheritor `C-IIIγ-062`); Labyrinth of Stolen Faces and Torpor
 came off it in batch 6;
 Homeless Sorrow `O-IIβ-119` came back clean and is dropped from the cohort; (2) the `R-01` sweep
 (`tools/editmeta.py`: **81 dossiers, 149 candidate lines**, a floor — see the third-shape note);
