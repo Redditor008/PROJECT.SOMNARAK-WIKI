@@ -1685,6 +1685,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 
 **Batch 23 — OPEN, five targeted; finished dossiers, each with its SE git link and closing commit** ([`R-12`](RULES/R-12_REFER_TO_GITHUB.md); links generated with `tools/ghlink.py`):
 
+- SE-C-IIIγ-916 Devouring Bloom 스며든 꽃 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-916_Devouring_Bloom_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EA%BD%83.md "SE-C-IIIγ-916_Devouring_Bloom_스며든_꽃.md")
 - SE-C-IIβ-330 Frozen Window 얼어붙은 창 — `81d36e0` — PUSH VERIFIED — [[SE-C-IIβ-330_Frozen_Window_얼어붙은_창]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-330_Frozen_Window_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%B0%BD.md "SE-C-IIβ-330_Frozen_Window_얼어붙은_창.md")
 - SE-C-IVδ-255 Rising Wall 솟아오른 벽 — `f74baee` — PUSH VERIFIED — [[SE-C-IVδ-255_Rising_Wall_솟아오른_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-255_Rising_Wall_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%B2%BD.md "SE-C-IVδ-255_Rising_Wall_솟아오른_벽.md")
 - SE-N-IIβ-689 Face Beneath Masks 스며든 벽 — `a92f8fe` — PUSH VERIFIED — [[SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-689_Face_Beneath_Masks_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%B2%BD.md "SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md")
@@ -1699,6 +1700,20 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-C-IVδ-125 Dejà Vu 돌아온 열매 — `1e7f61e` — PUSH VERIFIED — [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
+
+**Batch 24, unit 2: Devouring Bloom `C-IIIγ-916` closed.** Measured at `2a5e982`: **8 dirty sections**, worst Story Log
+0.219 (Entry 5's stock tale), then Registrum 0.172 (the 20-dossier operational interpretation and review
+requirement, and the faction line), Final Observation 0.136, Trivia 0.127, Flavor Text 0.112 (the 32-dossier
+isolation line, the interaction method, preamble, header row and procedure), M.A.W. Equipment 0.103 (three
+appearances, two costs, the ability, the effect, the at-limit row and the stat-interpretation line), Breach
+Behavior 0.086 and Operational Parameters 0.058 — all eight closed in two waves (14 + 14 sites); 7,054 → **7,815
+words**; `tpl.py` residue 0 throughout; `verify.py` residual 2 → **0** (Story Log Entry 1's stock `is logged as `
+and the stock activation line); `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. The
+`own_series` clause closed from **False** to **True** on the file's own counted record — 16–22 Han-Energy per
+cycle, a 40% opening gauge rising 10% per worker infested, drain +5 a turn, 9 years of front readings numbering
+only in the few hundreds, 12 co-presences across the 3 relations and the floor condition read within 2 metres —
+restated from the file and disclosed; the condition and disposition clauses were already satisfied and left alone
+(`R-05`). **Batch 24 stands at two of seven.**
 
 **Batch 24 opens at seven (owner's ladder) — unit 1: Frozen Window `C-IIβ-330` closed.** Measured at `54049a8`: **8
 dirty sections**, worst Final Observation 0.158, then Story Log 0.147 (Entry 5's stock tale), M.A.W. Equipment

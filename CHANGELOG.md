@@ -63,6 +63,27 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 24 / unit 2 — Devouring Bloom `C-IIIγ-916` closed (2026-10-06)** — measured at `2a5e982`: **8 dirty
+  sections**, worst Story Log 0.219 (Entry 5's stock tale), then Registrum 0.172 (the 20-dossier operational
+  interpretation and review requirement and the faction line), Final Observation 0.136 (the choice blockquote),
+  Trivia 0.127 (the field and containment rows), Flavor Text 0.112 (the 32-dossier isolation line, the interaction
+  method, preamble, header row and procedure), M.A.W. Equipment 0.103 (three appearances, two costs, the ability,
+  the effect, the at-limit row and the stat-interpretation line), Breach Behavior 0.086 (the escalation and gauge
+  rows) and Operational Parameters 0.058. All eight closed in two waves (14 + 14 sites); 7,054 → **7,815 words**;
+  `tpl.py` residue 0 throughout; `verify.py` residual 2 → **0** (Story Log Entry 1's stock `is logged as ` and the
+  stock activation line); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The
+  `own_series` clause closed from **False** to **True** on the file's own counted record — 16–22 Han-Energy per
+  cycle, a 40% opening gauge rising 10% per worker infested, drain +5 a turn, 9 years of front readings numbering
+  only in the few hundreds, 12 co-presences across the 3 relations, and the floor condition read within 2 metres —
+  **restated from the file, disclosed**; condition and disposition were already satisfied and left alone (`R-05`).
+  The stock pieces were replaced with the holding's own material throughout: both Story Log entries and the choice
+  block onto the front and the engineers' scale, the whole interaction block onto the 3 resonance candidates and
+  the 12 filed co-presences, the M.A.W. rows onto what the set actually takes (the bearer begins keeping objects
+  and cannot explain holding on to them), and the Trivia rows onto the petal that weighs what the person it
+  remembered weighed. Movement at the unit commit: `R-29` 139 → **140 / 301** (series **240**); section-clean 163
+  → **164 / 302**; residue-free 240 → **241 / 302**; residue lines 7, instances 79, carriers 61 / 302; archive
+  dirty 639 → **630**; file-clean 267 → **268 / 302**. **Batch 24 stands at two of seven.**
+
 - **Batch 24 / unit 1 — Frozen Window `C-IIβ-330` closed (2026-10-06)** — measured at `54049a8`: **8 dirty
   sections**, worst Final Observation 0.158 (the choice blockquote and the success/fail row), then Story Log 0.147
   (Entry 5's stock tale), M.A.W. Equipment 0.146 (the 11-dossier stat-interpretation line — the file's residue — the
