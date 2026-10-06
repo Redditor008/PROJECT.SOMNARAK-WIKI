@@ -63,6 +63,25 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 25 / unit 4 — The Inheritor `C-IIIγ-062` closed (2026-10-06)** — measured at `850f622`: **7 dirty
+  sections**, worst Final Observation 0.390 (the choice blockquote and the success/fail row), then M.A.W. Equipment
+  0.202 (the harness and charm appearances, both abilities, both costs, the effect line, the gauntlet conferral
+  note, the set note, the four field-use rows and the stat interpretation), Story Log 0.192 (Entry 5's stock tale),
+  Registrum 0.163 (the operational interpretation and review requirement, plus the faction line), Flavor Text 0.071
+  (the two preambles, the interaction method, the header row and the procedure) and Combat Record 0.057, with Breach
+  Behavior 0.056. All seven closed in two waves (22 + 11 sites; the first aborted once on a mis-counted assert, a
+  safe redo); 6,762 → **7,513 words**; `tpl.py` residue 2 → **0**; `verify.py` residual 1 → **0** (Story Log Entry
+  1's stock `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The
+  `own_series` clause closed from **False** to **True** on the Triplets' own counted record — 3 figures in one
+  holding at SECTOR-C-01, the gauge opening at 45 per cent and climbing 10 a turn (the fastest of the 3) with drain
+  rising 5, the +2 stat line, and the 1 sentence that meets the condition spoken inside the boundary 3 times, once
+  per conferral of the Resentment Gauntlet — **restated from the file, disclosed**; condition and disposition were
+  already satisfied and left alone (`R-05`). The stock tale and the choice block went onto the Triplet record, and
+  the M.A.W. rows onto the set's charge — resentment that cannot settle until an ally has heard it, which is the
+  holding's own condition applied to the bearer. Movement at the unit commit: `R-29` 149 / 301 (series
+  **243**); section-clean 173 / 301; residue-free 260 / 302; residue lines 5, instances 51,
+  carriers 42 / 302; archive dirty 555; file-clean 282 / 302. **Batch 25 stands at four of ten.**
+
 - **Batch 25 / unit 3 — The Lonely Giant `C-IIIγ-105` closed (2026-10-06)** — measured at `87f2d72`: **7 dirty
   sections**, worst Final Observation 0.329 (the choice blockquote, the condition row and the success/fail row),
   then M.A.W. Equipment 0.228 (the maul, mantle and ring appearances, the second cost, the set note, the four

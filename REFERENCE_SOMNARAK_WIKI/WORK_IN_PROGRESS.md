@@ -1685,6 +1685,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 
 **Batch 23 — OPEN, five targeted; finished dossiers, each with its SE git link and closing commit** ([`R-12`](RULES/R-12_REFER_TO_GITHUB.md); links generated with `tools/ghlink.py`):
 
+- SE-C-IIIγ-062 The Inheritor 물려받은 자 — `6f09b44` — PUSH VERIFIED — [[SE-C-IIIγ-062_The_Inheritor_물려받은_자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-062_The_Inheritor_%EB%AC%BC%EB%A0%A4%EB%B0%9B%EC%9D%80_%EC%9E%90.md "SE-C-IIIγ-062_The_Inheritor_물려받은_자.md")
 - SE-C-IIIγ-105 The Lonely Giant 외로운 거인 — `4fa8f39` — PUSH VERIFIED — [[SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-105_The_Lonely_Giant_%EC%99%B8%EB%A1%9C%EC%9A%B4_%EA%B1%B0%EC%9D%B8.md "SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md")
 - SE-N-IIIγ-585 Floating Tree 떠다니는 나무 — `d6c19ef` — PUSH VERIFIED — [[SE-N-IIIγ-585_Floating_Tree_떠다니는_나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-585_Floating_Tree_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%EB%82%98%EB%AC%B4.md "SE-N-IIIγ-585_Floating_Tree_떠다니는_나무.md")
 - SE-N-IIβ-627 Harvest Beyond the Gate 녹아내린 열매 — `c20408e` — PUSH VERIFIED — [[SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-627_Harvest_Beyond_the_Gate_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md")
@@ -1708,6 +1709,18 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-C-IVδ-125 Dejà Vu 돌아온 열매 — `1e7f61e` — PUSH VERIFIED — [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
+
+**Batch 25, unit 4: The Inheritor `C-IIIγ-062` closed.** Measured at `850f622`: **7 dirty sections**, worst Final
+Observation 0.390, then M.A.W. Equipment 0.202, Story Log 0.192 (Entry 5's stock tale), Registrum 0.163, Flavor
+Text 0.071 and Combat Record 0.057, with Breach Behavior 0.056 — all seven closed in two waves (22 + 11 sites; the
+first aborted once on a mis-counted assert, a safe redo); 6,762 → **7,513 words**; `tpl.py` residue 2 → **0**;
+`verify.py` residual 1 → **0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. The
+`own_series` clause closed from **False** to **True** on the Triplets' own counted record — 3 figures in one
+holding, a gauge opening at 45 per cent and climbing 10 a turn with drain rising 5, the +2 stat line, and the 1
+sentence that meets the condition spoken 3 times inside the boundary — restated from the file and disclosed;
+condition and disposition already satisfied and left alone (`R-05`). Movement: `R-29` 149 / 301 (series
+**243**); section-clean 173 / 301; residue-free 260 / 302; archive dirty 555; file-clean 282 / 302.
+**Batch 25 stands at four of ten.**
 
 **Batch 25, unit 3: The Lonely Giant `C-IIIγ-105` closed.** Measured at `87f2d72`: **7 dirty sections**, worst Final
 Observation 0.329, then M.A.W. Equipment 0.228, Behavior 0.208, Registrum 0.189, Trivia 0.071, Combat Record
