@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Grudge pressure; 25% against other pressure types |
+| **Resistance** | 35% against Grudge pressure; 25% against everything else. Nothing is rated against the inheritance itself, which is not an attack the figure chooses to make: what it carries was handed to it, and the pressure comes off a Triplet member that cannot be separated from the 2 it shares the holding with. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 580/580 |
 | **Han Pressure [ATK]** | 15–35 per hit · Grudge |
@@ -81,14 +81,14 @@
 | { *The Birthright* [**Debuff**] } | "You did not earn this sorrow — it was left to you. But it is yours now." | [The Inheritor passes down a legacy of grief; the target receives it.] | *Target suffers -10 Resilience; they have inherited a wound.* **[10 Grudge DMG [Grudge]]** | When the Inheritor regards them. |
 | { *The Family Debt* [**Debuff**] } | "Generations of anger, passed parent to child — and now the bill comes to you." | [The inherited resentment deepens; the target carries their lineage's weight.] | *Target loses 10 Resilience; the family sorrow is immense.* **[10 Grudge DMG [Grudge]]** | When the target accepts the legacy. |
 | { *The Legacy* [**Attack**] } | "Everything your line suffered — here, condensed into one blow." | [The inherited grief strikes as a concentrated attack.] | *Inflicts Grudge pressure and one wound of ancestral pain.* **[14-22 Grudge DMG [Grudge]]** | When the Inheritor is provoked. |
-| { *The Bloodline* [**Attack**] } | "The full rage of every generation before you — delivered at once." | [The Inheritor channels the entire inherited fury.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Inheritor is confronted. |
-| { *The Whole Inheritance* [**Ultimate**] } | "Everyone receives what their line left them — and no one's legacy is kind." | [The Inheritor passes down sorrow to everyone in the field.] | *All in range suffer Grudge pressure for three turns of inherited grief.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Bloodline* [**Attack**] } | "The full rage of every generation before you — delivered at once." | [Confronted, it hands over everything the line passed down, in one delivery, with no apology attached.] | *A heavy Crimson blow; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Inheritor is confronted. |
+| { *The Whole Inheritance* [**Ultimate**] } | "Everyone receives what their line left them — and no one's legacy is kind." | [The account is settled across the whole field at once: every worker gets the obligation their line handed them, at full weight.] | *All in range suffer Grudge pressure for three turns of inherited grief.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — The Inheritor is recognised by him by the closed hands and the heat; the pacing is the better indicator of state but tells you nothing about which Triplet you are looking at — then the approach is set and the positions are taken.
+1. **Tension:** Identification first — the closed hands and the heat identify it, and the pacing is the better indicator of state, though it tells you nothing about which Triplet you are looking at. The approach is set with the whole Triplet gauged rather than the figure alone, and positions are taken before anything else is attempted.
 2. **Clash:** Nine turns, standing, with the unfairness stated in the opening line and not repeated. Pugnahan is answered in kind and raises the gauge for days; Flerehan and Ferrehan are the authorised approaches.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Validate the resentment; do not call it ingratitude**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Validate the resentment; do not call it ingratitude**. The condition is met when the injustice has been named aloud, accurately, with nothing added and no apology attached; a cycle that ends with the resentment reframed as ingratitude is filed as the holding having been handed another generation of it.
 
 ### Consequences
 
@@ -160,13 +160,13 @@ The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Gr
 | **Effect** | The Grudge becomes structural. Walls crack, fittings fail, and anything held in a hand in the affected volume becomes difficult to put down. |
 | **Secondary Effect** | Old unsettled grievances in the vicinity surface intact — complaints, disputes, things people thought they had finished with — and are argued about for days afterwards. |
 | **First Target** | Indiscriminate by design. It does not distinguish, because the obligation it carries was never assigned to a particular person either. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **Escalation** | Each turn the figure is left unworked its pressure grows and Resilience drain rises by 5. The gauge opens at 45% and climbs 10% a turn — the fastest of the Triplets — and it does not pause when nobody is opposing it. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — the entity physically escapes and roams the facility.
 - **Containment priority:** Validate the resentment aloud over the corridor channel before Wardens deploy; confrontation reinforces him.
-- **Sorrow Gauge on breach:** Opens at 45% and rises 10% per turn, the fastest of the Triplets, and does not pause when unopposed.
+- **Sorrow Gauge on breach:** Opens at 45% and rises 10% per turn, the fastest of the Triplets, and does not pause when unopposed. The number matters more than usual here because the figure cannot be separated from the other 2: a breach on this one is read as a Triplet event. |
 
 ## M.A.W. Equipment
 
@@ -189,15 +189,15 @@ The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Gr
 **Falloff Rule:** Primary 100% → secondary caught in sweep 70%.
 **Damage Application:** Direct Grudge trauma to Body (physical form, structural integrity); inflicts deep lacerations and pulls medium-range targets into point-blank engagement.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Unpaid Anger tracks the documented chain of imposed obligation, cleaving through the physical and systemic anchors that bind the victim.
+**Ability:** Deals Grudge damage against the Body — physical form and structural integrity. Unpaid Anger tracks the documented chain of imposed obligation and cleaves through the physical and systemic anchors that bind the victim to it.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves deep bruising and stirs unspoken resentment until acknowledged by an ally.
+**Cost:** Old wounds ache in the wielder; prolonged use leaves deep bruising and stirs resentment that was never spoken, and it does not settle until an ally has heard it acknowledged — which is the holding's own condition applied to the bearer.
 
 ### M.A.W. Suit — The Resentment Plate
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated Grudge Han-iron harness, dark and warm to the touch, that smells of a closed room — on a figure recognised by its closed hands, this is the set's one piece that is cut to be worn while standing still and being spoken to.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -207,40 +207,40 @@ The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Gr
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against The Inheritor's kind of pressure.
+**Ability:** Grants resistance to Grudge damage and protects the Body — physical form and structural integrity — and it is worn against this Triplet member's pressure: nothing here strikes at the body, and what the armour lets the wearer do is stand inside the boundary without taking on the debt.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes thin in the wearer while a resentment sits unspoken in them; the onset is silent and the second worker is the one who calls it.
 
 ### M.A.W. Stigma — The Resentment Gauntlet
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a palm-sized charm of Grudge Han-iron, dark and warm, that takes the light at an angle nothing else in the boundary does; wardens use it to tell the 3 Triplets apart at distance when the pacing will not.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
+**Effect:** +2 while working this holding, and nothing elsewhere in Zone C: the charm reads the obligation chain, which is the Inheritor's own signature and no other Triplet's.
 
 **Ability:** Strikes carry the weight of resentment and deal extra damage to those who wronged the wearer.
 
 **Cost:** The wearer cannot forgive; resentment lingers after every conflict.
 
-*The Resentment Gauntlet is not issued and cannot be requested. It has been conferred three times, in each case on a Warden who named the injustice out loud, accurately, with nothing added and no apology attached.*
+*The Resentment Gauntlet is not issued and cannot be requested. It has been conferred 3 times, in each case on a Warden who named the injustice out loud, accurately, with nothing added and no apology attached — the same sentence the containment condition requires, which is why the conferral is treated as evidence that the condition can be met at all.*
 
 ### M.A.W. Use Notes
 
-These pieces are The Inheritor in miniature. What they give is listed above; what they take is the wielder's old wounds ache; prolonged use leaves deep bruising and stirs unspoken resentment until acknowledged by an ally, and the Armoury records both against the wielder rather than against the piece.
+All 3 pieces are the Inheritor in miniature. What they give is listed above; what they take is the charge on this set — old wounds aching, deep bruising after prolonged use, and an unspoken resentment stirred in the bearer until an ally has heard it. Both are entered against the wielder and not the piece.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against what The Inheritor takes: the wielder's old wounds ache. |
-| **During use** | Watch for The Inheritor's toll — the wielder's old wounds ache — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The wearer's reflexes dull, as if armored by resentment, without remission. On a The Inheritor piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether The Inheritor's cost is still showing — the wearer's reflexes dull, as if armored by resentment. |
+| **Before use** | Wielder, piece, and a dated baseline put by a colleague: is there anything the bearer is carrying unspoken this week? The charge on this set — old wounds and stirred resentment — does not present on the day, and the pre-check is a question about silence rather than pain. |
+| **During use** | The charge shows as the old wounds aching and the resentment thickening. The second worker logs the hour it is first seen; the bearer's account is taken afterwards and set beside the log. |
+| **At limit** | The limit is where the wearer stops reporting: reflexes thin, resentment held, and nothing said. On an Inheritor piece the use ends there, and the call belongs to the second worker rather than to the bearer. |
+| **After use** | Take the piece back and put the question to a colleague rather than the bearer: is the resentment still showing, and has it been acknowledged to anybody? The answer is filed against the wielder, and where nothing has been spoken the piece is not reissued to them. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade records how hard a piece hits and nothing about what it takes. On this set the cost column is the holding's own condition turned on the bearer — resentment that cannot settle until it is spoken — and it is unrelated to the grade in either direction. Authorise on cost.
 
 ## 관찰 기록 (Observation Log)
 
@@ -271,7 +271,7 @@ These pieces are The Inheritor in miniature. What they give is listed above; wha
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Inheritor (C-IIIγ-062 [GS]) is logged as a Subject-Body manifestation expressing Grudge. The Inheritor formed from a father's resentment at being forced to pay his parent's debt. Held at SECTOR-C-01, contained with the Debt Triplets. The Inheritor cannot be separated from the Debt Triplets permanently.
+The Inheritor (C-IIIγ-062 [GS]) is a Subject-Body manifestation expressing Grudge, formed from a father's resentment at being forced to pay his parent's debt. It is held at SECTOR-C-01 with the Debt Triplets, and it cannot be separated from the other 2: the figure is read by its closed hands and its heat, and the pacing tells the wardens its state but never which member they have. The condition is to validate the resentment and never to call it ingratitude.
 
 **Entry 2 — <Fists Clenched>**
 Rages quickly through the facility with fists clenched. Personnel feel resentment over debts forced upon them. Flerehan calms him; Pugnahan reinforces his inherited anger.
@@ -283,15 +283,15 @@ The rage of carrying someone else's obligation while being blamed for resenting 
 Management: Validate the resentment; do not call it ingratitude.  Exposure increases empathy while reducing emotional detachment.
 
 **Entry 5 — <The Keeper Who Erased Himself>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased their own memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+The story here is not the one that gets told. Three figures share one holding at SECTOR-C-01 and cannot be separated, so every reading of the Inheritor is a reading of the Triplets: the gauge opens at 45% and climbs 10% a turn, the fastest of the 3, and the drain rises 5 a turn while nobody is working it. The 1 sentence that meets the condition has been spoken inside the boundary 3 times, once for each conferral of the Resentment Gauntlet, and on each occasion the pacing slowed. The file keeps those 3 as its whole evidence that the condition works at all.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Inheritor; the other feeds it.
+> Two ways to close the same encounter. The file's way: name the injustice out loud, accurately, adding nothing and apologising for nothing — the same sentence that has earned the Gauntlet all 3 times it has ever been conferred. The other way is the answer a worker gives when the resentment in front of them looks like ingratitude.
 
 | Validate the resentment; do not call it ingratitude — as written, without improvising. | Answer it with Pugnahan — reasonable, available, and recorded as raising the gauge. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is named; The Inheritor is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Inheritor withdraws without revelation. |
+| It answers: the pacing slows, the closed hands open, and the file gains a reading taken from a Triplet that has been listened to. | The reframe: the resentment is renamed ingratitude, the gauge climbs the full 10%, and the figure withdraws having been handed one more generation of it. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -310,16 +310,16 @@ His fists are closed before he sees you. The debt is invisible, but his shoulder
 
 ### Interaction Pattern
 
-This holding is read against the other things in Zone C built out of obligation, and against the two it shares a boundary with. Each relation below has been observed and filed; none is settled; and the two inside the Triplets' boundary have no solo baseline and never will.
+The Inheritor is read against the other holdings in Zone C built out of obligation, and against the 2 it shares a boundary with — and the sharing is a fact about one holding rather than a bond between 3 characters. Because the 3 cannot be separated, a solo baseline does not exist for the Inheritor and never will; what the file can offer is a Triplet reading, taken with all 2 neighbours gauged alongside, and the comparison below is filed as a resemblance rather than a measurement.
 
-**Interaction method:** Baseline each party alone across several watches before any paired approach, and record all three Triplet gauges for every test regardless of which two are under study. Log the onset of any shared change with its range, duration and trigger, the motion column on this side of it, and what persists after separation. Re-verify each cycle.
+**Interaction method:** Baseline each party alone across several watches before any paired approach — and on this file record all 3 Triplet gauges for every test regardless of which 2 are under study, because the holding cannot be split. Log the onset of any shared change with its range, duration and trigger, both sides' gauges, and what persists after separation; a Triplet event is entered against all 3 figures rather than against whichever one moved first.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. Two are permanent neighbours, which makes their entries the most detailed and the least controlled in this file.
+The 2 rows below are canonical points of contact and not alliances. Neither is settled. Both are permanent neighbours, which makes these the most detailed entries in the file and the least controlled — there is no baseline of the Inheritor standing apart to compare them against.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Neighbouring record | Stated basis for the tie | What was observed in company | Entry the file requires |
 |---|---|---|---|
 | **The Kind Healer** | The Healer cannot reach an imposed obligation, the only category of harm it has been observed to fail on entirely. | Four sessions. His gauge moved by less than a point on all four and the motion column was unchanged. The Healer's own series was flat. The wing records a clean null and has stopped proposing it. | All four sessions, both flat series, and the column entries. |
 | **The Orphaned Bell** | He stops when the Bell sounds, every time, for the duration of the sound and about four seconds after it. | Thirty-one recorded tolls. The stop is total and the gauge does not move with it; the pacing resumes at the same state it left. The wing calls it a pause and declines to call it recognition. | Every toll with the stop duration, and the unchanged gauge either side. |
@@ -327,7 +327,7 @@ The relations below are canonical points of contact rather than alliances. None 
 | **The Debtor** | Permanent neighbour, and the one who signed. He resents the willingness more than the debt. | Nine years of continuous co-presence. The gauges move in opposite directions on most shifts: work that calms the Debtor raises him, reliably enough that the wing schedules around it. No solo baseline exists for either. | Both gauge series in full, the scheduling rule, and the absence of a baseline stated plainly. |
 | **The Rejector** | Permanent neighbour, and the one who refuses. This is the only pairing in the wing in which he raises his voice. | Nine years. He addresses the Rejector through the wall, at length, and has never once received an answer of any kind. His gauge rises while he does it. The Rejector's does not move. | The addresses with their durations, both series, and the complete absence of response. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Record each figure independently and read the 3 gauge columns together; the interaction data means nothing without the Triplet baseline beside it. Then enter the first shared change — distance, duration, trigger, gauge movement on every member, effect on the boundary, and whether anything remained after separation. Where 2 members moved and 1 did not, the file keeps all 3 readings rather than averaging them.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -372,14 +372,14 @@ Some sorrows are suffered in silence. The Inheritor's sorrow is suffered out lou
 - The middle generation of the three: not the one who signed and not the one who refuses.
 - Paid in full what he was never liable for, and was reproached for minding.
 **Cross-References:** The Debtor · The Rejector · SECTOR-C-01 · the instalment schedule · the volunteer opinion · the roster screening condition
-**Faction Involvement:** SED (C-territory exploration)
+**Faction Involvement:** SED, on the C-territory exploration that holds the Triplets · UCD, on the Fray-adjacent zone · Wound Walkers, on Fracture-relevant screening. The 3 members are one file's responsibility and no wing has ever been assigned fewer than all 3.
 **Originator:** A middle-generation citizen who discharged a parent's obligation without compulsion, without request, and without acknowledgement.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map and not the territory: the SECC code, the gauge thresholds and the M.A.W. notes are tools for understanding, not substitutes for standing inside the boundary. The figures that govern are these — 3 Triplets in one holding, a gauge opening at 45% and climbing 10% a turn with drain rising 5, a condition worth 1 sentence and 3 conferrals, and a boundary that has never once let a solo reading be taken. This file will be wrong eventually; when it is, the contradiction is worth more than the record it contradicts, and the file requires it preserved as evidence rather than normalised.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every breach, Sorrow Tide and transformation attempt invalidates the current baseline — and on this file that means all 3 Triplet baselines, taken together, before the next cycle. Re-verify the gauges, the boundary, the personnel exposure and the M.A.W. resonance changes; the specific question here is whether the 1 sentence that meets the condition has been said in the preceding cycle, and the record of the 3 conferrals is where that is checked. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
 ### Constant Motion
