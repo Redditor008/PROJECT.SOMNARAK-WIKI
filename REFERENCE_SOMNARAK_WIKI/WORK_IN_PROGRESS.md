@@ -2106,7 +2106,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 31 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-N-Iα-518 Life Behind Glass 솟구친 창 — `__HASH__` — PUSH VERIFIED — [[SE-N-Iα-518_Life_Behind_Glass_솟구친_창]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-518_Life_Behind_Glass_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%B0%BD.md "SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md")
+- SE-N-Iα-518 Life Behind Glass 솟구친 창 — `478585b` — PUSH VERIFIED — [[SE-N-Iα-518_Life_Behind_Glass_솟구친_창]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-518_Life_Behind_Glass_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%B0%BD.md "SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md")
 
 - SE-C-IIIγ-088 The Sorrow Fountain 슬픔의 분수 — `5625502` — PUSH VERIFIED — [[SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-088_The_Sorrow_Fountain_%EC%8A%AC%ED%94%94%EC%9D%98_%EB%B6%84%EC%88%98.md "SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md")
 **Batch 30 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
