@@ -2072,7 +2072,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 30 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IVγ-009 The Memory Weaver 기억의 직공 — `__HASH__` — PUSH VERIFIED — [[SE-C-IVγ-009_The_Memory_Weaver_기억의_직공]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-009_The_Memory_Weaver_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%A7%81%EA%B3%B5.md "SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md")
+- SE-C-IVγ-009 The Memory Weaver 기억의 직공 — `a44809b` — PUSH VERIFIED — [[SE-C-IVγ-009_The_Memory_Weaver_기억의_직공]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-009_The_Memory_Weaver_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%A7%81%EA%B3%B5.md "SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md")
 
 - SE-N-IIIβ-077 The Memory Thief 기록 도둑 — `381ee7f` — PUSH VERIFIED — [[SE-N-IIIβ-077_The_Memory_Thief_기록_도둑]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-077_The_Memory_Thief_%EA%B8%B0%EB%A1%9D_%EB%8F%84%EB%91%91.md "SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md")
 
