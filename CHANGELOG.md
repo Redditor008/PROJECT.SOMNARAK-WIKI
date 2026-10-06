@@ -84,8 +84,8 @@ This file records notable changes to the public Somnarak Wiki.
   stands at five of five.**
 - **Batch 27 closed at five (2026-10-07)** — the cohort opened at five and finished at five. Which hunts opened:
   Scar Walker `O-IIIδ-011`, The Silent Child `N-Iα-025`, The Hollow Knight `C-IVγ-073`, Restless Gap `C-IVδ-250`,
-  Memory Lock `C-IIIγ-300` — **29 / 29 dirty sections closed**, and **+2,221 words** net (5,620 / 7,715 / 7,411 /
-  7,288 / 7,104 → 5,914 / 8,104 / 7,921 / 7,767 / 7,653), nothing deleted (`R-15`). Which counters moved, measured
+  Memory Lock `C-IIIγ-300` — **29 / 29 dirty sections closed**, and **+2,220 words** net (5,620 / 7,715 / 7,411 /
+  7,288 / 7,104 → 5,914 / 8,104 / 7,920 / 7,767 / 7,653), nothing deleted (`R-15`). Which counters moved, measured
   `a715ef1` → post-u5: `R-29` 157 → **162 / 301** (specific condition 258 → **259 / 301**; own numeric series
   250 → **252 / 301**; section-clean 182 → **187 / 301**); residue ledger **0 throughout** — lines **0**,
   instances **0**, carriers **0 / 302**, residue-free **302 / 302**, the floor held for a second consecutive batch;
@@ -120,7 +120,8 @@ This file records notable changes to the public Somnarak Wiki.
   0.077 (the intro, two contact lines, the interaction preamble, method, record intro, table header, all five pairing
   rows and the procedure), Observation Log 0.057 (three stage rows and the method) and Combat Record 0.050 (the
   resistance row, two shared action rows and all three phases). Both closed in two waves (26 + 15 sites); 7,411 →
-  **7,921 words**; `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged
+  **7,920 words** (7,921 as counted immediately after wave B; the stray pipe removed before this commit,
+  disclosed, moved the count by one); `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged
   as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, all three clauses already
   satisfied and left alone (`R-05`). One repair inside the unit, disclosed: wave A left a stray pipe at the end of
   the operational-interpretation line, removed before the docs commit and re-verified. The stock pieces went onto

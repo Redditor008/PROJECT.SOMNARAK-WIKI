@@ -1726,7 +1726,7 @@ section(s) over 0.05**; `wikistd.py` meets **True**. **Two clauses closed from F
 252); section-clean 187 / 301; residue-free 302 / 302; archive dirty 432; file-clean 302 / 302.
 
 **Batch 27 is closed at five — the cohort opened at five and finished at five.** Five dossiers, **29 / 29 dirty
-sections closed**, **+2,221 words** net, nothing deleted (`R-15`). Movement across the cohort (measured `a715ef1` →
+sections closed**, **+2,220 words** net, nothing deleted (`R-15`). Movement across the cohort (measured `a715ef1` →
 post-u5): `R-29` 157 → 162 / 301 (condition 258 → 259 / 301; series 250 → 252 / 301; section-clean 182 →
 187 / 301); **residue lines 0, instances 0, carriers 0 / 302, residue-free 302 / 302** — the register floor held
 through a second full batch; archive dirty 467 → 432; file-clean 301 → 302 / 302; scene-clean 183 → 188;
@@ -1745,7 +1745,7 @@ dirty 439; file-clean 302 / 302. **Batch 27 stands at four of five.**
 
 **Batch 27, unit 3: The Hollow Knight `C-IVγ-073` closed.** Measured at `4f89d0a`: **6 dirty sections**, worst Final
 Observation 0.343, then M.A.W. Equipment 0.189, Registrum 0.152, Flavor Text 0.077, Observation Log 0.057 and
-Combat Record 0.050 — all six closed in two waves (26 + 15 sites); 7,411 → **7,921 words**; `tpl.py` residue 0
+Combat Record 0.050 — all six closed in two waves (26 + 15 sites); 7,411 → **7,920 words** (7,921 pre-repair); `tpl.py` residue 0
 throughout; `verify.py` residual 1 → **0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**,
 clauses pre-satisfied and left alone (`R-05`). One repair inside the unit, disclosed: a stray pipe left at the end of
 the operational-interpretation line by wave A was removed before the docs commit. Movement: `R-29` 160 / 301;
