@@ -63,6 +63,29 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 20 / unit 3 — Stranded Between Two Shores `C-IVδ-823` closed; batch 20 closed at three (2026-10-06)** —
+  measured at `828991f`: **9 dirty sections**, worst Behavior 0.279 (the 51-dossier *Read the behavior table as a
+  diagnostic, not a prescription* line), then Origin 0.273 (the 48-dossier stock-tale carrier), Observation Log
+  0.183, Flavor Text 0.165 (the 32-dossier isolation block and two 21-dossier interaction shell rows), M.A.W.
+  Equipment 0.136 (the 14-dossier `| **Resistance** | 45% against Lament pressure …` row and shared Han-silk
+  appearance lines), Final Observation 0.127, Trivia 0.109, Combat Record 0.062 and Appearance 0.051. All nine
+  closed in two waves of 14 + 22 sites plus one residual line; 6,277 → **7,266 words**; `tpl.py` residue 1 → **0**;
+  `verify.py` residual 2 → **0** (Story Log Entry 1's `is logged as` and the Clash beat's own reuse of it);
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from
+  **False** to **True** on figures the file already carries — the **4** bridge-shaped records, the crossing list in
+  both columns (**31** near, **26** far) and the **19** names never accounted for — **restated from its own record
+  rather than invented for the clause**, and the condition clause was already satisfied and left alone (`R-05`). The
+  stock tale in Origin was replaced with the file's own material: the Keepers' single-column list of the 26 in use
+  for nine years, the span descending faster across those nine years than across the 30 since, and the Director's
+  four-word margin note. The 51-dossier behavior-table line was re-authored onto this holding's own reading (who is
+  audible to whom, the two different decreases, Viderehan's solitary stability, and Pugnahan's option/failure
+  counter-print), the 32-dossier isolation block onto the depth reading the three tunnel neighbours interfere with,
+  and the two interaction shell rows onto the specific effects of I Alone Crossed and The Sorrow River. No
+  neighbouring dossier changed. Archive dirty sections 787 → **778**; residue instances 159 → **158**, carriers
+  91 → **90**; median steady at **0.014** and worst at **0.114**. Movement: `R-29` 124 → **125 / 301**;
+  section-clean 148 → **149 / 301**; residue-free 211 → **212 / 302**; file-clean 240 → **241 / 302**. **Batch 20
+  closed at three** (Pent, Candela, Stranded Between Two Shores).
+
 - **Batch 20 / unit 1 — Pent `N-IVδ-821` closed (2026-10-06)** — measured at `d34ebd3`: **10 dirty sections**,
   worst 최종 관찰 (Final Observation) 0.236, then M.A.W. Equipment 0.223, Behavior 0.214 (the 54-dossier *The gauge
   response is only meaningful in context* line), 감각 묘사 (Flavor Text) 0.196 (the 53-dossier *…must be assessed as

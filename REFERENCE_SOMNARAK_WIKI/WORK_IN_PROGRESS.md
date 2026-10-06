@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **211 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **148 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **124 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **212 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **149 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **125 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 240 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 241 / 302 |
 | Archive median prose generic fraction | 0.014 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1678,6 +1678,23 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 `R-29` 121 → **122 / 301** (condition **256**); section-clean 145 → **146 / 301**; residue-free 208 → **209 /
 302**; file-clean 235 → **236 / 302**. **Batch 19 is closed at three.**
 
+
+**Batch 20, unit 3: Stranded Between Two Shores `C-IVδ-823` closed; batch 20 closed at three.** Measured at
+`828991f`: **9 dirty sections**, worst Behavior 0.279 (the 51-dossier behavior-table line), then Origin 0.273 (the
+48-dossier stock-tale carrier), Observation Log 0.183, Flavor Text 0.165 (the 32-dossier isolation block and two
+21-dossier interaction shell rows), M.A.W. Equipment 0.136, Final Observation 0.127, Trivia 0.109, Combat Record
+0.062 and Appearance 0.051. All nine closed in two waves of 14 + 22 sites plus one residual line; 6,277 → **7,266
+words**; `tpl.py` residue 1 → **0**; `verify.py` residual 2 → **0** (Entry 1's `is logged as` and the Clash beat's
+reuse of it); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause
+closed from **False** to **True** on the file's own figures — 4 bridge-shaped records, the 31 near / 26 far columns,
+19 never accounted for — **restated from its own record**, disclosed as such in the CHANGELOG; the condition clause
+was already satisfied and left alone (`R-05`). The Origin stock tale was replaced with the file's own material (the
+Keepers' single-column list of the 26 in use nine years, the descent faster across those nine years than across the
+30 since, the Director's four-word margin note), and the behavior line, isolation block and interaction shell rows
+were re-authored onto this holding's own mechanics. No neighbouring dossier changed. Archive dirty sections 787 →
+**778**; residue instances 159 → **158**, carriers 91 → **90**; median **0.014**, worst **0.114**. Movement: `R-29`
+124 → **125 / 301**; section-clean 148 → **149 / 301**; residue-free 211 → **212 / 302**; file-clean 240 → **241 /
+302**. **Batch 20 CLOSED at three — Pent `N-IVδ-821`, Candela `C-IVδ-165`, Stranded Between Two Shores `C-IVδ-823`.**
 
 **Batch 20, unit 2: Candela `C-IVδ-165` closed.** Measured at `8c06e31`: **9 dirty sections**, worst 관찰 기록
 (Observation Log) 0.288, then Behavior 0.281, 최종 관찰 (Final Observation) 0.210, 감각 묘사 (Flavor Text) 0.164,
