@@ -24,13 +24,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **237 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **159 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **135 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **238 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **160 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **136 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 262 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 264 / 302 |
 | Archive median prose generic fraction | 0.014 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1685,6 +1685,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 
 **Batch 23 — OPEN, five targeted; finished dossiers, each with its SE git link and closing commit** ([`R-12`](RULES/R-12_REFER_TO_GITHUB.md); links generated with `tools/ghlink.py`):
 
+- SE-C-IVδ-255 Rising Wall 솟아오른 벽 — `f74baee` — PUSH VERIFIED — [[SE-C-IVδ-255_Rising_Wall_솟아오른_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-255_Rising_Wall_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%B2%BD.md "SE-C-IVδ-255_Rising_Wall_솟아오른_벽.md")
 - SE-O-IIIγ-915 Corrosion Dream 녹슨 다리 — `a324ee3` — PUSH VERIFIED — [[SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-915_Corrosion_Dream_%EB%85%B9%EC%8A%A8_%EB%8B%A4%EB%A6%AC.md "SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md")
 - SE-C-Iα-863 Absent Landmark 가라앉은 탑 — `ae168d3` — PUSH VERIFIED — [[SE-C-Iα-863_Absent_Landmark_가라앉은_탑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-863_Absent_Landmark_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%ED%83%91.md "SE-C-Iα-863_Absent_Landmark_가라앉은_탑.md")]
 
@@ -1695,6 +1696,26 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-C-IVδ-125 Dejà Vu 돌아온 열매 — `1e7f61e` — PUSH VERIFIED — [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
+
+**Batch 23, unit 3: Rising Wall `C-IVδ-255` closed.** Measured at `c3207f1`: **8 dirty sections**, worst Behavior
+0.311 (the 55-dossier *Read the behavior table as a diagnostic, not a prescription* line), then Breach Behavior
+0.278, M.A.W. Equipment 0.186 (the 11-dossier resistance row, a 13-dossier cost line and the 13-dossier Han-silk
+shroud line), Flavor Text 0.175 (the 32-dossier isolation line, the network header, the method and the procedure),
+Final Observation 0.167, Combat Record 0.129 (the shared Full Ascent and Walled City rows and three template phase
+lines), Trivia 0.079 and Observation Log 0.054 — all eight closed in two waves (15 + 17 sites); 6,768 → **7,955
+words**; `tpl.py` residue 3 → **0** (the resistance row, the *unwept grief* cost line and the shroud appearance
+line re-authored on the holding's own terms); `verify.py` residual 0 throughout; `sectfile.py` **0 section(s) over
+0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** on the file's own
+counted record — 340 structural particulars gathered in 19 years, 61 testable, 58 confirmed, 44 of the 47 testable
+disagreements resolved in the Wall's favour against 3 control districts where it agrees with the register every
+time, and one enclosure logged at 19 minutes to shoulder height talked out in 11 — restated from the file and
+disclosed; the condition and disposition clauses were already satisfied and left alone (`R-05`). The three
+interaction rows were re-authored from what the file keeps, the M.A.W. charges onto the set's own cost (the bearer
+keeps every detail of people who have stopped thinking about them), and the breach rows onto the Wall's own
+behaviour — it walks toward grief and stands beside it, so the response is distance and a held cordon. Archive
+dirty sections 681 → **668**; file-clean 262 → **264 / 302**; worst 0.079; median 0.012. Movement: `R-29` 135 →
+**136 / 301**; section-clean 159 → **160 / 301**; residue-free 237 → **238 / 302**. **Batch 23 stands at three of
+five.**
 
 **Batch 23, unit 2: Corrosion Dream `O-IIIγ-915` closed.** Measured at `b248450`: **8 dirty sections**, worst
 Behavior 0.287 (the 37-dossier *The behavior table is a snapshot, not a system* line), then Registrum 0.243 (the

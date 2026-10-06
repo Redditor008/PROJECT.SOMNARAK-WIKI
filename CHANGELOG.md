@@ -63,6 +63,26 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 23 / unit 3 — Rising Wall `C-IVδ-255` closed (2026-10-06)** — measured at `c3207f1`: **8 dirty sections**,
+  worst Behavior 0.311 (the 55-dossier *Read the behavior table as a diagnostic, not a prescription* line), then
+  Breach Behavior 0.278 (the shared movement, containment-priority and gauge rows), M.A.W. Equipment 0.186 (the
+  11-dossier resistance row, a 13-dossier cost line and the 13-dossier Han-silk shroud line), Flavor Text 0.175
+  (the 32-dossier isolation line, the network header, the method and the procedure), Final Observation 0.167,
+  Combat Record 0.129 (the shared Full Ascent and Walled City rows and three template phase lines), Trivia 0.079
+  and Observation Log 0.054. All eight closed in two waves (15 + 17 sites); 6,768 → **7,955 words**; `tpl.py`
+  residue 3 → **0**; `verify.py` residual 0 throughout; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** on the file's own counted
+  record — 340 structural particulars gathered over 19 years, 61 independently testable, 58 confirmed, 44 of the 47
+  testable register disagreements resolved in the Wall's favour against 3 control districts in which it agrees with
+  the register every time, and one enclosure that ran 19 minutes to shoulder height before a single spotter talked
+  the worker out along the line in 11 more — **restated from the file, disclosed**. Condition and disposition were
+  already satisfied and left alone (`R-05`). The three interaction rows were re-authored from what the file keeps
+  (The Vanished Wall, The Memory Well, The Smothering Mother — with The Redcage entered as no observed contact at
+  all), the M.A.W. charges onto the set's own cost, and the breach and combat rows onto the Wall's own behaviour:
+  it walks toward grief rather than people, so the response is distance and a held cordon. Movement measured at the
+  unit commit: archive dirty sections 681 → **668**; file-clean 262 → **264 / 302**; `R-29` 135 → **136 / 301**;
+  section-clean 159 → **160 / 301**; residue-free 237 → **238 / 302**. **Batch 23 stands at three of five.**
+
 - **Batch 23 / unit 2 — Corrosion Dream `O-IIIγ-915` closed (2026-10-06)** — measured at `b248450`: **8 dirty
   sections**, worst Behavior 0.287 (the 37-dossier *The behavior table is a snapshot, not a system* line), then
   Registrum 0.243 (the 21-dossier operational-interpretation and 20-dossier review-requirement lines), M.A.W.
