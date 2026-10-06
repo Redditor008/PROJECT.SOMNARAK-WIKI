@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 30, unit 3: Pyre of Truths `C-IVδ-092` closed.** Measured at `bb4b87c`: **5 dirty sections**, worst Final
+Observation 0.328, then Behavior 0.165, M.A.W. Equipment 0.086, Registrum 0.081 and Combat Record 0.067 — **closed in a
+single wave** (24 sites); 7,705 → **8,027 words**; `tpl.py` residue 0; `verify.py` residual **2 → 0**; `sectfile.py`
+**0 section(s) over 0.05**; `wikistd.py` meets **True**, condition re-registered inside the rewritten resolution line
+and held **True**, series held; the review requirement's duplicated preamble collapsed. Movement: `R-29` @r29@ / 301;
+section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 30 stands at
+three of five.**
+
 **Batch 30, unit 2: Grieving Love `N-IIIβ-941` closed.** Measured at `1f6cb9a`: **6 dirty sections**, worst Entity
 Interactions 0.139, then Behavior 0.114, Registrum 0.113, M.A.W. Equipment 0.072, Final Observation 0.069 and
 Operational Parameters 0.052 — **closed in a single wave** (33 sites) after one aborted attempt with two
@@ -2044,6 +2052,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 30 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IVδ-092 Pyre of Truths 타오르는 도서관 — `__HASH__` — PUSH VERIFIED — [[SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-092_Pyre_of_Truths_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EB%8F%84%EC%84%9C%EA%B4%80.md "SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md")
 
 - SE-N-IIIβ-941 Grieving Love 슬픈 사랑 — `bb4b87c` — PUSH VERIFIED — [[SE-N-IIIβ-941_Grieving_Love_슬픈_사랑]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-941_Grieving_Love_%EC%8A%AC%ED%94%88_%EC%82%AC%EB%9E%91.md "SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md")
 

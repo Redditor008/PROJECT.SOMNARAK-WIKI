@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 30 / unit 3 — Pyre of Truths `C-IVδ-092` closed (2026-10-07)** — measured at `bb4b87c`: **5 dirty sections**,
+  worst Final Observation 0.328 (the choice blockquote, the option row and the result row), then Behavior 0.165 (the
+  33-hit diagnostic paragraph), M.A.W. Equipment 0.086 (two appearance rows, the effect line, the piece paragraph, four
+  field-use rows and the stat interpretation), Registrum 0.081 (the faction line, the operational interpretation and the
+  double-prefixed review requirement) and Combat Record 0.067 (the resistance row, two action rows, the tension phase and
+  the resolution). **Closed in a single wave** (24 sites); 7,705 → **8,027 words**; `tpl.py` residue 0 throughout;
+  `verify.py` residual **2 → 0** (Story Log Entry 1's `is logged as ` line and the activation line); `sectfile.py` ends
+  at **0 section(s) over 0.05**; `wikistd.py` meets **True** with condition and series held. The file's own condition was
+  re-registered inside the rewritten resolution line in its own words (`approach with curiosity rather than possession or
+  destruction`); the review requirement had its duplicated `The review requirement:` preamble collapsed in the rewrite.
+  Movement at the unit commit: `R-29` 183 / 301; section-clean 208 / 301; residue-free 302 / 302; residue lines
+  0; archive dirty 284; file-clean 302 / 302. **Batch 30 stands at three of five.**
+
+
+
 - **Batch 30 / unit 2 — Grieving Love `N-IIIβ-941` closed (2026-10-07)** — measured at `1f6cb9a`: **6 dirty sections**,
   worst Entity Interactions 0.139 (the network preamble, the table header and all three relation rows), then Behavior
   0.114 (the gauge-context paragraph and Reading the Response), Registrum 0.113 (the operational interpretation and the
