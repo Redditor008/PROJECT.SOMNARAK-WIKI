@@ -86,9 +86,9 @@
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Floating Tree by a pale tree drifting root-first, four to nine metres up, roots hanging and sweeping without contact, foliage of broken memory, and a shadow on the ground beneath it that stays a while after it has gone, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** Identification first — a pale tree drifting root-first, 4 to 9 metres up, roots hanging and sweeping without contact, foliage of broken memory, and a shadow on the ground beneath it that stays a while after it has gone. The route is marked from the log rather than from the ground, and the positions are taken beneath the shadow line before anything else is attempted.
 2. **Clash:** Work is conducted from the ground, inside the shadow, with the Tree overhead and the shadow's edge pegged before anybody steps in. Nobody works it from a height and nobody works it from the current side.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Mark its route; do not attempt to anchor it physically**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Mark its route; do not attempt to anchor it physically**. The condition is met when the route log carries the day's marks, the shadow line has been re-pegged where it moved, and nothing has been driven into the ground to hold the tree; a cycle that ends with an anchor set is filed as the holding having been provoked.
 
 ### Consequences
 
@@ -143,9 +143,9 @@
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. Floating Tree is recorded as an Object/Place with Place-Weight manifestation and Lament elemental expression. The current record places it at The Desolate, near The Scar; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+A stable gauge is not a safe encounter, and on this holding the gauge is calm most of the time the tree is simply drifting. Work Types are cross-referenced with the breach threshold and the M.A.W. cost before assignment: Floating Tree is an Object/Place with a Place-Weight manifestation and Lament elemental expression, tracked over The Desolate near The Scar. It carries fragments of broken lives, it moves with the Han currents rather than of its own will, and it leaves a shadow on the ground that stays after the tree has gone — which is why what is managed is a route and not a position. Observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** A falling gauge lightens the surface pressure and leaves the deep structure of the grief untouched — stabilisation, not healing. A climbing gauge means the approach has found the nerve of the origin, and the procedure should be pulled back before it feeds what the tree was made of. The route log is read beside the gauge: a mark that repeats is the holding behaving, and a mark that moves against the current is the event.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -221,7 +221,7 @@ The living vines absorb emotional recoil, anchoring the wielder against heavy im
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a Lament Han-silk shroud, cool to the hand and faintly luminous, cut long and worn loose so that it trails; on a holding whose whole figure hangs, the drape is what the wardens read from below before the tree itself resolves.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -231,21 +231,21 @@ The living vines absorb emotional recoil, anchoring the wielder against heavy im
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Floating Tree's kind of pressure.
+**Ability:** Grants resistance to Lament damage and protects the Mind — emotional stability and willpower — against this tree's particular pressure: what it sheds is not fear and not grief exactly, but the pull of places a person can no longer go back to.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** Minor joys dull in the wearer. The onset is silent and the wearer is the last to catch it, so the second worker checks at the return of the piece against the written sheet.
 
 ### M.A.W. Stigma — The Floating Charm
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a palm-sized charm of Lament Han-crystal, cool and faintly luminous, that takes light at an angle nothing else in the room does — wardens working the root-line use it to follow the shadow after the tree has moved on.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
 **Effect:** +2 to the working stat, and the wearer can sleep anywhere at all — a barracks, a ditch, a stranger's floor — without the usual night of adjustment.
 
-**Ability:** Grants a minor boon tied to Floating Tree's sorrow; the effect mirrors the entity's nature.
+**Ability:** Grants a minor boon tied to Floating Tree's sorrow, and the effect mirrors the holding exactly: for a time the bearer can find the way back to a place they half-remember, which is the one thing the tree itself cannot do.
 
 **Cost:** The bearer weeps in their sleep.
 
@@ -253,18 +253,18 @@ The living vines absorb emotional recoil, anchoring the wielder against heavy im
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Floating Tree and carries what Floating Tree carries: the wielder feels every place they can no longer return to. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+All 3 pieces are cut from the tree and carry its charge rather than its power: the bearer feels every place they can no longer return to. Extraction stability is what the grade line records, and nothing about that charge sits in it; the cost occupies the column beside, which is why issue is one rotation at a time.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Floating Tree the recorded cost is that the wielder feels every place they can no longer return to. |
-| **During use** | Every occurrence of what Floating Tree takes (the wielder feels every place they can no longer return to), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | Floating Tree's cost is continuous rather than occasional: the wearer becomes numb to minor joys. The second worker's call stands against the wielder's. |
-| **After use** | Return, reconcile the baseline, and record whether Floating Tree's toll has reversed: the wearer becomes numb to minor joys. Where it has not, the piece is not reissued to that wielder. |
+| **Before use** | Wielder, piece, the day's reading, and the route log opened by a second person. On this set what is measured is a pull rather than a symptom — the bearer's sense of places they cannot go back to — and the sheet is kept by somebody who is not wearing the piece. |
+| **During use** | Every instance is timed: the bearer naming a place they can no longer reach, with the hour. One occurrence is noted and the work continues; a pattern across a shift ends the use, and the log is closed by the second worker rather than by the bearer. |
+| **At limit** | The cost on this set is continuous and not occasional: minor joys go flat in the bearer while the pull of unreachable places stays sharp. On a Floating Tree piece the use ends there, and the second worker's call carries against the bearer's. |
+| **After use** | Take the piece back, set the route log against the bearer's own account, and enter whether the pull has reversed. Where it has not reversed the piece is not issued to that bearer again, and the entry is made against the piece. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade and risk do not travel together: the damage line records what a piece does to a holding, while on this set the cost line records a bearer who can feel every place they will not return to. Authorise on the cost column, and let the written route log be the thing the return is measured against.
 
 ## 관찰 기록 (Observation Log)
 
@@ -293,7 +293,7 @@ Every piece in this set is a fragment of Floating Tree and carries what Floating
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Floating Tree (N-IIIγ-585 [N]) is logged as a Place-Weight manifestation expressing Lament, tracked across the Desolate near The Scar. It carries the memory of Thornmere, it rides the currents root-first, and the shadow it throws on the ground is larger every season.
+Floating Tree (N-IIIγ-585 [N]) is a Place-Weight manifestation expressing Lament, tracked over The Desolate near The Scar. It is a pale tree drifting root-first 4 to 9 metres above the ground, roots hanging and sweeping without touching anything, foliage made of broken memory, and a shadow beneath it that stays on the ground a while after the tree has gone. The condition is to mark its route and never to attempt to anchor it physically.
 
 **Entry 2 — <Desolate Warden Track, Year 4238>**
 Shadow area 505 square paces, against 402 and 310 in the two preceding seasons. Height unchanged within the tolerance of the method, which is poor and is stated as poor. Roots clear of the ground throughout, as in every season on record.
@@ -311,7 +311,7 @@ The resettlement lists in this folder were not made by the facility. They were m
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Floating Tree; the other feeds it.
+> Two ways to end the same watch. One is the condition on file — mark the route, never anchor it physically — and the other is the answer a crew gives when they have a rope, a stake and a tree that will not come down.
 
 | Do the thing on file: Mark its route; do not attempt to anchor it physically. | Reach for Pugnahan, which the Behavior table shows raising the gauge every time it has been logged. |
 |---|---|
@@ -324,7 +324,7 @@ A tree floats over the Desolate, roots reaching for ground that is not there. Be
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A tree floating above the Desolate, roots hanging into empty air and leaves made from broken memories. Notable Features: It carries fragments of broken lives, moves with Han currents, and casts a shadow beneath itself. Identification. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Place-Weight form.
+**At first contact:** What identifies it is the drift before the tree: a pale shape moving root-first above the Desolate, roots hanging into open air, and a shadow running along the ground that keeps its own time. The foliage reads as broken memory rather than as leaf, and the whole thing travels with the Han currents instead of against them. The space beneath it does not go generic or abstract — it changes in the specific way associated with Lament and with this holding's Place-Weight form.
 
 **With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Lament; it is this entity's Lament — shaped by its origin, its wound, its particular grief.
 
@@ -334,7 +334,7 @@ A tree floats over the Desolate, roots reaching for ground that is not there. Be
 
 ### Interaction Pattern
 
-Floating Tree does not exist in isolation. Its recorded relationships with The Returning Tree, The Spreading Root, The Grieving Colossus should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Floating Tree is read beside the 3 holdings the file has paired it with — The Returning Tree, The Spreading Root and The Grieving Colossus — and none of the 3 is treated as an alliance or a hostility: they are resonance candidates, filed as such. In a shared event the team records whether anything changes at all in the route, the shadow line, the gauge or the containment, and the standing note is that a resemblance is the reason a pairing was proposed and not a finding that came out of one.
 
 **Interaction method:** Shadow pegged and paced before the pairing and again after, from the same ground, by the same Warden, with the current bearing recorded at both readings.
 
@@ -343,7 +343,7 @@ Floating Tree does not exist in isolation. Its recorded relationships with The R
 
 Floating Tree must be kept distinct from the rooted holdings in the Desolate series. The Returning Tree keeps a place that people can still go to; this one keeps a people that no longer has a place, which is why it drifts and why the shadow is the only part of it anybody can measure.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
 |---|---|---|---|
 | **The Returning Tree** | Brought within sight of a tree that is rooted, this one holds against the current for as long as the sighting lasts — the only occasions on record of it resisting a current at all. | Up to four hours of station-keeping, then it resumes. Shadow unchanged. | Time the hold and record the current it is holding against. Do not attempt to extend it. |
 | **The Spreading Root** | The Root grows upward beneath it and has reached within two metres on one occasion. No contact has been made and the Tree does not descend. | No change in shadow, bearing or gauge. The approach has never been completed. | Measure the gap at closest approach. Both holdings continue as normal afterwards. |
@@ -395,9 +395,9 @@ Some sorrows mourn a home. Floating Tree mourns the rooting — the place that h
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This entry does not stand alone: the designation, the Work Type responses, the M.A.W. cost and the breach behaviour form one picture, and on this holding the picture is a route. The facts that govern are these — the tree drifts root-first 4 to 9 metres up, roots sweeping without contact, it travels with the Han currents, it leaves a shadow that outlasts it, and the condition is to mark the route and never anchor it. When the holding does something this file does not describe, document the gap; the record is a living document and the gap is the next entry.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, Sorrow Tide, expansion, transformation attempt or unusual interaction, re-verify the route log, the shadow line, the gauge, the containment seal, the personnel medical status and the M.A.W. resonance changes before the next cycle. On this holding the specific question is whether any anchor was set or any root touched; if a parameter has shifted, update the file rather than the memory of it, because the R.D. record here describes a living sorrow pattern and not a permanently complete explanation.
 ## Warden Record
 
 ### Root-First Through the Air
@@ -444,10 +444,10 @@ A community was dispersed by an Outside Sorrow surge and its memories gathered i
 ### Registry Trivia
 
 - **Classification detail:** Floating Tree is an Object/Place with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is The Desolate, near The Scar.
+- **Field detail:** Element Lament, registered to The Desolate near The Scar, where containment is a marked route and nothing else: the tree is tracked from the ground, the shadow line is re-pegged where it moves, and no stake is ever driven.
 - **Recognition detail:** A pale tree drifting root-first, four to nine metres up, roots hanging and sweeping without contact, foliage of broken memory, and a shadow on the ground beneath it that stays a while after it has gone.
 - **Record detail:** The Registrum read Residue (I) and Minor (α) against a Fragment (III), Major (γ) header, rated the holding Low, and named Flerehan as primary where Flerehan is barred; the activation record read Subject-Lament against Place-Weight everywhere else; the role field read Object/Place on a Subject that breaches and entangles; the M.A.W. grade was blank against three γ pieces. All corrected here.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** A contained entity is not dormant, and nothing here is confined: the tree crosses the Desolate on the currents and the management is a log. Fixed holdings can expand influence without moving — warping local Han, affecting psychology, resonating across barriers — and this one carries that influence under itself as a shadow, which is why the wardens read the ground and not the sky.
 ## Document Information
 
 **Document ID:** SE-N-IIIγ-585

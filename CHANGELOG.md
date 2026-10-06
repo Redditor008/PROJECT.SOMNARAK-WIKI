@@ -63,6 +63,22 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 25 / unit 2 — Floating Tree `N-IIIγ-585` closed (2026-10-06)** — measured at `136b701`: **7 dirty
+  sections**, worst Behavior 0.272, then M.A.W. Equipment 0.266 (the Lament Han-silk shroud appearance line, both
+  abilities, the second cost, the charm appearance, the minor-boon line, the set note and the four field-use rows),
+  Registrum 0.190 (the operational interpretation and review requirement, plus the faction line), Final Observation
+  0.121, Trivia 0.087 (field and containment rows), Flavor Text 0.076 (the first-contact line, the isolation line
+  and the header row) and Combat Record 0.056 (the Tension and Resolution lines). All seven closed in two waves
+  (16 + 8 sites); 6,722 → **7,236 words**; `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0** (Story Log
+  Entry 1's stock `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**.
+  All three clauses were already **True** and left alone (`R-05`). The stock pieces were rebuilt onto the route:
+  the condition (mark its route; do not attempt to anchor it physically) went into the resolution and the choice
+  block, the shadow line and the current-drift into the contact and containment rows, and the M.A.W. rows onto the
+  set's own charge — the bearer feels every place they can no longer return to. Movement at the unit commit:
+  `R-29` 146 / 301 (series **242**); section-clean 170 / 301; residue-free 252 / 302; residue
+  lines 6, instances 62, carriers 50 / 302; archive dirty 574; file-clean 278 / 302.
+  **Batch 25 stands at two of ten.**
+
 - **Batch 25 / unit 1 — Harvest Beyond the Gate `N-IIβ-627` closed (2026-10-06)** — measured at `918b3cb`: **7 dirty
   sections**, worst Behavior 0.273, then M.A.W. Equipment 0.256 (the 12-dossier *reflexes dull, as if armored by
   resentment* cost line — the file's residue — both abilities, the other cost, the harness and seed-charm
