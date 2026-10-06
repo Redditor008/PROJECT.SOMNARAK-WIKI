@@ -1716,6 +1716,16 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 26, unit 3: The Debt Eater `C-IIIβ-014` closed.** Measured at `a06cbcd`: **6 dirty sections**, worst Final
+Observation 0.352, then M.A.W. Equipment 0.266, Registrum 0.174 (including the Warden Record accumulation line —
+one of the file's two `verify.py` residuals), Flavor Text 0.093, Combat Record 0.061 and Trivia 0.052 — all six
+closed in two waves (27 + 12 sites; one safe redo abort on a mis-counted assert); 7,037 → **7,868 words**; `tpl.py`
+residue 0 throughout; `verify.py` residual 2 → **0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets
+**True**. The `own_series` clause closed from **False** to **True** by restating the file's own figures (35 per
+cent, 15 points, 3 breaches, 11 days, 2 conferrals, 6–10 at 25) — disclosed; condition and disposition already
+satisfied and left alone (`R-05`). Movement: `R-29` 155 / 301; section-clean 180 / 301; residue-free 292 /
+302; archive dirty 486; file-clean 298 / 302. **Batch 26 stands at three of five.**
+
 **Batch 26, unit 2: Border Tree `O-IVδ-151` closed.** Measured at `e48e45d`: **7 dirty sections**, worst Behavior
 0.268, then Final Observation 0.167, Flavor Text 0.095, Trivia 0.074, Combat Record 0.070, Story Log 0.063 and
 M.A.W. Equipment 0.062 — all seven closed in two waves (28 + 20 sites; one safe redo abort on a mis-counted
@@ -1738,7 +1748,8 @@ layers in place, and take nothing out*), and `own_series` was restated from the 
 178 / 301; residue-free 292 / 302; archive dirty 501; file-clean 291 / 302. **Batch 26 stands at one of
 five.**
 
-**Batch 25 is closed at ten — the ladder's top rung, every unit pushed and verified.** - SE-O-IVδ-151 Border Tree 스며든 나무 — `fcfae41` — PUSH VERIFIED — [[SE-O-IVδ-151_Border_Tree_스며든_나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IVδ-151_Border_Tree_스며든_나무.md")
+**Batch 25 is closed at ten — the ladder's top rung, every unit pushed and verified.** - SE-C-IIIβ-014 The Debt Eater 빚을 먹는 자 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-014_The_Debt_Eater_%EB%B9%9A%EC%9D%84_%EB%A8%B9%EB%8A%94_%EC%9E%90.md "SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md")
+- SE-O-IVδ-151 Border Tree 스며든 나무 — `fcfae41` — PUSH VERIFIED — [[SE-O-IVδ-151_Border_Tree_스며든_나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IVδ-151_Border_Tree_스며든_나무.md")
 - SE-C-IVδ-219 Soaking Shard 솟구친 조각 — `688b79c` — PUSH VERIFIED — [[SE-C-IVδ-219_Soaking_Shard_솟구친_조각]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-219_Soaking_Shard_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%A1%B0%EA%B0%81.md "SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md")
 PR #13's batch-25 section carries the same ten links, with the cohort counters and the disclosure list, read back from the API (`gh api` GET at 96,944 characters, section header and all ten unit names verified). Ten dossiers, **69 / 69
 dirty sections closed**, **+6,525 words** net, nothing deleted (`R-15`). Movement across the cohort: `R-29`

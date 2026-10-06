@@ -63,6 +63,28 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 26 / unit 3 — The Debt Eater `C-IIIβ-014` closed (2026-10-06)** — measured at `a06cbcd`: **6 dirty
+  sections**, worst Final Observation 0.352 (the choice blockquote, the condition row and the success/fail row),
+  then M.A.W. Equipment 0.266 (the prism, veil and scale appearances, both abilities, both costs, the effect line,
+  the Scale conferral note, the set note, the four field-use rows and the stat interpretation), Registrum 0.174
+  (the operational interpretation, the review requirement, and the Warden Record's accumulation line — one of the
+  file's two `verify.py` residuals), Flavor Text 0.093 (the four contact lines, the two interaction preambles, the
+  method, the header row, the procedure and the isolation line), Combat Record 0.061 (the resistance row, three
+  combat actions and the Tension and Resolution lines) and Trivia 0.052. All six closed in two waves (27 + 12
+  sites; the first aborted once on a mis-counted assert — guard 24, a safe redo); 7,037 → **7,868 words**;
+  `tpl.py` residue 0 throughout; `verify.py` residual 2 → **0** (Story Log Entry 1's `is logged as ` and the Warden
+  Record's accumulation line, re-authored in place); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py`
+  meets **True**. The `own_series` clause closed from **False** to **True** by restating the file's own figures in
+  the Registrum — gauge opens at 35 per cent, 15 points per collection, 3 breach events, the 11-day memory check,
+  the Scale conferred 2 times, 6–10 damage at 25 Echoes — **restated from the file, disclosed**; the condition
+  (provide a specific amount of Echoes; once fed the fog dissipates) and disposition were already satisfied and
+  left alone (`R-05`). The stock pieces went onto the account: the hands protocol and the balance-ordered roster
+  into the identification and breach rows, the 50 citizens and the declaration into the Registrum, and the M.A.W.
+  rows onto the set's charge — memories gone and a conviction installed that measurable debt is the only truth.
+  Movement at the unit commit: `R-29` 155 / 301 (series **248**); section-clean 180 / 301; residue-free
+  292 / 302; residue lines 1, instances 10, carriers 10 / 302; archive dirty 486; file-clean
+  298 / 302. **Batch 26 stands at three of five.**
+
 - **Batch 26 / unit 2 — Border Tree `O-IVδ-151` closed (2026-10-06)** — measured at `e48e45d`: **7 dirty
   sections**, worst Behavior 0.268 (the gauge note and the reading response), then Final Observation 0.167 (the
   choice blockquote and both result rows), Flavor Text 0.095 (the four contact lines, the interaction method, the
