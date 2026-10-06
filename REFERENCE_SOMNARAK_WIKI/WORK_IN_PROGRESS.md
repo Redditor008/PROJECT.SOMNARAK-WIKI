@@ -2116,7 +2116,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 31 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-N-IIIβ-155 Harbinger 추징관의 그림자 — `__HASH__` — PUSH VERIFIED — [[SE-N-IIIβ-155_Harbinger_추징관의_그림자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-155_Harbinger_%EC%B6%94%EC%A7%95%EA%B4%80%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-N-IIIβ-155_Harbinger_추징관의_그림자.md")
+- SE-N-IIIβ-155 Harbinger 추징관의 그림자 — `bd844db` — PUSH VERIFIED — [[SE-N-IIIβ-155_Harbinger_추징관의_그림자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-155_Harbinger_%EC%B6%94%EC%A7%95%EA%B4%80%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-N-IIIβ-155_Harbinger_추징관의_그림자.md")
 
 - SE-N-Iα-518 Life Behind Glass 솟구친 창 — `478585b` — PUSH VERIFIED — [[SE-N-Iα-518_Life_Behind_Glass_솟구친_창]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-518_Life_Behind_Glass_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%B0%BD.md "SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md")
 
