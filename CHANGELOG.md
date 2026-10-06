@@ -63,6 +63,22 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 27 / unit 3 — The Hollow Knight `C-IVγ-073` closed (2026-10-07)** — measured at `4f89d0a`: **6 dirty sections**,
+  worst Final Observation 0.343 (the choice blockquote and both result rows), then M.A.W. Equipment 0.189 (the blade
+  and harness appearances, the weapon ability and cost, the conferred note, the set note, the four field-use rows and
+  the stat interpretation), Registrum 0.152 (the operational interpretation and the review requirement), Flavor Text
+  0.077 (the intro, two contact lines, the interaction preamble, method, record intro, table header, all five pairing
+  rows and the procedure), Observation Log 0.057 (three stage rows and the method) and Combat Record 0.050 (the
+  resistance row, two shared action rows and all three phases). Both closed in two waves (26 + 15 sites); 7,411 →
+  **7,921 words**; `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged
+  as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, all three clauses already
+  satisfied and left alone (`R-05`). One repair inside the unit, disclosed: wave A left a stray pipe at the end of
+  the operational-interpretation line, removed before the docs commit and re-verified. The stock pieces went onto
+  the holding's own evidence: the 16-hour circuit, the 5-per-turn escalation and the three-act condition into the
+  phases, the choice and the review; the duty-and-injury charge onto the M.A.W. rows. Movement at the unit commit:
+  `R-29` 160 / 301 (series 251); section-clean 185 / 301; residue-free 302 / 302; residue lines 0;
+  archive dirty 446; file-clean 302 / 302. **Batch 27 stands at three of five.**
+
 - **Batch 27 / unit 2 — The Silent Child `N-Iα-025` closed (2026-10-07)** — measured at `a68af9a`: **6 dirty sections**,
   worst Final Observation 0.338 (the choice blockquote and both result rows), then Behavior 0.143 (all four Work Type
   rows, the gauge note and the reading response), M.A.W. Equipment 0.125 (the veil and ring appearances, the weapon
