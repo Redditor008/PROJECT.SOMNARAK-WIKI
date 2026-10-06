@@ -320,7 +320,7 @@ Three holdings are kept within reach of the Apothecary — The Preserved Heart, 
 
 She has to be read as one point in a network rather than as a file on a shelf. Each interaction below is a fixed relationship point, and none of them is filed as friendly or hostile by nature: the same pairing has run differently under a different Sorrow Tide, and none of it survives a breach or an Ordeal unchanged.
 
-| Holding on file | How the two have met | What the watch has seen move | What belongs in the entry |
+| Other holding in range | How the two answered each other | What was seen to move | Text required in the entry |
 |---|---|---|---|
 | **The Preserved Heart** | Two kept loves set side by side — one sealed in glass, one risen from a vat. | Both settle; the two read the same stillness back at each other. The calmest pairing in her file, and the shortest on record. | Distance, duration, trigger, gauge on both sides, and whether the Apothecary's seal held after the room emptied. |
 | **The Ember Child** | Grief given a small body, and a large one leaning down toward it. | The warmth pulls her in close; her colour brightens and the weeping slows to almost nothing. | How near she came, how long the two stayed, the trigger, both gauges, and the state of the child's light afterwards. |

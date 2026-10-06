@@ -319,7 +319,7 @@ Three holdings are kept within reach of the Commons — The Broken Whisper, The 
 
 Double Mouth must be assessed against the other testimony files and kept distinct from them. The Broken Whisper is an account that was never finished; the Whispering Gallery carries any voice put into it; the Iron Judge wants evidence. This holding is none of those: its account is complete, consistent, and unprovable, and the thing it accuses is not a liar but a filing rule that works.
 
-| Holding on file | How the two have met | What the watch has seen move | What belongs in the entry |
+| Holding within earshot | How the encounter has run | What the Commons watch recorded | What the entry must state |
 |---|---|---|---|
 | **The Broken Whisper** | An account that was never finished, beside an account that was finished and could not be used. Adjacent, not alike. | Four proximities. No transfer and no completion: the Broken Whisper did not take up this holding's dates, and the burning share stayed at 59–62 throughout. | Tone counts at five-minute intervals on both holdings, bearings, both channel sheets. |
 | **The Whispering Gallery** | The Gallery carries whatever is put into it, including both tones at once, which is the only recorded way to hear them without a second recorder. | Two proximities. Amplification as expected, no change in the share, and the Gallery was carrying both tones faithfully within forty seconds. The grid method used here was borrowed from that holding and the borrowing is credited. | Tone counts, gallery transcript, verification that no new content entered either file. |

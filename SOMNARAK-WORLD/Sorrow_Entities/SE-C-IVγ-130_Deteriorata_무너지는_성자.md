@@ -315,7 +315,7 @@ Nothing here treats the chamber as a closed room: The Grieving Colossus, The Kin
 
 Deteriorata must be assessed against the files it resembles and is not. The Grieving Colossus holds grief that was never mourned; this holds work that was never recorded. The Kind Healer gives relief; this one was the relief, for a district, for decades. The Cracked Hourglass is a term running out. The distinction decides whether a crew arrives intending to help it, which is the one intention this holding cannot accommodate.
 
-| Holding on file | How the two have met | What the watch has seen move | What belongs in the entry |
+| Nearby holding | The shape of the contact | The reading that moved | The required entry |
 |---|---|---|---|
 | **The Grieving Colossus** | Adjacent and distinct: the Colossus holds grief that was never mourned; this holds work that was never recorded. No transfer between them has ever been observed. | Field growth unchanged across two proximities; both entities' load readings unchanged. | Peg readings before and after, taken within the hour, by the same surveyor. |
 | **The Kind Healer** | The Healer works on it and nothing happens, which is the most-cited finding in the wing and the most misread: it is not that this entity cannot be helped, but that nothing offered inside the chamber has ever reached what is wrong. | Gauge fell during both attempts and the field grew at its ordinary rate throughout. | Gauge, growth, and what precisely was offered — in the Healer's words, not the observer's. |

@@ -324,7 +324,7 @@ Five holdings are kept within reach of the library — The Orphaned Bell, The Ki
 
 The Memory Weaver must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
 
-| Holding on file | How the two have met | What the watch has seen move | What belongs in the entry |
+| Holding on record | How the pair have dealt | What the loom-log showed | What belongs in the file |
 |---|---|---|---|
 | **The Orphaned Bell** | The Weaver keeps its distance; the tolling pulls the webs apart wherever it reaches. | Rejection, filed as incompatibility rather than hostility. Contact is not to be forced, and the condition that sends the loom away is written down in full. | What distance opened, how long the tolling ran, what started it, both gauges, and whether the threads rejoined after the Bell fell silent. |
 | **The Kind Healer** | A trade, run more than once: the Healer takes the sorrow and gives back a working hand. | Pressure comes down while the trade holds. Whether the gauge actually fell — or only stopped rising — is the figure that must be settled before the trade is counted. | The terms given and taken, how long the two stood together, the gauge before and after, and what either did once the trade closed. |

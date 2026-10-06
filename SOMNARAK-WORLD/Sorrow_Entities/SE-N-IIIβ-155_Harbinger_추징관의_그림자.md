@@ -315,7 +315,7 @@ Three holdings are kept within reach of the Row — The Inherited Debt, The Debt
 
 Harbinger must be assessed against the other debt files and kept distinct from them. The Inherited Debt is a balance passed down; the Debt Eater removes balances; the Debt Clock counts a term. This one carries no balance, removes nothing and counts nothing: it is the interval between a decision being taken about a person and that person being told.
 
-| Holding on file | How the two have met | What the watch has seen move | What belongs in the entry |
+| Holding within reach | How the two have crossed | What has changed in the readings | What the sheet requires |
 |---|---|---|---|
 | **The Inherited Debt** | Distinct: the Inherited Debt is a balance that descends; this one carries no balance at all and is indifferent to whose name is on the ledger. | In two proximities the series did not alter by a measurable amount in either direction. | Distance before and after, and the ledger column, which is the field crews expect to move and which does not. |
 | **The Debt Eater** | The clearest test on the file: the Eater has twice extinguished an obligation outright, and on both occasions this entity remained in place and the distance went on closing. | No change to the series. The finding is retained because it defeats the intuitive reading of the whole holding. | Date the obligation was extinguished, and the three subsequent distance readings. |

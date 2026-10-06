@@ -360,7 +360,7 @@ Three holdings stand within reach of the rim — The Memory Lake, The Weeping St
 
 This pool is read against the other standing water and against the Gardens. Each relation below has been watched and filed, none is closed, and all three are drainage relations as much as resonance ones — which makes them unusually plain to measure and unusually easy to over-read. A result obtained once carries no weight at all during a Sorrow Tide, an Ordeal or a transformation event.
 
-| Holding on file | How the two have met | What the watch has seen move | What belongs in the entry |
+| Holding across the rim | How the two have met before | What moved on the sheet | What the watch writes |
 |---|---|---|---|
 | **The Memory Lake** | The overflow runs downhill toward the Lake and has done since before either was registered. | Measured over four seasons: the Fountain's level is unaffected by anything the Lake does, and the Lake's series shows no step attributable to the inflow. The connection is real, physical, and operationally empty. | The four-season series from both holdings and the survey of the channel. |
 | **The Weeping Statue** | The Statue's tears reach the pool by way of the same low ground. | No measurable effect in either direction across eleven co-presences. The Statue's rate did not change and the Fountain's level moved no more than it moves on an ordinary day. | The eleven co-presences, with the level series for each. |

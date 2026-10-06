@@ -326,7 +326,7 @@ Four relationships, two of them transits nobody arranged, one refused by the oth
 
 Each row carries its own measurement and none of them is comparable to another, which is stated here rather than disguised by a common column. The one figure that recurs is the baseline comparison, and it is the figure that decides whether a session was harmless.
 
-| Holding on file | How the two have met | What the watch has seen move | What belongs in the entry |
+| Neighbour on the Row | What the meeting looked like | What the watch logged | What the entry must carry |
 |---|---|---|---|
 | **The Forgotten Soldier** | The Soldier salutes the Thief, honouring what has been lost. | Corridor transit, once. The Thief held still for the only recorded time — eleven seconds, both observers agree — and took nothing from anybody present. Unarrangeable; the Soldier cannot be ordered to do it again. | The two fixes, the eleven seconds, and all four baseline comparisons, which came back unchanged. |
 | **The Grieving Colossus** | Pauses near the Thief and listens. | Observed twice at distance. Fix rate halves while the Colossus is in the district and returns afterwards; no effect on the loss rate either way. | Fix rates, Colossus transit times, and the loss rate stated as unchanged. |

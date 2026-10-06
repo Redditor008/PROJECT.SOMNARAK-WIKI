@@ -352,7 +352,7 @@ Three holdings stand within reach of the gallery — The Torn Window, The Memory
 
 The pane is set in a transit gallery that most of Zone B passes through, so it has more incidental contact with personnel and holdings than a Minor-rated object should. The interactions below were recorded under particular traffic conditions, and traffic through the deep tunnels is seasonal; the viewing distribution is re-established before any of them is relied on.
 
-| Holding on file | How the two have met | What the watch has seen move | What belongs in the entry |
+| Holding in the tunnels | How the pairing went | What the gallery logged | What must be entered |
 |---|---|---|---|
 | **The Torn Window** | Both hold a view across a loss; that one is broken open and this one has never had an opening at all. | Viewing times at this pane lengthen by roughly a third while the Torn Window is in the same tunnel. | Timed holds before, during and after, with the same relief keeping the watch throughout. |
 | **The Memory Rain** | The rain behind the pane thickens until the scene cannot be made out. | Holds shorten sharply, the only recorded reduction; workers look away because there is nothing left to see. | Visibility through the pane and hold time, sampled together at ten-minute intervals. |

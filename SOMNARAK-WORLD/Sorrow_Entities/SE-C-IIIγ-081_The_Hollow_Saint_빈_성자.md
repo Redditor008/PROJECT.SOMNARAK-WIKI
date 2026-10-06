@@ -313,7 +313,7 @@ This holding is read against the rest of the wing's giving-things. Each relation
 
 The relations below are points of contact and not alliances. None is closed, and the most-quoted of them — the resemblance to the Kind Healer — is the one the wing has spent the most effort stopping people from overstating.
 
-| Holding on file | How the two have met | What the watch has seen move | What belongs in the entry |
+| Other holding | What the contact has looked like | What was seen to shift | What is written down |
 |---|---|---|---|
 | **The Kind Healer** | The two are routinely described as the same sorrow at different stages, which is a claim about the future and not an observation. | Five co-presences. The Healer's gauge fell on four and rose on one; the Saint's did not move on any. No transfer, no convergence, and nothing that supports reading one as the other's later state. | All five co-presences, both series, and the claim recorded as unproven. |
 | **The Debt Eater** | The Eater can take burden away, which would in principle give the Saint something she cannot otherwise obtain. | Three sessions. The Eater consumed normally; the Saint's hollow was unchanged on imaging and her reach did not alter. What the Eater removes is not what the Saint is missing. | All three sessions, the imaging before and after, and the unchanged reach. |

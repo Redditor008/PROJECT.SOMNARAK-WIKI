@@ -351,7 +351,7 @@ This ground is read against the other grief-grown things on the margin. Every re
 
 The relations below are points of contact and not alliances. None is closed, and a single result carries no weight at all during a Sorrow Tide, an Ordeal, a breach or a transformation event.
 
-| Holding on file | How the two have met | What the watch has seen move | What belongs in the entry |
+| Holding on the margin | How the two have met | What the tally noted | What the entry carries |
 |---|---|---|---|
 | **The Sorrow Flower** | Both grew from planting done for the dead, and the Flower has no thorns, which is the only difference anybody can point to. | Seven co-presences. No transfer in either direction, no change in reach, no change in the Flower's own record. The pairing is proposed as a softening arrangement about once a year and the null result is reissued each time. | The seven co-presences, both records, and every reissue of the null. |
 | **The Angry Maiden** | The blooms brighten in the Maiden's presence, the only effect on this file with a consistent direction. | Four co-presences. Brightness rose on all four and the reach did not move on any of them. Nothing passed to the Maiden that the wing could measure, and her own series was flat. The effect is recorded as real, one-directional and operationally useless. | The four co-presences, the brightness records, and the Maiden's flat series held beside them. |
