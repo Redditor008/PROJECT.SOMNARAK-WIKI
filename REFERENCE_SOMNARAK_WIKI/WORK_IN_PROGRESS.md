@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **221 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **153 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **129 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **222 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **154 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **130 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 252 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 253 / 302 |
 | Archive median prose generic fraction | 0.014 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1678,6 +1678,19 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 `R-29` 121 → **122 / 301** (condition **256**); section-clean 145 → **146 / 301**; residue-free 208 → **209 /
 302**; file-clean 235 → **236 / 302**. **Batch 19 is closed at three.**
 
+
+**Batch 22, unit 2: Frozen Tear `C-IIβ-102` closed.** Measured at `a3b724e`: **8 dirty sections**, worst Behavior
+0.376 (the 52-dossier gauge-in-context line and a 13-dossier reading shell), then M.A.W. 0.237 (a 14-dossier cost
+line, an 11-dossier use-notes line and six shared field-use rows), Registrum 0.145, Combat Record 0.127 (an
+11-dossier resistance row and a 13-dossier generic resolution shell), Final Observation 0.125, Trivia 0.098, Flavor
+0.095 (the 32-dossier isolation line) and Activation Behavior 0.055 (a 23-dossier escalation shell). All eight
+closed in two waves (12 + 15 sites); 6,824 → **7,989 words**; `tpl.py` residue 3 → **0**; `verify.py` residual 0
+throughout; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**; both clauses **already
+satisfied and left alone** (`R-05`). The generic resolution placeholder was replaced with the holding's own
+condition, and the three retired carrier lines fell below the 10-holder threshold archive-wide (residue lines 11 →
+**10**, instances 132 → **128**, carriers 80, clean dossiers 221 → **222**, file-clean 252 → **253 / 302**).
+Benefit elsewhere: Portcullis 7 → **6**. Archive dirty sections 739 → **730**. Movement: `R-29` 129 → **130 / 301**;
+section-clean 153 → **154 / 301**; residue-free 221 → **222 / 302**. **Batch 22 stands at two of five.**
 
 **Batch 22 opens at five (owner's ratchet, 2026-10-06); unit 1: The Silent Maiden `C-IVβ-043` closed.** The batch-22
 tier was re-derived at `6905b0a`: The Silent Maiden `C-IVβ-043` (8, 0.391) heads it, then Frozen Tear `C-IIβ-102`

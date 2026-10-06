@@ -63,6 +63,28 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 22 / unit 2 — Frozen Tear `C-IIβ-102` closed (2026-10-06)** — measured at `a3b724e`: **8 dirty sections**,
+  worst Behavior 0.376 (the 52-dossier *The gauge response is only meaningful in context* line and a 13-dossier
+  reading shell), then M.A.W. Equipment 0.237 (a 14-dossier cost line, an 11-dossier use-notes line and six shared
+  field-use rows), Registrum 0.145 (the *starting point, not a conclusion* and *four pillars* shells), Combat Record
+  0.127 (an 11-dossier resistance row, a 13-dossier resolution shell and three shared consequence lines), Final
+  Observation 0.125, Trivia 0.098, Flavor Text 0.095 (the 32-dossier isolation line) and Activation Behavior 0.055
+  (a 23-dossier escalation shell). All eight closed in two waves (12 + 15 sites); 6,824 → **7,989 words**;
+  `tpl.py` residue 3 → **0**; `verify.py` residual 0 throughout; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**. **Both clauses were already satisfied and were left alone** (`R-05`) — the file's own
+  figures (radius 4.1 / 5.6 / 7.2 metres across three annual surveys; the bench authorised in 4232, 61 per cent of
+  shift hours occupied in 4237 and ~9,400 sittings counted by a weight plate; no referrals, by design). The generic
+  resolution placeholder *the entity-specific management condition is satisfied* was replaced with this holding's
+  own condition (no contact under any authority, bench unrecorded), and the three retired carrier lines — the
+  resistance row, the resolution shell and the *unwept grief* cost line — fell below the 10-holder threshold
+  archive-wide: residue lines 11 → **10**, instances 132 → **128**, carriers 81 → **80**, clean dossiers 221 →
+  **222**, file-clean 252 → **253 / 302**. The isolation line was re-authored onto the Gardens distinction that this
+  one permits grief while the Statue produces it, and the Registrum shells and trivia rows onto the file's own
+  procedural facts (three unvarying series and one that moves; the Works Office rule that no worker may be stood
+  down for their state). Benefit elsewhere: Portcullis 7 → **6**. Archive dirty sections 739 → **730**. Movement:
+  `R-29` 129 → **130 / 301**; section-clean 153 → **154 / 301**; residue-free 221 → **222 / 302**. **Batch 22 stands
+  at two of five.**
+
 - **Batch 22 / unit 1 — The Silent Maiden `C-IVβ-043` closed (2026-10-06)** — measured at `6905b0a`: **8 dirty
   sections**, worst M.A.W. Equipment 0.391 (the 10-dossier *Each M.A.W. activation exacts a personal debit* line,
   the 12-dossier *loses small, nameless memories* cost line and the 15-dossier *Field performance and human cost are
