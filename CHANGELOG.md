@@ -63,6 +63,24 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 25 / unit 1 — Harvest Beyond the Gate `N-IIβ-627` closed (2026-10-06)** — measured at `918b3cb`: **7 dirty
+  sections**, worst Behavior 0.273, then M.A.W. Equipment 0.256 (the 12-dossier *reflexes dull, as if armored by
+  resentment* cost line — the file's residue — both abilities, the other cost, the harness and seed-charm
+  appearances, the effect line, the set note and the four field-use rows), Registrum 0.177 (the operational
+  interpretation and the review requirement, plus the faction line), Final Observation 0.127, Trivia 0.095 (field
+  and containment rows), Flavor Text 0.076 (the isolation line, the first-contact line and the header row) and
+  Combat Record 0.068 (the resistance row, both combat actions and the Tension/Resolution lines). All seven closed
+  in three waves (16 + 14 + 7 sites); 6,563 → **7,271 words**; `tpl.py` residue 1 → **0** (the reflexes line
+  re-authored on the set's own terms); `verify.py` residual 1 → **0** (Story Log Entry 1's stock `is logged as `);
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. All three clauses were already
+  **True** and left alone (`R-05`). Stock pieces were replaced with the holding's own material: the resolution and
+  choice block onto the condition (let the fruit decay naturally, do not promise return), the containment and field
+  rows onto the open orchard at the gate, and the M.A.W. rows onto what the set actually takes — the bearer's old
+  wounds answering weather, entered against the piece. Movement at the unit commit: `R-29` 146 / 301 (series
+  **242**); section-clean 170 / 301; residue-free 252 / 302; residue lines 6, instances
+  62, carriers 50 / 302; archive dirty 580; file-clean 277 / 302; worst 0.064, median
+  0.011. **Batch 25 opens at ten; stands at one of ten.**
+
 - **Batch 24 closed at seven (2026-10-06)** — 51 / 51 dirty sections closed across the seven units (8 + 8 + 7 + 7 + 7 +
   7 + 7); the dossiers grew 6,907 → 7,745 · 7,054 → 7,815 · 6,289 → 6,858 · 6,078 → 6,916 · 5,863 → 6,620 · 6,620 →
   7,320 · 6,540 → 7,179 words, a net **+5,102 words** with nothing deleted (`R-15`). `tpl.py` residue instances

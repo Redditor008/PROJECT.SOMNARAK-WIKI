@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge pressure; 15% against other pressure types |
+| **Resistance** | 25% against Grudge pressure; 15% against everything else. Nothing is rated against the fruit itself, which does not pursue: it hangs, it draws exiles the way the gate does, and it melts when it is touched, so the percentages describe the pressure coming off rows nobody has put a hand into. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Han Pressure [ATK]** | 10–23 per hit · Grudge |
@@ -81,14 +81,14 @@
 | { *The Drip* [**Debuff**] } | "The fruit in your hand is melting — juice running between your fingers — and the juice is hot with old fury." | [The Fruit's dissolution releases liquid anger; the target is splashed.] | *Target suffers -10 Resilience; the dripping rage burns.* **[10 Grudge DMG [Grudge]]** | When the target holds the Fruit. |
 | { *The Losing Form* [**Debuff**] } | "The fruit cannot hold its shape — collapsing inward — and the collapse carries the anger of impermanence." | [The Fruit's formlessness spreads; the target's own solidity wavers.] | *Target loses 10 Resilience; they feel themselves softening.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
 | { *The Scalding Splash* [**Attack**] } | "A glob of molten fruit flies — burning, sticky, and furious." | [A splatter of superheated fruit-matter strikes.] | *Inflicts Grudge pressure and one searing, clinging wound.* **[14-22 Grudge DMG [Grudge]]** | When the Fruit is squeezed. |
-| { *The Full Liquefaction* [**Attack**] } | "The fruit melts entirely — becoming a pool of liquid, concentrated rage." | [The Fruit's total dissolution releases its complete fury.] | *A heavy Crimson flood; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Fruit is crushed. |
-| { *The Molten Orchard* [**Ultimate**] } | "Every fruit in the field melts — and the combined liquid rage floods everything." | [The Fruit extends its melting across the whole area.] | *All in range suffer Grudge pressure for three turns of molten harvest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Liquefaction* [**Attack**] } | "The fruit melts entirely — becoming a pool of liquid, concentrated rage." | [Crushed or opened, one fruit gives up everything it was keeping: a desire somebody had abandoned, at full strength and aimed at whoever touched it.] | *A heavy Crimson flood; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Fruit is crushed. |
+| { *The Molten Orchard* [**Ultimate**] } | "Every fruit in the field melts — and the combined liquid rage floods everything." | [Every cluster in the rows gives way at once and the ground the rows were visible through rises to meet the workers.] | *All in range suffer Grudge pressure for three turns of molten harvest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (dark fruit in heavy clusters over ground that is permanently wet and crimson, air sweet and burned together, and a set of orchard rows still visible beneath the pool) and Harvest Beyond the Gate is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** The marker is checked against the file: dark fruit in heavy clusters over ground that is permanently wet and crimson, air sweet and burned together, and a set of orchard rows still visible beneath the pool. Harvest Beyond the Gate is confirmed against the designation, the day's reading is entered, and the positions are taken along the rows rather than across them.
 2. **Clash:** Viderehan or Ferrehan from the path, upwind where the wind allows it. Nobody enters the crimson ground, nobody picks, and the frontage is paced before the cycle and again after.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Let the fruit decay naturally; do not promise return**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Let the fruit decay naturally; do not promise return**. The condition is met when the rows are left untouched, the reading is entered, and nobody has made a promise to anybody about coming back; a cycle that ends with a fruit handled is filed as the holding having been fed, whatever was intended by it.
 
 ### Consequences
 
@@ -144,9 +144,9 @@
 
 ### Operational Work Notes
 
-A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. Harvest Beyond the Gate is recorded as an Object/Place with Place-Grudge manifestation and Grudge elemental expression. The current record places it at Zone E, Exile's Gate vicinity; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+A stable gauge is not a safe encounter, and on this holding the gauge is stable most of the year. The Work Types are cross-referenced with the breach threshold and the M.A.W. cost before personnel are assigned: Harvest Beyond the Gate is an Object/Place with a Place-Grudge manifestation and Grudge elemental expression, held at Zone E in the vicinity of the Exile's Gate. Each fruit contains a desire somebody had already abandoned, and it melts when it is touched — which is the whole of the file's warning, and the reason the condition is what it is. Nothing here transfers to another holding with a harvest in its name, and observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** When the gauge drops, the surface pressure lessens and the deep structure of the grief is untouched — stabilisation and not healing. When the gauge climbs, the approach has struck the nerve of the origin: pull back and reassess before the work feeds the sorrow the orchard was made of. The rows are read in the same light: a fruit that has not been touched is the holding in its ordinary state, and the record on this file is counted by what was left alone.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -200,15 +200,15 @@ The congealed tallow insulates the blade against electrical discharge while soft
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** The Falchion's listed values assume an edge, and this piece has none that survives contact: it melts at the point like everything else here and reforms in the scabbard. Issue is permitted; use is theoretical and is recorded as such.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Harvest Beyond the Gate's grudge signature in the strike.
+**Ability:** Deals Grudge damage against the Body — physical form and structural integrity — and channels the orchard's signature in the strike: the target is left carrying a desire they had already given up on, at full strength and with nowhere to put it.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** Old wounds ache in the wielder, and prolonged use leaves faint bruising where nothing struck; the ache is filed against the piece because the wielder reports it as weather rather than as damage.
 
 ### M.A.W. Suit — The Melting Plate
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a plated Grudge Han-iron harness, dark and warm to the touch, that carries the smell of wet ground after rain — on a holding whose ground is permanently wet, bearers report the plating draws damp the way the orchard does.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -218,19 +218,19 @@ The congealed tallow insulates the blade against electrical discharge while soft
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Harvest Beyond the Gate's kind of pressure.
+**Ability:** Grants resistance to Grudge damage and protects the Body — physical form and structural integrity — worn against this orchard's particular pressure: nothing here strikes at the body, and what the armour actually lets the wearer do is stand in the rows without the fruit answering.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** Reflexes thin in the wearer, as if the body had picked up a grudge of its own, and the wearer is the last to register it — every stand-down on this set has been called by the second worker, never by the person carrying it.
 
 ### M.A.W. Stigma — The Melting Seed
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a seed-charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
+**Appearance:** a seed-charm of Grudge Han-iron, dark and warm to the touch, cast as a single fruit with the seam of the orchard's own rows worked around it; it is the set's smallest piece and the only one issued to workers who will not be carrying anything else.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat, and for about a day the wearer can do a job they were never trained for without the usual fear of being seen to be out of their trade.
+**Effect:** +1 to the working stat; for roughly a day the wearer can take up work they were never taught, without the fear of being seen outside their trade. It is the orchard's bargain lent out — and it takes no interest in what the worker gave up in order to be standing there.
 
 **Ability:** Reveals the desire behind a person's anger.
 
@@ -240,18 +240,18 @@ The congealed tallow insulates the blade against electrical discharge while soft
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Harvest Beyond the Gate and carries what Harvest Beyond the Gate carries: the wielder's old wounds ache; prolonged use leaves faint bruising. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+All 3 pieces are cut from the orchard and carry its charge rather than its power: old wounds ache in the bearer, and bruising appears where nothing struck. The grade line records how cleanly the piece extracts and nothing else; the charge sits in the column beside it, which is why issue here is one rotation and no longer.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Harvest Beyond the Gate the recorded cost is that the wielder's old wounds ache. |
-| **During use** | Harvest Beyond the Gate charging, which presents as this: the wielder's old wounds ache. The wielder's own account is taken separately and afterwards. |
-| **At limit** | The wielder no longer notices Harvest Beyond the Gate's toll — the wearer's reflexes dull, as if armored by resentment — which is how every stand-down on this set has been caught. |
-| **After use** | Return the piece and check the sealed baseline: has Harvest Beyond the Gate's cost — the wearer's reflexes dull, as if armored by resentment — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, the day's reading, and a baseline written down and kept by a second person. On this set the question is not what the bearer feels but what the bearer has quietly stopped noticing, and the written sheet is what the return will be measured against. |
+| **During use** | The charge announces itself as an ache in the old wounds, arriving in weather the orchard never made. The hour goes into the log from the second worker's hand; what the bearer says about it is recorded aside, afterwards, and never used to fill the gap. |
+| **At limit** | The trouble is silence: the ache fades out of the bearer's awareness while the bruising stays exactly where it was. That is the limit on this set, and the second worker calls it — the call does not wait on the bearer's agreement. |
+| **After use** | Take the piece back and set the sheet beside the person: has the ache outrun the rotation, and has the bearer stopped mentioning it? Either answer goes into the record as written, whether the bearer agrees with it or not. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade and risk do not travel together: the damage line describes what a piece does to a holding, and on this set the cost line describes a wearer whose old wounds answer weather. Authorise on the cost column, and let the written baseline held by somebody else be what the return is measured against.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -279,7 +279,7 @@ Every piece in this set is a fragment of Harvest Beyond the Gate and carries wha
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Harvest Beyond the Gate (N-IIβ-627 [GP]) is logged as a Place-Grudge manifestation expressing Grudge, on the departure path at Zone E. It sets a full crop continuously, loses all of it, and takes in more of the path every year.
+Harvest Beyond the Gate (N-IIβ-627 [GP]) is a Place-Grudge manifestation expressing Grudge, held at Zone E in the vicinity of the Exile's Gate. It is a stretch of orchard where dark fruit hangs in heavy clusters over permanently wet crimson ground, the air smells sweet and burned, and the rows are still visible beneath the pool. Each fruit holds a desire somebody had given up on, it draws exiles the way the gate does, and it melts when it is touched; the condition is to let the fruit decay naturally and never to promise return.
 
 **Entry 2 — <Gate District Survey, Year 4238>**
 Melt-pool frontage paced at 124 along the departure path, after 88 and 61 in the preceding surveys. Fruit setting and fruit lost counted separately and equal, as in every return. Smell present. Arrivals tallied at 212 and, as at all Gate holdings, no names taken.
@@ -297,9 +297,9 @@ The orchard is not a memorial and the file is firm that it should not be read as
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Harvest Beyond the Gate; the other feeds it.
+> Two ways to end the same watch. One is the condition on file — let the fruit decay naturally and do not promise return — and the other is the answer a worker gives when somebody at the gate asks whether they will be coming back.
 
-| Hold to the condition: Let the fruit decay naturally; do not promise return. | Substitute your own judgement, which on Harvest Beyond the Gate has never yet cost less than the condition. |
+| Hold to the condition: let the fruit decay naturally, and do not promise return — as written, without improvising. | Substitute your own judgement, or give the returning answer: on this holding that has never cost less than the condition, and the rows are counted by what was left alone. |
 |---|---|
 | Tests whether the worker can remain near an impossible return. The sorrow is named; Harvest Beyond the Gate is fully recorded. | Reveals the desire inside each fruit. The gauge climbs and Harvest Beyond the Gate withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -310,7 +310,7 @@ The Gate stands behind you and the fruit hangs from a tree that should not grow 
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A place where dark fruit grows and melts into crimson ground. The air smells sweet and burned. Notable Features: Each fruit contains a rejected desire, attracts exiles, and melts when touched. Identification Profile: The record classifies. The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Place-Grudge form.
+**At first contact:** What identifies it is the ground before the fruit: permanently wet and crimson, with a set of orchard rows still visible beneath the pool, and dark clusters hanging over it in the smell of something sweet that has burned. The fruit is warm to be near and answers a hand: it melts when it is touched, and what is released is a desire somebody had already given up on. The space does not go generic or abstract — it changes in the specific way associated with Grudge and with this holding's Place-Grudge form.
 
 **With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Grudge; it is this entity's Grudge — shaped by its origin, its wound, its particular grief.
 
@@ -320,7 +320,7 @@ The Gate stands behind you and the fruit hangs from a tree that should not grow 
 
 ### Interaction Pattern
 
-Harvest Beyond the Gate does not exist in isolation. Its recorded relationships with The Exile's Gate, The Returning Fruit, The Forgotten Shadow should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Harvest Beyond the Gate is read beside the 3 holdings the file has paired it with — The Exile's Gate, The Returning Fruit and The Forgotten Shadow — and none of the 3 is treated as an alliance or a hostility: they are resonance candidates, filed as such. In a shared event the team records whether anything changes at all in the rows, the pool, the reading, the gauge or the containment, and the standing note is that a resemblance is the reason a pairing was proposed and not a finding that came out of one.
 
 **Interaction method:** Frontage paced before and after by the same Warden with the same chain, both fruit counts kept hourly through the pairing, and the departure path left open throughout.
 
@@ -329,7 +329,7 @@ Harvest Beyond the Gate does not exist in isolation. Its recorded relationships 
 
 Harvest Beyond the Gate must be kept distinct from the other produce holdings. The Last Fruit keeps a want that could not be voiced; this one keeps a competence that had nowhere to be used, which is why its instrument is a frontage and not a hunger.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
 |---|---|---|---|
 | **The Exile's Gate** | Not a pairing but a geography: the holding grows along the Gate's path and nowhere else, and its frontage advances only in the direction people walk. | Growth tracks traffic through the Gate with no measurable lag. | Pace the frontage against the Gate's own tally. The two series are filed as one sheet. |
 | **The Returning Fruit** | The resemblance is in the name and nothing else. Brought within range, that holding's fruit keeps and this one's still goes, side by side, in the same hour. | No change in either. The clearest demonstration that keeping is not what is missing here. | Photograph both at the same ripeness. Record the time each takes to go. |
@@ -379,9 +379,9 @@ Some sorrows mourn a home. Harvest Beyond the Gate mourns the replanting — the
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This entry does not stand alone: the designation, the Work Type responses, the M.A.W. cost and the breach behaviour are one picture, and on this holding the picture is a stretch of ground. The facts that govern are these — the fruit holds a desire somebody abandoned, it melts when it is touched, it draws exiles the way the gate does, and the condition is to let it decay naturally and never promise return. When the entity does something this file does not describe, document the gap: the record is a living document and the gap is the next entry.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, Sorrow Tide, expansion, transformation attempt or unusual interaction, re-verify the gauge, the containment seal, the personnel medical status, the entity position and the M.A.W. resonance changes — and on this holding, re-read the rows: whether any fruit was handled, by whom, and what was promised to anybody in the vicinity of the gate. If a parameter has shifted, update the file rather than the memory of it; the file's own position is that the R.D. record describes a living sorrow pattern and not a permanently complete explanation.
 ## Watch Record
 
 ### Fruit That Melts
@@ -428,10 +428,10 @@ Exiles planted beyond the Gate and the trees failed in that ground, and what rem
 ### Registry Trivia
 
 - **Classification detail:** Harvest Beyond the Gate is an Object/Place with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone E, Exile's Gate vicinity.
+- **Field detail:** Element Grudge, registered to Zone E in the vicinity of the Exile's Gate, where containment is a condition rather than a cordon: the rows are left standing, the fruit is allowed to decay where it hangs, and no promise of return is made anywhere inside the ground.
 - **Recognition detail:** Dark fruit in heavy clusters over ground that is permanently wet and crimson, air sweet and burned together, and a set of orchard rows still visible beneath the pool.
 - **Record detail:** The Registrum named Pugnahan as the primary Work Type on a Place that bars it entirely, and recorded that the trees are dead and the fruit never came against a site that sets and loses a crop continuously; both corrected. The M.A.W. grade was blank against three β pieces and the faction entry read Desolate-territory against a Zone E holding.
-- **Containment detail:** A contained entity is not dormant. Fixed entities can expand influence without moving — warping local Han, affecting psychology, resonating across barriers. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** A contained entity is not dormant, and nothing here is celled: the orchard sits open at the edge of the gate and the only management is what people are told. Fixed holdings can expand influence without moving — warping local Han, affecting psychology, resonating across barriers — and on this one the influence is a bargain offered to anybody standing in the rows, which is why the instruction is not a distance but a sentence: do not promise return.
 ## Document Information
 
 **Document ID:** SE-N-IIβ-627
