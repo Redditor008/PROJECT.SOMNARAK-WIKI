@@ -7,6 +7,13 @@ SE File : 3 > 5 > 7 > 10"*.
 
 ## The rule
 
+**Stated again by the archive owner, 2026-10-06:** *"Always 3 or 5 then 7 or 10"*. The batch size is
+always one of those four numbers and never any other: a cohort opens at **3 or 5**, and the ladder
+climbs to **7** and then to **10**. There is no batch of four, six, eight or nine, and the opening
+number is never skipped — a cohort does not begin at seven. A batch below three remains permitted
+only by the quality clause at the foot of this file, named and explained.
+
+
 The batch size is not fixed. It is a **floor that ratchets on evidence**, and the floor is **three**.
 
 | Stage | Condition to move up |
