@@ -2126,7 +2126,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 31 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IVγ-130 Deteriorata 무너지는 성자 — `__HASH__` — PUSH VERIFIED — [[SE-C-IVγ-130_Deteriorata_무너지는_성자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-130_Deteriorata_%EB%AC%B4%EB%84%88%EC%A7%80%EB%8A%94_%EC%84%B1%EC%9E%90.md "SE-C-IVγ-130_Deteriorata_무너지는_성자.md")
+- SE-C-IVγ-130 Deteriorata 무너지는 성자 — `0ba64b2` — PUSH VERIFIED — [[SE-C-IVγ-130_Deteriorata_무너지는_성자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-130_Deteriorata_%EB%AC%B4%EB%84%88%EC%A7%80%EB%8A%94_%EC%84%B1%EC%9E%90.md "SE-C-IVγ-130_Deteriorata_무너지는_성자.md")
 
 - SE-N-IIIβ-155 Harbinger 추징관의 그림자 — `bd844db` — PUSH VERIFIED — [[SE-N-IIIβ-155_Harbinger_추징관의_그림자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-155_Harbinger_%EC%B6%94%EC%A7%95%EA%B4%80%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-N-IIIβ-155_Harbinger_추징관의_그림자.md")
 
