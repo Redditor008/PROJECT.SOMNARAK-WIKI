@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **223 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **155 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **131 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **229 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **156 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **132 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 255 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 257 / 302 |
 | Archive median prose generic fraction | 0.014 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1678,6 +1678,28 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 `R-29` 121 → **122 / 301** (condition **256**); section-clean 145 → **146 / 301**; residue-free 208 → **209 /
 302**; file-clean 235 → **236 / 302**. **Batch 19 is closed at three.**
 
+
+**Batch 22, unit 4: Fading Whisper `N-IIIγ-407` closed.** Measured at `1e7f61e`: **8 dirty sections**, worst
+M.A.W. Equipment 0.364 (the 33-dossier stat-interpretation line and the 19-dossier use-notes line, with four shared
+field-use rows and five shared appearance or ability pieces under them), then Final Observation 0.228, Story Log
+0.156 (the 24-dossier *There is a story in Somnarak* tale line), Registrum 0.148 (the 20-dossier
+operational-interpretation line and the 13-dossier review-requirement line), Combat Record 0.085, Containment Event
+Behavior 0.082, Trivia 0.062 and Flavor Text 0.052 — all eight closed in two waves (16 + 20 sites); 6,553 →
+**7,808 words**; `tpl.py` residue 2 → **0** — the 10-dossier nameless-memories cost line and the 10-dossier
+stat-interpretation line were both retired archive-wide; `verify.py` residual 1 → **0** (Story Log Entry 1 carried
+the stock `is logged as ` string); `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. The
+`own_series` clause closed from **False** to **True** on the file's own figures — 1,104 paired watches; 94 per cent
+average word agreement; 100 per cent break-point agreement across eleven years; 6 per cent divergence in the three
+words before the break; 12 per cent stand-down threshold; 11 unbriefed walk-ins with 4 denials spoken and 2
+stand-downs; 1 application received and refused — **restated from the file's own record**, disclosed; the condition
+and disposition clauses were already satisfied and left alone (`R-05`). The three interaction rows were re-authored
+onto The Forgotten Silence, The Memory Lock and The Rising Mirror from what the file records (nine co-presences,
+five approaches over seven years, three co-presences with one unrepeatable account), the M.A.W. costs onto the set's
+three charges in the same order for every bearer, and the combat rows onto the break point, the faded margin and the
+transcript comparison. No neighbouring dossier changed. Archive dirty sections 722 → **714**; residue lines 11 → **9**,
+instances 126 → **106**, carriers 79 → **73**, clean dossiers 223 → **229**, file-clean 255 → **257 / 302**; median
+0.012 and worst 0.107 steady. Movement: `R-29` 131 → **132 / 301** (series **233**); section-clean 155 → **156 /
+301**; residue-free 223 → **229 / 302**. **Batch 22 stands at four of five.**
 
 **Batch 22, unit 3: Déjà Vu `C-IVδ-125` closed.** Measured at `f66cffd`: **8 dirty sections**, worst Behavior 0.376 (the
 52-dossier gauge-in-context line and a 13-dossier reading shell), then M.A.W. 0.212 (the 11-dossier nameless-memories

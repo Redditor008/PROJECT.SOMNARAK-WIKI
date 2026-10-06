@@ -63,6 +63,33 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 22 / unit 4 — Fading Whisper `N-IIIγ-407` closed (2026-10-06)** — measured at `1e7f61e`: **8 dirty
+  sections**, worst M.A.W. Equipment 0.364 (the 33-dossier stat-interpretation line and the 19-dossier use-notes
+  line, with four shared field-use rows and five shared appearance or ability pieces under them), then Final
+  Observation 0.228, Story Log 0.156 (the 24-dossier *There is a story in Somnarak* tale line), Registrum 0.148
+  (the 20-dossier operational-interpretation line and the 13-dossier review-requirement line), Combat Record
+  0.085, Containment Event Behavior 0.082 (the First Target, Escalation and gauge-on-event rows), Trivia 0.062 and
+  Flavor Text 0.052. All eight closed in two waves (16 + 20 sites); 6,553 → **7,808 words**; `tpl.py` residue 2 →
+  **0** — the 10-dossier nameless-memories cost line and the 10-dossier stat-interpretation line were both retired
+  archive-wide; `verify.py` residual 1 → **0** (Story Log Entry 1 carried the stock `is logged as ` string, and the
+  entry was rewritten onto the file's own terms rather than reworded around the substring); `sectfile.py` ends at
+  **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from **False** to
+  **True**: the Registrum's operational-interpretation and review-requirement lines were rebuilt around the
+  holding's own counted record — 1,104 paired watches; word agreement averaging 94 per cent; break-point agreement
+  at 100 per cent across eleven years and some two hundred transcribers; 6 per cent divergence clustering in the
+  three words before the break; a 12 per cent stand-down threshold; 11 unbriefed walk-ins with 4 occasions on which
+  somebody told the figure there was nothing there and 2 stand-downs following; and 1 application to the transcript
+  store received and refused — figures **restated from the file rather than invented for the clause**, disclosed.
+  Condition and disposition were already satisfied and left alone (`R-05`). Stock pieces were replaced with the
+  holding's own material: the three interaction rows re-authored onto The Forgotten Silence, The Memory Lock and
+  The Rising Mirror from what the file actually records (nine co-presences, five approaches over seven years, three
+  co-presences with one unrepeatable account), the M.A.W. costs re-authored onto the set's three charges in the
+  same order for every bearer, the stat-interpretation line replaced with the δ-grade set's own reading, and the
+  combat rows re-authored onto the break point, the faded margin and the transcript comparison. Movement:
+  `R-29` 131 → **132 / 301**; section-clean 155 → **156 / 301**; residue-free 223 → **229 / 302** (residue lines
+  11 → 9 archive-wide, instances 126 → 106, carriers 79 → 73); file-clean 255 → **257 / 302**; archive dirty
+  722 → **714**. **Batch 22 stands at four of five.**
+
 - **Batch 22 / unit 3 — Déjà Vu `C-IVδ-125` closed (2026-10-06)** — measured at `f66cffd`: **8 dirty sections**, worst
   Behavior 0.376 (the 52-dossier *The gauge response is only meaningful in context* line and a 13-dossier reading
   shell), then M.A.W. Equipment 0.212 (the 11-dossier *loses small, nameless memories* cost line, the 13-dossier
