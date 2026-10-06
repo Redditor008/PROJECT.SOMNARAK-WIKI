@@ -38,6 +38,28 @@ This file records notable changes to the public Somnarak Wiki.
   records, and they will not be padded with filler to cross a round number.
 
 ### Added
+- **Batch 20 / unit 1 — Pent `N-IVδ-821` closed (2026-10-06)** — measured at `d34ebd3`: **10 dirty sections**,
+  worst 최종 관찰 (Final Observation) 0.236, then M.A.W. Equipment 0.223, Behavior 0.214 (the 54-dossier *The gauge
+  response is only meaningful in context* line), 감각 묘사 (Flavor Text) 0.196 (the 53-dossier *…must be assessed as
+  one of a group of sorrows* block and the 32-dossier *…does not exist in isolation* line), 이야기 보고 (Story Log)
+  0.195 and Origin 0.133 (both carriers of the stock-tale family), Expansion Behavior 0.075, Combat Record 0.075,
+  Trivia 0.069 and 관찰 기록 (Observation Log) 0.069. All ten closed in two waves (16 + 24 sites); 7,928 →
+  **8,589 words**; `tpl.py` residue 2 → **0** (the 55-dossier shared `**Resistance**` row and the 13-dossier
+  *a plated harness of Grudge Han-iron … faint scent of its origin* suit appearance); `verify.py` residual 1 →
+  **0** (Story Log Entry 1's `is logged as`); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True**; **both clauses were already satisfied and were left alone** (`R-05`) — the condition is the file's own
+  *Permit rest and acknowledge exhaustion as real*, and the series clause already stood on its own counted figures
+  (0.4 degrees of inward lean at the first survey in Year 4211, 1.9 degrees now, against a municipal tolerance of
+  3.0). Both **stock-tale carriers** were replaced with the file's own material: the Origin variant became the
+  several-hundred-name list and the four instrumentation approaches that produced four recordings of the ambient
+  district, and Story Log Entry 5's variant became the fixed period at the single marked point, which has never
+  once been entered as absent. The 53-dossier interaction-record intro was re-authored onto the one question this
+  holding's relations are read against (does the presence let exhaustion be admitted or require it hidden). No
+  neighbouring dossier changed. Archive dirty sections 810 → **800**; residue instances 162 → **160**, carriers
+  93 → **92**; median steady at **0.014** and worst at **0.114**. Movement: `R-29` 122 → **123 / 301**;
+  section-clean 146 → **147 / 301**; residue-free 209 → **210 / 302**; file-clean 236 → **238 / 302**. **Batch 20
+  stands at one of three.**
+
 - **Batch 19 / unit 3 — Conservatory `N-IVδ-852` closed; batch 19 closed at three (2026-10-06)** — measured at
   `ba0b47b`: **10 dirty sections**, worst 이야기 보고 (Story Log) 0.250 (the 24-dossier stock-tale carrier), then
   Behavior 0.234 (the 51-dossier *Read the behavior table as a diagnostic, not a prescription* line), M.A.W.

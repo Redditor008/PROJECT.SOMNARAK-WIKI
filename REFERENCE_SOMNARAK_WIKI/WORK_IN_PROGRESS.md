@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **209 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **146 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **122 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **210 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **147 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **123 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 236 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 238 / 302 |
 | Archive median prose generic fraction | 0.014 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1678,6 +1678,21 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 `R-29` 121 → **122 / 301** (condition **256**); section-clean 145 → **146 / 301**; residue-free 208 → **209 /
 302**; file-clean 235 → **236 / 302**. **Batch 19 is closed at three.**
 
+
+**Batch 20, unit 1: Pent `N-IVδ-821` closed.** Measured at `d34ebd3`: **10 dirty sections**, worst Final Observation
+0.236, then M.A.W. 0.223, Behavior 0.214 (the 54-dossier *The gauge response is only meaningful in context* line),
+Flavor 0.196 (the 53-dossier *…one of a group of sorrows* block and the 32-dossier isolation line), Story Log 0.195
+and Origin 0.133 (both stock-tale carriers), Expansion 0.075, Combat 0.075, Trivia 0.069 and Observation Log 0.069
+— all ten closed in two waves (16 + 24 sites); 7,928 → **8,589 words**; `tpl.py` residue 2 → **0** (the 55-dossier
+Resistance row and a 13-dossier suit appearance); `verify.py` residual 1 → **0**; `sectfile.py` **0 section(s) over
+0.05**; `wikistd.py` meets **True** with **both clauses already satisfied and left alone** (`R-05`) — the condition
+is the file's own permit-rest line and the series clause already stood on its own lean figures (0.4° in Year 4211,
+1.9° now, tolerance 3.0). Both stock-tale carriers replaced with the file's own material (the several-hundred-name
+list and four failed instrumentation approaches; the fixed period at the single marked point). No neighbouring
+dossier changed. Archive dirty 810 → **800**; instances 162 → **160**; carriers 93 → **92**; median 0.014 and worst
+0.114 steady. Movement: `R-29` 122 → **123 / 301**; section-clean 146 → **147 / 301**; residue-free 209 → **210 /
+302**; file-clean 236 → **238 / 302**. **Batch 20 stands at one of three.**
+
 **Next targets, in order (`R-13`).** (1) the remaining dirty-section cohort — worst first by
 `sectfile.py`, re-measured at the head of every batch because the queue is never carried over.
 Driftglass `O-IIIγ-914`, Sehnsucht `O-IIIγ-476` and Crucible `C-IIIβ-275` came off it this batch;
@@ -1750,7 +1765,12 @@ clearance figures, three Registrum figures reconciled with cause and the Pugnaha
 Compass 8 → 7, Pyre of Truths 7 → 6, Swallow 7 → 6, Mourner's Bloom 9 → 8 and Repose 7 → 6); and Conservatory
 `N-IVδ-852` closed it as unit 3 (10 → 0 in two waves, **condition closed from False** on the holding's own margin
 rule, both stock-tale carriers replaced, plus Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
-9 → 7 and Atlas 7 → 6). **Batch 20's tier is headed by Pent `N-IVδ-821`** (10, 0.244) with the 9-dirty group
+9 → 7 and Atlas 7 → 6). **Batch 20 opens at three** on the tier re-derived at `d34ebd3`: Pent `N-IVδ-821` (10, 0.236) led it, with the
+9-dirty group behind — Candela `C-IVδ-165` (9, 0.288), Stranded Between Two Shores `C-IVδ-823` (9, 0.279), Broken
+Tear `N-IVδ-517` (9, 0.268), Floating Shard `C-IVδ-503` (9, 0.254) — and the 8s after that (Gavel `C-IVδ-140` 8,
+0.410, The Silent Maiden `C-IVβ-043` 8, 0.391, The Inheritor `C-IIIγ-062` 8, 0.390; Frozen Tear, Déjà Vu, Fading
+Whisper and Neverlast also at 8). Pent came off the head as unit 1 (10 → 0 in two waves, both clauses already
+satisfied and left alone, the 54-dossier Behavior carrier and both stock-tale carriers replaced) with the 9-dirty group
 behind it — Stranded Between Two Shores `C-IVδ-823`, Candela `C-IVδ-165`, Scar Walker `O-IIIδ-011` (now 7),
 Broken Tear `N-IVδ-517`, Mourner's Bloom `C-Iα-330` (now 8), Floating Shard `C-IVδ-503` — and the 8-dirty group
 after that (Gavel `C-IVδ-140`, Broken Compass `C-IIβ-290`, Rising Wall `C-IVδ-255`, Absent Landmark `C-Iα-863`,
