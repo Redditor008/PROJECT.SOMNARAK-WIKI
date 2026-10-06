@@ -1716,6 +1716,16 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 27, unit 2: The Silent Child `N-Iα-025` closed.** Measured at `a68af9a`: **6 dirty sections**, worst Final
+Observation 0.338, then Behavior 0.143, M.A.W. Equipment 0.125, Flavor Text 0.104, Combat Record 0.067 and Trivia
+0.051 — all six closed in two waves (26 + 20 sites); 7,715 → **8,104 words**; `tpl.py` residue 0 throughout;
+`verify.py` residual 2 → **0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, all three
+clauses pre-satisfied and left alone (`R-05`). Movement: `R-29` 159 / 301; section-clean 184 / 301; residue-free
+302 / 302; archive dirty 453; file-clean 302 / 302. **Batch 27 stands at two of five.**
+*Housekeeping, disclosed: this unit's documentation script aborted on a mis-typed link-row anchor after the
+CHANGELOG entry had been written and committed, so the paragraph and link row were re-issued in the next commit;
+the earlier closed-batch rows use the same `SE-…` prefix form.*
+
 **Batch 27, unit 1: Scar Walker `O-IIIδ-011` closed.** Measured at `a715ef1`: **6 dirty sections**, worst Final
 Observation 0.344, then Behavior 0.213, Flavor Text 0.078, Observation Log 0.067, M.A.W. Equipment 0.064 and
 Appearance 0.056 — all six closed in two waves (21 + 18 sites); 5,620 → **5,914 words**; `tpl.py` residue 0
@@ -1802,6 +1812,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 27 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
+- SE-N-Iα-025 The Silent Child 조용한 아이 — `__HASH__` — PUSH VERIFIED — [[SE-N-Iα-025_The_Silent_Child_조용한_아이]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-025_The_Silent_Child_%EC%A1%B0%EC%9A%A9%ED%95%9C_%EC%95%84%EC%9D%B4.md "SE-N-Iα-025_The_Silent_Child_조용한_아이.md")
 - SE-O-IIIδ-011 Scar Walker 흉터의 행자 — `fc1a8c6` — PUSH VERIFIED — [[SE-O-IIIδ-011_Scar_Walker_흉터의_행자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B4-011_Scar_Walker_%ED%9D%89%ED%84%B0%EC%9D%98_%ED%96%89%EC%9E%90.md "SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md")
 
 **Batch 26 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
