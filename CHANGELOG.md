@@ -63,6 +63,28 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 22 / unit 1 — The Silent Maiden `C-IVβ-043` closed (2026-10-06)** — measured at `6905b0a`: **8 dirty
+  sections**, worst M.A.W. Equipment 0.391 (the 10-dossier *Each M.A.W. activation exacts a personal debit* line,
+  the 12-dossier *loses small, nameless memories* cost line and the 15-dossier *Field performance and human cost are
+  different axes* line, plus eight shared equipment lines), then Behavior 0.313 (the 55-dossier *The gauge response
+  is only meaningful in context* line and a 13-dossier reading shell), Final Observation 0.343, Combat Record 0.208
+  (four shared consequence shells and two action rows), Registrum 0.181 (the *starting point, not a conclusion* and
+  *four pillars* shells), Flavor Text 0.087 (the 32-dossier isolation line and two shared contact paragraphs),
+  Trivia 0.080 and 관찰 기록 (Observation Log) 0.063. All eight closed in two waves (15 + 24 sites); 7,312 →
+  **8,746 words**; `tpl.py` residue 3 → **0**; `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged as`);
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. **Both clauses were already
+  satisfied and were left alone** (`R-05`) — the condition is the file's own *See her, hear her, and recognize that
+  she is present*, and the series already stood on the Sisters' comparative scale (338 / 392 / **427** against a
+  ceiling of 1,000) and the Named Watch return (18,900 pairings, 226,800 confirmations due, 219,114 returned, 312
+  unsighted for sixty days or more, 41 found dead, 0 inquiries). The three retired carrier lines fell below the
+  10-holder threshold archive-wide: residue lines 12 → **11**, instances 144 → **132**, carriers 81, clean dossiers
+  220 → **221**, file-clean 248 → **252 / 302**, worst 0.112 → **0.111**. The shared equipment lines were re-authored
+  onto this set's own charges (nameless memories on the Lens, the sense of one's own presence on the Veil, speech
+  above a whisper on the Cloak; the seven Cloaks issued only for a sighting), the 32-dossier isolation line onto the
+  Three Sisters' conceptual distinction and the named-confirmation requirement, and the two Registrum shell lines
+  onto the file's own procedural fact — an unnamed confirmation is a confirmation nobody can be asked about
+  afterwards. **Batch 22 opens at three, five targeted.**
+
 - **Batch 21 / unit 3 — Gavel `C-IVδ-140` closed; batch 21 closed at three (2026-10-06)** — measured at `28f5087`:
   **8 dirty sections**, worst Behavior 0.410 (the 55-dossier *The gauge response is only meaningful in context*
   line), then 관찰 기록 (Observation Log) 0.326 (four 14–21-dossier progression rows), Flavor Text 0.285 (the
