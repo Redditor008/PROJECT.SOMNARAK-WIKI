@@ -2013,7 +2013,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 29 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IVδ-763 Memorial Flame Mid-Ceremony 사라진 불꽃 — `__HASH__` — PUSH VERIFIED — [[SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-763_Memorial_Flame_Mid-Ceremony_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B6%88%EA%BD%83.md "SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md")
+- SE-C-IVδ-763 Memorial Flame Mid-Ceremony 사라진 불꽃 — `a6dcab9` — PUSH VERIFIED — [[SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-763_Memorial_Flame_Mid-Ceremony_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B6%88%EA%BD%83.md "SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md")
 
 - SE-O-Iα-126 Anonym 녹아내린 조각 — `bd9d08e` — PUSH VERIFIED — [[SE-O-Iα-126_Anonym_녹아내린_조각]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-126_Anonym_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%A1%B0%EA%B0%81.md "SE-O-Iα-126_Anonym_녹아내린_조각.md")
 
