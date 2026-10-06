@@ -1937,6 +1937,8 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 29 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
+- SE-N-IVδ-611 Sleeping Shard 잠든 조각 — `65b0da1` — PUSH VERIFIED — [[SE-N-IVδ-611_Sleeping_Shard_잠든_조각]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-611_Sleeping_Shard_%EC%9E%A0%EB%93%A0_%EC%A1%B0%EA%B0%81.md "SE-N-IVδ-611_Sleeping_Shard_잠든_조각.md")
+
 **Batch 28 — CLOSED at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IIIγ-140 Weeping Willow 우는 버드나무 — `8f54b9a` — PUSH VERIFIED — [[SE-C-IIIγ-140_Weeping_Willow_우는_버드나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-140_Weeping_Willow_%EC%9A%B0%EB%8A%94_%EB%B2%84%EB%93%9C%EB%82%98%EB%AC%B4.md "SE-C-IIIγ-140_Weeping_Willow_우는_버드나무.md")
