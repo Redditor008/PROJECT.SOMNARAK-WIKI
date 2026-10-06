@@ -1722,38 +1722,38 @@ Parameters 0.067, Flavor Text 0.061 and Combat Record 0.052 — **closed in two 
 words**; `tpl.py` residue 0; `verify.py` residual **2 → 0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py`
 meets **True**, condition re-registered inside the rewritten resolution line and held **True**, series **False → True**
 via numerals. Disclosed: two waves, not one; the shared origin fragment was replaced with the holding's own account.
-Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean
-@fc@ / 302. **Batch 29 stands at ten of ten.**
+Movement: `R-29` 180 / 301; section-clean 205 / 301; residue-free 302 / 302; archive dirty 303; file-clean
+302 / 302. **Batch 29 stands at ten of ten.**
 
 **Batch 29, unit 9: Anonym `O-Iα-126` closed.** Measured at `ed8101b`: **5 dirty sections**, worst Final Observation
 0.164, then Behavior 0.159, Combat Record 0.062, Flavor Text 0.060 and Story Log 0.057 — **closed in a single wave**
 (18 sites); 7,538 → **7,916 words**; `tpl.py` residue 0; `verify.py` residual **2 → 0**; `sectfile.py` **0 section(s)
 over 0.05**; `wikistd.py` meets **True**, condition re-registered inside the rewritten resolution line and held
-**True**. Disclosed: a truncated generator tail in two field-use rows was rebuilt. Movement: `R-29` @r29@ / 301;
-section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 29 stands
+**True**. Disclosed: a truncated generator tail in two field-use rows was rebuilt. Movement: `R-29` 179 / 301;
+section-clean 204 / 301; residue-free 302 / 302; archive dirty 311; file-clean 302 / 302. **Batch 29 stands
 at nine of ten.**
 
 **Batch 29, unit 8: Carrying Nothing `C-IIβ-357` closed.** Measured at `b310c4f`: **5 dirty sections**, worst Final
 Observation 0.167, then M.A.W. Equipment 0.155, Registrum 0.117, Flavor Text 0.060 and Combat Record 0.058 — **closed
 in a single wave** (19 sites); 6,515 → **6,881 words**; `tpl.py` residue 0; `verify.py` residual **1 → 0**;
 `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition re-registered inside the rewritten
-resolution line and held **True**. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ /
-302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 29 stands at eight of ten.**
+resolution line and held **True**. Movement: `R-29` 178 / 301; section-clean 203 / 301; residue-free 302 /
+302; archive dirty 318; file-clean 302 / 302. **Batch 29 stands at eight of ten.**
 
 **Batch 29, unit 7: Repose `O-IVδ-844` closed.** Measured at `85423fe`: **6 dirty sections**, worst Behavior 0.168,
 then Final Observation 0.150, M.A.W. Equipment 0.071, Trivia 0.067, Flavor Text 0.060 and Story Log 0.057 — **closed
 in a single wave** (18 sites); 8,234 → **8,607 words**; `tpl.py` residue 0; `verify.py` residual **1 → 0**;
 `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition re-registered inside the rewritten
 resolution line and held **True**. Disclosed: a truncated generator phrase in two field-use rows was rebuilt. Movement:
-`R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ /
+`R-29` 177 / 301; section-clean 202 / 301; residue-free 302 / 302; archive dirty 323; file-clean 302 /
 302. **Batch 29 stands at seven of ten.**
 
 **Batch 29, unit 6: Cold Burn `C-IVδ-505` closed.** Measured at `fc69722`: **6 dirty sections**, worst Final
 Observation 0.184, then M.A.W. Equipment 0.138, Registrum 0.124, Combat Record 0.080, Flavor Text 0.054 and Trivia
 0.054 — **closed in a single wave** (20 sites); 7,265 → **7,661 words**; `tpl.py` residue 0; `verify.py` residual
 **2 → 0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition re-registered inside the
-rewritten resolution line and held **True**. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free
-@clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 29 stands at six of ten.**
+rewritten resolution line and held **True**. Movement: `R-29` 176 / 301; section-clean 201 / 301; residue-free
+302 / 302; archive dirty 329; file-clean 302 / 302. **Batch 29 stands at six of ten.**
 
 **Batch 29, unit 5: Broken Fragment `O-IVδ-115` closed.** Measured at `f463a14`: **6 dirty sections**, worst Story Log
 0.192 (the shared origin fragment), then Final Observation 0.149, Flavor Text 0.135, Trivia 0.093, Operational
@@ -1762,8 +1762,8 @@ Parameters 0.068 and M.A.W. Equipment 0.052 — **closed in a single wave** (21 
 **True**; `own_series` closed from **False** to **True** by restating the file's own figures (910/910, 29–64,
 45 / 35, 90 per cent, 10–15 at 50, 45, 4 per cent, 2 pieces) — disclosed. The two generic relation rows were
 re-authored onto the file's own findings, and the shared origin fragment was replaced with the border-stone account.
-Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@;
-file-clean @fc@ / 302. **Batch 29 stands at five of ten.**
+Movement: `R-29` 175 / 301; section-clean 200 / 301; residue-free 302 / 302; archive dirty 336;
+file-clean 302 / 302. **Batch 29 stands at five of ten.**
 
 **Batch 29, unit 4: Feu Follet `O-IIβ-301` closed.** Measured at `0a977f1`: **5 dirty sections**, worst Story Log
 0.202 (the shared origin fragment in Entry 5), then Final Observation 0.167, Operational Parameters 0.074, Trivia
@@ -1771,8 +1771,8 @@ file-clean @fc@ / 302. **Batch 29 stands at five of ten.**
 inside the rewritten watch-record line; 7,422 → **7,633 words**; `tpl.py` residue 0; `verify.py` residual **3 → 0**;
 `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**; `own_series` closed from **False** to **True**
 by restating the file's own figures (415/415, 10–23, 25 / 15, 60 per cent, 5–9 at 25, 20, 5 per cent, 3 holdings,
-2 of 3 breaches) — disclosed. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302;
-archive dirty @dirty@; file-clean @fc@ / 302. **Batch 29 stands at four of ten.**
+2 of 3 breaches) — disclosed. Movement: `R-29` 174 / 301; section-clean 199 / 301; residue-free 302 / 302;
+archive dirty 347; file-clean 302 / 302. **Batch 29 stands at four of ten.**
 
 **Batch 29, unit 3: Dormant Monolith `N-IVδ-909` closed.** Measured at `07759df`: **6 dirty sections**, worst Behavior
 0.236, then Origin 0.180 (the shared Architect story in the expanded origin context — re-authored onto this holding's
@@ -1780,8 +1780,8 @@ own intake account), Final Observation 0.155, M.A.W. Equipment 0.064, Combat Rec
 **closed in a single wave** (25 sites); 7,194 → **7,681 words**; `tpl.py` residue 0; `verify.py` residual **3 → 0**;
 `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the weapon's appearance described a
 sceptre under a zweihander's name and the suit's described a greatsword under a shield's — both appearances were
-re-authored to match their pieces. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ /
-302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 29 stands at three of ten.**
+re-authored to match their pieces. Movement: `R-29` 173 / 301; section-clean 198 / 301; residue-free 302 /
+302; archive dirty 355; file-clean 302 / 302. **Batch 29 stands at three of ten.**
 
 **Batch 29, unit 2: Swallow `C-IVδ-767` closed.** Measured at `71adb35`: **6 dirty sections**, worst Behavior
 0.250, then M.A.W. Equipment 0.166, Final Observation 0.150, Registrum 0.124, Combat Record 0.078 and Trivia
@@ -1789,15 +1789,15 @@ re-authored to match their pieces. Movement: `R-29` @r29@ / 301; section-clean @
 words**; `tpl.py` residue 0 throughout; `verify.py` residual **1 → 0**; `sectfile.py` **0 section(s) over 0.05**;
 `wikistd.py` meets **True**. Disclosed: the first pass matched only the first sentence of the two long Registrum
 paragraphs and left the old tails spliced behind the new prose — caught by the shared-shingle listing, both
-paragraphs rebuilt whole-line in the third pass. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301;
-residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 29 stands at two of ten.**
+paragraphs rebuilt whole-line in the third pass. Movement: `R-29` 172 / 301; section-clean 197 / 301;
+residue-free 302 / 302; archive dirty 362; file-clean 302 / 302. **Batch 29 stands at two of ten.**
 
 **Batch 29, unit 1: Sleeping Shard `N-IVδ-611` closed.** Measured at `66b7766`: **6 dirty sections**, worst Behavior
 0.254, then Final Observation 0.138, M.A.W. Equipment 0.096, Combat Record 0.079, Trivia 0.058 and Flavor Text
 0.057 — **closed in two waves** (26 + 4; the second took out the interaction preamble under the Flavor heading, which
 carried most of that section's share); 7,240 → **7,402 words**; `tpl.py` residue 0 throughout; `verify.py` residual
 **3 → 0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition and series held. Movement:
-`R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ /
+`R-29` 171 / 301; section-clean 196 / 301; residue-free 302 / 302; archive dirty 368; file-clean 302 /
 302. **Batch 29 stands at one of ten.**
 
 **Batch 28 — CLOSED at seven.** Seven dossiers, **38 / 38 dirty sections closed**, **+4,418 words** net,

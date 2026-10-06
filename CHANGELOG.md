@@ -20,8 +20,8 @@ This file records notable changes to the public Somnarak Wiki.
   993/993 · pressure 27–60 per hit · resistance 45 / 35 per cent · threshold 90 per cent · weapon 14–22 at 50 Echoes ·
   suit 45 · Stigma 4 per cent · Max 2 pieces per issue). The shared origin fragment was replaced with this holding's own
   account — an interrupted rite and a vault left warm — and the relation preamble was re-authored to its real neighbours.
-  Movement at the unit commit: `R-29` 180 / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; residue lines
-  @lines@; archive dirty 303; file-clean @fc@ / 302. **Batch 29 stands at ten of ten — the batch is complete.**
+  Movement at the unit commit: `R-29` 180 / 301; section-clean 205 / 301; residue-free 302 / 302; residue lines
+  0; archive dirty 303; file-clean 302 / 302. **Batch 29 stands at ten of ten — the batch is complete.**
 
 
 
@@ -36,8 +36,8 @@ This file records notable changes to the public Somnarak Wiki.
   words (`use names and present anchors; do not force a fixed identity`), held **True**. The shared origin fragment was
   replaced with this holding's own account — a border clerk's run of individually correct refusals wearing through a
   self-image — and the truncated generator tail in the before-use and during-use rows was rebuilt into the observer's
-  own baseline test. Movement at the unit commit: `R-29` 179 / 301; section-clean @sc@ / 301; residue-free @clean@ /
-  302; residue lines @lines@; archive dirty 311; file-clean @fc@ / 302. **Batch 29 stands at nine of ten.**
+  own baseline test. Movement at the unit commit: `R-29` 179 / 301; section-clean 204 / 301; residue-free 302 /
+  302; residue lines 0; archive dirty 311; file-clean 302 / 302. **Batch 29 stands at nine of ten.**
 
 
 
@@ -52,8 +52,8 @@ This file records notable changes to the public Somnarak Wiki.
   rewritten resolution line in the file's own words (`do not replace the missing thing with a false explanation`),
   held **True**. The stock pieces went onto the vault's own readings: the 24-millimetre sighted displacement, the fire
   that leaves no ash, one Warden at a time on a logged approach, and the clause against filling the gap. Movement at
-  the unit commit: `R-29` 178 / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; residue lines @lines@;
-  archive dirty 318; file-clean @fc@ / 302. **Batch 29 stands at eight of ten.**
+  the unit commit: `R-29` 178 / 301; section-clean 203 / 301; residue-free 302 / 302; residue lines 0;
+  archive dirty 318; file-clean 302 / 302. **Batch 29 stands at eight of ten.**
 
 
 
@@ -68,8 +68,8 @@ This file records notable changes to the public Somnarak Wiki.
   (`do not wake it; reduce noise and acknowledge the dead`), held **True**. The shared origin fragment was replaced
   with this holding's own account — a struck-off settlement and a loss that was never permitted to count — and a
   truncated generator phrase in the before-use and during-use rows (`its bearer is freq.`) was rebuilt into the
-  armoury's own sentence. Movement at the unit commit: `R-29` 177 / 301; section-clean @sc@ / 301; residue-free
-  @clean@ / 302; residue lines @lines@; archive dirty 323; file-clean @fc@ / 302. **Batch 29 stands at seven of
+  armoury's own sentence. Movement at the unit commit: `R-29` 177 / 301; section-clean 202 / 301; residue-free
+  302 / 302; residue lines 0; archive dirty 323; file-clean 302 / 302. **Batch 29 stands at seven of
   ten.**
 
 
@@ -85,8 +85,8 @@ This file records notable changes to the public Somnarak Wiki.
   and series already satisfied — the condition re-registered inside the rewritten resolution line in the file's own
   words (`complete the duty symbolically, then tell the Shadow it may stop`), held **True**. The stock pieces went onto
   the chamber's own filings: the mirrorless room, the round walked at the door and the release spoken aloud. Movement
-  at the unit commit: `R-29` 176 / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; residue lines
-  @lines@; archive dirty 329; file-clean @fc@ / 302. **Batch 29 stands at six of ten.**
+  at the unit commit: `R-29` 176 / 301; section-clean 201 / 301; residue-free 302 / 302; residue lines
+  0; archive dirty 329; file-clean 302 / 302. **Batch 29 stands at six of ten.**
 
 
 
@@ -102,8 +102,8 @@ This file records notable changes to the public Somnarak Wiki.
   4 per cent · 2 pieces — **restated from the file, disclosed**. Both relation rows that carried the generator's
   generic effect and record cells were re-authored onto the file's own findings, and the shared origin fragment was
   replaced with this holding's own account: a border stone whose inscription outgrew it, with nobody left to settle
-  the account. Movement at the unit commit: `R-29` 175 / 301 (series 259); section-clean @sc@ / 301;
-  residue-free @clean@ / 302; residue lines @lines@; archive dirty 336; file-clean @fc@ / 302. **Batch 29 stands
+  the account. Movement at the unit commit: `R-29` 175 / 301 (series 259); section-clean 200 / 301;
+  residue-free 302 / 302; residue lines 0; archive dirty 336; file-clean 302 / 302. **Batch 29 stands
   at five of ten.**
 
 
@@ -121,8 +121,8 @@ This file records notable changes to the public Somnarak Wiki.
   25 / 15 per cent · 60 per cent · 5–9 at 25 Echoes · 20 · 5 per cent · 3 flame-form holdings · 2 of 3 breaches —
   **restated from the file, disclosed**. The shared origin fragment was replaced with this holding's own account: one
   survivor's remembered warmth, admitted to be ordinary, imperfect and over. Movement at the unit commit: `R-29` 174
-  / 301 (series 258); section-clean @sc@ / 301; residue-free @clean@ / 302; residue lines @lines@; archive dirty
-  347; file-clean @fc@ / 302. **Batch 29 stands at four of ten.**
+  / 301 (series 258); section-clean 199 / 301; residue-free 302 / 302; residue lines 0; archive dirty
+  347; file-clean 302 / 302. **Batch 29 stands at four of ten.**
 
 
 
@@ -141,8 +141,8 @@ This file records notable changes to the public Somnarak Wiki.
   named a shield while its appearance described a greatsword — both appearances now match their pieces and the
   holding's Border post. The stock pieces went onto the file's own filings: the rota sheet as the containment
   document, the intake book's one-line account, and the roster that shows one name volunteering. Movement at the unit
-  commit: `R-29` 173 / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; residue lines @lines@; archive
-  dirty 355; file-clean @fc@ / 302. **Batch 29 stands at three of ten.**
+  commit: `R-29` 173 / 301; section-clean 198 / 301; residue-free 302 / 302; residue lines 0; archive
+  dirty 355; file-clean 302 / 302. **Batch 29 stands at three of ten.**
 
 
 
@@ -160,8 +160,8 @@ This file records notable changes to the public Somnarak Wiki.
   whole-line in the third pass, removing the tail and the archived phrasing with it. The stock pieces went onto the
   holding's own filings: the chalked perimeter with its old marks left standing, the fixed lamp and the tethered
   equipment, the 214 screens with 43 flags, and the four reversals in sixty-one years. Movement at the unit commit:
-  `R-29` 172 / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; residue lines @lines@; archive dirty
-  362; file-clean @fc@ / 302. **Batch 29 stands at two of ten.**
+  `R-29` 172 / 301; section-clean 197 / 301; residue-free 302 / 302; residue lines 0; archive dirty
+  362; file-clean 302 / 302. **Batch 29 stands at two of ten.**
 
 
 
