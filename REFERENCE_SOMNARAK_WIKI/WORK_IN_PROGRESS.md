@@ -2198,7 +2198,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 32 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IVδ-001 The Orphaned Bell 고아의 종 — `__HASH__` — PUSH VERIFIED — [[SE-C-IVδ-001_The_Orphaned_Bell_고아의_종]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-001_The_Orphaned_Bell_%EA%B3%A0%EC%95%84%EC%9D%98_%EC%A2%85.md "SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md")
+- SE-C-IVδ-001 The Orphaned Bell 고아의 종 — `61bd2d7` — PUSH VERIFIED — [[SE-C-IVδ-001_The_Orphaned_Bell_고아의_종]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-001_The_Orphaned_Bell_%EA%B3%A0%EC%95%84%EC%9D%98_%EC%A2%85.md "SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md")
 
 - SE-C-Iα-300 Sorrow Seed 슬픔의 씨앗 — `f4ad00a` — PUSH VERIFIED — [[SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-300_Sorrow_Seed_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%94%A8%EC%95%97.md "SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md")
 
