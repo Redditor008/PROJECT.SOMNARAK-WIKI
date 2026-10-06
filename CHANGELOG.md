@@ -8,6 +8,43 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 32 CLOSED at seven (2026-10-07).** Seven dossiers, **30 / 30 dirty sections closed**, **+1,718 words** net
+  (6,449 → 6,759 · 7,190 → 7,571 · 7,838 → 8,105 · 8,144 → 8,470 · 8,514 → 8,691 · 6,718 → 6,821 · 7,857 → 8,011),
+  `verify.py` residuals **6 → 0**, nothing deleted (`R-15`). Each unit committed individually and pushed (`A0`), each
+  closed in a single wave, and each validated by `wikistd.py` (`meets True`), `sectfile.py` (0 sections over 0.05),
+  `tpl.py` and `verify.py`. Movement across the cohort, b31 close → b32 close: `R-29` 190 → **198 / 301**; own numeric
+  series 263 → **264 / 301** (unit 2); condition 259 → 259 / 301; section-clean 215 → **223 / 301**; residue-free
+  302 → 302 / 302; `tpl.py` residue lines 0; archive dirty 216 → **183**; file-clean 302 → 302 / 302; scene-clean
+  216 → 224; worst 0.031 → 0.031; median 0.008 → 0.008. The archive-dirty fall is larger than the cohort's own 30
+  sections because rewriting archive-shared phrasing thins the shared set for other files as well (`sect.py`,
+  `MIN_SHARE=10`).
+
+- **Batch 32 disclosures.** `own_series` closed **False → True** on unit 2 (Briar) by setting the file's own counted
+  record down in digits, disclosed; every other unit's condition and disposition state already held and was left alone
+  (`R-05`) — units 1 and 3 re-registered their condition inside a rewritten resolution line, unit 4's resolution line
+  retains its condition clause verbatim, and the rest hold theirs in `| **Management** |` rows left untouched. **unit 1**
+  — **rollback #26** struck at the first docs gate (the checkout was found at the session's base commit while the remote
+  held the batch open); the worktree was untouched, the batch-row hash was reset to its placeholder and the branch
+  restored level with the remote by the standing procedure (fetch → `git reset --mixed FETCH_HEAD` → `git checkout --
+  PR_12_NEVER_MERGED.md`), after which the unit re-gated cleanly; the same unit had the
+  `…never been establishable, confirms the approach` and `the entity is inactive; fixed entities may` splices rebuilt
+  whole-line, a duplicated `Review protocol:` preamble collapsed, and a condition re-registered in the rewritten
+  resolution line. **unit 2** — the rewritten Escalation row lost its trailing pipe (`NOPIPE`) and was repaired before
+  the gate; clipped result cells rewritten; series closed. **unit 3** — the first condition re-registration did not
+  match the register and read **False**; corrected to `suppression condition: **look at the Bird and accept its gaze**`
+  and held **True**; the tension-phase and interaction-method splices were rebuilt, including a generator tail ending
+  `a Sorrow Tide, breach, Ordeal, or transformation event` twice over. **unit 4** — the choose row's second cell had
+  been clipped mid-word at `no.` and was rewritten whole-line. **unit 5** — the Entry 1 `is logged as ` residual and an
+  identical activation-effect line carried twice were both rewritten in place (`dupes []`). **unit 6** — both of its
+  residuals were cleared in the same wave. **unit 7** — the review requirement's clipped tail `personnel exposure, and
+  location after every breach` was rebuilt whole-line. **Housekeeping sweep, disclosed:** the relation-table header
+  shared by ten holders (the b30 and b31 units and this batch's first two) reached the residue threshold — `tpl.py`
+  1 line / 10 instances / 10 carriers, residue-free 292 / 302; each holder's header was reworded uniquely in place
+  with no prose, figure or row changed (`R-15`), and the register returned to **0 lines, 0 instances, 0 carriers**,
+  residue-free **302 / 302** (`1faa7c8`).
+
+
+
 - **Batch 32 / unit 7 — The Smothering Mother `N-IVδ-005` closed (2026-10-07)** — measured at `75edbc9`: **4 dirty
   sections**, worst Behavior 0.137 (the 33-gram Work-Type-context paragraph, rebuilt in the file's own terms), then Final
   Observation 0.127 (the choice blockquote), Registrum 0.066 (the faction line, the operational interpretation and the

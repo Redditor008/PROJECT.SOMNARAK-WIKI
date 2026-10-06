@@ -1716,20 +1716,30 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 32 closed at seven (2026-10-07).** Seven dossiers · **30 / 30 dirty sections closed**, one wave per unit ·
+**+1,718 words** net · `verify.py` residuals **6 → 0** · `tpl.py` residue 0 throughout, after the disclosed
+housekeeping sweep of ten shared relation-table headers (`1faa7c8`) · nothing deleted (`R-15`). Movement, b31 close →
+b32 close: `R-29` 190 → **198 / 301** · series 263 → **264 / 301** · condition 259 → 259 / 301 · section-clean
+215 → **223 / 301** · residue-free 302 → 302 / 302 · archive dirty 216 → **183** · file-clean 302 → 302 / 302 ·
+scene-clean 216 → 224 · worst 0.031 · median 0.008. Disclosures: **rollback #26** (unit 1's first docs gate), unit 2's
+`NOPIPE` repair, unit 3's condition reading **False** before re-registration, splices rebuilt on units 1, 3, 4, 5, 6
+and 7, and the ten-holder header sweep. Full per-unit detail in the entries above; the codex records all seven with
+their SE links below (`R-12`). **Next rung: ten**, on the owner's word.
+
 **Batch 32, unit 7: The Smothering Mother `N-IVδ-005` closed.** Measured at `75edbc9`: **4 dirty sections**, worst
 Behavior 0.137, then Final Observation 0.127, Registrum 0.066 and M.A.W. Equipment 0.061 — **closed in a single wave**
 (13 sites); 7,857 → **8,011 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets
 **True**, series and condition held. Disclosed: the review requirement's clipped `personnel exposure, and location after
 every breach` tail was rebuilt whole-line, and the Entry 1 `is logged as ` line was rewritten — residual **1 → 0**.
-Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean
-@fc@ / 302. **Batch 32 stands at seven of seven — units complete.**
+Movement: `R-29` 198 / 301; section-clean 223 / 301; residue-free 302 / 302; archive dirty 183; file-clean
+302 / 302. **Batch 32 stands at seven of seven — units complete.**
 
 **Batch 32, unit 6: The Wrath Flame `O-IIIβ-120` closed.** Measured at `3f9c0ca`: **4 dirty sections**, worst Behavior
 0.219, then Final Observation 0.159, Flavor Text 0.065 and M.A.W. Equipment 0.055 — **closed in a single wave** (13
 sites); 6,718 → **6,821 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets
 **True**, series and condition held. Disclosed: both residuals were cleared in the wave — the use-notes line with
-`is a conditional extension of` and the Entry 1 `is logged as ` line — residual **2 → 0**. Movement: `R-29` @r29@ / 301;
-section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 32 stands at
+`is a conditional extension of` and the Entry 1 `is logged as ` line — residual **2 → 0**. Movement: `R-29` 197 / 301;
+section-clean 222 / 301; residue-free 302 / 302; archive dirty 187; file-clean 302 / 302. **Batch 32 stands at
 six of seven.**
 
 **Batch 32, unit 5: The Orphaned Bell `C-IVδ-001` closed.** Measured at `151994c`: **4 dirty sections**, worst Final
@@ -1737,16 +1747,16 @@ Observation 0.160, then M.A.W. Equipment 0.107, Operational Parameters 0.083 and
 wave** (20 sites); 8,514 → **8,691 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py`
 meets **True**, series and condition held. Disclosed: the `is logged as ` stock line in Entry 1 was rewritten —
 residual **1 → 0** — and the identical activation-effect line carried twice was rewritten in place, so `dupes` is back to
-`[]`. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@;
-file-clean @fc@ / 302. **Batch 32 stands at five of seven.**
+`[]`. Movement: `R-29` 196 / 301; section-clean 221 / 301; residue-free 302 / 302; archive dirty 191;
+file-clean 302 / 302. **Batch 32 stands at five of seven.**
 
 **Batch 32, unit 4: Sorrow Seed `C-Iα-300` closed.** Measured at `1f6cacc`: **4 dirty sections**, worst Behavior
 0.241 — the shared gauge-interpretation paragraph rebuilt in the file's own terms — then M.A.W. Equipment 0.121, Final
 Observation 0.088 and Flavor Text 0.063; **closed in a single wave** (20 sites); 8,144 → **8,470 words**; `tpl.py`
 residue 0; `verify.py` residual 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, series and
 condition held. Disclosed: the choose row's second cell had been clipped mid-word at `no.` and was rewritten whole.
-Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean
-@fc@ / 302. **Batch 32 stands at four of seven.**
+Movement: `R-29` 195 / 301; section-clean 220 / 301; residue-free 302 / 302; archive dirty 195; file-clean
+302 / 302. **Batch 32 stands at four of seven.**
 
 **Batch 32, unit 3: The Observing Bird `C-IIIγ-031` closed.** Measured at `1faa7c8`: **4 dirty sections**, worst
 Final Observation 0.254, then Flavor Text 0.073, Combat Record 0.070 and M.A.W. Equipment 0.051 — **closed in a single
@@ -1754,8 +1764,8 @@ wave** (24 sites); 7,838 → **8,105 words**; `tpl.py` residue 0; `verify.py` re
 over 0.05**; `wikistd.py` meets **True**, series held. Disclosed: the interaction method and the tension phase were
 rebuilt whole-line from spliced generator tails; the condition read **False** on the first attempt (a non-matching
 phrasing), was re-registered as `suppression condition: **look at the Bird and accept its gaze**` and held **True**.
-Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean
-@fc@ / 302. **Batch 32 stands at three of seven.**
+Movement: `R-29` 194 / 301; section-clean 219 / 301; residue-free 302 / 302; archive dirty 199; file-clean
+302 / 302. **Batch 32 stands at three of seven.**
 
 **Housekeeping sweep, disclosed:** the relation-table header shared across ten holders (b30–b32 units) hit the residue
 threshold; each was reworded uniquely in place — no prose or figures changed — and the register returned to 0 lines /
@@ -1767,8 +1777,8 @@ in a single wave** (33 sites including the numerals bullet); 7,190 → **7,571 w
 residual **1 → 0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition re-registered
 inside the rewritten resolution line and held **True**, series **False → True** via digits. Disclosed: the rewritten
 escalation row lost its trailing pipe and was repaired before the gate (`verify.py` `NOPIPE`); the result row's clipped
-cells were rewritten in order. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302;
-archive dirty @dirty@; file-clean @fc@ / 302. **Batch 32 stands at two of seven.**
+cells were rewritten in order. Movement: `R-29` 192 / 301; section-clean 217 / 301; residue-free 302 / 302;
+archive dirty 205; file-clean 302 / 302. **Batch 32 stands at two of seven.**
 
 **Batch 32, unit 1: Double Mouth `C-IIβ-716` closed.** Measured at `018f49d`: **5 dirty sections**, worst Final
 Observation 0.158, then M.A.W. Equipment 0.126, Flavor Text 0.060, Registrum 0.059 and Combat Record 0.054 — **closed in
@@ -1776,8 +1786,8 @@ a single wave** (28 sites); 6,449 → **6,759 words**; `tpl.py` residue 0; `veri
 **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition re-registered inside the rewritten resolution line
 and held **True**, series held. Disclosed: the tension phase's `establishable, confirms the approach` splice and the
 containment-detail bullet's `the entity is inactive; fixed entities may` splice were rebuilt whole-line; the review
-requirement's duplicated `Review protocol:` preamble collapsed. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301;
-residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 32 stands at one of seven.**
+requirement's duplicated `Review protocol:` preamble collapsed. Movement: `R-29` 191 / 301; section-clean 216 / 301;
+residue-free 302 / 302; archive dirty 210; file-clean 302 / 302. **Batch 32 stands at one of seven.**
 
 **Batch 31 — CLOSED at five.** Five dossiers, **25 / 25 dirty sections closed**, **+1,776 words** net (35,441 →
 37,217), `verify.py` residuals **5 → 0**, nothing deleted (`R-15`); each unit's SE link, closing commit and PUSH
@@ -1801,8 +1811,8 @@ residue 0; `verify.py` residual **1 → 0**; `sectfile.py` **0 section(s) over 0
 condition re-registered inside the rewritten resolution line and held **True**, series **False → True** via digits.
 Disclosed: the result row's swapped success/failure cells were rewritten in order; the tension-phase
 `identifies The Hollow Saint by her by the hollow` splice was rebuilt whole-line; the numerals bullet uses a fresh
-wording. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@;
-file-clean @fc@ / 302. **Batch 31 stands at five of five.**
+wording. Movement: `R-29` 191 / 301; section-clean 216 / 301; residue-free 302 / 302; archive dirty 210;
+file-clean 302 / 302. **Batch 31 stands at five of five.**
 
 **Batch 31, unit 4: Deteriorata `C-IVγ-130` closed.** Measured at `bd844db`: **5 dirty sections**, worst Final
 Observation 0.179, then M.A.W. Equipment 0.105, Combat Record 0.084, Trivia 0.074 and Flavor Text 0.061 — **closed in
@@ -1811,7 +1821,7 @@ two passes** (25 + 12 sites); 7,084 → **7,324 words**; `tpl.py` residue 0; `ve
 resolution line and held **True**, series held. Disclosed: the first pass left standard generator wording (`matte and
 unnaturally heavy`, `gauge at issue, and a sealed baseline`, the shared relations sentence); the second pass replaced
 each with the file's own phrasing; the Year-4237 figures were restated with every figure preserved. Movement: `R-29`
-@r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302.
+191 / 301; section-clean 216 / 301; residue-free 302 / 302; archive dirty 210; file-clean 302 / 302.
 **Batch 31 stands at four of five.**
 
 **Batch 31, unit 3: Harbinger `N-IIIβ-155` closed.** Measured at `478585b`: **5 dirty sections**, worst Final
@@ -1821,8 +1831,8 @@ two passes** (24 + 3 sites); 6,716 → **6,988 words**; `tpl.py` residue 0; `ver
 and held **True**, series held. Disclosed: the first pass kept the shared `Operational Parameters line gave the M.A.W.
 grade as a pair of em dashes against three graded β pieces` correction phrasing in the Trivia field detail, so a second
 pass rewrote it uniquely; the field-use rows' ledger splices and the tension-phase splice were rebuilt whole-line; the
-Year-4237 figures were restated with every figure preserved. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301;
-residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 31 stands at three of five.**
+Year-4237 figures were restated with every figure preserved. Movement: `R-29` 191 / 301; section-clean 216 / 301;
+residue-free 302 / 302; archive dirty 210; file-clean 302 / 302. **Batch 31 stands at three of five.**
 
 **Batch 31, unit 2: Life Behind Glass `N-Iα-518` closed.** Measured at `5625502`: **5 dirty sections**, worst Story
 Log 0.192, then Behavior 0.159, Final Observation 0.115, M.A.W. Equipment 0.055 and Flavor Text 0.053 — **closed in a
@@ -1830,8 +1840,8 @@ single wave** (28 sites); 7,419 → **7,838 words**; `tpl.py` residue 0; `verify
 **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition (a `| **Management** |` row) and series held.
 Disclosed: two field-use rows truncated mid-word at `intervening m.` were rebuilt whole-line; the activation block's
 `Operational Rule: The relic.` seam was rebuilt; the shared Keeper origin fragment was replaced with the holding's own
-account; the result row's swapped success/failure cells were rewritten in order. Movement: `R-29` @r29@ / 301;
-section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 31 stands at
+account; the result row's swapped success/failure cells were rewritten in order. Movement: `R-29` 191 / 301;
+section-clean 216 / 301; residue-free 302 / 302; archive dirty 210; file-clean 302 / 302. **Batch 31 stands at
 two of five.**
 
 **Batch 31, unit 1: The Sorrow Fountain `C-IIIγ-088` closed.** Measured at `f984dd0`: **5 dirty sections**, worst
@@ -1841,8 +1851,8 @@ Story Log 0.202, then Final Observation 0.156, Operational Parameters 0.113, Reg
 re-registered inside the rewritten resolution line and held **True**, series **False → True** via digits. Disclosed:
 two mangled seams rebuilt whole-line (the tension phase and the identification row) and the shared Architect origin
 fragment replaced with the holding's own account; the result row's swapped success/failure cells were rewritten in
-order. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@;
-file-clean @fc@ / 302. **Batch 31 stands at one of five.**
+order. Movement: `R-29` 191 / 301; section-clean 216 / 301; residue-free 302 / 302; archive dirty 210;
+file-clean 302 / 302. **Batch 31 stands at one of five.**
 
 **Batch 30 — CLOSED at five.** Five dossiers, **27 / 27 dirty sections closed**, **+1,991 words** net (34,807 →
 36,798), `verify.py` residuals **8 → 0**, nothing deleted (`R-15`); each unit's SE link, closing commit and PUSH
@@ -1864,8 +1874,8 @@ Text 0.063 — **closed in a single wave** (32 sites); 7,896 → **8,380 words**
 `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition re-registered inside the rewritten
 resolution line and held **True**, series held. Disclosed: the clash phase carried a broken
 `The team identifies… by personnel should identify` splice, rebuilt whole-line; the Behavior paragraph's internal
-repetition collapsed; all five relation rows re-authored onto the file's own holdings. Movement: `R-29` @r29@ / 301;
-section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 30 stands at
+repetition collapsed; all five relation rows re-authored onto the file's own holdings. Movement: `R-29` 191 / 301;
+section-clean 216 / 301; residue-free 302 / 302; archive dirty 210; file-clean 302 / 302. **Batch 30 stands at
 five of five.**
 
 **Batch 30, unit 4: The Memory Thief `N-IIIβ-077` closed.** Measured at `d8f61a4`: **5 dirty sections**, worst Final
@@ -1873,16 +1883,16 @@ Observation 0.324, then Behavior 0.150, M.A.W. Equipment 0.127, Combat Record 0.
 single wave** (32 sites); 6,807 → **7,173 words**; `tpl.py` residue 0; `verify.py` residual **1 → 0**; `sectfile.py`
 **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition re-registered inside the rewritten resolution line
 and held **True**, series held. Disclosed: the Behavior paragraph's internal repetition of its own opening caution and
-the Operational interpretation's duplicated preamble were both collapsed in the rewrite. Movement: `R-29` @r29@ / 301;
-section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 30 stands
+the Operational interpretation's duplicated preamble were both collapsed in the rewrite. Movement: `R-29` 191 / 301;
+section-clean 216 / 301; residue-free 302 / 302; archive dirty 210; file-clean 302 / 302. **Batch 30 stands
 at four of five.**
 
 **Batch 30, unit 3: Pyre of Truths `C-IVδ-092` closed.** Measured at `bb4b87c`: **5 dirty sections**, worst Final
 Observation 0.328, then Behavior 0.165, M.A.W. Equipment 0.086, Registrum 0.081 and Combat Record 0.067 — **closed in a
 single wave** (24 sites); 7,705 → **8,027 words**; `tpl.py` residue 0; `verify.py` residual **2 → 0**; `sectfile.py`
 **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition re-registered inside the rewritten resolution line
-and held **True**, series held; the review requirement's duplicated preamble collapsed. Movement: `R-29` @r29@ / 301;
-section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 30 stands at
+and held **True**, series held; the review requirement's duplicated preamble collapsed. Movement: `R-29` 191 / 301;
+section-clean 216 / 301; residue-free 302 / 302; archive dirty 210; file-clean 302 / 302. **Batch 30 stands at
 three of five.**
 
 **Batch 30, unit 2: Grieving Love `N-IIIβ-941` closed.** Measured at `1f6cb9a`: **6 dirty sections**, worst Entity
@@ -1890,15 +1900,15 @@ Interactions 0.139, then Behavior 0.114, Registrum 0.113, M.A.W. Equipment 0.072
 Operational Parameters 0.052 — **closed in a single wave** (33 sites) after one aborted attempt with two
 mis-transcribed anchors (nothing written); 6,242 → **6,645 words**; `tpl.py` residue 0; `verify.py` residual **3 → 0**;
 `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition re-registered inside the rewritten
-resolution line and held **True**, series held. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free
-@clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 30 stands at two of five.**
+resolution line and held **True**, series held. Movement: `R-29` 191 / 301; section-clean 216 / 301; residue-free
+302 / 302; archive dirty 210; file-clean 302 / 302. **Batch 30 stands at two of five.**
 
 **Batch 30, unit 1: Memory Rain `C-IIβ-250` closed.** Measured at `ed0893e`: **6 dirty sections**, worst Final
 Observation 0.145, then M.A.W. Equipment 0.108, Operational Parameters 0.074, Flavor Text 0.067, Combat Record 0.064
 and Expansion Behavior 0.058 — **closed in a single wave** (32 sites); 6,157 → **6,573 words**; `tpl.py` residue 0;
 `verify.py` residual **2 → 0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition
 re-registered inside the rewritten resolution line and held **True**, series **False → True** via numerals. Movement:
-`R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ /
+`R-29` 191 / 301; section-clean 216 / 301; residue-free 302 / 302; archive dirty 210; file-clean 302 /
 302. **Batch 30 stands at one of five.**
 
 **Batch 29 — CLOSED at ten.** Ten dossiers, **57 / 57 dirty sections closed**, **+3,746 words** net (73,808 →
@@ -2212,7 +2222,7 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
-**Batch 32 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 32 — CLOSED at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-N-IVδ-005 The Smothering Mother 질식하는 어머니 — `ce35f52` — PUSH VERIFIED — [[SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-005_The_Smothering_Mother_%EC%A7%88%EC%8B%9D%ED%95%98%EB%8A%94_%EC%96%B4%EB%A8%B8%EB%8B%88.md "SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md")
 
