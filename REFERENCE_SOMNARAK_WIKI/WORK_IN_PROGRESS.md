@@ -22,13 +22,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **229 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **156 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **132 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **233 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **157 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **133 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 257 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 258 / 302 |
 | Archive median prose generic fraction | 0.014 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1681,12 +1681,35 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 302**; file-clean 235 → **236 / 302**. **Batch 19 is closed at three.**
 
 
-**Batch 22 — finished dossiers, each with its SE git link and closing commit** (owner's instruction, 2026-10-06, under [`R-12`](RULES/R-12_REFER_TO_GITHUB.md): the SE git link accompanies **every** finished dossier, not only the one just closed; links generated with `tools/ghlink.py`):
+**Batch 22 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (owner's instruction, 2026-10-06, under [`R-12`](RULES/R-12_REFER_TO_GITHUB.md): the SE git link accompanies **every** finished dossier, not only the one just closed; links generated with `tools/ghlink.py`):
 
 - SE-C-IVβ-043 The Silent Maiden 침묵의 처녀 — `a3b724e` — PUSH VERIFIED — [[SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-043_The_Silent_Maiden_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EC%B2%98%EB%85%80.md "SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md")]
 - SE-C-IIβ-102 Frozen Tear 얼어붙은 눈물 — `f66cffd` — PUSH VERIFIED — [[SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-102_Frozen_Tear_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%88%88%EB%AC%BC.md "SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md")]
 - SE-C-IVδ-125 Dejà Vu 돌아온 열매 — `1e7f61e` — PUSH VERIFIED — [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
+- SE-O-IIβ-833 Neverlast 녹슨 영혼 — closing commit is the commit that carries this entry; the link block is completed in the record commit that follows — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
+
+**Batch 22, unit 5: Neverlast `O-IIβ-833` closed; BATCH 22 IS CLOSED AT FIVE.** Measured at `15188f0`: **8 dirty
+sections**, worst Final Observation 0.368 (the choice-presented blockquote and the success/fail row), then Origin
+0.310 (the 48-shared *There is a story in Somnarak* line), Behavior 0.275 (the 38-shared *behavior table is a
+snapshot* line), M.A.W. Equipment 0.217 (the 14-dossier Lament Han-silk shroud appearance line, the 21-shared
+use-notes line, the 12-shared Before-use row, the shared stat-interpretation line and four smaller pieces),
+Registrum 0.130 (the 21-shared operational-interpretation line and the 20-shared review-requirement line), Flavor
+Text 0.072 (the 32-shared isolation line), Combat Record 0.067 (the 10-dossier Lament resistance row, the shared
+Corrosion and Afterlife rows and three template phase or consequence lines) and Trivia 0.059 — all eight closed in
+two waves (10 + 16 sites); 6,872 → **7,896 words**; `tpl.py` residue 2 → **0** — the 10-dossier Lament resistance
+row was retired archive-wide (residue lines 9 → 8) and the 14-dossier shroud appearance line re-authored;
+`verify.py` residual 1 → **0** (Story Log Entry 1's stock `is logged as `); `sectfile.py` **0 section(s) over
+0.05**; `wikistd.py` meets **True**, all three clauses already satisfied and left alone (`R-05`) — the line's own
+series was already in the record (365 watches scheduled, 309 sat, 56 missed; 11,400 square centimetres traced with
+9,100 in missed-watch weeks; 4 spreads; 4 arm alterations in eleven years) and was carried into the rebuilt
+Registrum lines rather than created for the clause. The isolation line and the interaction preamble were rebuilt
+around the four Old Lament relations the file keeps, the M.A.W. costs onto the set's three charges in the same
+order for every bearer, and the resistance row onto the file's own defence reading. No neighbouring dossier
+changed. Archive dirty sections 714 → **705**; residue lines 9 → **8**, instances 106 → **95**, carriers 73 → **69**,
+clean dossiers 229 → **233**, file-clean 257 → **258 / 302**; worst 0.107 → **0.106**, median 0.012 steady.
+Movement: `R-29` 132 → **133 / 301**; section-clean 156 → **157 / 301**; residue-free 229 → **233 / 302**.
+**Batch 22 is closed at five** — the units are listed with their links in the block above.
 
 **Batch 22, unit 4: Fading Whisper `N-IIIγ-407` closed.** Measured at `1e7f61e`: **8 dirty sections**, worst
 M.A.W. Equipment 0.364 (the 33-dossier stat-interpretation line and the 19-dossier use-notes line, with four shared

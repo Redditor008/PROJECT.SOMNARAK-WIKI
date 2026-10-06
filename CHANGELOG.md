@@ -63,6 +63,33 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 22 / unit 5 — Neverlast `O-IIβ-833` closed (2026-10-06)** — measured at `15188f0`: **8 dirty sections**,
+  worst Final Observation 0.368 (the choice-presented blockquote and the success/fail row), then Origin 0.310 (the
+  48-shared *There is a story in Somnarak* line), Behavior 0.275 (the 38-shared *behavior table is a snapshot* line),
+  M.A.W. Equipment 0.217 (the 14-dossier Lament Han-silk shroud appearance line, the 21-shared use-notes line, the
+  12-shared Before-use row, the shared stat-interpretation line and four smaller shared pieces), Registrum 0.130
+  (the 21-shared operational-interpretation line and the 20-shared review-requirement line), Flavor Text 0.072 (the
+  32-shared isolation line), Combat Record 0.067 (the 10-dossier Lament resistance row, the shared Corrosion and
+  Afterlife rows and three template phase or consequence lines) and Trivia 0.059. All eight closed in two waves
+  (10 + 16 sites); 6,872 → **7,896 words**; `tpl.py` residue 2 → **0** — the 10-dossier Lament resistance row was
+  retired archive-wide (residue lines 9 → 8) and the 14-dossier shroud appearance line re-authored; `verify.py`
+  residual 1 → **0** (Story Log Entry 1's stock `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True** with all three clauses already satisfied and **left alone** (`R-05`) — the file's own
+  series (365 watches scheduled, 309 sat in full, 56 missed; 11,400 square centimetres traced with 9,100 in
+  missed-watch weeks; 4 spreads; 4 arm-angle alterations in eleven years) was already in the record and was carried
+  forward into the rebuilt Registrum lines rather than created for the clause. Stock pieces were replaced with the
+  holding's own material: the isolation line and the interaction preamble rebuilt around the four Old Lament
+  relations the file actually keeps (the Mother's reach that does not close, the Soldier's unasked eleven hours and
+  the halted spread, the Colossus transit that alters the arm angle, the Walls' repeated name and the one joint
+  session in which the reading fell), the M.A.W. costs re-authored onto the set's three charges in the same order
+  for every bearer, the resistance row replaced with the file's own defence reading (nothing is rated against the
+  spread, which is not pressure and crosses the cell wall), and the operational-interpretation and
+  review-requirement lines rebuilt around the transfer return of 4,300 movements a year at nought days' median
+  notice, the null-entry board at 1,180 and the Year 4233 word-sending application refused as *correct in
+  principle, no action*. Movement: `R-29` 132 → **133 / 301**; section-clean 156 → **157 / 301**; residue-free
+  229 → **233 / 302** (residue lines 9 → 8, instances 106 → 95, carriers 73 → 69); file-clean 257 → **258 / 302**;
+  archive dirty 714 → **705**; worst 0.107 → **0.106**. **Batch 22 is CLOSED at five.**
+
 - **Batch 22 / unit 4 — Fading Whisper `N-IIIγ-407` closed (2026-10-06)** — measured at `1e7f61e`: **8 dirty
   sections**, worst M.A.W. Equipment 0.364 (the 33-dossier stat-interpretation line and the 19-dossier use-notes
   line, with four shared field-use rows and five shared appearance or ability pieces under them), then Final

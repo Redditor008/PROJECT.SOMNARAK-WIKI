@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
+| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Nothing is rated against the spread, which is not pressure: it advances along the floor at roughly a metre a minute, it crosses the cell wall, and the only instrument that has ever halted it is somebody sitting down |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Han Pressure [ATK]** | 10–23 per hit · Lament |
@@ -80,19 +80,19 @@
 | { *The Oxidized Aura* [**Debuff**] } | "The soul is rusted — orange-brown patches on its spiritual surface — and the corrosion is spreading to you." | [The Soul's corrosion transfers to the target's own spirit; they feel oxidized.] | *Target suffers -10 Composure; their soul is rusting.* **[10 Lament DMG [Lament]]** | When the target encounters the Soul. |
 | { *The Flaking Spirit* [**Debuff**] } | "Pieces of the rusted soul flake away — and each piece carries a corroded memory." | [The Soul's decay sheds contaminated fragments; the target absorbs them.] | *Target loses 10 Composure; the rusted memories are toxic.* **[10 Lament DMG [Lament]]** | When the target lingers. |
 | { *The Rust-Shard* [**Attack**] } | "A flake of corroded soul, hardened and sharp, detaches and flies." | [ A rust-spirit shard launches.] | *Inflicts Lament pressure and one wound of spiritual oxidation.* **[14-22 Lament DMG [Lament]]** | When the Soul is touched. |
-| { *The Full Corrosion* [**Attack**] } | "The entire soul rusts away — from spirit to powder — and the release is a cloud of oxidized grief." | [The Soul's complete corrosion releases its spiritual mass.] | *A heavy Deep Blue cloud; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Soul is confronted. |
-| { *The Rusted Afterlife* [**Ultimate**] } | "Every soul in the field begins to corrode — and the combined rust-cloud fills the spiritual air." | [The Soul extends its corrosion across the whole area.] | *All in range suffer Lament pressure for three turns of rusting spirits.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Corrosion* [**Attack**] } | "The reach is held past the point where anybody could answer it, and the rust comes off the arm in a sheet." | [The holding spends a whole cycle's corrosion on the target at once.] | *A heavy corroded cloud; the target's Sorrow Gauge surges 15%, and every arrangement they are currently late for arrives in order.* **[24-36 Lament DMG [Lament]]** | When the Soul is confronted. |
+| { *The Rusted Afterlife* [**Ultimate**] } | "Everything the corrosion has ever touched begins to fatigue at once, and the air tastes of wet iron." | [The spread leaves the floor and fills the area instead.] | *All in range suffer Lament pressure for three turns of rusting spirits; nothing in range keeps an appointment on time.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Neverlast is confirmed by stillness and by the overlay. Several corroded figures are catalogued in Old Lament; this is the one that does not move at all, is made of dark tear-crystal under the rust, and has a traced spread that grows every cycle without ever consuming anything. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Neverlast is confirmed by stillness and by the overlay, in that order. Several corroded figures are catalogued in Old Lament, and this is the one that does not move at all, is dark tear-crystal beneath the rust, and has a traced spread that grows every cycle without ever consuming anything. The position and the withdrawal route are established before the cycle opens, and the arrival time is written down on entry, because on this cell arrival is itself a measurement.
 2. **Clash:** The work is attendance. Flerehan is answering the reach and lowers the reading; Ferrehan is sitting the full watch without leaving early; Pugnahan is treated as a walkout and raises it. The one prohibited sentence is any form of "I'll come back" — a worker who says it is replaced for the cycle, and the replacement is told why in front of the figure.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Remain with it and acknowledge the abandonment; do not promise a return**.
+3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Remain with it and acknowledge the abandonment; do not promise a return** — the watch sat to its end, the departure time entered against the one on the rota, and nothing said in the cell that could be read as an undertaking.
 
 ### Consequences
 
 - Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Clarity** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Neverlast’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
+- Exposure is cumulative in a way the reading does not show. The gauge can sit flat for a whole rotation and the worker still comes away with a fortnight of noticing every arrangement they are late for; the watch length is therefore capped by the duty office and not by the gauge, and a worker who asks to stay longer is refused in writing.
 - The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
 - Failure to achieve resolution triggers Neverlast’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
 
@@ -130,7 +130,7 @@
 - **The Sorrow:** Not the leaving. The silence afterwards, and the particular corrosion of a return that was promised in good faith by somebody who was then sent elsewhere.
 - **The Event:** One person left Old Lament without a word and sent nothing. The one who remained kept writing, for years, and the entries never once express anger.
 - **The People:** One citizen of Old Lament whose closest friend left and sent nothing afterwards. The commissioning file holds what the one who remained wrote while waiting; the archive has never recovered the friend's name and has stopped trying, since the record is of the waiting and not of the departure.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **Expanded origin context:** The commissioning file holds the waiting letters rather than the departure, and it holds them for years: entries addressed to somebody who never answered, none of which express anger, which the archivist's note records as the part that explains the entity and not the person. The silence that formed the holding has a mechanism two floors away and the file names it. The facility's **transfer return** records 4,300 movements of staff in a year at a median notice of nought days, and a transfer takes effect on issue; the gaining post and the losing post are told, and that is the whole of the notification, because there is no third party in the mechanism whose business it is to tell anybody the worker had an undertaking. What that costs is counted without names on the null-entry sheet — a column of dates and a running total, posted where the watch rota used to hang, which ran to 1,180 last year. In Year 4233 the counselling office applied for a one-line word-sending service and was refused, on grounds the file calls sound: naming the recipients workers would name builds the register of private obligations the rule exists not to build, and several of those recipients are not people. The application sits in the Year 4234 return marked *correct in principle, no action*, and the counselling office has not withdrawn it.
 
 ## Behavior
 
@@ -145,7 +145,7 @@
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Neverlast is recorded as a Subject with Subject-Lament manifestation and Lament elemental expression. The current record places it at Zone B, Old Lament — contained/ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+**The behaviour table is a reading of one quantity, and the quantity is time.** Flerehan answers the reach and holds it longer the longer a worker stays seated; Ferrehan is that same stay with nothing to do, which the file rates as the harder of the two; Viderehan opens the waiting and leaves the gauge exactly where it was, which is correct here and is not a safety signal, because a stable reading beside this holding still costs the worker a fortnight of noticing every appointment they are late for. Pugnahan is the one approach that reliably raises the spread, and the file keeps both authorisations for it with the names on them. The single sentence forbidden anywhere near the cell is any form of *I'll come back*.
 
 **Reading the response:** A falling reading means the reach was answered and the watch was sat out in full. Stability under Viderehan is correct and expected. The reading rises on absence of any kind — a cancelled watch, a short one, a promised return that the duty log shows was not made — and it rises whether or not the absence had anything to do with this cell.
 ## Breach Behavior
@@ -190,7 +190,7 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Direct and Tick are scored separately against the same resistance. The pistol has been drawn on this record twice in eleven years and discharged never; both bearers wrote afterwards that they had arrived late and had been looking for something to do with their hands.
 
-**Ability:** Lament damage to the mind. The ball carries the rust signature, and what it opens in a target is every arrangement they made that the other party never came back for.
+**Ability:** Lament damage to the mind, carried in the ball as the rust signature. What it opens in a target is every arrangement they made that the other party never came back for — the mechanism first and the memory afterwards, which is the order the two bearers described and the order the Armoury records it in.
 
 **Cost:** The wielder weeps involuntarily, most often on arriving somewhere early and waiting.
 
@@ -198,7 +198,7 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a shroud of Lament Han-silk in undyed grey, cold to the hand, that keeps the crease of whoever sat in it last and does not warm while it is worn.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -216,7 +216,7 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a circlet of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a circlet of Lament Han-crystal on a wire band, pale as old ice, that runs cooler the nearer its wearer stands to the sorrow it was taken from.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -230,18 +230,18 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Neverlast and carries what Neverlast carries: the wielder weeps involuntarily, most often on arriving somewhere early and waiting. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+Every piece in this set is a fragment of Neverlast and carries what Neverlast carries: the wielder weeps involuntarily, most often on arriving somewhere early and waiting. The three charges run the same way as the holding — the pistol spends the arrangements nobody came back for, the shroud takes the notice of being kept waiting, and the crown trades the wearer's sense of time for somebody else's pain — and on this set the wielder bears all three, the grade having described extraction stability and never the cost.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Neverlast the recorded cost is that the wielder weeps involuntarily, most often on arriving somewhere early and waiting. |
-| **During use** | Neverlast charging, which presents as this: the wielder weeps involuntarily, most often on arriving somewhere early and waiting. The wielder's own account is taken separately and afterwards. |
-| **At limit** | The wearer goes numb to minor joys, and stops noticing when they themselves are kept waiting, and the wielder has stopped reporting it — the usual end point for a Neverlast piece. The observer calls the limit. |
-| **After use** | Piece returned; re-assess a week later, because what Neverlast takes (the wearer goes numb to minor joys, and stops noticing when they themselves are kept waiting) does not present on the day. |
+| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else: what the wielder is currently late for, said aloud and written down by the second worker, because the first thing to go on this set is the notice a person takes of their own kept and unkept engagements. Baseline taken twice; a wielder who cannot give the same answer twice is not issued the piece. |
+| **During use** | The charge presents as arrival and waiting: the wielder turns up early, waits, and weeps on arrival without being able to say why. The second worker logs the hour and not the reason; the wielder's own account is taken separately and afterwards, and neither sheet is read by a supervisor. |
+| **At limit** | The wielder has gone numb to minor joys and has stopped noticing being kept waiting, and has stopped reporting it — the usual end point for a Neverlast piece, and the one the observer is watching for. The observer calls the limit and the piece comes off whether or not the wielder agrees; the call is logged as the observer's. |
+| **After use** | Piece returned and re-assessed a week later rather than on the day, because the numbness does not present at once. The baseline is re-taken, the fortnight of noticing is entered against the holding rather than the person, and a wielder whose baseline does not come back is not issued the piece again. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The rating describes what a piece does to entities and says nothing about what it does to its bearer. All three pieces in this set are β-grade and all three take something no sheet can show — the notice of one's own obligations, the warmth of a minor joy, the sense of time during somebody else's crisis — so the Armoury authorises on the cost column rather than on the grade, and issues this set one rotation at a time.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced. The level is high for a β-grade holding because eleven years of overlays make this one of the best-measured records in the wing, not because anything about it is hard to understand.
@@ -272,7 +272,7 @@ Every piece in this set is a fragment of Neverlast and carries what Neverlast ca
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Neverlast (O-IIβ-833 [LS]) is logged as a Subject-Lament manifestation expressing Lament, held in the Old Lament of Zone B. It has never moved, has never struck first, and has never intentionally breached. What spreads is the rust, and what the rust is counting is appointments the facility did not keep.
+Neverlast (O-IIβ-833 [LS]) is a Subject-Lament manifestation expressing Lament, held at Zone B in Old Lament. It has never moved, never struck first and never intentionally breached: what spreads is the rust along the floor, and what the rust is counting is the appointments the facility did not keep. Containment is attendance — the watch sat out in full, the figure addressed, and no return promised.
 
 **Entry 2 — <Duty Office Return: Watches Sat and Watches Missed, Year 4238>**
 Watches scheduled at this cell in 4238: three hundred and sixty-five. Sat in full: three hundred and nine. Cancelled, shortened, or covered by nobody: fifty-six. New corrosion traced over the year: eleven thousand four hundred square centimetres, of which nine thousand one hundred was traced in the weeks containing a missed watch. The figure did not move during any of it. The duty office requested that this entry record that the fifty-six were operational, not negligent; the entry records it, and the figure is nevertheless nine thousand one hundred square centimetres further along.
@@ -288,11 +288,11 @@ The watch rota for this cell is no longer published in advance. Attendance is dr
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Neverlast; the other feeds it.
+> Two ways to end the same watch. One is the resolution on file — sit it out, acknowledge that the friend is gone, promise nothing. The other is the sentence the figure is waiting for, and the overlay records what it costs.
 
 | Remain with it and acknowledge the abandonment; do not promise a return. | Try Pugnahan instead, which is the one response this holding has never tolerated. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is witnessed; Neverlast is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Neverlast withdraws without revelation. |
+| The watch is sat to its end, the departure time is entered against the one on the rota, and the overlay for the cycle is the smallest the series records. Nothing is promised and nothing is owed; the figure is still reaching and the reach is measured. | Pugnahan, any form of *I'll come back*, or a watch stood down: the spread leaves the traced edge, the new area is permanent by the week, and the duty office cancels the forward rota for that week before anybody else goes in. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -311,14 +311,14 @@ The figure stands as if waiting at a door that will never open. Rust flakes from
 
 ### Interaction Pattern
 
-Neverlast does not exist in isolation. Its recorded relationships with The Smothering Mother, The Forgotten Soldier, The Grieving Colossus, The Whispering Walls should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Neverlast is one of the Old Lament records, and the four relations below are the ones the archive will support. All four concern a gesture rather than an alliance. The Smothering Mother reaches and does not close; The Forgotten Soldier took post outside the cell unasked and stood eleven hours, and the spread halted for the duration; The Grieving Colossus alters the arm angle on transit and gives it back on return; The Whispering Walls repeat the name and produced the only joint session in which a reading fell. Each is entered with what it took to obtain and with the standing of the readings afterwards, because none of the four is repeatable on request and a result obtained once carries no authority under different conditions.
 
 **Interaction method:** Establish it alone first, with the facility's missed-watch figures collected alongside, since those are the variable. In shared conditions log the arm angle, the duration of the reach before the rust resumes, and whether the other record returned a second time — the Walls do, and it is the only case where the reading fell during a joint session.
 
 
 ### Entity Interaction Record
 
-It is filed with the Old Lament records, which concern people who were left. The relationships below are what the archive will support. They are not alliances; each of the four is an entity that recognises the gesture of reaching, and in proximity the figure holds the reach longer before the rust resumes.
+It is filed with the Old Lament records, which concern people who were left rather than people who left. What the four below share is not an alliance but a recognition of the gesture: each of them does something the figure reads as an answer, and in proximity the reach is held longer before the rust resumes. The file enters each with its duration, its overlay, and the gauge readings on both sides, and it keeps the nulls as carefully as the results — on this cell the readings mostly do not move, and a pairing that produced nothing is still the finding.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -374,9 +374,9 @@ Some sorrows mourn a departure. Neverlast mourns the silence after — the frien
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a containment built on attendance, and nearly every number in it is a measurement of absence. Year 4238: 365 watches scheduled, 309 sat in full, 56 missed; 11,400 square centimetres of new corrosion traced cycle by cycle, of which 9,100 fell in the weeks containing a missed watch; four spreads in eleven years, each beginning with a watch stood down; one arm angle altered four times in eleven years, each time during an unstaffed watch. Read the overlay as the holding's own return of the undertakings the facility could not keep — the transfer return moves 4,300 staff a year at a median notice of nought days, and the null-entry board counts the cost without names, at 1,180 last year. The response procedure is one sentence long and has not changed: somebody sits down. Where the overlay contradicts this section, the overlay is right, and the contradiction is preserved as evidence rather than normalised.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any spread, breach, Sorrow Tide or joint session, re-take the measurements before the next work cycle: the traced area in square centimetres against last cycle, rust depth at the left shoulder, the arm angle to the centimetre, arrival and departure times against what was said, and whether anything said resembled an undertaking. Confirm that the forward rota holds nothing, that the null-entry sheet is current, and that no worker who once stated a time has been returned to the post without the reason being entered — all three are load-bearing on this cell and all three have failed at least once. The two cleanings on record are cited here as the reason the figure is never cleaned. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
 ### Rust That Never Finishes
@@ -439,9 +439,9 @@ The duty office has twice asked to be relieved of publishing its own missed-appo
 ### Registry Trivia
 
 - **Classification detail:** Neverlast is a Subject with Echo (II) — Repeats waiting for acknowledgment coherence and Moderate (β) — Manageable potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone B, Old Lament — contained/ambient.
+- **Field detail:** Element Lament, registered to Zone B at Old Lament, contained and ambient. The cell holds the figure and the figure has never moved, so every variance the file keeps belongs to the overlay and to the arm: the spread is traced onto the cycle sheet in square centimetres, the arm angle is recorded to the centimetre, and both are re-measured from the chair rather than the doorway.
 - **Recognition detail:** Identify it by stillness and by the overlay. Several corroded figures are catalogued in Old Lament; this is the one that does not move at all, is made of dark tear-crystal under the rust, and has a traced spread that grows every cycle without ever consuming anything.
-- **Record detail:** Check the designation before approach. The archive holds more than one record of an unexplained departure, and they differ on which half they are about — The Lost Prince is about people leaving without saying so, and this one is about people not coming back. Containment for the first is an announcement; for this one it is attendance, and the two orders contradict each other if confused.
+- **Record detail:** Check the designation before approach, because the archive holds two records of an unexplained departure and they are halves of different questions — The Lost Prince is about people leaving without saying so, and this one is about people not coming back. The containment for the first is an announcement and for this one it is attendance, and the two orders contradict each other the moment they are confused. The file also notes, for completeness, that the district's version of the story has a lover in it and the commissioning file says friend.
 - **Containment detail:** The cell holds the figure and nothing else about it. The spread crosses the wall, the effect reaches the corridor, and the only instrument that has ever stopped either is somebody sitting down in the chair.
 ## Document Information
 
