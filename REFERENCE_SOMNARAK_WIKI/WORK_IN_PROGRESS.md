@@ -1725,7 +1725,7 @@ recorded `R-29` 143 / 301 while the measured figure at that moment was **142 / 3
 neighbour regression, Echo of Kindness's M.A.W. section crossing 0.05 on shared appearance shells, re-authored in
 place at `c114acf` and disclosed in both files, after which 143 stood; and the diagnostic formulations written
 during this batch were deliberately varied so that no re-authored line could join a shared-line family. The seven
-units and their SE links are listed above. **The next cohort is the ten** (`R-26`; the ladder is 3 or 5, then 7,
+units and their SE links are listed above, and PR #13's batch-24 section carries the same seven links, read back from the API at 95,772 bytes. **The next cohort is the ten** (`R-26`; the ladder is 3 or 5, then 7,
 then 10).
 
 **Batch 24, unit 7: The Kind Healer `C-Iα-071` closed.** Measured at `95cbd3e`: **7 dirty sections**, worst Final
