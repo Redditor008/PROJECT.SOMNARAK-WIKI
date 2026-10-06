@@ -63,6 +63,27 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 26 opens at five / unit 1 — Soaking Shard `C-IVδ-219` closed (2026-10-06)** — measured at `825b166`:
+  **7 dirty sections**, worst Story Log 0.329 (Entry 5's stock tale, Entry 4, and Entry 1's `is logged as `),
+  then M.A.W. Equipment 0.170 (three film appearances, two costs, the blade ability, the pendant effect, the
+  4-per-cent note, the set note, the four field-use rows and the stat interpretation), Final Observation 0.161,
+  Combat Record 0.106 (the 11-dossier stock Resolution line — the file's residue — both combat actions, the
+  resistance row, the Tension line and the Clarity bullet), Operational Parameters 0.073 (the yield and residue
+  bullets), Flavor Text 0.062 (the choice block, the two interaction preambles, the method, the header row, the
+  procedure and the four contact lines) and Trivia 0.054. All seven closed in two waves (22 + 20 sites; the first
+  aborted twice on mis-counted asserts — guards 21 and 22, both safe redos); 7,110 → **8,112 words**; `tpl.py`
+  residue 1 → **0** (the stock Resolution line re-authored on the vessel's own close; the archive-wide holder count
+  on that line falls 11 → 10, so it remains a residue line at exactly the threshold); `verify.py` residual 1 → **0**;
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. **Two clauses closed from False**:
+  the suppression condition — previously the placeholder row (`enforce valid work types …`), which the standard
+  skips — is now the holding's own: *let the grief stay in the vessel: read the layers in place, and take nothing
+  out*, entered in the Management row and echoed in the resolution and the choice; and `own_series` closed by
+  restating the file's own figures — gauge 650/650, pressure 30–66, 24 turns, timings 10 / 30 / 60 / 120, the
+  4-per-cent pendant line and 2 pieces per issue — **restated from the file, disclosed**. Movement at the unit
+  commit: `R-29` 154 / 301 (series **247**); section-clean 178 / 301; residue-free 292 / 302; residue
+  lines 1, instances 10, carriers 10 / 302; archive dirty 501; file-clean 291 / 302. **Batch 26
+  stands at one of five.**
+
 - **Batch 25 closed at ten (2026-10-06)** — the ladder's top rung, run end to end. Which hunts opened: Harvest
   Beyond the Gate `N-IIβ-627`, Floating Tree `N-IIIγ-585`, The Lonely Giant `C-IIIγ-105`, The Inheritor `C-IIIγ-062`,
   The Grieving Maiden `C-IVβ-041`, Spire of Unanswered Prayer `O-IIβ-796`, Forgotten Silence `N-IVδ-489`, Sunken
