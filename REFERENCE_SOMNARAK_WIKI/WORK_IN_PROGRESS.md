@@ -1709,8 +1709,9 @@ in four of them on each file's own counted record, restated and disclosed. Archi
 `R-29` 133 → **138 / 301** (parity 274 · specific condition 256 · own numeric series 233 → **238** · disposition
 301 · section-clean 157 → **162**); residue-free 233 → **240 / 302**; archive dirty sections 705 → **648**;
 file-clean 258 → **266 / 302**; worst whole-file fraction 0.106 → **0.078**; median 0.012 → **0.011**. The five
-units and their SE links are listed above. **The cohort after this one opens at seven** (`R-26`; the ladder is 3 or
-5, then 7, then 10).
+units and their SE links are listed above; PR #13's batch-23 section carries the same five links, read back from
+the API at 86,724 bytes. **The cohort after this one opens at seven** (`R-26`; the ladder is 3 or 5, then 7, then
+10).
 
 **Batch 23, unit 5: Face Beneath Masks `N-IIβ-689` closed.** Measured at `5199f64`: **8 dirty sections**, worst
 Registrum 0.192, then Final Observation 0.143, Breach Behavior 0.085, Combat Record 0.073, M.A.W. Equipment 0.072
