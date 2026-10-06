@@ -63,6 +63,26 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 25 / unit 9 — Willing Chains `C-IVδ-976` closed (2026-10-06)** — measured at `6486e96`: **7 dirty
+  sections**, worst M.A.W. Equipment 0.298 (three Void Han-glass appearances, both costs, the effect line, the four
+  field-use rows and the 10-dossier stat-interpretation line — the file's residue), then Final Observation 0.148,
+  Story Log 0.109 (Entry 5's stock tale), Combat Record 0.106 (the resistance row, the debuff, both attacks, the
+  Resolution and the Composure bullet), Flavor Text 0.097 (the isolation line, the header row and the procedure),
+  Operational Parameters 0.061 (the yield and extraction bullets) and Trivia 0.053 (classification and field rows).
+  All seven closed in two waves (20 + 11 sites, plus a 4-site finish); 6,550 → **7,370 words**; `tpl.py` residue
+  1 → **0** (the stat-interpretation line re-authored on the set's own terms); `verify.py` residual 1 → **0** (Story
+  Log Entry 1's `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The
+  `own_series` clause closed from **False** to **True** by restating the file's own figures in the Registrum
+  numerals — 2.45 m/s, 855/855, activation at 90, dust yield about 1–10 tons, +1 from the third piece —
+  **restated from the file, disclosed**; condition and disposition were already satisfied and left alone (`R-05`).
+  The stock pieces went onto the slack: the condition (do not cut blindly; identify what each chain represents)
+  into the resolution and the choice block, the Director's memo and the open links into the entry lines, and the
+  M.A.W. rows onto the set's charge — a bearer who thins against their own account. The resistance row's first
+  draft dropped its trailing pipe; it was repaired before the commit and the row now ends properly, with the
+  section re-measured after the repair. Movement at the unit commit: `R-29` 153 / 301 (series **246**);
+  section-clean 177 / 301; residue-free 282 / 302; residue lines 2, instances 21, carriers 20 /
+  302; archive dirty 513; file-clean 291 / 302. **Batch 25 stands at nine of ten.**
+
 - **Batch 25 / unit 8 — Sunken Pillar `C-IIIγ-649` closed (2026-10-06)** — measured at `0aea7c0`: **7 dirty
   sections**, worst M.A.W. Equipment 0.303 (three Void Han-glass appearances, the second cost, the effect line, the
   Charm conferral note, the set note and the four field-use rows), then Story Log 0.216 (Entry 5's stock tale),

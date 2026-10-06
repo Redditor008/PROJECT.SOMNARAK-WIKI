@@ -1685,6 +1685,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 
 **Batch 23 — OPEN, five targeted; finished dossiers, each with its SE git link and closing commit** ([`R-12`](RULES/R-12_REFER_TO_GITHUB.md); links generated with `tools/ghlink.py`):
 
+- SE-C-IVδ-976 Willing Chains 스며든 사슬 — `__HASH__` — PUSH VERIFIED — [[SE-C-IVδ-976_Willing_Chains_스며든_사슬]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-976_Willing_Chains_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%82%AC%EC%8A%AC.md "SE-C-IVδ-976_Willing_Chains_스며든_사슬.md")
 - SE-C-IIIγ-649 Sunken Pillar 가라앉은 기둥 — `1e1f01c` — PUSH VERIFIED — [[SE-C-IIIγ-649_Sunken_Pillar_가라앉은_기둥]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-649_Sunken_Pillar_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%EA%B8%B0%EB%91%A5.md "SE-C-IIIγ-649_Sunken_Pillar_가라앉은_기둥.md")
 - SE-N-IVδ-489 Forgotten Silence 잊혀진 침묵 — `8a27424` — PUSH VERIFIED — [[SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-489_Forgotten_Silence_%EC%9E%8A%ED%9E%88%EC%A7%84_%EC%B9%A8%EB%AC%B5.md "SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵.md")
 - SE-O-IIβ-796 Spire of Unanswered Prayer 솟구친 탑 — `10e5388` — PUSH VERIFIED — [[SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-796_Spire_of_Unanswered_Prayer_%EC%86%9F%EA%B5%AC%EC%B9%9C_%ED%83%91.md "SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑.md")
@@ -1713,6 +1714,17 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-C-IVδ-125 Dejà Vu 돌아온 열매 — `1e7f61e` — PUSH VERIFIED — [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
+
+**Batch 25, unit 9: Willing Chains `C-IVδ-976` closed.** Measured at `6486e96`: **7 dirty sections**, worst M.A.W.
+Equipment 0.298 (the 10-dossier stat-interpretation line — the file's residue — plus the appearances, both costs,
+the effect line and the four field-use rows), then Final Observation 0.148, Story Log 0.109 (Entry 5's stock tale),
+Combat Record 0.106, Flavor Text 0.097, Operational Parameters 0.061 and Trivia 0.053 — all seven closed in two
+waves (20 + 11 sites plus a 4-site finish); 6,550 → **7,370 words**; `tpl.py` residue 1 → **0**; `verify.py`
+residual 1 → **0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause
+closed from **False** to **True** by restating the file's own figures — 2.45 m/s, 855/855, activation at 90, dust
+about 1–10 tons, +1 — restated from the file and disclosed; condition and disposition already satisfied and left
+alone (`R-05`). Movement: `R-29` 153 / 301 (series **246**); section-clean 177 / 301; residue-free 282
+/ 302; archive dirty 513; file-clean 291 / 302. **Batch 25 stands at nine of ten.**
 
 **Batch 25, unit 8: Sunken Pillar `C-IIIγ-649` closed.** Measured at `0aea7c0`: **7 dirty sections**, worst M.A.W.
 Equipment 0.303, then Story Log 0.216 (Entry 5's stock tale), Final Observation 0.150, Flavor Text 0.091, Combat
