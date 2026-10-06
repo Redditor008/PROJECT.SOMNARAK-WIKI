@@ -2160,7 +2160,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 32 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IIβ-716 Double Mouth 찢어진 속삭임 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIβ-716_Double_Mouth_찢어진_속삭임]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-716_Double_Mouth_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-C-IIβ-716_Double_Mouth_찢어진_속삭임.md")
+- SE-C-IIβ-716 Double Mouth 찢어진 속삭임 — `0373e98` — PUSH VERIFIED — [[SE-C-IIβ-716_Double_Mouth_찢어진_속삭임]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-716_Double_Mouth_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-C-IIβ-716_Double_Mouth_찢어진_속삭임.md")
 **Batch 31 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IIIγ-081 The Hollow Saint 빈 성자 — `747990a` — PUSH VERIFIED — [[SE-C-IIIγ-081_The_Hollow_Saint_빈_성자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-081_The_Hollow_Saint_%EB%B9%88_%EC%84%B1%EC%9E%90.md "SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md")
