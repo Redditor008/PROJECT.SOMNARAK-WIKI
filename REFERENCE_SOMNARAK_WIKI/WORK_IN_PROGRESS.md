@@ -1732,7 +1732,7 @@ series the archive holds on any entity; the 9 identified voices of 4238; and the
 years has followed a rostered act — restated from the file and disclosed; the condition and disposition clauses
 were already satisfied and left alone (`R-05`). Movement: `R-29` 142 / 301 (series **242**);
 section-clean 166 / 301; residue-free 243 / 302; archive dirty 613; file-clean 272 / 302.
-**Batch 24 stands at four of seven.**
+**Batch 24 stands at four of seven.** **Repair, disclosed:** the u4 close left Echo of Kindness's M.A.W. section at 0.050 on the 302-corpus build — the appearance and set-note shells it kept were at the shared-line threshold, so 3 of its lines were re-authored in place (batch 24 repair commit); the section is clean again and the unit's counters stand.
 
 **Batch 24, unit 3: Mourner's Bloom `C-Iα-330` closed.** Measured at `d8b3222`: **7 dirty sections**, worst Behavior
 0.268 (the 37-dossier behavior-table line), then Registrum 0.223 (the 20-dossier operational interpretation and

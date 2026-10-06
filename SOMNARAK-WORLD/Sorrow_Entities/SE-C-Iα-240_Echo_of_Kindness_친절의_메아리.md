@@ -203,7 +203,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin. It is cut from the same exchange the holding is — something given freely, and nothing done to order — and the scent is filed with the piece rather than described.
+**Appearance:** a shroud woven from Lament Han-silk, cool to the hand and faintly luminous, whose scent belongs to the exchange rather than to any place. It is cut from the same thing the holding is — something given freely, and nothing done to order — and the scent is filed with the piece rather than described.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -235,7 +235,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of the same exchange — kindness given and not ordered — and all 3 carry one cost: the wielder feels the holding's unwept grief, and prolonged use brings weeping the wielder cannot place. Grade describes extraction stability and says nothing about that; the cost sits in the column beside it, and it is the reason the set is issued one rotation at a time.
+All 3 pieces come out of the same exchange — kindness given and not ordered — and each carries the holding's own charge: the wielder takes on its unwept grief, and prolonged use brings weeping the wielder cannot place. Grade describes extraction stability and says nothing about that; the cost sits in the column beside it, and it is the reason the set is issued one rotation at a time.
 
 ### Field Use Record
 
@@ -244,7 +244,7 @@ Every piece in this set is a fragment of the same exchange — kindness given an
 | **Before use** | Wielder, piece, and a dated baseline put by a colleague rather than by the wielder: what pleased you last, and when. The toll on this set — the holding's unwept grief arriving on the wearer — does not announce itself, and the baseline question is the only instrument the Armoury trusts. |
 | **During use** | Watch for the toll rather than for the weeping: the hour it is first seen is logged by the second worker and never by the wielder, and the question the record asks is not whether the wearer is weeping but whether anything on this rotation was done to order — the set has one rotation for a reason. |
 | **At limit** | The wearer goes numb to minor joys, without remission, and the file's test is the baseline question: a bearer who can no longer say what last pleased them has reached the limit. On an Echo of Kindness piece the use ends there whatever the wielder says. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether the cost is still showing — the numbness, and whether the baseline question can be answered at all. The answer is filed with the piece, and where it cannot be answered the piece is not issued to that wielder again. |
+| **After use** | Take the piece back and put the question to a colleague rather than to the wielder: whether the cost is still showing — the numbness, and whether the baseline question can be answered at all. The answer is filed with the piece, and where it cannot be answered the piece is not issued to that wielder again. |
 
 **Stat interpretation:** The grade tells you how hard a piece hits and nothing about what it takes, and on this set the two are not related in any direction: the cost sits in the column beside it and is frequently the more dangerous of the two. Read both columns and authorise on the second; a low-rated piece carrying a severe psychological cost is the ordinary case here, not the exception.
 
