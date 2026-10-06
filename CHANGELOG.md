@@ -8,6 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 31 / unit 3 — Harbinger `N-IIIβ-155` closed (2026-10-07)** — measured at `478585b`: **5 dirty sections**,
+  worst Final Observation 0.189 (the choice blockquote and the condition row), then M.A.W. Equipment 0.086 (three
+  appearance rows, the effect line, the stat interpretation and four field-use rows, two of which had ledger text spliced
+  through them mid-sentence), Combat Record 0.081 (the resistance row, two action rows, the tension phase — which
+  carried an `identifies Harbinger by in the fixed mirrors` splice — the clash phase and the resolution), Trivia 0.066
+  (the field-detail bullet, whose correction note repeated the archive-shared `Operational Parameters line gave the
+  M.A.W. grade as a pair of em dashes against three graded β pieces` phrasing) and Flavor Text 0.065 (the relations
+  preamble and the table header). **Closed in two passes** (24 + 3 sites); 6,716 → **6,988 words**; `tpl.py` residue 0
+  throughout; `verify.py` residual **1 → 0** (Story Log Entry 1's `is logged as ` line, fixed in the second pass);
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, with the condition re-registered inside
+  the rewritten resolution line in the file's own words (`review and acknowledge the debt; force cannot remove the
+  Shadow`) and held **True**. Disclosed: the second pass was needed because the first kept the shared correction phrasing
+  verbatim in the Trivia field detail; the field-use rows' ledger splices and the tension-phase splice were rebuilt
+  whole-line, and the Year-4237 figures (3,114 · 2,402 · forty-one · Seventy-seven · twenty-nine · Eleven · three) were
+  restated in the Warden Record rewrite with every figure preserved. Movement at the unit commit: `R-29` 188 / 301;
+  section-clean 213 / 301; residue-free 302 / 302; residue lines 0; archive dirty 239; file-clean 302 /
+  302. **Batch 31 stands at three of five.**
+
+
+
 - **Batch 31 / unit 2 — Life Behind Glass `N-Iα-518` closed (2026-10-07)** — measured at `5625502`: **5 dirty
   sections**, worst Story Log 0.192 (Entry 1's residual line and the shared Keeper origin fragment), then Behavior 0.159
   (the operational work notes paragraph, which carried the stock caution in a file where a flat gauge is the ordinary
