@@ -63,6 +63,35 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 23 / unit 2 — Corrosion Dream `O-IIIγ-915` closed (2026-10-06)** — measured at `b248450`: **8 dirty
+  sections**, worst Behavior 0.287 (the 37-dossier *The behavior table is a snapshot, not a system* line), then
+  Registrum 0.243 (the 21-dossier operational-interpretation and 20-dossier review-requirement lines), M.A.W.
+  Equipment 0.179 (the 21-shared use-notes line, the 8-dossier spanning-plate and 5-dossier charm appearance lines,
+  the field-use block and the shared stat-interpretation line), Flavor Text 0.158 (the 32-dossier isolation line,
+  three shared interaction shell rows and the 17-dossier procedure line), Final Observation 0.136, Observation Log
+  0.127, Trivia 0.117 and Combat Record 0.073 (the shared span-and-water action rows and phase lines). All eight
+  closed in two waves (19 + 16 sites); 5,757 → **7,212 words**; `tpl.py` residue 0 throughout; `verify.py` residual
+  1 → **0** (Story Log Entry 1's stock `is logged as `); `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** on the file's own counted
+  record — nine crossing and span repairs proposed in the Forge District in 4238, two completed, one abandoned
+  part-built, six funded then cancelled and refunded; a water fraction of a quarter in the first third of the year
+  and three quarters by the end, each rise inside the fortnight of a refund; the facility's one-repair-a-year rule
+  with three of the last five attempts failed and the fraction not above a half in any year since — **restated from
+  the file rather than invented for the clause**, disclosed, and carried inside rows rebuilt for their own sake.
+  Condition and disposition were already satisfied and left alone (`R-05`). Stock pieces were replaced with the
+  holding's own material: the behaviour notes rebuilt around the water fraction as the single instrument, the three
+  interaction rows re-authored from what the file keeps (the Sunken Bridge rising in both figures with nothing
+  transferred, the Dream Weaver's complete dream span on the same night as a rising waking fraction, the Broken
+  Promise costing two of four people a recollection and no structure at all), the M.A.W. costs onto the set's own
+  three tolls in the order they fall (the names of places meant to be visited and never visited, the weight of
+  everybody who cannot follow, a word here and there), and the resistance row replaced with the file's own reading —
+  nothing is rated against the corrosion of the works, which takes the figures off the drawings before the paper
+  goes. Movement: `R-29` 134 → **135 / 301** (own numeric series 234 → **235**); section-clean 158 → **159 / 301**;
+  residue-free 237 / 302 (lines 7, instances 85, carriers 65 — steady); file-clean 260 → **262 / 302**; archive
+  dirty sections 693 → **681**; worst whole-file fraction 0.087 → **0.079**; median 0.012 steady. Four neighbours
+  shed a section (The Debt Scale 6 → 5, Sunken Pillar 8 → 7, The Happy Mask 4 → 3, Welcome Haven 7 → 6). **Batch 23
+  stands at two of five.**
+
 - **Batch 23 / unit 1 — Absent Landmark `C-Iα-863` closed (2026-10-06)** — measured at `007e10f`: **8 dirty
   sections**, the archive's worst file at a whole-file fraction of 0.106, worst Behavior 0.301 (the 41-dossier
   *A stable gauge does not mean a safe encounter* line), then M.A.W. Equipment 0.225 (the 33-dossier
