@@ -1685,6 +1685,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 
 **Batch 23 — OPEN, five targeted; finished dossiers, each with its SE git link and closing commit** ([`R-12`](RULES/R-12_REFER_TO_GITHUB.md); links generated with `tools/ghlink.py`):
 
+- SE-C-IIIγ-649 Sunken Pillar 가라앉은 기둥 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIIγ-649_Sunken_Pillar_가라앉은_기둥]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-649_Sunken_Pillar_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%EA%B8%B0%EB%91%A5.md "SE-C-IIIγ-649_Sunken_Pillar_가라앉은_기둥.md")
 - SE-N-IVδ-489 Forgotten Silence 잊혀진 침묵 — `8a27424` — PUSH VERIFIED — [[SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-489_Forgotten_Silence_%EC%9E%8A%ED%9E%88%EC%A7%84_%EC%B9%A8%EB%AC%B5.md "SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵.md")
 - SE-O-IIβ-796 Spire of Unanswered Prayer 솟구친 탑 — `10e5388` — PUSH VERIFIED — [[SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-796_Spire_of_Unanswered_Prayer_%EC%86%9F%EA%B5%AC%EC%B9%9C_%ED%83%91.md "SE-O-IIβ-796_Spire_of_Unanswered_Prayer_솟구친_탑.md")
 - SE-C-IVβ-041 The Grieving Maiden 슬픔의 처녀 — `74665f9` — PUSH VERIFIED — [[SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-041_The_Grieving_Maiden_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%B2%98%EB%85%80.md "SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md")
@@ -1712,6 +1713,16 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-C-IVδ-125 Dejà Vu 돌아온 열매 — `1e7f61e` — PUSH VERIFIED — [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
+
+**Batch 25, unit 8: Sunken Pillar `C-IIIγ-649` closed.** Measured at `0aea7c0`: **7 dirty sections**, worst M.A.W.
+Equipment 0.303, then Story Log 0.216 (Entry 5's stock tale), Final Observation 0.150, Flavor Text 0.091, Combat
+Record 0.086, Registrum 0.075 and Trivia 0.051 — all seven closed in two waves (20 + 12 sites); 6,685 → **7,460
+words**; `tpl.py` residue 0 throughout; `verify.py` residual 1 → **0**; `sectfile.py` **0 section(s) over 0.05**;
+`wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** by restating the file's own
+counted record in the Registrum — 94 households, 0 descendants, 1 Void mark per debuff, the Charm conferred 2
+times — restated from the file and disclosed; condition and disposition already satisfied and left alone (`R-05`).
+Movement: `R-29` 152 / 301 (series **245**); section-clean 176 / 301; residue-free 273 / 302; archive
+dirty 520; file-clean 289 / 302. **Batch 25 stands at eight of ten.**
 
 **Batch 25, unit 7: Forgotten Silence `N-IVδ-489` closed.** Measured at `cae8730`: **7 dirty sections**, worst
 Behavior 0.367, then Origin 0.343 (Entry 1's stock tale), Final Observation 0.169, M.A.W. Equipment 0.097 (the

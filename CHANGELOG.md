@@ -63,6 +63,25 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 25 / unit 8 — Sunken Pillar `C-IIIγ-649` closed (2026-10-06)** — measured at `0aea7c0`: **7 dirty
+  sections**, worst M.A.W. Equipment 0.303 (three Void Han-glass appearances, the second cost, the effect line, the
+  Charm conferral note, the set note and the four field-use rows), then Story Log 0.216 (Entry 5's stock tale),
+  Final Observation 0.150 (the choice blockquote and the condition row), Flavor Text 0.091 (the two interaction
+  preambles, the method, the header row and the procedure), Combat Record 0.086 (the resistance row, both debuffs,
+  both attacks, the Tension and Resolution lines), Registrum 0.075 (the operational interpretation) and Trivia 0.051
+  (the field row). All seven closed in two waves (20 + 12 sites); 6,685 → **7,460 words**; `tpl.py` residue 0
+  throughout; `verify.py` residual 1 → **0** (Story Log Entry 1's `is logged as `); `sectfile.py` ends at **0
+  section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** by
+  restating the file's own counted record in the Registrum — 94 subscribing households and 0 descendants against
+  the list, 1 Void mark per debuff, the Missing Charm conferred 2 times — **restated from the file, disclosed**;
+  condition and disposition were already satisfied and left alone (`R-05`). The stock pieces went onto the
+  subsidence: the condition (distinguish possibility from memory; do not excavate) into the resolution and the
+  choice block, the travelling exclusion and the blank carving into the entry lines, and the M.A.W. rows onto the
+  set's charge — a week with pieces missing, and a bearer who cannot name them. Movement at the unit commit:
+  `R-29` 152 / 301 (series **245**); section-clean 176 / 301; residue-free 273 / 302; residue lines
+  3, instances 31, carriers 29 / 302; archive dirty 520; file-clean 289 / 302. **Batch 25 stands
+  at eight of ten.**
+
 - **Batch 25 / unit 7 — Forgotten Silence `N-IVδ-489` closed (2026-10-06)** — measured at `cae8730`: **7 dirty
   sections**, worst Behavior 0.367, then Origin 0.343 (Entry 1's stock tale), Final Observation 0.169 (the choice
   blockquote, the condition row and both result rows), M.A.W. Equipment 0.097 (the 10-dossier Lament resistance
