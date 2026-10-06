@@ -2004,7 +2004,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 29 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-O-Iα-126 Anonym 녹아내린 조각 — `__HASH__` — PUSH VERIFIED — [[SE-O-Iα-126_Anonym_녹아내린_조각]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-126_Anonym_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%A1%B0%EA%B0%81.md "SE-O-Iα-126_Anonym_녹아내린_조각.md")
+- SE-O-Iα-126 Anonym 녹아내린 조각 — `bd9d08e` — PUSH VERIFIED — [[SE-O-Iα-126_Anonym_녹아내린_조각]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-126_Anonym_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%A1%B0%EA%B0%81.md "SE-O-Iα-126_Anonym_녹아내린_조각.md")
 
 - SE-C-IIβ-357 Carrying Nothing 사라진 무게 — `05ec95b` — PUSH VERIFIED — [[SE-C-IIβ-357_Carrying_Nothing_사라진_무게]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-357_Carrying_Nothing_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%AC%B4%EA%B2%8C.md "SE-C-IIβ-357_Carrying_Nothing_사라진_무게.md")
 
