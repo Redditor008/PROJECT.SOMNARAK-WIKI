@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Void pressure; 15% against other pressure types |
+| **Resistance** | 25% against Void pressure; 15% against everything else. Nothing is rated against the spinning itself, which is not an attack: the instrument is read from a cradle at a distance, and the 25 describes the pressure that comes off a compass nobody is holding. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 369/369 |
 | **Han Pressure [ATK]** | 9–23 per hit · Void |
@@ -79,17 +79,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Spinning Needle* [**Debuff**] } | "The compass needle spins wildly — and watching it, your sense of direction comes apart." | [The Compass deranges orientation; the target cannot find north.] | *Target suffers a Void mark; they are lost in their own space.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target holds the Compass. |
-| { *The Wrong Way* [**Debuff**] } | "It points — but at nothing, at the void between directions — and following it leads nowhere." | [The Compass points toward absence; the target drifts.] | *Target loses clarity; every direction is the wrong one.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target follows the needle. |
+| { *The Spinning Needle* [**Debuff**] } | "The compass needle spins wildly — and watching it, your sense of direction comes apart." | [Handled directly, the needle deranges the handler: the instrument cannot find north and will not let go of the question.] | *Target suffers a Void mark; they are lost in their own space.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target holds the Compass. |
+| { *The Wrong Way* [**Debuff**] } | "It points — but at nothing, at the void between directions — and following it leads nowhere." | [The needle settles toward an absence — a concentration of grief, or a threshold the Wandering Door has vacated — and the holder follows it.] | *Target loses clarity; every direction is the wrong one.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target follows the needle. |
 | { *The Needle-Strike* [**Attack**] } | "The needle snaps free — spinning, sharp, and aimed at you." | [A detached compass-needle launches at the target.] | *Inflicts Void damage; the strike of being directionless.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Compass is struck. |
-| { *The Full Disorientation* [**Attack**] } | "Every direction becomes the wrong one simultaneously — and the wrongness is a void." | [The Compass releases its complete directional chaos.] | *A heavy Void wave; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Compass is shattered. |
-| { *No One Knows Where They Are* [**Ultimate**] } | "Every compass in the field breaks — and without direction, everyone is simply lost." | [The Compass extends its directional collapse.] | *All in range suffer Void erosion for three turns of being lost.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Disorientation* [**Attack**] } | "Every direction becomes the wrong one simultaneously — and the wrongness is a void." | [The instrument's whole reading is spent at once, and every bearing taken inside the radius fails together.] | *A heavy Void wave; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Compass is shattered. |
+| { *No One Knows Where They Are* [**Ultimate**] } | "Every compass in the field breaks — and without direction, everyone is simply lost." | [The directional collapse spreads past the discard radius, and every bearing station re-sited outside it fails with it.] | *All in range suffer Void erosion for three turns of being lost.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (a tarnished brass case, cracked and warm at the crack while the metal around it is bloodless-cold, with a needle that has not settled in centuries and a face bearing no markings at all) and Broken Compass is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** The marker is checked against the file: a tarnished brass case cracked and warm at the crack while the metal around it is bloodless-cold, a needle that has not settled in centuries, and a face bearing no markings at all. Broken Compass is confirmed against the designation, the cradle is verified before the timer starts, and the handler's certainty is recorded before anything else is done.
 2. **Clash:** Nobody holds it. Viderehan is a timed revolution count from the cradle; Ferrehan is sitting with a spinning instrument for the interval and not picking it up. Holding the compass alters the figure, which is the first paragraph of the method and the reason for the cradle.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **cradle mounting — the only close a Broken Compass cycle has**. The condition is met when the instrument is back in its cradle, the revolutions and slowings are entered unplotted, the discard radius has been widened where the evidence called for it, and the discharge trigger has not been approached; a bearing corrected rather than discarded is the one event the file treats as a failed close.
 
 ### Consequences
 
@@ -145,9 +145,9 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Broken Compass is recorded as an Object/Place with Object-Void manifestation and Void elemental expression. The current record places it at SECTOR-D-01, Forge District; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Diagnostic use only: the table tells you which approach calms this instrument and which provokes it, and the point of reading it here is that the compass does not behave as its name suggests — it cannot find north, it slows toward concentrations of grief, and its reading is affected by whether the handler is certain. Broken Compass is an Object/Place with an Object-Void manifestation and Void elemental expression, held at SECTOR-D-01 in the Forge District, cradled and never handled, and the table is entered beside the year's counts: mean spin 57 revolutions a minute for 4238, after 46 and then 38. Nothing in the table transfers to another holding with a compass in its name, and a stable gauge is not a safe encounter: observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter; this is stabilization, not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing, indicating that the procedure has provoked or fed the entity’s originating sorrow. Unusual responses precede events. Log them, flag them, and adjust protocols accordingly before the next assignment.
+**Reading the response:** The gauge is a response and not a verdict. A fall confirms the approach is doing what the table says it does; it does not make the instrument safe, only quieter, and on a needle that has never settled quieter is not the same as still. A rise means the compass is taking something in rather than letting it out, and the file's caution is that unusual readings precede events: log them, flag them, and adjust the protocol before the next assignment.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -221,15 +221,15 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Broken Compass's void signature in the strike.
+**Ability:** Deals Void damage against the Soul — identity, memory and sense of self — and channels the instrument's signature in the strike: the target is left certain of a direction that does not exist.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses small, nameless memories with each use, and the loss is entered against the piece rather than the person. On an instrument whose whole reading is direction, the bearers' note is that what goes first is the way home.
 
 ### M.A.W. Suit — The Lost Veil
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that carries a faint scent of its origin.
+**Appearance:** a flowing Void Han-gossamer veil, near-translucent and almost colourless, that carries a faint scent of its origin and is worn over the face and not the eyes — so the wearer can still read the tally the file requires.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -239,15 +239,15 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Broken Compass's kind of pressure.
+**Ability:** Grants resistance to Void damage and protects the Soul — identity, memory and sense of self — worn against this holding's particular pressure: the compass does not attack a direction, it removes the confidence that any direction is right.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer feels faintly absent to themselves, and the wearer is the last person to notice; the second worker's call stands against the wielder's.
 
 ### M.A.W. Stigma — The Lost Compass
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a compass-charm of Void Han-glass, near-translucent and almost colourless, carrying a faint weight that does not match its size.
+**Appearance:** a compass-charm of Void Han-glass, near-translucent and almost colourless, weighted like a case and with no needle in it at all: the set's one piece cut to the instrument's own shape, and the one that answers nothing when a bearer checks it out of habit.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -261,18 +261,18 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 ### M.A.W. Use Notes
 
-A piece cut from Broken Compass is not ordinary equipment: it works by being a part of the thing it is used near. The toll is the one already recorded here, the wielder loses small, nameless memories with each use, and it is paid whether the use was correct or not.
+Nothing in this set is ordinary equipment: each piece works by being a part of the thing it is used near, which on this compass means being a little lost. The toll is the one already on the record — small, nameless memories go with each use — and it is paid whether the use was correct or not.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Broken Compass's toll being that the wielder loses small, nameless memories with each use. |
-| **During use** | Broken Compass charging, which presents as this: the wielder loses small, nameless memories with each use. The wielder's own account is taken separately and afterwards. |
-| **At limit** | Broken Compass's cost is continuous rather than occasional: the wearer feels faintly absent to themselves. The second worker's call stands against the wielder's. |
-| **After use** | Return, reconcile the baseline, and record whether Broken Compass's toll has reversed: the wearer feels faintly absent to themselves. Where it has not, the piece is not reissued to that wielder. |
+| **Before use** | Wielder, piece, the gauge at issue, and one pre-check put by the second worker: name a thing you would miss if you could not recall it. The toll on this set — small, nameless memories going with each use — does not present on the day, and the piece is opened at the end of the rotation rather than at the start. |
+| **During use** | The charge presents as the wielder beginning to check the piece for a direction it cannot give — the habit the charm is shaped to invite. The second worker logs the hour it is first seen and does not interrupt the count to mention it. |
+| **At limit** | The cost on this piece is continuous rather than occasional: the wearer feels faintly absent to themselves, and the second worker's call stands against the wielder's, whatever the count says. |
+| **After use** | Return, reconcile the baseline against the pre-check question, and record whether the absence has reversed. Where it has not, the piece is not reissued to that wielder, and the loss is entered against the piece rather than the person. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade tells you how hard a piece hits and nothing about what it takes, and on this set the two are not related: the cost is the wielder's memory of small, nameless things, and the grade line is silent about it. Read both columns and authorise on the second.
 
 ## 관찰 기록 (Observation Log)
 
@@ -319,9 +319,9 @@ Broken Compass sits in a vault in Zone D — ancient, cracked, its needle spinni
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Broken Compass; the other feeds it.
+> Two ways to end the same cycle. One is the resolution on file — keep the cradle, take the counts, widen the radius on evidence and never approach the discharge trigger — and the other is the answer a handler gives when they want the needle to stop.
 
-| Do the thing on file: Cradle mounting, timed counts, a widening discard radius, bearing stations re-sited outside it, and the discharge trigger unapproached. | Do the obvious, decent thing instead, and feed Broken Compass. |
+| Do the thing on file: cradle mounting, timed counts, a widening discard radius, bearing stations re-sited outside it, and the discharge trigger unapproached. | Intervene instead — steady the needle, follow it, correct a discarded bearing or approach the discharge trigger — and the series shows what follows: counts above 57, slowings nobody can plot, and a radius widened twice. |
 |---|---|
 | Tests whether the worker can watch without reacting. The sorrow is seen clearly; Broken Compass is fully recorded. | Reveals the pattern behind being lost. The gauge climbs and Broken Compass withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -332,17 +332,17 @@ The needle spins beneath the glass. You turn the Compass toward the street, the 
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A broken compass whose needle spins without settling. Its casing is cracked and warm. Notable Features: It cannot find north, points toward sorrow, and becomes faster when the holder is uncertain. Identification Profile: The record classifies. The surrounding space does not become generic or abstract; it changes in the specific way associated with Void and the entity's Object-Void form.
+**At first contact:** What identifies it is the case before the reading: tarnished brass, cracked, warm at the crack while the metal around it is bloodless-cold, a face with no markings on it at all, and a needle that has not settled in centuries. It cannot find north, it slows toward concentrations of grief, and it spins faster when the person holding it is uncertain, which the file treats as the instrument's one act of attention. The space around it does not go generic or abstract; it changes in the specific way associated with Void and with this holding's Object-Void form.
 
 **With continued exposure:** Time in the containment zone moves differently. The Void pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Void is teaching you its sorrow.
 
 **When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch and naming a destination. Effect: Points toward the nearest concentrated sorrow. Duration: Until the destination is acknowledged or the Compass is put down. Risk: The user may follow it indefinitely. Tool Use Profile — A-Relic Operational Rule: The relic. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
 
-**After departure:** The door seals and the pressure drops, but residue clings — Void in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
+**After departure:** The timer stops and the pressure drops, but what stays is not residue in the suit fibres: it is a radius. Bearings taken inside it are discarded rather than corrected, the stations are re-sited, and the handler who took them is offered counselling automatically, with no finding about them entered anywhere.
 
 ### Interaction Pattern
 
-Broken Compass does not exist in isolation. Its recorded relationships with The Echo Compass, The Wandering Door, The Drift Fog should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Broken Compass is read beside the 3 holdings the file has paired it with — The Echo Compass, The Wandering Door and The Drift Fog — and none of the 3 is treated as an alliance or a hostility: they are resonance candidates, filed as such. In a shared event the team records whether anything changes at all in the counts, the slowings, the radius, the gauge or the containment, and the standing note is that a resemblance is the reason a pairing was proposed and not a finding that came out of one.
 
 **Interaction method:** Counts taken from the cradle before, during and after, by a Warden who handles neither party, with the interval timer running continuously so that the series is comparable across the whole pairing.
 
@@ -351,7 +351,7 @@ Broken Compass does not exist in isolation. Its recorded relationships with The 
 
 Broken Compass must be kept distinct from the other orientation holdings. The Wandering Door moves the way through a place; this one leaves the place exactly where it is and takes away the means of being sure of it. The distinction decides which survey party is sent and which instruments they are allowed to bring.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Related holding | What the pairing rests on | What co-presence actually did | What the file requires recorded |
 |---|---|---|---|
 | **The Echo Compass** | Both answer to grief rather than to magnetism, and placed together they slow toward each other and then resume, every time, without ever settling. | Counts fall by about a fifth on both for the duration. Nothing else changes. | Paired counts on one sheet, with the slowing intervals timed to the second. |
 | **The Wandering Door** | The needle slows toward thresholds the Door has used and no longer occupies, which has twice told the survey where the Door had been. | Slowings cluster on vacated positions; the Door is unaffected and the information does not survive separation. | Plot the slowings against the Door's own position log, same hours, two crews. |
@@ -399,14 +399,14 @@ Some sorrows are about losing a place. Broken Compass is about losing direction 
 - Mean spin 38, 46 and 57 revolutions a minute across three annual series, counted from the cradle over fixed intervals.
 - 212 slowings logged this year, all toward concentrations of grief. They are not plotted on any map of the district and the reason is written in the method.
 **Cross-References:** SECTOR-D-01, Forge District · The Keepers · The Echo Compass · The Wandering Door · The Drift Fog · the Works Office · the qualification roll
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
+**Faction Involvement:** SED, on the D-territory survey that keeps the count sheet · UCD, on the Fray-adjacent zone · Wound Walkers, on Fracture-relevant screening of the handlers.
 **Originator:** Cabal of Keepers, Forge District · a surveyor who asked four officers and was properly refused by all four
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or event condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map and not the territory: the SECC code, the gauge thresholds and the M.A.W. notes are tools for understanding, not substitutes for standing at the cradle. The numbers that govern are the year's mean spin of 57 revolutions a minute after 46 and then 38, the 212 slowings logged toward concentrations of grief and none toward north, the discard radius widened twice, and the Drift Fog's mean count of 112 with no slowing recorded at all. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts: preserve it as evidence rather than normalising it.
 
-**Review requirement:** The review requirement: every activation, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every activation, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Every activation, Sorrow Tide and transformation attempt invalidates the current baseline: re-verify the count sheet, the radius, the station positions and the handler's certainty before proceeding. The review also confirms that the discharge trigger was not approached and that every bearing taken inside the radius was discarded rather than corrected; the file's position is that the R.D. record describes a living sorrow pattern rather than a permanently complete explanation.
 ## Watch Record
 
 ### A Needle That Will Not Settle
@@ -452,11 +452,11 @@ A Survey Corps member mislaid a way through the Forge District and never recover
 
 ### Registry Trivia
 
-- **Classification detail:** Broken Compass is an Object/Place with Echo (II) — Repeats spinning coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Void, and its registered location is SECTOR-D-01, Forge District.
+- **Classification detail:** An Object/Place of Echo (II) coherence and Moderate (β) potency — no needle settling in centuries, and a case that stays bloodless-cold around a crack that stays warm.
+- **Field detail:** Element Void, registered to SECTOR-D-01 in the Forge District, where containment is a cradle and a count rather than a cell: the instrument is mounted, the timer runs, and no hand is laid on the case.
 - **Recognition detail:** A tarnished brass case, cracked and warm at the crack while the metal around it is bloodless-cold, with a needle that has not settled in centuries and a face bearing no markings at all.
 - **Record detail:** The Registrum had the holding in the Archive against a Forge District header, and the M.A.W. grade was left blank against β pieces; both corrected. The A-Relic profile describes a single-use discharge that has never been performed and is recorded here as theoretical, because the holding has been worked by observation for centuries and is plainly not consumed.
-- **Containment detail:** Containment holds the body, not the sorrow. Even sealed, the entity alters the local Han field — adjacent personnel report dreams, headaches, gauge drift. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
+- **Containment detail:** Containment holds the body and not the sorrow, and here the instrument is already held: it sits in a cradle and what is managed is the reading. Even sealed, adjacent personnel report dreams, headaches and gauge drift, and the file's warning is the radius — bearings taken inside it are discarded and not corrected, and the stations are re-sited on evidence.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-290

@@ -63,6 +63,23 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 24 / unit 6 — Broken Compass `C-IIβ-290` closed (2026-10-06)** — measured at `c3dffb9`: **7 dirty
+  sections**, worst Behavior 0.290 (the 37-dossier table line and the 13-dossier *reading the response* shell),
+  then M.A.W. Equipment 0.199 (the ability, both costs, the veil and charm appearances, the set note and the four
+  field-use rows), Registrum 0.165 (the 20-dossier operational interpretation and the 12-dossier generic-Resolution
+  residue line), Final Observation 0.134, Combat Record 0.111 (the resistance row and the two debuffs),
+  Trivia 0.101 and Flavor Text 0.077. All seven closed in three passes (21 + 12 + 2 lines — the third pass because
+  the diagnostic shells had to be broken rather than extended); 6,620 → **7,320 words**; `tpl.py` residue 1 → **0**
+  (the placeholder Resolution line replaced with the file's own close — cradle mounting, the only close a Broken
+  Compass cycle has); `verify.py` residual 0 throughout; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**. `own_series` and `condition` were already **True** and left alone (`R-05`), with the
+  file's own figures carried into the rebuilt rows rather than created for a clause — mean spin 57 revolutions a
+  minute for 4238 after 46 and then 38, 212 slowings all toward concentrations of grief and none toward north, the
+  discard radius widened twice, and the Drift Fog's mean count of 112 with no slowing at all. Movement at the unit
+  commit: `R-29` 144 / 301 (series **242**); section-clean 168 / 301; residue-free 245 / 302;
+  residue lines 7, instances 74, carriers 57 / 302; archive dirty 595; file-clean
+  274 / 302; worst 0.066, median 0.011. **Batch 24 stands at six of seven.**
+
 - **Batch 24 / unit 5 — Torn Flower `C-Iα-247` closed (2026-10-06)** — measured at `517656c`: **7 dirty
   sections**, worst M.A.W. Equipment 0.309 (the 11-dossier harness appearance line and the 13-dossier
   *reflexes dull, as if armoured by resentment* cost line — both residues — the sword and charm appearances, the
