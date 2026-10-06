@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 29 / unit 6 — Cold Burn `C-IVδ-505` closed (2026-10-07)** — measured at `fc69722`: **6 dirty sections**, worst
+  Final Observation 0.184 (the blockquote, condition row and result row), then M.A.W. Equipment 0.138 (the veil
+  appearance, the Use Notes opener, all four field-use rows and the stat interpretation), Registrum 0.124 (the faction
+  line, the operational interpretation and the review requirement), Combat Record 0.080 (two action rows and the
+  resolution), Flavor Text 0.054 (the interaction preamble and the exposure line) and Trivia 0.054 (field detail).
+  **Closed in a single wave** (20 sites); 7,265 → **7,661 words**; `tpl.py` residue 0 throughout; `verify.py` residual
+  **2 → 0** (Story Log Entry 1's `is logged as ` and the exposure line's `becomes a texture you can map`); the pipe
+  check was clean throughout; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition
+  and series already satisfied — the condition re-registered inside the rewritten resolution line in the file's own
+  words (`complete the duty symbolically, then tell the Shadow it may stop`), held **True**. The stock pieces went onto
+  the chamber's own filings: the mirrorless room, the round walked at the door and the release spoken aloud. Movement
+  at the unit commit: `R-29` 176 / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; residue lines
+  @lines@; archive dirty 329; file-clean @fc@ / 302. **Batch 29 stands at six of ten.**
+
+
+
 - **Batch 29 / unit 5 — Broken Fragment `O-IVδ-115` closed (2026-10-07)** — measured at `f463a14`: **6 dirty sections**,
   worst Story Log 0.192 (the shared origin fragment in the archive note), then Final Observation 0.149 (the blockquote,
   condition row and result row), Flavor Text 0.135 (both interaction preambles and the procedure, which sit under that

@@ -1716,6 +1716,13 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 29, unit 6: Cold Burn `C-IVδ-505` closed.** Measured at `fc69722`: **6 dirty sections**, worst Final
+Observation 0.184, then M.A.W. Equipment 0.138, Registrum 0.124, Combat Record 0.080, Flavor Text 0.054 and Trivia
+0.054 — **closed in a single wave** (20 sites); 7,265 → **7,661 words**; `tpl.py` residue 0; `verify.py` residual
+**2 → 0**; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition re-registered inside the
+rewritten resolution line and held **True**. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free
+@clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 29 stands at six of ten.**
+
 **Batch 29, unit 5: Broken Fragment `O-IVδ-115` closed.** Measured at `f463a14`: **6 dirty sections**, worst Story Log
 0.192 (the shared origin fragment), then Final Observation 0.149, Flavor Text 0.135, Trivia 0.093, Operational
 Parameters 0.068 and M.A.W. Equipment 0.052 — **closed in a single wave** (21 sites); 7,954 → **8,360 words**;
@@ -1973,6 +1980,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 29 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IVδ-505 Cold Burn 얼어붙은 그림자 — `__HASH__` — PUSH VERIFIED — [[SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-505_Cold_Burn_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-C-IVδ-505_Cold_Burn_얼어붙은_그림자.md")
 
 - SE-O-IVδ-115 Broken Fragment 부서진 파편 — `efa92ec` — PUSH VERIFIED — [[SE-O-IVδ-115_Broken_Fragment_부서진_파편]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-115_Broken_Fragment_%EB%B6%80%EC%84%9C%EC%A7%84_%ED%8C%8C%ED%8E%B8.md "SE-O-IVδ-115_Broken_Fragment_부서진_파편.md")
 

@@ -81,14 +81,14 @@
 | { *The Still Pursuer* [**Debuff**] } | "Your shadow has frozen — locked to the ground — and no matter where you go, it stays, watching." | [The Shadow freezes in place; the target's own shadow becomes an anchor.] | *Target suffers a Void mark; their shadow is pinned and watching.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Shadow freezes. |
 | { *The Cold Trail* [**Debuff**] } | "Where the frozen shadow was, frost remains — and the frost follows you, spreading." | [The Shadow's cold spreads; wherever the target steps, ice forms.] | *Target loses clarity; the cold is tracking them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target moves away. |
 | { *The Ice Spike* [**Attack**] } | "The frozen shadow extends one sharp, dark spike toward your ankle." | [An ice-shadow spike launches.] | *Inflicts Void damage; the cold strike severs a shadow-link.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shadow is probed. |
-| { *The Full Freeze* [**Attack**] } | "The frozen shadow expands — covering the ground, the walls, and everything between you and escape." | [The Shadow's permafrost erupts in all directions.] | *A heavy Void freeze-burst; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shadow is shattered. |
-| { *The Shadowless Field* [**Ultimate**] } | "Every shadow freezes — and without moving shadows, the light itself goes cold and permanent." | [The Shadow extends its freeze across the whole field.] | *All in range suffer Void erosion for three turns of frozen shadows.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Freeze* [**Attack**] } | "The frozen shadow expands — covering the ground, the walls, and everything between you and escape." | [Ground that has not thawed in the holding's life cracks outward in every direction, and the cold arrives before the sound of it does.] | *A heavy Void freeze-burst; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shadow is shattered. |
+| { *The Shadowless Field* [**Ultimate**] } | "Every shadow freezes — and without moving shadows, the light itself goes cold and permanent." | [The lattice stops being a wall the Shadow builds and becomes the room's own condition, and the shadows go still where they stand.] | *All in range suffer Void erosion for three turns of frozen shadows.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The team identifies Cold Burn by the lattice and the cold, never by the edges: the crimson edge appears only when somebody has stopped looking, which means the observer who sees it has already made the error, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Direct attention held throughout, handed off aloud, double-staffed; nobody's gaze drifts. Flerehan and Ferrehan from the post. Pugnahan answers with frozen force and is not used. The reflection list is walked and signed before anybody enters.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Complete the duty symbolically, then tell the Shadow it may stop**.
+3. **Resolution:** The cycle closes when the duty has been completed symbolically at the chamber door and the Shadow has been told, aloud, that it may stop. The registration carries the file's own suppression condition: **complete the duty symbolically, then tell the Shadow it may stop** — and the care taken over the wording is the whole point, because the holding has never once been told to stand down by anybody with the authority to release it.
 
 ### Consequences
 
@@ -196,7 +196,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a veil of Void Han-gossamer, near-translucent and all but colourless, that lies cold on the skin and stays cold through a full shift at the door whatever the chamber's own temperature is doing.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -228,18 +228,18 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Cold Burn and carries what Cold Burn carries: the wielder loses small, nameless memories with each use. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+Everything in this set is a piece of Cold Burn and carries what Cold Burn carries: a small nameless memory leaves with every use. The grade records how cleanly the material came out of the source, while the cost sits in the next column along and is the reason these pieces go out one rotation at a time and come back one rotation later.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Cold Burn's toll being that the wielder loses small, nameless memories with each use. |
-| **During use** | The first sign that Cold Burn is charging: the wielder loses small, nameless memories with each use. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wearer feels faintly absent to themselves, and the wielder has stopped reporting it — the usual end point for a Cold Burn piece. The observer calls the limit. |
-| **After use** | Piece returned; re-assess a week later, because what Cold Burn takes (the wearer feels faintly absent to themselves) does not present on the day. |
+| **Before use** | Wielder, piece, the gauge, and a pre-check written by the second worker: three small memories the bearer can name, entered by hand, because this set's recorded toll is that one small nameless memory leaves with every use and the bearer will not miss it. |
+| **During use** | The charge shows as the baseline thinning — one small memory gone, then another, with the bearer unable to say what was lost. The hour goes into the log from the second worker's hand. |
+| **At limit** | The limit is the absence taken as ordinary: the bearer reads themselves as faintly unreal and has stopped saying so. On a Cold Burn piece that entry ends the use, and the observer calls it, not the bearer. |
+| **After use** | Take the piece back and hold the assessment a week: can the bearer still name the three baseline memories, and does their own company still read as company? Where either fails, the piece stays in stores and the door rotation is stood down. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade records what a piece does to a holding and nothing about what it does to the bearer. A piece from this source can perform without a fault on the door for months and still hollow out the bearer's memory, or bind them to the duty the holding is waiting on. Read the cost column first.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -267,7 +267,7 @@ Every piece in this set is a fragment of Cold Burn and carries what Cold Burn ca
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Cold Burn (C-IVδ-505 [N]) is logged as a Subject-Grudge manifestation expressing Void, held at Zone C, Mask Market, in a chamber from which every reflective surface has been removed, abraded or covered. It walks rounds, builds frozen lattices toward what it guards, and is addressed by the caretaker's name in every shift log.
+Cold Burn (C-IVδ-505 [N]) is a Subject-Grudge manifestation expressing Void, held at the Mask Market in Zone C inside a chamber with no reflective surface anywhere in it — removed, abraded or covered, every one. It walks rounds, builds frozen lattices toward what it guards, and is addressed by the caretaker's name in every shift log.
 
 **Entry 2 — <Excerpt from Lattice Map Sequence, Year 4238>**
 Advance 2.1 m on the vault approach and 0.6 m along the north seam; quarterly extension 44 m against 36 and 29 in the two preceding years. Maps filed in sequence, unreconciled. Read in order they continue to show what the wing's own summary calls a person going about their rounds.
@@ -291,11 +291,11 @@ Containment follows from that and not from the chamber. The holding's instrument
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Cold Burn; the other feeds it.
+> Two ways to close a watch at the door, and the file's own shift logs separate them within a quarter: one finishes the duty the holding is waiting on and releases it aloud, and the other is the decent thing every relief crew reaches for.
 
-| Complete the duty symbolically, then tell the Shadow it may stop. | Do the obvious, decent thing instead, and feed Cold Burn. |
+| Complete the duty symbolically at the door — the round walked, the post stood, the order read — and then tell the Shadow aloud that it may stop. | Do the obvious, decent thing instead: take the duty over, share the grief as comfort, or remove the cold by force — the file's shift logs show the last of those feeding the lattice, and the first two keeping the post occupied by somebody new. |
 |---|---|
-| Pauses and receives shared grief. The sorrow is seen clearly; Cold Burn is fully recorded. | Retaliates with frozen force. The gauge climbs and Cold Burn withdraws without revelation. |
+| The lattice stops advancing, the round is completed at the door and the release is spoken aloud, and the watch closes with the duty logged as discharged and the chamber left sealed and shuttered. | The cold goes out through the corridor and everything reflective in it cracks; the entry closes with the lattice's new line measured and the door rotation standing down. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -306,7 +306,7 @@ The shadow stands at the vault approach, mid-round, between one door and the nex
 
 **At first contact:** The cold reaches you before the figure does, and it is not the Forge-edge cold of the rest of the Market. Then you find the lattice — a frozen seam-line running along the wall at knee height, going somewhere — and only then the figure, standing still, dark, with nothing casting it. The reflection list in your hand is the correct thing to be holding.
 
-**With continued exposure:** Minutes pass. The initial shock fades into something worse: familiarity. The Void pressure becomes a texture you can map, a frequency you can almost predict. The entity is not changing — you are.
+**With continued exposure:** The minutes pass and the first bite gives way to something worse: familiarity. The Void pressure resolves into a rhythm that can be read ahead, and then into a duty, and then into one of yours. Nothing in the chamber is different from the first minute to the tenth; what has changed is who has taken the post.
 
 **When the entity activates:** The Gauge tips. The Subject-Grudge does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.
 
@@ -314,7 +314,7 @@ The shadow stands at the vault approach, mid-round, between one door and the nex
 
 ### Interaction Pattern
 
-Cold Burn does not exist in isolation. Its recorded relationships with The Guarding Bird, The Hollow Knight, The Empty Mask should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings are kept within reach of the chamber — The Guarding Bird, The Hollow Knight and The Empty Mask — and none of the three is an alliance. Every pairing here records whether the response changed in sound, movement, temperature, memory pressure, gauge or containment stability, with the distance, duration and trigger entered alongside whatever is left standing after the parties are apart.
 
 **Interaction method:** Baseline each file alone, then bring them into proximity under direct unbroken attention, with the reflection ban extended over the whole approach. Log distance, duration, lattice advance in the following week, and temperature series. Proximity trials on this holding are run at most once a quarter because each one costs a full re-walk of the route.
 
@@ -371,14 +371,14 @@ Some sorrows are about loss. This one is about authority: the discovery that a t
 - A caretaker died at the vault under an order that was never revoked. The vault was not empty then and is not empty now.
 - The rounds continue in the original order, which is how the sequence of maps was first recognised for what it is.
 **Cross-References:** Mask Market · The Guarding Bird · The Hollow Knight · The Empty Mask
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
+**Faction Involvement:** SED on D-territory exploration · UCD on the Fray-adjacent zone · Judexhan carrying the δ high-threat line, which on this holding means the lattice rather than the figure.
 **Originator:** A caretaker of the Mask Market vault.
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of the holding's file and not the whole of it: read it with the classification, the combat record and the equipment profile before acting on any single line. What governs here is small and cold — a chamber with no mirrors, a duty nobody ever released the holding from, a lattice built toward something that has already happened, and a caretaker's name used in every shift log. Where the holding behaves in a way these pages do not describe, that departure is the most useful thing the watch can bring back, and it enters the record as itself.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Any breach, expansion, transformation or anomaly resets the working picture: take the gauge, the containment field, the exposure log and the holding's position again before operations resume, and re-enter exposure and location after every event of any kind. The record here describes a sorrow that is still running and is not an account anybody can close.
 ## Apex Record
 
 ### The Reflection Ban
@@ -431,7 +431,7 @@ The caretaker's name is recorded in the chamber file and is used in the shift lo
 ### Registry Trivia
 
 - **Classification detail:** Cold Burn is a Subject with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Void, and its registered location is Zone C, Mask Market.
+- **Field detail:** Void is its element and the Mask Market in Zone C is its registered ground — held there behind frosted glass in a room with nothing reflective left in it. |
 - **Recognition detail:** Identify it by the lattice and the cold, never by the edges: the crimson edge appears only when somebody has stopped looking, which means the observer who sees it has already made the error.
 - **Record detail:** The Registrum cross-referenced The Watcher in the Walls, which is not among this holding's recorded neighbours; corrected to the three files actually on the interaction record.
 - **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.
