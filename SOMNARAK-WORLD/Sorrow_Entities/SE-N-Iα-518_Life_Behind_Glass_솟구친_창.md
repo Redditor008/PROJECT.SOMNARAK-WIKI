@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per successful work cycle, read off the tunnel watch rather than the pane |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α — Prism, Shroud and Shard all graded |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Lament pressure; 5% against other pressure types |
+| **Resistance** | 15% against Lament pressure and 5% against other types — a pane with no defence but the attention it can hold |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 204/204 |
 | **Han Pressure [ATK]** | 3–9 per hit · Lament |
@@ -81,8 +81,8 @@
 | { *The Running Pane* [**Debuff**] } | "The window is running with water — not rain, not condensation, but old tears — and the view through it is distorted by grief." | [The Window's sorrow-water distorts the target's perception; they see the world through someone's tears.] | *Target suffers -10 Composure; their vision is grief-colored.* **[10 Lament DMG [Lament]]** | When the target looks through the Window. |
 | { *The Rising Damp* [**Debuff**] } | "The water climbs the frame — seeping into the walls — and wherever it reaches, the structure weeps." | [The Window's moisture spreads; the target is surrounded by weeping walls.] | *Target loses 10 Composure; everything is soaked in sorrow.* **[10 Lament DMG [Lament]]** | When the target remains near. |
 | { *The Cold Pane* [**Attack**] } | "The wet window slams — and the impact sprays sorrow-water across the target." | [A window-slam with a splash of accumulated grief.] | *Inflicts Lament pressure and one wound of cold, wet impact.* **[14-22 Lament DMG [Lament]]** | When the Window is forced. |
-| { *The Full Deluge* [**Attack**] } | "The window gives way — and every tear it ever held pours through the frame." | [The Window's structural failure releases its complete tear-reservoir.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Window is broken. |
-| { *The Weeping Building* [**Ultimate**] } | "Every window in the field runs with tears — and the combined weeping drowns every view." | [The Window extends its soaking across the whole area.] | *All in range suffer Lament pressure for three turns of weeping windows.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Deluge* [**Attack**] } | "The window gives way — and every tear it ever held pours through the frame." | [The pane lets go all at once and the water it has been holding since the galleries were cut comes through the frame.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Window is broken. |
+| { *The Weeping Building* [**Ultimate**] } | "Every window in the field runs with tears — and the combined weeping drowns every view." | [Every pane along the deep tunnels starts running at the same hour, and the weeping carries down the galleries.] | *All in range suffer Lament pressure for three turns of weeping windows.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -92,7 +92,7 @@
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
+- A failed resistance costs twice: the worker takes raw sorrow pressure that breaks their **Clarity**, and the Window feeds on the destabilization, using it to push the Sorrow Gauge up rather than merely holding it.
 - Duration is the entire hazard. Nothing about a short exposure is harmful and nothing about a long one looks harmful from outside; the worker is simply standing still, apparently attentive, and the longer they stand the less of a reason they can find to stop.
 - Every piece cut from this Window extends the wearer's sight and gives them nothing to do with it. The prism shows a chamber in shifting colour, the shroud keeps its wearer composed, the shard reveals grief happening somewhere else. All three are instruments of watching, and the toll each one takes is the growing sense that watching is sufficient.
 - An unresolved encounter does not escalate; it continues. The Window keeps showing, the worker keeps looking, and the shift ends around them. Recovery from a long exposure is slow and is measured by whether the worker resumes initiating tasks rather than waiting to be assigned them.
@@ -144,14 +144,14 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Life Behind Glass is recorded as an Object/Place with Object-Weight manifestation and Lament elemental expression. The current record places it at Zone B, deep tunnels; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Work Type data is one input among many, and the code and the coherence level decide what a 'stable' gauge means on this ground. Life Behind Glass is an Object/Place with Object-Weight manifestation and Lament expression, filed in the deep tunnels of Zone B, and nothing learned about a similarly named holding transfers to it. The caution particular to this file runs the other way from most: a stable gauge here is not suspicious, it is the ordinary reading — Viderehan moves nothing because being watched is what the pane already is — so the figures will not tell a supervisor what they need to know, and the watch has to be established by asking workers what they saw and how long they held it.
 
 **Reading the response:** Viderehan holds the gauge level, and the reason is worth stating plainly: observation is what this entity already is, so looking at it adds nothing and takes nothing away. The worker sees the world they never entered and the Window is unmoved by being seen. Ferrehan lowers the gauge, because enduring here means continuing to look without crossing — holding the view, acknowledging what is on the other side, and declining both to climb through and to walk away. That is the thing the man at the pane never managed in either direction. A falling gauge means a worker has held that position for a full cycle. A rising gauge usually means someone stopped working and started watching, and the distinction between the two is invisible from across the tunnel; it must be established by asking.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic draws personal resilience out of a bearer across a long use** — the drain is slow, it shows first as stillness, and it is why the post runs on a timed watch with a named relief.
 
 **Activation Trigger:** Direct line of sight into the pane. There is no equipping and no handling; looking is the whole mechanism.
 
@@ -181,12 +181,12 @@ Work Type data is one input among many. The SECC code and coherence level determ
 |---|---|---|
 | 10 Seconds | Life Behind Glass rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Life Behind Glass activates its primary resonance: Shows a memory of a life beyond the tunnel. Grants +10% resistance to Lament damage while equipped. |
 | 30 Seconds | The artifact was born from the weight of observing life from a distance and never entering it; the bearer begins perceiving echoes of a tunnel worker watched the city through a small window but never left the depths; the view became an object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Life Behind Glass begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | The pane's toll starts to draw: the bearer's breathing falls into step with the grief the glass was cut from, and the gallery gets quieter than the shift explains. | Past 60 seconds the use deals 5 Lament damage every 15 seconds, and the operative is watched for sudden cognitive detachment. |
 | 2 Minutes | To wear Life Behind Glass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The viewer may become unable to return to present work. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Life Behind Glass: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
+What climbs here is particular to this pane and to no other holding in the file. The watch enters the first trigger, the first visible change in the Object-Weight form, the distance at which the effect starts, and the boundary where the resonance steadies. Because the holding is Lament and its ground is the deep tunnels of Zone B, what the crew reports feeling is written beside the telemetry rather than beneath it.
 
 **Response sequence:** There is nothing to cordon. Count heads, identify who is at the pane, and record how long they have been there before you speak to them. Retrieve by stepping into their line of sight rather than by touching them or by covering the glass — a worker who is pulled away reports the loss as something done to them, and the entity keeps that. Then check the shift board, because this Window is most active during long shifts and the real finding is usually in the roster rather than in the tunnel.
 
@@ -233,7 +233,7 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that draws close around a bearer who has stopped moving.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -251,11 +251,11 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a shard-tile of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a shard-tile of Lament Han-crystal, cool and faintly luminous, that warms for a breath when the bearer looks at it instead of through it.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's rating while working the Window, conditional on the bearer having looked away from it at least once during the cycle
+**Effect:** +1 to the bearer's rating while working the Window, granted only to a bearer who has looked away from the pane at least once in the cycle — a condition that is checked, not assumed.
 
 **Ability:** Shows distant emotional events.
 
@@ -265,16 +265,16 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 ### M.A.W. Use Notes
 
-Each piece extends Life Behind Glass rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder stops moving. Operatives have been recovered mid-engagement watching their own prism turn, uninjured, with no account of the intervening minutes beyond saying that the colours had not finished — arrives early and does not reverse on return.
+Nothing in this kit arms anybody against the pane; each piece carries the watching further, which is what the bonus is. Inside the recorded pattern it pays, and outside it the price arrives early and does not reverse on the walk back: the bearer stops moving, and operatives have been brought out of a gallery mid-engagement, watching their own prism turn, uninjured, with nothing to say about the missing minutes except that the colours had not finished.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Life Behind Glass's toll being that the wielder stops moving. Operatives have been recovered mid-engagement watching their own prism turn, uninjured, with no account of the intervening m. |
-| **During use** | Watch for Life Behind Glass's toll — the wielder stops moving. Operatives have been recovered mid-engagement watching their own prism turn, uninjured, with no account of the intervening m — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The shroud achieves composure by holding everything at one remove, and it does not distinguish between sorrow and anything else, without remission. On a Life Behind Glass piece the use ends there whatever the wielder says. |
-| **After use** | Return, reconcile the baseline, and record whether Life Behind Glass's toll has reversed: the shroud achieves composure by holding everything at one remove, and it does not distinguish between sorrow and anything else. Where it has not, the piece is not reissued to that wielder. |
+| **Before use** | Wielder, piece, gauge, and one pre-check against the pane's known toll — the bearer stopping where they stand. The pre-check names the relief, the call word, and the hour the watch is due to end. |
+| **During use** | Watch for the toll itself: the bearer stops moving, mid-task, with no account of the minutes between. The relief enters the hour it is first seen, never the hour it is first mentioned. |
+| **At limit** | The shroud keeps its bearer composed by holding everything at arm's length, and it does not sort sorrow from anything else — the limit is called there, with no remission on the sheet. On a piece out of this Window the use ends at the call, whatever the bearer says. |
+| **After use** | Take the piece back and walk the baseline yourself: does the bearer still feel things at their own distance, and can they say what moved them this week? Where the composure has outlasted the rotation, the piece stays in stores and that bearer is not issued from the tunnel post again. |
 
 **Stat interpretation:** These are α-grade numbers and they are honest ones — three to six damage, fifteen Echoes, no hidden performance. What the grades cannot express is that the entire set improves what its bearer can perceive and improves nothing about what they can reach. Read the Cost lines as the specification and the damage figures as a footnote.
 ## 관찰 기록 (Observation Log)
@@ -304,7 +304,7 @@ Each piece extends Life Behind Glass rather than equipping its wielder against i
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Life Behind Glass (N-Iα-518 [D]) is logged as a Object-Weight manifestation expressing Lament. The Window formed from a view that was never taken. Held at Zone B, deep tunnels. It has no view of physical surroundings.
+Life Behind Glass (N-Iα-518 [D]) is an Object-Weight manifestation expressing Lament, held in the deep tunnels of Zone B, where the pane is set into the wall of a transit gallery and shows rain falling on nothing that exists in the tunnel. The file's own account of its origin is a view that was never taken, and its one unusual property is the plainest: it cannot be seen from the side, because it has no view of its own surroundings.
 
 **Entry 2 — <Tunnel Patrol Note, Zone B>**
 The rain on its surface is emotional rather than liquid.
@@ -316,15 +316,15 @@ The weight of observing life from a distance and never entering it.
 Work response — Viderehan: Reveals the world the worker never entered. (Stable); Ferrehan: Tests whether the worker can continue looking without crossing. (Decrease). It is most active during long shifts.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+The Keeper who erased memories is the file's own entry, kept here as the pane's history rather than as a tale. The tunnels were driven through ground that held records as well as water, and a Keeper worked the galleries for years, taking down everything that had been written about the lives led above — names, marriages, debts, the small histories — until nothing in the district's memory of itself could be checked against paper. What was left over had nowhere to be put, and it collected in the lowest pane on the route back. The Window is that pane. It shows lives continuing without the observer, because a district erased from its own records does not know who is still in it.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Life Behind Glass; the other feeds it.
+> Two ways to end a watch in the deep tunnels, and the file prices them by what the worker does with a scene they will never enter: one holds the view and comes back, and the other is the vanishing the quarterly figures have been recording for three years.
 
-| Timekeeper, named relief instructed to interrupt, no second consecutive cycle at this post, and the shift board checked before the tunnel — as written, without improvising. | Depart from the condition for good reasons, as Life Behind Glass's record shows people do. |
+| Work to the Management entry at the head of this file: a timekeeper named before entry, relief briefed to interrupt, no second consecutive cycle at this post, and the shift board read before the tunnel. Nobody improvises the watch, and nobody takes it twice. | Depart from the Management entry for good reasons, as the record shows people doing: stay past the call because the scene is one worth watching, or post a worker into the tunnel twice because they hold it best. |
 |---|---|
-| Tests whether the worker can continue looking without crossing. The sorrow is witnessed; Life Behind Glass is fully recorded. | Reveals the world the worker never entered. The gauge climbs and Life Behind Glass withdraws without revelation. |
+| The worker holds the view for a full cycle without crossing and comes back with a scene they can still recount a day later; the watch closes with the holding entered complete. | The worker is still at the pane when the relief arrives, uninjured, with no account of the hours between; the gauge climbs and the entry closes with nothing revealed. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -337,28 +337,28 @@ A window in the tunnel wall with no sky behind it. A room, a road, a face; a lif
 
 **With continued exposure:** Nothing intensifies. The scene continues at its own pace, ordinary throughout, and the only thing that changes is how much of your shift is behind you.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Looking through the glass. Effect: Shows a memory of a life beyond the tunnel. Duration: Until the viewer looks away. Risk: The viewer may become unable to return to present work. Tool Use Profile — I-Relic Operational Rule: The relic. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The whole encounter is set out in the profile above and it is short written down: the trigger is a direct line of sight into the pane, the effect is a life beyond the tunnel continuing without the viewer, the duration runs until the viewer looks away, and the risk is a worker who does not return to the task they were on. Nothing here handles the relic or equips it — the watching is the whole mechanism — and the sensation of standing at the pane is itself the first field sign a trained observer is expected to connect to something visible in the gallery.
 
 **After departure:** You can recount the scene the next day and the day after. Workers who held it longest recount it best, which is why the recall test is part of the sampling and not a kindness.
 
 ### Interaction Pattern
 
-Life Behind Glass does not exist in isolation. Its recorded relationships with The Torn Window, The Memory Rain, The Sleeping Weight should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings stand within reach of the gallery — The Torn Window, The Memory Rain and The Sleeping Weight — and none of the three is an ally or an enemy of the pane. For each pairing the watch enters whether the answer moved in sound, movement, temperature, memory pressure, gauge or containment stability, with the distance, duration and trigger beside whatever remains once the two are apart.
 
-**Interaction method:** This entity defeats the standard baseline procedure and the record should admit it. The glass has never shown the same outside life twice, so there is no repeatable solo reading to compare a joint reading against; what can be established instead is a distribution — how long workers hold the view, how readily they look away, how much of the scene they can still recount a day later. Build that across a dozen cycles before any second entity is brought into the tunnel. Then log the separation, the duration, the gauge movement, and the single question that matters here: whether the other presence appears on the far side of the glass. It has not yet. The day it does, the methodology changes and this paragraph is void.
+**Interaction method:** The standard baseline procedure does not work here and the record says so outright. The glass has never shown the same outside life twice, so there is no solo reading to hold a joint reading against; what can be built instead is a distribution — how long workers hold the view, how readily they look away, how much of the scene they can still recount the next day. Build that across a dozen cycles before a second holding is brought into the tunnel. After that the watch logs the separation, the duration, the gauge movement and the only question that matters: whether the other presence appears on the far side of the glass. It has not yet. The day it does, the method changes and this paragraph is void.
 
 
 ### Entity Interaction Record
 
-The Window is positioned in a transit tunnel that most of Zone B passes through, so it has more incidental contact with personnel and holdings than its Minor rating suggests. The interactions below were recorded under particular traffic conditions, and traffic through the deep tunnels is seasonal; re-establish the viewing distribution before relying on any of them.
+The pane is set in a transit gallery that most of Zone B passes through, so it has more incidental contact with personnel and holdings than a Minor-rated object should. The interactions below were recorded under particular traffic conditions, and traffic through the deep tunnels is seasonal; the viewing distribution is re-established before any of them is relied on.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Holding on file | How the two have met | What the watch has seen move | What belongs in the entry |
 |---|---|---|---|
 | **The Torn Window** | Both hold a view across a loss; that one is broken open and this one has never had an opening at all. | Viewing times at this pane lengthen by roughly a third while the Torn Window is in the same tunnel. | Timed holds before, during and after, with the same relief keeping the watch throughout. |
 | **The Memory Rain** | The rain behind the pane thickens until the scene cannot be made out. | Holds shorten sharply, the only recorded reduction; workers look away because there is nothing left to see. | Visibility through the pane and hold time, sampled together at ten-minute intervals. |
 | **The Sleeping Weight** | The scenes shown are of rest rather than of company, and the viewers are, without exception, workers near the end of a double shift. | No change in hold time; a marked change in what is afterwards recounted. | The viewer's own account, transcribed, with hours worked recorded against it. |
 
-**Interaction procedure:** Keep the timekeeper role in force throughout. Record the separation at first response, the duration of the joint exposure, the gauge movement, what the glass showed during it, and whether any worker present had to be called away. The last of these is the measurement; everything else is context for it.
+**Interaction procedure:** The timekeeper role stays in force throughout. Enter the separation at first response, the duration of the joint exposure, the gauge movement, what the glass showed during it, and whether any worker present had to be called away. The last of those is the measurement; the rest is context for it.
 
 ## 이야기 (Narratio) — The Tale
 

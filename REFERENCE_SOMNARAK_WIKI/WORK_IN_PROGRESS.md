@@ -1716,6 +1716,16 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 31, unit 2: Life Behind Glass `N-Iα-518` closed.** Measured at `5625502`: **5 dirty sections**, worst Story
+Log 0.192, then Behavior 0.159, Final Observation 0.115, M.A.W. Equipment 0.055 and Flavor Text 0.053 — **closed in a
+single wave** (28 sites); 7,419 → **7,838 words**; `tpl.py` residue 0; `verify.py` residual **1 → 0**; `sectfile.py`
+**0 section(s) over 0.05**; `wikistd.py` meets **True**, condition (a `| **Management** |` row) and series held.
+Disclosed: two field-use rows truncated mid-word at `intervening m.` were rebuilt whole-line; the activation block's
+`Operational Rule: The relic.` seam was rebuilt; the shared Keeper origin fragment was replaced with the holding's own
+account; the result row's swapped success/failure cells were rewritten in order. Movement: `R-29` @r29@ / 301;
+section-clean @sc@ / 301; residue-free @clean@ / 302; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 31 stands at
+two of five.**
+
 **Batch 31, unit 1: The Sorrow Fountain `C-IIIγ-088` closed.** Measured at `f984dd0`: **5 dirty sections**, worst
 Story Log 0.202, then Final Observation 0.156, Operational Parameters 0.113, Registrum 0.088 and Flavor Text 0.076 —
 **closed in a single wave** (29 sites) plus the numerals bullet; 7,351 → **7,825 words**; `tpl.py` residue 0;
@@ -2095,6 +2105,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 31 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-Iα-518 Life Behind Glass 솟구친 창 — `__HASH__` — PUSH VERIFIED — [[SE-N-Iα-518_Life_Behind_Glass_솟구친_창]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-518_Life_Behind_Glass_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%B0%BD.md "SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md")
 
 - SE-C-IIIγ-088 The Sorrow Fountain 슬픔의 분수 — `5625502` — PUSH VERIFIED — [[SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-088_The_Sorrow_Fountain_%EC%8A%AC%ED%94%94%EC%9D%98_%EB%B6%84%EC%88%98.md "SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md")
 **Batch 30 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).

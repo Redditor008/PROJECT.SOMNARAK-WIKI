@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 31 / unit 2 — Life Behind Glass `N-Iα-518` closed (2026-10-07)** — measured at `5625502`: **5 dirty
+  sections**, worst Story Log 0.192 (Entry 1's residual line and the shared Keeper origin fragment), then Behavior 0.159
+  (the operational work notes paragraph, which carried the stock caution in a file where a flat gauge is the ordinary
+  reading), Final Observation 0.115 (the choice blockquote, the condition row and the result row, whose success and
+  failure cells again carried each other's descriptions), M.A.W. Equipment 0.055 (two appearance rows, the effect line,
+  the piece paragraph and the before/during/at-limit/after rows, two of which were truncated mid-word at `intervening
+  m.`) and Flavor Text 0.053 (the relations preamble, the interaction method, the record intro and the table header).
+  **Closed in a single wave** (28 sites); 7,419 → **7,838 words**; `tpl.py` residue 0 throughout; `verify.py` residual
+  **1 → 0** (Story Log Entry 1's `is logged as ` line); `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py`
+  meets **True** with condition and series held — the condition lives in a `| **Management** |` row left untouched. The
+  shared Keeper origin fragment was replaced with the holding's own account (the galleries driven through record-ground,
+  the erased district, the lowest pane on the route back); the truncated `intervening m.` rows were rebuilt whole; the
+  activation block's mangled `Operational Rule: The relic.` seam was rebuilt; and the swapped success/failure cells were
+  rewritten in order. Movement at the unit commit: `R-29` 188 / 301; section-clean 213 / 301; residue-free 302 /
+  302; residue lines 0; archive dirty 243; file-clean 302 / 302. **Batch 31 stands at two of five.**
+
+
+
 - **Batch 31 / unit 1 — The Sorrow Fountain `C-IIIγ-088` closed (2026-10-07)** — measured at `f984dd0`: **5 dirty
   sections**, worst Story Log 0.202 (Entry 1's residual line, the Work-response entry and the shared Architect origin
   fragment), then Final Observation 0.156 (the choice blockquote, the condition row and the result row, whose success
