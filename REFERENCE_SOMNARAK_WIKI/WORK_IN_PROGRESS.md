@@ -2182,7 +2182,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 32 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IIIγ-031 The Observing Bird 지켜보는 새 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-031_The_Observing_Bird_%EC%A7%80%EC%BC%9C%EB%B3%B4%EB%8A%94_%EC%83%88.md "SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md")
+- SE-C-IIIγ-031 The Observing Bird 지켜보는 새 — `af3e61f` — PUSH VERIFIED — [[SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-031_The_Observing_Bird_%EC%A7%80%EC%BC%9C%EB%B3%B4%EB%8A%94_%EC%83%88.md "SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md")
 
 - SE-C-IIIγ-145 Briar 가시의 정원 — `cb95ccb` — PUSH VERIFIED — [[SE-C-IIIγ-145_Briar_가시의_정원]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-145_Briar_%EA%B0%80%EC%8B%9C%EC%9D%98_%EC%A0%95%EC%9B%90.md "SE-C-IIIγ-145_Briar_가시의_정원.md")
 
