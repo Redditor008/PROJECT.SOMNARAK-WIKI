@@ -1867,7 +1867,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 28 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IIβ-099 The Masked Dancer 가면 무용수 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIβ-099_The_Masked_Dancer_가면_무용수]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-099_The_Masked_Dancer_%EA%B0%80%EB%A9%B4_%EB%AC%B4%EC%9A%A9%EC%88%98.md "SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md")
+- SE-C-IIβ-099 The Masked Dancer 가면 무용수 — `30e1a6f` — PUSH VERIFIED — [[SE-C-IIβ-099_The_Masked_Dancer_가면_무용수]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-099_The_Masked_Dancer_%EA%B0%80%EB%A9%B4_%EB%AC%B4%EC%9A%A9%EC%88%98.md "SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md")
 - SE-C-IIIγ-448 Floating Well 떠다니는 우물 — `d3caa84` — PUSH VERIFIED — [[SE-C-IIIγ-448_Floating_Well_떠다니는_우물]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-448_Floating_Well_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%EC%9A%B0%EB%AC%BC.md "SE-C-IIIγ-448_Floating_Well_떠다니는_우물.md")
 
 **Batch 27 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
