@@ -8,6 +8,25 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 29 / unit 2 — Swallow `C-IVδ-767` closed (2026-10-07)** — measured at `71adb35`: **6 dirty sections**,
+  worst Behavior 0.250 (the operational work notes and the reading-the-response paragraph), then M.A.W. Equipment
+  0.166 (three appearances, three ability lines, the knife and veil costs, the Use Notes, all four field-use rows and
+  the stat interpretation), Final Observation 0.150 (the blockquote, condition row and result row), Registrum 0.124
+  (the operational interpretation and the review requirement), Combat Record 0.078 (the resistance row, two action
+  rows and the resolution) and Trivia 0.055 (field detail). **Closed in three passes** (26 sites, then 3, then a
+  whole-line rebuild of the two addendum paragraphs); 7,517 → **8,020 words**; `tpl.py` residue 0 throughout;
+  `verify.py` residual **1 → 0** (Story Log Entry 1's `is logged as `); `sectfile.py` ends at **0 section(s) over
+  0.05**; `wikistd.py` meets **True**, condition and series already satisfied and left alone (`R-05`). **Disclosed:**
+  the first pass matched only the opening sentence of the two long Registry Addendum paragraphs and spliced the new
+  prose in front of the old tail; caught by the shared-shingle listing (`sect.py`), both paragraphs were rebuilt
+  whole-line in the third pass, removing the tail and the archived phrasing with it. The stock pieces went onto the
+  holding's own filings: the chalked perimeter with its old marks left standing, the fixed lamp and the tethered
+  equipment, the 214 screens with 43 flags, and the four reversals in sixty-one years. Movement at the unit commit:
+  `R-29` 172 / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; residue lines @lines@; archive dirty
+  362; file-clean @fc@ / 302. **Batch 29 stands at two of ten.**
+
+
+
 - **Batch 29 / unit 1 — Sleeping Shard `N-IVδ-611` closed (2026-10-07)** — measured at `66b7766`: **6 dirty sections**,
   worst Behavior 0.254 (the operational work notes paragraph, which is the generator's own template), then Final
   Observation 0.138 (the blockquote, condition row and result row), M.A.W. Equipment 0.096 (the knife appearance,
