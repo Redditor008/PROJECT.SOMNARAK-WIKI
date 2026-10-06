@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 29 / unit 7 — Repose `O-IVδ-844` closed (2026-10-07)** — measured at `85423fe`: **6 dirty sections**, worst
+  Behavior 0.168 (the operational work notes paragraph, the generator's own template), then Final Observation 0.150
+  (the blockquote, condition row and result row), M.A.W. Equipment 0.071 (the charm appearance and all four field-use
+  rows), Trivia 0.067 (classification and field detail), Flavor Text 0.060 (the interaction preamble) and Story Log
+  0.057 (the archive note's shared origin fragment). **Closed in a single wave** (18 sites); 8,234 → **8,607 words**;
+  `tpl.py` residue 0 throughout; `verify.py` residual **1 → 0** (Story Log Entry 1's `is logged as `); the pipe check
+  was clean throughout; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition and
+  series already satisfied — the condition re-registered inside the rewritten resolution line in the file's own words
+  (`do not wake it; reduce noise and acknowledge the dead`), held **True**. The shared origin fragment was replaced
+  with this holding's own account — a struck-off settlement and a loss that was never permitted to count — and a
+  truncated generator phrase in the before-use and during-use rows (`its bearer is freq.`) was rebuilt into the
+  armoury's own sentence. Movement at the unit commit: `R-29` 177 / 301; section-clean @sc@ / 301; residue-free
+  @clean@ / 302; residue lines @lines@; archive dirty 323; file-clean @fc@ / 302. **Batch 29 stands at seven of
+  ten.**
+
+
+
 - **Batch 29 / unit 6 — Cold Burn `C-IVδ-505` closed (2026-10-07)** — measured at `fc69722`: **6 dirty sections**, worst
   Final Observation 0.184 (the blockquote, condition row and result row), then M.A.W. Equipment 0.138 (the veil
   appearance, the Use Notes opener, all four field-use rows and the stat interpretation), Registrum 0.124 (the faction

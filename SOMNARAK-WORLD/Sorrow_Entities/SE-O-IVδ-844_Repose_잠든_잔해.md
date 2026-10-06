@@ -80,14 +80,14 @@
 | { *The Ancient Breath* [**Debuff**] } | "The ruin breathes — barely — a slow exhalation of dust and millennia — and the breath carries the weight of forgotten ages." | [The Ruin's dormant exhalation settles on the target; they feel aeons of accumulated sleep.] | *Target suffers -10 Composure; the ancient slumber is heavy.* **[10 Lament DMG [Lament]]** | When the target enters the Ruin. |
 | { *The Dreaming Stone* [**Debuff**] } | "In its sleep, the ruin dreams of what it was — a temple, a fortress, a home — and the dreams manifest as half-visible architecture." | [The Ruin's dream-structures flicker around the target; ghost-walls and phantom arches.] | *Target loses 10 Composure; the dreaming ruin is rebuilding itself in sleep.* **[10 Lament DMG [Lament]]** | When the target lingers. |
 | { *The Falling Capital* [**Attack**] } | "A carved capital — the top of a column — shakes loose in the ruin's sleep and drops." | [ An ancient stone ornament falls.] | *Inflicts Lament pressure and one heavy, ancient wound.* **[14-22 Lament DMG [Lament]]** | When the Ruin is touched. |
-| { *The Full Awakening* [**Attack**] } | "The ruin wakes — and the first thing it does is remember what it was, and the memory is devastating." | [The Ruin's complete recollection releases its entire stored history.] | *A heavy Lament flood of returned time; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Ruin is excavated. |
-| { *The Waking City* [**Ultimate**] } | "Every ruin in the field awakens — and the combined recollection of forgotten history crushes everything." | [The Ruin extends its waking across the whole area.] | *All in range suffer Lament pressure for three turns of waking ruins.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Awakening* [**Attack**] } | "The ruin wakes — and the first thing it does is remember what it was, and the memory is devastating." | [The whole of the settlement's record comes back at once, streets and accounts and the names of householders, and the room is inside it while it lasts.] | *A heavy Lament flood of returned time; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Ruin is excavated. |
+| { *The Waking City* [**Ultimate**] } | "Every ruin in the field awakens — and the combined recollection of forgotten history crushes everything." | [The dream spreads out past the perimeter and every ruin on the ground starts remembering on its own account.] | *All in range suffer Lament pressure for three turns of waking ruins.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The team locates the sleeping figure among the Old Lament rubble, establishes the sound floor of the area, confirms that no powered equipment is present, and agrees the withdrawal signal — which is given by hand, not by voice.
 2. **Clash:** Twenty-four turns beside something that does not fight back and must not be made to. The 910-point gauge and the 29 to 64 pressure describe what happens if it wakes, not what happens during a cycle; the encounter as actually conducted is long, quiet, and measured in how little the party disturbed.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not wake it; reduce noise and acknowledge the dead**.
+3. **Resolution:** The cycle closes quiet: noise held down across the whole perimeter, the dead acknowledged by name where the names are known, and the sleep left unbroken. The file writes its own condition into the registration — **do not wake it; reduce noise and acknowledge the dead** — and everything about the site is arranged around the first clause, including the survey work that goes on around the sleeper rather than across it.
 
 ### Consequences
 
@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. Repose is recorded as a Subject with Subject-Lament manifestation and Lament elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+None of the four rows above means anything torn out of context; the element, the coherence and the manifestation together decide what each Work Type can do here, and the notes below are as far as the wing's understanding goes on that. Repose is a Subject with Subject-Lament manifestation and Lament expression, held ambient in Old Lament at Zone B, and no assumption from any other holding in the register transfers to it. The caution that matters most is written for the quiet ones: a watch can close with every reading flat and still put a worker in the position of having dreamed somebody else's ruin all the way home.
 
 **Reading the response:** Flerehan brings the gauge down and the figure sleeps more peacefully as the ruins settle — grief shared quietly is the one thing this holding has ever been observed to accept. Ferrehan brings it down by endurance: the test is whether the worker can remain near sleeping grief, which sounds undemanding and is not, because nothing happens for twenty-four turns and the pressure is entirely the worker's own urge to do something. Viderehan holds level and shows the settlement's final day, which is valuable for the record and changes nothing here. Pugnahan raises the gauge and turns the dream into a collapse, and personnel should understand what that means literally: the structures around them are partly dreamed, and the dream is where the damage lands first.
 ## Breach Behavior
@@ -213,7 +213,7 @@ The disc projects blue astral light beams along its orbital edges that illuminat
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that goes cold against the collarbone when the bearer is standing over ground that was once a street.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -233,10 +233,10 @@ Each piece remains part of the Ruin, and the set is built for watching over rath
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Repose the recorded cost is that the wielder weeps while using it, steadily, for a settlement they never saw. The disc is the quietest weapon in the δ catalogue and its bearer is freq. |
-| **During use** | Repose charging, which presents as this: the wielder weeps while using it, steadily, for a settlement they never saw. The disc is the quietest weapon in the δ catalogue and its bearer is freq. The wielder's own account is taken separately and afterwards. |
-| **At limit** | Repose's cost is continuous rather than occasional: the wearer dreams of every ruin they have passed. The second worker's call stands against the wielder's. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Repose's cost is still showing — the wearer dreams of every ruin they have passed. |
+| **Before use** | Wielder, piece, the day's reading, and a baseline taken down and kept by the second worker — the recorded cost on this set is steady weeping for a settlement the bearer never saw, and a person cannot audit grief they cannot account for. The disc is the quietest object in the δ catalogue and its bearers are the ones the armoury asks after by name. |
+| **During use** | The charge shows as steady weeping over a place the bearer has never been, timed and entered by the observer; a run of it through one watch ends the use. The bearer's own account is taken separately and afterwards, and it is read as evidence of the toll rather than of the work. |
+| **At limit** | The limit is the grief turning continuous: the bearer dreams of every ruin they have walked past, and the sleeping is no longer distinguishable from the shift. The observer's call ends the use, and it stands against the bearer's. |
+| **After use** | Take the piece back and then ask the colleague rather than the bearer whether the dreams have stopped and whether the day's readings still match the survey; the surface readings for this set come off the ground, not off the person. |
 
 **Stat interpretation:** The δ grades are high and honest. What the columns cannot show is that every cost in this set falls due during sleep — the weeping, the dreams, the unrefreshing rest — which means they are invisible in any assessment taken on shift. Read the Cost lines as the specification and ask the wearer about their nights.
 ## 관찰 기록 (Observation Log)
@@ -266,7 +266,7 @@ Each piece remains part of the Ruin, and the set is built for watching over rath
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Repose (O-IVδ-844 [N]) is logged as a Subject-Lament manifestation expressing Lament, lying in the Old Lament at Zone B, ambient and uncelled. It formed from a settlement that was destroyed and then struck off the register of places. It has never woken, never risen, and never been roused by force, and fifty-six buildings in the surrounding ruin are standing because it is dreaming them.
+Repose (O-IVδ-844 [N]) is a Subject-Lament manifestation expressing Lament, lying ambient and uncelled in Old Lament at Zone B. What it is made of is a settlement destroyed and then struck off the register of places, and it has never woken or risen or been roused by force. It has never woken, never risen, and never been roused by force, and fifty-six buildings in the surrounding ruin are standing because it is dreaming them.
 
 **Entry 2 — <Acoustic Survey, Old Lament>**
 Sound floor across the Old Lament is eleven decibels under the Zone B average and the difference is not accounted for by the discipline alone. Personnel relive a collapse that is not theirs and report the ground as unsafe, which is not figurative; the survey lists 56 structures standing that no plan contains, and personnel are told which of them they are working inside.
@@ -279,17 +279,17 @@ Management: do not wake it, hold the sound floor, and read the settlement's dead
 
 **Entry 5 — <Structural Dependency Note, Unresolved>**
 The standing-structure survey now runs to 56 buildings present in the Old Lament that appear on no plan and belong to a settlement the Reconstruction Office struck off in Year 4186. It was 41 at the last review and 29 at the one before. The count tracks the Office's own return of struck-off settlements, which stands at 1,480 and has never gone down, because a striking-off is not reversible. This note is unresolved in the sense that the wing cannot say what the facility is standing on. It is not unresolved in the sense of being unclear.
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+The origin is a struck-off name and the people who went on living on it. The settlement was destroyed in a season the register does not describe and then removed from the list of places, which took longer and did more damage than the destruction: after that there was nowhere for the grief to be filed, no anniversary anybody could point to, and no way for the survivors to be said to have lost anything. Repose is that position in the ground — a place holding what was never permitted to count as a loss — and the reason it cannot be woken is that waking it would mean asking it to say whose.
 
 **Threat rating:** Critical (δ). It has never woken, never risen and never pursued anybody, and the grade is carried entirely by what the Old Lament is resting on. Effect: the exhaustion of mourning something that cannot be restored, delivered to personnel in their sleep the night after exposure rather than in the room.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Repose; the other feeds it.
+> Two ways to close a watch over the sleeper, and the file's own survey sheets separate them: one leaves the perimeter quiet and the dead named, and the other is the one action the holding has ever answered.
 
-| Do the thing on file: Do not wake it; reduce noise and acknowledge the dead. | Depart from the condition for good reasons, as Repose's record shows people do. |
+| Keep the perimeter quiet, acknowledge the dead by such names as the survey has recovered, and let the sleep run — the condition exactly, with the survey worked around the sleeper and no excavation opened across it. | Depart from the condition for good reasons, as the record shows people do: open the ground over the sleeper, raise the machinery, or press for a name that can be filed — the first wakes it, and the third is what the register already did once. |
 |---|---|
-| The figure sleeps more peacefully and the ruins settle. The sorrow is witnessed; Repose is fully recorded. | The dream shifts into a destructive collapse. The gauge climbs and Repose withdraws without revelation. |
+| The sleep quiets, the ruins settle where they stand, and the watch closes with the noise log held and the names acknowledged entered beside the fifty-six buildings the dream is holding up. | The dream turns over into a collapse: the standing walls come down across the perimeter and the entry closes with survey stakes lost and the site reposted as a collapse risk. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -308,7 +308,7 @@ Broken stone rises around a sleeping figure. Its breathing shifts the ruins like
 
 ### Interaction Pattern
 
-Repose does not exist in isolation. Its recorded relationships with The Broken Ruin, Fading Ruin, The Sleeping Wall should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings sit within reach of the sleeper — The Broken Ruin, Fading Ruin and The Sleeping Wall — and none of the three is an alliance. For every pairing, record whether the response changed in sound, movement, temperature, memory pressure, gauge or containment stability, together with the distance, duration, trigger and whatever is still standing after the parties are apart.
 
 **Interaction method:** Baseline across several quiet cycles — breathing, posture, the standing-structure survey — before anything is brought near, and note that the Old Lament is ambient rather than partitioned, so several interactions have been running for years without being recorded as such. The variable here is noise: any holding that produces sound, movement or alarm is interacting with this one continuously, at any distance. Log the acoustic record and the survey; the survey has moved twice and both movements were attributed to something else at the time.
 
@@ -367,7 +367,7 @@ Some sorrows mourn a place. This one mourns a place the city struck off its regi
 - Breathing has held between ten and twelve to the minute throughout the record. It is the first reading taken and the last.
 - Extraction is by hand, without powered tools, by the smallest party that can do it, and is abandoned at the first change in the breathing.
 **Cross-References:** The Broken Ruin · Fading Ruin · The Sleeping Wall · the Memory Archive transfer · the striking-off power · the Struck Register
-**Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
+**Faction Involvement:** SED on Desolate-territory exploration · Judexhan carrying the δ high-threat line, which here attaches to the dream's footprint rather than to the sleeper.
 **Originator:** The last survivor of a struck-off Outside Sorrow settlement, recorded once in the Desolate relief register as an arrival with no registered origin, who declined shelter and asked to be allowed to sleep.
 
 ### Registry Addendum
@@ -444,8 +444,8 @@ Three instructions. Read every name; a part-read list has produced a change in t
 
 ### Registry Trivia
 
-- **Classification detail:** Repose is a Subject with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone B, Old Lament — ambient.
+- **Classification detail:** Subject, Entity (IV) coherence, Critical (δ) potency: a sleeper that has never moved, has never struck anybody, and holds up fifty-six standing buildings by dreaming them. |
+- **Field detail:** Lament is its element and the struck-off ground in Old Lament at Zone B is its registered place — ambient, uncelled, and quieted rather than contained. |
 - **Recognition detail:** Identify by the materials. Broken timber, collapsed stone and ash fused into the shape of a resting person, salt-damp to the touch, weeping without waking.
 - **Record detail:** The Old Lament holds several Lament entities formed from destroyed settlements; confirm the designation O-IVδ-844 and the Subject-Lament manifestation before applying this file to any of them.
 - **Containment detail:** There is no cell and there will not be one, since building it would require the noise that construction makes. This holding is contained by a sound discipline, a count of the dead read aloud, and the fact that nobody has yet dropped anything heavy in the Old Lament. That is the entire arrangement, and it has held for the whole period of record.
