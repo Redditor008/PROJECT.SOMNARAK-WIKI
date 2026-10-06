@@ -2062,7 +2062,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 30 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-N-IIIβ-077 The Memory Thief 기록 도둑 — `__HASH__` — PUSH VERIFIED — [[SE-N-IIIβ-077_The_Memory_Thief_기록_도둑]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-077_The_Memory_Thief_%EA%B8%B0%EB%A1%9D_%EB%8F%84%EB%91%91.md "SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md")
+- SE-N-IIIβ-077 The Memory Thief 기록 도둑 — `381ee7f` — PUSH VERIFIED — [[SE-N-IIIβ-077_The_Memory_Thief_기록_도둑]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-077_The_Memory_Thief_%EA%B8%B0%EB%A1%9D_%EB%8F%84%EB%91%91.md "SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md")
 
 - SE-C-IVδ-092 Pyre of Truths 타오르는 도서관 — `d8f61a4` — PUSH VERIFIED — [[SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-092_Pyre_of_Truths_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EB%8F%84%EC%84%9C%EA%B4%80.md "SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md")
 
