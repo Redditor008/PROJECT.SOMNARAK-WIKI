@@ -63,6 +63,30 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 21 / unit 3 — Gavel `C-IVδ-140` closed; batch 21 closed at three (2026-10-06)** — measured at `28f5087`:
+  **8 dirty sections**, worst Behavior 0.410 (the 55-dossier *The gauge response is only meaningful in context*
+  line), then 관찰 기록 (Observation Log) 0.326 (four 14–21-dossier progression rows), Flavor Text 0.285 (the
+  32-dossier isolation line, three 21-dossier interaction shell rows and the three shared contact paragraphs),
+  Final Observation 0.164, M.A.W. Equipment 0.143 (the 10-dossier `| **Resistance** | 45% against Grudge
+  pressure …` row, a 12-dossier shared harness appearance and nine shared equipment lines), Combat Record 0.077,
+  Trivia 0.077 and Appearance 0.059. All eight closed in two waves (21 + 22 sites); 6,035 → **7,365 words**;
+  `tpl.py` residue 2 → **0**; `verify.py` residual 3 → **0** (the Operational Notes `is logged as`, the set-notes
+  `is a conditional extension of` and Story Log Entry 1); `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** on the file's own
+  figures — the **140** cases and **140** judgements of the Row's final sitting, the mean under **4** minutes a
+  case, the **2** clerks' initials, the **820** baseline, the **3** sectors the scale has moved across and the
+  **1** case read in full each year — **restated from its own record rather than invented for the clause**. Three
+  Registrum entries were reconciled with cause under `R-01`: Threat *Moderate* → **Critical (δ)**, the *Pugnahan is
+  the primary Work Type* row corrected to the behavior table and chamber record (Flerehan and Ferrehan lower the
+  scale; Pugnahan is recorded as guilt and is structurally self-defeating), and *Do not present personal
+  circumstances* corrected to presenting the record whole, since omission is what this entity treats as evidence.
+  Retiring the 10-dossier Grudge resistance row and the 12-dossier harness appearance took both lines below the
+  10-holder threshold archive-wide: residue lines 13 → **12**, instances 155 → **144**, carriers 88 → **82**, clean
+  dossiers 214 → **220**, file-clean 244 → **248 / 302**, median 0.013 → **0.012** and worst 0.114 → **0.112** —
+  and four beneficial section effects (The Inheritor 8 → **7**, Restless Gap 8 → **7**, Grieving Love 7 → **6**).
+  Movement: `R-29` 127 → **128 / 301**; section-clean 151 → **152 / 301**; residue-free 214 → **220 / 302**.
+  **Batch 21 closed at three** (Broken Tear, Floating Shard, Gavel).
+
 - **Batch 21 / unit 2 — Floating Shard `C-IVδ-503` closed (2026-10-06)** — measured at `cd7b32c`: **9 dirty sections**,
   worst Story Log 0.254 (the 48-dossier stock-tale carrier), then Registrum 0.186 (the *map, not the territory*
   interpretation and review-requirement shell lines), M.A.W. Equipment 0.168 (the 12-dossier `| **Resistance** | 45%

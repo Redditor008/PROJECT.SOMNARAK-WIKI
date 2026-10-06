@@ -20,13 +20,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 | Dossiers in the measured archive | 291 |
 | **Dossiers rewritten (fixed counter)** | **291 / 291** |
 | Unfinished-text breaks outstanding | 0 |
-| **Dossiers free of template residue (Workstream 6)** | **214 / 302** |
-| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **151 / 301** |
-| **Dossiers meeting `R-29` (Workstream 9)** | **127 / 301** |
+| **Dossiers free of template residue (Workstream 6)** | **220 / 302** |
+| **Dossiers section-clean (`R-27`, every description-bearing section ≤ 0.05)** | **152 / 301** |
+| **Dossiers meeting `R-29` (Workstream 9)** | **128 / 301** |
 | **Reference pages surveyed for the standard (Comparative Study 02, four per level)** | **20 / 20** |
 | **Pairings of our dossiers against the survey (Comparative Study 02)** | **10 / 10** |
 | **Breach balance (`R-28`)** | **RE 63/83 · SE 45/177 · OP 21/41 — all floors met** |
-| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 244 / 302 |
+| Dossiers file-clean (`R-24`, whole-file fraction ≤ 0.05 — secondary) | 248 / 302 |
 | Archive median prose generic fraction | 0.014 |
 | **Dispositions classified (Workstream 5)** | **301 / 301 — CLOSED** (re-based from 302 when the second Dawn of Mourning was retired) |
 
@@ -1678,6 +1678,25 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 `R-29` 121 → **122 / 301** (condition **256**); section-clean 145 → **146 / 301**; residue-free 208 → **209 /
 302**; file-clean 235 → **236 / 302**. **Batch 19 is closed at three.**
 
+
+**Batch 21, unit 3: Gavel `C-IVδ-140` closed; batch 21 closed at three.** Measured at `28f5087`: **8 dirty sections**,
+worst Behavior 0.410 (the 55-dossier *The gauge response is only meaningful in context* line), then Observation Log
+0.326, Flavor 0.285 (the 32-dossier isolation line and three 21-dossier interaction shell rows), Final Observation
+0.164, M.A.W. 0.143 (the 10-dossier Grudge resistance row and a 12-dossier harness appearance), Combat Record
+0.077, Trivia 0.077 and Appearance 0.059. All eight closed in two waves (21 + 22 sites); 6,035 → **7,365 words**;
+`tpl.py` residue 2 → **0**; `verify.py` residual 3 → **0**; `sectfile.py` ends at **0 section(s) over 0.05**;
+`wikistd.py` meets **True**. The `own_series` clause closed from **False** to **True** on the file's own figures
+(140 cases / 140 judgements, mean under 4 minutes, 2 clerks' initials, the 820 baseline, 3 sectors, 1 case read in
+full each year) — **restated from its own record**, disclosed as such. Three Registrum entries were reconciled with
+cause under `R-01`: Threat *Moderate* → **Critical (δ)**; *Pugnahan is the primary Work Type* corrected to the
+behavior table (Flerehan and Ferrehan lower the scale, Pugnahan is recorded as guilt); and *Do not present personal
+circumstances* corrected to presenting the record whole. Retiring the two carrier lines took them below the
+10-holder threshold archive-wide: residue lines 13 → **12**, instances 155 → **144**, carriers 88 → **82**, clean
+dossiers 214 → **220**, file-clean 244 → **248 / 302**, median 0.013 → **0.012**, worst 0.114 → **0.112**, with four
+beneficial section effects (The Inheritor 8 → **7**, Restless Gap 8 → **7**, Grieving Love 7 → **6**). Archive
+dirty sections 758 → **747**. Movement: `R-29` 127 → **128 / 301**; section-clean 151 → **152 / 301**; residue-free
+214 → **220 / 302**. **Batch 21 CLOSED at three — Broken Tear `N-IVδ-517`, Floating Shard `C-IVδ-503`, Gavel
+`C-IVδ-140`.**
 
 **Batch 21, unit 2: Floating Shard `C-IVδ-503` closed.** Measured at `cd7b32c`: **9 dirty sections**, worst Story Log
 0.254 (the 48-dossier stock-tale carrier), then Registrum 0.186, M.A.W. 0.168 (the 12-dossier resistance row, a
