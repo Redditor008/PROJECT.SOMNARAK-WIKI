@@ -63,6 +63,31 @@ This file records notable changes to the public Somnarak Wiki.
   147 → **148 / 301**; residue-free 210 → **211 / 302**; file-clean 238 → **240 / 302**. **Batch 20 stands at
   two of three.**
 
+- **Batch 21 / unit 1 — Broken Tear `N-IVδ-517` closed (2026-10-06)** — measured at `dd20965`: **9 dirty sections**,
+  worst Origin 0.268 (the 48-dossier stock-tale carrier), then Story Log 0.265 (the same tale family in Entry 5),
+  M.A.W. Equipment 0.210 (the 13-dossier `| **Resistance** | 45% against Lament pressure …` row, three shared
+  appearance lines and a 21-dossier set-notes line), Behavior 0.175 (the 37-dossier *Work Type data is one input
+  among many* line), Final Observation 0.161, Flavor Text 0.157 (the 53-dossier group-of-sorrows block, the
+  32-dossier isolation line and a 10-dossier procedure line), Combat Record 0.082, 관찰 기록 (Observation Log)
+  0.062 and Trivia 0.052. All nine closed in three waves (12 + 19 + 4 sites); 7,685 → **8,298 words**; `tpl.py`
+  residue 1 → **0** (the 13-dossier Lament resistance row, still live elsewhere at twelve holders); `verify.py`
+  residual 1 → **0** (Story Log Entry 1's `is logged as`); `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**. **Both clauses were already satisfied and were left alone** (`R-05`) — the condition
+  is the file's own *Do not interrupt or promise relief; remain present*, and the series already stood on the
+  chamber's own counted record (the flood front at 4 / 7 / 19 minutes by floor, moved by seconds in eleven years;
+  22 low-room posts, 9 relocated and 13 declined; the surrender order re-justified 7 times in 11 years and changed
+  once, in Year 4231). The Origin stock tale and Story Log Entry 5's copy of it were replaced with the file's own
+  material — the central document that reconstructs no conclusion, the three declined offers with the refusal
+  letter reproduced each time with only the date changed, and the Director's memo on the entrant pool and its
+  twice-queried roster cost. The 37-dossier behavior line was re-authored onto the roster as the first variable
+  (one entrant, no worker twice in a cycle, a stable gauge that means legible rather than quiet), the 53-dossier
+  group-of-sorrows block onto the constraint that an interaction study here runs across months and across people,
+  and the 13 shared equipment lines onto this set's own materials and costs. Benefits elsewhere: Unsaid Blossoms
+  6 → **5**, Memorial Flame 7 → **6**. Archive dirty sections 778 → **767**; residue instances 158 → **157**,
+  carriers 90 → **89**; median 0.014 → **0.013**, worst steady at **0.114**. Movement: `R-29` 125 → **126 / 301**;
+  section-clean 149 → **150 / 301**; residue-free 212 → **213 / 302**; file-clean 241 → **243 / 302**. **Batch 21
+  stands at one of three.**
+
 - **Batch 20 / unit 3 — Stranded Between Two Shores `C-IVδ-823` closed; batch 20 closed at three (2026-10-06)** —
   measured at `828991f`: **9 dirty sections**, worst Behavior 0.279 (the 51-dossier *Read the behavior table as a
   diagnostic, not a prescription* line), then Origin 0.273 (the 48-dossier stock-tale carrier), Observation Log

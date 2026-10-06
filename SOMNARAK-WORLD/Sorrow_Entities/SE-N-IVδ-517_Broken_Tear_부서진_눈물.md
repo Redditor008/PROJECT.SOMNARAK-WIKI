@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types |
+| **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the sound, which is not an attack: suppression equipment does not touch it, and every wearer hears it exactly as clearly as they did without protection |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 700/700 |
 | **Han Pressure [ATK]** | 30–65 per hit · Lament |
@@ -81,18 +81,18 @@
 | { *The Crack* [**Debuff**] } | "The tear has fractured — split into pieces — and each piece reflects a different facet of the same grief." | [The Tear's fragmentation multiplies the target's sorrow into many sharp-edged versions.] | *Target suffers -10 Composure; their grief is splintered.* **[10 Lament DMG [Lament]]** | When the target sees the broken Tear. |
 | { *The Sharp Edges* [**Debuff**] } | "Every fragment of the broken tear is sharp — and picking up one cuts you, and picking up another cuts deeper." | [The Tear's fragments wound with each contact; the target cannot gather their grief without bleeding.] | *Target loses 10 Composure; their sorrow is dangerous to hold.* **[10 Lament DMG [Lament]]** | When the target tries to collect the pieces. |
 | { *The Flying Shard* [**Attack**] } | "A fragment of the broken tear launches — crystallized grief, aimed like a needle." | [ A tear-shard projectile strikes.] | *Inflicts Lament pressure and one thin, deep, salty cut.* **[14-22 Lament DMG [Lament]]** | When the fragments are disturbed. |
-| { *The Full Shatter* [**Attack**] } | "Every fragment detonates — the broken tear becoming a grenade of crystallized sorrow." | [The Tear's total fragmentation releases all its stored grief.] | *A heavy Deep Blue shatter-burst; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the fragments are crushed. |
-| { *The Sea of Shards* [**Ultimate**] } | "Every tear in the field shatters — and the fragments fill the air, sharp and sorrowful and everywhere." | [The Tear extends its breaking across the whole area.] | *All in range suffer Lament pressure for three turns of shrapnel-grief.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Shatter* [**Attack**] } | "Every fragment goes at once — the whole grief released in a single throw, and none of it aimed." | [The Tear's total fragmentation releases all its stored grief across the vault floor.] | *A heavy Deep Blue shatter-burst; the target's Sorrow Gauge surges 15%, and the shards remain in the vault after the turn ends.* **[24-36 Lament DMG [Lament]]** | When the fragments are crushed, or when the entrant reaches for a comfort that is not meant. |
+| { *The Sea of Shards* [**Ultimate**] } | "Every tear in the vault goes at once, and the crying continues from the pieces." | [The Tear extends its breaking across the whole area, shards hanging in the air rather than falling.] | *All in range suffer Lament pressure for three turns of shrapnel-grief; the sound does not end when the turn count does.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Broken Tear is confirmed by the face, which cannot hold an arrangement, and by the sound, which is a lament in a style no living practice uses. The vault holds other dream-manifestations; this is the one that is always about to run and never does. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** The confirmation is a pair of findings at once — a face that cannot hold an arrangement, and a lament in a style no living practice uses, dated by form because no record of it exists. The vault holds other dream-manifestations; this is the one that is always about to run and never does. Position and withdrawal are established before the cycle opens, and the entrant pool is checked against the single-entry rule by a second person before the booking stands.
 2. **Clash:** Twenty-four turns inside the dream layer, all four Work Types available, worked by a single entrant with the rest of the team holding the vault outside. Nothing is said to the figure that the speaker does not mean, and nothing is promised. The engagement is not interrupted and not hurried; the entrant remains until the turn count is served or the layer closes.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not interrupt or promise relief; remain present**.
+3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Do not interrupt or promise relief; remain present** — one entrant, one entry, nothing said to the figure that the speaker does not mean, and the cycle closed on the clock when the lament does not end of its own accord.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
+- Failed resistance is a double loss: the worker absorbs the sorrow's pressure and loses **Clarity**, while the entity feeds on the destabilization and escalates the gauge — and the entrant is left carrying the figure's unfinished grief past the end of the shift, which the counselors log separately from the cycle itself.
 - Duration favours the entity. Sorrow saturates the dream layer as the cycle runs, and the entrant's own grief is drawn into the figure's — slowly enough that nobody notices the point at which they stopped observing a lament and started performing one. Exposure is capped by turn count rather than by felt distress, because felt distress arrives too late to be useful.
 - M.A.W. activation is an exchange with no concessions in it: power out, price in, with the parameters catalogued in the equipment file and the charge taken in the field. This set bills in tears. Wielders weep without occasion and without relief, at a frequency that rises with use, and the equipment file states plainly that the weeping does not discharge anything.
 - An unresolved encounter does not end, it floods. The figure leaves the layer and the vault, and sorrow fills the corridors faster than people move through them, which is why the response to this holding is written as a flood plan rather than as a containment action.
@@ -128,7 +128,7 @@
 - **The Sorrow:** The pain of crying for so long that the crying becomes a separate life.
 - **The Event:** A mourner died before finishing a lament; the final tear became a broken dream figure.
 - **The People:** One mourner, who wept for a lament they did not finish and died part-way through it. The central document in the file is an attempt to establish what was being performed, drawing on the district's funeral practice of the period, two family recollections recorded long afterward, and the surviving fragments of the form itself. It reaches no conclusion. Three offers from outside scholars to complete the reconstruction have been declined, and the ground for declining is recorded with each: the lament is unfinished, and a finished version of it would be somebody else's.
-- **Expanded origin context:** There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+- **Expanded origin context:** The file's central document is an attempt to establish what the mourner was performing. It draws on the district's funeral practice of the period, on two family recollections recorded long afterward, and on the surviving fragments of the form itself, and it reaches no conclusion. Three offers from outside scholars to complete the reconstruction have been declined; the refusal letter is reproduced each time with nothing changed but the date, and the ground it gives is that a completed lament would be the scholars' work and not the mourner's, and that the chamber already contains one thing that was finished by somebody other than the person who started it.
 
 ## Behavior
 
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Broken Tear is recorded as a Subject with Subject-Dream manifestation and Lament elemental expression. The current record places it at Zone A, Alpha Tree vault; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+Read the table against the roster rather than as a menu, because on this holding the roster is the first variable. All four Work Types are available and one entrant works the layer at a time with the rest of the team holding the vault, so a decrease is only as good as the person booked to it — and since no worker enters twice within a cycle, the reading series is assembled from different people and cannot be compared across entries the way the vault's other logs are. The vault holds other dream-manifestations. The record places this one at Zone A, Alpha Tree vault, and the one transferable assumption is the opposite of the usual one: a stable gauge here is not a quiet gauge but a legible one, since what a working cycle produces is a clearer figure rather than a lower reading.
 
 **Reading the response:** Read it in the face and in the sound. A falling gauge presents as the figure becoming clearer — the fracture slowing, the features holding an arrangement for longer, the tone softening toward something a listener could follow. Clarity is the success signal here, not quiet, and an entrant who takes silence for progress has usually mistaken the figure withdrawing for the figure settling. A rising gauge presents as **eloquence**. The entrant begins to find the right things to say. Phrases arrive easily, sound true as they are spoken, and are received — and this is the single most dangerous condition in the chamber, because the figure comes apart when it is comforted dishonestly, and nothing feels less dishonest than fluent sympathy. The breaking is not a defence. It is the entity coming to pieces.
 ## Breach Behavior
@@ -183,7 +183,7 @@ The prism sheds continuous streams of luminous blue tears that dissolve before t
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Lament damage against the Mind — emotional stability and willpower. The strike carries the source's signature, and those hit describe grief arriving without a subject attached to it.
+**Ability:** Deals Lament damage against the Mind — emotional stability and willpower. What the strike carries is a grief with no subject attached to it, which recipients describe as weeping for somebody they cannot identify and cannot stop picturing.
 
 **Cost:** The wielder carries the entity's unfinished grief and weeps without cause, more often the longer the piece is held, and never with any sense of release afterward.
 
@@ -191,7 +191,7 @@ The prism sheds continuous streams of luminous blue tears that dissolve before t
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a shroud of Lament Han-silk that hangs salt-damp and slightly cold, smells of rain on stone, and shows a film of moisture that does not transfer to whatever it touches.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -203,36 +203,36 @@ The prism sheds continuous streams of luminous blue tears that dissolve before t
 
 **Ability:** Grants resistance to Lament pressure, shielding the Mind against sorrow that is not the wearer's own. It holds against the pressure and not against the sound, which is not an attack and which every wearer reports hearing exactly as clearly as they did without it.
 
-**Cost:** The wearer goes numb to small pleasures — food, warmth, good news from home — while large griefs land undiminished.
+**Cost:** Small pleasures go dull in the wearer — food, warmth, good news from home — while large griefs arrive at full strength; the Armoury books it as a one-way exchange rather than as a tolerance.
 
 ### M.A.W. Stigma — Broken Tear Shard
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a shard-tile of Lament Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a shard-tile of Lament Han-crystal, warm to the touch and mirror-smooth on one face, that shows a crack across its own reflection when it is held up.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 to the working stat while this piece's source entity is the subject of the cycle, and nothing anywhere else
+**Effect:** +3 to the working stat inside this holding's cycles and to nothing else this post issues — the vault's instruments read the bonus as belonging to the layer, which is why it cannot be carried out of it.
 
 **Ability:** Absorbs one emotional shock and preserves its memory.
 
 **Cost:** The wearer hears the preserved crying during sleep.
 
-*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, and no entrant has ever been able to say what distinguished the cycle that produced one.*
+*The Stigma from this source is issued rather than manufactured, and it appears after a cycle the entity closes cleanly. No entrant has ever been able to name what made that cycle different from the ones that produced nothing, and the Armoury logs the uncertainty as part of the item's record rather than resolving it.*
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Broken Tear and carries what Broken Tear carries: the wielder carries the entity's unfinished grief and weeps without cause, more often the longer the piece is held, and never with any sense of release afterward. The grade describes extraction stability; the cost is in the column beside it and is the reason the set is issued one rotation at a time.
+The three pieces draw on one interrupted lament, and the cost follows the material: the wielder carries the entity's unfinished grief and weeps without cause, more often the longer the piece is held, and never with any sense of release afterward. On this set the reading is the entrant's own — two workers issued the same grade in the same month reported the weeping at different frequencies, and what tracked was hours worn rather than grade.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and one pre-check, Broken Tear's toll being that the wielder carries the entity's unfinished grief and weeps without cause, more often the longer the piece is held, and never with any sense of releas. |
-| **During use** | The first sign that Broken Tear is charging: the wielder carries the entity's unfinished grief and weeps without cause, more often the longer the piece is held, and never with any sense of releas. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | The wearer goes numb to small pleasures — food, warmth, good news from home — while large griefs land undiminished, and the wielder has stopped reporting it — the usual end point for a Broken Tear piece. The observer calls the limit. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Broken Tear's cost is still showing — the wearer goes numb to small pleasures — food, warmth, good news from home — while large griefs land undiminished. |
+| **Before use** | Wielder, piece, gauge, and the booking check: the roster consulted by a second person against the single-entry rule, since a piece in this set draws on a layer the same worker cannot re-enter inside a cycle. |
+| **During use** | The first sign is occasionless weeping, rising with hours worn rather than with the grade, and it is entered by the observer — the wielder reports an ordinary day. Logged with the hour, and the piece is withdrawn if the weeping starts arriving in company without a cause in the room. |
+| **At limit** | Small pleasures have gone dull in the wearer while large griefs arrive undiminished, and the wearer has stopped mentioning either. The observer calls the limit at that point, because the wielder's own account has stopped being usable. |
+| **After use** | Return the piece and interview a colleague, not the wielder: what the wearer has stopped enjoying, and whether the weeping has begun arriving in company. Both answers are entered against the holding rather than against the person, and the set is issued one rotation at a time on the strength of them. |
 
 **Stat interpretation:** The grade describes extraction stability and says nothing about human safety. A δ-grade piece from this source can draw cleanly for years while its wielder loses the capacity to be cheered by anything, a cost that no column records and that colleagues notice before the wielder does. Read the grade and the charge together and authorise on the charge.
 
@@ -252,18 +252,18 @@ Every piece in this set is a fragment of Broken Tear and carries what Broken Tea
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Broken Tear as a Subject with Subject-Dream manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree vault. |
+| **Initial exposure** | The observer identifies Broken Tear as a Subject with Subject-Dream manifestation, and the identification is made from inside the layer, since there is no outside view of it. The first reliable markers are the face, which cannot hold an arrangement, and the sound, which is a lament in a style no living practice uses; the vault holds other dream-manifestations, and this is the one that is always about to run and never does. |
 | **Sustained observation** | The degree of fracture, how long any arrangement of the features holds before it slips, the tone and tempo of the sound, and the distance maintained. Clarity is the success signal here; quiet is not. |
 | **Activation or escalation** | Eloquence. The entrant starts finding the right things to say and they land, which is the most dangerous condition in the chamber and the one that precedes the figure coming apart. |
 | **Post-contact review** | Written before the entrant speaks to anybody, because the layer's sorrow is persuasive and shared accounts converge fast. Anything hearable as a promise is logged as an exposure event against the holding, never as a fault. |
 
-**Observation method:** Observe from inside the layer, as the entrant, since there is no outside view of it. Record the first visible sign, the first emotional response and what prompted it, the first measurable change in the fracture or the tone, and the condition that ended the entry. The entity's appearance is its history made visible rather than a guide to behaviour: a figure made of one tear, whose face cannot stay whole, is what a grief looks like when it has gone on longer than the person grieving. Two instructions are specific to this holding. Nothing is promised, including the implication of a promise, and the entrant records anything they said that could be heard as one. And the entrant writes their account before speaking to anyone, because the layer's sorrow is persuasive and a shared account converges fast.
+**Observation method:** The entry is made from inside the layer; there is no outside view of it, and the entrant is the instrument. Record the fracture's degree at entry against its degree at exit, the distance the figure keeps, whether it approached or was approached, and what ended the entry. Two instructions specific to this holding are both prohibitions on speech. Nothing is promised, including the implication of a promise, and anything said that could be heard as one is entered by the speaker the same day; and the account is written before the entrant speaks to anybody, because the layer's sorrow is persuasive and shared accounts converge fast. The face is the entity's history made visible, not a guide to behaviour.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Tear (N-IVδ-517 [LS]) is logged as a Subject-Dream manifestation expressing Lament. The Tear formed from grief interrupted before it could complete its release. Held at Zone A, Alpha Tree vault. The crying has no measurable acoustic source.
+Broken Tear (N-IVδ-517 [LS]) is a Subject-Dream manifestation expressing Lament, and this entry is the containment description rather than the history: the Tear formed from grief interrupted before it could complete its release, held at Zone A, Alpha Tree vault, and the crying has no measurable acoustic source, which the vault has confirmed by instrument and cannot place by ear.
 
 **Entry 2 — <Excerpt from Alpha Tree Vault Dream-Entry Sheet, Year 4238>**
 Appears in dreams and Alpha Tree reflections. Personnel hear crying and experience another person's loss. The figure fractures when exposed to false comfort.
@@ -272,18 +272,18 @@ Appears in dreams and Alpha Tree reflections. Personnel hear crying and experien
 The pain of crying for so long that the crying becomes a separate life.
 
 **Entry 4 — <Containment Notice>**
-Management: Do not interrupt or promise relief; remain present. Work response — Flerehan: The figure becomes clearer and the sound softens. (Decrease); Pugnahan: The dream cracks and the crying intensifies. (Increase); Viderehan: Reveals the original loss beneath the sound. (Stable); Ferrehan: Tests whether the worker can remain through the entire lament. (Decrease). It is more active near liquid-memory entities.
+Management: Do not interrupt or promise relief; remain present. Work response — Flerehan: the figure becomes clearer and the sound softens (Decrease); Pugnahan: the dream cracks and the crying intensifies (Increase); Viderehan: the original loss surfaces beneath the sound (Stable); Ferrehan: the worker stays to the end of a lament that has no end, and the cycle closes on the clock (Decrease). Activity rises near liquid-memory holdings, measured as fracture rate rather than as volume.
 
 **Entry 5 — <Director's Memo on the Entrant Pool, Eyes Only>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Weaver who dreamed too deep. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+The memo is three paragraphs and its argument is arithmetic. The single-entry rule is quoted in full and attributed to the counselors rather than to operations, with the finding attached: the sorrow is cumulative across entries in a way it is not within one. What follows is the roster cost, stated plainly — honouring a one-entry-in-a-cycle rule without leaving the layer unstaffed requires a trained pool larger than the workload justifies — and the expense is itemized openly in the wing's return rather than absorbed into general training. It has been queried twice, the finding has been re-attached both times, and neither query was pursued further. The memo's last line notes that the cost has never yet been raised in the same year as the rule it protects.
 
 **Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Broken Tear; the other feeds it.
+> One reading of the record and one departure from it. What decides between them is what the entrant says in the layer: the figure becomes clearer under plain presence and comes apart under fluent comfort.
 
-| Do not interrupt or promise relief; remain present. | Depart from the condition for good reasons, as Broken Tear's record shows people do. |
+| Do the thing on file: stay to the end of the lament without filling its silences, and promise nothing. | Depart from the condition for good reasons, as Broken Tear's record shows people do — the entrant who reaches for a kindness that is not meant. |
 |---|---|
 | The figure becomes clearer and the sound softens. The sorrow is witnessed; Broken Tear is fully recorded. | The dream cracks and the crying intensifies. The gauge climbs and Broken Tear withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -304,14 +304,14 @@ A tear becomes a body in the dream. Its surface is cracked, and every crack cont
 
 ### Interaction Pattern
 
-Broken Tear does not exist in isolation. Its recorded relationships with The Frozen Tear, The Hollow Echo, The Soaking Shard should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Broken Tear is read against three vault-mates rather than in isolation, and the reading belongs to the vault rather than to a table: The Frozen Tear, The Hollow Echo and The Soaking Shard are all filed with it, all three are reached through the same entry protocol, and none of them is arranged in a shared layer without the counselors' agreement. The relations below are what the archive will support, and each is recorded in the terms it actually happened — a refusal count, a corridor sound, two layered entries ended early.
 
 **Interaction method:** Individual observation first, so that what each entity does alone is known before anything is claimed about the pair — and here the baseline is slow to build, because no worker enters this layer twice within a cycle and an interaction study therefore runs across months and across people. The relations on file concern dream-manifestation, unfinished mourning, and the Alpha Tree vault's other residents. Log the first mutual reaction, the triggering distance, the duration, the gauge change on both sides, the operational impact, and whether separation ends it.
 
 
 ### Entity Interaction Record
 
-Broken Tear must be assessed as one of a group of sorrows left unfinished by a death rather than as an isolated figure in the vault. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
+The relations below are the holdings this one has actually been tested against, and the tests were few. An interaction study here runs across months and across people, since no worker enters the layer twice within a cycle and no observer therefore sees the same pairing twice; the three entries are what survived that constraint. None of them is settled, and any of them may present as assistance, obstruction, indifference, or a condition that shows itself only under load. What the file does not do is infer a rule from one result.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -319,7 +319,7 @@ Broken Tear must be assessed as one of a group of sorrows left unfinished by a d
 | **The Hollow Echo** | The Echo carries the crying past the vault wall. | Documented on the Echo's side rather than this one: the sound arrives in corridors it has no path to, and the vault seal holds throughout. Nothing crosses but the lament, and this entity's own readings do not move. | Corridor reports with times, the Echo's log, and the seal check that follows each one. |
 | **The Soaking Shard** | Liquid memory meeting a grief with no liquid in it. | Two layered entries, both ended early by the entrant, both reporting that the sound acquired words that were not in either transcription. Neither entrant could repeat them on waking. Not arranged again. | Both accounts written before conferring, the early-termination times, and the gauge series from each side. |
 
-**Interaction procedure:** Baseline both parties alone, and admit the second to the layer only with the counselors' agreement, since a second presence doubles an exposure that is already capped at one entry. Log the first shared change with its distance, duration and trigger, the gauge movement on each side, and whatever persists after the entrant wakes. The field this holding adds is the sound, described independently by each observer before any of them confer.
+**Interaction procedure:** Baseline each holding alone first, and admit a second to the layer only with the counselors' agreement, since a second presence doubles an exposure that is already capped at one entry per worker per cycle. Record the first shared change with its distance, duration and trigger, the gauge movement on each side, and whatever persists after the entrant wakes. The field this holding adds is the sound: each observer describes what they heard independently, in writing, before any of them confer — which the file requires because the two musicologists' transcriptions disagree in several passages and both are kept.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -434,8 +434,8 @@ The safety office's objection is on the file and is not frivolous. It holds that
 
 ### Registry Trivia
 
-- **Classification detail:** Broken Tear is a Subject with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone A, Alpha Tree vault.
+- **Classification detail:** Broken Tear is a Subject with Entity (IV) coherence and Critical (δ) potency, and the threshold is 1 — a single failed or refused cycle is sufficient, and the figure does not recover its shape between them.
+- **Field detail:** Element Lament, registered to Zone A, Alpha Tree vault, where the vault holds the figure and cannot hold the sound.
 - **Recognition detail:** Identify it by the face, which cannot hold an arrangement, and by the sound, which is a lament in a style no living practice uses. The vault holds other dream-manifestations; this is the one that is always about to run and never does.
 - **Record detail:** Tear-form and mourning-derived entities recur throughout the archive and Zone A holds several. Confirm the designation and the manifestation before an entry is booked; the instructions diverge at the decisive point, which here is the prohibition on offering comfort that is not meant.
 - **Containment detail:** The vault holds the figure and does not hold the sound, which is audible to staff who have never entered the layer and which they describe as coming from no particular direction. The absence of physical trace spares this holding all the sample work that comparable chambers generate, and the protocol notes that ease and immediately qualifies it: no material also means no evidence, and nothing that happens in the layer can be corroborated afterward by anything but the entrant's account.
