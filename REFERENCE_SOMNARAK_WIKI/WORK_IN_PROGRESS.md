@@ -16,6 +16,22 @@ All figures below are measured, not estimated, and each names the tool that prod
 
 **Batch pacing, owner's correction, 2026-10-05 (`R-26` amended), reaffirmed by the owner the same day — "This Rule Need To Be Remember":** the batch ladder starts at **3**, not 5 — **3 > 5 > 7 > 10** SE files per batch, ratcheting up only while the units are genuinely simple by `R-26`'s own test, and stopping at whatever number was finished properly. **The minimum for any batch is three SE files**; the ceiling is ten, and a batch of fewer than three is permitted only by `R-26`'s quality clause and must be named and explained in the record rather than reported as a full batch. The superseded "start at five" wording is preserved in the rule file with the correction dated. The units in this cohort are *not* simple by that test — 11–12 dirty sections, full Interaction Records, 5,000–8,000 words — so the ladder stays at the floor of three per batch for this cohort, and the per-dossier conditions and one-`gate.sh`-per-dossier rule are unchanged. Two rows moved this turn without a unit touching them — residue-free 103 → 108 and file-clean 158 → 162 — because the four Rank V rewrites and Ephemera retired shared lines outright, and a line that drops below ten holders stops counting against every remaining dossier. That is the documented spillover effect; it is not work performed this turn.
 
+**Boilerplate audit, owner's observation, 2026-10-07 — *"Look Like From The 300 Something SE A Lot Of Then Just A
+Copy With Change Name"*:** measured with the new `tools/auditors/frame_dup.py`, which masks registry codes, sector ids,
+figures and each dossier's own name words before counting 6-grams — the class every existing gate is blind to. First run
+over **301 / 301** dossiers: **6,393 masked 6-gram families spanning >= 3 dossiers (36,023 instances = 4.8% of prose
+material)**; **9,705 grams in exactly-2-dossier pairs (1.3%)**, which no threshold of three or more can see; worst dossier
+**17.7%**, median **4.6%**, **18 / 301** above 10%, **78 / 301** above 6%. The widest families are whole sentences —
+**115 / 301** dossiers carry one sensory-description sentence with only the name changed, **82 / 301** carry the
+"objection is minuted at every annual review" paragraph, **71 / 301** an identical M.A.W. work-response line, **69 / 301**
+the identical Resolution prefix, **67 / 301** the defence-roster paragraph — and pairs such as Moktak
+`N-IIβ-910` / Passing Bell `N-IIβ-919` carry lines that are byte-identical. **Why the existing gates passed them:**
+`sect.py` / `sectfile.py` count 8-grams shared by >= 10 dossiers and mask nothing, and `tpl.py` compares raw lines. The
+`R-29` parity clause requires the same **sections**; it does not license the same **sentences**. **Proposal awaiting the
+owner's ruling:** adopt a frame counter — target, no family at >= 3 dossiers and no byte-identical prose line between
+two dossiers — and work the widest families first in units of ten, growth-only (`R-15`), each re-authored in the file's
+own terms. No dossier content was changed by this audit.
+
 | Measure | Value |
 |---|---|
 | Dossier body lines | 31314 |

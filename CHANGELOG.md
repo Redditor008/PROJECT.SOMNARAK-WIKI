@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Audit tooling — `tools/auditors/frame_dup.py` added (2026-10-07)** — measures repeated prose frames across
+  the wing with registry codes, sector ids, figures and each dossier's own name words masked, a class the standing gates
+  cannot see (`sect.py` / `sectfile.py` count 8-grams shared by >= 10 dossiers and mask nothing; `tpl.py` compares raw
+  lines, so a sentence with the dossier's own name or figures substituted into it matches nothing anywhere). First run
+  over **301 / 301** dossiers: **6,393 masked 6-gram families at >= 3 dossiers — 36,023 instances, 4.8% of prose
+  material** · **9,705 grams in exactly-2-dossier pairs, 1.3%** · worst dossier **17.7%** · median **4.6%** ·
+  **18 / 301** above 10%. Written after the owner's observation that many dossiers read like copies with the name changed;
+  read-only, not wired into `gate.sh`, and no dossier content was changed by the audit.
+
 - **Batch 43 closed at ten (2026-10-07)** — ten dossiers finished, all ten with their SE git links and closing commits
   recorded in `REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS.md` under **Batch 43 — CLOSED at ten**. Movement, b43 open
   (`59fa5d3`) → close: `R-29` 274 → **284 / 301** · parity 285 → **295 / 301** · condition 281 → **291 / 301** · series
