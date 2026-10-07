@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 37, unit 10: The Cracked Hourglass `C-IIIβ-036` closed.** Measured at `7468f46`: **2 dirty sections**, Trivia and
+Registrum — **closed in a single wave**; 7,671 → **7,790 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over
+0.05**; `wikistd.py` meets **True**. Disclosed: Entry 1's residual cleared line-locally, residual **1 → 0**; the
+condition clause re-registered in the rewritten resolution line; the file's own figures restated in numerals (2 other
+glasses · 4 pairings · 2 Work Types · 15-minute limit · 7-day check · 2 times a watch · 4 refills); a first wave attempt
+aborted pre-write on a truncated escalation row and the corrected wave ran whole. Movement: `R-29` 236 / 301;
+section-clean 269 / 301; archive dirty 58; file-clean 302 / 302. **Batch 37 stands at ten of ten.**
+
 **Batch 37, unit 9: Somnium `C-IVγ-175` closed.** Measured at `e8795be`: **1 dirty section**, Final Observation —
 **closed in a single wave**; 7,739 → **7,816 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**;
 `wikistd.py` meets **True**. Disclosed: Entry 1's residual cleared line-locally, residual **1 → 0**; condition clause
@@ -2578,6 +2586,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 37 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIIβ-036 The Cracked Hourglass 금이 간 모래시계 — `078a161` — PUSH VERIFIED — [[SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-036_The_Cracked_Hourglass_%EA%B8%88%EC%9D%B4_%EA%B0%84_%EB%AA%A8%EB%9E%98%EC%8B%9C%EA%B3%84.md "SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md")
 
 - SE-C-IVγ-175 Somnium 꿈의 직공 — `e868cda` — PUSH VERIFIED — [[SE-C-IVγ-175_Somnium_꿈의_직공]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-175_Somnium_%EA%BF%88%EC%9D%98_%EC%A7%81%EA%B3%B5.md "SE-C-IVγ-175_Somnium_꿈의_직공.md")
 

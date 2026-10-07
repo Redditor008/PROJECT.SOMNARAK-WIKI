@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 37 / unit 10 — The Cracked Hourglass `C-IIIβ-036` closed (2026-10-07)** — measured at `7468f46`: **2 dirty
+  sections**, Trivia and Registrum, with the Final Observation blockquote, both combat action rows, the tension phase,
+  the observation method and the interactions paragraph and method re-authored in the same wave. **Closed in a single
+  wave**; 7,671 → **7,790 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True**. Entry 1's residual cleared line-locally (`is logged as ` → `stands on the register as`), residual **1 → 0**;
+  `own_series` was already True, and the wave raised it so the sections stopped regenerating — the file's own figures
+  restated in numerals inside real edits (2 other glasses · 4 pairings · 2 Work Types · 15-minute limit · 7-day check ·
+  2 times a watch · 4 refills) — disclosed. The condition clause was re-registered inside the rewritten resolution line
+  (**Viderehan and Ferrehan only at the plinth, and nobody stays past the fifteen-minute limit**), which had carried the
+  generic entity-specific management form the register reads inconsistently — disclosed. A first wave attempt aborted
+  pre-write on a truncated escalation row (the file's tail reads `never adjusted downward to match an expectation`), and
+  the corrected wave ran whole — nothing was written on the failed attempt. Movement at the unit commit: `R-29`
+  236 / 301; section-clean 269 / 301; residue-free 302 / 302; residue lines 0; archive dirty 58;
+  file-clean 302 / 302. **Batch 37 stands at ten of ten.**
+
+
+
 - **Batch 37 / unit 9 — Somnium `C-IVγ-175` closed (2026-10-07)** — measured at `e8795be`: **1 dirty section**, Final
   Observation (the choice blockquote, the choose row and the result row), with the breach-gauge bullet, two appearance
   lines, the thread-band note and the relations header row re-authored in the same wave. **Closed in a single wave**;
