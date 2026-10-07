@@ -345,14 +345,14 @@ The ruin sits in the Collector's Row like a piece of winter. Its walls are broke
 
 ### Interaction Pattern
 
-The fragment's three filed relations are all Row records of what was done to people with no standing to object, and in proximity this one's edges brighten and nothing else changes. Each relation is read for one question only: does the other record make the Row easier to write about in the active voice, or does it give a reader somewhere else to look. None of the three is settled, and nothing read once in this file survives a Sorrow Tide, a breach elsewhere, an Ordeal or a transformation.
+The fragment's three filed relations are all Row records of what was done to people with no standing to object, and in proximity this one's edges brighten and nothing else changes. Each relation is read for one question only: does the other record make the Row easier to write about in the active voice, or does it give a reader somewhere else to look. None of the three is settled, and nothing read once in this file holds through later events — a Sorrow Tide, a breach in another wing, an Ordeal, a transformation.
 
 **Interaction method:** Document it alone first, with the district's paperwork alongside, since that is the variable. In shared conditions log the edge luminance and whether the other record altered it; nothing in the wing has yet lowered it, and the holding records that the only measure that has ever lowered it is a sentence with a subject in it.
 
 
 ### Entity Interaction Record
 
-It is filed with the Collector's Row records. The three relations below are what the archive will stand behind: not alliances, but three further records of what the Row did to people who had no standing to object. In proximity the fragment's edges brighten; nothing else about it changes, and the file has stopped waiting for the readings to disagree.
+It is filed with the Collector's Row records. The archive will stand behind the three relations set out here: not alliances, but three further records of what the Row did to people who had no standing to object. In proximity the fragment's edges brighten; nothing else about it changes, and the file has stopped waiting for the readings to disagree.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
