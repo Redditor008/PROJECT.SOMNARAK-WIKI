@@ -88,11 +88,11 @@
 
 1. **Tension:** The team locates the fallen leaf beneath the tunnel stone, confirms the frame is still standing and the hinges still seated, and agrees before entering that no place-name will be spoken for the duration of the cycle.
 2. **Clash:** Ten turns at most, and the Door does not strike at anyone. It shows the route and the people beyond it, and the engagement is decided by whether the party keeps working at a threshold they cannot cross or stops to look through it.
-3. **Resolution:** The cycle closes when the party has held position at the blocked threshold for its full duration without anyone naming somewhere else, and the gauge settles back beneath 25%.
+3. **Resolution:** The cycle is complete once the party has held position at the blocked threshold for its full duration without anyone naming somewhere else, and the gauge settles back beneath 25%.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
+- A worker who gives way under the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
 - Prolonged exposure does not intensify the effect so much as fix it in place. A worker who stays too long stops treating the Door as an assignment and begins treating it as a waiting area, and the recorded risk — remaining psychologically at the threshold — describes a person who continues reporting for shifts, performing duties, and quietly expecting to be let through.
 - Every piece cut from the Door charges in the same coin. The jamb-knife levers things open and leaves its wielder weeping; the shroud holds composure and flattens every small pleasure; the Key opens one blocked passage for a few seconds and hands the bearer the departure of everyone who ever waited behind it. The Door gives passage and takes the people.
 - Unworked, nothing ruptures. The Door stays exactly as it is, which is the condition it has held since the collapse, and the only thing that accumulates is the number of personnel who have stood in front of it and said a name out loud.
@@ -186,7 +186,7 @@ The table means nothing without its frame. Element, coherence and manifestation 
 
 ### Escalation Notes
 
-Escalation here has one shape and is not the standard breach event: the door begins to remember a second destination. The watch enters the first trigger, the change visible in the Object-Weight form, the distance at which the effect starts, and the line where the resonance settles. Lament is the element and the deep tunnels of Zone B the post, so emotional and behavioural indicators are written in beside the physical telemetry.
+Escalation here has one shape and is not the standard breach event: the door begins to remember a second destination. The watch logs the first trigger, the change to the Object-Weight form itself, the range at which the effect begins, and the line where the resonance settles. Lament is the element and the deep tunnels of Zone B the post, so emotional and behavioural indicators are written in beside the physical telemetry.
 
 **Response sequence:** Control speech before you control the ground. The activation condition for this entity is a named destination spoken aloud at the threshold, which means the ordinary language of an emergency response — ordering personnel back to the surface, calling a muster point, telling someone to get home — is itself the trigger. Responders use designations and directions only: *back along the tunnel*, *to the marker*, *to me*. Then establish who touched the leaf, how long the memory held, and whether it has faded. Do not attempt to clear the stone. The collapse is not debris; it is the entity.
 
@@ -261,7 +261,7 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 **Cost:** The user feels the departure of everyone who once waited behind it.
 
-*The Key is given, not taken. It has appeared only on workers who finished a Ferrehan cycle at the threshold without once asking to be let through, and no procedure has produced one deliberately.*
+*The Key is given, never taken. It appears only on a worker who finished a Ferrehan cycle at the threshold without once asking to be let through, and no procedure has produced one deliberately.*
 
 ### M.A.W. Use Notes
 
@@ -304,7 +304,7 @@ Each piece remains part of the Door, and the set has one consistent property tha
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Portcullis (O-Iα-794 [LO]) is logged as an Object-Weight manifestation expressing Lament, sealed under its own collapse in the Zone B deep tunnels. The mechanism is undamaged, it has never opened, and the memory it offers holds longer at every annual return.
+The Portcullis's file entry (O-Iα-794 [LO]) reads Object-Weight manifestation, Lament expressed, sealed under its own collapse in the Zone B deep tunnels. The mechanism is undamaged, it has never opened, and the memory it offers holds longer at every annual return.
 
 **Entry 2 — <Tunnel Survey Note, Zone B, Year 4238>**
 Light in the frame at a spoken destination; memory held 28 seconds against 19 and 11 at the preceding returns. Frame square to within the instrument's resolution. Hinge pins seated. Stone depth over the leaf unchanged at 2.4 metres.
@@ -313,7 +313,7 @@ Light in the frame at a spoken destination; memory held 28 seconds against 19 an
 The burden of being trapped at the moment of departure.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Reveals the people and route beyond the door. (Stable); Ferrehan: Tests whether the worker can remain at a blocked threshold. (Decrease). Personnel report grief rather than fear.
+Work response — Viderehan: Reveals the people and route beyond the door. (Stable); Ferrehan: Checks how long a worker can stay at a blocked threshold. (Decrease). Personnel report grief rather than fear.
 
 **Entry 5 — <Archive Note>**
 The inquiry found that nothing outside anybody's remit had occurred, and the finding has never been challenged because it is true. Two offices acted lawfully and a doorway took the sum of both. The Scope Office prints the case in its training material as the clearest instance it holds of an unattributable harm, and the Zone B survey reads the memory duration against the Office's annual return of them, which is a use the training material does not mention.
@@ -343,7 +343,7 @@ Stone covers the door, but the frame remains. You place your hand on the fallen 
 
 ### Interaction Pattern
 
-Portcullis does not exist in isolation. Its recorded relationships with Doorway to Nowhere, The Final Door, The Silent Bell should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Portcullis does not exist in isolation. Its recorded relationships with Doorway to Nowhere, The Final Door, The Silent Bell should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is brought near, the watch sets down what the answer did on each axis — sound, movement, temperature, memory, gauge, containment stability — rather than assuming a shared theme.
 
 **Interaction method:** Establish the Door's solo behaviour across several silent cycles first, which for this entity means cycles in which no destination was named by anyone present — a harder control condition to maintain than it sounds, and one that must be verified from the transcript rather than assumed. When a second entity is introduced, observe a constraint peculiar to this holding: any entity whose designation includes a place can be named without intending to name a destination, and the Door does not appear to distinguish the two. Interaction studies here are therefore conducted using codes only, with the second entity referred to by designation and never by its location. Log separation, duration, gauge movement, and whether the frame lit.
 
@@ -368,9 +368,9 @@ The door was a passage — a doorway in the tunnel system, a threshold between t
 
 The collapse sealed the door. The Han-surge, the structural failure, the tunnel coming down — the forces sealed the doorway mid-passage, trapping people on both sides. The ones heading out, feet from the threshold, were trapped inside. The ones heading in, feet from the threshold, were sealed out. And the door between them — the passage, the threshold, the boundary — was sealed. Permanent. Impassable.
 
-Portcullis is Object-Weight, Lament-element: the figure of a passage closed before the passage could be completed — the burden of being trapped at the moment of departure, the specific sorrow of reaching the threshold and finding it sealed. The Door does not trap the body (the ones inside were rescued, eventually, or not). The Door traps the moment — the specific, frozen instant of mid-passage, the threshold reached and denied, the departure interrupted by a collapse that turned the door from a passage into a wall.
+Portcullis is an Object-Weight sorrow of Lament: the figure of a passage closed before the passage could be completed — the burden of being trapped at the moment of departure, the specific sorrow of reaching the threshold and finding it sealed. The Door does not trap the body (the ones inside were rescued, eventually, or not). The Door traps the moment — the specific, frozen instant of mid-passage, the threshold reached and denied, the departure interrupted by a collapse that turned the door from a passage into a wall.
 
-Those who come near the Portcullis feel the specific burden of the interrupted departure — the weight of being sealed at the threshold, of reaching the door and finding it closed, of the specific, devastating grief of being trapped at the moment you were leaving — so close to the exit that you could see the other side, and sealed, permanently, on the wrong one.
+Stand before the Portcullis and the burden of the interrupted departure settles on you — the weight of being sealed at the threshold, of reaching the door and finding it closed, of the specific, devastating grief of being trapped at the moment you were leaving — so close to the exit that you could see the other side, and sealed, permanently, on the wrong one.
 
 Some sorrows mourn a collapse. Portcullis mourns the threshold — the passage sealed mid-crossing, the departure interrupted, the door that was open and that the collapse closed while people were still in the act of walking through it.
 ## 증언 (Testimonium) — The Testimony
@@ -426,7 +426,7 @@ Year 4237: 2,210 minutes called; 1,476 completed, the remainder lapsing because 
 
 The costs are printed on the calling form. The injured party may not be present: a person in the room is a complainant, a complainant requires somebody to complain against, and attribution is the thing the scope rule removed. The minute is inadmissible everywhere — no proceeding may cite it, no inquiry may rely on it — because a minute that could be used would be a finding reached without jurisdiction, which is the 4181 schedule coming back with better manners. And attendance cannot be compelled, since compelling an office to answer outside its remit is the same wrong in a different direction; a third of minutes therefore end as a single office's account of an event it only half caused.
 
-The minute clerks asked for one power. Not a finding, not blame: the power to require a remedy where the remedy is cheap, uncontested, and both offices agree it should be done. Refused, and the refusal is correct on every line — a power to require is a determination, a determination is an attribution, and an attribution made by a body with no jurisdiction over either office is precisely what was abolished. Their submission is bound into the Year 4224 return, recorded as correct and unanswered, and the Zone B survey keeps a copy in the transcript box at the threshold: we stopped blaming men for what they could not decide, and some things happen in the space between two correct decisions, and a door closed on people from both sides at once with nobody in the wrong anywhere in the building.
+The minute clerks asked for one power. Not a finding, not blame: the power to require a remedy where the remedy is cheap, uncontested, and both offices agree it should be done. Refused, and the file sustains the refusal on every line — a power to require is a determination, a determination is an attribution, and an attribution made by a body with no jurisdiction over either office is precisely what was abolished. Their submission is bound into the Year 4224 return, and no answer to it has ever been entered, and the Zone B survey keeps a copy in the transcript box at the threshold: we stopped blaming men for what they could not decide, and some things happen in the space between two correct decisions, and a door closed on people from both sides at once with nobody in the wrong anywhere in the building.
 
 ## Trivia
 
