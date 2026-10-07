@@ -55,8 +55,8 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Grudge pressure; 24% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 427/427 |
-| **Han Pressure [ATK]** | 17–26 per hit · Grudge |
+| **Sorrow Gauge [HP]** | 427/427 — read at the plinth and again in the hand; the figure tracks the bearer’s pulse rather than the watch. |
+| **Han Pressure [ATK]** | 17–26 on every strike · Grudge, taken off the beat rather than off the blow |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
@@ -66,15 +66,15 @@
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
+| **Battle Length** | Medium, at full duration — 16 turns, timed from first contact with the stone. |
 | **Threat Role** | Sovereign encounter |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 35–50% — the low end belongs to watches opened with the stone still on its plinth. |
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-902 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Resolution Condition** | Viderehan and Ferrehan through to containment: the gauge brought down by work and never by force, with the stone back on the plinth and the hand opened slowly. |
 
 ### Combat Actions
 
@@ -204,21 +204,21 @@ Escalation here is transfer. The relic does not leave the plinth, has never left
 
 **Type:** Weapon | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a single-edged blade of Grudge Han-iron, dark and faintly warm, that glows along its edge when readied.
+**Appearance:** a single-edged blade of Grudge Han-iron, dark and faintly warm while it rests, that takes a glow along the edge when it is readied and keeps it until the hand opens.
 
 **Damage:** Grudge 14–22 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels grudge body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
-**Cost:** The wielder experiences mild memory fragmentation with each use.
+**Ability:** Channels grudge at the body register in each strike: the edge goes for the target's grief before it goes for the target, and the wound it leaves is one a physician cannot find.
+**Cost:** Each use takes a few minutes of the wielder’s memory with it — mild, cumulative, and recorded by the Armoury against the bearer rather than the blade.
 
 ### M.A.W. Suit — Beating Relic's Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a flowing veil of Grudge Han-cloth, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a veil cut from Grudge Han-cloth, dark and faintly warm to the room, that turns cold the moment it is worn against the skin — the reversal is the wearer’s first sign that the veil is doing anything at all.
 
 **Resistances:** Grudge: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
-**Ability:** Grants resistance to Grudge damage, protecting against the body register of sorrow.
+**Ability:** Grants resistance to Grudge damage, shielding the body register of sorrow — what the relic spends is spent against the body first, and the veil is cut for that order of attack.
 
 ### M.A.W. Stigma — Beating Relic's Token
 
