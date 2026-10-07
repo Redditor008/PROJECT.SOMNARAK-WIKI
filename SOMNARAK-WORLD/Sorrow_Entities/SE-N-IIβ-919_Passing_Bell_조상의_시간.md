@@ -101,7 +101,7 @@
 **Primary Form:** An hour, once per cycle, during which the voices of the dead become audible in Zone A. They do not speak to the living — they speak to each other, and what they say is always a warning that the living cannot decipher in time.
 
 **Notable Features:**
-- Expresses Weight pressure in a spirit register.
+- The pressure at this station is weight on the way in and spirit on the way out; the voices do the second half.
 - No reading of the hour can be mistaken for a general time entity's: the form that answers at this station is spirit, and it answers by name.
 - A sealed sector with two chairs, a ledger, and no equipment of any kind.
 
@@ -279,7 +279,7 @@ The hour is a conversation you are not in. The voices are ordinary, unhurried, a
 
 ## 상호작용 (Entity Interactions)
 
-The bell at this station is rung for ancestors, and the hour has never been run with a second holding beside it. The rows below come off the appendix that sorts the 90x holdings by manifestation, each read against the two files' own series; the two transcripts this record keeps have never been reconciled, and neither is the page that follows.
+The bell at this station is rung for ancestors, and the hour has never been run with a second holding beside it. Three pairings follow, drawn up while the hour was sealed, and no sheet but the two transcripts was consulted on any of them. Those two books have never been reconciled with each other, and the page below does not attempt it either.
 
 **Interaction method:** Fix the hour's own figures first — the two transcripts, the sealed books, the warnings copied into the ledger — established alone across a full cycle before any comparison is entered. Then lay the other record's series beside them and enter the first divergence, its range, what set it off, and whether either series moved. Re-verify each quarter.
 
@@ -300,7 +300,7 @@ Floor 4 has studied Passing Bell for cycles. Their findings are classified, but 
 
 Personnel who work Passing Bell do not simply feel weight pressure. They feel weight pressure filtered through spirit — and that filter changes everything. The protocols, the M.A.W. calibration, the recovery time — all of it must account for the spirit register or the work will fail.
 
-Nothing at this station shouts and nothing weeps. It keeps its register — spirit and weight — with the patience of an hour that has already been lived through once. Passing Bell is not the loudest thing in Somnarak; it is the most particular, and a city that hands grief out in the same shape to everyone has nothing to answer with when the bell knows whose hour it is marking.
+The station is quiet in both senses: nobody raises a voice and nobody cries. The hour carries spirit and weight together, and it carries them the way the dead carry a conversation — unbothered by the living standing nearby. Passing Bell does not compete for loudest in Somnarak; it is simply the one that names names. The city's common grief, issued by the measure to every citizen, has no reply for a bell that knows whose hour it rings.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -357,7 +357,7 @@ The grief behind it is particular rather than general, and the commissioning mat
 
 - One of the first catalogued **Time-Spirit** entities in Somnarak.
 - Among the time entities on file, this is the only one whose descriptor reads spirit first and clock second.
-- The weight pressure in the spirit register feels different from standard weight — more specific, more personal.
+- Standard weight is a measurement taken off a crowd. This one is addressed: the hour knows who is standing in it, and the weight says so.
 
 ## Document Information
 
