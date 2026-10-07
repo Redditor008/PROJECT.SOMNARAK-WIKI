@@ -88,14 +88,14 @@
 
 1. **Tension:** Identification first: the tears and the mapped site, never the face — the face has been described differently by every observer who has stood there, and all the descriptions are kept, because the disagreement is the finding. The approach is set after that, and the positions are taken.
 2. **Clash:** Flerehan and Ferrehan from the watch position. Pugnahan is not applied: it answers confrontation with waves of other people's memory and the gauge climbs for the rest of the cycle. The names in the tears are read and written down as they fall; they are not spoken back and they are not searched.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Speak the names carried by the tears; do not deny the return**. The clause governs the watch: the names are said aloud as they were carried, the return is not argued with, and the record closes on what was heard rather than on what anybody decided it meant.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Speak the names carried by the tears; do not deny the return**. The clause rules the watch: each name is spoken as it was carried, the return is met without argument, and the entry closes on what was heard, not on anybody's reading of it.
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
-- Nemo’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Nemo's dossier.
+- A worker with no purchase against what the tree carries turns into a channel for it: **Clarity** is ground away, and the disturbance that follows feeds straight back into the gauge.
+- The effects on the file worsen with time at the tree. An hour that can be carried becomes, past the cycle, something that takes a worker apart — in feeling first, then in the body, then in who they take themselves to be, then in the room around them.
+- Every draw on the set is charged against the wearer in person — composure, private recollection and the body's stamina — at figures the standard grade ledgers have no column for.
+- With the watch unresolved the grief does not thin out; it turns back into its own ground and lights off the escalation recorded in this file.
 
 ## Appearance
 **Primary Form:** A translucent figure that returns whenever its tears fall. Each tear carries a name.
@@ -265,7 +265,7 @@ The blade is held by the watch's medic and has never been swung. The shroud belo
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Nemo (N-IIIγ-589 [D]) stands on the register as a Subject-Lament manifestation expressing Lament, held at Zone A, Alpha Tree, on a two-person watch. It is permanently present and intermittently visible. Names in its tears are written, counted, never spoken back and never searched against any register.
+Nemo (N-IIIγ-589 [D]) is filed as Subject-Lament, expressing Lament, at Zone A, the Alpha Tree, under a two-person watch. It is always present and only sometimes visible. The names carried in its tears are taken down, tallied, never said back, and never run against any register.
 
 **Entry 2 — <Excerpt from Gate Desk Presentation Tally, Year 4238>**
 Presentations by former personnel at the desk this quarter, 311. Answered, nil, per the standing rule. Logged, 311, logging not being contact. The clerk's margin note on the sheet reads: four of these were the same man.
@@ -306,7 +306,7 @@ A figure appears at the doorway, wet with tears. You recognize nothing about it,
 
 ### Interaction Pattern
 
-Three holdings sit in Nemo's working range — The Lost Prince, The Forgotten Name and The Sorrow Gate — and each is a resonance question rather than an alliance or a standing quarrel. Where a pairing is run, enter what the answer did in sound, movement, temperature, memory pressure, gauge or containment stability, with range, duration and trigger beside it.
+Three files are kept within Nemo's range — The Lost Prince, The Forgotten Name and The Sorrow Gate — and it calls none of them ally or rival; every one is a question the archive has left standing. If a pairing is ever run, the entry records what altered in the sound and the temperature, in what is remembered and what is measured, and where the gauge and the containment line finished, together with how close it stood, how long it held, and the thing that began it.
 
 **Interaction method:** The question on this holding is always the name count: whether it moved while the other file was near, in which direction, and whether any name appeared in the tears that had appeared before. All three related files turn on a person who is missing from a record, which is why the watch is briefed on the differences rather than the resemblance before any joint event.
 
@@ -359,7 +359,7 @@ Some sorrows mourn exile. This one mourns the return, and it has been counting o
 - Names are written, counted, left unspoken and never searched against any register. Both restrictions are original and reaffirmed at every review.
 - Speaking a name back to it is prohibited; the earlier management line instructing exactly that has been struck as the single reliable cause of a gauge excursion.
 - A crew agreeing on a name for it between themselves is a reportable precursor.
-- The Answered Return is a containment condition of this holding and binds every presentation by a former worker at any desk in this facility.
+- The Answered Return is a condition of containment here, and it binds every desk in the building the moment a former worker appears at one.
 **Observation Notes:**
 - Name count taken every cycle: twenty-two this cycle, fourteen in the last, rising across the life of the holding.
 - The count runs with the gate desk tally of former personnel logged rather than answered; tested against interval, site, season, watch staffing and the Alpha Tree cycles, none of which fit.
@@ -395,11 +395,11 @@ Nothing in the existing Record is overturned. The names are still unspoken and s
 
 What it costs is the clean conscience of the no-contact rule. The rule is right, it was asked for by the people it protects, and the Personnel Office has never had to defend it against an argument of equal weight. The watch's position is narrower: that absolute was the wrong word, that a rule written to stop us pursuing people was read as forbidding us to answer them, and that we have been logging three hundred a quarter at our own door while writing down other people's names at the Alpha Tree and declining to say any of them aloud.
 
-The operational consequence lies outside the watch. Nothing done at the Alpha Tree has ever moved the count — not longer watches, not the four years of instrumented recording, not the discouragement of offered names. The only thing that has moved with it is the Answered Return: any former worker who presents in person is answered once, that day, by a named officer, in a recorded interview, with their service record read back to them and a copy given, and no invitation, follow-up or further contact of any kind. In Year 4237 that answered 1,106 of 1,180 presentations; 74 were declined on the returner's own standing written request; 23 interviews were followed by claims against the Company; 11 returners presented repeatedly, four of them more than a dozen times, and the rule contains no mechanism for stopping, because a mechanism for stopping is the old rule again; and one clerk read a man his record, correctly and completely, including a Fracture finding from eleven years earlier that he had never been told of, and he died by his own hand eleven days later. The inquiry found the reading-back proper. The clerk resigned. The file records that beside the name count, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
+Whatever moves the count does not move on the ground at the tree. Longer watches, four years of instrumented recording, even discouraging the offering of names — none of it has ever shifted the figure. The one thing that travels with it is the Answered Return: a former worker who walks in is met the same day, once, by an officer with a name, in a recorded interview; the service record is read back and a copy handed over; no invitation, no follow-up, no further contact of any kind. In Year 4237 that answered 1,106 of 1,180 presentations; 74 were declined on the returner's own standing written request; 23 interviews were followed by claims against the Company; 11 returners presented repeatedly, four of them more than a dozen times, and the rule contains no mechanism for stopping, because a mechanism for stopping is the old rule again; and one clerk read a man his record, correctly and completely, including a Fracture finding from eleven years earlier that he had never been told of, and he died by his own hand eleven days later. The inquiry found the reading-back proper. The clerk resigned. The file records that beside the name count, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
 
 ### Returned to No One
 
-A person came back from exile and found their family, their record, and their name gone, and the commissioning file holds the search they conducted — the offices visited, the enquiries lodged, the replies received. The replies are uniformly courteous and uniformly empty. They are reproduced in sequence, and the archivist's note observes that the file is in effect a correspondence between one person and an administration that had no entry for them, preserved from the only side that kept copies. The correspondence is held in date order with the enquiries and the replies interleaved, so the shape of the exchange is visible on the page rather than requiring reconstruction. The paper is brittle at the folds and is handled with the file closed wherever a reading can be taken from the index instead.
+Someone came home out of exile to find the family, the file and the name all gone, and the commissioning material holds the search they made for themselves — the desks attended, the enquiries lodged, the answers sent back. Every answer is courteous and every answer is empty. They are reproduced in the order they came, and the note filed with them reads the folder as a correspondence between one person and an administration that held no entry for them, kept from the only side that kept copies at all. The correspondence is held in date order with the enquiries and the replies interleaved, so the shape of the exchange is visible on the page rather than requiring reconstruction. The paper is brittle at the folds and is handled with the file closed wherever a reading can be taken from the index instead.
 
 ## Trivia
 
