@@ -42,7 +42,7 @@
 - The fury is held mid-expression on Collector's Row and does not complete, though nothing restrains it.
 - Work extends the hold. No session has released it, and the expression is unchanged between inspections.
 - Viderehan and Ferrehan are the valid approaches to the object, and the older registry line naming Pugnahan as primary does not survive the Object/Place rule; the correction is entered in the Registrum below.
-- There is no breach counter. The affected radius grows along the Row, and its edge is marked physically at every session.
+- The file carries no breach counter. The affected radius grows along the Row, and its edge is marked physically at every session.
 - Extraction draws from residue at the edge under separate authorization.
 
 ## Combat Record
@@ -88,7 +88,7 @@
 ### Battle Phases
 
 1. **Tension:** The marker is the temperature and the edges. Kill the bay lights and read the fracture glow in darkness against the step wedge at one metre — crimson, silent, heatless, meaningless in any other condition — then confirm the designation, note the interior temperature no instrument will return a value for, and check the margin of original ground before positions are taken.
-2. **Clash:** There is nothing to fight and nothing to move; the fragment weighs what a building weighs. The team reads the edge glow in the dark bay against the step wedge, works Viderehan and Ferrehan only, and states aloud at the start of the cycle who cleared the district. That sentence is part of the procedure and is minuted.
+2. **Clash:** The team fights nothing and moves nothing; the fragment weighs what a building weighs. The team reads the edge glow in the dark bay against the step wedge, works Viderehan and Ferrehan only, and states aloud at the start of the cycle who cleared the district. That sentence is part of the procedure and is minuted.
 3. **Resolution:** The cycle ends when the luminance reading agrees twice, the week's district paperwork is attached, and the margin of original ground has been swept by hand. There is no suppression step. The fragment has never harmed anybody and the holding has twice refused to pretend otherwise in order to justify its budget.
 
 ### Consequences
@@ -145,7 +145,7 @@
 
 ### Operational Work Notes
 
-The table is the whole method, and it is short because the holding is narrow. Frozen Fury is an Object/Place with an Object-Grudge manifestation and a Void expression, held in the frozen bay on Collector's Row, and the two valid approaches are the two that do not require the object to be a person: Viderehan reads what is under the ruin, and Ferrehan tests whether a worker can stand among absent lives without reaching for a sentence that tidies them away. A stable gauge is not a safe cycle. Viderehan holds it flat by design and still leaves the observer with a register of names they would rather have not read.
+The table is the whole method, and it is short because the holding is narrow. Frozen Fury is filed as an Object/Place — Object-Grudge for its manifestation, Void for its expression — held in the frozen bay on Collector's Row, and the two valid approaches are the two that do not require the object to be a person: Viderehan reads what is under the ruin, and Ferrehan tests whether a worker can stand among absent lives without reaching for a sentence that tidies them away. A steady reading is not the same as a quiet cycle here. Viderehan holds it flat by design and still leaves the observer with a register of names they would rather have not read.
 
 **Reading the response:** A falling reading means the week's paperwork named an agent. Stability under Viderehan is correct. The edges brighten on documents that describe the district as vacated, abandoned, or emptied with nobody doing the emptying, and the two brightest readings on record both followed entries that were, grammatically, entirely proper.
 ## Activation Behavior
@@ -264,7 +264,7 @@ Escalation here is a language event rather than a pressure event. Record the fir
 
 ### M.A.W. Use Notes
 
-Every piece in this set is cut from a place that was emptied and then written about as though it emptied itself. What the pieces take is the same thing the clearance took: names, beginning with the names of streets the wielder grew up on, then the names of the people who lived on them. The grade describes extraction stability and says nothing about that, and the reason the set is issued one rotation at a time is not the damage figures — it is that a wielder from this source writes unusually well about losses that are not theirs.
+Each piece cut to this pattern comes from a place that was emptied and then written about as though it emptied itself. What the pieces take is the same thing the clearance took: names, beginning with the names of streets the wielder grew up on, then the names of the people who lived on them. The grade describes extraction stability and says nothing about that, and the reason the set is issued one rotation at a time is not the damage figures — it is that a wielder from this source writes unusually well about losses that are not theirs.
 
 ### Field Use Record
 
@@ -304,7 +304,7 @@ Every piece in this set is cut from a place that was emptied and then written ab
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Frozen Fury (C-IVδ-668 [O]) is carried on the wing's register as an Object-Grudge manifestation expressing Void. The Ruin formed from a place emptied by institutional violence. Held at Zone C, Collector's Row. It is not physically movable, and the fracture edges are read weekly in darkness against the step wedge.
+Frozen Fury's register entry (C-IVδ-668 [O]) reads Object-Grudge manifestation, Void expressed, and the entry has not been amended since. The Ruin formed from a place emptied by institutional violence. Held at Zone C, Collector's Row. It is not physically movable, and the fracture edges are read weekly in darkness against the step wedge.
 
 **Entry 2 — <District Return: Eighty-Seven Documents, Nineteen With an Agent>**
 Documents filed in the district in 4238 describing the clearance or its aftermath: eighty-seven. Naming the party that carried it out: nineteen. Written without an agent — vacated, abandoned, emptied, lost — sixty-eight. Edge luminance, read in darkness against the step wedge: lowest in the fortnight following the wing's nineteenth letter, which was copied to the municipal registry and compelled a correction; highest in the week the tenancy notes were reissued in tidied language. The fragment did not move, warm, or crack in either fortnight. Nothing about it is dramatic.
@@ -313,7 +313,7 @@ Documents filed in the district in 4238 describing the clearance or its aftermat
 "I touched it, which I was not supposed to do, and I was in a doorway on the ninth day. What I want on the record is not the fear. It is that I was furious and the fury was not mine and it was completely reasonable. I came out of it and went and read the municipal entry, which I had read before and thought nothing of, and it says the district was vacated. Somebody vacated it. There is a person who signed something, and a crew who were paid, and a Row office that issued a warrant, and the sentence has none of them in it, and I had read that sentence four times without noticing."
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Shows the history beneath the ruin. (Stable); Ferrehan: Tests whether the worker can remain among absent lives. (Decrease). Personnel feel rage before fear.
+Work response — Viderehan: Shows the history beneath the ruin. (Stable); Ferrehan: Checks how long a worker can stand among absent lives. (Decrease). Personnel feel rage before fear.
 
 **Entry 5 — <Director's Memo, Eyes Only: On Writing in the Active Voice>**
 This facility now writes clearances in the active voice. Every entry it files naming a cleared district must name the party that cleared it and the warrant under which they acted, and the quarterly list is published. The Directorate's objection is recorded and is not a matter of squeamishness: the parties to be named are Collector houses this facility negotiates with weekly, over salvage rights, over access to the Row, over the recovery of people who are still alive, and naming them in a published document costs this facility leverage it uses on behalf of the living. That objection has never been answered. It was overruled on the single ground that the fragment's reading has fallen exactly nineteen times in two centuries, each time against a sentence with a subject in it, and that the wing cannot hold a place in custody while writing it up in the language that emptied it. The correspondence to the Collector offices continues. Four pages have come back, three of them acknowledgments of receipt, and the wing has stopped expecting an answer and has not stopped writing, on the view that a sequence of unanswered letters is itself a record and will outlast the people currently declining to answer them.
@@ -345,14 +345,14 @@ The ruin sits in the Collector's Row like a piece of winter. Its walls are broke
 
 ### Interaction Pattern
 
-The fragment's three filed relations are all Row records of what was done to people with no standing to object, and in proximity this one's edges brighten and nothing else changes. Each relation is read for one question only: does the other record make the Row easier to write about in the active voice, or does it give a reader somewhere else to look. None of the three is settled, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal or a transformation event.
+The fragment's three filed relations are all Row records of what was done to people with no standing to object, and in proximity this one's edges brighten and nothing else changes. Each relation is read for one question only: does the other record make the Row easier to write about in the active voice, or does it give a reader somewhere else to look. None of the three is settled, and nothing read once in this file survives a Sorrow Tide, a breach elsewhere, an Ordeal or a transformation.
 
 **Interaction method:** Document it alone first, with the district's paperwork alongside, since that is the variable. In shared conditions log the edge luminance and whether the other record altered it; nothing in the wing has yet lowered it, and the holding records that the only measure that has ever lowered it is a sentence with a subject in it.
 
 
 ### Entity Interaction Record
 
-It is filed with the Collector's Row records. The relations below are what the archive will support: not alliances, but three other records of what the Row did to people who had no standing to object. In proximity the fragment's edges brighten; nothing else about it changes, and the file has stopped waiting for the readings to disagree.
+It is filed with the Collector's Row records. The three relations below are what the archive will stand behind: not alliances, but three further records of what the Row did to people who had no standing to object. In proximity the fragment's edges brighten; nothing else about it changes, and the file has stopped waiting for the readings to disagree.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -374,7 +374,7 @@ The rage is the sorrow. The residents were not only removed. They were blamed. T
 
 Frozen Fury holds that rage. It does not decay — the cold of the false blame preserves it, keeping the anger fresh, keeping the injustice sharp, preventing the healing that time would otherwise perform. The Ruin is frozen because the rage cannot resolve: the district is gone, the residents are scattered, the official record blames the victims, and the injustice, uncorrected, does not fade.
 
-Those who come near the Frozen Fury feel the rage of the wrongly blamed — the specific fury of losing your home and being told it was your fault, of watching your district demolished and reading, in the official record, that you caused the demolition.
+Standing near it brings the rage of the wrongly blamed at full force — the specific fury of losing your home and being told it was your fault, of watching your district demolished and reading, in the official record, that you caused the demolition.
 
 Some sorrows mourn destruction. Frozen Fury mourns the injustice heaped on the destroyed — the district cleared, the residents blamed, preserved in cold stasis as a ruin that rages, frozen, because the rage was given no outlet and the blame no correction, and the two together froze the sorrow into a permanence the city will never acknowledge or repair.
 ## 증언 (Testimonium) — The Testimony
