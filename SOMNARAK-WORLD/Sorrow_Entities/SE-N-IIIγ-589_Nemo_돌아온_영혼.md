@@ -88,7 +88,7 @@
 
 1. **Tension:** Identification first: the tears and the mapped site, never the face — the face has been described differently by every observer who has stood there, and all the descriptions are kept, because the disagreement is the finding. The approach is set after that, and the positions are taken.
 2. **Clash:** Flerehan and Ferrehan from the watch position. Pugnahan is not applied: it answers confrontation with waves of other people's memory and the gauge climbs for the rest of the cycle. The names in the tears are read and written down as they fall; they are not spoken back and they are not searched.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Speak the names carried by the tears; do not deny the return**. The clause rules the watch: each name is spoken as it was carried, the return is met without argument, and the entry closes on what was heard, not on anybody's reading of it.
+3. **Resolution:** The watch closes on containment, retreat, management, or the condition the file registers: **Speak the names carried by the tears; do not deny the return**. The clause rules the watch: each name is spoken as it was carried, the return is met without argument, and the entry closes on what was heard, not on anybody's reading of it.
 
 ### Consequences
 
