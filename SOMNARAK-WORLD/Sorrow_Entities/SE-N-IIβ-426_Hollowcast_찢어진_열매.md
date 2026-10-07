@@ -88,7 +88,7 @@
 
 1. **Tension:** The opening width is checked against the previous sighting, never against the figure. The outline reads the same at 3 centimetres as it does at 61, and 2 early reports describe an unchanged entity on days when the sighting found a 19-centimetre difference. Hollowcast is confirmed against the designation on that basis; positions are taken and the cycle is opened.
 2. **Clash:** Flerehan and Ferrehan from the sighting line. Pugnahan is authorised once and consumes two steps of margin when it is used, because the gauge rises sharply on confrontation and the opening widens with it. The widening does not reverse between cycles.
-3. **Resolution:** The cycle ends the way the rule in this file ends it — in containment, retreat or management, or against the documented suppression condition: **Use identity anchors and do not invent memories for it**.
+3. **Resolution:** The cycle ends the way the rule in this file ends it — in retreat, containment or management, or against the documented suppression condition: **Use identity anchors and do not invent memories for it**.
 
 ### Consequences
 

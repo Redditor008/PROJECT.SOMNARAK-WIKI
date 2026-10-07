@@ -88,7 +88,7 @@
 
 1. **Tension:** The Bird is confirmed by the two scales where eyes belong, plumage the colour of dried blood, heat that comes off it dry, a smell of burning, and a walk that labours under its own weight. Of the Three, only this one can be heard by a person's steps being heavy. Positions are taken, and the way out agreed, before the cycle opens.
 2. **Clash:** The Types are worked and the kit is carried while the Bird runs through the combat actions its record sets out; whether the watch escalates or closes depends on where the gauge goes.
-3. **Resolution:** The sitting ends in containment, retreat or management, or against the suppression condition: **Acknowledge the judgment without attempting to deny the weight**. No one on this ground argues with the finding; the weight is admitted as it stands, and the admission is what is written down.
+3. **Resolution:** The sitting is filed under containment, retreat or management, or against the suppression condition: **Acknowledge the judgment without attempting to deny the weight**. No one on this ground argues with the finding; the weight is admitted as it stands, and the admission is what is written down.
 
 ### Consequences
 
