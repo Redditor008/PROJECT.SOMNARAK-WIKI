@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 37, unit 4: Weighting Bird `C-IIIγ-032` closed.** Measured at `862feb5`: **2 dirty sections**, worst Final
+Observation 0.123, then Combat Record 0.081 — **closed in a single wave** (16 sites); 7,585 → **7,660 words**; `tpl.py`
+residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held. Disclosed: the first
+check read `series False` and the commit was held; `own_series` **False → True** via the file's own figures restated in
+numerals inside the Registrum's containment line (3 escape events in 61 years), after which the unit re-validated and
+committed; the stigma line, tension phase and relations header row re-authored. Movement: `R-29` 230 / 301;
+section-clean 262 / 301; archive dirty 71; file-clean 302 / 302. **Batch 37 stands at four of ten.**
+
 **Batch 37, unit 3: Barrier of Nothing `N-IIIγ-283` closed.** Measured at `e35b56e`: **2 dirty sections**, worst Final
 Observation 0.138, then Combat Record 0.057 — **closed in a single wave** (21 sites); 6,628 → **6,723 words**; `tpl.py`
 residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held. Disclosed: Entry 1's
@@ -2528,6 +2536,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 37 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIIγ-032 Weighting Bird 재는 새 — `5e81ee1` — PUSH VERIFIED — [[SE-C-IIIγ-032_Weighting_Bird_재는_새]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-032_Weighting_Bird_%EC%9E%AC%EB%8A%94_%EC%83%88.md "SE-C-IIIγ-032_Weighting_Bird_재는_새.md")
 
 - SE-N-IIIγ-283 Barrier of Nothing 녹슨 벽 — `3445c1f` — PUSH VERIFIED — [[SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-283_Barrier_of_Nothing_%EB%85%B9%EC%8A%A8_%EB%B2%BD.md "SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md")
 

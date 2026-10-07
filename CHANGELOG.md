@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 37 / unit 4 — Weighting Bird `C-IIIγ-032` closed (2026-10-07)** — measured at `862feb5`: **2 dirty sections**,
+  worst Final Observation 0.123 (the choice blockquote, the choose row and the result row), then Combat Record 0.081 (the
+  yield row, both combat action rows, the tension phase and the resolution). **Closed in a single wave** (16 sites);
+  7,585 → **7,660 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True** with the condition held; the condition was re-registered inside the rewritten resolution line. The first check
+  read `series False` and the commit was held: `own_series` was closed **False → True** by restating the file's own
+  figures in numerals inside the Registrum's containment line (3 escape events in 61 years), and the unit then
+  re-validated and committed — disclosed. The stigma line, the tension phase and the relations header row were also
+  re-authored. Movement at the unit commit: `R-29` 230 / 301; section-clean 262 / 301; residue-free 302 / 302;
+  residue lines 0; archive dirty 71; file-clean 302 / 302. **Batch 37 stands at four of ten.**
+
+
+
 - **Batch 37 / unit 3 — Barrier of Nothing `N-IIIγ-283` closed (2026-10-07)** — measured at `e35b56e`: **2 dirty sections**,
   worst Final Observation 0.138 (the choice blockquote, the choose row and the result row), then Combat Record 0.057 (the
   yield and resistance rows, both combat action rows, the tension phase and the resolution). **Closed in a single wave**
