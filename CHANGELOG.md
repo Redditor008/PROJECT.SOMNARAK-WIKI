@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 46 / unit 10 — Lacrima `N-Iα-905` quote written (2026-10-07)** — the shared opening quote (family of **5** dossiers, source
+  **Beating Relic `C-IIIγ-902`**) replaced **in place** with one of this file's own: a lid that never seats and a voice asking for longer than the record covers. 6116 → **6613 words**; residual 0; 0 sections over 0.05;
+  `tpl.py` 0; meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. The same unit closed its R-29 gap: a fresh `## 상호작용 (Entity Interactions)` section (new column set) filed against Memory Lock `C-IIIγ-300` · Passing Bell `N-IIβ-919` · The Last Warmth of Forty-Two `O-IVδ-515`. **Batch 46
+  stands at 10 of ten.**
+
 - **Batch 46 / unit 9 — Thinking Engine `C-IIIγ-904` quote written (2026-10-07)** — the shared opening quote (family of **5** dossiers, source
   **Beating Relic `C-IIIγ-902`**) replaced **in place** with one of this file's own: a lens and dials that fill the tray with the hour the reader will break. 6575 → **6583 words**; residual 0; 0 sections over 0.05;
   `tpl.py` 0; meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 46
