@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per successful work cycle, timed at the threshold rather than inside the tunnel |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
@@ -81,8 +81,8 @@
 | { *The Splintered Frame* [**Debuff**] } | "The door is gone — but the frame remains, and the frame remembers everyone who passed through." | [The Door's ruins resonate with the target's own broken thresholds.] | *Target suffers -10 Composure; a passage they needed is closed forever.* **[10 Lament DMG [Lament]]** | When the target approaches the ruin. |
 | { *The Blocked Path* [**Debuff**] } | "You need to get through — and you cannot. The collapse is absolute." | [The Door's wreckage blocks the target; frustration and grief build.] | *Target loses 10 Composure; the way is truly gone.* **[10 Lament DMG [Lament]]** | When the target tries to pass. |
 | { *The Falling Debris* [**Attack**] } | "The frame gives way further — and the splinters are sharp." | [A shower of collapsed door-fragments strikes.] | *Inflicts Lament pressure and one jagged, splintering wound.* **[14-22 Lament DMG [Lament]]** | When the ruin is disturbed. |
-| { *The Crushed Threshold* [**Attack**] } | "The entire frame comes down — and with it, every hope of crossing." | [The Door's full collapse buries the target.] | *A heavy Deep Blue burial; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the ruin is forced. |
-| { *Every Door Falls* [**Ultimate**] } | "Every threshold in the building collapses — and there is no way through anywhere." | [The Door's ruin spreads to every passage in the field.] | *All in range suffer Lament pressure for three turns with no way through.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Crushed Threshold* [**Attack**] } | "The whole frame comes down, and with it goes the last chance of getting through." | [The full collapse of the leaf buries whoever is standing in the opening.] | *A heavy Deep Blue burial; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the ruin is made to give. |
+| { *Every Door Falls* [**Ultimate**] } | "Every threshold in the building comes down, and after that there is no through at all." | [The ruin runs from threshold to threshold until it owns every passage.] | *Everyone in range takes Lament pressure for three turns, with nothing left to cross.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Portcullis is recorded as an Object/Place with Object-Weight manifestation and Lament elemental expression. The current record places it at Zone B, deep tunnels; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table means nothing without its frame. Element, coherence and manifestation each bend how a Work Type lands on this sorrow. Portcullis stands as an Object/Place with Object-Weight manifestation and Lament in its element, filed in the deep tunnels of Zone B; nothing is inherited from a holding with a similar name, and the tunnel's own neighbours are set out in their own section. A level gauge is no proof of a harmless hour either — the figure can sit still while the worker is reached through memory, through the ground, or through what they believe they are.
 
 **Reading the response:** Viderehan holds the gauge level. Looking reveals the people and the route beyond the door, and the Door neither resists the looking nor benefits from it — being seen was never the problem, since everyone involved could see perfectly well what was on the other side. Ferrehan lowers the gauge, because enduring here means remaining at a blocked threshold without forcing it and without leaving it: standing where the waiting happened, for the length of the cycle, on purpose. A falling gauge means a worker has managed that. A rising gauge, in nearly every logged case, follows a worker trying to help — clearing stone, testing the frame, or promising the Door something — and the attempt is understandable enough that it should be recorded without censure and corrected without delay.
 ## Activation Behavior
@@ -186,7 +186,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 ### Escalation Notes
 
-The escalation pattern is specific to Portcullis: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here has one shape and is not the standard breach event: the door begins to remember a second destination. The watch enters the first trigger, the change visible in the Object-Weight form, the distance at which the effect starts, and the line where the resonance settles. Lament is the element and the deep tunnels of Zone B the post, so emotional and behavioural indicators are written in beside the physical telemetry.
 
 **Response sequence:** Control speech before you control the ground. The activation condition for this entity is a named destination spoken aloud at the threshold, which means the ordinary language of an emergency response — ordering personnel back to the surface, calling a muster point, telling someone to get home — is itself the trigger. Responders use designations and directions only: *back along the tunnel*, *to the marker*, *to me*. Then establish who touched the leaf, how long the memory held, and whether it has faded. Do not attempt to clear the stone. The collapse is not debris; it is the entity.
 
@@ -320,11 +320,11 @@ The inquiry found that nothing outside anybody's remit had occurred, and the fin
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Portcullis; the other feeds it.
+> The last minute at the threshold offers two ends: stay with the blocked door and let it be recorded, or go looking for what lies beyond it. The file keeps the outcomes on that line.
 
-| Viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim. | Do the obvious, decent thing instead, and feed Portcullis. |
+| Work it the sheet's way — Viderehan and Ferrehan, the Tool protocol certified, the destination declared before contact, relief named, the transcript taken down word for word. | Improvise the kindly alternative instead, and feed the door. |
 |---|---|
-| Tests whether the worker can remain at a blocked threshold. The sorrow is witnessed; Portcullis is fully recorded. | Reveals the people and route beyond the door. The gauge climbs and Portcullis withdraws without revelation. |
+| It tests whether a worker can stand at a blocked threshold without trying the handle; the sorrow is witnessed and the door recorded whole. | The route and the people beyond it come clear instead; the reading climbs and the door goes unrecorded. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -352,7 +352,7 @@ Portcullis does not exist in isolation. Its recorded relationships with Doorway 
 
 The Door sits in the Zone B deep tunnels alongside several holdings concerned with departure, waiting and passage, and the proximity is not incidental — the tunnels are where people left from. The interactions below are canonical but were each recorded under particular traffic and particular wording; personnel must re-establish the silent baseline before relying on any of them.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The Door's neighbour | How the pairing has run | What the threshold logged | What the entry keeps |
 |---|---|---|---|
 | **Doorway to Nowhere** | Two thresholds with opposite faults: one opens onto nothing, one is shut onto something. Within range, the memory this one offers shortens by roughly half. | Duration down; the frame still lights. The other holding is unaffected. | Time the memory under code conditions only. Neither holding may be referred to by its location during the pairing. |
 | **The Final Door** | Both are sealed and only one of them was sealed by accident. The single approved pairing ran under code conditions and the light did not appear at all for its duration. | Total suppression of the activation while the other holding is present; recovery within a day of separation. | Not repeated. The Final Door's own grading governs, and the survey has not asked again. |
