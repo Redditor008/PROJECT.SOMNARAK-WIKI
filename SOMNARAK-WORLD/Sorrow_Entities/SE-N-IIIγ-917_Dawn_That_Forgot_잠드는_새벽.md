@@ -1,6 +1,6 @@
 # Dawn That Forgot — 잠드는 새벽
 
-> *"It does not end. It merely pauses between heartbeats."*
+> *"Dawn arrives over a district that keeps its eyes closed, and the day runs an hour short."*
 
 ## SECC Classification
 

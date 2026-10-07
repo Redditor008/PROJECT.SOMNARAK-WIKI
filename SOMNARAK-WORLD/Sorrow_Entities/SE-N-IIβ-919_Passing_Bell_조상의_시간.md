@@ -1,6 +1,6 @@
 # Passing Bell — 조상의 시간
 
-> *"It does not end. It merely pauses between heartbeats."*
+> *"The dead talk among themselves, and not one of them looks up when you come in."*
 
 ## SECC Classification
 
