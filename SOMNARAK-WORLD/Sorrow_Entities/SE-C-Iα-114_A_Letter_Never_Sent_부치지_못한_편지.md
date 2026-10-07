@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 20–35% |
-| **Han-Energy yield** | 8–12 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 8–12 per successful work cycle, tallied off the vault's own stasis checks rather than a live reading |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Single-use discharge trigger — consumed upon activation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · α (Minor) |
@@ -86,9 +86,9 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the single-use A-Relic construct, verify containment integrity, and evaluate emergency tactical need.
+1. **Tension:** The single-use A-Relic construct is identified, the seal's integrity is verified against the vault sheet, and tactical need is judged before anything is moved. Nothing in Vault 12 is opened to find out what it says.
 2. **Clash:** The team conducts Viderehan and Ferrehan to harvest ambient Han-Energy while monitoring sector stability.
-3. **Resolution:** The team completes standard containment quotas, or deliberately triggers the A-Relic discharge to resolve an existential facility breach.
+3. **Resolution:** The watch ends on the standard containment quotas, or the Relic is spent deliberately to answer an existential breach of the facility — and the file registers a suppression condition: **Step back and log the envelope in silence; break the seal only in an emergency**. The vault staff keep that clause without exception: the letter is read once, at the moment a squad's survival rests on it, and the moment is entered afterwards.
 
 ### Consequences
 
@@ -173,7 +173,7 @@ Personnel assigned to Viderehan must avoid reading the faded brush script on the
 
 ### Escalation Notes
 
-The escalation pattern is specific to A Letter Never Sent: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-A-04, Archive Vault 12 — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation on this holding takes one shape and is not the standard breach event: a second person in the vault begins composing an apology of their own. The watch enters the first trigger, the change visible in the Object-Lament form, the distance at which the effect takes hold, and the line where the resonance settles. Lament is the element and SECTOR-A-04, Archive Vault 12 the post, so emotional and behavioural indicators are recorded beside the physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -188,7 +188,7 @@ The escalation pattern is specific to A Letter Never Sent: it is not a generic b
 | **Risk** | Minor (α) Object-Lament producing Lament pressure; The letter is permanently consumed into grey ash; the user experiences a poignant ache of bereavement. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** first trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Open the watch with Viderehan and Ferrehan; the Object and Place rule leaves no other work here.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -297,11 +297,11 @@ Directorate Deep Synthesis: A-Relic artifacts are not perpetual engines. They ar
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals A Letter Never Sent; the other feeds it.
+> The climax puts the envelope in the worker's hands. One ending records it, and the other spends it: read what was written, or step back and enter the envelope in the log unopened.
 
-| Break the seal to read what was written. | Step back and log the envelope in silence. |
+| Break the seal and read what the hand wrote. | Step back and log the envelope in silence, seal intact. |
 |---|---|
-| The letter flares with blue light, spending its comfort on an empty vault. The artifact is lost. | The stasis holds; the apology remains preserved for the moment a squad's life depends on it. |
+| The letter flares blue and spends its comfort on an empty vault; the artifact is gone. | The stasis holds, and the apology stays preserved for the hour a squad's life turns on it. |
 | **OBSERVATION FAIL** | **OBSERVATION SUCCESS** |
 
 ## 감각 묘사 (Flavor Text)
@@ -322,7 +322,7 @@ A Letter Never Sent reacts strongly to entities tied to transport, collapse, or 
 
 ### Entity Interaction Record
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The Letter's neighbour | What the two do in each other's presence | What the vault wrote down | What the file keeps |
 |---|---|---|---|
 | **Broken Clocktower** | The envelope vibrates in cadence with the clocktower's pendulum. | Accelerates gauge increase by +10%; keep separated by at least three bulkheads. | Distance, thermal reading, acoustic resonance. |
 | **The Orphaned Bell** | The bell tolls once whenever the envelope's temperature drops below -5°C. | Triggers shared Lament resonance; personnel suffer -10 Composure. | Toll frequency, room humidity, operator heart rates. |
