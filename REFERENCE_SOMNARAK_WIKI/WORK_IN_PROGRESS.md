@@ -2255,7 +2255,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 33 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IVδ-249 Collapsed Whisper 무너진 속삭임 — `__HASH__` — PUSH VERIFIED — [[SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-249_Collapsed_Whisper_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md")
+- SE-C-IVδ-249 Collapsed Whisper 무너진 속삭임 — `cb56688` — PUSH VERIFIED — [[SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-249_Collapsed_Whisper_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md")
 
 - SE-C-IIIγ-891 Screaming Masonry 스며든 절규 — `747513d` — PUSH VERIFIED — [[SE-C-IIIγ-891_Screaming_Masonry_스며든_절규]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-891_Screaming_Masonry_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%A0%88%EA%B7%9C.md "SE-C-IIIγ-891_Screaming_Masonry_스며든_절규.md")
 
