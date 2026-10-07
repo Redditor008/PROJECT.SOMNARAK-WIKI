@@ -1,6 +1,6 @@
 # Sky of Borrowed Faces — 환각의 격자
 
-> *"The weight is not punishment. It is recognition."*
+> *"Every surface keeps a face, and the register insists they are all still alive."*
 
 ## SECC Classification
 
