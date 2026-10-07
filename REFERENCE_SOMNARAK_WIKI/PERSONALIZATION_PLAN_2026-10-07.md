@@ -178,3 +178,37 @@ Every file now sits under the 5% line; the batch's own measurement is the accept
 paused or skipped"*), so Batch 48 took the six leftover quote copies and the three R-29 gaps in the same family. The personalization queue below is
 unchanged; the next per-10 batch opens on the re-ranked head and keeps the new table format (new quote + register type in place of mass/words/commit).
 
+
+## Results — Batch 49 (closed 2026-10-07)
+
+The second per-10 batch ran to ten on the re-ranked head, each unit checked and pushed on its own (`A0`). Every file now sits under the 5% line; the
+worst in the batch closes at **3.9%** (Memory Rain) and the best at **0.2%** (Wedge).
+
+| # | Dossier | Code | Generic mass (open → final) | Words (before → after) |
+|---|---|---|---|---|
+| 1 | [[SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-249_Collapsed_Whisper_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md")] | `C-IVδ-249` | 10.0% → **0.5%** | 7,138 → 7,449 |
+| 2 | [[SE-O-IIIγ-924_Weighted_Silence_침묵의_구역](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-924_Weighted_Silence_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EA%B5%AC%EC%97%AD.md "SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md")] | `O-IIIγ-924` | 10.0% → **0.4%** | 4,715 → 4,886 |
+| 3 | [[SE-C-IVδ-106_I_Alone_Crossed_부서진_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-106_I_Alone_Crossed_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%8B%A4%EB%A6%AC.md "SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md")] | `C-IVδ-106` | 10.0% → **1.9%** | 7,397 → 7,528 |
+| 4 | [[SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-105_The_Lonely_Giant_%EC%99%B8%EB%A1%9C%EC%9A%B4_%EA%B1%B0%EC%9D%B8.md "SE-C-IIIγ-105_The_Lonely_Giant_외로운_거인.md")] | `C-IIIγ-105` | 9.7% → **1.3%** | 7,324 → 7,389 |
+| 5 | [[SE-O-IIIγ-916_Allhallow_유령의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-916_Allhallow_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-O-IIIγ-916_Allhallow_유령의_시간.md")] | `O-IIIγ-916` | 9.5% → **1.1%** | 4,657 → 4,785 |
+| 6 | [[SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-412_The_Wedge_That_Held_%EB%81%9D%EB%81%9D%EB%82%B4_%EB%B2%84%ED%8B%B4_%EC%90%90%EA%B8%B0.md "SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md")] | `O-IIIγ-412` | 8.8% → **0.2%** | 4,469 → 4,569 |
+| 7 | [[SE-N-IIIγ-908_Unwaking_Block_잠드는_구역](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-908_Unwaking_Block_%EC%9E%A0%EB%93%9C%EB%8A%94_%EA%B5%AC%EC%97%AD.md "SE-N-IIIγ-908_Unwaking_Block_잠드는_구역.md")] | `N-IIIγ-908` | 8.8% → **1.2%** | 4,758 → 4,866 |
+| 8 | [[SE-C-IIβ-250_Memory_Rain_기억의_비](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-250_Memory_Rain_%EA%B8%B0%EC%96%B5%EC%9D%98_%EB%B9%84.md "SE-C-IIβ-250_Memory_Rain_기억의_비.md")] | `C-IIβ-250` | 8.7% → **3.9%** | 6,699 → 6,779 |
+| 9 | [[SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-627_Harvest_Beyond_the_Gate_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md")] | `N-IIβ-627` | 8.5% → **1.9%** | 7,428 → 7,454 |
+| 10 | [[SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-915_Corrosion_Dream_%EB%85%B9%EC%8A%A8_%EB%8B%A4%EB%A6%AC.md "SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md")] | `O-IIIγ-915` | 8.3% → **1.9%** | 7,310 → 7,336 |
+
+**Movement:** queue **89 → 67 / 301** need it (10 units + 12 files cleared by spillover as shared lines left the wing). Heavy (≥ 10%) **1 → 0 / 301**.
+Moderate (7–10%) **30 → 18**; light (5–7%) **58 → 49**; fine (< 5%) **212 → 234**. Words **+1,181** (57,895 → 59,076); nothing deleted (`R-15`).
+Distinct wing shingles 715,979 → **719,206**.
+
+**What the batch learned — the repair wave ran again, and it worked this time.** The method correction from Batch 47 (check the *new* lines against the
+rest of the batch) was applied after the ten units rather than before each push: 36 lines this batch had introduced were found repeated across sibling
+units — the strike line, the completed-cycle line, the resolution frame, the relations opener, the tension opener. All 36 were re-authored in their own
+files' terms in three commits (`7d1e022`, `c0bd530`, `d7ee0dc`), which took families spanning ≥ 2 batch files from **37 → 13 / 301**; the 13 that remain
+are pre-existing house furniture held by 5–61 other dossiers and belong to those files' own batches. One unit (Harvest Beyond the Gate) needed a growth
+top-up (`6b38005`) after the repair wave left it 20 words under its opening count (`R-15`).
+
+**Batch 50 — re-ranked head (post-batch census, worst-first):** The Observing Bird `C-IIIγ-031` (8.1%) · The Memory Weaver `C-IVγ-009` (8.0%) ·
+Yggdrasil Wound `O-Iα-973` (7.9%) · Aphasia `O-Iα-720` (7.8%) · The Smothering Mother `N-IVδ-005` (7.8%) · The Vanished Rope `C-Iα-723` (7.7%) ·
+Nemo `N-IIIγ-589` (7.6%) · Fading Fruit `N-IIβ-456` (7.5%) · Forgotten Name `N-IIα-215` (7.5%) · Dead Air `N-IIIγ-929` (7.5%) — ten files, seven
+batches of ten remain in the queue.

@@ -8,6 +8,35 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 49 closed at ten (2026-10-07) — personalization phase, second per-10 batch, owner-directed** — the generic-mass queue was re-measured at the
+  open (**89 / 301** need it) and the ten worst files each had their shared phrasing re-authored **in place** in their own terms, worst-first, one push per
+  unit (`A0`). Movement: queue **89 → 67 / 301**; heavy (≥ 10%) **1 → 0 / 301**; moderate **30 → 18**; light **58 → 49**; fine **212 → 234**. Words across
+  the ten **57,895 → 59,076 (+1,181)**; nothing deleted (`R-15`). After the ten units the batch's own new lines were checked against the batch (the Batch 47
+  method correction) and **36 lines this batch had introduced were found shared with sibling units**; all 36 were re-authored in their own files' terms in
+  three repair commits — `7d1e022`, `c0bd530`, `d7ee0dc` — taking families spanning ≥ 2 batch files **37 → 13 / 301**, the 13 remaining being pre-existing
+  house furniture carried by 5–61 other dossiers. Disclosures: **rollback #53** recovered at the open (`reset --mixed` to the remote tip, nothing lost); the
+  unit runner's reps-arity bug fixed at unit 1; Harvest Beyond the Gate received a growth top-up (`6b38005`) after the repair wave left it 20 words under
+  its opening count. Quote census unchanged and closed: **301 / 301** distinct, **0 / 301** families.
+
+- **Batch 49 / unit 10 — Corrosion Dream `O-IIIγ-915` (2026-10-07)** — generic mass 8.3% → **1.9%** (172 → 36 generic shingles of 1,883); 7,310 → 7,336 words.  **Batch 49 stands at 10 of ten.** The tenth and last unit of the batch.
+- **Batch 49 / unit 9 — Harvest Beyond the Gate `N-IIβ-627` (2026-10-07)** — generic mass 8.5% → **1.9%** (245 → 51 of 2,684); 7,428 → 7,454 words.  **Batch 49 stands at 9 of ten.** A growth top-up (`6b38005`) restored the net word count after the repair wave (`R-15`).
+- **Batch 49 / unit 8 — Memory Rain `C-IIβ-250` (2026-10-07)** — generic mass 8.7% → **3.9%** (88 of 2,192); 6,699 → 6,779 words.  **Batch 49 stands at 8 of ten.** The batch's highest final reading, and still under the line.
+- **Batch 49 / unit 7 — Unwaking Block `N-IIIγ-908` (2026-10-07)** — generic mass 8.8% → **1.2%** (18 of 1,559); 4,758 → 4,866 words.  **Batch 49 stands at 7 of ten.**
+- **Batch 49 / unit 6 — The Wedge That Held `O-IIIγ-412` (2026-10-07)** — generic mass 8.8% → **0.2%** (2 of 1,249); 4,469 → 4,569 words.  **Batch 49 stands at 6 of ten.** The batch's lowest final reading.
+- **Batch 49 / unit 5 — Allhallow `O-IIIγ-916` (2026-10-07)** — generic mass 9.5% → **1.1%** (17 of 1,528); 4,657 → 4,785 words.  **Batch 49 stands at 5 of ten.**
+- **Batch 49 / unit 4 — The Lonely Giant `C-IIIγ-105` (2026-10-07)** — generic mass 9.7% → **1.3%** (35 of 2,739); 7,324 → 7,389 words.  **Batch 49 stands at 4 of ten.**
+- **Batch 49 / unit 3 — I Alone Crossed `C-IVδ-106` (2026-10-07)** — generic mass 10.0% → **1.9%** (56 of 2,954); 7,397 → 7,528 words.  **Batch 49 stands at 3 of ten.** One duplicated sentence ("the belief that one person's failure caused everyone else's loss") was handled by a direct double replace rather than a rep.
+- **Batch 49 / unit 2 — Weighted Silence `O-IIIγ-924` (2026-10-07)** — generic mass 10.0% → **0.4%** (6 of 1,663); 4,715 → 4,886 words.  **Batch 49 stands at 2 of ten.** The heaviest single file of the batch — 43 shared lines at the open.
+- **Batch 49 / unit 1 — Collapsed Whisper `C-IVδ-249` (2026-10-07)** — generic mass 10.0% → **0.5%** (15 of 3,039); 7,138 → 7,449 words.  **Batch 49 stands at 1 of ten.** Ran twice: the base wave (`614a8e3`) plus a follow-up the same turn (`744b629`) that took the file from 6.0% to 0.5%.
+- **Batch 49 / repair wave (2026-10-07)** — after the ten units, the batch's own replacement text was checked against the rest of the batch and 36
+  newly-introduced lines were found repeated across sibling units; every one was re-authored in its own file's terms across three commits — `7d1e022`
+  (The Lonely Giant · Memory Rain · I Alone Crossed · Collapsed Whisper · Unwaking Block) · `c0bd530` (Harvest Beyond the Gate · The Wedge That Held ·
+  Corrosion Dream · Allhallow · Weighted Silence) · `d7ee0dc` (last lantern/thread strike line). Families spanning ≥ 2 batch files: **37 → 13 / 301**.
+  Method note for Batch 50: run the batch-family check **before** each push, not after the ten.
+- **Batch 49 / unit 1 follow-up — Collapsed Whisper `C-IVδ-249` (2026-10-07)** — after the base wave the file still read 6.0%; seven more shared
+  passages (the anthology opener, the relations paragraph, the survey-office objection, the Transform frame and three others) were re-authored in the file's
+  own terms, closing it at **0.5%** (`744b629`).
+
 - **Batch 48 closed at seven (2026-10-07) — quote phase part three + the family's R-29 gaps, owner-directed** — the six copies paused
   since batches 45–46 were re-authored **in place**, each in its own register: Duri's Heart · Hatred Above · Weighted Silence · Dreaming Plague ·
   Lethe · Dead Air; the two source keepers were left as they were. Registers used: R5 elegy · R2 warning to the reader · R3 documentary ·
