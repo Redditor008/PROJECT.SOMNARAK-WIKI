@@ -95,7 +95,7 @@
 - A worker who breaks under the fall pays on two ledgers at once: the gauge climbs while their **Clarity** shatters into a Fracture, and the file enters both on the same line because neither arrives alone.
 - Standing in it too long raises the holding’s second harms — the ones the short briefing waves at and never names — and the worker walks out with eroded thinking, a body out of true, and the garden reading wrong behind them.
 - A M.A.W. drawn from this holding is a loan and not a gift: the crystallized sorrow runs back through the weapon into the bearer, and the armoury ledger enters the amount beside their name.
-- A cycle that ends without resolving does not simply stop: the fall’s story goes on without a witness, and it goes outward — the boundary widens, the ground takes in more, and the pace is not the crew’s to set.
+- A cycle left unfinished is not a cycle that lapses: the rain keeps falling with nobody standing in it, and it spreads — the boundary gives, the ground takes in more, and the crew does not decide how fast any of it goes.
 
 ## Appearance
 **Physical Form:** Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling.
@@ -401,7 +401,7 @@ When a fall ends, the Gardens are littered with small memories that last some ho
 
 ### Too Many to Hold
 
-The city took on more memory than it could hold and the surplus condensed over Zone D, and what the commissioning material contains is demographic rather than personal — registers, density figures, the bare counts for the period. The archivist’s note observes that the folder holds no individual story at all, and that this is right: a quantity made this, not a person.
+The city took on more memory than it could hold and the surplus condensed over Zone D, and what the commissioning material contains is demographic rather than personal — registers, density figures, the bare counts for the period. There is not one individual account in the folder, and the note filed at the front says this is correct: a quantity produced it, not a person.
 
 ### What the Interval Measures
 

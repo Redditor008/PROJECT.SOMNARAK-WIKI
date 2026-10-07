@@ -94,8 +94,8 @@
 
 - A worker whose resistance fails loses twice: raw sorrow pressure takes their **Resolve** down, and the entity feeds on the breaking to lift the gauge.
 - Time is on the Giant's side: the longer a Warden stays, the more sorrow settles into them, and the containment rests on not finding out what the collapse looks like — mind first, body after, surroundings last.
-- Every activation of the set is a trade and the buyer pays: the registry keeps the parameters, and the bearer's own flesh settles the difference.
-- A session that ends without resolving does not stop at the corridor: the Giant runs its filed event pattern, and the sorrow nobody acknowledged finds the exit the crew failed to give it.
+- The set charges on every draw, and the wearer is the account it draws against: the registry holds the parameters, the body under the harness holds the rest.
+- An unresolved session does not end at the corridor door: the Giant walks its filed event pattern out, and the grief nobody stood with picks the way out the crew left open.
 
 ## Appearance
 **Primary Form:** A twenty-metre figure of darkened flesh gone dense as stone, knotted through with Han-crystal growths. **Gait:** slow, deliberate, feet placed one at a time, with the route chosen in advance to touch nothing.
@@ -151,7 +151,7 @@
 
 ### Operational Work Notes
 
-The table is one input among many, and here the code and the coherence level decide what a flat gauge is worth. The Lonely Giant is a Subject with a Subject-Body manifestation and Weight elemental expression, wandering semi-contained through Zone D, and nothing in this file transfers to another holding with a giant in its name. A steady reading is not a safe watch: the gauge has sat unchanged through encounters that sent people home followed by company they did not ask for, which is this figure's particular exposure.
+The table is one input among many, and here the code and the coherence level decide what a flat gauge is worth. The register carries the Giant under the Subject-Body heading, elemental expression Weight, wandering semi-contained through Zone D; no part of this file carries over to another holding that has a giant in its name. A steady reading is not a safe watch: the gauge has sat unchanged through encounters that sent people home followed by company they did not ask for, which is this figure's particular exposure.
 
 **Reading the response:** A lower gauge is a window and not a door; the pressure returns unless the cycle is sustained, so this is ongoing stabilisation and not healing. A rising gauge means the wrong Work Type has been applied, and the Giant's sorrow is deepening rather than settling. Unusual responses precede events: log them, flag them, and adjust the protocol before the next assignment.
 ## Breach Behavior
@@ -315,7 +315,7 @@ The horizon moves. A figure twenty metres tall crosses the district with the car
 
 ### Interaction Pattern
 
-The Lonely Giant shares the shelf with the 4 records it has been read against — The Kind Healer, The Forgotten Soldier, The Grieving Colossus and The Smothering Mother. None of the four is friend or enemy; each was filed as a resonance candidate and kept at that. When a group run happens the watch reports a separate line per post — what changed in the tremor, the pace, the gauge or the containment, or that nothing changed — and the note over the page is plain that the pairing rests on a resemblance and never on a measurement.
+Four records stand on the same shelf — The Kind Healer, The Forgotten Soldier, The Grieving Colossus and The Smothering Mother — and not one of them is claimed as ally or adversary: proximity alone put them there, and proximity is all the archive has ever asserted. When the four are run beside the Giant the watch turns in one line per post — the tremor, the pace, the gauge, the containment, each marked as changed or unchanged — and the heading above those pages states in plain words that likeness is why a set was proposed and never evidence of what it will do.
 
 **Interaction method:** Route measured the day before and the day after by the same two Wardens with the wheel, pairing held on open ground, both watches logging in parallel, and no account merged with another.
 

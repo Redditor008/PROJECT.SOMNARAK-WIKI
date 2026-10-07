@@ -268,7 +268,7 @@ The Unwaking Block set is made from the mapping: the Edge from a surveyor’s ro
 
 ## 감각 묘사 (Flavor Text)
 
-Once a watch, the lament pressure and the dream register meet for a single held breath, and in that breath the block is understood rather than measured — not what it does, but what it is. A residential street in Zone D where every inhabitant went to bed on the same night and stayed there. The buildings appear to dream along with them: walls shift, doors open onto rooms that exist on no plan, and the air carries the texture of deep sleep. Then the breath ends, and what is left is the pressure, the register, and a watch keeping the clock outside.
+Once in a watch, the lament reading and the dream record meet for as long as one held breath, and for that moment the Block is known rather than surveyed — its nature, not its behaviour. A residential street in Zone D where every inhabitant went to bed on the same night and has not risen since. The houses seem to sleep alongside them: walls move, doors open on rooms that appear on no plan, and the air has the feel of a room where somebody is deeply asleep. The breath goes, and what remains is the reading, the record, and a post outside keeping time.
 
 **At first contact:** The warmth. It is the warmth of a room somebody has been sleeping in, and it is the same in the stairwells and in the yard.
 
@@ -280,7 +280,7 @@ Once a watch, the lament pressure and the dream register meet for a single held 
 
 ### Entity Interaction Record
 
-Three records stand beside the Block — The Sleeping Sigh, The Dreaming Plague and the Echo Gardens — and none of the three is partner or opponent to it; each pairing is a question the post puts again every mapping season. No joint observation has ever been filed here, and the entries below are proposed points of contact rather than measured results.
+Three records are kept on the same map board — The Sleeping Sigh, The Dreaming Plague and the Echo Gardens — and the post claims no partnership and no opposition with any of them; each is a question the mapping season raises again and never settles. Nothing has ever been observed across two of these files at once, and what follows below is set down as points of contact to be tested rather than results.
 
 | Holding read beside the Block | How the two have run | What the survey logged | What the entry keeps |
 |---|---|---|---|
@@ -322,7 +322,7 @@ Nobody has woken. The file says so at the front, in the first paragraph, rather 
 
 **Containment & Handling Procedures:**
 - Enter in parties, draw as you walk, and leave at the called time with the plan unfinished if that is what it takes.
-- There is nobody awake in there to weep with and nothing to confront. The sleepers sleep and the building is a building, at least until the walls move.
+- Nobody in there is awake to be wept with, and there is nothing in there to stand against. The sleepers sleep, and the house is a house — until, that is, its walls begin to move.
 - File every plan unreconciled and read the series for new doors; an expansion shows up in the paperwork before it shows up anywhere else.
 
 **Cross-References:** Inner Sorrow (내한) · Lament · Place-Dream · Manifestation Classification

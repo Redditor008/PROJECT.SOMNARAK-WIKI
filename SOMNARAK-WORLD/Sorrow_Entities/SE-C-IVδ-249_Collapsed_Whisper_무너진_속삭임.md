@@ -94,7 +94,7 @@
 
 - A resistance that fails is paid for twice over: the raw weight lands on **Resilience** while they are still under, and whatever the breaking does to them afterwards is the holding's own instrument for raising the gauge.
 - Duration is on the holding's side. A sleeper held past the clock does not simply wake tired; the saturation pools in them the way static pools in a channel that is already hissing, and the collapse that follows — psychological first, then somatic, then through the fittings of the station — is the outcome the whole protocol exists to stop.
-- Every activation of the set is a trade with both hands full: the equipment registry keeps the parameters, and the bearer's own flesh settles the account.
+- Nothing in this set is fired for free: the equipment registry holds the parameters on one side, and the account is settled out of the bearer on the other, in full.
 - A bay that closes without closing does not stop at the rail: the holding walks out its event pattern, and the sentence nobody resolved takes the exit the session failed to give it.
 
 ## Appearance
@@ -217,7 +217,7 @@ The register files this one as Subject-Dream, with the Grudge reading riding on 
 
 **Cost:** The wearer hears every warning that arrives too late.
 
-*The thread is never handed out. It surfaces after a session in which the sleeper let the sentence break untouched — the armoury files that at four percent of them and has never been able to say which four.*
+*The thread is not handed out. It comes up after a session in which the sleeper let the sentence break without reaching after it, and nobody on the armoury side can tell in advance which broken sentence will leave one behind.*
 
 ### M.A.W. Use Notes
 
@@ -303,7 +303,7 @@ The dream collapses around a voice. You see a caravan falling through red dust, 
 
 ### Interaction Pattern
 
-Three files are shelved within reach of this one — The Broken Whisper, The Drift Fog and The Observing Bird — and none of the three is read here as an ally or as a standing quarrel; each is a question the archive has never managed to close. When a crossing is run, the log carries what the answer did to the sound, the movement, the temperature, the memory pressure, the gauge and the containment line, each with its range, its duration and what set it off.
+Three other files are shelved within reach — The Broken Whisper, The Drift Fog and The Observing Bird — and none of them is claimed here as friend or rival; each is a question the archive has left open. A crossing, if one is run, gets its own page: what the sound did, what moved, how the temperature and the memory pressure read, where the gauge and the containment line stood — every entry with a range, a duration and the thing that started it.
 
 **Interaction method:** Baseline each party alone. The question here is whether another presence lengthens the run before the break, and nothing has. Log the range, the duration, the gauge on both sides, the break time, and both bearings, read afterwards by somebody who was not in the layer.
 
@@ -421,7 +421,7 @@ The survey office already surveys footing in the Desolate on a cycle, and alread
 
 The distinction between counting a word and interpreting a sentence was argued over for a long time before it was allowed, and the ruling is in the protocol: a lexical check performed by somebody with no access to the meaning is not interpretation, and if it ever becomes one the arrangement ends the same day. **Twenty-three counts above zero. Twenty-three surveys brought forward. Two found something that needed doing.**
 
-The survey office has lodged an objection, and it sits in the file to be read aloud at every annual review. The complaint is not that the arrangement fails but that it works by keeping a hazard from the people who walk on it: a count of terrain words, made by a clerk with no access to meaning, is still somebody's decision about a crew who were never asked, taken by people who will not be standing on that ground when it gives. Both finds were made by those crews, walking onto something a room in the building had grounds to suspect and no leave to name. The minute enters the objection as **correct, and the arrangement continues**, and adds the plain note that nobody has yet proposed a version of this that does not end with a crew ignoring a true alert.
+The survey office has lodged a complaint and it is kept where each annual review will read it out. The office does not argue that the arrangement is broken; it argues that the arrangement works by holding a danger back from the people who walk on the ground — a tally of terrain words, kept by a clerk who never sees the meaning, is still a judgement about a crew nobody consulted, passed by people who will not be out there when the ground shifts. Both of the finds came from those crews walking onto something a room in this building had reason to suspect and no authority to say. The entry set against the complaint reads **correct, and the arrangement continues**, and the hand that wrote it added that no alternative has yet been put forward which does not finish with a crew ignoring a true alarm.
 
 ## Trivia
 

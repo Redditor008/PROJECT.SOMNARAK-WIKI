@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Identify before anything else — the account read as a four-point pressure gradient, nothing visible behind it, and the spoken claim of having crossed alone. No other file opens like this one. The designation is checked against the table, the array's positions are set, and the cycle opens after that.
+1. **Tension:** Naming comes before everything — the account taken as a four-point pressure gradient, nothing behind it to look at, and the claim, spoken, of having gone over alone. No other file opens this way. The table settles the designation, the array is positioned, and the cycle opens only then.
 2. **Clash:** The account arrives and the crew writes it down without touching it. The live hazard is not the pressure but the crew's own agreement, and the timekeeper watches the pen, not the gauge.
 3. **Resolution:** The watch closes when one man's charge is drawn around honestly and left standing — the documented suppression condition: **Name the limits of one person's responsibility**. It stays closed only while that boundary holds; the moment anyone in the chamber takes the whole of the bridge onto one pair of shoulders, the cycle reopens.
 
@@ -94,8 +94,8 @@
 
 - A worker who cannot hold the pressure becomes its channel: **Clarity** is cut down by what pours through, and the instability they carry is fed straight back into the gauge.
 - Duration works against the crew here: what a short watch can carry turns destructive over a long one, and the file lists what it takes — feeling, body, name, and the ground under all three.
-- Every activation of the set is drawn against the bearer personally — composure, private memory, and flesh — and the ledger's grade column has no room for the sizes involved.
-- A session that ends without resolving does not disperse: the sorrow turns on the ground it came from, and the event pattern filed in this record is what that looks like.
+- Every draw on the set takes its payment out of the bearer in person — composure first, then private memory, then flesh — and the grade column of the ledger has never had room for figures that size.
+- When a session closes unresolved the sorrow does not thin out; it turns back on the ground it came from, and the pattern entered in this record is what that return looks like.
 
 ## Appearance
 **Primary Form:** A bridge-shaped consciousness made from a broken promise and a violent crossing. It appears as a pressure in the mind.
@@ -222,7 +222,7 @@ I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expressi
 
 **Cost:** The wearer feels every failed crossing they witness.
 
-*The lantern is never issued. It surfaces after a session in which the account was copied out without being argued with — the armoury files that at four percent of them and cannot say in advance which four.*
+*The lantern is not issued. It comes up after a session in which the account was written out straight, with no argument run against it — four per cent of those sessions produce one, and the armoury has never found a way to say which.*
 
 ### M.A.W. Use Notes
 
