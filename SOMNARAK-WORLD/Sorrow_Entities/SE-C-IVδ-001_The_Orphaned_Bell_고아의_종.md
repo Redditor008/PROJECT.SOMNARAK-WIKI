@@ -87,14 +87,14 @@
 
 ### Battle Phases
 
-1. **Tension:** The Orphaned Bell is confirmed by the hands. The corrosion on the bell's surface has warped into small reaching shapes, and no other holding in Zone B carries that. The pair marks where it will stand and where it will withdraw to before the cycle opens.
+1. **Tension:** The pair confirms the Bell by hand. The corrosion on its surface has warped into small reaching shapes, and no other holding in Zone B carries that. The pair marks where it will stand and where it will withdraw to before the cycle opens.
 2. **Clash:** Nothing here can be bargained with. The pair stands braced, the timekeeper outside the acoustic circle holds the clock, and the recorded combat actions describe what the toll does on the way past rather than anything the team can influence.
 3. **Resolution:** The toll finishes or the pair is withdrawn. The documented condition is **the bell stays anchored, Pugnahan is never attempted, and the watch is completed standing in pair** — nothing here is suppression, and the record does not call it that.
 
 ### Consequences
 
-- Where resistance gives way, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
+- Where resistance gives way, the entity’s pressure transfers directly into the worker — mind and body at once — depleting **Clarity** and accelerating Sorrow Gauge escalation.
+- Extended exposure carries cumulative risk: each minute past the recommended cycle carries the worker further into identity drift, then cognitive Fracture, then destabilization of the ground around them.
 - The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. Nothing the wing handles is ever extracted for free.
 - Where the condition above goes unmet, The Orphaned Bell reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
 
@@ -155,7 +155,7 @@
 
 ### Operational Work Notes
 
-The Orphaned Bell is an Object/Place with Object-Lament manifestation and Lament expression, held in its tower at SECTOR-B-01. Viderehan is conducted between tolls by crews who withdraw before the predicted window. Ferrehan is the toll itself, met standing in pair, and is the only work here that moves the gauge. Neither alters the schedule, which the bell keeps without reference to anybody.
+The Orphaned Bell is an Object/Place — Lament for its manifestation, Lament for its expression — kept in its tower at SECTOR-B-01. Viderehan is conducted between tolls by crews who withdraw before the predicted window. Ferrehan is the toll itself, met standing in pair, and is the only work here that moves the gauge. Neither alters the schedule, which the bell keeps without reference to anybody.
 
 **Reading the response:** A falling gauge presents as fewer soundings over the cycle. The tone never changes and no session has ever produced silence, so a quiet week is a spacing and not a result. A rising gauge presents in the opposite direction — soundings closer together, and the toll beginning to arrive outside the predicted window — and the correct response is to vacate the tower rather than to extend the watch. Log the interval before anything else; it is the only figure here that moves for a reason.
 ## Activation / Expansion Behavior
@@ -417,7 +417,7 @@ Before the sound arrives, the air becomes emotionally heavy. Then the toll fills
 
 ### Interaction Pattern
 
-Five names stand in the Bell's field — The Hollow Choir, The Grieving Colossus, The Kind Healer, The Silent Child and The Forgotten Soldier — and every one of the five is a resonance question rather than an alliance or a feud. A watch that runs a pairing notes whether the answer moved in sound, in movement, in temperature, in memory pressure, in the gauge or in containment stability, and sets range, duration and trigger beside it.
+Five names stand in the Bell's field — The Hollow Choir, The Grieving Colossus, The Kind Healer, The Silent Child and The Forgotten Soldier — and none of the five is a feud or an alliance; each stands there as a resonance question. A watch that runs a pairing notes whether the answer moved in sound, in movement, in temperature, in memory pressure, in the gauge or in containment stability, and sets range, duration and trigger beside it.
 
 **Interaction method:** Baseline each party alone. The question with this holding is always whether the other entity changes the interval, and the answer so far is that nothing has. Log the range, the duration, the trigger, the gauge on both sides, the interval before and after, and whether the face count moves in the following fortnight.
 
@@ -536,7 +536,7 @@ Every year the commander transmits the full unmatched list to the municipal offi
 
 **Nineteen letters.** The effect is small and real. **Seven times a family has come in, searched the correspondence index, and found a name they recognised; two of those led to an identification the office was afterwards able to make by its own procedure and enter in its own register properly.** The other five did not, and the office's note on them says only that the families were given a chair and as long as they wanted.
 
-The municipal archivist's objection is on the file and has never been answered. Using correspondence as a shadow register degrades the correspondence series and allows a facility to put into public view, permanently, material it has just certified it cannot stand behind; and the five families who found a name and got no further are the cost of the two who did, paid by people the facility has no standing to compensate and no way to find again. The minute sustains the archivist without a word of it withdrawn: **the objection stands, and the letters continue**. It is read into the record at each annual review alongside the names, in the archivist's own words, which the wing has declined to shorten.
+The municipal archivist's objection sits on the file with no answer to it. Using correspondence as a shadow register degrades the correspondence series and allows a facility to put into public view, permanently, material it has just certified it cannot stand behind; and the five families who found a name and got no further are the cost of the two who did, paid by people the facility has no standing to compensate and no way to find again. The minute sustains the archivist without a word of it withdrawn: **the objection stands, and the letters continue**. It is read into the record at each annual review alongside the names, in the archivist's own words, which the wing has declined to shorten.
 
 ## Trivia
 
