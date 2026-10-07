@@ -87,7 +87,7 @@
 
 1. **Tension:** The team establishes position upwind of the ash fall and fixes the one decision in advance, in writing, before the fire is in view: what it will take to make them intervene. The threshold is set in the corridor because inside the encounter every member of every team that has worked this holding has wanted to put the fire out.
 2. **Clash:** Work proceeds across a long engagement — twenty-four turns is typical and the duration is the point. The entity cycles through ignition, collapse and return while the team holds station, suppresses movement only, and does not touch the burning. Resilience is tracked on every member each turn, since the pressure here erodes the capacity to keep standing still.
-3. **Resolution:** The watch finishes on retreat, containment or management, or against the condition this file carries: **Allow the cycle to finish; forced extinguishing causes violent rebirth**. Nothing on this ground is put out, at any stage, including the stages where putting it out would plainly work.
+3. **Resolution:** The watch closes by the file's own ending — recall, line or desk — or against the condition this file carries: **Allow the cycle to finish; forced extinguishing causes violent rebirth**. Nothing on this ground is put out, at any stage, including the stages where putting it out would plainly work.
 
 ### Consequences
 
