@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-Myrmidon is a Subject with Subject-Lament manifestation and Grudge expression, held in Zone A at the Alpha Tree. All four Work Types apply. Flerehan reaches through the tear and lowers the gauge, Viderehan opens the betrayal and moves nothing, Ferrehan weighs whether a worker can stay without defending the system, and Pugnahan attacks representation and raises the gauge every time. It does not respond to personal identity at all. It responds to who a person is standing for.
+Myrmidon holds a Subject-Lament manifestation and a Grudge expression, and is stationed in Zone A at the Alpha Tree. All four Work Types apply. Flerehan reaches through the tear and lowers the gauge, Viderehan opens the betrayal and moves nothing, Ferrehan weighs whether a worker can stay without defending the system, and Pugnahan attacks representation and raises the gauge every time. It does not respond to personal identity at all. It responds to who a person is standing for.
 
 **Reading the response:** Read it in the split and in what the worker has just said. A falling gauge presents as narrowing — the tear closing by a measurable fraction, the flicker slowing, the weeping quieter. The pressure eases and the cause is untouched; he is not reconciled, he has been told the truth once by one person. A rising gauge presents as **reasonableness**. The room becomes a discussion, the worker finds themselves explaining how a thing like that comes to happen, what the procedure was, why no individual is really to blame, and every word of it may be accurate. That is the failure. This entity does not respond to personal identity at all; it responds to representation, and a worker who has begun speaking for the institution has become the institution in the only sense that matters here. If it responds differently from the record, write that down; and write down what was said in the thirty seconds before.
 ## Breach Behavior
@@ -378,7 +378,7 @@ The figure's outline flickers between what appear to be two incompatible memorie
 
 ### It Weeps From the Chest
 
-The split in its chest is the source of the weeping rather than the face, and the file notes this in the briefing because the detail is consistently misremembered by personnel afterward. The misremembering is itself recorded. The archivist's note observes that accounts written a week later describe a weeping face and that accounts written the same day do not.
+The split in its chest is the source of the weeping rather than the face, and the file notes this in the briefing because the detail is consistently misremembered by personnel afterward. The misremembering is itself recorded. The archivist's note flags the pattern: accounts written a week later describe a weeping face, and accounts written the same day do not.
 
 ### It Reacts to Authority
 
