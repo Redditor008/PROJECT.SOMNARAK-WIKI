@@ -87,16 +87,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Identification is the mismatch and nothing else qualifies: the glass is cracked across its whole surface and the reflection is not, and no other mirror in the Market does that. The team confirms the object, sets the edge from the case, and takes position before anything else is attempted.
+1. **Tension:** Identification is the mismatch and nothing else qualifies: the glass is cracked across its whole surface and the reflection is not, and no other mirror in the Market does that. The pair confirms the object, sets the edge from the case, and only then takes up its marks.
 2. **Clash:** There is no exchange to manage. The glass shows what it shows for as long as the worker keeps looking, and the only live decision in the session is who calls the end of it.
-3. **Resolution:** The session closes with containment, management or retreat, or by the documented suppression condition: **the timekeeper calls the end before the worker begins to agree with the glass** — the end is called from outside the session and never by the worker looking.
+3. **Resolution:** The session closes one of three ways — containment, management, retreat — or by the suppression condition the timekeeper's card carries: **the timekeeper calls the end before the worker begins to agree with the glass** — the end is called from outside the session and never by the worker looking.
 
 ### Consequences
 
 - A worker who fails to keep their footing under the pressure loses **Composure** and identity cohesion together, and the gauge climbs while the timekeeper is still deciding whether to call it.
 - Extended contact risks Cracked Mirror’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Cracked Mirror defaults to its documented activation or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- No M.A.W. activation comes free: the toll is intimate memories, physical sensation and years of life, set out in the equipment specifications and paid in the field.
+- Where resolution is not reached in time, Cracked Mirror falls back on its recorded activation and expansion pattern: containment denied, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
 **Physical Form:** An ancient mirror cracked across its surface. It shows truth rather than ordinary reflections.
@@ -299,7 +299,7 @@ The set is drawn from the frame and the corrosion rather than from the glass, wh
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Cracked Mirror (C-IIβ-310 [D]) is carried on the wing's register as an Object-Void manifestation expressing Void. The Mirror formed from the sorrow of dishonesty. Held at SECTOR-C-01, Mask Market. Its cracks correspond to truths someone could not bear.
+Cracked Mirror's register entry (C-IIβ-310 [D]) reads Object-Void manifestation, Void expressed. It formed from the sorrow of dishonesty. The Mirror formed from the sorrow of dishonesty. Held at SECTOR-C-01, Mask Market. Its cracks correspond to truths someone could not bear.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It becomes clearer near masks and disguises.
@@ -419,7 +419,7 @@ The mirror declined to flatter and broke rather than comply, and the file treats
 
 ### Mask Market Custom
 
-Citizens there sought glass that would improve them, and the commissioning material is commercial — the trade in flattering mirrors, the prices, the workshops that supplied them. It was a substantial business. The archivist's note states that the documents show an ordinary market meeting an ordinary demand and that nothing in them is sinister, which is the point of including them.
+Citizens there sought glass that would improve them, and the commissioning material is commercial — the trade in flattering mirrors, the prices, the workshops that supplied them. It was a substantial business. The archivist's note makes the obvious point in plain words: the documents show an ordinary market meeting an ordinary demand, and nothing in them is sinister — which is exactly why they are included here.
 
 ### What the Overlay and the Edge Measure
 
@@ -460,7 +460,7 @@ The advocates' objection is standing and the wing has never answered it. A rule 
 
 ### Registry Trivia
 
-- **Classification detail:** Cracked Mirror is an Object/Place with Echo (II) — Repeats reflecting coherence and Moderate (β) potency.
+- **Classification detail:** Cracked Mirror files as an Object/Place; its coherence is Echo (II) — Repeats reflecting — at Moderate (β) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-C-01, Mask Market.
 - **Recognition detail:** Identify it by the mismatch. The glass is cracked across its whole surface and the reflection is not, and no other mirror in the Market does that.
 - **Record detail:** The Broken Mirror, the Mirror of Sorrows and the Rising Mirror are separate holdings under separate management. A Warden trained on those is re-briefed before working here, a requirement that followed a case of somebody applying the wrong protocol correctly.
