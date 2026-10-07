@@ -460,6 +460,7 @@ Every annual review carries the objection, raised by the wing's counsellor, who 
 
 - The smile is constant; the crack beneath it has widened after every forced performance and has never narrowed.
 - Observers recognise particular dances in the steps and name them correctly, and the dances belong to people who can no longer perform them.
+- The last living member of the troupe wrote in the fourth year that one of the dances was her grandmother's, and asked for the credit again. The letter is in the file; the answer is not.
 
 
 

@@ -394,6 +394,7 @@ Exposure layers rather than clearing, and the personnel register follows individ
 - One sweep in five includes a face the Warden can name, and the proportion rises with the count rather than with the Warden's length of service.
 - A Specialist once reported her own face on a wall. She is not on the register. The sweep is on file, unexplained, and has not been repeated.
 - The Year 4220 scheme for logging the images instead of the surfaces ran nine years, produced no finding of any kind, and was withdrawn on the grounds that it had been recording what each Warden brought with them.
+- The transect has been walked at every hour the shift system permits and the count has never moved with the hour; the one variable that has ever moved it is the register's own queue.
 
 ## Document Information
 

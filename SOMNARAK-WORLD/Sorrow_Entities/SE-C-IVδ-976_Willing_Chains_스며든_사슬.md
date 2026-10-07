@@ -434,6 +434,7 @@ The field office's objection is on the file and unanswered. Telling the truth ab
 
 - It travels on undertakings of any kind: a signed instrument, a promise made aloud, a posting somebody has stopped being able to leave.
 - The grip measurably slackens where an obligation is genuinely mutual, which is the nearest thing in the file to a weakness and has never been engineered successfully.
+- The corridor the chain crossed eleven years ago is still walked by the night rounds, both ways, with a lamp. The extent was surveyed again last year and had not moved a metre.
 
 
 

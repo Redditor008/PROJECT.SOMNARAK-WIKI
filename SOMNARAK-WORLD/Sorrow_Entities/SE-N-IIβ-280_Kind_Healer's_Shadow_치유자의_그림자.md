@@ -432,6 +432,7 @@ The objection goes into the minute at every annual review, raised by the facilit
 
 - Attended patients improve on emotional measures more than on physical ones, and the infirmary's wording for this has never been strengthened.
 - There is no light casting it. It has been checked in darkness, under single-source lamps and in daylight, and the shape does not change with any of them.
+- The night staff leave the corridor lamp burning for it. Nobody was ever instructed to, and the practice is older than the containment record.
 
 
 
