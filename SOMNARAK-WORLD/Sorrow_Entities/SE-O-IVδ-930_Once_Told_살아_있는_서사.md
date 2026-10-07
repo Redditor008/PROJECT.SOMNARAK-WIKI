@@ -87,7 +87,7 @@
 
 1. **Tension:** Hand signals are agreed at the boundary, the written work plan is distributed, and the party enters without speaking. Nobody carries a radio and nobody works this sector alone, for the obvious reason.
 2. **Clash:** None. There is nothing to engage. The station has asked for the row to be struck and has been refused twice on the grounds that the form is standard.
-3. **Resolution:** The party leaves and the inventory is checked against the last one: twenty manifestations, photographed, unchanged. A cycle adds nothing to the inventory, which is the only success condition this holding has.
+3. **Resolution:** The party leaves and the inventory is checked against the last one: twenty manifestations, photographed, unchanged. A cycle adds nothing to the inventory, which is the only success condition this holding has. It closes against the documented suppression condition: **A cycle adds nothing to the inventory, which is the only success condition this holding has**.
 
 ### Consequences
 
@@ -252,6 +252,20 @@ There is a moment — always the same, always brief — when the lament pressure
 **When the entity activates:** Somebody finishes a sentence, and then the thing in the sentence is there, with whatever details were given to it and none that were not.
 
 **After departure:** You become careful with words for a week or so. Station staff describe choosing phrasing at home, in ordinary conversation, and the briefing tells new parties to expect it.
+
+## 상호작용 (Entity Interactions)
+
+The party leaves and the inventory is checked against the last one: twenty manifestations, photographed, unchanged. The file has never allowed a second holding onto the shelf while the check was running. Everything below is paper work from the appendix that groups the 90x holdings by manifestation, read against each record's own series. What the three pairings share is a narrative that goes on existing whether or not anybody is telling it.
+
+**Interaction method:** Establish the shelf's own numbers first: the twenty manifestations, the photograph set, the check that adds nothing across a cycle. Then lay the other record's series beside the inventory and enter the first parting, its range, what caused it, and whether either series changed in the reading. Re-verify at the next check.
+
+| What the inventory counts | How the pairing has run | What the shelf entered | What the check retains |
+|---|---|---|---|
+| **Sky of Borrowed Faces** `O-IIIγ-926` | Filed together on surfaces that carry an absent person. That record logs by surface and never by face; this one photographs what is there and asks nothing about who is wearing it. | One review entry; the surface count and the inventory were compared and parted from the first mark. | That the parting is the finding, kept as the review wrote it. |
+| **Once Upon** `O-IIIγ-920` | Grouped on narration inside an hour. That record moves a gauge as names are said aloud; this one would not move for anything said, the inventory being the only success condition it has. | The naming series and the inventory count were laid side by side once and agreed on nothing. | That the two are filed for the shape of the telling and not for a link, noted beside the row. |
+| **Miasma** `C-IVδ-922` | Grouped on a grief that is not the witness's own. That record's bank weeps somebody else's tears; here the story is somebody else's too and it photographs the same either way. | Nothing was run. The appendix listed the two together for the review's eye only. | That the pairing rests on a classification line, entered on each repetition as a filing and not a finding. |
+
+**Interaction procedure:** Nothing is shelved in company with this holding. The comparison happens on paper at the annual review, with the inventory re-read first and the other record's series set beside it untouched; parting, range, cause and both readings are written into the margin.
 
 ## 이야기 (Narratio) — The Tale
 
