@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 45 / unit 9 — Labyrinth of the Unfinished Mind `C-IVδ-909` quote written (2026-10-07)** — the shared opening quote (family of **7** dossiers)
+  replaced **in place** with one of this file's own: walls that read the walker and return the sentence never said out loud. 6288 → **6294 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
+  meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 45 stands at 9
+  of ten.**
+
 - **Batch 45 / unit 8 — Unwaking Block `N-IIIγ-908` quote written (2026-10-07)** — the shared opening quote (family of **7** dossiers)
   replaced **in place** with one of this file's own: the block's people asleep since one night and the building dreaming with them. 4651 → **4657 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
   meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 45 stands at 8
