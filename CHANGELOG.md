@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Trap recorded (2026-10-07) — the PR body has a size cap.** A `gh api -X PATCH` returning 200 with the new body in its response did **not** persist the update once the body exceeded ~262,144 bytes; the stored body stayed old. Keep the PR body under **~261,000 bytes**, trim each batch section to fit, and grep the readback for the section heading after every PATCH — a 200 is not a write.
+
 - **Batch 52 closed at ten (2026-10-07) — personalization phase, fifth per-10 batch, owner-directed, plus the tables-in-the-chatroom directive recorded** — the queue was re-measured at the open (**34 / 301**) and the ten worst taken worst-first, each unit's shared phrasing re-authored **in place** in its own terms, one push per unit (`A0`). Movement: queue **34 → 20 / 301**; heavy and moderate **0 / 301**; light **34 → 20**; fine **267 → 281**; words **73,505 → 73,769 (+264)**. Four repairs (`f310663` · `69ca544` · `13faf11` · `50691c4`) and two growth top-ups (`fd3569f` · `763a810`) followed the pushes; grams introduced on both sides in the batch: **0** (`bnew.py`). Reporting: owner's instruction *"Remember The Table In Chatroom"* recorded (`4d5da4b`) — counters and results as tables, each `x / y` in its own row.
 
 - **Batch 52 / unit 10 — Kind Healer's Shadow `N-IIβ-280` (2026-10-07)** — generic mass 6.1% → **1.9%** (54 of 2,372); 6,878 → 6,895 words.  **Batch 52 stands at 10 of ten.**
