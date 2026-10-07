@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 43 / unit 4 — Never Discharged `O-IIβ-911` closed (2026-10-07)** — measured at `f7b6f72`: failures
+  were `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing `## 상호작용 (Entity
+  Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row record pairing the ward
+  with Allhallow `O-IIIγ-916`, Amnesia `O-IIβ-914` and Backward Hour `C-IIIγ-913` under its own column set, and an
+  interaction procedure — parity **288 → 289 / 301** · and the Resolution line extended to carry the file's own clause as
+  a documented suppression condition (**The gauge falls after the second loop and not the first**) — condition **284 →
+  285 / 301**. 4,291 → **4,738 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py`
+  meets **True**; residual 0 on entry; `own_series` already True. **Batch 43 stands at four of ten.**
+
 - **Batch 43 / unit 3 — Sky of Borrowed Faces `O-IIIγ-926` closed (2026-10-07)** — measured at `8066031`:
   failures were `parity ['interactions']` and `condition` False, plus one residual stock line. **Closed in a single wave
   plus a bounded fix**: the missing `## 상호작용 (Entity Interactions)` section written in the file's own terms —

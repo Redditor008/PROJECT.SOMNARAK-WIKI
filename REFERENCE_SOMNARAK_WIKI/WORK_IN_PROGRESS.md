@@ -2923,6 +2923,14 @@ file's own clause as a documented suppression condition (Two respiration series,
 condition **274 → 275 / 301**. Movement: `R-29` 269 / 301; section-clean 301 / 301; archive dirty 0;
 file-clean 302 / 302. **Batch 42 stands at one of seven.**
 
+**Batch 43, unit 4: Never Discharged `O-IIβ-911` closed.** Measured at `f7b6f72`: failures were `parity
+['interactions']` and `condition` False — **closed in a single wave**; 4,291 → **4,738 words**; `tpl.py` residue 0;
+`sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section
+written in the file's own terms (3 rows — Allhallow `O-IIIγ-916`, Amnesia `O-IIβ-914`, Backward Hour `C-IIIγ-913` —
+with its own column set), parity **288 → 289 / 301**; the Resolution line extended to carry the file's own clause as a
+documented suppression condition (The gauge falls after the second loop and not the first), condition **284 → 285 / 301**.
+**Batch 43 stands at four of ten.**
+
 **Batch 43, unit 3: Sky of Borrowed Faces `O-IIIγ-926` closed.** Measured at `8066031`: failures were
 `parity ['interactions']` and `condition` False, plus one residual stock line — **closed in a single wave plus a bounded
 fix**; 6,714 → **7,138 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets
@@ -2950,6 +2958,8 @@ condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
 **Batch 43 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IIβ-911 Never Discharged 영원한 환자 — `5772e59` — PUSH VERIFIED — [[SE-O-IIβ-911_Never_Discharged_영원한_환자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-911_Never_Discharged_%EC%98%81%EC%9B%90%ED%95%9C_%ED%99%98%EC%9E%90.md "SE-O-IIβ-911_Never_Discharged_영원한_환자.md")]
 
 - SE-O-IIIγ-926 Sky of Borrowed Faces 환각의 격자 — `a4b2c0b` — PUSH VERIFIED — [[SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-926_Sky_of_Borrowed_Faces_%ED%99%98%EA%B0%81%EC%9D%98_%EA%B2%A9%EC%9E%90.md "SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md")]
 
