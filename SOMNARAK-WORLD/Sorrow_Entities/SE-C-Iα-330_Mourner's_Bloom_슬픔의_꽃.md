@@ -359,7 +359,7 @@ The flower sits in the Garden without moving. Its petals hold the color of a bru
 
 ### Interaction Pattern
 
-On the shelf beside it stand the 3 records it has been read with — The Weeping Willow, The Grieving Fountain and The Frozen Tear. None of the three is friend or enemy to this one; each was filed as a resonance candidate and kept at that. When the group is run together the watch reports one line per post — what changed, or that nothing did — and the note over the page says plainly that a resemblance is why the reading was proposed, not what it produced.
+On the shelf beside it stand the 3 records it has been read with — The Weeping Willow, The Grieving Fountain and The Frozen Tear. None of the three is friend or enemy to this one; each was filed as a resonance candidate and kept at that. When the group is run together the watch reports one line per post — what changed, or that nothing did — and the note under it says a pairing rests on a resemblance and never on a measurement.
 
 **Interaction method:** Document it alone first, with the vault register alongside. In shared conditions log the petal count before and after and whether anything was taken; across every joint session in the Gardens this entity has taken nothing, which the file records as the clearest evidence that it feeds on grieving people rather than on grief.
 
