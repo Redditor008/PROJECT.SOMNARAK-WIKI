@@ -1,6 +1,6 @@
 # Duri's Heart — 보존된 심장
 
-> *"Something here remembers what we chose to forget."*
+> *"She counted every one she lost. The amber has been counting them back — same dates, to the day, ever since."*
 
 ## SECC Classification
 
