@@ -88,14 +88,14 @@
 ### Battle Phases
 
 1. **Tension:** Personnel establish the water level against the mark on the coping before anyone speaks, because the level is the reading and a session begun without it cannot be scored. Note also how far the surrounding walls are leaning; the lean tracks the level and is visible from outside the chamber.
-2. **Clash:** There is nothing to fight and nothing to show the Well that it has not already absorbed. Viderehan holds the level steady while the grief in the water is read; Ferrehan lowers it, and requires the worker to stay at the coping and let a thing be said all the way to its end. The session is the listening.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Allow testimony to finish; do not drain the Well**.
+2. **Clash:** Nothing here can be fought; the Well has already swallowed whatever could be shown to it. Viderehan keeps the level steady while the grief in the water is read; Ferrehan brings it down, and asks the worker to remain at the coping until a thing has been said through to the end. The session is the listening.
+3. **Resolution:** The watch closes when the sentence is finished — or by holding, managing or leaving the site, under this well's suppression condition: **Allow testimony to finish; do not drain the Well**.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Clarity** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact does not injure the worker; it recruits them as an audience. Personnel on long sessions begin speaking into the shaft themselves, and the file is clear that this is not a loss of discipline — the Well is good at listening, which is the whole of what it was made to need.
-- The sceptre, the shroud and the vial all carry the same property out of the Well: they hold a thing that was said. Each activation spends a measure of the operator's own capacity to let something go unspoken. The pieces do not take memories. They take the option of silence.
+- When personnel cannot hold against the pressure, **Clarity** and identity cohesion come apart badly, and the Sorrow Gauge climbs faster for it.
+- Long contact does not injure the worker; it takes them on as an audience. Personnel on extended sessions start speaking into the shaft themselves, and the file is clear that this is no failure of discipline — the Well listens well, and being listened to was the whole of what it was made to need.
+- The sceptre, the shroud and the vial each leave the Well carrying one property: a thing that was said, kept. Every activation spends some of the operator's own capacity to leave something unsaid. Nothing is taken out of memory. What the pieces take is the option of silence.
 - If a testimony is cut short, the level rises and stays risen. The Well does not retaliate and does not pursue; it simply holds the unfinished sentence, and the next team finds the water higher than the last log recorded without any event having occurred in between.
 
 ## Appearance
@@ -187,7 +187,7 @@
 
 ### Escalation Notes
 
-The escalation is counted in sentences, not turns: the level rises by a fixed increment for every testimony cut short, holds for as long as somebody is speaking however long they take, and falls only when one is allowed to arrive at its own ending. Personnel log the first trigger, the visible change in the Place-Lament form, the distance at which the effect begins, and the boundary where the resonance settles; alongside those go the emotional and behavioural indicators, since on a Lament hold at the border the telemetry and the account disagree less often than the wing expects and the account is the earlier warning of the two.
+The escalation is measured in sentences rather than turns: each testimony cut short lifts the level by a fixed step, the level holds while anyone is speaking no matter how long that runs, and it drops only when a sentence is allowed to reach its own end. What personnel enter: the first trigger, the change it makes in the Place-Lament form, the distance at which it starts to act, and the boundary where the resonance comes to rest — and beside those, the emotional and behavioural markers, because at a border Lament the instruments and the testimony disagree less often than the wing assumes, and the testimony is the earlier of the two warnings.
 
 **Response sequence:** Secure the perimeter; confirm the event is an activation and not a channel surge from the border ground; withdraw personnel who are not there to listen; then satisfy the management condition, which is to let whoever is speaking arrive at their own ending. Do not drain the Well — the three recorded drainage attempts each returned the water within a shift, higher.
 
@@ -262,7 +262,7 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 **Cost:** The wearer hears the testimony whenever the vial is closed.
 
-*The vial is not manufactured. The Well gives one to a worker who let a testimony run to its end without once speaking over it, and has given none to a worker who closed a session on schedule.*
+*No one manufactures the vial. It comes from the Well to a worker who carried a testimony through to its last word without once speaking across it; no worker who ended a session on the clock has ever been given one.*
 
 ### M.A.W. Use Notes
 
@@ -305,7 +305,7 @@ Every piece in this set carries the Well's one property: it holds a thing that w
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Well of Unfinished Words (N-IIβ-778 [LP]) is a Place-Lament manifestation expressing Lament, formed where border mourners gathered to speak of their dead and were moved on before the first of them had finished. Held at Zone E in the border region. The liquid climbs the shaft rather than settling, the surface shows no reflection, and the level is the reading on every occasion.
+Well of Unfinished Words (N-IIβ-778 [LP]) is entered as a Place-Lament manifestation expressing Lament, made where mourners at the border gathered to speak for their dead and were sent on before the first of them had finished. Held at Zone E. The liquid climbs the shaft instead of settling, the surface keeps no reflection, and on every occasion the level is the reading.
 
 **Entry 2 — <Border Funeral Notes, Zone E>**
 Survey taken three days after the dispersal. Present at the gathering: fifty-one, by the count of the two who returned to the site. Speakers who finished: none. The notes record that the ground was already damp at the centre of where the mourners had stood, and that neither witness could say what had been said, only that the first speaker was four or five sentences in.
@@ -317,7 +317,7 @@ Session 212. One worker at the coping, one at the mark, no scheduled end time. T
 Work response — Viderehan: Reveals the grief embedded in the water. (Stable); Ferrehan: Requires the worker to remain and listen without interruption. (Decrease). Personnel report grief rather than fear when it is allowed to listen.
 
 **Entry 5 — <Archive Note>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+The archive links this well to the ground it stands on: the sorrow behind it was never one person's but structural, stitched into the zone itself.
 
 ## 최종 관찰 (Final Observation)
 
@@ -351,7 +351,7 @@ Well of Unfinished Words is read beside the three border records that share its 
 
 ### Entity Interaction Record
 
-The Well is filed with the border records because the dispersal that made it also ended several other things that morning, and the rows below are what the archive will support about four holds that have only ever been examined as a group once. None of the four is an alliance, and the Well is the only one of them that is still waiting for a sentence to be finished.
+The Well sits among the border records because the dispersal that made it ended several other things that same morning, and the rows below are everything the archive will stand behind about four holds it has only ever looked at together once. None of the four is an alliance, and of them all the Well is the one still waiting for a sentence to finish.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -369,11 +369,11 @@ The border mourners gathered — at the Desolate's edge, near the Gate, in the s
 
 The gathering was dispersed. The Wardens arrived — or the Collectors, or the city's machinery of order, whatever force decided that the gathering was unauthorized, that the mourning was not permitted, that the border mourners could not assemble without approval and the approval had not been granted. The gathering was broken up. The mourners were sent away. And the words — the unfinished eulogies, the half-told stories, the names that had been begun and not completed — had nowhere to go.
 
-The words sank. The unfinished mourning — the eulogies cut short, the stories interrupted, the names spoken into a dispersal rather than a reception — sank into the ground where the gathering had been, and the ground, in Somnarak, gives form to what sinks. Well of Unfinished Words is Place-Lament: the figure of mourning with no witness, the unfinished words collected as water in a well, the specific grief of needing to tell a loss and finding no one willing to hear it.
+The words went under. The unfinished mourning — eulogies broken off, stories cut in the middle, names spoken into a dispersal instead of a hearing — went down into the ground where the gathering had stood, and in Somnarak the ground gives form to what sinks into it. Well of Unfinished Words is Place-Lament: mourning without a witness, unfinished words come together as water in a shaft, the particular grief of having a loss to tell and no one willing to hear it.
 
-The Well holds the unfinished eulogies — the words that were started and stopped, the stories that began and could not end, the names that were spoken and not received. Those who come near the Well of Unfinished Words hear, faintly, the interrupted mourning — the fragments of eulogies, the halves of stories, the names called into a dispersal, soaking into the ground, waiting for the listener the Wardens prevented.
+The Well keeps the eulogies that never finished — words begun and abandoned, stories that started and could not close, names spoken and never taken in. Anyone standing near the Well of Unfinished Words hears it faintly — the mourning that was cut off: pieces of eulogy, half a story, the names called out into a dispersal, seeping into the ground, still waiting for the listener the Wardens kept away.
 
-Some sorrows are about loss. Well of Unfinished Words is about the unspoken — the mourning that needed a witness and found a dispersal, the words that sank unfinished into the ground, preserved as a well of interrupted eulogies that waits, still, for someone to hear them through.
+Some sorrows are about losing. This one is about not being heard — mourning that needed a witness and got a dispersal, words that went unfinished into the ground and were kept there as a well of broken-off eulogies, waiting still for somebody to hear them out.
 ## 증언 (Testimonium) — The Testimony
 
 > *“The mourners were dispersed before anyone could finish speaking. Their words sank into the ground.”* — Keeper, Archive
@@ -393,7 +393,7 @@ Some sorrows are about loss. Well of Unfinished Words is about the unspoken — 
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
-- Refer to the Work Type responses in the Behavior section, and note that two of the four are unavailable, which is standard for an Object/Place record and not an omission.
+- Work Type responses are in the Behavior section; two of the four do not apply to a fixed Place, which is how these records are written and not a gap in this one.
 - Standard containment protocols apply.
 **Observation Notes:**
 - See Origin section for formation details.
@@ -411,7 +411,7 @@ Some sorrows are about loss. Well of Unfinished Words is about the unspoken — 
 
 ### It Climbs
 
-The liquid in the shaft rises rather than settling, and the level is read against a graduated staff fixed to the inner wall. The level responds to what is said nearby. Readings are therefore taken in silence by a single person, and the file notes that the silent-reading rule is the only procedure in the holding and is sufficient.
+The liquid climbs the shaft instead of settling, and the level is taken against a graduated staff set into the inner wall. The level responds to what is said nearby. Readings are therefore taken in silence by a single person, and the file notes that the silent-reading rule is the only procedure in the holding and is sufficient.
 
 ### Walls That Lean Toward It
 
@@ -423,7 +423,7 @@ Neglect produces a rise to the lip and beyond, which makes attendance the contai
 
 ### Mourners Who Were Dispersed
 
-People gathered at the border to speak of their dead and were moved on before anyone had finished, and the words went into the ground, and the commissioning file holds the dispersal order. It is routine in form and cites a routine ground. The archivist's note observes that the order does not mention a funeral, that the officer who signed it may not have known what was being dispersed, and that the file includes his subsequent statement saying so.
+People gathered at the border to speak for their dead and were moved along before anyone had finished; the words went into the ground, and the dispersal order sits in the commissioning file. The form is routine and the stated ground is routine. The archivist notes that the order says nothing about a funeral, that the officer who signed it may not have known what he was dispersing, and that his later statement to that effect is in the file.
 
 ## Trivia
 
