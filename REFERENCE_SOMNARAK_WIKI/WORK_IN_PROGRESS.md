@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 37, unit 8: The Last Warmth of Forty-Two `O-IVδ-515` closed.** Measured at `6abf430`: **1 dirty section**, Final
+Observation 0.114 — **closed in a single wave** (8 sites); 4,997 → **5,091 words**; `tpl.py` residue 0; `sectfile.py`
+**0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the condition clause rose **265 → 266 / 301** by
+registering the file's own discipline inside the rewritten resolution line (the generic A-Relic line had been standing
+in front of it); the file's own 42 voices restated in numerals in a rewritten result row; the escalation paragraph,
+activation reporting order and relations header re-authored. Movement: `R-29` 234 / 301; section-clean 267 / 301;
+archive dirty 63; file-clean 302 / 302. **Batch 37 stands at eight of ten.**
+
 **Batch 37, unit 7: Broken Clock `C-IIIγ-044` closed.** Measured at `a7fc094`: **2 dirty sections** — **closed in a single
 wave** (23 sites); 7,801 → **7,943 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py`
 meets **True**, condition re-registered in the rewritten resolution line. Disclosed: Entry 1's residual cleared
@@ -2561,6 +2569,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 37 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IVδ-515 The Last Warmth of Forty-Two 마흔둘의 마지막 온기 — `99a546c` — PUSH VERIFIED — [[SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-515_The_Last_Warmth_of_Forty-Two_%EB%A7%88%ED%9D%94%EB%91%98%EC%9D%98_%EB%A7%88%EC%A7%80%EB%A7%89_%EC%98%A8%EA%B8%B0.md "SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md")
 
 - SE-C-IIIγ-044 Broken Clock 부서진 시계 — `7317f04` — PUSH VERIFIED — [[SE-C-IIIγ-044_Broken_Clock_부서진_시계]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-044_Broken_Clock_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%8B%9C%EA%B3%84.md "SE-C-IIIγ-044_Broken_Clock_부서진_시계.md")
 

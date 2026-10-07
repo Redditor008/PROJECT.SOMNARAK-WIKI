@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 37 / unit 8 — The Last Warmth of Forty-Two `O-IVδ-515` closed (2026-10-07)** — measured at `6abf430`: **1 dirty
+  section**, Final Observation 0.114 (the choice blockquote, the choose row and the result row), with the generic A-Relic
+  resolution line replaced by the file's own clause, the 4-gram escalation paragraph, the activation reporting order and
+  the relations header row re-authored in the same wave. **Closed in a single wave** (8 sites); 4,997 → **5,091 words**;
+  `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** and the condition
+  clause rose **265 → 266 / 301** — the clause was registered inside the rewritten resolution line (**Wrap the webbing
+  back around the glass and set it in the heated cradle**), which is what the generic A-Relic resolution had been
+  standing in front of — disclosed. The file's own figure was restated in numerals inside the rewritten result row
+  (42 voices) — disclosed; residual 0 on entry and `own_series` already True. Movement at the unit commit: `R-29`
+  234 / 301; section-clean 267 / 301; residue-free 302 / 302; residue lines 0; archive dirty 63;
+  file-clean 302 / 302. **Batch 37 stands at eight of ten.**
+
+
+
 - **Batch 37 / unit 7 — Broken Clock `C-IIIγ-044` closed (2026-10-07)** — measured at `a7fc094`: **2 dirty sections**,
   worst Final Observation (the choice blockquote, the choose row and the result row), then Combat Record (the yield row,
   both combat action rows, the tension phase and the generic resolution). **Closed in a single wave** (23 sites);
