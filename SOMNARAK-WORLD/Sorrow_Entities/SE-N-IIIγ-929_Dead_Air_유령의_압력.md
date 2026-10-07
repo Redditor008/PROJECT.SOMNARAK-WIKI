@@ -1,6 +1,6 @@
 # Dead Air — 유령의 압력
 
-> *"When it comes, you will know. Everyone knows."*
+> *"On the form I wrote 'left side' and an estimated weight. What no form of mine has ever recorded is that the leaning was somebody I knew."*
 
 ## SECC Classification
 
