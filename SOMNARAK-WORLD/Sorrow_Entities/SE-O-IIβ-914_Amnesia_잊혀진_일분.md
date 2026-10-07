@@ -87,7 +87,7 @@
 
 1. **Tension:** The line is confirmed at 200 metres from the epicentre and walked by two wardens in opposite directions. Everyone who will be near it writes their own name on their forearm in grease pencil before the watch begins. It is a crude measure and it is the one that works.
 2. **Clash:** There is none and the wing has asked for the row to be struck. The team stands at the line and the minute runs. Nobody approaches, nothing is deployed, and the only decision available is whether to go in after somebody, which the standing order forbids.
-3. **Resolution:** 1200, then the roll call. Names off the board, people matched to them, forearms read where a person cannot answer. Median time to complete is nine minutes; the two long ones were both a worker who had sweated the pencil off.
+3. **Resolution:** 1200, then the roll call. Names off the board, people matched to them, forearms read where a person cannot answer. Median time to complete is nine minutes; the two long ones were both a worker who had sweated the pencil off. It closes against the documented suppression condition: **Names off the board, people matched to them, forearms read where a person cannot answer**.
 
 ### Consequences
 
@@ -254,6 +254,20 @@ There is no first sensation. That is the finding, stated here because every new 
 **When the entity activates:** Nothing happens that can be seen from the line. People inside the radius keep doing what they were doing, at the same pace, with the same competence, and when it is over they look at their arms.
 
 **After departure:** You check your arm on the way out. Everyone does, including people who were never inside the line, and the grease pencil is kept by the door because of it.
+
+## 상호작용 (Entity Interactions)
+
+The post runs on a roll call: 1200, then names off the board, people matched to them, forearms read where a person cannot answer. The file has never run a second holding against that sequence on the same ground. The rows below are paper work from the appendix that groups the 90x holdings by manifestation, read against each record's own series — three ways of getting a person's identity back onto the record.
+
+**Interaction method:** Fix the post's own numbers first: the 1200 hour, the median nine minutes to complete a roll call, the two long ones that were a worker who had sweated the pencil off. Then read the other record's series into the two columns, enter the first parting, how wide, what set it off, and whether either series moved. Re-verify at the next call.
+
+| What the roll call loses | How the pairing has run | What the post entered | What the board preserves |
+|---|---|---|---|
+| **Never Discharged** `O-IIβ-911` | Filed together on a book that has to be signed. That record discharges a patient who never leaves; this one restores a name that was never lost, only misplaced. | The discharge book and the roll-call median were set side by side once and nothing matched. | That the pairing is a filing line with nothing measured beneath it, entered on each repetition. |
+| **Lethe** `C-IIIγ-928` | Grouped on losses of the mind. That record's volume takes what was known and never gives it back; here the name is still there and the procedure is what finds it. | One review entry; the two series parted at the first mark and the columns were left as they fell. | That the parting stands as the entry, carried in the review's numbers un-smoothed. |
+| **Allhallow** `O-IIIγ-916` | Grouped on the returning dead and on the living who count them. That record keeps two tallies and refuses to reconcile them; this one reconciles every name and writes the match down. | Nothing was run. The appendix flagged the two for the review and the review moved on. | That the claim is an arrangement of the shelf, noted beside the row on each reading. |
+
+**Interaction procedure:** Compare in the record only, at the post's review, with the 1200 roll call re-read first and the other record's series laid beside it unchanged; parting, width, trigger, both readings and what persists are entered and never merged.
 
 ## 이야기 (Narratio) — The Tale
 
