@@ -443,6 +443,13 @@ The objection goes into the minute as **right on all three heads**.
 
 - The Bird measures guilt even when no formal debt exists.
 - Its scales have never been observed out of balance for more than one second.
+- The working mass is read as a difference, not a weight: nineteen kilograms at rest, up to thirty-three under load, and the difference always in the same proportion to what the held party is carrying and has not said.
+- Two of the Three Birds have been seen standing beside it during a weighing. The Bird has never once acknowledged them; the watch logs the company and leaves the reading alone.
+- Feather and bone were sampled once, in Year 4230, over the wardens' written objection. The sample weighed more than the rest mass and less than the working mass, and the case closed without a finding.
+- The room is unheated and its thermometers agree with each other. The heat it gives off is local to the scales and stops at the bench edge, which is why the bench is measured too.
+- The gait has never changed pace for anyone. A worker arriving late and a worker arriving early are met at the same distance from the bench, and that distance has not varied by a step in sixty-one years.
+- The scales have been checked against standard weights twice a decade since the registry began. The check has never found an error and has never explained the heat.
+- It is fed on the weighing floor and eats where it works. The wardens' notes record that it stops eating to weigh, and that it stops eating for nothing else.
 
 
 

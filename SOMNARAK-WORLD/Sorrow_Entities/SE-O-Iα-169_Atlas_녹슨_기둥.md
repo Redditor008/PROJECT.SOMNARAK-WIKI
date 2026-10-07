@@ -420,6 +420,8 @@ The staff association's objection is minuted and read annually. Laying hands on 
 
 - Three load surveys have found nothing above it, below it, or bearing on it; the column is structurally idle and has been since it was first recorded.
 - Corrosion accelerates when a single worker stays past the relief interval, and the tray shows it within the same watch.
+- A monthly load survey has been kept in the registry since Year 4221; it has recorded a load of zero at every inspection, and the survey itself is the only item the column has ever carried.
+- The warmth does not follow the weather. It is present in winter and in summer, and it is at its strongest in the hour after a worker leaves early.
 
 
 

@@ -432,6 +432,9 @@ The minute enters this objection as **correct on every count**, notes that the w
 
 - The ash goes back into her at the return and leaves nothing behind; what the chamber collects is taken after the reformation or not at all.
 - The body resets and the memory does not, which is why the early part of each cycle is slower than the early part of the last one.
+- No one has watched a return from the inside and described it afterwards. The three workers who watched one closely all gave the same account in the same order, which the file sets down and does not explain.
+- The chamber floor is swept after each return. What comes off the floor is finer than what went in, and the difference has been logged every cycle since Year 4231 without once being entered as a loss.
+- Ash left the chamber once, on a boot, in Year 4236. It was returned the same day, and the cycle after it ran shorter than any on record.
 
 
 

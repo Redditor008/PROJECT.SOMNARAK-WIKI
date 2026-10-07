@@ -448,6 +448,8 @@ A Survey Corps member lost their way through the Forge District and never got th
 
 - The needle points toward emotional concentration.
 - It is more stable in places with acknowledged grief.
+- The crack widens by nothing measurable, and the warmth there answers to neither thermometer, shift nor season; the only thing that has ever moved it is a confession entered in the next room.
+- The case was opened once in three hundred years, in Year 4198, to settle a wager. The wager is not in the registry, and no hand has touched the needle since.
 
 
 
