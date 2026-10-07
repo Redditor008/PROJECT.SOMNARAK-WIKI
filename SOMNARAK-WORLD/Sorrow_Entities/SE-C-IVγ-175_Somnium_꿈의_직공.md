@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful work cycle, counted from the session sheets rather than from the weave |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
@@ -81,14 +81,14 @@
 | { *The First Thread* [**Debuff**] } | "A single gossamer strand brushes your skin — and it is softer than it should be." | [The Weaver trails one dream-thread across the target; it clings.] | *Target suffers -10 Composure; sleep tugs at them.* **[10 Lament DMG [Lament]]** | When the Weaver begins to work. |
 | { *The Loom Tightens* [**Debuff**] } | "The thread becomes a web, and the web becomes a cage of gossamer." | [More threads bind the target; the weave closes around them.] | *Target loses 10 Composure; they cannot move without tangling.* **[10 Lament DMG [Lament]]** | When the target stays in the Weaver's reach. |
 | { *The Snare* [**Attack**] } | "The threads pull taut — and dream-stuff cuts sharper than wire." | [The woven threads snap tight, slicing through the target.] | *Inflicts Lament pressure and one slicing wound.* **[14-22 Lament DMG [Lament]]** | When the target struggles against the weave. |
-| { *The Waking Nightmare* [**Attack**] } | "The Weaver shows you what it has woven from your own dreams." | [A horror spun from the target's sleeping mind takes shape and strikes.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Weaver is disturbed or commanded. |
-| { *The Whole Tapestry* [**Ultimate**] } | "Every thread connects to every dreamer — and the Weaver pulls them all." | [The Weaver draws the full tapestry tight, tangling everyone in the weave.] | *All personnel suffer Lament pressure for three turns in the web.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Waking Nightmare* [**Attack**] } | "The Weaver holds up what it has made out of your own sleeping mind." | [Something the target dreamed is standing in front of them, and it moves.] | *A heavy Deep Blue blow; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the Weaver is disturbed or given an order. |
+| { *The Whole Tapestry* [**Ultimate**] } | "There is a thread to every sleeper in the building, and the Weaver draws them all in." | [The whole tapestry pulls tight and takes everybody in the room into the weave.] | *Everyone takes Lament pressure for three turns inside the web.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
 1. **Tension:** The thread-count survey is run before anything else and the figure is entered against the previous survey's. Visual confirmation is not accepted on this file and has not been since Year 4219; the count is the only statement about this entity that two people can make and agree on.
 2. **Clash:** Flerehan and Ferrehan lower the gauge; Pugnahan raises it every time and has never once done otherwise in the holding's history. The team works in pairs on a timed check, and a pair that misses a check ends the session for the whole rotation rather than for themselves, because the worker who has already drifted is the worker least able to say so.
-3. **Resolution:** The session closes on the documented condition — **Identify the dream's false promise and wake without violence** — and on a second thread count. The promise is always a future the worker actually wanted; naming it aloud is what ends the contact, and workers who cannot name one are rotated off the file rather than pressed.
+3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Identify the dream's false promise, name it aloud, and wake without violence**. The clause is what ends contact here and what the file is practised on: the promise is always a future the worker actually wanted, and saying it out loud is the ending.
 
 ### Consequences
 
@@ -163,7 +163,7 @@ Viderehan holds the gauge level and is the most dangerous Work Type on the table
 
 - **Breach type:** Escape, on foot, through corridors, with the weeping that every other Lament holding produces. Nothing about the breach is distinctive. The handling is, and the difference is set out below.
 - **Containment priority:** Rotate responders *before* fatigue, not at it. A tired responder is a drowsy one and the threads reach a drowsy mind faster than a grieving one, so the clock is deliberately set shorter than the measured pressure justifies and is enforced against people who feel fine. Pugnahan raises the gauge here and is not a suppression route; earlier editions of this entry recommended forcing it back through Pugnahan and that instruction stood, wrongly, for eleven years.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per turn, and the rise is not what ends the incident. The incident ends when every responder has been asked, aloud, what they are looking forward to, and has answered.
+- **Sorrow Gauge on breach:** Opens at 40% and climbs 10% a turn, and the climb is not what closes the incident. What closes it is the question put aloud to every responder — what are you looking forward to — followed by an answer from each.
 
 ## M.A.W. Equipment
 
@@ -173,7 +173,7 @@ Viderehan holds the gauge level and is the most dangerous Work Type on the table
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that quivers when raised.
+**Appearance:** a slender singing blade of Lament Han-crystal, cold in the hand, that shivers the moment it is lifted.
 
 **Damage:** Lament 7–12
 **Speed:** 3 (Fast)
@@ -194,7 +194,7 @@ Viderehan holds the gauge level and is the most dangerous Work Type on the table
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cold on the skin, that draws closer the nearer it is carried to its source.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -222,7 +222,7 @@ Viderehan holds the gauge level and is the most dangerous Work Type on the table
 
 **Cost:** The wearer carries an emotional fragment from every dream entered.
 
-*The thread-band is not issued and cannot be requested. It has appeared nine times, and on all nine occasions the recipient had made a formal request that quarter which was refused in writing with a ground stated. No recipient has ever been able to explain the pattern and the holding does not claim to either.*
+*The thread-band is neither issued nor asked for. It has appeared 9 times, and on every one of those occasions the recipient had put in a formal request that quarter which came back refused in writing, with a ground given. No recipient has ever explained the pattern, and the holding does not claim to have either.*
 
 ### M.A.W. Use Notes
 
@@ -265,7 +265,7 @@ The three pieces divide the mechanism cleanly. The blade reaches a dreaming mind
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Somnium (C-IVγ-175 [LS]) is logged as a Subject-Dream manifestation expressing Lament, held at SECTOR-A-01 near the Dream Gates, where the residue of futures imagined and not lived accumulates. It is visible only partially outside the Dream layer and is not identified by sight at all. The holding's measurement is a quarterly enumeration of its luminous threads: 41,906 at the last survey, against a peak of 47,310 and a floor of 38,440 that it has never gone below.
+Somnium (C-IVγ-175 [LS]) stands on the register as a Subject-Dream manifestation expressing Lament, held at SECTOR-A-01 near the Dream Gates, where the residue of futures imagined and not lived accumulates. It is visible only partially outside the Dream layer and is not identified by sight at all. The holding's measurement is a quarterly enumeration of its luminous threads: 41,906 at the last survey, against a peak of 47,310 and a floor of 38,440 that it has never gone below.
 
 **Entry 2 — <Register Return: Four Thousand Two Hundred Requests, Nine Hundred on File>**
 The first full return under the Register of Requests, Year 4238. Four thousand two hundred and seventeen requests were identified as having been made by facility personnel that year — for a posting, a transfer, training, study leave, a change of rotation, a move closer to family. The identification was reconstructed from supervisors' diaries and rotation notes, because the requests themselves were mostly not written down anywhere. Nine hundred and twelve were recorded in the requester's own file with an outcome against them. Three thousand three hundred and five were not recorded at all: made, heard, answered in conversation, and gone. The thread count stood at 47,310 at the Year 4231 peak, in the quarter a hiring freeze cancelled three hundred advertised postings without any of the applicants being told in writing. It reached its recorded floor of 38,440 in Year 4236, the quarter the register opened and four years of refusals were back-filled into the files of the people who had made them. It has never gone below that floor, and the Research wing's standing view is that the floor is made of requests nobody ever said out loud.
@@ -287,11 +287,11 @@ I am signing it anyway, on one ground. For nine years a Warden on that rotation 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Somnium; the other feeds it.
+> The session closes on one question, and the file reads the two endings off what the worker does with it: say aloud what they wanted and did not get, or keep the answer back behind a steady face.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Answer the question aloud, in the present tense, and admit what was not given. | Keep the face steady and give the Weaver something that does not matter. |
 |---|---|
-| The worker names the thing they wanted, aloud, in the present tense, and says that they did not get it. The dream stops without force and the session closes clean. | The worker refuses to name it, or names something they do not care about. The weave turns, the gauge climbs, and the entity withdraws with the real answer still in it. |
+| The worker says what they wanted, out loud and in the present tense, and says plainly that they never got it; the dream ends on its own and the session closes clean. | The worker keeps the answer back or names something they do not care about; the weave turns, the reading climbs, and the entity leaves holding the true answer. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -319,7 +319,7 @@ Three records sit near this one and none of the three has ever been brought to t
 
 Three records are read alongside this one and all three concern dreaming, which has made the grouping lazier than it should be. The distinction that matters operationally is that this entity does not take anything. It gives, accurately, from material the city supplied, and the material is specific to the person standing in front of it. No proximity trial has ever been authorised, for a reason the wing states plainly: a pairing here would require a Warden to be present and awake, and presence and wakefulness are precisely the two variables this holding cannot guarantee.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| What shares the weaving | How the pairing has run | What the post entered | What the sheet keeps |
 |---|---|---|---|
 | **The Memory Weaver** | Grouped by subject and separated by direction. That record takes memory from a person; this one adds to a person, from material the person supplied years earlier. | Untested and proposed three times. All three proposals were refused on the ground that a worker exposed to both could not afterwards say which record had done what. | The refusal, with its date, on every renewed proposal, so the ground does not have to be re-argued each time. |
 | **The Dream Fragment** | The nearest relation and the clearest contrast. A fragment is a piece of one dream; this entity holds the residue of thousands and gives back a whole one, finished, to the person it belonged to. | Paper comparison only. Reading them together is how the wing established that completeness, not dreaming, is the hazard here. | Whether the dream offered was partial or whole, on every exposure sheet. It is the single most predictive field on the form. |
