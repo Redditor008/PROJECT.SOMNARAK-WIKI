@@ -122,7 +122,7 @@
 
 ### Appearance States
 
-This entity is recorded in two distinct states, and the SECC Classification above describes only the first of them. The distinction is operational rather than descriptive: the state determines what can be perceived, by whom, and with what instruments, and a report that does not declare which state it was taken in cannot be compared against any other.
+This entity is recorded in two distinct states, and the SECC Classification above describes only the first of them. The difference is a working one and not a matter of description: the state determines what can be perceived, by whom, and with what instruments, and a report that does not declare which state it was taken in cannot be compared against any other.
 
 | Field | Non-Breach Appearance | Breaching Appearance |
 |---|---|---|

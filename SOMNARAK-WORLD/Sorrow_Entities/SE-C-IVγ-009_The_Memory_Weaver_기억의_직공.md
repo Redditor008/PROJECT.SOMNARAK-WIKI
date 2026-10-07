@@ -369,7 +369,7 @@ Some sorrows mourn the dead. This one mourns the unpersoned — citizens struck 
 **Threat Assessment:** Major (γ). The earlier grading of Low was struck in the forty-second year and the reasons are on the file: the entity does not attack, does not pursue, and injures nobody, and the harm it does is undetectable to the person it is done to. A hazard nobody can feel is not a low one. It is an unreported one.
 **Containment & Handling Procedures:**
 - Of the four, it is Ferrehan and Flerehan who lower the gauge; Viderehan—safest rather than strongest—holds it level; Pugnahan raises it and draws webs.
-- It does not initiate. It has never attacked except on provocation or on a refused offer, and the distinction is operational rather than charitable: a crew that neither provokes nor refuses has nothing to manage.
+- It does not initiate. It has never attacked except on provocation or on a refused offer, and the difference is a working one, not a charitable one: a crew that neither provokes nor refuses has nothing to manage.
 **Observation Notes:**
 - Formed from histories erased from the city’s record.
 - A creature made of unpersoned lives.
