@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–55% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per successful work cycle, taken from the vault's own weighings of the tablet |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Single-use fracture trigger — snapped in two by hand |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β (Moderate) |
@@ -85,9 +85,9 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the single-use A-Relic construct, verify containment integrity, and evaluate emergency tactical need.
-2. **Clash:** The team conducts Viderehan and Ferrehan to harvest ambient Han-Energy while monitoring sector stability.
-3. **Resolution:** The team completes standard containment quotas, or deliberately triggers the A-Relic discharge to resolve an existential facility breach.
+1. **Tension:** The single-use A-Relic construct is identified, the seal checked against the vault sheet, and need judged coldly before anything is lifted. Nothing in SECTOR-C-03 is moved to find out what it weighs.
+2. **Clash:** Viderehan and Ferrehan are worked to take up ambient Han-Energy while the sector's stability is watched.
+3. **Resolution:** The watch closes on the standard quotas, or the Relic is spent on purpose to answer an existential breach of the facility — and the file registers a suppression condition: **File the claim, keep both hands bare, and snap the seam only to lift a burden that will not wait**. The vault staff hold to that clause exactly: the seam is broken once, deliberately, with hands that can feel what they are taking, and the reading is entered afterwards.
 
 ### Consequences
 
@@ -172,7 +172,7 @@ Operatives assigned to Ferrehan must possess clean financial records. If an oper
 
 ### Escalation Notes
 
-The escalation pattern is specific to Father's Broken Bond: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight and held at SECTOR-C-03, Collector's Vault — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here has one shape and is not the standard breach event: a second person in the vault begins weighing something of their own against the tablet. The watch enters the first trigger, the change visible in the Object-Weight form, the distance at which the effect begins, and the line where the resonance settles. The element is Weight and the post SECTOR-C-03, Collector's Vault, so emotional and behavioural indicators are written in beside the physical telemetry.
 
 **Response sequence (Father's Broken Bond):** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -187,7 +187,7 @@ The escalation pattern is specific to Father's Broken Bond: it is not a generic 
 | **Risk** | Moderate (β) Object-Weight producing Weight pressure; The token is irrevocably destroyed; the user suffers 10 Weight damage and wrist strain (-1 AP for 1 turn). |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order (Father's Broken Bond):** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order (Father's Broken Bond):** first trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Viderehan and Ferrehan are the whole of the work here, and the Object and Place rule closes the list.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -296,11 +296,11 @@ Directorate Synthesis: The Concourse designed these tallies to be indestructible
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Fathers Broken Bond; the other feeds it.
+> The watch ends with the tablet in reach and one choice to make: put the claim through the office, or lift the brass onto the balance with your own bare hands and let the mass be what it is.
 
-| File an expense claim for the broken plinth glass. | Lift the tablet and place it upon the balance with bare calloused hands. |
+| Put the expense claim through the office for the broken plinth glass. | Lift the tablet onto the balance with bare, calloused hands. |
 |---|---|
-| The administrative act triggers the tally's weight; your knees buckle under sudden gravitational burden. | The brass acknowledges the worker's labor; the mass stabilizes at twenty kilograms. The log is completed. |
+| The claim goes through, the tally answers it, and the knees give under a sudden gravitational load. | The brass takes the worker's labour as payment and settles at twenty kilograms; the log is closed. |
 | **OBSERVATION FAIL** | **OBSERVATION SUCCESS** |
 
 ## 감각 묘사 (Flavor Text)
@@ -321,7 +321,7 @@ Father's Broken Bond reacts with violent resonance toward entities of debt, scal
 
 ### Entity Interaction Record
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The Bond's neighbour | Shape the pairing took | What the post logged | What the sheet records |
 |---|---|---|---|
 | **The Debt Eater** | Both entities radiate complementary Weight waves; debt eater ceases feeding. | Stabilizes both entities during containment; reduces work difficulty. | Han flux delta, mass measurements, acoustic hum. |
 | **The Debt Scale** | Causes the Debt Scale to tilt violently toward the heavier pan. | Increases gauge accumulation rate by 20%; maintain separation. | Pan tilt angle, room pressure, gauge delta. |
