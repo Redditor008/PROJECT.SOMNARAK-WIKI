@@ -282,7 +282,7 @@ The set is built around the opening entry: a ring that will not fire at a record
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Inherited Debt (N-IVβ-019 [WS]) is logged as a Subject-Mind manifestation expressing Weight, held at SECTOR-C-01, Collector's Row, in a room containing a chair, a table and a clock. It has no body. A person carrying an inherited obligation perceives it as a shadow behind them, a voice at the ear, or a pressure on the chest; everybody else sits an hour in an empty room. It has never physically breached. Its instrument is the ledger length — entries given in a session and afterwards checked against the Collector instruments — four at baseline, zero at the floor, seventy-one at the ceiling.
+The Inherited Debt (N-IVβ-019 [WS]) stands on the register as a Subject-Mind manifestation expressing Weight, held at SECTOR-C-01, Collector's Row, in a room containing a chair, a table and a clock. It has no body. A person carrying an inherited obligation perceives it as a shadow behind them, a voice at the ear, or a pressure on the chest; everybody else sits an hour in an empty room. It has never physically breached. Its instrument is the ledger length — entries given in a session and afterwards checked against the Collector instruments — four at baseline, zero at the floor, seventy-one at the ceiling.
 
 **Entry 2 — <Opening Balance Return: Six Thousand One Hundred and Forty Records, One Thousand Eight Hundred and Seventy-Eight Written Off>**
 The first return under the Rule of the Opening Balance, Year 4238. This facility holds six thousand one hundred and forty personnel records. Over the nine years to the end of last year, one thousand eight hundred and seventy-eight of them were opened carrying a balance that the person named had not incurred: a parent's training bond, a housing advance against quarters the family had held for three generations, or a death-in-service advance lent against the post and recovered from whoever next held it. Every transfer was executed on a valid instrument and every entrant signed. Under the rule all one thousand eight hundred and seventy-eight have been written off and the records returned to zero, at a cost of two million one hundred thousand Echoes against the central reserve. Two hundred and eleven families received the death-in-service advance this year and received it inside four days, underwritten from the reserve rather than from the post. The reserve covers three years at the present rate. The Board has declined on four occasions to make the underwriting permanent. The ledger length stood at seventy-one in Year 4231, the year the training bond was extended to second-generation entrants. It stood at zero in Year 4237. The series has tracked the opening balances for nineteen years and has never tracked the Collector instruments, the outside requests, or anything done in the room.
@@ -308,11 +308,11 @@ The ground is the ledger. The year we extended the training bond to the children
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Inherited Debt; the other feeds it.
+> The hour holds two ways of answering the ledger: say out loud that the obligation was never yours and that you will carry it regardless, or stand on the truth that the debt belongs to somebody else.
 
-| Acknowledge the inheritance and choose whether it will be carried. Physical restraint is useless. | Depart from the condition for good reasons, as The Inherited Debt's record shows people do. |
+| Own the inheritance out loud, and settle whether it gets carried. Nothing physical holds this one. | Argue that the debt is not yours — the record shows how people drift into that, and what it costs. |
 |---|---|
-| The sitter says aloud that the obligation was never theirs and that they will carry it anyway, and means both halves. The gauge falls, the ledger runs, and the entries check out. | The sitter argues that it is not their debt. It is true. The entity does not dispute it. The gauge climbs, nothing is given, and the hour runs to its end regardless. |
+| The sitter says it aloud — the obligation was never theirs, and they will carry it anyway — and means every word of it. The gauge comes down, the ledger keeps its line, and the entries square. | The sitter argues the debt is not theirs to pay. Every word of it is true, and the entity does not contest a syllable. The gauge climbs, nothing gets given, and the hour runs out all the same. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
