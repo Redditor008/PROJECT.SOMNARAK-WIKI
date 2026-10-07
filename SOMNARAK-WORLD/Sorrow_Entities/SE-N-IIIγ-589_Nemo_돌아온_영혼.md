@@ -92,7 +92,7 @@
 
 ### Consequences
 
-- A worker with no purchase against what the tree carries turns into a channel for it: **Clarity** is ground away, and the disturbance that follows feeds straight back into the gauge.
+- A worker who cannot get a hold on what the tree carries becomes a channel for it: **Clarity** is worn down, and the disturbance that results runs straight back into the gauge.
 - The effects on the file worsen with time at the tree. An hour that can be carried becomes, past the cycle, something that takes a worker apart — in feeling first, then in the body, then in who they take themselves to be, then in the room around them.
 - Every draw on the set is charged against the wearer in person — composure, private recollection and the body's stamina — at figures the standard grade ledgers have no column for.
 - With the watch unresolved the grief does not thin out; it turns back into its own ground and lights off the escalation recorded in this file.
@@ -306,7 +306,7 @@ A figure appears at the doorway, wet with tears. You recognize nothing about it,
 
 ### Interaction Pattern
 
-Three files are kept within Nemo's range — The Lost Prince, The Forgotten Name and The Sorrow Gate — and it calls none of them ally or rival; every one is a question the archive has left standing. If a pairing is ever run, the entry records what altered in the sound and the temperature, in what is remembered and what is measured, and where the gauge and the containment line finished, together with how close it stood, how long it held, and the thing that began it.
+Three files are kept within Nemo's range — The Lost Prince, The Forgotten Name and The Sorrow Gate — and it calls none of them ally or rival; every one is a question the archive has left standing. Should a pairing be attempted, the entry records what altered in the sound and the temperature, in what is remembered and what is measured, and how both the gauge and containment read at the close, together with how close it stood, how long it held, and the thing that began it.
 
 **Interaction method:** The question on this holding is always the name count: whether it moved while the other file was near, in which direction, and whether any name appeared in the tears that had appeared before. All three related files turn on a person who is missing from a record, which is why the watch is briefed on the differences rather than the resemblance before any joint event.
 
