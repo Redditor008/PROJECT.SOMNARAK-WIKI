@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful work cycle, as kept by the outside clock and not by the watch's own count |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
@@ -82,14 +82,14 @@
 | { *The Stopped Hand* [**Debuff**] } | "The hand freezes mid-tick — and for a moment, so does everything else." | [The Clock stops time locally; the target is caught mid-motion.] | *Target suffers -10 Resolve in the suspended instant.* **[10 Weight DMG [Weight]]** | When the Clock is consulted. |
 | { *The Wrong Hour* [**Debuff**] } | "The hands spin to an hour that does not exist — and your sense of time breaks with them." | [The Clock deranges time around the target.] | *Target loses 10 Resolve; past and future bleed together.* **[10 Weight DMG [Weight]]** | When the target lingers near the Clock. |
 | { *The Falling Gear* [**Attack**] } | "A gear breaks loose and flies — heavy, jagged, and exactly on time." | [A broken mechanism launches a part at the target.] | *Inflicts Weight pressure and one grinding wound.* **[14-22 Weight DMG [Weight]]** | When the Clock is struck. |
-| { *The Midnight Strike* [**Attack**] } | "It tolls an hour it has no right to — and the wrong hour is the worst one." | [The Clock sounds an impossible hour; the wrongness is a blow.] | *A heavy Black toll; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Clock is wound or forced. |
-| { *Time Broken* [**Ultimate**] } | "Every clock stops — and time, finally, refuses to move." | [The Clock breaks time across the whole field, freezing all in wrong hours.] | *All personnel suffer Weight pressure for three turns in stopped time.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Midnight Strike* [**Attack**] } | "It strikes an hour it has no claim on, and that hour is the worst of them." | [An hour that cannot exist comes off the bell, and the wrongness lands like a blow.] | *A heavy Black toll; the reading jumps 15%.* **[24-36 Weight DMG [Weight]]** | When the Clock is wound or pushed. |
+| { *Time Broken* [**Ultimate**] } | "Every clock stops at once, and time itself will not go forward." | [Time comes apart across the field and every hour in it is the wrong one.] | *Everyone takes Weight pressure for three turns of stopped time.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
-1. **Tension:** Broken Clock is confirmed by the uncountable tick and the chalked line; the bay's two other clocks keep correct time and are read by the watch as a check. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** The Clock is confirmed by the tick nobody can count and by the chalk mark on the floor. The bay holds 2 other clocks, both keeping honest time, and the watch reads them as its check. Positions are taken, and the withdrawal agreed, before the cycle opens.
 2. **Clash:** Four turns, timed by the outside clock and never by anyone inside the line. The inside worker acknowledges each reading aloud; an unacknowledged reading ends the cycle at once, whatever else is in progress.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The watch closes on the standard quotas, or against the documented suppression condition: **Work to the outside clock, keep the ten-minute limit, and never trust your own sense of the interval**. The clause is the whole of the discipline here: the party works in pairs, the outside clock is read aloud, and nobody's estimate goes on the sheet.
 
 ### Consequences
 
@@ -273,11 +273,11 @@ The wheel’s sixteen micro-teeth are coated in delicate rime frost and turn exa
 
 **Cost:** The bearer occasionally experiences subjective tinnitus mimicking an irregular pocket-watch escapement.
 
-*The Frozen Escapement Wheel is not issued and cannot be requested. It has been conferred three times, in each case on a Warden who withdrew on a missed acknowledgment when they were certain they had answered.*
+*The Frozen Escapement Wheel is neither issued nor asked for. It has been conferred 3 times, each on a Warden who broke off on a missed acknowledgement at a moment when they were certain they had answered.*
 
 ### M.A.W. Use Notes
 
-Each Escapement piece is an extension of the holding rather than equipment. It performs as recorded while the bearer works to the outside clock and costs more when they begin trusting their own sense of the interval. The Wheel is conferred after a work cycle and is not manufactured, requested, or scheduled.
+Every Escapement piece is the holding's condition carried in metal rather than ordinary gear. It behaves as recorded so long as the bearer works to the outside clock, and it asks more the moment the bearer starts trusting their own feel for the interval. The Wheel is given after a work cycle and is never manufactured, requested or scheduled.
 
 ### Field Use Record
 
@@ -309,18 +309,18 @@ Each Escapement piece is an extension of the holding rather than equipment. It p
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Broken Clock as an Object/Place with Object-Weight manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at SECTOR-A-01, Alpha Tree deep storage — contained. |
+| **Initial exposure** | The observer enters the holding as an Object/Place carrying Object-Weight manifestation. Its signature is Weight, and the markers that hold are the uncountable tick and the chalked line, at SECTOR-A-01 in the deep storage under the Alpha Tree. |
 | **Sustained observation** | Face readings and directions at fixed outside intervals, stop durations, tick behaviour, boundary probe, gauge, acknowledgments given and received, and the inside interval estimated by the worker for comparison with the clock. |
 | **Activation or escalation** | Escalation is recorded when the probe finds the field outside the chalked line. The line is re-chalked immediately, the previous line is left visible, and the series of lines is the containment's only record of how this holding has grown. |
-| **Post-contact review** | Boundary before and after, face series, stop durations, gauge movement, outside duration against inside estimate, and a seven-day check on each worker for sequence errors in their own account of ordinary days. |
+| **Post-contact review** | The boundary before and after, the face series, how long each stop lasted, the gauge, the outside duration set against the inside estimate, and a 7-day check on every worker for sequence errors in how they describe ordinary days. |
 
-**Observation method:** Work to the outside clock, log the face, probe the line, and write down the difference between the two durations. The form here is the sorrow and not a forecast: a district did the same correct things twice and arrived nowhere, and what crystallised out of it keeps no hour at all.
+**Observation method:** Work to the outside clock, write the face down, probe the line, and enter the gap between the two durations. What shows here is the sorrow itself and no forecast: a district did the same right things twice over and got nowhere for it, and what came out of that keeps no hour of its own.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Clock (C-IIIγ-044 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Clock formed from the city's frustration with the repeating time loop of Year 4222–4223. Held at SECTOR-A-01, Alpha Tree deep storage — contained. The distortion field extends exactly seven meters.
+Broken Clock (C-IIIγ-044 [WO]) stands on the register as a Object-Weight manifestation expressing Weight. The Clock formed from the city's frustration with the repeating time loop of Year 4222–4223. Held at SECTOR-A-01, Alpha Tree deep storage — contained. The distortion field extends exactly seven meters.
 
 **Entry 2 — <The Hands>**
 Hands move forward, backward, or stop for unexplained intervals.
@@ -336,11 +336,11 @@ The archive cross-references this entity with its registered location — the so
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Broken Clock; the other feeds it.
+> The watch comes down to one decision at the line, and the file keeps the two endings on it: work the sheet's way, in pairs and to the outside clock, or go by what the party believes the time to be.
 
-| Do the thing on file: Viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary. | Depart from the condition for good reasons, as Broken Clock's record shows people do. |
+| Work it the sheet's way — Viderehan and Ferrehan, Tool protocol certified, 2 workers on the outside clock, the 10-minute limit and the boundary held. | Break off the clause for good reasons, which is how the record shows people come unstuck here. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is borne; Broken Clock is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Broken Clock withdraws without revelation. |
+| It answers the way its record says it will; the sorrow is carried and the Clock is recorded whole. | It resists the wrong approach and the pressure keeps climbing; the reading rises and the Clock goes unrecorded. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -359,16 +359,16 @@ Time stretches inside your bones. Your heartbeat races while your body seems sti
 
 ### Interaction Pattern
 
-This holding is read against the other things in the city that hold or lose time. Each relation below has been observed and filed; none is settled; and all five were observed from outside the line, since nothing can be measured inside it.
+The Clock is read beside the other things in the city that keep time or lose it. Every pairing below has been watched and entered, none of them is closed, and all 5 were watched from outside the line, because nothing inside it can be measured at all.
 
-**Interaction method:** Baseline each party alone over several cycles — face series, stop durations, boundary, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
+**Interaction method:** Set each party's baseline on its own across several cycles — the face series, how long the stops ran, the boundary, the gauge — before any joint watch. The first shared change is entered with its range, its duration and what began it, the gauge on both sides, and what remains changed once they are apart. Re-check every cycle.
 
 
 ### Entity Interaction Record
 
 The relations below are canonical points of contact rather than alliances. None is settled. Four of the five rest on a shared theme of time, and the fifth is the only one in this file supported by a measurement anybody has repeated.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| What keeps or loses time | How the pairing has run | What the bay entered | What the file retains |
 |---|---|---|---|
 | **The Memory Weaver** | Said to communicate with the Weaver in temporal fragments, which is the oldest claim in this file. | Four co-presences. Nothing was transmitted that either party retained; the Weaver produced no thread referable to this holding and the face series was within its ordinary range. The wing has recorded the claim as unsupported twice. | All four co-presences, the face series, the Weaver's output, and the two written notes. |
 | **The Cracked Hourglass** | The temporal kinship, asserted of these two more often than of any other pair in the Alpha Tree. | Six co-presences. The Hourglass's tick and this holding's are unrelated: no convergence, no ratio, no shared drift across any of the six. Both gauges flat. Two anxieties about time with nothing passing between them. | All six co-presences, the paired tick series, and both flat gauges. |
