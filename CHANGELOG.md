@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 33 / unit 9 — Yggdrasil Wound `O-Iα-973` closed (2026-10-07)** — measured at `fa99e8e`: **3
+  dirty sections**, worst Final Observation 0.150 (the choice blockquote, the choose row and the result row), then Flavor
+  Text 0.061 (the 32-gram relations preamble and the relations header) and Behavior 0.058 (the 12-gram gauge-response
+  paragraph, rebuilt in the file's own terms). **Closed in a single wave** (10 sites); 7,752 →
+  **7,930 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True** with series and condition held; the condition was re-registered inside the rewritten
+  resolution line. The Entry 1 `is logged as ` stock line was rewritten (`stands on the register as`), residual
+  **1 → 0**; the at-first-contact line's orphaned `its registered form.` tail was rebuilt whole-line. Movement at the
+  unit commit: `R-29` 207 / 301; section-clean 232 / 301; residue-free 302 / 302; residue lines 0; archive
+  dirty 139; file-clean 302 / 302. **Batch 33 stands at nine of ten.**
+
+
+
 - **Batch 33 / unit 8 — The Rage Statue `C-IIIγ-190` closed (2026-10-07)** — measured at `776cd85`:
   **3 dirty sections**, worst Final Observation 0.159 (the choice blockquote, the choose row and the result row), then
   Combat Record 0.062 (the yield and resistance rows, two action rows, the tension phase and the resolution) and Flavor

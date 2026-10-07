@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Identity / memory pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 10–14 per successful work cycle, taken off the grounding and never off the tree |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · α |
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 0.95 m/s |
-| **Resistance** | 15% against Void pressure; 5% against other pressure types |
+| **Resistance** | 15% against Void pressure and 5% against everything else — a low figure on a file where the pressure arrives from beneath rather than from the holding |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Han Pressure [ATK]** | 3–10 per hit · Void |
@@ -87,7 +87,7 @@
 
 1. **Tension:** The team enters the deep tunnels and establishes, first, which members can perceive the entity at all. Those who cannot are posted as grounding partners rather than sent away; those who can are the working party, and the division is recorded before anything else happens.
 2. **Clash:** Ten turns against 198 points of divided mind at 15% resistance, with three to ten pressure per turn. The numbers are trivial. The difficulty is that the entity works only on those who can see it, which means the party's most affected member is doing the work and the party's steadiest member is standing in the tunnel unable to help.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Ground the worker and permit both memories to remain**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Ground the worker and permit both memories to remain**. The clause is the resolution rather than a note on it: the worker is grounded first and both memories are left standing, and no watch on this ground closes by deciding which account was true.
 
 ### Consequences
 
@@ -155,7 +155,7 @@ This entity is recorded in two distinct states, and the SECC Classification abov
 
 ### Operational Work Notes
 
-The gauge response is only meaningful in context. Element, coherence, and manifestation all shape how each Work Type interacts with the sorrow. Yggdrasil Wound is recorded as a Subject with Subject-Mind manifestation and Void elemental expression. The current record places it at Zone B, deep tunnels; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table above is one input among several, and it is the SECC code with the coherence level that tells a reader what a steady gauge means in the deep tunnels. Yggdrasil Wound stands as a Subject with Subject-Mind manifestation and Void in its element, filed at Zone B. Two cautions travel with the entry. Nothing is inherited from a holding with a similar name; its neighbours are listed in their own section and none of them is this. And a flat gauge is no proof of a safe watch: the figure can sit level while the worker is being reached through memory, ground or identity, and the price of that hour will not show on the page.
 
 **Reading the response:** Flerehan brings the gauge down and the split closes slightly as the roots become visible — grief shared with it reduces the gap, which is as close to treatment as this holding permits. Ferrehan also brings it down, and the test is exact: whether the worker can remain between both memories. Not choose between them, not reconcile them, not decide which is true. Remain. Viderehan holds level and shows what is held on each side of the split, which is informative and leaves the gap unchanged. Pugnahan raises the gauge and tears the tree further through the worker's own thoughts, because confrontation demands a single account and the demand for a single account is the injury. The management condition states the whole of it: ground the worker, and permit both memories to remain.
 ## Breach Behavior
@@ -278,7 +278,7 @@ Each piece remains part of the Tree, and the set is organised around holding two
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Yggdrasil Wound (O-Iα-973 [VS]) is logged as a Subject-Mind manifestation expressing Void. The Tree formed from a mind divided by loss. Held at Zone B, deep tunnels. The Tree is perceived mentally rather than physically.
+Yggdrasil Wound (O-Iα-973 [VS]) stands on the register as a Subject-Mind manifestation expressing Void. The Tree formed from a mind divided by loss. Held at Zone B, deep tunnels. The Tree is perceived mentally rather than physically.
 
 **Entry 2 — <Tunnel Perception Roster, Zone B>**
 Spreads through consciousness and tunnel memories. Personnel experience divided identity and warmth inside emptiness. Its warmth increases when a memory is denied.
@@ -294,11 +294,11 @@ The collapse schedule names him once. His own file names him twice and disagrees
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Yggdrasil Wound; the other feeds it.
+> Two ways to close a watch on the Tree, and the file separates them by what the observer does when the worker turns out to be holding two accounts at once: one grounds them and lets both memories stand, and the other picks the truer one — kindly, and to the holding's advantage.
 
-| Ground the worker and permit both memories to remain. | Depart from the condition for good reasons, as Yggdrasil Wound's record shows people do. |
+| Ground the worker and permit both memories to remain, exactly as the sheet sets it out. | Depart from the condition for good reasons — settle which account was true, choose the steadier memory — as this file shows people doing. |
 |---|---|
-| The split closes slightly and roots become visible. The sorrow is seen clearly; Yggdrasil Wound is fully recorded. | The tree tears further through the worker's thoughts. The gauge climbs and Yggdrasil Wound withdraws without revelation. |
+| The split closes slightly and the roots come clear; both memories stand and the entry closes with the holding recorded whole. | The tree tears further through the worker's thoughts; the gauge climbs and the entry closes with the Wound no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -307,7 +307,7 @@ A tree grows behind your eyes. Its trunk is split, its roots hold two different 
 
 
 
-**At first contact:** The Subject-Mind does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. its registered form.
+**At first contact:** The Subject-Mind announces itself with no sound and no movement at all. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief with no source you can name. The tree is already behind the eyes before anybody has decided to look at it.
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Mind becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 
@@ -317,7 +317,7 @@ A tree grows behind your eyes. Its trunk is split, its roots hold two different 
 
 ### Interaction Pattern
 
-Yggdrasil Wound does not exist in isolation. Its recorded relationships with The Torn Trace, The Hollow Tree, The Memory Well should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings sit in the Tree's working range — The Torn Trace, The Hollow Tree and The Memory Well — and each is a resonance question rather than an alliance or a standing quarrel. Where a pairing is run, enter what the answer did in sound, movement, temperature, memory pressure, gauge or containment stability, with range, duration and trigger beside it.
 
 **Interaction method:** Establish the solo baseline with the same observers each cycle wherever possible, because a change in who can perceive the Tree is a change in the instrument rather than in the entity, and the two are easy to confuse. When a second holding is introduced, log the separation, the duration, the gauge movement, the cleft width, and the question specific to this entity: whether the other presence appears on one side of the split or on both. A presence that registers on only one half has been recorded twice and in both cases the observers disagreed about which half, which is itself the characteristic result and is preserved rather than adjudicated.
 
@@ -326,7 +326,7 @@ Yggdrasil Wound does not exist in isolation. Its recorded relationships with The
 
 The Tree moves through the Zone B deep tunnels and is perceived rather than encountered, so its interactions are mediated by the personnel who can see it and change as that group changes. The interactions below are canonical but each was recorded through particular observers; personnel must re-establish who can currently perceive it before relying on any of them.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The Tree's neighbour | How the pairing has run | What the watch logged | What the entry carries |
 |---|---|---|---|
 | **The Torn Trace** | Both divide an identity and neither finishes the job. Observers who can perceive one can perceive the other, every time, which is the only instance of the gate running in parallel. | Cleft unchanged; the perception rosters of the two holdings are effectively one list. | Record the roster overlap. Welfare material, not survey material. |
 | **The Hollow Tree** | Two absences of different kinds: one a cavity nothing ever filled, one a tear between two things that are both there. The warmth transfers; the emptiness does not. | Cleft warmth rises in the perceivers while the Hollow Tree's acoustic rings are unchanged. | Record warmth per observer and the Gardens ring readings side by side. |
