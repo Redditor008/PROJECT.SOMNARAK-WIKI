@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 37 / unit 1 — Quagmire `O-IVδ-168` closed (2026-10-07)** — measured at `1abedbb`: **1 dirty section**, Final
+  Observation 0.143 (the choice blockquote, the choose row and the result row), with the behavior-context and escalation
+  paragraphs, both heavy combat action rows, two appearance lines, the effect line, the at-limit row, the relations
+  header row and the field-detail bullet re-authored in the same wave. **Closed in a single wave** (22 sites);
+  8,431 → **8,579 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True** with the condition held. The residual cleared (`becomes a force rather than a feeling` → `stops behaving like
+  grief and starts behaving like weather`) — residual **1 → 0**. **Disclosed:** rollback **#31** struck at the batch open
+  — the checkout was found at the session's base `408797c` while the remote held `1abedbb`; the standing recovery was
+  run and the batch opened clean on a verified-levelled tree, open measure `R-29` 226 / 301 · section-clean 258 / 301 ·
+  archive dirty 78. Movement at the unit commit: `R-29` 227 / 301; section-clean 259 / 301; residue-free 302 / 302;
+  residue lines 0; archive dirty 77; file-clean 302 / 302. **Batch 37 stands at one of ten.**
+
+
+
 - **Batch 36 CLOSED at seven (2026-10-07).** Seven dossiers, **11 / 11 dirty sections closed**, **+1,023 words** net
   across the seven unit commits, `verify.py` residuals **4 → 0**, nothing deleted (`R-15`). Each unit committed
   individually and pushed (`A0`) and validated by `wikistd.py` (`meets True`), `sectfile.py` (0 sections over 0.05),

@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 37, unit 1: Quagmire `O-IVδ-168` closed.** Measured at `1abedbb`: **1 dirty section**, Final Observation 0.143 —
+**closed in a single wave** (22 sites); 8,431 → **8,579 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over
+0.05**; `wikistd.py` meets **True**, condition held. Disclosed: the `becomes a force rather than a feeling` residual
+cleared (`stops behaving like grief and starts behaving like weather`), residual **1 → 0**; both template paragraphs,
+combat rows, appearance lines and the relations header re-authored; rollback **#31** at the batch open (session base
+`408797c` against remote `1abedbb`), recovered by the standing procedure. Movement: `R-29` 227 / 301; section-clean
+259 / 301; archive dirty 77; file-clean 302 / 302. **Batch 37 stands at one of ten.**
+
 **Batch 36 closed at seven (2026-10-07).** Seven dossiers · **11 / 11 dirty sections closed** · **+1,023 words** net ·
 `verify.py` residuals **4 → 0** · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Movement, b36 open → b36
 close: `R-29` 219 → **226 / 301** · parity 274 → **275 / 301** (unit 2's interactions section written) · series 274 →
@@ -2503,6 +2511,10 @@ above (`R-12`), each with its commit hash and PUSH VERIFIED; the PR #13 section 
 next entry in this file. The full disclosure list lives in the batch-25 CHANGELOG entry: the u3 pipe repair, the
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
+
+**Batch 37 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IVδ-168 Quagmire 무너진 흔적 — `ab74e8e` — PUSH VERIFIED — [[SE-O-IVδ-168_Quagmire_무너진_흔적]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-168_Quagmire_%EB%AC%B4%EB%84%88%EC%A7%84_%ED%9D%94%EC%A0%81.md "SE-O-IVδ-168_Quagmire_무너진_흔적.md")
 
 **Batch 36 — CLOSED at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
