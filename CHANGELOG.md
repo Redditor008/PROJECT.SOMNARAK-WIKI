@@ -8,14 +8,38 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 37 — CLOSED at ten (2026-10-07)** — ten dossiers · **17 / 17 dirty sections closed** · **+986 words** net
+  (74,174 → 75,160 across the ten files) · `verify.py` residuals **6 → 0** (units 1, 3, 5, 7, 9, 10; units 2, 4, 6, 8
+  entered clean) · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Roster, newest first: u10 The Cracked
+  Hourglass `C-IIIβ-036` `078a161` · u9 Somnium `C-IVγ-175` `e868cda` · u8 The Last Warmth of Forty-Two `O-IVδ-515`
+  `99a546c` · u7 Broken Clock `C-IIIγ-044` `7317f04` · u6 The Happy Mask `C-IIβ-051` `45f414e` · u5 Relic of a Thousand
+  Owners `O-IVδ-792` `2c842a9` · u4 Weighting Bird `C-IIIγ-032` `5e81ee1` · u3 Barrier of Nothing `N-IIIγ-283`
+  `3445c1f` · u2 Sleeping Tree `O-IIIγ-374` `6e2cc0f` · u1 Quagmire `O-IVδ-168` `ab74e8e`; every dossier carries its SE
+  git link in `WORK_IN_PROGRESS.md` (`R-12`). Movement, b37 open (`1abedbb`) → close: `R-29` 226 → **236 / 301** · parity
+  275 → 275 / 301 · condition 265 → **267 / 301** (units 8 and 9; re-registered with the count unchanged on units 3, 6, 7
+  and 10) · series 277 → **282 / 301** (units 2, 4, 5, 6, 10) · section-clean 258 → **269 / 301** · residue-free 302 →
+  302 / 302 · archive dirty 78 → **58** · file-clean 302 → 302 / 302 · scene-clean 259 → **270** · worst 0.023 →
+  **0.020** · median 0.007 → 0.007.
+
+  Disclosures: **rollback #31** at the batch open (session base `408797c` against remote `1abedbb`), recovered by the
+  standing procedure. Six of the ten units closed in a single wave; units 3, 5, 9 and 10 aborted pre-write — u3 on a
+  count assertion, u5 on an anchor taken from truncated output, u9 on a capitalisation mismatch, u10 on a truncated
+  escalation row — and the corrected waves ran whole, nothing written on any failed attempt; unit 4's close check held
+  the commit on `series False` until the numerals fix and then closed whole. Condition registered **False → True** on
+  units 8 and 9; `own_series` closed **False → True** on units 2, 4, 5, 6 and 10 via the files' own figures restated in
+  numerals inside real edits, disclosed per unit — unit 10's entry corrected at this close, its flag was False at entry.
+  Residual lines cleared on units 1, 3, 5, 7, 9 and 10 (1 → 0 each). Relations preamble, header and method re-authored
+  once per unit with a distinct header column set on every file (`R-12`, `R-14`); no counterparty paired twice. Batch 37
+  was opened at ten on the owner's pacing ladder (**3 or 5, then 7 or 10**) and closed at its rung.
+
 - **Batch 37 / unit 10 — The Cracked Hourglass `C-IIIβ-036` closed (2026-10-07)** — measured at `7468f46`: **2 dirty
   sections**, Trivia and Registrum, with the Final Observation blockquote, both combat action rows, the tension phase,
   the observation method and the interactions paragraph and method re-authored in the same wave. **Closed in a single
   wave**; 7,671 → **7,790 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
   **True**. Entry 1's residual cleared line-locally (`is logged as ` → `stands on the register as`), residual **1 → 0**;
-  `own_series` was already True, and the wave raised it so the sections stopped regenerating — the file's own figures
-  restated in numerals inside real edits (2 other glasses · 4 pairings · 2 Work Types · 15-minute limit · 7-day check ·
-  2 times a watch · 4 refills) — disclosed. The condition clause was re-registered inside the rewritten resolution line
+  `own_series` closed **False → True** via the file's own figures restated in numerals inside real edits
+  (2 other glasses · 4 pairings · 2 Work Types · 15-minute limit · 7-day check · 2 times a watch · 4 refills) — disclosed;
+  the flag was False at entry, and the wording of this entry was corrected at the batch close. The condition clause was re-registered inside the rewritten resolution line
   (**Viderehan and Ferrehan only at the plinth, and nobody stays past the fifteen-minute limit**), which had carried the
   generic entity-specific management form the register reads inconsistently — disclosed. A first wave attempt aborted
   pre-write on a truncated escalation row (the file's tail reads `never adjusted downward to match an expectation`), and

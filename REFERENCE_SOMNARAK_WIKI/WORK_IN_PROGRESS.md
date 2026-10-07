@@ -1716,6 +1716,19 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 37 closed at ten (2026-10-07).** Ten dossiers · **17 / 17 dirty sections closed** · **+986 words** net ·
+`verify.py` residuals **6 → 0** (units 1, 3, 5, 7, 9, 10) · `tpl.py` residue 0 throughout · nothing deleted (`R-15`).
+Movement, b37 open (`1abedbb`) → b37 close: `R-29` 226 → **236 / 301** · parity 275 → 275 / 301 · condition 265 →
+**267 / 301** (units 8, 9; re-registered on 3, 6, 7, 10) · series 277 → **282 / 301** (units 2, 4, 5, 6, 10) ·
+section-clean 258 → **269 / 301** · residue-free 302 → 302 / 302 · archive dirty 78 → **58** · file-clean 302 →
+302 / 302 · scene-clean 259 → **270** · worst 0.023 → **0.020** · median 0.007 → 0.007. Disclosures: **rollback #31**
+at the batch open; units 3, 5, 9 and 10 aborted pre-write and the corrected waves ran whole; unit 4's close check held
+the commit on `series False` and closed after the numerals fix; condition **False → True** on units 8 and 9 and
+re-registered on 3, 6, 7 and 10; `own_series` **False → True** on units 2, 4, 5, 6 and 10 (unit 10's entry corrected
+here — the flag was False at entry); residual lines cleared on units 1, 3, 5, 7, 9 and 10; every unit's relations
+header row unique. **Batch 37 was opened at ten on the owner's pacing ladder (3 or 5, then 7 or 10) and closed at its
+rung.**
+
 **Batch 37, unit 10: The Cracked Hourglass `C-IIIβ-036` closed.** Measured at `7468f46`: **2 dirty sections**, Trivia and
 Registrum — **closed in a single wave**; 7,671 → **7,790 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over
 0.05**; `wikistd.py` meets **True**. Disclosed: Entry 1's residual cleared line-locally, residual **1 → 0**; the
@@ -2585,7 +2598,7 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
-**Batch 37 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 37 — CLOSED at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IIIβ-036 The Cracked Hourglass 금이 간 모래시계 — `078a161` — PUSH VERIFIED — [[SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-036_The_Cracked_Hourglass_%EA%B8%88%EC%9D%B4_%EA%B0%84_%EB%AA%A8%EB%9E%98%EC%8B%9C%EA%B3%84.md "SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md")
 
