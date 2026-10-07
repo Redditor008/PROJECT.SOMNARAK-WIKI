@@ -2848,6 +2848,17 @@ conversions), `own_series` False → True, series **283 → 284 / 301**; the `Mo
 `felt... complete` ellipsis normalised, residual **1 → 0** and seam cleared. Movement: `R-29` 263 / 301; section-clean
 299 / 301; archive dirty 2; file-clean 302 / 302. **Batch 41 stands at one of five.**
 
+**Batch 42 closed at seven (2026-10-07).** Seven dossiers · **0 dirty sections closed** (the wing was already
+section-clean at the open) · **+3,014 words** net (36,666 → 39,680) · `verify.py` residual 0 throughout · `tpl.py`
+residue 0 throughout · nothing deleted (`R-15`). Movement, b42 open (`284ae17`) → b42 close: `R-29` 269 → **274 / 301**
+(units 3–7) · parity 278 → **285 / 301** (all seven units) · condition 274 → **281 / 301** (all seven units) · series
+284 → 284 / 301 · section-clean 301 → **301 / 301** · residue-free 302 → 302 / 302 · archive dirty 0 → **0** ·
+file-clean 302 → 302 / 302 · scene-clean 302 → **302** · worst 0.014 · median 0.006. Disclosures: no rollback at the
+batch open; every unit one wave each, `UNIT CLOSED OK` on first run, no repairs needed — each of the seven had its
+missing interactions section written in its own terms with its own column set and its Resolution line extended to carry
+the file's own clause as a documented suppression condition; `own_series` was already True in every unit. **Batch 42 was
+opened at seven on the owner's pacing ladder (3 or 5, then 7 or 10) and closed at its rung.**
+
 **Batch 42, unit 7: Passing Bell `N-IIβ-919` closed.** Measured live at `470a99f`: **no dirty sections**; failures were
 `parity ['interactions']` and `condition` False — **closed in a single wave**; 4,133 → **4,556 words**; `tpl.py` residue
 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section
@@ -2912,7 +2923,7 @@ file's own clause as a documented suppression condition (Two respiration series,
 condition **274 → 275 / 301**. Movement: `R-29` 269 / 301; section-clean 301 / 301; archive dirty 0;
 file-clean 302 / 302. **Batch 42 stands at one of seven.**
 
-**Batch 42 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 42 — CLOSED at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-N-IIβ-919 Passing Bell 조상의 시간 — `9afc79b` — PUSH VERIFIED — [[SE-N-IIβ-919_Passing_Bell_조상의_시간]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-919_Passing_Bell_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-N-IIβ-919_Passing_Bell_조상의_시간.md")
 

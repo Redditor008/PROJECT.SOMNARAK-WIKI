@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 42 closed at seven (2026-10-07)** — seven dossiers finished, all seven with their SE git links and closing
+  commits recorded in `REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS.md` under **Batch 42 — CLOSED at seven**. Movement, b42
+  open (`284ae17`) → close: `R-29` 269 → **274 / 301** · parity 278 → **285 / 301** · condition 274 → **281 / 301** ·
+  section-clean 301 → **301 / 301** · archive dirty 0 → **0** · file-clean 302 → 302 / 302. **+3,014 words** net
+  (36,666 → 39,680) · `verify.py` residual 0 throughout · `tpl.py` residue 0 throughout · nothing deleted (`R-15`).
+  Disclosures: no rollback at the open; each of the seven units closed in a single wave with `UNIT CLOSED OK` on the
+  first run — the missing interactions section written in the file's own terms (own column set each) and the file's own
+  clause registered as the documented suppression condition on the existing Resolution line; `own_series` already True
+  in every unit. **Opened at seven on the owner's pacing ladder (3 or 5, then 7 or 10) and closed at its rung.**
+
 - **Batch 42 / unit 7 — Passing Bell `N-IIβ-919` closed (2026-10-07)** — measured live at `470a99f`: **no dirty
   sections**; failures were `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing
   `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row
