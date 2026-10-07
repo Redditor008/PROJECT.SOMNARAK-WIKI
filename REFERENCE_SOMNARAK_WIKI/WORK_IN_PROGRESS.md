@@ -2287,7 +2287,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 33 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IIIγ-190 The Rage Statue 분노의 조각상 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-190_The_Rage_Statue_%EB%B6%84%EB%85%B8%EC%9D%98_%EC%A1%B0%EA%B0%81%EC%83%81.md "SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md")
+- SE-C-IIIγ-190 The Rage Statue 분노의 조각상 — `1661ea5` — PUSH VERIFIED — [[SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-190_The_Rage_Statue_%EB%B6%84%EB%85%B8%EC%9D%98_%EC%A1%B0%EA%B0%81%EC%83%81.md "SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md")
 
 - SE-N-IIIγ-589 Nemo 돌아온 영혼 — `24da91d` — PUSH VERIFIED — [[SE-N-IIIγ-589_Nemo_돌아온_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-589_Nemo_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%98%81%ED%98%BC.md "SE-N-IIIγ-589_Nemo_돌아온_영혼.md")
 
