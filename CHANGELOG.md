@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 43 / unit 7 — Backward Hour `C-IIIγ-913` closed (2026-10-07)** — measured at `6b0d04d`: failures were
+  `parity ['interactions']`, `condition` False and `series` False. **Closed in a single wave plus a bounded fix**: the
+  missing `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a
+  3-row record pairing the countdown with Dead Air `N-IIIγ-929`, Miasma `C-IVδ-922` and Lethe `C-IIIγ-928` under its own
+  column set, and an interaction procedure — parity **291 → 292 / 301** · the Resolution line extended to carry the file's
+  own clause as a documented suppression condition (**Sixty-one occurrences logged across the fixed-point network since the
+  holding opened**) — condition **287 → 288 / 301** · and the Registrum line's own figure restated in numerals (forty-one
+  lapses → 41 lapses) inside the real edit, `own_series` False → True, series **284 → 285 / 301**. 5,613 → **6,070
+  words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**; residual 0 on
+  entry. **Batch 43 stands at seven of ten.**
+
 - **Batch 43 / unit 6 — Once Told `O-IVδ-930` closed (2026-10-07)** — measured at `1d22cf4`: failures were
   `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing `## 상호작용 (Entity
   Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row record pairing the shelf

@@ -2923,6 +2923,15 @@ file's own clause as a documented suppression condition (Two respiration series,
 condition **274 → 275 / 301**. Movement: `R-29` 269 / 301; section-clean 301 / 301; archive dirty 0;
 file-clean 302 / 302. **Batch 42 stands at one of seven.**
 
+**Batch 43, unit 7: Backward Hour `C-IIIγ-913` closed.** Measured at `6b0d04d`: failures were `parity
+['interactions']`, `condition` False and `series` False — **closed in a single wave plus a bounded fix**; 5,613 →
+**6,070 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed:
+the missing interactions section written in the file's own terms (3 rows — Dead Air `N-IIIγ-929`, Miasma `C-IVδ-922`,
+Lethe `C-IIIγ-928` — with its own column set), parity **291 → 292 / 301**; the Resolution line extended to carry the
+file's own clause as a documented suppression condition (Sixty-one occurrences logged across the fixed-point network since
+the holding opened), condition **287 → 288 / 301**; the Registrum line's own figure restated in numerals (forty-one lapses
+→ 41) inside the real edit, `own_series` False → True, series **284 → 285 / 301**. **Batch 43 stands at seven of ten.**
+
 **Batch 43, unit 6: Once Told `O-IVδ-930` closed.** Measured at `1d22cf4`: failures were `parity ['interactions']`
 and `condition` False — **closed in a single wave**; 4,592 → **5,031 words**; `tpl.py` residue 0; `sectfile.py` **0
 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section written in the file's own
@@ -2974,6 +2983,8 @@ condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
 **Batch 43 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIIγ-913 Backward Hour 카운트다운 시계 — `5cdf681` — PUSH VERIFIED — [[SE-C-IIIγ-913_Backward_Hour_카운트다운_시계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-913_Backward_Hour_%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4_%EC%8B%9C%EA%B3%84.md "SE-C-IIIγ-913_Backward_Hour_카운트다운_시계.md")]
 
 - SE-O-IVδ-930 Once Told 살아 있는 서사 — `6b0d04d` — PUSH VERIFIED — [[SE-O-IVδ-930_Once_Told_살아_있는_서사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-930_Once_Told_%EC%82%B4%EC%95%84_%EC%9E%88%EB%8A%94_%EC%84%9C%EC%82%AC.md "SE-O-IVδ-930_Once_Told_살아_있는_서사.md")]
 
