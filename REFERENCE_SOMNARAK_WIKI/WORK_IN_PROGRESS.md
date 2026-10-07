@@ -1718,9 +1718,10 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 
 **Batch 33, unit 7: Nemo `N-IIIγ-589` closed.** Measured at `228f15a`: **4 dirty sections**, worst Final
 Observation 0.167, then M.A.W. Equipment 0.099, Flavor Text 0.063 and Combat Record 0.051 — **closed in a single wave**
-(25 sites); 6,895 → **7,143 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets
+(25 sites); 6,499 → **6,745 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets
 **True**, series and condition held; condition re-registered in the resolution line. Disclosed: the Entry 1
-`is logged as ` line rewritten — residual **1 → 0**. Movement: `R-29` 204 / 301; section-clean 229 / 301;
+`is logged as ` line rewritten — residual **1 → 0**; **closed in two passes** — the first left M.A.W. Equipment at 0.054
+(the shared `cool and faintly luminous` run), and the second closed it at 0.019. Movement: `R-29` 204 / 301; section-clean 229 / 301;
 residue-free 302 / 302; archive dirty 150; file-clean 302 / 302. **Batch 33 stands at seven of ten.**
 
 **Batch 33, unit 6: I Alone Crossed `C-IVδ-106` closed.** Measured at `ea292ad`: **4 dirty sections**, worst Final

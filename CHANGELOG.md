@@ -13,10 +13,12 @@ This file records notable changes to the public Somnarak Wiki.
   (three appearance lines, the stat-bonus effect, the before/during/at-limit/after-use rows and the stat
   interpretation), Flavor Text 0.063 (the 32-gram relations preamble and the relations header) and Combat Record 0.051
   (the yield and resistance rows, two action rows, the tension phase and the resolution). **Closed in a single wave**
-  (25 sites); 6,895 → **7,143 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**;
+  (25 sites); 6,499 → **6,745 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**;
   `wikistd.py` meets **True** with series and condition held; the condition was re-registered inside the rewritten
   resolution line. The Entry 1 `is logged as ` stock line was rewritten (`stands on the register as`), residual
-  **1 → 0**. Movement at the unit commit: `R-29` 204 / 301; section-clean 229 / 301; residue-free 302 / 302;
+  **1 → 0**. **Closed in two passes:** the first pass left M.A.W. Equipment at 0.054 (the three appearance lines still carried
+  the archive-shared `cool and faintly luminous` run); the second pass re-worded those three lines, the effect line, the
+  before-use row and the at-limit tail, and the section closed at 0.019. Movement at the unit commit: `R-29` 204 / 301; section-clean 229 / 301; residue-free 302 / 302;
   residue lines 0; archive dirty 150; file-clean 302 / 302. **Batch 33 stands at seven of ten.**
 
 

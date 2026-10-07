@@ -173,7 +173,7 @@ The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost 
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a long blade of Lament Han-crystal, cool and faintly luminous, that takes a glow along its edge the moment it is readied.
+**Appearance:** a long blade of Lament Han-crystal with a faint cold light held inside the grain, that takes a glow along its edge the moment it clears the scabbard.
 
 **Damage:** Lament 5–9
 **Speed:** 2 (Normal)
@@ -194,7 +194,7 @@ The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost 
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that goes cold the moment it is worn closed.
+**Appearance:** a wrapping shroud of Lament Han-silk with a faint cold sheen across it, that goes cold the moment it is worn closed.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -212,11 +212,11 @@ The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost 
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, and warmer in the hand than the room it was kept in.
+**Appearance:** a small charm of Lament Han-crystal with a faint cold light in the matrix, warmer in the hand than the room it was kept in.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's work on this holding; the Armoury records no measured effect anywhere else.
+**Effect:** +1 to the bearer's work on this holding, and the Armoury's sheets record no measured difference on any other ground.
 
 **Ability:** The bearer can tell whether a person in front of them is recorded anywhere in the Company's registers, and cannot tell where.
 
@@ -232,9 +232,9 @@ The blade is held by the watch's medic and has never been swung. The shroud belo
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a baseline written down and lodged with a second worker. On this set the cost is that nothing the bearer feels while the piece is drawn is their own, which is exactly why the baseline is kept by somebody else. |
+| **Before use** | Wielder, piece, the day's reading, and a baseline entered on the issue sheet and left in another worker's hands. The cost on this set is that nothing the bearer feels while the piece is drawn is their own, which is the very reason the baseline cannot sit with the bearer. |
 | **During use** | Charging shows in the bearer before anything else: nothing they feel while the piece is drawn belongs to them. The second worker logs the hour, and the bearer's own account is taken afterwards and kept apart from it. |
-| **At limit** | The toll runs without pause: small pleasures stop registering, and wearers tend to notice it first in food. On this set the second worker's call stands against the bearer's. |
+| **At limit** | The toll runs without pause: small pleasures stop registering, and wearers tend to notice it first in food. Here the observer's call overrides the bearer's, and the observer's is the one entered. |
 | **After use** | Return the piece, then put the question to a colleague rather than to the bearer: whether the small pleasures have come back, food included. |
 
 **Stat interpretation:** The grade covers extraction and says nothing about the person carrying the item. A piece can grade well and still take a toll no figure on the sheet accounts for, and the Armoury's own returns are where that shows up.
