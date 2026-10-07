@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 36 / unit 7 — Portcullis `O-Iα-794` closed (2026-10-07)** — measured at `49e1ecc`: **1 dirty section**, Final
+  Observation 0.145 (the choice blockquote, the choose row and the result row), with the behavior-context paragraph, the
+  10-gram escalation paragraph, two combat action rows and the relations header row re-authored in the same wave.
+  **Closed in a single wave** (15 sites); 7,748 → **7,830 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s)
+  over 0.05**; `wikistd.py` meets **True** with the condition held and a clean residual (`RESIDUAL 0` on entry). Movement
+  at the unit commit: `R-29` 226 / 301; section-clean 258 / 301; residue-free 302 / 302; residue lines 0;
+  archive dirty 78; file-clean 302 / 302. **Batch 36 stands at seven of seven — units complete, close entry to
+  follow.**
+
+
+
 - **Batch 36 / unit 6 — Ember Phoenix `O-IVδ-190` closed (2026-10-07)** — measured at `869e13e`: **2 dirty sections**, worst
   Final Observation 0.145 (the choice blockquote, the choose row and the result row), then Operational Parameters 0.065
   (the yield row and the 11-gram extraction bullet), with the two heavy combat action rows, the resolution phase and one
