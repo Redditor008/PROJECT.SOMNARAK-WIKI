@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Read the holding by the two tones and the bearing spread, and never by what the voices say — both of them say true things, and the truth of what they say has never once been establishable. The approach is confirmed and positions are taken before anything else is attempted.
+1. **Tension:** The holding is read by its two tones and the spread of its bearings, never by the words — the voices say true things, and whether what they say is true has never once been establishable. Confirm the approach, take the positions, and only then begin.
 2. **Clash:** Flerehan and Ferrehan, two recorders on separate channels, neither hearing the other's sheet. Nothing is contradicted aloud — denial is the one input that reliably escalates this holding and the prohibition is absolute. The tone count runs throughout.
 3. **Resolution:** The cycle closes with both tones logged separately, the two sheets left in disagreement, and no version of the sentence preferred over the other. The registration carries the file's condition: **record both tones; do not choose a convenient version** — the clause crews break by tidying, because a contradiction left standing is the one thing this holding has ever been given.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resilience** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Double Mouth’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Double Mouth’s event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow deepens where it already is and the zone becomes unworkable.
+- Resistance that fails lets the murmur in directly: **Resilience** pays for it and the gauge is lifted on the payment.
+- Time in the Commons deepens the wound: the sorrow gets past the protocol's terms and into the operative's cognition, and the breakdown it leaves — emotional, bodily, identitary — does not reverse.
+- The kit is not free, and the rate is on file: body, mind and recollection each settle a share of it on every swing.
+- A watch left unresolved fires the event protocol: the gauge peaks, the fail-safes give, and the sorrow settles deeper into ground it already holds until the zone cannot be worked at all.
 
 ## Appearance
 **Primary Form:** An ethereal voice divided into two tones, one whispering and one burning with anger.
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-The gauge moves on this holding and says little. The figure that is kept is the tone count: how many observations in a hundred, at fixed hours, carry the burning tone rather than the whisper. 38, then 52, then 61 across three years. The Watch Record declined for two decades to call that a trend, on the correct ground that the sampling was uneven; the sampling was regularised in Year 4235 and the refusal no longer applies.
+The gauge moves here and tells you very little. The figure the watch keeps is the tone count — how many observations in a hundred, taken at fixed hours, carry the burning tone instead of the whisper: 38, then 52, then 61 across three years. For two decades the Watch Record refused to call that a trend, rightly, since the sampling was uneven; the sampling was regularised in Year 4235, and the refusal no longer stands.
 
 **Reading the response:** A good cycle leaves two sheets that disagree and nobody in the room who tried to fix that. The failure mode is not panic; it is a recorder who, at the desk afterwards, quietly makes the sheets match.
 ## Containment Event Behavior
@@ -226,7 +226,7 @@ The gauge moves on this holding and says little. The figure that is kept is the 
 
 ### M.A.W. Use Notes
 
-Each piece in the set is cut from the holding and carries what it carries: old wounds ache in the bearer, and a long use leaves faint bruising wherever the wounds used to be. The grade measures how cleanly the fragment was taken; the cost sits in the column beside it and is why the set goes out one rotation at a time.
+Every piece in the set was cut from the Commons holding itself and carries its disposition: the bearer's old injuries ache, and long wear leaves faint bruises exactly where those injuries sit. How cleanly the fragment came away is the grade; the price is in the next column, and it is the reason the set leaves the rack one rotation at a time.
 
 ### Field Use Record
 
@@ -265,7 +265,7 @@ Each piece in the set is cut from the holding and carries what it carries: old w
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Double Mouth (C-IIβ-716 [GS]) is a Subject-Spirit manifestation expressing Grudge, held at Mantle Commons in Zone D and worked on two unreconciled channels, with the tone count taken at fixed hours. It has never touched anybody. It grows louder when contradicted, and the facility is forbidden to establish how much louder it can get.uder.
+Double Mouth (C-IIβ-716 [GS]) is filed as a Subject-Spirit manifestation expressing Grudge, standing at Mantle Commons in Zone D and worked on two channels that are never reconciled, the tone count taken at fixed hours. It has never laid a hand on anybody. Contradiction makes it louder, and the facility is forbidden to find out how much louder it can go.
 
 **Entry 2 — <Excerpt from Tone Count, Year 4238>**
 Burning tone on 61 observations in 100 against 52 and 38 in the two preceding years, counted at fixed hours since the sampling was regularised. The older record's refusal to express the trend as a slope was correct for uneven sampling and is no longer required.
@@ -310,14 +310,14 @@ A whisper enters from the left, giving evidence in order, dates and all. Somethi
 
 ### Interaction Pattern
 
-Three holdings are kept within reach of the Commons — The Broken Whisper, The Whispering Gallery and The Iron Judge — and none of the three is friend or enemy to the murmur. For each pairing the watch enters whether the answer moved in sound, movement, temperature, memory pressure, gauge or containment stability, with the distance, duration and trigger beside whatever remains once the two are apart.
+Three files stand within reach of the Commons — The Broken Whisper, The Whispering Gallery and The Iron Judge — and the murmur calls none of them friend or enemy. A pairing is entered with what the answer did to the sound, to the temperature, to the memory pressure, to the gauge and to the containment line, and with the distance between the two, the time it ran, and the trigger.
 
 **Interaction method:** Baseline each holding alone with its own count, then proximity with two recorders per entity and the tone count at five-minute intervals rather than at the hour. No contradiction is offered to either party at any point in a trial, which rules out three of the comparisons the wing would otherwise want.
 
 
 ### Entity Interaction Record
 
-Double Mouth must be assessed against the other testimony files and kept distinct from them. The Broken Whisper is an account that was never finished; the Whispering Gallery carries any voice put into it; the Iron Judge wants evidence. This holding is none of those: its account is complete, consistent, and unprovable, and the thing it accuses is not a liar but a filing rule that works.
+This file is read beside the other testimony holdings and kept apart from them. The Broken Whisper is an account left unfinished; the Whispering Gallery repeats whatever voice is put into it; the Iron Judge asks for evidence. This holding is none of the three: its account is finished, consistent, and impossible to prove, and what it accuses is not a liar — it is a filing rule, and the rule works.
 
 | Holding within earshot | How the encounter has run | What the Commons watch recorded | What the entry must state |
 |---|---|---|---|
@@ -396,7 +396,7 @@ Contradiction increases it, reliably, and this is the one behaviour personnel ar
 
 The burning share has been taken at fixed hours since Year 4235, which is the first year this holding's sampling can bear a trend: 38 in a hundred, then 52, then 61. The Watch Record's earlier refusal to draw a slope across two decades of uneven sampling was correct and is left standing above; it is no longer an obstacle.
 
-The share tracks the number of allegations closed unsubstantiated each quarter whose subject had already been the subject of a closed allegation. That quantity is not held by anyone. It was reconstructed once, for three years, by two commissioners working from destruction warrants that record a quarter and a department but no names, and the reconstruction was itself destroyed when it was done. Tide windows, Commons footfall, session count, recorder identity and the holding's own gauge were tested against the series and lost.
+The share follows the count, each quarter, of allegations closed unsubstantiated against somebody who had already carried a closed allegation. Nobody holds that quantity. It was put together once, covering three years, by two commissioners working from destruction warrants that carry a quarter and a department and no names at all — and the reconstruction was destroyed as soon as it was finished. Tide windows, footfall in the Commons, session counts, recorder identity and the holding's own gauge were each set against the series and each lost.
 
 The rule behind the quantity is a good rule. An allegation that cannot be substantiated is destroyed entire — complaint, statements, investigator's notes, every copy — and nothing is noted on the subject's file, because sixty years ago an unproven accusation was left on a rigger's record 'for information' and ended him over nineteen years without anyone ever having to prove a word of it. The destruction rule has prevented every repetition of that case. It also guarantees that the fourth complainant is received as the first, honestly, by a clerk forbidden to know better.
 
@@ -412,7 +412,7 @@ The commissioner who signed the scheme has written her own note beneath it. It s
 
 ### A Witness Who Was Dismissed
 
-Someone reported an injustice and was not believed, and the memory tore in two, and the commissioning file holds the original complaint with the response it received. The response is courteous and final. Both documents are short and are printed facing each other, the archivist's note observing that the file does not establish whether the complaint was true and that the entity exists either way.
+Someone reported an injustice and was not believed, and the memory tore in two; the commissioning folder holds the original complaint and the answer it drew. The answer is courteous and final. The two documents are short and printed facing each other, and the note filed between them observes that the folder cannot establish whether the complaint was true — and that the entity exists either way.
 
 ## Trivia
 
