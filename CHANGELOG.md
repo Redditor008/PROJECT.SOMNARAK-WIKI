@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 41 / unit 3 — The Grieving Maiden `C-IVβ-041` closed (2026-10-07)** — measured live at `31f0b82`: **1 dirty
+  section**, the Registrum (0.051), carried by its Operational interpretation and Review requirement lines. **Closed in a
+  single wave** (2 sites), both lines re-authored in fresh wording with the file's own figures restated in numerals (4
+  things rechecked). 7,871 → **7,881 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**; condition held; residual 0 on entry; `own_series` already True. **The archive dirty count
+  reached 0 for the first time** — no section in the wing now shares more than 0.05 of the register's cross-file
+  material. Movement at the unit commit: `R-29` 265 / 301; section-clean 301 / 301; residue-free 302 / 302;
+  residue lines 0; archive dirty 0; file-clean 302 / 302. **Batch 41 stands at three of five.**
+
 - **Batch 41 / unit 2 — Collapsed Seed `N-IVδ-315` closed (2026-10-07)** — measured live at `6349dcd`: **1 dirty
   section**, Final Observation (0.052), with shared template lines in Operational Parameters, Combat Record, Breach
   Behavior, M.A.W. Equipment and the Registrum. **Closed in a single wave** (14 sites): the Final Observation blockquote

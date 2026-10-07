@@ -2796,6 +2796,13 @@ entry residual cleared line-locally; `own_series` already True; the file's own f
 edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 301; section-clean 283 / 301; archive
 dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
 
+**Batch 41, unit 3: The Grieving Maiden `C-IVβ-041` closed.** Measured live at `31f0b82`: **1 dirty section**, the
+Registrum — **closed in a single wave** (2 sites, the Operational interpretation and Review requirement lines, fresh
+wording, the file's own figure restated in numerals); 7,871 → **7,881 words**; `tpl.py` residue 0; `sectfile.py` **0
+section(s) over 0.05**; `wikistd.py` meets **True**, condition held. **The archive dirty count is now 0.** Movement:
+`R-29` 265 / 301; section-clean 301 / 301; archive dirty 0; file-clean 302 / 302. **Batch 41 stands at three of
+five.**
+
 **Batch 41, unit 2: Collapsed Seed `N-IVδ-315` closed.** Measured live at `6349dcd`: **1 dirty section**, Final Observation —
 **closed in a single wave** (14 sites across the shared template lines); 8,812 → **8,842 words**; `tpl.py` residue 0;
 `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held, residual 0 on entry. Movement:
@@ -2812,6 +2819,8 @@ conversions), `own_series` False → True, series **283 → 284 / 301**; the `Mo
 299 / 301; archive dirty 2; file-clean 302 / 302. **Batch 41 stands at one of five.**
 
 **Batch 41 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IVβ-041 The Grieving Maiden 슬픔의 처녀 — `2a4bfd3` — PUSH VERIFIED — [[SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-041_The_Grieving_Maiden_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%B2%98%EB%85%80.md "SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md")
 
 - SE-N-IVδ-315 Collapsed Seed 무너진 씨앗 — `b06f2f3` — PUSH VERIFIED — [[SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-315_Collapsed_Seed_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%94%A8%EC%95%97.md "SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md")
 
