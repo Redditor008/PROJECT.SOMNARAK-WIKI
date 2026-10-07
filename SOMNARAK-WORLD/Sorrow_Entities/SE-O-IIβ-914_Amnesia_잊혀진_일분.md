@@ -1,6 +1,6 @@
 # Amnesia — 잊혀진 일분
 
-> *"It does not end. It merely pauses between heartbeats."*
+> *"No onset, no end — and afterward everyone inside the line looks at their arm to find out who they are."*
 
 ## SECC Classification
 
