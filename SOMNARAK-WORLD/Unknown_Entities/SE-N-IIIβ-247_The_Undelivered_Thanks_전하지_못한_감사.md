@@ -87,7 +87,7 @@
 
 1. **Tension:** There is nothing to establish. The team joins the route at the Lantern's dock and walks with the figure at its own pace, which is slow and unvarying; the only preparation that matters is deciding in advance whether the worker is willing to accept a stone, and telling the duty officer which.
 2. **Clash:** The word is wrong for this entity and the Zone D office has asked for it to be struck from the form. The figure bows, offers, and continues. No worker has ever been struck by it, and the two injuries on file were both caused by a worker accepting a stone they had already been advised to refuse.
-3. **Resolution:** A stone reaches a living person who can be thanked, or the route ends at the Echo Gardens and the worker goes home still carrying it. The second outcome is the common one and is not a failure; a stone in a warden's pocket is a stone out of the satchel, and eleven of them are currently in circulation.
+3. **Resolution:** The route closure is entered under the suppression condition: **take a stone, carry it to a living person who can be thanked, and speak the thanks aloud; never confront the figure and never extract**. The route may also end at the Echo Gardens with the worker going home still carrying the stone — the common outcome, and not a failure; a stone in a warden's pocket is a stone out of the satchel, and 11 of them are currently in circulation.
 
 ### Consequences
 
@@ -337,7 +337,7 @@ The Undelivered Thanks walks the old Dawn routes now, a translucent figure bowed
 
 **Operational interpretation:** This file documents a β-grade entity that has never harmed anyone who did not volunteer, carries an extraction ban usually reserved for Sovereigns, and produces the lowest energy yield in the zone. It is kept on the roster for one reason, stated here so that no future office has to guess at it: the route is a register of people the city owes, it is the only such register that exists, and if the figure stops walking it goes with it.
 
-**Review requirement:** Re-photograph the satchel after every Sorrow Tide and check the eleven. Nine of the placed stones are accounted for; two are with workers who have left Zone D service, and the Gardens office writes to both of them annually. Neither has answered, and neither letter has come back.
+**Review requirement:** Re-photograph the satchel after every Sorrow Tide and check the 11. 9 of the placed stones are accounted for; 2 are with workers who have left Zone D service, and the Gardens office writes to both of them annually. Neither has answered, and neither letter has come back.
 ## Trivia
 
 - The first sorrow in Somnarak made of something positive (gratitude) that became heavy enough to crystallize.
