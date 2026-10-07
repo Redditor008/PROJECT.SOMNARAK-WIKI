@@ -370,6 +370,68 @@ def quotes_report(data):
         print()
 
 
+def plan_report(data):
+    """Restart-and-plan: light vs heavy for every pair carrying a copied section.
+
+    wholesale (W) = a section carried across whole  (>= 0.85 containment)
+    partial   (P) = a section sharing a few lines  (0.50 - 0.85)
+
+    Owner's method, 2026-10-07: fix the light side's small overlaps; clean the heavy side's
+    whole-block copies (Combat Actions, Operational Parameters named as the usual two).
+    """
+    by = collections.defaultdict(dict)
+    for f, d in data.items():
+        for k, v in d['secs'].items():
+            by[k][f] = v
+    pair_secs = collections.defaultdict(list)
+    for name, fl in by.items():
+        if len(fl) < 20:
+            continue
+        owner = collections.defaultdict(list)
+        for f, g in fl.items():
+            for x in g:
+                owner[x].append(f)
+        cand = collections.Counter()
+        for x, lst in owner.items():
+            if len(lst) > DISTINCTIVE_MAX:
+                continue
+            for a, b in itertools.combinations(sorted(lst), 2):
+                cand[(a, b)] += 1
+        for (a, b), c in cand.items():
+            if c < 10:
+                continue
+            cab, cba = cont(fl[a], fl[b]), cont(fl[b], fl[a])
+            if max(cab, cba) >= 0.50:
+                pair_secs[(a, b)].append((name, cab, cba))
+    rows = []
+    for (a, b), secs in pair_secs.items():
+        wa = sum(1 for n, x, y in secs if x >= 0.85)
+        wb = sum(1 for n, x, y in secs if y >= 0.85)
+        pa = sum(1 for n, x, y in secs if 0.50 <= x < 0.85)
+        pb = sum(1 for n, x, y in secs if 0.50 <= y < 0.85)
+        if (wa, pa) >= (wb, pb):
+            heavy, light, hW, hP, lW, lP, hx, lx = a, b, wa, pa, wb, pb, True, False
+        else:
+            heavy, light, hW, hP, lW, lP, hx, lx = b, a, wb, pb, wa, pa, False, True
+        rows.append([max(wa + pa, wb + pb), max(wa, wb), heavy, light, hW, hP, lW, lP, secs, hx])
+    rows.sort(key=lambda r: (-r[0], -r[1]))
+    print('PAIR PLANNER — light side (small overlaps to fix) vs heavy side (whole blocks to clean)')
+    print('%-36s %-36s %4s %4s %4s %4s' % ('heavy side', 'light side', 'hW', 'hP', 'lW', 'lP'))
+    for r in rows[:24]:
+        print('%-36s %-36s %4d %4d %4d %4d' % (os.path.basename(r[2])[:36], os.path.basename(r[3])[:36],
+              r[4], r[5], r[6], r[7]))
+    heavy_files = collections.Counter()
+    for r in rows:
+        heavy_files[r[2]] += 1
+    print()
+    print('heavy sides: %d files | light sides: %d files | pairs: %d'
+          % (len({r[2] for r in rows}), len({r[3] for r in rows}), len(rows)))
+    print('clean-first work order (heavy sides, worst first):')
+    for f, n in heavy_files.most_common(12):
+        print('   %2d pair(s)  %s' % (n, os.path.basename(f)))
+    return rows
+
+
 def print_pair(a, b, data):
     """Everything needed to compare one pair by hand, in one command."""
     A, B = data[a], data[b]
@@ -426,6 +488,7 @@ def main(argv):
     do_lineage = False
     pair_paths = None
     do_quotes = False
+    do_plan = False
     i = 0
     while i < len(argv):
         a = argv[i]
@@ -439,12 +502,18 @@ def main(argv):
             do_lineage = True
         elif a == '--quotes':
             do_quotes = True
+        elif a == '--plan':
+            do_plan = True
         elif a == '--pair':
             pair_paths = [argv[i + 1], argv[i + 2]]
             i += 2
         else:
             single = a
         i += 1
+
+    if do_plan:
+        plan_report(load(dossiers()))
+        return 0
 
     if do_quotes:
         quotes_report(load(dossiers()))

@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Clone audit, restart + clean-first plan — `clone_audit.py --plan` (2026-10-07)** — check restarted from scratch and the
+  light/heavy plan measured: **57 / 301** files carry at least one **whole** copied section (>= 0.85) — 54 with one, **3 with
+  two** (Dancing Chains, Calling Bloom, Grieving Love) — and **95 / 301** carry small overlaps only (0.50–0.85). Sections
+  copied whole, by frequency: **Consequences 94** · **Operational Parameters 27** · **Combat Actions 16** · Operational Notes 14
+  · Testimonium 6; **14 files** carry Combat Actions and/or Operational Parameters whole. Method recorded: clean the 57 first,
+  fix the 95 small overlaps after, verify with `--plan`. The deletion wording is flagged, not acted on: `R-15` is growth-only
+  and `A5` requires a file-named instruction, so the clean phase awaits the owner's answer (delete vs replace in place).
+  Report: `CLONE_AUDIT_2026-10-07.md`, Finding 8. No dossier content changed.
+
 - **Clone audit restarted from the SE quote — `clone_audit.py --quotes` (2026-10-07)** — the owner's call: the
   blockquote between the title and `## SECC Classification` is the first place a reskin shows. Measured over **301 / 301**:
   **5 exact duplicate quote families covering 31 dossiers** — *"It does not end. It merely pauses between heartbeats."*

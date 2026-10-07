@@ -13,6 +13,7 @@ Reproduce:
     python3 tools/auditors/clone_audit.py --lineage       # lower-numbered wins; the copy diffed against it
     python3 tools/auditors/clone_audit.py --pair A B      # one pair in full: sections, shared lines, swaps
     python3 tools/auditors/clone_audit.py --quotes        # restarted from the SE quote: families and the clones inside
+    python3 tools/auditors/clone_audit.py --plan          # light vs heavy: who to fix, who to clean
 
 ## Method — what makes two dossiers 'the same file with the name changed'
 
@@ -395,6 +396,67 @@ was already repaired in this programme — `Lethe` and `Dead Air` share the quot
 0.50 between them, which is the target state for the rest.
 
 Reproduce: `python3 tools/auditors/clone_audit.py --quotes` (families, members, and the clones inside each).
+
+## Finding 8 — Restart re-check, and the clean-first plan (owner's method, 2026-10-07)
+
+Owner's direction — *"Fix the lighter one … 1 to 3 small section similar to fix and deleted the one with 2 big as in
+a whole [Combat Action] + [Operational Parameters] COPY SECTION. So we do clean first than fixed. But at first restart
+re-check."* Check restarted from scratch; the plan below is what it returns.
+
+**Restart re-check, all four modes:**
+
+| mode | result |
+|---|---|
+| `--quotes` | **5** duplicate quote families, **31 / 301** dossiers, within-family clone rate **18 / 84 = 21.4%** vs **1.20%** baseline (**18× lift**) |
+| `--sections` | **43 / 301** dossiers carry a section at >= 0.90; Consequences (26 pairs >= 0.90), Operational Parameters (15), Testimonium (2), Combat Actions (1) |
+| whole-file | strongest pair **0.169**; **0** pairs at >= 0.50 — no renamed dossiers |
+| `--lineage` | lower designation wins; residue traces (`kind x4`, `love x5`, `through x8`) |
+
+**Light vs heavy (new `--plan` mode):**
+
+| measure | value |
+|---|---|
+| files carrying **>= 1 whole copied section** (>= 0.85) | **57 / 301** — 54 with one, **3 with two** |
+| files with **only small overlaps** (0.50-0.85) | **95 / 301** |
+| sections copied whole, by frequency | **Consequences 94** · **Operational Parameters 27** · **Combat Actions 16** · Operational Notes 14 · Testimonium 6 · Core Stat Line 2 · Breach Behavior 2 · Escalation Notes 2 · SECC 1 |
+
+The two sections the owner named are the structural ones: **Operational Parameters whole in 27 files, Combat Actions
+whole in 16** — 14 files carry one of those two whole.
+
+**The 3 files carrying TWO whole copies (first to clean):**
+
+| file | whole copies |
+|---|---|
+| [[SE-C-IIIγ-102_The_Dancing_Chains_춤추는_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-102_The_Dancing_Chains_%EC%B6%A4%EC%B6%94%EB%8A%94_%EC%82%AC%EC%8A%AC.md "SE-C-IIIγ-102_The_Dancing_Chains_춤추는_사슬.md")] | Core Stat Line, Operational Parameters |
+| [[SE-O-IIIβ-944_Calling_Bloom_부르는_꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B2-944_Calling_Bloom_%EB%B6%80%EB%A5%B4%EB%8A%94_%EA%BD%83.md "SE-O-IIIβ-944_Calling_Bloom_부르는_꽃.md")] | Escalation Notes, Operational Notes |
+| [[SE-N-IIIβ-941_Grieving_Love_슬픈_사랑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-941_Grieving_Love_%EC%8A%AC%ED%94%88_%EC%82%AC%EB%9E%91.md "SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md")] | Breach Behavior, Escalation Notes |
+
+**The 14 files carrying Combat Actions and/or Operational Parameters whole:**
+
+- [[SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-917_Dawn_That_Forgot_%EC%9E%A0%EB%93%9C%EB%8A%94_%EC%83%88%EB%B2%BD.md "SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md")] — *Combat Actions*
+- [[SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-927_Dreaming_Plague_%EA%BF%88%EC%9D%98_%EC%A0%84%EC%97%BC%EB%B3%91.md "SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md")] — *Combat Actions*
+- [[SE-N-Iα-905_Lacrima_영혼의_그릇](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-905_Lacrima_%EC%98%81%ED%98%BC%EC%9D%98_%EA%B7%B8%EB%A6%87.md "SE-N-Iα-905_Lacrima_영혼의_그릇.md")] — *Combat Actions*
+- [[SE-O-IIIγ-924_Weighted_Silence_침묵의_구역](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-924_Weighted_Silence_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EA%B5%AC%EC%97%AD.md "SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md")] — *Combat Actions*
+- [[SE-C-IIIγ-102_The_Dancing_Chains_춤추는_사슬](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-102_The_Dancing_Chains_%EC%B6%A4%EC%B6%94%EB%8A%94_%EC%82%AC%EC%8A%AC.md "SE-C-IIIγ-102_The_Dancing_Chains_춤추는_사슬.md")] — *Operational Parameters*
+- [[SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-300_Memory_Lock_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%9E%90%EB%AC%BC%EC%87%A0.md "SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md")] — *Operational Parameters*
+- [[SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-042_The_Angry_Maiden_%EB%B6%84%EB%85%B8%EC%9D%98_%EC%B2%98%EB%85%80.md "SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md")] — *Operational Parameters*
+- [[SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-505_Dreaming_Ruin_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%9E%94%ED%95%B4.md "SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해.md")] — *Operational Parameters*
+- [[SE-N-IIα-125_Hollow_Echo_빈_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B1-125_Hollow_Echo_%EB%B9%88_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-N-IIα-125_Hollow_Echo_빈_메아리.md")] — *Operational Parameters*
+- [[SE-N-IIβ-170_Aphonia_침묵의_비명](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-170_Aphonia_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EB%B9%84%EB%AA%85.md "SE-N-IIβ-170_Aphonia_침묵의_비명.md")] — *Operational Parameters*
+
+**Method (clean first, then fix):**
+
+1. **Clean** — the **57** files carrying whole copied sections. Their copied sections are the same text on both sides
+   with names and figures swapped; `--pair A B` prints the block score by score.
+2. **Fix** — the **95** files left with only small overlaps (1-3 sections at 0.50-0.85), edited line by line in the
+   file's own terms instead of block-replaced.
+3. **Verify** — `clone_audit.py --plan` before and after; the counters to move are *files with a whole copy*
+   (**57 / 301**) and *files with small overlaps alone* (**95 / 301**).
+
+**Open decision, flagged rather than taken:** the owner's word is "deleted". Standing rule `R-15` is growth-only
+("grows rather than deletes") and `A5` forbids deleting owner content without a file-named instruction, so the clean
+phase waits on one answer: delete the copied section outright, or replace it in place with fresh writing. Nothing has
+been deleted; the audit remains read-only.
 
 ## What the check looks like going forward
 

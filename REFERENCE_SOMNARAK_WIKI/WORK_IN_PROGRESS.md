@@ -16,6 +16,13 @@ All figures below are measured, not estimated, and each names the tool that prod
 
 **Batch pacing, owner's correction, 2026-10-05 (`R-26` amended), reaffirmed by the owner the same day — "This Rule Need To Be Remember":** the batch ladder starts at **3**, not 5 — **3 > 5 > 7 > 10** SE files per batch, ratcheting up only while the units are genuinely simple by `R-26`'s own test, and stopping at whatever number was finished properly. **The minimum for any batch is three SE files**; the ceiling is ten, and a batch of fewer than three is permitted only by `R-26`'s quality clause and must be named and explained in the record rather than reported as a full batch. The superseded "start at five" wording is preserved in the rule file with the correction dated. The units in this cohort are *not* simple by that test — 11–12 dirty sections, full Interaction Records, 5,000–8,000 words — so the ladder stays at the floor of three per batch for this cohort, and the per-dossier conditions and one-`gate.sh`-per-dossier rule are unchanged. Two rows moved this turn without a unit touching them — residue-free 103 → 108 and file-clean 158 → 162 — because the four Rank V rewrites and Ephemera retired shared lines outright, and a line that drops below ten holders stops counting against every remaining dossier. That is the documented spillover effect; it is not work performed this turn.
 
+**Restart + clean-first plan, owner's method, 2026-10-07:** check restarted; `--plan` mode added. **57 / 301** files carry
+>= 1 whole copied section (54 one, 3 two: Dancing Chains · Calling Bloom · Grieving Love); **95 / 301** small overlaps only.
+Whole-section copies: **Consequences 94** · **Operational Parameters 27** · **Combat Actions 16** · Operational Notes 14 ·
+Testimonium 6; 14 files carry CA/OP whole. Method: clean the 57 first, then fix the 95; verify with `--plan`. **Deletion is
+flagged for the owner's ruling** — `R-15` is growth-only and `A5` needs a file-named instruction (delete outright vs
+replace in place). No dossier content changed.
+
 **Quote check restarted, owner's finding, 2026-10-07 — *"The Number One CALL That It WAS Clone … Is The SE Quote … So
 Restart The Check"*:** run as `clone_audit.py --quotes`; report Finding 7. **5 exact duplicate quote families covering 31
 dossiers**; within families **18 / 84 pairs carry a section clone (21.4%)** vs the archive's **1.20%** baseline — an **18×
