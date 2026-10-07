@@ -24,17 +24,17 @@
 
 | Statistic | Value |
 |---|---|
-| **Risk tier** | Moderate (β) |
-| **Entity role** | Subject |
+| **Risk tier** | Moderate (β) — graded on how much of a shift the viewing takes, the one figure the watch log actually tracks. |
+| **Entity role** | Subject — stood in front of rather than worked on; the cycle is a viewing and has never been a treatment. |
 | **Primary pressure** | Han / burden pressure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
-| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 3 |
+| **Starting Sorrow Gauge** | 35–50% — the low end belongs to watches opened before the surface has shown anybody anything. |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle, and the yield does not move with what the surface is showing. |
+| **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic; the difficulty is in watching a departure through without following it. |
+| **Activation threshold** | 3 — three ignored conditions, and the holding's own note is that the second is where the scene starts choosing the watcher. |
 | **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Mullion-Pike, the Window-Plate and the Rime-Pane Monocle are all graded to the holding. |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Flerehan or Ferrehan. This is a Subject and all four Work Types are open to it; Pugnahan raises the gauge and produces shards, and the Object/Place restriction does not apply here. |
+| **Vessel-Destructible** | Yes — the figure can be destroyed, and the departure it stands in the middle of does not end when the figure does. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) — the figure's remains, plus whatever rime comes down off the rim with them. |
+| **Recommended response** | Flerehan or Ferrehan. As a Subject it keeps all four Work Types open, but Pugnahan raises the gauge and takes shards off the rim; the Object/Place restriction has no purchase on a holding with no object and no floor plan. |
 
 ### Operational Notes
 
