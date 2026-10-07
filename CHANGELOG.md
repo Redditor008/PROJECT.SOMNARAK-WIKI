@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 33 / unit 4 — Collapsed Whisper `C-IVδ-249` closed (2026-10-07)** — measured at `baba9d0`:
+  **4 dirty sections**, worst Final Observation 0.173 (the choice blockquote, the choose row and the result row), then
+  M.A.W. Equipment 0.102 (three appearance lines, the stat-bonus effect and the four field-use rows plus the stat
+  interpretation), Flavor Text 0.061 (the relations preamble, the relations header and the interaction procedure) and
+  Combat Record 0.060 (the yield and resistance rows, two action rows, the tension phase and the resolution).
+  **Closed in a single wave** (26 sites); 6,735 → **6,990 words**; `tpl.py` residue 0; `sectfile.py` ends
+  at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause was **False** and was closed
+  **False → True** by restating the file's own figures in numerals inside real edits — the 1.5-second break in the
+  initial-exposure row and 3 further items in the review requirement — disclosed. The Entry 1 `is logged as ` stock line
+  was rewritten (`stands on the register as`), residual **1 → 0**. The tension phase's `The marker is checked (the cut.`
+  splice was rebuilt. Movement at the unit commit: `R-29` 201 / 301; section-clean 227 / 301; residue-free 302 /
+  302; residue lines 0; archive dirty 165; file-clean 302 / 302. **Batch 33 stands at four of ten.**
+
+
+
 - **Batch 33 / unit 3 — Screaming Masonry `C-IIIγ-891` closed (2026-10-07)** — measured at `4b37242`:
   **4 dirty sections**, worst Final Observation 0.180 (the choice blockquote, the choose row and the result row —
   whose two cells had been showing each other's outcome and were rewritten in order), then M.A.W. Equipment 0.082
