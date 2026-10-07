@@ -231,7 +231,7 @@ The spearhead maintains an extraordinary cutting edge despite its liquid boundar
 
 ### M.A.W. Use Notes
 
-Every piece of the set is still part of the whisper, and the set hangs on one idea: things that will not keep their shape. The spear's edge is permanently liquefying and cuts anyway. The plate is drawn from a figure that melts and is the most stable object in the group. The Word preserves exactly one sentence from decay — one, not a conversation, not a report — and charges for it by making every unfinished accusation in the vicinity audible to its bearer at once. Personnel issued the Word for interrogation duty have returned it within the shift. Used as intended, it is the only reliable method the facility has of carrying a statement out of a room unchanged, and the cost is that the bearer hears everything that nobody managed to finish saying.
+Each item in this set remains a piece of the whisper, and the set hangs on one idea: things that will not keep their shape. The spear's edge is permanently liquefying and cuts anyway. The plate is drawn from a figure that melts and is the most stable object in the group. The Word preserves exactly one sentence from decay — one, not a conversation, not a report — and charges for it by making every unfinished accusation in the vicinity audible to its bearer at once. Personnel issued the Word for interrogation duty have returned it within the shift. Used as intended, it is the only reliable method the facility has of carrying a statement out of a room unchanged, and the cost is that the bearer hears everything that nobody managed to finish saying.
 
 ### Field Use Record
 
