@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 46 / unit 4 — Never Discharged `O-IIβ-911` quote written (2026-10-07)** — the shared opening quote (family of **6** dossiers, source
+  **Glass Elsewhere `N-IIβ-903`**) replaced **in place** with one of this file's own: the looping moment whose scream arrives each time in the listener's own throat. 4660 → **4665 words**; residual 0; 0 sections over 0.05;
+  `tpl.py` 0; meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 46
+  stands at 4 of ten.**
+
 - **Batch 46 / unit 3 — Allhallow `O-IIIγ-916` quote written (2026-10-07)** — the shared opening quote (family of **7** dossiers, source
   **Breathing Stone `C-IVδ-907`**) replaced **in place** with one of this file's own: the column walking the perimeter for an hour without ever looking at the living. 4550 → **4557 words**; residual 0; 0 sections over 0.05;
   `tpl.py` 0; meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 46
