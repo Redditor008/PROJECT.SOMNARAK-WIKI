@@ -315,7 +315,7 @@ You have the first syllable and the second will not come. There is a voice helpi
 
 ### Interaction Pattern
 
-Three records keep this one company, every one of them filed under memory, and none of the three has ever been run against the slate series. The position taken here — set down in the Watch Record and taken again below — is that memory is a medium and not a grief, and that a shelf arranged by medium is how this file spent eleven years worked alongside a holding that steals and a holding that repeats, while it neither steals nor repeats a thing.
+Three records keep this one company, every one of them filed under memory, and none of the three has ever been run against the slate series. The position taken here — entered in the Watch Record and restated below — is that memory is a medium and not a grief, and that a shelf arranged by medium is how this file spent eleven years worked alongside a holding that steals and a holding that repeats, while it neither steals nor repeats a thing.
 
 **Interaction method:** No proximity trial is possible; this holding is ambient and cannot be brought anywhere or kept away from anything. For each paper relationship, one question in writing: was the record taken, repeated, or never made. Only the third is this holding.
 
