@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 41 / unit 4 — Eleven Fifty-Nine `C-IIIγ-912` closed (2026-10-07)** — measured live at `1eb747e`: **no dirty
+  sections**; the unit's failures were `parity ['interactions']` and `condition` False. **Closed in a single wave**: the
+  missing `## 상호작용 (Entity Interactions)` section written in the file's own terms — a preamble on why everything here is
+  paper work, an interaction method, a 3-row record pairing the hour with Backward Hour `C-IIIγ-913`, Endless Shift
+  `C-IVδ-915` and Dawn That Forgot `N-IIIγ-917` under its own column set, and an interaction procedure — parity **276 →
+  277 / 301** · and the Resolution line's clause re-registered in the form the register reads (`The documented condition
+  is` → `the documented suppression condition: **Notification given, and the hour sat through in place**`) — condition
+  **272 → 273 / 301**. 5,570 → **6,047 words** (+477); `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over
+  0.05**; `wikistd.py` meets **True**; residual 0 on entry; `own_series` already True. Movement at the unit commit:
+  `R-29` 266 / 301; section-clean 301 / 301; residue-free 302 / 302; residue lines 0; archive dirty 0;
+  file-clean 302 / 302. **Batch 41 stands at four of five.**
+
 - **Batch 41 / unit 3 — The Grieving Maiden `C-IVβ-041` closed (2026-10-07)** — measured live at `31f0b82`: **1 dirty
   section**, the Registrum (0.051), carried by its Operational interpretation and Review requirement lines. **Closed in a
   single wave** (2 sites), both lines re-authored in fresh wording with the file's own figures restated in numerals (4

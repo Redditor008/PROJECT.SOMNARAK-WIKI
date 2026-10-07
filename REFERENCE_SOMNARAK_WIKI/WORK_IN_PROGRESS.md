@@ -2796,6 +2796,15 @@ entry residual cleared line-locally; `own_series` already True; the file's own f
 edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 301; section-clean 283 / 301; archive
 dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
 
+**Batch 41, unit 4: Eleven Fifty-Nine `C-IIIγ-912` closed.** Measured live at `1eb747e`: **no dirty sections**; failures were
+`parity ['interactions']` and `condition` False — **closed in a single wave**; 5,570 → **6,047 words**; `tpl.py` residue 0;
+`sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section written
+in the file's own terms (3 rows — Backward Hour `C-IIIγ-913`, Endless Shift `C-IVδ-915`, Dawn That Forgot `N-IIIγ-917` —
+with its own column set), parity **276 → 277 / 301**; the Resolution line's clause re-registered as a documented
+suppression condition (Notification given, and the hour sat through in place), condition **272 → 273 / 301**. Movement:
+`R-29` 266 / 301; section-clean 301 / 301; archive dirty 0; file-clean 302 / 302. **Batch 41 stands at four of
+five.**
+
 **Batch 41, unit 3: The Grieving Maiden `C-IVβ-041` closed.** Measured live at `31f0b82`: **1 dirty section**, the
 Registrum — **closed in a single wave** (2 sites, the Operational interpretation and Review requirement lines, fresh
 wording, the file's own figure restated in numerals); 7,871 → **7,881 words**; `tpl.py` residue 0; `sectfile.py` **0
@@ -2819,6 +2828,8 @@ conversions), `own_series` False → True, series **283 → 284 / 301**; the `Mo
 299 / 301; archive dirty 2; file-clean 302 / 302. **Batch 41 stands at one of five.**
 
 **Batch 41 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIIγ-912 Eleven Fifty-Nine 슬픔의 시간 — `51364a9` — PUSH VERIFIED — [[SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-912_Eleven_Fifty-Nine_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md")
 
 - SE-C-IVβ-041 The Grieving Maiden 슬픔의 처녀 — `2a4bfd3` — PUSH VERIFIED — [[SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-041_The_Grieving_Maiden_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%B2%98%EB%85%80.md "SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md")
 
