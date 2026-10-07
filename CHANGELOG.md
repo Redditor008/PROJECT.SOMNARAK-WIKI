@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 46 / unit 9 — Thinking Engine `C-IIIγ-904` quote written (2026-10-07)** — the shared opening quote (family of **5** dossiers, source
+  **Beating Relic `C-IIIγ-902`**) replaced **in place** with one of this file's own: a lens and dials that fill the tray with the hour the reader will break. 6575 → **6583 words**; residual 0; 0 sections over 0.05;
+  `tpl.py` 0; meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 46
+  stands at 9 of ten.**
+
 - **Batch 46 / unit 8 — Once Told `O-IVδ-930` quote written (2026-10-07)** — the shared opening quote (family of **6** dossiers, source
   **Glass Elsewhere `N-IIβ-903`**) replaced **in place** with one of this file's own: a silence kept on purpose because whatever is described aloud arrives. 5031 → **5037 words**; residual 0; 0 sections over 0.05;
   `tpl.py` 0; meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 46
