@@ -40,7 +40,7 @@
 
 - A completed cycle lets the figure hold its shape a little longer and speak a little further into the sentence. It does not finish the sentence. No cycle has ever recovered the accusation entire, and personnel who set that as the objective will fail and will be tempted to supply the ending themselves.
 - The threshold reads 4, and it comes down. Every cycle that fails takes one; one is also taken whenever somebody says the missing words aloud within hearing of the whisper. A cycle logged word for word returns one. At zero the thing is loose.
-- A yield of 10–14 at Low difficulty sends the untried crews in as a matter of routine, and the one skill this work needs — hearing an unfinished statement out without completing it — is measured nowhere in the grades and taught nowhere in the programme.
+- The posted yield is 10–14 at Low difficulty, which sends the untried crews in as a matter of routine, and the one skill this work needs — hearing an unfinished statement out without completing it — is measured nowhere in the grades and taught nowhere in the programme.
 - Extraction takes a word-tile from a thing made of unfinished words. It is scheduled separately, and the extracting worker's transcript for that cycle is countersigned by a second recorder before it is filed.
 
 ## Combat Record
