@@ -239,7 +239,7 @@ The Weighted Silence set is made from the markers rather than from the entity: t
 - Seventeen annual sightings, Y4239 to Y4255, radius constant at fifty metres ± half a metre. The series is unbroken because the method never requires entry.
 - Both valid approaches are performed from outside the line and both reduce the gauge. Nothing performed inside the line has ever produced a reading that could be checked.
 - There is no detectable gradient, no measurable energy and no instrument reading of any kind from within the radius. Everything known about the interior is testimony, and the file says so in its first paragraph.
-- Entry is permitted only with the clock kept outside: 11 crossings are on the register, 2 instruments were lost inside, and no crossing has produced a checkable reading.
+- Entry is permitted only with the clock kept outside: 11 crossings are on the register, 2 instruments were lost inside, and 17 annual sightings have produced no checkable reading from within.
 
 **Personnel Note:**
 
