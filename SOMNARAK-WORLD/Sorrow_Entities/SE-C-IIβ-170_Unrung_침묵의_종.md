@@ -145,9 +145,9 @@
 
 ### Operational Work Notes
 
-Ferrehan lowers the gauge, Viderehan holds it level, Flerehan and Pugnahan are N/A under the Object/Place Work Rule. Ferrehan is therefore the primary Work Type on this file, and the Registrum's naming of Viderehan as primary stood in the summary section for years against a Behavior table on the same page that recorded it as the one approach which changes nothing.
+Ferrehan pulls the gauge down; Viderehan holds it flat; Flerehan and Pugnahan do not apply to an Object/Place and were never worked here. Ferrehan is the primary on the file, and the Registrum once carried Viderehan in that slot for years — against a Behavior table sitting on the same page that had already recorded Viderehan as the approach which changes nothing.
 
-**Reading the response:** The gauge measures one worker for one session. The arrival delay measures how this facility has been closing its warnings. They are kept in separate columns, they have never moved together, and a session which lowers the gauge and clocks a long delay is written up as a clean session without qualification.
+Two figures come off this holding, and they are not answering the same question. The gauge reports a single worker across a single session. The arrival delay reports the way this facility has been closing its warnings. Across the whole series the two have never moved in step, and a session that brings the gauge down while the clock shows a long delay is written up as clean and nothing is added.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -335,11 +335,11 @@ The rest of the archive note stands as written. Sound does not carry near the be
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Unrung; the other feeds it.
+> The session comes down to one thing: keep to the line, stay inside the delay and let the hand signals do the talking, or call across to the station and ask whether the clock is still running.
 
-| Hold to the condition: Ferrehan primary, Viderehan secondary, hand signals, station clock every session, and the Rule of the Answered Warning enforced across the. | Substitute your own judgement, which on Unrung has never yet cost less than the condition. |
+| Keep the file's order: Ferrehan primary, Viderehan secondary, signals by hand, the station clock read every session, the Rule of the Answered Warning standing everywhere it reaches. | Reach for your own judgement instead, which on this bell has never yet come cheap. |
 |---|---|
-| The worker stands the full session on the line, inside the delay, hand signals only, and clocks three honest strikes at the end however long the intervals come out. The gauge falls and the session's record is clean. | The worker calls out to the station to check whether the clock is running, meaning well, because the silence has gone on too long. The gauge climbs, the strikes are void, and the quarter's series carries a gap. |
+| The worker holds the line for the whole session, stays inside the delay, uses nothing but hand signals, and at the close clocks 3 honest strikes however long the intervals run. The gauge falls and the session goes into the record clean. | The worker calls over to the station to ask whether the clock is still moving — out of care, because the silence has run on far too long. The gauge climbs, the strikes are void, and the quarter's series is left with a gap in it. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
