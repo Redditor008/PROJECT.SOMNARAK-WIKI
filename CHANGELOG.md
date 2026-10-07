@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 40 / unit 2 — The Music Box of Agony `N-IIγ-903` closed (2026-10-07)** — measured live at `91965ac`: **2 dirty
+  sections**, Combat Record (0.054, four action rows) and Final Observation (0.074), plus three standing failures: `parity`
+  `['event behaviour']`, `condition` False and one residual line. **Closed in a single wave** (10 sites): the header
+  `## Activation / Expansion Behavior` normalised to `## Activation Behavior` so the register's event-behaviour check
+  matches — parity **275 → 276 / 301** · the resolution line rewritten to carry the file's own clause as a documented
+  suppression condition (**close the lid mid-song, or complete a full recitation under Ferrehan and reclaim identity by
+  naming the self**) — condition **268 → 269 / 301** · the `Stigmas are granted at random by` residual replaced with the
+  file's own wording — residual **1 → 0** · the four combat rows and the three Final Observation lines re-authored in
+  fresh wording. 5,155 → **5,224 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**; `own_series` already True. Movement at the unit commit: `R-29` 250 / 301; section-clean
+  284 / 301; residue-free 302 / 302; residue lines 0; archive dirty 18; file-clean 302 / 302.
+  **Batch 40 stands at two of ten.**
+
 - **Batch 40 / unit 1 — Doorway to Nowhere `N-IIβ-152` closed (2026-10-07)** — measured at `b2db5e6`: **2 dirty
   sections**, Behavior (the Work-Type paragraph and the reading paragraph, 0.067) and Final Observation (the choice
   blockquote and the choose and result rows, 0.074). **Closed in a single wave** (6 sites), each re-authored in wording

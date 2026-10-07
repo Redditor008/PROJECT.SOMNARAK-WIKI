@@ -2713,6 +2713,15 @@ line-locally; `own_series` already True; the file's own figures restated in nume
 96 · 5 assessors · 11 watches · 5,212). Movement: `R-29` 242 / 301; section-clean 276 / 301; archive dirty 34;
 file-clean 302 / 302. **Batch 39 stands at one of seven.**
 
+**Batch 40, unit 2: The Music Box of Agony `N-IIγ-903` closed.** Measured live at `91965ac`: **2 dirty sections** — Combat
+Record and Final Observation — plus `parity ['event behaviour']`, `condition` False and one residual line. **Closed in a
+single wave** (10 sites). Disclosed: the `## Activation / Expansion Behavior` header normalised to `## Activation
+Behavior` to satisfy the register's event-behaviour check, parity **275 → 276 / 301**; the file's own clause registered
+as a documented suppression condition in the rewritten resolution line, condition **268 → 269 / 301**; the
+`Stigmas are granted at random by` residual replaced with the file's own wording, residual **1 → 0**. 5,155 → **5,224
+words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Movement: `R-29`
+250 / 301; section-clean 284 / 301; archive dirty 18; file-clean 302 / 302. **Batch 40 stands at two of ten.**
+
 **Batch 40, unit 1: Doorway to Nowhere `N-IIβ-152` closed.** Measured at `b2db5e6`: **2 dirty sections** — Behavior and
 Final Observation — **closed in a single wave** (6 sites, every replacement in fresh wording); 8,386 → **8,462 words**;
 `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held. Disclosed:
@@ -2721,6 +2730,8 @@ edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 3
 dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
 
 **Batch 40 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIγ-903 The Music Box of Agony 고통의 오르골 — `c5bd3c5` — PUSH VERIFIED — [[SE-N-IIγ-903_The_Music_Box_of_Agony_고통의_오르골]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-II%CE%B3-903_The_Music_Box_of_Agony_%EA%B3%A0%ED%86%B5%EC%9D%98_%EC%98%A4%EB%A5%B4%EA%B3%A8.md "SE-N-IIγ-903_The_Music_Box_of_Agony_고통의_오르골.md")
 
 - SE-N-IIβ-152 Doorway to Nowhere 떠도는 문 — `9c1c873` — PUSH VERIFIED — [[SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-152_Doorway_to_Nowhere_%EB%96%A0%EB%8F%84%EB%8A%94_%EB%AC%B8.md "SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md")
 
