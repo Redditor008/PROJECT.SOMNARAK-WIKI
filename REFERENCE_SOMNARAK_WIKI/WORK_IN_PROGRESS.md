@@ -3166,6 +3166,9 @@ Torn Flower at 1.00) replaced **in place** in the file's own terms — Gate, orc
 until the next touched-fruit tally is larger than the last. 7,270 → **7,299 words**; residual 0; **0 sections over 0.05**;
 `tpl.py` 0; meets **True**; copy-side whole instances **6 → 0**; nothing deleted. **Batch 44 stands at one of ten.**
 
+**Batch 45, unit 7: Sorrow Mass `C-Vω-925` quote written.** The shared family quote replaced in place with a weight that announces nothing and the stairs avoided a month later (the file's number-words hold is untouched; disclosed). 8549 → **8558 words**;
+residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 45 stands at 7 of ten.**
+
 **Batch 45, unit 6: Cracked Flesh `C-IIIγ-921` quote written.** The shared family quote replaced in place with an ordinary field that keeps a register of everyone who crosses it. 5916 → **5924 words**;
 residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 45 stands at 6 of ten.**
 
@@ -3191,6 +3194,8 @@ residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **B
 
 **Batch 45 — OPEN at ten; quote phase (each file's shared opening quote replaced in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
+
+- SE-C-Vω-925 Sorrow Mass 압살의 한 — `c7603eb` — PUSH VERIFIED — [[SE-C-Vω-925_Sorrow_Mass_압살의_한](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CF%89-925_Sorrow_Mass_%EC%95%95%EC%82%B4%EC%9D%98_%ED%95%9C.md "SE-C-Vω-925_Sorrow_Mass_압살의_한.md")]
 
 - SE-C-IIIγ-921 Cracked Flesh 균열의 들판 — `ab8ad07` — PUSH VERIFIED — [[SE-C-IIIγ-921_Cracked_Flesh_균열의_들판](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-921_Cracked_Flesh_%EA%B7%A0%EC%97%B4%EC%9D%98_%EB%93%A4%ED%8C%90.md "SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md")]
 
