@@ -2598,6 +2598,8 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
+**Batch 38 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
 **Batch 37 — CLOSED at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IIIβ-036 The Cracked Hourglass 금이 간 모래시계 — `078a161` — PUSH VERIFIED — [[SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-036_The_Cracked_Hourglass_%EA%B8%88%EC%9D%B4_%EA%B0%84_%EB%AA%A8%EB%9E%98%EC%8B%9C%EA%B3%84.md "SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md")
