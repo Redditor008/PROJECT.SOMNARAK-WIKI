@@ -191,7 +191,7 @@ Escalation here has one shape and is not the standard breach event: a second per
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
-> *(Archival Framework: As an A-Relic single-dossier integrated entity, all three M.A.W. profiles are preserved directly in this primary dossier to prevent resonance fragmentation).*
+> *(Filing note: the Bond is held as one integrated relic dossier, so its three M.A.W. pieces are kept here in full rather than lodged across the Archive. The tally stays whole on paper; the debt it records does not, and that is the point of the file.)*
 
 ### M.A.W. Weapon — The Sump Diver's Flail
 
