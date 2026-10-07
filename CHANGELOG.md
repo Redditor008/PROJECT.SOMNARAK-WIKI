@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 41 / unit 1 — Apostle Maker `C-Iα-071c` closed (2026-10-07)** — measured at `144d717`: **1 dirty section**, Final
+  Observation (0.057), with `condition` False, `series` False, one residual line and a `..` seam. **Closed in one wave
+  plus a bounded fix**: a 4th Battle Phase written as **Resolution** registering the file's own clause as a documented
+  suppression condition (**Suppress before the twelfth conversion if possible**) — condition **271 → 272 / 301** · the
+  Final Observation blockquote re-authored in fresh wording, its prose tail left standing · the yield row rewritten · the
+  Registrum Threat Assessment and Registry Addendum re-authored with the file's own figures restated in numerals (3
+  things watched · 1 job · 2 branches · 12 conversions · 4a/4b) — `own_series` **False → True**, series **283 → 284 / 301**
+  · the `Monitor the ` stock line replaced and the `felt... complete` ellipsis normalised to the file's own `…` — residual
+  **1 → 0**, seam cleared. 3,806 → **3,923 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**. Movement at the unit commit: `R-29` 263 / 301; section-clean 299 / 301; residue-free
+  302 / 302; residue lines 0; archive dirty 2; file-clean 302 / 302. **Batch 41 stands at one of five.**
+
 - **Batch 40 — CLOSED at ten (2026-10-07)** — ten dossiers · **15 / 15 dirty sections closed** · **+361 words** net
   (73,708 → 74,069 across the ten files) · `verify.py` residuals **7 → 0** (units 1, 2, 4, 5, 6, 7, 9; u10 entered with 1
   and cleared it; units 3, 8 entered clean) · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Roster, newest
