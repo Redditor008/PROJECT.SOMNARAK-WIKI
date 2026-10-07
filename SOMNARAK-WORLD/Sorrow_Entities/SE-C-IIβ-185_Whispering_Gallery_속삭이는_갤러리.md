@@ -185,7 +185,7 @@ The widening here is documentary, not thermal or structural: the hall takes in c
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender blade of Lament Han-crystal, close to clear, that sings one unvarying tone at rest and takes up a thin film of Han along its edge when it is drawn.
+**Appearance:** a slender blade of Lament Han-crystal, near-clear, holding one unvarying tone while it rests and taking a thin film of Han along the edge the moment it is drawn.
 
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)
@@ -193,15 +193,15 @@ The widening here is documentary, not thermal or structural: the hall takes in c
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — in the way this hall deals it: not an argument but a room full of them, and what it leaves the target holding is contradiction.
+**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — with the hall's own method: not a single argument but a room of them, and what the target comes away holding is contradiction.
 
-**Cost:** the wielder carries the hall's unwept grief for as long as they carry the blade, and past a season of it the weeping starts without being asked. The Armoury records the symptom against the wielder, on the file's own logic — what accumulates here is the work, not the steel.
+**Cost:** the wielder carries the hall's unwept grief for as long as the blade is on them, and after a season of it the weeping begins unasked. The Armoury enters the symptom against the wielder, following the file's own logic: what accumulates on this posting is the work, not the steel.
 
 ### M.A.W. Suit — The Gallery Shroud
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapper of Lament Han-silk, cold to the hand, that hangs heavier than its weave and deadens the sound of whatever room it is worn in.
+**Appearance:** a wrap of Lament Han-silk with the nap left unbrushed, cold to a bare hand, that swallows the room-tone around whoever wears it and keeps the hall’s own silence in the weave.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -211,9 +211,9 @@ The widening here is documentary, not thermal or structural: the hall takes in c
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Wards the Mind — emotional stability and willpower — against Lament pressure and against nothing else; the shroud was cut for one hall's kind of sorrow and the record shows no other use for it.
+**Ability:** Wards the Mind — emotional stability, willpower — where the pressure is Lament and nowhere else; the treatment is the hall's own, cut for sorrow that arrives as a voice, and the record holds no other order for it.
 
-**Cost:** the wearer goes numb to minor joys before noticing, and the second worker is the one who reads it; on a set issued one rotation at a time, the numbness is entered whether or not the wearer agrees with the reading.
+**Cost:** the wearer loses their footing with minor joys first, and the loss is not theirs to report: the pair system requires the second worker to log it, and on a set issued for a single rotation the entry stands whether or not the wearer agrees the numbness is there.
 
 ### M.A.W. Stigma — The Gallery Stone
 
@@ -239,12 +239,12 @@ Nothing in this set equips a worker against the hall; each piece is the hall in 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline taken against the hall's toll — unwept grief carried, on the file's own record — sealed before the piece goes on. |
-| **During use** | Watch for the weeping starting in the bearer: on this set that is the first sign, it is entered with the hour by the second worker, and the wearer's own account is taken separately and afterwards. |
-| **At limit** | The wearer has stopped reporting the numbness — on a Whispering Gallery piece that is the limit whatever the wearer says — and the observer calls it. |
-| **After use** | Take the piece back, open the sealed baseline, and read the two against each other: where the dulling has outlasted the rotation, the bearer is stood off the hall until somebody else confirms the joys have come back. |
+| **Before use** | Wielder, piece, and a dated baseline struck against the hall's toll — unwept grief carried, on the file's own record — closed and signed before the piece goes on. |
+| **During use** | The first sign on this set is the bearer beginning to weep, and it goes into the log under the hour, by the second worker; the wearer's own account is written down afterwards and kept apart from it. |
+| **At limit** | The limit is reached the moment the wearer stops reporting the numbness — on a Whispering Gallery piece the call belongs to the observer, not to the wearer — and it does not wait for agreement. |
+| **After use** | The piece is returned, the baseline is opened, and the two records are read side by side: if the dulling is still there once the rotation ends, the bearer comes off the hall until a second person confirms the joys have returned. |
 
-**Stat interpretation:** The grade records how cleanly the sorrow came off the hall, not what a bearer carries out of it. This set's costs are not graded anywhere: grief the bearer never wept, minor joys gone numb, and — on the stone — a litany of names the bearer can hear and cannot recover, which no stat line on this table has a column for.
+**Stat interpretation:** The grade is a reading of how cleanly the sorrow separated from the hall, and it says nothing about what a bearer carries away. This set's costs are not graded anywhere: grief the bearer never wept, minor joys gone numb, and — on the stone — a litany of names the bearer can hear and cannot recover, which no stat line on this table has a column for.
 
 ## 관찰 기록 (Observation Log)
 
