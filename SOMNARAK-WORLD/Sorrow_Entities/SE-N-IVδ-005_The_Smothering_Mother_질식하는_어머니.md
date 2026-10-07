@@ -88,7 +88,7 @@
 
 1. **Tension:** She is known by three things before a word is spoken: a room held at exactly body heat, a lullaby in no language the archive has, and a ten-metre figure that looks like crystal from the doorway and like warm skin from close in. The approach is confirmed and the positions are taken only afterwards.
 2. **Clash:** The crew works from behind the painted line. The reaching is permitted, the holding is not, and nobody closes the gap for any reason including a colleague inside it — a second person inside the reach has never once reduced the time taken to get the first one out.
-3. **Resolution:** The watch closes on containment, retreat, management or the standing condition: **Provide a memory, vision, or proof that the child is at peace. Flerehan is most effective**.
+3. **Resolution:** Closure here is containment, retreat, management, or the standing condition: **Provide a memory, vision, or proof that the child is at peace. Flerehan is most effective**.
 
 ### Consequences
 
@@ -151,7 +151,7 @@
 
 ### Operational Work Notes
 
-The table is one input of several, and out here it is the SECC code read together with the coherence level that settles what a steady gauge is worth. The Mother is filed Subject-Body with Grudge as her element, at SECTOR-D-01 in Zone D, contained. Two cautions belong with the entry: nothing is carried across from a holding whose name happens to resemble hers — her neighbours have their own section and not one of that section is her — and a gauge that does not move is not proof of a safe watch, since she can hold steady while the hour is spent on recollection, on the floor of the room, or on the name a worker came in under, and that watch's price is paid later, where the page does not show it.
+The table is one input of several. Out here, what a steady gauge is worth is settled by the SECC code taken together with the coherence level. The Mother carries the Subject-Body filing, Grudge as her element, at SECTOR-D-01 in Zone D, contained. Two cautions belong with the entry: nothing crosses over from another file that merely shares part of her name — her neighbours are filed apart, and none of that group is her — and a gauge that does not move is not proof of a safe watch, since she can hold steady while the hour is spent on recollection, on the floor of the room, or on the name a worker came in under, and that watch's price is paid later, where the page does not show it.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Breach Behavior
