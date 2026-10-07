@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 44 / unit 5 — Vanity Asleep `N-IIIγ-954` cleaned (2026-10-07)** — copied `### Consequences` (whole against **4**
+  dossiers) replaced **in place** in the file's own terms: the glass that stops waiting, the minute borrowed against identity,
+  the extraction that lands in the record, and the release it asks for when the condition goes unmet. 6,939 → **6,959 words**;
+  residual 0; **0 sections over 0.05**; `tpl.py` 0; meets **True**; copy-side whole instances **4 → 0**. **Batch 44 stands at
+  five of ten.**
+
+- **Batch 44 / unit 8 — Aphonia `N-IIβ-170` cleaned (2026-10-07)** — the copied `## Operational Parameters` rows (including a
+  Recommended-response line that told a **Subject** to use the Object/Place pair) replaced **in place** in the file's own terms:
+  identity and voice, a working figure for the record, and the Work Types registered for a Subject. 7,457 → **7,369 words**;
+  residual 0; **0 sections over 0.05**; `tpl.py` 0; meets **True**; copy-side whole instances **3 → 0**. **Batch 44 stands at
+  eight of ten.**
+
 - **Batch 44 / unit 4 — Calling Bloom `O-IIIβ-944` cleaned (2026-10-07)** — the two copied sections flagged in the plan
   (`### Escalation Notes` and `### Operational Notes`) replaced **in place** in the file's own terms: the call answered rather
   than the breach forced, volunteers who train in Flerehan before they take the door, an unanswered call that climbs toward

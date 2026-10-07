@@ -3094,6 +3094,10 @@ condition (Both posts hand in their tallies without conferring, and the differen
 condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; archive dirty @dirty@;
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
+**Batch 44, unit 5: Vanity Asleep `N-IIIγ-954` cleaned.** Copied `### Consequences` (whole against 4 dossiers) replaced in place
+in its own terms. 6,939 → **6,959 words**; residual 0; 0 sections over 0.05; copy-side whole instances **4 → 0**. **Batch 44
+stands at five of ten.**
+
 **Batch 44, unit 4: Calling Bloom `O-IIIβ-944` cleaned.** Both copied sections (`### Escalation Notes`, `### Operational Notes`)
 replaced in place in its own terms; three residual stock lines cleared line-locally. 7,090 → **7,134 words**; residual 0;
 0 sections over 0.05; copy-side whole instances **4 → 0**. **Batch 44 stands at four of ten.**
@@ -3113,6 +3117,8 @@ until the next touched-fruit tally is larger than the last. 7,270 → **7,299 wo
 
 **Batch 44 — OPEN at ten; clean phase (replace copied sections in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
+
+- SE-N-IIIγ-954 Vanity Asleep 잠든 거울 — `bae8fbe` — PUSH VERIFIED — [[SE-N-IIIγ-954_Vanity_Asleep_잠든_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-954_Vanity_Asleep_%EC%9E%A0%EB%93%A0_%EA%B1%B0%EC%9A%B8.md "SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md")]
 
 - SE-O-IIIβ-944 Calling Bloom 부르는 꽃 — `46abb79` — PUSH VERIFIED — [[SE-O-IIIβ-944_Calling_Bloom_부르는_꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B2-944_Calling_Bloom_%EB%B6%80%EB%A5%B4%EB%8A%94_%EA%BD%83.md "SE-O-IIIβ-944_Calling_Bloom_부르는_꽃.md")]
 
