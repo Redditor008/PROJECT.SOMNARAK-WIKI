@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Allhallow.
-- Both valid approaches are counting disciplines performed from the perimeter line, and the prohibition on approach is absolute.
-- The Han-Energy yield is balanced against exposure risk.
-- M.A.W. extraction is carried out between occurrences, never during one, and never within the walked line. The line is surveyed and marked; the equipment record cites the marking by post number on every entry.
+- A completed hour takes the immediate pressure down and nothing more: the walk is not ended, shortened, or thinned by any count on record.
+- Both valid approaches are ways of counting, worked from behind the marked line, and nobody has crossed that line in thirty-four occurrences.
+- Han-Energy comes off the two post-hours and is booked against the exposure those posts carry to earn it.
+- Extraction is done in the interval between hours, never during one and never inside the walked line. The line itself is surveyed and posted; the equipment record names the post number on every entry.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,15 +85,15 @@
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Allhallow by the exactness of the hour. Sixty minutes from the first walker to the last, thirty-four times, with no occurrence shorter and none longer — the most regular figure anywhere in the wing and the one the whole posting is built around, confirms the approach, and takes position before anything else is attempted.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Allhallow's recorded combat actions.
-3. **Resolution:** The last walker is gone at the minute the first one appeared plus sixty. Both posts hand in their tallies without conferring, the difference is written down as a difference and not resolved, and the border reopens. It closes against the documented suppression condition: **Both posts hand in their tallies without conferring, and the difference is written down as a difference**.
+1. **Tension:** The hour identifies itself — sixty minutes exactly, first walker to last, thirty-four times running, none shorter and none longer. The wing holds no more regular figure, and this posting is built on it. The approach is confirmed and the position is taken before anything else is attempted.
+2. **Clash:** The posts work their tallies with the set drawn only at the line, while the column does what it has done in every hour on record.
+3. **Resolution:** The hour ends at its sixtieth minute with the last walker gone and the border reopened; both posts hand in their tallies without conferring, and the difference is written down as a difference and left unresolved. It closes against the documented suppression condition: **Both posts hand in their tallies without conferring, and the difference is written down as a difference**.
 
 ### Consequences
 
-- Composure loss belongs to recognition. Of the nineteen cases on file, fourteen are Wardens who believed they identified a walker, and all fourteen were counting the near column, where the faces are legible.
-- Prolonged postings produce a drift in the counts rather than any effect on the Warden. Long-serving counters return lower figures than new ones for the same occurrence, consistently, which is the reason the two posts are rotated on different cycles.
-- The set is used for counting and marking and has never been used against a walker. No interaction of any kind has been attempted in thirty-four occurrences, and the prohibition is one of the oldest instructions in the wing.
+- Composure here belongs to recognition. Of the nineteen logged cases, fourteen are Wardens who believed they had identified a walker, and every one of the fourteen was counting the near column, where the faces can be read.
+- Long postings wear the counts rather than the Warden. A veteran counter returns a lower figure than a fresh one for the same hour, every time, which is why the two posts rotate on separate cycles.
+- The set is used for counting and marking and has never been turned on a walker. Thirty-four occurrences, not one attempt at contact — the prohibition is among the oldest instructions the wing holds.
 
 ## Appearance
 
@@ -101,8 +101,8 @@
 
 **Notable Features:**
 - Expresses Lament pressure in a phantasmal register.
-- The time form is unmistakable — this is a phantasmal entity, not a general one.
-- Identification is by the gait: a column at walking pace along the border, not fast, not slow, never stopping, never turning its head.
+- The shape is settled before the first tally: this is a phantasmal entity, and no general reading survives the hour.
+- It is identified by the gait — a column at walking pace along the border, never quick, never slow, never halting, never turning a head.
 
 **Identification Profile**
 - **Entity Type:** Time
@@ -124,11 +124,11 @@
 
 ## Origin
 
-The earliest documented occurrence has a date and the thing is older than the date. The border had been avoided at certain hours for a long time before anybody wrote down why — grief thickening at the edge of the Desolate without announcing itself — and the file states this at the front rather than leaving it to be worked out from the gaps.
+The first occurrence carries a date and the thing is older than the date. The border had been avoided at certain hours long before anybody wrote down why — grief thickening at the edge of the Desolate with no announcement — and the file says so at the front instead of letting a reader work it out from the gaps.
 
-What walks is silent and exact. Sixty minutes from the first figure to the last, thirty-four times without variation, along a surveyed line that the column holds through whatever is standing in it. Four obstacles have been left in the path. The column passed through all four and none of the four was moved.
+What walks is silent and exact: sixty minutes between first figure and last, thirty-four times the same, along a surveyed line the column holds whatever is standing in it. Four obstacles have been put in its path. It went through all four, and none of the four was moved.
 
-Nobody has ever spoken to one of them. Nobody has ever tried. The prohibition on approach is among the oldest instructions the wing holds and it has outlasted every officer who has asked for an exception.
+Nobody has ever spoken to one of them and nobody has tried. The prohibition on approach is one of the oldest instructions this wing holds, and it has outlived every officer who asked for an exception.
 
 ## Behavior
 
@@ -141,7 +141,7 @@ Nobody has ever spoken to one of them. Nobody has ever tried. The prohibition on
 
 ### Operational Work Notes
 
-The pressure is not worked; the hour is counted. Observation is the tally, endurance is standing the full sixty minutes at a line you are forbidden to cross while people who look like the dead walk past it. The gauge answers to the counts being taken and reconciled, and to nothing that happens to the walkers, because nothing happens to the walkers.
+The pressure is not worked; the hour is counted. Observation is the tally itself, endurance is standing the full sixty minutes at a line you may not cross while people who look like the dead walk past it. The gauge moves when the counts are taken and reconciled, and for nothing that happens to the walkers — because nothing does.
 
 ## Breach Behavior
 
@@ -193,11 +193,11 @@ The pressure is not worked; the hour is counted. Observation is the tally, endur
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.
-*A Token is found at a marker post after an hour in which the two counts differed by fewer than ten. Three pieces, three close reconciliations; nothing has ever been recovered from an hour the posts disagreed about.*
+*A Token is found at a marker post after an hour in which the two counts came within ten of each other. Three pieces, three close reconciliations; nothing has ever been recovered from an hour the posts disagreed on.*
 
 ### M.A.W. Use Notes
 
-The Allhallow set is made from the line: the Edge from a marker post, the Veil from the counting-cloak issue, the Token from a tally plate. Every piece comes from the apparatus of counting, which is the only apparatus this holding has ever had.
+The Allhallow set is cut from the line: the Edge from a marker post, the Veil from the counting-cloak issue, the Token from a tally plate. Every piece comes off the apparatus of counting, which is the only apparatus this holding has ever had.
 
 ### Field Use Record
 
@@ -214,8 +214,8 @@ The Allhallow set is made from the line: the Edge from a marker post, the Veil f
 
 **Key Observations:**
 - Thirty-four occurrences since the first dated one, each counted twice from opposite ends of the line. Mean of the paired totals 173; widest single-hour spread 61 against 398.
-- Both valid approaches reduce the gauge and both are performed from behind the marked line. Nothing performed on the line has ever reduced it, and nothing has ever been performed beyond it.
-- No interaction has ever been achieved and none has been attempted. The walkers do not speak, do not stop, and do not acknowledge obstacles, personnel, light, or sound.
+- Both valid approaches bring the gauge down and both are run from behind the marked line. Nothing done on the line has ever lowered it, and nothing at all has ever been done beyond it.
+- No interaction has been achieved or attempted. The walkers do not speak, do not stop, and do not register obstacles, personnel, light, or sound.
 
 **Personnel Note:**
 
@@ -244,7 +244,7 @@ The Allhallow set is made from the line: the Edge from a marker post, the Veil f
 
 ## 감각 묘사 (Flavor Text)
 
-The phantasmal register changes the lament from a classification into an experience. You do not merely register lament pressure on the gauge; you feel it in your phantasmal — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish.
+The phantasmal register turns lament from a classification into something felt. It is not pressure read off the gauge; it arrives personally and precisely, as if the hour had found the one frequency matching a grief the worker had never examined. An hour descends unannounced at the Desolate border and the dead — or what look like them — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then they are gone.
 
 **At first contact:** They are simply there, already walking, already at pace, as though the hour had started some distance away.
 
@@ -256,7 +256,7 @@ The phantasmal register changes the lament from a classification into an experie
 
 ## 상호작용 (Entity Interactions)
 
-The border is walked on one night a year, and the file has never recorded a second holding inside it while the walk was on. Everything below is paper work — the appendix that groups the 90x holdings by manifestation, read against each record's own series. The three pairings share one subject, a period that ends because the clock says it does, and each of the four files keeps that ending somewhere different.
+The border is walked on one night a year, and this file has never recorded a second holding inside the line while the walk was on. Everything below is paper work — the appendix that sorts the 90x holdings by manifestation, read against each record's own series. The three pairings share one subject, a period that ends because the clock says so, and each of the four files keeps that ending in a different place.
 
 **Interaction method:** Take the night's own numbers first — two posts, no conferring, the difference entered as a difference — before any other series is laid beside them. Then enter where the two part, how far, what set it off, and whether either series moved in the reading. Re-verify at the next walk.
 
@@ -280,11 +280,11 @@ Thirty-four hours, counted twice each, no contact, no injury, no interaction, an
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The phantasmal register is not in the manual. We learned it by failing."* — Specialist, Field Team
-*"I have worked lament entities for six years. This one is different. The phantasmal makes it personal."* — Handler
-*"Containment holds. But the protocols need a new chapter."* — Containment Lead
-*"After contact, I could not stop thinking in the phantasmal register for three days."* — Specialist, Recovery
-*"It is one of the first of its kind. We are still learning what Time-Phantasmal means."* — Researcher, Floor 4
+*"There is no phantasmal register in the training manual. This post taught it to us by failing at it first."* — Specialist, Field Team
+*"Six years of lament postings did not prepare me for faces. The hour finds the one person at the line you were not ready to count."* — Handler
+*"The counts hold. What the procedure file is missing is a chapter about the second post."* — Containment Lead
+*"Three days after my last shift I was still counting things that were not there, and keeping the total in my head the whole time."* — Specialist, Recovery
+*"Time-Phantasmal is the label the table gives it. The label does not cover an hour that walks a line and will not be spoken to."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record
 
@@ -299,9 +299,9 @@ Thirty-four hours, counted twice each, no contact, no injury, no interaction, an
 **Threat Assessment:** Major. A Time-Phantasmal entity — the phantasmal register is its defining characteristic. Risk: prolonged exposure to the phantasmal pressure may produce effects not seen in standard lament entities.
 
 **Containment & Handling Procedures:**
-- Stand both posts, count independently, reconcile afterwards and record the difference.
-- There is nothing to weep with and nothing to confront. The walkers do not stop, and the one thing the wing has never permitted is finding out what happens if somebody stands in front of one.
-- Re-survey the walked line each cycle and treat a rising far-post count against a steady near-post count as an extension until proven otherwise.
+- Both posts stand, count independently, reconcile after the hour is over, and write the difference down.
+- There is nothing in the hour to weep with and nothing to confront. The walkers never stop, and the one thing this wing has never allowed itself is finding out what happens when somebody stands in the way of one.
+- The walked line is re-surveyed each cycle; a far-post figure rising against a steady near-post figure is treated as an extension of the line until something proves otherwise.
 
 **Cross-References:** Outside Sorrow (외한) · Lament · Time-Phantasmal · Manifestation Classification
 
@@ -315,15 +315,15 @@ Thirty-four hours, counted twice each, no contact, no injury, no interaction, an
 
 ### An Hour of Walking
 
-The dead, or what resemble them, walk the Desolate perimeter for exactly an hour and then are gone, and they neither speak nor stop. The Warden counts them. The count is the holding's principal record and it varies between occurrences, which is reported as a plain series without a running average, the file having removed one after readers began treating the mean as the expected number.
+The dead — or what resemble them — walk the Desolate perimeter for exactly an hour and then are gone; they neither speak nor stop, and the Warden counts them. That count is this holding's principal record and it changes from occurrence to occurrence, which the file reports as a bare series with no running average, having removed the one it used to carry after readers began treating the mean as the number to expect.
 
 ### Without Warning
 
-It descends unannounced and no precursor has been identified, despite a long search that is documented with its methods. The search is closed. Its closure is recorded as a decision with a date and a signature rather than allowed to lapse, which the archivist's note defends as the honest way to end an investigation that found nothing.
+The hour descends with no warning and no precursor has ever been identified, despite a search documented down to its methods. The search is closed; the closure is dated and signed as a decision rather than allowed to lapse, which the archivist's note defends as the honest way to end an investigation that found nothing.
 
 ### They Do Not Stop
 
-The walkers hold their course through anything placed in it and no interaction has ever been achieved, nor is any attempted. The prohibition on approach is absolute and is one of the oldest instructions in the wing. The file states that it was written before the first serious incident rather than after one and that this is worth knowing.
+The column keeps its course through anything put in it, and no interaction has ever been achieved or attempted. The prohibition on approach is absolute and counts among the oldest instructions in the wing; the file records that it was written before the first serious incident rather than after one, and that this is worth knowing.
 
 ### Older Than Its First Record
 
@@ -331,9 +331,9 @@ The earliest documented occurrence is dated and the phenomenon precedes it, the 
 
 ## Trivia
 
-- One of the first catalogued **Time-Phantasmal** entities in Somnarak.
-- Its phantasmal descriptor makes it structurally unique among time entities.
-- The lament pressure in the phantasmal register feels different from standard lament — more specific, more personal.
+- Catalogued among the first **Time-Phantasmal** entities in the wing's records, and the only holding whose entire record is counted rather than observed.
+- Nothing else on the shelf is filed as an hour that walks; the phantasmal descriptor was the wing's word for a shape it had no column for.
+- Standard lament registers as a pressure on the worker. This hour registers as a person, which is why the post rotates and why the near column carries its own caution.
 
 ## Document Information
 
