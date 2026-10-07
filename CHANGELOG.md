@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 43 / unit 3 — Sky of Borrowed Faces `O-IIIγ-926` closed (2026-10-07)** — measured at `8066031`:
+  failures were `parity ['interactions']` and `condition` False, plus one residual stock line. **Closed in a single wave
+  plus a bounded fix**: the missing `## 상호작용 (Entity Interactions)` section written in the file's own terms —
+  preamble, interaction method, a 3-row record pairing the transect with Once Upon `O-IIIγ-920`, Amnesia `O-IIβ-914` and
+  Miasma `C-IVδ-922` under its own column set, and an interaction procedure — parity **287 → 288 / 301** · the Resolution
+  line extended to carry the file's own clause as a documented suppression condition (**The count logged by surface and
+  never by face, and the team out before dusk**) — condition **283 → 284 / 301** · and the `is logged as a ` stock line
+  replaced with the file's own register wording (`stands on the register as `), residual **1 → 0**. 6,714 → **7,138
+  words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**; `own_series`
+  already True. **Batch 43 stands at three of ten.**
+
 - **Batch 43 / unit 2 — Once Upon `O-IIIγ-920` closed (2026-10-07)** — measured at `513376a`: failures were
   `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing `## 상호작용 (Entity
   Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row record pairing the desk
