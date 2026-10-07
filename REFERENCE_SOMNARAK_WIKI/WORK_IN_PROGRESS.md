@@ -1716,6 +1716,13 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 33, unit 7: Nemo `N-IIIγ-589` closed.** Measured at `228f15a`: **4 dirty sections**, worst Final
+Observation 0.167, then M.A.W. Equipment 0.099, Flavor Text 0.063 and Combat Record 0.051 — **closed in a single wave**
+(25 sites); 6,895 → **7,143 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets
+**True**, series and condition held; condition re-registered in the resolution line. Disclosed: the Entry 1
+`is logged as ` line rewritten — residual **1 → 0**. Movement: `R-29` 204 / 301; section-clean 229 / 301;
+residue-free 302 / 302; archive dirty 150; file-clean 302 / 302. **Batch 33 stands at seven of ten.**
+
 **Batch 33, unit 6: I Alone Crossed `C-IVδ-106` closed.** Measured at `ea292ad`: **4 dirty sections**, worst Final
 Observation 0.169, then Combat Record 0.062, M.A.W. Equipment 0.062 and Flavor Text 0.061 — **closed in a single wave**
 (27 sites); 7,031 → **7,285 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets
@@ -2270,6 +2277,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 33 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIIγ-589 Nemo 돌아온 영혼 — `__HASH__` — PUSH VERIFIED — [[SE-N-IIIγ-589_Nemo_돌아온_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-589_Nemo_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%98%81%ED%98%BC.md "SE-N-IIIγ-589_Nemo_돌아온_영혼.md")
 
 - SE-C-IVδ-106 I Alone Crossed 부서진 다리 — `29f8004` — PUSH VERIFIED — [[SE-C-IVδ-106_I_Alone_Crossed_부서진_다리]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-106_I_Alone_Crossed_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%8B%A4%EB%A6%AC.md "SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md")
 

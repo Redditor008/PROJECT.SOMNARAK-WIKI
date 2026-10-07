@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful work cycle, taken off the names spoken and never off the weeping |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Continuous — it is permanently present and intermittently visible; there is no count to run down |
 | **Tool / M.A.W. grade** | β · Blade, Shroud, Charm — all three graded, two issued and one given |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Lament pressure; 25% against other pressure types |
+| **Resistance** | 35% against Lament pressure and 25% against everything else — resistance that has never been the point on a file where the harm arrives through the hearing |
 | **Activation threshold** | Sorrow Gauge ≥ 75%, or any attempt to read a name back to it |
 | **Sorrow Gauge [HP]** | 673/673 |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
@@ -81,14 +81,14 @@
 | { *The Reappearance* [**Debuff**] } | "It is back — the soul that was laid to rest — and it will not rest again." | [The Soul's return unsettles the target; the dead thing is walking.] | *Target suffers -10 Composure; the returned soul is wrong.* **[10 Lament DMG [Lament]]** | When the Soul reappears. |
 | { *The Accumulated Deaths* [**Debuff**] } | "Each time it returns, it carries the weight of every death it has already experienced." | [The Soul's repeated deaths compound; the target feels each one.] | *Target loses 10 Composure; the weight of many deaths is crushing.* **[10 Lament DMG [Lament]]** | When the target witnesses the return. |
 | { *The Cold Hand* [**Attack**] } | "The returning soul reaches — and its touch carries the cold of the grave it just left." | [A spectral strike from the returned Soul.] | *Inflicts Lament pressure and one wound of deathly cold.* **[14-22 Lament DMG [Lament]]** | When the Soul is challenged. |
-| { *The Full Revenant* [**Attack**] } | "The soul fully materializes — every death, every return, every refusal to stay gone — condensed into one form." | [The Soul's complete return releases all its accumulated deaths.] | *A heavy Deep Blue revenance; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Soul is banished. |
-| { *The Army of Returns* [**Ultimate**] } | "Every soul that was ever laid to rest returns — and the weight of every death crushes the field." | [The Soul extends its returning across the whole area.] | *All in range suffer Lament pressure for three turns of returning dead.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Revenant* [**Attack**] } | "The soul fully materializes — every death, every return, every refusal to stay gone — condensed into one form." | [The whole of the return arrives at once, and every death it has refused to stay gone for comes with it.] | *A heavy Deep Blue revenance; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Soul is banished. |
+| { *The Army of Returns* [**Ultimate**] } | "Every soul that was ever laid to rest returns — and the weight of every death crushes the field." | [The return widens past the holding, and every soul laid to rest in range stands back up.] | *All in range suffer Lament pressure for three turns of returning dead.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Nemo is recognised by the tears and the mapped site, never by the face; the face has been described differently by every observer and the descriptions are kept because the disagreement is the finding — then the approach is set and the positions are taken.
+1. **Tension:** Identification first: the tears and the mapped site, never the face — the face has been described differently by every observer who has stood there, and all the descriptions are kept, because the disagreement is the finding. The approach is set after that, and the positions are taken.
 2. **Clash:** Flerehan and Ferrehan from the watch position. Pugnahan is not applied: it answers confrontation with waves of other people's memory and the gauge climbs for the rest of the cycle. The names in the tears are read and written down as they fall; they are not spoken back and they are not searched.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Speak the names carried by the tears; do not deny the return**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Speak the names carried by the tears; do not deny the return**. The clause governs the watch: the names are said aloud as they were carried, the return is not argued with, and the record closes on what was heard rather than on what anybody decided it meant.
 
 ### Consequences
 
@@ -163,7 +163,7 @@ The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost 
 
 - **Event type (non-breach):** Corrupt — the zone warps outward from a figure that does not move. Two recorded events, both ended by speech, neither by suppression.
 - **Containment priority:** Clear the corridor, hold the line, and send one worker to say they can hear it. Sealing alone has never ended an event and prolonged the second by nine hours.
-- **Sorrow Gauge on event:** Opens at 40% and rises 10% a cycle while the weeping is unanswered; it falls when a worker says aloud, to the entity, that they can hear it.
+- **Sorrow Gauge on event:** Starts at 40% and climbs 10% a cycle for as long as the weeping goes unanswered. It falls when a worker tells the entity, aloud, that they can hear it.
 
 ## M.A.W. Equipment
 
@@ -173,7 +173,7 @@ The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost 
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a long blade of Lament Han-crystal, cool and faintly luminous, that glows along its edge when readied.
+**Appearance:** a long blade of Lament Han-crystal, cool and faintly luminous, that takes a glow along its edge the moment it is readied.
 
 **Damage:** Lament 5–9
 **Speed:** 2 (Normal)
@@ -194,7 +194,7 @@ The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost 
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that goes cold the moment it is worn closed.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -212,11 +212,11 @@ The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost 
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, and warmer in the hand than the room it was kept in.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's work on this holding; the armoury records no measured effect elsewhere.
+**Effect:** +1 to the bearer's work on this holding; the Armoury records no measured effect anywhere else.
 
 **Ability:** The bearer can tell whether a person in front of them is recorded anywhere in the Company's registers, and cannot tell where.
 
@@ -232,12 +232,12 @@ The blade is held by the watch's medic and has never been swung. The shroud belo
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else — on pieces from Nemo the recorded cost is that nothing the wielder feels while it is drawn is their own. |
-| **During use** | The first sign that Nemo is charging: nothing the wielder feels while it is drawn is their own. Logged with the hour by the second worker, never by the wielder. |
-| **At limit** | Nemo's cost is continuous rather than occasional: small pleasures stop registering. Wearers notice it first in food. The second worker's call stands against the wielder's. |
-| **After use** | Return the piece, then ask a colleague rather than the wielder whether Nemo's cost is still showing — small pleasures stop registering. Wearers notice it first in food. |
+| **Before use** | Wielder, piece, the day's reading, and a baseline written down and lodged with a second worker. On this set the cost is that nothing the bearer feels while the piece is drawn is their own, which is exactly why the baseline is kept by somebody else. |
+| **During use** | Charging shows in the bearer before anything else: nothing they feel while the piece is drawn belongs to them. The second worker logs the hour, and the bearer's own account is taken afterwards and kept apart from it. |
+| **At limit** | The toll runs without pause: small pleasures stop registering, and wearers tend to notice it first in food. On this set the second worker's call stands against the bearer's. |
+| **After use** | Return the piece, then put the question to a colleague rather than to the bearer: whether the small pleasures have come back, food included. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade covers extraction and says nothing about the person carrying the item. A piece can grade well and still take a toll no figure on the sheet accounts for, and the Armoury's own returns are where that shows up.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -265,7 +265,7 @@ The blade is held by the watch's medic and has never been swung. The shroud belo
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Nemo (N-IIIγ-589 [D]) is logged as a Subject-Lament manifestation expressing Lament, held at Zone A, Alpha Tree, on a two-person watch. It is permanently present and intermittently visible. Names in its tears are written, counted, never spoken back and never searched against any register.
+Nemo (N-IIIγ-589 [D]) stands on the register as a Subject-Lament manifestation expressing Lament, held at Zone A, Alpha Tree, on a two-person watch. It is permanently present and intermittently visible. Names in its tears are written, counted, never spoken back and never searched against any register.
 
 **Entry 2 — <Excerpt from Gate Desk Presentation Tally, Year 4238>**
 Presentations by former personnel at the desk this quarter, 311. Answered, nil, per the standing rule. Logged, 311, logging not being contact. The clerk's margin note on the sheet reads: four of these were the same man.
@@ -283,11 +283,11 @@ The commissioning file holds one person's enquiry correspondence and nothing els
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Nemo; the other feeds it.
+> Two ways to close a watch on Nemo, and the file separates them by what the observer does with the names: one says them aloud as they were carried, and the other explains the return away — kindly, and to the holding's advantage.
 
-| Do the thing on file: Speak the names carried by the tears; do not deny the return. | Improvise something kinder, which is how every failure on Nemo's file began. |
+| Speak the names carried by the tears, aloud and as given, and neither deny the return nor explain it away. | Improvise something kinder — console the entity, argue the dead out of coming back, and feed Nemo. |
 |---|---|
-| Weeps with the worker and reveals a name. The sorrow is witnessed; Nemo is fully recorded. | Retaliates with waves of memory and sorrow. The gauge climbs and Nemo withdraws without revelation. |
+| The names are said aloud and heard; the weeping is answered, and the entry closes with the holding recorded whole. | The return is denied or explained away; the gauge climbs and the entry closes with Nemo no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -302,11 +302,11 @@ A figure appears at the doorway, wet with tears. You recognize nothing about it,
 
 **When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Lament becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Lament was waiting; now it moves.
 
-**After departure:** Departure is not relief. The Subject-Lament is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** The door seals and the pressure comes down, but the watch leaves something behind: Lament in the suit fibres, in the recollection, and in that thin space between thoughts where a Fracture starts.
 
 ### Interaction Pattern
 
-Nemo does not exist in isolation. Its recorded relationships with The Lost Prince, The Forgotten Name, The Sorrow Gate should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings sit in Nemo's working range — The Lost Prince, The Forgotten Name and The Sorrow Gate — and each is a resonance question rather than an alliance or a standing quarrel. Where a pairing is run, enter what the answer did in sound, movement, temperature, memory pressure, gauge or containment stability, with range, duration and trigger beside it.
 
 **Interaction method:** The question on this holding is always the name count: whether it moved while the other file was near, in which direction, and whether any name appeared in the tears that had appeared before. All three related files turn on a person who is missing from a record, which is why the watch is briefed on the differences rather than the resemblance before any joint event.
 
@@ -315,13 +315,13 @@ Nemo does not exist in isolation. Its recorded relationships with The Lost Princ
 
 Nemo must be assessed against the other erasure files and kept distinct from them. The Forgotten Name is a name with nobody attached; this is a person with no name attached. The Forgotten Soul was never looked for; this one came back and did the looking. The Lost Prince is awaited by people who remember him. The distinction decides what the watch is supposed to do with a name when it reads one.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Nemo's neighbour | How the pairing has run | What the watch noted | What the entry carries |
 |---|---|---|---|
 | **The Lost Prince** | Opposed rather than kindred: the Prince is awaited by people who remember him; this one is remembered by nobody and awaited by no one. | In the single recorded proximity the name count fell to four and the figure did not return for eleven days — the longest interval on the file. | Count before, during and after; interval to the next return. |
 | **The Forgotten Name** | A name with nobody attached, beside a person with no name attached. Two names read at the Alpha Tree during the Year 4233 proximity matched entries the Name had shed, and nothing was done with the match. | No operational effect; the correspondence is informational and was deliberately not pursued. | Which names matched, who noticed, and confirmation that no register was searched. |
 | **The Sorrow Gate** | It has twice returned to the Gate's sealed threshold, which is not a mapped loss-site and is the only departure from the map in ninety years. | Both occasions logged as returns, not sightings; the Gate did not respond and the site map was not amended. | Why the map was not amended, and by whom that was decided. |
 
-**Interaction procedure:** Name the designation aloud before briefing. Nobody on a joint event is to offer either entity a name, and the prohibition is read out at the start, every time.
+**Interaction procedure:** Read each holding alone first, with the second worker posted outside the hearing line, then log the first change belonging to the pair rather than to either one — distance, duration and trigger with it, the gauge on both sides, and the names carried across the two sessions. The transcription comparison is run afterwards by somebody who was present at neither.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -359,7 +359,7 @@ Some sorrows mourn exile. This one mourns the return, and it has been counting o
 - Names are written, counted, left unspoken and never searched against any register. Both restrictions are original and reaffirmed at every review.
 - Speaking a name back to it is prohibited; the earlier management line instructing exactly that has been struck as the single reliable cause of a gauge excursion.
 - A crew agreeing on a name for it between themselves is a reportable precursor.
-- The Answered Return is a containment condition of this holding and binds every presentation by a former worker at any desk of this facility.
+- The Answered Return is a containment condition of this holding and binds every presentation by a former worker at any desk in this facility.
 **Observation Notes:**
 - Name count taken every cycle: twenty-two this cycle, fourteen in the last, rising across the life of the holding.
 - The count runs with the gate desk tally of former personnel logged rather than answered; tested against interval, site, season, watch staffing and the Alpha Tree cycles, none of which fit.

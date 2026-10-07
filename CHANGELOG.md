@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 33 / unit 7 — Nemo `N-IIIγ-589` closed (2026-10-07)** — measured at `228f15a`: **4 dirty sections**,
+  worst Final Observation 0.167 (the choice blockquote, the choose row and the result row), then M.A.W. Equipment 0.099
+  (three appearance lines, the stat-bonus effect, the before/during/at-limit/after-use rows and the stat
+  interpretation), Flavor Text 0.063 (the 32-gram relations preamble and the relations header) and Combat Record 0.051
+  (the yield and resistance rows, two action rows, the tension phase and the resolution). **Closed in a single wave**
+  (25 sites); 6,895 → **7,143 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True** with series and condition held; the condition was re-registered inside the rewritten
+  resolution line. The Entry 1 `is logged as ` stock line was rewritten (`stands on the register as`), residual
+  **1 → 0**. Movement at the unit commit: `R-29` 204 / 301; section-clean 229 / 301; residue-free 302 / 302;
+  residue lines 0; archive dirty 150; file-clean 302 / 302. **Batch 33 stands at seven of ten.**
+
+
+
 - **Batch 33 / unit 6 — I Alone Crossed `C-IVδ-106` closed (2026-10-07)** — measured at `ea292ad`: **4 dirty
   sections**, worst Final Observation 0.169 (the choice blockquote, the choose row and the result row), then Combat
   Record 0.062 (the yield and resistance rows, two action rows, the tension phase and the resolution), M.A.W. Equipment
