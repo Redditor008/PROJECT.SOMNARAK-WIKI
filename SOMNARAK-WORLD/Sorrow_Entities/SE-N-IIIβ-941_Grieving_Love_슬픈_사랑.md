@@ -161,16 +161,16 @@ Read the gauge only against the rest of the sheet. She is a Subject with Subject
 
 ## Breach Behavior
 
-> *"Grieving Love has broken free. She is moving toward the residential blocks, arms open. Do not run."*
+> *"Grieving Love has broken free. She is looking for someone to hold, and she will find one. Do not let it be you."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | She drifts out of the Apothecary and toward any concentration of people, arms extended, seeking someone — anyone — to hold. |
-| **Effect** | Composure drains from all nearby; they feel an overpowering longing and an urge to embrace her. |
-| **Secondary Effect** | Those who hold her begin to dissolve at the points of contact; she cannot stop the cure from trying to "preserve" them. |
-| **First Target** | The person who shows her the most kindness — the one most likely to embrace her. |
-| **Escalation** | Each turn she is free and unheld, her grief-field widens 2 m and her Lament pressure grows +5/turn until suppressed. |
+| **Movement** | She leaves the Apothecary on foot and goes where the most people are, unhurried, arms held out for somebody to step inside them — and she is not particular about whom. |
+| **Effect** | Composure drains from everyone within her reach, and the drain arrives as an invitation: the urge to step in and hold her is the hazard itself, and from the inside it reads as kindness. |
+| **Secondary Effect** | Whoever she takes hold of comes apart at the touch, and she cannot stop the cure from trying to "preserve" them — the preservation is what takes the parts. |
+| **First Target** | Not the nearest and not the strongest: whoever has been kindest to her that day, which in practice is the worker most likely to open their arms. |
+| **Escalation** | Every turn she goes unheld, the grief-field widens 2 m and the Lament pressure climbs +5, toward *The Unfinished Cure*; nothing about the growth is fast, and that is the difficulty. |
 
 ### Escalation Notes
 
