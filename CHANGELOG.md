@@ -8,6 +8,33 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 35 CLOSED at five (2026-10-07).** Five dossiers, **7 / 7 dirty sections closed**, **+460 words** net across the
+  five unit commits, `verify.py` residuals **5 → 0**, nothing deleted (`R-15`). Each unit committed individually and
+  pushed (`A0`) and validated by `wikistd.py` (`meets True`), `sectfile.py` (0 sections over 0.05), `tpl.py` and
+  `verify.py`. Movement across the cohort, b35 open → b35 close: `R-29` 214 → **219 / 301**; own numeric series
+  271 → **274 / 301** (units 1, 4 and 5); condition 259 → **262 / 301** (units 2, 3 and 4); section-clean 239 →
+  **244 / 301**; residue-free 302 → 302 / 302; `tpl.py` residue lines 0 throughout; archive dirty 107 → **100**;
+  file-clean 302 → 302 / 302; scene-clean 240 → **245**; worst 0.028 → **0.028**; median 0.008 → 0.008. No housekeeping
+  sweep was needed: `R-29` and section-clean rose on every single unit, with no regression.
+
+- **Batch 35 disclosures.** **rollback #29** struck at the batch open — the checkout was found at the session's base
+  commit `408797c` while the remote held `4af11e2`; the standing recovery was run (fetch → `git diff --stat FETCH_HEAD`
+  → `git reset --mixed FETCH_HEAD` → `git checkout -- PR_12_NEVER_MERGED.md`) and the batch opened clean on a
+  verified-levelled tree (open measure `R-29` 214 / 301 · section-clean 239 / 301 · archive dirty 107). Every unit
+  closed in a single wave. **unit 1** — `own_series` **False → True** by restating the file's own figures (31 per cent of
+  the floor area, 4 generations, 1 and 3 metres, 19 debriefs, 2 missed projections); both residuals cleared. **unit 2** —
+  the condition registered **False → True** in the rewritten resolution line; the Entry 1 residual cleared; the story
+  log's whispered triple dots were set as dashes, clearing the seam check (`seam []`). **unit 3** — the condition
+  registered **False → True** by rewriting the generic Management row into the file's own grip discipline; the first wave
+  attempt aborted pre-write because `verify.py` truncates its residual lines at 100 characters and that row continues
+  past the cut — the whole line was recovered from the file and the wave re-run, nothing written on the failed attempt.
+  **unit 4** — the condition **False → True** by opening the file's own management sentence in the `Management:` form,
+  and `own_series` **False → True** with the Threat Assessment's figures restated in numerals (9 years, 2 breaches, 11
+  strikes); the M.A.W. extraction bullet carrying 11 shared grams was re-authored. **unit 5** — `own_series`
+  **False → True** (212 of 18,000+, 41 fixed marks, 30 households); both dirty sections closed in one wave. Across the
+  batch no re-authored phrase of eight words or more was reused between units, and every unit's relations header row was
+  put in the file's own terms.
+
 - **Batch 35 / unit 5 — Owed `C-IIIγ-180` closed (2026-10-07)** — measured at `1556d4f`: **2 dirty sections**, worst Final
   Observation 0.155 (the choice blockquote, the choose row and the result row), then Combat Record 0.054 (the yield and
   resistance rows, both combat actions' flavour and description cells, and the tension and resolution phases).

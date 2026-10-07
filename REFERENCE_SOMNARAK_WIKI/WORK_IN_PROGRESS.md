@@ -1716,6 +1716,18 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 35 closed at five (2026-10-07).** Five dossiers · **7 / 7 dirty sections closed** · **+460 words** net ·
+`verify.py` residuals **5 → 0** · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Movement, b35 open → b35
+close: `R-29` 214 → **219 / 301** · series 271 → **274 / 301** (units 1, 4, 5) · condition 259 → **262 / 301** (units 2,
+3, 4) · section-clean 239 → **244 / 301** · residue-free 302 → 302 / 302 · archive dirty 107 → **100** · file-clean 302 →
+302 / 302 · scene-clean 240 → **245** · worst 0.028 · median 0.008. Disclosures: **rollback #29** at the batch open
+(session base `408797c` against remote `4af11e2`, recovered by the standing procedure); every unit closed in one wave
+and no sweep was needed, `R-29` and section-clean rising on every unit; `own_series` closed **False → True** on units 1,
+4 and 5 by restating each file's own figures in numerals inside real edits; the condition registered **False → True** on
+units 2, 3 and 4; unit 3's first wave aborted pre-write on a `verify.py` print truncation and was re-run whole; unit 2's
+whispered triple dots were set as dashes (`seam []`). Full per-unit detail in the entries above; the codex records all
+five with their SE links below (`R-12`). **Next rung: seven or ten**, on the owner's word.
+
 **Batch 35, unit 5: Owed `C-IIIγ-180` closed.** Measured at `1556d4f`: **2 dirty sections**, worst Final Observation
 0.155, then Combat Record 0.054 — **closed in a single wave** (18 sites); 7,081 → **7,171 words**; `tpl.py` residue 0;
 `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held; condition re-registered in the
@@ -2421,7 +2433,7 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
-**Batch 35 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 35 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IIIγ-180 Owed 빚의 벽 — `44491a5` — PUSH VERIFIED — [[SE-C-IIIγ-180_Owed_빚의_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-180_Owed_%EB%B9%9A%EC%9D%98_%EB%B2%BD.md "SE-C-IIIγ-180_Owed_빚의_벽.md")
 
