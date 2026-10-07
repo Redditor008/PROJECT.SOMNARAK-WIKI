@@ -304,7 +304,7 @@ The three pieces came out of the frost, not the outline, and all three carry the
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Apocrypha (O-Iα-340 [VP]) is logged as a Place-Void manifestation expressing Void. The Relic formed from an object lost before its owner could say farewell. Held at The Desolate — mobile. The Relic has no confirmed physical core.
+Apocrypha (O-Iα-340 [VP]) is a Place-Void manifestation expressing Void, and the effects office files the Relic under the property of the dead that nobody came back for: an object lost before its owner could say farewell. Held at The Desolate — mobile. The Relic has no confirmed physical core.
 
 **Entry 2 — <Effects Office Return: Unidentified Property of the Dead>**
 Items held by the expedition effects office as unidentified property of the dead: one hundred and twelve. Returned to a family in the last decade: nine. Entered with a note of what the object meant to the person — written by anyone who knew them, in any words, however uncertain — thirty-one. The remaining seventy-two are catalogued by material, dimension and weight. The outline's surveyed dimensions have never changed. The number of sites it has appeared at has risen by one in each of the last four years.
