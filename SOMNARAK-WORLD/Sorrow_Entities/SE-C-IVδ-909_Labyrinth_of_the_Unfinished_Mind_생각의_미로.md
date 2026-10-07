@@ -88,7 +88,7 @@
 
 1. **Tension:** Two descend and one stays at the mouth as anchor, holding the line and the transcript sheet. The anchor's authority to pull is absolute and is stated aloud before the first room.
 2. **Clash:** None. Two people walking 41 surveyed rooms with a line between them and somebody at the entrance writing down everything they say.
-3. **Resolution:** The party comes out on the line with the transcript complete and the room count matching. 188 descents; the count has matched in 179 and the nine that did not are the nine pulls.
+3. **Resolution:** The party comes out on the line with the transcript complete and the room count matching. 188 descents; the count has matched in 179 and the nine that did not are the nine pulls. It closes against the documented suppression condition: **The party comes out on the line with the transcript complete and the room count matching**.
 
 ### Consequences
 
@@ -256,6 +256,21 @@ Contact is disorienting. The void pressure is familiar — every agent in Somnar
 **When the entity activates:** Nothing moves while anybody is looking. The corridor behind you is a corridor you have not walked, and you know this calmly, and the calm is the thing the anchor is listening for on the line.
 
 **After departure:** You come out with one sentence. Entrants can repeat theirs years afterwards, word for word, and almost none of them have ever told anybody what it was.
+
+## 상호작용 (Entity Interactions)
+
+No descent has ever been run with a second holding in play, and none will be: the interior hands every walker a different chart, so there is nothing steady here to stand beside anything. The rows below come from the appendix that groups the 90x holdings by manifestation, and each one is read off the two files' own series rather than off a trial.
+
+**Interaction method:** Take the descent's own figures first — the transcript, the room count, the entrance marks — and establish them alone across a full cycle before any comparison is written. Then read the other record's series against them, noting the first divergence, its range, its trigger, and whether either series changed in the reading. Re-verify each quarter.
+
+| What the corridors meet | How the pairing has run | What the descent entered | What the file holds |
+|---|---|---|---|
+| **Breathing Stone** `C-IVδ-907` | Filed together on interiors that refuse to be mapped. The wall is read from outside and never varies; the corridors are walked and never agree. | 188 descents and 188 respiration series were laid beside each other and agreed on the count alone. | That the pairing is filed on the shape of the problem, with the count noted as a survey coincidence rather than a link. |
+| **Endless Shift** `C-IVδ-915` | Grouped on interiors that hold people past their term. That record keeps a crew past its hour; this one keeps a walker past the room count. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement and not a finding, entered beside the row each time it is quoted. |
+| **Ninety Seconds** `C-IVδ-918` | Grouped on loops. That record repeats one thought inside a fixed space; this one repeats a room on every pass, which is the same complaint set in stone. | One joint review entry; the two series diverged from the first mark and neither was reconciled. | That the divergence is the finding, kept in the review's own words rather than smoothed into a shared figure. |
+
+**Interaction procedure:** Compare in the record only, at the quarter's review, with the transcript and the room count re-read first and the other record's series set beside them unchanged. Enter divergence, range, trigger, both readings and what persists; never reconcile the columns.
+
 
 ## 이야기 (Narratio) — The Tale
 
