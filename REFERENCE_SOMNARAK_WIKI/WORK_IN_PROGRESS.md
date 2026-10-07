@@ -1716,6 +1716,19 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 36 closed at seven (2026-10-07).** Seven dossiers · **11 / 11 dirty sections closed** · **+1,023 words** net ·
+`verify.py` residuals **4 → 0** · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Movement, b36 open → b36
+close: `R-29` 219 → **226 / 301** · parity 274 → **275 / 301** (unit 2's interactions section written) · series 274 →
+**277 / 301** (units 3, 5, 6) · condition 262 → **265 / 301** (units 1, 2, 4) · section-clean 244 → **258 / 301** ·
+residue-free 302 → 302 / 302 · archive dirty 100 → **78** · file-clean 302 → 302 / 302 · scene-clean 245 → **259** ·
+worst 0.028 → **0.023** · median 0.008 → **0.007**. Disclosures: **rollback #30** at the batch open (session base
+`408797c` against remote `4d21d73`, recovered by the standing procedure); every unit closed in a single wave; the
+condition registered False → True on units 1, 2 and 4; `own_series` closed False → True on units 3, 5 and 6; the
+missing interactions parity section written on unit 2; unit 3's first wave aborted pre-write on a case-mismatched
+anchor and the corrected wave ran whole; unit 7's SE-link hash corrected to its unit commit before the gate; the
+relations header rows were given a different column set in each file. No sweep was needed. Full per-unit detail in the
+entries above; the codex records all seven with their SE links below (`R-12`). **Next rung: ten**, on the owner's word.
+
 **Batch 36, unit 7: Portcullis `O-Iα-794` closed.** Measured at `49e1ecc`: **1 dirty section**, Final Observation 0.145 —
 **closed in a single wave** (15 sites); 7,748 → **7,830 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over
 0.05**; `wikistd.py` meets **True**, condition held, residual clean on entry. Disclosed: the behavior-context paragraph
@@ -2491,7 +2504,7 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
-**Batch 36 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 36 — CLOSED at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-O-Iα-794 Portcullis 무너진 문 — `f1aabbe` — PUSH VERIFIED — [[SE-O-Iα-794_Portcullis_무너진_문]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-794_Portcullis_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%AC%B8.md "SE-O-Iα-794_Portcullis_무너진_문.md")
 

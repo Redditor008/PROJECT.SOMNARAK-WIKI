@@ -8,6 +8,37 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 36 CLOSED at seven (2026-10-07).** Seven dossiers, **11 / 11 dirty sections closed**, **+1,023 words** net
+  across the seven unit commits, `verify.py` residuals **4 → 0**, nothing deleted (`R-15`). Each unit committed
+  individually and pushed (`A0`) and validated by `wikistd.py` (`meets True`), `sectfile.py` (0 sections over 0.05),
+  `tpl.py` and `verify.py`. Movement across the cohort, b36 open → b36 close: `R-29` 219 → **226 / 301**; parity
+  274 → **275 / 301** (unit 2's missing interactions section written); own numeric series 274 → **277 / 301** (units 3,
+  5, 6); specific condition 262 → **265 / 301** (units 1, 2, 4); section-clean 244 → **258 / 301**; residue-free
+  302 → 302 / 302; `tpl.py` residue lines 0 throughout; archive dirty 100 → **78**; file-clean 302 → 302 / 302;
+  scene-clean 245 → **259**; worst 0.028 → **0.023**; median 0.008 → **0.007**. No housekeeping sweep was needed, and
+  no unit fell back in any counter. The archive-dirty fall is far larger than the cohort's own 11 sections because the
+  batch rewrote archive-shared phrasing — the yield rows, the extraction bullets, the `escalation pattern is specific
+  to` paragraphs, the combat action rows and the relations header rows — across seven files at once (`sect.py`,
+  `MIN_SHARE=10`).
+
+- **Batch 36 disclosures.** **rollback #30** struck at the batch open — the checkout was found at the session's base
+  commit `408797c` while the remote held `4d21d73`; the standing recovery was run (fetch → `git diff --stat FETCH_HEAD`
+  → `git reset --mixed FETCH_HEAD` → `git checkout -- PR_12_NEVER_MERGED.md`) and the batch opened clean on a
+  verified-levelled tree (open measure `R-29` 219 / 301 · section-clean 244 / 301 · archive dirty 100). Every unit
+  closed in a single wave. **unit 1** — the condition registered **False → True** inside the rewritten resolution line;
+  every re-authored phrase of eight words or more was written file-specifically (the relations header rows were given a
+  different column set in each of the seven files). **unit 2** — the **interactions parity section was missing** and was
+  written in the file's own terms, closing the parity clause; the condition registered **False → True**. **unit 3** —
+  the file's first wave attempt aborted pre-write on a case-mismatched anchor (nothing was written) and the corrected
+  wave ran whole; both residuals cleared; `own_series` **False → True**; the batch-template
+  `a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event` tail was replaced with the file's own
+  wording. **unit 4** — the condition registered **False → True** in the resolution line, the generic `Management` row
+  left untouched. **unit 5** — residual cleared; `own_series` **False → True** (all 4 Work Types; 16 turns).
+  **unit 6** — residual cleared; `own_series` **False → True** (all 4 Work Types beside the file's own 40% breach
+  opening). **unit 7** — the behavior-context and 10-gram escalation paragraphs re-authored; the SE-link row's hash was
+  recorded as a placeholder and corrected to the unit commit (`f1aabbe`) before the gate. Every unit's registered
+  suppression-condition text was kept verbatim wherever its line was rewritten.
+
 - **Batch 36 / unit 7 — Portcullis `O-Iα-794` closed (2026-10-07)** — measured at `49e1ecc`: **1 dirty section**, Final
   Observation 0.145 (the choice blockquote, the choose row and the result row), with the behavior-context paragraph, the
   10-gram escalation paragraph, two combat action rows and the relations header row re-authored in the same wave.
