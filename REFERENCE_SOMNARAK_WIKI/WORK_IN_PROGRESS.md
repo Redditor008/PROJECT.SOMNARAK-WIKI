@@ -1716,6 +1716,16 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 36, unit 3: Brume `O-IIγ-007` closed.** Measured at `a17fb07`: **3 dirty sections**, worst Final Observation
+0.149, then Operational Parameters 0.056 and Combat Record 0.054 — **closed in a single wave** (23 sites);
+7,509 → **7,621 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**,
+condition held (kept verbatim inside the rewritten resolution line). Disclosed: both residuals cleared, residual
+**2 → 0**; `own_series` **False → True** via the file's own figures restated in numerals (2 valid Work Types; a factor
+of 2 or more on elapsed time, in the Registrum's threat line); interactions preamble/header/procedure re-authored; the
+batch-template `a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event` tail replaced; the first wave
+attempt aborted pre-write on a case-mismatched anchor and the corrected wave ran whole. Movement: `R-29` 222 / 301;
+section-clean 254 / 301; archive dirty 84; file-clean 302 / 302. **Batch 36 stands at three of seven.**
+
 **Batch 36, unit 2: Unwaking Block `N-IIIγ-908` closed.** Measured at `0287db5`: **1 dirty section**, Combat Record
 0.152 (53 shared grams) — **closed in a single wave**; 4,240 → **4,651 words**; `tpl.py` residue 0; `sectfile.py`
 **0 section(s) over 0.05**; `wikistd.py` meets **True**, residual clean on entry. Disclosed: the missing interactions
@@ -2450,6 +2460,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 36 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IIγ-007 Brume 안개 — `ee461ec` — PUSH VERIFIED — [[SE-O-IIγ-007_Brume_안개]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B3-007_Brume_%EC%95%88%EA%B0%9C.md "SE-O-IIγ-007_Brume_안개.md")
 
 - SE-N-IIIγ-908 Unwaking Block 잠드는 구역 — `13c33b1` — PUSH VERIFIED — [[SE-N-IIIγ-908_Unwaking_Block_잠드는_구역]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-908_Unwaking_Block_%EC%9E%A0%EB%93%9C%EB%8A%94_%EA%B5%AC%EC%97%AD.md "SE-N-IIIγ-908_Unwaking_Block_잠드는_구역.md")
 

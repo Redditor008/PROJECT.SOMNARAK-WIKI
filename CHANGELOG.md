@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 36 / unit 3 — Brume `O-IIγ-007` closed (2026-10-07)** — measured at `a17fb07`: **3 dirty sections**, worst Final
+  Observation 0.149 (the choice blockquote and the choose row), then Operational Parameters 0.056 (the yield row and the
+  11-gram extraction bullet) and Combat Record 0.054 (the Obscuration and Fog World action rows, the resolution phase and
+  the forced-clear trigger). **Closed in a single wave** (23 sites); 7,509 → **7,621 words**; `tpl.py` residue 0;
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with the condition held; the registered
+  suppression condition text was kept verbatim inside the rewritten resolution line. Both residuals cleared (Entry 1's
+  `is logged as ` → `stands in the record as`; the after-departure pairing line) — residual **2 → 0**; `own_series`
+  **False → True** by restating the file's own figures in numerals inside real edits (2 valid Work Types; a factor of 2
+  or more on elapsed time, entered in the Registrum's own threat line) — disclosed. The interactions preamble, header
+  row and procedure were re-authored to the file's own country, and the `Sorrow Tide, a breach elsewhere, an Ordeal, or
+  a transformation event` template tail was replaced with the file's own wording. A first wave attempt aborted pre-write
+  on a case-mismatched anchor; nothing was written, and the corrected wave ran whole. Movement at the unit commit:
+  `R-29` 222 / 301; section-clean 254 / 301; residue-free 302 / 302; residue lines 0; archive dirty
+  84; file-clean 302 / 302. **Batch 36 stands at three of seven.**
+
+
+
 - **Batch 36 / unit 2 — Unwaking Block `N-IIIγ-908` closed (2026-10-07)** — measured at `0287db5`: **1 dirty section**,
   Combat Record 0.152 (53 shared grams: the four combat action rows, the tension and clash phases), with the generic
   escalation paragraph and the yield row re-authored in the same wave. **Closed in a single wave**; 4,240 → **4,651
