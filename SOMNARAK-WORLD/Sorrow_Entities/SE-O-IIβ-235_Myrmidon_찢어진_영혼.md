@@ -87,7 +87,7 @@
 
 1. **Tension:** The team prepares out of uniform. Insignia, rank markings, badges of office and anything bearing the facility's mark are left outside the holding, under the formal dress exemption that names this containment and no other. The team also agrees who will speak, since on this holding the answer must be one named person rather than a role.
 2. **Clash:** Work proceeds across sixteen turns with all four Work Types available, and one rule holds above every other: nothing is explained on the institution's behalf. Not the orders, not the proceedings, not the reasoning, not the context. The team speaks in the first person singular throughout, and a worker who finds themselves saying 'we' is relieved for the remainder of the cycle without prejudice.
-3. **Resolution:** The cycle closes in containment, retreat or management, or against the documented suppression condition: **Separate the person from the institution they represent; do not defend the institution**. Nobody on this ground speaks for the facility, and the number of workers who have managed it without help is on the record.
+3. **Resolution:** The watch is closed in containment, in retreat, under management, or at the line the legal office drew: **Separate the person from the institution they represent; do not defend the institution**. Nobody on this ground speaks for the facility, and the number of workers who have managed it without help is on the record.
 
 ### Consequences
 
@@ -305,7 +305,7 @@ A tear runs through the figure from crown to chest, dividing the person it once 
 
 ### Interaction Pattern
 
-This holding is read against the other sorrows institutions made, and the question put to every pairing is whether the flicker proportion comes off even — whether one of the two selves takes over in company, and which one. Nothing else here has produced a measurable result, and a pairing that moved only the atmosphere is filed as having moved nothing.
+The Myrmidon is filed beside the other sorrows institutions made, and the question put to every pairing is whether the flicker proportion comes off even — whether one of the two selves takes over in company, and which one. Nothing else here has produced a measurable result, and a pairing that moved only the atmosphere is filed as having moved nothing.
 
 **Interaction method:** Baseline each entity alone; the flicker proportion in particular means nothing without a long solo series behind it. The relations on file concern betrayal, service, or division, so the question to settle is whether the other presence pushes the proportion off even — whether one of the two selves becomes dominant in company, and which. Log the first mutual reaction, the triggering distance, the duration, the gauge change on both sides, the operational impact, and whether separation restores the balance. Re-verify each cycle; a Sorrow Tide, an Ordeal or a transformation has overturned settled readings in Zone A before.
 
@@ -332,7 +332,7 @@ The institution destroyed his family. Not directly — structurally. The policie
 
 The tearing was not metaphorical. The loyalty, split between the love of service and the rage at what the service served, produced a division so fundamental that the self could not contain it. Myrmidon is Subject-Lament, Grudge-element: the figure of a person divided by betrayal — the citizen split between the institution he served and the family it destroyed, carrying both the loyalty and the rage, unable to reconcile, unable to choose, torn.
 
-Those who come near the Myrmidon feel the specific agony of irreconcilable loyalty — the grief of loving the thing that harmed you, of serving the instrument of your own loss, of being divided so fundamentally between devotion and fury that the self, torn between them, cannot hold.
+Stand close to the Myrmidon and the agony of irreconcilable loyalty arrives — the grief of loving the thing that harmed you, of serving the instrument of your own loss, of being divided so fundamentally between devotion and fury that the self, torn between them, cannot hold.
 
 Some sorrows are about betrayal. Myrmidon is about the betrayal that divides — the institution served and the family destroyed, the loyalty and the rage, the self split in half by the discovery that the thing you loved was the thing that killed what you loved.
 ## 증언 (Testimonium) — The Testimony
@@ -386,7 +386,7 @@ Symbols of office, inherited violence, and anything standing for the city provok
 
 ### Loyalty That Tore
 
-Someone discovered that the institution they had served had ruined their family, and the commissioning file holds both halves — their service record and the proceedings that harmed their household. The two are filed together deliberately. The archivist's note states that they overlap in time by several years and that the service record contains commendations issued during that overlap.
+Someone discovered that the institution they had served had ruined their family, and both halves sit in the commissioning file — the service record, and the proceedings that harmed their household. The two are filed together deliberately. The archivist's note marks the fact that the two overlap by several years, and that commendations were issued during that overlap.
 
 ### Forty-One Narrowings, Nothing Cumulative
 
@@ -414,7 +414,7 @@ Under the standing waiver, renewed annually for nine years, **anything said insi
 
 The worker gets the mirror image. A statement made in there has no institutional weight behind it either: it cannot be relied on by the person who said it, cannot be produced in their defence, and cannot be confirmed by anybody. **In the one case where a worker was later accused of having said something in that room, the wing could neither confirm nor deny it, said nothing, and the worker carried it alone.** They lost a posting over it. The file records that outcome in full, with the worker's name removed at their request and the wing's inaction described as correct under the waiver it had itself sought.
 
-The legal office's objection is minuted and read at every annual review. An instrument that de-attributes speech protects the institution from its employees' honesty while leaving the employee exposed; the asymmetry is not incidental but structural; and the wing has built its only working containment method on asking people to speak without cover. The minute records the objection as **correct, including the word structural**, records that no alternative has been drafted that the legal office would sign, and renews the waiver.
+The legal office's objection goes into the minute at every annual review. An instrument that de-attributes speech protects the institution from its employees' honesty while leaving the employee exposed; the asymmetry is not incidental but structural; and the wing has built its only working containment method on asking people to speak without cover. The minute lets it stand as **correct, including the word structural**, sets down that no alternative has been drafted the legal office would sign, and renews the waiver.
 
 ## Trivia
 
@@ -425,7 +425,7 @@ The legal office's objection is minuted and read at every annual review. An inst
 
 ### Registry Trivia
 
-- **Classification detail:** Myrmidon is a Subject with Echo (II) coherence and Moderate (β) potency.
+- **Classification detail:** Myrmidon files as a Subject; its coherence is Echo (II) at Moderate (β) potency.
 - **Field detail:** Its element is Grudge, and the register keeps it at Zone A, Alpha Tree.
 - **Recognition detail:** Identify it by the clean vertical split and the flicker. Several filed entities weep; this is the one that weeps from the chest and whose outline cannot settle on a single self.
 - **Record detail:** Betrayal-formed entities are numerous in the archive and more than one is held in Zone A. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the decisive point, which here is whether the facility's own conduct may be discussed in the room.
