@@ -93,7 +93,7 @@
 ### Consequences
 
 - Resilience fails here as reaching. The worker stands in a row of heavy fruit for an hour and the hand goes out on its own, and four have, and all four reported themselves.
-- What long exposure leaves behind is a worker who cannot bring themselves to file a set-off. Seventeen Wardens came off this garden's rota and were later found handing entitlements over entire, and the credit office's objection to the containment rule names every one of the seventeen.
+- What long exposure leaves behind is a worker who cannot bring themselves to file a set-off. Seventeen Wardens came off this garden's rota and were later found handing entitlements over entire, and the credit office's complaint against the rule that governs this garden names every one of the seventeen.
 - The set takes feeling, reflex and temper, a day apiece. The armoury set both facts down: the three charges in one line, and in a second line the observation that the dagger's charge is the one bearers feel last.
 - No breach has ever been recorded. It widens and withdraws, four times each way in thirty-one years, with no intervention on any of the eight occasions; the escalation model below is a reconstruction and is marked as one.
 
