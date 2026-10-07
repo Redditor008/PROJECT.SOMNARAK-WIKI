@@ -305,7 +305,7 @@ The pieces carry the relic's terms and not the Armoury's, and the term is a sing
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Dismissed Cry (N-IIβ-560 [D]) is logged as a Object-Grudge manifestation expressing Grudge. The Scream formed from anger that had no safe voice. Held at The Desolate, near The Scar. It produces pressure rather than sound.
+Dismissed Cry (N-IIβ-560 [D]) is an Object-Grudge manifestation expressing Grudge, and the instruments have never caught it once — the personnel always do. The Scream formed from anger that had no safe voice. Held at The Desolate, near The Scar. It produces pressure rather than sound.
 
 **Entry 2 — <Excerpt from Complaints Register, Border Office>**
 Entry 1,104. Complainant: not recorded. Subject of complaint: not recorded. Nature: disturbance, Desolate border, duration unknown. Action: none required. The clerk's hand is steady and the entry took less than a minute to write. It is the only contemporaneous document of the event, and everything the archive knows about the injustice has had to be recovered from the object the complaint became.
