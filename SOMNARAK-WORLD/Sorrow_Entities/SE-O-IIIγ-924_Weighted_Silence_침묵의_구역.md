@@ -1,6 +1,6 @@
 # Weighted Silence — 침묵의 구역
 
-> *"Something here remembers what we chose to forget."*
+> *"The first report could not describe it and came back with an instruction to write it again. Both versions are filed; the second is the one the containment was built from."*
 
 ## SECC Classification
 
@@ -87,7 +87,7 @@
 
 1. **Tension:** The marker is checked (the boundary is abrupt rather than graded. A person standing with one foot across it hears their own voice from one side of their head only, and every account of the crossing describes this before it describes anything else) and Weighted Silence is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Weighted Silence's recorded combat actions.
-3. **Resolution:** The team withdraws across the boundary, counts itself, and compares slates. The silence does not pursue and has never been observed to contract; the sitting ends because the team decides it has, which is the single most repeated sentence in the responders’ account.
+3. **Resolution:** The team withdraws across the boundary, counts itself, and compares slates. The silence does not pursue and has never been observed to contract; the sitting ends because the team decides it has, which is the single most repeated sentence in the responders’ account. It closes against the documented suppression condition: **sight the edge from the markers and never send a body past them for a reading**.
 
 ### Consequences
 
@@ -239,6 +239,7 @@ The Weighted Silence set is made from the markers rather than from the entity: t
 - Seventeen annual sightings, Y4239 to Y4255, radius constant at fifty metres ± half a metre. The series is unbroken because the method never requires entry.
 - Both valid approaches are performed from outside the line and both reduce the gauge. Nothing performed inside the line has ever produced a reading that could be checked.
 - There is no detectable gradient, no measurable energy and no instrument reading of any kind from within the radius. Everything known about the interior is testimony, and the file says so in its first paragraph.
+- Entry is permitted only with the clock kept outside: 11 crossings are on the register, 2 instruments were lost inside, and no crossing has produced a checkable reading.
 
 **Personnel Note:**
 
@@ -276,6 +277,18 @@ There is a moment — always the same, always brief — when the void pressure a
 **When the line moves:** Nothing announces it. An expansion is discovered by survey, not by sensation, and the one on record was found four days after the marker post went quiet.
 
 **After departure:** Sound comes back all at once at the line, and it is louder than it should be for about a minute. Personnel are advised to wait there rather than walk.
+
+## 상호작용 (Entity Interactions)
+
+The circle is an absence with an edge, and what it takes is instruments rather than voices, so the three records kept beside it in the appendix are all holdings shaped like something missing: two bells with no sound in them and a woman who was never looked at. What follows is read from this holding's own instruments — the annual sighting against the markers, the entry register, and the slates that come back out.
+
+**Interaction method:** Set this holding's own figures first: the 17 annual sightings from Y4239 to Y4255 at 50 metres ± half a metre, the 11 permitted crossings, and the gauge ladder that opens at 40% and rises 10% per overdue survey. Then read the other record's figures beside them, enter whether either moved, and sight again at the next cycle.
+
+| Which record sits at the boundary | What both take out of a room | What the survey entered | What the silence keeps |
+|---|---|---|---|
+| **Unrung** `C-IIβ-170` | Both are silences a district had to make a rule about. That record's district was not told and made the rule anyway; this circle tells nobody anything, and the rule it produced is a permit and a clock that stays outside. | No crossing was made. The pair was grouped on the word silence alone, and the entry is held as an arrangement. | That the grouping is an arrangement, not a result. |
+| **Clapperless** `C-IIβ-340` | Both are the shape of a thing emptied. That record was found to have nothing inside it; this one has nothing inside it, 11 crossings have said so, and nothing has been added since. | The hand-signal set in use here was adopted, not devised; the file names where it came from, and the borrowing is the one operational carry-over between the two records. | That the set is borrowed furniture and the emptiness is not. |
+| **The Silent Maiden** `C-IVβ-043` | Both are presences that say nothing and ask for nothing. She can be looked at and never answers; the radius can be entered and shows nothing. | Entered at review as a distinction rather than a likeness: no figure has ever been reported inside the radius, and she is the only one of the pair with a form. | That the file keeps the difference, not the resemblance. |
 
 ## 이야기 (Narratio) — The Tale
 
