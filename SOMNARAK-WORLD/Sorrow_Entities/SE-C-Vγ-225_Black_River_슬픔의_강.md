@@ -279,7 +279,7 @@ The three pieces are bank work: a maul that weighs like a bank, a mantle that ke
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Black River (C-Vγ-225 [WP]) is logged as a Place-Weight manifestation expressing Weight, running beneath the whole city and surfacing at the Weeping. It is sounded and never entered, it rises with the city's unmourned dead, and it is the only holding against which no work cycle has ever been scheduled.
+Black River (C-Vγ-225 [WP]) is a Place-Weight manifestation expressing Weight, running beneath the whole city and surfacing at the Weeping — a river by geography and a holding by the register. It is sounded and never entered, it rises with the city's unmourned dead, and it is the only holding against which no work cycle has ever been scheduled.
 
 **Entry 2 — <Grief-Line Survey, Year 4238>**
 The line rose 418 millimetres this year, after 310 and 240. Four basements bought and sealed. Tone unchanged at every station; no tributary reported silent; no vault sounded back.
