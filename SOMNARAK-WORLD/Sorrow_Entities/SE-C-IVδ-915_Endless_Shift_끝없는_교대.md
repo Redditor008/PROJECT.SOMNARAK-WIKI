@@ -1,6 +1,6 @@
 # Endless Shift — 끝없는 교대
 
-> *"The city gave us this. We did not ask for it."*
+> *"The rotation ends, the worker finds themselves at the start of it, and the forge keeps going."*
 
 ## SECC Classification
 
