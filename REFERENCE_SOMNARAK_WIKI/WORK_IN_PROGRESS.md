@@ -2598,6 +2598,15 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
+**Batch 38, unit 2: The Debt Scale `C-IIIβ-015` closed.** Measured at `f63c49c`: **3 dirty sections** — Combat Record,
+M.A.W. Equipment and Final Observation — **closed in one wave plus a line-local fix** (16 sites); 7,234 → **7,318 words**;
+`tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the resolution
+line's generic entity-specific management text was replaced by the file's own clause (Viderehan and Ferrehan only at the
+plinth, certified Tool protocol, the circle marked after every expansion, and no measurement of any named person) with
+condition unchanged; residual **1 → 0** cleared line-locally; `own_series` already True; the file's own figure (3
+conferrals) restated in numerals inside a real edit. Movement: `R-29` 238 / 301; section-clean 272 / 301; archive
+dirty 44; file-clean 302 / 302. **Batch 38 stands at two of five.**
+
 **Batch 38, unit 1: Unwitnessed `C-Iα-236` closed.** Measured at `af07182`: **3 dirty sections** — Final Observation,
 Combat Record and Operational Parameters — **closed in two passes** (18 sites, plus a bounded second pass over the two
 Operational Parameters lines still carrying shared 4-grams); 8,170 → **8,278 words**; `tpl.py` residue 0;
@@ -2608,6 +2617,8 @@ against 157). Movement: `R-29` 237 / 301; section-clean 271 / 301; archive dirty
 **Batch 38 stands at one of five.**
 
 **Batch 38 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIIβ-015 The Debt Scale 빚의 저울 — `2154cdc` — PUSH VERIFIED — [[SE-C-IIIβ-015_The_Debt_Scale_빚의_저울]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-015_The_Debt_Scale_%EB%B9%9A%EC%9D%98_%EC%A0%80%EC%9A%B8.md "SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md")
 
 - SE-C-Iα-236 Unwitnessed 사라진 씨앗 — `c40739f` — PUSH VERIFIED — [[SE-C-Iα-236_Unwitnessed_사라진_씨앗]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-236_Unwitnessed_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%94%A8%EC%95%97.md "SE-C-Iα-236_Unwitnessed_사라진_씨앗.md")
 

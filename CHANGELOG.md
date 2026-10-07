@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 38 / unit 2 — The Debt Scale `C-IIIβ-015` closed (2026-10-07)** — measured at `f63c49c`: **3 dirty sections**,
+  Combat Record (the resistance row, both debuff rows, the three attack-family rows, the tension phase and the resolution
+  line), M.A.W. Equipment (both appearance lines, the pendant note, the effect and cost lines and the at-limit record
+  row) and Final Observation (the choice blockquote). Closed in one wave plus a line-local fix (16 sites); 7,234 →
+  **7,318 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** and
+  the condition count was unchanged — the resolution line's generic entity-specific management text was replaced by the
+  file's own clause (**Viderehan and Ferrehan only at the plinth, certified Tool protocol, the circle marked after every
+  expansion, and no measurement of any named person**) already carried by its Resolution Condition row — disclosed.
+  Entry 1's residual cleared line-locally (`is logged as ` → `stands on the register as`), residual **1 → 0**;
+  `own_series` already True, and the wave restated the file's own figure in numerals inside a real edit (3 conferrals) —
+  disclosed. Movement at the unit commit: `R-29` 238 / 301; section-clean 272 / 301; residue-free 302 / 302;
+  residue lines 0; archive dirty 44; file-clean 302 / 302. **Batch 38 stands at two of five.**
+
 - **Batch 38 / unit 1 — Unwitnessed `C-Iα-236` closed (2026-10-07)** — measured at `af07182`: **3 dirty sections**,
   Final Observation (the choice blockquote, the choose row and the result row), Combat Record (both action rows, the
   tension phase and the resolution line) and Operational Parameters (the yield row and the work-object line). Closed in
