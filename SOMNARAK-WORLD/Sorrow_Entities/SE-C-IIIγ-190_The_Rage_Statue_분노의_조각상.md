@@ -290,11 +290,11 @@ The statue has never completed the blow. The fissures in its stone widen by a me
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch on the statue, and the file separates them by what the observer does when the fist does not come down: one leaves it where it is and names the wrong exactly, and the other reaches for the arm — reasonably, urgently, and to the holding's advantage.
+> The statue watch offers two endings, and the record draws the line between them by what the observer does when the fist does not come down: one leaves it where it is and names the wrong exactly, and the other reaches for the arm — reasonably, urgently, and to the holding's advantage.
 
 | Leave the fist where it has always been and name the wrong exactly as the list gives it. | Depart from the condition for good reasons — take the arm, force the fist open, correct the record first — as this file shows people doing. |
 |---|---|
-| The wrong is named exactly and the radius contracts; the entry closes with the holding recorded whole. | The arm is taken or the condition departed from; the gauge climbs and the entry closes with the statue no further on than it was. |
+| The wrong is named exactly and the radius contracts; the entry closes with the holding recorded whole. | The arm is taken or the condition departed from; the gauge rises, and the log closes with the statue no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

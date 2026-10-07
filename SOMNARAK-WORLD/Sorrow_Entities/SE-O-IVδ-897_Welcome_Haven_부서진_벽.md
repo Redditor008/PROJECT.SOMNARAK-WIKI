@@ -284,11 +284,11 @@ The finding was never published. It establishes that the structure was built to 
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch on the wall, and the file separates them by what the observer does once the failure has been said out loud: one admits it and promises nothing, and the other reaches for comfort the record cannot support.
+> The border watch on the wall can close in either of two ways, and the file tells the two endings apart by what the observer does once the failure has been said out loud: one admits it and promises nothing, and the other reaches for comfort the record cannot support.
 
 | Admit the wall failed, say it plainly, and promise nobody present that they will be safe. | Improvise something kinder — give the comfort anyway, or promise protection on the facility's behalf, which is how every failure on this file has begun. |
 |---|---|
-| The flames drop and the broken courses stand visible; the failure is named and the entry closes with the wall recorded whole. | It answers with burning fragments; the gauge climbs and the entry closes with the wall no further on than it was. |
+| The flames drop and the broken courses stand visible; the failure is named and the entry closes with the wall recorded whole. | It answers with burning fragments; the gauge rises, and the page closes with the wall no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

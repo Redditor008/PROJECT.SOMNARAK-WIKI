@@ -279,11 +279,11 @@ The Architect works without rest and finishes nothing. Its plans are legible, th
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch on the Architect, and the file separates them by what the observer does with the plans: one records what the structures were for, and the other finishes one — or pulls one down — and calls that a result.
+> The Architect's watch comes to one of two endings, and the file keeps the pair separate by what the observer does with the plans: one records what the structures were for, and the other finishes one — or pulls one down — and calls that a result.
 
 | Do not complete or destroy the structures; document their purpose, and leave the ground as the survey found it. | Improvise something kinder — finish the tower, clear the rubble, tidy the site, and feed Hollow Architect. |
 |---|---|
-| The plans are read and recorded, nothing is built and nothing broken, and the entry closes with the holding's purpose down in writing. | A structure is finished or pulled down; the gauge climbs and the entry closes with the Architect no further on than it was. |
+| The plans are read and recorded, nothing is built and nothing broken, and the entry closes with the holding's purpose down in writing. | A structure is finished or pulled down; the gauge rises, and the survey closes with the Architect no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

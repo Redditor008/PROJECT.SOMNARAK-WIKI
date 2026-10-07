@@ -294,11 +294,11 @@ The collapse schedule names him once. His own file names him twice and disagrees
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch on the Tree, and the file separates them by what the observer does when the worker turns out to be holding two accounts at once: one grounds them and lets both memories stand, and the other picks the truer one — kindly, and to the holding's advantage.
+> A watch on the Tree offers two ways out, and the record decides between them by what the observer does when the worker turns out to be holding two accounts at once: one grounds them and lets both memories stand, and the other picks the truer one — kindly, and to the holding's advantage.
 
 | Ground the worker and permit both memories to remain, exactly as the sheet sets it out. | Depart from the condition for good reasons — settle which account was true, choose the steadier memory — as this file shows people doing. |
 |---|---|
-| The split closes slightly and the roots come clear; both memories stand and the entry closes with the holding recorded whole. | The tree tears further through the worker's thoughts; the gauge climbs and the entry closes with the Wound no further on than it was. |
+| The split closes slightly and the roots come clear; both memories stand and the entry closes with the holding recorded whole. | The tree tears further through the worker's thoughts; the gauge rises, and the entry ends with the Wound no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

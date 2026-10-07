@@ -319,11 +319,11 @@ Entry 5 closes the origin question rather than opening it. The Keeper assigned t
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch on the stone, and the file separates them by what the observer does with blame: one names the duties and refuses the impossible share of it, and the other takes that share on — competently, kindly, and to the stone's advantage.
+> The stone watch ends in one of two ways, and this log keeps them well apart by what the observer does with blame: one names the duties and refuses the impossible share of it, and the other takes that share on — competently, kindly, and to the stone's advantage.
 
 | Acknowledge the duties as the sheet sets them out, and refuse the share of the blame no living worker could carry. | Do the decent thing instead — accept the impossible share, carry it quietly, and feed Screaming Masonry. |
 |---|---|
-| The weight is set down where it belongs and the transcript closes complete, with the holding recorded whole. | The blame is taken up by the worker; the gauge climbs and the entry closes with the stone no further on than it was. |
+| The weight is set down where it belongs and the transcript closes complete, with the holding recorded whole. | The blame is taken up by the worker; the gauge rises; the watch shuts with the stone no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

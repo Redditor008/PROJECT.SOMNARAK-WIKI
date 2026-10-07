@@ -284,11 +284,11 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch on the crossing, and the file separates them by what the observer does with blame: one names the boundary of one person's charge and leaves it standing there, and the other takes the whole weight of it — generously, and to the holding's advantage.
+> The crossing watch resolves in one of two directions, and the record holds the two apart by what the observer does with blame: one names the boundary of one person's charge and leaves it standing there, and the other takes the whole weight of it — generously, and to the holding's advantage.
 
 | Name the limits of one person's responsibility, as written, and leave the boundary standing where it falls. | Improvise something kinder — take the whole weight of it for them, offer absolution, and feed I Alone Crossed. |
 |---|---|
-| The boundary of the charge is named and left standing, and the entry closes with the crossing recorded whole. | The worker takes the whole weight of the failure; the gauge climbs and the entry closes with the crossing no further on than it was. |
+| The boundary of the charge is named and left standing, and the entry closes with the crossing recorded whole. | The worker takes the whole weight of the failure; the gauge goes up, and the file closes with the crossing no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

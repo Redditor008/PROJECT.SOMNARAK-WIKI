@@ -282,11 +282,11 @@ The daughter's account closes with the detail the Keepers consider decisive: whe
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch on the Chain, and the file separates them by what the observer does with the instinct to hold on: one keeps the way open with both hands still, and the other restrains it — out of care, which is how every failure on this file begins.
+> The Chain watch can end in either of two ways, and the register divides them by what the observer does with the instinct to hold on: one keeps the way open with both hands still, and the other restrains it — out of care, which is how every failure on this file begins.
 
 | Do not bind it — leave the route open, stand aside in plain view, and offer the ending that arrives without force or condition. | Restrain it, hold the line, cordon the corridor or take the links in hand. Done out of care, and it feeds the Chain all the same. |
 |---|---|
-| The links slacken and the crawl stops; the sorrow is named and the entry closes with the Chain recorded whole. | The length turns on the worker who held it; the gauge climbs, and the entry closes with the Chain no further on than it was. |
+| The links slacken and the crawl stops; the sorrow is named and the entry closes with the Chain recorded whole. | The length turns on the worker who held it; the gauge rises, and the entry finishes with the Chain no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

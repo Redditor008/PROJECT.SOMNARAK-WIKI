@@ -287,11 +287,11 @@ A lean, damp, deep-water-coloured bird bearing exactly one hundred and forty-fou
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch on the perch, and the file prices them by what the worker does with their own face: one meets the gaze and holds it, and the other is the turn of the head that every instinct in the room asks for.
+> The perch watch has two possible ends, and the record prices them by what the worker does with their own face: one meets the gaze and holds it, and the other is the turn of the head that every instinct in the room asks for.
 
 | Look at the Bird, take the gaze, and hold it for the length of the watch — the eye count kept, the sheet filed before entry, nothing represented that is not so. | Substitute your own judgement, as the record shows people doing: turn the head, work past the perch and file it afterwards, or tell the Bird something that is merely convenient. |
 |---|---|
-| The watch runs its full length, the eyes stay open, the count goes into the day book unchanged, and the entry closes with the holding recorded whole. | The gaze is broken and the room goes tight; the gauge climbs and the entry closes with the holding turned away and the disclosure sheet still unwritten. |
+| The watch runs its full length, the eyes stay open, the count goes into the day book unchanged, and the entry closes with the holding recorded whole. | The gaze is broken and the room goes tight; the gauge climbs and the day book shuts with the holding turned away and the disclosure sheet still unwritten. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

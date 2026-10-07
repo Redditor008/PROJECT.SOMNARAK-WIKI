@@ -280,11 +280,11 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch on the Whisper, and the file separates them by what the observer does with the gap: one records only what arrived, and the other fills the missing message in — helpfully, and to the holding's advantage.
+> A watch on the Whisper can end in either of two ways, and this record splits them by what the observer does with the gap: one records only what arrived, and the other fills the missing message in — helpfully, and to the holding's advantage.
 
 | Capture only what arrived — the fragments as they came, with the gap entered as a gap and nothing invented to close it. | Do the decent thing instead — supply the obvious ending, the likely name, the warning that makes sense, and feed Collapsed Whisper. |
 |---|---|
-| The whisper reforms and the sentence completes; the sorrow is named and the entry closes with the holding recorded whole. | The dream-space goes to red static; the gauge climbs and the entry closes with the Whisper no further on than it was. |
+| The whisper reforms and the sentence completes; the sorrow is named and the entry closes with the holding recorded whole. | The dream-space goes to red static; the gauge rises, and the account finishes with the Whisper no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
