@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Corrosion Dream.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A completed cycle takes the immediate pressure down and does nothing more: the span is not dismantled, dried, or made smaller by any session.
+- A rising gauge, a failed cycle, or one ignored clause in the activation order can set off the behavior this file records under breach, activation, and expansion.
+- Han-Energy off this holding is booked against the exposure it took to earn; a bigger yield would mean specialised crews, longer recovery, or harder containment, and the file says so.
+- Extraction here is a risk event in its own right and is never booked as a bonus for a normal shift.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,16 +85,16 @@
 
 ### Battle Phases
 
-1. **Tension:** The figure is identified by the song and by the proportion of plate to standing water in it, and never by the shape, which changes between appearances; the estimate is taken in quarters on purpose, because a coarse series kept every week has twice shown a change that a fine one taken irregularly would have lost. The song reaches only personnel who have themselves crossed a boundary that broke behind them; the rest of the watch hears nothing, and those who do are required to record that singing occurred and are never asked what was sung. Position and withdrawal are established before anything else is attempted.
-2. **Clash:** The work is naming what was never built. Flerehan lowers the rusted hands and lowers the reading; Ferrehan is staying beside it while the distance is admitted rather than closed; Pugnahan turns the plates to edges and raises it. The one forbidden sentence is any promise that the crossing will be rebuilt, which the facility is not in a position to keep and has made twice.
-3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Do not promise reunion; name both the crossing and the loss** — the span fallen, the far bank unable to hold an abutment, nobody coming to build it, all said in the same sentence, and no undertaking given that the facility is not in a position to keep.
+1. **Tension:** The figure is known by its song and by the plate-to-water ratio, never by its outline, which changes between appearances. The estimate is taken in quarters on purpose — a coarse series kept weekly has twice caught a shift that a fine series taken at random would have lost. The song reaches only people who have crossed a boundary that broke behind them; the rest of the watch hears nothing, and those who do are required to record that singing occurred and are never asked what was sung. Position and withdrawal are established before anything else is attempted.
+2. **Clash:** The work is naming what was never built. Flerehan brings the rusted hands down and the reading with them; Ferrehan stays beside it while the distance is admitted rather than closed; Pugnahan turns plate into edge and raises it. The one sentence nobody may say is a promise that the crossing will be rebuilt — a promise the facility is in no position to keep and has made twice.
+3. **Resolution:** The watch closes on an accounting that gives nothing away — the documented suppression condition: **Do not promise reunion; name both the crossing and the loss**. The span fell, the far bank will not hold an abutment, nobody is coming to build it: all three said in one breath, and no undertaking given that the facility cannot keep.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Composure** and feeding the Sorrow Gauge.
-- Exposure does what the records say it does and leaves a mark that is not measured in gauge: personnel come away having lost the recollection of one thing they meant to do and never did, permanently, and usually without noticing. That loss is entered against the holding and never against the person, and the post-contact sheets are compared by somebody else for exactly that reason.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Corrosion Dream’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- Resistance failure carries the sorrow straight into the worker: **Composure** is broken down and the gauge is fed from it.
+- Exposure does what the records say and leaves a mark the gauge never shows: a worker comes away permanently missing the memory of one thing they meant to do and never did, and usually without noticing. The loss is entered against the holding and never against the person, which is why a second pair of eyes compares the post-contact sheets.
+- Nothing about the set is free: the somatic, psychological, and mnemonic price is set out in the equipment record and collected with every swing.
+- A cycle that fails to resolve fires the breach protocol: the gauge runs to its ceiling, the fail-safes give, and the sorrow comes out through the corridors.
 
 ## Appearance
 **Primary Form:** A dreamlike figure made from rusted bridge plates and dark water. It sings in a voice heard only by people who have crossed a broken boundary.
@@ -172,9 +172,9 @@
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-Appearance : A curved naval hanger with a broad twenty-eight inch single-edged blade showing deep rust pitting, protected by an ornate pierced brass basket hilt lined with sharkskin.
+Appearance : A curved naval hanger with a twenty-eight inch single-edged blade, deeply pitted with rust, under an ornate pierced brass basket hilt lined in sharkskin.
 
-Despite its corroded appearance, the cutting edge is polished to razor sharpness. The cutlass thrives in close-quarters skirmishing, deflecting enemy blows easily with its sturdy basket.
+Corroded as it looks, the edge is polished to a razor. The cutlass is built for close-quarters work, its basket turning enemy blows aside with ease.
 
 **Damage:** Void 7-12
 **Speed:** 3 (Fast)
@@ -218,11 +218,11 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 
 **Cost:** The bearer occasionally forgets a word.
 
-*The stigma is not manufactured. It is given to a Warden who named both the crossing and the loss in the same sentence, and has never been given to one who told it the bridge would be built.*
+*The stigma is not made anywhere. It goes to a Warden who named the crossing and the loss in one sentence, and it has never once gone to one who told the figure the bridge would be built.*
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Corrosion Dream and takes the same thing in the same order: first the names of places the wielder meant to go and did not, then the sense of everybody who cannot follow them, then words — one here and there, and never noticed at the time. The grade describes extraction stability and says nothing about the cost column; on this set the cost is the reason the pieces are issued one rotation at a time.
+Every piece of this set is a fragment of Corrosion Dream, and each takes the same three things in the same order: the names of places the bearer meant to go and never went, then the sense of everyone who cannot follow, then words — one here and there, never noticed at the time. The grade column measures extraction stability and says nothing about the cost column, which is the reason the pieces leave the rack one rotation at a time.
 
 ### Field Use Record
 
@@ -262,7 +262,7 @@ Every piece in this set is a fragment of Corrosion Dream and takes the same thin
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Corrosion Dream (O-IIIγ-915 [VS]) is a Subject-Dream manifestation expressing Void, formed from the dream of a connection that was funded and never built: the span fell, the community crossed the long way round for eleven years, the money raised for the rebuilding was held for seven and returned in full. Held at Zone D, Forge District. Its song is strongest near damaged bridges and gates, and its water fraction is the reading.
+Corrosion Dream (O-IIIγ-915 [VS]) is a Subject-Dream manifestation expressing Void, formed from the dream of a connection that was paid for and never built: the span fell, the community went the long way round for eleven years, and the money raised for the rebuilding was held for seven and returned in full. Held at Zone D, Forge District. Its song comes through strongest near damaged bridges and gates, and the water fraction is the file’s reading.
 
 **Entry 2 — <Works Ledger Return: Nine Proposed, Two Built, Six Refunded>**
 Crossing and span repairs proposed in the Forge District in 4238: nine. Funded, begun, and completed: two. Funded, begun, and abandoned part-built: one. Funded and then cancelled before work started, with the money returned: six. The figure's water fraction stood at a quarter in the first third of the year and at three quarters by the end of it, the rise following each of the six returns within the fortnight. Dream-layer observation throughout shows a complete bridge. Waking observation shows plate and water and nothing spanning anything.
@@ -271,7 +271,7 @@ Crossing and span repairs proposed in the Forge District in 4238: nine. Funded, 
 "I dreamed it the night before, the way you do here, and the bridge in the dream was finished and there was nobody on the other end of it. Awake I told it the span fell and the far bank will not hold an abutment and nobody is coming to build it. I expected that to be cruel. The hands came down. What unsettled me afterwards was realising I have a list of my own like that and that I have never once written any of it down as abandoned, only left it in the drawer where it can keep looking like a plan."
 
 **Entry 4 — <Containment Notice>**
-Management: Do not promise reunion; name both the crossing and the loss. Work response — Flerehan: Sings a warmer verse and lowers its rusted hands. (Decrease); Pugnahan: The bridge plates twist into defensive edges. (Increase); Viderehan: Reveals the failed crossing and those left behind. (Stable); Ferrehan: Keeps singing until the worker can remain with the distance. (Decrease). Personnel report hope before the sense of abandonment.
+Management: Do not promise reunion; name both the crossing and the loss. Work response — Flerehan: sings a warmer verse and lowers the rusted hands. (Decrease); Pugnahan: the bridge plates twist into defensive edges. (Increase); Viderehan: opens the failed crossing and the people left behind. (Stable); Ferrehan: keeps singing until the worker can stay with the distance. (Decrease). Hope is reported before the sense of abandonment.
 
 **Entry 5 — <Archive Note: One Repair a Year, Failures Published>**
 This facility now funds and attempts one crossing repair in the Forge District each year, selected without regard to likelihood of success, and publishes the outcome including the cost of the failures. Three of the last five failed. The objection recorded at the time of adoption was that this is a deliberate waste of money on works the engineers expect to lose, and the objection is correct and has never been withdrawn. What the measure buys is a ledger in which repairs are recorded as attempted rather than as returned, and the water fraction has not exceeded a half in any year since. The archive adds that the community asked for one thing only, that the money be recorded as having been raised, and that nobody granted it at the time; the published ledger is the nearest thing to granting it that exists.
@@ -287,7 +287,7 @@ This facility now funds and attempts one crossing repair in the Forge District e
 
 ## 감각 묘사 (Flavor Text)
 
-Rusted plates rise out of the dream and form a span over black water. You cross, but the far shore remains empty. The Bridge sings as if the crossing were enough. You understand that the song is not about arrival. It is about all the people who kept walking after no one answered.
+Rusted plates rise out of the dream and build a span over black water. You cross and the far shore is still empty. The Bridge sings as if the crossing were the point, and the song is not about arriving — it is about everyone who kept walking after nobody answered.
 
 
 
@@ -308,7 +308,7 @@ Corrosion Dream is filed with the three Forge District records of works that wer
 
 ### Entity Interaction Record
 
-It is filed with the Forge District records of works not carried out. The relationships below are what the archive will support. They are not alliances; each concerns a connection that was planned and not made, and with the Sunken Bridge in particular the water fraction rises in both figures at once.
+It is shelved with the Forge District records of works not carried out. The relationships below are what the archive will support, and none of them is an alliance: each concerns a connection that was planned and not made, and with the Sunken Bridge in particular the water fraction climbs in both figures at once.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -320,17 +320,17 @@ It is filed with the Forge District records of works not carried out. The relati
 
 ## 이야기 (Narratio) — The Tale
 
-The bridge collapsed, and the survivors dreamed of rebuilding it, and the dream, sustained across years, took shape as a bridge — but the shape, denied the physical rebuilding, rusted before completion.
+The bridge fell, and the survivors dreamed of rebuilding it, and the dream, held across years, took the shape of a bridge — but a shape with no physical rebuilding behind it, rusting before it was ever finished.
 
-The bridge was a crossing — a span between two communities, a structure that connected districts, the physical link that made the two sides one. The bridge collapsed — Han-surge, structural failure, the crossing destroyed. The two communities, separated by the lost bridge, were cut off from each other, and the separation, sustained over months and years, produced a longing — the accumulated desire to rebuild, to reconnect, to restore the crossing that had made them one.
+The bridge was a crossing — a span between two communities, the structure that made two districts into one place. Then it fell — surge, structural failure, the crossing gone. The two communities, cut off from each other, were separated for months and then years, and the separation bred a longing: the accumulated wish to rebuild, to reconnect, to put back the crossing that had made them one.
 
-The community dreamed. Not sleeping dreams — waking dreams, the shared, sustained imagining of the bridge rebuilt. The survivors, on both sides, held the image of the new bridge in their minds — the design, the structure, the crossing restored. The dreaming was a collaboration — two communities, separated, each holding half the dream, each sustaining, in the imagination, the bridge that the reality could not yet provide.
+The community dreamed. Not asleep — awake, the shared and sustained imagining of the bridge rebuilt. Survivors on both sides held the image of the new bridge in mind: the design, the structure, the crossing restored. The dreaming was a collaboration, two separated communities each carrying half of it and each keeping, in imagination, the bridge reality had not yet provided.
 
-The dream took shape. The accumulated imagining — sustained, shared, held across years by communities that could not physically rebuild — reached a density that crossed from imagination into form. Corrosion Dream is Subject-Dream: the figure of the dreamed rebuilding, given shape by the sustained desire of the separated communities. But the shape, denied the physical construction (the resources, the labor, the city's permission), could not complete. The Bridge rusted — the dream-form, unsupported by physical reality, corroding the way all unrealized dreams corrode, the imagined structure oxidizing because the imagining, however sustained, could not substitute for the actual building.
+The dream took form. The accumulated imagining, shared across years by communities with no way to build, reached a density that crossed out of imagination and into a shape. Corrosion Dream is Subject-Dream: the dreamed rebuilding given a body by the sustained want of the separated. But the shape, refused the physical construction — the resources, the labour, the city's permission — could not finish. The Bridge rusted — the dream-form, unsupported by physical reality, corroding the way all unrealized dreams corrode, the imagined structure oxidizing because the imagining, however sustained, could not substitute for the actual building.
 
-Those who come near the Rusted Bridge see the dreamed crossing — the form the communities held, rusted, incomplete, the bridge that exists in the shared imagination and that does not, cannot, exist in the physical world, corroding because the desire that built it was not matched by the means to complete it.
+Come near the Rusted Bridge and what shows is the dreamed crossing: the form the communities held, rusted, unfinished, the bridge that exists in shared imagining and cannot exist in the physical world, corroding because the desire that built it was never matched by the means to complete it.
 
-Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding — the sustained imagining, the communities that held the form, the bridge that took shape in desire and rusted because desire, in Somnarak, is not enough to build.
+Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding — the long imagining, the communities that held the form, the bridge that took shape out of desire and rusted because desire, in Somnarak, does not build anything.
 ## 증언 (Testimonium) — The Testimony
 
 > *“The community dreamed of rebuilding. The dream took shape but rusted before completion.”* — Keeper, Archive
@@ -350,13 +350,13 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding �
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
+- The Work Type responses are set out in the Behavior section of this file.
 - Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Escalation response is carried under Breach Behavior and Activation Behavior.
 **Observation Notes:**
 - See Origin section for formation and event details.
 - See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
+- Extraction risk is carried in the M.A.W. Equipment section.
 **Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
 **Faction Involvement:** SED, on the D-territory works ledger the annual repair is recorded against · UCD, on the Fray-adjacent reach of the Forge District, where the figure walks and does not hold a bay.
 **Originator:** The subscribers of the old crossing, named in the bound volume described in the Origin section. The archive treats the subscription list and the return receipts as one document and does not hold either alone.
@@ -370,15 +370,15 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding �
 
 ### Heard Only by Some
 
-It sings in a voice that reaches only those who have crossed a boundary that broke behind them, which means most personnel hear nothing at all and the watch depends on the few who do. Those Wardens are not required to describe what is sung. They are required to record that singing occurred, and the file notes that the distinction was negotiated rather than imposed.
+It sings in a voice that only reaches people who have crossed a boundary that broke behind them, which means most of the roster hears nothing and the watch leans on the few who do. Those Wardens are not asked to describe the song. They are asked to record that singing happened, and the file notes that this distinction was negotiated rather than imposed.
 
 ### Rust and Dark Water
 
-The figure is built from corroded bridge plate and standing water, and the proportions shift between appearances, sometimes more metal and sometimes more water. The proportion is estimated and logged. The estimates are coarse and the file says so, observing that a coarse series kept consistently has twice shown a change that a finer one taken irregularly would have missed.
+The figure is made of corroded bridge plate and standing water, and the proportions shift between appearances — sometimes more metal, sometimes more water. The proportion is estimated and logged; the estimates are coarse and the file admits it, observing that a coarse series kept consistently has twice shown a change a finer one taken irregularly would have missed.
 
 ### Dreams Before Waking
 
-Encounters occur in sleep before they occur awake, reliably enough that the dream report functions as a warning, and the holding's rota is adjusted on receipt of one. The adjustment is automatic and requires no authorisation. The file records that making it discretionary was tried and that the discretion was exercised against the warning once.
+Encounters happen in sleep before they happen awake, reliably enough that a dream report works as a warning, and the rota is adjusted the moment one comes in. The adjustment is automatic and needs no authorisation. The file records that making it discretionary was tried once, and that the discretion was exercised against the warning.
 
 ### A Bridge Rebuilt Only in Dreaming
 
