@@ -88,7 +88,7 @@
 
 1. **Tension:** The holding is established first by its four markers — the hundred and forty-four open eyes, the damp deep-water plumage, the cold-rain smell, and the total absence of any voice, which is what tells it apart from the other two Birds. Only then is the approach confirmed and the positions taken.
 2. **Clash:** The four Types are worked with the kit in hand while the perch answers along the rows of its combat table; the watch reads the gauge afterwards and closes or escalates on what it finds.
-3. **Resolution:** The watch is finished, the eye count holds, and each worker has looked at the Bird rather than around it. The suppression condition is registered at the head of the file: **look at the Bird and accept its gaze** — the clause that costs crews the most, because everything in the room rewards looking away, and looking away is permitted but is not the resolution.
+3. **Resolution:** The watch is finished, the eye count holds, and each worker has looked at the Bird rather than around it. The head of the file carries the suppression condition: **look at the Bird and accept its gaze** — the clause that costs crews the most, because everything in the room rewards looking away, and looking away is permitted but is not the resolution.
 
 ### Consequences
 
