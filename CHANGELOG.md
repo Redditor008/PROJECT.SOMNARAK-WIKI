@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 40 / unit 5 — Aphonia `N-IIβ-170` closed (2026-10-07)** — measured live at `c306f4f`: **1 dirty section**,
+  Final Observation (0.103 — the choice blockquote, the choose row and the result row), with `condition` False and one
+  residual line. **Closed in a single wave** (5 sites): the resolution line's clause re-registered in the form the
+  register reads — `documented condition:` → `documented suppression condition:`, keeping the file's own text (**Say,
+  “I hear you,” and remain present**) — condition **269 → 270 / 301** — the three Final Observation lines re-authored,
+  and the entry residual cleared line-locally (`is logged as ` → `stands on the register as `), residual **1 → 0**.
+  7,422 → **7,457 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True**; `own_series` already True. Movement at the unit commit: `R-29` 253 / 301; section-clean 287 / 301;
+  residue-free 302 / 302; residue lines 0; archive dirty 14; file-clean 302 / 302. **Batch 40 stands at
+  five of ten.**
+
 - **Batch 40 / unit 4 — The Inherited Debt `N-IVβ-019` closed (2026-10-07)** — measured live at `c0f7274`: **1 dirty
   section**, Final Observation (0.105 — the choice blockquote, the choose row and the result row), plus one residual line.
   **Closed in a single wave** (4 sites); 9,344 → **9,376 words**; `tpl.py` residue 0; `sectfile.py` ends at **0
