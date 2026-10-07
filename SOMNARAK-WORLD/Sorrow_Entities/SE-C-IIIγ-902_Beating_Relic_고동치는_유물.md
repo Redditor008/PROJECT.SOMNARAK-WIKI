@@ -89,7 +89,7 @@
 
 1. **Tension:** Identification first — Beating Relic is recognised by the independent beat, audible through the plinth before contact; the warmth exceeding the room; the brightening veins; and the rate rising with the handler's anger rather than with their exertion — then the approach is set and the positions are taken.
 2. **Clash:** Four turns from the plinth, observation and endurance only. Handler rate is read aloud by the second Warden at each turn, and the relic's own tempo is counted separately and by somebody who is not holding it.
-3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the grievance acknowledged in a form that can be put in front of it. Nothing else has ever lowered the tempo for longer than a cycle.
+3. **Resolution:** The cycle ends on containment, on management, on withdrawal, or on the condition the bay's standing table carries: the grievance acknowledged in a form that can be put in front of it. Nothing else has ever lowered the tempo for longer than a cycle.
 
 ### Consequences
 
@@ -139,7 +139,7 @@ Beating Relic was forged in the aftermath of the Battle Pits riots. A Warden nam
 
 ### Operational Work Notes
 
-Beating Relic is a Fragment (III) Object of Major (γ) potency, Object-Body manifestation, Grudge expression, I-Relic tool class, at SECTOR-C-902. Flerehan and Pugnahan are unavailable to an Object. The Grudge pressure and the gauge decrease under Viderehan and Ferrehan are equally real, and the body register is the whole channel: measure the handler before you interpret the entity.
+Beating Relic is an Object of Fragment (III) coherence — Object-Body manifestation, Grudge expression, I-Relic tool class — at SECTOR-C-902, at Major (γ) potency. Flerehan and Pugnahan are unavailable to an Object. The Grudge pressure and the gauge decrease under Viderehan and Ferrehan are equally real, and the body register is the whole channel: measure the handler before you interpret the entity.
 
 ## Activation Behavior
 
@@ -229,7 +229,7 @@ Escalation here is transfer. The relic does not leave the plinth, has never left
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity; the token is warm at all times and does not beat.
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
-*The Token is not manufactured and cannot be requisitioned. It has been conferred three times, in each case on a Warden who released the relic at the protocol time while in the middle of making a point.*
+*The Token is neither manufactured nor requisitioned. It has gone out three times, in each case to a Warden who released the relic at the protocol time while in the middle of making a point.*
 
 ### M.A.W. Use Notes
 
@@ -352,7 +352,7 @@ The Relic does not speak. It does not move. It beats. And when someone angry hol
 
 ### The Beat
 
-It pulses in the hand and quickens when the person holding it is angry, which makes it the only object in the wing that measures its handler. Handling is logged with the handler's name and the observed rate, and the pairing is the point: the figure describes the Warden, not the relic. Wardens are told this before their first handling rather than discovering it from the log, and the file notes that the briefing was amended to say so after a Warden read back their own series and asked what it meant.
+It pulses in the hand and quickens when the person holding it is angry, which makes it the only object in the wing that measures its handler. Handling is logged with the handler's name and the observed rate, and the pairing is the point: the figure describes the Warden, not the relic. Wardens are told this before their first handling rather than discovering it from the log, and the file records that the briefing was amended to say so, after a Warden read back their own series and asked the bay what it meant.
 
 ### Goru
 
@@ -404,9 +404,9 @@ The review closed the following year for want of evidence. Its closing note reco
 
 The page stayed on the plinth rota. It is placed in front of the stone roughly once a watch-cycle and is the facility's only effective management measure for this holding.
 
-The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the wing archivist. It holds that the facility uses the page operationally, in the open, as a containment measure, and so cannot coherently maintain that its content is security material; that the figures are municipal and were published, so the exemption protects a secret that does not exist and withholds a document that was never the facility's to begin with; and that the review it closed was the last forum in which the grievance this entity is made of could have been acknowledged by anybody other than a Warden holding a sheet of paper up to a stone.
+The bay's senior Warden has raised that objection at every annual review, and the wing archivist has seconded it. It holds that the facility uses the page operationally, in the open, as a containment measure, and so cannot coherently maintain that its content is security material; that the figures are municipal and were published, so the exemption protects a secret that does not exist and withholds a document that was never the facility's to begin with; and that the review it closed was the last forum in which the grievance this entity is made of could have been acknowledged by anybody other than a Warden holding a sheet of paper up to a stone.
 
-The minute records the objection as **correct in all three parts**. It records that a redacted release — the table and the arithmetic, with the containment annotations removed, offered to the successor body as a historical document — was drafted in the eleventh year, costed at an afternoon of the archivist's time, and has not been laid. And it records the sentence the archivist asked to have entered verbatim, which is now the only line on the reverse of the page: *we are the only ones who will show him the figures, and we only do it to make him quieter.*
+The minute holds the objection sound on all three of its grounds, and records that a redacted release — the table and the arithmetic, with the containment annotations removed, offered to the successor body as a historical document — was drafted in the eleventh year, costed at an afternoon of the archivist's time, and never laid. The sentence the archivist asked to have entered verbatim is now the only line on the reverse of the page: *we are the only ones who will show him the figures, and we only do it to make him quieter.*
 
 ## Trivia
 
