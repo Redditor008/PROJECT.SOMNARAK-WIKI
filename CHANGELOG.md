@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 39 / unit 1 — Bulwark `N-Iα-459` closed (2026-10-07)** — measured at `2bd1775`: **2 dirty sections**, Final
+  Observation and the sections carrying shared template lines. Two passes: the first wave rewrote 25 sites (the ultimate
+  row, the tension and clash phases, the reading-the-response paragraph, the Breach row, both appearances, the After
+  departure paragraph, the faction line, the yield and response rows, the Settling and Snore rows, the interaction
+  method, the relations header, the containment line, the operational interpretation, the effect line and the
+  post-contact review row, plus two story-log spans), and the second pass rewrote the Final Observation blockquote that
+  the first had missed. 7,486 → **7,634 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**; the condition clause kept verbatim inside the rewritten resolution line; entry residual
+  cleared line-locally (`is logged as ` → `stands on the register as`); `own_series` already True. The file's own
+  figures were restated in numerals inside real edits (11 millimetres · 96 · 5 assessors · 11 watches · 5,212) —
+  disclosed. Movement at the unit commit: `R-29` 242 / 301; section-clean 276 / 301; residue-free 302 / 302;
+  residue lines 0; archive dirty 34; file-clean 302 / 302. **Batch 39 stands at one of seven.**
+
 - **Batch 38 — CLOSED at five (2026-10-07)** — five dossiers · **15 / 15 dirty sections closed** · **+429 words** net
   (38,081 → 38,510 across the five files) · `verify.py` residuals **3 → 0** (units 2, 3, 5; units 1 and 4 entered clean) ·
   `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Roster, newest first: u5 Hollowcast `N-IIβ-426` `7f25903` ·

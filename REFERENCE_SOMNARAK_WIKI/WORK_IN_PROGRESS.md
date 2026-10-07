@@ -2653,7 +2653,17 @@ restated in numerals inside real edits (5 grants · 3 of the 5 on leave · 4 ass
 against 157). Movement: `R-29` 237 / 301; section-clean 271 / 301; archive dirty 47; file-clean 302 / 302.
 **Batch 38 stands at one of five.**
 
+**Batch 39, unit 1: Bulwark `N-Iα-459` closed.** Measured at `2bd1775`: **2 dirty sections** — Final Observation and the
+record sections carrying shared template lines — **closed in two passes** (first wave 25 sites; second pass rewrote the
+Final Observation blockquote the first had missed); 7,486 → **7,634 words**; `tpl.py` residue 0; `sectfile.py`
+**0 section(s) over 0.05**; `wikistd.py` meets **True**, condition clause kept verbatim. Disclosed: residual cleared
+line-locally; `own_series` already True; the file's own figures restated in numerals inside real edits (11 millimetres ·
+96 · 5 assessors · 11 watches · 5,212). Movement: `R-29` 242 / 301; section-clean 276 / 301; archive dirty 34;
+file-clean 302 / 302. **Batch 39 stands at one of seven.**
+
 **Batch 39 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-Iα-459 Bulwark 잠든 벽 — `8010f3f` — PUSH VERIFIED — [[SE-N-Iα-459_Bulwark_잠든_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-459_Bulwark_%EC%9E%A0%EB%93%A0_%EB%B2%BD.md "SE-N-Iα-459_Bulwark_잠든_벽.md")
 
 **Batch 38 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
