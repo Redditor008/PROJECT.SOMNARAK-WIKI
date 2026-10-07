@@ -41,7 +41,7 @@
 - The fury is phantasmal and contained within the Forge District rather than by any fitting.
 - Work reduces its presence for a shift. It reforms at the same intensity, and no cycle has diminished it.
 - The margin is four conditions. Escalation presents as the fury becoming briefly visible rather than as any increase in force.
-- Structural pressure registers in the district fittings; they are inspected on the same schedule as the gauge.
+- The district's fittings carry the structural pressure, and they are inspected on the gauge's own schedule.
 - Recovery of the implement is a separate authorization.
 
 ## Combat Record
@@ -86,14 +86,14 @@
 
 ### Battle Phases
 
-1. **Tension:** Identification first, and it is the mark that identifies: the tear-shaped figure that burns, leaves a brief crimson mark and no moisture whatever. Several phantasmal records appear in Zone D and none of the others leave a mark. Positions are then taken around the roster rather than around the room — every appearance is recorded against the people present, because attendance is what predicts it.
+1. **Tension:** Identify first, and let the mark do it: the tear-shaped figure burns and leaves a brief crimson trace with no moisture in it at all. Other phantasmal records appear in Zone D and none of them marks anything. Positions are then taken around the roster, not the room — each appearance is logged against the people present, since presence is the predictor.
 2. **Clash:** Flerahan carries the session and Ferrehan stands beside it; Pugnahan is entered in the log as a way of failing rather than a way of working, since confrontation feeds the entity the anger it is made of. The worker weeps if they can and stays near it if they cannot, and nobody present steadies anybody — the file's own reading is that a hand on the shoulder moves the counter down further than an order does, because it is kinder and it still stopped the crying.
-3. **Resolution:** The session closes when the weeping has run to its end and nobody has intervened — no calming, no thanks for holding it together, no kind word that ends the crying early. The condition on the record is **Permit tears and name the loss; do not suppress the anger**; a shift that ends with somebody comforted has not closed, it has been interrupted, and it is entered as an interruption.
+3. **Resolution:** The session closes only once the weeping has finished on its own and no one stepped in — not to calm, not to thank anyone for holding it together, not with a kind word that ends the crying early. The condition on the record is **Permit tears and name the loss; do not suppress the anger**; a shift that ends with somebody comforted did not close; it was interrupted, and it goes into the record as an interruption.
 
 ### Consequences
 
 - A worker who fights the grief becomes the conduit: **Resilience** goes at the point they hold it in, and what they were containing is entered back into the gauge — not as a wound they took, but as the denial they performed.
-- The effect does not intensify with duration. It intensifies with interruption. Every instance of a person being stopped mid-grief in the Forge District moves the counter down one, whether the stopping was an order, a kindness, or a hand on the shoulder that meant enough now.
+- Duration does not intensify this effect; interruption does. Every person stopped mid-grief anywhere in the Forge District takes the counter down one, and it does not matter whether the stopping was an order, a kindness, or a hand on the shoulder.
 - The fang, the plate and the ember are each made from a tear that was not permitted to fall, and the operator keeps that denial after the shift. The recorded cost is not rage: it is that the operator can no longer cry in front of anybody, including in circumstances where everybody else does.
 - Left unresolved the sorrow does not disperse; it stays at the level the last interruption set and waits. The archive notes that the entity has never escalated during a shift in which somebody wept uninterrupted, including shifts where the weeping went on a long time and work stopped.
 
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-The four responses divide two and two and the division is the whole entity. Flerehan makes the figure clearer and less hostile; Ferrehan lets a worker remain near it without composing themselves. Both lower the reading and both require the weeping to be allowed to finish. Viderehan shows the loss that produced the tear and holds the gauge flat. Pugnahan is the failure mode — it burns on borrowed fury, and every recorded deployment raised the reading. Swallowed Fury is filed as a Subject with a Subject-Phantasmal manifestation at Zone D in the Forge District, and nothing about another denied-feeling record transfers. A flat gauge is not a safe session either: what this holding counts is neither force nor duration but interruptions, and the counter runs down on them.
+The responses split two and two, and the split is the entity. Flerehan sharpens the figure and takes the hostility down; Ferrehan lets a worker stay beside it without pulling themselves together. Both bring the reading down, and both need the weeping to run out on its own. Viderehan shows the loss behind the tear and keeps the gauge flat. Pugnahan is the failure: it burns on borrowed fury and has lifted the reading on every deployment recorded. The filing is a Subject with a Subject-Phantasmal manifestation at Zone D in the Forge District; nothing from another denied-feeling record carries over. A flat gauge is not a safe session either: what this holding counts is neither force nor duration but interruptions, and the counter runs down on them.
 
 **Reading the response:** A falling reading under Flerehan means the worker wept and was left to it; the same fall under Ferrehan means they stayed near the figure without managing themselves. The reading rises when somebody is calmed, steadied, or thanked for holding it together, and it rises fastest when the person doing the calming means well — the file's own finding, and the reason the handling notes spend more words on kindness than on force.
 ## Breach Behavior
@@ -222,11 +222,11 @@ The four responses divide two and two and the division is the whole entity. Fler
 
 **Cost:** The wearer loses the ability to hide their grief.
 
-*The ember is not manufactured and cannot be requisitioned. Swallowed Fury gives one to a worker who cried in front of it and did not apologise afterwards; it has never given one to a worker who held it in until the session closed. Three are in the district, and the file records which shift each was given after.*
+*Nothing makes the ember and nothing requisitions it. It is given to a worker who cried in front of the holding and did not apologise afterwards; nobody who held it in until the session closed has ever received one. Three are in the district, and the file records which shift each was given after.*
 
 ### M.A.W. Use Notes
 
-Each piece extends the holding rather than serving as equipment against it, and the condition running through the set is that the bearer does not suppress themselves. In the hands of somebody who weeps when they need to, the fang and the plate hold to grade. In the hands of somebody who does not, the cost scales and the Grudge in them becomes active — heat under the breastbone and a temper the bearer cannot source — while the ember inverts the whole arrangement by being given rather than issued.
+Every piece in the set is an extension of the holding, not equipment raised against it, and the one condition is that whoever carries it does not suppress themselves. A bearer who weeps when they need to gets the fang and the plate at grade. A bearer who does not pays more and goes Grudge-active — heat under the breastbone, a temper with no source — while the ember reverses the arrangement by being given instead of issued.
 
 ### Field Use Record
 
@@ -265,7 +265,7 @@ Each piece extends the holding rather than serving as equipment against it, and 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Containment file for C-Iα-683 [GS], the holding called Swallowed Fury: a Subject with a Subject-Phantasmal manifestation of Grudge, formed from a tear that was erased before it could fall, held at Zone D in the Forge District. It does not track grief; it tracks interruptions, and it appears near whoever most recently told somebody to stop.
+Containment file for C-Iα-683 [GS], Swallowed Fury: a Subject carrying a Subject-Phantasmal manifestation of Grudge. It formed from a tear wiped away before it could fall, and lies at Zone D in the Forge District. Grief is not what draws it; the interruption is, and it turns up near whoever last told somebody to stop.
 
 **Entry 2 — <Forge District Appearance Log, Against Attendance>**
 Sixty-one appearances logged over two years. Correlation with location: none; it has been seen in every bay including the ones that were empty. Correlation with time of day: none. Correlation with an instruction to compose oneself issued in the preceding four hours: fifty-four of sixty-one, and of the remaining seven, five followed a shift in which a bereaved worker was sent home early rather than allowed to stay. The log's compiler added one line at the end: the entity is not tracking grief. It is tracking us.
@@ -304,14 +304,14 @@ A red spark hangs in the air where a tear should have fallen. It trembles, burns
 
 ### Interaction Pattern
 
-Three records are filed alongside this one because each is made of feeling that was put somewhere it could not come out, and the archive pairs them by that subject rather than by any observed contact. None of the three is an ally or an enemy, and no co-presence has been logged with both holdings' readings attached except where a row says otherwise. What is measured here is interruptions: appearances per hour against the number of people somebody steadied.
+Three records sit beside this one because each is made of a feeling that was put where it could not come out; the archive shelves them on that subject and not on any contact observed. The archive holds none of them as ally or enemy, and no co-presence is logged with both readings attached unless a row says so. What is measured here is interruptions: appearances per hour against the number of people somebody steadied.
 
 **Interaction method:** Alone first, then together, and in both cases the team roster is part of the measurement. In shared conditions record appearances per hour, whether the figure burned brighter, how long it remained visible, and every intervention made by personnel on each other — the last is the variable and is routinely left out of first drafts.
 
 
 ### Entity Interaction Record
 
-The Forge District records mostly come out of the same decade of shift orders, and these three are the ones whose material can arrive in the same bay. None of the three is an ally or an enemy; the pairing is a shared subject, and in proximity each makes the others more likely to appear during a handover.
+Most Forge District records come out of the same decade of shift orders; these three are the ones whose material can land in the same bay. They are held as a shared subject rather than as allies or enemies, and near each other each is likelier to appear at a handover.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -331,9 +331,9 @@ The worker obeyed. The tear that had been forming — the one that would have fa
 
 But the anger stayed. The grief the tear would have carried did not vanish with the tear. It turned — the way grief turns when it is denied its expression, the way sorrow turns when the vehicle meant to carry it is ordered away. The grief became fury. The worker, composed, productive, tearless, carried inside him a rage that the suppressed tear had been meant to release — and the rage, denied the tear's gentle exit, found no exit at all, and accumulated, and hardened, and became the Swallowed Fury.
 
-Swallowed Fury is Subject-Phantasmal, Grudge-element: the figure of a tear erased before it could fall, carrying the fury of grief denied before it became visible. It is the rage that the suppressed tear would have prevented — the specific anger of a person ordered not to feel, whose feeling, denied its natural expression, turned to fury.
+Swallowed Fury is Subject-Phantasmal, element Grudge: a tear erased before it could fall, carrying the fury of a grief denied before anyone could see it. It is the rage the suppressed tear would have prevented — a person told not to feel, whose feeling, given no way out, became fury.
 
-Those who come near the Swallowed Fury feel the fury of denied grief — the specific rage of sorrow not allowed to weep, that obeyed, and turned, in the obeying, to anger, because grief denied does not dissolve. It ignites.
+Near the holding, the fury of denied grief is what comes up: sorrow that was not allowed to weep, that obeyed, and turned to anger in the obeying — because a grief denied does not dissolve. It ignites.
 
 Some sorrows weep. Swallowed Fury rages — for the tear ordered away and the fury it became.
 ## 증언 (Testimonium) — The Testimony
