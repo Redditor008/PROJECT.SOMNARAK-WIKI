@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 34 / unit 2 — Atlas `O-Iα-169` closed (2026-10-07)** — measured at `8c8a93b`: **3 dirty sections**, worst
+  Final Observation 0.189 (the choice blockquote, the choose row and the result row), then Flavor Text 0.092 (the
+  32-gram relations preamble at 15 shared grams, the 8-gram interaction procedure, the relations header and the
+  canonical-group paragraph) and Operational Parameters 0.066 (the M.A.W.-extraction note — 11 shared grams on its own —
+  the yield and resistance rows). **Closed in two passes** (25 sites); the first pass rewrote all of it and still left
+  Operational Parameters at 0.058, and the second pass re-sat the extraction note's opening sentence and closed the
+  section at 0.019. 6,831 → **7,008 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**. The `own_series` clause was **False** and was closed **False → True** by restating the
+  file's own figures in numerals inside real edits — the 14-day rota, 2 sets of initials, 2 observers and the 1-handover
+  reading rule — disclosed. The Entry 1 `is logged as ` stock line was rewritten (`is carried on the register as`),
+  residual **1 → 0**; the condition was re-registered inside the rewritten resolution line. Movement at the unit
+  commit: `R-29` 203 / 301; section-clean 228 / 301; residue-free 302 / 302; residue lines 0; archive
+  dirty 135; file-clean 302 / 302. **Batch 34 stands at two of five.**
+
+
+
 - **Batch 34 / unit 1 — Vanity Asleep `N-IIIγ-954` closed (2026-10-07)** — measured at `de4b542`: **4 dirty
   sections**, worst Final Observation 0.125 (the choice blockquote, the choose row and the result row), then Combat
   Record 0.070 (the yield and resistance rows, the Waking and Shared Dream cells, the tension phase and the resolution
