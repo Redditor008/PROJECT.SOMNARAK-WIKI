@@ -1719,7 +1719,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 **Batch 33, unit 10: Kind Healer's Shadow `N-IIβ-280` closed.** Measured at `1006b2d`: **3 dirty sections**, worst
 Final Observation 0.153, then Combat Record 0.057 and Flavor Text 0.051 — **closed in two passes** (23 sites); the first
 left Final Observation at 0.054 (the batch's repeated `Two ways to close a watch on the` opener), and the second closed
-it by rewriting the blockquote and the result row. 6,763 → **6,768 words**;
+it by rewriting the blockquote and the result row. 6,571 → **6,768 words**;
 `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: `own_series`
 **False → True** by restating the file's own figures in numerals inside real edits (2 other dark-formed holdings, 1-hour
 log, 14-day check, 1-cycle rule); the tension-phase splice rebuilt; the Entry 1 `is logged as ` line rewritten —

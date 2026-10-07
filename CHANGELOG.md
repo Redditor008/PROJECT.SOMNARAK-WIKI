@@ -15,7 +15,7 @@ This file records notable changes to the public Somnarak Wiki.
   method, the canonical-contact paragraph and the relations header). **Closed in two passes** (23 sites); the first
   pass left Final Observation at 0.054 because the batch's repeated `Two ways to close a watch on the` opener had begun
   minting shared 8-grams across the units, and the second rewrote the blockquote and the result row to close it.
-  6,763 → **6,768 words**; `tpl.py` residue 0; `sectfile.py` ends at
+  6,571 → **6,768 words**; `tpl.py` residue 0; `sectfile.py` ends at
   **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause was **False** and was closed
   **False → True** by restating the file's own figures in numerals inside real edits — 2 other dark-formed holdings, the
   1-hour depletion log, the 14-day check and the 1-cycle observation rule — disclosed. The Entry 1 `is logged as ` stock
