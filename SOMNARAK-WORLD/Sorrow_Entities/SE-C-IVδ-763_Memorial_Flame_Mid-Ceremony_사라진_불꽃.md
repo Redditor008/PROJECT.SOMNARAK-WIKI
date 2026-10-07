@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Clarity** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting as a manifestation, expansion inside its own boundary, and rapid escalation.
+- A worker who breaks under this pressure does not do it loudly. The Sorrow Gauge climbs while **Clarity** thins into a psychological Fracture, and the log records the two movements as one dual failure because nothing in the room separates them.
+- Stay near the cold and the vigil’s unfinished grief does what the ceremony never did: it moves in with its detail attached — a particular absence, habits, a voice — bringing cognitive erosion, somatic distortion and environmental taint on a worker who cannot say which of the feelings were ever theirs.
+- A M.A.W. carried here pays a resonance toll of its own: the unspent grief runs backward along the weapon into the bearer, and the price it extracts is the one entered in the armory ledger rather than anything a briefing can describe in advance.
+- If resolution fails, the ceremony resumes without an end: the entry sharpens into a manifestation, expands inside the holding’s own boundary, and escalates on the unfinished vigil’s terms — each failure adding another mourner to a rite that has not closed since the night it was cut short.
 
 ## Appearance
 **Physical Form:** An empty vault containing the absence of a flame. The room is warm around a dark shape where fire should be.
