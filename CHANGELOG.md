@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 40 / unit 9 — Neglect Learned to Listen `N-IIβ-270` closed (2026-10-07)** — measured live at `d30ab54`: **1 dirty
+  section**, Final Observation (0.078 — the choice blockquote, the choose row and the result row), plus one residual
+  line. **Closed in a single wave** (4 sites); 7,609 → **7,633 words**; `tpl.py` residue 0; `sectfile.py` ends at **0
+  section(s) over 0.05**; `wikistd.py` meets **True**; condition held; the entry residual cleared line-locally
+  (`is logged as ` → `stands on the register as `), residual **1 → 0**; `own_series` already True. Movement at the unit
+  commit: `R-29` 257 / 301; section-clean 291 / 301; residue-free 302 / 302; residue lines 0; archive dirty
+  10; file-clean 302 / 302. **Batch 40 stands at nine of ten.**
+
 - **Batch 40 / unit 8 — Miscast `C-Iα-779` closed (2026-10-07)** — measured live at `3016432`: **1 dirty section**,
   Final Observation (0.080 — the choice blockquote, the choose row and the result row). **Closed in a single wave**
   (3 sites); 7,519 → **7,533 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py`
