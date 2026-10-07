@@ -88,14 +88,14 @@
 
 1. **Tension:** Identification first — 2 or 3 unhurried words of comfort from just behind the shoulder, warmth like breath, and nobody standing there. The team confirms the approach by watching what the square is doing rather than what the voice says: a return arrives only for an act nobody was rostered to perform, and the count book is consulted before position is taken.
 2. **Clash:** There is nothing to engage. Viderehan counts returns and transcribes them; Ferrehan is sitting in the Commons and letting one be said to you. The second is the work and most Wardens find it the harder of the two.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **No containment required; preserve the conditions that form it**. The condition is met when the monthly figure is entered unaltered and anybody who heard their own voice has been rotated out of the Commons; there is nothing here to hold, and the file's failure mode is a decision to interfere.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **No containment required; preserve the conditions that form it**. It is met when the monthly figure goes into the book unaltered and anybody who heard their own voice back has been rotated out of the Commons for a full cycle — there is nothing here to hold and nothing to lift, and the way this file fails is a decision to interfere.
 
 ### Consequences
 
-- If resistance fails, the pressure moves directly into the worker's psychological matrix, depleting **Clarity** and accelerating the gauge, and the worker is rotated out of the Commons for a full cycle. The count is not adjusted to excuse it: on this holding an adjusted figure is the only thing that can hide a rising series.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Echo of Kindness reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- If resistance fails, the pressure moves straight into the worker, taking their **Clarity** down with the gauge, and the Commons rotates them out for a full cycle. The count goes into the book as it happened: on this holding, a figure adjusted to excuse a bad night is the only thing that can hide a rising series.
+- Time past the recommended cycle is not free: in the Commons the drift sets in first, then the Fracture, and the square itself starts to destabilise around a crew that stays too long.
+- The equipment record states plainly what a M.A.W. takes out of this square, and no rotation of the watches has ever found an exception: nothing is extracted here without the bearer paying part of it.
+- If the condition is left unmet, the holding stops waiting: the count turns destructive, and the kindness it was holding comes back through the square as something nobody asked for.
 
 ## Appearance
 **Physical Form:** A voice and nothing else — low, unhurried, two or three words, arriving from just behind the shoulder. **Accompaniment:** a faint warmth like exhaled breath, which is as close to a body as the holding comes.
@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-Read the behaviour table as a diagnostic and not a prescription: the classification says which Work Type calms this holding and which provokes it, and nothing here transfers to another entity with a similar name. Echo of Kindness is an Object/Place with a Lament manifestation and Lament elemental expression, held at Zone D in the Mantle Commons — ambient, in a working square. The fact that governs every reading is the roster: no return in 3 years has followed an act performed under it. A stable gauge is not a safe encounter — observation can leave the gauge unchanged and still expose the worker to memory, environmental or identity effects.
+Read the behaviour table as a diagnostic and not a prescription: the classification says which Work Type calms this holding and which provokes it, and nothing here transfers to another entity with a similar name. Echo of Kindness is an Object/Place with a Lament manifestation and Lament elemental expression, held at Zone D in the Mantle Commons — ambient, in a working square. The fact that governs every reading is the roster: no return in 3 years has followed an act performed under it. A steady reading is not a safe one: the watches have logged flat gauges on the very nights a worker walked out of the Commons carrying a memory the square had handed back.
 
 **Reading the response:** Work success is measured by the holding's response, the worker's condition and the information recovered. A gauge decrease confirms the Work Type is functioning and does not confirm the holding is safe — only quieter; this is stabilisation, not permanent healing. A gauge increase means the holding is absorbing emotional energy rather than releasing it, and unusual responses precede a change in the series long before the count shows it.
 ## Expansion Behavior
@@ -160,7 +160,7 @@ Read the behaviour table as a diagnostic and not a prescription: the classificat
 
 ### Escalation Notes
 
-The escalation pattern is specific to Echo of Kindness: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Lament form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at Zone D, Mantle Commons — ambient, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+No two escalations in the Commons look alike. The watch records four things and only four: what started it, the first shift in the holding's manner, how far the effect carries from the square, and the point at which the carrying stops. Lament is the register and Zone D the address, so the instruments will not tell the story by themselves — the changes in a worker's voice and habits are written on the same page as the figures.
 
 **Response sequence:** There is no response. Count, transcribe, withdraw anybody who heard their own voice, and report the monthly figure to the Commons ward whether it is good news or not. It has not been good news for three years.
 
@@ -185,9 +185,9 @@ The escalation pattern is specific to Echo of Kindness: it is not a generic brea
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : A wide, double-edged arming sword forged from silvered steel, measuring ninety-five centimeters overall with a cruciform crossguard, rounded disc pommel, and a supple black leather wire-bound grip.
+Appearance : A wide arming sword, double-edged and silvered throughout, ninety-five centimetres from quillon to pommel disc; the grip is black leather over wire, wrapped to fit a hand that has carried it through a full rotation in the Commons.
 
-The central fuller runs two-thirds of the blade, engraved with four ceremonial mercy seals in Old Script. Under impact, the blade dampens acoustic resonance, striking with dull, cushioned concussions rather than sharp ringing.
+Two-thirds of the blade carries the fuller, and down the fuller run four mercy seals cut in Old Script — a chapter's worth of ceremony worked into a tool. The steel swallows sound at the strike: it lands as a cushioned weight and not a ring, and squads have described the silence after a hit as the louder thing.
 
 **Damage:** Lament 3-6
 **Speed:** 2 (Normal)
@@ -235,7 +235,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 ### M.A.W. Use Notes
 
-All 3 pieces come out of the same exchange — kindness given and not ordered — and each carries the holding's own charge: the wielder takes on its unwept grief, and prolonged use brings weeping the wielder cannot place. Grade describes extraction stability and says nothing about that; the cost sits in the column beside it, and it is the reason the set is issued one rotation at a time.
+All 3 pieces come out of the same exchange — kindness given and not ordered — and each carries the square's own charge: the bearer takes on its unwept grief, and wear the set long enough and the weeping starts without a place to put it. The grade column measures extraction stability and stays silent on all of that; the price is kept in the column beside it, which is why the set leaves the rack one rotation at a time.
 
 ### Field Use Record
 
@@ -316,7 +316,7 @@ A voice speaks from the air: you matter, sit down, I see you. The words are ordi
 
 ### Interaction Pattern
 
-Echo of Kindness is read beside the 3 voice holdings the file has paired it with — The Hollow Echo, The Kind Healer and The Silent Child — and none of the 3 is treated as an alliance or a hostility: they are resonance candidates, filed as such. In a shared event the team records whether anything changes at all in the counts, the space, the gauge or the containment, and the standing note is that a resemblance is the reason a pairing was proposed and not a finding that came out of one. The pair the file leans on hardest is The Hollow Echo: it gives back what was shouted into it, this one gives back only what was given away, and that distinction is how the two were told apart in the first place.
+Echo of Kindness is read with the 3 voice holdings it has been paired with — The Hollow Echo, The Kind Healer and The Silent Child. None is friend or enemy to this one; each is a resonance candidate and filed as nothing more. When the group runs together the watch logs one line per post — what moved, or that nothing moved — and the note over the page is plain that the resemblance is why the reading was proposed, not what came out of it. The pair the file leans on hardest is The Hollow Echo: that one gives back what is shouted into it, this one only what was given away, and that difference is how the two were told apart in the first place — by a clerk in the Commons who caught the distinction on a returned count sheet.
 
 **Interaction method:** Counts kept on the same sheet and on the same days, with the other party's figures taken by its own staff. Nothing is brought into the Commons for a pairing; the square is left exactly as the people who use it keep it.
 
@@ -402,7 +402,7 @@ Year 4237: 212 wards, 14,600 spare-shifts, 9,100 calls answered at a mean respon
 
 The costs are real and the Commons staff are the ones who record them. A rostered kindness is not experienced as kindness: the people helped describe it, almost without exception, as service — correct, prompt, and addressed to nobody. Needing the spare is visible, because calls are logged by ward and crews can count, and the wards with the highest call rates are the wards that are watched. In the hard quarter two wards quietly stopped rostering a spare at all and nobody noticed for five months. And nothing a spare does can ever be meant for a particular person, because the moment it is meant for them it is a favour again.
 
-The charge hands asked for the narrowest possible exception: that a worker might once a shift ask a named colleague for help, logged, with reciprocity expressly forbidden. It was refused, and the refusal is correct — a logged request to a named person is a favour with paperwork, the debt forms exactly as it always did, and within a year the names being asked would be the same four names. Their objection stands in the scheme's first volume, recorded as correct and unanswered: that this Company abolished the favour in order to free its workers from each other, and has thereby arranged that the only help available is help that nobody chose to give, and that the thing in the Mantle Commons has nothing left to repeat.
+The charge hands asked for the narrowest possible exception: that a worker might once a shift ask a named colleague for help, logged, with reciprocity expressly forbidden. The scheme refused it, and the refusal is right — a documented request to a named person is still a favour, the debt forms on schedule, and within a year the four names would be the same four. Their objection stands in the scheme's first volume, recorded as correct and unanswered: that this Company abolished the favour in order to free its workers from each other, and has thereby arranged that the only help available is help that nobody chose to give, and that the thing in the Mantle Commons has nothing left to repeat.
 
 ## Trivia
 
