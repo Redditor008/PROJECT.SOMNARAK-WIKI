@@ -302,7 +302,7 @@ The petals are beautiful until you see the split. Crimson light burns along the 
 
 ### Interaction Pattern
 
-On the shelf beside it stand the 3 records it has been read with — The Sorrow Flower, The Garden of Thorns and The Orphaned Bell. None of the three is friend or enemy; each was filed as a resonance candidate and kept at that. When the group is run together the watch reports one line per post — what changed in the tear, the reach, the spore fall, the gauge, or the containment, or that nothing did — and the note above the page is plain that a family likeness is a reason to look and never a result. The record's own distinction is worth carrying forward: the Sorrow Flower is a thing that grew and was let alone, this one is a thing that was finished and not seen.
+On the shelf beside it stand the 3 records it has been read with — The Sorrow Flower, The Garden of Thorns and The Orphaned Bell. None of the three stands among them as neither ally nor rival; each was filed as a resonance candidate and kept at that. When the group is run together the watch reports a single row per run — what shifted in the tear, the reach, the spore fall, the gauge, or the containment, or that nothing shifted — and the note above the page is plain that a family likeness is a reason to look and never a result. The record's own distinction is worth carrying forward: the Sorrow Flower is a thing that grew and was let alone, this one is a thing that was finished and not seen.
 
 **Interaction method:** Tear and reach measured on this holding before, during and after, by a worker who takes no part in handling the other party. Sweepings are weighed separately for each pairing and the crack is checked for spore the following day.
 
