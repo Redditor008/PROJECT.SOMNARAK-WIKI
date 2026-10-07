@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 44 / unit 7 — Memory Lock `C-IIIγ-300` cleaned (2026-10-07)** — the copied `## Operational Parameters` rows (the
+  Han-Energy line and the boilerplate Recommended-response line that carried the whole section against **3** dossiers) replaced
+  **in place** in the file's own terms: a working figure for the lock itself and a response line about the key it keeps. 7,653 →
+  **7,567 words**; residual 0; **0 sections over 0.05**; `tpl.py` 0; meets **True**; copy-side whole instances **3 → 0**.
+  **Batch 44 stands at seven of ten.**
+
 - **Batch 44 / unit 6 — Hollow Architect `C-IVγ-255` cleaned (2026-10-07)** — copied `### Consequences` (whole against **4**
   dossiers) replaced **in place** in the file's own terms: the plan that goes on building by itself, the aftershocks short
   briefings only gesture at, the toll a M.A.W. is owed inside the rooms, and the double entry on one line when **Resolve** splits.
