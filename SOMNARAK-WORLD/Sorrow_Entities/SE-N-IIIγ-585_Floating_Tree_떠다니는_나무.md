@@ -92,10 +92,11 @@
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Clarity** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- A failed resist at the tree costs the worker twice over: the gauge rises, and the **Clarity** they were working from tears in the same minute — both entries go on one line.
+- Weight keeps no schedule. Crews held past the recommended cycle report the ground feeling farther away each hour, then find that their written accounts have stopped agreeing with one another.
+- A M.A.W. brought under the branches carries its price back up the tether with it; the equipment file records the extraction and adds nothing that would make it cheaper.
+- An unfinished encounter leaves the tree where it was and the district beneath it heavier: the load is never discharged, only handed to whoever comes next.
+
 
 ## Appearance
 **Physical Form:** Pale wood, root-first, the crown trailing behind it like something being carried rather than something travelling. **Movement:** it does not move itself; it goes where the current goes, and the roots sweep below it the whole way.
