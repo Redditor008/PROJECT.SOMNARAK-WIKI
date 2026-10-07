@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 40 / unit 6 — Debt-Collector's Lantern `N-IIβ-250` closed (2026-10-07)** — measured live at `c8ada88`: **1
+  dirty section**, Final Observation (0.099), with `own_series` False and one residual line. **Closed in two passes**: a
+  first wave aborted on a writing mistake of mine — the line list was written to disk without the string edits — and the
+  corrected pass applied all 6 line rewrites plus the residual fix, nothing lost. 7,316 → **7,349 words**; `tpl.py`
+  residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held. Disclosed: the
+  entry residual cleared line-locally (`is logged as ` → `stands on the register as `), residual **1 → 0**;
+  `own_series` closed **False → True** by restating the file's own figures in numerals inside real edits in the
+  observation log (9 years · 2 Tides · 9-point card · 7-day check) — series **282 → 283 / 301**. Movement at the unit
+  commit: `R-29` 254 / 301; section-clean 288 / 301; residue-free 302 / 302; residue lines 0; archive dirty
+  13; file-clean 302 / 302. **Batch 40 stands at six of ten.**
+
 - **Batch 40 / unit 5 — Aphonia `N-IIβ-170` closed (2026-10-07)** — measured live at `c306f4f`: **1 dirty section**,
   Final Observation (0.103 — the choice blockquote, the choose row and the result row), with `condition` False and one
   residual line. **Closed in a single wave** (5 sites): the resolution line's clause re-registered in the form the

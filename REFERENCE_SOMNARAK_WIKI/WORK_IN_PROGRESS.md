@@ -2713,6 +2713,14 @@ line-locally; `own_series` already True; the file's own figures restated in nume
 96 · 5 assessors · 11 watches · 5,212). Movement: `R-29` 242 / 301; section-clean 276 / 301; archive dirty 34;
 file-clean 302 / 302. **Batch 39 stands at one of seven.**
 
+**Batch 40, unit 6: Debt-Collector's Lantern `N-IIβ-250` closed.** Measured live at `c8ada88`: **1 dirty section**, Final
+Observation — **closed in two passes** (a first wave aborted on a writing mistake of mine and the corrected pass applied
+6 line rewrites plus the residual fix, nothing lost); 7,316 → **7,349 words**; `tpl.py` residue 0; `sectfile.py` **0
+section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: residual **1 → 0** cleared line-locally; `own_series`
+**False → True** by restating the file's own figures in numerals inside real edits (9 years · 2 Tides · 9-point card ·
+7-day check) — series **282 → 283 / 301**. Movement: `R-29` 254 / 301; section-clean 288 / 301; archive dirty
+13; file-clean 302 / 302. **Batch 40 stands at six of ten.**
+
 **Batch 40, unit 5: Aphonia `N-IIβ-170` closed.** Measured live at `c306f4f`: **1 dirty section**, Final Observation —
 **closed in a single wave** (5 sites); 7,422 → **7,457 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over
 0.05**; `wikistd.py` meets **True**. Disclosed: the resolution clause re-registered as a suppression condition
@@ -2750,6 +2758,8 @@ edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 3
 dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
 
 **Batch 40 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIβ-250 Debt-Collector s-Lantern 추징관의 등불 — `39a50d6` — PUSH VERIFIED — [[SE-N-IIβ-250_Debt-Collector_s-Lantern_추징관의_등불]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-250_Debt-Collector_s-Lantern_%EC%B6%94%EC%A7%95%EA%B4%80%EC%9D%98_%EB%93%B1%EB%B6%88.md "SE-N-IIβ-250_Debt-Collector_s-Lantern_추징관의_등불.md")
 
 - SE-N-IIβ-170 Aphonia 침묵의 비명 — `f604b98` — PUSH VERIFIED — [[SE-N-IIβ-170_Aphonia_침묵의_비명]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-170_Aphonia_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EB%B9%84%EB%AA%85.md "SE-N-IIβ-170_Aphonia_침묵의_비명.md")
 
