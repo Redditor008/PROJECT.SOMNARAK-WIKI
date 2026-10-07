@@ -240,5 +240,7 @@ voice — it is finished when it does not echo any sibling already pushed this b
 batches, not to this one. Batch 51 should keep the probe step and, where a replacement opens with the same scaffold as the previous unit's, vary the
 scaffold and not only the nouns.
 
-**Batch 51 — re-ranked head (post-batch census, worst-first):** The Smothering Mother `N-IVδ-005` (7.4%) and The Vanished Rope `C-Iα-723` (7.4%) lead a
-moderate tier of 5 / 301; the light tier (5–7%) holds 44 / 301 — five more batches of ten remain in the queue.
+**Batch 51 — re-ranked head (close-time census, worst-first):** Atlas `O-Iα-169` (7.4%) · Broken Compass `C-IIβ-290` (7.3%) · Scar Walker `O-IIIδ-011`
+(7.3%) · Weighting Bird `C-IIIγ-032` (7.1%) · Ember Phoenix `O-IVδ-190` (7.1%) · Hollowcast `N-IIβ-426` (7.0%) · Double Mouth `C-IIβ-716` (6.9%) ·
+Mourning a Life I Never Lived `N-Iα-519` (6.9%) · Bulwark `N-Iα-459` (6.8%) — the queue stands at **49 / 301** (moderate 5 · light 44), five batches of
+ten remaining.
