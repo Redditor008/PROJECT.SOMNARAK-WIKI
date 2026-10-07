@@ -88,7 +88,7 @@
 
 1. **Tension:** Identification is the span and the surface, in that order: what the two points are, and whether the stone is holding or the water is moving. Other flowing-form records are catalogued in Zone D and this is the one that arches between fixed points and offers itself to be walked on. The traffic register for the shift is read before anyone takes position, and the cycle opens with the crossings counted rather than estimated.
 2. **Clash:** The team works along the span rather than in front of it. Flerehan and Ferrehan both lower the gauge, and both require the worker to stay on the bridge while it is moving. Pugnahan is answered with flowing force and is recorded as the only approach that has ever put personnel in the water that is not there.
-3. **Resolution:** The session closes when responsibility for the crossing has been said aloud and somebody other than the worker has accepted a share of it. The condition this record carries is **Controlled acknowledgment and team support**, and a shift that ends with the load still on one person has not closed — the gauge is read again at the next handover to confirm it.
+3. **Resolution:** The session is complete once responsibility for the crossing has been said aloud and somebody other than the worker has taken a share of it. The condition this record carries is **Controlled acknowledgment and team support**, and a shift that ends with the load still on one person has not closed — the gauge is read again at the next handover to confirm it.
 
 ### Consequences
 
@@ -228,7 +228,7 @@ The clear water trickling within the shrine never overflows its drainage trough.
 
 **Cost:** The wearer feels every person they cannot save.
 
-*The ring is not manufactured. Cenotaph gives one to a worker who said out loud whose responsibility the crossing was, and it has given none to a worker who took the whole of it onto themselves.*
+*The ring is never manufactured. It goes to a worker who said out loud whose responsibility the crossing was, and none has ever gone to a worker who took the whole of it onto themselves.*
 
 ### M.A.W. Use Notes
 
@@ -319,7 +319,7 @@ Three records are filed against this one because each concerns a promise kept pa
 
 ### Entity Interaction Record
 
-The Gardens hold several records produced by the same surge that took this crossing, and the three below are filed alongside this one for that reason. None of the three is an ally or an enemy; the pairing is a shared event, and no co-presence has been logged with both holdings' readings attached except where the row says otherwise.
+The Gardens hold several records produced by the same surge that took this crossing, and the three below are filed alongside this one for that reason. Not one of the three is an ally or an enemy; what pairs them is a shared event, and no co-presence has been logged with both holdings' readings attached except where the row says otherwise.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -339,7 +339,7 @@ The surge came. An Outside Sorrow surge — wild Han from the Desolate, sweeping
 
 Cenotaph is Subject-Body, Grudge-element: the figure of a promise to protect the already-lost — the guardian's oath, unfulfilled, preserved as a bridge that defends the dead while blaming itself for the death. The Bridge flows because the promise, unkept, cannot settle — it moves through the guardian's grief the way the surge moved through the channels, carrying, in its current, the guilt of the protector who was overpowered and the rage of the protector who blames himself for the overpowering.
 
-Those who come near the Cenotaph feel the specific grief of the failed guardian — the sorrow of defending the dead while knowing the defense came too late, of carrying a promise that the surge rendered impossible, of blaming yourself for a destruction you could not have prevented but swore, in the swearing, to prevent.
+Walk the span and the grief of the failed guardian travels with you — the sorrow of defending the dead while knowing the defense came too late, of carrying a promise that the surge rendered impossible, of blaming yourself for a destruction you could not have prevented but swore, in the swearing, to prevent.
 
 Some sorrows are about loss. Cenotaph is about the failed protection — the promise to guard, the surge that overwhelmed the guard, the bridge destroyed and the dead taken and the guardian standing on the shore, carrying the oath he could not keep, flowing with the guilt of a protection that arrived after the loss it was meant to prevent.
 ## 증언 (Testimonium) — The Testimony
@@ -414,7 +414,7 @@ The shoring timber and jacks staged beside the affected runs are rotated out bef
 
 ### Registry Trivia
 
-- **Classification detail:** Cenotaph is a Subject with Entity (IV) coherence and Critical (δ) potency, and the potency rests on what it does while being helpful: a span that gives way under a single walker is not an assault, and the file still counts the crossings.
+- **Classification detail:** Cenotaph files as a Subject; its coherence is Entity (IV) at Critical (δ) potency, and the potency rests on what it does while being helpful: a span that gives way under a single walker is not an assault, and the file still counts the crossings.
 - **Field detail:** Grudge is the whole of its element and Zone D, Echo Gardens, the whole of its ground. The register restates the file's own figures — 910 gauge, 45 per cent against Grudge and 35 against anything else, 24 turns, 20–28 Han-Energy a cycle, 406 crossings in a quarter with 91 of them shared — so that the vault log and the dossier cannot drift apart.
 - **Recognition detail:** Identify it by the span and the surface. Other flowing-form entities are catalogued in Zone D; this is the one that arches between two fixed points and offers to be walked on.
 - **Record detail:** Check the designation before approach. More than one record in the Gardens carries the surge and they want different things from a worker; this is the one that wants the crossing taken off it — thank it and it withdraws, share the load and the gauge falls.
