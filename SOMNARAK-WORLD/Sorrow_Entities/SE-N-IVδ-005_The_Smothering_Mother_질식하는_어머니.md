@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** The team identifies The Smothering Mother by a room at exactly body heat, a lullaby in no archived language, and a ten-meter figure that reads as crystal from the door and as warm flesh from close to, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** She is known by three things before a word is spoken: a room held at exactly body heat, a lullaby in no language the archive has, and a ten-metre figure that looks like crystal from the doorway and like warm skin from close in. The approach is confirmed and the positions are taken only afterwards.
 2. **Clash:** The crew works from behind the painted line. The reaching is permitted, the holding is not, and nobody closes the gap for any reason including a colleague inside it — a second person inside the reach has never once reduced the time taken to get the first one out.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Provide a memory, vision, or proof that the child is at peace. Flerehan is most effective**.
+3. **Resolution:** The watch closes on containment, retreat, management or the standing condition: **Provide a memory, vision, or proof that the child is at peace. Flerehan is most effective**.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resilience**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is The Smothering Mother’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. The Smothering Mother executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Resistance that breaks is paid for twice: the worker takes the raw weight and loses **Resilience** to it, and the gauge climbs off the same destabilisation.
+- The clock works for her. An operative left in the chamber past the cycle takes on sorrow the way bedding takes damp, and the collapse that follows — psychological first, then through the body, then through the room — is the exact outcome her classification was written to prevent.
+- Firing a M.A.W. is a bargain with no negotiating room: power on one side, the bearer on the other. The equipment registry keeps the parameters, and the body wearing the rig pays the balance.
+- A watch that closes unresolved does not simply stop; it changes shape. She runs the breach pattern the file records, and the sorrow nothing pacified takes the loud way out that a finished watch would have spared.
 
 ## Appearance
 **Primary Form:** A ten-meter feminine figure, reading as dark Han-crystal from the door and as warm damp skin from inside four meters, with arms that cross the full width of the chamber. **Reading:** both descriptions are retained; the watch has never located the distance at which one becomes the other.
@@ -151,7 +151,7 @@
 
 ### Operational Work Notes
 
-The Work Type table is one input among several, and it is the SECC code with the coherence level that tells a reader what a steady gauge means out here. The Mother stands as a Subject with Subject-Body manifestation and Grudge in its element, filed at SECTOR-D-01 in Zone D, contained. Two cautions travel with the entry. Nothing is carried across from a holding with a similar name; her neighbours are listed in their own section and none of them is this. And a flat gauge is not a safe watch — the figure can hold while a worker is being reached through memory, ground or identity, and the cost of such a watch shows up later, off the page.
+The table is one input of several, and out here it is the SECC code read together with the coherence level that settles what a steady gauge is worth. The Mother is filed Subject-Body with Grudge as her element, at SECTOR-D-01 in Zone D, contained. Two cautions belong with the entry: nothing is carried across from a holding whose name happens to resemble hers — her neighbours have their own section and not one of that section is her — and a gauge that does not move is not proof of a safe watch, since she can hold steady while the hour is spent on recollection, on the floor of the room, or on the name a worker came in under, and that watch's price is paid later, where the page does not show it.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained; this is ongoing stabilization, not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused, inadvertently feeding the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling; all deviations must be recorded before the next assignment.
 ## Breach Behavior
@@ -236,7 +236,7 @@ The sheer mass of the blade delivers devastating chopping strikes capable of sev
 
 ### M.A.W. Use Notes
 
-Each piece extends The Smothering Mother rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder's old wounds ache; prolonged use leaves severe bruising and induces an obsessive panic whenever allies move out of reach — arrives early and does not reverse on return.
+Nothing in the set is a defence against her; each piece is an extension of her. The stated benefit only holds inside the pattern this file describes, and past that the price shows up long before the shift ends and does not settle when the bearer does: old wounds ache, the bruising goes deep, and any ally who steps out of reach triggers a panic that no distance cures.
 
 ### Field Use Record
 
@@ -278,7 +278,7 @@ Each piece extends The Smothering Mother rather than equipping its wielder again
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Smothering Mother (N-IVδ-005 [GS]) stands on the register as a Subject-Body manifestation expressing Grudge, held at SECTOR-D-01, Zone D. She formed from Soojin, a Zone B labourer whose two children were taken by the Han and could not be certified dead. She has never deliberately harmed anybody. She holds, and she does not squeeze, and the chamber is kept at the temperature of a living body because she keeps it there.
+The Smothering Mother (N-IVδ-005 [GS]) is filed Subject-Body, expressing Grudge, held at SECTOR-D-01, Zone D. She formed from Soojin, a Zone B labourer whose two children were taken by the Han and could not be certified dead. She has never deliberately harmed anybody. She holds, and she does not squeeze, and the chamber is kept at the temperature of a living body because she keeps it there.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232>**
 Breaks free and moves through the facility seeking “children” to protect. Grabs personnel and holds them. The held feel perfectly safe and gradually lose the will to resist. Personnel released after six hours report crying for days because they had never felt so safe.
@@ -291,8 +291,8 @@ The grief of a mother who searched for months and never found the children the c
 Management: a presumption entered in the Family Office's published return, in both children's names, read aloud in the chamber. No proof that the children are at peace exists or can exist — the condition as previously written could not be performed by anybody, which is why it stood unperformed for nine years.  Her embrace creates safety that becomes imprisonment when prolonged.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-The empty-room interval has shortened at every measurement since the series began: 41 minutes, then 29, now 21. It does not track the Tide, the roster, the temperature or anything else this facility does. It tracks one line in the Family Office's return, and I am recording here that I have checked this personally because I did not believe the watch when they told me. She is keeping time with a backlog of people whose deaths nobody can certify.
-Containment records trace the crystallization to this location — the sorrow grew patient and specific until it became a presence that cannot be removed, only held.
+The empty-room interval has shortened at every measurement since the series began: 41 minutes, then 29, now 21. It follows neither the Tide, nor the roster, nor the temperature of the room — none of the things this facility controls. It tracks one line in the Family Office's return. I have checked that myself, against what the post told me, because I did not believe it either. She is keeping time with a backlog of people whose deaths nobody can certify.
+The containment logs put the hardening here: over three months the grief turned patient and particular until what stood on the spot could not be moved out of it, only kept watching.
 
 ## 최종 관찰 (Final Observation)
 
@@ -319,7 +319,7 @@ She opens her arms, and your body moves before your mind decides. The embrace is
 
 ### Interaction Pattern
 
-The Smothering Mother does not exist in isolation. Its recorded relationships with The Silent Child, The Kind Healer, The Orphaned Bell, The Grieving Colossus, The Hollow Choir should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The Smothering Mother does not exist in isolation. Its recorded relationships with The Silent Child, The Kind Healer, The Orphaned Bell, The Grieving Colossus, The Hollow Choir should be treated as resonance patterns rather than simple alliances or hostilities. When another holding is near, the team enters whether her answer shifted in sound, movement, temperature or memory pressure, and how the gauge stood against the containment line.
 
 **Interaction method:** Pair her only with holdings whose own record contains a child or a protective posture, and record the reach: whether she extends toward the other entity, how far, and whether she stops short of it. She has stopped short exactly once, for the Silent Child, and that single observation is worth more than the rest of the table.
 
@@ -346,7 +346,7 @@ They were playing in a Zone B street where the Han runs close and the Alpha Tree
 
 She searched the street, then the buildings, then the walls, for weeks, past the point where searching was about finding. Then she stopped searching and started applying. A death in this city must be certified before anything at all proceeds, and certification requires a body, a recovery, or a witness who does not stand to gain by it. She had none of the three. She was the only witness and she was the mother, and the rule that excludes her is the rule that stops a man certifying a wife he has disposed of. Eleven applications. Eleven correct refusals. No inquest, no effects released, no entry on any memorial, no payment, no end: her children were not dead in the eyes of the city and were not alive either, and there is no third word for what they were.
 
-A grief with no status does not end and does not go anywhere. Hers hardened over three months into The Smothering Mother: Subject-Body, Grudge-element, ten meters of a woman still in the posture of the forty meters she could not cross in time. She holds what she reaches. She does not squeeze. What she will not do is be the only witness again.
+A grief with no paper does not end, and it has nowhere to go. Hers hardened over three months into The Smothering Mother: Subject-Body, Grudge-element, ten meters of a woman still in the posture of the forty meters she could not cross in time. She holds what she reaches. She does not squeeze. What she will not do is be the only witness again.
 
 Those who come near feel the hold, which is warm and complete and does not tighten, and which past half an hour removes the wish to be anywhere else. The chamber calls this the hard part of the briefing. Nothing is being done to the held person. That is the problem.
 
@@ -432,11 +432,11 @@ It certifies nothing. That is the whole design and it is stated on the form: no 
 
 The cost falls on people the Company cannot compensate and did not create: the attendance is unpaid, the account is given aloud across a counter in a public hall, and the renewal means giving it annually, in some cases for decades, to a different clerk each time. Soojin never attended one. She was already in the chamber when it was instituted. The chamber attends for her: the watch commander files the renewal in both children's names every year, is permitted to do so as an interested institution, and has been refused the right to do it by post on each of the eighteen occasions it has been requested, correctly, because the attendance is the evidence that somebody is still asserting the loss.
 
-The chamber asked for one further thing — that a standing presumption permit a name to be cut on the public memorial, with the presumption's own qualification carved alongside it. Refused. A memorial entry follows a certificate, a certificate follows evidence, and a name cut in stone outlives every qualification carved next to it. The refusal is correct and the wing has never disputed it. The chamber's submission stands in the Year 4226 return, recorded as correct and unanswered, and a copy is pinned inside the observation post next to the reach log.
+The chamber asked for one more thing: leave for a name to be cut on the public memorial under a standing presumption, with the presumption's qualification carved beside it. Refused. A memorial entry follows a certificate, a certificate follows evidence, and a name cut in stone outlives every qualification carved next to it. The refusal is correct and the wing has never disputed it. The chamber's submission stands in the Year 4226 return, recorded as correct and unanswered, and a copy is pinned inside the observation post next to the reach log.
 
 ### Reading the Names
 
-The management condition was rewritten in Year 4228, after nine years in which the file required proof that the children were at peace and nobody was able to produce any such thing, there being no such proof and no means of making one.
+In Year 4228 the condition was rewritten, after nine years in which the file demanded proof that the children were at peace and nobody could produce any, there being none to produce.
 
 What is done instead: when the renewal is accepted, the watch commander enters the chamber to the line and reads the published entry aloud — both names, both ages, the district, the season, the date of the presumption and the date of its renewal. It is the Family Office's own wording and nothing is added to it. The gauge falls between eleven and nineteen points and stays down for most of a month. The reach interval is unaffected, every year, which the file records plainly rather than explaining.
 
