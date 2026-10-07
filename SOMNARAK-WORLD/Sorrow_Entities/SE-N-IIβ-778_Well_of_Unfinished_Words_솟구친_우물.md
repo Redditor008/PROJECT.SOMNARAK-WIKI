@@ -187,7 +187,7 @@
 
 ### Escalation Notes
 
-The escalation is measured in sentences rather than turns: each testimony cut short lifts the level by a fixed step, the level holds while anyone is speaking no matter how long that runs, and it drops only when a sentence is allowed to reach its own end. What personnel enter: the first trigger, the change it makes in the Place-Lament form, the distance at which it starts to act, and the boundary where the resonance comes to rest — and beside those, the emotional and behavioural markers, because at a border Lament the instruments and the testimony disagree less often than the wing assumes, and the testimony is the earlier of the two warnings.
+The escalation is measured in sentences rather than turns: each testimony cut short lifts the level by a fixed step, the level holds while anyone is speaking no matter how long that runs, and it drops only when a sentence is allowed to reach its own end. What personnel enter: the first trigger, the change it makes in the Place-Lament form, the distance at which it starts to act, and the point at which the resonance stops — and beside those, the emotional and behavioural markers, because at a border Lament the instruments and the testimony disagree less often than the wing assumes, and the testimony is the earlier of the two warnings.
 
 **Response sequence:** Secure the perimeter; confirm the event is an activation and not a channel surge from the border ground; withdraw personnel who are not there to listen; then satisfy the management condition, which is to let whoever is speaking arrive at their own ending. Do not drain the Well — the three recorded drainage attempts each returned the water within a shift, higher.
 
