@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Absent Landmark is confirmed by the windows and never by the height. The ring of openings contains no rooms and does not change; the figure it rings stands in the ground as though it sank upright, and a faint light climbs from the buried floors. The height is read against the bay datum at the start and at the end of the cycle and has ranged from eleven metres to one and a half, and the position and the withdrawal are established before the cycle opens.
+1. **Tension:** The windows confirm it; the height never does. The ring of openings holds no rooms and never changes, the figure it rings stands in the ground as though it sank upright, and a faint light climbs from the buried floors. Height against the bay datum is taken at both ends of the cycle — eleven metres down to one and a half on the record — and positions and withdrawal are fixed before the ring is entered.
 2. **Clash:** The work is naming the corner. Flerehan stops the sinking and raises it in the ground; Ferrehan is standing in front of the gap without filling it; Pugnahan drives it down and is the one approach that has ever cost height. Nobody climbs it. Four attempts, four sinkings, and the lowest reading on record followed the last.
-3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Record its former location; do not attempt to rebuild it around the entity** — the corner named in the record and in the print, the survey notation left current, and the figure allowed to sink on its own rather than driven down.
+3. **Resolution:** The watch closes under containment, management or withdrawal, or on the documented suppression condition: **Record its former location; do not attempt to rebuild it around the entity** — the corner carried in the record and the print, the survey notation kept current, and the figure left to sink on its own feet rather than driven down.
 
 ### Consequences
 
 - A worker who loses their way inside the spread does not lose the building: they lose the turn at a corner they have taken for years. The loss is entered as an exposure against the holding and never as a fault against the person, and the route they drew before entry is what settles it.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- Stay in the ring too long and the damage starts in the bearings: a worker's own routes stop answering, then the body's sense of level goes, then the ground around the junction.—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
+- The set is not carried for free: the sorrow goes back up the piece into the bearer, and the Armoury's ledger enters the cost against the bearer rather than the set.: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
+- A watch that fails to resolve does not close the incident: the claim widens toward the junction, and the crews' disagreement about where the tower stands settles into the record as fact.—manifesting through cell breach, territorial expansion, and rapid escalation.
 
 ## Appearance
 **Primary Form:** A humanoid tower-shaped figure, half-submerged in the ground and surrounded by empty windows.
@@ -224,11 +224,11 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 
 **Cost:** The wearer sees every empty room as occupied by memory.
 
-*The stigma is not manufactured. It is given to a worker who gave directions by the tower in a written report, and has never been given to one who climbed it.*
+*Nothing manufactures the stigma. It goes to a worker who gave directions by the tower in a written report; nobody who climbed it has ever received one.*
 
 ### M.A.W. Use Notes
 
-These three pieces are Absent Landmark in miniature and they take the same thing in the same order: first the unthinking routes, then the turn at the corner, then the confidence that a familiar street is familiar. The Armoury records every charge against the wielder rather than against the piece, because on this set the piece has nothing left to lose.
+The three pieces are the Landmark in miniature, and they take the same faculty in the same order: the habitual route first, then the turn at the corner, then the certainty that a known street is known. Every charge is entered against the bearer and not the set — on this kit the set has already lost everything worth taking.
 
 ### Field Use Record
 
@@ -267,7 +267,7 @@ These three pieces are Absent Landmark in miniature and they take the same thing
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Absent Landmark (C-Iα-863 [VS]) is a Subject-Body manifestation expressing Void, formed from a tower that came down at a junction in Old Lament and was cleared inside a fortnight, and first recorded eleven years after the map edition that drew the junction correctly. Held at Zone B, Old Lament. It sinks when threatened; the height is the reading and the window pattern is the marker.
+Absent Landmark (C-Iα-863 [VS]) is carried as a Subject-Body manifestation, element Void: a tower that came down at a junction in Old Lament, cleared inside a fortnight, and entered in the record eleven years after the map edition that still drew the junction correctly. Held at Zone B, Old Lament. Under threat it sinks. The height is what the watch reads; the ring of windows is what the watch matches. and was cleared inside a fortnight, and first recorded eleven years after the map edition that drew the junction correctly. Held at Zone B, Old Lament. It sinks when threatened; the height is the reading and the window pattern is the marker.
 
 **Entry 2 — <District Print Return: Forty-Four Items, Nine Naming the Tower>**
 Printed items issued for the district in 4238 that cover the junction: forty-four. Naming the former tower in any form — Old Tower corner, the tower stop, the tower junction: nine. Showing the junction accurately with four streets and nothing else: thirty-five. Exposed height at the first measurement of the year: seven point one metres. At the last: four point two. The only sustained rise followed the tram timetable reissue, in which a clerk restored the stop name without authority and was reprimanded for it in writing. The reprimand is in the file. So is the timetable.
@@ -306,7 +306,7 @@ A tower-shaped figure rises from the street and looks down through windows with 
 
 ### Interaction Pattern
 
-Absent Landmark is read beside the three holdings the archive files with it, and none of the three is an alliance. The Vanished Tower preserves absent architecture; Breach failed as a structure rather than as an argument; The Whispering Gallery carries the memories of its former occupants; and the Broken Clocktower has twice been logged rising in the same week, both of them sinking again by morning. Four relations, measured on one variable — height against the bay datum — and entered with the week's print return beside them, because on this holding a rise is evidence of printing before it is evidence of company.
+The archive shelves three other holdings beside this one, and none of them is an ally. The Vanished Tower preserves absent architecture; Breach failed as a structure rather than as an argument; The Whispering Gallery carries the memories of its former occupants; and the Broken Clocktower has twice been logged rising in the same week, both of them sinking again by morning. Four relations, measured on one variable — height against the bay datum — and entered with the week's print return beside them, because on this holding a rise is evidence of printing before it is evidence of company.
 
 **Interaction method:** Document it alone first, with the district's printed matter alongside, since that is the variable. In shared conditions log the height before and after; with the Broken Clocktower both rise and both sink again by morning, and the holding records that the two have never been observed at height on the same day twice.
 
@@ -335,7 +335,7 @@ The district kept looking. Citizens, walking the streets, turned at the corner w
 
 Absent Landmark is that habitual looking. Subject-Body, Void-element: not the tower but the district's continued orientation toward it — the accumulated, generational act of looking for a landmark that is gone. The Tower sunk, descended from physical structure to behavioral ghost: a thing the district still reaches for, still orients by, still expects to see at the corner, though the corner has been empty for longer than any living citizen remembers.
 
-Those who come near the Absent Landmark feel the disorientation of a missing landmark — the vertigo of turning toward a thing that is not there, of orienting by a reference point that has been removed.
+Standing near it, people lose their bearings in one specific way: the turn toward a thing that is no longer there, the eye hunting a reference the district has already taken down.
 
 Some sorrows mourn a building. Absent Landmark mourns the orientation — the habitual looking, the reflexive turning, preserved as a presence felt every time a citizen turns at the empty corner and reaches, without thinking, for the tower that sank into the district's reflex.
 ## 증언 (Testimonium) — The Testimony
