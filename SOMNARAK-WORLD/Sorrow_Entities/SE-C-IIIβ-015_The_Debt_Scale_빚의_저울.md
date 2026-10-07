@@ -89,7 +89,7 @@
 
 1. **Tension:** Identification rests on the unaided dish movement and on the warm bone; the courts' 2 ordinary balances are cold and still, and correspondence has mistaken them for the Scale twice. The approach is confirmed on that basis and positions are taken before anything else is attempted.
 2. **Clash:** Four turns at the plinth, observation and endurance only. Nobody places a hand on a dish, the circle is marked at the start and the end, and the dish positions are read by eye into the hand-ruled column.
-3. **Resolution:** The cycle ends the way the file's own rule ends it — containment, retreat or management, or against the documented suppression condition: **Viderehan and Ferrehan only at the plinth, certified Tool protocol, the circle marked after every expansion, and no measurement of any named person**.
+3. **Resolution:** The cycle ends the way the plinth record's own rule ends it — containment, retreat or management — or under the register's suppression condition: **Viderehan and Ferrehan only at the plinth, certified Tool protocol, the circle marked after every expansion, and no measurement of any named person**.
 
 ### Consequences
 
@@ -145,7 +145,7 @@
 
 ### Operational Work Notes
 
-The Debt Scale is a Fragment (III) Object/Place of Moderate (β) potency, Object-Void manifestation, Void expression, on a plinth in SECTOR-C-01. Flerehan and Pugnahan are N/A because an object cannot be grieved with or fought. A stable gauge is not a safe cycle here: observation leaves the pans level while the circle on the floor continues to do what it does.
+The Debt Scale is a Fragment (III) Object/Place; its potency is Moderate (β), its manifestation Object-Void, its expression Void. It rests on a plinth in SECTOR-C-01. Flerehan and Pugnahan are N/A because an object cannot be grieved with or fought. A level reading is not the same thing as a quiet cycle here: observation leaves the pans level, and the circle on the floor goes on doing what it does regardless.
 
 **Reading the response:** Read the dishes and the circle, not the room. A falling gauge presents as the beam settling and holding; a rising one presents as the circle creeping past its mark, which is permanent whatever the gauge does afterwards. Log any deviation before the next cycle, including any reading the Scale offers that nobody asked it for.
 ## Activation Behavior
@@ -260,11 +260,11 @@ Escalation here is the circle and nothing else. Record the trigger, the measurem
 
 **Cost:** The wearer experiences the debt observed.
 
-*The Balance Pendant is neither issued nor asked for. It has been conferred 3 times, each on a Warden who turned down a measurement the file shows they had every right to take.*
+*The Balance Pendant is neither issued nor asked for. Three Wardens hold it, each having turned down a measurement the file shows they had every right to take.*
 
 ### M.A.W. Use Notes
 
-Each Balance piece is an extension of the holding rather than equipment. It performs as recorded while the wearer accepts being weighed first, and costs more when they resist it; the instrument takes the wearer's figure either way. The Pendant is conferred after a work cycle and is not manufactured, requested, or scheduled.
+The pieces fitted to this pattern carry the holding forward rather than serving as equipment. It performs as recorded while the wearer accepts being weighed first, and costs more when they resist it; the instrument takes the wearer's figure either way. The Pendant is conferred after a work cycle and is not manufactured, requested, or scheduled.
 
 ### Field Use Record
 
@@ -303,7 +303,7 @@ Each Balance piece is an extension of the holding rather than equipment. It perf
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Debt Scale (C-IIIβ-015 [VO]) stands on the register as a Object-Void manifestation expressing Void. The Scale formed from the demand for fairness. Held at SECTOR-C-01, used by Collectors. The Scale is always correct by its own definition.
+The Debt Scale (C-IIIβ-015 [VO]) is filed in the register as an Object-Void manifestation expressing Void. The Scale formed from the demand for fairness. Held at SECTOR-C-01, used by Collectors. The Scale is always correct by its own definition.
 
 **Entry 2 — <Inherited and Personal>**
 It does not distinguish inherited debt from personal debt unless asked.
@@ -342,14 +342,14 @@ The Scale appears simple: two dishes, a thin beam, no decoration. You touch one 
 
 ### Interaction Pattern
 
-This holding is read against the other instruments of obligation in the district. Each relation below has been observed and filed; none is settled; and all three were tested at the plinth, since the Scale cannot be taken to anything.
+The Scale is set beside the district's other instruments of obligation. Each relation below has been observed and filed; none is settled; and all three were tested at the plinth, since the Scale cannot be taken to anything.
 
 **Interaction method:** Baseline each party alone over several cycles — dish positions, circle, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. All three rest on the theme of weighing or owing, which is the most crowded theme in the district and the weakest basis for a pairing that this wing recognises.
+The three relations entered below are points of contact, not alliances. None is settled. All three rest on the theme of weighing or owing, which is the most crowded theme in the district and the weakest basis for a pairing that this wing recognises.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -464,9 +464,9 @@ No household is measured. Every household pays by the measurement.
 
 The circle expands on failure and never contracts. The aggregate is calculated from the circle. The base rate has been revised upward **four times in nine years**, and each of the four revisions followed, within one quarter, an expansion recorded in this file — two of them expansions the wing's own incident reports attribute to failed cycles on its own watch. The wing supplies the number. The courts apply it. Nobody in either body has ever had to decide that the district's obligations should rise.
 
-The objection is minuted at every annual review, raised by the senior Warden and supported twice by the ward officer. It holds that the facility has made itself the source of a figure that sets what an entire district owes, while declining — correctly — to measure any individual in it, so that the protection the refusals give each resident is withdrawn from all of them collectively; that the aggregate rises with the facility's own containment failures, which means the district pays for the wing's bad quarters and has never been told that it does; and that the arrangement has no exit, because the undertaking was the consideration for custody, and the alternative to supplying the figure is returning the instrument to daily use in the courts.
+The senior Warden has carried that objection into every annual review, and the ward officer has seconded it twice. It holds that the facility has made itself the source of a figure that sets what an entire district owes, while declining — correctly — to measure any individual in it, so that the protection the refusals give each resident is withdrawn from all of them collectively; that the aggregate rises with the facility's own containment failures, which means the district pays for the wing's bad quarters and has never been told that it does; and that the arrangement has no exit, because the undertaking was the consideration for custody, and the alternative to supplying the figure is returning the instrument to daily use in the courts.
 
-The minute records the objection as **correct in all three parts**. It records that a proposal to publish the aggregate's derivation, so that the courts would at least know what they were applying, was drafted in the seventh year, costed at nothing, and not laid. And it records the Warden's closing sentence, entered verbatim at her request: *we refused nine people a measurement, and then we sent the courts a number that measures all of them.*
+The minute lets the objection stand on all three of its counts. It sets down that a proposal to publish the aggregate's derivation, so that the courts would at least know what they were applying, was drafted in the seventh year, costed at nothing, and never laid. The Warden's closing sentence follows in the same hand, taken down word for word at her request: *we refused nine people a measurement, and then we sent the courts a number that measures all of them.*
 
 ## Trivia
 
