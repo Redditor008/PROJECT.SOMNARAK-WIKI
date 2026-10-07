@@ -2713,6 +2713,18 @@ line-locally; `own_series` already True; the file's own figures restated in nume
 96 · 5 assessors · 11 watches · 5,212). Movement: `R-29` 242 / 301; section-clean 276 / 301; archive dirty 34;
 file-clean 302 / 302. **Batch 39 stands at one of seven.**
 
+**Batch 40 closed at ten (2026-10-07).** Ten dossiers · **15 / 15 dirty sections closed** · **+361 words** net ·
+`verify.py` residuals **7 → 0** · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Movement, b40 open
+(`b2db5e6`) → b40 close: `R-29` 248 → **262 / 301** · parity 275 → **276 / 301** · condition 267 → **271 / 301** (units 2,
+5, 7) · series 282 → **283 / 301** (unit 6) · section-clean 282 → **298 / 301** · residue-free 302 → 302 / 302 · archive
+dirty 22 → **3** · file-clean 302 → 302 / 302 · scene-clean 283 → **299** · worst 0.015 → **0.014** · median 0.007 →
+**0.006**. Disclosures: **rollback #34** at the open; nine units one wave each and unit 6 two passes (a writing mistake
+of mine, corrected whole); residual lines cleared line-locally on units 1, 2, 4, 5, 6, 7, 9 and 10; the condition clause
+re-registered on units 2, 5 and 7 with each file's own text kept verbatim; unit 2's event-behaviour header normalised
+for parity; `own_series` False → True on unit 6 via numerals; fresh wording throughout dropped the wing's
+closing-choices family below `MIN_SHARE=10`, collapsing dirty **22 → 3** with three sections left. **Batch 40 was opened
+at ten on the owner's pacing ladder (3 or 5, then 7 or 10) and closed at its rung.**
+
 **Batch 40, unit 10: Forgotten Name `N-IIα-215` closed.** Measured live at `40f3bd1`: **1 dirty section**, Final
 Observation — **closed in a single wave** (4 sites); 8,361 → **8,388 words**; `tpl.py` residue 0; `sectfile.py` **0
 section(s) over 0.05**; `wikistd.py` meets **True**, condition held, residual **1 → 0** cleared line-locally. Disclosed:
@@ -2784,7 +2796,7 @@ entry residual cleared line-locally; `own_series` already True; the file's own f
 edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 301; section-clean 283 / 301; archive
 dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
 
-**Batch 40 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 40 — CLOSED at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-N-IIα-215 Forgotten Name 잊혀진 이름 — `efb70d6` — PUSH VERIFIED — [[SE-N-IIα-215_Forgotten_Name_잊혀진_이름]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B1-215_Forgotten_Name_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%B4%EB%A6%84.md "SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md")
 

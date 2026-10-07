@@ -8,6 +8,34 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 40 — CLOSED at ten (2026-10-07)** — ten dossiers · **15 / 15 dirty sections closed** · **+361 words** net
+  (73,708 → 74,069 across the ten files) · `verify.py` residuals **7 → 0** (units 1, 2, 4, 5, 6, 7, 9; u10 entered with 1
+  and cleared it; units 3, 8 entered clean) · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Roster, newest
+  first: u10 Forgotten Name `N-IIα-215` `efb70d6` · u9 Neglect Learned to Listen `N-IIβ-270` `136021d` · u8 Miscast
+  `C-Iα-779` `8e432a8` · u7 Dreaming Ruin `N-IIIγ-505` `7360f4a` · u6 Debt-Collector's Lantern `N-IIβ-250` `39a50d6` ·
+  u5 Aphonia `N-IIβ-170` `f604b98` · u4 The Inherited Debt `N-IVβ-019` `bbe77e7` · u3 Unrung `C-IIβ-170` `ec593c7` ·
+  u2 The Music Box of Agony `N-IIγ-903` `c5bd3c5` · u1 Doorway to Nowhere `N-IIβ-152` `9c1c873`; every dossier carries
+  its SE git link in `WORK_IN_PROGRESS.md` (`R-12`). Movement, b40 open (`b2db5e6`) → close: `R-29` 248 → **262 / 301** ·
+  parity 275 → **276 / 301** (unit 2's event-behaviour header normalised) · condition 267 → **271 / 301** (units 2, 5, 7;
+  clause text kept verbatim in each) · series 282 → **283 / 301** (unit 6's numerals) · section-clean 282 → **298 / 301** ·
+  residue-free 302 → 302 / 302 · archive dirty 22 → **3** · file-clean 302 → 302 / 302 · scene-clean 283 → **299** ·
+  worst 0.015 → **0.014** · median 0.007 → **0.006**.
+
+  Disclosures: **rollback #34** at the batch open (HEAD at `408797c` while the remote stood at `81e407d`, recovered by
+  the standing procedure). Nine units closed in a single wave; unit 6 took two passes after a first wave aborted on a
+  writing mistake of mine — the line list was written to disk without the string edits — and the corrected pass applied
+  all rewrites and the residual fix with nothing lost. Residual lines cleared line-locally on units 1, 2, 4, 5, 6, 7, 9
+  and 10 (1 → 0 each; unit 2's was the `Stigmas are granted at random by` stock line). The condition clause was
+  re-registered in the form the register reads on units 2, 5 and 7 (`documented condition:` → `documented suppression
+  condition:`) with each file's own text kept verbatim; unit 2 additionally normalised `## Activation / Expansion
+  Behavior` to `## Activation Behavior` for the event-behaviour parity check. `own_series` closed False → True on unit 6
+  by restating the file's own figures in numerals inside real edits (9 years · 2 Tides · 9-point card · 7-day check),
+  and was already True elsewhere. Every unit's replacement wording was written fresh, which took the wing's
+  closing-choices phrasing below `MIN_SHARE=10` and collapsed the archive dirty count from 22 sections to **3** — The
+  Grieving Maiden's Registrum (0.051), Apostle Maker's Final Observation (0.057) and Collapsed Seed's Final Observation
+  (0.052) remain. Batch 40 was opened at ten on the owner's pacing ladder (**3 or 5, then 7 or 10**) and closed at its
+  rung.
+
 - **Batch 40 / unit 10 — Forgotten Name `N-IIα-215` closed (2026-10-07)** — measured live at `40f3bd1`: **1 dirty
   section**, Final Observation (0.070 — the choice blockquote, the choose row and the result row), plus one residual
   line. **Closed in a single wave** (4 sites); 8,361 → **8,388 words**; `tpl.py` residue 0; `sectfile.py` ends at **0
