@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful work cycle, counted off its own weighings rather than a live reading |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · γ (Major) |
@@ -81,14 +81,14 @@
 | { *The Tilted Scale* [**Debuff**] } | "It tilts its head, weighing you — and the scale tips, and you are found wanting." | [The Bird judges the target; the verdict lands as a physical mark of insufficiency.] | *Target suffers -10 Resilience; the Bird has decided they owe.* **[10 Grudge DMG [Grudge]]** | When the Bird first assesses a target. |
 | { *The Heavy Verdict* [**Debuff**] } | "The verdict hangs on you like a stone tied to the neck." | [The judgment deepens; the target carries the weight of being measured and found short.] | *Target loses 10 Resilience and cannot shake the sense of debt.* **[10 Grudge DMG [Grudge]]** | When the target remains under judgment. |
 | { *The Beak of Judgment* [**Attack**] } | "The beak comes down like a gavel." | [A sharp downward strike — the Bird pronounces sentence with its beak.] | *Inflicts Grudge pressure and one wound of pronounced guilt.* **[14-22 Grudge DMG [Grudge]]** | When the target resists the verdict. |
-| { *The Reckoning* [**Attack**] } | "It calls every owed thing due at once." | [The Bird gathers all the target's debts — real and imagined — and demands payment now.] | *A heavy Crimson hit; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Bird is wounded or its judgment is challenged. |
-| { *The Final Tally* [**Ultimate**] } | "The books close. Everything is weighed. Nothing balances." | [The Bird extends its judgment across the whole field; everyone is measured at once.] | *All personnel suffer Grudge pressure for three turns as the reckoning spreads.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Reckoning* [**Attack**] } | "It puts every unpaid thing on the pan at the same moment." | [Every debt the target carries, real or imagined, is called up at once and asked for.] | *A heavy Crimson hit; the reading jumps 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Bird is hurt or its finding is disputed. |
+| { *The Final Tally* [**Ultimate**] } | "The ledger shuts, the whole field goes on the scale, and nothing balances." | [The judgment runs out to the edges of the field and weighs everyone where they stand.] | *Everyone takes Grudge pressure for three turns while the reckoning runs.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
-1. **Tension:** Weighting Bird is confirmed by two balance scales in place of eyes, dark-crimson plumage, dry radiant heat, a smell of char, and a gait that labours. It is the only one of the Three that is audibly heavy. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** The Bird is confirmed by the two scales where eyes belong, plumage the colour of dried blood, heat that comes off it dry, a smell of burning, and a walk that labours under its own weight. Of the Three, only this one can be heard by a person's steps being heavy. Positions are taken, and the way out agreed, before the cycle opens.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Weighting Bird's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge the judgment without attempting to deny the weight**.
+3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Acknowledge the judgment without attempting to deny the weight**. No one on this ground argues with the finding; the weight is admitted as it stands, and the admission is what is written down.
 
 ### Consequences
 
@@ -230,7 +230,7 @@ The delicate brass needle tilts continuously between the two pans in response to
 
 **Cost:** The needle's constant movement creates a faint, persistent prickling sensation over the breastbone.
 
-*The Scale-Stigma is not manufactured and cannot be requisitioned. It has been conferred six times, in every case on a worker who completed a full watch without asking to be weighed.*
+*The Scale-Stigma is neither made nor requisitioned. It has been conferred 6 times, every one of them on a worker who sat through a whole watch and never once asked where they stood on the scale.*
 
 ### M.A.W. Use Notes
 
@@ -292,11 +292,11 @@ A dark-crimson bird of flesh and feather with two working balance scales in plac
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Weighting Bird; the other feeds it.
+> The watch ends on a single gesture, and the file sorts the two endings by it: let the finding stand as it falls, or reach for the one Work Type the table shows making things worse.
 
-| Hold to the condition: Acknowledge the judgment without attempting to deny the weight. | Reach for Pugnahan, which the Behavior table shows raising the gauge every time it has been logged. |
+| Let the judgment stand and admit the weight — the clause, kept exactly. | Reach for Pugnahan, the one approach the table records as raising the gauge on every attempt. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is named; Weighting Bird is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and Weighting Bird withdraws without revelation. |
+| It answers the way its record says it will; the sorrow is named and the Bird is recorded whole. | It resists the wrong approach and the pressure keeps building; the reading climbs and the Bird goes unrecorded. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -324,7 +324,7 @@ The Bird is never met alone. Five holdings answer somewhere inside its range —
 
 Weighting Bird must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| What is weighed beside it | How the pairing has run | What the post entered | What the page carries |
 |---|---|---|---|
 | **The Hollow Choir** | Sings when the Bird is near. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Forgotten Soldier** | Salutes the measured dead. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
@@ -364,7 +364,7 @@ Some sorrows are suffered. Weighting Bird's sorrow is inflicted — gently, nece
 
 **Classification:** Sorrow Entity — `C-IIIγ-032 [GS]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Subject-Body manifestation
 **Common Name:** Weighting Bird
-**Containment Status:** Contained — SECTOR-B-01 with the Three Birds, Zone B; three escape events in sixty-one years, none involving pursuit or injury
+**Containment Status:** Contained — SECTOR-B-01 with the Three Birds, Zone B; 3 escape events in 61 years, none of them involving pursuit or injury
 **Comprehension Level:** 2 — Basic. The mechanism, the consistency and the mass behaviour are characterised. What the comparison is a comparison *of*, in any sense a person could act on, is not, and the opinion below is the nearest thing the file has to an answer.
 **Threat Assessment:** Moderate. It does not attack, does not pursue, and does not weigh the unwilling. It is slower and heavier than its siblings and becomes heavier still. The grading is for the structure it stands on and for what the facility has done with its output, not for any risk to the person in front of it.
 **Containment & Handling Procedures:**
