@@ -252,6 +252,7 @@ Each Relic piece is an extension of this entity rather than ordinary equipment. 
 - Grudge signature confirmed at SECTOR-C-902; tempo logged continuously since the holding opened, with no interruption longer than a shift.
 - Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being an Object.
 - Contact is through the body register and through nothing else: the rate, the heat, and the hand.
+- Grip is measured on the handling ladder: 30 seconds, 1 minute, and past 60 seconds the relic inflicts 5 Grudge damage every 15 seconds.
 
 **Personnel Note:**
 
@@ -289,6 +290,18 @@ The stone is warm — warmer than it should be, warmer than the air around it, w
 **When the entity activates:** The veins go crimson and the rate climbs, and the handler's rate climbs to meet it rather than the other way round. Nothing in the room moves.
 
 **After departure:** The pulse settles within the hour. The certainty does not, and personnel describe the days afterwards as a period in which they were unusually and uncomfortably right about everything.
+
+## 상호작용 (Entity Interactions)
+
+The relic keeps a rate and a grievance, and it asks whoever holds it to hear the grievance once, in a form that can be set down in front of the plinth, so the three records kept beside it in the appendix are all holdings about obligation: a man under a debt he can no longer put down, a wall built out of what people still owe, and the one that follows an inheritance. What follows is read from this holding's own instruments — the tempo log, the handler rate recorded by name, and the acknowledgement condition applied at the plinth.
+
+**Interaction method:** Set this holding's own figures first: the tempo logged without interruption longer than a shift, the sixty-second rule, and the settlement ladder from 30 seconds to the 5-damage interval past 60. Then read the other record's figures beside them, enter whether either moved, and re-verify at the next handling.
+
+| Which record waits at the plinth | What both ask to hear once | What the handler entered | What the acknowledgement holds |
+|---|---|---|---|
+| **The Debtor** `C-IIIγ-061` | Both put a weight on a person that others cannot see. That record is stooped under roughly 7.3 tons of it on the Han-scales; this relic puts a tempo into whoever grips it and an argument already half made. | Nothing was run. The appendix grouped the two on carried weight, and the review left the entry as an arrangement. | That the resemblance is a filing line and the acknowledgement is a document. |
+| **Owed** `C-IIIγ-180` | Both treat an obligation as something physical. That record buds a new block every time a fresh debt is recorded; this relic has never lowered for a ledger, and lowers for a grievance put into writing. | The pair was read at the boundary only; no figure moved in either record, and the wall was not approached. | That this file's condition is a form of words and not a form of payment. |
+| **The Inherited Debt** `N-IVβ-019` | Both concern a debt nobody chose. That record clings to the heavily indebted as a shadow at the back; this one transfers to whoever grips it bare-handed and does not ask whether they meant to. | The handler's rate was logged by name as the standing rule requires; neither record moved. | That what is kept here is the condition, not the resemblance. |
 
 ## 이야기 (Narratio) — The Tale
 
