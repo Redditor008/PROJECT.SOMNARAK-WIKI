@@ -243,7 +243,7 @@ All three pieces came out of the hour and all three keep its property: they are 
 
 ## 감각 묘사 (Flavor Text)
 
-There is a moment — always the same, always brief — when the lament pressure and the tale register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. An hour during which every forgotten story ever told within a kilometre radius becomes briefly, viscerally real — characters walk the streets, narrators whisper from empty rooms, and endings replay themselves in the air. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
+The lament pressure and the tale register meet exactly once an hour and hold for a single breath — that is the whole of the contact, and it is where a reader understands, without being able to say how, what this hour *is*. In that breath the district's forgotten stories come back up through the pavement: the people in them walk the streets, their narrators speak from rooms nobody is standing in, and their endings play out above the rooflines in the air. Then the breath is over, and what stays behind is the pressure, the register, and the feeling of having been read.
 
 **At first contact:** Four words from an empty room, and then a street that was empty has people in it, mid-conversation, about things that happened long ago.
 
@@ -255,7 +255,7 @@ There is a moment — always the same, always brief — when the lament pressure
 
 ## 상호작용 (Entity Interactions)
 
-The hour is watched by a desk with a register beside it, and the file has never been run with another holding in the room. What follows is paper work from the appendix that groups the 90x holdings by manifestation, read against each record's own series. All three pairings turn on the same question — what the hour does with the names inside it — and the four files answer it differently.
+The hour is watched from a desk with a register open beside it, and no second holding has ever been brought into the room while it runs. The three rows below come off the appendix that sorts the 90x holdings by manifestation, each read against this record's own series. All three turn on one question — what the hour keeps of the names it borrows — and the four files do not answer it the same way.
 
 **Interaction method:** Fix the desk's own numbers first: tellers named aloud, the gauge fall that follows them, the 94 hours the correlation holds across. Only then lay the other record's series beside them and enter the first parting, its range, its trigger, and whether either series moved. Re-verify at the next hour.
 
@@ -269,21 +269,21 @@ The hour is watched by a desk with a register beside it, and the file has never 
 
 ## 이야기 (Narratio) — The Tale
 
-Once Upon was not discovered. It was recognised. The lament pressure had been present in SECTOR-O-920, contained for years — measured, logged, filed under 'ambient anomaly.' It took a junior researcher on Floor 4 to point out that the anomaly had a shape. The shape was Time-Tale. The anomaly was alive.
+Nobody found this one; it was recognised. Lament pressure had been standing in SECTOR-O-920 for years, contained and dull — measured on schedule, logged, shelved under 'ambient anomaly,' read by no one twice. What changed was a junior researcher on Floor 4 asking why the numbers had a rhythm. The rhythm had a shape; the shape was Time-Tale; and the anomaly, once looked at from that angle, had been alive the whole time.
 
 Time itself is the medium. Once Upon does not exist in the way other entities exist — it exists as a moment that carries lament sorrow in a tale register. You cannot point at it the way you can point at a Subject entity. You can only point at its effects.
 
 The effects are cumulative. Each exposure layers lament pressure in the tale register until the personnel cannot distinguish their own tale state from the entity's influence. That is when Fracture risk peaks. That is when the protocols engage.
 
-The entity does not rage. It does not weep. It persists — tale and lament, patient and permanent. Once Upon is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+This hour raises no voice and sheds no tear. It keeps its two registers — tale and lament — the way a librarian keeps a shelf, and it has outlasted every attempt to hurry it. Once Upon is not the loudest thing in Somnarak; it is the most particular. In a city whose grief is issued to everyone in the same shape, a sorrow that knows your story by name is the one that reaches bone.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The tale register is not in the manual. We learned it by failing."* — Specialist, Field Team
-*"I have worked lament entities for six years. This one is different. The tale makes it personal."* — Handler
-*"Containment holds. But the protocols need a new chapter."* — Containment Lead
+*"Nothing in the training covers an hour that tells your own story back to you. Field Team learned this register the way the district did — one hour at a time."* — Specialist, Field Team
+*"Six years of lament postings taught me to read a gauge. This hour reads me back, and I have not found the instrument that measures that."* — Handler
+*"The perimeter does its job every night. The chapter we are missing is the one about what to tell a resident who recognises their own street in somebody else's story."* — Containment Lead
 *"After contact, I could not stop thinking in the tale register for three days."* — Specialist, Recovery
-*"It is one of the first of its kind. We are still learning what Time-Tale means."* — Researcher, Floor 4
+*"We shelved this sector as weather for years. The file now says Time-Tale, and the honest note underneath says we are still finding out what the phrase covers."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record
 
@@ -332,7 +332,7 @@ What recurs most often are conclusions rather than beginnings, and the file repo
 
 - One of the first catalogued **Time-Tale** entities in Somnarak.
 - Its tale descriptor makes it structurally unique among time entities.
-- The lament pressure in the tale register feels different from standard lament — more specific, more personal.
+- Lament in the tale register does not press on a crowd; it arrives with a plot, and the plot is always about somebody in the district.
 
 ## Document Information
 
