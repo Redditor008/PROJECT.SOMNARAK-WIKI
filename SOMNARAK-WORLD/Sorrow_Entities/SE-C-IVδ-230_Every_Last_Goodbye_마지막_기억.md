@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Composure** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Every Last Goodbye’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Every Last Goodbye’s event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow deepens where it already is and the zone becomes unworkable.
+- Resistance failure routes the vault’s contents straight into the worker: **Composure** is the first thing spent, the Sorrow Gauge takes everything that comes off it, and the worker finishes the watch holding an ending that was never theirs to hold.
+- The longer the exposure runs, the deeper the ending sets. Once the wave has shown a worker their last moment, the showing does not stop with the wave; the vault keeps it playing underneath until the emotional, somatic and identity readings all record the same failure at once.
+- The M.A.W. is never costless, and here the price is collected in leave-takings: every swing passes a goodbye through the weapon on the bearer’s behalf, and the equipment records keep the count.
+- If resolution is not reached, the vault’s event protocol takes the watch: the Sorrow Gauge peaks, the containment fail-safes let go, and the vault returns to holding every goodbye that was never heard — the state under which the zone cannot be worked.
 
 ## Appearance
 **Primary Form:** A translucent standing figure woven from final moments, flickering through faces and last thoughts at a rate that is measured and has risen. **Count:** 6.4 faces a second, against 4.6 and 3.1 at the two previous countings.
