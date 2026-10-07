@@ -101,7 +101,7 @@
 
 **Notable Features:**
 - Expresses Weight pressure in a body register.
-- The time form is unmistakable — this is a body entity, not a general one.
+- The form is not mistaken for a general hour: the loop closes on a body, and the second pass is the reason the sheet exists.
 - A sealed bay, a window, a clock synchronised weekly, and a discharge book on the shelf beside the door.
 
 **Identification Profile**
@@ -255,7 +255,7 @@ Weight stops being a classification the moment the bay takes you. The gauge stil
 
 ## 상호작용 (Entity Interactions)
 
-A warden sits the bay through a first loop and a second; the sheet is closed when the second one ends and not before. No second holding has ever been brought inside for either pass. The three rows below come from the appendix sorted by manifestation, each read against this record's own series — and the one thing the three have in common is a stretch of time that must finish on its own before anyone is allowed to write.
+A warden sits the bay through a first loop and a second; the sheet is closed when the second one ends and not before. No second holding has ever been brought inside for either pass. Three notes follow, one per neighbouring file; the only measure used on any of them was the bay's own sheet — and the one thing the three have in common is a stretch of time that must finish on its own before anyone is allowed to write.
 
 **Interaction method:** Take the ward's own numbers first: the two loops, the sheet completed at the second, the gauge fall that follows the second and never the first. Then set the other record's series beside them and enter the first parting, its reach, its trigger, and whether either series moved in the reading. Re-verify at the next discharge.
 
@@ -275,14 +275,14 @@ What was left behind in this bay is not the ambient weight that every citizen of
 
 - Nothing here shouts and nothing weeps. The bay goes on holding its one unfinished second, and the weight goes on being weight.
 
-The bay raises no voice and sheds no tear. It holds one moment on repeat with the patience of a ward that expects to outlast everyone reading this. Never Discharged is not the loudest thing in Somnarak; it is the most particular — and in a city that hands its grief to everyone in the same shape, a wound that fits only one person is the one that reaches bone.
+The bay never shouts and never cries. It holds a single second on repeat, patient as a ward that has outlasted every hand that ever wrote a line about it. Never Discharged does not rank among the loud sorrows of Somnarak; it ranks among the exact ones. Grief issued by the measure to every citizen cannot cover a wound cut to fit one man, and that is the whole reason this file exists.
 
 ## 증언 (Testimonium) — The Testimony
 
 *"Nobody trains you for a bay that times its own day in forty-seven-minute pieces. We learned this register by standing in it."* — Specialist, Field Team
-*"I have worked weight entities for six years. This one is different. The body makes it personal."* — Handler
+*"Six years posted to weight holdings taught me to stand back. This bay does not allow standing back — it puts the loop somewhere under your own ribs."* — Handler
 *"The door holds. What the protocols do not yet carry is the line for a man who went in for the only reason anybody goes in."* — Containment Lead
-*"After contact, I could not stop thinking in the body register for three days."* — Specialist, Recovery
+*"I came off that watch carrying the second in my own chest. It took three days before my own heartbeat sounded like mine again."* — Specialist, Recovery
 *"Time-Body is where the filing puts this. Where it does not go is the column for the four who walked in and found the scream was theirs — that column is still being written."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record
@@ -331,8 +331,8 @@ The district's own name for the bay describes something that stays on a person, 
 ## Trivia
 
 - One of the first catalogued **Time-Body** entities in Somnarak.
-- Its body descriptor makes it structurally unique among time entities.
-- The weight pressure in the body register feels different from standard weight — more specific, more personal.
+- No other ward on the shelf keeps a patient through two full passes of the same moment; the second pass is what gives this file its class.
+- Standard weight presses on whoever happens to be standing nearby. This one presses on one man, in one bay, inside one repeated second, and up close the difference is unmistakable.
 
 ## Document Information
 
