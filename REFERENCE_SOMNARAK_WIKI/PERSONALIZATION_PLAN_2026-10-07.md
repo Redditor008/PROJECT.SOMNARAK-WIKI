@@ -333,3 +333,18 @@ The fifth per-10 batch ran to ten on the re-ranked head, one push per unit (`A0`
 - **Words across the ten: 71,102 → 71,288 (+186).**
 
 **The queue is empty of anything substantial.** One dossier remains at the line: Owed `C-IIIγ-180` at **5.0%** — one tenth of a point over the threshold, the only file in the wing the auditor still counts. If the owner wants the auditor read clean, a three-file batch would cover it with the two next lines (Portcullis `O-Iα-794` 5.0% → 4.9% band, Rising Wall `C-IVδ-255` 4.9%); otherwise the personalization phase is complete at **300 / 301 fine**.
+
+## Results — Batch 55 (closing batch, floor of three)
+
+| # | Dossier | Code | Generic mass (open → final) | Words (before → after) |
+|---|---|---|---|---|
+| 1 | [[SE-C-IIIγ-180_Owed_빚의_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-180_Owed_%EB%B9%9A%EC%9D%98_%EB%B2%BD.md "SE-C-IIIγ-180_Owed_빚의_벽.md")] | `C-IIIγ-180` | 5.0% → **2.2%** | 7,291 → 7,300 |
+| 2 | [[SE-O-Iα-794_Portcullis_무너진_문](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-794_Portcullis_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%AC%B8.md "SE-O-Iα-794_Portcullis_무너진_문.md")] | `O-Iα-794` | 5.0% → **2.8%** | 7,966 → 7,984 |
+| 3 | [[SE-C-IVδ-255_Rising_Wall_솟아오른_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-255_Rising_Wall_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%B2%BD.md "SE-C-IVδ-255_Rising_Wall_솟아오른_벽.md")] | `C-IVδ-255` | 4.9% → **3.6%** | 8,071 → 8,103 |
+
+- Every unit closed with `verify.py` RESIDUAL 0 · `tpl.py` RESIDUE 0 · `sectfile.py` 0 sections over 0.05 · `wikistd.py` condition `True` · one push per unit.
+- **Queue re-measured at close: 0 / 301 need personalization** — heavy **0 / 301** · moderate **0 / 301** · light **0 / 301** · fine **301 / 301**. Distinct wing shingles **726,190 → 726,404**; words across the three **23,328 → 23,387 (+59)**.
+- Batch probes: grams introduced on both sides **0** (`bnew.py`); introduced-once-echoing-existing **0**.
+- **Disclosure** — the Rising Wall unit was refused at the gate on its first pass: rewording the Resolution detached the `suppression condition: **…**` literal that `wikistd.condition()` matches, and that file has no `Management:` fallback. Restored from HEAD, rep re-worded, closed clean. The guard did its job; nothing half-edited was pushed.
+
+**The personalization phase is complete.** From the owner's 2026-10-07 direction — *"Now Readying For Per-10 Batch Update For All SE That Need It Because A Lot Sound Generic And Not Personalize At ALL"* — the queue ran 89 / 301 (b49) → 67 (b50) → 49 (b51) → 34 (b52) → 20 (b53) → 10 (b54) → **0 (b55)**: seven per-10 batches plus this closing floor, every unit re-authored in place, growth-only, one push per unit, probed on both sides of every push. **No dossier in the wing now measures at or above the 5% generic-mass line.**
