@@ -46,16 +46,16 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The First Note* [**Debuff**] } | "The music box winds itself — and the first note is a frequency of pain that bypasses the ears entirely." | [The Music Box's opening note resonates with the target's pain receptors.] | *Target suffers a Void mark; pain is becoming audible.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Music Box winds. |
-| { *The Building Crescendo* [**Debuff**] } | "The melody builds — each note a different kind of agony — and the composition is meticulously cruel." | [The Music Box's ascending scale maps to increasing pain; the target is its instrument.] | *Target loses clarity; their body is being played.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains in range. |
-| { *The Discordant Strike* [**Attack**] } | "The music box hits a wrong note — and the wrongness is a spike of pure, unstructured agony." | [ A discordant note strikes.] | *Inflicts Void damage; the pain-sound erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Music Box is disturbed. |
-| { *The Full Symphony* [**Attack**] } | "The music box reaches its final movement — every note of agony, played simultaneously." | [The Music Box's complete performance releases all its stored pain.] | *A heavy Void crescendo; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Music Box is silenced. |
-| { *The Orchestra of Agony* [**Ultimate**] } | "Every surface becomes a speaker — the melody of agony fills the field — and everyone is played." | [The Music Box extends its melody across the whole area.] | *All in range suffer Void erosion for three turns of agonizing music.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Building Crescendo* [**Debuff**] } | "The melody climbs one note at a time, and every note is a different flavour of pain." | [The scale rises and the target is the instrument it is played on.] | *The target's clarity goes; something else is doing the playing.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Standing inside the range through a movement. |
+| { *The Discordant Strike* [**Attack**] } | "A wrong note lands, and the wrongness drives in like a spike." | [One sour note is aimed straight at the target.] | *Void damage lands, and the sound of it wears at identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | On disturbing the Music Box. |
+| { *The Full Symphony* [**Attack**] } | "The final movement arrives and every note of pain in the box sounds at once." | [Everything the Music Box has been keeping comes out in a single performance.] | *A heavy Void crescendo; the meter climbs 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | At the point the Music Box is silenced. |
+| { *The Orchestra of Agony* [**Ultimate**] } | "The room turns into one instrument, the melody comes from every side at once, and nobody is left out of it." | [The Music Box carries its melody over the whole area.] | *Everyone in range takes Void erosion for three turns while the music plays.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the gauge passes 65%. |
 
 ### Battle Phases
 
 1. **Tension:** Identify the boundary of the lullaby's audible range; confirm the lid state; select Viderehan (map the song) or Ferrehan (endure it).
 2. **Clash:** Personnel observe the figurine and the lyric, or endure a full recitation without fading. The Gauge rises with each cycle.
-3. **Resolution:** Close the lid mid-song, or complete a full recitation under Ferrehan and reclaim identity by naming the self. Faded listeners cannot be reclaimed by force.
+3. **Resolution:** The watch ends against the documented suppression condition: **close the lid mid-song, or complete a full recitation under Ferrehan and reclaim identity by naming the self**. A faded listener cannot be brought back by force, and no attempt is made to try.
 
 ### Consequences
 
@@ -113,7 +113,7 @@
 
 The Music Box yields only to Viderehan and Ferrehan. Viderehan confirms the lyrics are unchanged (they always are) and identifies fading listeners. Ferrehan is the reclaiming work: a worker endures the entire lullaby without letting the carousel take them, then names themselves at the close to break the cycle's hold. Workers who cannot remember their own name at the song's end have already begun to fade and must be withdrawn. A stable gauge does not mean the song has stopped — only that no one is currently circling.
 
-## Activation / Expansion Behavior
+## Activation Behavior
 
 | Field | Detail |
 |---|---|
@@ -155,7 +155,7 @@ The escalation pattern is specific to The Music Box of Agony: the first sign is 
 **Ability:** Granted at random by the entity upon a successful work; the bearer feels a pang of empathy for anyone in agony, steadying their own Clarity against despair.
 **Cost:** The bearer occasionally wakes having wept in their sleep, with no memory of the dream — only the tune.
 
-*Stigmas are granted at random by The Music Box of Agony upon a successful work, not manufactured.*
+*The Stigmas on this file are not manufactured. They arrive with a successful work, by chance, and the holder keeps what comes.*
 
 ### M.A.W. Use Notes
 
@@ -218,11 +218,11 @@ The lullaby is the entity. The box is only the instrument. The song describes it
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path ends the song; the other joins it.
+> The night turns on whether the worker keeps hold of their name: sit out every verse under Ferrehan and speak it aloud at the last line, or let the song take over and stop trying to remember.
 
-| Endure the full lullaby under Ferrehan — then speak your own name at the close. | Let the song carry you — listen past the third recitation. |
+| Sit out every verse under Ferrehan, and say your own name at the last line. | Let the song carry you, and keep listening past the third recitation. |
 |---|---|
-| You sit through every verse, the carousel turning around you, and at the last line you say your name aloud. The cycle breaks; the lid falls shut of its own accord; the figurine rests. The lullaby is recorded, unchanged. | You stop trying to remember. The song becomes your only thought. By the third recitation you are translucent, silent, seated — and the figurine turns a little faster, as if making room. |
+| The worker stays through every verse with the carousel turning and, at the last line, says their name aloud. The cycle breaks, the lid drops shut on its own, the figurine settles, and the lullaby goes into the record exactly as it was. | The worker gives up trying to remember, and from then on the song is the only thought there is. By the third recitation they are translucent, quiet, seated — and the figurine turns a fraction quicker, as though making room for one more. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
