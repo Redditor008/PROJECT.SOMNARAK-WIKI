@@ -154,10 +154,10 @@
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It walks the corridors on foot with waves of cold grief running ahead of it, and it is not looking for anybody in particular: it goes toward wherever there is grief to stand beside, which is why the response is distance and a held cordon rather than interception, and why interception at close range is forbidden — an enclosure begun in a corridor is an enclosure without a marked line. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
-| **Escalation** | Each turn free, Composure drain +5 until suppressed. |
+| **Effect** | Cold comes off the Wall in waves and settles into whoever is nearest; composure drains at the rate of the grief it has found rather than at a fixed figure. |
+| **Secondary Effect** | A keening carried on the cold, heard by everybody inside the corridor and by nobody outside it — it takes the steadiness out of a room before it takes anything else. |
+| **First Target** | Not the nearest person: the one whose grief is loudest to it — which is why the cordon moves people out of whatever it is approaching rather than putting anybody in its way. |
+| **Escalation** | Every turn it is left standing beside grief, the cold extends and composure drains; an enclosure begun without a marked line is the failure the standing order names. |
 
 ### Escalation Notes
 
