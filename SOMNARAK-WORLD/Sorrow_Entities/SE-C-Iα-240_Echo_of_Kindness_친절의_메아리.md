@@ -316,7 +316,7 @@ A voice speaks from the air: you matter, sit down, I see you. The words are ordi
 
 ### Interaction Pattern
 
-Echo of Kindness is read with the 3 voice holdings it has been paired with — The Hollow Echo, The Kind Healer and The Silent Child. None is friend or enemy to this one; each is a resonance candidate and filed as nothing more. When the group runs together the watch logs one line per post — what moved, or that nothing moved — and the note above the page is plain that proximity on the shelf is not a finding. The pair the file leans on hardest is The Hollow Echo: that one gives back what is shouted into it, this one only what was given away, and that difference is how the two were told apart in the first place — by a clerk in the Commons who caught the distinction on a returned count sheet.
+Echo of Kindness is read with the 3 voice holdings it has been paired with — The Hollow Echo, The Kind Healer and The Silent Child. None is friend or enemy to this one; each is a resonance candidate and filed as nothing more. When the group runs together the watch logs a note per run — what moved, or that nothing moved — and the note above the page is plain that proximity on the shelf is not a finding. The pair the file leans on hardest is The Hollow Echo: that one gives back what is shouted into it, this one only what was given away, and that difference is how the two were told apart in the first place — by a clerk in the Commons who caught the distinction on a returned count sheet.
 
 **Interaction method:** Counts kept on the same sheet and on the same days, with the other party's figures taken by its own staff. Nothing is brought into the Commons for a pairing; the square is left exactly as the people who use it keep it.
 
