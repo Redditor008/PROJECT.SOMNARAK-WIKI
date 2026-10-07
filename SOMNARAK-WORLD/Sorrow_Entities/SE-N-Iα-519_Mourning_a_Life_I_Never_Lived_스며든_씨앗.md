@@ -39,9 +39,9 @@
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Mourning a Life I Never Lived.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- Three things start the behavior filed here under breach, activation and expansion: a gauge on the rise, a session that fails, or one clause of the activation condition ignored.
+- Han-Energy out of this ground is entered against the exposure it cost; a bigger yield would mean picked crews, slower recovery or a tighter line, and the file says so.
+- Nothing drawn off this vault comes free, and nothing of it is ever booked as a reward for a good cycle.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,15 +85,15 @@
 
 ### Battle Phases
 
-1. **Tension:** Identification is made by absence: several root forms are catalogued in this vault and this is the one that has never produced a plant, which is the identifying feature rather than a defect in the record. The extent is measured against the vault markings first, positions and withdrawal are set before the cycle opens, and nobody says aloud what they are planning to do once it ends.
+1. **Tension:** The holding is identified by an absence: several root forms are catalogued in this vault, and this is the one that has never brought up a plant — the identifying feature, not a fault in the record. The extent is measured against the vault markings first, positions and withdrawal are fixed before the cycle opens, and nobody says aloud what they mean to do when it closes.
 2. **Clash:** Only two approaches exist and neither involves contact. Viderehan shows what was imagined and never formed, and holds the reading steady. Ferrehan asks the worker to accept that the thing shown did not exist — not that it was lost, that it was never there — and lowers it. The tendrils are not to be touched, cut, lifted, or rooted in anything.
-3. **Resolution:** The session closes on the two sentences this holding is worked for — the shown future named as something that never happened, and no plan of the worker's own left open when they walk out. The condition carried by the record is **Do not plant; distinguish possibility from memory**, and a shift that ends with the net longer than it started has not closed.
+3. **Resolution:** The session closes on the two sentences this holding exists to hear — the future that was shown named as a thing that never happened, and no plan of the worker's own left open at the door. The standing instruction is **Do not plant; distinguish possibility from memory**, and a shift that ends with the net longer than it began has not closed.
 
 ### Consequences
 
 - A failed withdrawal is a double loss: the worker takes the pressure straight into **Composure**, and the net takes the destabilisation as material — the gauge it feeds is the one the worker's own uncertainty just filled.
 - Time in the vault costs nothing. What costs is intention. The net extends while personnel are talking about things they mean to do and have not done, and the longest growth on record was logged during a shift handover in which no work was performed at all.
-- Every piece in this set is cut from a future mourned before anyone noticed it had not happened, so each activation spends a measure of that confusion and leaves the operator holding the rest. The cost is not forgetfulness: the operator keeps the plans, and loses the ability to say which of them they carried out.
+- Every piece of this set is cut from a future that was mourned before anybody noticed it had not happened, so each use spends some of that confusion and leaves the operator holding the remainder. The cost is not forgetfulness: the operator keeps the plans and loses the ability to say which of them they ever carried out.
 - An unresolved session does not transform the entity; it leaves it longer. The net holds whatever extension it reached and the next team begins from there, and the file notes that no session has ever started from the recorded original footprint.
 
 ## Appearance
@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-The two authorised approaches do different work in this vault. Viderehan shows the worker what was imagined and never formed and holds the reading steady, which is the correct outcome. Ferrehan asks them to accept that what they were shown never existed — not that it was lost, that it was never there — and the reading falls only when the sentence is said plainly and without comfort attached to it. Mourning a Life I Never Lived is filed as an Object/Place with a Place-Grudge manifestation at Zone A in the Alpha Tree vault, and nothing about another seed-shaped record transfers here. A stable gauge is not a safe session: the net grows on what personnel say they intend to do, whether or not the instruments notice.
+The two authorised approaches do different work in the vault. Viderehan shows the worker the imagined thing that never formed and holds the reading steady, which is the outcome the file wants. Ferrehan asks them to accept that what they were shown never existed — not that it was lost, that it never was — and the reading falls only when the sentence is said plainly, with no comfort wrapped around it. The register carries an Object/Place with a Place-Grudge manifestation at Zone A in the Alpha Tree vault, and nothing about another seed-shaped record carries over. A steady reading is no guarantee of a safe session: the net grows on what personnel say they intend to do, whether or not the instruments notice.
 
 **Reading the response:** A falling reading under Ferrehan means a worker described the absence without furnishing it: no detail added, no sympathy offered to a person who was never born. Stability under Viderehan is the correct outcome. The reading rises whenever anybody in the vault says what they were going to do, and rises further if somebody else agrees that it would have been good.
 ## Expansion Behavior
@@ -253,7 +253,7 @@ The broad crescent blade performs sweeping horizontal cuts that reap through cro
 
 **Cost:** The user loses one imagined future from memory.
 
-*The seed is not manufactured. It is given to a worker who looked at what was shown and said plainly that it had never existed, and has been given to no one who called it a loss.*
+*Nobody manufactures the seed. It is given to a worker who looked at what was shown and said, plainly, that it had never existed; it has never been given to anyone who called it a loss.*
 
 ### M.A.W. Use Notes
 
@@ -335,14 +335,14 @@ A seed lies in a dark patch of floor. Roots spread from it, but nothing grows. Y
 
 ### Interaction Pattern
 
-Three records stand against this one in the vault index because each keeps a different kind of nothing, and the archive pairs them by that subject rather than by any contact between them. The measurable question is narrow: whether the net grows toward the other holding, whether the growth follows anyone's speech, and whether the edge retreats at any point — the last has happened, has never been explained, and is the only movement in this file that runs the other way.
+Three records stand against this one in the vault index because each keeps a different kind of nothing, and the archive shelves them by that subject rather than by any contact. The question worth measuring is narrow: does the net grow toward the other holding, does the growth follow anybody's speech, and does the edge ever pull back — the last has occurred, has never been explained, and is the only thing in this file that runs backwards.
 
 **Interaction method:** Baseline it across a full shift rather than a session, since the reading responds to conversation and the quietest hour will misrepresent it. In shared conditions record whether the net grew toward the other entity, whether the growth followed anyone's speech, and whether the edge retreated at any point — retreat is rare and has never been explained.
 
 
 ### Entity Interaction Record
 
-The vault holds several things that grew from what was not there, and the three below are filed alongside this one because proximity makes each of them harder to describe accurately. None of the three is an ally or an enemy; the archive keeps them as pairings of subject, and the traffic it can measure between them is one-directional and thin.
+Several things in the vault grew out of what was not there, and the three below are filed beside this one because standing near any of them makes it harder to describe the others accurately. None of the three is ally or enemy; the archive holds them as pairings of subject, and the traffic it can measure runs one way and thin.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
