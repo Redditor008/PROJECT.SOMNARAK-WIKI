@@ -243,7 +243,7 @@ All three pieces were cut in the window between loops and all three carry the sa
 
 ## 감각 묘사 (Flavor Text)
 
-The body register changes the weight from a classification into an experience. You do not merely register weight pressure on the gauge; you feel it in your body — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. A single moment frozen in the air of a Zone E medical bay — a soldier mid-scream, a table overturned, a light shattered. The moment repeats every 47 minutes, and anyone inside the bay when it loops experiences the scream as their own.
+Weight stops being a classification the moment the bay takes you. The gauge still reads it as pressure; the body reads it as *this one* — the ache that answers to your name and nobody else's. The holding itself is a single moment caught in the air of a Zone E medical bay: a soldier with the scream still coming, a table on its way over, a light already broken and not yet landed. Every 47 minutes the room does it again, and whoever is standing inside takes the scream into their own throat.
 
 **At first contact:** Through the glass: a still room with the dust unmoving in it, and a man standing in the middle of it who is about to scream and has been about to for nine years.
 
@@ -255,7 +255,7 @@ The body register changes the weight from a classification into an experience. Y
 
 ## 상호작용 (Entity Interactions)
 
-The ward holds one patient through a first loop and a second, and the sheet is completed when the second one ends. The file has never had a second holding brought inside during either loop. The pairing rows below come from the appendix that groups the 90x holdings by manifestation and are read against each record's own series; what the three share is a period that has to run its full length before anybody writes anything down.
+A warden sits the bay through a first loop and a second; the sheet is closed when the second one ends and not before. No second holding has ever been brought inside for either pass. The three rows below come from the appendix sorted by manifestation, each read against this record's own series — and the one thing the three have in common is a stretch of time that must finish on its own before anyone is allowed to write.
 
 **Interaction method:** Take the ward's own numbers first: the two loops, the sheet completed at the second, the gauge fall that follows the second and never the first. Then set the other record's series beside them and enter the first parting, its reach, its trigger, and whether either series moved in the reading. Re-verify at the next discharge.
 
@@ -271,19 +271,19 @@ The ward holds one patient through a first loop and a second, and the sheet is c
 
 The citizens of SECTOR-O-911, contained have a name for Never Discharged that predates the R.D. classification. They call it the weight that does not lift. The R.D. calls it Time-Body. Both are correct.
 
-The body sorrow that birthed Never Discharged is specific. It is not the general weight grief that saturates Somnarak — that ambient, city-wide ache that every citizen carries. This is a particular grief, a particular wound, crystallized into a time form because the body register was the only shape it could take. Time was the vessel; body was the content; weight was the pressure.
+What was left behind in this bay is not the ambient weight that every citizen of Somnarak walks around under. It is one man's particular wound, and it took a time shape because no other shape would hold it — the instant when the scream was still forming and could no longer be stopped. The hours made the vessel, the body gave it its content, and the weight is the pressure of a moment that never finishes landing.
 
-The entity does not rage. It does not weep. It simply persists — body and weight, patient and permanent.
+- Nothing here shouts and nothing weeps. The bay goes on holding its one unfinished second, and the weight goes on being weight.
 
-The entity does not rage. It does not weep. It persists — body and weight, patient and permanent. Never Discharged is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+The bay raises no voice and sheds no tear. It holds one moment on repeat with the patience of a ward that expects to outlast everyone reading this. Never Discharged is not the loudest thing in Somnarak; it is the most particular — and in a city that hands its grief to everyone in the same shape, a wound that fits only one person is the one that reaches bone.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The body register is not in the manual. We learned it by failing."* — Specialist, Field Team
+*"Nobody trains you for a bay that times its own day in forty-seven-minute pieces. We learned this register by standing in it."* — Specialist, Field Team
 *"I have worked weight entities for six years. This one is different. The body makes it personal."* — Handler
-*"Containment holds. But the protocols need a new chapter."* — Containment Lead
+*"The door holds. What the protocols do not yet carry is the line for a man who went in for the only reason anybody goes in."* — Containment Lead
 *"After contact, I could not stop thinking in the body register for three days."* — Specialist, Recovery
-*"It is one of the first of its kind. We are still learning what Time-Body means."* — Researcher, Floor 4
+*"Time-Body is where the filing puts this. Where it does not go is the column for the four who walked in and found the scream was theirs — that column is still being written."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record
 
@@ -326,7 +326,7 @@ The bay itself is ordinary between recurrences and could be used, and the questi
 
 ### The Weight That Does Not Lift
 
-The district's own name for it describes something that stays on a person, and the file carries that name beside the classification. Both appear at the head of the folder. The archivist's note gives the standard reason and adds that in this instance the local name is also the more accurate description of what personnel report afterward.
+The district's own name for the bay describes something that stays on a person, and the file keeps that name beside the classification at the head of the folder. The archivist's note gives the usual reasoning for the pairing and then adds a caveat of her own: in this instance the local name is not a courtesy translation, it is the more accurate description of what wardens report when they finally go home.
 
 ## Trivia
 
