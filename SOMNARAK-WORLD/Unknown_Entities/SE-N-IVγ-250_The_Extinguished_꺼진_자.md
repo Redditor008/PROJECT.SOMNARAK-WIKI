@@ -87,7 +87,7 @@
 
 1. **Tension:** The worker is screened for Hope signature at the shelter door and again at the threshold of the inner room, because the first screening has twice missed a Stigma carried in a coat. Nothing is lit. The approach is made in the dark the district has had since the Bearer died.
 2. **Clash:** The entity asks its one word and the worker's task is to stay, say nothing that sounds like a promise, and not leave before the hour is out. Wardens outside the door hold the extraction order and are instructed to use it the moment a worker begins a sentence with *it will be*.
-3. **Resolution:** The hour ends and the worker leaves while the entity is still asking. There is no closing state and no acknowledgement; the Zone D office counts a cycle successful if the worker walked out unaccompanied and the frost on the door frame is thinner than it was the week before.
+3. **Resolution:** The hour ends and the worker leaves while the entity is still asking — the watch entered under the suppression condition: **offer presence and no promise of permanence, and hold steady without flinching**. There is no closing state and no acknowledgement; the Zone D office counts a cycle successful if the worker walked out unaccompanied and the frost on the door frame is thinner than it was the week before.
 
 ### Consequences
 
@@ -226,8 +226,8 @@ One piece exists. It was taken from a figure that had been a Hope Bearer, and th
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer logs the frost depth at the shelter door and whether the entity is in the inner room or on the round. Both are visible from the street and neither requires entry; most of this file was built from the street. |
-| **Sustained observation** | Across a month the observer should be able to say whether the round is lengthening. It has gained one street in nineteen months and lost it again twice, and that oscillation is the closest thing the Zone D office has to a trend line. |
-| **Activation or escalation** | The precursor is the gold. The edges brighten before a round and dim before a settled night, visibly and from a distance, and the brightening has preceded every escalation on file by between ten and forty minutes. |
+| **Sustained observation** | Across a month the observer should be able to say whether the round is lengthening. It has gained 1 street in 19 months and lost it again twice, and that oscillation is the closest thing the Zone D office has to a trend line. |
+| **Activation or escalation** | The precursor is the gold. The edges brighten before a round and dim before a settled night, visibly and from a distance, and the brightening has preceded every escalation on file by between 10 and 40 minutes. |
 | **Post-contact review** | The review records what the worker said, in full, and whether any of it was a promise. The district's own account must also be taken: the shelter-matron Saetris Nunvia keeps a parallel register of who in the four streets answered a knock that week, and the two records are read together. |
 
 **Observation method:** Watch the gold, measure the frost, count the streets. Three instruments, all of them visible from outside the building, and between them they have predicted every escalation this file records.
