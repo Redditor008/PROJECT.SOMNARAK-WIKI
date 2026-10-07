@@ -3094,13 +3094,15 @@ condition (Both posts hand in their tallies without conferring, and the differen
 condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; archive dirty @dirty@;
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
-**Batch 44, unit 1: Harvest Beyond the Gate `N-IIβ-627` cleaned.** Copied `### Consequences` (whole against 6 dossiers, worst
+**Batch 44, unit 2: Dreaming Ruin `N-IIIγ-505` cleaned.** Copied `## Operational Parameters` (whole against 5 dossiers) replaced\nin place in its own terms; Han-Energy row repaired line-locally (section 0.071 → 0). 7,321 → **7,256 words**; residual 0; 0 sections\nover 0.05; copy-side whole instances **5 → 0**. **Batch 44 stands at two of ten.**\n\n**Batch 44, unit 1: Harvest Beyond the Gate `N-IIβ-627` cleaned.** Copied `### Consequences` (whole against 6 dossiers, worst
 Torn Flower at 1.00) replaced **in place** in the file's own terms — Gate, orchard rows, half-hour mark, armoury ledger,
 until the next touched-fruit tally is larger than the last. 7,270 → **7,299 words**; residual 0; **0 sections over 0.05**;
 `tpl.py` 0; meets **True**; copy-side whole instances **6 → 0**; nothing deleted. **Batch 44 stands at one of ten.**
 
 **Batch 44 — OPEN at ten; clean phase (replace copied sections in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
+
+- SE-N-IIIγ-505 Dreaming Ruin 돌아온 잔해 — `f54a339` — PUSH VERIFIED — [[SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-505_Dreaming_Ruin_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%9E%94%ED%95%B4.md "SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해.md")]
 
 - SE-N-IIβ-627 Harvest Beyond the Gate 녹아내린 열매 — `718ab84` — PUSH VERIFIED — [[SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-627_Harvest_Beyond_the_Gate_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md")]
 

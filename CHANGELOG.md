@@ -8,7 +8,7 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-- **Batch 44 / unit 1 — Harvest Beyond the Gate `N-IIβ-627` cleaned (2026-10-07)** — clean phase, owner-directed: the
+- **Batch 44 / unit 2 — Dreaming Ruin `N-IIIγ-505` cleaned (2026-10-07)** — copied `## Operational Parameters` (whole against **5**\n  dossiers) replaced **in place** in the file's own terms: fresh mechanics reference, its own Primary-pressure line ("the ruin works\n  on what a dreamer still believes of themselves"), a Recommended-response line naming it a Subject-Dream, and a line-local repair\n  to the Han-Energy row ("16–22 per completed work cycle") after the first pass left the section at 0.071. 7,321 → **7,256 words**;\n  residual 0; **0 sections over 0.05**; `tpl.py` 0; meets **True**; copy-side whole instances **5 → 0**. **Batch 44 stands at two of ten.**\n\n- **Batch 44 / unit 1 — Harvest Beyond the Gate `N-IIβ-627` cleaned (2026-10-07)** — clean phase, owner-directed: the
   copied `### Consequences` section (whole-copy against **6** dossiers incl. Torn Flower at 1.00, Memory Weaver 0.94) replaced
   **in place** with fresh text written in this file's own terms (the Gate, the orchard rows, the half-hour mark, the armoury
   ledger, the touched-fruit tally). 7,270 → **7,299 words**; `verify.py` residual 0; `sectfile.py` **0 section(s) over 0.05**;
