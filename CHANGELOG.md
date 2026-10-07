@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 46 / unit 1 — Eleven Fifty-Nine `C-IIIγ-912` quote written (2026-10-07)** — the shared opening quote (family of **7** dossiers, source
+  **Breathing Stone `C-IVδ-907`**) replaced **in place** with one of this file's own: the district grieving one loss nightly that belongs to no one present. 6047 → **6055 words**; residual 0; 0 sections over 0.05;
+  `tpl.py` 0; meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 46
+  stands at 1 of ten.**
+
 - **Quote phase part two opened — batch 46 (2026-10-07), owner's direction** — *"P + When You Write The Quote And Fix It Link Both
   The Duplicated That Is Fix And The Source."* Ten more family copies queued: F2's last three (Eleven Fifty-Nine · Endless Shift ·
   Allhallow; source Breathing Stone `C-IVδ-907`), F3's five (Never Discharged · Ninety Seconds · Miasma · Sky of Borrowed Faces ·
