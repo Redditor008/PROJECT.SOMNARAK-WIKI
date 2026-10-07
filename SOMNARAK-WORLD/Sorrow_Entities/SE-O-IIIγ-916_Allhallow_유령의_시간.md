@@ -87,7 +87,7 @@
 
 1. **Tension:** The team identifies Allhallow by the exactness of the hour. Sixty minutes from the first walker to the last, thirty-four times, with no occurrence shorter and none longer — the most regular figure anywhere in the wing and the one the whole posting is built around, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Allhallow's recorded combat actions.
-3. **Resolution:** The last walker is gone at the minute the first one appeared plus sixty. Both posts hand in their tallies without conferring, the difference is written down as a difference and not resolved, and the border reopens.
+3. **Resolution:** The last walker is gone at the minute the first one appeared plus sixty. Both posts hand in their tallies without conferring, the difference is written down as a difference and not resolved, and the border reopens. It closes against the documented suppression condition: **Both posts hand in their tallies without conferring, and the difference is written down as a difference**.
 
 ### Consequences
 
@@ -253,6 +253,20 @@ The phantasmal register changes the lament from a classification into an experie
 **When the line lengthens:** The far post’s total climbs while the near post’s does not. Both extensions were found this way, in the reconciliation, days after the hour itself.
 
 **After departure:** The border is a border again. The marks in the dust are the ones that were there before, which is the detail most counters mention first.
+
+## 상호작용 (Entity Interactions)
+
+The border is walked on one night a year, and the file has never recorded a second holding inside it while the walk was on. Everything below is paper work — the appendix that groups the 90x holdings by manifestation, read against each record's own series. The three pairings share one subject, a period that ends because the clock says it does, and each of the four files keeps that ending somewhere different.
+
+**Interaction method:** Take the night's own numbers first — two posts, no conferring, the difference entered as a difference — before any other series is laid beside them. Then enter where the two part, how far, what set it off, and whether either series moved in the reading. Re-verify at the next walk.
+
+| What the border meets | How the pairing has run | What the watch entered | What the tally keeps |
+|---|---|---|---|
+| **Once Upon** `O-IIIγ-920` | Filed together on an hour full of names. That record watches a gauge fall as tellers are named aloud, holding across 94 hours; this one counts walkers by post and never asks who they were. | The naming series and the two tallies sat side by side once and agreed on nothing but the hour. | That the two are filed for the shape of the hour, noted beside the row each time it is read. |
+| **Never Discharged** `O-IIβ-911` | Grouped on occupants the hour will not release. That record keeps a patient through a second loop; here the walkers are gone at the minute the first of them appeared plus sixty. | One review entry; the discharge count and the tallies were compared and parted at the first mark. | That the parting is the entry, kept in the review's own figures rather than averaged away. |
+| **Dead Air** `N-IIIγ-929` | Grouped on a watch that closes at the hour. That record keeps a six-hour form and reads a barometer at the handover; this one keeps two sheets and will not reconcile them. | Nothing was run. The appendix listed the two together and the review left it there. | That the pairing rests on a filing line with no measurement under it, entered on each repetition. |
+
+**Interaction procedure:** No co-presence is authorised here. The comparison happens at the annual review, with the two posts' tallies entered first and the other record's series laid beside them untouched; parting, size, trigger and both readings go into the margin.
 
 ## 이야기 (Narratio) — The Tale
 
