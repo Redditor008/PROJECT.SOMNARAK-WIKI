@@ -314,7 +314,7 @@ These are the only pieces in the catalogue that cost the wielder something the r
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Hums (C-IIβ-048 [LO]) is logged as a Object-Lament manifestation expressing Lament. The Stone formed from songs of the dead that no living person continued. Held at SECTOR-D-02, Echo Gardens — contained/open display. The Stone's Han-signature resonates with the Weeping.
+Hums (C-IIβ-048 [LO]) is an Object-Lament manifestation expressing Lament — a stone the register keeps under the songs the dead left behind and no living person carried on. Held at SECTOR-D-02, Echo Gardens — contained/open display. The Stone's Han-signature resonates with the Weeping.
 
 **Entry 2 — <Carrier Register: Two Hundred and Eighty-One Songs>**
 Songs heard from the stone since the register opened: two hundred and eighty-one. Songs with a living carrier: forty-four. Songs with exactly one living carrier: six. Songs transcribed in full, accurately, by competent staff, and carried by nobody: two hundred and thirty-seven. The register's front page carries the only sentence it needs: the archive has the songs and the district does not have them back.
