@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's lament pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament]]** | When the entity first fixes on a target. |
-| { *The Lament Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament lament sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[18 Lament DMG [Lament]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[24 Lament DMG [Lament]]** | When the entity is cornered or starved. |
-| { *The Lament Collapse* [**Ultimate**] } | "The lament breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Bank Rolls In* [**Debuff**] } | "Your eyes go before you understand why — and so does everyone else in the corridor." | [The fog fills the run, and the grief it carries arrives as particulars: a name, then a street, then a detail nobody present could have invented.] | *The target weeps without sadness, under a weight that is not theirs.* **[10 Lament DMG [Lament]]** | When the bank first takes a target into its volume. |
+| { *The Particulars* [**Attack**] } | "A name arrives, then a street, then a detail you could not have invented." | [The grief acquires particulars it should not have, and the target’s own recollection supplies the rest.] | *Lament damage strikes the target as remembering rather than receiving; the gauge spikes.* **[18 Lament DMG [Lament]]** | When the target is provoked or denies what it is feeling. |
+| { *The Run Fills* [**Attack**] } | "It does not thin for you the way it thins from the far end." | [The whole corridor is inside the bank at once, and there is no spotter left with a clear voice to call it.] | *A heavy Lament strike; the target’s Sorrow Gauge surges.* **[24 Lament DMG [Lament]]** | When the bank is cornered or starved of open air. |
+| { *The Whole Flood* [**Ultimate**] } | "Every particular it ever gathered comes back at once." | [The bank releases everything it has collected down the run, in every direction, all of it claiming to be remembered rather than received.] | *All personnel suffer Lament erosion for three turns.* **[20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -146,7 +146,7 @@ The pressure cannot be measured at all, which is the operational problem: the ho
 
 ## Breach Behavior
 
-> *"Miasma has broken free. The lament lament spreads."*
+> *"Miasma has broken free. It fills the lower runs, and the weeping starts on its own."*
 
 | Field | Detail |
 |---|---|
