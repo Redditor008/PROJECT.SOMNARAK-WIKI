@@ -86,9 +86,9 @@
 
 ### Battle Phases
 
-1. **Tension:** Aegis is confirmed by an armoured figure of ancient Han-crystal, scarred, fever-hot, far above human height, standing square to the Exile's Gate with its weapon held low and never raised. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Aegis is confirmed by an armoured figure of ancient Han-crystal, scarred, fever-hot, far above human height, standing square to the Exile's Gate with its weapon held low and never raised. Before anything else is tried the pair fixes where it will stand and how it will withdraw.
 2. **Clash:** Every approach is authorised singly and every worker states their direction aloud at the threshold before the cycle opens. Outbound and inbound are different procedures here and the holding draws no distinction the Directorate's people do not draw first.
-3. **Resolution:** Containment, management, retreat or the documented suppression condition — whichever the cycle ends in — is entered as: **State the purpose of departure; do not attempt to return through the Gate**. The condition is met when the departing worker has said aloud where they are going and for what, and has not turned back at the threshold; a cycle that ends with anybody reaching for the inbound side is filed as a return attempt, whatever was meant by it.
+3. **Resolution:** The cycle closes in containment, in management, in retreat, or at the Gate itself, and the entry is made under the suppression condition: **State the purpose of departure; do not attempt to return through the Gate**. The condition is satisfied once the departing worker has said aloud where they are going and for what, and has not turned back at the threshold; a cycle that ends with anybody reaching for the inbound side is filed as a return attempt, whatever was meant by it.
 
 ### Consequences
 
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Treat the table as a snapshot and never as a system: the classification and the origin explain why Flerehan calms this post and agitates others, and on this file the table's own warning is that Pugnahan is not merely ineffective here but read as an attempted return. Aegis is a Subject with a Subject-Body manifestation and Grudge elemental expression, standing at SECTOR-E-01 in Zone E. The ledger figure has risen on every annual return on record — 760, then 834, then 910 — and the challenge is read aloud at handover; a steady gauge is not a safe perimeter, and observation can leave the number unchanged while still exposing the worker to memory, environmental or identity effects.
+Treat the table as a snapshot and never as a system: the classification and the origin explain why Flerehan calms this post and agitates others, and on this file the table's own warning is that Pugnahan is not merely ineffective here but read as an attempted return. Aegis is a Subject — Subject-Body for the manifestation, Grudge for the elemental expression — standing at SECTOR-E-01 in Zone E. The ledger figure has risen on every annual return on record — 760, then 834, then 910 — and the challenge is read aloud at handover; a steady gauge is not a safe perimeter, and observation can leave the number unchanged while still exposing the worker to memory, environmental or identity effects.
 
 **Reading the response:** A falling gauge means the immediate crisis is easing and says nothing about the sorrow underneath: on this post the count has never fallen, only slowed, and management should never be mistaken for resolution. A rising gauge means an inbound movement has been read, authorised or not, and the answer is to withdraw the cordon outward rather than to explain. The ledger figure, the stance and the weapon angle are read together; the stance has not altered in any recorded watch.
 ## Containment Event Behavior
@@ -268,7 +268,7 @@ All 3 pieces are cut from the post rather than from the figure, and they carry w
 Aegis (C-IVδ-200 [GS]) is a Subject-Body manifestation expressing Grudge: the duty of a Gate held by one Warden who died at the post, worn now by something far above human height. It stands at SECTOR-E-01 in Zone E, square to the Exile's Gate, weapon held low and never raised. Whatever goes out is counted; nothing is counted back in, and the ledger has run that way for six centuries. The condition is to state a purpose for departure and never to attempt a return through the Gate.
 
 **Entry 2 — <Exile's Gate Watch Return, Year 4238>**
-Standing gauge 910 on the Gate ledger scale, after 834 and 760 in the two preceding returns — equivalent to 76 per cent on the operational scale, within the recorded 60 to 80 band. Weapon lowered throughout. Outbound movements unchallenged, as always. Threshold challenges made: 1,204. Challenges omitted: none.
+Standing gauge 910 on the Gate ledger scale, after the 834 and the 760 of the two returns before it — equivalent to 76 per cent on the operational scale, within the recorded 60 to 80 band. Weapon lowered throughout. Outbound movements unchallenged, as always. Threshold challenges made: 1,204. Challenges omitted: none.
 Leaves the Gate to pursue those attempting to return. Personnel feel the finality of exile and the weight of every goodbye. It does not stop legitimate exiles.
 
 **Entry 3 — <Decisions Office, standing rule>**
@@ -313,7 +313,7 @@ This file reads Aegis against the 3 records it has been paired with — The Forg
 
 ### Entity Interaction Record
 
-Aegis must be kept distinct from the other boundary holdings. The Rusted Wall keeps people out of somewhere; this one keeps the direction of travel itself, which is why it has never obstructed a single person leaving and has injured two for walking back in by the wrong door.
+Aegis belongs in a class of its own among the boundary holdings. The Rusted Wall keeps people out of somewhere; this one keeps the direction of travel itself, which is why it has never obstructed a single person leaving and has injured two for walking back in by the wrong door.
 
 | Record set beside it | Where the resemblance comes from | What has actually been observed | Entry the file requires |
 |---|---|---|---|
@@ -405,7 +405,7 @@ Year 4237: 4,109 final decisions; 171 errata published; 171 decisions left stand
 
 The costs are exactly what they look like. The notice returns no post, no grade, no pay and no entry — it is a true statement attached to a person who is still outside the Gate. Readers do not treat it kindly either: the Office's own survey found that a record carrying an erratum is read as a record with a history, and the people it exonerates describe being known as the ones something went wrong with. Naming the signing officer gives deciders a direct interest in resisting a finding of error, and contested errata take an average of four years, during which the person has neither the remedy nor the notice. And the whole apparatus is, by construction, incapable of altering a single outcome.
 
-The notice clerks asked for the one thing that might have made it useful: that a published erratum entitle the person to make a *fresh* application, considered at first instance as if nothing had gone before. Refused, and the refusal holds up — a fresh application following an erratum is an appeal with a new cover sheet, and appeal is the regime that filled four volumes with exhausted people and confident officers. Their submission stands in the Year 4235 return, recorded as correct and unanswered: that this Company abolished the second look so that the first one would be worth having, and has thereby built a Gate that opens one way only, through which one hundred and seventy-one people a year are correctly, finally and demonstrably wrongly put out, each of them holding a signed paper agreeing with them.
+The notice clerks asked for the one thing that might have made it useful: that a published erratum entitle the person to make a *fresh* application, considered at first instance as if nothing had gone before. Refused, and the refusal holds up — a fresh application following an erratum is an appeal with a new cover sheet, and appeal is the regime that filled four volumes with exhausted people and confident officers. Their submission sits in the Year 4235 return, marked correct and never answered: that this Company abolished the second look so that the first one would be worth having, and has thereby built a Gate that opens one way only, through which one hundred and seventy-one people a year are correctly, finally and demonstrably wrongly put out, each of them holding a signed paper agreeing with them.
 
 ### Corrupt, Not Escape
 
