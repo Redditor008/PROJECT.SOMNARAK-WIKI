@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 33 / unit 3 — Screaming Masonry `C-IIIγ-891` closed (2026-10-07)** — measured at `4b37242`:
+  **4 dirty sections**, worst Final Observation 0.180 (the choice blockquote, the choose row and the result row —
+  whose two cells had been showing each other's outcome and were rewritten in order), then M.A.W. Equipment 0.082
+  (two `matte and unnaturally heavy` appearance lines, the primary-effect row, the ring's effect and conferred-not-made
+  note, the at-limit row), Flavor Text 0.080 (the relations preamble, the interaction method, the canonical-contact
+  paragraph and the interaction procedure) and Combat Record 0.055 (the yield and resistance rows, two action rows, the
+  tension phase and the resolution). **Closed in a single wave** (29 sites); 7,129 → **7,393 words**;
+  `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series`
+  clause was **False** and was closed **False → True** by restating the file's own figures in numerals inside real
+  edits — 4 generations in the Registrum and the cross-reference line's 1,900 transcript lines — disclosed. The Entry 1
+  `is logged as ` stock line was rewritten (`stands on the register as`), residual **1 → 0**. Movement at the unit
+  commit: `R-29` 201 / 301; section-clean 226 / 301; residue-free 302 / 302; residue lines 0; archive dirty
+  169; file-clean 302 / 302. **Batch 33 stands at three of ten.**
+
+
+
 - **Batch 33 / unit 2 — Welcome Haven `O-IVδ-897` closed (2026-10-07)** — measured at `8de961d`: **4 dirty
   sections**, worst Final Observation 0.189 (the choice blockquote, the choose row and the result row), then Behavior
   0.160 (the 33-gram Work-Type-context paragraph), Trivia 0.060 (the classification and field detail lines) and Flavor

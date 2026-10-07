@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful work cycle, taken off the contact sensors and never off the stone itself |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Weight pressure; 25% against other pressure types |
+| **Resistance** | 35% against Weight pressure and 25% against everything else — resistance carried in the fabric rather than in anything that can be argued with |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 607/607 |
 | **Han Pressure [ATK]** | 14–33 per hit · Weight |
@@ -82,14 +82,14 @@
 | { *The First Cry* [**Debuff**] } | "Someone screams — and the scream has weight, and it lands on you." | [A scream begins; its pressure settles on the target.] | *Target suffers -10 Resolve; the cry is heavy.* **[10 Weight DMG [Weight]]** | When the Scream begins. |
 | { *The Echoing Panic* [**Debuff**] } | "The scream spreads — and every voice that takes it up makes it heavier." | [The scream propagates; more voices join, more weight accrues.] | *Target loses 10 Resolve; the panic is contagious.* **[10 Weight DMG [Weight]]** | When the target hears the Scream. |
 | { *The Sonic Weight* [**Attack**] } | "The sound becomes solid — a wall of screaming that you cannot shout down." | [The accumulated scream crushes outward as physical force.] | *Inflicts Weight pressure and one battering wound.* **[14-22 Weight DMG [Weight]]** | When the Scream is provoked. |
-| { *The Crescendo* [**Attack**] } | "The scream builds to a peak — and at the peak, it breaks something." | [The Scream reaches its crescendo and ruptures outward.] | *A heavy Black blast; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Scream is silenced or struck. |
-| { *The Deafening* [**Ultimate**] } | "Everyone is screaming now — and no one can hear anything else, ever again." | [The Scream fills every throat in the field.] | *All personnel suffer Weight pressure for three turns of unending scream.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Crescendo* [**Attack**] } | "The scream builds to a peak — and at the peak, it breaks something." | [The held weight comes to full pitch and breaks outward along the wall it is passing through.] | *A heavy Black blast; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Scream is silenced or struck. |
+| { *The Deafening* [**Ultimate**] } | "Everyone is screaming now — and no one can hear anything else, ever again." | [Every throat in the field starts carrying a complaint nobody standing in it ever made.] | *All personnel suffer Weight pressure for three turns of unending scream.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (silent wall movement and sternum pressure; Old Lament's subsidence is audible, directional, and visible on the engineers' own gauges) and Screaming Masonry is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** Check the markers first — wall movement with no sound above it, and pressure at the sternum; Old Lament's subsidence can be heard, placed by direction, and read on the engineers' own gauges. The designation is confirmed against the classification table, positions are taken, and only then is the cycle opened.
 2. **Clash:** Four turns on contact sensors, observation and endurance only. The vibration line is marked at both ends of the cycle and any utterance newly legible is transcribed before the team stands down.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge duties without accepting impossible blame**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Acknowledge duties without accepting impossible blame**. On this holding the clause is the whole of the work: the watch closes when the duties are named and the impossible share of the blame is set down where it belongs, which is nowhere any living worker can carry it.
 
 ### Consequences
 
@@ -197,7 +197,7 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 |---|---|
 | **Trigger** | New unfulfilled obligations. |
 | **Manifestation** | Object-Lament |
-| **Primary effect** | +3 stat bonus when working the source entity |
+| **Primary effect** | +3 stat bonus while working the source holding, entered at issue and struck the day the bearer leaves the survey |
 | **Duration / rate** | While equipped, until the removal condition is met. |
 | **Risk** | Major (γ) Object-Lament producing Weight pressure; strain and destabilisation for a bearer, and permanent absorption into a building where the passage is not managed. |
 | **Management** | Viderehan and Ferrehan only, certified relic protocol for any bearer, vibration line walked and marked each session, transcripts taken and filed in full. |
@@ -211,7 +211,7 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that quivers when raised.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, finished dark and heavier than its bulk accounts for, that shivers in the hand before it is swung.
 
 **Damage:** Weight 10–15
 **Speed:** 3 (Fast)
@@ -232,7 +232,7 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Appearance:** a draped mantle of Weight Han-weave, dark as river stone and heavier than any weave, that draws in when its source element is close.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -244,23 +244,23 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 
 **Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Screaming Masonry's kind of pressure.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** The wearer carries a constant low fatigue that the survey logs and nobody treats.
 
 ### M.A.W. Stigma — Screaming Masonry Ring
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a ring of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
+**Appearance:** a ring of Weight Han-steel, dark-grained and weightier than its size explains, that takes the light at no angle at all.
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity; the bearer hears nothing additional and feels a steady pressure at the sternum.
+**Effect:** +3 stat bonus while working the source holding; the bearer hears nothing further and carries a steady pressure at the sternum.
 
 **Ability:** Reveals lies and hidden obligations.
 
 **Cost:** The wearer feels the burden behind every deception.
 
-*The Screaming Masonry Ring is not manufactured and cannot be requisitioned. It has been conferred nine times, in each case on a worker who completed a transcript rather than abandoning it when the utterance turned out to name somebody still living in the district.*
+*The Screaming Masonry Ring is conferred rather than made, and no requisition reaches it. Nine workers carry it. Every one of them finished a transcript that named somebody still living in the district, and not one of them stopped at the name.*
 
 ### M.A.W. Use Notes
 
@@ -272,7 +272,7 @@ Each Masonry piece is an extension of the entity rather than ordinary equipment.
 |---|---|
 | **Before use** | Wielder identity, piece grade, entity gauge, operator composure, equipment condition, mission objective, current bearing of the shard, and the sensor baseline for the bay. |
 | **During use** | Activation time, vibration amplitude at each sensor, chest pressure at one and three metres, bearing, first cost paid, and every utterance made legible. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the bearer has begun listing obligations aloud. |
+| **At limit** | The bearer has begun listing obligations aloud, in order, without being asked — that, and not any figure on the sheet, is where this set ends, and the second worker calls the limit. |
 | **After use** | Detachment in order, injuries, lingering effects, cooldown, sensor record closed, transcripts filed in full and unedited, reuse authorisation. |
 
 **Stat interpretation:** The grade describes what the piece does to entities, not what it takes from the bearer, which is listed separately and is measured here in resilience per quarter-minute. No grade of equipment reduces that figure.
@@ -284,7 +284,7 @@ Each Masonry piece is an extension of the entity rather than ordinary equipment.
 - It travels through the tenement fabric and along the district's lapsed obligations, and the two routes are the same route in Old Lament.
 - The vibration amplitude rises near a live dispute about an obligation, and falls when the dispute is settled on any terms at all, including terms the parties dislike.
 
-**Personnel Note:** *"I transcribed eleven minutes of it. Every line was something somebody decided not to say to a neighbour. Not one of them was unreasonable. That is the part I took home."* — Researcher, R.D.
+**Personnel Note:** *"I transcribed 11 minutes of it. Every line was something somebody decided not to say to a neighbour. Not one of them was unreasonable. That is the part I took home."* — Researcher, R.D.
 
 
 
@@ -292,10 +292,10 @@ Each Masonry piece is an extension of the entity rather than ordinary equipment.
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Screaming Masonry as an Object/Place with Object-Lament manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone B, Old Lament — ambient. |
+| **Initial exposure** | The observer places the holding from the markers: wall movement with no sound over it, and pressure at the sternum. Confirmed against the classification table before entry, with the survey's own sensor line opened first. |
 | **Sustained observation** | Vibration amplitude at every contact sensor, bearing against the current map, chest pressure at fixed distances, walls affected in order, gauge, and the running transcript with its date and transcriber. |
 | **Activation or escalation** | Escalation is recorded on absorption — a silence in the field while the shard is still present. Log the sensor interval, identify the building, notify the municipal engineers, and add the structure to the vibration survey. |
-| **Post-contact review** | Sensor series before and after, bearing, walls affected, transcripts filed, gauge movement, and a seven-day check on each worker for compulsive listing of obligations and for speaking aloud to nobody. |
+| **Post-contact review** | Enter the sensor series before and after, the bearing, the walls affected in order, the transcripts filed and the gauge movement. The 7-day check covers both compulsions — obligations being listed aloud, and anyone speaking to nobody. |
 
 **Observation method:** Watch the stone, take the bearing, write down the words. Read the form as the wound rather than the intention: four generations in shared rooms held their complaints because complaining meant naming a neighbour, and the held complaints are what is drifting through Zone B.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -303,7 +303,7 @@ Each Masonry piece is an extension of the entity rather than ordinary equipment.
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Screaming Masonry (C-IIIγ-891 [D]) is logged as a Object-Lament manifestation expressing Weight. The Scream formed from obligations that were never fulfilled. Held at Zone B, Old Lament — ambient. The Scream is felt more than heard.
+Screaming Masonry (C-IIIγ-891 [D]) stands on the register as an Object-Lament manifestation expressing Weight. The Scream formed out of obligations that were never discharged. Held at Zone B, Old Lament — ambient, and it is felt rather than heard at every point along the line.
 
 **Entry 2 — <Through Walls and Contracts>**
 It spreads through walls and old contracts.
@@ -319,11 +319,11 @@ Entry 5 closes the origin question rather than opening it. The Keeper assigned t
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Screaming Masonry; the other feeds it.
+> Two ways to close a watch on the stone, and the file separates them by what the observer does with blame: one names the duties and refuses the impossible share of it, and the other takes that share on — competently, kindly, and to the stone's advantage.
 
-| Do the thing on file: Acknowledge duties without accepting impossible blame. | Do the obvious, decent thing instead, and feed Screaming Masonry. |
+| Acknowledge the duties as the sheet sets them out, and refuse the share of the blame no living worker could carry. | Do the decent thing instead — accept the impossible share, carry it quietly, and feed Screaming Masonry. |
 |---|---|
-| Weighs the worker's resolve. The sorrow is borne; Screaming Masonry is fully recorded. | Reveals the obligations behind the cry. The gauge climbs and Screaming Masonry withdraws without revelation. |
+| The weight is set down where it belongs and the transcript closes complete, with the holding recorded whole. | The blame is taken up by the worker; the gauge climbs and the entry closes with the stone no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -342,22 +342,22 @@ Something floats through the Old Lament, but you hear it only in your bones. The
 
 ### Interaction Pattern
 
-This holding is read against the other obligation-bearing features of Old Lament. Each relation below has been observed and filed; none is settled; and all three were tested on the contact sensors rather than on how any party sounded, nothing here being audible in the first place.
+The three relations below are read together with the rest of the obligation files in Old Lament. None of them is closed; each was tested on the contact sensors and not on how any party sounded, since nothing on this file makes a sound to hear.
 
-**Interaction method:** Baseline each party alone over several cycles — amplitude, bearing, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle; a Tide, event, Ordeal or transformation can reverse a stable result.
+**Interaction method:** Take each party alone first, across several cycles — amplitude, bearing and gauge — before any joint observation is attempted. The onset of a shared change is entered with its range, duration and trigger, the gauge on both sides, and whatever remains once the parties are apart. Re-verify every cycle: a Tide, an Ordeal, a breach or a transformation can invert a result that stood for years.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. All three were proposed on the shared subject of unmet obligation, which in Old Lament is the subject of nearly every file in the wing.
+The relations below count as points of contact rather than alliances, and none of them is closed. All three were raised on the shared subject of unmet obligation — which in Old Lament is the subject of nearly every file in the wing.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Neighbouring holding | How the two have stood | What the sensors recorded | What the entry carries |
 |---|---|---|---|
 | **The Broken Whisper** | Said to carry fragments of this entity's unfinished cries, which would make the two a single utterance in two places. | Six co-presences and a transcript comparison. No line of the Whisper's content appears in this entity's transcripts, and no line of these transcripts has ever surfaced in the Whisper; the two corpora have been compared in full twice by different transcribers. | All six co-presences, both corpora, and the two comparisons. |
 | **The Debt Wall** | Said to receive unfulfilled obligations from this entity and add them to its own. | Five co-presences. The Wall's ledger gained nothing on any of the five, this entity's transcript length was unchanged, and both gauges were flat. The addition language is withdrawn here. | All five co-presences, the Wall's ledger counts, and the transcript lengths. |
 | **The Orphaned Bell** | Said to toll when this entity spreads, which is the only relation in the file anybody in the district will assert without being asked. | Nine co-presences. The Bell tolled in three and was silent in six; of the three, two were ordinary scheduled tolls. The association is recorded as weak and the direction of it as undetermined. | All nine co-presences, the Bell's toll log, and the two scheduled tolls. |
 
-**Interaction procedure:** Solo baselines first, across several cycles, with amplitude, bearing and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
+**Interaction procedure:** Solo baselines come first, across several cycles, with amplitude, bearing and gauge settled for each party. Then the first shared change goes down with its range, duration and trigger, both gauges, and whether anything survives the separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -397,15 +397,15 @@ Some sorrows are about what was done to you. Screaming Masonry is about what you
 - It travels through the tenement fabric on the district's sorrow currents; the current map is maintained and is good enough to post a watch ahead of it and not good enough to rely on.
 - The pressure is the weight of obligations never discharged and, specifically, of complaints never made about them.
 **Observation Notes:**
-- Formed from four generations of small mutual failures in shared rooms, none of which was ever the subject of a complaint.
+- Formed out of 4 generations of small mutual failures in shared rooms, none of which was ever the subject of a complaint.
 - It presents the weight and withholds the sound, which is the whole of its character and the reason it can be read but not heard.
-**Cross-References:** Old Lament · the debt system · the Weight of Silence · the transcript series · the district complaint register · the nil-objection certificates
-**Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
+**Cross-References:** Old Lament · the debt system · the Weight of Silence · the transcript series, 1,900 lines and unedited · the district complaint register · the nil-objection certificates
+**Faction Involvement:** SED, on the B-territory survey · UCD, for the Fray-adjacent ground
 **Originator:** The residents of the Old Lament tenements; broken obligations through inability rather than ill will.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the inaudibility, the legibility under observation, the transcripts and what the facility does with its knowledge of them are one picture. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file is read whole or it is not read usefully at all: the inaudibility, the legibility under observation, the transcripts and what the facility does with what it knows are one picture. Where a watch contradicts the record, the record is wrong — preserve the contradiction in writing rather than smoothing it away.
 
 **Review requirement:** Re-verify after any absorption event, Tide, Ordeal or unusual interaction: gauge, sensor amplitudes, bearing, current map, buildings affected, transcripts filed and unedited, and the standing of the quarterly nil-objection certificate for Zone B. Sensor records are never averaged and transcripts are never summarised.
 ## Warden Record
@@ -478,7 +478,7 @@ The minute records the objection as **correct in all three parts**. It records t
 ### Registry Trivia
 
 - **Classification detail:** Screaming Masonry is an Object/Place with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Its defining element is Weight, and its registered location is Zone B, Old Lament — ambient.
+- **Field detail:** Its element is Weight, and the register keeps it in Zone B, in the Old Lament, logged ambient.
 - **Recognition detail:** Identify it by silent wall movement and sternum pressure; Old Lament's subsidence is audible, directional, and visible on the engineers' own gauges.
 - **Record detail:** Read this file beside the transcript series, which is the only verbatim record of what the district did not say, and beside the complaint register, which is the only record of what it did.
 - **Containment detail:** There is no containment to hold. The sensors record where it has been, the current map guesses where it is going, and neither does anything about either.

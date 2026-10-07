@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 33, unit 3: Screaming Masonry `C-IIIγ-891` closed.** Measured at `4b37242`: **4 dirty sections**, worst
+Final Observation 0.180, then M.A.W. Equipment 0.082, Flavor Text 0.080 and Combat Record 0.055 — **closed in a single
+wave** (29 sites); 7,129 → **7,393 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**;
+`wikistd.py` meets **True**. Disclosed: `own_series` **False → True** by restating the file's own figures in numerals
+inside real edits (4 generations, 1,900 transcript lines); the result row's swapped cells rewritten in order; the
+Entry 1 `is logged as ` line rewritten — residual **1 → 0**. Movement: `R-29` 201 / 301; section-clean 226 / 301;
+residue-free 302 / 302; archive dirty 169; file-clean 302 / 302. **Batch 33 stands at three of ten.**
+
 **Batch 33, unit 2: Welcome Haven `O-IVδ-897` closed.** Measured at `8de961d`: **4 dirty sections**, worst Final
 Observation 0.189, then Behavior 0.160, Trivia 0.060 and Flavor Text 0.056 — **closed in a single wave** (24 sites);
 7,879 → **8,106 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**,
@@ -2237,6 +2245,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 33 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIIγ-891 Screaming Masonry 스며든 절규 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIIγ-891_Screaming_Masonry_스며든_절규]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-891_Screaming_Masonry_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%A0%88%EA%B7%9C.md "SE-C-IIIγ-891_Screaming_Masonry_스며든_절규.md")
 
 - SE-O-IVδ-897 Welcome Haven 부서진 벽 — `c53e916` — PUSH VERIFIED — [[SE-O-IVδ-897_Welcome_Haven_부서진_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-897_Welcome_Haven_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%B2%BD.md "SE-O-IVδ-897_Welcome_Haven_부서진_벽.md")
 
