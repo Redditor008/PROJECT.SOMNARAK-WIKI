@@ -2238,7 +2238,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 33 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-O-IVδ-897 Welcome Haven 부서진 벽 — `__HASH__` — PUSH VERIFIED — [[SE-O-IVδ-897_Welcome_Haven_부서진_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-897_Welcome_Haven_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%B2%BD.md "SE-O-IVδ-897_Welcome_Haven_부서진_벽.md")
+- SE-O-IVδ-897 Welcome Haven 부서진 벽 — `c53e916` — PUSH VERIFIED — [[SE-O-IVδ-897_Welcome_Haven_부서진_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-897_Welcome_Haven_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%B2%BD.md "SE-O-IVδ-897_Welcome_Haven_부서진_벽.md")
 
 - SE-O-Iα-754 Thralldom 떠도는 사슬 — `a1c3697` — PUSH VERIFIED — [[SE-O-Iα-754_Thralldom_떠도는_사슬]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-754_Thralldom_%EB%96%A0%EB%8F%84%EB%8A%94_%EC%82%AC%EC%8A%AC.md "SE-O-Iα-754_Thralldom_떠도는_사슬.md")
 
