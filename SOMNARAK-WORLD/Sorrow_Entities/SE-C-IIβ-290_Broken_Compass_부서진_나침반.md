@@ -87,9 +87,9 @@
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked against the file: a tarnished brass case cracked and warm at the crack while the metal around it is bloodless-cold, a needle that has not settled in centuries, and a face bearing no markings at all. Broken Compass is confirmed against the designation, the cradle is verified before the timer starts, and the handler's certainty is recorded before anything else is done.
+1. **Tension:** The marker is matched against the file: a tarnished brass case cracked and warm at the crack while the metal round it is bloodless-cold, a needle that has not settled in centuries, and a face carrying no markings at all. The designation is checked, the cradle is verified before the timer starts, and the handler's certainty is entered before anything else is done.
 2. **Clash:** Nobody holds it. Viderehan is a timed revolution count from the cradle; Ferrehan is sitting with a spinning instrument for the interval and not picking it up. Holding the compass alters the figure, which is the first paragraph of the method and the reason for the cradle.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **cradle mounting — the only close a Broken Compass cycle has**. The condition is met when the instrument is back in its cradle, the revolutions and slowings are entered unplotted, the discard radius has been widened where the evidence called for it, and the discharge trigger has not been approached; a bearing corrected rather than discarded is the one event the file treats as a failed close.
+3. **Resolution:** The watch closes on containment, management, retreat, or the suppression condition this file documents: **cradle mounting — the only close a Broken Compass cycle has**. The condition is met when the instrument is back in the cradle, the revolutions and slowings are entered unplotted, the discard radius has been widened where the evidence called for it, and the discharge trigger has not been approached; a bearing corrected instead of discarded is the one ending the file treats as a failure.
 
 ### Consequences
 
@@ -146,7 +146,7 @@
 
 ### Operational Work Notes
 
-Diagnostic use only: the table tells you which approach calms this instrument and which provokes it, and the point of reading it here is that the compass does not behave as its name suggests — it cannot find north, it slows toward concentrations of grief, and its reading is affected by whether the handler is certain. Broken Compass is an Object/Place with an Object-Void manifestation and Void elemental expression, held at SECTOR-D-01 in the Forge District, cradled and never handled, and the table is entered beside the year's counts: mean spin 57 revolutions a minute for 4238, after 46 and then 38. Nothing in the table transfers to another holding with a compass in its name, and a stable gauge is not a safe encounter: observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
+Diagnostic use only: the table sorts which approach settles this instrument and which provokes it, and the reason it is worth reading at all is that the compass does not behave like its name — north is beyond it, it drags toward concentrations of grief, and its reading shifts with the handler's certainty. The file records an Object/Place with an Object-Void manifestation and Void as its elemental expression, held at SECTOR-D-01 in the Forge District, cradled and never handled; the table is entered beside the year's means — 57 revolutions a minute for 4238, after 46 and then 38. Nothing in the table carries over to another holding with a compass in its name, and a still gauge is no proof of a safe watch: the worker can be reached through memory, environment or identity while the reading never moves.
 
 **Reading the response:** The gauge is a response and not a verdict. A fall confirms the approach is doing what the table says it does; it does not make the instrument safe, only quieter, and on a needle that has never settled quieter is not the same as still. A rise means the compass is taking something in rather than letting it out, and the file's caution is that unusual readings precede events: log them, flag them, and adjust the protocol before the next assignment.
 ## Activation Behavior
@@ -188,7 +188,7 @@ Diagnostic use only: the table tells you which approach calms this instrument an
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Compass: it is not a generic containment event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void and held at SECTOR-D-01, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here does not follow a generic containment script. Four things go into the record and nothing else: the trigger, the first visible change in the Object-Void form, the distance at which the effect takes hold, and the boundary where the resonance settles. Because the holding expresses Void and sits at SECTOR-D-01, the dials cannot tell the whole story — what a handler feels, and how a handler behaves, belong on the same page as the readings.
 
 **Response sequence:** Widen the discard radius, re-site every bearing station outside it, and discard — do not correct — every bearing taken inside. A corrected bearing from this radius has gone into three maps that had to be withdrawn.
 
@@ -262,7 +262,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 ### M.A.W. Use Notes
 
-Nothing in this set is ordinary equipment: each piece works by being a part of the thing it is used near, which on this compass means being a little lost. The toll is the one already on the record — small, nameless memories go with each use — and it is paid whether the use was correct or not.
+Every piece of this set works by belonging to the thing it is used near — on this instrument, by being a little lost. The toll is the one already on the record: small nameless recollections leave the bearer with each use, and they leave whether the use was right or wrong.
 
 ### Field Use Record
 
@@ -302,7 +302,7 @@ Nothing in this set is ordinary equipment: each piece works by being a part of t
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Broken Compass (C-IIβ-290 [D]) is logged as an Object-Void manifestation expressing Void, cradled in the Forge District holding at SECTOR-D-01. It cannot indicate north, it slows toward grief, and it turns faster the less sure its handler is.
+Broken Compass (C-IIβ-290 [D]) is filed as an Object-Void manifestation expressing Void, cradled at SECTOR-D-01 in the Forge District. North is beyond it, it drags toward grief, and it turns faster the less certain its handler is.
 
 **Entry 2 — <Cradle Count Sheet, Year 4238>**
 Mean spin 57 revolutions a minute across the year's timed intervals, after 46 and 38. Slowings logged: 212, all toward concentrations of grief, none toward north. Discard radius widened twice.
@@ -343,14 +343,14 @@ The needle spins beneath the glass. You turn the Compass toward the street, the 
 
 ### Interaction Pattern
 
-Broken Compass is read beside the 3 holdings the file has paired it with — The Echo Compass, The Wandering Door and The Drift Fog — and none of the 3 is treated as an alliance or a hostility: they are resonance candidates, filed as such. In a shared event the team records whether anything changes at all in the counts, the slowings, the radius, the gauge or the containment, and the standing note is that a resemblance is the reason a pairing was proposed and not a finding that came out of one.
+The Echo Compass, The Wandering Door and The Drift Fog stand with this file on the shelf, and none of the three is entered here as friend or foe: they were placed there as candidates, and that is all the file claims for them. When two are run together the watch sets down whether anything at all moved in the counts, in the slowings, in the radius, on the gauge or at the containment line, and the note under the entries says a likeness is why the pairing was proposed, never what the pairing showed.
 
 **Interaction method:** Counts taken from the cradle before, during and after, by a Warden who handles neither party, with the interval timer running continuously so that the series is comparable across the whole pairing.
 
 
 ### Entity Interaction Record
 
-Broken Compass must be kept distinct from the other orientation holdings. The Wandering Door moves the way through a place; this one leaves the place exactly where it is and takes away the means of being sure of it. The distinction decides which survey party is sent and which instruments they are allowed to bring.
+This file is kept apart from the other orientation holdings. The Wandering Door moves the way through a place; this one leaves the place where it is and takes away the means of being sure of it. That difference decides which survey party is sent and which instruments they may bring.
 
 | Related record | Basis claimed | Observed result | Entry owed |
 |---|---|---|---|
@@ -424,9 +424,9 @@ The spin quickens for a holder who is unsure, making the instrument a measure of
 
 ### What the Spin Rate Is Measuring
 
-The count is taken from the cradle over a fixed interval and the annual means are 38, 46 and 57 revolutions a minute. Nothing else here moves: the needle has never rested, the slowings have always gone toward grief, the crack has always been warm. The series has been set against the district's Han flows, against the survey schedule, against the holding's own work cycles, and matches none of them. It matches the count of workers who held every qualification a vacant post required, in a year, and were not moved into it, because nobody had told them they held it.
+The count is taken from the cradle over a fixed interval; the annual means are 38, 46 and 57 revolutions a minute. Nothing else here moves — the needle has never rested, the slowings have always gone toward grief, the crack has always been warm. Set against the district's Han flows, against the survey schedule, against the holding's own cycles, the series matches none of them. What it matches is the number of workers who held every qualification a vacant post required, in a year, and were not moved into it, because nobody had told them that they held it.
 
-No officer of this Company may advise a worker about their own future. Not counsel, not recommend, not encourage, not hint. Posts are filled from the qualification roll without application, by rule and in order, and a supervisor who tells a worker what they ought to do next is in event whatever they intended. The rule was made for cause and the cause is on the record. Advice from a person who writes your roster is an instruction with deniability; the phrase *I'd stay where you are* ended more careers in the Forge District than any disciplinary code ever did; and before the ordinance the good posts went, with great regularity, to the men whose supervisors had taken an interest in them.
+No officer of this Company may advise a worker about the worker's own future. Not counsel, not recommend, not encourage, not hint. Posts are filled from the qualification roll without application, by rule and in order, and a supervisor who tells a worker what they ought to do next is in event whatever they intended. The rule was made for cause and the cause is on the record. Advice from the person who writes your roster is an instruction with deniability; the phrase *I'd stay where you are* ended more careers in the Forge District than any disciplinary code ever did; and before the ordinance the good posts went, with great regularity, to the men whose supervisors had taken an interest in them.
 
 Its consequence is that there is no one in this building a worker may ask about their own life. The facts are all published and none of them can be read to you. A woman who wants to know whether the furnace ticket is worth the two years can learn the hours, the pay band, the vacancy count and the usual route in, and cannot learn, from any person here, whether she would be any good at it. The uncertain therefore stay exactly where they are, which is what the needle is counting, and it counts faster the less sure the hand nearby happens to be.
 
@@ -438,11 +438,11 @@ Year 4237: 1,906 posts charted, 311 of them vacant. The gate counters recorded 4
 
 The chart is accurate and it is merciless. A man can stand at the gate and read, in a column, exactly why he will not be leaving his present post in this lifetime, and several hundred do. The *usual route in* column publishes how many years the thing takes, which ranks every reader against every colleague as plainly as a wage list. Three crews in the eastern wards lost half their strength in the year after their charts were first posted, because the charts were truthful and the charts showed no onward route at all. And the one question every reader actually has — should I — is the single question the chart is built to be incapable of answering.
 
-The training staff asked for the smallest possible amendment: permission to tell a worker who asks that they would be capable of a thing. It was refused, and the refusal is right, because an instructor's encouragement is a steer, a steer from staff is how the favourites got the good posts, and the ordinance exists to make that impossible rather than merely improper. Their objection stands in the chart's first volume, recorded as correct and unanswered: that this Company published everything so that no worker would ever again depend on a supervisor's interest, and has thereby built a place where every fact about your future is on the wall and no person in it may help you read it — and that the instrument in the Forge District has been spinning faster every year since.
+The training staff asked for the smallest amendment possible: leave to tell a worker who asks that they would be capable of a thing. Refused, and the refusal is right, because encouragement from an instructor is a steer, a steer from staff is how the favourites got the good posts, and the ordinance exists to make that impossible rather than merely improper. The submission stands in the chart's first volume, unanswered: this Company published everything so that no worker would ever depend again on a supervisor's interest, and has built a place where every fact about your future is on the wall and no person in it may help you read it — and the needle in the Forge District spins faster every year.
 
 ### A Route Lost in the Forge
 
-A Survey Corps member mislaid a way through the Forge District and never recovered their sense of it afterward, and the commissioning file holds their subsequent survey work. It continued for years. The archivist's note observes that the later maps are accurate and well made, that the Corps had no complaint of them, and that the person who drew them reported being lost the entire time.
+A Survey Corps member lost their way through the Forge District and never got their sense of it back, and the commissioning folder holds the survey work that followed. It went on for years. The note filed with it observes that the later maps are accurate and well made, that the Corps raised no complaint about them, and that the person who drew them reported being lost the whole time.
 
 ## Trivia
 
