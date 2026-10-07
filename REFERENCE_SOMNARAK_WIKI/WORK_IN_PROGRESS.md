@@ -2923,6 +2923,15 @@ file's own clause as a documented suppression condition (Two respiration series,
 condition **274 → 275 / 301**. Movement: `R-29` 269 / 301; section-clean 301 / 301; archive dirty 0;
 file-clean 302 / 302. **Batch 42 stands at one of seven.**
 
+**Batch 43, unit 9: Dead Air `N-IIIγ-929` closed.** Measured at `71d2695`: failures were `parity ['interactions']`,
+`condition` False and `series` False — **closed in a single wave plus a bounded fix**; 4,277 → **4,718 words**; `tpl.py`
+residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions
+section written in the file's own terms (3 rows — Miasma `C-IVδ-922`, Backward Hour `C-IIIγ-913`, Never Discharged
+`O-IIβ-911` — with its own column set), parity **293 → 294 / 301**; the Resolution line extended to carry the file's own
+clause as a documented suppression condition (The Warden hands over the form, the relief reads the barometer), condition
+**289 → 290 / 301**; the Registrum line's own figure restated in numerals (Seventeen years → 17 years) inside the real
+edit, `own_series` False → True, series **286 → 287 / 301**. **Batch 43 stands at nine of ten.**
+
 **Batch 43, unit 8: Miasma `C-IVδ-922` closed.** Measured at `0f2f1bd`: failures were `parity ['interactions']`,
 `condition` False and `series` False — **closed in a single wave plus a bounded fix**; 4,861 → **5,296 words**; `tpl.py`
 residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions
@@ -2992,6 +3001,8 @@ condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
 **Batch 43 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIIγ-929 Dead Air 유령의 압력 — `d88a0ca` — PUSH VERIFIED — [[SE-N-IIIγ-929_Dead_Air_유령의_압력](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md "SE-N-IIIγ-929_Dead_Air_유령의_압력.md")]
 
 - SE-C-IVδ-922 Miasma 우는 안개 — `bd06a4e` — PUSH VERIFIED — [[SE-C-IVδ-922_Miasma_우는_안개](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-922_Miasma_%EC%9A%B0%EB%8A%94_%EC%95%88%EA%B0%9C.md "SE-C-IVδ-922_Miasma_우는_안개.md")]
 

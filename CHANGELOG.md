@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 43 / unit 9 — Dead Air `N-IIIγ-929` closed (2026-10-07)** — measured at `71d2695`: failures were
+  `parity ['interactions']`, `condition` False and `series` False. **Closed in a single wave plus a bounded fix**: the
+  missing `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a
+  3-row record pairing the watch with Miasma `C-IVδ-922`, Backward Hour `C-IIIγ-913` and Never Discharged `O-IIβ-911`
+  under its own column set, and an interaction procedure — parity **293 → 294 / 301** · the Resolution line extended to
+  carry the file's own clause as a documented suppression condition (**The Warden hands over the form, the relief reads the
+  barometer**) — condition **289 → 290 / 301** · and the Registrum line's own figure restated in numerals (Seventeen years
+  → 17 years) inside the real edit, `own_series` False → True, series **286 → 287 / 301**. 4,277 → **4,718 words**;
+  `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**; residual 0 on entry.
+  **Batch 43 stands at nine of ten.**
+
 - **Batch 43 / unit 8 — Miasma `C-IVδ-922` closed (2026-10-07)** — measured at `0f2f1bd`: failures were
   `parity ['interactions']`, `condition` False and `series` False. **Closed in a single wave plus a bounded fix**: the
   missing `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a
