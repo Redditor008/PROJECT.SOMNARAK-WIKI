@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** The Bird is confirmed by the two scales where eyes belong, plumage the colour of dried blood, heat that comes off it dry, a smell of burning, and a walk that labours under its own weight. Of the Three, only this one can be heard by a person's steps being heavy. Positions are taken, and the way out agreed, before the cycle opens.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Weighting Bird's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Acknowledge the judgment without attempting to deny the weight**. No one on this ground argues with the finding; the weight is admitted as it stands, and the admission is what is written down.
+2. **Clash:** The Types are worked and the kit is carried while the Bird runs through the combat actions its record sets out; whether the watch escalates or closes depends on where the gauge goes.
+3. **Resolution:** The sitting ends in containment, retreat or management, or against the suppression condition: **Acknowledge the judgment without attempting to deny the weight**. No one on this ground argues with the finding; the weight is admitted as it stands, and the admission is what is written down.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resilience** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Weighting Bird’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Weighting Bird’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- When resistance fails the sorrow runs straight into the worker: **Resilience** is broken down in the doing, and the gauge is fed off the same failure.
+- Time at the scale deepens the wound: the Bird's sorrow comes through the containment protocol the way water comes through plaster, and what it leaves behind is emotional, bodily and identitary breakdown that does not wash out.
+- No draw on the set is free: the somatic, psychological and mnemonic price is fixed in the equipment record and collected on every use.
+- A watch that fails to resolve fires the breach protocol: the gauge runs to its ceiling, the fail-safes give way, and the sorrow comes out through the corridors.
 
 ## Appearance
 **Primary Form:** A heavy, dark-crimson bird of true flesh and feather, roughly eagle-sized, plumage the red of old anger and talons long overgrown. It radiates a dry feverish heat and smells of char and old smoke. In place of eyes it carries two small balance scales, each with two pans, which move continuously and are never still for more than a second at a time.
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Weighting Bird is a Subject with Subject-Body manifestation and Grudge expression, held at SECTOR-B-01 with the Three Birds. Flerehan and Ferrehan lower the gauge, Pugnahan raises it, Viderehan holds level. The table is unremarkable and so is the entity. It has never struck anybody, never pursued anybody, and never in sixty-one years weighed anyone who did not ask it to.
+The register files the Bird as Subject-Body, expressing Grudge, at SECTOR-B-01 with the Three Birds. Flerehan and Ferrehan bring the gauge down, Pugnahan raises it, Viderehan keeps it level. Nothing on that table deserves a comment, and neither does the bird. It has never struck anyone, never followed anyone, and in sixty-one years has never weighed a person who did not ask to be weighed.
 
 **Reading the response:** Read the plate, not the gauge. A decrease means the watch was completed without a request being made of it. An increase means somebody asked. The file records, without comment, that the gauge has risen on this holding four hundred and ten times and that every one of those was a member of staff choosing to stand in front of it.
 ## Breach Behavior
@@ -230,11 +230,11 @@ The delicate brass needle tilts continuously between the two pans in response to
 
 **Cost:** The needle's constant movement creates a faint, persistent prickling sensation over the breastbone.
 
-*The Scale-Stigma is neither made nor requisitioned. It has been conferred 6 times, every one of them on a worker who sat through a whole watch and never once asked where they stood on the scale.*
+*Nobody makes or requisitions the Scale-Stigma. It has been conferred 6 times, every one of them on a worker who sat out a whole watch and never once asked where they stood on the scale.*
 
 ### M.A.W. Use Notes
 
-Each piece of this entity's equipment is an extension of a comparison rather than ordinary equipment. The listed benefit is strongest against Grudge. The cost is separate and is always the same: the bearer begins ranking people involuntarily and accurately, and reports that the ranking is correct and that this is the problem with it.
+The set is built out of comparison and nothing else, and no piece of it is ordinary equipment. The stated benefit is sharpest against Grudge. The price is in its own column and never changes: a bearer begins ranking people without meaning to and ranking them accurately, and every report says the same thing — that the ranking is correct, and that this is precisely the trouble with it.
 
 ### Field Use Record
 
@@ -322,7 +322,7 @@ The Bird is never met alone. Five holdings answer somewhere inside its range —
 
 ### Entity Interaction Record
 
-Weighting Bird must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+This bird is read among the holdings it shares ground with, not as a specimen in a case. The pairings below are standing points of contact; they may help, obstruct, do nothing, or hold only under conditions, and nobody may assume that what a crossing did once will be what it does through another Tide, breach, Ordeal or transformation.
 
 | What is weighed beside it | How the pairing has run | What the post entered | What the page carries |
 |---|---|---|---|
@@ -433,9 +433,9 @@ The question before it was the facility's inheritance of the Collectors' assessm
 
 The placement is the Bird's. It is accurate, it is consistent, and it is, on the opinion printed two pages earlier in this same file, not a finding of anything.
 
-That is the whole of the matter and the objection puts it plainly. It is minuted at the fifty-second review and at each of the eight since, raised by the holding's senior Warden and supported by one member of the Directorate. It holds, first, that the facility has asserted the same comparative output to be meaningless when three of its own staff asked to be released from it and probative when it placed the institution favourably in a public document, and that both assertions were made in the same year by the same office. Second, that the claim was chosen because it is unanswerable: no forum entertains relative verdicts, so nobody — no successor body, no descendant of anybody in the case books, no member of staff — has any means of contesting it, and the facility knew that when it published, because its own counsel had explained it. Third, that the ranking exists, is stable, includes four hundred and ten serving staff, and has been consulted six times in matters where the ordinary criteria were exhausted; the file records those six consultations and records no decision as having turned on them, which the objection notes is a different statement from the one the Directorate keeps making.
+That is the whole of the matter, and the objection states it without ornament. It has been entered at the fifty-second review and at each of the eight since, raised by the holding's senior Warden and backed by one member of the Directorate.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the fifty-third year at the price of a clerk and a safe — the register sealed, consultation prohibited in terms rather than by convention, and a right for any person who has been weighed to be told their own position and to have that disclosure logged — and that it has not been laid before the board in eight years. And it records the sentence the senior Warden asked to have entered verbatim, which now stands at the front of the containment file, above the three letters:
+The objection goes into the minute as **right on all three heads**.
 
 *A comparison is nothing at all when a man asks to be let out of it, and it is a finding when the institution would like to be flattered by it, and we have put both of those in writing in the same twelve months.*
 
