@@ -88,7 +88,7 @@
 
 1. **Tension:** The observer stands on the marked line on the far side of the corridor, starts a watch, and counts the wall's respirations for ten minutes without crossing. A second observer counts the first observer's.
 2. **Clash:** None available. The holding is a wall in a corridor that four hundred people a day walk past, and the cycle is two people counting breaths on opposite sides of a painted line.
-3. **Resolution:** Two respiration series, logged separately and not reconciled. 188 cycles; the wall's rate is 9 a minute and has never varied, and the observer's rate matches it in 147 of them.
+3. **Resolution:** Two respiration series, logged separately and not reconciled. 188 cycles; the wall's rate is 9 a minute and has never varied, and the observer's rate matches it in 147 of them. It closes against the documented suppression condition: **Two respiration series, logged separately and not reconciled**.
 
 ### Consequences
 
@@ -254,6 +254,21 @@ The first sensation is warmth where a wall should be cold, and then the realisat
 **When the entity activates:** The affected surface extends along the run, a hand's width at a time, warm the whole way. It has never crossed a doorway and has never reached the floor.
 
 **After departure:** You sleep slightly worse. Four minutes, on the study's figure, which is nothing at all, and which is the subject of the second and third sections below.
+
+## 상호작용 (Entity Interactions)
+
+The span has never been measured with anything else in the room. Everything below is paper work, drawn from the cross-flagged neighbours in the 90x cluster and read against the wall's own series rather than tested beside it. What the pairings hold in common is one question — whether a holding repeats a person's own time back at them — and the four records answer it differently, which is the only reason they are kept together.
+
+**Interaction method:** Settle the wall's baseline alone first — the rate, the span at its last marks, and the observer's own respiration logged separately — before any comparison is entered. Then set the other record's series alongside and record the first divergence, its range, what set it off, and whether either series moved. Keep the two columns unreconciled, as the file requires.
+
+| What breathes beside it | How the pairing has run | What the wall entered | What the record keeps |
+|---|---|---|---|
+| **Labyrinth of the Unfinished Mind** `C-IVδ-909` | Filed together on interiors that cannot be mapped. That record is walked and gives every walker a different chart; the wall is measured from outside and has returned the same reading for 188 cycles. | 3 mapping expeditions and 188 respiration series were compared on paper and matched on nothing but the count. | That the pairing is filed for shape — a body holding something it will not show — and not for cause. |
+| **Endless Shift** `C-IVδ-915` | Grouped on time that will not behave. That record stretches an hour until it will not fit; this one keeps a rate that has never varied by a breath. | The two series were laid side by side in one review and the divergence was total; the review entered both and reconciled neither. | That the two are never graphed on one axis, per the review's standing note. |
+| **Ninety Seconds** `C-IVδ-918` | Grouped on repetition inside a closed space. That record repeats a thought; the wall repeats a breath, which is the plainer fact and the harder one to certify. | No trial, and none proposed. Cross-flagged in the manifestation classification appendix and left there. | That the pairing rests on a classification line with no measurement under it, entered beside it on each repetition. |
+
+**Interaction procedure:** Observe separately, always, and enter distance, duration, the trigger, both readings and whatever outlasts separation. No co-presence trial is authorised on this holding; the cross-flagged records are compared on paper at the annual review, with the wall's rate and the other series kept in separate columns.
+
 
 ## 이야기 (Narratio) — The Tale
 
