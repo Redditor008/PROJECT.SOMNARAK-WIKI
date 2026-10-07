@@ -3094,8 +3094,15 @@ condition (Both posts hand in their tallies without conferring, and the differen
 condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; archive dirty @dirty@;
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
+**Batch 44, unit 1: Harvest Beyond the Gate `N-IIβ-627` cleaned.** Copied `### Consequences` (whole against 6 dossiers, worst
+Torn Flower at 1.00) replaced **in place** in the file's own terms — Gate, orchard rows, half-hour mark, armoury ledger,
+until the next touched-fruit tally is larger than the last. 5,103 → **5,134 words**; residual 0; **0 sections over 0.05**;
+`tpl.py` 0; meets **True**; copy-side whole instances **6 → 0**; nothing deleted. **Batch 44 stands at one of ten.**
+
 **Batch 44 — OPEN at ten; clean phase (replace copied sections in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
+
+- SE-N-IIβ-627 Harvest Beyond the Gate 녹아내린 열매 — `718ab84` — PUSH VERIFIED — [[SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-627_Harvest_Beyond_the_Gate_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md")]
 
 **Batch 43 — CLOSED at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 

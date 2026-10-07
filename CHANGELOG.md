@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 44 / unit 1 — Harvest Beyond the Gate `N-IIβ-627` cleaned (2026-10-07)** — clean phase, owner-directed: the
+  copied `### Consequences` section (whole-copy against **6** dossiers incl. Torn Flower at 1.00, Memory Weaver 0.94) replaced
+  **in place** with fresh text written in this file's own terms (the Gate, the orchard rows, the half-hour mark, the armoury
+  ledger, the touched-fruit tally). 5,103 → **5,134 words**; `verify.py` residual 0; `sectfile.py` **0 section(s) over 0.05**;
+  `tpl.py` residue 0; `wikistd.py` meets **True**; nothing deleted (`R-15`); file's whole-copy instances **6 → 0** as a copy
+  side. **Batch 44 stands at one of ten.**
+
 - **Clone audit, restart + clean-first plan — `clone_audit.py --plan` (2026-10-07)** — check restarted from scratch and the
   light/heavy plan measured: **57 / 301** files carry at least one **whole** copied section (>= 0.85) — 54 with one, **3 with
   two** (Dancing Chains, Calling Bloom, Grieving Love) — and **95 / 301** carry small overlaps only (0.50–0.85). Sections
