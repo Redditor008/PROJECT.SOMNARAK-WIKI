@@ -1,6 +1,6 @@
 # Lacrima — 영혼의 그릇
 
-> *"When it comes, you will know. Everyone knows."*
+> *"The lid does not seat, and the voice inside has been asking for longer than the record covers."*
 
 ## SECC Classification
 
@@ -342,6 +342,28 @@ A small clay jar on a plinth in a plain room. Unglazed, no mark, the kind of thi
 **When the entity activates:** The gap widens by a measurable amount and the light reaches further down the corridor. That is the whole event. It takes one person about a minute to end it by putting the lid back down.
 
 **After departure:** You check whether anyone is keeping anything of yours, and you find that they are, and that you agreed to it. Most people find the paper. The counsellors consider that useful and log it rather than treating it as exposure.
+
+## 상호작용 (Entity Interactions)
+
+The jar is an object that keeps something of a person past the point where the person is done with it, and three other records
+sit beside it in the appendix for that reason: a lock that holds what a worker will not carry out of a room, an hour in which the
+dead of one zone talk among themselves, and the warmth a man handed to an institution when he left it. What follows is read from
+this holding's own instruments — the feeler gauges at the four scored rim points, the session ledger, and the counting rule that
+is deliberately not told to new personnel in advance.
+
+**Interaction method:** Set the jar's own figures first: the gap at its last two sessions, the retention return and the seventeen
+still held, and whether the second listener was present at the lean-in. Then read the other record's figures beside them, enter
+whether either moved, and re-verify at the next session.
+
+| Which record stands beside the jar | What both keep | What the session entered | What the ledger holds |
+|---|---|---|---|
+| **Memory Lock** `C-IIIγ-300` | Both keep what a person will not take away with them. That record's room holds one worker's memory and asks for nothing; this jar holds a voice that has never once been answered, and neither file has ever opened the question of giving anything back. | Nothing was run. The appendix grouped the two on what is kept, and the review left the entry as an arrangement. | That the grouping is a filing line, entered as such and read as one. |
+| **Passing Bell** `N-IIβ-919` | Both are kept for the sound. That record's hour is a conversation among the dead; this one is a single voice pleading below the level of words, and each file carries its own prohibition — no instrument admitted there, no listener told the count here. | One review entry; the two audio series were laid together once and parted at the first mark. | That the parting stands as the entry, carried un-smoothed in the review. |
+| **The Last Warmth of Forty-Two** `O-IVδ-515` | Both hold what a person left with an institution. That record keeps a warmth given freely and remembered by a name; this one keeps bodies retained on a clause initialled while healthy, and the families who could ask came late or not at all. | The two registers were compared once and agreed on nothing but their length. | That the pairing rests on the retention column, noted as a register line and not as a finding. |
+
+**Interaction procedure:** No co-presence is authorised at the jar. Comparison is made on paper at the session review with the gap
+reading and the retention count entered first and the other record's figures set beside them unchanged; parting, depth, trigger
+and both readings go in the margin.
 
 ## 이야기 (Narratio) — The Tale
 
