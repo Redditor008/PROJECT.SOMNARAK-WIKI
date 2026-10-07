@@ -2343,7 +2343,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 34 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-O-Iα-720 Aphasia 녹아내린 속삭임 — `__HASH__` — PUSH VERIFIED — [[SE-O-Iα-720_Aphasia_녹아내린_속삭임]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-720_Aphasia_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-O-Iα-720_Aphasia_녹아내린_속삭임.md")
+- SE-O-Iα-720 Aphasia 녹아내린 속삭임 — `1b16ebf` — PUSH VERIFIED — [[SE-O-Iα-720_Aphasia_녹아내린_속삭임]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-720_Aphasia_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-O-Iα-720_Aphasia_녹아내린_속삭임.md")
 
 - SE-O-Iα-169 Atlas 녹슨 기둥 — `cb88158` — PUSH VERIFIED — [[SE-O-Iα-169_Atlas_녹슨_기둥]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-169_Atlas_%EB%85%B9%EC%8A%A8_%EA%B8%B0%EB%91%A5.md "SE-O-Iα-169_Atlas_녹슨_기둥.md")
 
