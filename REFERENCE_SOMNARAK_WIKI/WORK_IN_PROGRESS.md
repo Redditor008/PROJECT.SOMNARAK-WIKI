@@ -2653,6 +2653,17 @@ restated in numerals inside real edits (5 grants · 3 of the 5 on leave · 4 ass
 against 157). Movement: `R-29` 237 / 301; section-clean 271 / 301; archive dirty 47; file-clean 302 / 302.
 **Batch 38 stands at one of five.**
 
+**Batch 39 closed at seven (2026-10-07).** Seven dossiers · **12 / 12 dirty sections closed** · **+370 words** net ·
+`verify.py` residuals **6 → 0** · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Movement, b39 open
+(`2bd1775`) → b39 close: `R-29` 241 → **248 / 301** · parity 275 → 275 / 301 · condition 267 → **268 / 301** (unit 4,
+clause re-registered) · series 282 → 282 / 301 · section-clean 275 → **282 / 301** · residue-free 302 → 302 / 302 ·
+archive dirty 38 → **22** · file-clean 302 → 302 / 302 · scene-clean 276 → **283** · worst 0.015 · median 0.007.
+Disclosures: **rollback #33** at the batch open; six units one wave each and unit 1 a second pass; six residual lines
+cleared line-locally; the close check repaired after it was found to abort silently on `sectfile.py`'s nonzero exit, and
+the two units already checked under it re-verified; unit 5's blockquote reworded again after the first attempt reused
+the batch's own phrasing (12 carriers) and re-dirtied the section; unit 4 the only condition movement. **Batch 39 was
+opened at seven on the owner's pacing ladder (3 or 5, then 7 or 10) and closed at its rung.**
+
 **Batch 39, unit 7: Midnight Choir `C-IIβ-245` closed.** Measured live at `4a524b4`: **1 dirty section**, Final
 Observation — **closed in a single wave** (4 sites, blockquote written in wording used nowhere else); 7,949 →
 **7,968 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition
@@ -2702,7 +2713,7 @@ line-locally; `own_series` already True; the file's own figures restated in nume
 96 · 5 assessors · 11 watches · 5,212). Movement: `R-29` 242 / 301; section-clean 276 / 301; archive dirty 34;
 file-clean 302 / 302. **Batch 39 stands at one of seven.**
 
-**Batch 39 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 39 — CLOSED at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IIβ-245 Midnight Choir 노래하는 벽 — `06c4a5a` — PUSH VERIFIED — [[SE-C-IIβ-245_Midnight_Choir_노래하는_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-245_Midnight_Choir_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B2%BD.md "SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md")
 

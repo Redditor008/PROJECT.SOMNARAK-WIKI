@@ -8,6 +8,29 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 39 — CLOSED at seven (2026-10-07)** — seven dossiers · **12 / 12 dirty sections closed** · **+370 words** net
+  (56,544 → 56,914 across the seven files) · `verify.py` residuals **6 → 0** (units 1, 2, 3, 4, 5, 7; unit 6 entered
+  clean) · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Roster, newest first: u7 Midnight Choir `C-IIβ-245`
+  `06c4a5a` · u6 Folly `C-Iα-329` `145d6f1` · u5 Apnea `N-IVδ-159` `cf0f1cb` · u4 The Angry Maiden `C-IVβ-042`
+  `18034ac` · u3 Unsaid Blossoms `C-IIβ-100` `594a6ab` · u2 Memory Lake `C-IVγ-270` `1b1a256` · u1 Bulwark `N-Iα-459`
+  `8010f3f`; every dossier carries its SE git link in `WORK_IN_PROGRESS.md` (`R-12`). Movement, b39 open (`2bd1775`) →
+  close: `R-29` 241 → **248 / 301** · parity 275 → 275 / 301 · condition 267 → **268 / 301** (unit 4, clause
+  re-registered in the form the register reads) · series 282 → 282 / 301 · section-clean 275 → **282 / 301** ·
+  residue-free 302 → 302 / 302 · archive dirty 38 → **22** · file-clean 302 → 302 / 302 · scene-clean 276 → **283** ·
+  worst 0.015 → 0.015 · median 0.007 → 0.007.
+
+  Disclosures: **rollback #33** at the batch open (HEAD at `408797c` while the remote stood at `9148c21`, recovered by
+  the standing procedure). Six of the seven units closed in a single wave; unit 1 took a second pass for the Final
+  Observation blockquote its first wave missed. Six residual lines cleared line-locally (1 → 0 each). Before unit 6 the
+  close check was found to abort silently whenever `sectfile.py` returned its nonzero status for sections over the line;
+  the helper was repaired to tolerate that exit and the two units that had slipped through under the old helper were
+  re-verified and closed. At unit 5 a first blockquote rewrite reused the batch's own closing-choices phrasing, which
+  had reached 12 carriers across the wing; the section re-dirtied at 0.053 and was reworded again in wording used
+  nowhere else — new blockquotes in this batch avoid the shared template, and the remaining carriers are noted for a
+  sweep. Unit 4 re-registered its resolution clause into the suppression-condition form (**validate the anger; do not
+  deny or argue with it**), the only condition movement of the batch. `own_series` was already True on all seven files.
+  Batch 39 was opened at seven on the owner's pacing ladder (**3 or 5, then 7 or 10**) and closed at its rung.
+
 - **Batch 39 / unit 7 — Midnight Choir `C-IIβ-245` closed (2026-10-07)** — measured live at `4a524b4`: **1 dirty
   section**, Final Observation (the choice blockquote, 0.084). **Closed in a single wave** (4 sites): the blockquote in
   wording used nowhere else, the choose row and the result row re-authored, and the entry residual cleared line-locally
