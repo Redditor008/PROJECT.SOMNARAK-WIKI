@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 37, unit 2: Sleeping Tree `O-IIIγ-374` closed.** Measured at `84d12ec`: **1 dirty section**, Final Observation
+0.143 — **closed in a single wave** (8 sites); 7,565 → **7,615 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s)
+over 0.05**; `wikistd.py` meets **True**, residual clean on entry. Disclosed: `own_series` **False → True** via the
+file's own figures restated in numerals in the rewritten Threat Assessment (6 years, 164 cycles, 3 growth events, 11
+injuries, 1 gallery); the extraction bullet, activation reporting order, stat effect line and relations header row
+re-authored. Movement: `R-29` 228 / 301; section-clean 260 / 301; archive dirty 75; file-clean 302 / 302.
+**Batch 37 stands at two of ten.**
+
 **Batch 37, unit 1: Quagmire `O-IVδ-168` closed.** Measured at `1abedbb`: **1 dirty section**, Final Observation 0.143 —
 **closed in a single wave** (22 sites); 8,431 → **8,579 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over
 0.05**; `wikistd.py` meets **True**, condition held. Disclosed: the `becomes a force rather than a feeling` residual
@@ -2513,6 +2521,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 37 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IIIγ-374 Sleeping Tree 잠든 나무 — `6e2cc0f` — PUSH VERIFIED — [[SE-O-IIIγ-374_Sleeping_Tree_잠든_나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-374_Sleeping_Tree_%EC%9E%A0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IIIγ-374_Sleeping_Tree_잠든_나무.md")
 
 - SE-O-IVδ-168 Quagmire 무너진 흔적 — `ab74e8e` — PUSH VERIFIED — [[SE-O-IVδ-168_Quagmire_무너진_흔적]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-168_Quagmire_%EB%AC%B4%EB%84%88%EC%A7%84_%ED%9D%94%EC%A0%81.md "SE-O-IVδ-168_Quagmire_무너진_흔적.md")
 

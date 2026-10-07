@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 37 / unit 2 — Sleeping Tree `O-IIIγ-374` closed (2026-10-07)** — measured at `84d12ec`: **1 dirty section**,
+  Final Observation 0.143 (the choice blockquote, the choose row and the result row), with Operational Parameters 0.044
+  (its 11-gram extraction bullet) re-authored in the same wave. **Closed in a single wave** (8 sites); 7,565 → **7,615
+  words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with a clean
+  residual (`RESIDUAL 0` on entry). `own_series` closed **False → True** by restating the file's own figures in numerals
+  inside the rewritten Threat Assessment (6 years, 164 cycles, 3 growth events, 11 injuries, 1 gallery) — disclosed. The
+  activation reporting order, the stat effect line and the relations header row were re-authored. Movement at the unit
+  commit: `R-29` 228 / 301; section-clean 260 / 301; residue-free 302 / 302; residue lines 0; archive dirty
+  75; file-clean 302 / 302. **Batch 37 stands at two of ten.**
+
+
+
 - **Batch 37 / unit 1 — Quagmire `O-IVδ-168` closed (2026-10-07)** — measured at `1abedbb`: **1 dirty section**, Final
   Observation 0.143 (the choice blockquote, the choose row and the result row), with the behavior-context and escalation
   paragraphs, both heavy combat action rows, two appearance lines, the effect line, the at-limit row, the relations
