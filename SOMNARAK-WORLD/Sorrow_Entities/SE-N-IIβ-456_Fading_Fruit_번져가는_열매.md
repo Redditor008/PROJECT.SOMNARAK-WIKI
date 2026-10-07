@@ -300,7 +300,7 @@ So the rule works exactly as designed and almost nothing has changed, and I cann
 
 The households need to be named here, because the version of this story that is easy to live with has a villain in it, and there is none. Forty-one families drew up an agreement to share a harvest evenly, signed it, worked four seasons, and ate nothing — and no office ever took a single fruit out of their hands.
 
-The count is the ground of it. The year hazard pay arrived and went straight against arrears, four thousand one hundred and nineteen fruit set and four thousand one hundred and nineteen stems left that garden. This year, ninety-six. We have never once shown that a set-off hurt anybody. What we can show, fruit by fruit, is the price of never having held what they earned.
+The count is the ground of it. The year hazard pay arrived and went straight against arrears, four thousand one hundred and nineteen fruit set and four thousand one hundred and nineteen stems left that garden. This year, ninety-six. We have never once shown that a set-off hurt anybody. What we can show, fruit by fruit, is the price of never having held what they earned. What I cannot write anywhere else in this file is the plain fact underneath it: every figure on this page was lawful, and the lawfulness is the whole of the injury.
 
 ## 최종 관찰 (Final Observation)
 
