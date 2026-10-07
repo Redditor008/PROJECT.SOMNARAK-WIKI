@@ -192,7 +192,7 @@ Escalation on this holding takes one shape and is not the standard breach event:
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
-> *(Filing note: the Archive keeps this holding in a single dossier rather than lodging its M.A.W. pieces under separate covers. Nothing here goes out in parts, and the equipment stays with the letter — in the same envelope, entirely.)*
+> *(Docket note: this holding stays in a single dossier rather than lodging its M.A.W. pieces under separate covers. Nothing here goes out in parts, and the equipment stays with the letter — in the same envelope, entirely.)*
 
 ### M.A.W. Weapon — The Archive Stiletto
 

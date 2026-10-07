@@ -192,7 +192,7 @@ The escalation pattern is specific to The Magistrate's Strike-Through: it is not
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
-> *(Filing note: the Archive records the strike-through as a single integrated relic dossier, and the three M.A.W. pieces stay inside that one record. A struck line is still part of the page it was struck from, and the equipment is filed the same way — nothing removed, nothing re-shelved.)*
+> *(Cross-reference note: the strike-through carries one dossier number, and its three M.A.W. pieces stay under it. A struck line is still part of the page it was struck from, and the equipment is filed the same way — nothing removed, nothing re-shelved.)*
 
 ### M.A.W. Weapon — The Nullifying Stylus
 

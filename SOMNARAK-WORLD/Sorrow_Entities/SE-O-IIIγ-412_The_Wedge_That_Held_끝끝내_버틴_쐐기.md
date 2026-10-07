@@ -191,7 +191,7 @@ No two widenings in this armory have run the same course. Four things are entere
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
-> *(Filing note: the Wedge is catalogued on one dossier with all three M.A.W. pieces included, because the record is built to hold the way the wedge held — one piece under load rather than three things drifting apart.)*
+> *(Shelf note: the Wedge is catalogued on one dossier with all three M.A.W. pieces included, because the record is built to hold the way the wedge held — one piece under load rather than three things drifting apart.)*
 
 ### M.A.W. Weapon — The Retaining Maul
 
