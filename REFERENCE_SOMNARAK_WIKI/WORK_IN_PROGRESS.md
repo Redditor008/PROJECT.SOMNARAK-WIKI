@@ -3223,6 +3223,9 @@ residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **B
 **Batch 45, unit 1: Backward Hour `C-IIIγ-913` quote written.** The shared family quote replaced in place with the hands running backward and the district's separate grievances becoming articulate at once. 5970 → **5975 words**;
 residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 45 stands at 1 of ten.**
 
+**Batch 46, unit 5: Ninety Seconds `C-IVδ-918` quote written.** The shared family quote replaced in place with an interval that repeats the worst thought rather than the room. 6369 → **6377 words**;
+residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 46 stands at 5 of ten.**
+
 **Batch 46, unit 4: Never Discharged `O-IIβ-911` quote written.** The shared family quote replaced in place with the looping moment whose scream arrives each time in the listener's own throat. 4660 → **4665 words**;
 residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 46 stands at 4 of ten.**
 
@@ -3237,6 +3240,8 @@ residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **B
 
 **Batch 46 — OPEN at ten; quote phase part two (shared opening quotes replaced in place, owner-directed; each row links the fixed
 dossier and its source); finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IVδ-918 Ninety Seconds 반복되는 생각 — `dc3adbf` — PUSH VERIFIED — [[SE-C-IVδ-918_Ninety_Seconds_반복되는_생각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md "SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md")] · source (keeps its quote): [[SE-N-IIβ-903_Glass_Elsewhere_환영의_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md")] `SE-N-IIβ-903`
 
 - SE-O-IIβ-911 Never Discharged 영원한 환자 — `0f571fa` — PUSH VERIFIED — [[SE-O-IIβ-911_Never_Discharged_영원한_환자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-911_Never_Discharged_%EC%98%81%EC%9B%90%ED%95%9C_%ED%99%98%EC%9E%90.md "SE-O-IIβ-911_Never_Discharged_영원한_환자.md")] · source (keeps its quote): [[SE-N-IIβ-903_Glass_Elsewhere_환영의_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md")] `SE-N-IIβ-903`
 
