@@ -88,7 +88,7 @@
 
 1. **Tension:** The warmth identifies it, and so does the absence of anything that could be making it; shape alone proves nothing, the Commons being full of shadows and 2 wing holdings being dark-formed. Confirm the designation against the classification table, set the approach, take the positions, and only then begin.
 2. **Clash:** Four turns, worked in the open ward with the attended patient's consent recorded beforehand. The patient is never moved for the convenience of the cycle.
-3. **Resolution:** The session ends in containment, management or withdrawal, or on the documented suppression condition: **Accept its help and acknowledge the healer it carries**. The clause runs the watch: the help is taken as the ward offers it, the healer behind the shadow is named in the record, and refusing either closes nothing on this ground.
+3. **Resolution:** The session ends in containment, management or withdrawal, or on the suppression condition entered above: **Accept its help and acknowledge the healer it carries**. The clause runs the watch: the help is taken as the ward offers it, the healer behind the shadow is named in the record, and refusing either closes nothing on this ground.
 
 ### Consequences
 
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Kind Healer's Shadow is an Echo (II) Subject with Subject-Phantasmal manifestation and Lament expression, ambient in the Mantle Commons of Zone D and not celled. It is a Subject, so all four Work Types stand open; Pugnahan has been tested and returns null, while Flerehan and Ferrehan both bring the gauge down.
+Kind Healer's Shadow is an Echo (II) Subject with Subject-Phantasmal manifestation and Lament expression, ambient in the Mantle Commons of Zone D and not celled. It is a Subject, so all four Work Types stand open; Pugnahan has been tested and returns null, while Flerehan and Ferrehan each bring it down.
 
 **Reading the response:** Read it in the attendance and in the worker afterwards. A falling gauge presents as it settling closer to the attended person; a rising one presents as it standing off, or attempting to attend somebody else, which has been recorded four times and never completed. The worker-side indicator is the depletion at the end of the hour, and it is logged by the worker and countersigned.
 ## Breach Behavior
@@ -215,7 +215,7 @@ The mirror-polished blade reflects no ambient distortion, remaining clinically s
 
 **Cost:** The wearer absorbs the pain of the healing.
 
-*Nothing issues the Healer's Echo and no request can be made for one. It has gone out twice, each time to a Warden who sat a whole Ferrehan cycle at a bedside and filed the patient's notes before her own.*
+*Nothing issues the Healer's Echo and no request can be made for one. It has gone out twice, both times to a Warden who sat a whole Ferrehan cycle at a bedside and filed the patient's notes before her own.*
 
 ### M.A.W. Use Notes
 

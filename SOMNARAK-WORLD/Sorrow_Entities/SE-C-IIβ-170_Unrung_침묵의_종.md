@@ -89,7 +89,7 @@
 
 1. **Tension:** The check is the arrival delay at the fixed station, never the eye. It is indistinguishable from the Orphaned Bell by eye at any range, the briefing says so explicitly, and the two have still been confused on the written record four times) and Unrung is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** Viderehan and Ferrehan only. The reading is the arrival delay: a reference tone is struck at the plinth and the listening station eight metres out records the interval before it is heard at all. One point nine seconds is baseline. The recorded range is zero to forty-one.
-3. **Resolution:** The watch closes on containment, management or retreat, or on the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The watch closes on containment, management or retreat, or under the containment condition recorded here: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
