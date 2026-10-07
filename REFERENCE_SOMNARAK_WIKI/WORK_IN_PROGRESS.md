@@ -3371,7 +3371,7 @@ finished dossiers, each with its SE git link (`R-12`) and its closing commit.**
 - **Repair wave, same turn** — the batch's own new lines were checked against the batch (the Batch 47 method correction) and 36 lines this batch had
   introduced were found shared with sibling units; each was re-authored in its own file's terms across three commits — `7d1e022` (Giant · Memory Rain ·
   I Alone Crossed · Collapsed Whisper · Unwaking Block), `c0bd530` (Harvest · Wedge · Corrosion Dream · Allhallow · Weighted Silence), `d7ee0dc`
-  (the last lantern/thread strike line). Families spanning **≥2 batch files: 37 → 13 / 301**, and every one of the 13 that remains is pre-existing wing
+  (the last lantern/thread strike line). Families spanning **≥2 batch files: 37 → 12 / 301**, and every one of the 12 that remains is pre-existing wing
   furniture carried by 5–61 other dossiers (the "archivist's note" lines, the commissioning-file tail, the extraction-authorised line).
 - **Movement** — queue **89 → 67 / 301** need it (10 units + 12 files cleared by spillover); heavy (≥ 10%) **1 → 0 / 301**; moderate 30 → 18; light 58 → 49;
   fine 212 → 234. Words **+1,181** across the ten (57,895 → 59,076); nothing deleted (`R-15`). Quote census unchanged and closed: **301 / 301** distinct,

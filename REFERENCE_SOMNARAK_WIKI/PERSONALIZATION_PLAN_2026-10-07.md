@@ -204,7 +204,7 @@ Distinct wing shingles 715,979 → **719,206**.
 **What the batch learned — the repair wave ran again, and it worked this time.** The method correction from Batch 47 (check the *new* lines against the
 rest of the batch) was applied after the ten units rather than before each push: 36 lines this batch had introduced were found repeated across sibling
 units — the strike line, the completed-cycle line, the resolution frame, the relations opener, the tension opener. All 36 were re-authored in their own
-files' terms in three commits (`7d1e022`, `c0bd530`, `d7ee0dc`), which took families spanning ≥ 2 batch files from **37 → 13 / 301**; the 13 that remain
+files' terms in three commits (`7d1e022`, `c0bd530`, `d7ee0dc`), which took families spanning ≥ 2 batch files from **37 → 12 / 301**; the 12 that remain
 are pre-existing house furniture held by 5–61 other dossiers and belong to those files' own batches. One unit (Harvest Beyond the Gate) needed a growth
 top-up (`6b38005`) after the repair wave left it 20 words under its opening count (`R-15`).
 

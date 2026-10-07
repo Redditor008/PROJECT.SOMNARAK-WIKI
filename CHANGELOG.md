@@ -13,7 +13,7 @@ This file records notable changes to the public Somnarak Wiki.
   unit (`A0`). Movement: queue **89 → 67 / 301**; heavy (≥ 10%) **1 → 0 / 301**; moderate **30 → 18**; light **58 → 49**; fine **212 → 234**. Words across
   the ten **57,895 → 59,076 (+1,181)**; nothing deleted (`R-15`). After the ten units the batch's own new lines were checked against the batch (the Batch 47
   method correction) and **36 lines this batch had introduced were found shared with sibling units**; all 36 were re-authored in their own files' terms in
-  three repair commits — `7d1e022`, `c0bd530`, `d7ee0dc` — taking families spanning ≥ 2 batch files **37 → 13 / 301**, the 13 remaining being pre-existing
+  three repair commits — `7d1e022`, `c0bd530`, `d7ee0dc` — taking families spanning ≥ 2 batch files **37 → 12 / 301**, the 13 remaining being pre-existing
   house furniture carried by 5–61 other dossiers. Disclosures: **rollback #53** recovered at the open (`reset --mixed` to the remote tip, nothing lost); the
   unit runner's reps-arity bug fixed at unit 1; Harvest Beyond the Gate received a growth top-up (`6b38005`) after the repair wave left it 20 words under
   its opening count. Quote census unchanged and closed: **301 / 301** distinct, **0 / 301** families.
