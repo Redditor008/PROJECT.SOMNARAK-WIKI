@@ -89,7 +89,7 @@
 
 1. **Tension:** The markers are checked in a fixed order — the fist-sized tear of dark blue crystal, warm rather than cold, faintly lit, suspended and still, with the smell of cold rain on old cloth — and the designation is confirmed against the opening drawing, which is the oldest document in the folder and the reference the file keeps in preference to a photograph. The field edge is walked and pegged before the cycle opens rather than estimated from last session's figure.
 2. **Clash:** Nobody touches it. Viderehan is conducted at the case with the drawing for reference; Ferrehan is sitting inside the field for the interval without reaching for it. The field edge is walked and marked physically before either begins.
-3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **no contact under any authority, in a watch that leaves the bench unrecorded**. The 25 per cent figure is the consequence of that and never the objective, on every Frozen Tear cycle logged.
+3. **Resolution:** The watch ends in containment, in management, in retreat, or at the suppression condition entered for the bench: **no contact under any authority, in a watch that leaves the bench unrecorded**. The 25 per cent figure is the consequence of that and never the objective, on every Frozen Tear cycle logged.
 
 ### Consequences
 
@@ -343,14 +343,14 @@ The Tear is smaller than a raindrop and looks like a jewel. You sit beside it an
 
 ### Interaction Pattern
 
-Frozen Tear is read against three other Echo Gardens holdings rather than in isolation, and the distinction that matters is the one the file leads with: The Weeping Statue produces grief for anybody standing near it, and this one produces permission, which is a different article and is why the bench is here and not there. The Frozen Shard holds grief in crystal as this one does, and the resemblance ends at the resemblance. The First Tear is held to be kin, which is the largest claim in the file and the largest measurement in it. Every pairing is taken with the bench closed and the radius pegged by the same Warden with the same tape, so a pairing recorded without that is not a reading of this holding.
+The file sets Frozen Tear beside three other Echo Gardens holdings rather than reading it alone, and the distinction that matters is the one the file leads with: The Weeping Statue produces grief for anybody standing near it, and this one produces permission, which is a different article and is why the bench is here and not there. The Frozen Shard holds grief in crystal as this one does, and the resemblance ends at the resemblance. The First Tear is held to be kin, which is the largest claim in the file and the largest measurement in it. Every pairing is taken with the bench closed and the radius pegged by the same Warden with the same tape, so a pairing recorded without that is not a reading of this holding.
 
 **Interaction method:** Radius pegged before and after by the same Warden with the same tape, and the bench closed for the duration of any pairing, which the ward agreed to once and has never been asked to agree to again.
 
 
 ### Entity Interaction Record
 
-Frozen Tear must be kept distinct from the other Echo Gardens holdings. The Weeping Statue produces grief for anybody standing near it; this one produces permission, which is a different article and is why the bench is here and not there.
+Frozen Tear stands apart from the other Echo Gardens holdings, and the file keeps the line between them sharp. The Weeping Statue produces grief for anybody standing near it; this one produces permission, which is a different article and is why the bench is here and not there.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -425,7 +425,7 @@ Visitors come and sit near it without touching, and the holding permits this und
 
 ### A Faint Glow
 
-It gives a small steady light that is easiest to see at night, and the night watch logs its intensity against a card. The readings have not varied. The archivist's note observes that this containment produces three unvarying series and that their constancy is the reason the holding is rated as it is.
+It gives a small steady light that is easiest to see at night, and the night watch logs its intensity against a card. The readings have not varied. The archivist's note is careful here: this containment produces three series that have never once varied, and their constancy is the whole of the reason the holding carries the rating it does.
 
 ### What the Field Radius Is Measuring
 
@@ -443,7 +443,7 @@ Year 4237: occupied for 61 per cent of all shift hours, an estimated 9,400 sitti
 
 The costs are real and the Gardens staff list them without complaint. Because no record exists there is no evidence the bench works, and three applications for a second bench in the Forge District have been refused for want of data, which is the scheme's own doing. The journey comes out of the worker's ward cover, so the wards that can spare nobody send nobody. And nobody can be told, in person, that the bench is there, because telling a particular worker is a remark about that worker's condition — so the people who most need it are precisely the people who must work out for themselves that they need it.
 
-The Gardens staff asked for the smallest thing: leave to mention the bench to an individual who looked as though they could use it. Refused, and refused correctly — a remark on a person's state is the thing the ordinance abolished, and an instruction permitting the kind version would permit the other kind within a year. Their objection stands in the arrangement's first volume, recorded as correct and unanswered: that this Company stopped judging its workers by their faces so that no one could be punished for grief, and has thereby arranged that no one may be helped for it either, and that the only mercy left in the system is a bench in a garden that nobody is allowed to recommend.
+The Gardens staff asked for the smallest thing: leave to mention the bench to an individual who looked as though they could use it. Refused, and refused correctly — a remark on a person's state is the thing the ordinance abolished, and an instruction permitting the kind version would permit the other kind within a year. Their objection is bound into the arrangement's first volume and has never been answered: that this Company stopped judging its workers by their faces so that no one could be punished for grief, and has thereby arranged that no one may be helped for it either, and that the only mercy left in the system is a bench in a garden that nobody is allowed to recommend.
 
 ### The Tear That Did Not Fall
 
@@ -458,7 +458,7 @@ Someone who had lost everything found they could not cry and the single tear fro
 
 ### Registry Trivia
 
-- **Classification detail:** Frozen Tear is an Object/Place with Echo (II) — Repeats melting, never melting — coherence and Moderate (β) potency, and there is no breach counter: the activation trigger is proximity, being inside the field is sufficient, and nothing need be done at all.
+- **Classification detail:** Frozen Tear files as an Object/Place; its coherence is Echo (II) — Repeats melting, never melting — and its Moderate (β) potency, and there is no breach counter: the activation trigger is proximity, being inside the field is sufficient, and nothing need be done at all.
 - **Field detail:** Element Lament, registered to SECTOR-D-02, Echo Gardens, on open memorial display. The case is kept at ambient and has never been heated; the warmth is checked by hand through a cloth at every watch against a reading that has been the same for thirty years.
 - **Recognition detail:** A fist-sized tear of dark blue crystal, warm rather than cold, faintly lit, suspended and still, smelling of cold rain on old cloth.
 - **Record detail:** The Registrum named Flerehan as the only valid Work Type for an Object that cannot be worked through Flerehan at all, and claimed the glow tracks collective grief against three unvarying night series; both corrected. The M.A.W. grade was blank against β pieces, and the I-Relic profile describes equipping an object nobody has ever touched — recorded here as theoretical.
