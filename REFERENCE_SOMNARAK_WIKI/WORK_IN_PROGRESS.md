@@ -2796,6 +2796,15 @@ entry residual cleared line-locally; `own_series` already True; the file's own f
 edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 301; section-clean 283 / 301; archive
 dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
 
+**Batch 41, unit 5: Cracked Flesh `C-IIIγ-921` closed.** Measured live at `98ccddc`: **no dirty sections**; failures were
+`parity ['interactions']` and `condition` False — **closed in a single wave**; 5,461 → **5,916 words**; `tpl.py` residue 0;
+`sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section written
+in the file's own terms (3 rows — Breathing Stone `C-IVδ-907`, Dead Air `N-IIIγ-929`, Miasma `C-IVδ-922` — with its own
+column set), parity **277 → 278 / 301**; the Resolution line's clause re-registered as a documented suppression condition
+(the full working party off the affected ground inside the threshold, confirmed by the clock-holder rather than by the
+party), condition **273 → 274 / 301**. Movement: `R-29` 267 / 301; section-clean 301 / 301; archive dirty 0;
+file-clean 302 / 302. **Batch 41 stands at five of five.**
+
 **Batch 41, unit 4: Eleven Fifty-Nine `C-IIIγ-912` closed.** Measured live at `1eb747e`: **no dirty sections**; failures were
 `parity ['interactions']` and `condition` False — **closed in a single wave**; 5,570 → **6,047 words**; `tpl.py` residue 0;
 `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section written
@@ -2828,6 +2837,8 @@ conversions), `own_series` False → True, series **283 → 284 / 301**; the `Mo
 299 / 301; archive dirty 2; file-clean 302 / 302. **Batch 41 stands at one of five.**
 
 **Batch 41 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIIγ-921 Cracked Flesh 균열의 들판 — `89d5351` — PUSH VERIFIED — [[SE-C-IIIγ-921_Cracked_Flesh_균열의_들판]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-921_Cracked_Flesh_%EA%B7%A0%EC%97%B4%EC%9D%98_%EB%93%A4%ED%8C%90.md "SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md")
 
 - SE-C-IIIγ-912 Eleven Fifty-Nine 슬픔의 시간 — `51364a9` — PUSH VERIFIED — [[SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-912_Eleven_Fifty-Nine_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md")
 

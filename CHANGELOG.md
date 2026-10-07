@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 41 / unit 5 — Cracked Flesh `C-IIIγ-921` closed (2026-10-07)** — measured live at `98ccddc`: **no dirty sections**;
+  failures were `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing `## 상호작용
+  (Entity Interactions)` section written in the file's own terms — a preamble on why every relationship here is paper work,
+  an interaction method built on the painted boundary, a 3-row record pairing the field with Breathing Stone
+  `C-IVδ-907`, Dead Air `N-IIIγ-929` and Miasma `C-IVδ-922` under its own column set, and an interaction procedure —
+  parity **277 → 278 / 301** · and the Resolution line's clause re-registered in the form the register reads (`the
+  documented condition:` → `the documented suppression condition: **the full working party off the affected ground inside
+  the threshold, confirmed by the clock-holder rather than by the party**`) — condition **273 → 274 / 301**. 5,461 →
+  **5,916 words** (+455); `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True**; residual 0 on entry; `own_series` already True. Movement at the unit commit: `R-29` 267 / 301;
+  section-clean 301 / 301; residue-free 302 / 302; residue lines 0; archive dirty 0; file-clean
+  302 / 302. **Batch 41 stands at five of five.**
+
 - **Batch 41 / unit 4 — Eleven Fifty-Nine `C-IIIγ-912` closed (2026-10-07)** — measured live at `1eb747e`: **no dirty
   sections**; the unit's failures were `parity ['interactions']` and `condition` False. **Closed in a single wave**: the
   missing `## 상호작용 (Entity Interactions)` section written in the file's own terms — a preamble on why everything here is
