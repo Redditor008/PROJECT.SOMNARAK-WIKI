@@ -87,7 +87,7 @@
 
 1. **Tension:** Sky of Borrowed Faces is confirmed by the images move and speak. Nobody has ever recorded what is said, because the standing order forbids transcription and the reason given on the form is that a transcript would be evidence of something that was never said by the person whose mouth said it. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** Viderehan and Ferrehan only; Flerehan and Pugnahan are N/A for a Hazard. The reading is the surface count: distinct surfaces carrying a projection at the hour of the sweep, walked along the fixed four-hundred-metre perimeter transect. Twenty-three is baseline. The recorded range is zero to three hundred and eleven.
-3. **Resolution:** The transect walked to its end regardless of what is on the surfaces, the count logged by surface and never by face, and the team out before dusk. No sweep has ever been abandoned part-walked, and the one that was nearly abandoned is written up in full with the Warden's reason.
+3. **Resolution:** The transect walked to its end regardless of what is on the surfaces, the count logged by surface and never by face, and the team out before dusk. No sweep has ever been abandoned part-walked, and the one that was nearly abandoned is written up in full with the Warden's reason. It closes against the documented suppression condition: **The count logged by surface and never by face, and the team out before dusk**.
 
 ### Consequences
 
@@ -251,7 +251,7 @@ The set is built around not using a face: a blade that strikes one named target 
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Sky of Borrowed Faces (O-IIIγ-926 [LH]) is logged as a Hazard-Phantasmal manifestation expressing Lament, occupying open Desolate ground at SECTOR-O-926 on a site that four surveys confirm has no history of its own. The air throws images onto whatever surface will hold one — walls, standing water, glass, the flat of a shield — predominantly faces of the Fractured, which move and speak and occasionally extend toward an observer. It has never breached. Its instrument is the surface count on the fixed four-hundred-metre transect: twenty-three at baseline, zero at the floor, three hundred and eleven at the ceiling.
+**Entry 1 — Containment Description** Sky of Borrowed Faces (O-IIIγ-926 [LH]) stands on the register as Hazard-Phantasmal manifestation expressing Lament, occupying open Desolate ground at SECTOR-O-926 on a site that four surveys confirm has no history of its own. The air throws images onto whatever surface will hold one — walls, standing water, glass, the flat of a shield — predominantly faces of the Fractured, which move and speak and occasionally extend toward an observer. It has never breached. Its instrument is the surface count on the fixed four-hundred-metre transect: twenty-three at baseline, zero at the floor, three hundred and eleven at the ceiling.
 
 **Entry 2 — <Likeness Return: One Thousand Three Hundred and Eighteen on the Register, Three Hundred and Fourteen Refusals>**
 The first return under the Rule of the Standing Objector, Year 4238. One thousand three hundred and eighteen people sit on this facility's identification register as Fractured; one thousand and four of them have no living relative with standing to speak for them. Over the nine years before the rule, two thousand nine hundred and six requests were made to use a likeness from the register and one thousand nine hundred and two were granted, every one of them approved by somebody acting in good faith. This year three hundred and eighty-eight requests were made under the rule. The standing objector refused three hundred and fourteen. Seventy-four were granted, of which one hundred and twelve concerned a person with a living relative and were decided by that relative rather than by the objector. The surface count stood at three hundred and eleven in Year 4229, in the quarter the districts carried the recruitment campaign that used six hundred and forty intake photographs. It stood at zero in Year 4237, the first full year of refusals. The count has tracked the likeness column for nineteen years and has never tracked an intake, a death, a ward closure or anything done on the transect.
@@ -293,6 +293,20 @@ Open ground, nothing on it, nothing ever on it. Then a wall, and a face on the w
 **When the entity activates:** The count runs and keeps running. There is nothing to see that you have not already seen; there are simply more surfaces. A fortnight ago an office approved a photograph for a poster, correctly, with every signature in place.
 
 **After departure:** You think about a photograph of yourself that exists somewhere you did not put it. Most people have one and most people name it before the vehicle reaches the gate. The counselling wing logs it and treats it as useful rather than as exposure.
+
+## 상호작용 (Entity Interactions)
+
+The transect is walked to its end and the count is logged by surface, never by face; the file has never been walked with a second holding on the grid. The rows below are paper work from the appendix that groups the 90x holdings by manifestation, read against each record's own series — three ways of handling people who are present on something and absent in fact.
+
+**Interaction method:** Establish the transect's own numbers first: surfaces counted, the walk finished before dusk, the one sweep that came near to being abandoned part-walked. Then set the other record's series beside the count and enter the first parting, its reach, what caused it, and whether either series shifted. Re-verify at the next walk.
+
+| What the transect crosses | How the pairing has run | What the walk entered | What the sheet retains |
+|---|---|---|---|
+| **Once Upon** `O-IIIγ-920` | Filed together on faces that are counted. That record counts tellers by name; this one counts surfaces that carry a face and never the face itself. | One review entry; the two counts parted from the first mark and neither column was reconciled. | That the parting is the finding, kept in the review's own figures rather than merged. |
+| **Amnesia** `O-IIβ-914` | Grouped on identity that will not hold still. That record reads forearms where a person cannot answer and matches names off a board; here the faces are borrowed and nothing is asked of them. | Nothing was run. The appendix flagged the two together for the review's eye only. | That the pairing is a filing line with no measurement under it, entered on each repetition. |
+| **Miasma** `C-IVδ-922` | Grouped on grief that is visibly not the witness's own. That record holds a bank of somebody else's weeping; this one shows a walker a surface wearing somebody else's face. | The dwell series and the transect count were laid side by side once and shared only their duration. | That the two are compared on duration alone, noted beside the row as a measure and not a link. |
+
+**Interaction procedure:** Nothing is walked in company on this grid. The comparison is made on paper at the annual review, with the surface count entered first and the other record's figures set beside it untouched; parting, reach, cause and both readings are written into the margin.
 
 ## 이야기 (Narratio) — The Tale
 
