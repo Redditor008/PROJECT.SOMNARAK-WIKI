@@ -202,7 +202,7 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 **Ability:** Granted at random by the entity upon a successful work; the bearer gains brief anticipation (they "know" the next moment before it happens), steadying Clarity in scripted situations.
 **Cost:** The bearer occasionally speaks a line they did not choose, in a voice not entirely their own.
 
-*Nothing here mints a stigma. One is granted after a successful work, at random, and the grant is the loop's business rather than the worker's — there is no counter to ask at.*
+*Nothing here mints a stigma. One is drawn on a successful work, random and unrequested, and the grant is the loop's business rather than the worker's — there is no counter to ask at.*
 
 ### M.A.W. Use Notes
 
