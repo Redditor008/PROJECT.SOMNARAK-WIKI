@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per successful work cycle, taken off the border walk and never off the standing fragments |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Grudge pressure; 35% against other pressure types |
+| **Resistance** | 45% against Grudge pressure and 35% against everything else — a wall that still holds better than the promise that put it there |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Grudge |
@@ -80,18 +80,18 @@
 | { *The Loose Stone* [**Debuff**] } | "A stone falls from the wall — and the gap it leaves is exactly the shape of your weakest defense." | [The Wall crumbles; the target's defenses crack in sympathy.] | *Target suffers -10 Resilience; their own walls are failing.* **[10 Grudge DMG [Grudge]]** | When the target leans on the Wall. |
 | { *The Spreading Crack* [**Debuff**] } | "The crack widens — through the wall, through you, through everything you thought was solid." | [The Wall's fracture propagates; the target's composure splinters.] | *Target loses 10 Resilience; nothing holds.* **[10 Grudge DMG [Grudge]]** | When the target stays near the break. |
 | { *The Falling Masonry* [**Attack**] } | "A section of wall gives way — heavy, final, aimed." | [A mass of broken wall collapses on the target.] | *Inflicts Grudge pressure and one crushing, structural wound.* **[14-22 Grudge DMG [Grudge]]** | When the Wall is struck. |
-| { *The Full Breach* [**Attack**] } | "The whole wall comes down — and everything it was holding back floods through." | [The Wall collapses entirely; the held-back fury is released.] | *A heavy Crimson breach; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Wall is demolished. |
-| { *Every Wall Falls* [**Ultimate**] } | "The wall is contagious — now every barrier in the place is crumbling." | [The Wall's failure spreads to every surface.] | *All personnel suffer Grudge pressure for three turns as everything collapses.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Breach* [**Attack**] } | "The whole wall comes down — and everything it was holding back floods through." | [The courses come apart at once and everything they were holding back comes through the gap.] | *A heavy Crimson breach; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Wall is demolished. |
+| { *Every Wall Falls* [**Ultimate**] } | "The wall is contagious — now every barrier in the place is crumbling." | [The collapse propagates outward, and every standing surface along the line starts to fail with it.] | *All personnel suffer Grudge pressure for three turns as everything collapses.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The team sights the burning figure moving along a former wall line, confirms the route it is patrolling, and — before contact — agrees the specific failure each of them is prepared to state aloud. Nobody approaches this entity carrying an assurance they intend to offer.
 2. **Clash:** Twenty-four turns against 910 points of structural grievance at 45% resistance to its own element, with 29 to 64 pressure per strike. The engagement is physically winnable by a well-equipped party, and that is the trap: every turn spent winning it is a turn spent proving that force was available all along and was not there when the wall came down.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Admit the wall failed; do not promise perfect protection**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Admit the wall failed; do not promise perfect protection**. The rest of the record follows from that clause — the watch closes with the failure said out loud, and it is reopened by anybody who promises safety on the facility's behalf.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resilience**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
+- A resistance that fails is paid for twice over: the worker takes the raw pressure on **Resilience**, and what the destabilization does afterwards is what the entity uses to raise the gauge.
 - Prolonged exposure produces a specific and corrosive effect: personnel begin to feel betrayed by the institutions meant to protect them. It does not present as fear or injury. It presents as an accurate, well-evidenced loss of faith in the facility's own undertakings, and the worst cases are workers who were already owed something.
 - Every piece taken from this entity charges in protection that does not arrive. The pike breaches barriers and leaves the wielder's old injuries aching; the Broken Barrier absorbs exactly one impact and then remembers every person it failed to protect; the charm grants its boon and shortens the bearer's temper until they are hard to be near.
 - Unresolved, it does not merely escape. It expands and crushes corridors shut — the recorded breach is a wall doing to the facility what was done to the people behind it, which is to say sealing them in with no way through and no warning that it was coming.
@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. Welcome Haven is recorded as a Subject with Subject-Grudge manifestation and Grudge elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table above is one input among several, and it is the SECC code with the coherence level that tells a reader what a steady gauge means on the border. Welcome Haven stands as a Subject with Subject-Grudge manifestation and Grudge in its element, filed at Zone E on the border line. Two cautions travel with the entry. Nothing is inherited from a holding with a similar name; its neighbours are listed in their own section and none of them is this. And a flat gauge is no proof of a harmless watch: the figure can sit level while the worker is being reached through memory, ground or identity, and the price of that hour surfaces off the page.
 
 **Reading the response:** Flerehan brings the gauge down — the flames lower and the broken pieces become visible, which is the entity permitting itself to be seen as rubble rather than as a fire. Ferrehan brings it down by the harder route: the test is whether the worker can stand before failed safety without flinching from it and without explaining it away. Viderehan holds level, revealing what the wall failed to protect, and that revelation changes nothing because the entity has never been in any doubt about it. Pugnahan raises the gauge and draws burning fragments, because confrontation is force arriving at the wall after it has already fallen. One instruction governs everything above and is stated in the Behavior table without qualification: admit the wall failed, and do not promise perfect protection.
 ## Breach Behavior
@@ -195,7 +195,7 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a barrier-plate of Grudge Han-iron, dark and faintly warm, that settles cold against the skin.
+**Appearance:** a barrier-plate of Grudge Han-iron, dark and warm to the touch on the rack, that goes cold the moment it is strapped down.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -213,11 +213,11 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that catches the light oddly.
+**Appearance:** a small charm of Grudge Han-iron, dark and warm, that takes the light at an angle no sound piece of metal should.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 to the bearer's rating while working the entity, forfeited for the remainder of the cycle if the bearer promises anyone present that they will be safe
+**Effect:** +3 to the bearer's rating while working the entity, lost for the rest of the cycle if the bearer promises anybody present that they will be safe
 
 **Ability:** The charm warns its bearer when a structure they are relying on will not hold — reliably, early, and about structures nobody has the authority or the budget to fix.
 
@@ -233,10 +233,10 @@ Each piece remains part of the wall, and the set is organised around a single bi
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge at issue, and a sealed baseline against Welcome Haven's known toll: old injuries ache and faint bruising rises along the lines of them. Nothing new is broken. Opened at the end of the rotation, not before. |
-| **During use** | Watch for Welcome Haven's toll — old injuries ache and faint bruising rises along the lines of them. Nothing new is broken — and record the hour it is first seen rather than the hour it is first mentioned. |
-| **At limit** | The shield remembers every person it failed to protect, and the wielder has stopped reporting it — the usual end point for a Welcome Haven piece. The observer calls the limit. |
-| **After use** | Return the piece and check the sealed baseline: has Welcome Haven's cost — the shield remembers every person it failed to protect — outlasted the rotation? The answer is entered whether or not the wielder agrees. |
+| **Before use** | Wielder, piece, the issue-day gauge, and a sealed baseline taken before the piece leaves the rack. On this set old injuries ache and bruising returns along the old lines with nothing new broken, so the baseline is opened at the end of the rotation rather than the beginning of it. |
+| **During use** | From the first charge the old injuries ache and the bruising comes back along the same lines with nothing fresh having struck the body. The hour entered is the hour it was first seen by the second worker, not the hour it was first mentioned by anybody. |
+| **At limit** | The limit arrives when the bearer goes quiet about the shield's memory of everybody it failed to protect — that silence, rather than any figure on the sheet, is where a Welcome Haven piece ends, and the observer calls it. |
+| **After use** | Return the piece, open the sealed baseline, and enter whether the shield's cost outlasted the rotation. The answer goes down whether or not the bearer agrees with it. |
 
 **Stat interpretation:** The δ grades are high and honestly earned — ten to fifteen damage, a one-use absorption, a +3 Stigma. The sheet nonetheless omits the governing fact about this set, which is that its protective item has a quantity of one. Read the Cost lines as the specification and treat the Broken Barrier's resistance table as describing the state of the plate rather than the state of the wearer.
 ## 관찰 기록 (Observation Log)
@@ -258,7 +258,7 @@ Each piece remains part of the wall, and the set is organised around a single bi
 | **Initial exposure** | Fused fragment count, section of line, direction of travel, and confirmation that nothing has been built, blocked or promised on the approach. |
 | **Sustained observation** | Shed stone is recovered, logged by position and counted at each return: 310, 540, 806. The circuit, the pace and the conduct are unchanged across the whole series. |
 | **Activation or escalation** | A flare without an official present, or a shed count above the series. Check first whether anybody has promised anybody safety within earshot. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In Welcome Haven's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | Enter the delta — what was different afterwards, what held, and what the vocabulary would not carry. On this file the sheet is incomplete if it sets the danger down alone; the sorrow the entity preserves is the part the entry exists to carry. |
 
 **Observation method:** Record the stonework, the patrol line, and the admissions. The third of these is the part teams omit: log who said what, in whose hearing, and whether it was specific. The entity's documented tolerance is not for contrition in general but for a named failure, and a cycle in which the party offered sincere regret and no specifics will read as a success in the gauge column and a failure in the transcript. Then take the personnel record. Workers exposed here report betrayal by the institutions meant to protect them, and that report is often correct on the facts; it is logged as an exposure finding and forwarded as a grievance, both, and the file should not pretend those are the same process.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -266,7 +266,7 @@ Each piece remains part of the wall, and the set is organised around a single bi
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Welcome Haven (O-IVδ-897 [GS]) is logged as a Subject-Grudge manifestation expressing Grudge. The entity formed from a wall that failed to protect the people behind it. Held at Zone E, Border region. It patrols former wall lines.
+Welcome Haven (O-IVδ-897 [GS]) stands on the register as a Subject-Grudge manifestation expressing Grudge. The entity formed out of a wall that failed the people behind it. Held at Zone E, Border region; it walks the line where the wall used to stand.
 
 **Entry 2 — <Border Patrol Log, Zone E Watchtowers>**
 Moves along the Zone E border and watchtowers. Personnel feel betrayal by institutions meant to protect them. It attacks representations of false security more than individuals.
@@ -275,7 +275,7 @@ Moves along the Zone E border and watchtowers. Personnel feel betrayal by instit
 The fury of discovering that safety was promised but never delivered.
 
 **Entry 4 — <Containment Notice>**
-Management: Admit the wall failed; do not promise perfect protection. Work response — Flerehan: Flames lower and the broken pieces become visible. (Decrease); Pugnahan: Attacks with burning fragments. (Increase); Viderehan: Reveals what the wall failed to protect. (Stable); Ferrehan: Tests whether the worker can stand before failed safety. (Decrease). Its fire is emotional rather than physical.
+Management: Admit the wall failed; do not promise perfect protection. Work response — Flerehan: the flames drop and the broken courses stand visible (Decrease); Pugnahan: it answers with burning fragments (Increase); Viderehan: what the wall failed to protect is shown (Stable); Ferrehan: it tests whether a worker can stand in front of failed safety (Decrease). Its fire is emotional rather than physical.
 
 **Entry 5 — <Finding of the Wall Line Inquiry, Unpublished>**
 The finding was never published. It establishes that the structure was built to an adequate standard, maintained below it for nine years, and failed at a load it should have carried; that an assurance of safety was issued and repeated; and that no person can be identified as having given it, every entry in the chain being the act of a post. The inquiry's last paragraph states that it is unable to recommend an apology, there being no one competent to make one, and that this is a defect in the records rather than in the facts.
@@ -284,11 +284,11 @@ The finding was never published. It establishes that the structure was built to 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Welcome Haven; the other feeds it.
+> Two ways to close a watch on the wall, and the file separates them by what the observer does once the failure has been said out loud: one admits it and promises nothing, and the other reaches for comfort the record cannot support.
 
-| Admit the wall failed; do not promise perfect protection. | Improvise something kinder, which is how every failure on Welcome Haven's file began. |
+| Admit the wall failed, say it plainly, and promise nobody present that they will be safe. | Improvise something kinder — give the comfort anyway, or promise protection on the facility's behalf, which is how every failure on this file has begun. |
 |---|---|
-| Flames lower and the broken pieces become visible. The sorrow is named; Welcome Haven is fully recorded. | Attacks with burning fragments. The gauge climbs and Welcome Haven withdraws without revelation. |
+| The flames drop and the broken courses stand visible; the failure is named and the entry closes with the wall recorded whole. | It answers with burning fragments; the gauge climbs and the entry closes with the wall no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -307,7 +307,7 @@ A wall breaks across the horizon and a figure steps from the gap. Fire runs thro
 
 ### Interaction Pattern
 
-Welcome Haven does not exist in isolation. Its recorded relationships with The Rusted Wall, The Guardian of the Gate, The Outside Sorrow should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings sit within the wall's working range — The Rusted Wall, The Guardian of the Gate and The Outside Sorrow — and each is a resonance question rather than an alliance or a standing quarrel. Where a pairing is run, enter what the answer did in sound, movement, temperature, memory pressure, gauge or containment stability, with range, duration and trigger beside it.
 
 **Interaction method:** Establish the patrol alone first — route, pace, which wall lines it favours, what it does at the watchtowers — across several cycles in which nothing is built, blocked or promised. Then introduce a second entity and attend to the variable peculiar to this holding: whether the other presence constitutes a representation of safety. Anything that shelters, encloses, guards or claims to guard is a candidate target in a way that merely proximate entities are not, and the record is explicit that this entity attacks such representations in preference to individuals. Log the separation, the duration, the gauge movement, the direction of approach, and whether the other holding was damaged in a manner the entity has never used against personnel.
 
@@ -316,7 +316,7 @@ Welcome Haven does not exist in isolation. Its recorded relationships with The R
 
 This entity walks the Zone E border, which it shares with other holdings concerned with lines, exclusion and belonging, and unlike most of them it is mobile and actively patrolling. The interactions below are canonical but each was recorded on a particular wall line at a particular point in its circuit; personnel must re-establish the current patrol before relying on any of them.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The wall's neighbour | How the pairing has run | What the border watch measured | What the entry carries |
 |---|---|---|---|
 | **The Rusted Wall** | Two failures of the same line, thirty years apart. This one walks to the Wall's position and stands at it; nothing passes between them and both gauges fall slightly. | The only recorded reduction requiring no admission from anybody. | Record both gauges and the shed count. The pairing is maintained quarterly as standing practice. |
 | **The Guardian of the Gate** | The Guardian is a representation of protection that still functions, which is the one thing this holding cannot be near. It attacks the Guardian's position directly, every time, and ignores the personnel between them. | Severe structural damage at the gate; no injuries in four encounters. | Separate at the first change of direction. The pairing is prohibited and the prohibition is in the border standing orders. |
@@ -433,8 +433,8 @@ The Zone E watch asked for a single exception. Where the deciding officer is kno
 
 ### Registry Trivia
 
-- **Classification detail:** Welcome Haven is a Subject with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone E, Border region.
+- **Classification detail:** A Subject with Entity (IV) coherence and Critical (δ) potency, graded for the failure it stands for rather than for the wall it once was.
+- **Field detail:** Its element is Grudge, and the register keeps it on the Zone E border line.
 - **Recognition detail:** Identify by the courses. Dressed stone fragments from a single shattered wall, fused into a burning body, carried along a border line where no wall now stands.
 - **Record detail:** The Zone E border holds more than one Grudge entity formed from a failed boundary; confirm the designation O-IVδ-897 and the Subject-Grudge manifestation before applying this file to any of them.
 - **Containment detail:** No cell has been built for this entity and the decision was deliberate rather than a shortfall of resources: a wall around a wall that failed is the provocation in its purest form. It is contained by being accompanied along its patrol, under an admission protocol, by personnel who do not promise anything. Whether that constitutes containment is a fair question and the file does not claim otherwise.

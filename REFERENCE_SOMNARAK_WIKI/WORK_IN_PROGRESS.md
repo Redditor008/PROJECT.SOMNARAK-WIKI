@@ -1716,6 +1716,13 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 33, unit 2: Welcome Haven `O-IVδ-897` closed.** Measured at `8de961d`: **4 dirty sections**, worst Final
+Observation 0.189, then Behavior 0.160, Trivia 0.060 and Flavor Text 0.056 — **closed in a single wave** (24 sites);
+7,746 → **7,932 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**,
+series and condition held; condition re-registered in the resolution line. Disclosed: the Entry 1 `is logged as ` line
+was rewritten — residual **1 → 0**. Movement: `R-29` 200 / 301; section-clean 225 / 301; residue-free 302 / 302;
+archive dirty 174; file-clean 302 / 302. **Batch 33 stands at two of ten.**
+
 **Batch 33, unit 1: Thralldom `O-Iα-754` closed.** Measured at `2ed584c`: **4 dirty sections**, worst Final
 Observation 0.209, then Behavior 0.167, Flavor Text 0.059 and Combat Record 0.054 — **closed in a single wave** (24
 sites); 6,903 → **7,081 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets
@@ -2230,6 +2237,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 33 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IVδ-897 Welcome Haven 부서진 벽 — `__HASH__` — PUSH VERIFIED — [[SE-O-IVδ-897_Welcome_Haven_부서진_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-897_Welcome_Haven_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%B2%BD.md "SE-O-IVδ-897_Welcome_Haven_부서진_벽.md")
 
 - SE-O-Iα-754 Thralldom 떠도는 사슬 — `a1c3697` — PUSH VERIFIED — [[SE-O-Iα-754_Thralldom_떠도는_사슬]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-754_Thralldom_%EB%96%A0%EB%8F%84%EB%8A%94_%EC%82%AC%EC%8A%AC.md "SE-O-Iα-754_Thralldom_떠도는_사슬.md")
 
