@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 42 / unit 3 — Endless Shift `C-IVδ-915` closed (2026-10-07)** — measured live at `c010f38`: **no dirty
+  sections**; failures were `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing
+  `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row
+  record pairing the sector with Breathing Stone `C-IVδ-907`, Labyrinth of the Unfinished Mind `C-IVδ-909` and Ninety
+  Seconds `C-IVδ-918` under its own column set, and an interaction procedure — parity **280 → 281 / 301** · and the
+  Resolution line extended to carry the file's own clause as a documented suppression condition (**Relief is taken at the
+  door, in person, with both timepieces read aloud**) — condition **276 → 277 / 301**. 6,037 → **6,479 words**; `tpl.py`
+  residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**; residual 0 on entry; `own_series`
+  already True. Movement at the unit commit: `R-29` 271 / 301; section-clean 301 / 301; residue-free 302 / 302;
+  residue lines 0; archive dirty 0; file-clean 302 / 302. **Batch 42 stands at three of seven.**
+
 - **Batch 42 / unit 2 — Labyrinth of the Unfinished Mind `C-IVδ-909` closed (2026-10-07)** — measured live at
   `344825f`: **no dirty sections**; failures were `parity ['interactions']` and `condition` False. **Closed in a single
   wave**: the missing `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction

@@ -2848,6 +2848,15 @@ conversions), `own_series` False → True, series **283 → 284 / 301**; the `Mo
 `felt... complete` ellipsis normalised, residual **1 → 0** and seam cleared. Movement: `R-29` 263 / 301; section-clean
 299 / 301; archive dirty 2; file-clean 302 / 302. **Batch 41 stands at one of five.**
 
+**Batch 42, unit 3: Endless Shift `C-IVδ-915` closed.** Measured live at `c010f38`: **no dirty sections**; failures were
+`parity ['interactions']` and `condition` False — **closed in a single wave**; 6,037 → **6,479 words**; `tpl.py` residue
+0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section
+written in the file's own terms (3 rows — Breathing Stone `C-IVδ-907`, Labyrinth of the Unfinished Mind `C-IVδ-909`,
+Ninety Seconds `C-IVδ-918` — with its own column set), parity **280 → 281 / 301**; the Resolution line extended to carry
+the file's own clause as a documented suppression condition (Relief is taken at the door, in person, with both timepieces
+read aloud), condition **276 → 277 / 301**. Movement: `R-29` 271 / 301; section-clean 301 / 301; archive dirty
+0; file-clean 302 / 302. **Batch 42 stands at three of seven.**
+
 **Batch 42, unit 2: Labyrinth of the Unfinished Mind `C-IVδ-909` closed.** Measured live at `344825f`: **no dirty
 sections**; failures were `parity ['interactions']` and `condition` False — **closed in a single wave**; 5,865 → **6,288
 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing
@@ -2867,6 +2876,8 @@ condition **274 → 275 / 301**. Movement: `R-29` 269 / 301; section-clean 301 /
 file-clean 302 / 302. **Batch 42 stands at one of seven.**
 
 **Batch 42 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IVδ-915 Endless Shift 끝없는 교대 — `70939d7` — PUSH VERIFIED — [[SE-C-IVδ-915_Endless_Shift_끝없는_교대]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-915_Endless_Shift_%EB%81%9D%EC%97%86%EB%8A%94_%EA%B5%90%EB%8C%80.md "SE-C-IVδ-915_Endless_Shift_끝없는_교대.md")
 
 - SE-C-IVδ-909 Labyrinth of the Unfinished Mind 생각의 미로 — `9053acb` — PUSH VERIFIED — [[SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-909_Labyrinth_of_the_Unfinished_Mind_%EC%83%9D%EA%B0%81%EC%9D%98_%EB%AF%B8%EB%A1%9C.md "SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md")
 
