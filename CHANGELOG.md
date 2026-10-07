@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 46 / unit 7 — Sky of Borrowed Faces `O-IIIγ-926` quote written (2026-10-07)** — the shared opening quote (family of **6** dossiers, source
+  **Glass Elsewhere `N-IIβ-903`**) replaced **in place** with one of this file's own: surfaces keeping faces the register confirms are still alive. 7139 → **7145 words**; residual 0; 0 sections over 0.05;
+  `tpl.py` 0; meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 46
+  stands at 7 of ten.**
+
 - **Batch 46 / unit 6 — Miasma `C-IVδ-922` quote written (2026-10-07)** — the shared opening quote (family of **6** dossiers, source
   **Glass Elsewhere `N-IIβ-903`**) replaced **in place** with one of this file's own: fog that weeps through a person with borrowed grief and leaves the particulars behind. 5216 → **5223 words**; residual 0; 0 sections over 0.05;
   `tpl.py` 0; meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 46
