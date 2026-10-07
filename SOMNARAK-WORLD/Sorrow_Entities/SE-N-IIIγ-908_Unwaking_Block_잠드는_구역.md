@@ -28,7 +28,7 @@
 | **Entity role** | Place |
 | **Primary pressure** | Lament / Dream pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per successful work cycle, counted off the mapping plan's own tallies |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
@@ -79,16 +79,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's dream pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament]]** | When the entity first fixes on a target. |
-| { *The Dream Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament dream sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[21 Lament DMG [Lament]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[23 Lament DMG [Lament]]** | When the entity is cornered or starved. |
-| { *The Dream Collapse* [**Ultimate**] } | "The dream breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It starts as a whisper in the lament." | [A first measure of dream pressure comes down on whoever the Block has noticed.] | *A weight arrives that is not on the body; light Lament contact.* **[10 Lament DMG [Lament]]** | When the Block first fixes on a target. |
+| { *The Dream Surge* [**Attack**] } | "The sorrow takes an edge." | [A gathered burst of lament comes off the sleeper-line.] | *Lament strikes home and the reading jumps.* **[21 Lament DMG [Lament]]** | When the Block is challenged or refused. |
+| { *The Settling* [**Attack**] } | "Then all at once it comes down in one place." | [The whole of the dream weight is put behind a single point.] | *A wrecking Lament blow; the reading leaps.* **[23 Lament DMG [Lament]]** | When the Block is cornered or goes long unfed. |
+| { *The Dream Collapse* [**Ultimate**] } | "The dream gives way, and the whole holding of it spills out." | [Every sleeper's sorrow breaks at once in all directions.] | *Everyone on the floor takes Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | At a Sorrow Gauge of 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the sleepers themselves, 212 of them, in the positions they fell asleep in on the same night. They breathe, they age slowly, they do not stir when a wall moves in the next room) and Unwaking Block is confirmed against the designation; positions are taken and the cycle is opened.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Unwaking Block's recorded combat actions.
-3. **Resolution:** The caller outside says the time and the party leaves whatever room it is standing in. Plans are signed at the threshold, not inside. Forty-one plans are on file and no two of them agree.
+1. **Tension:** The marker is the sleepers themselves — 212 of them, in the postures they were in on the night it happened. They breathe, they age slowly, and they do not stir when a wall is moved in the next room. Confirmed against the designation, positions taken, and the cycle opened.
+2. **Clash:** Work Types are worked and M.A.W. gear is issued while the Block answers with the actions on file.
+3. **Resolution:** The caller outside says the time and the party leaves whatever room it is standing in; plans are signed at the threshold, never inside. The file registers a suppression condition: **The caller outside keeps the time and the party leaves the room it is standing in**. That clause is the whole of the discipline here — 41 plans are on file and no two of them agree.
 
 ### Consequences
 
@@ -277,6 +277,18 @@ There is a moment — always the same, always brief — when the lament pressure
 **When a door appears:** It is unremarkable. Right size, right fittings, right wear on the handle, and not on any plan drawn before that morning.
 
 **After departure:** You sleep well for two nights. Everyone does, and it is written on the form so that nobody has to decide whether to mention it.
+
+### Entity Interaction Record
+
+Three holdings are read beside the Block — The Sleeping Sigh, The Dreaming Plague and the Echo Gardens — and none of the three is a partner to it or an opponent; each pairing is a question the post puts again every mapping season. No joint observation has ever been filed here, and the notes below are entered as proposed points of contact rather than measured results.
+
+| Holding read beside the Block | How the two have run | What the survey logged | What the entry keeps |
+|---|---|---|---|
+| **The Sleeping Sigh** | Two sleepers' holdings in one district, and the district has asked more than once which of them keeps the other's hours. | Never measured together. Surveyors passing from one post to the other record the same pull to lie down twice in a shift, which the roster treats as a scheduling problem. | The distance between the two posts and the hour of the second reading. |
+| **The Dreaming Plague** | The Plague works on sleepers who are already dreaming; the Block's sleepers have not dreamed since the first night. | A dormant pairing on paper: no shared watch has been run and the wing has no plan to run one. | Why no pairing has been attempted, with the refusal entered as a finding. |
+| **The Echo Gardens** | The Gardens keep what is said; the Block keeps what is laid down. The two archives are read together by the plan office and at no other time. | The plan office's own cross-reading, entered here because no other file holds it. | Which archive kept the version that proved correct, and the date of the reading. |
+
+**Interaction method:** read the Block first and alone, at the intervals the mapping plan sets, and bring no second holding in without a written order from the wing — none has ever been granted to this post. Where a pairing is run, enter what the other holding answered, in sound, movement, temperature at thresholds, memory load on surveyors and the gauge, together with the range it kept and the hour it began.
 
 ## 이야기 (Narratio) — The Tale
 
