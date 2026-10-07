@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** The windows confirm it; the height never does. The ring of openings holds no rooms and never changes, the figure it rings stands in the ground as though it sank upright, and a faint light climbs from the buried floors. Height against the bay datum is taken at both ends of the cycle — eleven metres down to one and a half on the record — and positions and withdrawal are fixed before the ring is entered.
+1. **Tension:** The windows confirm it; the height never does. The ring of openings holds no rooms and never changes, the figure it rings stands in the ground as though it sank upright, and a faint light climbs from the buried floors. Height against the bay datum is taken at the open and again at the close — eleven metres down to one and a half on the record — and positions and withdrawal are fixed before the ring is entered.
 2. **Clash:** The work is naming the corner. Flerehan stops the sinking and raises it in the ground; Ferrehan is standing in front of the gap without filling it; Pugnahan drives it down and is the one approach that has ever cost height. Nobody climbs it. Four attempts, four sinkings, and the lowest reading on record followed the last.
 3. **Resolution:** The watch closes under containment, management or withdrawal, or on the documented suppression condition: **Record its former location; do not attempt to rebuild it around the entity** — the corner carried in the record and the print, the survey notation kept current, and the figure left to sink on its own feet rather than driven down.
 
