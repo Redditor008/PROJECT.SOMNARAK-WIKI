@@ -2263,7 +2263,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 33 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IVγ-255 Hollow Architect 빈 건축가 — `__HASH__` — PUSH VERIFIED — [[SE-C-IVγ-255_Hollow_Architect_빈_건축가]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-255_Hollow_Architect_%EB%B9%88_%EA%B1%B4%EC%B6%95%EA%B0%80.md "SE-C-IVγ-255_Hollow_Architect_빈_건축가.md")
+- SE-C-IVγ-255 Hollow Architect 빈 건축가 — `4496d40` — PUSH VERIFIED — [[SE-C-IVγ-255_Hollow_Architect_빈_건축가]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-255_Hollow_Architect_%EB%B9%88_%EA%B1%B4%EC%B6%95%EA%B0%80.md "SE-C-IVγ-255_Hollow_Architect_빈_건축가.md")
 
 - SE-C-IVδ-249 Collapsed Whisper 무너진 속삭임 — `cb56688` — PUSH VERIFIED — [[SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-249_Collapsed_Whisper_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md")
 
