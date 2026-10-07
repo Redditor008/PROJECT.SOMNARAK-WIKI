@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 38 / unit 4 — Clapperless `C-IIβ-340` closed (2026-10-07)** — measured at `e15ed75`: **3 dirty sections** at
+  the batch-open scan — Operational Parameters, Final Observation and the record sections whose template lines carried
+  shared grams. Closed in a single wave (28 sites) across Operational Parameters, Final Observation, Combat Record,
+  Behavior, M.A.W. Equipment, Story Log, Flavor Text and the Registrum, mixing whole-line re-authorings with span-level
+  fixes on the long paragraphs. 7,993 → **8,067 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over
+  0.05**; `wikistd.py` meets **True** with residual 0 on entry and `own_series` already True; the resolution line carries
+  no suppression-condition form and was left untouched, condition count unchanged. The file's own figures were restated
+  in numerals inside real edits (6 tenths of a metre against 26 · 11 metres · 3 early reports · 64 years · 4 assessors ·
+  2 of the 3 · 12 stations) — disclosed. Movement at the unit commit: `R-29` 240 / 301; section-clean 274 / 301;
+  residue-free 302 / 302; residue lines 0; archive dirty 40; file-clean 302 / 302. **Batch 38 stands at
+  four of five.**
+
 - **Batch 38 / unit 3 — Anger Underfoot `C-Iα-175` closed (2026-10-07)** — measured at `74e1749`: **3 dirty
   sections**, Operational Parameters (the yield row, the recommended-response row and the work-object line), Final
   Observation (the choice blockquote and the choose row) and the record sections whose template lines carried shared

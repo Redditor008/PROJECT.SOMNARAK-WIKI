@@ -2598,6 +2598,15 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
+**Batch 38, unit 4: Clapperless `C-IIβ-340` closed.** Measured at `e15ed75`: **3 dirty sections** at the batch-open scan —
+Operational Parameters, Final Observation and the record sections carrying shared template lines — **closed in a single
+wave** (28 sites, whole-line re-authorings plus span-level fixes on the long paragraphs); 7,993 → **8,067 words**;
+`tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, residual 0 on entry,
+`own_series` already True. Disclosed: the resolution line carries no suppression-condition form and was left untouched;
+the file's own figures restated in numerals inside real edits (6 tenths of a metre against 26 · 11 metres · 3 reports ·
+64 years · 4 assessors · 2 of the 3). Movement: `R-29` 240 / 301; section-clean 274 / 301; archive dirty 40;
+file-clean 302 / 302. **Batch 38 stands at four of five.**
+
 **Batch 38, unit 3: Anger Underfoot `C-Iα-175` closed.** Measured at `74e1749`: **3 dirty sections** — Operational
 Parameters, Final Observation and the record sections carrying shared template lines — **closed in one wave**
 (19 sites) plus a line-local residual fix; 7,529 → **7,596 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s)
@@ -2626,6 +2635,8 @@ against 157). Movement: `R-29` 237 / 301; section-clean 271 / 301; archive dirty
 **Batch 38 stands at one of five.**
 
 **Batch 38 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIβ-340 Clapperless 빈 종 — `b3bdd07` — PUSH VERIFIED — [[SE-C-IIβ-340_Clapperless_빈_종]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-340_Clapperless_%EB%B9%88_%EC%A2%85.md "SE-C-IIβ-340_Clapperless_빈_종.md")
 
 - SE-C-Iα-175 Anger Underfoot 스며든 흔적 — `6ff2895` — PUSH VERIFIED — [[SE-C-Iα-175_Anger_Underfoot_스며든_흔적]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-175_Anger_Underfoot_%EC%8A%A4%EB%A9%B0%EB%93%A0_%ED%9D%94%EC%A0%81.md "SE-C-Iα-175_Anger_Underfoot_스며든_흔적.md")
 
