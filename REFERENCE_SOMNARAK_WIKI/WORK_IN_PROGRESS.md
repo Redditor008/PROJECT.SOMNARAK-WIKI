@@ -3166,6 +3166,9 @@ Torn Flower at 1.00) replaced **in place** in the file's own terms — Gate, orc
 until the next touched-fruit tally is larger than the last. 7,270 → **7,299 words**; residual 0; **0 sections over 0.05**;
 `tpl.py` 0; meets **True**; copy-side whole instances **6 → 0**; nothing deleted. **Batch 44 stands at one of ten.**
 
+**Batch 45, unit 6: Cracked Flesh `C-IIIγ-921` quote written.** The shared family quote replaced in place with an ordinary field that keeps a register of everyone who crosses it. 5916 → **5924 words**;
+residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 45 stands at 6 of ten.**
+
 **Batch 45, unit 5: Once Upon `O-IIIγ-920` quote written.** The shared family quote replaced in place with once upon a time said in an empty room and the street filling with everyone the district forgot. 4640 → **4650 words**;
 residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 45 stands at 5 of ten.**
 
@@ -3188,6 +3191,8 @@ residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **B
 
 **Batch 45 — OPEN at ten; quote phase (each file's shared opening quote replaced in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
+
+- SE-C-IIIγ-921 Cracked Flesh 균열의 들판 — `ab8ad07` — PUSH VERIFIED — [[SE-C-IIIγ-921_Cracked_Flesh_균열의_들판](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-921_Cracked_Flesh_%EA%B7%A0%EC%97%B4%EC%9D%98_%EB%93%A4%ED%8C%90.md "SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md")]
 
 - SE-O-IIIγ-920 Once Upon 이야기의 시간 — `4ef91ee` — PUSH VERIFIED — [[SE-O-IIIγ-920_Once_Upon_이야기의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-920_Once_Upon_%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-O-IIIγ-920_Once_Upon_이야기의_시간.md")]
 

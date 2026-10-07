@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 45 / unit 6 — Cracked Flesh `C-IIIγ-921` quote written (2026-10-07)** — the shared opening quote (family of **8** dossiers)
+  replaced **in place** with one of this file's own: an ordinary field that keeps a register of everyone who crosses it. 5916 → **5924 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
+  meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 45 stands at 6
+  of ten.**
+
 - **Batch 45 / unit 5 — Once Upon `O-IIIγ-920` quote written (2026-10-07)** — the shared opening quote (family of **8** dossiers)
   replaced **in place** with one of this file's own: once upon a time said in an empty room and the street filling with everyone the district forgot. 4640 → **4650 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
   meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 45 stands at 5
