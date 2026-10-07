@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per successful cycle, read off the sighting line rather than the corridor |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Grudge pressure; 15% against other pressure types |
+| **Resistance** | 25% against Grudge pressure, and 15% against every other kind |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 478/478 |
 | **Han Pressure [ATK]** | 9–21 per hit · Grudge |
@@ -81,14 +81,14 @@
 | { *The Split Skin* [**Debuff**] } | "The fruit splits — and the inside is not sweet. It is old, fermented rage." | [The Fruit tears open; the target catches the scent of corrupted anger.] | *Target suffers -10 Resilience; the fermented rage is pungent.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Fruit. |
 | { *The Sour Juice* [**Debuff**] } | "The juice runs — and where it touches, the skin reddens with old resentment." | [The Fruit's bitter sap burns; the target's own anger ferments in response.] | *Target loses 10 Resilience; they feel their own bitterness rising.* **[10 Grudge DMG [Grudge]]** | When the target is splashed. |
 | { *The Pitted Seed* [**Attack**] } | "A seed, hard as iron, fires from the split fruit — aimed at your teeth." | [A hardened seed-pit launches at the target.] | *Inflicts Grudge pressure and one hard, stinging impact.* **[14-22 Grudge DMG [Grudge]]** | When the Fruit is squeezed. |
-| { *The Full Harvest* [**Attack**] } | "Every torn fruit on the branch bursts at once — a rain of fermented fury." | [The Fruit detonates, releasing all its accumulated rage.] | *A heavy Crimson eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Fruit is struck. |
-| { *The Blighted Orchard* [**Ultimate**] } | "Every tree, every fruit — torn open, pouring rage across the whole field." | [The Fruit spreads its blight across the entire area.] | *All in range suffer Grudge pressure for three turns in the ruined orchard.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Harvest* [**Attack**] } | "Every torn fruit on the branch goes at once, a rain of fermented fury." | [The Fruit bursts and lets out all the rage it has been keeping.] | *A heavy Crimson eruption; the meter climbs 15%.* **[24-36 Grudge DMG [Grudge]]** | At the moment the Fruit is struck. |
+| { *The Blighted Orchard* [**Ultimate**] } | "Every tree, every fruit torn open at once, and all of it pouring rage over the field." | [The Fruit carries its blight out over the whole area.] | *Everyone in range takes Grudge pressure for three turns among the ruined trees.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the gauge passes 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the opening width against the last sighting, not by the figure. The outline looks identical at three centimetres and at sixty-one, and two early reports describe an unchanged entity on days the sighting found a nineteen-centimetre difference) and Hollowcast is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** The opening width is checked against the previous sighting, never against the figure. The outline reads the same at 3 centimetres as it does at 61, and 2 early reports describe an unchanged entity on days when the sighting found a 19-centimetre difference. Hollowcast is confirmed against the designation on that basis; positions are taken and the cycle is opened.
 2. **Clash:** Flerehan and Ferrehan from the sighting line. Pugnahan is authorised once and consumes two steps of margin when it is used, because the gauge rises sharply on confrontation and the opening widens with it. The widening does not reverse between cycles.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Use identity anchors and do not invent memories for it**.
+3. **Resolution:** The cycle ends the way the file's own rule ends it — containment, retreat or management, or against the documented suppression condition: **Use identity anchors and do not invent memories for it**.
 
 ### Consequences
 
@@ -145,7 +145,7 @@
 
 Flerehan lowers the gauge and it is the hardest Work Type in the file to perform honestly: the figure reaches toward the worker, and what lowers the gauge is proximity without reassurance. Ferrehan lowers it by endurance — the worker stays near the emptiness and does not fill it. Viderehan holds level and produces the structural record of what is missing, which is where the holding's understanding of the entity has come from. Pugnahan raises the gauge sharply, widens the opening permanently, and is the reason the casing mounts have been replaced four times.
 
-**Reading the response:** The gauge measures one worker in one session. The opening measures what the welfare office and the hazard board have done to each other's files. They are kept in separate columns, they have never moved together, and supervisors are instructed that a session which lowers the gauge and leaves the opening wider has been worked correctly and is written up as a success without qualification.
+**Reading the response:** The gauge reports one worker across one session. The opening reports what the welfare office and the hazard board have done to each other's files. Those two numbers sit in separate columns and have not moved in step once; supervisors are told that a session which lowers the gauge and leaves the opening wider has been worked right and is recorded as a success with no note attached.
 ## Breach Behavior
 
 > *"It is not hunting. It is walking the corridor reaching for people and the new staff keep telling it that it is all right."* — Shift supervisor, expansion of Year 4231
@@ -173,7 +173,7 @@ Flerehan lowers the gauge and it is the hardest Work Type in the file to perform
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that glows along its edge when readied.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, with an edge that lights along its length as it is readied.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -194,7 +194,7 @@ Flerehan lowers the gauge and it is the hardest Work Type in the file to perform
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, holding a thin trace of wherever it was made.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -212,11 +212,11 @@ Flerehan lowers the gauge and it is the hardest Work Type in the file to perform
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a bracelet of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+**Appearance:** a bracelet of Grudge Han-iron, dark and faintly warm, sitting heavier on the wrist than its size accounts for.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 when working this entity, and the bearer is barred from speaking to it. The bracelet's holder takes the sighting and nothing else; the bracelet warms when its wearer is about to reassure.
+**Effect:** +1 work stat against the entity this piece answers to, and the bearer is barred from speaking to it; a holder takes the sighting and nothing else, and the bracelet warms when its wearer is about to reassure somebody.
 
 **Ability:** The bracelet warms against the skin when its wearer is about to offer reassurance. It has no other function, cannot be aimed, and is described in the duty log as the most disliked object in the holding.
 
@@ -237,7 +237,7 @@ The three pieces share one property and the armoury states it at the front of th
 | **At limit** | Engagement time, closing width, and the first reassurance anybody in the room offered. Transcribe it verbatim. |
 | **After use** | Sealed note read back by someone else, casing mounts inspected, closing sighting filed. Operators carrying an unanswered complaint of their own are stood down from this holding until it is answered. |
 
-**Stat interpretation:** β across the set and correctly rated against entities. Against people the set does one thing, consistently, and the facility has no column for a piece of equipment that degrades a wielder's capacity for comfort.
+**Stat interpretation:** β holds across the set and the rating against entities is right. In people the set does one thing every time, and this facility keeps no column for a piece of equipment that wears down a wielder's capacity for comfort.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -265,10 +265,10 @@ The three pieces share one property and the armoury states it at the front of th
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Hollowcast (N-IIβ-426 [D]) is logged as a Subject-Void manifestation expressing Grudge, held in the Forge District, Zone D: a walking person-shaped emptiness split open like torn fruit, crimson light coming out of the gap and nothing behind the light. It communicates something that is not language and personnel report understanding it anyway; the folder records what was understood and by whom, and never asserts that anything was said. The holding's instrument is the width of the opening, sighted from a marked line twice a session — fourteen centimetres at baseline, three at the floor, sixty-one at the ceiling.
+Hollowcast (N-IIβ-426 [D]) stands on the register as a Subject-Void manifestation expressing Grudge, held in the Forge District, Zone D: a walking person-shaped emptiness split open like torn fruit, crimson light coming out of the gap and nothing behind the light. It communicates something that is not language and personnel report understanding it anyway; the folder records what was understood and by whom, and never asserts that anything was said. The holding's instrument is the width of the opening, sighted from a marked line twice a session — fourteen centimetres at baseline, three at the floor, sixty-one at the ceiling.
 
 **Entry 2 — <Remedy Return: One Hundred and Forty-One Extractions, One Hundred and Three Matters Closed>**
-The first return under the Rule of the Separate Remedy, Year 4238. This facility authorised one hundred and forty-one therapeutic memory extractions in the nine years the register covers, every one of them clinically indicated, consented to, and carried out competently. One hundred and three of them also closed the hazard matter that had injured the person treated; thirty-eight did not. The opening stood at sixty-one centimetres in Year 4231, in the six weeks after the Forge District press collapse, when forty-four workers were treated and forty-four matters were marked resolved on the strength of the treatment. It stood at three centimetres in Year 4237, the quarter the hundred and three were reopened and worked on the physical evidence alone. The width has tracked the remedy return for nine years and has never tracked anything done at the holding.
+Drawn from the first return filed under the Rule of the Separate Remedy, in Year 4238. This facility authorised one hundred and forty-one therapeutic memory extractions in the nine years the register covers, every one of them clinically indicated, consented to, and carried out competently. One hundred and three of them also closed the hazard matter that had injured the person treated; thirty-eight did not. The opening stood at sixty-one centimetres in Year 4231, in the six weeks after the Forge District press collapse, when forty-four workers were treated and forty-four matters were marked resolved on the strength of the treatment. It stood at three centimetres in Year 4237, the quarter the hundred and three were reopened and worked on the physical evidence alone. The width has tracked the remedy return for nine years and has never tracked anything done at the holding.
 
 **Entry 3 — <Statement of a Welfare Officer>**
 I signed forty-four authorisations in six weeks and I would sign them again. They were in pieces. The procedure works, it is quick, and by the end of the month men who had been unable to stand in a workshop were back on shift and sleeping. I was commended. What I did not notice, because nobody in the room was thinking about it, was that each form I signed had a second effect: the matter against the press closed, because the only witness to it no longer had anything to say. Forty-four times. The press was still in service nineteen months later. I treated every injured man I was given and I never once asked who was supposed to be fixing the thing that injured them, and the honest answer is that I assumed it was somebody else and it turned out to be nobody.
@@ -285,11 +285,11 @@ What we have done about it is narrow and I think it is sound as far as it goes. 
 
 Where it fails is where there is no physical record. Twenty-nine matters in this return had nothing but the account of the person we treated. Under the old practice they closed quietly. Under mine they stay open, go nowhere, and close after four years as unresolved, and the hazard is exactly as unfixed as it was before, and we have spent four years knowing it. The welfare director asked me in the meeting what the twenty-nine had bought anybody. I said the knowledge. She said that is not a remedy, and she is right, and I have not written one.
 
-The ground is the opening. Forty-four treatments in six weeks, forty-four matters resolved on the strength of them, and the gap went to sixty-one centimetres, the widest in sixty years. Reopening a hundred and three took it to three. We have never been able to show that closing a matter on a treatment helped the person treated. We can show, in centimetres, what it builds in the corridor.
+The ground is the opening. Forty-four treatments in six weeks, forty-four matters resolved on the strength of them, and the gap went to sixty-one centimetres, the widest in sixty years. Reopening a hundred and three took it to three. Nobody here has ever managed to show that closing a matter on a treatment helped the person treated. We can show, in centimetres, what it builds in the corridor.
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Hollowcast; the other feeds it.
+> The cycle closes on one decision, and the file keeps its two endings on it: hold to identity anchors and invent nothing, or settle the matter by handing the entity a past it can hold.
 
 | Hold to the condition: Use identity anchors and do not invent memories for it. | Improvise something kinder, which is how every failure on Hollowcast's file began. |
 |---|---|
@@ -314,16 +314,16 @@ The figure stands split open, not wounded but incomplete. You feel the empty sid
 
 Three records are grouped with this one on the term identity. None has been brought to the Forge District and none will be: the sighting series cannot survive the presence of a second figure on the line, and the one staging proposal was refused on that ground in Year 4228. What follows is paper comparison and is labelled as such throughout.
 
-**Interaction method:** On paper, and on one question: does the record sit in what the person lost, in what the person shows, or in what the institution closed afterwards. Write the answer in a sentence and sign it. Four records in this wing turn on identity and three of them answer to the person. This one answers to the file, and every pairing claim in the folder was written by somebody who had not made the distinction.
+**Interaction method:** On paper, and on one question: does the record sit in what the person lost, in what the person shows, or in what the institution closed afterwards. The answer goes down as one sentence, over the writer's signature. Four records in this wing turn on identity and three of them answer to the person. This one answers to the file, and every pairing claim in the folder was written by somebody who had not made the distinction.
 
 
 ### Entity Interaction Record
 
 Three records are grouped with this one on the shared term identity, which is the archive's laziest grouping and has never predicted a thing. The question that separates them is where the loss sits: in what a person can recall, in what a person presents, or in what the facility did with the gap afterwards. This one is the third. It is not a memory entity. It is a record of what an institution does when a witness stops being able to testify.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| What shares the record | How the pairing has run | What the wing entered | What the file retains |
 |---|---|---|---|
-| **The Memory Thief** | Grouped on missing memories. The Thief takes them; nobody took these, they were removed by consent in a clean room with a signature on the form. The shared term is doing all the work. | No trial, none permitted. The drawn-to claim rests on one line of a Year 4209 summary and no measurement supports it. | That the claim is unevidenced, written beside it each time it is repeated. |
+| **The Memory Thief** | Filed together on missing memories. The Thief takes them; nobody took these, they were removed by consent in a clean room with a signature on the form, and the shared term is doing all the work. | No trial, and none permitted. What was drawn out rests on one line of a Year 4209 summary and no measurement under it. | That the claim is unevidenced, entered beside it on each repetition. |
 | **The Empty Mask** | The Mask presents a face it does not have; this presents an absence it will not let anyone deny. One conceals, one insists. Reading them together is how the never-address-it-as-a-person instruction was arrived at. | Paper only. | The conceals-insists distinction, on any document that places the two together. |
 | **The Broken Mirror** | A proposal was made in Year 4226 to show the Mirror to this entity in the hope of returning an identity to it. | Refused, and the refusal is quoted in full in the Director's memo: the holding does not possess the man's memories, nobody does, and an apparatus that appeared to return them would be inventing them, which is the one act the containment forbids. | The proposal and the refusal kept together; it has been renewed twice. |
 
@@ -364,18 +364,18 @@ Some sorrows are about losing memory. Hollowcast is about losing the self while 
 - Flerehan and Ferrehan lower the gauge. Pugnahan raises it and permanently widens the opening; one authorisation per session, no exceptions, and a standing recommendation since Year 4233 to remove the authorisation entirely.
 - Never address it as a person, never tell it that it is whole, and never supply it with a memory. The briefing says plainly that this is uncomfortable to follow and offers no alternative.
 - Sighting from the marked line only, twice a session, width in centimetres. Approach measurement is prohibited; the opening responds to proximity.
-- The Rule of the Separate Remedy is a containment condition of this entity and binds the welfare office and the hazard board.
+- The Rule of the Separate Remedy binds the welfare office and the hazard board, and it stands as a containment condition of the holding rather than a house practice.
 **Observation Notes:**
 - Opening width 14 cm at baseline, range 3 to 61. The width tracks this facility's remedy return and has never tracked work done at the holding.
 - No injury to personnel in sixty years except following a statement that the entity is whole; four casing-mount replacements, all after authorised Pugnahan.
 - One trial with the extraction apparatus powered down produced unchanged activity, establishing that the entity answers to the procedure's paperwork and not to the machinery.
 **Cross-References:** Forge District press bay, Zone D · the welfare office remedy return · the Year 4231 press collapse folder, forty-four treatments and forty-four closures · the twenty-nine matters with no physical record
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the welfare office and the hazard board, both listed because the Rule of the Separate Remedy is a containment condition of this holding and the two of them share it unwillingly.
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the welfare office and the hazard board, which appear here because the Rule of the Separate Remedy binds this holding and the two of them share that rule without wanting to.
 **Originator:** A Forge District press operator, injured in a machine failure, treated by authorised extraction eleven days later, and named in full in the commissioning file. He lived another thirty-one years, worked, married, and never learned what had been taken; the holding's position is that he was owed the repair of the press and not the recovery of the memory.
 
 ### Registry Addendum
 
-**Operational interpretation:** Read this file with the remedy return beside it or do not read it. Taken alone the holding is a quiet walking figure that reaches for people and has hurt nobody, and three assessors have concluded on exactly that basis that it was overclassified. All three had the sighting series in front of them and no idea what the centimetres were counting.
+**Operational interpretation:** This file is read with the remedy return beside it or not at all. On its own the holding is a quiet walking figure that reaches for people and has hurt nobody, and 3 assessors have concluded on exactly that basis that it was overclassified — each of them with the sighting series open in front of them and no idea what the centimetres were counting.
 
 **Review requirement:** On any gain of five centimetres or more between consecutive sightings: verify the line and the sighting conditions, re-sight, then pull the fortnight's extraction authorisations and count those carrying a hazard matter marked resolved. Name the matters in the review. After any authorised Pugnahan, inspect the casing mounts before the next cycle regardless of apparent condition.
 ## Watch Record
@@ -410,7 +410,7 @@ A worker's memories were taken following a severe injury and the outline was lef
 - **Classification detail:** Subject, Echo (II), Moderate (β), Comprehension Level 2. The Registrum printed placeholders in place of all of this and has been written out against the SECC header.
 - **Field detail:** Grudge; Forge District press bay, Zone D. Testimony in this file previously carried Zone B attributions and has been read against the duty rosters and corrected.
 - **Recognition detail:** Identify it by the opening width against the last sighting, not by the figure. The outline looks identical at three centimetres and at sixty-one, and two early reports describe an unchanged entity on days the sighting found a nineteen-centimetre difference.
-- **Record detail:** Check the designation and check what the record is about. The Memory Thief turns on memories taken. This turns on what closed when they were taken. A facility can perform every extraction it authorises with skill, kindness and full consent, and feed this holding to the width of a doorway in six weeks by letting each one tidy away the matter underneath it.
+- **Record detail:** Read the designation first, then read what the record is about. The Memory Thief turns on memories taken. This turns on what closed when they were taken. A facility can perform every extraction it authorises with skill, kindness and full consent, and feed this holding to the width of a doorway in six weeks by letting each one tidy away the matter underneath it.
 - **Containment detail:** The figure is containable and is contained. The second line on the treatment form is not, and it is signed in a clean office by people who have never been to the Forge District and are doing their work properly.
 ## Document Information
 
