@@ -2278,7 +2278,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 33 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-N-IIIγ-589 Nemo 돌아온 영혼 — `__HASH__` — PUSH VERIFIED — [[SE-N-IIIγ-589_Nemo_돌아온_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-589_Nemo_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%98%81%ED%98%BC.md "SE-N-IIIγ-589_Nemo_돌아온_영혼.md")
+- SE-N-IIIγ-589 Nemo 돌아온 영혼 — `24da91d` — PUSH VERIFIED — [[SE-N-IIIγ-589_Nemo_돌아온_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-589_Nemo_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%98%81%ED%98%BC.md "SE-N-IIIγ-589_Nemo_돌아온_영혼.md")
 
 - SE-C-IVδ-106 I Alone Crossed 부서진 다리 — `29f8004` — PUSH VERIFIED — [[SE-C-IVδ-106_I_Alone_Crossed_부서진_다리]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-106_I_Alone_Crossed_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%8B%A4%EB%A6%AC.md "SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md")
 
