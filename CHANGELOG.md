@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 36 / unit 4 — Father's Broken Bond `C-IIIβ-072` closed (2026-10-07)** — measured at `e0d2fdb`: **1 dirty section**,
+  Final Observation 0.145 (the choice blockquote, the choose row and the result row), with the 10-gram escalation paragraph
+  and the reporting-order line re-authored in the same wave. **Closed in a single wave** (10 sites); 4,489 → **4,625
+  words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with a clean
+  residual (`RESIDUAL 0` on entry). The condition registered **False → True** inside the rewritten resolution line
+  (**File the claim, keep both hands bare, and snap the seam only to lift a burden that will not wait**) — disclosed; the
+  generic `Management` row was left untouched, the clause going into the resolution line instead. Movement at the unit
+  commit: `R-29` 223 / 301; section-clean 255 / 301; residue-free 302 / 302; residue lines 0; archive dirty
+  83; file-clean 302 / 302. **Batch 36 stands at four of seven.**
+
+
+
 - **Batch 36 / unit 3 — Brume `O-IIγ-007` closed (2026-10-07)** — measured at `a17fb07`: **3 dirty sections**, worst Final
   Observation 0.149 (the choice blockquote and the choose row), then Operational Parameters 0.056 (the yield row and the
   11-gram extraction bullet) and Combat Record 0.054 (the Obscuration and Fog World action rows, the resolution phase and
