@@ -1716,6 +1716,20 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 34 closed at five (2026-10-07).** Five dossiers · **16 / 16 dirty sections closed** · **+1,104 words**
+net · `verify.py` residuals **7 → 0** · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Movement, b34 open →
+b34 close: `R-29` 208 → **214 / 301** · series 269 → **271 / 301** (units 2 and 5) · condition 259 → 259 / 301 ·
+section-clean 233 → **239 / 301** · residue-free 302 → 302 / 302 · archive dirty 135 → **107** · file-clean 302 →
+302 / 302 · scene-clean 234 → **240** · worst 0.028 → **0.028** · median 0.008. Disclosures: **rollback #28** at the
+batch open; **two-pass closes on units 1, 2 and 5**; `own_series` closed **False → True** on units 2 and 5 by
+restating each file's own figures inside real edits; **mid-batch regression and sweep** (`f81c7fe`) — units 1 and 2
+had reused batch-wide phrasings, three runs crossed the 10-holder threshold and seven closed files went dirty, all
+nine overlapping holders reworded uniquely; **housekeeping sweep** (`2a51daa`) — the b31–b34 relations-preamble tail
+reached 41 carriers and eight dirty holders were reworded uniquely in place; the tension phase's `by him by the stoop`
+splice rebuilt on unit 4; result rows and relations preambles re-authored on every unit. Full per-unit detail in the
+entries above; the codex records all five with their SE links below (`R-12`). **Next rung: back to three or five**,
+on the owner's word.
+
 **Housekeeping sweep, b34, disclosed (`c763ec5` head).** The relations preamble the b31–b34 waves share — `…should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.` — reached 41 carriers, and in eight of them it took its Flavor Text or Entity Interactions section over the 0.05 line. Each of the eight holders was reworded uniquely in place, counterparty lists and per-file tails preserved, no figure or row touched (`R-15`): Weighting Bird, Unsaid Blossoms, Midnight Choir, Memory Lake, Blackened Angel, Barrier of Nothing, Apnea, Calling Bloom. Eight dirty sections cleared; the rewritten lines' largest shared gram now stands at 2 holders. The residual run above the threshold in the other carriers is left for a later housekeeping pass, disclosed.
 
 **Batch 34, unit 5: Soaking Rope `N-Iα-316` closed.** Measured at `965af4a`: **3 dirty sections**, worst Final
@@ -2362,7 +2376,7 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
-**Batch 34 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 34 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-N-Iα-316 Soaking Rope 솟구친 밧줄 — `c763ec5` — PUSH VERIFIED — [[SE-N-Iα-316_Soaking_Rope_솟구친_밧줄]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-316_Soaking_Rope_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%B0%A7%EC%A4%84.md "SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md")
 

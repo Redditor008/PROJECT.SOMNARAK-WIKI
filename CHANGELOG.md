@@ -8,6 +8,35 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 34 CLOSED at five (2026-10-07).** Five dossiers, **16 / 16 dirty sections closed**, **+1,104 words** net
+  across the five unit commits, `verify.py` residuals **7 → 0**, nothing deleted (`R-15`). Each unit committed
+  individually and pushed (`A0`) and validated by `wikistd.py` (`meets True`), `sectfile.py` (0 sections over 0.05),
+  `tpl.py` and `verify.py`. Movement across the cohort, b34 open → b34 close: `R-29` 208 → **214 / 301**; own numeric
+  series 269 → **271 / 301** (units 2 and 5); condition 259 → 259 / 301; section-clean 233 → **239 / 301**;
+  residue-free 302 → 302 / 302; `tpl.py` residue lines 0 throughout; archive dirty 135 → **107**; file-clean 302 →
+  302 / 302; scene-clean 234 → **240**; worst 0.028 → **0.028**; median 0.008 → 0.008. The archive-dirty fall is larger
+  than the cohort's own 16 sections because two housekeeping sweeps thinned shared runs for other files as well
+  (`sect.py`, `MIN_SHARE=10`).
+
+- **Batch 34 disclosures.** **rollback #28** struck at the batch open — the checkout was found at `408797c` while the
+  remote held `de4b542`; the standing recovery was run (fetch → `git reset --mixed FETCH_HEAD` → `git checkout --
+  PR_12_NEVER_MERGED.md`) and the batch opened clean on a verified-levelled tree. **unit 1** — closed in two passes
+  (24 sites, then 3); the first left Combat Record at 0.055. **unit 2** — closed in two passes (24, then 1); the first
+  left Operational Parameters at 0.058; `own_series` **False → True** (a 14-day rota, 2 sets of initials, 2 observers
+  and 1-handover numerals). **Mid-batch regression and sweep (`f81c7fe`)** — units 1 and 2 had reused batch-wide
+  phrasings; three runs crossed `MIN_SHARE=10` (`two ways to close a watch on the` 13 holders, `the file separates
+  them by what the observer` 10, `the gauge climbs and the entry closes with` 15) and seven closed files went
+  0.052–0.058 dirty; all nine overlapping holders were reworded uniquely in place, the runs fell to 4 / 2 / 6, and
+  `R-29` and section-clean recovered to 210 / 235. **unit 3** — closed in a single wave (23 sites); both residuals
+  cleared inside it. **unit 4** — closed in a single wave (31 sites); the tension phase's `by him by the stoop` splice
+  rebuilt whole-line. **unit 5** — closed in two passes (25 sites, then the preamble, the header row and the Registrum
+  bullet); the first left Flavor Text at 0.065 because its replacement kept the batch-wide relations-preamble tail;
+  `own_series` **False → True** with `reaches three` restated as `reaches 3` inside a rewritten bullet. **Housekeeping
+  sweep (`2a51daa`)** — the b31–b34 relations-preamble tail reached 41 carriers and eight of them sat 0.055–0.102
+  dirty on it; each of the eight was reworded uniquely in place with counterparty lists and per-file tails preserved,
+  clearing eight dirty sections and lifting archive dirty 115 → 107. Across the batch every unit's relations preamble
+  and header row were re-authored to the file's own holdings.
+
 - **Batch 34 / unit 5 — Soaking Rope `N-Iα-316` closed (2026-10-07)** — measured at `965af4a`: **3 dirty sections**,
   worst Final Observation 0.155 (the choice blockquote, the choose row and the result row), then Flavor Text 0.061 (the
   relations preamble — whose tail `in sound, movement, temperature, memory pressure, gauge or containment stability` sits
