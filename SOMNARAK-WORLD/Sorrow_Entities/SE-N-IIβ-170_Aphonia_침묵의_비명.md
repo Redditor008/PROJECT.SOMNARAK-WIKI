@@ -88,7 +88,7 @@
 
 1. **Tension:** Identification first — Aphonia is recognised by the diagonal against the last reading, not by the figure. The figure is identical at six millimetres and at three hundred and ten, and five early reports describe an unchanged chamber on days the tape differed by a hand's width — then the approach is set and the positions are taken.
 2. **Clash:** The reading is the chamber diagonal, taken with a steel tape between two fixed brass studs and reported as millimetres short of the surveyed value — forty-one at baseline, six at the floor, three hundred and ten at the ceiling. It is not an acoustic measurement and cannot be. Four attempts at acoustic detection are in the folder, all negative, all retained.
-3. **Resolution:** Second diagonal, and the documented condition: **Say, “I hear you,” and remain present.** The words are not a formula and the Warden is not ordered to speak them. An order would make the answer a procedure, and the entity has never responded to a procedure.
+3. **Resolution:** Second diagonal, and the documented suppression condition: **Say, “I hear you,” and remain present.** The words are not a formula and the Warden is not ordered to speak them. An order would make the answer a procedure, and the entity has never responded to a procedure.
 
 ### Consequences
 
@@ -267,7 +267,7 @@ The set is organised around being audible and the armoury's note says so without
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Aphonia (N-IIβ-170 [VS]) is logged as a Subject-Void manifestation expressing Void, held in the Old Lament, Zone B, ambient within the ward: a translucent half-lit figure with its mouth open on a cry that no instrument registers and that is felt in the chest. The room around it measures short. The holding's instrument is the chamber diagonal, taken with a steel tape between two fixed brass studs — forty-one millimetres short at baseline, six at the floor, three hundred and ten at the ceiling.
+Aphonia (N-IIβ-170 [VS]) stands on the register as a Subject-Void manifestation expressing Void, held in the Old Lament, Zone B, ambient within the ward: a translucent half-lit figure with its mouth open on a cry that no instrument registers and that is felt in the chest. The room around it measures short. The holding's instrument is the chamber diagonal, taken with a steel tape between two fixed brass studs — forty-one millimetres short at baseline, six at the floor, three hundred and ten at the ceiling.
 
 **Entry 2 — <Stand-Down Return: Seventy-Four Discontinuations, Thirty-One With Contact Live>**
 The first return under the Rule of the Spoken Stand-Down, Year 4238. Over the nine years the register covers, this facility and the services it directs discontinued seventy-four rescue attempts. Forty-three were discontinued after contact had ceased. Thirty-one were discontinued while contact was still being made — while somebody below was still answering. Of those thirty-one, twenty-three were spoken to in person by the officer who gave the order, and eight occurred where the contact channel could not carry words, in which cases the officer remained at the face until contact ended. The chamber diagonal stood at three hundred and ten millimetres short in Year 4229, in the quarter of the Old Lament frontage collapse, where contact was held with nine people for thirty-one hours and the attempt was ended with four of them still answering and none of them told. It stood at six millimetres in Year 4237. The diagonal has tracked the stand-down return for nine years and has never tracked work done in the chamber.
@@ -293,11 +293,11 @@ The ground is the tape. Thirty-one hours of contact at the frontage, four still 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Aphonia; the other feeds it.
+> The interval holds two answers, and the file sorts them by what the worker does with it: stay for the whole of it — weep aloud, speak the four words, simply remain — or go silent while the mouth is still moving.
 
-| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |
+| Stay with it — weep alongside it, or give it the words. | Go quiet and stop answering, while it is still speaking. |
 |---|---|
-| The worker weeps with it, or says the four words, or simply stays for the whole interval without pretending to hear anything. The cry softens, the gauge falls, the diagonal holds. | The worker decides it is not helping and goes quiet while the mouth is still working. The gauge climbs, the pain moves into the inner ear, and the chamber keeps the millimetres it took. |
+| The worker weeps alongside it, or speaks the four words, or just stays the whole interval through without pretending to hear a thing. The cry comes down, the gauge falls, the diagonal holds. | The worker decides it is doing no good and goes quiet while there is still movement in the mouth. The gauge climbs, the pain settles into the inner ear, and the chamber keeps every millimetre it took. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
