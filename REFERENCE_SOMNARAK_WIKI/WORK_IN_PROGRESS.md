@@ -16,6 +16,16 @@ All figures below are measured, not estimated, and each names the tool that prod
 
 **Batch pacing, owner's correction, 2026-10-05 (`R-26` amended), reaffirmed by the owner the same day — "This Rule Need To Be Remember":** the batch ladder starts at **3**, not 5 — **3 > 5 > 7 > 10** SE files per batch, ratcheting up only while the units are genuinely simple by `R-26`'s own test, and stopping at whatever number was finished properly. **The minimum for any batch is three SE files**; the ceiling is ten, and a batch of fewer than three is permitted only by `R-26`'s quality clause and must be named and explained in the record rather than reported as a full batch. The superseded "start at five" wording is preserved in the rule file with the correction dated. The units in this cohort are *not* simple by that test — 11–12 dirty sections, full Interaction Records, 5,000–8,000 words — so the ladder stays at the floor of three per batch for this cohort, and the per-dossier conditions and one-`gate.sh`-per-dossier rule are unchanged. Two rows moved this turn without a unit touching them — residue-free 103 → 108 and file-clean 158 → 162 — because the four Rank V rewrites and Ephemera retired shared lines outright, and a line that drops below ten holders stops counting against every remaining dossier. That is the documented spillover effect; it is not work performed this turn.
 
+**Clean phase, batch 44 result, 2026-10-07 — owner-directed, replace in place:** ten worst files cleaned, one wave
+each, nothing deleted (`R-15`). Re-measured after the ten: whole-section instances **164 → 84**; files carrying >= 1 whole
+copied section **57 / 301 → 47 / 301**; small overlaps only **95 / 301 → 102 / 301** (the cleaned files' remaining minor
+overlaps moved into the fix-later set). By section: Consequences **94 → 51** · Operational Parameters **27 → 4** ·
+Combat Actions **16 → 10** · Operational Notes **14 → 8** · Testimonium 6 · Core Stat Line 2 · Breach 2 · SECC 1 ·
+Escalation **2 → 0**. `--plan` after the ten: heavy sides **135 → 131**, light sides **156 → 152**, pairs **540 → 488**.
+Each of the ten files verifies **0** whole-copied sections of its own (`whole.py`). `R-29` movement: **285 / 301** meets
+(parity **296 / 301** · condition **292 / 301** · series **289 / 301**), disposition **301 / 301**, section-clean
+**301 / 301** — the one unit that moved counters was Dreaming Plague (interactions, suppression condition, series digits).
+
 **Restart + clean-first plan, owner's method, 2026-10-07:** check restarted; `--plan` mode added. **57 / 301** files carry
 >= 1 whole copied section (54 one, 3 two: Dancing Chains · Calling Bloom · Grieving Love); **95 / 301** small overlaps only.
 Whole-section copies: **Consequences 94** · **Operational Parameters 27** · **Combat Actions 16** · Operational Notes 14 ·
@@ -3136,7 +3146,7 @@ Torn Flower at 1.00) replaced **in place** in the file's own terms — Gate, orc
 until the next touched-fruit tally is larger than the last. 7,270 → **7,299 words**; residual 0; **0 sections over 0.05**;
 `tpl.py` 0; meets **True**; copy-side whole instances **6 → 0**; nothing deleted. **Batch 44 stands at one of ten.**
 
-**Batch 44 — OPEN at ten; clean phase (replace copied sections in place, owner-directed); finished dossiers, each with its SE
+**Batch 44 — CLOSED at ten; clean phase (copied sections replaced in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
 
 - SE-C-IIβ-290 Broken Compass 부서진 나침반 — `ecac752` — PUSH VERIFIED — [[SE-C-IIβ-290_Broken_Compass_부서진_나침반](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-290_Broken_Compass_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%82%98%EC%B9%A8%EB%B0%98.md "SE-C-IIβ-290_Broken_Compass_부서진_나침반.md")]

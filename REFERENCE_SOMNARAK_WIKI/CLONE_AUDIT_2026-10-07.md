@@ -471,3 +471,29 @@ been deleted; the audit remains read-only.
 - `tools/auditors/clone_audit.py` — this audit (whole-file, section-level, near-identical lines).
 - `tools/auditors/frame_dup.py` — prose-frame families with names and figures masked.
 - Read-only; no dossier content was changed by either tool or by this audit.
+
+## Finding 9 — post-clean verification (2026-10-07)
+
+Batch 44 cleaned the ten worst files, replace in place, one wave each. Re-run after the ten, same tools, same
+definitions (`whole` = one side's containment in the other's section at >= 0.85; instances are directional per pair):
+
+| Measure | B44 open (`e5f38bf`) | After the ten |
+|---|---|---|
+| whole-section instances | 164 | **84** |
+| files carrying >= 1 whole copied section | 57 / 301 | **47 / 301** |
+| small overlaps only (0.50–0.85) | 95 / 301 | 102 / 301 |
+| Consequences instances | 94 | **51** |
+| Operational Parameters instances | 27 | **4** |
+| Combat Actions instances | 16 | **10** |
+| Operational Notes instances | 14 | **8** |
+| Testimonium / Core Stat Line / Breach / SECC | 6 / 2 / 2 / 1 | 6 / 2 / 2 / 1 |
+| Escalation Notes instances | 2 | **0** |
+| `--plan` pairs | 540 | **488** |
+| `--plan` heavy sides | 135 | **131** |
+
+Each of the ten cleaned files reports **0** whole-copied sections of its own under `whole.py`. The instance counts move
+on both sides of a pair when a copy side is re-authored, so sources lower in designation lose their flagged side too,
+which is why Operational Parameters fell 27 → 4 while only three OP sections were re-authored. Next by the same method:
+the remaining heavy sides — the plan's order after the batch is led by The Lonely Giant, Beating Relic, Memory Lock,
+Miasma, Broken Compass (their remaining pairs are partial, not whole) — and then the 102 files carrying small overlaps
+only.

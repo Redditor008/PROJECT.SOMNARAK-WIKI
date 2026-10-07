@@ -79,6 +79,21 @@ This file records notable changes to the public Somnarak Wiki.
   `tpl.py` residue 0; `wikistd.py` meets **True**; nothing deleted (`R-15`); file's whole-copy instances **6 → 0** as a copy
   side. **Batch 44 stands at one of ten.**
 
+- **Batch 44 closed at ten (2026-10-07) — clean phase, owner-directed (replace in place)** — the ten worst files by
+  whole-copy count cleaned, one wave each, nothing deleted (`R-15`): Harvest Beyond the Gate · Dreaming Ruin · Floating
+  Tree · Calling Bloom · Vanity Asleep · Hollow Architect · Memory Lock · Aphonia · Dreaming Plague · Broken Compass.
+  Every copied block re-authored in the file's own terms; each of the ten verifies **0** whole-copied sections of its own
+  (`whole.py`), `tpl.py` residue 0, `sectfile.py` 0 sections over 0.05, `wikistd.py` meets True. Measured before/after with
+  the same tools: whole-section instances **164 → 84**; files carrying >= 1 whole copied section **57 / 301 → 47 / 301**;
+  Consequences **94 → 51** · Operational Parameters **27 → 4** · Combat Actions **16 → 10** · Operational Notes **14 → 8** ·
+  Escalation **2 → 0**; `--plan` pairs **540 → 488**, heavy sides **135 → 131**. `R-29` 284 → **285 / 301** (parity 295 →
+  **296 / 301**, condition 291 → **292 / 301**, series 288 → **289 / 301**): Dreaming Plague's unit also filed its
+  interactions section (Weighted Silence · Dawn That Forgot · Lacrima), documented its suppression condition and restated
+  its own figures in digits, disclosed. Disclosures: rollbacks #44 and #45 recovered at the open; u2's first pass left its
+  section at 0.071 and was repaired line-locally the same unit; u4 cleared three pre-existing residual stock lines; u9's
+  first pass failed on series (digit form) and was finished in-unit; the u2–u4 docs entries first landed with escape
+  artefacts and were rebuilt in a follow-up docs commit (`ef7c076`). Report: `CLONE_AUDIT_2026-10-07.md`, Finding 9.
+
 - **Clone audit, restart + clean-first plan — `clone_audit.py --plan` (2026-10-07)** — check restarted from scratch and the
   light/heavy plan measured: **57 / 301** files carry at least one **whole** copied section (>= 0.85) — 54 with one, **3 with
   two** (Dancing Chains, Calling Bloom, Grieving Love) — and **95 / 301** carry small overlaps only (0.50–0.85). Sections
