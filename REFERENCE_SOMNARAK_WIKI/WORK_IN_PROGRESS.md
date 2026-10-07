@@ -34,6 +34,20 @@ on the register table — the identity test and the identity of each file still 
 turn — `reset --mixed` to the remote tip; worktree content preserved, no history rewritten, and a stray scratch file
 (`quote_style.txt`) removed before the commit.
 
+**Personalization phase, owner's direction, 2026-10-07 — *"Now Readying For Per-10 Batch Update For All SE That Need It
+Because A Lot Sound Generic And Not Personalize At ALL"*:** measured with the new read-only auditor
+`tools/auditors/personal_audit.py` (masked 6-gram families as in `frame_dup`, mechanics lines exempt and counted
+separately): **301 measured · generic mass >= 5% in 101 / 301 → 11 batches of ten** — heavy (>= 10%) **13 / 301** ·
+moderate (7–10%) **30 / 301** · light (5–7%) **58 / 301** · fine (< 5%) **200 / 301**. Full worst-first queue, tier
+table, batch assignments and the unit method: `PERSONALIZATION_PLAN_2026-10-07.md`. Method per unit: read the file's top
+shared frames (`--frames "<name>"`), re-author each **in place** in the file's own terms with its own furniture
+(growth-only, `R-15`), checks per unit, one push (`A0`), docs row with the SE link (`R-12`). **Batch 47 — OPEN at ten
+(personalization, per-10)**, worst-first: Mourner's Bloom `C-Iα-330` (16.6%) · Once Upon `O-IIIγ-920` (16.2%) · Never
+Discharged `O-IIβ-911` (14.8%) · Echo of Kindness `C-Iα-240` (12.6%) · Once Told `O-IVδ-930` (12.0%) · Vellum Man
+`C-Iα-900` (11.7%) · Torn Flower `C-Iα-247` (11.3%) · Passing Bell `N-IIβ-919` (10.6%) · The Kind Healer `C-Iα-071`
+(10.4%) · Moktak `N-IIβ-910` (10.2%). **Rollback #50** hit at this turn's open and was recovered the same turn
+(`reset --mixed` to the remote tip; no content lost). No dossier content changed this turn.
+
 **Quote phase part two, batch 46 result, 2026-10-07 — owner-directed, quotes replaced in place; both links per row:** ten more
 family copies got their own quote, each checked against all 301 before writing. Distinct quotes **285 → 295 / 301**; duplicate
 families **4 → 2**; dossiers inside a duplicated family **20 → 8 / 301**. `R-29` 286 → **287 / 301** (parity **298**) — Lacrima
@@ -3275,6 +3289,9 @@ residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **B
 
 **Batch 46, unit 1: Eleven Fifty-Nine `C-IIIγ-912` quote written.** The shared family quote replaced in place with the district grieving one loss nightly that belongs to no one present. 6047 → **6055 words**;
 residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 46 stands at 1 of ten.**
+
+**Batch 47 — OPEN at ten; personalization phase, per-10 (generic phrasing re-authored in place, owner-directed); finished dossiers,
+each with its SE git link and closing commit** (`R-12`).
 
 **Batch 46 — CLOSED at ten; quote phase part two (shared opening quotes replaced in place, owner-directed; each row links the fixed
 dossier and its source); finished dossiers, each with its SE git link and closing commit** (`R-12`).

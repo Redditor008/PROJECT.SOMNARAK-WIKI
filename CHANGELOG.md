@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Personalization phase opened — per-10 batch update (2026-10-07), owner's direction** — *"Now Readying For Per-10 Batch
+  Update For All SE That Need It Because A Lot Sound Generic And Not Personalize At ALL."* New read-only auditor
+  `tools/auditors/personal_audit.py`: masked 6-gram families as in the frame audit, mechanics lines (work types, gauges,
+  M.A.W. vocabulary) exempt and counted separately; **generic mass** = share of a dossier's prose shingles held by 3 or more
+  dossiers. Measured over all 301: **101 / 301 need it (generic mass >= 5%) → 11 batches of ten** — heavy (>= 10%)
+  **13 / 301** · moderate (7–10%) **30 / 301** · light (5–7%) **58 / 301** · fine (< 5%) **200 / 301**. Worst files:
+  Mourner's Bloom **16.6%** · Once Upon **16.2%** · Never Discharged **14.8%**. Delivered: the full worst-first queue, tier
+  table, per-10 batch assignments and the unit method in `REFERENCE_SOMNARAK_WIKI/PERSONALIZATION_PLAN_2026-10-07.md`.
+  **Batch 47 — OPEN at ten (personalization, per-10)**, worst-first: Mourner's Bloom · Once Upon · Never Discharged · Echo of
+  Kindness · Once Told · Vellum Man · Torn Flower · Passing Bell · The Kind Healer · Moktak. **Rollback #50** recovered at the
+  turn's open. No dossier content changed by this commit.
+
 - **Abnormality quote research — deeper knowledge for the SE quote method (2026-10-07)** — owner's instruction *"Research
   Abnormality Quote For More DEEPER KNOWLEDGE."* Roughly **90 / 90** sampled quotes across Project Moon's three games
   (Lobotomy Corporation · Library of Ruina · Limbus Company) read; **eight registers** catalogued with sources linked —
