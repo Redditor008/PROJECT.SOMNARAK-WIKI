@@ -2713,6 +2713,14 @@ line-locally; `own_series` already True; the file's own figures restated in nume
 96 · 5 assessors · 11 watches · 5,212). Movement: `R-29` 242 / 301; section-clean 276 / 301; archive dirty 34;
 file-clean 302 / 302. **Batch 39 stands at one of seven.**
 
+**Batch 40, unit 7: Dreaming Ruin `N-IIIγ-505` closed.** Measured live at `73a694f`: **1 dirty section**, Final
+Observation — **closed in a single wave** (5 sites); 7,297 → **7,321 words**; `tpl.py` residue 0; `sectfile.py` **0
+section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the resolution clause re-registered as a suppression
+condition (`documented condition:` → `documented suppression condition:`), condition **270 → 271 / 301**; entry residual
+cleared line-locally, residual **1 → 0**; `own_series` already True; the file's own figure restated in numerals inside a
+real edit (1 panel). Movement: `R-29` 255 / 301; section-clean 289 / 301; archive dirty 12; file-clean
+302 / 302. **Batch 40 stands at seven of ten.**
+
 **Batch 40, unit 6: Debt-Collector's Lantern `N-IIβ-250` closed.** Measured live at `c8ada88`: **1 dirty section**, Final
 Observation — **closed in two passes** (a first wave aborted on a writing mistake of mine and the corrected pass applied
 6 line rewrites plus the residual fix, nothing lost); 7,316 → **7,349 words**; `tpl.py` residue 0; `sectfile.py` **0
@@ -2758,6 +2766,8 @@ edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 3
 dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
 
 **Batch 40 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIIγ-505 Dreaming Ruin 돌아온 잔해 — `7360f4a` — PUSH VERIFIED — [[SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-505_Dreaming_Ruin_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%9E%94%ED%95%B4.md "SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해.md")
 
 - SE-N-IIβ-250 Debt-Collector s-Lantern 추징관의 등불 — `39a50d6` — PUSH VERIFIED — [[SE-N-IIβ-250_Debt-Collector_s-Lantern_추징관의_등불]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-250_Debt-Collector_s-Lantern_%EC%B6%94%EC%A7%95%EA%B4%80%EC%9D%98_%EB%93%B1%EB%B6%88.md "SE-N-IIβ-250_Debt-Collector_s-Lantern_추징관의_등불.md")
 

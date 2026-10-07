@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 40 / unit 7 — Dreaming Ruin `N-IIIγ-505` closed (2026-10-07)** — measured live at `73a694f`: **1 dirty section**,
+  Final Observation (0.099 — the choice blockquote, the choose row and the result row), with `condition` False and one
+  residual line. **Closed in a single wave** (5 sites): the resolution line's clause re-registered in the form the
+  register reads — `documented condition:` → `documented suppression condition:`, keeping the file's own text (**Wake
+  with an anchor and preserve the memory without rebuilding it**) — condition **270 → 271 / 301** — the three Final
+  Observation lines re-authored, and the entry residual cleared line-locally (`is logged as ` → `stands on the register
+  as `), residual **1 → 0**. 7,297 → **7,321 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over
+  0.05**; `wikistd.py` meets **True**; `own_series` already True, and the file's own figure was restated in numerals
+  inside a real edit (1 panel) — disclosed. Movement at the unit commit: `R-29` 255 / 301; section-clean 289 / 301;
+  residue-free 302 / 302; residue lines 0; archive dirty 12; file-clean 302 / 302. **Batch 40 stands at
+  seven of ten.**
+
 - **Batch 40 / unit 6 — Debt-Collector's Lantern `N-IIβ-250` closed (2026-10-07)** — measured live at `c8ada88`: **1
   dirty section**, Final Observation (0.099), with `own_series` False and one residual line. **Closed in two passes**: a
   first wave aborted on a writing mistake of mine — the line list was written to disk without the string edits — and the
