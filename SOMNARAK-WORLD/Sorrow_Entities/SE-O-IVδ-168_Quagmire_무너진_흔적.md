@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per successful work cycle, tallied off survey readings rather than off the Trace itself |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
@@ -81,14 +81,14 @@
 | { *The Fading Mark* [**Debuff**] } | "The traces on the floor are disappearing — and with them, proof that anyone was ever here." | [The Trace's collapse erases evidence; the target feels themselves becoming unproven.] | *Target suffers -10 Composure; they are becoming a trace that is fading.* **[10 Lament DMG [Lament]]** | When the target steps on the traces. |
 | { *The Smudged History* [**Debuff**] } | "Everything recorded here is blurring — names, dates, sorrows — all smudging into nothing." | [The Trace's breakdown corrupts the record; the target's own history smudges.] | *Target loses 10 Composure; they cannot remember clearly.* **[10 Lament DMG [Lament]]** | When the target reads the traces. |
 | { *The Static Burst* [**Attack**] } | "The traces flare once — a final, bright moment of evidence — and then they are gone." | [The Trace's death-flash strikes the target.] | *Inflicts Lament pressure and one wound of erased certainty.* **[14-22 Lament DMG [Lament]]** | When the Trace is touched. |
-| { *The Total Erasure* [**Attack**] } | "Every trace, every mark, every record — all collapsed, all erased, at once." | [The Trace fully disintegrates, taking all evidence with it.] | *A heavy Deep Blue void-of-record; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Trace is scraped away. |
-| { *The Unmarked Field* [**Ultimate**] } | "Now there is no evidence of anything — no traces, no marks, no proof that any of this happened." | [The Trace spreads its erasure across the entire field.] | *All in range suffer Lament pressure for three turns of total unmarking.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Total Erasure* [**Attack**] } | "Every trace, every mark, every record goes down together, in one motion." | [The Trace comes apart entirely and carries the evidence away with it.] | *A heavy Deep Blue void-of-record; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the Trace is scraped off the ground. |
+| { *The Unmarked Field* [**Ultimate**] } | "After this there is nothing to find — no trace, no mark, no proof the field was ever walked." | [The erasure widens until it holds every metre of the field.] | *Everyone in range takes Lament pressure for three turns while the field goes unmarked.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
 1. **Tension:** The team reaches the Trace, establishes which direction the line was travelling, confirms the survey equipment is working before anything else is attempted, and agrees that no one will walk the line's length until it has been measured.
 2. **Clash:** Twenty-four turns in open ground against 910 points of unfinished journey at 45% resistance to its own element. Nothing attacks. The pressure is 29 to 64 per turn of simply remaining at the end of a road that stopped, and parties fail this encounter by leaving rather than by being overcome.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Map the Trace and preserve the names it carries**.
+3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Map the Trace and preserve the names it carries**. Nothing on the ground is scraped, brushed or washed while the survey is open, and the names go into the record before the party leaves the Scar.
 
 ### Consequences
 
@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. Quagmire is recorded as an Object/Place with Object-Weight manifestation and Lament elemental expression. The current record places it at The Desolate, near The Scar; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The table is a diagnostic to read, not a procedure to follow: it says which Work Type settles this ground and which one moves it. Quagmire stands as an Object/Place with Object-Weight manifestation and Lament in its element, filed in the Desolate hard by the Scar, and nothing is inherited from a holding with a similar name — the neighbours it does have are set out in their own section. Nor does a level gauge prove a harmless hour: the figure can lie flat while the worker is reached through memory, through the ground underfoot, or through what the walk has made of them.
 
 **Reading the response:** Viderehan holds the gauge level and reveals the route together with its missing travellers, which is the single most useful output this holding produces and changes nothing about its state — it is a witness function, not a treatment. Ferrehan brings the gauge down, and the test is whether the worker can remain at the end of a journey: stay at the point where the road stops, for the full cycle, without walking on and without turning back. Both failures are logged and they look nothing alike. A worker who walks on has joined the journey; a worker who leaves early has done what everyone else did. A falling gauge here means somebody stood at the end of a road for twenty-four turns on purpose.
 ## Activation Behavior
@@ -186,7 +186,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 ### Escalation Notes
 
-The escalation pattern is specific to Quagmire: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here takes one shape and is not the standard breach event: the survey line stops matching the ground. The watch enters the first trigger, the change visible in the Object-Weight form, the distance at which the effect begins, and the line where the resonance settles. Lament is the element and the Desolate by the Scar the post, so emotional and behavioural indicators are written in beside the physical telemetry.
 
 **Response sequence:** Count the party, then survey. There is no perimeter to hold in open Desolate and nothing to clear, but personnel have walked the line's length without noticing, so the first action is a head count against the manifest and the second is a check that everybody is still at the end rather than along it. Then establish whether the activation was local or whether a road was destroyed elsewhere — the trigger is usually somewhere else entirely, and a team searching the Desolate for a cause will not find one.
 
@@ -233,7 +233,7 @@ The aromatic smoke creates an emotional oasis that shields the bearer's composur
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cold on the skin, stitched so finely that the seams disappear when it is worn.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -251,11 +251,11 @@ The aromatic smoke creates an emotional oasis that shields the bearer's composur
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-**Appearance:** a tiny lantern of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** a small lantern of Lament Han-crystal, cold in the hand, that throws its light the wrong way for its size.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the bearer's rating while working the Trace, conditional on the bearer having logged a survey reading during the cycle
+**Effect:** +1 to the bearer's rating on the Trace, on the standing condition that a survey reading was entered during that cycle
 
 **Ability:** Reveals hidden routes beneath sorrow and dust.
 
@@ -273,7 +273,7 @@ Each piece remains part of the Trace, and the set is built for the road rather t
 |---|---|
 | **Before use** | Wielder, piece, gauge, and one pre-check, Quagmire's toll being that the bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tea. |
 | **During use** | Every occurrence of what Quagmire takes (the bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tea), timed. One is noted; a pattern across a shift ends the use. |
-| **At limit** | Quagmire's cost is continuous rather than occasional: the shroud protects by filtering out everything below a certain weight, and it cannot tell a small grief from a small pleasure. Wearers come off the D. The second worker's call stands against the wielder's. |
+| **At limit** | The cost is paid steadily and not in bursts: the shroud works by filtering out everything under a set weight, and it cannot tell a small grief from a small pleasure. Wearers come off the Trace light in the head and last on the sheet. The second worker's judgement overrides the wielder's, on paper and in the field. |
 | **After use** | Return the piece, then ask a colleague rather than the wielder whether Quagmire's cost is still showing — the shroud protects by filtering out everything below a certain weight, and it cannot tell a small grief from a small pleasure. Wearers come off the D. |
 
 **Stat interpretation:** The α grades on this set are honest and low, and the useful functions — the oasis, the hidden routes — are not in the damage column at all. Read the Cost lines as the specification. The Lantern in particular should be assessed on what it does to the bearer's hearing rather than on its rating, since every traveller who never arrived is a larger number than the sheet implies.
@@ -322,11 +322,11 @@ Decommissioning is correct and I will not have the office blamed in this file. A
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Quagmire; the other feeds it.
+> At the end of the walk the worker is offered two last acts, and the file sorts the endings by them: keep to the survey and leave the ground as it lies, or go off the sheet and start clearing.
 
-| Do the thing on file: Map the Trace and preserve the names it carries. | Substitute your own judgement, which on Quagmire has never yet cost less than the condition. |
+| Map the Trace and record the names on it — the clause, kept to the letter. | Trust your own judgement instead, which on this ground has never once come cheaper than the clause. |
 |---|---|
-| Tests whether the worker can remain at the end of a journey. The sorrow is witnessed; Quagmire is fully recorded. | Reveals the route and its missing travelers. The gauge climbs and Quagmire withdraws without revelation. |
+| It tests whether a worker can stand at the end of a road without tidying it up; the sorrow is witnessed and Quagmire is recorded whole. | The route and the travellers missing from it come clear instead; the reading climbs and Quagmire goes unrecorded. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -339,7 +339,7 @@ A line of crystal crosses the dust and ends abruptly. No road continues beyond i
 
 **With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Weight is teaching you its sorrow.
 
-**When the entity activates:** When the Gauge tips, the Lament becomes a force rather than a feeling. The Object-Weight was holding; now it releases.
+**When the entity activates:** Once the gauge tips, the Lament stops behaving like grief and starts behaving like weather. The Object-Weight was holding the ground still; then it lets go of it.
 
 **After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
 
@@ -354,7 +354,7 @@ Three neighbours, all of them encountered rather than arranged, and one of them 
 
 The Trace lies in the open Desolate near The Scar rather than in a managed zone, so its neighbours are whatever else the Desolate holds and the survey intervals are long. The interactions below are canonical but each was recorded at a particular mass and bearing; personnel must re-run the survey before relying on any of them.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| What stands beside the Trace | How the pairing has run | What the survey entered | What the file keeps |
 |---|---|---|---|
 | **Survivor's Span** | Both preserve journeys interrupted by collapse. | Surveyed once at long separation. The Span carries people across; this line carries people who were not carried across. The bearing moved four minutes of arc toward it and returned by the next survey. | Bearing to the minute of arc before, during and after, with mass throughout. |
 | **The Spreading Well** | The Well carries sorrow along its abandoned route. | The one holding in the district with a route of its own, and therefore the only candidate for a permanent bearing change. Not to be arranged: a permanent re-bearing would be unrecoverable and the wing has ruled it out in writing. | The ruling, restated at each annual review. |
@@ -484,7 +484,7 @@ The clerks still are not told. The wing considered telling them and decided agai
 ### Registry Trivia
 
 - **Classification detail:** Quagmire is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is The Desolate, near The Scar.
+- **Field detail:** Its element is Lament, and the register keeps it in the Desolate, hard by the Scar.
 - **Recognition detail:** Identify by the line. A broken run of heavy crystal lying along an alignment that matches no road on any current map, salt-cold, carrying footsteps that do not belong to anyone present.
 - **Record detail:** Several holdings in this archive turn on something the record does not contain. Here nothing was lost, destroyed or withheld: the manifest is complete and the names are known. What cannot be done is put the road back on a map, and everything this file calls a cost follows from that one prohibition. Confirm the designation O-IVδ-168 before applying any of it elsewhere.
 - **Containment detail:** There is no containment structure and none is planned — the Trace sits in open ground days from the nearest facility, and the practical measures are a survey schedule, a map archive and a register of names. Personnel should understand that this holding is contained by paperwork performed elsewhere, and that the paperwork has lapsed before.
