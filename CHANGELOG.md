@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 42 / unit 1 — Breathing Stone `C-IVδ-907` closed (2026-10-07)** — measured at `284ae17`: **no dirty
+  sections**; failures were `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing
+  `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row
+  record pairing the wall with Labyrinth of the Unfinished Mind `C-IVδ-909`, Endless Shift `C-IVδ-915` and Ninety Seconds
+  `C-IVδ-918` under its own column set, and an interaction procedure — parity **278 → 279 / 301** · and the Resolution
+  line extended to carry the file's own clause as a documented suppression condition (**Two respiration series, logged
+  separately and not reconciled**) — condition **274 → 275 / 301**. 5,985 → **6,433 words**; `tpl.py` residue 0;
+  `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**; residual 0 on entry; `own_series` already True.
+  Movement at the unit commit: `R-29` 269 / 301; section-clean 301 / 301; residue-free 302 / 302; residue lines
+  0; archive dirty 0; file-clean 302 / 302. **Batch 42 stands at one of seven.**
+
 - **Batch 41 — CLOSED at five (2026-10-07)** — five dossiers · **3 / 3 dirty sections closed** · **+1,089 words** net
   (31,120 → 32,209 across the five files) · `verify.py` residual **1 → 0** (unit 1, which also cleared the file's `..`
   seam) · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Roster, newest first: u5 Cracked Flesh `C-IIIγ-921`

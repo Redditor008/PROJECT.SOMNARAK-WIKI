@@ -2848,7 +2848,18 @@ conversions), `own_series` False → True, series **283 → 284 / 301**; the `Mo
 `felt... complete` ellipsis normalised, residual **1 → 0** and seam cleared. Movement: `R-29` 263 / 301; section-clean
 299 / 301; archive dirty 2; file-clean 302 / 302. **Batch 41 stands at one of five.**
 
+**Batch 42, unit 1: Breathing Stone `C-IVδ-907` closed.** Measured at `284ae17`: **no dirty sections**; failures were
+`parity ['interactions']` and `condition` False — **closed in a single wave**; 5,985 → **6,433 words**; `tpl.py` residue
+0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section
+written in the file's own terms (3 rows — Labyrinth of the Unfinished Mind `C-IVδ-909`, Endless Shift `C-IVδ-915`, Ninety
+Seconds `C-IVδ-918` — with its own column set), parity **278 → 279 / 301**; the Resolution line extended to carry the
+file's own clause as a documented suppression condition (Two respiration series, logged separately and not reconciled),
+condition **274 → 275 / 301**. Movement: `R-29` 269 / 301; section-clean 301 / 301; archive dirty 0;
+file-clean 302 / 302. **Batch 42 stands at one of seven.**
+
 **Batch 42 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IVδ-907 Breathing Stone 살아있는 벽 — `344825f` — PUSH VERIFIED — [[SE-C-IVδ-907_Breathing_Stone_살아있는_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-907_Breathing_Stone_%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94_%EB%B2%BD.md "SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md")
 
 **Batch 41 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
