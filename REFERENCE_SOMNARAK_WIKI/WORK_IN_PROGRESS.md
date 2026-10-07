@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 37, unit 6: The Happy Mask `C-IIβ-051` closed.** Measured at `f7f022c`: **3 dirty sections** — **closed in a
+single wave** (25 sites); 7,410 → **7,494 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**;
+`wikistd.py` meets **True**, condition re-registered in the rewritten resolution line. Disclosed: `own_series`
+**False → True** via the file's own figures restated in numerals (2.1 millimetres over 60 years in a rewritten Trivia
+line; 4 masks, 2 dangerous in the tension phase; 3 times on the stigma line); three appearance lines, the
+initial-exposure row and the relations header row re-authored. Movement: `R-29` 232 / 301; section-clean 265 / 301;
+archive dirty 66; file-clean 302 / 302. **Batch 37 stands at six of ten.**
+
 **Batch 37, unit 5: Relic of a Thousand Owners `O-IVδ-792` closed.** Measured at `aa8a741`: **2 dirty sections** —
 **closed in a single wave** (26 sites); 8,347 → **8,449 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over
 0.05**; `wikistd.py` meets **True**, condition held. Disclosed: Entry 1's residual cleared line-locally, residual
@@ -2545,6 +2553,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 37 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIβ-051 The Happy Mask 행복한 가면 — `45f414e` — PUSH VERIFIED — [[SE-C-IIβ-051_The_Happy_Mask_행복한_가면]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-051_The_Happy_Mask_%ED%96%89%EB%B3%B5%ED%95%9C_%EA%B0%80%EB%A9%B4.md "SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md")
 
 - SE-O-IVδ-792 Relic of a Thousand Owners 흐르는 유물 — `2c842a9` — PUSH VERIFIED — [[SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-792_Relic_of_a_Thousand_Owners_%ED%9D%90%EB%A5%B4%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-O-IVδ-792_Relic_of_a_Thousand_Owners_흐르는_유물.md")
 

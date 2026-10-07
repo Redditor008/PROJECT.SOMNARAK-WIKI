@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 37 / unit 6 — The Happy Mask `C-IIβ-051` closed (2026-10-07)** — measured at `f7f022c`: **3 dirty sections**
+  (Final Observation, Combat Record and the M.A.W. profile), with the generic resolution line's clause replaced by the
+  file's own discipline. **Closed in a single wave** (25 sites); 7,410 → **7,494 words**; `tpl.py` residue 0;
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with the condition re-registered inside
+  the rewritten resolution line (**Viderehan and Ferrehan only; the mask is never worn and the tray reading is logged at
+  both ends of the cycle**). `own_series` closed **False → True** by restating the file's own figures in numerals inside
+  a rewritten Trivia line (2.1 millimetres over 60 years) — disclosed; the tension phase's mask count was restated in
+  numerals (4 masks, 2 dangerous) and the stigma line's `three times` → `3 times` in the same wave. Three appearance
+  lines, the initial-exposure row and the relations header row were re-authored. Movement at the unit commit: `R-29`
+  232 / 301; section-clean 265 / 301; residue-free 302 / 302; residue lines 0; archive dirty 66;
+  file-clean 302 / 302. **Batch 37 stands at six of ten.**
+
+
+
 - **Batch 37 / unit 5 — Relic of a Thousand Owners `O-IVδ-792` closed (2026-10-07)** — measured at `aa8a741`: **2 dirty
   sections**, worst Final Observation (the choice blockquote, the choose row and the result row), then the interactions
   section (its 14-gram preamble, header row and procedure). **Closed in a single wave** (26 sites); 8,347 → **8,449
