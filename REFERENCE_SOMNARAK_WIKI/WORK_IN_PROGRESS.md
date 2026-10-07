@@ -3094,13 +3094,27 @@ condition (Both posts hand in their tallies without conferring, and the differen
 condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; archive dirty @dirty@;
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
-**Batch 44, unit 3: Floating Tree `N-IIIγ-585` cleaned.** Copied `### Consequences` (whole against 5 dossiers) replaced in place in its\nown terms. 7,229 → **7,250 words**; residual 0; 0 sections over 0.05; copy-side whole instances **5 → 0**. **Batch 44 stands at three of\nten.**\n\n**Batch 44, unit 2: Dreaming Ruin `N-IIIγ-505` cleaned.** Copied `## Operational Parameters` (whole against 5 dossiers) replaced\nin place in its own terms; Han-Energy row repaired line-locally (section 0.071 → 0). 7,321 → **7,256 words**; residual 0; 0 sections\nover 0.05; copy-side whole instances **5 → 0**. **Batch 44 stands at two of ten.**\n\n**Batch 44, unit 1: Harvest Beyond the Gate `N-IIβ-627` cleaned.** Copied `### Consequences` (whole against 6 dossiers, worst
+**Batch 44, unit 4: Calling Bloom `O-IIIβ-944` cleaned.** Both copied sections (`### Escalation Notes`, `### Operational Notes`)
+replaced in place in its own terms; three residual stock lines cleared line-locally. 7,090 → **7,134 words**; residual 0;
+0 sections over 0.05; copy-side whole instances **4 → 0**. **Batch 44 stands at four of ten.**
+
+**Batch 44, unit 3: Floating Tree `N-IIIγ-585` cleaned.** Copied `### Consequences` (whole against 5 dossiers) replaced in place
+in its own terms. 7,229 → **7,250 words**; residual 0; 0 sections over 0.05; copy-side whole instances **5 → 0**. **Batch 44
+stands at three of ten.**
+
+**Batch 44, unit 2: Dreaming Ruin `N-IIIγ-505` cleaned.** Copied `## Operational Parameters` (whole against 5 dossiers) replaced
+in place in its own terms; Han-Energy row repaired line-locally (section 0.071 → 0). 7,321 → **7,256 words**; residual 0;
+0 sections over 0.05; copy-side whole instances **5 → 0**. **Batch 44 stands at two of ten.**
+
+**Batch 44, unit 1: Harvest Beyond the Gate `N-IIβ-627` cleaned.** Copied `### Consequences` (whole against 6 dossiers, worst
 Torn Flower at 1.00) replaced **in place** in the file's own terms — Gate, orchard rows, half-hour mark, armoury ledger,
 until the next touched-fruit tally is larger than the last. 7,270 → **7,299 words**; residual 0; **0 sections over 0.05**;
 `tpl.py` 0; meets **True**; copy-side whole instances **6 → 0**; nothing deleted. **Batch 44 stands at one of ten.**
 
 **Batch 44 — OPEN at ten; clean phase (replace copied sections in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
+
+- SE-O-IIIβ-944 Calling Bloom 부르는 꽃 — `46abb79` — PUSH VERIFIED — [[SE-O-IIIβ-944_Calling_Bloom_부르는_꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B2-944_Calling_Bloom_%EB%B6%80%EB%A5%B4%EB%8A%94_%EA%BD%83.md "SE-O-IIIβ-944_Calling_Bloom_부르는_꽃.md")]
 
 - SE-N-IIIγ-585 Floating Tree 떠다니는 나무 — `2dde6c1` — PUSH VERIFIED — [[SE-N-IIIγ-585_Floating_Tree_떠다니는_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-585_Floating_Tree_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%EB%82%98%EB%AC%B4.md "SE-N-IIIγ-585_Floating_Tree_떠다니는_나무.md")]
 
