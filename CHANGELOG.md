@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Clone audit — `tools/auditors/clone_audit.py` and `REFERENCE_SOMNARAK_WIKI/CLONE_AUDIT_2026-10-07.md` (2026-10-07)** — the
+  owner's question was whether some dossiers are the same SE with the title and designation changed, the Combat Actions table
+  included. The audit masks registry codes, sector ids, figures and each dossier's own name words on **both** sides, then
+  compares body, prose, every section separately, and near-identical lines. Result over **301 / 301** dossiers: **no dossier
+  is another dossier renamed** — strongest pair **0.169** containment, **0** pairs at >= 0.50, closest pairs share ~a sixth
+  (boilerplate, not a copy) · but **43 / 301 dossiers carry at least one whole section copied verbatim** (>= 0.90), led by
+  **Consequences** (297 files, 26 pairs >= 0.90, 167 >= 0.50), Operational Parameters (15 / 56), Testimonium (2 / 49),
+  **Combat Actions (1 pair identical, 36 pairs >= 0.50)**, Core Stat Line (1 / 28), M.A.W. Suit (0 / 38). The Combat
+  Actions move table is a template with the flavour word swapped — *The Settling* in **33** dossiers, *The First Weight* in
+  **30** — and **Dawn That Forgot `N-IIIγ-917` / Dreaming Plague `N-IVδ-927` share it byte for byte after masking (1.00 both
+  ways)** with 42 further lines at >= 0.90; their narratives are their own. Read-only: no dossier content was changed.
+
 - **Audit tooling — `tools/auditors/frame_dup.py` added (2026-10-07)** — measures repeated prose frames across
   the wing with registry codes, sector ids, figures and each dossier's own name words masked, a class the standing gates
   cannot see (`sect.py` / `sectfile.py` count 8-grams shared by >= 10 dossiers and mask nothing; `tpl.py` compares raw

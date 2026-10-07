@@ -16,6 +16,19 @@ All figures below are measured, not estimated, and each names the tool that prod
 
 **Batch pacing, owner's correction, 2026-10-05 (`R-26` amended), reaffirmed by the owner the same day — "This Rule Need To Be Remember":** the batch ladder starts at **3**, not 5 — **3 > 5 > 7 > 10** SE files per batch, ratcheting up only while the units are genuinely simple by `R-26`'s own test, and stopping at whatever number was finished properly. **The minimum for any batch is three SE files**; the ceiling is ten, and a batch of fewer than three is permitted only by `R-26`'s quality clause and must be named and explained in the record rather than reported as a full batch. The superseded "start at five" wording is preserved in the rule file with the correction dated. The units in this cohort are *not* simple by that test — 11–12 dirty sections, full Interaction Records, 5,000–8,000 words — so the ladder stays at the floor of three per batch for this cohort, and the per-dossier conditions and one-`gate.sh`-per-dossier rule are unchanged. Two rows moved this turn without a unit touching them — residue-free 103 → 108 and file-clean 158 → 162 — because the four Rank V rewrites and Ephemera retired shared lines outright, and a line that drops below ten holders stops counting against every remaining dossier. That is the documented spillover effect; it is not work performed this turn.
 
+**Clone audit, owner's question, 2026-10-07 — *"How To Check It They Are The Same SE But Just Change Title + Designation :
+[Combat Actions] Se It And Also Check Everything Else"*:** run with `tools/auditors/clone_audit.py`; full report in
+`REFERENCE_SOMNARAK_WIKI/CLONE_AUDIT_2026-10-07.md`. The audit masks registry codes, sector ids, figures and the dossier's
+own name words on both sides, then compares body, prose, each section separately, and near-identical lines. **Finding 1:** no
+dossier is another renamed — strongest pair `N-IIIγ-917` / `N-IVδ-927` at **0.169**, **0** pairs at >= 0.50, **36** at
+>= 0.08. **Finding 2:** **43 / 301** dossiers carry at least one section copied verbatim (>= 0.90) — Consequences (26 pairs
+>= 0.90), Operational Parameters (15), Testimonium (2), Combat Actions (1), Core Stat Line (1). **Finding 3:** the Combat
+Actions move table is a template with the flavour word swapped (*The Settling* 33 dossiers, *The First Weight* 30), and
+**Dawn That Forgot `N-IIIγ-917` / Dreaming Plague `N-IVδ-927` share it byte for byte after masking** plus 42 lines at
+>= 0.90, while their narratives stay their own. **Proposed counters:** section pairs >= 0.90 and files carrying a verbatim
+section (**43 / 301** today); target if the owner rules for one — no section pair >= 0.90, no file pair >= 0.30. No dossier
+content was changed; repair awaits the owner's ruling.
+
 **Boilerplate audit, owner's observation, 2026-10-07 — *"Look Like From The 300 Something SE A Lot Of Then Just A
 Copy With Change Name"*:** measured with the new `tools/auditors/frame_dup.py`, which masks registry codes, sector ids,
 figures and each dossier's own name words before counting 6-grams — the class every existing gate is blind to. First run
