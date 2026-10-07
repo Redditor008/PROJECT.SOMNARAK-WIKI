@@ -88,7 +88,7 @@
 
 1. **Tension:** Identification rests on two things and neither of them is a feeling: the displacement that can be sighted against a straight edge, and the fire that burns without leaving ash. Relief is the first thing most observers report, it is accurate as a signal, and the file's instruction is to note it and take position before anything else is tried.
 2. **Clash:** Flerehan and Ferrehan, one Warden at a time, approach scheduled and logged. The straight edge is sighted past its back before and after. Nobody reaches for what it is holding, and nobody tells it that it is holding nothing.
-3. **Resolution:** The cycle closes when the missing thing has been left missing — no explanation offered in its place, no stand-in named, and nothing lifted to fill the gap. The registration carries the file's own condition: **do not replace the missing thing with a false explanation**. The whole of this dossier's difficulty sits in that clause: every failure on the holding's record began with somebody being kind about it.
+3. **Resolution:** The watch ends with the missing thing left missing — no explanation offered in its place, no stand-in named, and nothing lifted to fill the gap. The registration carries the file's own condition: **do not replace the missing thing with a false explanation**. The whole of this dossier's difficulty sits in that clause: every failure on the holding's record began with somebody being kind about it.
 
 ### Consequences
 
@@ -268,7 +268,7 @@ Nothing taken from this holding is equipment in the ordinary sense: each piece w
 Carrying Nothing (C-IIβ-357 [GS]) is a Subject-Grudge manifestation expressing Grudge, held in the Alpha Tree vault at Zone A and approached one Warden at a time on a scheduled, logged basis. It stands still until somebody walks toward it, holds nothing in both hands, and bends a sighted straight edge by 24 millimetres. It stands still until somebody walks toward it, holds nothing with both hands, and bends a sighted straight edge by 24 millimetres.
 
 **Entry 2 — <Excerpt from Sighting Log, Year 4238>**
-Displacement behind the figure 24 mm by straight-edge sighting, against 17 and 11 in the two preceding years. Taken at every watch from the same two marks on the vault floor. The file still declines to name what is producing the bend and has struck the word burden from three further drafts.
+Displacement behind the figure 24 mm by straight-edge sighting, against the 17 and the 11 recorded in the two years before. Taken at every watch from the same two marks on the vault floor. The file still declines to name what is producing the bend and has struck the word burden from three further drafts.
 Carried forward from the sighting log. The two floor marks were re-cut once, at the same spacing, witnessed and recorded, and the series is treated as continuous across that cut.
 
 **Entry 3 — <Excerpt from Establishment Office Correspondence>**
@@ -310,14 +310,14 @@ The figure stands in the vault with its hands full of nothing, and does not move
 
 ### Interaction Pattern
 
-Three holdings are kept within reach of the vault — The Memory Lock, The Empty Mask and The Memory Well — and none of the three is an alliance. For every pairing, enter whether the response changed in sound, movement, temperature, memory pressure, gauge or containment stability, with the distance, duration, trigger and whatever residue is left once the parties are apart.
+Three holdings are kept within reach of the vault — The Memory Lock, The Empty Mask and The Memory Well — and not one of them is an alliance. For every pairing, enter the axis the response moved on — sound, movement, temperature, memory, pressure on the gauge, or containment stability — with the distance, the duration, the trigger and whatever residue is left once the parties are apart.
 
 **Interaction method:** Baseline alone with four clean watches of sightings, then proximity with the straight edge read at one-minute intervals from both marks. Trials are run with one Warden only, as approaches are, and the wing has run four in nine years.
 
 
 ### Entity Interaction Record
 
-Carrying Nothing must be assessed against the other absence files and kept distinct from them. The Memory Lock withholds something known to exist; the Empty Mask is a person made unfindable at their own request; the Memory Well returns what is put into it. This holding is none of those: what is gone was taken deliberately, kindly, by a competent officer, and the kindness consisted precisely in leaving no account of it.
+Carrying Nothing is read beside the other absence files, and the file keeps each of them separate. The Memory Lock withholds something known to exist; the Empty Mask is a person made unfindable at their own request; the Memory Well returns what is put into it. This holding is none of those: what is gone was taken deliberately, kindly, by a competent officer, and the kindness consisted precisely in leaving no account of it.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -409,7 +409,7 @@ The welfare office's objection is bound into the scheme's first volume and is re
 
 ### A Burden Taken Without Being Resolved
 
-A vault sealed away something a community was carrying and the people it was taken from lost the memory of what it had been, and the commissioning material is the sealing authorisation with its schedule attached. The schedule is itemised and the items are described in administrative shorthand. The archivist's note observes that the shorthand was adequate for the clerks who wrote it and that nobody now can say what it refers to.
+A vault sealed away something a community was carrying and the people it was taken from lost the memory of what it had been, and the commissioning material is the sealing authorisation with its schedule attached. The schedule is itemised and the items are described in administrative shorthand. The archivist's note is blunt about it: the shorthand was adequate for the clerks who wrote it, and nobody now can say what it refers to.
 
 ## Trivia
 
