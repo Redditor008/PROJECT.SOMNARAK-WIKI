@@ -85,9 +85,9 @@
 
 ### Battle Phases
 
-1. **Tension:** Identification runs on the single end and on the tension itself. Other bound and knotted holdings sit in this wing; only this one stands taut with nothing at the far end of it. The designation is confirmed against the classification table, the approach is set, and the positions are taken before anything else is attempted.
+1. **Tension:** Identification runs on the single end and on the tension itself. Other bound and knotted holdings sit in this wing; only this one stands taut with nothing at the far end of it. The designation is checked against the classification table; only then are the approach and the standing marks fixed, in that order.
 2. **Clash:** The Rope does not have to be reached; it is already in the room with anyone who is waiting for somebody. Work proceeds by Flerehan and Ferrehan — naming the wait, then enduring it without taking hold — while Pugnahan tightens the one thing it is meant to loosen. The gauge tracks what the team is privately hoping for rather than what it is doing.
-3. **Resolution:** The cycle closes in containment, retreat or management, or on the suppression condition this file registers: **Do not promise return; release the rope consciously**. The clause governs the whole watch: nothing on this ground promises anybody back, and the line is let go by hand rather than dropped.
+3. **Resolution:** The watch finishes in containment, in retreat, in management, or on the register's suppression condition for this holding: **Do not promise return; release the rope consciously**. The clause governs the whole watch: nothing on this ground promises anybody back, and the line is let go by hand rather than dropped.
 
 ### Consequences
 
@@ -262,7 +262,7 @@ Every item in this set is the Rope's condition carried in metal rather than ordi
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Soaking Rope (N-Iα-316 [D]) stands on the register as a Subject-Void manifestation expressing Grudge. The Rope formed from a connection that was never allowed to become real. Held at Zone A, Alpha Tree. It is perceived more clearly by people waiting for someone.
+The Rope's register entry (N-Iα-316 [D]) reads Subject-Void manifestation, Grudge expressed. It formed from a connection that was never allowed to become real. The Rope formed from a connection that was never allowed to become real. Held at Zone A, Alpha Tree. It is perceived more clearly by people waiting for someone.
 
 **Entry 2 — <Excerpt from Waiting-Room Log, Zone A>**
 Travels through consciousness and abandoned memories. Personnel feel attached to someone who is absent. It binds emotionally but never physically.
@@ -308,7 +308,7 @@ The Rope works in range of three other holdings — The Vanished Rope, The Wande
 
 ### Entity Interaction Record
 
-The Rope sits in a group of entities that are all, in different ways, still expecting somebody. The relationships below are the ones the record will support. They are neither alliances nor hostilities; they are one unfinished wait kept in three shapes, and each shape alters what the others do.
+The Rope sits in a group of entities that are all, in different ways, still expecting somebody. The relationships set out below are the ones the record will support. They are neither alliances nor hostilities; they are one unfinished wait kept in three shapes, and each shape alters what the others do.
 
 | Holding paired with the Rope | Shape the pairing took | What the watch recorded | What the entry holds |
 |---|---|---|---|
@@ -330,7 +330,7 @@ The rope absorbed the waiting. Day after day, month after month, the child's fai
 
 The Rope holds. It still holds — the way the child held, the way the child waited, the grip that was meant to receive the returning parent and that, denied the parent, learned to hold nothing, and to hold it faithfully, the way children hold promises, past reason, past evidence, past the point where holding serves any purpose except the holding itself.
 
-Those who come near the Soaking Rope feel the specific grief of the unreached-for — the sorrow of holding out a line to someone who never grasps it, of waiting with the rope ready for a return that does not come, of a connection that was prepared in all sincerity for a meeting that the world did not allow.
+Come near the Rope and the grief of the unreached-for is what arrives — the sorrow of holding out a line to someone who never grasps it, of waiting with the rope ready for a return that does not come, of a connection prepared in all sincerity for a meeting the world did not allow, and of a tautness that has never once slackened into relief. the sorrow of holding out a line to someone who never grasps it, of waiting with the rope ready for a return that does not come, of a connection that was prepared in all sincerity for a meeting that the world did not allow.
 
 Some sorrows mourn a parent. Soaking Rope mourns the waiting — the child's faithful, endless readiness for a return that never happened, soaked into a rope that holds, still, the shape of a connection that was never completed.
 ## 증언 (Testimonium) — The Testimony
@@ -415,7 +415,7 @@ The counsellors' objection is standing and has not been answered. An informal ch
 
 ### Registry Trivia
 
-- **Classification detail:** Soaking Rope is a Subject with Residue (I) coherence and Minor (α) potency.
+- **Classification detail:** Soaking Rope files as a Subject; its coherence is Residue (I) at Minor (α) potency.
 - **Field detail:** Its element is Grudge, and the register keeps it in Zone A, at the Alpha Tree.
 - **Recognition detail:** Identify it by the single end and by the tension. Other bound and knotted things are held in this wing; only this one is taut with nothing at the far end of it.
 - **Record detail:** Check the designation before work begins. The Vanished Rope and the Wandering Chain are catalogued separately, answer to different management, and have been confused in the field at least once.
