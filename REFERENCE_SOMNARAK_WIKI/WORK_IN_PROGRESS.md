@@ -3166,8 +3166,13 @@ Torn Flower at 1.00) replaced **in place** in the file's own terms — Gate, orc
 until the next touched-fruit tally is larger than the last. 7,270 → **7,299 words**; residual 0; **0 sections over 0.05**;
 `tpl.py` 0; meets **True**; copy-side whole instances **6 → 0**; nothing deleted. **Batch 44 stands at one of ten.**
 
-**Batch 45, unit 3: Dawn That Forgot `N-IIIγ-917` quote written.** The shared family quote replaced in place with a dawn the district sleeps through and a day that runs short afterwards. 4029 → **4507 words**;
-residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 45 stands at 3 of ten.**
+**Batch 45, unit 3: Dawn That Forgot `N-IIIγ-917` quote written + `R-29` completed.** The shared family quote replaced in place with a
+dawn the district sleeps through and a day that runs short afterwards; the same unit closed its `R-29` gaps — a new
+`## 상호작용 (Entity Interactions)` section (fresh column set) filed against Weighted Silence · Dead Air · Allhallow, the
+documented suppression condition on the Resolution step, and its own figures restated in digits (mean **71** minutes, range
+**40**–**110**, disclosed). 4029 → **4507 words**; residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match;
+meets **True** after a second commit the same unit (`0991a9f`) completed the series clause. **Batch 45 stands at 3 of ten.**
+
 
 **Batch 45, unit 2: Amnesia `O-IIβ-914` quote written.** The shared family quote replaced in place with no onset, no end, and the arm-check at the painted line afterward. 4915 → **4926 words**;
 residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 45 stands at 2 of ten.**
@@ -3178,7 +3183,7 @@ residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **B
 **Batch 45 — OPEN at ten; quote phase (each file's shared opening quote replaced in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
 
-- SE-N-IIIγ-917 Dawn That Forgot 잠드는 새벽 — `47a9bb9` — PUSH VERIFIED — [[SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-917_Dawn_That_Forgot_%EC%9E%A0%EB%93%9C%EB%8A%94_%EC%83%88%EB%B2%BD.md "SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md")]
+- SE-N-IIIγ-917 Dawn That Forgot 잠드는 새벽 — `0991a9f` — PUSH VERIFIED — [[SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-917_Dawn_That_Forgot_%EC%9E%A0%EB%93%9C%EB%8A%94_%EC%83%88%EB%B2%BD.md "SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md")]
 
 - SE-O-IIβ-914 Amnesia 잊혀진 일분 — `c4a8956` — PUSH VERIFIED — [[SE-O-IIβ-914_Amnesia_잊혀진_일분](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-914_Amnesia_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%BC%EB%B6%84.md "SE-O-IIβ-914_Amnesia_잊혀진_일분.md")]
 

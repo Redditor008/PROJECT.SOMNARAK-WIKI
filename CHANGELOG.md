@@ -12,6 +12,11 @@ This file records notable changes to the public Somnarak Wiki.
   replaced **in place** with one of this file's own: a dawn the district sleeps through and a day that runs short afterwards. 4029 → **4507 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
   meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 45 stands at 3
   of ten.**
+  The same unit closed its `R-29` gaps (`parity|condition|series`): a new `## 상호작용 (Entity Interactions)` section (fresh
+  column set) filed against Weighted Silence · Dead Air · Allhallow, the documented suppression condition on the Resolution
+  step, and its own figures restated in digits (mean **71** minutes, range **40**–**110**, disclosed). The series clause was
+  completed in a second commit the same unit (`0991a9f`) after the first pass left `series` False.
+
 
 - **Batch 45 / unit 2 — Amnesia `O-IIβ-914` quote written (2026-10-07)** — the shared opening quote (family of **8** dossiers)
   replaced **in place** with one of this file's own: no onset, no end, and the arm-check at the painted line afterward. 4915 → **4926 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
