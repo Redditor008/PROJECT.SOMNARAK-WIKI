@@ -3094,6 +3094,11 @@ condition (Both posts hand in their tallies without conferring, and the differen
 condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; archive dirty @dirty@;
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
+**Batch 44, unit 9: Dreaming Plague `N-IVδ-927` cleaned.** Copied `### Combat Actions` (byte-identical vs Dawn That Forgot)
+replaced in place in the file's own plague terms; interactions section added (Weighted Silence · Dawn That Forgot · Lacrima),
+suppression condition documented, series digits restated in Trivia (disclosed). 4,707 → **5,240 words**; residual 0; 0 sections
+over 0.05; copy-side whole instances **3 → 0**. **Batch 44 stands at nine of ten.**
+
 **Batch 44, unit 8: Aphonia `N-IIβ-170` cleaned.** Copied `## Operational Parameters` rows replaced in place in its own terms,
 including the response line that had pointed a Subject at the Object/Place pair. 7,457 → **7,369 words**; residual 0; 0 sections
 over 0.05; copy-side whole instances **3 → 0**. **Batch 44 stands at eight of ten.**
@@ -3129,6 +3134,8 @@ until the next touched-fruit tally is larger than the last. 7,270 → **7,299 wo
 
 **Batch 44 — OPEN at ten; clean phase (replace copied sections in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
+
+- SE-N-IVδ-927 Dreaming Plague 꿈의 전염병 — `7e3f0f0` — PUSH VERIFIED — [[SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-927_Dreaming_Plague_%EA%BF%88%EC%9D%98_%EC%A0%84%EC%97%BC%EB%B3%91.md "SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md")]
 
 - SE-N-IIβ-170 Aphonia 침묵의 비명 — `c023363` — PUSH VERIFIED — [[SE-N-IIβ-170_Aphonia_침묵의_비명](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-170_Aphonia_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EB%B9%84%EB%AA%85.md "SE-N-IIβ-170_Aphonia_침묵의_비명.md")]
 

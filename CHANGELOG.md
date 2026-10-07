@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 44 / unit 9 — Dreaming Plague `N-IVδ-927` cleaned (2026-10-07)** — the copied `### Combat Actions` table (the
+  audit's one byte-identical Combat Actions pair, against Dawn That Forgot) replaced **in place** in the file's own plague terms:
+  incubation, the coughing choir, the fever dream, the brightening. The same unit moved its `R-29` counters: a new
+  `## 상호작용 (Entity Interactions)` section (fresh column set) filed against Weighted Silence, Dawn That Forgot and Lacrima,
+  the documented suppression condition on the Resolution step, and its own figures restated in digits in Trivia (**17** years,
+  **318** accounts, mean **4** hours **11** minutes), disclosed. 4,707 → **5,240 words**; residual 0; **0 sections over 0.05**;
+  `tpl.py` 0; meets **True**; copy-side whole instances **3 → 0**. **Batch 44 stands at nine of ten.**
+
 - **Batch 44 / unit 8 — Aphonia `N-IIβ-170` cleaned (2026-10-07)** — the copied `## Operational Parameters` rows (including a
   Recommended-response line that told a **Subject** to use the Object/Place pair) replaced **in place** in the file's own terms:
   identity and voice, a working figure for the record, and the Work Types registered for a Subject. 7,457 → **7,369 words**;
