@@ -20,29 +20,22 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Working figures for the voice-holding, kept for simulation. They annotate the holding described above; they do not amend its classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Subject |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure** | Identity and voice — a scream kept past its moment stays in the throat that held it. |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per completed working of the record |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Bring the Gauge down through the Work Types registered for this Subject; the Object/Place pair does not apply here. |
 
-### Operational Notes
-
-- Threshold 3. Activation follows the third failed cycle, and the scream becomes audible for the first time at that point.
-- Pressure is identity-class. Personnel lose the memory of their own voice for several hours and must be reminded of their names.
-- Tears soften the scream; aggression converts it into physical pain concentrated in the inner ear.
-- Workers with prior vocal injury are excluded from assignment. The entity selects them preferentially and their memory loss lasts measurably longer.
-- Yield is drawn from the silence rather than the scream. Cycles in which the scream becomes audible produce no recoverable Han-Energy.
 
 ## Combat Record
 ### Core Stat Line
