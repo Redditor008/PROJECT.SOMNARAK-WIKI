@@ -279,7 +279,7 @@ A thin figure standing a metre from a bolted chair, dry and cool, its surface tu
 
 ## 상호작용 (Entity Interactions)
 
-The desk has never been run with a second holding in the room, and the register's 41 open tales were collected without one. What follows is paper work: the appendix that groups the 90x holdings by manifestation, read against each file's own series. The pairings share one subject — a story that is being told and will not finish — and the four records handle that differently enough to be worth keeping together.
+No second holding has ever been set down on this desk while the register's 41 open tales were being collected, and the file intends to keep it that way. The three rows below come off the appendix that sorts the 90x holdings by manifestation, each read against this record's own series. All three are stories that are being told and will not finish; the four records meet that in ways different enough to keep shelved together.
 
 **Interaction method:** Take the desk's own figures first — pages marked, minutes held, the shift count — established alone across a full cycle before any comparison is entered. Then set the other record's series beside them and record the first divergence, its range, what set it off, and whether either series moved in the reading. Re-verify each quarter.
 
@@ -298,17 +298,17 @@ There is a file in the Archive — sealed, stamped Eyes Only — that contains t
 
 The tale sorrow that birthed Vellum Man is specific. It is not the general lament grief that saturates Somnarak — that ambient, city-wide ache that every citizen carries. This is a particular grief, a particular wound, crystallized into a subject form because the tale register was the only shape it could take. The body was the vessel; tale was the content; lament was the pressure.
 
-The entity does not rage. It does not weep. It simply persists — tale and lament, patient and permanent.
+Nothing at this desk shouts and nothing weeps. It keeps telling, in tale and lament both, with the patience of a narrator who has never once been interrupted.
 
-The entity does not rage. It does not weep. It persists — tale and lament, patient and permanent. Vellum Man is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+The holding raises no voice and sheds no tear. It keeps its register — tale and lament — the way a desk keeps its open tales, and it has never once been hurried into an ending. Vellum Man is not the loudest thing in Somnarak; it is the most particular. In a city where grief is issued to everyone in the same shape, a story that still knows your name is the one that reaches bone.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The lament is familiar. The tale is not. That gap is where the danger lives."* — Handler
+*"I have handled lament for years and it never changes. The tale is the part that reads the desk back, and the gap between the two is where every bad hour has started."* — Handler
 *"I expected standard lament. I got something that knew me."* — Specialist
-*"Every time we refine the protocol, the tale register finds a new way in."* — Researcher
-*"It does not attack. It accumulates. And what it informs you of is your own sorrow."* — Director
-*"Work it once and you will understand why the classification system had to expand."* — Keeper
+*"Each revision of the protocol teaches the desk one more way around it. That is not the register defeating us; that is the register taking notes."* — Researcher
+*"It has never attacked the desk. It gathers, and then it tells the collector which of the 41 tales was his."* — Director
+*"Spend one shift cataloguing here and the classification's newest column will make sense to you — this one did not fit any of the old ones."* — Keeper
 
 ## 기록 (Registrum) — The Record
 
@@ -339,7 +339,7 @@ The entity does not rage. It does not weep. It persists — tale and lament, pat
 
 - One of the first catalogued **Subject-Tale** entities in Somnarak.
 - Its tale descriptor makes it structurally unique among subject entities.
-- The lament pressure in the tale register feels different from standard lament — more specific, more personal.
+- Lament in the tale register does not press on a crowd; it arrives mid-story, and the story has somebody real in it.
 
 ## Document Information
 
