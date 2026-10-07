@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 33 / unit 1 — Thralldom `O-Iα-754` closed (2026-10-07)** — measured at `2ed584c`: **4 dirty sections**,
+  worst Final Observation 0.209 (the choice blockquote, the choose row and the result row), then Behavior 0.167 (the
+  33-gram gauge-interpretation paragraph), Flavor Text 0.059 (the 32-gram relations preamble, the relations header and
+  the after-departure line) and Combat Record 0.054 (the yield and resistance rows, two action rows, the resolution and
+  the conduit consequence). **Closed in a single wave** (24 sites); 6,903 → **7,081 words**; `tpl.py` residue 0;
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with series and condition held. Three
+  field-use rows clipped mid-word (`Nothing new is damag.` twice and `wearers repor.`) were rebuilt whole-line; the
+  Entry 1 `is logged as ` stock line was rewritten (`stands on the register as`), residual **1 → 0**. Movement at the
+  unit commit: `R-29` 199 / 301; section-clean 224 / 301; residue-free 302 / 302; residue lines 0; archive
+  dirty 178; file-clean 302 / 302. **Batch 33 stands at one of ten.**
+
+
+
 - **Batch 32 CLOSED at seven (2026-10-07).** Seven dossiers, **30 / 30 dirty sections closed**, **+1,718 words** net
   (6,449 → 6,759 · 7,190 → 7,571 · 7,838 → 8,105 · 8,144 → 8,470 · 8,514 → 8,691 · 6,718 → 6,821 · 7,857 → 8,011),
   `verify.py` residuals **6 → 0**, nothing deleted (`R-15`). Each unit committed individually and pushed (`A0`), each
