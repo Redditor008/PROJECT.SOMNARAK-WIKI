@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 39 / unit 6 — Folly `C-Iα-329` closed (2026-10-07)** — measured live at `8175cd0`: **2 dirty sections**,
+  Operational Parameters (the yield row, the recommended-response row and the work-object line) and Final Observation (the
+  choice blockquote and the choose row). **Closed in a single wave** (5 sites); 7,246 → **7,276 words**; `tpl.py`
+  residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**; residual 0 on entry;
+  condition held; `own_series` already True. Movement at the unit commit: `R-29` 247 / 301; section-clean 281 / 301;
+  residue-free 302 / 302; residue lines 0; archive dirty 23; file-clean 302 / 302. **Batch 39 stands at
+  six of seven.**
+
 - **Batch 39 / unit 5 — Apnea `N-IVδ-159` closed (2026-10-07)** — measured live at `cd6c9e9`: **2 dirty sections**,
   Behavior (the Work-Type diagnostic paragraph, 0.054) and Final Observation (the choice blockquote, 0.088). **Closed in a
   single wave** plus a fresh reword: the diagnostic paragraph, the blockquote, the choose row and a line-local residual

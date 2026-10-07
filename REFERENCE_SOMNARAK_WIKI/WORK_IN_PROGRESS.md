@@ -2653,6 +2653,11 @@ restated in numerals inside real edits (5 grants · 3 of the 5 on leave · 4 ass
 against 157). Movement: `R-29` 237 / 301; section-clean 271 / 301; archive dirty 47; file-clean 302 / 302.
 **Batch 38 stands at one of five.**
 
+**Batch 39, unit 6: Folly `C-Iα-329` closed.** Measured live at `8175cd0`: **2 dirty sections** — Operational Parameters
+and Final Observation — **closed in a single wave** (5 sites); 7,246 → **7,276 words**; `tpl.py` residue 0; `sectfile.py`
+**0 section(s) over 0.05**; `wikistd.py` meets **True**, residual 0 on entry, condition held. Movement: `R-29` 247 / 301;
+section-clean 281 / 301; archive dirty 23; file-clean 302 / 302. **Batch 39 stands at six of seven.**
+
 **Batch 39, unit 5: Apnea `N-IVδ-159` closed.** Measured live at `cd6c9e9`: **2 dirty sections** — Behavior (the
 diagnostic paragraph) and Final Observation — **closed in a single wave** plus a fresh reword; 8,382 → **8,415 words**;
 `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held. Disclosed: the
@@ -2692,6 +2697,8 @@ line-locally; `own_series` already True; the file's own figures restated in nume
 file-clean 302 / 302. **Batch 39 stands at one of seven.**
 
 **Batch 39 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-Iα-329 Folly 녹아내린 탑 — `145d6f1` — PUSH VERIFIED — [[SE-C-Iα-329_Folly_녹아내린_탑]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-329_Folly_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%ED%83%91.md "SE-C-Iα-329_Folly_녹아내린_탑.md")
 
 - SE-N-IVδ-159 Apnea 얼어붙은 한숨 — `cf0f1cb` — PUSH VERIFIED — [[SE-N-IVδ-159_Apnea_얼어붙은_한숨]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-159_Apnea_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%ED%95%9C%EC%88%A8.md "SE-N-IVδ-159_Apnea_얼어붙은_한숨.md")
 
