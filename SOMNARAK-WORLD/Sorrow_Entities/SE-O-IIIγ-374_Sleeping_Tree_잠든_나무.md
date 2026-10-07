@@ -41,7 +41,7 @@
 - A successful cycle deepens the sleep for a season. It settles nothing: the promise is still unkept, the second caretaker is still not coming, and the entity grows only while asleep — so a well-run holding here is one in which the subject is quietly getting larger.
 - This holding carries no breach counter, and the absence is not an omission. Where no count is listed the Sorrow Gauge percentage is the whole of the activation mechanism, and the reading to watch is 75%; a count, where one exists elsewhere in the archive, runs down with failed cycles on any role — Subject, Object, Place or Relic alike — and this file simply does not have one.
 - The 16–22 Han-Energy yield is drawn without waking the source, which makes it the least physically hazardous work in the zone and the easiest to over-schedule. Exposure here is measured in how many cycles a worker has sat beside it, not in what was done during any one of them.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Extraction from a dormant source requires contact, contact is the activation trigger, and every piece in this β-grade set was taken from something that was asleep at the time.
+- Taking M.A.W. stock has its own authorisation and is never a prize hung on a clean cycle. A dormant source must be touched to be drawn from, the touch is the activation trigger, and every piece in this β-grade set came off something that was asleep when it was taken.
 
 ## Combat Record
 ### Core Stat Line
@@ -210,7 +210,7 @@ Escalation is a change in the creak interval. It shortens before anything else h
 | **Risk** | The worker may attempt to complete someone else's promise. |
 | **Management** | Use the valid Work Types and the management procedure listed above. |
 
-**Activation reporting order:** contact or gauge reading → who made contact and what was said → first visible change in the body → content of the dream as reported → duration → condition under which the operator let go. The dream report is taken before the operator has spoken to anyone else, because it is consistent between operators and the consistency is the finding. Viderehan and Ferrehan remain the only valid Work Types throughout.
+**Activation reporting order:** the contact or the gauge reading → who touched it and what they said → the first visible change in the body → the dream as reported → how long it lasted → the condition under which the operator stepped back. The dream account is taken before the operator has spoken to anybody else, because it comes back the same from every operator and the sameness is the finding. Viderehan and Ferrehan are the only Work Types from start to finish.
 ## Breach Behavior
 
 > *"Sleeping Tree has broken free. Extends roots through the floor, entangling personnel."*
@@ -281,7 +281,7 @@ The petrified wood possesses the hardness of tempered steel combined with superi
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat on this holding's own cycles and nothing on any other, which on a cycle consisting of a tape measure and a watch means fewer disputed readings
+**Effect:** +1 to the working stat on this holding's own cycles and nothing whatsoever elsewhere — which on a cycle that amounts to a tape measure and a watch comes down to fewer arguments over the figures
 
 **Ability:** Conceals the wearer's movement and emotional presence.
 
@@ -347,11 +347,11 @@ The three dream accounts are kept side by side in the station file, unedited, an
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Sleeping Tree; the other feeds it.
+> The station offers the worker two last moves, and the file reads the endings off them: take the reading and climb back the marked way, or lay a hand on it the way anybody would on something asleep.
 
-| Take the measurement and go back up the marked approach. | Put a hand on it, the way you would with anything asleep. |
+| Take the girth reading and go back up the marked approach. | Rest a hand on it, as one would on anything asleep. |
 |---|---|
-| Tests whether the worker can remain without waking it. The sorrow is named; Sleeping Tree is fully recorded. | Reveals the travelers and the broken promise. The gauge climbs and Sleeping Tree withdraws without revelation. |
+| It tests whether a worker can stand by without waking a sleeper; the sorrow is named and the Tree is recorded whole. | The travellers and the promise that broke come clear instead; the reading climbs and the Tree goes unrecorded. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -379,7 +379,7 @@ Three relations and one question: does proximity make the sleep lighter. The cre
 
 Eight sessions across three holdings, all measured on the creak and the quarterly girth. The table records what each party is and what the sleep did.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| Standing beside the Tree | Shape the pairing took | What the station logged | What the sheet keeps |
 |---|---|---|---|
 | **The Returning Tree** | Carries a memory of the ground this one was planted in. | Three sessions. No change in the creak and none in the girth, and one transfer the station did not expect: the Returning Tree's own account afterward included a slope and two chairs. Neither station can explain it and both have filed it. | Both accounts taken separately, the creak interval, and the girth a fortnight later. |
 | **The Broken Promise** | Preserves the words of a promise; this one preserves the thing promised over. | Three sessions, nothing measurable in either direction. The station's note is that this pairing is proposed about once a year on the strength of the two names and has never produced a reading. | Creak interval, girth, and the proposal's author, so that the same argument is not made twice. |
@@ -417,7 +417,7 @@ Some sorrows mourn a companion. Sleeping Tree mourns the shared growth — the p
 **Common Name:** Sleeping Tree
 **Containment Status:** Contained — Zone A, Alpha Tree
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major, and the grade is for the structure above it. Six years, 164 cycles, three growth events, eleven injuries, no fatalities, one gallery closed for a year — and a classification of *can breach* against something that has never moved.
+**Threat Assessment:** Major, and the grade belongs to the structure overhead. 6 years, 164 cycles, 3 growth events, 11 injuries, no fatalities and 1 gallery shut for a year — with a *can breach* classification carried by something that has never once moved.
 **Containment & Handling Procedures:**
 - Girth at four stations, creak interval over the hour, no contact with the roots.
 - Standard R.D. containment protocols apply.
