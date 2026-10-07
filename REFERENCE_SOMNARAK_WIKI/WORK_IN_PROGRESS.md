@@ -21,6 +21,17 @@ the file for writing before reading it, so the read returned nothing and the wri
 (`docs.py` anchor miss), restored from `ed80d83` the same turn (no history rewritten, no force-push), the lost open entry re-added,
 and the offending pattern replaced with read-then-write everywhere it is used. Nothing else was touched by the bug.
 
+**Quote phase, batch 45 result, 2026-10-07 — owner-directed, quotes replaced in place:** ten dossiers got their own opening
+quote; every draft checked against all 301 before writing (`quote_audit.py --check`). Distinct quotes **275 → 285 / 301**;
+duplicated families **5 → 4**; dossiers inside a duplicated family **31 → 20 / 301**; the Grimoire family (8) cleared
+entirely. Each unit: residual 0 · 0 sections over 0.05 · `tpl.py` 0 · meets **True** · quote unique. `R-29` 285 → **286 / 301**
+(parity **297**, condition **293**, series **290**) — Dawn That Forgot also closed its R-29 gaps. Word growth **+569** across
+the ten; nothing deleted (`R-15`). Remaining duplicate quotes for the next batch: **16 copies** — F2's three (Eleven Fifty-Nine
+· Endless Shift · Allhallow), F3's five, F4's four, F5's four, keepers unchanged (Breathing Stone · Glass Elsewhere · Beating
+Relic · Vellum Man). Disclosures: **rollback #46** recovered at the open; **incident #47** (CHANGELOG emptied by an
+open-before-read snippet at `87b313b`, restored from `ed80d83` the same turn — `6f33ad2`); u3's series clause completed in a
+second commit (`0991a9f`), the series clause first pass having left `series` False.
+
 **Quote phase, batch 45 open — owner's direction, 2026-10-07:** *"DO The Quote One First Because That An Identity And Learn How To Write SE Quote."*
 The opening quote is the file's identity, and the clone audit found it the archive's strongest clone call: a duplicated
 quote lifts the chance of a cloned section inside the pair **18 / 84 = 21.4%** against the **1.20%** baseline (Finding 7).
@@ -3201,7 +3212,7 @@ residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **B
 **Batch 45, unit 1: Backward Hour `C-IIIγ-913` quote written.** The shared family quote replaced in place with the hands running backward and the district's separate grievances becoming articulate at once. 5970 → **5975 words**;
 residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 45 stands at 1 of ten.**
 
-**Batch 45 — OPEN at ten; quote phase (each file's shared opening quote replaced in place, owner-directed); finished dossiers, each with its SE
+**Batch 45 — CLOSED at ten; quote phase (each file's shared opening quote replaced in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
 
 - SE-N-IIβ-910 Moktak 조상의 전당 — `88df144` — PUSH VERIFIED — [[SE-N-IIβ-910_Moktak_조상의_전당](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-910_Moktak_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%A0%84%EB%8B%B9.md "SE-N-IIβ-910_Moktak_조상의_전당.md")]

@@ -497,3 +497,33 @@ which is why Operational Parameters fell 27 → 4 while only three OP sections w
 the remaining heavy sides — the plan's order after the batch is led by The Lonely Giant, Beating Relic, Memory Lock,
 Miasma, Broken Compass (their remaining pairs are partial, not whole) — and then the 102 files carrying small overlaps
 only.
+
+## Finding 10 — quote phase, batch 45 (2026-10-07)
+
+The owner's direction for the fix phase: *"DO The Quote One First Because That An Identity And Learn How To Write SE Quote."*
+The opening quote is the archive's strongest clone call — a duplicated quote lifts the chance of a cloned section inside the
+pair to **18 / 84 = 21.4%** against a **1.20%** baseline (Finding 7) — so ten dossiers were re-quoted first, each new line
+checked against all 301 before writing (`quote_audit.py --check`, read-only). Method and rules:
+`REFERENCE_SOMNARAK_WIKI/SE_QUOTE_GUIDE.md` (house form measured from the archive's own 270 distinct quotes; six rules).
+
+| Measure | Before batch 45 | After the ten |
+|---|---|---|
+| distinct quotes | 275 / 301 | **285 / 301** |
+| exact duplicate families | 5 | **4** |
+| dossiers inside a duplicated family | 31 / 301 | **20 / 301** |
+| Grimoire family (largest, 8) | 8 dossiers | **1 — cleared** |
+| `R-29` meets | 285 / 301 | **286 / 301** |
+| word total (the ten files) | 55,576 | **56,145** |
+
+Ten re-quoted: Backward Hour · Amnesia · Dawn That Forgot · Passing Bell · Once Upon · Cracked Flesh · Sorrow Mass (its
+number-words hold untouched, disclosed) · Unwaking Block · Labyrinth of the Unfinished Mind · Moktak. Dawn That Forgot's unit
+also closed its `R-29` gaps (interactions · condition · series).
+
+Remaining duplicate quotes for the next batch — **16 copies**, keepers unchanged (lowest designation keeps its line):
+
+| Family | Keep-side | Copies left |
+|---|---|---|
+| "The city gave us this. We did not ask for it." | Breathing Stone `C-IVδ-907` | Eleven Fifty-Nine · Endless Shift · Allhallow |
+| "The weight is not punishment. It is recognition." | Glass Elsewhere `N-IIβ-903` | Never Discharged · Ninety Seconds · Miasma · Sky of Borrowed Faces · Once Told |
+| "When it comes, you will know. Everyone knows." | Beating Relic `C-IIIγ-902` | Thinking Engine · Lacrima · Lethe · Dead Air |
+| "Something here remembers what we chose to forget." | Vellum Man `C-Iα-900` | Duri's Heart · Hatred Above · Weighted Silence · Dreaming Plague |

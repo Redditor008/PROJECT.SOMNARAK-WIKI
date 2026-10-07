@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 45 closed at ten (2026-10-07) — quote phase, owner's direction** — the shared opening quote of ten dossiers replaced
+  **in place** with lines of their own, each checked against all 301 before writing (`quote_audit.py --check`): Backward Hour ·
+  Amnesia · Dawn That Forgot · Passing Bell · Once Upon · Cracked Flesh · Sorrow Mass (its number-words hold untouched,
+  disclosed) · Unwaking Block · Labyrinth of the Unfinished Mind · Moktak. Movement: distinct quotes 275 → **285 / 301**;
+  duplicated families **5 → 4**; dossiers sharing a quote 31 → **20 / 301**; the Grimoire family (8) cleared entirely.
+  `R-29` 285 → **286 / 301** (parity 296 → **297**, condition 292 → **293**, series 289 → **290**) — Dawn That Forgot's unit
+  also completed its `R-29` gaps (interactions section · documented suppression condition · own figures in digits). **+569
+  words** net (55,576 → 56,145); nothing deleted (`R-15`); `tpl.py` residue 0 and 0 sections over 0.05 in every unit; every
+  file pushed with its SE link (`R-12`). Method written down: `REFERENCE_SOMNARAK_WIKI/SE_QUOTE_GUIDE.md` and
+  `tools/auditors/quote_audit.py`. Disclosures: **rollback #46** recovered at the open; **incident #47** — the b45-open docs
+  commit emptied `CHANGELOG.md` (snippet opened the file for writing before reading it), caught by the next docs step,
+  restored from `ed80d83` the same turn (`6f33ad2`), open entry re-added, pattern replaced with read-then-write; Dawn That
+  Forgot's series clause needed a second commit (`0991a9f`) after the first pass left `series` False. Report:
+  `CLONE_AUDIT_2026-10-07.md`, Finding 10.
+
 - **Batch 45 / unit 10 — Moktak `N-IIβ-910` quote written (2026-10-07)** — the shared opening quote (family of **7** dossiers)
   replaced **in place** with one of this file's own: seats that fill at dusk and an argument older than the city resuming where it stopped. 5020 → **5026 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
   meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 45 stands at 10
