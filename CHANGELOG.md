@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 39 / unit 2 — Memory Lake `C-IVγ-270` closed (2026-10-07)** — measured at `746ede4`: **2 dirty sections**,
+  Final Observation and the Behavior paragraph, plus the record sections carrying shared template lines. **Closed in a
+  single wave** (17 sites): the gauge-context paragraph, the choice blockquote and choose row, both Lament appearances,
+  the tension phase, the ultimate row, the relations header, the faction line, the operational interpretation, the
+  resistance row, the activation reporting order, the post-contact review row, the grouping paragraph and the
+  containment line. 8,379 → **8,456 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**; the condition clause kept verbatim inside the rewritten resolution line; entry residual
+  cleared line-locally (`is logged as ` → `stands on the register as`); `own_series` already True; the file's own figures
+  restated in numerals inside real edits (3 assessors · 412 deaths) — disclosed. Movement at the unit commit: `R-29`
+  243 / 301; section-clean 277 / 301; residue-free 302 / 302; residue lines 0; archive dirty 32;
+  file-clean 302 / 302. **Batch 39 stands at two of seven.**
+
 - **Batch 39 / unit 1 — Bulwark `N-Iα-459` closed (2026-10-07)** — measured at `2bd1775`: **2 dirty sections**, Final
   Observation and the sections carrying shared template lines. Two passes: the first wave rewrote 25 sites (the ultimate
   row, the tension and clash phases, the reading-the-response paragraph, the Breach row, both appearances, the After
