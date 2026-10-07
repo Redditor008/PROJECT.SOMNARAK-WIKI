@@ -27,15 +27,15 @@
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 per successful work cycle, timed at the threshold rather than inside the tunnel |
+| **Primary pressure** | Mental / emotional — the Door works on the person standing at it, in the place they are trying to leave. |
+| **Starting Sorrow Gauge** | 25–40% — low end for watches opened by somebody who has not named anywhere else yet. |
+| **Han-Energy yield** | 10–14 per completed cycle, taken at the threshold — never counted inside the tunnel. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
+| **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) — what comes off the frame when the ruin is finally cleared, and nothing from the leaf. |
+| **Recommended response** | Viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim — and that is the entire cycle: the Work Types hold the frame, and it is the condition that does the work. |
 
 ### Operational Notes
 
@@ -52,10 +52,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Lament pressure; 5% against other pressure types |
+| **Resistance** | Reads 15% against Lament pressure and 5% against everything else; the ruin takes nothing on the frame itself, and both figures come off the collapse rather than the leaf. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
-| **Han Pressure [ATK]** | 3–10 per hit · Lament |
+| **Han Pressure [ATK]** | 3–10 per hit · Lament — measured at the threshold, where the readings above are taken, and never inside the tunnel. |
 | **Coherence modifier** | I — affects behavior complexity and response speed |
 | **Potency modifier** | α — affects pressure, durability, and escalation severity |
 
@@ -68,11 +68,11 @@
 | **Threat Role** | Minor encounter |
 | **Coherence** | Residue (I) |
 | **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | 25–40% |
+| **Starting Sorrow Gauge** | 25–40% — the low end belongs to watches opened by somebody who has not yet said where they would rather be. |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, deep tunnels |
-| **Resolution Condition** | Viderehan and Ferrehan only, and the gauge below 25% — on Portcullis the second follows the first and has never arrived without it. |
+| **Resolution Condition** | Viderehan and Ferrehan only, and the gauge below 25%: the fall of the gauge and the end of the recitation arrive together on the Door, and no watch has logged one of them without the other. |
 
 ### Combat Actions
 
@@ -179,10 +179,10 @@ The table means nothing without its frame. Element, coherence and manifestation 
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Portcullis rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Portcullis activates its primary resonance: the memory of the named place opens and holds. Grants +10% resistance to Lament damage while equipped. |
-| 30 Seconds | The artifact was born from the burden of being trapped at the moment of departure; the bearer begins perceiving echoes of a tunnel collapse sealed a door while people were still on both sides of it. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Portcullis begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Portcullis too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers arrest at the threshold, from which the named relief must talk them back. |
+| 10 Seconds | Nothing in the ruin moves until an operative takes it up. On contact the Lament in the leaf settles onto the bearer's pulse and stays there. | Taking it up opens the memory of the destination that was named aloud: the passage shows, holds, and asks nothing of the bearer yet; +10% Lament resistance while it is carried. |
+| 30 Seconds | The leaf was made the moment a departure was interrupted. The bearer begins hearing the tunnel as it was: the stone coming down with people still on the far side of it. | The operative works faster and sees the present tunnel more sharply than the relay does; the cost is composure, and it starts being paid at this mark without announcing itself. |
+| 1 Minute | By the minute the leaf is drawing on the bearer directly, and their breathing has come into step with the grief the tool was cut from. | Held past 60 seconds, the toll is 5 Lament every 15 seconds, and the watch is posted for one sign in particular: the operative no longer able to describe the tunnel they are standing in. |
+| 2 Minutes | Past two minutes the bearer is no longer carrying the grief; they are standing where it stood, and the line between the operative and the collapse stops being a line at all. | Beyond two minutes, or a break of contact before the recitation closes, the bearer arrests at the threshold; getting them back is the named relief's work — talking, by name and by destination, never by force. |
 
 ### Escalation Notes
 
