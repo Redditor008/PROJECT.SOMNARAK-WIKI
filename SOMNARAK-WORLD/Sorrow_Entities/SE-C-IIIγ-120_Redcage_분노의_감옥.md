@@ -53,10 +53,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Grudge pressure; 25% against other pressure types |
+| **Resistance** | Reads 35% against Grudge pressure and 25% against everything else; the bars take nothing themselves, and both figures are taken off the wave the Cage throws when a case is argued in front of it. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 653/653 |
-| **Han Pressure [ATK]** | 18–41 per hit · Grudge |
+| **Sorrow Gauge [HP]** | 653/653 — counted twice from the gap photographs at each watch, and it does not fall while the case is still being argued. |
+| **Han Pressure [ATK]** | 18–41 per hit · Grudge — the low end belongs to a worker the reasoning has not reached yet, the high end to one whose case has got good. |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
@@ -65,15 +65,15 @@
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
+| **Battle Length** | Long — 20 turns; no activation on record has ended on distance, force or time. |
+| **Threat Role** | Major encounter — the encounter is with the case the worker brings in, and the Cage only supplies the bars to argue it against. |
 | **Coherence** | Fragment (III) — Furious and trapped |
-| **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Primary Pressure** | Resilience — tested against whether the worker can stand near rage without feeding it the argument it wants. |
+| **Starting Sorrow Gauge** | 45–65% — the low end belongs to watches where nobody has brought a grievance of their own into the hall. |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-B-01, Zone B |
-| **Resolution Condition** | the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% |
+| **Battlefield** | SECTOR-B-01, Zone B — the hall around the enclosure; the instruction not to reach for the bars is given at its threshold. |
+| **Resolution Condition** | the injustice is read aloud — named, by somebody with no part in it — and the Sorrow Gauge falls below 25%. Nothing is reached through the bars. |
 
 ### Combat Actions
 
