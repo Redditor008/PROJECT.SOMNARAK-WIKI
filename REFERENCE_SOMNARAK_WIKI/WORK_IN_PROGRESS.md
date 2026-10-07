@@ -1716,6 +1716,15 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 36, unit 6: Ember Phoenix `O-IVδ-190` closed.** Measured at `869e13e`: **2 dirty sections**, worst Final
+Observation 0.145, then Operational Parameters 0.065 — **closed in a single wave** (17 sites); 7,534 → **7,613 words**;
+`tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held (kept
+verbatim). Disclosed: the Entry 1 residual cleared (`is logged as ` → `stands in the record as`), residual **1 → 0**;
+`own_series` **False → True** via the file's own figures restated in numerals (all 4 Work Types beside its own 40%
+breach opening and twenty-four-turn engagement runs); the two heavy combat rows, resolution phase and an appearance
+line re-authored. Movement: `R-29` 225 / 301; section-clean 257 / 301; archive dirty 79; file-clean 302 / 302.
+**Batch 36 stands at six of seven.**
+
 **Batch 36, unit 5: Myrmidon `O-IIβ-235` closed.** Measured at `ea70285`: **2 dirty sections**, worst Final Observation
 0.145, then Operational Parameters 0.063 — **closed in a single wave** (23 sites); 7,002 → **7,076 words**; `tpl.py`
 residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held (kept verbatim).
@@ -2476,6 +2485,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 36 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IVδ-190 Ember Phoenix 불사조 — `f1b03d9` — PUSH VERIFIED — [[SE-O-IVδ-190_Ember_Phoenix_불사조]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-190_Ember_Phoenix_%EB%B6%88%EC%82%AC%EC%A1%B0.md "SE-O-IVδ-190_Ember_Phoenix_불사조.md")
 
 - SE-O-IIβ-235 Myrmidon 찢어진 영혼 — `e0da3d3` — PUSH VERIFIED — [[SE-O-IIβ-235_Myrmidon_찢어진_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-235_Myrmidon_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%98%81%ED%98%BC.md "SE-O-IIβ-235_Myrmidon_찢어진_영혼.md")
 

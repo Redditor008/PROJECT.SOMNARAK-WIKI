@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 36 / unit 6 — Ember Phoenix `O-IVδ-190` closed (2026-10-07)** — measured at `869e13e`: **2 dirty sections**, worst
+  Final Observation 0.145 (the choice blockquote, the choose row and the result row), then Operational Parameters 0.065
+  (the yield row and the 11-gram extraction bullet), with the two heavy combat action rows, the resolution phase and one
+  appearance line re-authored in the same wave. **Closed in a single wave** (17 sites); 7,534 → **7,613 words**; `tpl.py`
+  residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with the condition held; the
+  registered condition text was kept verbatim inside the rewritten resolution line. The Entry 1 residual cleared
+  (`is logged as ` → `stands in the record as`) — residual **1 → 0**; `own_series` **False → True** by restating the
+  file's own figures in numerals inside a real edit (all 4 Work Types, beside the file's own 40% breach opening and
+  twenty-four-turn engagement runs) — disclosed. Movement at the unit commit: `R-29` 225 / 301; section-clean
+  257 / 301; residue-free 302 / 302; residue lines 0; archive dirty 79; file-clean 302 / 302.
+  **Batch 36 stands at six of seven.**
+
+
+
 - **Batch 36 / unit 5 — Myrmidon `O-IIβ-235` closed (2026-10-07)** — measured at `ea70285`: **2 dirty sections**, worst
   Final Observation 0.145 (the choice blockquote, the choose row and the result row), then Operational Parameters 0.063
   (the yield row and the 11-gram extraction bullet), with the interactions preamble, header row, procedure, the escalation
