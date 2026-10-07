@@ -92,10 +92,11 @@
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Composure** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Vanity Asleep reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- A failed resist at the mirror hands the pressure straight into the worker's head: **Composure** drains and the Gauge takes the room that frees up.
+- Every minute past the recommended cycle is borrowed against identity: drift first, then Fracture, then the street outside starts answering the reflection instead of the crew.
+- The equipment file records what a M.A.W. takes out of this holding, and nothing in the wing pays for extraction without the withdrawal landing somewhere in the record.
+- If the resolution condition goes unmet, the glass stops waiting — denied the peace it was asking for, the sorrow takes the release it can get.
+
 
 ## Appearance
 **Primary Form:** A sleeping, mirror-like figure whose surface reflects the viewer's face only after the viewer has looked away.
