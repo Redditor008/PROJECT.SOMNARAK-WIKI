@@ -381,9 +381,9 @@ Some sorrows are about injustice. The Grieving Maiden's sorrow is about helpless
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification is the frame and this record is the picture, and neither replaces sitting in the room. What governs is small and exact: she weeps without pause, the sump outside the door has never read zero, the loss is named and never commanded down, and the piece-side of the file records that the weeping a bearer takes home does reverse while hers does not. Where behaviour deviates from this file, the deviation is the most important data on the holding, and personnel must preserve the contradiction as evidence rather than smoothing it away.
+**Operational interpretation:** The classification frames the case and this record draws it, and neither of them stands in for sitting in the chamber. What governs the work is small and literal: she weeps without a break, the sump beyond the door has never once read zero, the loss gets named aloud and never ordered down, and the equipment side of the file records that the weeping a bearer carries away does reverse — hers does not. Where behaviour departs from this file, that departure is the most valuable data the holding produces, and it is preserved as evidence rather than tidied away.
 
-**Review requirement:** After every incident, recheck the gauge, the field, the personnel and the location — and on this holding read the sump first: the figure outside the door is what tells the wardens whether the week's visits helped or cost. What was true yesterday may not be true today; the R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any incident, 4 things are rechecked — the gauge, the field, the personnel, the location — and on this holding the sump is read first, because the figure outside the door is what tells the wardens whether the week's visits helped or cost. What held true yesterday may not hold today; what the R.D. record describes is a living sorrow pattern and never a finished explanation.
 ## Apex Record
 
 ### The Sister Distance
