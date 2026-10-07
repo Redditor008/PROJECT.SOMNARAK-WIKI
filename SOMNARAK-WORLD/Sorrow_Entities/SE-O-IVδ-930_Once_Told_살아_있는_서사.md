@@ -243,7 +243,7 @@ The set's property is the sector's: what the wielder says becomes more true than
 
 ## 감각 묘사 (Flavor Text)
 
-There is a moment — always the same, always brief — when the lament pressure and the tale register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree; a ghost story drops the temperature by ten degrees; a love story makes flowers bloom in dead soil. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
+The lament pressure and the tale register meet once, hold for a single breath, and in that breath a reader understands — without being told and without being able to explain it — what this stretch of the Desolate *is*. In the same breath, everything the party has said aloud stands up in it: the wolf's claw marks run down the nearest trunk, the ghost story takes ten degrees out of the air, the love story opens flowers in soil that has been dead for years. Then the breath ends, and what remains is the pressure, the register, and the sensation of having been read to by somebody who was not the teller.
 
 **At first contact:** Open grey ground, twenty incongruous things standing in it, and a silence that is being kept rather than found.
 
@@ -255,7 +255,7 @@ There is a moment — always the same, always brief — when the lament pressure
 
 ## 상호작용 (Entity Interactions)
 
-The party leaves and the inventory is checked against the last one: twenty manifestations, photographed, unchanged. The file has never allowed a second holding onto the shelf while the check was running. Everything below is paper work from the appendix that groups the 90x holdings by manifestation, read against each record's own series. What the three pairings share is a narrative that goes on existing whether or not anybody is telling it.
+The party files out and the inventory is walked against the last one: twenty manifestations, photographed, every one of them unchanged since the previous visit. No second holding has ever been set on the shelf while the check was running. The three rows below come off the appendix that sorts the 90x holdings by manifestation, each read against this record's own series — and what the three share is a narrative that keeps existing whether anyone is telling it or not.
 
 **Interaction method:** Establish the shelf's own numbers first: the twenty manifestations, the photograph set, the check that adds nothing across a cycle. Then lay the other record's series beside the inventory and enter the first parting, its range, what caused it, and whether either series changed in the reading. Re-verify at the next check.
 
@@ -275,15 +275,15 @@ Floor 4 has studied Once Told for cycles. Their findings are classified, but the
 
 Personnel who work Once Told do not simply feel lament pressure. They feel lament pressure filtered through tale — and that filter changes everything. The protocols, the M.A.W. calibration, the recovery time — all of it must account for the tale register or the work will fail.
 
-The entity does not rage. It does not weep. It persists — tale and lament, patient and permanent. Once Told is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+Nothing in this stretch of the deep Desolate shouts and nothing weeps. The tale keeps going the way a fire keeps going when nobody is watching it, and it has outlasted every attempt to hurry it or quiet it. Once Told is not the loudest thing in Somnarak; it is the most particular. In a city where grief is handed out to everyone in the same shape, a story that finishes your own sentence is the one that reaches bone.
 
 ## 증언 (Testimonium) — The Testimony
 
 *"The lament is familiar. The tale is not. That gap is where the danger lives."* — Handler
 *"I expected standard lament. I got something that knew me."* — Specialist
 *"Every time we refine the protocol, the tale register finds a new way in."* — Researcher
-*"It does not attack. It accumulates. And what it informs you of is your own sorrow."* — Director
-*"Work it once and you will understand why the classification system had to expand."* — Keeper
+*"It has never once struck at anybody. It listens, and then it hands your own sorrow back to you with the details filled in."* — Director
+*"Stand one watch on the transect and you will see why the classification needed a column that only this place uses."* — Keeper
 
 ## 기록 (Registrum) — The Record
 
@@ -348,7 +348,7 @@ The marked tree is inspected once a cycle by two people who travel out for that 
 
 - One of the first catalogued **Hazard-Tale** entities in Somnarak.
 - Its tale descriptor makes it structurally unique among hazard entities.
-- The lament pressure in the tale register feels different from standard lament — more specific, more personal.
+- Lament in the tale register does not press on a crowd; it arrives with a story already in progress, and the story is always about somebody standing on the transect.
 
 ## Document Information
 
