@@ -1,6 +1,6 @@
 # Allhallow — 유령의 시간
 
-> *"The city gave us this. We did not ask for it."*
+> *"They walk the perimeter for one hour, and not one of them stops to look at the living."*
 
 ## SECC Classification
 
