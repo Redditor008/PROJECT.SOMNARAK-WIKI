@@ -88,7 +88,7 @@
 
 1. **Tension:** The warmth identifies it, and so does the absence of anything that could be making it; shape alone proves nothing, the Commons being full of shadows and 2 wing holdings being dark-formed. Confirm the designation against the classification table, set the approach, take the positions, and only then begin.
 2. **Clash:** Four turns, worked in the open ward with the attended patient's consent recorded beforehand. The patient is never moved for the convenience of the cycle.
-3. **Resolution:** The session closes on containment, management or withdrawal, under the documented suppression condition: **Accept its help and acknowledge the healer it carries**. The clause runs the watch: the help is taken as the ward offers it, the healer behind the shadow is named in the record, and refusing either closes nothing on this ground.
+3. **Resolution:** The session ends in containment, management or withdrawal, or on the documented suppression condition: **Accept its help and acknowledge the healer it carries**. The clause runs the watch: the help is taken as the ward offers it, the healer behind the shadow is named in the record, and refusing either closes nothing on this ground.
 
 ### Consequences
 
@@ -215,7 +215,7 @@ The mirror-polished blade reflects no ambient distortion, remaining clinically s
 
 **Cost:** The wearer absorbs the pain of the healing.
 
-*The Healer's Echo is never issued and never requested. It has gone out twice, each time to a Warden who sat a whole Ferrehan cycle at a bedside and filed the patient's notes before her own.*
+*Nothing issues the Healer's Echo and no request can be made for one. It has gone out twice, each time to a Warden who sat a whole Ferrehan cycle at a bedside and filed the patient's notes before her own.*
 
 ### M.A.W. Use Notes
 
@@ -305,7 +305,7 @@ The comparison set is the wing's other holdings that attend, absorb, or stand in
 
 ### Entity Interaction Record
 
-The rows below are filed as contacts, not alliances, and none is closed. All three rested on the theory that compassion might pass between holdings; in none of them has anything passed either way.
+The three below are noted as contacts rather than alliances; none of them is closed. All three rested on the theory that compassion might pass between holdings; in none of them has anything passed either way.
 
 | The shadow's neighbour | How the pairing has run | What the ward logged | What the entry carries |
 |---|---|---|---|
