@@ -161,23 +161,23 @@ The table lists two usable Work Types and the survey office has never been able 
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
+| **Activation** | The operator equips or wears the relic; the Seed has to be taken onto the body before it answers anything, and it answers to skin rather than to hands. |
 | **Primary Effect** | Begins a slow, uncertain growth that may form a new entity. |
 | **Duration** | Indefinite. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
+| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down; Fallow does not release on its own, and the creeper line is surveyed again the next morning to prove it has let go. |
 | **Risk** | The growth may absorb nearby grief and become uncontrollable. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** Fallow stays active only while worn; off the skin it is a seed in a tray, which is the state every survey prefers. The relic is not a substitute for Work Types, and the Object/Place restriction still holds it to Viderehan and Ferrehan.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Fallow lies still until it is taken up — a thing of blue grief, whole and waiting. | When the relic is equipped, it activates: begins a slow, uncertain growth that may form a new entity. |
-| 1 Minute | It was born beyond the wall, where sorrow had no one left to witness it. | The effect lasts indefinite, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it does what it was shaped to do: begins a slow, uncertain growth that may form a new entity. The Lament of it seeps into the bearer. | The growth may absorb nearby grief and become uncontrollable. |
+| 10 Seconds | Fallow lies still until it is taken up — a thing of blue grief, whole and waiting. | Taken onto the body, it answers: a slow, uncertain growth begins, and the growth is the point of the relic. |
+| 1 Minute | It grew past the wall, in ground where no one was left to witness the sorrow it had been fed on. | The growth holds for as long as it stays worn; the file records no end date for it. |
+| 2 Minutes | Worn against the skin it does the single thing it was shaped to do, and the Lament of it seeps into whoever is carrying it while the work goes on. | Unchecked, the growth takes in grief from the whole corridor and stops answering the operator. |
 | 3 Minutes | Every grief it touches, it remembers; and it has a long memory. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| 3 Minutes | It can be set down and never quite released: whoever carried it keeps the blue at the skin for days, and the trace is logged rather than treated. |  |
 
 ### Escalation Notes
 
