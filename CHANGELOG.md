@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 35 / unit 2 — The Magistrate's Strike-Through `N-IIβ-319` closed (2026-10-07)** — measured at
+  `d1e3b74`: **1 dirty section**, Final Observation 0.180 (the choice blockquote, the choose row and the result row).
+  **Closed in a single wave** (10 sites); 4,416 → **4,544 words**; `tpl.py` residue 0; `sectfile.py` ends at
+  **0 section(s) over 0.05**; `wikistd.py` meets **True**. The condition clause registered **False → True**: the file now
+  registers its suppression condition inside the rewritten resolution line (**Draw the circuit by hand and complete it,
+  or leave the chalk on the tray**) — disclosed. The Entry 1 `is logged as ` line was rewritten (`stands on the register
+  as`), residual **1 → 0**; the story log's whispered triple dots were set as dashes, clearing the seam check (`seam []`).
+  Movement at the unit commit: `R-29` 216 / 301; section-clean 241 / 301; residue-free 302 / 302; residue lines
+  0; archive dirty 104; file-clean 302 / 302. **Batch 35 stands at two of five.**
+
+
+
 - **Batch 35 / unit 1 — Burning Root `C-IIIγ-558` closed (2026-10-07)** — measured at `4af11e2`: **2 dirty sections**,
   worst Final Observation 0.185 (the choice blockquote, the choose row and the result row), then M.A.W. Equipment 0.056
   (the three `matte and unnaturally heavy` appearance lines, the stat line, the charm paragraph and two field-use rows).

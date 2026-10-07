@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 35, unit 2: The Magistrate's Strike-Through `N-IIβ-319` closed.** Measured at `d1e3b74`: **1 dirty section**,
+Final Observation 0.180 — **closed in a single wave** (10 sites); 4,416 → **4,544 words**; `tpl.py` residue 0;
+`sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the condition clause registered
+**False → True** in the rewritten resolution line (**Draw the circuit by hand and complete it, or leave the chalk on
+the tray**); the Entry 1 `is logged as ` line rewritten (`stands on the register as`), residual **1 → 0**; the story
+log's whispered triple dots set as dashes, `seam []`. Movement: `R-29` 216 / 301; section-clean 241 / 301;
+residue-free 302 / 302; archive dirty 104; file-clean 302 / 302. **Batch 35 stands at two of five.**
+
 **Batch 35, unit 1: Burning Root `C-IIIγ-558` closed.** Measured at `4af11e2`: **2 dirty sections**, worst Final
 Observation 0.185, then M.A.W. Equipment 0.056 — **closed in a single wave** (30 sites); 6,773 → **6,953 words**;
 `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held; condition
@@ -2387,6 +2395,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 35 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIβ-319 The Magistrates Strike-Through 판관의 취소선 — `8f537ab` — PUSH VERIFIED — [[SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-319_The_Magistrates_Strike-Through_%ED%8C%90%EA%B4%80%EC%9D%98_%EC%B7%A8%EC%86%8C%EC%84%A0.md "SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md")
 
 - SE-C-IIIγ-558 Burning Root 타오르는 뿌리 — `6786e6f` — PUSH VERIFIED — [[SE-C-IIIγ-558_Burning_Root_타오르는_뿌리]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-558_Burning_Root_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EB%BF%8C%EB%A6%AC.md "SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md")
 
