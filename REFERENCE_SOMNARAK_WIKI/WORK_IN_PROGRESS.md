@@ -2653,6 +2653,8 @@ restated in numerals inside real edits (5 grants · 3 of the 5 on leave · 4 ass
 against 157). Movement: `R-29` 237 / 301; section-clean 271 / 301; archive dirty 47; file-clean 302 / 302.
 **Batch 38 stands at one of five.**
 
+**Batch 39 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
 **Batch 38 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-N-IIβ-426 Hollowcast 찢어진 열매 — `7f25903` — PUSH VERIFIED — [[SE-N-IIβ-426_Hollowcast_찢어진_열매]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-426_Hollowcast_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-426_Hollowcast_찢어진_열매.md")
