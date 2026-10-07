@@ -2796,6 +2796,8 @@ entry residual cleared line-locally; `own_series` already True; the file's own f
 edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 301; section-clean 283 / 301; archive
 dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
 
+**Batch 41 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
 **Batch 40 — CLOSED at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-N-IIα-215 Forgotten Name 잊혀진 이름 — `efb70d6` — PUSH VERIFIED — [[SE-N-IIα-215_Forgotten_Name_잊혀진_이름]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B1-215_Forgotten_Name_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%B4%EB%A6%84.md "SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md")
