@@ -1,6 +1,6 @@
 # Backward Hour — 카운트다운 시계
 
-> *"It does not end. It merely pauses between heartbeats."*
+> *"The hands go backward, and every grievance in the district becomes articulate at once."*
 
 ## SECC Classification
 
