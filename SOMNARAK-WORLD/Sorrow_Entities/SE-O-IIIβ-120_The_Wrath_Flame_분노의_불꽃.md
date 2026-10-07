@@ -87,7 +87,7 @@
 
 1. **Tension:** Identification first — The Wrath Flame is recognised by the route and the crimson core before anything else. Several things burn at the Scar; only one of them walks a fixed line and stops when it is saluted — then the approach is set and the positions are taken.
 2. **Clash:** The team works the Flame in the open at the Scar, where there is no cell wall to fall back behind and the only cover is conduct. Flerehan and Ferrehan carry the encounter; Pugnahan returns heat for heat and has never once been logged as useful. The gauge answers to how the team carries itself, not to how hard it presses.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Bow or salute; acknowledge the war and the dead**.
+3. **Resolution:** The watch may finish in containment, under management, in retreat, or on the rule the salute book was opened for: **Bow or salute; acknowledge the war and the dead**.
 
 ### Consequences
 
@@ -266,7 +266,7 @@ Every item in this set is the Flame's condition carried in metal rather than ord
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Wrath Flame (O-IIIβ-120 [GS]) stands on the register as a Subject-Body manifestation expressing Grudge. The Flame formed from the rage of the six factions that fought in the Occlusihan. Held at The Desolate, near The Scar. It has never attacked a respectful visitor.
+The Wrath Flame's entry (O-IIIβ-120 [GS]) reads Subject-Body manifestation, Grudge expressed. The Flame formed from the rage of the six factions that fought in the Occlusihan. Held at The Desolate, near The Scar. It has never attacked a respectful visitor.
 
 **Entry 2 — <Excerpt from Field Log, Year 4230>**
 Patrols beyond The Scar and along the Desolate border. Disrespectful personnel experience the rage of the Occlusihan. The Flame patrols the same rift repeatedly.
@@ -305,7 +305,7 @@ The Scar glows before the Flame appears. A humanoid fire walks through the dust,
 
 ### Interaction Pattern
 
-Three holdings stand in the Flame's working range — The Scar Walker, The Forgotten Soldier and The Orphaned Bell — and each is a question about resonance rather than an alliance or a feud. Any pairing that is run is entered with whatever the response did in sound, movement, temperature, memory pressure, gauge or containment stability, distance, duration and trigger recorded beside it.
+Three holdings stand in the Flame's working range — The Scar Walker, The Forgotten Soldier and The Orphaned Bell — and each is a question about resonance rather than an alliance or a feud. Any pairing that is run is entered with the axis the answer moved on — sound, movement, temperature, memory, gauge pressure, containment stability — and the distance, the duration and the trigger set down beside it.
 
 **Interaction method:** Take the Flame's baseline alone, on its route, before recording it alongside anything else. With the Scar Walker the two share a patrol and the gauge reads lower for both. With the Orphaned Bell the fire visibly dims on the toll and does not recover until the sound has gone; record the toll, the distance, and how long the dimming lasts, because that last figure has not held steady across two cycles.
 
@@ -334,7 +334,7 @@ The fury condensed. The un-mourned anger of the Occlusihan's dead, denied the re
 
 The Flame does not spread. It burns, contained, at the Scar — a pillar of crimson fire that has not diminished in four thousand years, because the fuel — the fury — is not consumed by the burning. The anger feeds the fire, and the fire does not reduce the anger, and the two sustain each other in a perpetual combustion that will not end until the dead are mourned, and the dead, unmournable, will never be mourned, and the fire, therefore, will never go out.
 
-Those who come near the Wrath Flame feel the specific fury of the un-grieved — the concentrated rage of soldiers who died unmourned, the anger that has burned since the war ended and that will burn, at the Scar, for as long as the dead remain unacknowledged.
+Approach the Flame and the fury of the un-grieved arrives undiluted — the concentrated rage of soldiers who died unmourned, the anger that has burned since the war ended and that will burn, at the Scar, for as long as the dead remain unacknowledged.
 
 Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourned fury, the condensed rage, the fire at the Scar that burns because the soldiers were never grieved and the grief, denied, became flame.
 ## 증언 (Testimonium) — The Testimony
@@ -388,7 +388,7 @@ It carries no weapon and its flame responds to disrespect rather than to proximi
 
 ### Six Factions, Unmourned
 
-The dead of the Occlusihan fighting at The Scar were not properly mourned and their anger remained, and the commissioning file holds the burial returns from all six factions where they survive. They are incomplete in different ways and the file does not reconcile them. The archivist's note observes that reconciling them would require deciding which faction's count of its own dead to prefer, and that the facility has no standing to do that. Each return is reproduced in the form in which it was received, in its own hand and its own arrangement, with no attempt to impose a common layout. Where a faction kept no written count at all, the file says so on a page of its own rather than omitting the faction from the sequence.
+The dead of the Occlusihan fighting at The Scar were not properly mourned and their anger remained, and the commissioning file carries the burial returns of all six factions, where any survive. They are incomplete in different ways and the file does not reconcile them. The archivist's note draws the line plainly: reconciling them would mean deciding which faction's count of its own dead to prefer, and the facility has no standing for that. Each return is reproduced in the form in which it was received, in its own hand and its own arrangement, with no attempt to impose a common layout. Where a faction kept no written count at all, the file says so on a page of its own rather than omitting the faction from the sequence.
 
 ### What the Two Logs Are Measuring
 
@@ -431,7 +431,7 @@ Personnel are not instructed to read the returns and are not asked afterwards wh
 
 ### Registry Trivia
 
-- **Classification detail:** The Wrath Flame is a Subject with Fragment (III) — Fierce and protective coherence and Moderate (β) — Manageable potency.
+- **Classification detail:** The Wrath Flame files as a Subject; its coherence is Fragment (III) — Fierce and protective — at Moderate (β), Manageable potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is The Desolate, near The Scar.
 - **Recognition detail:** Identify it by the route and the crimson core before anything else. Several things burn at the Scar; only one of them walks a fixed line and stops when it is saluted.
 - **Record detail:** Check the designation against the file before work begins. The Scar holds more than one Grudge entity drawn from the same war, and they do not answer to the same conduct.
