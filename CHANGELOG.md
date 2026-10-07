@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 39 / unit 7 — Midnight Choir `C-IIβ-245` closed (2026-10-07)** — measured live at `4a524b4`: **1 dirty
+  section**, Final Observation (the choice blockquote, 0.084). **Closed in a single wave** (4 sites): the blockquote in
+  wording used nowhere else, the choose row and the result row re-authored, and the entry residual cleared line-locally
+  (`is logged as ` → `stands on the register as`). 7,949 → **7,968 words**; `tpl.py` residue 0; `sectfile.py` ends at
+  **0 section(s) over 0.05**; `wikistd.py` meets **True**; condition held; `own_series` already True. Movement at the
+  unit commit: `R-29` 248 / 301; section-clean 282 / 301; residue-free 302 / 302; residue lines 0; archive
+  dirty 22; file-clean 302 / 302. **Batch 39 stands at seven of seven.**
+
 - **Batch 39 / unit 6 — Folly `C-Iα-329` closed (2026-10-07)** — measured live at `8175cd0`: **2 dirty sections**,
   Operational Parameters (the yield row, the recommended-response row and the work-object line) and Final Observation (the
   choice blockquote and the choose row). **Closed in a single wave** (5 sites); 7,246 → **7,276 words**; `tpl.py`

@@ -2653,6 +2653,12 @@ restated in numerals inside real edits (5 grants · 3 of the 5 on leave · 4 ass
 against 157). Movement: `R-29` 237 / 301; section-clean 271 / 301; archive dirty 47; file-clean 302 / 302.
 **Batch 38 stands at one of five.**
 
+**Batch 39, unit 7: Midnight Choir `C-IIβ-245` closed.** Measured live at `4a524b4`: **1 dirty section**, Final
+Observation — **closed in a single wave** (4 sites, blockquote written in wording used nowhere else); 7,949 →
+**7,968 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition
+held. Disclosed: entry residual cleared line-locally; `own_series` already True. Movement: `R-29` 248 / 301;
+section-clean 282 / 301; archive dirty 22; file-clean 302 / 302. **Batch 39 stands at seven of seven.**
+
 **Batch 39, unit 6: Folly `C-Iα-329` closed.** Measured live at `8175cd0`: **2 dirty sections** — Operational Parameters
 and Final Observation — **closed in a single wave** (5 sites); 7,246 → **7,276 words**; `tpl.py` residue 0; `sectfile.py`
 **0 section(s) over 0.05**; `wikistd.py` meets **True**, residual 0 on entry, condition held. Movement: `R-29` 247 / 301;
@@ -2697,6 +2703,8 @@ line-locally; `own_series` already True; the file's own figures restated in nume
 file-clean 302 / 302. **Batch 39 stands at one of seven.**
 
 **Batch 39 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIβ-245 Midnight Choir 노래하는 벽 — `06c4a5a` — PUSH VERIFIED — [[SE-C-IIβ-245_Midnight_Choir_노래하는_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-245_Midnight_Choir_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B2%BD.md "SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md")
 
 - SE-C-Iα-329 Folly 녹아내린 탑 — `145d6f1` — PUSH VERIFIED — [[SE-C-Iα-329_Folly_녹아내린_탑]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-329_Folly_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%ED%83%91.md "SE-C-Iα-329_Folly_녹아내린_탑.md")
 
