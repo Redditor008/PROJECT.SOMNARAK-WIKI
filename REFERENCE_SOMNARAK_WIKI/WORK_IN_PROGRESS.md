@@ -16,6 +16,15 @@ All figures below are measured, not estimated, and each names the tool that prod
 
 **Batch pacing, owner's correction, 2026-10-05 (`R-26` amended), reaffirmed by the owner the same day — "This Rule Need To Be Remember":** the batch ladder starts at **3**, not 5 — **3 > 5 > 7 > 10** SE files per batch, ratcheting up only while the units are genuinely simple by `R-26`'s own test, and stopping at whatever number was finished properly. **The minimum for any batch is three SE files**; the ceiling is ten, and a batch of fewer than three is permitted only by `R-26`'s quality clause and must be named and explained in the record rather than reported as a full batch. The superseded "start at five" wording is preserved in the rule file with the correction dated. The units in this cohort are *not* simple by that test — 11–12 dirty sections, full Interaction Records, 5,000–8,000 words — so the ladder stays at the floor of three per batch for this cohort, and the per-dossier conditions and one-`gate.sh`-per-dossier rule are unchanged. Two rows moved this turn without a unit touching them — residue-free 103 → 108 and file-clean 158 → 162 — because the four Rank V rewrites and Ephemera retired shared lines outright, and a line that drops below ten holders stops counting against every remaining dossier. That is the documented spillover effect; it is not work performed this turn.
 
+**SECC / Combat Actions pass, owner's observation, 2026-10-07 — *"Usually The Things That Still The Same Is [SECC
+Classification] Except [**Physical Form + Designation**] And [Combat Actions"*]:** measured over **301 / 301**. SECC: exactly
+**2 fields carry 301 / 301 distinct values — Designation and Physical Form**; the other eight are pools (Sorrow Category 11
+distinct / top in 153 · Element 14 / 90 · Comprehension 21 / 163 · Potency 25 / 73 · Entity Type 145 / 104 · Coherence 122 /
+53 · Movement 81 / 52 · Manifestation 59 / 37), pooled rows covering **290 / 301** files for Sorrow Category and Element. Copy
+pairs match on **2-4 SECC rows, differ on 7-10** — they share the pools, not the exact table. Combat Actions (301 / 301
+tables): *The Settling* x33, *The First Weight* x30, skeleton in **29 / 301**, **1 byte-identical pair**, **36** pairs at
+>= 0.50. Report: `CLONE_AUDIT_2026-10-07.md` Finding 5. No dossier content changed; repair awaits the ruling.
+
 **Lineage pass, owner's rule, 2026-10-07 — *"The One That Win Is The One With Lower Number In Their Designation Between
 Two Copy Then You Can See What Was It Before The Cover UP"*:** `clone_audit.py --lineage` implemented and run. In each
 copied pair the lower designation number is the source; the diff against it is the copy's pre-cover-up state. Findings:

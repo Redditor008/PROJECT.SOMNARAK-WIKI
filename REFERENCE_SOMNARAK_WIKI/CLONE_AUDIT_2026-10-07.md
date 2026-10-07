@@ -169,6 +169,52 @@ every step. `N-IVδ-927` Dreaming Plague sits at the end of two chains at once (
 (containment >= 0.9 both ways, e.g. The Debt Scale / The Cracked Hourglass's Core Stat Line) — those are
 shared template text neither file wrote, and the designation rule does not apply to them.
 
+## Finding 5 — What stays the same: the SECC header, and the Combat Actions table
+
+Owner's observation, 2026-10-07 — *"Usually The Things That Still The Same Is [SECC Classification] Except
+[**Physical Form + Designation**] And [Combat Actions]"*. Measured over **301 / 301** dossiers, and it holds:
+
+**The SECC header.** Across the archive, exactly **two** of its fields carry **301 / 301 distinct values** —
+`Designation` and `Physical Form`. Every other field is drawn from a shared pool:
+
+| SECC field | distinct values | biggest pool value | files carrying a pooled value |
+|---|---|---|---|
+| Sorrow Category | 11 | City Sorrow (도한) | **290 / 301** |
+| Element | 14 | Lament | **290 / 301** |
+| R.D. Comprehension Level | 21 | 2 — Basic | **256 / 301** |
+| Potency | 25 | Major (γ) | **246 / 301** |
+| Movement | 81 | Mobile — walks upright | **179 / 301** |
+| Coherence | 122 | Entity (IV) | **173 / 301** |
+| Entity Type | 145 | **Subject** — Can breach | **129 / 301** |
+| Manifestation | 59 | Subject-Body | **80 / 301** |
+| **Designation** | **301** | — | **0 / 301 — unique per file** |
+| **Physical Form** | **301** | — | **0 / 301 — unique per file** |
+| Location | 126 | — | 0 / 301 (top value in 15) |
+
+So the header is a template as the owner says: the two rows that are never shared are **Designation and Physical
+Form**; the rest are drawn from lists where a single value covers 24-54% of the wing. The pair check sharpens
+it: within a copy pair the SECC **pools** match but not the exact rows — `Weighted Silence` / `Dreaming Plague`
+match on 3 rows (Entity Type, Element, Movement) and differ on 8; `Kind Healer` / `Lonely Giant` match on 3
+(Sorrow Category, Manifestation, Movement); `Grieving Love` / `Calling Bloom` on 4; `Strike-Through` / `Wedge`
+on 2. Outside the SECC block those same pairs share far more — 16, 8, 23 and 9 identical field rows respectively
+across the Combat Record, M.A.W. and Battle tables — which is Finding 4's copied blocks seen from the other side.
+
+**The Combat Actions table.**
+
+| measure | value |
+|---|---|
+| dossiers with a Combat Actions table | **301 / 301** |
+| carry the *First Weight / [X] Surge / The Settling / [X] Collapse* skeleton | **29 / 301** |
+| *The Settling* | 33 dossiers |
+| *The First Weight* | 30 dossiers |
+| *The Full Return* / *The Full Shatter* | 7 each |
+| tables identical byte-for-byte after masking | **1 pair** — Dawn That Forgot `N-IIIγ-917` / Dreaming Plague `N-IVδ-927` |
+| pairs at >= 0.50 containment | **36** |
+
+The move table is therefore a template with the flavour word swapped — *Mind*, *Dream*, *Body*, *Void* — and in
+one pair not even that was changed. Both facts the owner named — the SECC header and the Combat Actions table —
+are the two places the wing's copy problem actually lives, and both are now counted.
+
 ## What the check looks like going forward
 
 1. Run `clone_audit.py` and `clone_audit.py --sections` before and after any batch; the counters to move

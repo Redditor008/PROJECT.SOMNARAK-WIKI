@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Clone audit, SECC + Combat Actions pass (2026-10-07)** — the owner's observation measured over **301 / 301**: the SECC
+  header has exactly **two fields with 301 / 301 distinct values — Designation and Physical Form**; every other field is a
+  shared pool (Sorrow Category 11 values, biggest in **153** files · Element 14 / **90** · Comprehension 21 / **163** ·
+  Potency 25 / **73** · Entity Type 145 / **104** · Coherence 122 / **53** · Movement 81 / **52**), with pooled rows covering
+  **290 / 301** files for Sorrow Category and Element. Copy pairs share the pools, not the exact rows (2-4 identical SECC
+  rows, 7-10 differing). The **Combat Actions** table is a template with the flavour word swapped — *The Settling* in **33**
+  dossiers, *The First Weight* in **30**, the *First Weight / [X] Surge / The Settling / [X] Collapse* skeleton in **29 / 301**,
+  **1 pair byte-identical** (Dawn That Forgot `N-IIIγ-917` / Dreaming Plague `N-IVδ-927`), **36** pairs at >= 0.50.
+  Report: `CLONE_AUDIT_2026-10-07.md`, Finding 5. Read-only; no dossier content changed.
+
 - **Clone audit, lineage pass — `clone_audit.py --lineage` (2026-10-07)** — the owner's rule applied: in a copied pair
   the **lower designation number is the source**, so the diff against it is what the copy carried before the title and
   designation were changed. Measured over the archive's strongest pairs: **Dreaming Plague `N-IVδ-927` is Weighted
