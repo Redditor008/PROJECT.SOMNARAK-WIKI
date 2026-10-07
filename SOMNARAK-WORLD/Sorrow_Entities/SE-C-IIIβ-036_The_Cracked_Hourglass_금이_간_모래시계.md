@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per successful work cycle, timings taken from the vault clock and the tick interval |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
@@ -82,14 +82,14 @@
 | { *The Slipping Sand* [**Debuff**] } | "The sand slips faster — and you feel the years going with it." | [The Hourglass accelerates; the target feels time bleeding away.] | *Target suffers -10 Resolve as moments are stolen from them.* **[10 Weight DMG [Weight]]** | When the Hourglass is turned or watched. |
 | { *The Crack Widens* [**Debuff**] } | "The glass fractures a little more, and time runs crooked through the gap." | [A new crack distorts time around the target; seconds stretch and collapse.] | *Target loses 10 Resolve; their timing falls apart.* **[10 Weight DMG [Weight]]** | When the target remains near the Hourglass. |
 | { *The Falling Glass* [**Attack**] } | "The weight of all the time you wasted, dropped on you at once." | [The accumulated sand slams down — the burden of misspent time made solid.] | *Inflicts Weight pressure and one crushing wound.* **[14-22 Weight DMG [Weight]]** | When the target provokes the Hourglass. |
-| { *The Last Grains* [**Attack**] } | "Almost empty now — and the last grains are the heaviest." | [The final sand falls; the pressure of time nearly gone bears down.] | *A heavy Black blow; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Hourglass is nearly run out or struck. |
-| { *Out of Time* [**Ultimate**] } | "The last grain falls. For everyone." | [The Hourglass empties across the whole field; time runs out everywhere at once.] | *All personnel suffer Weight pressure for three turns as time collapses.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Last Grains* [**Attack**] } | "Nearly run out, and the grains that are left weigh the most." | [The last of the sand comes down and what is nearly spent presses hardest.] | *A heavy Black blow; the reading jumps 15%.* **[24-36 Weight DMG [Weight]]** | When the glass is nearly spent or takes a blow. |
+| { *Out of Time* [**Ultimate**] } | "The last grain goes over, and it goes over for everybody." | [The glass empties out across the field, and every clock in it runs out together.] | *Everyone takes Weight pressure for three turns while the time runs out.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
-1. **Tension:** Identification first — The Cracked Hourglass is recognised by the tick and the thread from the crack; the vault's two other glasses are sealed, warm and silent — then the approach is set and the positions are taken.
+1. **Tension:** Identification comes first: the glass is recognised by the tick and by the thread running from the crack, while the vault's 2 other glasses sit sealed, warm and silent. The approach is set after that, and the positions taken.
 2. **Clash:** Four turns at the plinth, observation and endurance only. The rate is timed against the vault clock at every turn and the crack is gauged with the feeler strip before and after.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Viderehan and Ferrehan only at the plinth, and nobody stays past the fifteen-minute limit**. The clause is the file's whole practice: the two Work Types are the only ones worked here, and the limit is applied to every person in the vault and entered by name at both doors.
 
 ### Consequences
 
@@ -276,7 +276,7 @@ The fine sand within the pendant flows upward against gravity whenever the beare
 
 **Cost:** The glass vial grows ice-cold against the throat when temporal abilities trigger.
 
-*The Micro-Hourglass Choker is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who spent an authorised examination slot on a grain belonging to somebody they had never heard of.*
+*The Micro-Hourglass Choker is neither issued nor asked for. It has been conferred 2 times, in both cases on a Warden who spent an authorised examination slot on a grain belonging to somebody they had never heard of.*
 
 ### M.A.W. Use Notes
 
@@ -311,18 +311,18 @@ Each Sandglass piece is an extension of the holding rather than equipment. It pe
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies The Cracked Hourglass as an Object/Place with Object-Weight manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at SECTOR-A-01, Alpha Tree vault — contained. |
+| **Initial exposure** | The observer enters the holding as an Object/Place carrying Object-Weight manifestation. Its signature is Weight, and the markers that hold are the tick and the thread from the crack, at SECTOR-A-01 in the deep vault under the Alpha Tree. |
 | **Sustained observation** | Fall rate against the vault clock, crack reading, container count and labels, tick interval, gauge, door-crossing times at both doors, and the exposure minutes of every person in the vault including visitors. |
-| **Activation or escalation** | Escalation is recorded when the rate exceeds the standing baseline or the crack gains on the quarter's figure. Both are numeric, both are logged twice a watch, and the crack figure is never adjusted downward to match an expectation. |
-| **Post-contact review** | Rate and crack before and after, containers filled, grains resolved with their contents, gauge movement, exposure minutes by name, and a seven-day check on each worker for compulsive accounting of their own time. |
+| **Activation or escalation** | Escalation is entered when the rate passes the standing baseline or when the crack gains on the quarter's figure. Both are numeric, both are logged 2 times a watch, and the crack figure is never adjusted downward to match an expectation. |
+| **Post-contact review** | Rate and crack before and after, containers filled, grains resolved with their contents, gauge movement, exposure minutes by name, and a 7-day check on every worker for compulsive accounting of their own time. |
 
-**Observation method:** Time the fall, gauge the crack, weigh the collection, and write down whose moment it was when a grain is resolved. The form here is the sorrow and not a forecast: nothing happened to make this, only a district that made people wait, and what it leaks is the waiting.
+**Observation method:** Time the fall, gauge the crack, weigh what has been collected, and enter whose moment it was whenever a grain is resolved. What appears here is the sorrow itself, not a forecast: nothing was done to make it, only a district that kept people waiting, and what comes out of it is the waiting.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Cracked Hourglass (C-IIIβ-036 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Hourglass formed from anxiety about running out of time. Held at SECTOR-A-01, Alpha Tree vault — contained. Sand leaks constantly but regenerates.
+The Cracked Hourglass (C-IIIβ-036 [WO]) stands on the register as a Object-Weight manifestation expressing Weight. The Hourglass formed from anxiety about running out of time. Held at SECTOR-A-01, Alpha Tree vault — contained. Sand leaks constantly but regenerates.
 
 **Entry 2 — <Resonance With the Weeping>**
 The object resonates with the Weeping and pulses near strong emotion.
@@ -338,11 +338,11 @@ Clocks in the adjoining corridor disagree with clocks elsewhere in the wing by b
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Cracked Hourglass; the other feeds it.
+> The visit closes on one decision, and the file keeps the two endings on it: work the sheet's way, with the 2 Work Types and the 15-minute limit on everyone, or take a longer look because the moment seems to deserve one.
 
-| Do the thing on file: Viderehan and Ferrehan only at the plinth, certified Tool protocol, the fifteen-minute limit for every person in the vault, and crack readings logged. | Substitute your own judgement, which on The Cracked Hourglass has never yet cost less than the condition. |
+| Work the plinth the sheet's way — Viderehan and Ferrehan, Tool protocol certified, the 15-minute limit on every person in the vault, crack readings entered. | Trust your own judgement instead, which on this glass has never once come cheaper than the clause. |
 |---|---|
-| The entity responds as its record predicts. The sorrow is borne; The Cracked Hourglass is fully recorded. | The entity resists the wrong approach and the pressure builds. The gauge climbs and The Cracked Hourglass withdraws without revelation. |
+| It answers the way its record says it will; the sorrow is carried and the glass is recorded whole. | It resists the wrong approach and the pressure gathers; the reading climbs and the glass goes unrecorded. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -361,16 +361,16 @@ The sand falls in a room that feels too quiet. You watch one grain descend and f
 
 ### Interaction Pattern
 
-This holding is read against the other things in the city that keep or lose time. Each relation below has been observed and filed; none is settled; and all four were tested with the vault sealed, which is the only configuration in which the rate means anything.
+The glass is read beside the other things in the city that keep time or lose it. Every pairing below has been watched and entered, none of them is closed, and all 4 were watched with the vault sealed, which is the only arrangement in which the rate means anything at all.
 
-**Interaction method:** Baseline each party alone over several cycles — rate, crack, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
+**Interaction method:** Set each party's baseline on its own across several cycles — rate, crack, gauge — before any joint watch. The first shared change goes in with its range, its duration and what set it off, the gauge on both sides, and whatever stays changed once they are apart. Re-check every cycle.
 
 
 ### Entity Interaction Record
 
 The relations below are canonical points of contact rather than alliances. None is settled. Three of the four rest on a shared theme of time, which is the weakest ground for a pairing that this wing recognises, and the fourth rests on a single reading.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| What keeps or loses time | How the pairing has run | What the vault entered | What the file retains |
 |---|---|---|---|
 | **The Hollow Choir** | Said to mark passing moments beside it, which is a description of the Choir and not of this holding. | Five co-presences. The fall rate was within its ordinary band on all five and the crack did not move; the Choir's group pattern was unchanged. Two sorrows about loss, sounding in the same room, with nothing measurable between them. | All five co-presences, the rate and crack series, the group pattern, and both flat gauges. |
 | **The Maw** | Said to pulse near the First Sorrow, the pairing being asserted of almost everything in the Alpha Tree. | Three co-presences at the permitted separation. No change in rate, crack, tick interval or gauge, and the Maw's own series was unaltered. The wing records the pairing as inherited rather than observed. | All three co-presences, the full instrument set, and the note on provenance of the claim. |
@@ -495,7 +495,7 @@ The minute records the objection as **correct in all three parts**. It records t
 ## Trivia
 
 - The crack is part of the manifestation rather than damage to it, which is why sealing attempts fail without marking the glass.
-- The upper bulb has refilled four times, on each occasion shortly after a watch recorded that the holding had been understood.
+- The upper bulb has refilled 4 times, on each occasion shortly after a watch recorded that the holding had been understood.
 
 
 
@@ -503,7 +503,7 @@ The minute records the objection as **correct in all three parts**. It records t
 
 - **Classification detail:** The Cracked Hourglass is an Object/Place with Fragment (III) — Anxious about time coherence and Moderate (β) — Manageable potency.
 - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-A-01, Alpha Tree vault — contained.
-- **Recognition detail:** Identify it by the tick and the thread from the crack; the vault's two other glasses are sealed, warm and silent.
+- **Recognition detail:** Identify it by the tick and the thread from the crack; the vault's 2 other glasses are sealed, warm and silent.
 - **Record detail:** Read this file beside the examination register, which is the only part of the record that names anybody, and beside the storage run's annual inspection, which is the only series nobody has ever had to interpret.
 - **Containment detail:** The vault holds the glass and not the loss. What leaves the crack leaves the holding, is collected, is shelved, and is in the facility's hands from that moment onward.
 ## Document Information
