@@ -3096,7 +3096,7 @@ file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
 **Batch 44, unit 1: Harvest Beyond the Gate `N-IIβ-627` cleaned.** Copied `### Consequences` (whole against 6 dossiers, worst
 Torn Flower at 1.00) replaced **in place** in the file's own terms — Gate, orchard rows, half-hour mark, armoury ledger,
-until the next touched-fruit tally is larger than the last. 5,103 → **5,134 words**; residual 0; **0 sections over 0.05**;
+until the next touched-fruit tally is larger than the last. 7,270 → **7,299 words**; residual 0; **0 sections over 0.05**;
 `tpl.py` 0; meets **True**; copy-side whole instances **6 → 0**; nothing deleted. **Batch 44 stands at one of ten.**
 
 **Batch 44 — OPEN at ten; clean phase (replace copied sections in place, owner-directed); finished dossiers, each with its SE

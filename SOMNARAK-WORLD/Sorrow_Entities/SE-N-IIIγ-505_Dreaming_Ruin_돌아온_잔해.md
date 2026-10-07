@@ -20,29 +20,22 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Simulation figures kept for field work at the ruin. They annotate the holding described above; they do not amend its classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure** | Identity and memory — the ruin works on what a dreamer still believes of themselves. |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per completed work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Bring the gauge down through the register's valid Work Types for a Subject-Dream; nothing improvised is authorised at the ruin. |
 
-### Operational Notes
-
-- The Ruin in the Market is intact when dreamed and ruined when observed directly.
-- A cycle steadies the observed state. The dreamed state is unchanged, and no session has reconciled the two.
-- Two ignored conditions escalate it. Escalation presents as the dreamed state persisting into direct observation.
-- Crews record what they observed before sleeping and compare at the desk rather than in the field.
-- Extraction is a separate risk event under its own authorization.
 
 ## Combat Record
 ### Core Stat Line
