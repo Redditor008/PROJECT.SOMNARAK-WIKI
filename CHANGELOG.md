@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 46 / unit 3 — Allhallow `O-IIIγ-916` quote written (2026-10-07)** — the shared opening quote (family of **7** dossiers, source
+  **Breathing Stone `C-IVδ-907`**) replaced **in place** with one of this file's own: the column walking the perimeter for an hour without ever looking at the living. 4550 → **4557 words**; residual 0; 0 sections over 0.05;
+  `tpl.py` 0; meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 46
+  stands at 3 of ten.**
+
 - **Batch 46 / unit 2 — Endless Shift `C-IVδ-915` quote written (2026-10-07)** — the shared opening quote (family of **7** dossiers, source
   **Breathing Stone `C-IVδ-907`**) replaced **in place** with one of this file's own: a rotation that ends only by beginning again while the forge keeps going. 6479 → **6485 words**; residual 0; 0 sections over 0.05;
   `tpl.py` 0; meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 46
