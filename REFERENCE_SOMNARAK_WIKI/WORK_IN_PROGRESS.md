@@ -2598,6 +2598,17 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
+**Batch 38 closed at five (2026-10-07).** Five dossiers · **15 / 15 dirty sections closed** · **+429 words** net ·
+`verify.py` residuals **3 → 0** (units 2, 3, 5) · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Movement,
+b38 open (`af07182`) → b38 close: `R-29` 236 → **241 / 301** · parity 275 → 275 / 301 · condition 267 → 267 / 301
+(unit 2 re-registered the file's own clause; unit 5 kept its clause verbatim) · series 282 → 282 / 301 · section-clean
+269 → **275 / 301** · residue-free 302 → 302 / 302 · archive dirty 58 → **38** · file-clean 302 → 302 / 302 ·
+scene-clean 270 → **276** · worst 0.020 → **0.015** · median 0.007 → 0.007. Disclosures: **rollback #32** at the session
+start (HEAD at `408797c` against remote `91472e2`, recovered by the standing procedure); four units closed in a single
+wave and unit 1 took a bounded second pass; residual lines cleared line-locally on units 2, 3 and 5; every unit's
+relations header row unique; each file's own figures restated in numerals inside real edits. **Batch 38 was opened at
+five on the owner's pacing ladder (3 or 5, then 7 or 10) and closed at its rung.**
+
 **Batch 38, unit 5: Hollowcast `N-IIβ-426` closed.** Measured at `f584e61`: **3 dirty sections** at the batch-open scan —
 **closed in a single wave** (22 sites) plus a line-local fix; 7,155 → **7,251 words**; `tpl.py` residue 0; `sectfile.py`
 **0 section(s) over 0.05**; `wikistd.py` meets **True**, the file's own suppression clause kept verbatim inside the
@@ -2642,7 +2653,7 @@ restated in numerals inside real edits (5 grants · 3 of the 5 on leave · 4 ass
 against 157). Movement: `R-29` 237 / 301; section-clean 271 / 301; archive dirty 47; file-clean 302 / 302.
 **Batch 38 stands at one of five.**
 
-**Batch 38 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 38 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-N-IIβ-426 Hollowcast 찢어진 열매 — `7f25903` — PUSH VERIFIED — [[SE-N-IIβ-426_Hollowcast_찢어진_열매]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-426_Hollowcast_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-426_Hollowcast_찢어진_열매.md")
 

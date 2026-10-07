@@ -8,6 +8,27 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 38 — CLOSED at five (2026-10-07)** — five dossiers · **15 / 15 dirty sections closed** · **+429 words** net
+  (38,081 → 38,510 across the five files) · `verify.py` residuals **3 → 0** (units 2, 3, 5; units 1 and 4 entered clean) ·
+  `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Roster, newest first: u5 Hollowcast `N-IIβ-426` `7f25903` ·
+  u4 Clapperless `C-IIβ-340` `b3bdd07` · u3 Anger Underfoot `C-Iα-175` `6ff2895` · u2 The Debt Scale `C-IIIβ-015`
+  `2154cdc` · u1 Unwitnessed `C-Iα-236` `c40739f`; every dossier carries its SE git link in `WORK_IN_PROGRESS.md`
+  (`R-12`). Movement, b38 open (`af07182`) → close: `R-29` 236 → **241 / 301** · parity 275 → 275 / 301 · condition 267 →
+  267 / 301 (unit 2 re-registered the file's own clause text; unit 5 kept its clause verbatim) · series 282 → 282 / 301 ·
+  section-clean 269 → **275 / 301** · residue-free 302 → 302 / 302 · archive dirty 58 → **38** · file-clean 302 →
+  302 / 302 · scene-clean 270 → **276** · worst 0.020 → **0.015** · median 0.007 → 0.007.
+
+  Disclosures: **rollback #32** at the session start (HEAD at `408797c` against remote `91472e2`, recovered by the
+  standing procedure, `/tmp` rebuilt with a stricter close-check helper). Four units closed in a single wave; unit 1 took
+  a bounded second pass over the two Operational Parameters lines still carrying shared 4-grams. Entry-1 residual lines
+  cleared line-locally on units 2, 3 and 5 (1 → 0 each). The condition clause was re-registered on unit 2 (the generic
+  entity-specific management text replaced by that file's own clause) and kept verbatim on unit 5; `own_series` was
+  already True on all five files, and each file's own figures were restated in numerals inside real edits, disclosed per
+  unit. Every unit's relations header row was given a different column set, span-level fixes were used on the long Story
+  Log paragraphs, and the close-check helper now treats `dirty_sections   0`, `condition True` and `series True` as hard
+  requirements alongside `RESIDUAL 0`. Batch 38 was opened at five on the owner's pacing ladder (**3 or 5, then 7 or
+  10**) and closed at its rung.
+
 - **Batch 38 / unit 5 — Hollowcast `N-IIβ-426` closed (2026-10-07)** — measured at `f584e61`: **3 dirty sections** at
   the batch-open scan; closed in a single wave (22 sites) across Operational Parameters, Combat Record, Behavior,
   M.A.W. Equipment, Story Log, Final Observation, Flavor Text and the Registrum, plus a line-local fix. 7,155 →
