@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 44 / unit 10 — Broken Compass `C-IIβ-290` cleaned (2026-10-07)** — copied `### Consequences` (whole against **3**
+  dossiers) replaced **in place** in the file's own terms: the handler's bearings, the ground that stops agreeing with the map,
+  the reading that is never handed over free, and the release the needle finds in whoever is still holding it. 7,312 → **7,339
+  words**; residual 0; **0 sections over 0.05**; `tpl.py` 0; meets **True**; copy-side whole instances **3 → 0**. **Batch 44 stands
+  at ten of ten.**
+
 - **Batch 44 / unit 9 — Dreaming Plague `N-IVδ-927` cleaned (2026-10-07)** — the copied `### Combat Actions` table (the
   audit's one byte-identical Combat Actions pair, against Dawn That Forgot) replaced **in place** in the file's own plague terms:
   incubation, the coughing choir, the fever dream, the brightening. The same unit moved its `R-29` counters: a new

@@ -3094,6 +3094,10 @@ condition (Both posts hand in their tallies without conferring, and the differen
 condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; archive dirty @dirty@;
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
+**Batch 44, unit 10: Broken Compass `C-IIβ-290` cleaned.** Copied `### Consequences` (whole against 3 dossiers) replaced in place
+in its own terms. 7,312 → **7,339 words**; residual 0; 0 sections over 0.05; copy-side whole instances **3 → 0**. **Batch 44
+stands at ten of ten.**
+
 **Batch 44, unit 9: Dreaming Plague `N-IVδ-927` cleaned.** Copied `### Combat Actions` (byte-identical vs Dawn That Forgot)
 replaced in place in the file's own plague terms; interactions section added (Weighted Silence · Dawn That Forgot · Lacrima),
 suppression condition documented, series digits restated in Trivia (disclosed). 4,707 → **5,240 words**; residual 0; 0 sections
@@ -3134,6 +3138,8 @@ until the next touched-fruit tally is larger than the last. 7,270 → **7,299 wo
 
 **Batch 44 — OPEN at ten; clean phase (replace copied sections in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
+
+- SE-C-IIβ-290 Broken Compass 부서진 나침반 — `ecac752` — PUSH VERIFIED — [[SE-C-IIβ-290_Broken_Compass_부서진_나침반](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-290_Broken_Compass_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%82%98%EC%B9%A8%EB%B0%98.md "SE-C-IIβ-290_Broken_Compass_부서진_나침반.md")]
 
 - SE-N-IVδ-927 Dreaming Plague 꿈의 전염병 — `7e3f0f0` — PUSH VERIFIED — [[SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-927_Dreaming_Plague_%EA%BF%88%EC%9D%98_%EC%A0%84%EC%97%BC%EB%B3%91.md "SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md")]
 
