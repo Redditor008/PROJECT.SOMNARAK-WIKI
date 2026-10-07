@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Mourner's Bloom by the movement and the maw. The stalk is a body, the roots are legs that coil and carry it, and the petals open into something recognisably a mouth; the dark blue colour and the warmth at the centre are real but are shared with the ordinary Gardens stock, and three misidentifications have been made on colour alone, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** The team identifies Mourner's Bloom by the movement and the maw. The stalk is a body, the roots are legs that coil and carry it, and the petals open into something recognisably a mouth; the dark blue colour and the warmth at the centre are real but are shared with the ordinary Gardens stock, and three misidentifications have been made on colour alone. The approach is called from the bed's edge and not from inside it — the maw is counted rather than the petals, the count is called back to the gate before anyone steps in, and the hold is kept until the shape stops moving.
 2. **Clash:** The team counts the petals on the stalk, works Viderehan and Ferrehan only, and does not grieve within reach of it deliberately. The bloom takes the moment, not the memory; a worker who weeps at the glass leaves intact, remembers everything, and is one moment lighter in a way nobody has been able to describe.
 3. **Resolution:** The cycle ends when the petal count agrees twice, the vault's attribution register is attached, and the bloom has settled back onto its roots. There is no suppression step and none has ever been needed; it has not resisted a withdrawal.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Clarity** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Mourner's Bloom’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Mourner's Bloom’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- When a worker's resistance breaks at the bed edge, the bloom does not lash out — it leans, and the grief it has been holding moves across the line into them: their **Clarity** goes first, and the Gauge takes the room behind it.
+- Time among the beds is measured against the bloom, not the clock: the longer a party stands inside the petal-tilt, the further it reaches, and the worker comes out carrying grief that is not theirs laid over their own — the emotional burden first, then the body's, then the one that does not come back off the file.
+- Nothing drawn from this bloom is free. Its price is written in three columns at the vault — the body's, the mind's, and the memory's — and the ledger collects the whole line at the door whether the work went well or not.
+- An encounter that closes without resolution is not merely unfinished: the Gauge finds its ceiling, the fail-safes along the bed edge give way one after another, and the bloom carries its open petals into the corridor beyond the Gardens.
 
 ## Appearance
 **Physical Form:** A flower whose stem is a sinuous stalk-body on coiling root-legs, petals opening into a luminous maw. **Movement:** It creeps low along the ground toward grief to feed.
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Use the table as a diagnostic, never as a system: the classification and the origin are what explain why Flerehan calms this bloom and agitates others, and nothing on this file can be carried over to a differently-named holding. Mourner's Bloom is an Object/Place with an Object-Lament manifestation and a Lament expression, held at Zone D in the Echo Gardens. Read the table beside the vault register — the bloom opens near grief, wilts near forced happiness, and the only disposal it has is a petal matched to a claimant, which dissolves on receipt. A steady gauge is no guarantee of safety: observation can leave the gauge flat while still exposing the worker to memory, environmental or identity effects.
+Use the table as a diagnostic, never as a system: the classification and the origin are what explain why Flerehan calms this bloom and agitates others, and nothing on this file can be carried over to a differently-named holding. Mourner's Bloom is an Object/Place with an Object-Lament manifestation and a Lament expression, held at Zone D in the Echo Gardens. Read the table beside the vault register — the bloom opens near grief, wilts near forced happiness, and the only disposal it has is a petal matched to a claimant, which dissolves on receipt. A flat gauge proves only that the gauge is flat: the beds have sent crews home with a clean reading and a memory they did not walk in with.
 
 **Reading the response:** A falling count means a petal was matched to its owner and claimed. Stability under Viderehan is correct. The count rises each time a moment is taken and filed by date alone, and the vault's own rule against recording whose moment is in which is the reason the count has only ever risen except in the year the register was opened.
 ## Activation Behavior
@@ -182,7 +182,7 @@ Use the table as a diagnostic, never as a system: the classification and the ori
 
 ### Escalation Notes
 
-The escalation pattern is specific to Mourner's Bloom: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Lament form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at Zone D, Echo Gardens, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+No two escalations run the same way in the Echo Gardens. The watch writes down four things and only four: what set the bloom moving, the first shift in the plant's shape, how far the petal-tilt carries from the bed's edge, and the mark where that reach stops. The bloom answers to Lament and keeps its address in Zone D, so the instrument readings will not carry the account on their own — the changes in a worker's face and habits are entered on the same page as the numbers.
 
 **Response sequence:** count the petals, move anybody actively grieving out of its path rather than moving the bloom, note who was reached and what they report missing, and open an attribution file the same day. Do not use an unlisted Work Type as an improvised countermeasure.
 
@@ -281,7 +281,7 @@ The blade surface remains permanently damp with chilled water droplets that seep
 
 ### M.A.W. Use Notes
 
-Each piece extends Mourner's Bloom rather than arming its wielder against it. The benefit holds only inside the pattern the file records — bloom near grief, wilt near forced happiness, one honest mourner in the room — and outside it the cost arrives early: the wielder weeps involuntarily and cannot afterwards recall the moment at which any of their own griefs began.
+The kit does not arm a bearer against the bloom; it borrows the bloom's own reading. Inside the recorded pattern — grief at the beds, forced cheer at the vault, one honest mourner at the gate — the pieces hold steady. Step one pace outside it and the price lands early: weeping that will not stop, and afterwards no memory of when the bearer's own griefs began.
 
 ### Field Use Record
 
@@ -359,14 +359,14 @@ The flower sits in the Garden without moving. Its petals hold the color of a bru
 
 ### Interaction Pattern
 
-Mourner's Bloom is read beside the 3 holdings the file has paired it with — The Weeping Willow, The Grieving Fountain and The Frozen Tear — and none of the 3 is treated as an alliance or a hostility: they are resonance candidates, filed as such. In a shared event the team records whether anything changes at all in the space, the petals, the register, the gauge or the containment, and the standing note is that a resemblance is the reason a pairing was proposed and not a finding that came out of one.
+On the shelf beside it stand the 3 records it has been read with — The Weeping Willow, The Grieving Fountain and The Frozen Tear. None of the three is friend or enemy to this one; each was filed as a resonance candidate and kept at that. When the group is run together the watch reports one line per post — what changed, or that nothing did — and the note over the page says plainly that a resemblance is why the reading was proposed, not what it produced.
 
 **Interaction method:** Document it alone first, with the vault register alongside. In shared conditions log the petal count before and after and whether anything was taken; across every joint session in the Gardens this entity has taken nothing, which the file records as the clearest evidence that it feeds on grieving people rather than on grief.
 
 
 ### Entity Interaction Record
 
-It is filed with the Echo Gardens records, which now run to five. The relationships below are what the archive will support. They are not alliances; each concerns grief held somewhere other than in the person it belongs to, and in proximity this one sheds nothing and takes nothing.
+The Gardens shelf holds five records now, and this one files second among them. Everything below is what the archive will support — not alliances. Each of the five concerns grief kept somewhere other than in the person it belongs to, and this one, set near any of the others, sheds nothing and takes nothing.
 
 | Paired record | Claimed resemblance | Observed in company | File keeps |
 |---|---|---|---|
