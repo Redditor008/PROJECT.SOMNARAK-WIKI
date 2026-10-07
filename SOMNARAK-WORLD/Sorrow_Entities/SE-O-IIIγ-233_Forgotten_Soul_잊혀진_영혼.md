@@ -252,7 +252,7 @@ Both pieces came off something the city removed from its own records, and they d
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The Warden falls in beside a translucent figure already walking. Identification is the gait and the track; the face has never once been the same twice and is not recorded. |
-| **Sustained observation** | Nine years of track overlays and brightness readings, kept against the facility's weekly returns. The track has lengthened from four kilometres to nine and the brightness peaks are all at the same places — the points where Wardens have said, out loud, that they do not remember him. |
+| **Sustained observation** | Nine years of track overlays and brightness readings, kept against the facility's weekly returns. The track has lengthened from 4 kilometres to 9 and the brightness peaks are all at the same places — the points where Wardens have said, out loud, that they do not remember him. |
 | **Activation or escalation** | A name offered, or an obstruction. Record the words used, who used them, the brightness before and after, and the metres added to the track. Six name-offers, six full transfers, no exceptions. |
 | **Post-contact review** | Metres walked, the track overlay, brightness at each recognition, and the week's returns with the count of unnamed totals. The last field is obtained from the registry and is the one that predicts the next cycle. |
 
@@ -348,16 +348,16 @@ Some sorrows mourn the dead. Forgotten Soul mourns the living-erased — the cit
 **Common Name:** Forgotten Soul
 **Containment Status:** Contained — Zone B, Old Lament
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major by grade and gentle in practice. Nine years, 211 circuits, six name-offers, two district events, no fatalities and no lasting injury — against a man who has been walking the same district for nine years looking for one person who remembers him.
+**Threat Assessment:** Major by grade and gentle in practice. 9 years, 211 circuits, 6 name-offers, 2 district events, no fatalities and no lasting injury — against a man who has been walking the same district for nine years looking for one person who remembers him.
 **Containment & Handling Procedures:**
-- Walk beside it, say honestly that you do not remember, offer no name, read the eleven fragments.
+- Walk beside it, say honestly that you do not remember, offer no name, read the 11 fragments the Gallery keeps.
 - Standard R.D. containment protocols apply.
 - A name offered or an obstruction; the track lengthens and the Bell tolls before the overlay is drawn.
 **Observation Notes:**
-- A citizen of Old Lament erased from every ledger and every relationship; one verified fact survives.
+- A citizen of Old Lament erased from every ledger and every relationship; 1 verified fact survives.
 - See Combat Record for engagement history.
 - Two pieces; other people stop being able to place the wielder, and it reverses about a month after return.
-**Cross-References:** The Forgotten Name, The Whispering Gallery (eleven fragments), The Orphaned Bell (track-change warning), the facility's weekly returns, and the four working labels left in the log on purpose.
+**Cross-References:** The Forgotten Name, The Whispering Gallery (11 fragments), The Orphaned Bell (track-change warning), the facility's weekly returns, and the four working labels left in the log on purpose.
 **Faction Involvement:** None. The station applied twice for records assistance in identifying him and was told both times that there is nothing to search; the applications are kept in the file because they are the only documents in the city that assert he existed.
 **Originator:** Unidentifiable, and recorded as such. The three enquiries in the commissioning file are reproduced in full in the Origin section; the archive has declined to assign a working designation to the person behind them.
 
@@ -394,7 +394,7 @@ A citizen vanished from every record and every relationship, leaving an unclaime
 ### Registry Trivia
 
 - **Classification detail:** Forgotten Soul is a Subject with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Lament, walking a nine-kilometre circuit of Old Lament in Zone B that the station redraws whenever the Orphaned Bell tolls out of sequence.
+- **Field detail:** Lament, walking a 9-kilometre circuit of Old Lament in Zone B that the station redraws whenever the Orphaned Bell tolls out of sequence.
 - **Recognition detail:** Identify it by the walk, never by the face. The features reorganise under any attempt to recall them, but the gait, the pace and the slight list to the left have been consistent in every record, and no Warden has ever mistaken the figure for anything else.
 - **Record detail:** Check the designation before approach. The archive holds several records of things nobody claimed, and they differ on what is owed — the Apocrypha requires that the meaning of an object be written down, while this one forbids supplying anything at all and asks only that the person be counted separately.
 - **Containment detail:** Nothing contains it and nothing needs to. It walks, it does not approach, it has never entered a building, and the only measure the station maintains is that somebody walks with it.
