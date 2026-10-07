@@ -88,7 +88,7 @@
 
 1. **Tension:** Identification rests on the ground and the sound: earth that gives slightly where it should be dry, and a fall of pale crystal that breaks without any noise. The Gardens' four ordinary willows are dry beneath and their leaves are leaves. Positions are taken from the margin, and the saturated boundary is marked at both ends of the cycle.
 2. **Clash:** Four turns from the margin, observation and endurance only. Nothing is cut, nothing is swept while anyone is sitting beneath it, and the saturated boundary is marked at both ends of the cycle.
-3. **Resolution:** The cycle closes with the crew seated beneath the canopy, endings acknowledged, access left open, and the collection taken only after closing. Nothing is cut and nothing is swept while anybody is sitting there — and the boundary is the closing mark, because the transaction below is never what closes a cycle.
+3. **Resolution:** The cycle is over once the crew has sat beneath the canopy, the endings have been acknowledged, the access is left open, and the collection waits until after closing. While anybody is sitting there nothing is cut and nothing is swept — and the closing mark is the boundary, since what is transacted below has never been what ended a cycle.
 
 ### Consequences
 
@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-Weeping Willow is a Fragment (III) Place of Major (γ) potency, Place-Lament manifestation, Lament expression, on the ending terrace of the Echo Gardens. Flerehan and Pugnahan are N/A because a Place cannot be grieved with or fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while showing the worker a specific ending that nobody attended.
+Weeping Willow is a Fragment (III) Place of Major (γ) potency, Place-Lament manifestation, Lament expression, standing on the ending terrace of the Echo Gardens. A Place offers nothing to grieve with and nothing to fight, which is why the Object/Place Work Rule lists Flerehan and Pugnahan as unavailable here. Nor is a level needle a safe session — Viderehan keeps it flat while showing the worker an ending that nobody attended.
 
 **Reading the response:** Read the fall rate and the night's collection count. A falling gauge presents as the rate easing and the sap slowing at the marked cracks; a rising one presents as the saturated boundary past its mark, which does not come back. The feeling beneath the canopy is not an indicator and has been wrong in both directions.
 ## Expansion Behavior
@@ -234,11 +234,11 @@ Escalation here is the root line. Record the trigger where one is identifiable, 
 
 **Cost:** The bearer weeps in their sleep.
 
-*The Willow Charm is not issued and cannot be requested. It has been conferred five times, in each case on a Warden who sat the full collection with a mourner who had stayed past closing rather than asking them to leave.*
+*The Willow Charm is never issued and cannot be asked for. Five times it has been conferred, each time on a Warden who sat the whole collection beside a mourner who had stayed past closing instead of asking them to leave.*
 
 ### M.A.W. Use Notes
 
-Each Willow piece is an extension of the holding rather than equipment. It performs as recorded while the bearer is carrying an ending of their own and costs more when they are not; the canopy shelters either way. The Charm is conferred after a work cycle and is not manufactured, requested, or scheduled.
+Nothing in the Willow set is gear. Each piece is a growth of the holding, taken out to work. The pieces hold their grade only while the bearer is carrying an ending of their own, and bill more when they are not; under the canopy there is shelter either way. The Charm is neither scheduled, nor requested, nor made.
 
 ### Field Use Record
 
@@ -278,7 +278,7 @@ Each Willow piece is an extension of the holding rather than equipment. It perfo
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Weeping Willow (C-IIIγ-140 [LP]) is a Place-Lament manifestation expressing Lament, held at SECTOR-D-02 in the Echo Gardens. It formed from the sorrow of endings, and its leaves fall whether or not there is wind: the ground under it is wet, the break is silent, and the rate runs with the district's week rather than its weather.
+Weeping Willow (C-IIIγ-140 [LP]) is entered as a Place-Lament manifestation expressing Lament, held at SECTOR-D-02 in the Echo Gardens. It formed from the sorrow of endings; its leaves come down with or without wind, the ground beneath it stays wet, the break makes no sound, and the rate follows the district's week and not its weather.
 
 **Entry 2 — <Funerals and Departures>**
 It is most active around funerals and departures.
@@ -317,14 +317,14 @@ The branches close around you like a curtain. The leaves come down against your 
 
 ### Interaction Pattern
 
-The holding is read against the other mourning features of the Gardens. Each row below was observed and filed and none is settled; all three were run from the margin, the tree being immovable and the others fixed as well.
+This holding is read against the Gardens' other mourning features. Every row below was watched and filed and none is settled; all three were worked from the margin, the tree being immovable and the others fixed too.
 
 **Interaction method:** Baseline each party alone across several cycles — fall rate, boundary and gauge — before any joint observation, and record the onset of a shared change with its range, duration, trigger, both gauges and whatever holds after separation; re-verify every cycle.
 
 
 ### Entity Interaction Record
 
-The rows below are points of contact and not alliances; none is settled. All three were proposed on a shared theme of grief, which in the Echo Gardens describes nearly everything and distinguishes almost nothing.
+What follows is contact only, not alliance, and nothing in it is settled. Grief proposed all three, and in the Echo Gardens grief describes nearly everything and separates almost nothing.
 
 | Record read alongside | What the Gardens read the two as | What the watch actually measured | Entry the file requires |
 |---|---|---|---|
@@ -368,7 +368,7 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ). It has never harmed anybody and is gentle with everyone who comes to it. It expands at the root without limit, it returns people's farewells to them unasked on ground they did not know they had crossed, and the ground it takes does not drain again. The earlier entry grading it Minimal described its manner rather than its behaviour and is corrected here.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type and Viderehan holds the gauge level. Earlier copies named Flerehan, which the Behavior table records as unavailable to a Place; that line is an error and is corrected here.
+- Ferrehan leads and Viderehan keeps the gauge level. Earlier copies put Flerehan in the primary column; the Behavior table lists Flerehan as unavailable to a Place, so that line is an error and is corrected in this file.
 - Standard Gardens protocols, plus the three rules particular to this holding: the access stays open, nothing is swept while anybody is beneath the branches, and the boundary is marked and dated at every session.
 - The branches lower during the Consolihan, enough that the canopy touches the ground on the north side, and the collection that night is the largest of the year.
 **Observation Notes:**
@@ -441,9 +441,9 @@ The facility also **retains the extraction yield** from the material collected, 
 
 The trust's income is fixed. It is a charitable endowment of a defined size, laid out generations ago to maintain the Gardens' memorials, and it cannot be enlarged. The collection charge is now the trust's single largest line of expenditure, exceeding the whole of its planting budget. **Four memorials have been closed** and their maintenance discontinued, including two on the ending terrace itself, within sight of the tree. The trustees' minutes record the decisions and the reason for each.
 
-The objection is minuted at every annual review, raised by the trustees and supported in writing by the bay's senior Warden. It holds that the facility recovers twice from the same material, charging for the labour of collecting it and keeping the value of what it collects, and has never explained why the second does not extinguish the first; that the service is compulsory and the price unnegotiated, so the trust is a captive purchaser of a thing it never asked for and cannot refuse; and that the cost falls, in the end, on the memorials of the district's own dead — that the endowment laid down to remember people is being spent to remove the leaves that fall for the people nobody remembered.
+The trustees raise the objection at every annual review, and the bay's senior Warden supports it in writing. It holds that the facility is paid twice for the same material — charging for the labour of collecting it and keeping the value it collects — and has never explained why the second payment does not extinguish the first; that the service is compulsory and the price unnegotiated, so the trust is a captive purchaser of a thing it never asked for and cannot refuse; and that the cost falls, in the end, on the memorials of the district's own dead — that the endowment laid down to remember people is being spent to remove the leaves that fall for the people nobody remembered.
 
-The minute records the objection as **correct in all three parts**. It records that a set-off arrangement, crediting the trust with the extraction value against the charge and leaving the facility whole on its costs, was drafted in the ninth year, costed at a net loss to the facility of almost nothing, and has not been laid. And it records what the senior trustee said when the fourth memorial was closed, entered verbatim at her request and now the last line of the trust's annual report: *we are paying to have their grief taken away, and we are paying for it with their names.*
+The objection is recorded in the minute as **correct in all three parts**. A set-off was drafted in the ninth year — the trust credited with the extraction value against the charge, the facility left whole on costs — costed at a net loss to the facility of almost nothing, and never brought forward. And it records what the senior trustee said when the fourth memorial was closed, entered verbatim at her request and now the last line of the trust's annual report: *we are paying to have their grief taken away, and we are paying for it with their names.*
 
 ## Trivia
 
