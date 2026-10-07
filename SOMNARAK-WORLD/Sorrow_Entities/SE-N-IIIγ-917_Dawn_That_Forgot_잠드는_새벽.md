@@ -88,7 +88,7 @@
 
 1. **Tension:** Dawn That Forgot is confirmed by the awareness. Sleepers report knowing that morning had come and being unable to open their eyes, and they report it consistently — not confusion, not dreaming, but a morning attended from the wrong side of the eyelids. The team establishes its position and its withdrawal before the cycle opens.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dawn That Forgot's recorded combat actions.
-3. **Resolution:** People get up. The post records the minute the first shutter opens and the minute the last one does, and the pair of figures goes into the series. There is no suppression step because there has never been anything to suppress.
+3. **Resolution:** People get up. The post records the minute the first shutter opens and the minute the last one does, and the pair of figures goes into the series. There is no suppression step because there has never been anything to suppress — the district is read against the documented suppression condition: **the first shutter and the last shutter are timed from the perimeter post**.
 
 ### Consequences
 
@@ -255,6 +255,27 @@ The void arrives in the dream register — not as a wave or a wall but as a shif
 
 **After departure:** You get up. The day runs short by an hour and a bit and nothing else about it is different.
 
+## 상호작용 (Entity Interactions)
+
+This holding keeps an interval rather than an event, and three other records are filed beside it in the appendix for the same
+reason: a zone that swallows sound, a watch that files a form whether or not anything happened, and an hour that belongs to the
+dead. The rows below are read from the perimeter post's own series — the first and last shutter of every episode, and the
+infirmary's running exposure totals, which the post itself has never been shown.
+
+**Interaction method:** Set this record's own figures first: twenty-nine episodes, the first and last shutter timed for each,
+and the four logged entries into the district. Then read the other record's series beside them, enter whether either series
+moved, and re-verify at the next episode.
+
+| The record kept beside it | Where the two intervals meet | What the post entered | What the folder keeps |
+|---|---|---|---|
+| **Weighted Silence** `O-IIIγ-924` | Both are intervals felt rather than seen. That record's pressure is an absence walked through; this one is an hour the district sleeps through, and neither file has ever been entered during an episode. | Nothing was run. The appendix grouped the two on the quiet and the review left the arrangement alone. | That the grouping is a filing line, entered as such and not as a finding. |
+| **Dead Air** `N-IIIγ-929` | Both keep a running record of nothing happening. That record completes a form at every watch; this one keeps years of ambient entries exactly as they were written, and both are read for the shape of the interval rather than its content. | One review entry; the two series were laid side by side once and parted at the first mark. | That the parting stands as the entry, carried un-smoothed in the review's numbers. |
+| **Allhallow** `O-IIIγ-916` | Both are hours the city keeps and answers by hand. That record's hour belongs to the dead; this one belongs to sleepers, and the answer on this side is a post and a clock rather than a lantern. | The hour-series were compared once and agreed on length alone. | That the pairing rests on the register of hours, noted as a calendar entry and not as a link. |
+
+**Interaction procedure:** No co-presence is authorised during an episode. Comparison is made on paper at the post's review,
+with the shutter times and the exposure total entered first and the other record's series set beside them unchanged; parting,
+depth, trigger and both readings go in the margin.
+
 ## 이야기 (Narratio) — The Tale
 
 Twenty-nine times now, each one watched from a post outside the line by somebody with a clock and no instrument. Sunrise, first shutter, last shutter. There is nothing else to record and the wing has resisted inventing something.
@@ -318,6 +339,7 @@ Exposures accumulate rather than resolving, and personnel totals are tracked acr
 
 ## Trivia
 
+- **29** episodes logged since **Y4238**, each carrying its **3** times, and **4** entries into the zone on record — none of which altered any of them.
 - One of the first catalogued **Time-Dream** entities in Somnarak.
 - Its dream descriptor makes it structurally unique among time entities.
 - The void pressure in the dream register feels different from standard void — more specific, more personal.
