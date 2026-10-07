@@ -86,14 +86,14 @@
 
 ### Battle Phases
 
-1. **Tension:** Identification runs on the warmth and the absence of any source for it; shape alone is not diagnostic, since the Commons is full of shadows and 2 other holdings in the wing are dark-formed. The designation is confirmed against the classification table, the approach is set, and the positions are taken before anything else is attempted.
+1. **Tension:** The warmth identifies it, and so does the absence of anything that could be making it; shape alone proves nothing, the Commons being full of shadows and 2 wing holdings being dark-formed. Confirm the designation against the classification table, set the approach, take the positions, and only then begin.
 2. **Clash:** Four turns, worked in the open ward with the attended patient's consent recorded beforehand. The patient is never moved for the convenience of the cycle.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Accept its help and acknowledge the healer it carries**. The clause governs the watch: the help is taken as the ward gives it, the healer behind the shadow is named in the record, and nothing on this ground is closed by refusing either.
+3. **Resolution:** The session closes on containment, management or withdrawal, under the documented suppression condition: **Accept its help and acknowledge the healer it carries**. The clause runs the watch: the help is taken as the ward offers it, the healer behind the shadow is named in the record, and refusing either closes nothing on this ground.
 
 ### Consequences
 
 - The failure here is wanting it back. The worker finishes the cycle lighter, notices the depletion, and asks to go again; the cap exists for that and for nothing else.
-- Long exposure produces the holding's signature state: a worker who is calm, attentive, well-regarded on the ward, and reports feeling nothing about any of it.
+- Exposure held long enough produces the signature state: the worker is calm, attentive, well thought of on the ward, and reports feeling nothing about any of it.
 - The Healer's equipment lends the wearer the entity's steadiness beside pain and takes the ability to leave a bedside. Every wielder's debrief records hours worked and not logged.
 - Unresolved, it transforms rather than escapes: the warmth spreads past the person it was attending and the ward's own shadows begin to hold it.
 
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Kind Healer's Shadow is an Echo (II) Subject with Subject-Phantasmal manifestation and Lament expression, ambient in the Mantle Commons of Zone D rather than celled. All four Work Types are available because it is a Subject; Pugnahan is a tested null here, and Flerehan and Ferrehan both lower the gauge.
+Kind Healer's Shadow is an Echo (II) Subject with Subject-Phantasmal manifestation and Lament expression, ambient in the Mantle Commons of Zone D and not celled. It is a Subject, so all four Work Types stand open; Pugnahan has been tested and returns null, while Flerehan and Ferrehan both bring the gauge down.
 
 **Reading the response:** Read it in the attendance and in the worker afterwards. A falling gauge presents as it settling closer to the attended person; a rising one presents as it standing off, or attempting to attend somebody else, which has been recorded four times and never completed. The worker-side indicator is the depletion at the end of the hour, and it is logged by the worker and countersigned.
 ## Breach Behavior
@@ -215,11 +215,11 @@ The mirror-polished blade reflects no ambient distortion, remaining clinically s
 
 **Cost:** The wearer absorbs the pain of the healing.
 
-*The Healer's Echo is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who sat a full Ferrehan cycle at a bedside and filed the patient's notes before her own.*
+*The Healer's Echo is never issued and never requested. It has gone out twice, each time to a Warden who sat a whole Ferrehan cycle at a bedside and filed the patient's notes before her own.*
 
 ### M.A.W. Use Notes
 
-Each piece extends Kind Healer's Shadow rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder feels the entity's unwept grief; prolonged use causes involuntary weeping — arrives early and does not reverse on return.
+Every piece is an extension of Kind Healer's Shadow, not gear raised against it. The benefit holds only inside the pattern this file records; outside it the cost lands early and does not reverse on return — the wielder carries the entity's unwept grief, and prolonged use brings weeping they cannot stop.
 
 ### Field Use Record
 
@@ -259,7 +259,7 @@ Each piece extends Kind Healer's Shadow rather than equipping its wielder agains
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Kind Healer's Shadow (N-IIβ-280 [LS]) stands on the register as a Subject-Phantasmal manifestation expressing Lament. The Shadow formed from compassion left behind by healers who died. Held at Zone D, Mantle Commons — ambient. It follows the most emotionally wounded person, not always the most visibly injured.
+Kind Healer's Shadow (N-IIβ-280 [LS]) is entered as a Subject-Phantasmal manifestation expressing Lament. It formed from the compassion of healers who died and left it behind. Held at Zone D, Mantle Commons, ambient. The one it follows is the most emotionally wounded in the room, which is not always the most visibly hurt.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through the facility by following wounded personnel. Personnel feel ancient mourning while their wounds close. It becomes more active during breaches.
@@ -298,14 +298,14 @@ A shadow settles beside your injury. Warmth enters the wound, and the pain leave
 
 ### Interaction Pattern
 
-This holding is read against the other things in the wing that attend, absorb or stand in for care. Each relation below has been observed and filed; none of them is closed; and all three were run in the open ward with a patient's consent on record.
+The comparison set is the wing's other holdings that attend, absorb, or stand in for care. Every relation below was watched and filed, none is closed, and all three were worked in the open ward with consent on record.
 
 **Interaction method:** Take each party alone across several cycles before any paired approach, with gauge, attendance and depletion logs kept throughout. The onset of a shared change is entered with its range, duration and trigger, both gauges, and whatever remains once the parties are apart. Re-verify every cycle; nothing in this wing has yet passed between two holdings of this kind.
 
 
 ### Entity Interaction Record
 
-The relations below count as points of contact rather than alliances, and none of them is closed. All three were raised on the theory that compassion might pass between holdings, and nothing has passed in either direction in any of them.
+The rows below are filed as contacts, not alliances, and none is closed. All three rested on the theory that compassion might pass between holdings; in none of them has anything passed either way.
 
 | The shadow's neighbour | How the pairing has run | What the ward logged | What the entry carries |
 |---|---|---|---|
@@ -426,7 +426,7 @@ Her surgical referral was deferred three times in those fourteen months. Each de
 
 The confinement ended when the Commons asked for the entity back after a fire, and it has not been attempted since.
 
-The objection is minuted at every annual review and is raised by the facility's counsellor, who conducted the review. It holds that the facility created, by rostering, a standing institutional interest in an employee's non-recovery, and that no part of the scheme required anybody to notice this, so nobody did; that the three deferrals were each defensible and collectively amount to fourteen months of deferred treatment for the one worker whose recovery would have ended the containment, which the review could neither explain nor dismiss; and that the arrangement was documented throughout, in the roster, in the containment file and in the medical record, and was visible to anybody who read two of the three together, which nobody did for fourteen months. The minute records the objection as **correct in all three parts**. It records that the Warden received her surgery in the sixth year, has recovered, and declined to make a complaint. And it records her own remark, minuted at her request: *I thought it had chosen me. That was the part I liked.*
+The objection goes into the minute at every annual review, raised by the facility's counsellor, who ran the review. Its case: rostering created a standing institutional interest in one employee's non-recovery; no part of the scheme required anyone to notice that, and so nobody did; that the three deferrals were each defensible and collectively amount to fourteen months of deferred treatment for the one worker whose recovery would have ended the containment, which the review could neither explain nor dismiss; and that the arrangement was documented throughout, in the roster, in the containment file and in the medical record, and was visible to anybody who read two of the three together, which nobody did for fourteen months. The minute records the objection as **correct in all three parts**. It records that the Warden received her surgery in the sixth year, has recovered, and declined to make a complaint. And it records her own remark, minuted at her request: *I thought it had chosen me. That was the part I liked.*
 
 ## Trivia
 
