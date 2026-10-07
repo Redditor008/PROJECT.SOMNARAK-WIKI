@@ -267,7 +267,7 @@ Each piece remains part of the Sigh, and the set is unusually benign in operatio
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Survivors' Breath (O-IVδ-895 [VS]) is logged as a Subject-Spirit manifestation expressing Void. The Sigh formed from exhaustion that could not become rest. Held at Zone B, Old Lament. It is strongest after breaches and long patrols.
+Survivors' Breath (O-IVδ-895 [VS]) is a Subject-Spirit manifestation expressing Void — the Sigh that the exhausted leave behind when the watch ends and the rest does not come. Held at Zone B, Old Lament. It is strongest after breaches and long patrols.
 
 **Entry 2 — <Night Watch Log, Old Lament>**
 Trail picked up at the second post at 02:40, air 4 degrees below the corridor either side of it, drifting east toward the tenement block and then north along the market wall. Crossed two occupied rooms without slowing; both occupants asleep, neither disturbed. Watched through the third-floor window of the hostel for eleven minutes — the trail turned twice at the stairwell, entered the room with the broken stove, stayed, left. Relief arrived on time at 04:00 and the log was signed by both hands, which is the only entry in the month with no faults recorded. Nothing was reported afterwards by either watchkeeper.
