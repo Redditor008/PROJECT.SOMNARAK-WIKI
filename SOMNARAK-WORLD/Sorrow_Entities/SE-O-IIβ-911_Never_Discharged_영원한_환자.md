@@ -87,7 +87,7 @@
 
 1. **Tension:** The team checks the corridor clock against the bay's last recorded loop, confirms the door is latched, and takes position at the window. Nobody enters the bay for any reason during a cycle and the door key is held by a second person outside the corridor.
 2. **Clash:** None. The wing has asked twice for the row to be removed. The loop does not respond to anything, cannot be engaged, and has never varied in content: the same scream, the same table, the same light, 611 times.
-3. **Resolution:** The second loop ends, the sheet is completed, and the discharge book is signed. The gauge falls after the second loop and not the first, consistently, which nobody has explained and which the roster is built around.
+3. **Resolution:** The second loop ends, the sheet is completed, and the discharge book is signed. The gauge falls after the second loop and not the first, consistently, which nobody has explained and which the roster is built around. It closes against the documented suppression condition: **The gauge falls after the second loop and not the first**.
 
 ### Consequences
 
@@ -252,6 +252,20 @@ The body register changes the weight from a classification into an experience. Y
 **When the entity activates:** From the corridor, almost nothing: the light in the bay changes for under a second and the dust resumes moving. From inside, the whole of it, in your own throat.
 
 **After departure:** You check the clock. Wardens do it on the way out and again on the way home, and the wing's only advice is that it passes slowly and that nobody has been harmed by it.
+
+## 상호작용 (Entity Interactions)
+
+The ward holds one patient through a first loop and a second, and the sheet is completed when the second one ends. The file has never had a second holding brought inside during either loop. The pairing rows below come from the appendix that groups the 90x holdings by manifestation and are read against each record's own series; what the three share is a period that has to run its full length before anybody writes anything down.
+
+**Interaction method:** Take the ward's own numbers first: the two loops, the sheet completed at the second, the gauge fall that follows the second and never the first. Then set the other record's series beside them and enter the first parting, its reach, its trigger, and whether either series moved in the reading. Re-verify at the next discharge.
+
+| What the ward holds | How the pairing has run | What the roster entered | What the book keeps |
+|---|---|---|---|
+| **Allhallow** `O-IIIγ-916` | Filed together on a count that waits for its hour. That record counts walkers at a border and files two tallies without reconciling them; this one completes a sheet only after the second loop. | One review entry; the tally difference and the loop count were laid together and parted at the first mark. | That the parting is written down as a parting, kept in the review's numbers as they fell. |
+| **Amnesia** `O-IIβ-914` | Grouped on identity recovered by procedure rather than by testimony. That record reads forearms and matches names off a board in a median of nine minutes; this one signs a discharge book for a patient who has not left. | Nothing was run. The two were listed together in the appendix and the review let the listing stand. | That the pairing is a shelf arrangement, entered beside the row whenever the file is quoted. |
+| **Backward Hour** `C-IIIγ-913` | Grouped on hours that run the wrong way. That record's cycle ends on the twelfth hour and always the twelfth; this one ends when the second loop ends, which nobody has explained. | The clock series and the loop count were compared once; they agreed on nothing but their length. | That the two are filed for the shape of the cycle, noted as a shape and not as a link. |
+
+**Interaction procedure:** No co-presence is authorised during either loop. The comparison stays on paper at the review, with the discharge book and the loop count entered first and the other record's series laid beside them unchanged; parting, reach, trigger and both readings go into the margin.
 
 ## 이야기 (Narratio) — The Tale
 
