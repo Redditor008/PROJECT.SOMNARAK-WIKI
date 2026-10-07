@@ -92,10 +92,11 @@
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Resolve** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- A worker who breaks at the walls pays twice: the Sorrow Gauge climbs while their **Resolve** splits into a Fracture, and both entries are written on one line of the record.
+- Standing near the plan past the recommended cycle calls up the structure's own aftershocks — the hazards the short briefings only gesture at — and the crew leaves with its thinking eroded and its body out of true.
+- Any M.A.W. brought into the rooms is owed a toll as it works: the crystallized sorrow runs back down the frame into whoever holds it, and the armoury ledger keeps that debt under the bearer's name.
+- When the resolution fails, the plan goes on building by itself — the cell is breached, the ground is claimed, and the pace of that claim is not something the estate chose.
+
 
 ## Appearance
 **Primary Form:** A hollow humanoid architect carrying plans made of dark crystal. It builds continuously, but every structure remains unfinished.
