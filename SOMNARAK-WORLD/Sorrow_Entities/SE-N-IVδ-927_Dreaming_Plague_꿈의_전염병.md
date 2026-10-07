@@ -305,11 +305,11 @@ So the district runs on a prohibition, a declaration taken at face value, and a 
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The void is familiar. The dream is not. That gap is where the danger lives."* — Handler
-*"I expected standard void. I got something that knew me."* — Specialist
-*"Every time we refine the protocol, the dream register finds a new way in."* — Researcher
-*"It does not attack. It informs. And what it informs you of is your own sorrow."* — Director
-*"Work it once and you will understand why the classification system had to expand."* — Keeper
+*"The void I know. A void you catch off somebody else’s sleep is a different department."* — Handler
+*"Do not wake them and do not hold them. Every instinct you have walks the infection into the next ward."* — Specialist
+*"Each protocol we write assumes the dream stays behind the eyelids, and each one is out of date before it is filed."* — Researcher
+*"It does not attack. It passes. And what it passes along is a sound getting closer to a city that is not ours."* — Director
+*"Stand in the ward long enough and you will want to lie down among them. Wanting it is the finding."* — Keeper
 
 ## 기록 (Registrum) — The Record
 
