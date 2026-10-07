@@ -87,9 +87,9 @@
 
 ### Battle Phases
 
-1. **Tension:** Debt-Collector's-Lantern is confirmed by the cold light and the floor mark; the Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing. The team establishes its position and its withdrawal before the cycle opens.
-2. **Clash:** Four turns at the mount, observation and endurance only. No one carries it, no one tilts it, and the radius is measured at the start and the end of every turn.
-3. **Resolution (Debt-Collector's-Lantern):** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+1. **Tension:** The cold light and the floor mark make the identification; the Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing. Position and withdrawal are set before the cycle opens.
+2. **Clash:** Four turns at the mount, nothing but watching and holding. Nobody carries the lantern, nobody tilts it, and the radius is walked at the open and close of every turn.
+3. **Resolution (Debt-Collector's-Lantern):** The watch closes by holding, management or withdrawal, or against the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 
 ### Consequences
 
@@ -145,7 +145,7 @@
 
 ### Operational Work Notes
 
-Debt-Collector's-Lantern is an Echo (II) Object/Place of Moderate (β) potency, Object-Weight manifestation, Weight expression, held at a fixed mount in Collector's Row. Flerehan and Pugnahan are recorded N/A because an object cannot be grieved with or fought; the working range is Viderehan and Ferrehan alone, and the holding's hazard is informational rather than physical.
+Debt-Collector's-Lantern is an Echo (II) Object/Place of Moderate (β) potency, Object-Weight manifestation, Weight expression, held at a fixed mount in Collector's Row. Nothing here can be grieved with or fought, so Flerehan and Pugnahan are entered N/A and the range is Viderehan and Ferrehan alone. What it threatens is information, not the body.
 
 **Reading the response:** Read it in the radius and the intensity card, never in the feeling of the room, which on this holding is consistently misleading. A falling gauge presents as intensity dropping with the radius unchanged; a rising one presents as the radius creeping past the floor mark, and that movement is permanent whatever the gauge does afterwards.
 ## Activation Behavior
@@ -218,9 +218,9 @@ Escalation here is radius and nothing else. Record the trigger, the measurement 
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-Appearance : A flared-muzzle bronze hand-cannon incorporating a glass lantern chamber beneath the barrel, ignited by an enclosed wheel-lock mechanism and operated via a curved finger lever.
+Appearance : A bronze hand-cannon with a flared muzzle, a glass lantern chamber riding under the barrel, lit by an enclosed wheel-lock and worked by a curved finger lever.
 
-The cannon fires incandescent phosphor pellets that illuminate dark chambers with blinding golden flare. The flame inside the underbarrel lantern flickers in rhythm with nearby sorrow activity.
+The cannon throws incandescent phosphor pellets; a dark room goes gold. Under the barrel, the lantern flame answers sorrow nearby the way a pulse answers a hand.
 
 **Ability:** *Ledger's Illumination* — Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Projects a focused beam of heavy light across Range 4 (4–8m), exposing hidden karmic burdens and halving target movement speed as the weight of their debt anchors their feet to the ground.
 
@@ -260,11 +260,11 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Cost:** The wielder cannot ignore what the light shows.
 
-*The Pale Wick Stigma is not issued and cannot be requested. It has been conferred twice, in both cases on a Warden who read their own itemisation aloud to the watch rather than keeping it, which is not a procedure and has never been required of anybody.*
+*No one issues the Pale Wick and no one can ask for it. Twice it has been conferred, both times on a Warden who read their own itemisation out to the watch instead of keeping it — not a procedure, and never required of anyone.*
 
 ### M.A.W. Use Notes
 
-Each Vigil piece is an extension of the holding rather than equipment. It performs as recorded while the wearer's own obligations are entered honestly in the pre-use log, and costs more when they are not; the lantern lights the wearer first in either case. The Stigma is conferred by the entity after a work cycle and is not manufactured, requested, or scheduled.
+The kit is not equipment; each Vigil piece is a part of the holding carried out. It does what the record says only while the bearer's own debts are written honestly into the pre-use log, and charges more when they are not — and either way the lantern lights the bearer first. The Stigma comes from the entity after a cycle: nothing schedules it, nothing requests it, and nothing makes it.
 
 ### Field Use Record
 
@@ -303,7 +303,7 @@ Each Vigil piece is an extension of the holding rather than equipment. It perfor
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Debt-Collector's-Lantern (N-IIβ-250 [WO]) stands on the register as a Object-Weight manifestation expressing Weight. The Lantern formed from the sorrow of collecting from others. Held at Zone C, Collector's Row — ambient. It glows near debtors and Collectors alike.
+Debt-Collector's-Lantern (N-IIβ-250 [WO]) is entered as an Object-Weight manifestation, Weight element. It formed out of the sorrow of collecting from other people. Held at Zone C, Collector's Row, ambient: the glow does not distinguish a debtor from a Collector.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its light is brighter for inherited obligations.
@@ -342,14 +342,14 @@ The Lantern glows before anyone enters the room. Its light touches your shoulder
 
 ### Interaction Pattern
 
-This holding is read against the other Row objects that handle obligation. Each relation below has been observed and filed; none is settled; and all three were tested at the mount, since the lantern cannot be brought to anything.
+The Row's other obligation objects are the comparison set for this one. Three relations were filed and none is settled, and all three had to be run at the mount — the lantern cannot be carried to anything.
 
 **Interaction method:** Baseline each party alone over several cycles — intensity, radius, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. All three were proposed on the theme of debt, which is the Row's organising idea and also the reason the pairings here are weaker than they look.
+The rows below are filed as points of contact, not alliances, and none is settled. Debt proposed all three; the Row's organising idea is also why these pairings are thinner than they read.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -465,7 +465,7 @@ The cost is carried in exactly one place. A failed cycle is recorded against the
 
 The objection is raised annually by the Row's senior Warden and is minuted in full. It holds that the Directorate has set a figure that can only be met by failing, has never said so, and has therefore obtained a practice it would not authorise if asked to authorise it in writing; that the entire cost of the arrangement falls on fourteen named people in the form of a performance record that is the exact inverse of their compliance, while the Directorate's own figures show the target being met; and that the lit area, which is the thing actually being traded away, now covers ground where people live, so that each quarter's yield is purchased by making more households' obligations visible to anybody who walks past.
 
-The minute records the objection as **correct in all three parts**. It records that a proposal to decouple the target from the radius was drafted in the eighth year, costed, and not laid. And it records the senior Warden's closing sentence, which the clerk entered verbatim at her insistence: *we are paid in light, and the light is coming out of their houses.*
+The objection is minuted as **correct in all three parts**. In the eighth year a proposal to decouple target from radius was drafted and costed and never laid. And it records the senior Warden's closing sentence, which the clerk entered verbatim at her insistence: *we are paid in light, and the light is coming out of their houses.*
 
 ## Trivia
 
