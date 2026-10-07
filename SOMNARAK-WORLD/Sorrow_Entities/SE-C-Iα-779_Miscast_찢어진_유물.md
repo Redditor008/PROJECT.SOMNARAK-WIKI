@@ -329,11 +329,11 @@ The ground is the bench. Nine months of that programme took the gap to eighty-ei
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Miscast; the other feeds it.
+> The interval leaves the worker one choice about the fragment: watch it drift and keep both hands out of it, or reach in — which is always meant as help, and never is.
 
-| Keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. | Do the obvious, decent thing instead, and feed Miscast. |
+| Keep the optical series unbroken, and the Rule of the Honoured Qualification enforced at the training office and on the postings board. | Do the plain, decent thing instead, and feed Miscast. |
 |---|---|
-| The worker watches the approaches stop short for the full interval and does not reach in. The gauge falls, the gap holds, and the record of the former function is clean. | The worker reaches in. They always mean to help. The gauge climbs, the fragment carries a few centimetres off its drift, and the quarter's series is void. |
+| The worker holds still for the whole interval, watching the approaches fall short, and never reaches in. The gauge comes down, the gap holds, and the former function's record stays clean. | The worker reaches in. The meaning is always to help. The gauge climbs, the fragment shifts a few centimetres off its drift, and the quarter's series is void. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
