@@ -27,15 +27,15 @@
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Primary pressure** | Physical and structural pressure, read off the anchor points and the repeating figure rather than off the links |
+| **Starting Sorrow Gauge** | 45–65% on the wall clock before the cycle, since the pattern is what the session actually measures |
+| **Han-Energy yield** | 16–22 in a cycle that slows the figure, which is as far as any session has ever taken it |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ); the links have never been recorded at rest, so the band stands as the (γ) table’s estimate |
+| **Recommended response** | The two approaches the object answers to on record, with the anchor inspections kept on their fixed schedule; nothing slows the figure faster than patience does |
 
 ### Operational Notes
 
