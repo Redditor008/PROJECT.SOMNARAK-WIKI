@@ -306,7 +306,7 @@ A figure appears at the doorway, wet with tears. You recognize nothing about it,
 
 ### Interaction Pattern
 
-Three files are kept within Nemo's range — The Lost Prince, The Forgotten Name and The Sorrow Gate — and it calls none of them ally or rival; every one is a question the archive has left standing. Should a pairing be attempted, the entry records what altered in the sound and the temperature, in what is remembered and what is measured, and how both the gauge and containment read at the close, together with how close it stood, how long it held, and the thing that began it.
+Three files are kept within Nemo's range — The Lost Prince, The Forgotten Name and The Sorrow Gate — and it calls none of them ally or rival; every one is a question the archive has left standing. Should a pairing be attempted, the entry records what altered in the sound and the temperature, in what is remembered and what is measured, and the closing figures for the gauge and for containment, together with how close it stood, how long it held, and the thing that began it.
 
 **Interaction method:** The question on this holding is always the name count: whether it moved while the other file was near, in which direction, and whether any name appeared in the tears that had appeared before. All three related files turn on a person who is missing from a record, which is why the watch is briefed on the differences rather than the resemblance before any joint event.
 
