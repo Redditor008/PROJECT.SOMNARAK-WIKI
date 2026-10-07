@@ -222,7 +222,7 @@ I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expressi
 
 **Cost:** The wearer feels every failed crossing they witness.
 
-*The lantern is not issued. It comes up after a session in which the account was written out straight, with no argument run against it — four per cent of those sessions produce one, and the armoury has never found a way to say which.*
+*The lantern is not issued. It comes up when an account has been written out straight, with no argument run against it — four per cent of those accounts produce one, and the armoury has never found a way to say which.*
 
 ### M.A.W. Use Notes
 

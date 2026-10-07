@@ -217,7 +217,7 @@ The register files this one as Subject-Dream, with the Grudge reading riding on 
 
 **Cost:** The wearer hears every warning that arrives too late.
 
-*The thread is not handed out. It comes up after a session in which the sleeper let the sentence break without reaching after it, and nobody on the armoury side can tell in advance which broken sentence will leave one behind.*
+*The thread is not handed out. It comes up when a sleeper has let the sentence break without reaching after it, and nobody on the armoury side can tell in advance which broken sentence will leave one behind.*
 
 ### M.A.W. Use Notes
 
