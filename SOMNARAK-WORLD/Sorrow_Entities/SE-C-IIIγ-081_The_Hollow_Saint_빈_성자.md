@@ -338,15 +338,15 @@ The Hollow Saint is a Subject-Void entity, contained in Zone B. It still heals �
 Some sorrows are about loss. The Hollow Saint's sorrow is about giving — and the discovery, too late, that you cannot pour yourself out forever and remain yourself, and that the holiest life can end, if you are not careful, in a radiant and perfect hollow.
 ## 증언 (Testimonium) — The Testimony
 
-> *“She healed a thousand souls. She could not heal her own.”* — Keeper, Archive
+> *“She took the pain out of me and I thanked her for it. I could not tell you now what the pain had been about.”* — Citizen, Zone B
 
-> *“The Saint still reaches to soothe. The reflex outlived the self.”* — Researcher, R.D.
+> *“The reflex outlived the person. The hands still reach, and there is nothing behind them doing the reaching.”* — Researcher, R.D.
 
-> *“I felt my sorrow drawn out, eased. Then I saw the emptiness where her self had been.”* — Citizen, Zone B
+> *“Count the healings and count what is left of the healer. The two columns do not meet, and this file will not pretend they do.”* — Keeper, Archive
 
-> *“She gave everything away. Everything included herself.”* — Containment Lead, R.D.
+> *“She is not cruel. That is the part I cannot write down calmly — she is still kind, and there is no one in there left to be kind.”* — Containment Lead, R.D.
 
-> *“The holiest life can end in a radiant and perfect hollow.”* — Mender, Zone B
+> *“I came in carrying my grief, I left it with her, and I went home lighter. I have not wept since, and not for want of reason.”* — Mender, Zone B
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `C-IIIγ-081 [VS]` · City origin · Fragment (III) coherence · Major (γ) potency · Void · Subject-Void manifestation
