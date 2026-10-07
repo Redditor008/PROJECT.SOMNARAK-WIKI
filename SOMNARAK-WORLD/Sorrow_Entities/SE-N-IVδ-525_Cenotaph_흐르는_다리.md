@@ -94,7 +94,7 @@
 
 - A worker who holds against the span is a double loss: **Resilience** goes at the point they brace, and the entity takes the failure as a load — the gauge it feeds is the one their resistance filled.
 - Time alone does nothing here. What accumulates is crossings: each person who goes over the span unaccompanied adds to the load it believes it is carrying, and a shift of heavy single traffic does more than a day of standing idle.
-- The shrine, the plate and the ring are all made from a promise that outlived the person it was given to. Each activation borrows that refusal to let go, and the operator keeps a share of it. The recorded cost is not pain. It is that the operator stops being able to hand a task over.
+- The shrine, the plate and the ring are all made from a promise that outlived the person it was given to. Each activation borrows that refusal to let go, and the operator keeps a share of it. What the record prices this at is not pain; it is that the operator stops being able to hand a task over.
 - An encounter that ends without the responsibility being placed somewhere does not end; it is carried out of the chamber. Cenotaph does not pursue the team. It follows the one who left still holding it, and the file notes that this is usually the person who spoke least.
 
 ## Appearance
@@ -312,14 +312,14 @@ A bridge flows through the Garden without water beneath it. Its surface carries 
 
 ### Interaction Pattern
 
-Three records are filed against this one because each concerns a promise kept past the point it could be fulfilled, and the archive pairs them by that subject rather than by any observed contact. The question worth measuring is narrow: whether the span lengthens toward the other record, whether the arms change direction, and whether the surface holds while both are present.
+Three records are filed against this one because each concerns a promise kept past the point it could be fulfilled, and the archive files them together by that subject rather than by any observed contact. The question worth measuring is narrow: whether the span lengthens toward the other record, whether the arms change direction, and whether the surface holds while both are present.
 
 **Interaction method:** Observe Cenotaph alone and across a full traffic cycle before any paired study, since its load is made of other people's movements and a quiet corridor misrepresents it. In shared conditions, record whether the span lengthened toward the other entity, whether the arms changed direction, and whether the surface held.
 
 
 ### Entity Interaction Record
 
-The Gardens hold several records produced by the same surge that took this crossing, and the three below are filed alongside this one for that reason. Not one of the three is an ally or an enemy; what pairs them is a shared event, and no co-presence has been logged with both holdings' readings attached except where the row says otherwise.
+The Gardens hold several records produced by the same surge that took this crossing, and the three below are filed alongside this one for that reason. None of the three counts as an ally or an enemy; what pairs them is a shared event, and no co-presence has been logged with both holdings' readings attached except where the row says otherwise.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
