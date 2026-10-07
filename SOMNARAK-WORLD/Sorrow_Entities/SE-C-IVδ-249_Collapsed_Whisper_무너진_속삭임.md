@@ -93,7 +93,7 @@
 ### Consequences
 
 - A resistance that fails is paid for twice over: the raw weight lands on **Resilience** while they are still under, and whatever the breaking does to them afterwards is the holding's own instrument for raising the gauge.
-- Time works for the holding. Past the clock, saturation settles into the sleeper the way static settles into a failing channel, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
+- Duration is on the holding's side. A sleeper held past the clock does not simply wake tired; the saturation pools in them the way static pools in a channel that is already hissing, and the collapse that follows — psychological first, then somatic, then through the fittings of the station — is the outcome the whole protocol exists to stop.
 - Every activation of the set is a trade with both hands full: the equipment registry keeps the parameters, and the bearer's own flesh settles the account.
 - A bay that closes without closing does not stop at the rail: the holding walks out its event pattern, and the sentence nobody resolved takes the exit the session failed to give it.
 
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Collapsed Whisper is a Subject with Subject-Dream manifestation and Grudge expression, mobile in the Desolate. No watch has ever worked this file awake: the contact is made from monitored sleep stations, two sleepers in the layer at the most, on a fixed clock. Flerehan and Ferrehan both lower the gauge and do it differently — the first lets the sentence finish, the second asks the worker to stay while it does not.
+The register files this one as Subject-Dream, with the Grudge reading riding on the dream rather than standing beside it, and the holding keeps no fixed address. No watch has ever worked this file awake: the contact is made from monitored sleep stations, two sleepers in the layer at the most, on a fixed clock. Flerehan and Ferrehan both lower the gauge and do it differently — the first lets the sentence finish, the second asks the worker to stay while it does not.
 
 **Reading the response:** A falling gauge presents as a longer run before the break and a steadier figure at the edge of the layer. Nothing is resolved; the next session starts from the same place. A rising gauge presents as a shorter run and a thickening static, and the usual cause is a worker pressing for the rest of the sentence. The break time is logged before anything else, because it is the one number that answers to how the session was conducted.
 ## Containment Event Behavior
@@ -261,7 +261,7 @@ Three pieces, one property: every part of the set hands over half a thing and ke
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Collapsed Whisper (C-IVδ-249 [GS]) stands on the register as a Subject-Dream manifestation expressing Grudge. What formed here was a warning that fell apart before it reached the person it was meant for. Held at The Desolate — mobile. It comes through dream distortion as a voice already failing.
+Collapsed Whisper (C-IVδ-249 [GS]) carries the Subject-Dream filing, with Grudge as the register it expresses. What condensed here was a warning that came apart on the way to the person it was for. The Desolate, and no fixed point inside it: the figure arrives through dream distortion as a voice that has already begun to fail.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 It reaches people through their sleep anywhere within range of the Desolate. Sleepers hear an alert that will not finish; what they get is a piece of a warning, never a forecast.
@@ -274,7 +274,7 @@ Management: Capture fragments without inventing the missing message. Work respon
 
 **Entry 5 — <Director's Memo, Eyes Only>**
 The Director's note: *"The scout did everything correctly and the storm was louder than he was. We hold the consequence of that and we are forbidden — rightly — to pass on what it says. I have read the objection to that position every year of my tenure and I have never been able to answer it."*
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a healer who absorbed too much. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+Every holding on this shelf has a story that gets told about it, and the one told about this figure is not the healer's, whatever the anthology says. The version the wing repeats opens on the flat ground ahead of a surge, with a scout who could read weather off the Han the way sailors read a sky and a caravan that had no reason to look up. He ran; the air thickened; the warning he was carrying came apart somewhere between his chest and his mouth. Nobody who tells it adds anything after that, because there is nothing to add: what is left of the man is a sentence that keeps trying to start.
 
 **Threat rating:** Critical (δ). Proximity installs the conviction that something vital is almost being said; on event, a widening volume of ground becomes unworkable for anybody standing in it.
 
@@ -303,14 +303,14 @@ The dream collapses around a voice. You see a caravan falling through red dust, 
 
 ### Interaction Pattern
 
-Three holdings sit in the Whisper's working range — The Broken Whisper, The Drift Fog and The Observing Bird — and each is a resonance question rather than an alliance or a standing quarrel. Where a pairing is run, enter what the answer did in sound, movement, temperature, memory pressure, gauge or containment stability, with range, duration and trigger beside it.
+Three files are shelved within reach of this one — The Broken Whisper, The Drift Fog and The Observing Bird — and none of the three is read here as an ally or as a standing quarrel; each is a question the archive has never managed to close. When a crossing is run, the log carries what the answer did to the sound, the movement, the temperature, the memory pressure, the gauge and the containment line, each with its range, its duration and what set it off.
 
 **Interaction method:** Baseline each party alone. The question here is whether another presence lengthens the run before the break, and nothing has. Log the range, the duration, the gauge on both sides, the break time, and both bearings, read afterwards by somebody who was not in the layer.
 
 
 ### Entity Interaction Record
 
-Collapsed Whisper sits among the register's incomplete-message holdings and is kept distinct from them by what the incompleteness is for. Here the message is urgent, time-bound and now useless. The entries below are observed; none has lengthened the run before the break, which is the measurement that would matter, and the file says so rather than implying an influence it cannot show.
+This file is shelved with the register's incomplete-message holdings but is not read as one of them, and the difference is what the missing part was for. What is absent here was urgent, dated, and useless by the time anybody hears the pieces of it. The entries below are observed and nothing more; not one of them has pushed the break later in the session, and that is the only measurement that would settle the question, so the file states the absence instead of claiming a reach it has no way to show.
 
 | The Whisper's neighbour | How the pairing has run | What the break series showed | What the entry carries |
 |---|---|---|---|
@@ -330,9 +330,9 @@ He ran. He ran toward the caravan, across the unstable ground, carrying the warn
 
 The warning never arrived. The caravan, unwarned, was taken by the surge — the families, the traders, the children, consumed the way the Han consumes everything, quietly, completely, without the dignity of a chance to run. The scout, still running, still shouting into the storm that had swallowed his voice, reached the place where the caravan had been and found nothing. The warning had collapsed. The warned-for were gone.
 
-The grief of understanding danger too late to communicate it sank into the Weeping, and the Weeping gave it form. Collapsed Whisper: Subject-Dream, Grudge-element, the figure of a scout still running, still shouting, the warning still trying to reach a caravan that is no longer there. The whisper is his — the dissolved warning, the words the storm took, preserved in a figure who repeats, forever, the message that arrived too late.
+A man understood the danger and could not get the understanding across in time, and that particular grief is what was left in the Weeping for the Weeping to work with. What it made is a runner still on the open ground with the words still going out of him toward people who are nowhere left to receive them. The whisper belongs to him: the message the storm took apart, kept going in a shape that repeats it and cannot finish it.
 
-Those who come near the Collapsed Whisper hear the fragment of the warning — a scout's voice, broken by distance and Han, trying to say the thing that would have saved them, failing, the message collapsing into noise before it reaches the ear. And they feel the specific agony of the messenger who arrived too late: the knowledge that you saw the danger, that you ran, that you shouted, and that the shouting, through no fault of your own, did not arrive.
+The approach is made through the ear and never through the eye, and what arrives is one segment of a warning: a runner's voice, thinned by distance and by Han, reaching for the sentence that would have turned the caravan back and losing it to static a syllable short of the ear. Underneath the sound the listener is handed the messenger's own knowledge — you saw it, you ran, you shouted — and the faultless, unbearable fact that none of it landed.
 
 Some sorrows are about the danger. Collapsed Whisper is about the warning — the message that collapsed before it reached the people who needed it, preserved in a scout who runs still, shouting into a storm that took his voice, carrying a warning that the caravan never heard.
 ## 증언 (Testimonium) — The Testimony
@@ -387,7 +387,7 @@ Its origin is a Desolate scout who tried to warn a caravan of a Han-storm and wh
 
 ### The Spreading Tide
 
-Its event is a Transform: it widens past the marked boundary like a spreading tide, driving personnel toward the particular derangement the file calls half-heard — a state in which the affected cannot stop attending to something that is not being said. Rage erupts outward across the affected volume. Response is conducted from outside, with the Warning Fang held at the boundary, and no attempt is made to enter. Personnel caught inside are recovered when the volume recedes and are treated by the medical office under a protocol written specifically for this holding, which begins by instructing the attending staff not to ask the patient what they heard.
+The event is classed as a Transform. The boundary is not what holds the figure in: the field widens through it the way water finds a floor, and everyone inside the new line is pushed into the derangement this file calls half-heard, in which a person cannot stop listening for something nobody is saying. Rage erupts outward across the affected volume. Response is conducted from outside, with the Warning Fang held at the boundary, and no attempt is made to enter. Personnel caught inside are recovered when the volume recedes and are treated by the medical office under a protocol written specifically for this holding, which begins by instructing the attending staff not to ask the patient what they heard.
 
 ### The Residue Log
 
@@ -421,7 +421,7 @@ The survey office already surveys footing in the Desolate on a cycle, and alread
 
 The distinction between counting a word and interpreting a sentence was argued over for a long time before it was allowed, and the ruling is in the protocol: a lexical check performed by somebody with no access to the meaning is not interpretation, and if it ever becomes one the arrangement ends the same day. **Twenty-three counts above zero. Twenty-three surveys brought forward. Two found something that needed doing.**
 
-The field office's objection is on the file and is read at every annual review. Crews are being routed around a hazard by information deliberately withheld from them, by an institution that has decided they cannot be trusted with an imprecise warning — which may well be right, and is still a judgement made about them, in their absence, by people who will not be on that ground. The two finds were the office's own crews walking onto something somebody in the building had a reason to suspect and no permission to name. The minute records the objection as **correct, and the arrangement continues**, and notes that no one has proposed an alternative that does not end with a crew ignoring a real alert.
+The survey office has lodged an objection, and it sits in the file to be read aloud at every annual review. The complaint is not that the arrangement fails but that it works by keeping a hazard from the people who walk on it: a count of terrain words, made by a clerk with no access to meaning, is still somebody's decision about a crew who were never asked, taken by people who will not be standing on that ground when it gives. Both finds were made by those crews, walking onto something a room in the building had grounds to suspect and no leave to name. The minute enters the objection as **correct, and the arrangement continues**, and adds the plain note that nobody has yet proposed a version of this that does not end with a crew ignoring a true alert.
 
 ## Trivia
 
