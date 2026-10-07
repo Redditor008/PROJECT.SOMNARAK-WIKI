@@ -280,7 +280,7 @@ The three pieces are storm salvage and they say so: the maul and the harness are
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sorrow Storm (C-Vγ-320 [D]) is logged as a Place-Weight manifestation expressing Weight, citywide and periodic. It is an accumulation rather than a presence: it forms where grief has gone undischarged, it multiplies the weight of everything else the city is holding, and its standing minimum is lower at every return. The Storm follows major city-wide grief events.
+Sorrow Storm (C-Vγ-320 [D]) is a Place-Weight manifestation expressing Weight, citywide and periodic — a holding whose containment is a warning system and a shelter plan rather than a boundary. It is an accumulation rather than a presence: it forms where grief has gone undischarged, it multiplies the weight of everything else the city is holding, and its standing minimum is lower at every return. The Storm follows major city-wide grief events.
 
 **Entry 2 — <Pressure Observatory Ring, Year 4238>**
 Standing minimum 488 on the ring scale, after 547 and 612. Lower is worse. The reading is confirmed across the ring and against the River gauges before it is reported, by the rule the false-clear left behind. It can cross the Veil temporarily and has done so twice in the current record.
