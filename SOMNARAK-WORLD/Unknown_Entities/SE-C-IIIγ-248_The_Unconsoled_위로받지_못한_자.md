@@ -87,7 +87,7 @@
 
 1. **Tension:** The worker decides, before entering, which of their own losses they are willing to say out loud, and tells the Warden which one. This is the whole of the preparation. A worker who cannot name one is not sent in, because the cycle has no other currency.
 2. **Clash:** There is no exchange. The worker sits at the same height as the entity — the Old Lament keeps a low stool for it — and speaks. The Unconsoled's weeping synchronises inside about forty seconds, and from then on the cycle is simply two people grieving, one of whom has been at it since before the city had walls.
-3. **Resolution:** The worker stops when they are finished, not when a figure is reached, and the Warden records the gauge afterward rather than watching it during. A cycle ended early on a reading has twice produced a worker who went back in without authorisation.
+3. **Resolution:** The watch closes on the suppression condition: **share the grief aloud, never suppress, and let the worker stop when they are finished — not when a figure is reached**. The Archive's standing objection is the reason that is the whole of the rule; the Warden records the gauge afterward rather than watching it during, and a cycle ended early on a reading has twice produced a worker who went back in without authorisation.
 
 ### Consequences
 
@@ -342,14 +342,14 @@ Changwook understood, watching the translucent figure rise from the foundation a
 
 - The only entity hope's light cannot warm — and the Archive argues that is why the city still stands.
 - Its weeping has no sound; the silence is older than language.
-- The Hanaris family has kept its memory for four thousand years; Changwook is the last.
+- The Hanaris family has kept its memory for 4,000 years; Changwook is the last keeper of it.
 - On the Consolihan, the Old Lament weeps visibly — the only day the foundation-grief is audible.
 - Citizens who share their grief with it report sleeping better for a month.
 
 ### Registry Trivia
 
 - **Classification detail:** Graded Subject although it was ambient for four thousand years — Fragment (III), Major (γ). The registry's note is that it did not become an entity, it became visible, and that the grading dates from the Hand of Hope's opening rather than from anything the sorrow did.
-- **Field detail:** Lament, in the Old Lament quarter of Zone B, drifting roughly nine metres in four years on a bearing that has not varied by more than four degrees and points at the Alpha Tree's roots.
+- **Field detail:** Lament, in the Old Lament quarter of Zone B, drifting roughly 9 metres in 4 years on a bearing that has not varied by more than 4 degrees and points at the Alpha Tree's roots.
 - **Recognition detail:** The silence and the damp. Everything else in the Old Lament echoes and dries; this quarter does neither within thirty paces of the entity.
 - **Record detail:** Unknown Sorrow Entity registry, Entry 02 — the first residual (untransformable) sorrow catalogued.
 - **Containment detail:** There is no containment and there is no proposal for one. The Old Lament is an open district with people living in it, and the Directorate's position — minuted and unpopular — is that the quarter was always like this and that the entity's visibility, not its presence, is the new thing.
