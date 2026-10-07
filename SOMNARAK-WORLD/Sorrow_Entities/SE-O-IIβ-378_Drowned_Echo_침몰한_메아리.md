@@ -41,7 +41,7 @@
 - A cycle lowers the gauge and shortens nothing. The interval between calls has run between eleven and forty seconds for nine years and has never closed; the voices do not arrive faster for being answered.
 - Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
 - The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- No M.A.W. extraction comes as a courtesy of the work; it is a risk event of its own and is never treated as a reward.
 
 ## Combat Record
 ### Core Stat Line
@@ -126,7 +126,7 @@
 - **Formation:** The Echo formed from voices lost beneath Han floods.
 - **The Sorrow:** The grief of speaking while knowing no one above the surface can hear.
 - **The Event:** A tunnel inundation drowned workers and trapped their last calls beneath the city.
-- **The People:** Thirty-one tunnel workers of the lower cut, listed in full. The commissioning file holds the shift list compiled for payroll that morning, which is complete and accurate for a reason that has nothing to do with rescue, and is the only record of who was below.
+- **The People:** Thirty-one tunnel workers of the lower cut, listed in full. The shift list in the commissioning file was compiled for payroll that morning, which is complete and accurate for a reason that has nothing to do with rescue, and is the only record of who was below.
 - **Expanded origin context:** The lower cut flooded in under four minutes and the surface board recorded calls from below for two hours and forty minutes afterwards. The log for that morning survives. Against each call there is a time of receipt and an empty acknowledgement column, because the standing instruction was that no acknowledgement be sent until a rescue decision had been taken, and the rescue decision was taken at the end of the second hour. The instruction was not malicious and was not even unreasonable; it existed so that nobody below would be given false hope. Thirty-one people therefore called for two hours and forty minutes into a board that was listening and said nothing.
 
 ## Behavior
@@ -301,14 +301,14 @@ Your ears fill with water though your clothes remain dry. A voice speaks beneath
 
 ### Interaction Pattern
 
-Three relations, all of them things said and not received, and all measured on the interval. One lengthened it, one shortened it — the only thing that ever has — and one did nothing at all.
+Three relations are filed here; every one of them is a thing said and not received, and each is measured on the interval. One lengthened it, one shortened it — the only thing that ever has — and one did nothing at all.
 
 **Interaction method:** Establish it alone first, with the week's acknowledgement figures collected alongside, since those are the variable. In shared conditions log the interval, the number of distinct voices, and whether the other record answered anything — the Hollow Echo preserves unanswered calls and does not return them, and the interval shortens throughout joint sessions without exception.
 
 
 ### Entity Interaction Record
 
-Nine sessions across three holdings, each timed to the half-second. The table records what each party brought and what the interval did.
+Nine sessions across three holdings, each timed to the half-second. The table sets down what each party brought, and what the interval did to it.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -328,7 +328,7 @@ The calls did not reach the surface. The Han, thick and dense, absorbed the soun
 
 Drowned Echo is Subject-Mind, Lament-element: the figure of voices lost beneath the flood — the trapped calls, the un-received pleas, the workers who spoke knowing no one above could hear. The Echo does not rise. It drowns — perpetually, in the city's foundations, the calls replaying in the underground channels, the voices calling upward through a medium that carries sound down.
 
-Those who come near the Drowned Echo hear, faintly, the submerged calls — the workers' voices, distorted by the Han, calling for rescue from beneath the flood, the specific despair of speaking into a medium that will not carry your words to the ear that needs to hear them.
+Stand at the water's edge and the submerged calls come up faintly — the workers' voices, distorted by the Han, calling for rescue from beneath the flood, the specific despair of speaking into a medium that will not carry your words to the ear that needs to hear them.
 
 Some sorrows mourn the drowned. Drowned Echo mourns the calling — the voices that spoke and were not heard, the pleas that sank, the workers who died calling upward through a flood that carried their words down.
 ## 증언 (Testimonium) — The Testimony
@@ -378,11 +378,11 @@ Speech in its vicinity acquires the quality of being spoken underwater, which af
 
 ### Pressure Instead of Language
 
-What it conveys arrives as pressure rather than as words, and the Warden records that communication occurred without asserting what was said. The distinction is held throughout the folder. The archivist's note observes that it is the same convention used at the other mind-register holdings and cross-refers to them so the practice is visibly consistent.
+What it conveys arrives as pressure rather than as words, and the Warden records that communication occurred without asserting what was said. The distinction is held throughout the folder. The archivist's note ties it to the other mind-register holdings by cross-reference, so that the practice reads as visibly consistent across the wing.
 
 ### A Tunnel That Flooded
 
-An inundation drowned workers and their last calls stayed beneath the city, and the commissioning file holds the shift list for that tunnel with the names of those below at the time. The list is complete. The archivist's note observes that it was compiled for payroll rather than for rescue, that it happens to be accurate, and that it is the only full record of who was there.
+An inundation drowned workers and their last calls stayed beneath the city, and a shift list for that tunnel is kept in the commissioning file, with the names of those below at the time. The list is complete. The archivist's note sets it out without decoration: compiled for payroll and not for rescue, accurate by accident, and the only full record of who was there.
 
 ## Trivia
 
