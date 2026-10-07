@@ -2923,6 +2923,14 @@ file's own clause as a documented suppression condition (Two respiration series,
 condition **274 → 275 / 301**. Movement: `R-29` 269 / 301; section-clean 301 / 301; archive dirty 0;
 file-clean 302 / 302. **Batch 42 stands at one of seven.**
 
+**Batch 43, unit 6: Once Told `O-IVδ-930` closed.** Measured at `1d22cf4`: failures were `parity ['interactions']`
+and `condition` False — **closed in a single wave**; 4,592 → **5,031 words**; `tpl.py` residue 0; `sectfile.py` **0
+section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section written in the file's own
+terms (3 rows — Sky of Borrowed Faces `O-IIIγ-926`, Once Upon `O-IIIγ-920`, Miasma `C-IVδ-922` — with its own column
+set), parity **290 → 291 / 301**; the Resolution line extended to carry the file's own clause as a documented suppression
+condition (A cycle adds nothing to the inventory, which is the only success condition this holding has), condition **286 →
+287 / 301**. **Batch 43 stands at six of ten.**
+
 **Batch 43, unit 5: Amnesia `O-IIβ-914` closed.** Measured at `64302fe`: failures were
 `parity ['interactions']` and `condition` False — **closed in a single wave**; 4,570 → **5,018 words**; `tpl.py` residue
 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section
@@ -2966,6 +2974,8 @@ condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
 **Batch 43 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IVδ-930 Once Told 살아 있는 서사 — `6b0d04d` — PUSH VERIFIED — [[SE-O-IVδ-930_Once_Told_살아_있는_서사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-930_Once_Told_%EC%82%B4%EC%95%84_%EC%9E%88%EB%8A%94_%EC%84%9C%EC%82%AC.md "SE-O-IVδ-930_Once_Told_살아_있는_서사.md")]
 
 - SE-O-IIβ-914 Amnesia 잊혀진 일분 — `47d1315` — PUSH VERIFIED — [[SE-O-IIβ-914_Amnesia_잊혀진_일분](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-914_Amnesia_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%BC%EB%B6%84.md "SE-O-IIβ-914_Amnesia_잊혀진_일분.md")]
 
