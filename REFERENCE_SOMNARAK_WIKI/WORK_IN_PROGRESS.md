@@ -2796,6 +2796,12 @@ entry residual cleared line-locally; `own_series` already True; the file's own f
 edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 301; section-clean 283 / 301; archive
 dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
 
+**Batch 41, unit 2: Collapsed Seed `N-IVδ-315` closed.** Measured live at `6349dcd`: **1 dirty section**, Final Observation —
+**closed in a single wave** (14 sites across the shared template lines); 8,812 → **8,842 words**; `tpl.py` residue 0;
+`sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held, residual 0 on entry. Movement:
+`R-29` 264 / 301; section-clean 300 / 301; archive dirty 1; file-clean 302 / 302. **Batch 41 stands at two of
+five.**
+
 **Batch 41, unit 1: Apostle Maker `C-Iα-071c` closed.** Measured at `144d717`: **1 dirty section**, Final Observation —
 **closed in one wave plus a bounded fix**; 3,806 → **3,923 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over
 0.05**; `wikistd.py` meets **True**. Disclosed: a 4th Battle Phase written as Resolution carrying the file's own clause
@@ -2806,6 +2812,8 @@ conversions), `own_series` False → True, series **283 → 284 / 301**; the `Mo
 299 / 301; archive dirty 2; file-clean 302 / 302. **Batch 41 stands at one of five.**
 
 **Batch 41 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IVδ-315 Collapsed Seed 무너진 씨앗 — `b06f2f3` — PUSH VERIFIED — [[SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-315_Collapsed_Seed_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%94%A8%EC%95%97.md "SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md")
 
 - SE-C-Iα-071c Apostle Maker 사도 만드는 자 — `3833445` — PUSH VERIFIED — [[SE-C-Iα-071c_Apostle_Maker_사도_만드는_자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-071c_Apostle_Maker_%EC%82%AC%EB%8F%84_%EB%A7%8C%EB%93%9C%EB%8A%94_%EC%9E%90.md "SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md")
 

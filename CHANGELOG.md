@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 41 / unit 2 — Collapsed Seed `N-IVδ-315` closed (2026-10-07)** — measured live at `6349dcd`: **1 dirty
+  section**, Final Observation (0.052), with shared template lines in Operational Parameters, Combat Record, Breach
+  Behavior, M.A.W. Equipment and the Registrum. **Closed in a single wave** (14 sites): the Final Observation blockquote
+  and both of its rows, the yield and work-approach lines, both combat action rows, the resistance row, the breach-gauge
+  bullet, both appearance lines, the effect line, the relations header row and the containment line, each in fresh
+  wording. 8,812 → **8,842 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py`
+  meets **True**; condition held; residual 0 on entry; `own_series` already True. Movement at the unit commit: `R-29`
+  264 / 301; section-clean 300 / 301; residue-free 302 / 302; residue lines 0; archive dirty 1;
+  file-clean 302 / 302. **Batch 41 stands at two of five.**
+
 - **Batch 41 / unit 1 — Apostle Maker `C-Iα-071c` closed (2026-10-07)** — measured at `144d717`: **1 dirty section**, Final
   Observation (0.057), with `condition` False, `series` False, one residual line and a `..` seam. **Closed in one wave
   plus a bounded fix**: a 4th Battle Phase written as **Resolution** registering the file's own clause as a documented
