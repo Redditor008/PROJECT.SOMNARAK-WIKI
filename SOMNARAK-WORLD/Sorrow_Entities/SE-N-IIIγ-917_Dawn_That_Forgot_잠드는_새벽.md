@@ -339,7 +339,7 @@ Exposures accumulate rather than resolving, and personnel totals are tracked acr
 
 ## Trivia
 
-- **29** episodes logged since **Y4238**, each carrying its **3** times, and **4** entries into the zone on record — none of which altered any of them.
+- **29** episodes logged since **Y4238**, each carrying its **3** times — mean **71** minutes from sunrise, range **40** to **110** — and **4** entries into the zone on record, none of which altered any of them.
 - One of the first catalogued **Time-Dream** entities in Somnarak.
 - Its dream descriptor makes it structurally unique among time entities.
 - The void pressure in the dream register feels different from standard void — more specific, more personal.
