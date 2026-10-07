@@ -39,7 +39,7 @@
 ### Operational Notes
 
 - A successful cycle slows the corrosion rate measurably and does nothing else. The pillar still stands where no building needs it, still supports no detectable load, and is still holding. Work here buys time off the rust clock and nothing off the burden.
-- No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire mechanism, and the figure here is 45%; this is a low threshold on a minor holding, which means the pillar activates often, cheaply, and without anybody having done anything dramatic to provoke it.
+- No counter is filed and none is implied. With no breach counter to read, the Sorrow Gauge percentage carries the whole mechanism, and here the figure is 45% — a low threshold on a minor holding, which is to say the pillar comes up often, cheaply, and with nobody having done anything dramatic to bring it up.
 - Ten to fourteen Han-Energy is low and the work is undemanding, which is the difficulty. There is nothing here to be frightened of and nothing to be tired by, so the only thing that keeps anybody honest about their hours is the tray at the base.
 - Extraction here is its own authorised event with its own paperwork, and never a bonus bolted onto a good cycle. What comes off this pillar is a flake from a thing that has carried its load alone for a very long time, and the pieces inherit the disposition: they hold up, they go the distance, and they break without announcement.
 
@@ -87,7 +87,7 @@
 
 1. **Tension:** The pair arrive together, confirm the rota interval and the time of the next relief before anything else, weigh the flake tray with both sets of initials against the figure, and confirm in writing what the pillar is supporting: nothing.
 2. **Clash:** Ten turns, Viderehan and Ferrehan only, and the rota is part of the method rather than an administrative arrangement around it. Watch changes at the stated interval whether or not the cycle is going well, and the outgoing worker leaves the area rather than staying to see it through.
-3. **Resolution:** The watch closes in containment, management or retreat, or on the file's own suppression condition: **Rotate labor and acknowledge shared responsibility**. The clause is unusual in this wing for being entirely reachable: the rota is held, the responsibility is said out loud, and nothing on this ground is carried by one person.
+3. **Resolution:** The watch closes in containment, management or retreat, or on the file's own suppression condition: **Rotate labor and acknowledge shared responsibility**. The clause is rare in this wing for being entirely reachable: the rota holds, the responsibility is said aloud, and nobody on this ground carries alone.
 
 ### Consequences
 
@@ -159,7 +159,7 @@ Atlas is an Object/Place with Place-Weight manifestation and Weight expression, 
 
 ### Escalation Notes
 
-Escalation here is slow and structural. Record who was on station and for how long before anything else, then the flake rate at that moment, the rust line, which nearby supports began to take weight and over what radius, and the point at which the spreading stopped. On every recorded activation the first field has turned out to be the explanatory one.
+Escalation here is slow and structural. The roster first — who was on station and for how long — then the flake rate at that moment, the rust line, which nearby supports began to take weight and across what radius, and where the spreading stopped. On every activation on record the roster has proved to be the explaining field.
 
 **Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Rotate labor and acknowledge shared responsibility. Do not use an unlisted Work Type as an improvised countermeasure.
 
@@ -235,11 +235,11 @@ The thick spine allows for heavy chopping and prying without risking blade fract
 
 **Cost:** The bearer moves a little slower.
 
-*A Stigma out of this source is given and never made. One appears after a successful cycle, at the entity's own disposition; no amount of service at the pillar obliges one.*
+*A Stigma out of this source is given, not made. One appears after a successful cycle at the entity's own disposition; service at the pillar entitles nobody to one.*
 
 ### M.A.W. Use Notes
 
-The three pieces are flakes off something that has been bearing a load alone for a very long time, and they carry that disposition exactly: they perform, they endure, and they do not signal when they are failing. The listed benefit holds inside the intended pattern and the cost outside it is paid in the wielder's ability to stop. No protocol produces a Stigma; it comes from the source or not at all.
+The three pieces are flakes struck off something that has borne its load in solitude for a very long time, and they inherit the disposition exactly: they perform, they hold, and they give no signal when they are going. The stated benefit holds inside the intended pattern; outside it the price is the wielder's capacity to stop. No protocol makes a Stigma — it comes from the source or it does not come.
 
 ### Field Use Record
 
@@ -290,7 +290,7 @@ The burden of holding others up while no one asks whether the support is failing
 Work response — Viderehan: Reveals the structure it once supported. (Stable); Ferrehan: Tests whether the worker can stand without becoming support. (Decrease). Personnel feel sorrow rather than fear nearby.
 
 **Entry 5 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a friend who was forgotten. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow grew heavy. This sorrow pressed down. This sorrow solidified into something that could not be ignored.
+The story the wing tells about Atlas is not the anthology's version. It opens in the Forge District with a man who carried for everybody until the carrying was the only thing anyone knew about him; the sorrow grew heavy until it went hard, and what was left settled into the floor as a pillar that holds no structure and does not fall.
 
 ## 최종 관찰 (Final Observation)
 
@@ -317,14 +317,14 @@ The Pillar stands beneath the Forge, holding nothing. You lean against it and fe
 
 ### Interaction Pattern
 
-Three holdings are read alongside Atlas — The Crumbling Saint, The Hollow Architect and The Sleeping Weight — and each is a resonance question rather than an alliance or a standing quarrel. Where a pairing is run, enter what the answer did in sound, movement, temperature, memory pressure, gauge or containment stability, with range, duration and trigger beside it.
+The Crumbling Saint, The Hollow Architect and The Sleeping Weight are read on the same page as Atlas; none is claimed as ally or adversary, and each is a question the archive has left open. If a crossing is ever logged, it carries what the dials did, where the gauge finished, the radius the spreading opened at, how long it held, and the trigger.
 
 **Interaction method:** Baseline each entity alone; without a long solo flake series an interaction reading here is indistinguishable from ordinary corrosion. The relations on file concern burden, structure, or endurance, so the question to settle is whether the pillar's rate responds to the other presence — whether anything in the district can take weight off it, which is the one question this holding has that would matter if it were ever answered yes. Capture range, duration, trigger, gauge delta on both sides, field effect, and post-separation residue. A stable pattern is a hypothesis and not a law; re-verify every cycle.
 
 
 ### Entity Interaction Record
 
-Atlas is assessed with the other sorrows made by people who carried things alone, not as an isolated fixture in the Forge District. The relations below are canonical because they have been observed and filed, not because any of them is settled. Any of the three may present as assistance, obstruction, indifference or a condition that shows only under load, and a result obtained once carries no authority through a Sorrow Tide, a breach elsewhere, an Ordeal or a transformation event.
+Atlas is read alongside the other sorrows left by people who carried alone, not as a fixture sitting by itself in the Forge District. The relations below are canonical because they were seen and filed, not because any of them is closed. Each of the three may come as help, as obstruction, as indifference, or as a condition that shows only under load; and a result obtained once has no authority through a Tide, a breach elsewhere, an Ordeal or a transformation.
 
 | Atlas's neighbour | How the pairing has run | What the flake series showed | What the entry carries |
 |---|---|---|---|
@@ -346,7 +346,7 @@ Atlas is Place-Weight: the figure of a support that became an identity — the w
 
 The Pillar supports still. It cannot do otherwise — the support is the Pillar's entire nature, the identity the worker assumed when the holding became permanent. And no one asks whether the support is failing, because no one knows the support is a person, because the worker was incorporated so thoroughly that the structure and the person are, now, indistinguishable, and the structure is simply maintained, and the person inside the structure simply holds, rusted into the foundation, supporting, forever, the building that consumed the one who held it up.
 
-Those who come near the Atlas feel the burden of support that became identity — the specific, heavy sorrow of holding others up and being absorbed by the holding, of becoming the thing you were only supposed to maintain.
+The approach to Atlas brings the weight of support turned into identity — the heavy sorrow of holding other people up and being swallowed by the holding, of becoming the thing you were only supposed to maintain.
 
 Some sorrows are about sacrifice. Atlas is about the sacrifice that became the sacrificer — the worker who held and was held, who braced and was braced, rusted into the foundation, supporting, permanently, the structure that ate the person who kept it standing.
 ## 증언 (Testimonium) — The Testimony
@@ -368,7 +368,7 @@ Some sorrows are about sacrifice. Atlas is about the sacrifice that became the s
 **Comprehension Level:** 1 — Initial
 **Threat Assessment:** Minor (α). It has never harmed anybody. What it does is make one person indispensable and then spread weight through the district's supports while everyone involved feels fine.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan only; it is an Object/Place and cannot be wept with or confronted.
+- Viderehan and Ferrehan only. An Object/Place offers nothing to mourn and nothing to face down.
 - Paired watches on a timed rota; the outgoing worker leaves the district rather than staying to see the cycle out.
 - On expansion, survey the nearby supports for the spreading radius and restore the relief interval; the condition is rotation and shared responsibility, not reinforcement.
 **Observation Notes:**
@@ -414,7 +414,7 @@ The relief interval is not waivable. If the worker on station declines to hand o
 
 **Nineteen removals in nine years.** Each one was carried out by colleagues, usually by people junior to the person being carried out, because the incoming pair is whoever is on the rota. The removed worker is stood down from the district for one cycle and loses the Forge differential for that period, which the wing has never found a way to avoid. Two resignations on file give the removals as the reason — one by a person who was removed, one by a person who did the removing.
 
-The staff association's objection is minuted and read at every annual review. Laying hands on a colleague who has committed no offence is assault with a procedure written around it; the burden of doing it falls on peers and on juniors, who have no standing to refuse; and the wing has solved its containment problem by distributing it among the people least able to object. The minute records the objection as **correct in every particular**, records that the alternative is leaving somebody at the pillar, and leaves the instruction in force.
+The staff association's objection is minuted and read annually. Laying hands on a colleague who has done nothing is assault with a procedure built around it; the duty falls on peers and juniors who are in no position to refuse; and the wing has answered its containment problem by sharing it out among the people least able to object. The minute enters the objection as **correct in every particular**, notes that the alternative is leaving a man at the pillar, and leaves the instruction standing.
 
 ## Trivia
 
