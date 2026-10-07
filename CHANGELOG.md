@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 43 / unit 1 — Allhallow `O-IIIγ-916` closed (2026-10-07)** — measured at `59fa5d3`: failures were
+  `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing `## 상호작용 (Entity
+  Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row record pairing the
+  border with Once Upon `O-IIIγ-920`, Never Discharged `O-IIβ-911` and Dead Air `N-IIIγ-929` under its own column set, and
+  an interaction procedure — parity **285 → 286 / 301** · and the Resolution line extended to carry the file's own clause
+  as a documented suppression condition (**Both posts hand in their tallies without conferring, and the difference is
+  written down as a difference**) — condition **281 → 282 / 301**. 4,206 → **4,657 words**; `tpl.py` residue 0;
+  `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**; residual 0 on entry; `own_series` already True.
+  Movement at the unit commit: `R-29` @r29@ / 301; section-clean @sc@ / 301; residue-free @clean@ / 302; residue lines
+  @lines@; archive dirty @dirty@; file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
+
 - **Batch 42 closed at seven (2026-10-07)** — seven dossiers finished, all seven with their SE git links and closing
   commits recorded in `REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS.md` under **Batch 42 — CLOSED at seven**. Movement, b42
   open (`284ae17`) → close: `R-29` 269 → **274 / 301** · parity 278 → **285 / 301** · condition 274 → **281 / 301** ·
