@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 35 / unit 1 — Burning Root `C-IIIγ-558` closed (2026-10-07)** — measured at `4af11e2`: **2 dirty sections**,
+  worst Final Observation 0.185 (the choice blockquote, the choose row and the result row), then M.A.W. Equipment 0.056
+  (the three `matte and unnaturally heavy` appearance lines, the stat line, the charm paragraph and two field-use rows).
+  **Closed in a single wave** (30 sites); 6,773 → **6,953 words**; `tpl.py` residue 0; `sectfile.py` ends at
+  **0 section(s) over 0.05**; `wikistd.py` meets **True** with the condition held; the condition was re-registered inside
+  the rewritten resolution line. Both residuals cleared (the after-use row and Entry 1's `is logged as ` line, now
+  `stands on the register as`) — residual **2 → 0**; `own_series` **F → T** with the file's own figures restated in
+  numerals inside real edits (31 per cent of the floor area, 4 generations, 1 and 3 metres, 19 debriefs, 2 missed
+  projections) — disclosed. **Disclosed:** rollback **#29** struck at the batch open — the checkout was found at the
+  session's base `408797c` while the remote held `4af11e2`; the standing recovery was run (fetch → `git diff --stat
+  FETCH_HEAD` → `git reset --mixed FETCH_HEAD` → `git checkout -- PR_12_NEVER_MERGED.md`) and the batch opened clean on
+  a verified-levelled tree, open measure `R-29` 214 / 301 · section-clean 239 / 301 · archive dirty 107. Movement at the
+  unit commit: `R-29` 215 / 301; section-clean 240 / 301; residue-free 302 / 302; residue lines 0; archive
+  dirty 105; file-clean 302 / 302. **Batch 35 stands at one of five.**
+
+
+
 - **Batch 34 CLOSED at five (2026-10-07).** Five dossiers, **16 / 16 dirty sections closed**, **+1,104 words** net
   across the five unit commits, `verify.py` residuals **7 → 0**, nothing deleted (`R-15`). Each unit committed
   individually and pushed (`A0`) and validated by `wikistd.py` (`meets True`), `sectfile.py` (0 sections over 0.05),
