@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's dream pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
-| { *The Dream Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void dream sorrow.] | *Void damage strikes the target; the gauge spikes.* **[21 Void DMG [Void]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[29 Void DMG [Void]]** | When the entity is cornered or starved. |
-| { *The Dream Collapse* [**Ultimate**] } | "The dream breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[23 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Stalled Watch* [**Debuff**] } | "The clock reaches the hour before dawn and stays there, and nothing on the shift ends." | [The hour the dawn forgot to close settles over the target and does not lift.] | *Target carries the weight of a night that will not end.* **[10 Void DMG [Void]]** | When the shift first walks into the stall. |
+| { *The Forgetting Spreads* [**Attack**] } | "You cannot remember whether the sun came up yesterday, and the doubt is the point." | [The forgetting moves out of the stall in every direction at once.] | *The doubt does the work, and the hour is forgotten in turn.* **[21 Void DMG [Void]]** | When the stall is entered a second time. |
+| { *Nobody Remembers the Sunrise* [**Attack**] } | "Ask the room when the light last came — four answers, none of them the same, all of them certain." | [The stall closes on one point and the whole shift loses the same hour together.] | *The certainty does the damage; the gauge surges across the ground.* **[29 Void DMG [Void]]** | When the stall is pressed or the shift is forced across it. |
+| { *The Sleep That Takes the Sky* [**Ultimate**] } | "Dawn breaks over every district at once — and nobody watching it can say whether the sun rose or the sky simply stopped." | [The stall goes out to the horizon and the day does not start anywhere in it.] | *All personnel suffer Void erosion for three turns, and the date is entered from the records rather than from memory.* **[23 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
