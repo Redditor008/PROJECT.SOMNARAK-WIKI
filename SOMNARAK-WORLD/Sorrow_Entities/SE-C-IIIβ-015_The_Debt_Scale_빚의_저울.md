@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 30% against Void pressure; 20% against other pressure types |
+| **Resistance** | 30% against Void pressure, and 20% against every other kind |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 506/506 |
 | **Han Pressure [ATK]** | 8–19 per hit · Void |
@@ -79,17 +79,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Reading* [**Debuff**] } | "It weighs you — and the needle drops, and you are found heavy with what you owe." | [The Scale measures the target; the reading brands them with their debt.] | *Target suffers a Void mark; their debt is now visible to all.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Scale is consulted or approached. |
-| { *The Tipping Balance* [**Debuff**] } | "The scale tips against you, and the tilt does not stop." | [The balance leans harder; the target feels the debt pressing down.] | *Target loses clarity as the weight of owed things settles on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains on the Scale. |
-| { *The Weight of Owed* [**Attack**] } | "Your debt, made into a stone, dropped on you." | [The Scale converts what the target owes into a single crushing force.] | *Inflicts Void damage proportional to the debt.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target is judged wanting. |
-| { *The Overdraft* [**Attack**] } | "You owe more than you have. The Scale takes the difference from you." | [The Scale calls the overdraft due, extracting what the target cannot pay.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Scale is struck or overloaded. |
-| { *The Bankruptcy* [**Ultimate**] } | "The Scale weighs everyone at once — and everyone comes up short." | [The Scale extends its judgment across the field; all debts are measured simultaneously.] | *All in range suffer Void erosion for three turns.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Reading* [**Debuff**] } | "The pan takes your measure, drops hard, and leaves you carrying the difference." | [The Scale weighs the target and marks them with the figure it found.] | *Target suffers a Void mark; their debt is visible to everyone present.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Scale is consulted or approached. |
+| { *The Tipping Balance* [**Debuff**] } | "The beam tips your way in a slow lean that does not stop." | [The balance keeps leaning and the owed weight settles lower on the target.] | *Target loses clarity as the weight of owed things settles on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains on the Scale. |
+| { *The Weight of Owed* [**Attack**] } | "What you owe, turned into stone, and dropped from height." | [The Scale makes one crushing mass out of the target's arrears.] | *Inflicts Void damage proportional to the debt.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target is judged and found short. |
+| { *The Overdraft* [**Attack**] } | "You owe past what you hold. The Scale collects the difference out of you." | [The overdraft is called in and taken from the target directly.] | *A heavy Void blow; the reading jumps 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Scale is struck or overloaded. |
+| { *The Bankruptcy* [**Ultimate**] } | "The Scale weighs the whole field at once, and nobody in it balances." | [The judgment widens out over the field and every debt is taken at the same moment.] | *Everyone in range takes Void erosion for three turns.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies The Debt Scale by the unaided dish movement and the warm bone; the courts' two ordinary balances are cold and still, and have been mistaken for it in correspondence twice, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** Identification rests on the unaided dish movement and on the warm bone; the courts' 2 ordinary balances are cold and still, and correspondence has mistaken them for the Scale twice. The approach is confirmed on that basis and positions are taken before anything else is attempted.
 2. **Clash:** Four turns at the plinth, observation and endurance only. Nobody places a hand on a dish, the circle is marked at the start and the end, and the dish positions are read by eye into the hand-ruled column.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The cycle ends the way the file's own rule ends it — containment, retreat or management, or against the documented suppression condition: **Viderehan and Ferrehan only at the plinth, certified Tool protocol, the circle marked after every expansion, and no measurement of any named person**.
 
 ### Consequences
 
@@ -232,7 +232,7 @@ Escalation here is the circle and nothing else. Record the trigger, the measurem
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** a flowing veil of Void Han-gossamer, barely translucent and near colourless, that draws tighter the closer it is carried to what it came from.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -244,23 +244,23 @@ Escalation here is the circle and nothing else. Record the trigger, the measurem
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Debt Scale's kind of pressure.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer grows faintly absent to themselves, and the feeling does not lift while the piece is worn.
 
 ### M.A.W. Stigma — The Balance Pendant
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a pendant of Void Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** a pendant of Void Han-glass that takes the light at an odd angle and gives nothing back.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** +1 to the stat while working the entity this piece came from, and no bonus anywhere else.
 
 **Ability:** Shows the karmic debt of another person.
 
 **Cost:** The wearer experiences the debt observed.
 
-*The Balance Pendant is not issued and cannot be requested. It has been conferred three times, in each case on a Warden who refused a measurement that the file shows they were entitled to take.*
+*The Balance Pendant is neither issued nor asked for. It has been conferred 3 times, each on a Warden who turned down a measurement the file shows they had every right to take.*
 
 ### M.A.W. Use Notes
 
@@ -272,7 +272,7 @@ Each Balance piece is an extension of the holding rather than equipment. It perf
 |---|---|
 | **Before use** | Operator name, grade, current gauge, psychological assessment, equipment condition, mission objective, and a signed acknowledgement that the operator's own figure will be taken and will not be disclosed to them. |
 | **During use** | Activation time, dish positions by eye, beam angle, circle against the floor mark, area protected, first cost paid, and any reading the instrument produces that nobody requested. |
-| **At limit** | Duration, activations, attribute change, rejection signs, final circle, and whether the operator asked at any point to be told their figure. |
+| **At limit** | Duration, activations, attribute change, rejection signs, the final circle, and whether the operator ever asked to be told their own figure. |
 | **After use** | Detachment, injuries, residual weight, cooldown, plinth condition, reuse authorisation, and the marked boundary signed by two people. |
 
 **Stat interpretation:** The grade describes the effect on entities and not the cost to the wearer, which is listed separately and is the larger figure on this holding. The cost here is a measurement of the wearer that is taken, recorded, retained, and never shown to them.
@@ -303,7 +303,7 @@ Each Balance piece is an extension of the holding rather than equipment. It perf
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Debt Scale (C-IIIβ-015 [VO]) is logged as a Object-Void manifestation expressing Void. The Scale formed from the demand for fairness. Held at SECTOR-C-01, used by Collectors. The Scale is always correct by its own definition.
+The Debt Scale (C-IIIβ-015 [VO]) stands on the register as a Object-Void manifestation expressing Void. The Scale formed from the demand for fairness. Held at SECTOR-C-01, used by Collectors. The Scale is always correct by its own definition.
 
 **Entry 2 — <Inherited and Personal>**
 It does not distinguish inherited debt from personal debt unless asked.
@@ -319,7 +319,7 @@ The archive cross-references this entity with its registered location — the so
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Debt Scale; the other feeds it.
+> The watch closes on one decision, and the file keeps its two endings on it: keep the plinth discipline exactly as written — the 2 Work Types, the certified Tool protocol, the circle marked after every expansion, no named person measured — or soften it.
 
 | Hold to the condition: Viderehan and Ferrehan only at the plinth, certified Tool protocol, the circle marked after every expansion, and no measurement of any named person. | Improvise something kinder, which is how every failure on The Debt Scale's file began. |
 |---|---|
