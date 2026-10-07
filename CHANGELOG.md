@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 39 / unit 5 — Apnea `N-IVδ-159` closed (2026-10-07)** — measured live at `cd6c9e9`: **2 dirty sections**,
+  Behavior (the Work-Type diagnostic paragraph, 0.054) and Final Observation (the choice blockquote, 0.088). **Closed in a
+  single wave** plus a fresh reword: the diagnostic paragraph, the blockquote, the choose row and a line-local residual
+  fix. The first blockquote rewrite reused the batch's own closing-choices phrasing, which had reached 12 carriers and
+  re-dirtied the section at 0.053; it was reworded a second time in wording used nowhere else, and the audit is disclosed
+  here. 8,382 → **8,415 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True**; condition held; entry residual cleared line-locally (`is logged as ` → `stands on the register as`);
+  `own_series` already True. Also fixed this turn: the close-check helper was silently aborting whenever `sectfile.py`
+  returned its nonzero status for sections over the line, and now tolerates it. Movement at the unit commit: `R-29`
+  246 / 301; section-clean 280 / 301; residue-free 302 / 302; residue lines 0; archive dirty 26;
+  file-clean 302 / 302. **Batch 39 stands at five of seven.**
+
 - **Batch 39 / unit 4 — The Angry Maiden `C-IVβ-042` closed (2026-10-07)** — measured live at `a22fff1`: **1 dirty
   section**, Final Observation (0.088, the choice blockquote), with `condition` False on entry. **Closed in a single
   wave**: the choice blockquote, the choose row and the result row re-authored, the resolution line's clause
