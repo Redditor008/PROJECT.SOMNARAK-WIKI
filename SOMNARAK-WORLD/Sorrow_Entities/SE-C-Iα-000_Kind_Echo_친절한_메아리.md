@@ -88,7 +88,7 @@
 
 1. **Tension:** Personnel identify the entity's docile nature, select any Work Type, and approach.
 2. **Clash:** The team performs the selected Work Type. The entity responds gently regardless of approach.
-3. **Resolution:** The work cycle completes. The entity dims slightly, then brightens again, ready for the next trainee.
+3. **Resolution:** The work cycle completes on the suppression condition: **all four Work Types remain open, the trainee's own account is written up, and the holding is never worked as a threat**. The entity dims slightly, then brightens again, ready for the next trainee — the room's own rule since its first intake.
 
 ### Consequences
 
@@ -223,7 +223,7 @@ The weapon fires non-lethal compressed sorrow-pellets through an eight-groove ri
 **Ability:** Granted at near-100% probability during training work (the entity is generous). +2 Composure, +2 Resolve while carried. The stone is warm, always.
 **Cost:** None. The entity gives freely. Some specialists carry their Warm Stone for their entire career.
 
-*Stigmas are granted at random by Kind Echo upon a successful work, not manufactured.*
+*Nothing on this bench manufactures a stigma. Kind Echo gives one after a successful work, at random, and the giving is the whole of the transaction: no requisition, no schedule, no request.*
 
 ### M.A.W. Use Notes
 
