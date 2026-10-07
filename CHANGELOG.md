@@ -22,7 +22,7 @@ This file records notable changes to the public Somnarak Wiki.
   **0.020** · median 0.007 → 0.007.
 
   Disclosures: **rollback #31** at the batch open (session base `408797c` against remote `1abedbb`), recovered by the
-  standing procedure. Six of the ten units closed in a single wave; units 3, 5, 9 and 10 aborted pre-write — u3 on a
+  standing procedure. Five of the ten units closed in a single wave; units 3, 5, 9 and 10 aborted pre-write — u3 on a
   count assertion, u5 on an anchor taken from truncated output, u9 on a capitalisation mismatch, u10 on a truncated
   escalation row — and the corrected waves ran whole, nothing written on any failed attempt; unit 4's close check held
   the commit on `series False` until the numerals fix and then closed whole. Condition registered **False → True** on
