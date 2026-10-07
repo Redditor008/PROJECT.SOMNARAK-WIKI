@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 33 / unit 8 — The Rage Statue `C-IIIγ-190` closed (2026-10-07)** — measured at `776cd85`:
+  **3 dirty sections**, worst Final Observation 0.159 (the choice blockquote, the choose row and the result row), then
+  Combat Record 0.062 (the yield and resistance rows, two action rows, the tension phase and the resolution) and Flavor
+  Text 0.055 (the relations preamble, the interaction method, the canonical-contact paragraph and the relations header).
+  **Closed in a single wave** (18 sites); 7,070 → **7,233 words**; `tpl.py`
+  residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause was
+  **False** and was closed **False → True** by restating the file's own figures in numerals inside real edits — the 4
+  reference plates and the 7-day and 28-day logbook readings — disclosed. The Entry 1 `is logged as ` stock line was
+  rewritten (`stands on the register as`), residual **1 → 0**; the tension phase's `reference plates exist because of
+  that, confirms the approach` splice was rebuilt whole-line. Movement at the unit commit: `R-29` 206 / 301;
+  section-clean 231 / 301; residue-free 302 / 302; residue lines 0; archive dirty 142; file-clean 302 /
+  302. **Batch 33 stands at eight of ten.**
+
+
+
 - **Batch 33 / unit 7 — Nemo `N-IIIγ-589` closed (2026-10-07)** — measured at `228f15a`: **4 dirty sections**,
   worst Final Observation 0.167 (the choice blockquote, the choose row and the result row), then M.A.W. Equipment 0.099
   (three appearance lines, the stat-bonus effect, the before/during/at-limit/after-use rows and the stat
