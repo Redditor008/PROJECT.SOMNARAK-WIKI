@@ -87,14 +87,14 @@
 
 1. **Tension:** The team establishes position upwind of the ash fall and fixes the one decision in advance, in writing, before the fire is in view: what it will take to make them intervene. The threshold is set in the corridor because inside the encounter every member of every team that has worked this holding has wanted to put the fire out.
 2. **Clash:** Work proceeds across a long engagement — twenty-four turns is typical and the duration is the point. The entity cycles through ignition, collapse and return while the team holds station, suppresses movement only, and does not touch the burning. Resilience is tracked on every member each turn, since the pressure here erodes the capacity to keep standing still.
-3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Allow the cycle to finish; forced extinguishing causes violent rebirth**. Nothing on this ground is put out, at any stage, including the stages where putting it out would plainly work.
+3. **Resolution:** The watch finishes on retreat, containment or management, or against the condition this file carries: **Allow the cycle to finish; forced extinguishing causes violent rebirth**. Nothing on this ground is put out, at any stage, including the stages where putting it out would plainly work.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
+- When a worker cannot hold, the flame takes the difference: **Resilience** and identity coherence are spent together, and the gauge climbs off both.
 - Extended contact invites the full documented cycle: the deaths and returns compressing into each other until the whole engagement area is burning and reigniting at once. Personnel caught in that condition report their own exhaustion arriving as rage, and the two are difficult to separate afterwards.
-- Every M.A.W. activation extracts a real price — recollection, sensation, years — set out in the equipment file and paid in the field rather than on paper. The pieces from this source charge in a particular currency: the wielder's ability to stop, rest, or admit that they have had enough.
-- Without resolution the entity escapes and roams, which is the breach type on the classification. It does not seek anyone out. It moves, burning, through whatever is in the way, because the one thing it has never been permitted to do is remain still.
+- Every draw on the kit is priced in recollection, sensation and years, set out in the equipment file, and paid in the field. The pieces out of this source charge in one currency above all: the bearer's capacity to stop, to rest, or to say out loud that they have had enough.
+- With no resolution the Phoenix leaves and ranges, which is the breach type entered on the classification. It looks for nobody. It goes, burning, through whatever stands where it goes, since remaining still is the one thing it has never been allowed.
 
 ## Appearance
 **Primary Form:** A massive bird made of crimson flame and black ash. It burns, dies, and reforms from its own remains.
@@ -142,7 +142,7 @@
 
 ### Operational Work Notes
 
-Ember Phoenix is a Subject with Subject-Body manifestation and Grudge expression, mobile across the Desolate and held by a perimeter rather than a cell. All four Work Types apply. Flerehan lowers the flame and delays the return, Ferrehan tests whether a worker can watch a death without demanding a resurrection, Viderehan opens the earlier cycles and moves nothing, and Pugnahan raises the gauge every time it has been tried. The gauge figure is secondary here; the interval is the measurement that matters.
+The file carries a Subject-Body manifestation expressing Grudge, mobile across the Desolate, held by a perimeter and not a cell. All four Types apply: Flerehan brings the flame down and delays the return; Ferrehan puts the worker in front of a death and asks them not to ask for a resurrection; Viderehan opens the earlier cycles and moves nothing; Pugnahan raises the gauge every time it has been tried. The gauge figure runs second here — the interval is the measurement.
 
 **Reading the response:** Read it in the interval between collapse and re-ignition. A falling gauge presents as lengthening — the ash lying longer, the spark slower to come, the fire smaller when it does. The pressure is absorbed and the source is untouched; she is resting, not finished, and the next ignition is already on its way. A rising gauge presents as vigour. The returns come faster and bigger, the wings carry further, and the thing looks magnificent and unkillable in exactly the way the old stories describe. That is the failure state. Magnificence here is the measure of how little recovery she has been allowed. If the entity responds differently from the record, write it down before acting on it, and resist the particular temptation this holding produces, which is to read a strong return as a good outcome.
 ## Breach Behavior
@@ -218,11 +218,11 @@ The culverin discharges volcanic fire-slugs wrapped in dense black soot that exp
 
 **Cost:** The wearer returns carrying the emotional memory of dying.
 
-*A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, as unbidden as the next ignition, and no amount of correct procedure summons one.*
+*The Stigma here is a gift rather than a manufacture. One arrives when a cycle has succeeded, on the entity's own initiative, unbidden as the next ignition, and no procedure, however correctly run, has ever called one up.*
 
 ### M.A.W. Use Notes
 
-Each piece extends Ember Phoenix rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder's old injuries ache, every one of them, in the order they were received. Prolonged use leaves faint bruising over scars that healed years ago — arrives early and does not reverse on return.
+Nothing in the set is built against the Phoenix; each piece extends it. The benefit holds inside the pattern this file records; outside it the bill is old injuries, every one of them, made to ache again in the order they were taken, and bruising that comes up over scars which closed years ago — it arrives early and does not settle when the watch does.
 
 ### Field Use Record
 
@@ -262,7 +262,7 @@ Each piece extends Ember Phoenix rather than equipping its wielder against it. T
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Ember Phoenix (O-IVδ-190 [GS]) stands in the record as a Subject-Body manifestation expressing Grudge. The Phoenix formed from survival that became another kind of death. Held at The Desolate — mobile. The Phoenix's cycle has no recorded first death.
+Ember Phoenix (O-IVδ-190 [GS]) is entered in the record as a Subject-Body manifestation expressing Grudge, formed from a survival that turned into a different death. The Desolate, mobile. Nowhere in the record does the Phoenix's cycle show a first death.
 
 **Entry 2 — <Excerpt from Desolate Pursuit Log, Year 4238>**
 Flies through the Desolate, leaving fire and ash. Nearby entities become agitated and personnel relive repeated loss. Its flame burns memory as readily as matter.
@@ -274,7 +274,7 @@ The burden of having to rise again when no one asks whether you are ready.
 Management: Allow the cycle to finish; forced extinguishing causes violent rebirth. Work response — Flerehan: The flames lower and the Phoenix delays rebirth. (Decrease); Pugnahan: It attacks in a blazing dive. (Increase); Viderehan: Shows memories from previous cycles. (Stable); Ferrehan: Tests whether the worker can witness death without demanding resurrection. (Decrease). Personnel feel hope before understanding the exhaustion beneath it.
 
 **Entry 5 — <Director's Minute on the Extinguishing Prohibition>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a lover who was abandoned. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow burned slow. This sorrow banked its heat. This sorrow hardened into something that could not be ignored.
+Every wing keeps an origin told about this fire, and the one told here does not match the anthology's. It opens with a woman left behind on the road out of the city, and the grief that took her did not burn out: it banked itself, low and hot, until what walked away from the embers was not the person who had waited.
 
 **Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 
@@ -303,14 +303,14 @@ The sky catches fire. Wings cross the Desolate, then collapse into ash. You expe
 
 ### Interaction Pattern
 
-Ember Phoenix is read against the other holdings that burn or renew, and the question put to each pairing is always the same one: does the other presence make the return come sooner. Nothing else about a relationship here has ever mattered operationally, and the interval is therefore the field recorded on both sides.
+Ember Phoenix is read against the holdings that burn or that renew, and one question is put to each pairing: does the other presence make the next return come sooner? Nothing else about a relation here has ever mattered in the field, so the interval is the field entered on both sides.
 
 **Interaction method:** Baseline each entity alone across a full cycle before any approach; an interaction reading taken against an unbaselined cycle is worthless here. The relations on file concern fire, endurance, or returning, so the question to settle is whether the proximity alters the interval — whether the other presence makes the return come sooner. Log the first mutual reaction, the distance that triggers it, the duration, the gauge change on both sides, the operational impact, and whether separation ends it. Repeat each cycle; a settled dynamic in the Desolate has been reversed overnight by a Sorrow Tide, an Ordeal or a transformation more than once.
 
 
 ### Entity Interaction Record
 
-Ember Phoenix must be assessed as one of a group of sorrows that renew themselves rather than as a solitary fire crossing the Desolate. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
+Ember Phoenix is read among the sorrows that renew rather than as a lone fire crossing the Desolate. The relations below are canonical in the sense that they have been seen and filed, not in the sense that they are closed. Any of them can present as help, as an obstacle, or as nothing at all, and some hold only while the load does. A single result settles nothing: it survives no Tide, no breach elsewhere, no Ordeal, no transformation event.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -330,9 +330,9 @@ The endurance ignited. The accumulated survival — the repeated, compulsory ris
 
 The Phoenix burns. The Phoenix rises. And the rising, each time, is the sorrow — because no one asks the Phoenix whether she is ready. The city, the Desolate, the catastrophe — none of them consult the survivor before inflicting the next disaster. None of them ask: are you ready to rise again? Have you rested? Have you grieved? The Phoenix rises because the Phoenix must, and the must is the burden, and the burden is the fire that burns, eternally, with the rage of a survivor who was never given the option to stay down.
 
-Those who come near the Ember Phoenix feel the specific burden of compulsory survival — the exhaustion of rising when no one asks if you are ready, the rage of surviving because you cannot stop, the fire of an endurance that was never voluntary and that the world, indifferent, continues to demand.
+Coming near the Ember Phoenix brings the weight of survival made compulsory — the fatigue of rising when nobody asks whether you are ready, the fury of surviving because stopping is not permitted, and an endurance that was never volunteered and that an indifferent world keeps asking for.
 
-Some sorrows mourn the dead. Ember Phoenix mourns the surviving — the compulsory rising, the fire that will not go out, the survivor who endures because endurance is the only option and who carries, in the eternal burning, the fury of never being asked whether she wants to rise again.
+Some sorrows mourn the dead. This one mourns the ones who keep rising — a fire that will not go out, a survivor who endures because endurance is the only item on offer, and who carries, inside the burning, the fury of never once being asked whether she wants to rise again.
 ## 증언 (Testimonium) — The Testimony
 
 > *“She survives every catastrophe. The survival is compulsory. No one asks if she is ready.”* — Keeper, Archive
@@ -426,7 +426,7 @@ The holding completes roughly **one hundred and ten cycles a year**. The wing at
 
 The cost is not borne by the facility, which has simply reduced this wing's expected contribution and made it up elsewhere. It is borne by the watch. Establishment and the δ-attendance uplift are both calculated on attended hours, so the cap holds the posting permanently below the staffing its tier would otherwise carry and costs each member of the watch the uplift on **eighty-four cycles a year** — a figure the payroll office has calculated twice, on request, and which the watch has twice declined to appeal.
 
-The staff representative's objection is on the file and is read at every annual review. A wing may not fund a moral position out of its workers' wages; consent gathered inside a team of eleven, where the commander's view is known, is not consent in any sense the Company recognises; and the people most likely to agree to it are the ones already describing their own tiredness in the entity's terms. The minute records the objection as **correct on every count**, records that the wing has no answer to it, and leaves the cap at twenty-six.
+The minute enters this objection as **correct on every count**, notes that the wing has nothing to answer it with, and leaves the cap where it stands, at twenty-six.
 
 ## Trivia
 
