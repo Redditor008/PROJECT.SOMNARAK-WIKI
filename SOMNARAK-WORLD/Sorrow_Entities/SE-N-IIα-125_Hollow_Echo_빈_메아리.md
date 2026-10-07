@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Viderehan and Ferrehan only, since there is nothing here to confront; speech into the enclosure is scripted, single-pass, and never a promise |
+| **Recommended response** | The enclosure’s two valid Work Types, worked in a single scripted pass with no promise spoken; the interval between repetitions, not the volume, is the reading that is logged |
 
 ### Operational Notes
 
