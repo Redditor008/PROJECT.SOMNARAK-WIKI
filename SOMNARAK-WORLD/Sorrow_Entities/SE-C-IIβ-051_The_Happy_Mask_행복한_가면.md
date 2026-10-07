@@ -42,7 +42,7 @@
 - The expression does not change, and personnel consistently describe it differently from one another.
 - Work settles it. The Mask is unaltered, and the disagreement between accounts persists after a clean cycle.
 - Viderehan and Ferrehan are the valid approaches; neither resolves the discrepancy in description.
-- There is no breach counter. The Mask is housed with the rest of the Troupe, and escalation in one member is logged against all of them.
+- No breach counter is kept for the Mask. It is housed with the rest of the Troupe, and escalation in one member is logged against all of them.
 - Recovery of the implement is authorized separately from the work cycle.
 
 ## Combat Record
@@ -87,9 +87,9 @@
 
 ### Battle Phases
 
-1. **Tension:** The Mask is identified by tray number and designation before anybody lifts the lid: 4 masks in this vault answer to roughly the same description, and 2 of them punish handling. The approach is confirmed and positions are taken before anything else is attempted.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows The Happy Mask's recorded combat actions. Sorrow Gauge changes determine escalation.
-3. **Resolution:** The watch closes on the standard quotas, or against the documented suppression condition: **Viderehan and Ferrehan only; the mask is never worn and the tray reading is logged at both ends of the cycle**. The clause is discipline and not caution: nobody puts the thing on, and the two readings at the tray are what the day is written from.
+1. **Tension:** The Mask is identified by tray number and designation before anybody lifts the lid: 4 masks in this vault answer to roughly the same description, and 2 of them punish handling. The approach is confirmed and the pair takes its marks before a hand goes near the lid.
+2. **Clash:** The pair works the standard Work Types and draws on M.A.W. equipment while the entity follows The Happy Mask's recorded combat actions. Sorrow Gauge movement decides how far it escalates.
+3. **Resolution:** The watch is closed at the standard quotas, or on the suppression condition the seniors entered after the first warm reading: **Viderehan and Ferrehan only; the mask is never worn and the tray reading is logged at both ends of the cycle**. The clause is discipline and not caution: nobody puts the thing on, and the two readings at the tray are what the day is written from.
 
 ### Consequences
 
@@ -153,7 +153,7 @@
 
 ### Operational Work Notes
 
-The Happy Mask is an Object/Place with Object-Void manifestation and Void expression, held at SECTOR-C-01 with the Masked Troupe. Flerehan and Pugnahan are invalid for an Object. Viderehan leaves the gauge stable because the mask shows what is under the smile without being relieved of it; Ferrehan lowers it, slowly, across hours in which the mask smiles at a worker who does not smile back. Personnel must not carry assumptions from the other Troupe masks: three of them conceal, and this one requires.
+The Happy Mask is an Object/Place — Object-Void manifestation, Void expression — housed at SECTOR-C-01 with the Masked Troupe. Flerehan and Pugnahan are invalid for an Object. Viderehan leaves the gauge stable because the mask shows what is under the smile without being relieved of it; Ferrehan lowers it, slowly, across hours in which the mask smiles at a worker who does not smile back. Personnel must not carry assumptions from the other Troupe masks: three of them conceal, and this one requires.
 
 **Reading the response:** A decrease means a worker sat the full cycle without arranging their face. An increase means the mask was approached by somebody performing composure, which it reads and answers. The tray thermometer is logged at both ends of every cycle and is the only number in the file that has never been disputed.
 ## Activation Behavior
@@ -268,11 +268,11 @@ There is no event pattern to describe. The mask does not move, has never moved, 
 
 **Cost:** Prevents genuine expression of sadness while worn.
 
-*The Joy Facade is neither made nor requisitioned. It has been conferred 3 times, each on a Warden who put their own name on the room list for a reading that came back warm.*
+*The Joy Facade is neither made nor requisitioned. Three times it has been placed on a Warden who put their own name on the room list for a reading that came back warm.*
 
 ### M.A.W. Use Notes
 
-Each Happy Mask piece is an extension of a required expression rather than ordinary equipment. The listed benefit holds while the bearer is honest about their own state; it turns on the bearer who uses it to appear well, and the cost in every recorded case has been that the bearer stopped being able to tell the difference between composure and the performance of it.
+Every M.A.W. piece cut to this pattern carries a required expression rather than serving as ordinary equipment. The listed benefit holds while the bearer is honest about their own state; it turns on the bearer who uses it to appear well, and the cost in every recorded case has been that the bearer stopped being able to tell the difference between composure and the performance of it.
 
 ### Field Use Record
 
@@ -382,7 +382,7 @@ The Veil mutes feeling, but it does not erase the social demand for composure. T
 
 The Happy Mask was born from this. Citizens who had smiled for years — through grief, through debt, through the slow exhaustion of performing happiness to survive — wore the smile so thoroughly that it separated from them. The performed joy, repeated past the point of feeling, took on its own reality: a mask, Object-Void, shaped like a smiling face, grinning the grin its wearers had worn until they could no longer feel the feeling the grin was meant to express.
 
-The Happy Mask is part of the Masked Troupe, and it is the gentlest of the masks, and the saddest. It does not deceive. It grins — brightly, convincingly, the way a citizen grins when asked how they are and the true answer would be a debt. Those who come near it feel the exhaustion of performed happiness: the ache of smiling when you want to weep, of saying I am fine when you are not, of wearing the appearance of joy so long that the appearance is all that remains and the joy is nowhere underneath.
+The Happy Mask is part of the Masked Troupe, and it is the gentlest of the masks, and the saddest. It does not deceive. It grins — brightly, convincingly, the way a citizen grins when asked how they are and the true answer would be a debt. Stand close to it and the exhaustion of performed happiness arrives of its own accord: the ache of smiling when you want to weep, of saying I am fine when you are not, of wearing the appearance of joy so long that the appearance is all that remains and the joy is nowhere underneath.
 
 The Mask, left alone too long, does something unsettling. It begins to grin wider. It begins to grin at nothing. The performed happiness, with no face behind it, escalates — because a smile with no feeling to anchor it has nowhere to go but further from the feeling, grinning past joy, past mania, into something that looks like happiness and is its exact opposite.
 
@@ -476,9 +476,9 @@ The case for it was made from the reading series and from the incident register,
 
 The tray series records the other half. Mean plateau across the facility's own staff rose from one point four degrees to three point one in the same two years. The proportion of readings above baseline rose from seventy-one per cent to ninety-four. Nothing in the people changed that any other instrument could detect; what changed is that they are now required, in writing, to look as though nothing has.
 
-The objection is minuted at the forty-first review and at every review since, raised by the vault's senior Warden and supported by the Mask Market Keepers. It holds, first, that the facility holds the only instrument in the city capable of measuring what a demeanour clause does to the people under it, read that instrument for twenty-two years, and used the readings as the argument for imposing the clause rather than as a reason to hesitate. Second, that the improvement claimed is an improvement in visibility and not in condition — the reportable thing is the display, the display is what the clause compels, and the facility has therefore achieved its figure by the direct route of forbidding the symptom. Third, that the mask was formed out of precisely such clauses, that this is recorded in its own origin section in the facility's own hand, and that the facility has now written one.
+The Mask Market Keepers and the vault's senior Warden have carried that objection into every review since the forty-first, and they carry it still. It holds, first, that the facility holds the only instrument in the city capable of measuring what a demeanour clause does to the people under it, read that instrument for twenty-two years, and used the readings as the argument for imposing the clause rather than as a reason to hesitate. Second, that the improvement claimed is an improvement in visibility and not in condition — the reportable thing is the display, the display is what the clause compels, and the facility has therefore achieved its figure by the direct route of forbidding the symptom. Third, that the mask was formed out of precisely such clauses, that this is recorded in its own origin section in the facility's own hand, and that the facility has now written one.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was drafted in the forty-second year and costed at nothing at all — a carve-out to 9(c) providing that no demeanour standard applies in non-public areas, rest periods, or to any person who has stated that they are unwell — and that it has not been laid before the board in nine years. And it records the sentence the senior Warden asked to have entered verbatim, which the vault keeps pinned inside the lid of the tray:
+The vault's minute sustains all three limbs of that objection. Set down beside the tray's own series, it holds that a remedy was drafted in the forty-second year and priced at nothing whatever — a carve-out to 9(c) providing that no demeanour standard applies in non-public areas, rest periods, or to any person who has stated that they are unwell — and that nine years have passed without its reaching the board. The same minute carries the line the senior Warden dictated into it word for word, which the vault keeps pinned inside the lid of the tray:
 
 *We made a machine that can tell when a person has been ordered to look happy, and the first thing we did with it was issue the order.*
 
