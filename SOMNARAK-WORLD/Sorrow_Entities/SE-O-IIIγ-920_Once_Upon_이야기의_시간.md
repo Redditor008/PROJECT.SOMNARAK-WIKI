@@ -101,7 +101,7 @@
 
 **Notable Features:**
 - Expresses Lament pressure in a tale register.
-- The time form is unmistakable — this is a tale entity, not a general one.
+- Watchers agree on the shape of the hour within ten minutes of its opening: it arrives already narrating, which no ordinary time sorrow does.
 - A one-kilometre perimeter, a register of 74 stories, and an opening sentence that has never come from the same room twice.
 
 **Identification Profile**
@@ -255,7 +255,7 @@ The lament pressure and the tale register meet exactly once an hour and hold for
 
 ## 상호작용 (Entity Interactions)
 
-The hour is watched from a desk with a register open beside it, and no second holding has ever been brought into the room while it runs. The three rows below come off the appendix that sorts the 90x holdings by manifestation, each read against this record's own series. All three turn on one question — what the hour keeps of the names it borrows — and the four files do not answer it the same way.
+The hour is watched from a desk with a register open beside it, and no second holding has ever been brought into the room while it runs. Below this line stand the hour's three shelved neighbours, cleared one at a time against the hour's own log. All three turn on one question — what the hour keeps of the names it borrows — and the four files do not answer it the same way.
 
 **Interaction method:** Fix the desk's own numbers first: tellers named aloud, the gauge fall that follows them, the 94 hours the correlation holds across. Only then lay the other record's series beside them and enter the first parting, its range, its trigger, and whether either series moved. Re-verify at the next hour.
 
@@ -275,14 +275,14 @@ Time itself is the medium. Once Upon does not exist in the way other entities ex
 
 The effects are cumulative. Each exposure layers lament pressure in the tale register until the personnel cannot distinguish their own tale state from the entity's influence. That is when Fracture risk peaks. That is when the protocols engage.
 
-This hour raises no voice and sheds no tear. It keeps its two registers — tale and lament — the way a librarian keeps a shelf, and it has outlasted every attempt to hurry it. Once Upon is not the loudest thing in Somnarak; it is the most particular. In a city whose grief is issued to everyone in the same shape, a sorrow that knows your story by name is the one that reaches bone.
+The hour has no voice in it and no tears. Tale and lament sit on it the way two surnames sit on the same family — inseparable, elderly, neither of them in a hurry. Once Upon does not try for loudest in Somnarak; it is the one that knows which street you came from. A city that issues grief by the same measure to every citizen has no answer for a sorrow that arrives already knowing your address.
 
 ## 증언 (Testimonium) — The Testimony
 
 *"Nothing in the training covers an hour that tells your own story back to you. Field Team learned this register the way the district did — one hour at a time."* — Specialist, Field Team
 *"Six years of lament postings taught me to read a gauge. This hour reads me back, and I have not found the instrument that measures that."* — Handler
 *"The perimeter does its job every night. The chapter we are missing is the one about what to tell a resident who recognises their own street in somebody else's story."* — Containment Lead
-*"After contact, I could not stop thinking in the tale register for three days."* — Specialist, Recovery
+*"Three days after my watch I was still hearing the hour's second voice underneath my own, and the gauge read me clean the whole time."* — Specialist, Recovery
 *"We shelved this sector as weather for years. The file now says Time-Tale, and the honest note underneath says we are still finding out what the phrase covers."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record
@@ -331,8 +331,8 @@ What recurs most often are conclusions rather than beginnings, and the file repo
 ## Trivia
 
 - One of the first catalogued **Time-Tale** entities in Somnarak.
-- Its tale descriptor makes it structurally unique among time entities.
-- Lament in the tale register does not press on a crowd; it arrives with a plot, and the plot is always about somebody in the district.
+- Nothing else on the 90x shelf is filed as an hour first and a story second; that pairing is what earned it a class of its own.
+- This register does not blanket an area. It walks up to one person with a story attached, and that person is always from somewhere in the district.
 
 ## Document Information
 
