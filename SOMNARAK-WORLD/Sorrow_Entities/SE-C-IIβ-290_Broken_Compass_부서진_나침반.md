@@ -93,10 +93,11 @@
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Composure** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Broken Compass reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- A failed resist at the instrument goes straight into the handler's bearings: **Composure** drains while the needle keeps turning, and the Gauge takes up the room that leaves.
+- Minutes add up on the wrong side after the recommended cycle: drift first, then Fracture, then the ground stops agreeing with the map the crew brought in.
+- The equipment section says what the M.A.W. takes; field work only ever confirms it, and no reading the Compass gives is ever handed over free.
+- If the resolution condition goes unmet, the needle stops pretending to search and the loss it was pointing at comes due — it finds its release in whoever is still holding it.
+
 
 ## Appearance
 **Physical Form:** A broken compass whose needle spins without settling. Its casing is cracked and warm.
