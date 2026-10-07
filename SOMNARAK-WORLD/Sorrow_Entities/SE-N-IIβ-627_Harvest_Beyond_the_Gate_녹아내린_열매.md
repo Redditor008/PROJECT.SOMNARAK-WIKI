@@ -160,7 +160,7 @@ A flat gauge is not a safe watch, and this holding reads flat most of the year. 
 
 ### Escalation Notes
 
-No two widenings at the gate take the same shape. The watch sets down four things and stops at four: the trigger, the first movement in the Place-Grudge form, the distance the effect reaches, and the point where reaching ends. Grudge is the expression and Zone E the ground, so dials alone will not account for a widening — what a worker feels and how a worker behaves are written beside the numbers.
+No two widenings at the gate take the same shape. The watch sets down four things and stops at four: the trigger, the first movement in the Place-Grudge form, the distance the effect reaches, and the point where reaching ends. Grudge is the expression and Zone E the ground, so dials alone will not account for a widening — what a worker feels and how a worker behaves are written beside the numbers. A watch that fills all four lines has done the work it was sent to do; a watch that fills three and guesses at the fourth has filled a page and left the file no better informed than it was before the van left the gate.
 
 **Response sequence:** pace the frontage against the last mark before anything else, keep the path open on the city side, move nobody off the ground who is standing on it voluntarily, and say nothing to any arrival about return.
 
