@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 40 / unit 4 — The Inherited Debt `N-IVβ-019` closed (2026-10-07)** — measured live at `c0f7274`: **1 dirty
+  section**, Final Observation (0.105 — the choice blockquote, the choose row and the result row), plus one residual line.
+  **Closed in a single wave** (4 sites); 9,344 → **9,376 words**; `tpl.py` residue 0; `sectfile.py` ends at **0
+  section(s) over 0.05**; `wikistd.py` meets **True**; condition held; the entry residual cleared line-locally
+  (`is logged as ` → `stands on the register as `), residual **1 → 0**; `own_series` already True. Movement at the unit
+  commit: `R-29` 252 / 301; section-clean 286 / 301; residue-free 302 / 302; residue lines 0; archive dirty
+  15; file-clean 302 / 302. **Batch 40 stands at four of ten.**
+
 - **Batch 40 / unit 3 — Unrung `C-IIβ-170` closed (2026-10-07)** — measured live at `d5fd018`: **2 dirty sections**,
   Behavior (the Work-Type paragraph and the reading paragraph, 0.057) and Final Observation (the choice blockquote and
   its rows, 0.069). **Closed in a single wave** (5 sites), each replacement written fresh: no reuse of the batch's

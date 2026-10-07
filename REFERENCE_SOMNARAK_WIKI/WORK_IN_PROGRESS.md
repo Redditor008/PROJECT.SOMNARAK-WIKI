@@ -2713,6 +2713,12 @@ line-locally; `own_series` already True; the file's own figures restated in nume
 96 · 5 assessors · 11 watches · 5,212). Movement: `R-29` 242 / 301; section-clean 276 / 301; archive dirty 34;
 file-clean 302 / 302. **Batch 39 stands at one of seven.**
 
+**Batch 40, unit 4: The Inherited Debt `N-IVβ-019` closed.** Measured live at `c0f7274`: **1 dirty section**, Final
+Observation — **closed in a single wave** (4 sites); 9,344 → **9,376 words**; `tpl.py` residue 0; `sectfile.py` **0
+section(s) over 0.05**; `wikistd.py` meets **True**, condition held, residual **1 → 0** cleared line-locally. Movement:
+`R-29` 252 / 301; section-clean 286 / 301; archive dirty 15; file-clean 302 / 302. **Batch 40 stands at four of
+ten.**
+
 **Batch 40, unit 3: Unrung `C-IIβ-170` closed.** Measured live at `d5fd018`: **2 dirty sections** — Behavior and Final
 Observation — **closed in a single wave** (5 sites, fresh wording throughout); 8,776 → **8,824 words**; `tpl.py` residue
 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held, residual 0 on entry. Disclosed:
@@ -2737,6 +2743,8 @@ edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 3
 dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
 
 **Batch 40 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IVβ-019 The Inherited Debt 물려받은 빚 — `bbe77e7` — PUSH VERIFIED — [[SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B2-019_The_Inherited_Debt_%EB%AC%BC%EB%A0%A4%EB%B0%9B%EC%9D%80_%EB%B9%9A.md "SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md")
 
 - SE-C-IIβ-170 Unrung 침묵의 종 — `ec593c7` — PUSH VERIFIED — [[SE-C-IIβ-170_Unrung_침묵의_종]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-170_Unrung_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EC%A2%85.md "SE-C-IIβ-170_Unrung_침묵의_종.md")
 
