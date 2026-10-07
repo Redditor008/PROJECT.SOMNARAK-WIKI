@@ -41,7 +41,7 @@
 - The site is ambient in Old Lament and is not contained. There is no source: the whispering is in roughly 1,100 metres of connected wall and in nothing smaller.
 - A cycle lowers the carry for a shift and leaves the walls as they were. No session in nine years has produced silence anywhere on the site.
 - Viderehan and Ferrehan are the valid approaches, and the restriction is correct here rather than inherited: Flerehan and Pugnahan have no object on a site with no body.
-- There is no breach counter. The audible field widens instead, and because people live inside it the boundary is walked and marked before every rotation.
+- The file keeps no breach counter. The audible field widens instead, and because people live inside it the boundary is walked and marked before every rotation.
 - Residue is taken from the wall face under separate authorisation, never from a party wall, and never from a dwelling that is occupied.
 
 ## Combat Record
@@ -239,7 +239,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Cost:** The whispers stay on afterwards as a background that never entirely goes quiet: the bearer hears the beginnings of speech in plumbing, wind and empty offices, and the seven-day check exists because of this line.
 
-*The Listening Stone is not issued and cannot be requested. It has been conferred 2 times, in both cases on a chronicler who stood a full night at the boundary and answered the walls aloud where there was nobody to hear them do it.*
+*The Listening Stone is never issued and no one may ask for it. It has been released twice, each time to a chronicler who stood a full night at the boundary and answered the walls aloud where there was nobody to hear them do it.*
 
 ### M.A.W. Use Notes
 
@@ -324,14 +324,14 @@ The light dims with nothing in the way of it, and a wall beside you lets out a w
 
 ### Interaction Pattern
 
-The site is read against the other things in Old Lament that hold or carry speech. Each row below was observed and filed and none is settled; all three were run at the boundary rather than inside occupied ground.
+The site is set beside the other things in Old Lament that hold or carry speech. Each row below was observed and filed and none is settled; all three were run at the boundary rather than inside occupied ground.
 
 **Interaction method:** Baseline each party alone across several rotations before any pairing, with boundary, overlap density and hour logged throughout. Record the onset of a shared change with its range, duration, trigger, both carries and whatever persists after separation, and re-verify every rotation.
 
 
 ### Entity Interaction Record
 
-The rows below are points of contact and not alliances; none is settled. This site is the oldest thing in the register, and the wing's standing caution is that age has repeatedly been taken here for influence.
+The rows below are contacts, not alliances; none is settled. This site is the oldest thing in the register, and the wing's standing caution is that age has repeatedly been taken here for influence.
 
 | Record read alongside | What happened at the boundary | What the measurements actually showed | Entry the file requires |
 |---|---|---|---|
@@ -437,11 +437,11 @@ It has worked. The boundary has advanced four metres a season where the sheets a
 
 **Two possession proceedings have been issued** for persistent failure to sign. Both were against single elderly occupants. One was withdrawn; the other was settled on terms that included a neighbour signing on the tenant's behalf, which is not what the clause requires and which the ward has not corrected.
 
-The objection is minuted at every annual review and is raised by the district's ward officer. It holds that a containment function the facility costed, considered and declined to perform was transferred in its entirety to unpaid residents, who were given no choice about it and who bear the only enforcement risk in the arrangement; that the clause requires nightly attendance at a wall from people including the housebound and the very old, and no exemption of any kind was drafted into it in five years; and that the facility's own figures prove the measure effective, which means the saving is quantified, the beneficiary is identified, and the people producing the benefit are the only parties to the scheme who are not paid for it. The minute records the objection as **correct in all three parts**. It records that a hardship exemption has been drafted twice and laid never. And it records the ward officer's closing line, minuted at her request: *we told them to talk to their walls, which they have been doing for four hundred years, and then we made it a term of their tenancy so that it would count as containment.*
+The district's ward officer has brought it to every annual review since, and it holds that a containment function It holds that a containment function the facility costed, considered and declined to perform was transferred in its entirety to unpaid residents, who were given no choice about it and who bear the only enforcement risk in the arrangement; that the clause requires nightly attendance at a wall from people including the housebound and the very old, and no exemption of any kind was drafted into it in five years; and that the facility's own figures prove the measure effective, which means the saving is quantified, the beneficiary is identified, and the people producing the benefit are the only parties to the scheme who are not paid for it. The minute holds the objection to be right on each of its three heads, and enters no correction against any of them. It sets down that a hardship exemption has been drafted twice and laid never. And the ward officer's closing line, taken down at her request, follows: *we told them to talk to their walls, which they have been doing for four hundred years, and then we made it a term of their tenancy so that it would count as containment.*
 
 ## Trivia
 
-- The register keeps its own figures in numerals for look-up: gauge 217/217, pressure 3–9 per hit, resistance 15 / 5 per cent, threshold 45 per cent, 4 turns, the weapon at 3–6 and 15 Echoes, the shroud at 10, the stone at 5 per cent and +1, 2 conferrals, and 140 households inside the boundary.
+- The register keeps its own figures in numerals for look-up: gauge 217/217, pressure 3 to 9 per hit, resistance at 15 / 5 per cent, threshold 45 per cent, 4 turns, the weapon at 3–6 and 15 Echoes, the shroud at 10, the stone at 5 per cent and +1, 2 conferrals, and 140 households inside the boundary.
 
 - *Don't forget* is the most frequently recorded utterance on the site, leading the next phrase by 4 to 1 — and the official record keeps the count without the phrase.
 - The walls carry testimony the official record does not hold, and none of it can be used for anything, for the reasons set out in the Fabric Record.
