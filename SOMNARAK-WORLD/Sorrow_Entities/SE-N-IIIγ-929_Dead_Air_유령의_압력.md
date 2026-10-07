@@ -42,7 +42,7 @@
 - Work reduces its extent for a shift. The silence is unchanged, and no session has produced a sound within it.
 - Three ignored conditions escalate it. The spirit register carries contact, and the first sign is the loss of the crew's own voices.
 - Crews work on physical line signals rather than speech, and a missed signal ends the session for the rotation.
-- Extraction is a separate risk event under its own authorization.
+- Drawing anything off this ground is a risk standing by itself and is authorised by itself.
 
 ## Combat Record
 ### Core Stat Line
@@ -86,8 +86,8 @@
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the sensation of being leaned on by someone standing behind you, with a direction and an apparent weight, in a room containing nobody. Personnel name a mass without being asked to; the form has a column for it because they did it anyway) and Dead Air is confirmed against the designation; positions are taken and the cycle is opened.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dead Air's recorded combat actions.
+1. **Tension:** The marker is confirmed first — a sense of being leaned on from behind, with a direction and an apparent weight, in a room with nobody in it. Personnel volunteer a mass without being asked, and the form carries a column for it for that reason. Dead Air is checked against the designation, the positions are taken, and the cycle opens.
+2. **Clash:** The Types are worked and the kit is carried while the holding runs through the combat actions its record sets out.
 3. **Resolution:** The watch ends at the hour. The Warden hands over the form, the relief reads the barometer, and the pressure — both kinds — is where it was. No watch in the series has ever been ended early by the holding; four have been ended early by the Warden. It closes against the documented suppression condition: **The Warden hands over the form, the relief reads the barometer**.
 
 ### Consequences
@@ -245,7 +245,7 @@ The Dead Air set is drawn from the watch itself: the Edge from the rail of the W
 
 ## 감각 묘사 (Flavor Text)
 
-Contact is disorienting. The weight pressure is familiar — every agent in Somnarak knows weight — but the spirit filter makes it alien. A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. It is the same element in a different language, and the language is spirit.
+Contact unsettles. The weight itself is nothing new — every agent in Somnarak knows weight — and the spirit filter is what makes it foreign. A barometric anomaly in Zone A that leaves the dead briefly and physically present: not apparitions, but pressure and weight and the unmistakable lean of somebody who is not in the room. Same element, read in another tongue, and this one is spirit.
 
 **At first contact:** Something leans. You turn around before you have decided to, and the room is the room.
 
@@ -257,7 +257,7 @@ Contact is disorienting. The weight pressure is familiar — every agent in Somn
 
 ## 상호작용 (Entity Interactions)
 
-The watch is six hours long and ends at the hour: the Warden hands over the form, the relief reads the barometer, and both kinds of pressure are where they were. The file has never had a second holding on the same watch. Everything below is paper work from the appendix that groups the 90x holdings by manifestation, read against each record's own series — three ways of keeping a record of a period in which nothing happens.
+Six hours make the watch and the hour ends it: the form passes to the relief, the relief reads the barometer, and neither pressure has moved. No second holding has ever been run on this watch. Everything below comes out of the appendix that sorts the 90x files by manifestation, each read against its record's own series — three different ways of documenting a stretch of time in which nothing occurs.
 
 **Interaction method:** Fix the watch's own numbers first: the 2,206 entries logged since Y4238, the bearings and estimated masses that are subjective and marked so, the 17 years without a single apparition. Then read the other record's series into the two columns, enter the first parting, its depth, its trigger, and whether either series moved. Re-verify at the next watch.
 
@@ -281,11 +281,11 @@ So it is kept as it is: a barometer, a chair, a printed sheet with two estimated
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The weight is familiar. The spirit is not. That gap is where the danger lives."* — Handler
+*"The weight is old news. The spirit is not. Everything dangerous about this post sits in that distance."* — Handler
 *"I expected standard weight. I got something that knew me."* — Specialist
 *"Every time we refine the protocol, the spirit register finds a new way in."* — Researcher
-*"It does not attack. It inhabits. And what it informs you of is your own sorrow."* — Director
-*"Work it once and you will understand why the classification system had to expand."* — Keeper
+*"It does not attack anything. It moves in and stays. What it tells you is about your own sorrow."* — Director
+*"Stand one shift on it and the reason the classification system had to grow becomes obvious."* — Keeper
 
 ## 기록 (Registrum) — The Record
 
@@ -334,7 +334,7 @@ What crystallized here was one specific wound rather than the city's ambient ach
 
 - One of the first catalogued **Hazard-Spirit** entities in Somnarak.
 - Its spirit descriptor makes it structurally unique among hazard entities.
-- The weight pressure in the spirit register feels different from standard weight — more specific, more personal.
+- Weighed through the spirit filter, the pressure is not the usual weight: it is narrower than that, and it points at something of yours.
 
 ## Document Information
 
