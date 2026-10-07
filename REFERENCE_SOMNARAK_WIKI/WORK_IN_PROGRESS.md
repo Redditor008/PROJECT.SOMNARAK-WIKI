@@ -1716,6 +1716,15 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 37, unit 9: Somnium `C-IVγ-175` closed.** Measured at `e8795be`: **1 dirty section**, Final Observation —
+**closed in a single wave**; 7,739 → **7,816 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**;
+`wikistd.py` meets **True**. Disclosed: Entry 1's residual cleared line-locally, residual **1 → 0**; condition clause
+**266 → 267 / 301** by registering the file's own clause in the suppression-condition form (the resolution line had
+carried it as a `documented condition — **…**` the register does not read); the file's own figure restated in numerals
+(9 times); the first wave attempt aborted pre-write on a capitalisation mismatch and the corrected wave ran whole.
+Movement: `R-29` 235 / 301; section-clean 268 / 301; archive dirty 62; file-clean 302 / 302. **Batch 37
+stands at nine of ten.**
+
 **Batch 37, unit 8: The Last Warmth of Forty-Two `O-IVδ-515` closed.** Measured at `6abf430`: **1 dirty section**, Final
 Observation 0.114 — **closed in a single wave** (8 sites); 4,997 → **5,091 words**; `tpl.py` residue 0; `sectfile.py`
 **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the condition clause rose **265 → 266 / 301** by
@@ -2569,6 +2578,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 37 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IVγ-175 Somnium 꿈의 직공 — `e868cda` — PUSH VERIFIED — [[SE-C-IVγ-175_Somnium_꿈의_직공]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-175_Somnium_%EA%BF%88%EC%9D%98_%EC%A7%81%EA%B3%B5.md "SE-C-IVγ-175_Somnium_꿈의_직공.md")
 
 - SE-O-IVδ-515 The Last Warmth of Forty-Two 마흔둘의 마지막 온기 — `99a546c` — PUSH VERIFIED — [[SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-515_The_Last_Warmth_of_Forty-Two_%EB%A7%88%ED%9D%94%EB%91%98%EC%9D%98_%EB%A7%88%EC%A7%80%EB%A7%89_%EC%98%A8%EA%B8%B0.md "SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two_마흔둘의_마지막_온기.md")
 

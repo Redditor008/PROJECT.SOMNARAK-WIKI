@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 37 / unit 9 — Somnium `C-IVγ-175` closed (2026-10-07)** — measured at `e8795be`: **1 dirty section**, Final
+  Observation (the choice blockquote, the choose row and the result row), with the breach-gauge bullet, two appearance
+  lines, the thread-band note and the relations header row re-authored in the same wave. **Closed in a single wave**;
+  7,739 → **7,816 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True**. Entry 1's residual cleared line-locally (`is logged as ` → `stands on the register as`), residual **1 → 0**;
+  the condition clause rose **266 → 267 / 301** — the file's resolution line had carried its clause in the `documented
+  condition — **…**` form the register does not read, and the rewritten line registers it as a suppression condition
+  (**Identify the dream's false promise, name it aloud, and wake without violence**) — disclosed. The file's own figure
+  was restated in numerals inside the rewritten thread-band note (9 times) — disclosed. A first wave attempt aborted
+  pre-write on a capitalisation mismatch in the result row (`The Weave turns` against the file's `The weave turns`), and
+  the corrected wave ran whole — nothing was written on the failed attempt. Movement at the unit commit: `R-29`
+  235 / 301; section-clean 268 / 301; residue-free 302 / 302; residue lines 0; archive dirty 62;
+  file-clean 302 / 302. **Batch 37 stands at nine of ten.**
+
+
+
 - **Batch 37 / unit 8 — The Last Warmth of Forty-Two `O-IVδ-515` closed (2026-10-07)** — measured at `6abf430`: **1 dirty
   section**, Final Observation 0.114 (the choice blockquote, the choose row and the result row), with the generic A-Relic
   resolution line replaced by the file's own clause, the 4-gram escalation paragraph, the activation reporting order and
