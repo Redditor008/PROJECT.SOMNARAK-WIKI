@@ -2271,7 +2271,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 33 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IVδ-106 I Alone Crossed 부서진 다리 — `__HASH__` — PUSH VERIFIED — [[SE-C-IVδ-106_I_Alone_Crossed_부서진_다리]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-106_I_Alone_Crossed_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%8B%A4%EB%A6%AC.md "SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md")
+- SE-C-IVδ-106 I Alone Crossed 부서진 다리 — `29f8004` — PUSH VERIFIED — [[SE-C-IVδ-106_I_Alone_Crossed_부서진_다리]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-106_I_Alone_Crossed_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%8B%A4%EB%A6%AC.md "SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md")
 
 - SE-C-IVγ-255 Hollow Architect 빈 건축가 — `4496d40` — PUSH VERIFIED — [[SE-C-IVγ-255_Hollow_Architect_빈_건축가]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-255_Hollow_Architect_%EB%B9%88_%EA%B1%B4%EC%B6%95%EA%B0%80.md "SE-C-IVγ-255_Hollow_Architect_빈_건축가.md")
 
