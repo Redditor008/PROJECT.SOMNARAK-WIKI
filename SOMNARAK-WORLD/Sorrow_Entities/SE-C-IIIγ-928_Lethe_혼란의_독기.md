@@ -1,6 +1,6 @@
 # Lethe — 혼란의 독기
 
-> *"When it comes, you will know. Everyone knows."*
+> *"If nothing said in the volume is a statement in law, what is the annual assurance return made of? The minutes where people say exactly what they think."*
 
 ## SECC Classification
 
