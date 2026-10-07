@@ -253,11 +253,11 @@ Every piece came out of a loss that was then unrecorded, and each use takes one 
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The party walks into heat in open ground with nothing burning in it. Identification is the ash that leaves no mark on the hand and the letter-shaped absences in the dirt. |
-| **Sustained observation** | Nine years of temperatures at four bearings against the facility's destruction schedule. The baseline has risen eleven degrees, each rise inside a week of an undescribed disposal; the cycle recoveries are four to eleven degrees and have never compounded. |
+| **Sustained observation** | 9 years of temperatures at 4 bearings against the facility's destruction schedule. The baseline has risen 11 degrees, each rise inside a week of an undescribed disposal; the cycle recoveries are four to eleven degrees and have never compounded. |
 | **Activation or escalation** | A guess about the relic, or a retention schedule executed blind. Record who guessed and what they claimed, or the schedule reference and the number of entries without descriptions. |
 | **Post-contact review** | Temperatures in and out at four bearings, every loss named with its description, and the week's destruction entries with their description status. The last column is the holding and a report without it is returned. |
 
-**Observation method:** Temperature on arrival and on leaving at four bearings, what was said about the relic and by whom, and the facility's destruction entries for the week with how many carry descriptions. The cycle ends when the temperature stops falling, not when the list runs out.
+**Observation method:** Temperature on arrival and on leaving at 4 bearings, what was said about the relic and by whom, and the facility's destruction entries for the week with how many carry descriptions. The cycle ends when the temperature stops falling, not when the list runs out.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -353,7 +353,7 @@ Some sorrows mourn a loss. Pandora's Jar mourns an erasure — the object gone a
 **Common Name:** Pandora's Jar
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 2 — Basic
-**Threat Assessment (Pandora's Jar):** Critical (δ). Nine years, 94 cycles, four manifestations, two erasure events, no fatalities — and a baseline eleven degrees above ambient that no action has ever brought down.
+**Threat Assessment (Pandora's Jar):** Critical (δ). 9 years, 94 cycles, 4 manifestations, 2 erasure events, no fatalities — and a baseline 11 degrees above ambient that no action has ever brought down.
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
 - Standard R.D. containment protocols apply.
@@ -415,7 +415,7 @@ Replies received are filed unopened in the correspondence section only if the as
 - **Classification detail:** Pandora's Jar is a Subject with Entity (IV) — Self-aware coherence and Critical (δ) potency.
 - **Field detail:** Weight, mobile in the Desolate, located each season by thermometry rather than by sighting.
 - **Recognition detail:** Identify it by the fire and the hands. The flame is crimson-black, gives real heat, and leaves no ash on anything it passes; the hands are cupped around an object that is not there and have never been observed open or empty-looking, only full of nothing.
-- **Record detail:** Check the designation before approach. The archive holds two records that make opposite demands about destruction — the Sorrow Gate requires that transcripts be destroyed under witness, and this requires that destructions be written down in detail. They are not in conflict: one concerns what is kept, the other concerns whether the keeping of nothing is admitted.
+- **Record detail:** Check the designation before approach. The archive holds 2 records that make opposite demands about destruction — the Sorrow Gate requires that transcripts be destroyed under witness, and this requires that destructions be written down in detail. They are not in conflict: one concerns what is kept, the other concerns whether the keeping of nothing is admitted.
 - **Containment detail:** It is not contained and has never been approached with the intention of containing it. The only measure that has ever moved its readings is a description written against a line in a disposal register, in an office, by somebody who has never seen it.
 ## Document Information
 
