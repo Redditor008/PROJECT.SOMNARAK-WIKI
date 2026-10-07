@@ -1,6 +1,6 @@
 # Labyrinth of the Unfinished Mind — 생각의 미로
 
-> *"The city gave us this. We did not ask for it."*
+> *"The walls read you as you walk, and return the sentence you have never said out loud."*
 
 ## SECC Classification
 
