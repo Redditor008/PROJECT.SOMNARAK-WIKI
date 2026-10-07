@@ -29,7 +29,7 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / cold exposure pressure |
 | **Starting Sorrow Gauge** | 50–70% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per successful work cycle, taken from the cradle's own warmth readings |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Single-use impact trigger — shattered upon thrown detonation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · δ (Critical) |
@@ -87,7 +87,7 @@
 
 1. **Tension:** Personnel identify the single-use A-Relic construct, verify containment integrity, and evaluate emergency tactical need.
 2. **Clash:** The team conducts Viderehan and Ferrehan to harvest ambient Han-Energy while monitoring sector stability.
-3. **Resolution:** The team completes standard containment quotas, or deliberately triggers the A-Relic discharge to resolve an existential facility breach.
+3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Wrap the webbing back around the glass and set it in the heated cradle**. Nothing on this ground is cut, drilled or opened to find out what is inside it, and the 42 voices are not asked for anything they have not offered.
 
 ### Consequences
 
@@ -172,7 +172,7 @@ Operatives assigned to Ferrehan must possess high Composure ratings. Hearing for
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Last Warmth of Forty-Two: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament and held at SECTOR-O-09, Frozen Depths Cache — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+Escalation here has one shape and is not the standard breach event: the cradle begins to warm on its own. The watch enters the first trigger, the change visible in the Object-Lament form, the distance at which the effect starts, and the line where the resonance settles. Lament is the element and the Frozen Depths Cache at SECTOR-O-09 the post, so emotional and behavioural indicators go in beside the physical telemetry.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -187,7 +187,7 @@ The escalation pattern is specific to The Last Warmth of Forty-Two: it is not a 
 | **Risk** | Critical (δ) Object-Lament producing Lament pressure; The vial is consumed permanently; the user suffers 15 Composure loss and uncontrollable weeping for 72 hours. |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+**Activation reporting order:** the first trigger → the first visible change → the affected boundary → the effect on personnel → the rate or duration → the management condition. Viderehan and Ferrehan are the whole of the work; the Object and Place rule leaves no other approach.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -296,11 +296,11 @@ Directorate Synthesis: The cold took their flesh, but it could not extinguish th
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Last Warmth of Forty-Two; the other feeds it.
+> The close of the watch offers the worker two acts, and the file sorts the endings by them: wrap the webbing back and let the glass rest in the cradle, or open the seal to find out what is inside.
 
-| Melt the solder seal with a blowtorch to extract the gas for chemical analysis. | Wrap the orange webbing back around the glass and place it in the heated cradle. |
+| Cut the solder seal open and take the gas out for analysis. | Put the orange webbing back around the glass and set it in the heated cradle. |
 |---|---|
-| The quartz shatters in thermal shock; an expanding blizzard flash-freezes the entire research bay into ice statues. | The vapor settles in peace; the forty-two voices fall silent, waiting for the hour their sacrifice is needed. |
+| The quartz splits from the sudden heat and a blizzard comes out of it, freezing the whole research bay where it stands. | The vapour settles quietly and the 42 voices go still, kept for the hour when what they gave is needed. |
 | **OBSERVATION FAIL** | **OBSERVATION SUCCESS** |
 
 ## 감각 묘사 (Flavor Text)
@@ -321,7 +321,7 @@ The Last Warmth of Forty-Two reacts with profound grief toward entities of freez
 
 ### Entity Interaction Record
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| What is kept beside it | How the pairing has run | What the cache entered | What the file holds |
 |---|---|---|---|
 | **The Frozen Shard** | The ice on the shard melts slightly; temperature stabilizes in both rooms. | Reduces work difficulty by 1 tier for both entities; lowers breach risk. | Meltwater volume, room thermal delta, Han stability. |
 | **The Melting Saint** | The saint stops dripping wax; candles burn with steady blue flames. | Calms the saint; stabilizes Sorrow Gauge at 30%. | Wax drip rate, flame color, acoustic resonance. |
