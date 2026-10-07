@@ -41,7 +41,7 @@
 - A successful cycle quiets the collapse-sound and slows the shifting of the materials for a while. It builds nothing. The entity has never put a single piece back where it came from in the whole of the containment, and a cycle that appears to have helped it toward doing so has been misread.
 - Both readings are live and either one alone fires the escalation. The listed threshold is 2, a count that runs down with each failed or refused cycle, which is a thin margin for a holding of this potency; the Combat Record separately sets activation at a Sorrow Gauge of 75%, and the gauge reaching that figure activates the entity whatever the count still stands at.
 - The risk here is not graded by yield but by who is working. The eligibility list exists because Desolate survivors see this holding more clearly than anybody else does, and the two cycles that ended badly were both worked by wardens who had not declared where they came from.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Extraction takes a fragment from a figure that is already nothing but fragments, and the pieces keep the source's defining property: they are of no use whatever for putting things back together.
+- Taking M.A.W. stock is its own authorised event and never a bonus hung on a clean cycle. What comes away is a piece of a figure that is already all pieces, and it keeps the source's ruling property: it is useless for putting anything back together.
 
 ## Combat Record
 ### Core Stat Line
@@ -212,7 +212,7 @@ The heavy spine allows the dirk to be hammered into stone seams to create climbi
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat on this holding's own cycles — the largest bonus in the market and good for nothing anywhere else, which the Armoury notes is correct for a fragment of a place that no longer exists
+**Effect:** +2 to the working stat on this holding's own cycles — the market's largest figure and worth nothing anywhere else, which the Armoury records as exactly right for a piece of a place that is gone
 
 **Ability:** Preserves one memory of a destroyed place.
 
@@ -271,18 +271,18 @@ Walks through Mask Market while carrying pieces of the ruin. Personnel feel grie
 The grief of carrying a disaster after leaving the place where it happened.
 
 **Entry 4 — <Containment Notice>**
-Management is two instructions of unequal difficulty. Listen to the account, which is easy and takes four hours. Do not reconstruct the settlement, which is hard, because the account is full of rooms and the rooms nearly fit together, and every warden who has sat through three of them has noticed that. The station's briefing says plainly that the near-fit is the hazard and that it is not a puzzle left for anyone to solve.
+Management: two instructions of unequal difficulty. Listen to the account, which is easy and takes four hours. Do not reconstruct the settlement, which is hard, because the account is full of rooms and the rooms nearly fit together, and every warden who has sat through three of them has noticed that. The station's briefing says plainly that the near-fit is the hazard and that it is not a puzzle left for anyone to solve.
 
 **Entry 5 — <Archive Note>**
 The Mask Market traders have never objected to it. The station asked twice, formally, in Year 4,232 and again after the breach in Year 4,235, and both times the association answered that the figure is the only thing in the quarter that remembers where half of them came from. One trader's reply is quoted in the file in full: *It is not a danger. It is a neighbour who lost everything and will not stop telling you about it, and we have those already.*
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Broken Ruin; the other feeds it.
+> One question faces the warden as the account closes: let the rooms stay unmatched, or ask the question that would make them match. The first is the work; the second is the ruin working on the warden.
 
-| Let the account end where it ends, with the rooms not fitting. | Ask the one question that would make them fit. |
+| Let the account stop where it stops, with the rooms left not fitting. | Put the fitting question to the figure and take what answer comes. |
 |---|---|
-| The figure weeps and reveals the settlement's rooms. The sorrow is witnessed; Broken Ruin is fully recorded. | Fragments strike outward. The gauge climbs and Broken Ruin withdraws without revelation. |
+| The figure weeps, the settlement's rooms are shown, and the sorrow is witnessed; Broken Ruin is recorded whole. | Fragments drive outward, the reading rises, and Broken Ruin returns to the market unrecorded. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -310,7 +310,7 @@ Three relations, all of them things brought in from outside or lost outside, and
 
 Ten supervised sessions across three holdings. The table records what each party brought and what the material did about it, which in every case so far is nothing the log can distinguish from its ordinary irregularity.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The Ruin's neighbour | How the two are read together | What the watch logged | What the entry carries |
 |---|---|---|---|
 | **The Vanished Ruin** | Preserves a destroyed place, as this one does, and is the holding wardens most often confuse it with. | Four sessions. No settling, no matching, and one documentary result the station values: the two accounts of collapse differ in every particular, which ended a standing theory that both came from the same event. | Material log on this one, and both accounts transcribed in parallel. |
 | **Corrosion Dream** | Filed as a transfer pairing; both carry Outside Sorrow out of failed settlements. | Three sessions. Nothing transferred in either direction and the gauges moved independently throughout. The station's note is that a transfer pairing requires one party to be willing to put something down, and this one is not. | Both gauges at five-minute intervals and the material log throughout. |
@@ -348,7 +348,7 @@ Some sorrows mourn a place. Broken Ruin mourns the carrying — the disaster bro
 **Common Name:** Broken Ruin
 **Containment Status:** Contained — Zone C, Mask Market
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major on the schedule and quiet in practice. Nine years, two breaches that both ended in conversation, eleven strikes and no fatalities; the recurring harm is to wardens who try to help it and to traders who did not ask for a neighbour who weeps.
+**Threat Assessment:** Major on the schedule and quiet in practice: 9 years, 2 breaches that both ended in conversation, 11 strikes and no fatalities. The recurring harm falls on wardens who try to help it, and on traders who never asked for a neighbour that weeps.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan reduce; Pugnahan increases and is not used; read the table beside the eligibility list.
 - Standard R.D. containment protocols apply.
