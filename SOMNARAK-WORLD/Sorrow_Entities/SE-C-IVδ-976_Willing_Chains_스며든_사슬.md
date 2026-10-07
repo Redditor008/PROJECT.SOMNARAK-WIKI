@@ -40,7 +40,7 @@
 
 - The chains are not fastened to anything, and the entity holds them closed by its own effort.
 - Work eases the grip. Nothing on record has caused the chains to be released, and the holding is its stable state.
-- A single ignored condition escalates it. There is no margin, and the ambient approach in Old Lament is authorized individually.
+- One ignored condition is enough. There is no margin here, and any ambient approach in Old Lament is authorised case by case.
 - Identity pressure acts on the operative's sense of being bound; personnel who adjust their own equipment repeatedly are withdrawn.
 - Extraction is its own risk event under its own authorisation, granted per cycle and never folded into a normal approach: the set is drawn out of the links, and the Armoury's standing instruction is to open with everything closed and take nothing out.
 
@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Identification first — Willing Chains is recognised by the stillness and the slack. A motionless burning figure with chains lying unfastened across every surface is this holding and no other — then the approach is set and the positions are taken.
+1. **Tension:** Identify it first, by the stillness and the slack: a motionless burning figure, chains lying unfastened over every surface, is this holding and no other. The approach is then set and the positions taken.
 2. **Clash:** The figure does nothing. The chains do the work, the crew holds the mapped standoff, and the only live decision is whether a worker who has started to find the room comfortable is sent out.
-3. **Resolution:** Containment, management, retreat or the documented suppression condition — whichever the cycle ends in — is entered as: **Do not cut blindly; identify what each chain represents**. The condition is met when every link in reach has been named before anything is touched; a cycle that ends with a cut taken on a guess is filed as the holding having been handed a link it can tighten.
+3. **Resolution:** The cycle closes under containment, management, withdrawal, or the documented suppression condition: **Do not cut blindly; identify what each chain represents**. The condition is met when every link in reach has been named before anything is touched; a cycle that ends with a cut taken on a guess is filed as the holding having been handed a link it can tighten.
 
 ### Consequences
 
-- A worker who cannot hold their own sense of being bound becomes a conduit rather than a casualty: the pressure takes their **Composure** down with it and the room receives their instability back, which is how a working cycle turns into an escalation the file already predicted.
-- Willing Chains’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Willing Chains's dossier.
+- A worker who cannot hold their own sense of being bound stops being a casualty and becomes a conduit: the pressure drags **Composure** down, the room gets the instability back, and a working cycle turns into the escalation the file predicted.
+- Duration is what makes these effects worse: what a short cycle can hold turns lethal if the exposure runs long, and what it dissolves — emotionally, physically, identitarily, environmentally — is severe.
+- Every activation draws a personal debit out of the wielder — composure, memories, the body's own strength — past anything the grade ledgers are built to record.
+- With no resolution the sorrow does not dissipate; it turns inward on its own ground and starts the escalations this file already records.
 
 ## Appearance
 **Primary Form:** A burning figure covered in black chains that spread across walls and floors. Its body remains motionless while the chains move.
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Willing Chains is a Subject with Subject-Grudge manifestation and Void expression, registered as ambient in Old Lament. All four Work Types are available in principle and only three are used. Flerehan and Ferrehan lower the gauge and do it differently: the first eases the grip for a shift, the second asks a worker to stand in a warmth that is lying to them and not settle into it.
+Willing Chains is a Subject with Subject-Grudge manifestation and Void expression, registered as ambient in Old Lament. Four Work Types are open in principle; three get used. Flerehan and Ferrehan both bring the gauge down, differently: Flerehan loosens the grip for a shift; Ferrehan asks a worker to stand in a warmth that is lying, and not to settle into it.
 
 **Reading the response:** A falling gauge presents as slack — links lying looser, the fire low, the extent unchanged at the next survey. Nothing is released; the entity has never let go of anything. A rising gauge presents as reach: new surface crossed between surveys, usually after a confrontation or after a worker has spent a long shift in the room feeling comfortable. Log the extent before anything else, because the metres do not come back.
 ## Containment Event Behavior
@@ -222,7 +222,7 @@ Willing Chains is a Subject with Subject-Grudge manifestation and Void expressio
 
 **Cost:** The wielder feels every bond they cannot escape.
 
-*The lantern is not issued. It turns up on a worker who has stood a full watch in the warmth and reported it as warmth, which the armoury records as four percent of them and cannot predict.*
+*The lantern is never issued. It appears on a worker who stood a full watch in the warmth and reported it as warmth — four per cent of them, the armoury notes, and it cannot say which four.*
 
 ### M.A.W. Use Notes
 
@@ -307,14 +307,14 @@ The figure burns in the corridor while chains crawl from its feet. One wraps a d
 
 ### Interaction Pattern
 
-This file reads Willing Chains against the 3 records it has been paired with — The Wandering Chain, The Debt Wall and The Frozen Veil — and all 3 are filed as resonance candidates and never as alliances or hostilities. What the three share is the shape of a bond that outlived its purpose, and the resemblance is why they were placed together rather than anything the placing established. A shared event is logged by asking what the lattice did, what the other holding did, whether either gauge moved, and what remained after the corridor emptied.
+Three records keep this one company — The Wandering Chain, The Debt Wall and The Frozen Veil — entered as resonance candidates, never as allies or hostiles. What the three share is the shape of a bond that outlived its purpose, and the resemblance is why they were placed together rather than anything the placing established. A shared event is entered on four questions: what the lattice did, what the other holding did, whether either gauge moved, and what was still there after the corridor emptied.
 
 **Interaction method:** Baseline each party alone. The question here is whether another presence increases the extent, and nothing has. Log the range, the duration, the gauge on both sides, and the survey line before and after, measured by somebody who was not in the room.
 
 
 ### Entity Interaction Record
 
-Willing Chains sits among the registry's obligation holdings and is kept distinct from them by what it binds. The entries below are observed. None of them has added a metre to the extent, which is the measurement that would matter, and the file says so rather than implying an influence it cannot show.
+Among the registry's obligation holdings this one is set apart by what it binds. The entries below were observed. Not one of them has added a metre to the extent — the measurement that would count — and the file says that plainly instead of implying an influence it cannot demonstrate.
 
 | Record set beside it | Where the resemblance comes from | What has actually been observed | Entry the file requires |
 |---|---|---|---|
@@ -428,7 +428,7 @@ The detour costs **about nine minutes**. It would be entirely defensible to publ
 
 It has cost. **Three annual reviews have marked the wing down on response performance**, two of them citing the figure directly, and one resourcing request was refused with the figure quoted back in the refusal. The drills are run the long way at full frequency, on the stated ground that a route you only walk on paper is not a route.
 
-The field office's objection is on the file and unanswered. Honesty about the number has bought nothing — three markdowns, one refusal, no additional resourcing — and the nine minutes are not paid by the people who decided to publish them; they are paid by whoever is running the long corridor on the day it matters. The minute records the objection as **correct, and the figure continues to be reported as it is**, and adds, in the commander's own hand, that the alternative is a number that would make the long corridor easier to live with.
+The field office's objection is on the file and unanswered. Telling the truth about the number has bought nothing — three markdowns, one refused request, no extra resourcing — and the nine minutes are not paid by the people who chose to publish them; the runner in the long corridor pays, on the day it counts. The minute records the objection as **correct, and the figure continues to be reported as it is**, and adds, in the commander's own hand, that the alternative is a number that would make the long corridor easier to live with.
 
 ## Trivia
 
