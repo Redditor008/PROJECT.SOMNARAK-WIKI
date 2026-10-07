@@ -26,15 +26,15 @@
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Subject |
-| **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
+| **Primary pressure** | Identity and memory pressure, acting on whoever keeps speaking into the enclosure |
+| **Starting Sorrow Gauge** | 25–40% at the door, read against the interval rather than against the volume |
+| **Han-Energy yield** | 10–14 in a session, and no session has yet produced the return that would change the figure |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Activation threshold** | 4 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Viderehan and Ferrehan only, since there is nothing here to confront; speech into the enclosure is scripted, single-pass, and never a promise |
 
 ### Operational Notes
 
