@@ -88,7 +88,7 @@
 
 1. **Tension:** There is no safe position to establish and no approach to time. The transcriber sits, opens the notebook, and waits for a page to settle; the median wait is four minutes and the longest on record is two hours, during which the entity stood still and the pages did not move.
 2. **Clash:** Reading. The word in the form is kept because the Archive could not get it changed, and the sector office has written beside it that in nineteen years this holding has not struck, chased, or touched anybody.
-3. **Resolution:** The tale ends and is written down, or the shift ends at thirty minutes with the page marked and the same transcriber booked to return. The second is how most cycles close; the register shows 41 tales currently open across 9 transcribers.
+3. **Resolution:** The tale ends and is written down, or the shift ends at thirty minutes with the page marked and the same transcriber booked to return. The second is how most cycles close; the register shows 41 tales currently open across 9 transcribers. It closes against the documented suppression condition: **The shift ends at thirty minutes with the page marked and the same transcriber booked to return**.
 
 ### Consequences
 
@@ -276,6 +276,21 @@ A thin figure standing a metre from a bolted chair, dry and cool, its surface tu
 **When the entity activates:** The page stops turning and stays open past the end of the shift. That is all it does, and the eleven unique tales were all recovered from pages that did it.
 
 **After departure:** You want to know how it ended. Transcribers describe the corridor back as the hardest thirty metres of the shift, and the sector's unofficial practice is that nobody walks it alone.
+
+## 상호작용 (Entity Interactions)
+
+The desk has never been run with a second holding in the room, and the register's 41 open tales were collected without one. What follows is paper work: the appendix that groups the 90x holdings by manifestation, read against each file's own series. The pairings share one subject — a story that is being told and will not finish — and the four records handle that differently enough to be worth keeping together.
+
+**Interaction method:** Take the desk's own figures first — pages marked, minutes held, the shift count — established alone across a full cycle before any comparison is entered. Then set the other record's series beside them and record the first divergence, its range, what set it off, and whether either series moved in the reading. Re-verify each quarter.
+
+| What shares the telling | How the pairing has run | What the desk entered | What the file keeps |
+|---|---|---|---|
+| **Once Upon** `O-IIIγ-920` | Filed together on a tale with its own clock. That record runs on story time and cannot be hurried; this one stops at thirty minutes by rule, mid-sentence, with the page marked. | The two timings were compared on paper across one review and matched on nothing but their stubbornness. | That the pairing is filed on the shape of the telling, with the mismatch noted beside it rather than smoothed over. |
+| **Once Told** `O-IVδ-930` | Grouped on narrative that keeps running past its teller. That record is a story still alive after the telling; here the tale is abandoned at the shift's close and picked up by whoever the register books next. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement and not a finding, entered beside the row each time it is quoted. |
+| **Allhallow** `O-IIIγ-916` | Grouped on the voices of people who are not present. That record holds the returning dead of one night; this one holds a narrator who tells those lives to a desk and stops when the clock says so. | One review entry; the two series diverged from the first mark and neither was reconciled. | That the divergence is the finding, kept in the review's own figures. |
+
+**Interaction procedure:** Compare in the record only, at the quarter's review, with the register's open tales re-read first and the other record's series laid beside them unchanged. Enter divergence, range, trigger, both readings and what persists; never reconcile the columns.
+
 
 ## 이야기 (Narratio) — The Tale
 
