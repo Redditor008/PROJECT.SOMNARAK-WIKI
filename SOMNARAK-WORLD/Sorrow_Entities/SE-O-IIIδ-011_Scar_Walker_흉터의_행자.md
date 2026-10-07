@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Scar Walker.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- The Han-Energy yield is balanced against exposure risk; higher yield should require more specialized personnel, longer recovery, or stricter containment.
-- M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
+- A watch that closes takes the immediate pressure down and changes nothing else: the escort is not dismissed, turned, or made less of what it is by any completed cycle.
+- Any of three things begins what this file enters under breach, activation and expansion: a gauge on the way up, a watch that fails, or one clause of the activation order passed over.
+- Han-Energy off this holding is booked against the exposure it took; a higher yield would demand picked crews, longer recovery or a harder containment line, and the file says so.
+- What comes off this post is taken by its own procedure, at its own risk, and is never booked as a bonus for a normal watch.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,13 +85,13 @@
 
 ### Battle Phases
 
-1. **Tension:** The marker is checked (the escort behaviour before the armour. Several armed shapes have been reported on the Desolate; this is the one that takes station behind a party and keeps pace without closing) and Scar Walker is confirmed against the designation; positions are taken and the cycle is opened.
+1. **Tension:** The marker comes first — the escorting behaviour seen before the armour itself. Several armed shapes have been reported out on the Desolate; this is the one that falls in behind a party and keeps pace without ever closing. The designation is confirmed, the positions are taken, and the cycle opens.
 2. **Clash:** The Walker escorts rather than engages. It falls in behind the team on arrival and stays there for the duration, and the work is done with it at the shoulder — Viderehan at the distance it permits, Ferrehan for as long as the team can keep its composure with an armed phantom walking behind it. Pugnahan ends the encounter immediately and is classed as desecration.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Show respect, salute its duty, and acknowledge its sacrifice**.
+3. **Resolution:** The visit ends with the site left as it was found, or in containment or retreat, or on the file's own suppression condition:
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
+- A worker who does not hold against the Walker's pressure loses **Resilience** and the coherence of their own identity together, and the gauge rises on both losses.
 - Extended contact does not break a worker down; it enlists them. Personnel on long rotations begin walking the route with the Walker rather than observing it, and report the hours as uneventful, which they are. The hazard is that an escorted worker is difficult to recall to the gate, and twice the recall has had to be made as an order.
 - The chalice, the plate and the blade are all made from fury that was never discharged, and discharging it is what they do. Each activation moves a measure of it into the operator, who keeps it. The pieces are not dangerous in the hand. They are dangerous three days later, in an argument about something else.
 - If respect is never shown, the Walker does not charge. It continues to follow, and it follows the team out — through the Scar, past the markers, to the gate and beyond it if nothing stops it. The recorded breach is not an escape from containment. It is an escort that was never dismissed.
@@ -152,7 +152,7 @@ The Walker is territorial and responds primarily to conduct near The Scar.
 
 ### Operational Work Notes
 
-Responses here are conduct rather than technique: the same lowered weapon reads differently at a death-marker than at a roadside, and on this file the deciding factor is the visitor's behaviour. The Walker is a Subject with Subject-Phantasmal manifestation and a Grudge signature, and the register's own figures put an encounter at 24 turns against an opening gauge of 60–80 per cent — a long visit by design, because what the file is measuring is patience.
+Responses here are conduct, not technique: the same lowered weapon reads one way at a death-marker and another at a roadside, and what decides the matter on this file is the visitor's behaviour. The Walker is a Subject with Subject-Phantasmal manifestation and a Grudge signature; the register's own figures put an encounter at 24 turns against an opening gauge of 60–80 per cent — a long visit on purpose, because patience is the thing being measured.
 
 **Reading the response:** A weapon coming off the shoulder and the escort shortening mean the visit has been accepted, and acceptance here is a judgement the Walker makes about the visitor rather than about the technique. A rising gauge means the approach was read as desecration, and the correction is not a stronger Work Type but an apology performed in the right order: salute, then the work, then the walk back at the escort's pace.
 ## Breach Behavior
@@ -253,7 +253,7 @@ No piece in this set is ordinary equipment; each is an extension of a condition 
 - The Walker has never breached containment because The Scar is its territory, not a cell.
 - It responds to respect more reliably than to any suppression measure.
 - Extended proximity produces increased empathy and reduced detachment in personnel.
-- It becomes more active during the Sorrow Tide.
+- The Tide stirs it: the escort is more active while the sorrow runs high.
 
 **Personnel Note:**
 > *"I bowed to the Walker. It saluted, and the rage passed through me without becoming mine. I understood that the Scar was not a battlefield anymore. It was a grave."* — Researcher Euncris Park, R.D.
@@ -341,7 +341,7 @@ The rage became a guardian. The accumulated fury of the un-mourned dead — the 
 
 The Walker does not attack indiscriminately. It judges. It watches the visitor approach, and it evaluates — the posture, the intention, the respect. If the visitor approaches the Scar with reverence, acknowledging the dead, honoring the wound, the Walker allows passage. If the visitor approaches with disrespect — trampling, scavenging, ignoring the fact that the ground holds bodies — the Walker attacks, forcing the disrespectful to feel, in their own bodies, the rage of the un-mourned dead.
 
-Those who encounter the Scar Walker feel the specific fury of the unguarded dead — the rage of soldiers whose graves were trampled, whose sacrifice was disrespected, whose wound was treated as ground rather than grave, preserved as a guardian that walks the Scar, judging the living by the one standard the dead require: respect.
+The approach to the Scar Walker brings the fury of the unguarded dead — the rage of soldiers whose graves were walked over, whose sacrifice was sneered at, whose wound was read as ground instead of grave, kept as a guardian pacing the Scar and judging the living by the one thing the dead require: respect.
 
 Some sorrows mourn the war dead. Scar Walker is their guardian — the rage given agency, the fury that walks and judges and enforces, on behalf of the un-mourned, the reverence the city has refused to give and that the dead, through their Walker, will extract from every visitor who sets foot on the ground where they fell.
 ## 증언 (Testimonium) — The Testimony
@@ -365,11 +365,11 @@ Some sorrows mourn the war dead. Scar Walker is their guardian — the rage give
 **Containment & Handling Procedures:**
 - Refer to entity’s Work Type responses in the Behavior section.
 - Standard R.D. containment protocols apply.
-- See Breach Behavior or Activation Behavior for escalation response.
+- For what happens when a watch goes wrong, the Breach Behavior and Activation Behavior sections carry it.
 **Observation Notes:**
-- See Origin section for formation and event details.
+- Formation and the event itself are set out in the Origin section.
 - See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
+- The extraction risk sits with the M.A.W. Equipment section.
 **Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** See Origin section — ‘The People’ field.
