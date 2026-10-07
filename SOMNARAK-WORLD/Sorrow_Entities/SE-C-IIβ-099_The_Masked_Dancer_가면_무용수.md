@@ -42,7 +42,7 @@
 - A cycle slows the sequence without interrupting it. The Dancer resumes at the step it had reached and has never been observed to restart.
 - Three ignored conditions escalate it. Escalation here is physical and the market floor is cleared before any session is opened.
 - Anyone who begins moving with it is withdrawn, including observers at the rail and including personnel who only tap time. The withdrawal is not discretionary.
-- Recovery of anything left on the floor is separately authorised, carried out after the sequence has slowed, and is never granted as a reward for a clean shift.
+- Retrieving anything left on the floor needs its own authorisation, waits until the sequence has slowed, and is never handed out as a reward for an uneventful shift.
 
 ## Combat Record
 ### Core Stat Line
@@ -93,7 +93,7 @@
 ### Consequences
 
 - The failure here is joining. The worker begins to match the rhythm, finds it easy, and the ease is the symptom rather than the relief.
-- Long exposure produces the holding's signature state: a worker who cannot be still, who keeps moving through rest periods, and who reports that stopping feels like a failure of duty.
+- Exposure taken long enough produces the state this holding is known for: the worker cannot sit still, moves through every rest period, and calls stopping a failure of duty.
 - The Phantom equipment lends the wearer the Dancer's endurance and takes the ability to stop. Every wielder's debrief has recorded a task continued past the point of any use.
 - Unresolved, it leaves the chamber: an Escape breach, following whoever has watched longest rather than hunting at random, and ending when the line of sight is broken.
 
@@ -151,7 +151,7 @@
 
 ### Operational Work Notes
 
-The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Grudge expression, held at SECTOR-C-01 in the Mask Market. All four Work Types are available because it is a Subject; Pugnahan is nonetheless prohibited, raising both gauge and tempo on every occasion logged. Flerehan and Ferrehan lower the gauge, and Ferrehan does it most reliably at the highest cost in staff hours.
+The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Grudge expression, held at SECTOR-C-01 in the Mask Market. Being a Subject, it leaves all four Work Types open; Pugnahan is prohibited anyway, having lifted gauge and tempo together on every occasion logged. Flerehan and Ferrehan bring the gauge down, Ferrehan most reliably and at the largest bill in staff hours.
 
 **Reading the response:** Read it in the tempo and in the worker. A falling gauge presents as steps per minute dropping and the sequence lengthening; a rising one presents as acceleration. The other indicator is in the observer: a Warden who has stopped finding the duration difficult has been on the rail too long, and that is a finding about the Warden rather than the holding.
 ## Breach Behavior
@@ -239,11 +239,11 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 
 **Cost:** Stillness becomes difficult: the wearer paces, taps and keeps time against nothing, and reports the urge as an obligation rather than a pleasure.
 
-*The Hollow Porcelain Shard is not issued and cannot be requested. It has been conferred 2 times, in both cases on a warden who held the rail through a full Ferrehan cycle without once looking away and filed the duration without comment — which is the wing's only recorded method.*
+*The Hollow Porcelain Shard is never issued and never requested. It has gone out 2 times, both to a warden who held the rail through a whole Ferrehan cycle without once looking away, then filed the duration without comment — the only method this wing has on record.*
 
 ### M.A.W. Use Notes
 
-Nothing cut from the Dancer is ordinary equipment; each piece works by taking part in what it is used near. The toll is the one recorded above — old injuries aching, bruising in the same lines on prolonged use — and it is charged whether the work was performed correctly or not, which the armoury prints on the issue slip in those words.
+What is cut from the Dancer is not gear in any ordinary sense: a piece works by joining in whatever happens beside it. The toll is the one recorded above — old injuries aching, bruising in the same lines on prolonged use — and it is charged whether the work was performed correctly or not, which the armoury prints on the issue slip in those words.
 
 ### Field Use Record
 
@@ -285,7 +285,7 @@ Nothing cut from the Dancer is ordinary equipment; each piece works by taking pa
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Masked Dancer (C-IIβ-099 [GS]) is a Subject-Body manifestation expressing Grudge, held at SECTOR-C-01 in the Mask Market: it dances without music, its mask fused to the face, and it has never breached without either an invitation or an audience.
+The Masked Dancer (C-IIβ-099 [GS]) is entered as a Subject-Body manifestation expressing Grudge, held at SECTOR-C-01 in the Mask Market. It dances to no music, its mask is fused to the face, and no breach of it has ever happened without an invitation or an audience.
 
 **Entry 2 — <Excerpt from Field Log, Year 4213>**
 Dances through corridors and public areas. Anyone who watches feels compelled to dance. Its movement is graceful, precise, and physically tireless.
@@ -324,14 +324,14 @@ The mask smiles first and the body follows it. Every step is fine enough to make
 
 ### Interaction Pattern
 
-The holding is read against the other things in the Mask Market that perform, cover a face, or stand in for one. Each row below was observed and filed and none of them is settled; all four were run from the rail with the observer minutes capped and logged by name.
+This file is read against whatever else in the Mask Market performs, wears a face, or stands in for one. Each row below was watched, filed, and left open; all four were worked from the rail, with observer minutes capped and each transcriber logged by name.
 
 **Interaction method:** Baseline each party alone across several sessions before any pairing, with tempo, gauge and observer minutes logged throughout. Record the onset of any shared change with its range, duration, trigger, both gauges and whatever persists after separation, and re-verify every cycle.
 
 
 ### Entity Interaction Record
 
-The rows below are points of contact and not alliances; none is settled. Three of the four were set up in the hope that something might take the performance over, and none of them did.
+The rows below are filed contacts, not alliances, and none of them is settled. Three of the four were arranged in the hope that something would take the performance off the floor; nothing did.
 
 | Record read alongside | What the two did in the same room | What the log actually measured | Entry the file requires |
 |---|---|---|---|
@@ -452,11 +452,11 @@ The tear log ended. The mounting cannot see under the mask at any available angl
 
 And the troupe stopped coming. Three of the eleven have died in the four years since, and the two who have written to the wing both ask the same question, which the file reproduces without an answer.
 
-The objection is minuted at every annual review and is raised by the wing's counsellor, who holds the observer-minute log. It holds that the closure removed both gauge-lowering approaches and the whole of the stopping record, which was known at the time and is recorded in the decision's own risk annex as *accepted*; that the stated risk was an unquantified one while the cost was a quantified one, and that the wing has since done nothing to quantify the risk, so the comparison has not improved in four years; and that a scheme permitting the troupe visit under instrumented conditions was drafted in the eighth year, costed at under a week of staff time, and has not been laid before the board. The minute records the objection as **correct in all three parts**. It records that the gauge figure is reported upward quarterly and has drawn no comment. And it records the counsellor's closing line, minuted at her request: *it stopped for them. It has never stopped for us. We have decided that is an acceptable way to run the holding, and we should at least write down that we decided it.*
+Every annual review carries the objection, raised by the wing's counsellor, who keeps the observer-minute log. It holds that the closure removed both gauge-lowering approaches and the whole of the stopping record, which was known at the time and is recorded in the decision's own risk annex as *accepted*; that the risk was stated unquantified against a quantified cost, and that four years on the wing has done nothing to quantify it, so the comparison still favours the closure; and that a scheme permitting the troupe visit under instrumented conditions was drafted in the eighth year, costed at under a week of staff time, and has not been laid before the board. The minute records the objection as **correct in all three parts**. It records that the gauge figure is reported upward quarterly and has drawn no comment. And it records the counsellor's closing line, minuted at her request: *it stopped for them. It has never stopped for us. We have decided that is an acceptable way to run the holding, and we should at least write down that we decided it.*
 
 ## Trivia
 
-- The register keeps its own figures in numerals for look-up: gauge 436/436, pressure 8–19 per hit, resistance 25 / 15 per cent, threshold 60 per cent, 5 turns, the glove's daggers at 5–9 and 25 Echoes, the robe at 20, the shard at 5 per cent and +1, and 2 conferrals.
+- The file's figures are kept in numerals for look-up: gauge 436/436, pressure 8–19 per hit, resistance 25 / 15 per cent, threshold 60 per cent, 5 turns, the glove's daggers at 5–9 and 25 Echoes, the robe at 20, the shard at 5 per cent and +1, and 2 conferrals.
 
 - The smile is constant; the crack beneath it has widened after every forced performance and has never narrowed.
 - Observers recognise particular dances in the steps and name them correctly, and the dances belong to people who can no longer perform them.
