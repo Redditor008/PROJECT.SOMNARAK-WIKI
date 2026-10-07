@@ -266,7 +266,7 @@ The set is built around holding one name without saying it: a blade inscribed wi
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten Name (N-IIα-215 [VS]) is logged as a Subject-Phantasmal manifestation expressing Void, ambient across the Old Lament in Zone B: a voice at the edge of hearing and a partial silhouette, present wherever somebody is reaching for a name they cannot produce. It cannot survive being spoken and returns intact when written. It is not held behind anything and never has been; three paper copies in three listed places are the whole of its containment. Its instrument is the monthly divergence across the carriers' slates — two at baseline, zero at the floor, thirty-one at the ceiling.
+Forgotten Name (N-IIα-215 [VS]) stands on the register as a Subject-Phantasmal manifestation expressing Void, ambient across the Old Lament in Zone B: a voice at the edge of hearing and a partial silhouette, present wherever somebody is reaching for a name they cannot produce. It cannot survive being spoken and returns intact when written. It is not held behind anything and never has been; three paper copies in three listed places are the whole of its containment. Its instrument is the monthly divergence across the carriers' slates — two at baseline, zero at the floor, thirty-one at the ceiling.
 
 **Entry 2 — <Corroboration Return: Fourteen Thousand Eight Hundred and Eighty Files, Nine Thousand Three Hundred and Forty-Four Destroyed>**
 The first return under the Rule of the Single Witness, Year 4238. Under the corroboration standard a statement about a person entered the permanent record only where a second voice confirmed it; anything resting on one account was marked unverified and excluded, and a file containing no corroborated entry was destroyed at closure as holding nothing of record value. Over the nine years to the end of last year, fourteen thousand eight hundred and eighty files closed with not one corroborated entry in them. Nine thousand three hundred and forty-four were destroyed on schedule. Every destruction was lawful, scheduled, authorised and logged. This year, one thousand two hundred and six statements by a single person about their own life were entered on the permanent record as fact attributed to them, marked uncorroborated and excluded from any adverse proceeding. In three hundred and eighteen cases an office has refused a benefit, a tenancy or a transfer citing the uncorroborated mark itself, which the rule forbids; the practice has been prohibited in writing twice and continues. The divergence stood at thirty-one in Year 4228, the year the corroboration standard was extended to facts a person reported about themselves. It stood at zero in Year 4237. The series has tracked the corroboration column for eighteen years and has never tracked anything done in the district.
@@ -292,11 +292,11 @@ The ground is the slates. The year we extended corroboration to what people say 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Forgotten Name; the other feeds it.
+> The hour comes down to the slate: write what is understood of him, in silence, with another witness in the room, and hand it across unread — or speak the name out loud, once, carefully, to make it stay.
 
-| Hold to the condition: Write and speak the name with another witness present. | Improvise something kinder, which is how every failure on Forgotten Name's file began. |
+| Keep the condition: write the name and speak it, with a second person there as witness. | Improvise something gentler instead, which is where every failure on this record began. |
 |---|---|
-| The worker writes what they understand of him on the slate, in silence, and hands it over without reading it. The gauge falls, the slate matches, and the month's series stands. | The worker says it aloud — once, carefully, to fix it — because holding a name you may not speak is harder than the briefing makes it sound. It is gone out of them before the second syllable, and the slate is void. |
+| The worker sets down what they understand of him on the slate in silence and passes it across without reading it back. The gauge comes down, the slate matches, and that month's series stands. | The worker says it aloud — once, and carefully, to make it stick — because carrying a name you are not permitted to speak is harder than the briefing lets on. It leaves them before the second syllable is through, and the slate is void. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
