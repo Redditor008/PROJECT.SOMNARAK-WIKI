@@ -88,7 +88,7 @@
 
 1. **Tension:** Confirm the holding by its markers rather than by how the room feels — the scent, the shape of the loom-light, the way the shelf dust sits — and only then take positions. Personnel on this file are instructed to trust no impression they cannot point to.
 2. **Clash:** Offers are made with Types and kit; the loom's replies follow its combat table, and each reply moves the gauge — which is the only signal the watch has for staying in or withdrawing.
-3. **Resolution:** The sitting ends on an offer the loom cannot swallow — a memory too personal and too raw to be taken — so that the hunger is overwhelmed instead of fed. The registration carries the file's condition: **present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger** — an answer that costs the person who gives it, which is why the file expects it to be given knowingly.
+3. **Resolution:** The sitting ends on an offer the loom cannot swallow — a memory too personal and too raw to be taken — so that the hunger is overwhelmed instead of fed. The file's standing condition reads: **present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger** — an answer that costs the person who gives it, which is why the file expects it to be given knowingly.
 
 ### Consequences
 
@@ -230,7 +230,7 @@ Read the Work Types against the breach threshold and the kit cost before anybody
 
 **Cost:** The mask feeds on the memories it protects; the wearer slowly loses their own memories.
 
-*The Weaver's Stigma is conferred, never made, and no requisition reaches it. Seven people carry it. Every one of them refused an offer out loud, and every one of those refusals is written on the sheet with the terms that were offered.*
+*The Weaver's Stigma cannot be made to order and is never requisitioned. Seven people hold it; each refused an offer aloud, and each refusal is entered on the sheet with the terms that were offered.*
 
 ### M.A.W. Use Notes
 
@@ -315,7 +315,7 @@ You feel the webs before you see them: a tug at the edge of the mind, a name alm
 
 ### Interaction Pattern
 
-Five files are within reach of the library — The Orphaned Bell, The Kind Healer, The Broken Clock, The Forgotten Soldier and The Final Door — and the loom owns none of them as ally or enemy. A pairing is entered with what changed in the sound and in the instruments, where the gauge and the containment line ended up, and the distance, the duration and the trigger beside whatever is left of the pattern once the two are apart.
+Five files are within reach of the library — The Orphaned Bell, The Kind Healer, The Broken Clock, The Forgotten Soldier and The Final Door — and the loom owns none of them as ally or enemy. A pairing goes in with what the sound did and what the dials did, and how both the gauge and containment line came out — then, separately, the range it started at, the time it ran, and whatever remains of the pattern once the two are apart.
 
 **Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
 

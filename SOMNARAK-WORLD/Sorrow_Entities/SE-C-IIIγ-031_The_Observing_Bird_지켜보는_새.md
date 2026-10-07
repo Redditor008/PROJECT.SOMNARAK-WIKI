@@ -88,7 +88,7 @@
 
 1. **Tension:** The holding is established first by its four markers — the hundred and forty-four open eyes, the damp deep-water plumage, the cold-rain smell, and the total absence of any voice, which is what tells it apart from the other two Birds. Only then is the approach confirmed and the positions taken.
 2. **Clash:** The four Types are worked with the kit in hand while the perch answers along the rows of its combat table; the watch reads the gauge afterwards and closes or escalates on what it finds.
-3. **Resolution:** The watch is finished, the eye count holds, and each worker has looked at the Bird rather than around it. The registration carries the file's suppression condition: **look at the Bird and accept its gaze** — the clause that costs crews the most, because everything in the room rewards looking away, and looking away is permitted but is not the resolution.
+3. **Resolution:** The watch is finished, the eye count holds, and each worker has looked at the Bird rather than around it. The suppression condition is registered at the head of the file: **look at the Bird and accept its gaze** — the clause that costs crews the most, because everything in the room rewards looking away, and looking away is permitted but is not the resolution.
 
 ### Consequences
 
@@ -225,7 +225,7 @@ The register carries the Bird as Subject-Body, expressing Lament, held at SECTOR
 
 **Cost:** Once sorrow is seen, the wearer cannot look away from it mentally.
 
-*The Watcher's Stigma is conferred, never made, and no requisition reaches it. Eleven workers carry it. Every one of them filed a disclosure sheet against their own interest in the same cycle.*
+*No requisition has ever produced the Watcher's Stigma; it is given. Eleven workers hold it, and every one of the eleven filed a disclosure sheet against their own interest in the same cycle.*
 
 ### M.A.W. Use Notes
 
@@ -310,7 +310,7 @@ The eyes find you before the shape does — one on your face, one on your hands,
 
 ### Interaction Pattern
 
-The perch is watched alongside five other files — The Weighting Bird, The Guarding Bird, The Convergence, The Kind Healer and The Maw — and it counts none of them as friend or enemy. A pairing, when one is run, is entered with what shifted in the sound and in the instruments, where the gauge and the containment line stood afterwards, and the distance, the duration and the trigger beside what was left once the two were apart.
+The perch is watched alongside five other files — The Weighting Bird, The Guarding Bird, The Convergence, The Kind Healer and The Maw — and it counts none of them as friend or enemy. A pairing, when one is run, is entered with what moved in the sound and what moved on the dials, where both the gauge and the containment line were left, plus how far off it began, how long it lasted, and beside all of that what was left once the two were apart.
 
 **Interaction method:** Record each holding on its own first; pair data means nothing without the solo baseline to read it against. Where two do meet, take the range, the duration, the trigger, the gauge on both sides, the field effect and the residue after separation, and set down whether the meeting calmed, amplified, echoed or redirected the sorrow that started it. A steady pairing is a hypothesis and never a rule: re-verify each cycle, since either holding can change overnight, and a Sorrow Tide, an Ordeal, a breach or a transformation event can invert a dynamic that stood for years.
 
