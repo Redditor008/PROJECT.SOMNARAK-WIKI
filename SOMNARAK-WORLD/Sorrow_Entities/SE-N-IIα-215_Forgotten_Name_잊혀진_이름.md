@@ -405,7 +405,7 @@ For sixteen years the divergence was taken as a sign of how the carriers were be
 
 The finding rearranges what this file is about, and the wing has chosen its words for that deliberately. It is not grief over a destroyed file — files are destroyed all the time and the series lies flat across them. What is counted is a rule of evidence. The corroboration standard is sound, the board's reasons for it are sound, and its effect is that a person who lived without witnesses leaves behind a record this facility is bound to treat as containing nothing.
 
-What moves this holding does not happen in the district. No work there narrows the gap between the slates; the one act that has ever moved it is a clerk setting down what somebody said about their own life, knowing that nobody can check it, in an archive that will still be read in two hundred years. The wing states that plainly instead of asserting a containment it cannot show, and states beside it that three hundred and eighteen offices have treated the resulting mark as a verdict this year.
+Nothing done in the district has ever narrowed the gap between the slates. The only act on record that moves it at all is a clerk writing down what somebody said about their own life, knowing nobody can check it, in an archive that will be read two hundred years from now. The wing sets that down as it stands rather than claiming a containment it cannot demonstrate, and sets beside it the fact that three hundred and eighteen offices have read the resulting mark as a verdict this year.
 
 ### Died Alone, Records Lost
 
