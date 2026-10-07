@@ -185,7 +185,7 @@ The escalation pattern is specific to The Wedge That Held: it is not a generic b
 | **Primary effect** | Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. |
 | **Duration / rate** | Instantaneous tectonic burst; armor fracture debuff persists for the duration of the combat encounter. |
 | **Risk** | Major (γ) Object-Grudge producing Grudge pressure; The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
-| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+| **Management** | Hold the grip to the anvil until the reading settles; Viderehan and Ferrehan only, with the Tool protocol certified before the cycle opens. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
@@ -270,7 +270,7 @@ The M.A.W. extracted from this relic carries Kang Il-Joo's absolute refusal to y
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The wedge is logged as a heavy black iron tool of non-standard manufacture. Thermal imaging confirms extreme internal heat concentration. |
+| **Initial exposure** | The wedge comes onto the register as a heavy black iron tool of non-standard manufacture; thermal imaging confirms the heat held inside it. |
 | **Sustained observation** | Microscopic analysis reveals the eighteen apprentice numbers carved into the flats were etched with hand tools during active tectonic shaking. |
 | **Activation or escalation** | If dropped onto concrete, the wedge discharges a minor shockwave that shatters floor tiles in a two-meter radius. |
 | **Post-contact review** | Handlers must be treated for thermal contact irritation; containment chamber requires continuous thermal venting. |
@@ -296,11 +296,11 @@ Directorate Synthesis: The wedge does not break bedrock because it is sharp; it 
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals The Wedge That Held; the other feeds it.
+> The close of the watch asks the worker one thing, and the file separates the endings by the grip: let the tongs go the moment the leather burns through, or keep the iron pressed down on the anvil until the numbers settle.
 
-| Drop the tongs when the iron burns through the leather. | Hold the iron firmly against the anvil until the reading settles. |
+| Drop the tongs the moment the leather burns through. | Hold the iron firmly to the anvil until the reading settles. |
 |---|---|
-| The wedge clatters to the floor, fracturing the pedestal in anger. The sorrow gauge spikes. | The heat stabilizes; the master's resolve acknowledges the worker's grip. The observation completes. |
+| The wedge clatters down and cracks the pedestal; the reading jumps at the sound. | The heat steadies, the grip is answered, and the watch closes whole. |
 | **OBSERVATION FAIL** | **OBSERVATION SUCCESS** |
 
 ## 감각 묘사 (Flavor Text)
@@ -321,7 +321,7 @@ The Wedge That Held resonates aggressively with mechanical, industrial, or crush
 
 ### Entity Interaction Record
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The Wedge's neighbour | How the two are read together | What the watch logged | What the entry carries |
 |---|---|---|---|
 | **The Crucible** | Thermal output synchronizes; forge bellows audible in both chambers. | Increases gauge reduction rate by 15% during Ferrehan. | Temperature curves, acoustic decibels, alloy flux. |
 | **Broken Door** | The wedge vibrates violently toward the door frame. | May trigger spontaneous breach attempt; maintain separation. | Distance delta, magnetic field spikes, lock stress. |
