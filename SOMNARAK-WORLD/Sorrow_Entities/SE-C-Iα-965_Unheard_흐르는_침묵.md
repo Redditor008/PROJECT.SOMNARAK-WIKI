@@ -42,7 +42,7 @@
 - A cycle settles it and alters nothing about the speech. No session in the record has produced a recording, a transcript or a single reproducible word.
 - The threshold is four. Escalation shows itself when personnel begin reporting the content of speech they agree they cannot hear.
 - An operative who reports content comes out at once and is debriefed alone. Two accounts that match are the thing the Row watch exists to prevent.
-- Extraction is separately authorised and is taken from the stack ends, at the radius, never from the current itself.
+- No extraction happens without separate authorisation; it is taken from the stack ends, at the radius, never from the current itself.
 
 ## Combat Record
 ### Core Stat Line
@@ -88,13 +88,13 @@
 
 1. **Tension:** Identification first, and it is done without eyes: the hush is found by walking a fixed phrase apart until the other Warden stops receiving it, and the distance is written down before either of them speaks again. The cold arrives ahead of the quiet and ordinary speech stops carrying at the edge; nothing else about the Row changes at all. Then the crew sets at the measured radius, the tape is started, and the positions are taken.
 2. **Clash:** The crew works at the measured hush radius and not inside it. Anyone who reports the content of speech is withdrawn at once and debriefed alone, before they can tell the others what they heard.
-3. **Resolution:** The session closes when the radius has been taken twice the same way, the day's readings are written, and the crew has withdrawn without forcing a sound into it. Nothing about the speech is resolved by the work and nothing is meant to be: the finding holds, the pressure is borne, and the record keeps the eleven attendances in order with the blank page beside them.
+3. **Resolution:** The session is complete once the radius has been taken twice the same way, the day's readings are written, and the crew has withdrawn without forcing a sound into it. Nothing about the speech is resolved by the work and nothing is meant to be: the finding holds, the pressure is borne, and the record keeps the eleven attendances in order with the blank page beside them.
 
 ### Consequences
 
 - Personnel who stand inside the radius past their interval do not lose the ability to hear; they lose the ability to be received. Wardens come out with a phrase they can still form and no confidence that anyone will ever get it, which is the injury this file is best at and the reason two matching accounts are reported the same day.
-- Extended contact risks Unheard’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
+- Extended contact risks the whole of what the file documents—emotional erosion first, then somatic trauma, then the dissolution of identity, then corruption of the surrounding environment.
+- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—set out in the equipment specifications and settled in the field.
 - Without timely resolution, Unheard defaults to its documented activation or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
 
 ## Appearance
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Read the responses against the classification. Unheard is a Subject with a Subject-Weight manifestation and a Grudge expression, and each of those words is load-bearing. A Subject walks and transforms in place, so this is a moving radius rather than a site; a Weight manifestation means the pressure is felt before it is seen; and Grudge means it answers force with force and makes no sound doing it, which is why Pugnahan is barred after leaving its two attempts in the injury schedule. What the watch runs instead is the one pair this file recognises. Flerehan lets the hush carry the worker's own grief out instead of swallowing it. Ferrehan is standing inside the radius for the interval, where nothing you say reaches anybody — four minutes being what most Wardens manage the first time. Viderehan runs for record and holds the gauge: it shows the eleven attendances in order, with the words present and the page blank beside them, which is the sight this whole holding is built around. A stable gauge is not a safe session here; the file's own threshold is four, and escalation is not louder silence but personnel beginning to report content.
+Read the responses against the classification. Unheard is a Subject whose manifestation is Subject-Weight and whose expression is Grudge, and each of those words is load-bearing. A Subject walks and transforms in place, so this is a moving radius rather than a site; a Weight manifestation means the pressure is felt before it is seen; and Grudge means it answers force with force and makes no sound doing it, which is why Pugnahan is barred after leaving its two attempts in the injury schedule. What the watch runs instead is the one pair this file recognises. Flerehan lets the hush carry the worker's own grief out instead of swallowing it. Ferrehan is standing inside the radius for the interval, where nothing you say reaches anybody — four minutes being what most Wardens manage the first time. Viderehan runs for record and holds the gauge: it shows the eleven attendances in order, with the words present and the page blank beside them, which is the sight this whole holding is built around. A steady gauge does not make a safe session here; the file's own threshold is four, and escalation is not louder silence but personnel beginning to report content.
 
 **Reading the response:** A falling gauge means the pressure was carried, not cured: the speech is still moving along the Row and the radius is still where it was. A rising gauge means the session fed the holding — somebody forced a sound into the radius, or the work confronted it, and the pressure has grown in exact proportion to being disregarded. Log the radius, the position and the separate accounts before the gauge, because on this holding the gauge describes the crew's condition rather than the entity's, and the only figure that can be taken twice is the distance.
 ## Containment Event Behavior
@@ -221,7 +221,7 @@ Read the responses against the classification. Unheard is a Subject with a Subje
 
 ### M.A.W. Use Notes
 
-The set is the holding in three pieces, and it works because it is part of the thing it is used near. What it takes is what the file has already recorded — old wounds aching, and a patience not the wearer's own settling where the reflexes were — and it takes it whether the use was correct or not. That is why the issue is one rotation at a time, and why the second worker's account is kept apart from the wearer's.
+The set is the holding in three pieces, and it works because it is part of the thing it is used near. What it takes is what the file has already recorded — old wounds aching, and a patience not the wearer's own settling where the reflexes were — and it takes it either way, whether the watch was run by the book or not. That is why the issue is one rotation at a time, and why the second worker's account is kept apart from the wearer's.
 
 ### Field Use Record
 
@@ -305,7 +305,7 @@ The Collector's Row goes quiet around you. Not muted—finished. Every sound see
 
 ### Interaction Pattern
 
-Unheard is filed beside five holdings and shares no mechanism with any of them: a bell that can be heard inside the radius, a healer who finds nothing to work on, a Maw that feeds the radius outward, a Choir that stops at twice the distance, and a soldier whose salute is the only thing that has ever pushed the radius back. When one of them is brought near, the watch records what the radius does before and after — same phrase, same two Wardens, separate written accounts sealed until both are in.
+Unheard is filed beside five holdings and shares no mechanism with any of them: a bell that can be heard inside the radius, a healer who finds nothing to work on, a Maw that feeds the radius outward, a Choir that stops at twice the distance, and a soldier whose salute has pushed the radius back when nothing else would. When one of them is brought near, the watch records what the radius does before and after — same phrase, same two Wardens, separate written accounts sealed until both are in.
 
 **Interaction method:** Radius taken before and after by the same two Wardens with the same phrase, and separate written accounts from each of them, sealed until both are in.
 
@@ -395,7 +395,7 @@ Year 4237: 1,460 hours held; 11,802 dictations taken; 3,118 people still in the 
 
 The costs are hard and the Office prints them above the figures. The clerk may not advise, may not warn, may not suggest an omission and may not correct an error, because the moment a clerk shapes a statement it becomes the clerk's statement and the whole apparatus of the officer-who-decides-what-counts comes back in through the side door. So a clerk writes, in a steady hand and at dictation speed, the sentence that will cost the speaker their post, and says nothing. The hour is an hour; three thousand people a year reach the table and are still talking when it ends. And a dictation that is never lodged has, by the rule, never happened — which is correct, and which is why the drawer at home is where most of them stay.
 
-The clerks asked for one sentence. A single permitted phrase: *you may wish to consider whether to include that.* Refused, and the refusal is right in every particular — advice is judgement, judgement is the officer deciding what a person's words are worth, and that is precisely the power the writing rule took away. Their application is bound into the Year 4231 return, recorded as correct and unanswered: that this Company stopped acting on speech so that no worker could ever again be ruined by what somebody claimed to have been told, and has thereby made it true that a woman may walk into Collector's Row eleven times, say everything she has, be received with perfect courtesy, and leave behind nothing but a weight that is still moving along the stacks.
+The clerks asked for one sentence. A single permitted phrase: *you may wish to consider whether to include that.* Refused, and the refusal is right in every particular — advice is judgement, judgement is the officer deciding what a person's words are worth, and that is precisely the power the writing rule took away. Their application is bound into the Year 4231 return with no answer entered against it: that this Company stopped acting on speech so that no worker could ever again be ruined by what somebody claimed to have been told, and has thereby made it true that a woman may walk into Collector's Row eleven times, say everything she has, be received with perfect courtesy, and leave behind nothing but a weight that is still moving along the stacks.
 
 ## Trivia
 
