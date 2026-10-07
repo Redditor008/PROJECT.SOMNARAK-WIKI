@@ -3223,11 +3223,16 @@ residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **B
 **Batch 45, unit 1: Backward Hour `C-IIIγ-913` quote written.** The shared family quote replaced in place with the hands running backward and the district's separate grievances becoming articulate at once. 5970 → **5975 words**;
 residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 45 stands at 1 of ten.**
 
+**Batch 46, unit 2: Endless Shift `C-IVδ-915` quote written.** The shared family quote replaced in place with a rotation that ends only by beginning again while the forge keeps going. 6479 → **6485 words**;
+residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 46 stands at 2 of ten.**
+
 **Batch 46, unit 1: Eleven Fifty-Nine `C-IIIγ-912` quote written.** The shared family quote replaced in place with the district grieving one loss nightly that belongs to no one present. 6047 → **6055 words**;
 residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 46 stands at 1 of ten.**
 
 **Batch 46 — OPEN at ten; quote phase part two (shared opening quotes replaced in place, owner-directed; each row links the fixed
 dossier and its source); finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IVδ-915 Endless Shift 끝없는 교대 — `b916d09` — PUSH VERIFIED — [[SE-C-IVδ-915_Endless_Shift_끝없는_교대](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-915_Endless_Shift_%EB%81%9D%EC%97%86%EB%8A%94_%EA%B5%90%EB%8C%80.md "SE-C-IVδ-915_Endless_Shift_끝없는_교대.md")] · source (keeps its quote): [[SE-C-IVδ-907_Breathing_Stone_살아있는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-907_Breathing_Stone_%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94_%EB%B2%BD.md "SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md")] `SE-C-IVδ-907`
 
 - SE-C-IIIγ-912 Eleven Fifty-Nine 슬픔의 시간 — `e2220e8` — PUSH VERIFIED — [[SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-912_Eleven_Fifty-Nine_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md")] · source (keeps its quote): [[SE-C-IVδ-907_Breathing_Stone_살아있는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-907_Breathing_Stone_%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94_%EB%B2%BD.md "SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md")] `SE-C-IVδ-907`
 
