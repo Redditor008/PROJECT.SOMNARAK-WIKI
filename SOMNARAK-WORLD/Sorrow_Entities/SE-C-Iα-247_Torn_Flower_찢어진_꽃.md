@@ -88,14 +88,14 @@
 
 1. **Tension:** Identification first — a split bloom in a crack between old buildings, weeping from the tear, fever-cold at the split and warm everywhere else, with the tear sitting further down the stem each year. The annual tear figures are 11, 19 and 26 millimetres, the current one is confirmed against the bloom record before anybody approaches, and the positions are taken after that.
 2. **Clash:** Flerehan or Ferrehan at the crack, with the tear measured from the crown before and after. Pugnahan is barred here: the table records it as an Increase and the torn edge spreads under it.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not repair or pick it; witness the torn form**. The condition is met when the tear position is re-measured and entered, the bloom is left exactly as it was found, and no worker has touched it; a watch that ends with the crack sealed is filed as a failure of the approach and not as a repair.
+3. **Resolution:** The file closes by leaving the flower as it stands — the documented suppression condition: **Do not repair or pick it; witness the torn form**. It is met when the tear position is re-measured and entered, the bloom left exactly where it was found, and no hand has touched the stem; a watch that ends with the crack sealed is filed as a failure of the approach and not as a repair.
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Resilience** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- A worker who breaks in the crack pays on two ledgers at once: the Gauge climbs while their **Resilience** shatters into a Fracture, and both entries are written on one line because neither arrives alone.
+- Standing too long in the crack calls up the holding's second harms — the ones the short briefing gestures at and never names — and the crew leaves with eroded thinking, a body out of true, and the lane behind them reading wrong.
+- A M.A.W. drawn from this holding is a loan and not a gift: the crystallized sorrow runs back down the weapon into the bearer's hand, and the armoury ledger enters the amount beside their name.
+- An encounter that ends without resolution does not simply stop: the flower's story goes on without a witness, and it goes on outward — the cell opens, the lane takes in more ground, and the pace is not the crew's to set.
 
 ## Appearance
 **Primary Form:** A figure shaped like a torn flower, weeping from its split petals, standing in the mortar cracks of old buildings. **Movement:** it reaches from the crack and does not step out of it.
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-A stable gauge is not a safe encounter, and on this holding the gauge is stable most of the time. Cross-reference the Work Types with the breach threshold and the M.A.W. cost before assigning personnel: Torn Flower is a Subject with a Subject-Lament manifestation and Grudge elemental expression, held at Zone B in Old Lament — ambient, in a crack between old buildings. Nothing here transfers to another entity with a similar name, and the file's caution is about hands: the bloom does not pursue, it is picked and it is repaired, and either one is the failure. Observation can leave the gauge unchanged and still expose the worker to memory, environmental or identity effects.
+A stable gauge is not a safe encounter, and on this holding the gauge is stable most of the time. Cross-reference the Work Types with the breach threshold and the M.A.W. cost before assigning personnel: Torn Flower is a Subject with a Subject-Lament manifestation and Grudge elemental expression, held at Zone B in Old Lament — ambient, in a crack between old buildings. Nothing here transfers to another entity with a similar name, and the file's caution is about hands: the bloom does not pursue, it is picked and it is repaired, and either one is the failure. A flat read proves only that the instrument is flat: watches here have closed with the gauge untouched and the worker carrying a memory of the crack that was never theirs.
 
 **Reading the response:** Work success is measured by the holding's response, the worker's condition and the information recovered. When the gauge drops, the surface pressure lessens and the deep structure of the grief stays untouched — stabilisation, not healing. When the gauge climbs, the Work Type has struck the nerve of the origin: pull back and reassess before the procedure feeds the entity's originating sorrow.
 ## Breach Behavior
@@ -221,7 +221,7 @@ A stable gauge is not a safe encounter, and on this holding the gauge is stable 
 
 ### M.A.W. Use Notes
 
-Each piece extends Torn Flower rather than arming its wielder against it. The benefit holds only inside the pattern the file records — the bloom left in its crack, the tear measured and not sealed, no hand on the stem — and outside it the cost arrives early and does not reverse on the return: the wielder's touch harms the people they love, pain delivered without intent and without warning.
+The kit does not arm anyone against this flower; it borrows the flower's own terms. While the recorded pattern holds — bloom left in its crack, tear measured and never sealed, no hand on the stem — the pieces behave. Step outside it and the price lands early and stays: the bearer's touch turns against the people they love, pain given with no intent behind it and no warning ahead of it.
 
 ### Field Use Record
 
@@ -302,14 +302,14 @@ The petals are beautiful until you see the split. Crimson light burns along the 
 
 ### Interaction Pattern
 
-Torn Flower is read beside the 3 holdings the file has paired it with — The Sorrow Flower, The Garden of Thorns and The Orphaned Bell — and none of the 3 is treated as an alliance or a hostility: they are resonance candidates, filed as such. In a shared event the team records whether anything changes at all in the tear, the reach, the spore fall, the gauge or the containment, and the standing note is that a resemblance is the reason a pairing was proposed and not a finding that came out of one. The record's own distinction is worth carrying forward: the Sorrow Flower is a thing that grew and was let alone, this one is a thing that was finished and not seen.
+On the shelf beside it stand the 3 records it has been read with — The Sorrow Flower, The Garden of Thorns and The Orphaned Bell. None of the three is friend or enemy; each was filed as a resonance candidate and kept at that. When the group is run together the watch reports one line per post — what changed in the tear, the reach, the spore fall, the gauge, or the containment, or that nothing did — and the note above the page says the resemblance is why the reading was proposed, not what came out of it. The record's own distinction is worth carrying forward: the Sorrow Flower is a thing that grew and was let alone, this one is a thing that was finished and not seen.
 
 **Interaction method:** Tear and reach measured on this holding before, during and after, by a worker who takes no part in handling the other party. Sweepings are weighed separately for each pairing and the crack is checked for spore the following day.
 
 
 ### Entity Interaction Record
 
-Torn Flower must be kept distinct from the other Echo Gardens files. The Sorrow Flower is a thing that grew and was let alone; this one is a thing that was finished and not seen. The distinction decides whether the Gardens' own staff are asked to attend a session.
+This file has to stay separate from the other Gardens records, and the reason is written at the head of the folder: the Sorrow Flower is a thing that grew and was let alone, while this one is a thing that was finished and not seen. The difference decides whether the Gardens' own staff are asked to attend a session.
 
 | Record paired | Comparison basis | What the pairing produced | Entry to make |
 |---|---|---|---|
@@ -333,7 +333,7 @@ The grief of the torn flower sank into the Gardens, and the Weeping gave it form
 
 Torn Flower does not rage at the one who tore it — that hand is anonymous, long gone. It carries the grief of the incompletion: the bloom that was meant to flower and was not witnessed, the mourner who came to the garden and found the stem bare and the grief with nowhere to put itself.
 
-Those who come near the Torn Flower feel the grief of beauty interrupted — the sorrow of a thing almost complete and destroyed before the completion, of a memorial that existed and was not seen, of a mourner who arrived too late.
+Proximity brings its own register: the grief of a thing stopped one gesture short of done — a bloom finished and never witnessed, a memorial that stood and was not seen, a mourner walking into the lane after the last person who could have shown them the way had gone.
 
 Some sorrows mourn a loss. Torn Flower mourns a near-miss — the bloom that opened and was torn before the mourner arrived, the beauty that was and was not witnessed, preserved as a figure torn from its stem, carrying the grief of an incompletion no one intended.
 ## 증언 (Testimonium) — The Testimony
