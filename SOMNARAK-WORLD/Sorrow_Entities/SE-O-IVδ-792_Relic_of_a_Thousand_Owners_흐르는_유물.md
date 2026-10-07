@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 20–28 per successful work cycle, counted from the form records rather than from the figure |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | δ · δ |
@@ -41,7 +41,7 @@
 - A successful cycle lowers the pressure around the figure and steadies its outline for a time. It returns the object to nobody. Every exile who carried it is dead or gone, the relic outlasted all of them, and a cycle that ended in anyone holding it would have failed in the one way this holding cannot afford.
 - The activation threshold is 1 and it is a counter: one failed or refused cycle is sufficient, with no margin behind it. The Combat Record figure of 90% stands separately, and a gauge at or above that line fires activation whether or not the count has moved. Either reading alone is enough.
 - The 20–28 Han-Energy yield is high and the exposure that earns it is cumulative rather than acute. Nothing about a single cycle is dangerous. What accumulates is the sense of having been entrusted with something, and personnel are rotated against the roster rather than against any sign of harm, because by the time a sign appears the worker is already attached.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Extraction here is taken from the figure and never from the object it carries, a distinction the briefing states twice, since the object is what every operator reaches for and the object is the one thing in this chamber that may not be touched.
+- Taking M.A.W. stock is its own authorised event and is never a prize hung on a clean cycle. Here the draw comes off the figure and never off the object in its hands — a distinction the briefing repeats twice, because the object is the one thing in the chamber nobody may put a hand to.
 
 ## Combat Record
 ### Core Stat Line
@@ -80,14 +80,14 @@
 | { *The Dripping Surface* [**Debuff**] } | "The relic is sweating — beads of liquid sorrow forming on its surface — and each bead carries the relic's stored power." | [The Relic's liquefaction releases its power in liquid form; the target is splashed.] | *Target suffers -10 Composure; the liquid relic is potent and spreading.* **[10 Lament DMG [Lament]]** | When the target holds the Relic. |
 | { *The Pool* [**Debuff**] } | "The relic has formed a pool at its base — and the pool is growing, and it glows with old power." | [The Relic's runoff accumulates; the target wades in liquid divinity.] | *Target loses 10 Composure; the pooled power is overwhelming.* **[10 Lament DMG [Lament]]** | When the target wades. |
 | { *The Liquid Strike* [**Attack**] } | "A glob of the flowing relic lifts and flies — carrying concentrated, liquid power." | [ A projectile of liquefied relic-matter strikes.] | *Inflicts Lament pressure and one wound of liquid, ancient force.* **[14-22 Lament DMG [Lament]]** | When the Relic is disturbed. |
-| { *The Full Melt* [**Attack**] } | "The relic liquefies completely — a pool of pure, liquid, ancient sorrow — and it floods outward." | [The Relic's total dissolution releases its complete stored power.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Relic is shattered. |
-| { *The Liquid Archive* [**Ultimate**] } | "Every relic in the field begins to flow — and the combined pool of liquid artifacts drowns everything in ancient power." | [The Relic extends its flowing across the whole area.] | *All in range suffer Lament pressure for three turns of liquid relics.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Melt* [**Attack**] } | "The relic goes entirely to liquid, a pool of old sorrow, and the pool starts to move." | [A total dissolution lets go of every year the relic was holding.] | *A heavy Lament flood; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the Relic is broken open. |
+| { *The Liquid Archive* [**Ultimate**] } | "Every relic on the ground starts to run, and the pooled weight of old objects goes over everything in the field." | [The flow runs outward until the whole ground is under it.] | *Everyone in range takes Lament pressure for three turns of liquid relics.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
 1. **Tension:** The team takes a standing distance on the Gate road with nobody between the figure and the Gate, confirms that nothing is to be offered or taken, and fixes in advance that anything the figure sets down stays where it falls until the engagement closes.
 2. **Clash:** Twenty-four turns, all four Work Types available, worked at a standing distance with no member of the team between the figure and the Gate. Nothing is offered to it and nothing is taken from it. Anything it sets down stays where it fell until the engagement closes.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not claim ownership; document its owners**.
+3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Do not claim ownership; document its owners**. Nobody in this wing writes the object down as its own property, and every owner named in the record is entered one at a time, by name.
 
 ### Consequences
 
@@ -156,7 +156,7 @@ Relic of a Thousand Owners is a Subject with Subject-Phantasmal manifestation an
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
+| **Escalation** | Every turn the figure stays loose the pressure climbs; Composure drain rises by 5 a turn until something suppresses it. |
 
 ### Escalation Notes
 
@@ -195,7 +195,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** a wrapping shroud of Lament Han-silk, cold on the skin, sewn so tight that the seams vanish while it is worn.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -207,17 +207,17 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 **Ability:** Grants resistance to Lament pressure, shielding the Mind against grief that belongs to other people. It holds against the pressure and not against the names, which are not an attack and which every wearer reports hearing as clearly as they did without it.
 
-**Cost:** The wearer goes numb to small pleasures and keeps what they are given, finding it progressively harder to pass anything on.
+**Cost:** The wearer stops feeling small pleasures and begins keeping whatever comes their way; handing anything on gets harder with every cycle.
 
 ### M.A.W. Stigma — The Flowing Charm
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small charm of Lament Han-crystal, cool at first and warm once it has been held a while.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat while this piece's source entity is the subject of the cycle, and nothing anywhere else
+**Effect:** +2 to the working stat on cycles that have this piece's source entity as their subject, and nothing at all elsewhere
 
 **Ability:** Grants a minor boon drawn from the source's own nature — anything the bearer carries for somebody else is never lost, never damaged, and never mislaid, for as long as it remains someone else's.
 
@@ -238,7 +238,7 @@ Every piece in this set was taken from the figure and never from the object it c
 | **At limit** | Duration, activations, attribute movement, rejection signs, and whether the operator has begun speaking about the object's proper keeping. |
 | **After use** | Removal, injuries, lingering effects, cooldown, repair need, reuse authorisation, and a second interest declaration taken at the armoury before the operator leaves. |
 
-**Stat interpretation:** Grade describes extraction stability and says nothing about the wielder. On this set the cost is not fatigue and does not present as harm at all: it presents as responsibility, which no rating captures and no wielder reports. Read both columns, authorise on the second, and ask the team rather than the person.
+**Stat interpretation:** The grade is about how steadily the stock comes away and says nothing about the person holding it. Here the price is not tiredness and never shows as injury: it shows as a sense of responsibility, which no column measures and no bearer ever reports. Read both columns, sign off on the second, and put the question to the team instead of to the individual.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -265,7 +265,7 @@ Every piece in this set was taken from the figure and never from the object it c
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Relic of a Thousand Owners (O-IVδ-792 [O]) is logged as a Subject-Phantasmal manifestation expressing Lament. The Relic formed from an object carried through many exiles. Held at Zone E, Exile's Gate vicinity. The Relic changes form near the Exile's Gate.
+Relic of a Thousand Owners (O-IVδ-792 [O]) stands on the register as a Subject-Phantasmal manifestation expressing Lament. The Relic formed from an object carried through many exiles. Held at Zone E, Exile's Gate vicinity. The Relic changes form near the Exile's Gate.
 
 **Entry 2 — <Excerpt from Exile's Gate Watch Log, Year 4238>**
 Moves around the Gate and through exile memories. Personnel feel every farewell attached to the relic. It is more active when someone leaves the city.
@@ -281,11 +281,11 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Relic of a Thousand Owners; the other feeds it.
+> The watch closes with the figure in front of the worker and one act to choose: leave the object where it lies and write its owners down, or take it into care the way any decent person would.
 
-| Do not claim ownership; document its owners — as written, without improvising. | Depart from the condition for good reasons, as Relic of a Thousand Owners's record shows people do. |
+| Claim nothing and document the owners, name by name — the clause as the sheet sets it out. | Take it in for its own good, which is how the record shows people drift off the clause. |
 |---|---|
-| The figure softens and reveals one owner's grief. The sorrow is witnessed; Relic of a Thousand Owners is fully recorded. | It flows around aggression and returns it as force. The gauge climbs and Relic of a Thousand Owners withdraws without revelation. |
+| The figure loosens and shows one owner's grief; the sorrow is witnessed and the Relic is recorded whole. | The flow bends around force and gives it back harder; the reading climbs and the Relic goes unrecorded. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -320,15 +320,15 @@ This holding is read against the Gate and the other records of objects that outl
 
 ### Entity Interaction Record
 
-This entity must be assessed as one of a group of sorrows attached to objects that outlived the people who carried them, rather than as an isolated figure at the Gate. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
+The Relic belongs among the sorrows that stick to objects outliving the hands that carried them, and not among the lone figures at the Gate. What follows is canonical only in that it has been seen and written down; none of it is closed. A pairing may show as help, as a block, as nothing at all, or as something that surfaces only under load, and one result does not survive a Tide, an Ordeal or a transformation.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| What shares the Gate road | How the pairing has run | What the post entered | What the page carries |
 |---|---|---|---|
 | **The Exile's Gate** | Its appearances follow the Gate and it crosses in both directions despite the one-way rule. | The clustering is the strongest correlation in the file: sightings track the exile roll. The Gate's own readings do not move, in either direction, on any occasion recorded. | The exile roll against the sighting log, and the Gate's unchanged series. |
 | **The Guardian of the Gate** | The Guardian is said to remember its owners, and has never produced one. | Eleven co-presences. No name has ever passed between them, the figure's outline was unaffected on every occasion, and the Guardian's boundary behaviour was unchanged. The relationship is filed because the negative is worth having. | All eleven events, the name log, and both unchanged series. |
 | **The Returning Relic** | Both preserve an object that outlived its people; one is trying to get home and this one has nowhere to be returned to. | No joint work authorised and none sought. The two management conditions are incompatible — that holding is quieted by restoring an object to a place, and this one worsens the moment anybody proposes a destination. | The two management conditions side by side, and the reasoning recorded for refusing the pairing. |
 
-**Interaction procedure:** Baseline both parties alone, bring the second along the Gate road and never between the figure and the Gate itself, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, and whatever persists after separation. The field this holding adds is the form record: each observer describes the outline independently, and the descriptions are filed side by side without being reconciled.
+**Interaction procedure:** Take each party's baseline on its own; bring the second along the Gate road and never into the line between the figure and the Gate. The first shared change is entered with its distance, its duration and what set it off, the gauge on both sides, and whatever remains changed once they are apart. This file's own extra field is the form record: every observer writes the outline down separately, and the accounts are filed side by side and never reconciled.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -362,7 +362,7 @@ Some sorrows mourn an owner. Relic of a Thousand Owners mourns the having-none �
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical (δ). It does not pursue. It intensifies where it stands, cracks the structure outward, and makes the position untenable; the standing hazard between breaches is the conviction it produces in competent people that they ought to look after it.
 **Containment & Handling Procedures:**
-- All four Work Types valid; Flerehan and Ferrehan lower the gauge, Pugnahan returns force and raises it.
+- All 4 Work Types valid; Flerehan and Ferrehan lower the gauge, Pugnahan gives the force back and lifts it.
 - Do not claim ownership in any form: no handling, no keeper named, no destination proposed, no reference to the object as the facility's.
 - On a Corrupt event, withdraw radially from the fixed point and seal the zone; the only action that lowers the gauge is documenting a further owner by name, with the register reference attached.
 **Observation Notes:**
@@ -456,7 +456,7 @@ The operations board's objection is minuted and read at every annual review. Del
 ### Registry Trivia
 
 - **Classification detail:** Relic of a Thousand Owners is a Subject with Entity (IV) coherence and Critical (δ) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone E, Exile's Gate vicinity.
+- **Field detail:** Its element is Lament, and the register keeps it in Zone E, in the country of the Exile's Gate.
 - **Recognition detail:** Identify it by the figure, never by what it is carrying. The outline that cannot settle between a person and an object is the constant here; the relic in its hands is different every time it is seen and is worthless as a marker.
 - **Record detail:** Relic-form entities and Gate-adjacent phantasmals both recur in the archive, and Zone E holds several that preserve objects outliving their owners. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the decisive point, which here is the absolute prohibition on taking possession.
 - **Containment detail:** Nothing here limits its movement, and what the perimeter contains is the paperwork rather than the entity. It crosses the Gate in both directions in defiance of the Gate's one-way rule, returns without notice, and radiates regardless of where it stands. Staff posted along the exile routes report farewells that are not theirs and a reluctance to unpack, and those reports are collected with the holding.
