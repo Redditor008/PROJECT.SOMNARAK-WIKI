@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 39 / unit 4 — The Angry Maiden `C-IVβ-042` closed (2026-10-07)** — measured live at `a22fff1`: **1 dirty
+  section**, Final Observation (0.088, the choice blockquote), with `condition` False on entry. **Closed in a single
+  wave**: the choice blockquote, the choose row and the result row re-authored, the resolution line's clause
+  re-registered in the form the register reads — `The documented condition — ` → `The documented suppression
+  condition: `, keeping the file's own text (**validate the anger; do not deny or argue with it**) — and the entry
+  residual cleared line-locally (`is logged as ` → `stands on the register as`). 9,157 → **9,190 words**; `tpl.py`
+  residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** and the condition count rose
+  **267 → 268 / 301** — disclosed; `own_series` already True. Movement at the unit commit: `R-29` 245 / 301;
+  section-clean 279 / 301; residue-free 302 / 302; residue lines 0; archive dirty 28; file-clean
+  302 / 302. **Batch 39 stands at four of seven.**
+
 - **Batch 39 / unit 3 — Unsaid Blossoms `C-IIβ-100` closed (2026-10-07)** — measured live at `faaca78`: **2 dirty
   sections**, Behavior (the diagnostic paragraph, 0.060) and Final Observation (the choice blockquote and the choose row).
   **Closed in a single wave** (4 sites, tight against the file's actual carriers): the diagnostic paragraph, the choice
