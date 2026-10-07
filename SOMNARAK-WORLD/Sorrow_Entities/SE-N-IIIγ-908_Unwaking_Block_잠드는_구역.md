@@ -38,11 +38,11 @@
 
 ### Operational Notes
 
-- The block holds sleep that does not end, and personnel removed from it do not wake on removal.
-- Work shortens the onset. It does not shorten the sleep itself, and no session has produced a waking inside the block.
-- Both valid approaches are survey work, and the block holds 212 sleeping inhabitants who are the district’s charge and not the facility’s. Nursing visits daily, by district staff, under the same timed watch as everybody else.
-- Three ignored conditions escalate it. The dream register carries contact, so crews are paired and each pair holds a timed verbal check.
-- Extraction is a separate risk event under its own authorization and is never attempted by a single operative.
+- The block holds a sleep that has not ended, and lifting somebody out of it does not wake them: removal changes the address, not the state.
+- A session shortens the onset and never the sleep; nothing done inside the block has woken anybody.
+- Both valid approaches are survey work, and inside the block lie 212 sleepers who belong to the district rather than the facility. Nurses from the district attend them daily, under the same timed watch as everybody else.
+- Three ignored clauses escalate it, and the dream register carries contact, so the crews work in pairs and each pair holds a timed verbal check.
+- Any extraction is a separate risk event with its own authorisation, and nobody attempts one alone.
 
 ## Combat Record
 ### Core Stat Line
@@ -86,9 +86,9 @@
 
 ### Battle Phases
 
-1. **Tension:** The marker is the sleepers themselves — 212 of them, in the postures they were in on the night it happened. They breathe, they age slowly, and they do not stir when a wall is moved in the next room. Confirmed against the designation, positions taken, and the cycle opened.
-2. **Clash:** Work Types are worked and M.A.W. gear is issued while the Block answers with the actions on file.
-3. **Resolution:** The caller outside says the time and the party leaves whatever room it is standing in; plans are signed at the threshold, never inside. The file registers a suppression condition: **The caller outside keeps the time and the party leaves the room it is standing in**. That clause is the whole of the discipline here — 41 plans are on file and no two of them agree.
+1. **Tension:** The sleepers are the marker — 212 of them, lying in the postures they were in the night it started. They breathe, they age slowly, and they do not stir when a wall is moved in the next room. The designation is confirmed against the table, the positions are taken, and the cycle opens.
+2. **Clash:** The Work Types are run and the gear is issued while the Block answers with the actions already on file.
+3. **Resolution:** The caller outside says the time and the party walks out of whatever room it is standing in; the plans are signed at the threshold and never inside. The file registers a suppression condition: **The caller outside keeps the time and the party leaves the room it is standing in**. That clause is the whole of the discipline here — 41 plans are on file and no two of them agree.
 
 ### Consequences
 
@@ -102,8 +102,8 @@
 
 **Notable Features:**
 - Expresses Lament pressure in a dream register.
-- The place form is unmistakable — this is a dream entity, not a general one.
-- Identification is domestic: a residential block with every bed occupied, every light off, and laundry on the lines in the yard going grey with age.
+- The shape is settled at the door: this is a dream holding, and no general reading survives a mapping season.
+- It is identified domestically — a residential block with every bed taken, every light off, and washing on the yard lines gone grey with age.
 
 **Identification Profile**
 - **Entity Type:** Place
@@ -142,7 +142,7 @@ Containment took fourteen hours and the margin was narrow. What it contains is n
 
 ### Operational Work Notes
 
-The pressure is not what limits the work; the clock is. Observation is the survey itself, endurance is the discipline of leaving a corridor half-drawn because a voice outside has said the time. The limit is called from outside by somebody who does not enter, and the reason is written into the standing order: the limit cannot be judged by anyone standing in the air it is protecting them from.
+What limits the work is not the pressure but the clock. Observation is the survey itself; endurance is walking out of a half-drawn corridor because a voice outside said the time. The limit is called by somebody who never enters, and the standing order gives the reason: the limit cannot be judged by anyone standing in the air it protects them from.
 
 ## Breach Behavior
 
@@ -238,7 +238,7 @@ The Unwaking Block set is made from the mapping: the Edge from a surveyor’s ro
 
 **Key Observations:**
 - Forty-one survey plans on file, none identical, all signed at the threshold on the way out.
-- Both valid approaches are survey work on a timed watch and both reduce the gauge on a clean return. An entry that overran has never reduced it, including the three that produced the most complete plans.
+- Both valid approaches are survey work on a timed watch and both bring the gauge down on a clean return. No overrun has ever lowered it, including the three that produced the most complete plans of their years.
 - Nobody has woken. In seventeen years not one of the 212 has stirred, and no action taken inside the block — noise, light, touch, medical intervention by district staff — has produced any change in any sleeper.
 
 **Personnel Note:**
@@ -268,7 +268,7 @@ The Unwaking Block set is made from the mapping: the Edge from a surveyor’s ro
 
 ## 감각 묘사 (Flavor Text)
 
-There is a moment — always the same, always brief — when the lament pressure and the dream register synchronise, and for exactly one heartbeat you understand what the entity is. Not what it does. What it *is*. A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls shift, doors open to rooms that do not exist, and the air carries the texture of deep sleep. Then the moment passes, and you are left with the pressure, the register, and the unshakeable sense that you have been seen.
+Once a watch, the lament pressure and the dream register meet for a single held breath, and in that breath the block is understood rather than measured — not what it does, but what it is. A residential street in Zone D where every inhabitant went to bed on the same night and stayed there. The buildings appear to dream along with them: walls shift, doors open onto rooms that exist on no plan, and the air carries the texture of deep sleep. Then the breath ends, and what is left is the pressure, the register, and a watch keeping the clock outside.
 
 **At first contact:** The warmth. It is the warmth of a room somebody has been sleeping in, and it is the same in the stairwells and in the yard.
 
@@ -280,7 +280,7 @@ There is a moment — always the same, always brief — when the lament pressure
 
 ### Entity Interaction Record
 
-Three holdings are read beside the Block — The Sleeping Sigh, The Dreaming Plague and the Echo Gardens — and none of the three is a partner to it or an opponent; each pairing is a question the post puts again every mapping season. No joint observation has ever been filed here, and the notes below are entered as proposed points of contact rather than measured results.
+Three records stand beside the Block — The Sleeping Sigh, The Dreaming Plague and the Echo Gardens — and none of the three is partner or opponent to it; each pairing is a question the post puts again every mapping season. No joint observation has ever been filed here, and the entries below are proposed points of contact rather than measured results.
 
 | Holding read beside the Block | How the two have run | What the survey logged | What the entry keeps |
 |---|---|---|---|
@@ -292,9 +292,9 @@ Three holdings are read beside the Block — The Sleeping Sigh, The Dreaming Pla
 
 ## 이야기 (Narratio) — The Tale
 
-Their care is not ours. The district nurses them daily, under the same twenty-five minute watch as everybody else, and the families visit accompanied. Two proposals to restrict the visits on operational grounds have been refused, and the refusals are in the folder with their reasoning intact.
+The sleepers’ care is not the facility’s. The district attends them every day under the same twenty-five-minute watch as everybody else, and families visit accompanied. Two proposals to restrict the visits on operational grounds have been refused, and the refusals are in the folder with their reasoning intact.
 
-The mapping is the work. A party goes in, draws what it walks through, and comes out when a voice outside says the time — and the voice belongs to somebody who has not been inside, because the limit cannot be judged by anyone breathing that air. Entries that overran are logged as overruns even when the plan they produced was the best one of the year.
+The mapping is the work: a party goes in, draws what it walks, and comes out when the voice outside calls the time — a voice belonging to somebody who has not been inside, because the limit cannot be kept by anyone breathing that air. An entry that overran is logged as an overrun even when its plan was the best of the year.
 
 One neighbouring building has been annexed, by a connecting door that was not there the previous week. Nine more people joined the 212 that night. The door is on every plan drawn since.
 
@@ -302,11 +302,11 @@ Nobody has woken. The file says so at the front, in the first paragraph, rather 
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The dream register is not in the manual. We learned it by failing."* — Specialist, Field Team
-*"I have worked lament entities for six years. This one is different. The dream makes it personal."* — Handler
-*"Containment holds. But the protocols need a new chapter."* — Containment Lead
-*"After contact, I could not stop thinking in the dream register for three days."* — Specialist, Recovery
-*"It is one of the first of its kind. We are still learning what Place-Dream means."* — Researcher, Floor 4
+*"There is no dream register in the manual. The block taught it to the first crews by beating them at it."* — Specialist, Field Team
+*"Six years of lament postings did not prepare me for a corridor that redraws itself while I am drawing it."* — Handler
+*"The watch holds. What the procedure file lacks is a chapter for a building that changes between shifts."* — Containment Lead
+*"Three days after my last mapping I kept waking at the twenty-five-minute mark, convinced somebody outside had called me."* — Specialist, Recovery
+*"Place-Dream is the table’s word for it. The table has no word for 212 people asleep in their own beds for seventeen years."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record
 
@@ -321,9 +321,9 @@ Nobody has woken. The file says so at the front, in the first paragraph, rather 
 **Threat Assessment:** Major. A Place-Dream entity — the dream register is its defining characteristic. Risk: prolonged exposure to the dream pressure may produce effects not seen in standard lament entities.
 
 **Containment & Handling Procedures:**
-- Enter in parties, draw as you go, and leave on the called time with the plan unfinished if necessary.
-- There is nobody awake to weep with and nothing to confront. The inhabitants are asleep and the building is a building.
-- File every plan unreconciled and compare the series for new doors; an expansion shows up on paper before it shows up anywhere else.
+- Enter in parties, draw as you walk, and leave at the called time with the plan unfinished if that is what it takes.
+- There is nobody awake in there to weep with and nothing to confront. The sleepers sleep and the building is a building, at least until the walls move.
+- File every plan unreconciled and read the series for new doors; an expansion shows up in the paperwork before it shows up anywhere else.
 
 **Cross-References:** Inner Sorrow (내한) · Lament · Place-Dream · Manifestation Classification
 
@@ -353,9 +353,9 @@ The response was unusually fast and the containment has held since, and the file
 
 ## Trivia
 
-- One of the first catalogued **Place-Dream** entities in Somnarak.
-- Its dream descriptor makes it structurally unique among place entities.
-- The lament pressure in the dream register feels different from standard lament — more specific, more personal.
+- Catalogued among the first **Place-Dream** entities in the wing’s records, and the only holding whose inhabitants are its charge and its measurement at once.
+- Nothing else on the shelf is filed as a building that sleeps with its tenants; the descriptor was coined for this block.
+- Standard lament registers on the worker. This block registers on the map, which is why the survey rod is the instrument of record here.
 
 ## Document Information
 
