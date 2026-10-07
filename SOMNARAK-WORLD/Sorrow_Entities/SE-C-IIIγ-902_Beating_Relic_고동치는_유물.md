@@ -80,10 +80,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the grudge." | [The entity's body pressure settles over the target.] | *Target feels the weight of grudge sorrow.* **[10 Grudge DMG [Grudge]]** | When the entity first fixes on a target. |
-| { *The Body Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of grudge body sorrow.] | *Grudge damage strikes the target; the gauge spikes.* **[21 Grudge DMG [Grudge]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full grudge weight on one point.] | *A devastating Grudge strike; the target's Sorrow Gauge surges.* **[26 Grudge DMG [Grudge]]** | When the entity is cornered or starved. |
-| { *The Body Collapse* [**Ultimate**] } | "The body breaks — and everything it held comes loose." | [The entity's full grudge sorrow unleashed in every direction.] | *All personnel suffer Grudge erosion for three turns.* **[23 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Warmth Before the Hand* [**Debuff**] } | "It is warmer than the room before your hand is anywhere near it." | [The beat climbs the plinth into the table and the floor, and the handler's own pulse answers it.] | *The handler feels Goru's weight settle against the palm.* **[10 Grudge DMG [Grudge]]** | When the handler first takes the stone's attention. |
+| { *The Second Heart* [**Attack**] } | "The tempo stops being a measurement and becomes a case." | [Dates, figures, a district, a sum — the relic is not changing; the handler is being briefed.] | *Grudge damage strikes the handler; the veins brighten to crimson and the gauge spikes.* **[21 Grudge DMG [Grudge]]** | When the handler is provoked or denied. |
+| { *The Clenched Certainty* [**Attack**] } | "Forty years of fury, compressed to amber." | [The full weight of Goru's refusal concentrates on one point, and the handler's rate climbs to meet it rather than the other way round.] | *A devastating Grudge strike; the target's Sorrow Gauge surges.* **[26 Grudge DMG [Grudge]]** | When the handler is cornered or starved. |
+| { *The Open Hand* [**Ultimate**] } | "The stone empties through the hand — what Goru held goes out with it." | [Everything the relic carried comes out in every direction, and nobody in the room is left unbriefed.] | *All personnel suffer Grudge erosion for three turns.* **[23 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
