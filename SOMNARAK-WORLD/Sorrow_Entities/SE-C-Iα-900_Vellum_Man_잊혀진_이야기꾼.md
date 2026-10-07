@@ -279,7 +279,7 @@ A thin figure standing a metre from a bolted chair, dry and cool, its surface tu
 
 ## 상호작용 (Entity Interactions)
 
-No second holding has ever been set down on this desk while the register's 41 open tales were being collected, and the file intends to keep it that way. The three rows below come off the appendix that sorts the 90x holdings by manifestation, each read against this record's own series. All three are stories that are being told and will not finish; the four records meet that in ways different enough to keep shelved together.
+No second holding has ever been set down on this desk while the register's 41 open tales were being collected, and the file intends to keep it that way. Three entries follow, transcribed from the wing appendix; each was matched against the desk's open tales before it was allowed onto the page. All three are stories that are being told and will not finish, and the four records meet that in ways different enough to keep shelved together.
 
 **Interaction method:** Take the desk's own figures first — pages marked, minutes held, the shift count — established alone across a full cycle before any comparison is entered. Then set the other record's series beside them and record the first divergence, its range, what set it off, and whether either series moved in the reading. Re-verify each quarter.
 
@@ -300,12 +300,12 @@ The tale sorrow that birthed Vellum Man is specific. It is not the general lamen
 
 Nothing at this desk shouts and nothing weeps. It keeps telling, in tale and lament both, with the patience of a narrator who has never once been interrupted.
 
-The holding raises no voice and sheds no tear. It keeps its register — tale and lament — the way a desk keeps its open tales, and it has never once been hurried into an ending. Vellum Man is not the loudest thing in Somnarak; it is the most particular. In a city where grief is issued to everyone in the same shape, a story that still knows your name is the one that reaches bone.
+The desk neither raises its voice nor weeps. It goes on taking down a story that has no ending yet, patient the way a scribe is patient, and no shift has ever hurried it. Vellum Man will not be found among the loud sorrows of Somnarak; it belongs to the exact ones. Where grief is distributed in a single grade across the city, a tale that addresses you by name is the one that leaves a mark.
 
 ## 증언 (Testimonium) — The Testimony
 
 *"I have handled lament for years and it never changes. The tale is the part that reads the desk back, and the gap between the two is where every bad hour has started."* — Handler
-*"I expected standard lament. I got something that knew me."* — Specialist
+*"I sat down ready for the usual pressure. What I got was a story that had already been told somewhere I have been."* — Specialist
 *"Each revision of the protocol teaches the desk one more way around it. That is not the register defeating us; that is the register taking notes."* — Researcher
 *"It has never attacked the desk. It gathers, and then it tells the collector which of the 41 tales was his."* — Director
 *"Spend one shift cataloguing here and the classification's newest column will make sense to you — this one did not fit any of the old ones."* — Keeper
@@ -338,8 +338,8 @@ The holding raises no voice and sheds no tear. It keeps its register — tale an
 ## Trivia
 
 - One of the first catalogued **Subject-Tale** entities in Somnarak.
-- Its tale descriptor makes it structurally unique among subject entities.
-- Lament in the tale register does not press on a crowd; it arrives mid-story, and the story has somebody real in it.
+- No other subject on the shelf is filed for a story still being written; the desk's register is the reason the class exists.
+- The pressure does not fill a room. It comes in at the middle of a tale, and the tale has a living person on the page by the time anyone notices.
 
 ## Document Information
 
