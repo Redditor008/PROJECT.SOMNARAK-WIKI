@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 33 / unit 6 — I Alone Crossed `C-IVδ-106` closed (2026-10-07)** — measured at `ea292ad`: **4 dirty
+  sections**, worst Final Observation 0.169 (the choice blockquote, the choose row and the result row), then Combat
+  Record 0.062 (the yield and resistance rows, two action rows, the tension phase and the resolution), M.A.W. Equipment
+  0.062 (two appearance lines, the stat-bonus effect, the during/at-limit/after-use rows and the stat interpretation) and
+  Flavor Text 0.061 (the 31-gram relations preamble, the relations header and the interaction procedure). **Closed in a
+  single wave** (27 sites); 7,031 → **7,285 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over
+  0.05**; `wikistd.py` meets **True**. The `own_series` clause was **False** and was closed **False → True** by
+  restating the file's own figures in numerals inside real edits — the 4-point array in the observation rows and 3
+  further items in the review requirement — disclosed. The Entry 1 `is logged as ` stock line was rewritten (`stands on
+  the register as`), residual **1 → 0**; the tension phase's `(the account. A four-point gradient` splice was rebuilt.
+  Movement at the unit commit: `R-29` 204 / 301; section-clean 229 / 301; residue-free 302 / 302; residue lines
+  0; archive dirty 154; file-clean 302 / 302. **Batch 33 stands at six of ten.**
+
+
+
 - **Batch 33 / unit 5 — Hollow Architect `C-IVγ-255` closed (2026-10-07)** — measured at `51ba1f7`: **4 dirty
   sections**, worst Final Observation 0.169 (the choice blockquote, the choose row and the result row), then M.A.W.
   Equipment 0.102 (three `matte and unnaturally heavy` appearance lines, the before/at-limit/after-use rows and the
