@@ -94,7 +94,7 @@
 ### Consequences
 
 - Composure fails here as resolve. The worker becomes certain they can make out a word, then a sentence, then a request addressed to them personally, and the transcripts from that state are long and detailed and have never been corroborated by a second listener.
-- Prolonged exposure may produce the entity's documented void effect — spirit pressure that does not recede.
+- Held past the recommended session, the jar's documented void effect — spirit pressure that does not recede.
 - The set costs the wielder recall: a headache, a word gone, a face gone for a few seconds. The armoury's note is that the pieces take exactly what the holding is about and that nobody has found this amusing.
 
 ## Appearance
@@ -278,7 +278,7 @@ Nothing escalates at SECTOR-N-905. In sixty-one years the jar has not moved, not
 
 ### M.A.W. Use Notes
 
-Each piece is a conditional extension of the holding, not ordinary equipment, and the three of them take the same thing: a headache, a word, a face, always small and always gone before it is missed. The grade measures extraction stability against entities and says nothing about that. The wing's note is that a set drawn from a jar nobody will open could hardly have been expected to give anything back.
+Each piece is drawn from the holding itself, not bought as ordinary equipment, and the three of them take the same thing: a headache, a word, a face, always small and always gone before it is missed. The grade measures extraction stability against entities and says nothing about that. The wing's note is that a set drawn from a jar nobody will open could hardly have been expected to give anything back.
 
 ### Field Use Record
 
