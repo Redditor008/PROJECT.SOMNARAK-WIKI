@@ -43,6 +43,10 @@ import sect                      # noqa: E402
 from frame_dup import own_tokens, mask   # noqa: E402  (same masking used by the frame auditor)
 
 N = 5            # shingle width for this audit; shorter than frame_dup's 6 to catch looser copies
+STOP = {'that', 'with', 'from', 'this', 'they', 'into', 'over', 'under', 'their', 'there', 'then',
+        'than', 'them', 'these', 'those', 'when', 'where', 'which', 'while', 'have', 'been', 'were',
+        'will', 'would', 'could', 'should', 'upon', 'after', 'before', 'every', 'each', 'only',
+        'also', 'even', 'more', 'most', 'much', 'such', 'same', 'both', 'does', 'did', 'its'}
 MIN_TOK = 4
 DISTINCTIVE_MAX = 25   # a gram held by more than this many dossiers is furniture, not evidence
 
@@ -125,6 +129,64 @@ def cont(a, b):
     return len(a & b) / float(len(a)) if a else 0.0
 
 
+DESIG = re.compile(r'SE-([A-Z]-[IVX]+[\u03b1-\u03c9]-(\d+)[a-z]?)_')
+
+
+def designation(path):
+    """(code, number) from the filename — the registry's own ordering key."""
+    m = DESIG.match(os.path.basename(path))
+    if not m:
+        return None, None
+    return m.group(1), int(m.group(2))
+
+
+def raw_tokens(line):
+    return re.sub(r'[^0-9A-Za-z\uac00-\ud7a3\s\u03b1-\u03c9\u2019\u2014-]', ' ', line).split()
+
+
+def line_map(path, own):
+    out = {}
+    for ln in io.open(path, encoding='utf-8'):
+        t = ln.strip()
+        if content(t):
+            out.setdefault(mask(t, own), t)
+    return out
+
+
+def substitutions(ta, tb):
+    """Which raw tokens the copy changed against the source, position by position."""
+    wa, wb = raw_tokens(ta), raw_tokens(tb)
+    if len(wa) != len(wb):
+        return []
+    return [(x, y) for x, y in zip(wa, wb) if x != y]
+
+
+def lineage(data, pairs, top_pairs=40):
+    """Within a copied pair the lower designation number is the source. For each copy this
+    reports what it was before the cover-up: the substitutions against the source, and the
+    source's own vocabulary left behind in the copy as residue."""
+    codes = {}
+    for f in data:
+        c, n = designation(f)
+        if c:
+            codes[f] = (n, c)
+    by_sec = collections.defaultdict(dict)
+    for f, d in data.items():
+        for name, g in d['secs'].items():
+            by_sec[name][f] = g
+    fam = []
+    for (a, b) in pairs[:top_pairs]:
+        for name in set(data[a]['secs']) & set(data[b]['secs']):
+            ga, gb = data[a]['secs'][name], data[b]['secs'][name]
+            if len(ga) < 12 or len(gb) < 12:
+                continue
+            if cont(ga, gb) >= 0.5 or cont(gb, ga) >= 0.5:
+                if a in codes and b in codes:
+                    win, cop = (a, b) if codes[a][0] < codes[b][0] else (b, a)
+                    fam.append((name, win, cop, cont(ga, gb), cont(gb, ga)))
+    return fam, codes
+
+
 def section_scan(data):
     """Every section, every pair: which headings hold two dossiers that are copies of each other.
 
@@ -172,11 +234,57 @@ def section_scan(data):
     return rows
 
 
+def print_lineage(data, fam, codes):
+    per = collections.defaultdict(lambda: {'secs': set()})
+    for name, win, cop, cab, cba in fam:
+        per[(win, cop)]['secs'].add((name, cab, cba))
+    rows = []
+    for (win, cop), info in per.items():
+        ownw, ownc = own_tokens(win), own_tokens(cop)
+        mw, mc = line_map(win, ownw), line_map(cop, ownc)
+        shared = sorted(set(mw) & set(mc))
+        subs = collections.Counter(); subst_lines = 0
+        for k in shared:
+            sub = substitutions(mw[k], mc[k])
+            if sub:
+                subst_lines += 1
+                for x, y in sub:
+                    subs[(x, y)] += 1
+        res = collections.Counter()
+        for ln in io.open(cop, encoding='utf-8'):
+            t = ln.strip()
+            if not content(t):
+                continue
+            low = t.lower()
+            for w in ownw:
+                if w in ownc or w in STOP:
+                    continue
+                if re.search(r'(?<![A-Za-z0-9])%s(?![A-Za-z0-9])' % re.escape(w), low):
+                    res[w] += 1
+        rows.append((len(info['secs']), len(shared), subst_lines, sum(res.values()),
+                     win, cop, info['secs'], subs, res))
+    rows.sort(reverse=True)
+    print('lineage — the lower designation number is the source; each copy below shows what')
+    print('it carried before the title, designation and figures were changed:\n')
+    for nsec, nshare, nsub, nres, win, cop, secs, subs, res in rows[:24]:
+        print('%s  [%s]   winner (lower designation)' % (codes[win][1], os.path.basename(win)[:46]))
+        print('    copy %s  [%s]' % (os.path.basename(cop)[:46], codes[cop][1]))
+        print('    copied sections (%d): %s' % (nsec, ', '.join(sorted(x[0] for x in secs))[:130]))
+        print('    shared lines %d | lines with substitutions %d | source-name residue left in copy %d'
+              % (nshare, nsub, nres))
+        if subs:
+            print('    substitutions: ' + ', '.join('%s -> %s' % (x, y) for (x, y), c in subs.most_common(8)))
+        if res:
+            print('    residue: ' + ', '.join('%s x%d' % (w, c) for w, c in res.most_common(8)))
+        print()
+
+
 def main(argv):
     top = 15
     report = None
     single = None
     do_sections = False
+    do_lineage = False
     i = 0
     while i < len(argv):
         a = argv[i]
@@ -186,6 +294,8 @@ def main(argv):
             report = argv[i + 1]; i += 1
         elif a == '--sections':
             do_sections = True
+        elif a == '--lineage':
+            do_lineage = True
         else:
             single = a
         i += 1
@@ -234,6 +344,11 @@ def main(argv):
             'pab': cont(A['prose'], B['prose']), 'pba': cont(B['prose'], A['prose']),
             'cand': cand[(a, b)]}
     ranked = sorted(metrics.items(), key=lambda kv: -max(kv[1]['cab'], kv[1]['cba'], kv[1]['pab'], kv[1]['pba']))
+
+    if do_lineage:
+        fam, codes = lineage(data, [k for k, _ in ranked])
+        print_lineage(data, fam, codes)
+        return 0
 
     # ---- section-level clones (Combat Actions and every other heading)
     sec_clone = collections.defaultdict(list)

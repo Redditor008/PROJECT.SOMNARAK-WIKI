@@ -16,6 +16,17 @@ All figures below are measured, not estimated, and each names the tool that prod
 
 **Batch pacing, owner's correction, 2026-10-05 (`R-26` amended), reaffirmed by the owner the same day — "This Rule Need To Be Remember":** the batch ladder starts at **3**, not 5 — **3 > 5 > 7 > 10** SE files per batch, ratcheting up only while the units are genuinely simple by `R-26`'s own test, and stopping at whatever number was finished properly. **The minimum for any batch is three SE files**; the ceiling is ten, and a batch of fewer than three is permitted only by `R-26`'s quality clause and must be named and explained in the record rather than reported as a full batch. The superseded "start at five" wording is preserved in the rule file with the correction dated. The units in this cohort are *not* simple by that test — 11–12 dirty sections, full Interaction Records, 5,000–8,000 words — so the ladder stays at the floor of three per batch for this cohort, and the per-dossier conditions and one-`gate.sh`-per-dossier rule are unchanged. Two rows moved this turn without a unit touching them — residue-free 103 → 108 and file-clean 158 → 162 — because the four Rank V rewrites and Ephemera retired shared lines outright, and a line that drops below ten holders stops counting against every remaining dossier. That is the documented spillover effect; it is not work performed this turn.
 
+**Lineage pass, owner's rule, 2026-10-07 — *"The One That Win Is The One With Lower Number In Their Designation Between
+Two Copy Then You Can See What Was It Before The Cover UP"*:** `clone_audit.py --lineage` implemented and run. In each
+copied pair the lower designation number is the source; the diff against it is the copy's pre-cover-up state. Findings:
+**Dreaming Plague `N-IVδ-927` ← Weighted Silence `O-IIIγ-924`** (5 sections; Weighted→Dreaming, Silence→Plague,
+438→502, γ→δ, sector swap) **and ← Dawn That Forgot `N-IIIγ-917`** (Combat Actions + Testimonium) · **Lonely Giant
+`C-IIIγ-105` ← Kind Healer `C-Iα-071`** with **residue kind x4, healer x2** still in the copy · Calling Bloom ←
+Grieving Love (**love x5, grieving x1**) · Wedge ← Magistrates Strike-Through (**through x8, strike x7**) · Last Warmth ←
+Letter Never Sent (**never x3**) and ← Wedge (**held x6**) · **chain `C-IVβ-041` → `C-Iα-071` → `C-IIIγ-105`** · 38
+pairs are mutual shared template text, rule not applicable. Full table: `CLONE_AUDIT_2026-10-07.md`, Finding 4. Repair
+awaits the owner's ruling; no dossier content changed.
+
 **Clone audit, owner's question, 2026-10-07 — *"How To Check It They Are The Same SE But Just Change Title + Designation :
 [Combat Actions] Se It And Also Check Everything Else"*:** run with `tools/auditors/clone_audit.py`; full report in
 `REFERENCE_SOMNARAK_WIKI/CLONE_AUDIT_2026-10-07.md`. The audit masks registry codes, sector ids, figures and the dossier's

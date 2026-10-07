@@ -10,6 +10,7 @@ Reproduce:
     python3 tools/auditors/clone_audit.py                 # whole-file check, top pairs
     python3 tools/auditors/clone_audit.py --sections      # every section, every pair
     python3 tools/auditors/clone_audit.py <file>          # one dossier's closest matches
+    python3 tools/auditors/clone_audit.py --lineage       # lower-numbered wins; the copy diffed against it
 
 ## Method — what makes two dossiers 'the same file with the name changed'
 
@@ -121,6 +122,52 @@ Their narratives, origin sections and observation logs are their own: the whole-
 because the copied part is the mechanical kit, not the story. **This is the pattern the owner described**,
 one level down: not the whole dossier, but its Combat Actions, its equipment tables, its Trivia and its
 Testimonium carried across with the names changed.
+
+## Finding 4 — Lineage: the lower designation number wins, and the diff shows the cover-up
+
+Owner's rule, 2026-10-07 — *"The One That Win Is The One With Lower Number In Their Designation Between Two
+Copy Then You Can See What Was It Before The Cover UP"*. `clone_audit.py --lineage` applies it: in each copied
+pair the **lower designation number is the source**, the higher is the copy, and the diff between them is what
+the copy was before the title, designation and figures were changed. Two evidences are reported per pair — the
+**substitutions** (exactly which tokens were swapped) and the **residue** (the source's own vocabulary still
+sitting in the copy, where a swap was missed).
+
+| winner — lower designation | copy | sections copied | shared lines | substitutions made in the copy | residue left in the copy |
+|---|---|---|---|---|---|
+| `O-IIIγ-924` Weighted Silence | `N-IVδ-927` Dreaming Plague | 5 | 32 | Weighted→Dreaming, Silence→Plague, 438→502, γ→δ, SECTOR-O-924→SECTOR-N-927 | 0 |
+| `C-Iα-071` The Kind Healer | `C-IIIγ-105` The Lonely Giant | 4 | 17 | Kind→Lonely, Healer→Giant, 224→633, 15→40, 10→16 | **kind x4, healer x2** |
+| `C-Iα-114` A Letter Never Sent | `O-IVδ-515` Last Warmth of Forty-Two | 3 | 31 | 310→820, 15→40, 6→28, 14→55, 5→3 | **never x3** |
+| `N-IIIβ-941` Grieving Love | `O-IIIβ-944` Calling Bloom | 3 | 30 | Grieving→Calling, Love→Bloom, 540→480, 20→19, 50→45 | **love x5, grieving x1** |
+| `N-IIIγ-917` Dawn That Forgot | `N-IVδ-927` Dreaming Plague | 3 | 29 | 29→24, 464→502, γ→δ, SECTOR-N-917→SECTOR-N-927 | 0 |
+| `O-IIIγ-412` The Wedge That Held | `O-IVδ-515` Last Warmth of Forty-Two | 3 | 29 | 680→820, 30→40, 40→50, 60→70 | **held x6** |
+| `C-IVγ-009` The Memory Weaver | `N-IIIβ-077` The Memory Thief | 3 | 25 | Weaver→Thief, 621→422, 40→25, 18→8, 41→20 | **weaver x1** |
+| `N-IIβ-319` Magistrates Strike-Through | `O-IIIγ-412` The Wedge That Held | 3 | 25 | 480→680, 14→16, 20→30, 30→40 | **through x8, strike x7** |
+| `C-IIIβ-072` Father's Broken Bond | `C-Iα-114` A Letter Never Sent | 3 | 22 | 520→310, 20→15, 80→10, β→α | **broken x3** |
+| `C-IVβ-041` The Grieving Maiden | `C-Iα-071` The Kind Healer | 2 | 29 | Grieving→Kind, Maiden→Healer, 515→224, 25→15, 12→10 | 0 |
+| `O-IIIγ-916` Allhallow | `C-IVδ-922` Miasma | 2 | 19 | Allhallow→Miasma, 449→474, γ→δ, SECTOR-O-916→SECTOR-C-922 | 0 |
+| `O-IIIγ-924` Weighted Silence | `N-IIIγ-929` Dead Air | 2 | 17 | Weighted→Dead, Silence→Air, 438→458, SECTOR-O-924→SECTOR-N-929 | **silence x1** |
+
+**What the table says.** The pattern is consistent: a copy is the source's block with the **name words**, the
+**designation tokens** (class, potency Greek letter, number), the **sector id** and the **figures** swapped.
+Two worked examples of "what it was before the cover-up":
+
+- **`N-IVδ-927` Dreaming Plague was Weighted Silence `O-IIIγ-924`.** Five sections carried over; the swaps are
+  its own new name (Weighted→Dreaming, Silence→Plague), its own potency letter (γ→δ), its own number and sector,
+  and 438→502 in the figures. The same file also carries Dawn That Forgot's `N-IIIγ-917` Combat Actions and
+  Testimonium (29 lines) — a copy of two sources at once.
+- **`C-IIIγ-105` The Lonely Giant was The Kind Healer `C-Iα-071`** — and the cover-up did not finish: **"kind"
+  survives in it four times and "healer" twice**, the source's own vocabulary left in place while the name was
+  swapped. The same test names Calling Bloom (`love x5, grieving x1` from Grieving Love), The Wedge
+  (`through x8, strike x7` from the Magistrates Strike-Through), Last Warmth (`never x3`, `held x6`) and
+  Father's Broken Bond (`broken x3`).
+
+**Chain.** The order is a partial order, not a single tree: **`C-IVβ-041` Grieving Maiden → `C-Iα-071` Kind
+Healer → `C-IIIγ-105` Lonely Giant**, each step the lower number over the next, with the residue thinning at
+every step. `N-IVδ-927` Dreaming Plague sits at the end of two chains at once (`O-IIIγ-924` and `N-IIIγ-917`).
+
+**Also measured**, so it is not mistaken for the same thing: 38 pairs in the archive are genuinely **mutual**
+(containment >= 0.9 both ways, e.g. The Debt Scale / The Cracked Hourglass's Core Stat Line) — those are
+shared template text neither file wrote, and the designation rule does not apply to them.
 
 ## What the check looks like going forward
 

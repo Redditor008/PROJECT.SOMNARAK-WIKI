@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Clone audit, lineage pass — `clone_audit.py --lineage` (2026-10-07)** — the owner's rule applied: in a copied pair
+  the **lower designation number is the source**, so the diff against it is what the copy carried before the title and
+  designation were changed. Measured over the archive's strongest pairs: **Dreaming Plague `N-IVδ-927` is Weighted
+  Silence `O-IIIγ-924`** (five sections, swaps Weighted→Dreaming / Silence→Plague / 438→502 / γ→δ / sector id)
+  **and also Dawn That Forgot `N-IIIγ-917`** (Combat Actions + Testimonium, 29 lines) · **The Lonely Giant `C-IIIγ-105`
+  is The Kind Healer `C-Iα-071`** with residue **kind x4, healer x2** left in the copy · Calling Bloom carries **love x5,
+  grieving x1** from Grieving Love · The Wedge carries **through x8, strike x7** from the Magistrates Strike-Through · Last
+  Warmth carries **never x3, held x6** · **chain: Grieving Maiden `C-IVβ-041` → Kind Healer `C-Iα-071` → Lonely Giant
+  `C-IIIγ-105`** · 38 pairs are mutual (>= 0.9 both ways) shared template text where the rule does not apply. Full table
+  in `REFERENCE_SOMNARAK_WIKI/CLONE_AUDIT_2026-10-07.md` (Finding 4). Read-only; no dossier content changed.
+
 - **Clone audit — `tools/auditors/clone_audit.py` and `REFERENCE_SOMNARAK_WIKI/CLONE_AUDIT_2026-10-07.md` (2026-10-07)** — the
   owner's question was whether some dossiers are the same SE with the title and designation changed, the Combat Actions table
   included. The audit masks registry codes, sector ids, figures and each dossier's own name words on **both** sides, then
