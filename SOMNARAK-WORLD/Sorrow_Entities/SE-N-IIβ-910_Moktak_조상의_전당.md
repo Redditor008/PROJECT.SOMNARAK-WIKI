@@ -1,6 +1,6 @@
 # Moktak — 조상의 전당
 
-> *"The city gave us this. We did not ask for it."*
+> *"At dusk the seats fill again, and an argument older than the city resumes where it stopped."*
 
 ## SECC Classification
 
