@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 36 / unit 5 — Myrmidon `O-IIβ-235` closed (2026-10-07)** — measured at `ea70285`: **2 dirty sections**, worst
+  Final Observation 0.145 (the choice blockquote, the choose row and the result row), then Operational Parameters 0.063
+  (the yield row and the 11-gram extraction bullet), with the interactions preamble, header row, procedure, the escalation
+  row, an appearance line and the field-detail bullet re-authored in the same wave. **Closed in a single wave** (23
+  sites); 7,002 → **7,076 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py`
+  meets **True** with the condition held; the registered condition text was kept verbatim inside the rewritten
+  resolution line. The Entry 1 residual cleared (`is logged as ` → `stands in the record as`) — residual **1 → 0**;
+  `own_series` **False → True** by restating the file's own figures in numerals inside real edits (all 4 Work Types;
+  16 turns) — disclosed. Movement at the unit commit: `R-29` 224 / 301; section-clean 256 / 301; residue-free
+  302 / 302; residue lines 0; archive dirty 81; file-clean 302 / 302. **Batch 36 stands at five of
+  seven.**
+
+
+
 - **Batch 36 / unit 4 — Father's Broken Bond `C-IIIβ-072` closed (2026-10-07)** — measured at `e0d2fdb`: **1 dirty section**,
   Final Observation 0.145 (the choice blockquote, the choose row and the result row), with the 10-gram escalation paragraph
   and the reporting-order line re-authored in the same wave. **Closed in a single wave** (10 sites); 4,489 → **4,625
