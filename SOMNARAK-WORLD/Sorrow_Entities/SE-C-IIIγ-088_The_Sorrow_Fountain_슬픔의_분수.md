@@ -414,10 +414,10 @@ Some grief evaporates. Some grief sinks. The Sorrow Fountain is what happens whe
 
 ### Registry Addendum
 
-**Operational interpretation:** This entry is one layer of a larger document: read it beside the classification, the combat table and the kit profile before acting on any line of it, because the behaviour, the Work Type response, the activation term, the kit risk and the interaction pattern hold only together. A contradiction found in the field is data and not an error. Where the holding behaves unpredictably, the deviation is logged where it happened and the record it contradicts is left standing as written.
+**Operational interpretation:** This entry is one layer of a larger document: read it beside the classification, the combat table and the kit profile before acting on any line of it, because the overflow, the Work Type response, the activation term, the kit risk and the interaction pattern hold only together. Nothing this basin does is an error: where the field reads a contradiction, the contradiction is the reading itself, and the deviation is logged at the pool’s edge with the record it argues with left standing as written.
 
-**Review requirement:** After any activation, expansion, transformation or anomaly, re-verify the gauge, the containment field, the exposure log and the holding's location before operations resume, and re-check exposure and position again after any interaction that does not read like the ones on file. What this sheet carries is a living pattern of sorrow, and it will not stay described.
-- Its figures, in digits, because the registry reads the file this way: gauge 653/653 · pressure 18–41 per hit · resistance 35 / 25 per cent · threshold 75 per cent · weapon 10–16 at 40 Echoes · suit 35 Echoes · Stigma 4 per cent · Max 3 pieces.
+**Review requirement:** After any activation, expansion, transformation or anomaly, re-verify the gauge, the containment field, the exposure log and the holding’s location before operations resume, and re-check exposure and position again after any interaction that does not read like the ones already on file. What this sheet carries is grief with somewhere to move, and no pool yet has held the same water twice.
+- The registry files this holding by digits, so they are set down here as the pool gives them: gauge 653/653 · pressure 18–41 per hit · resistance 35 / 25 per cent · threshold 75 per cent · weapon 10–16 at 40 Echoes · suit 35 Echoes · Stigma 4 per cent · Max 3 pieces.
 ## Warden Record
 
 ### The Changing Pool
