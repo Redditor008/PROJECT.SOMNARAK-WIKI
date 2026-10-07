@@ -53,10 +53,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Nothing is rated against the field, which delivers no pressure of its own: inside the radius the visitor's own grief surfaces, and contact is the only thing here that transfers grief entire |
+| **Resistance** | 25% against Lament pressure; 15% against every other register. Nothing is rated against the field, which delivers no pressure of its own: inside the radius the visitor's own grief surfaces, and contact is the only thing here that transfers grief entire |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per hit · Lament |
+| **Sorrow Gauge [HP]** | 415/415 — read on the bench side of the case; the figure has not moved since the record began, and the radius is the number that moves. |
+| **Han Pressure [ATK]** | 10–23 on each strike · Lament — the top of that range is a visitor’s own grief coming up inside the radius, not anything the Tear gives off. |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
 
@@ -65,7 +65,7 @@
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
+| **Battle Length** | Medium, at full duration — 16 turns, timed from the moment the case is opened. |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) — the same four readings, taken the same way, for thirty years |
 | **Primary Pressure** | Clarity |
@@ -73,7 +73,7 @@
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-02, Echo Gardens |
-| **Resolution Condition** | No contact under any authority. The 25% figure is the consequence, not the objective, on every Frozen Tear cycle logged. |
+| **Resolution Condition** | No contact under any authority. The 25% figure is where the count lands, not what the watch is aiming at, on every cycle Frozen Tear has logged. |
 
 ### Combat Actions
 
@@ -94,9 +94,9 @@
 ### Consequences
 
 - A worker who cannot hold the sitting becomes a conduit: the pressure moves through them instead of stopping, **Clarity** erodes, and what they carry back into the case is the visitor's own unwept grief rather than the entity's. The second Warden's read ends the watch, and rotation is set at thirty minutes for Wardens on duty — a limit that applies to the post and expressly not to anybody on the bench.
-- Frozen Tear’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Frozen Tear's dossier.
+- - Duration is what does the work on a sitter. A short cycle beside the case can be stood up from; a long one dissolves the emotional, the physical, the identity and finally the room, and the watch record holds no session past the limit that ended well.
+- - Every M.A.W. activation takes its own debit from the bearer — composure, private memory, bodily reserve — and none of it fits the grade-ledger columns, which is why the case’s file keeps the count by hand instead.
+- - Nothing here resolves itself. Left alone, the sorrow turns back into its own zone and sets off the escalation entries already standing in Frozen Tear’s dossier.
 
 ## Appearance
 **Physical Form:** A single tear frozen into dark blue crystal, about the size of a fist. **Temperature:** warm to the hand through cloth, with no heat source any instrument can find.
@@ -180,10 +180,10 @@ Two rows of this table are blank by rule rather than by result, and the two that
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Frozen Tear rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Frozen Tear activates its primary resonance: Creates a quiet field where emotional distress can be acknowledged. Grants +10% resistance to Lament damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of someone unable to cry despite having lost everything; the bearer begins perceiving echoes of a mourner's first and only tear froze before it could fall. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Frozen Tear begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Frozen Tear too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Direct touch may overwhelm the visitor with the original grief. |
+| 10 Seconds | Nothing moves in the case until an operative takes the Tear up; on contact the Lament in it settles onto the bearer's pulse and stays level there. | Taking it up opens the quiet field the Tear was cut for — distress can be set down inside it — and grants +10% Lament resistance while it is carried. |
+| 30 Seconds | The Tear came out of a grief that could not cry despite having lost everything. The bearer starts hearing a mourner's first and only tear, stopped before it ever fell. | The operative works faster and more sharply than the relay does; composure is the price, and it begins being paid here without announcing itself. |
+| 1 Minute | At the minute mark the Tear is drawing on the bearer directly, and their breathing has fallen into step with the grief the sitting was built around. | Held past 60 seconds the toll is 5 Lament every 15 seconds, and the watch posts itself for one sign: the operative no longer able to describe the case they are sitting beside. |
+| 2 Minutes | Past two minutes the bearer is not sitting with the grief any more; they are the one it belongs to, and the line between the operative and that first mourner stops holding. | Past two minutes, or a break of contact before the sitting closes, the bearer panics outright; the remainder of the cell stands — direct touch may overwhelm the visitor with the original grief. |
 
 ### Escalation Notes
 
