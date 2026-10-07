@@ -1716,6 +1716,18 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 33 closed at ten (2026-10-07).** Ten dossiers · **37 / 37 dirty sections closed** · **+2,224 words** net ·
+`verify.py` residuals **10 → 0** · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Movement, b32 close → b33
+close: `R-29` 198 → **208 / 301** · series 264 → **269 / 301** (units 3, 4, 6, 8, 10) · condition 259 → 259 / 301 ·
+section-clean 223 → **233 / 301** · residue-free 302 → 302 / 302 · archive dirty 183 → **135** · file-clean 302 →
+302 / 302 · scene-clean 224 → **234** · worst 0.031 → **0.028** · median 0.008. Disclosures: **rollback #27** at the
+batch open; unit 1's mislabelled content commit (`a1c3697`); word figures corrected from git on units 2, 7 and 10;
+**two-pass closes on units 7 and 10** (M.A.W. `cool and faintly luminous` run; the batch's own repeated
+`Two ways to close a watch on the` opener — do not reuse it); splices rebuilt on units 4, 5, 6, 8 and 9; result rows
+rewritten on every unit; `own_series` closed **False → True** on units 3, 4, 6, 8 and 10 by restating each file's own
+figures in numerals inside real edits. Full per-unit detail in the entries above; the codex records all ten with their
+SE links below (`R-12`). **Next rung: back to three or five**, on the owner's word.
+
 **Batch 33, unit 10: Kind Healer's Shadow `N-IIβ-280` closed.** Measured at `1006b2d`: **3 dirty sections**, worst
 Final Observation 0.153, then Combat Record 0.057 and Flavor Text 0.051 — **closed in two passes** (23 sites); the first
 left Final Observation at 0.054 (the batch's repeated `Two ways to close a watch on the` opener), and the second closed
@@ -2303,7 +2315,7 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
-**Batch 33 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 33 — CLOSED at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-N-IIβ-280 Kind Healer's Shadow 치유자의 그림자 — `6ec2f67` — PUSH VERIFIED — [[SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-280_Kind_Healer%27s_Shadow_%EC%B9%98%EC%9C%A0%EC%9E%90%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자.md")
 

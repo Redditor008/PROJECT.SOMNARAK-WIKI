@@ -8,6 +8,40 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 33 CLOSED at ten (2026-10-07).** Ten dossiers, **37 / 37 dirty sections closed**, **+2,224 words** net across
+  the ten unit commits, `verify.py` residuals **10 → 0**, nothing deleted (`R-15`). Each unit committed individually
+  and pushed (`A0`) and validated by `wikistd.py` (`meets True`), `sectfile.py` (0 sections over 0.05), `tpl.py` and
+  `verify.py`. Movement across the cohort, b32 close → b33 close: `R-29` 198 → **208 / 301**; own numeric series
+  264 → **269 / 301** (units 3, 4, 6, 8 and 10); condition 259 → 259 / 301; section-clean 223 → **233 / 301**;
+  residue-free 302 → 302 / 302; `tpl.py` residue lines 0 throughout; archive dirty 183 → **135**; file-clean 302 →
+  302 / 302; scene-clean 224 → **234**; worst 0.031 → **0.028**; median 0.008 → 0.008. The archive-dirty fall is larger
+  than the cohort's own 37 sections because rewriting archive-shared phrasing thins the shared set for other files as
+  well (`sect.py`, `MIN_SHARE=10`).
+
+- **Batch 33 disclosures.** **rollback #27** struck at the batch open — the checkout was found at the session's base
+  commit while the remote held the batch closed; the standing recovery was run (fetch → `git reset --mixed FETCH_HEAD`
+  → `git checkout -- PR_12_NEVER_MERGED.md`) and the batch opened clean on a verified-levelled tree. **unit 1** — its
+  content commit carries a docs-style message (`a1c3697`) after a measurement-script failure short-circuited the
+  intended unit gate; the entries and the SE link landed in the following commit (`8de961d`), disclosed at the time.
+  **unit 2** — words first recorded as an estimate and corrected from git (`7,879 → 8,106`). **unit 3** — the result
+  row's two cells had been carrying each other's outcome and were rewritten in order; `own_series` **False → True** by
+  restating the file's own figures (4 generations, 1,900 transcript lines) inside real edits. **unit 4** — `own_series`
+  **False → True**, with a second restatement needed after the first left the count at three (1.5-second break twice
+  over, 3 further items). **unit 5** — the tension phase's `(the crystal plans and the accruing structure, never by
+  posture` splice rebuilt whole-line. **unit 6** — the tension phase's `(the account. A four-point gradient` splice
+  rebuilt; series closed by numerals (4-point array, 3 further items). **unit 7** — the first pass left M.A.W. Equipment
+  at 0.054 (the archive-shared `cool and faintly luminous` run in three appearance lines); the second pass closed it at
+  0.019, and the word figures were corrected from git (`6,499 → 6,745`). **unit 8** — the tension phase's
+  `reference plates exist because of that, confirms the approach` splice rebuilt; series closed by numerals (4 reference
+  plates, 7- and 28-day checks). **unit 9** — the at-first-contact line's orphaned `its registered form.` tail rebuilt.
+  **unit 10** — closed in two passes: the first left Final Observation at 0.054 because the batch's own repeated
+  `Two ways to close a watch on the` opener had begun minting shared 8-grams across the units (fixed here, and the
+  opener should not be reused); series closed by numerals (2 other dark-formed holdings, 1-hour log, 14-day check,
+  1-cycle rule). Across the batch every unit's relations preamble was re-authored to the file's own holdings, every
+  result row was rewritten, and the tension-phase splice pattern was rebuilt wherever it appeared.
+
+
+
 - **Batch 33 / unit 10 — Kind Healer's Shadow `N-IIβ-280` closed (2026-10-07)** — measured at `1006b2d`: **3
   dirty sections**, worst Final Observation 0.153 (the choice blockquote, the choose row and the result row), then Combat
   Record 0.057 (the yield and resistance rows, two action rows, the tension phase — whose `dark-formed, confirms the
