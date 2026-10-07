@@ -101,8 +101,8 @@
 **Primary Form:** A ceremonial hall in Zone A where the city’s founding families once gathered. The hall is empty — except at dusk, when translucent figures appear in the seats and resume conversations that ended centuries ago.
 
 **Notable Features:**
-- Expresses Weight pressure in a spirit register.
-- The place form is unmistakable — this is a spirit entity, not a general one.
+- The pressure in the hall is weight at the doorframe and spirit in the rooms; the two do not separate while the hour holds.
+- The form is settled early in any watch: the hall records the hour's order rather than reacting to it, which no ordinary place sorrow does.
 - Identification is by schedule before it is by sight: an empty ceremonial hall in Zone A that fills at dusk and is ordinary at every other hour of the day.
 
 **Identification Profile**
@@ -257,7 +257,7 @@ You feel it before you see it. The spirit register is not visual — it is atmos
 
 ## 상호작용 (Entity Interactions)
 
-The hall has never been worked with another holding standing in it, and the closing order has never been tried with company present. The rows below come off the appendix that sorts the 90x holdings by manifestation, each read against its file's own series; all of it is paper work, and no co-presence trial is proposed.
+The hall has never been worked with another holding standing in it, and the closing order has never been tried with company present. Three pairings follow from the wing appendix, anchored to the hall's log; none of them proposes a co-presence trial.
 
 **Interaction method:** Establish the hall's own figures first — the seat count against the plan, the rising order, the closing hour — alone across a full cycle before any comparison is entered. Then read the other record's series against them, entering the first divergence, its range, its trigger, and whether either series changed in the reading. Re-verify each quarter.
 
@@ -278,7 +278,7 @@ The spirit sorrow that birthed Moktak is specific. It is not the general weight 
 
 Nothing inside the hall raises its voice and nothing inside it cries. It simply keeps standing — spirit and weight both — through hours that would have emptied a lesser building.
 
-The hall does not shout and does not weep. It keeps its register — spirit and weight — the way a building keeps its fabric: unrepaired, unhurried, holding. Moktak is not the loudest thing in Somnarak; it is the most particular, and in a city where grief is handed to everyone in the same shape, a hall that knows which hour is yours is the one that reaches bone.
+The hall neither shouts nor weeps. Spirit and weight sit in it the way tenants sit in an old building — present in every room, accounted for nowhere, and never once in a hurry to leave. Moktak does not compete for loudest in Somnarak; it is the one that keeps the hour's order. In a city where every citizen is handed the same measure of grief, a hall that knows which hour belongs to whom is the one that leaves an impression.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -334,8 +334,8 @@ What crystallized here is one specific grief rather than the city's general ache
 ## Trivia
 
 - One of the first catalogued **Place-Spirit** entities in Somnarak.
-- Its spirit descriptor makes it structurally unique among place entities.
-- The weight pressure in the spirit register feels different from standard weight — more specific, more personal.
+- The wing files no other place as a spirit first; a hall that answers the hour in the ancestors' own order has no precedent on the shelf.
+- Standard weight belongs to no one in particular. This one is entered against a name: the hall weighs the hour it is given and returns it to the ancestor it belongs to.
 
 ## Document Information
 
