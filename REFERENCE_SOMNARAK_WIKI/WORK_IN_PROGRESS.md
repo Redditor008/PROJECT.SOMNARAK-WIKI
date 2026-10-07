@@ -2305,7 +2305,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 33 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-N-IIβ-280 Kind Healer's Shadow 치유자의 그림자 — `__HASH__` — PUSH VERIFIED — [[SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-280_Kind_Healer%27s_Shadow_%EC%B9%98%EC%9C%A0%EC%9E%90%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자.md")
+- SE-N-IIβ-280 Kind Healer's Shadow 치유자의 그림자 — `6ec2f67` — PUSH VERIFIED — [[SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-280_Kind_Healer%27s_Shadow_%EC%B9%98%EC%9C%A0%EC%9E%90%EC%9D%98_%EA%B7%B8%EB%A6%BC%EC%9E%90.md "SE-N-IIβ-280_Kind_Healer's_Shadow_치유자의_그림자.md")
 
 - SE-O-Iα-973 Yggdrasil Wound 찢어진 나무 — `40b1cac` — PUSH VERIFIED — [[SE-O-Iα-973_Yggdrasil_Wound_찢어진_나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-973_Yggdrasil_Wound_%EC%B0%A2%EC%96%B4%EC%A7%84_%EB%82%98%EB%AC%B4.md "SE-O-Iα-973_Yggdrasil_Wound_찢어진_나무.md")
 
