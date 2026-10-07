@@ -2923,6 +2923,21 @@ file's own clause as a documented suppression condition (Two respiration series,
 condition **274 → 275 / 301**. Movement: `R-29` 269 / 301; section-clean 301 / 301; archive dirty 0;
 file-clean 302 / 302. **Batch 42 stands at one of seven.**
 
+**Batch 43 closed at ten (2026-10-07).** Ten dossiers · **0 dirty sections closed** (the wing was already
+section-clean at the open) · **+4,481 words** net (49,456 → 53,937) · `verify.py` residual 0 at the close · `tpl.py`
+residue 0 throughout · nothing deleted (`R-15`). Movement, b43 open (`59fa5d3`) → b43 close: `R-29` 274 → **284 / 301**
+(ten units) · parity 285 → **295 / 301** (all ten units) · condition 281 → **291 / 301** (all ten units) · series 284 →
+**288 / 301** (units 7–10) · section-clean 301 → **301 / 301** · residue-free 302 → 302 / 302 · archive dirty 0 → **0** ·
+file-clean 302 → 302 / 302 · scene-clean 302 → **302** · worst 0.014 · median 0.006. Disclosures: **rollback #37**
+recovered at the batch open (HEAD `408797c` against remote `96f7db5`, 224 paths dirty; only `PR_12_NEVER_MERGED.md`
+regenerated); every unit one wave each, with five bounded fixes inside them — unit 3's `is logged as a ` stock line
+replaced line-locally (residual 1 → 0), and units 7, 8, 9 and 10 each restating the file's own figure in numerals inside
+the real edit (`own_series` False → True; forty-one → 41 · four attempts → 4 · Seventeen years → 17 · three sections →
+3); unit 9's first pass aborted on a multi-occurrence guard before anything was written and was redone cleanly; no other
+repairs were needed — each of the ten had its missing interactions section written in its own terms with its own column
+set and its Resolution line extended to carry the file's own clause as a documented suppression condition. **Batch 43 was
+opened at ten on the owner's pacing ladder (3 or 5, then 7 or 10) and closed at its rung.**
+
 **Batch 43, unit 10: Lethe `C-IIIγ-928` closed.** Measured at `e7dba9f`: failures were `parity ['interactions']`,
 `condition` False and `series` False — **closed in a single wave plus a bounded fix**; 5,750 → **6,211 words**; `tpl.py`
 residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions
@@ -3010,7 +3025,7 @@ condition (Both posts hand in their tallies without conferring, and the differen
 condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; archive dirty @dirty@;
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
-**Batch 43 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 43 — CLOSED at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IIIγ-928 Lethe 혼란의 독기 — `aee69f4` — PUSH VERIFIED — [[SE-C-IIIγ-928_Lethe_혼란의_독기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-928_Lethe_%ED%98%BC%EB%9E%80%EC%9D%98_%EB%8F%85%EA%B8%B0.md "SE-C-IIIγ-928_Lethe_혼란의_독기.md")]
 

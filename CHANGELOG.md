@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 43 closed at ten (2026-10-07)** — ten dossiers finished, all ten with their SE git links and closing commits
+  recorded in `REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS.md` under **Batch 43 — CLOSED at ten**. Movement, b43 open
+  (`59fa5d3`) → close: `R-29` 274 → **284 / 301** · parity 285 → **295 / 301** · condition 281 → **291 / 301** · series
+  284 → **288 / 301** (units 7–10) · section-clean 301 → **301 / 301** · archive dirty 0 → **0** · file-clean 302 →
+  302 / 302. **+4,481 words** net (49,456 → 53,937) · `tpl.py` residue 0 throughout · nothing deleted (`R-15`).
+  Disclosures: **rollback #37** at the open; every unit one wave each — five bounded fixes inside them (unit 3's stock
+  line; units 7–10 restating the file's own figures in numerals, `own_series` False → True: forty-one → 41, four attempts
+  → 4, Seventeen years → 17, three sections → 3); unit 9's first pass aborted on a multi-occurrence guard before writing
+  and was redone; the ten interactions sections each carry their own column set. **Opened at ten on the owner's pacing
+  ladder (3 or 5, then 7 or 10) and closed at its rung.**
+
 - **Batch 43 / unit 10 — Lethe `C-IIIγ-928` closed (2026-10-07)** — measured at `e7dba9f`: failures were
   `parity ['interactions']`, `condition` False and `series` False. **Closed in a single wave plus a bounded fix**: the
   missing `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a
