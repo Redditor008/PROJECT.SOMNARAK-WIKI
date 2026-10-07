@@ -1716,6 +1716,15 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 35, unit 4: Broken Ruin `O-IIIγ-559` closed.** Measured at `5687a3e`: **1 dirty section**, Final Observation
+0.157 — **closed in a single wave** (8 sites); 6,752 → **6,776 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s)
+over 0.05**; `wikistd.py` meets **True**, residual clean on entry. Disclosed: condition registered **False → True** by
+opening the file's own management sentence in the `Management:` form; `own_series` **False → True** via the file's own
+figures restated in numerals inside the rewritten Threat Assessment (9 years, 2 breaches, 11 strikes); the M.A.W.
+extraction bullet (11 shared grams) and the stat-effect line re-authored. Movement: `R-29` 218 / 301; section-clean
+243 / 301; residue-free 302 / 302; archive dirty 102; file-clean 302 / 302. **Batch 35 stands at four of
+five.**
+
 **Batch 35, unit 3: The Wedge That Held `O-IIIγ-412` closed.** Measured at `c210048`: **1 dirty section**, Final
 Observation 0.151 — **closed in a single wave** (6 sites); 4,348 → **4,386 words**; `tpl.py` residue 0; `sectfile.py`
 **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the condition clause registered **False → True** by
@@ -2404,6 +2413,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 35 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IIIγ-559 Broken Ruin 부서진 잔해 — `67f2241` — PUSH VERIFIED — [[SE-O-IIIγ-559_Broken_Ruin_부서진_잔해]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-559_Broken_Ruin_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%9E%94%ED%95%B4.md "SE-O-IIIγ-559_Broken_Ruin_부서진_잔해.md")
 
 - SE-O-IIIγ-412 The Wedge That Held 끝끝내 버틴 쐐기 — `deaef95` — PUSH VERIFIED — [[SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-412_The_Wedge_That_Held_%EB%81%9D%EB%81%9D%EB%82%B4_%EB%B2%84%ED%8B%B4_%EC%90%90%EA%B8%B0.md "SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md")
 

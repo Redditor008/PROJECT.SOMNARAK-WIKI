@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 35 / unit 4 — Broken Ruin `O-IIIγ-559` closed (2026-10-07)** — measured at `5687a3e`: **1 dirty section**,
+  Final Observation 0.157 (the choice blockquote, the choose row and the result row). **Closed in a single wave**
+  (8 sites); 6,752 → **6,776 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py`
+  meets **True** with a clean residual (`RESIDUAL 0` on entry). Two clauses closed: the condition registered
+  **False → True** by opening the file's own management sentence in the `Management:` form (**two instructions of
+  unequal difficulty — listen to the account; do not reconstruct the settlement**), and `own_series` **False → True**
+  by restating the file's own figures in numerals inside the rewritten Threat Assessment (9 years, 2 breaches, 11
+  strikes) — disclosed. The M.A.W. extraction bullet (11 shared grams in Operational Parameters) and the stat-effect
+  line were re-authored to the file's own terms. Movement at the unit commit: `R-29` 218 / 301; section-clean
+  243 / 301; residue-free 302 / 302; residue lines 0; archive dirty 102; file-clean 302 / 302.
+  **Batch 35 stands at four of five.**
+
+
+
 - **Batch 35 / unit 3 — The Wedge That Held `O-IIIγ-412` closed (2026-10-07)** — measured at `c210048`: **1 dirty
   section**, Final Observation 0.151 (the choice blockquote, the choose row and the result row). **Closed in a single
   wave** (6 sites); 4,348 → **4,386 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**;
