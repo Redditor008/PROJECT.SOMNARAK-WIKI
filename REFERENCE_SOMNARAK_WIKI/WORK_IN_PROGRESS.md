@@ -16,6 +16,21 @@ All figures below are measured, not estimated, and each names the tool that prod
 
 **Batch pacing, owner's correction, 2026-10-05 (`R-26` amended), reaffirmed by the owner the same day — "This Rule Need To Be Remember":** the batch ladder starts at **3**, not 5 — **3 > 5 > 7 > 10** SE files per batch, ratcheting up only while the units are genuinely simple by `R-26`'s own test, and stopping at whatever number was finished properly. **The minimum for any batch is three SE files**; the ceiling is ten, and a batch of fewer than three is permitted only by `R-26`'s quality clause and must be named and explained in the record rather than reported as a full batch. The superseded "start at five" wording is preserved in the rule file with the correction dated. The units in this cohort are *not* simple by that test — 11–12 dirty sections, full Interaction Records, 5,000–8,000 words — so the ladder stays at the floor of three per batch for this cohort, and the per-dossier conditions and one-`gate.sh`-per-dossier rule are unchanged. Two rows moved this turn without a unit touching them — residue-free 103 → 108 and file-clean 158 → 162 — because the four Rank V rewrites and Ephemera retired shared lines outright, and a line that drops below ten holders stops counting against every remaining dossier. That is the documented spillover effect; it is not work performed this turn.
 
+**Quote phase, batch 45 open — owner's direction, 2026-10-07:** *"DO The Quote One First Because That An Identity And Learn How To Write SE Quote."*
+The opening quote is the file's identity, and the clone audit found it the archive's strongest clone call: a duplicated
+quote lifts the chance of a cloned section inside the pair **18 / 84 = 21.4%** against the **1.20%** baseline (Finding 7).
+Measured again today: **275 / 301** quotes are distinct; **270** appear once; **5 families / 31 dossiers** are exact
+duplicates — Grimoire `C-IIβ-906` (8, keeps) · Breathing Stone `C-IVδ-907` (7, keeps) · Glass Elsewhere `N-IIβ-903`
+(6, keeps) · Beating Relic `C-IIIγ-902` (5, keeps) · Vellum Man `C-Iα-900` (5, keeps). Learned and written down:
+**`SE_QUOTE_GUIDE.md`** (the house form from the archive's own 270 distinct quotes; six rules; the family table) and
+**`tools/auditors/quote_audit.py`** (`--check "<draft>"` against all 301 quotes; `--file PATH`). Method: the lowest
+designation keeps its quote — the pre-cover-up text — and every other member is re-authored **in place** in that file's own
+terms (`R-15`). Batch 45 takes the **26 copy-sides**, worst-first: family size, then designation ascending. Ten this batch:
+F1's seven copies (Backward Hour · Amnesia · Dawn That Forgot · Passing Bell · Once Upon · Cracked Flesh · **Sorrow Mass** —
+its number-words hold is untouched and this is disclosed) then F2's lowest three (Unwaking Block · Labyrinth of the
+Unfinished Mind · Moktak). **Rollback #46** hit at this turn's open and was recovered the same turn (worktree already
+equalled the remote tip; `reset --mixed` only).
+
 **Clean phase, batch 44 result, 2026-10-07 — owner-directed, replace in place:** ten worst files cleaned, one wave
 each, nothing deleted (`R-15`). Re-measured after the ten: whole-section instances **164 → 84**; files carrying >= 1 whole
 copied section **57 / 301 → 47 / 301**; small overlaps only **95 / 301 → 102 / 301** (the cleaned files' remaining minor
@@ -3145,6 +3160,9 @@ in place in its own terms; Han-Energy row repaired line-locally (section 0.071 �
 Torn Flower at 1.00) replaced **in place** in the file's own terms — Gate, orchard rows, half-hour mark, armoury ledger,
 until the next touched-fruit tally is larger than the last. 7,270 → **7,299 words**; residual 0; **0 sections over 0.05**;
 `tpl.py` 0; meets **True**; copy-side whole instances **6 → 0**; nothing deleted. **Batch 44 stands at one of ten.**
+
+**Batch 45 — OPEN at ten; quote phase (each file's shared opening quote replaced in place, owner-directed); finished dossiers, each with its SE
+git link and closing commit** (`R-12`).
 
 **Batch 44 — CLOSED at ten; clean phase (copied sections replaced in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
