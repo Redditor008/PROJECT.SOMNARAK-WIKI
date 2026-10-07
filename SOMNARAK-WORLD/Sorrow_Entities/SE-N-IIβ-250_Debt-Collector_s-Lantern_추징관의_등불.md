@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** The cold light and the floor mark make the identification; the Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing. Position and withdrawal are set before the cycle opens.
+1. **Tension:** The cold light and the floor mark make the identification; the Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing. The crew takes its position and fixes its line of withdrawal before the first turn.
 2. **Clash:** Four turns at the mount, nothing but watching and holding. Nobody carries the lantern, nobody tilts it, and the radius is walked at the open and close of every turn.
 3. **Resolution (Debt-Collector's-Lantern):** The watch closes by holding, management or withdrawal, or against the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
 

@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** The site is confirmed by the images that move and speak. Nobody has ever written down what is said: the standing order forbids transcription, and the reason entered on the form is that a transcript would be evidence of something never said by the person whose mouth carried it. Position and withdrawal are set before the cycle opens.
+1. **Tension:** The site is confirmed by the images that move and speak. Nobody has ever written down what is said: the standing order forbids transcription, and the reason entered on the form is that a transcript would be evidence of something never said by the person whose mouth carried it. Positions and the way out are fixed before the cycle opens.
 2. **Clash:** Viderehan and Ferrehan only; Flerehan and Pugnahan are N/A for a Hazard. The reading is the surface count: distinct surfaces carrying a projection at the hour of the sweep, walked along the fixed four-hundred-metre perimeter transect. Twenty-three is baseline. The recorded range is zero to three hundred and eleven.
 3. **Resolution:** The transect walked to its end regardless of what is on the surfaces, the count logged by surface and never by face, and the team out before dusk. No sweep has ever been abandoned part-walked, and the one that was nearly abandoned is written up in full with the Warden's reason. It closes against the documented suppression condition: **The count logged by surface and never by face, and the team out before dusk**.
 
