@@ -88,7 +88,7 @@
 
 1. **Tension:** The team enters at the marked corner, sets the pace, and does not stop walking until the traverse is finished. The perimeter pegs are read on the move; stopping to read one is the commonest way this holding has been fed.
 2. **Clash:** Four turns, observation and endurance only, every turn conducted in motion. The clock-holder calls elapsed dwell at thirty-second intervals and the cordon paint line is the working boundary.
-3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the full working party off the affected ground inside the threshold, confirmed by the clock-holder rather than by the party.
+3. **Resolution:** The cycle ends on containment, management or withdrawal, and always against the documented suppression condition: **the full working party off the affected ground inside the threshold, confirmed by the clock-holder rather than by the party**. Nothing else closes a watch on this field.
 
 ### Consequences
 
@@ -263,6 +263,21 @@ Nothing arrives. The field is ordinary: grass over compacted ground, a painted l
 **When the entity activates:** Nothing visible occurs. The boundary is found to be in the wrong place at the next measurement, and somebody who was outside the line is marked.
 
 **After departure:** The lines appear in the evening, painless. Personnel describe checking their hands under the lamp for a week afterwards and finding that the habit does not stop when the week does.
+
+## 상호작용 (Entity Interactions)
+
+This holding has been compared on paper and nowhere else. The hazard has no occupant, keeps no gauge of its own and does nothing at any time, so there is nothing here to bring alongside anything: the relationships below were drawn by the pattern survey, which reads the ground's marks against other holdings' records rather than testing them in the field. Every row is cross-flagged and every row is closed to co-presence.
+
+**Interaction method:** Take the field's own baseline first — threshold, rate of expansion, the painted boundary at its current line — before any comparison is entered. Then set the other record's series beside it, note the first point at which they diverge, its range, what set it off, and whether either changed in the reading. Re-verify each quarter and keep both columns separate.
+
+| What shares the ground | How the pairing has run | What the survey entered | What the file retains |
+|---|---|---|---|
+| **Breathing Stone** `C-IVδ-907` | Filed together on ground and walls that answer to people. That record is a structure with a presence in it; this one is bare field and a threshold with nobody home. | 4 survey passes found no shared onset between the two, and the pattern survey closed the row without a test. | That the two are grouped for shape and not for cause, entered beside the row each time it is quoted. |
+| **Dead Air** `N-IIIγ-929` | Grouped on hazards that advance by pressure. That record pushes where nothing can be seen; this one widens where everybody can see it and crosses a line the district painted itself. | The two expansion series were read side by side across 2 quarters and matched on nothing. | That the comparison is arithmetic only, with the two series kept in separate columns per the survey's standing rule. |
+| **Miasma** `C-IVδ-922` | Grouped on presentations that were first logged as illness. Both holdings' early records spent years under a medical heading before anybody read them as marks. | The misclassification period on this file, 2 years, was checked against the Miasma record's own early entries; the habits matched and nothing else did. | That the pairing rests on a filing habit and not on a measurement, written beside the row on each repetition. |
+
+**Interaction procedure:** No co-presence trial is authorised on this holding and none is proposed. Compare in the record only, at the quarter's review, with the field's threshold, rate and boundary re-read first and the other record's series set beside them unchanged. Record divergence, range, trigger, both readings and what persists; keep the two series unaligned.
+
 
 ## 이야기 (Narratio) — The Tale
 
