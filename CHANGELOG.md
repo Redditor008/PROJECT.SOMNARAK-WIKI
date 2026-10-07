@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 37 / unit 5 — Relic of a Thousand Owners `O-IVδ-792` closed (2026-10-07)** — measured at `aa8a741`: **2 dirty
+  sections**, worst Final Observation (the choice blockquote, the choose row and the result row), then the interactions
+  section (its 14-gram preamble, header row and procedure). **Closed in a single wave** (26 sites); 8,347 → **8,449
+  words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with the
+  condition held; the registered condition text was kept verbatim inside the rewritten resolution line. Entry 1's
+  residual cleared line-locally (`is logged as ` → `stands on the register as`), residual **1 → 0**; `own_series`
+  **False → True** by restating the file's own figures in numerals inside the Registrum's handling line (all 4 Work
+  Types) — disclosed. The escalation row, two appearance lines, the cost and effect lines, the stat-interpretation
+  paragraph and the field-detail bullet were re-authored too. A first wave attempt aborted pre-write on an anchor that
+  the display had truncated (`Pugnahan returns force and raises it`), the whole line was recovered from the file, and the
+  corrected wave ran whole — nothing was written on the failed attempt. Movement at the unit commit: `R-29` 231 / 301;
+  section-clean 263 / 301; residue-free 302 / 302; residue lines 0; archive dirty 70; file-clean
+  302 / 302. **Batch 37 stands at five of ten.**
+
+
+
 - **Batch 37 / unit 4 — Weighting Bird `C-IIIγ-032` closed (2026-10-07)** — measured at `862feb5`: **2 dirty sections**,
   worst Final Observation 0.123 (the choice blockquote, the choose row and the result row), then Combat Record 0.081 (the
   yield row, both combat action rows, the tension phase and the resolution). **Closed in a single wave** (16 sites);
