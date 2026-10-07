@@ -27,15 +27,15 @@
 |---|---|
 | **Risk tier** | Minor (α) |
 | **Entity role** | Object |
-| **Primary pressure** | Void / Spirit pressure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Primary pressure** | Void and Spirit pressure, arriving as the pleading at the edge of hearing rather than as force |
+| **Starting Sorrow Gauge** | 35–50% at intake, read only after the lid gap has been measured at the four rim points |
+| **Han-Energy yield** | 12–18 across a successful cycle, logged against that session’s own rim-gauge mean |
 | **Work difficulty** | Minor · R.D. Comprehension Level 1 — Trace |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (α) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (α); the jar has never been broken, and the figure is the standard table’s rather than a measured one |
+| **Recommended response** | Viderehan for the gauge and Ferrehan for the patience, with the lid re-seated by hand at the end; a session that lowers the gauge and leaves the gap wider is written up as a success without qualification |
 
 ### Operational Notes
 
@@ -80,10 +80,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's spirit pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
-| { *The Spirit Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void spirit sorrow.] | *Void damage strikes the target; the gauge spikes.* **[15 Void DMG [Void]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[20 Void DMG [Void]]** | When the entity is cornered or starved. |
-| { *The Spirit Collapse* [**Ultimate**] } | "The spirit breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[17 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Lid’s Whisper* [**Debuff**] } | "The gap is three millimetres, and the voice comes through it as though it were saying your name." | [The pleading reaches the target as personally addressed; the belief settles before the listener can check it.] | *Target believes the plea is theirs and loses 10 Resolve to it.* **[10 Void DMG [Void]]** | When a listener first steps inside the radius. |
+| { *The Widening Gap* [**Attack**] } | "The light in the corridor is longer than it was at the start of the watch." | [The unseated lid widens; the pleading sharpens into pressure.] | *Void pressure strikes the target and the reading climbs.* **[15 Void DMG [Void]]** | When a reading is ignored or the lid is handled. |
+| { *Forty Pages* [**Attack**] } | "It said something. You are certain of it, and you will write down every word." | [Certainty of what was said takes hold of the target and the transcript begins.] | *The target writes at length, the certainty does the damage.* **[20 Void DMG [Void]]** | When the target begins to transcribe. |
+| { *The Unsealed Hour* [**Ultimate**] } | "One minute, one person, by hand — and by then the whole corridor has heard it." | [The gap stands open and the light reaches to the corridor’s end.] | *All personnel suffer Void erosion for three turns, until the lid is re-seated by hand.* **[17 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
