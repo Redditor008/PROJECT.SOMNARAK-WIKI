@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 37 / unit 7 — Broken Clock `C-IIIγ-044` closed (2026-10-07)** — measured at `a7fc094`: **2 dirty sections**,
+  worst Final Observation (the choice blockquote, the choose row and the result row), then Combat Record (the yield row,
+  both combat action rows, the tension phase and the generic resolution). **Closed in a single wave** (23 sites);
+  7,801 → **7,943 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  **True** with the condition re-registered inside the rewritten resolution line (**Work to the outside clock, keep the
+  ten-minute limit, and never trust your own sense of the interval**). Entry 1's residual cleared line-locally
+  (`is logged as ` → `stands on the register as`), residual **1 → 0**; `own_series` was already True. The stigma line's
+  `three times` → `3 times`, the post-contact review row, the observation method and the two interaction paragraphs were
+  re-authored; the file's own figures were restated in numerals inside real edits (2 other clocks, 7-day check, 10-minute
+  limit, 5 relations across two paragraphs) — disclosed. Movement at the unit commit: `R-29` 233 / 301; section-clean
+  266 / 301; residue-free 302 / 302; residue lines 0; archive dirty 64; file-clean 302 / 302.
+  **Batch 37 stands at seven of ten.**
+
+
+
 - **Batch 37 / unit 6 — The Happy Mask `C-IIβ-051` closed (2026-10-07)** — measured at `f7f022c`: **3 dirty sections**
   (Final Observation, Combat Record and the M.A.W. profile), with the generic resolution line's clause replaced by the
   file's own discipline. **Closed in a single wave** (25 sites); 7,410 → **7,494 words**; `tpl.py` residue 0;
