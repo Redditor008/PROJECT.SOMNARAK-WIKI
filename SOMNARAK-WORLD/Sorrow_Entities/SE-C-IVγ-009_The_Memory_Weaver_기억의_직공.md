@@ -87,7 +87,7 @@
 ### Battle Phases
 
 1. **Tension:** Confirm the holding by its markers rather than by how the room feels — the scent, the shape of the loom-light, the way the shelf dust sits — and only then take positions. Personnel on this file are instructed to trust no impression they cannot point to.
-2. **Clash:** The crew works its Types and its kit while the loom answers down the line its combat table records: every offer taken or refused moves the gauge, and the watch escalates or closes on the strength of where the gauge stands.
+2. **Clash:** Offers are made with Types and kit; the loom's replies follow its combat table, and each reply moves the gauge — which is the only signal the watch has for staying in or withdrawing.
 3. **Resolution:** The sitting ends on an offer the loom cannot swallow — a memory too personal and too raw to be taken — so that the hunger is overwhelmed instead of fed. The registration carries the file's condition: **present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger** — an answer that costs the person who gives it, which is why the file expects it to be given knowingly.
 
 ### Consequences
