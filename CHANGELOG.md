@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 33 / unit 5 — Hollow Architect `C-IVγ-255` closed (2026-10-07)** — measured at `51ba1f7`: **4 dirty
+  sections**, worst Final Observation 0.169 (the choice blockquote, the choose row and the result row), then M.A.W.
+  Equipment 0.102 (three `matte and unnaturally heavy` appearance lines, the before/at-limit/after-use rows and the
+  stat interpretation), Combat Record 0.064 (the yield and resistance rows, two action rows, the tension phase and the
+  resolution) and Flavor Text 0.061 (the 32-gram relations preamble and the relations header). **Closed in a single
+  wave** (22 sites); 6,983 → **7,162 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s)
+  over 0.05**; `wikistd.py` meets **True** with series and condition held; the condition was re-registered inside the
+  rewritten resolution line. The Entry 1 `is logged as ` stock line was rewritten (`stands on the register as`),
+  residual **1 → 0**; the tension phase's `(the crystal plans and the accruing structure, never by posture` splice was
+  rebuilt whole-line. Movement at the unit commit: `R-29` 203 / 301; section-clean 228 / 301; residue-free 302 /
+  302; residue lines 0; archive dirty 158; file-clean 302 / 302. **Batch 33 stands at five of ten.**
+
+
+
 - **Batch 33 / unit 4 — Collapsed Whisper `C-IVδ-249` closed (2026-10-07)** — measured at `baba9d0`:
   **4 dirty sections**, worst Final Observation 0.173 (the choice blockquote, the choose row and the result row), then
   M.A.W. Equipment 0.102 (three appearance lines, the stat-bonus effect and the four field-use rows plus the stat

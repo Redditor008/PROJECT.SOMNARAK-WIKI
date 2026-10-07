@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 33, unit 5: Hollow Architect `C-IVγ-255` closed.** Measured at `51ba1f7`: **4 dirty sections**, worst
+Final Observation 0.169, then M.A.W. Equipment 0.102, Combat Record 0.064 and Flavor Text 0.061 — **closed in a single
+wave** (22 sites); 6,983 → **7,162 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**;
+`wikistd.py` meets **True**, series and condition held; condition re-registered in the resolution line. Disclosed: the
+tension-phase splice rebuilt whole-line; the Entry 1 `is logged as ` line rewritten — residual **1 → 0**. Movement:
+`R-29` 203 / 301; section-clean 228 / 301; residue-free 302 / 302; archive dirty 158; file-clean 302 / 302.
+**Batch 33 stands at five of ten.**
+
 **Batch 33, unit 4: Collapsed Whisper `C-IVδ-249` closed.** Measured at `baba9d0`: **4 dirty sections**, worst
 Final Observation 0.173, then M.A.W. Equipment 0.102, Flavor Text 0.061 and Combat Record 0.060 — **closed in a single
 wave** (26 sites); 6,735 → **6,990 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**;
@@ -2254,6 +2262,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 33 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IVγ-255 Hollow Architect 빈 건축가 — `__HASH__` — PUSH VERIFIED — [[SE-C-IVγ-255_Hollow_Architect_빈_건축가]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-255_Hollow_Architect_%EB%B9%88_%EA%B1%B4%EC%B6%95%EA%B0%80.md "SE-C-IVγ-255_Hollow_Architect_빈_건축가.md")
 
 - SE-C-IVδ-249 Collapsed Whisper 무너진 속삭임 — `cb56688` — PUSH VERIFIED — [[SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-249_Collapsed_Whisper_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md")
 
