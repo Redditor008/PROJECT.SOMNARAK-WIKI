@@ -279,12 +279,61 @@ def print_lineage(data, fam, codes):
         print()
 
 
+def print_pair(a, b, data):
+    """Everything needed to compare one pair by hand, in one command."""
+    A, B = data[a], data[b]
+    ca, cb = designation(a), designation(b)
+    win, cop = (a, b) if (ca[0] or 0) <= (cb[0] or 0) else (b, a)
+    print('pair report')
+    print('  A  %s  [%s]' % (os.path.basename(a), ca[0]))
+    print('  B  %s  [%s]' % (os.path.basename(b), cb[0]))
+    print('  source (lower designation): %s' % os.path.basename(win))
+    print('  A contains %.3f of B | B contains %.3f of A | prose %.3f / %.3f'
+          % (cont(A['body'], B['body']), cont(B['body'], A['body']),
+             cont(A['prose'], B['prose']), cont(B['prose'], A['prose'])))
+    print()
+    print('  sections compared separately:')
+    rows = []
+    for name in sorted(set(A['secs']) & set(B['secs'])):
+        ga, gb = A['secs'][name], B['secs'][name]
+        if len(ga) < 12 or len(gb) < 12:
+            continue
+        cab, cba = cont(ga, gb), cont(gb, ga)
+        if max(cab, cba) >= 0.30:
+            rows.append((max(cab, cba), name, cab, cba))
+    for m, name, cab, cba in sorted(rows, reverse=True):
+        flag = '  <-- identical block' if m >= 0.9 else ''
+        print('    %-34s A-in-B %5.2f  B-in-A %5.2f%s' % (name[:34], cab, cba, flag))
+    if not rows:
+        print('    none above 0.30')
+    print()
+    ma, mb = line_map(win, own_tokens(win)), line_map(cop, own_tokens(cop))
+    shared = sorted(set(ma) & set(mb))
+    subs = [(mw := ma[k], mb[k], substitutions(ma[k], mb[k])) for k in shared]
+    subs = [x for x in subs if x[2]]
+    print('  shared lines: %d  | with substitutions: %d' % (len(shared), len(subs)))
+    print()
+    print('  the shared lines themselves (source / copy):')
+    n = 0
+    for k in shared:
+        if n >= 15:
+            break
+        ta, tb = ma[k], mb[k]
+        sub = substitutions(ta, tb)
+        tag = ('changed: ' + ', '.join('%s->%s' % x for x in sub[:4])) if sub else 'identical'
+        print('    [%s]' % tag)
+        print('      source: %s' % ta[:150])
+        print('      copy  : %s' % tb[:150])
+        n += 1
+
+
 def main(argv):
     top = 15
     report = None
     single = None
     do_sections = False
     do_lineage = False
+    pair_paths = None
     i = 0
     while i < len(argv):
         a = argv[i]
@@ -296,9 +345,18 @@ def main(argv):
             do_sections = True
         elif a == '--lineage':
             do_lineage = True
+        elif a == '--pair':
+            pair_paths = [argv[i + 1], argv[i + 2]]
+            i += 2
         else:
             single = a
         i += 1
+
+    if pair_paths:
+        a = pair_paths[0] if os.path.isabs(pair_paths[0]) else os.path.join(ROOT, pair_paths[0])
+        b = pair_paths[1] if os.path.isabs(pair_paths[1]) else os.path.join(ROOT, pair_paths[1])
+        print_pair(a, b, load([a, b]))
+        return 0
 
     files = dossiers()
     if single:

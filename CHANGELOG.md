@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Clone audit, linked pairs — `clone_audit.py --pair` (2026-10-07)** — on the owner's request the audit report now carries
+  GitHub links for **every pair named in it**, both sides, plus 13 ready-to-paste `--pair` commands and links to the 12
+  heaviest of the **43 / 301** files carrying a verbatim section. New tool mode: `clone_audit.py --pair A B` prints one pair in
+  full — containment both ways, per-section scores, every shared line with the substitutions marked (e.g. Dreaming Plague vs
+  Dawn That Forgot: Combat Actions **1.00 / 1.00**, and shared M.A.W. lines reading *"Channels void dream sorrow in each
+  strike"* identically on both sides). Report: `REFERENCE_SOMNARAK_WIKI/CLONE_AUDIT_2026-10-07.md`, Finding 6.
+
 - **Clone audit, SECC + Combat Actions pass (2026-10-07)** — the owner's observation measured over **301 / 301**: the SECC
   header has exactly **two fields with 301 / 301 distinct values — Designation and Physical Form**; every other field is a
   shared pool (Sorrow Category 11 values, biggest in **153** files · Element 14 / **90** · Comprehension 21 / **163** ·
