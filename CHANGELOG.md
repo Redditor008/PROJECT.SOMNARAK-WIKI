@@ -36,6 +36,7 @@ This file records notable changes to the public Somnarak Wiki.
 - **Batch 53 / unit 1 — Happy Mask `C-IIβ-051` (2026-10-07)** — generic mass 6.0% → **3.5%**; 7,596 → 7,624 words.  **Batch 53 stands at 1 of ten.**
 
 - **Batch 53 margin passes (2026-10-07)** — Orphaned Bell `3752a6a` (4.4% → **3.6%**), Frozen Fury `4a9d468` (4.0% → **3.7%**), Aegis `dc3b1f1` (4.5% → **4.1%**): the three units that closed above 4% were re-probed and given a second pass on the frames their first wave left standing (growth-only, `R-15`).
+- **PR body under the cap (2026-10-07)** — batches 7–24 of pull request #13's body were condensed to a pointer form so Batch 53's section could be appended without hitting the platform's 262,144-byte body cap; the body went 261,644 → **207,859 B** and the readback confirms `## Batch 53` present and last. Nothing changed in the record: the full per-batch detail stands in `WORK_IN_PROGRESS.md` and this file.
 
 - **Reporting — tables in the chatroom (2026-10-07)** — owner's instruction *"Remember The Table In Chatroom"*: every report presents its counters and results as tables, each `x / y` in its own row, ≤ 5 columns and one row per dossier; prose is kept to the per-file plain-language notes beneath. Recorded at the `WORK_IN_PROGRESS.md` reporting convention; applied from Batch 52 onwards.
 
