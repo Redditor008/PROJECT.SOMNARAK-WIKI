@@ -2713,6 +2713,13 @@ line-locally; `own_series` already True; the file's own figures restated in nume
 96 · 5 assessors · 11 watches · 5,212). Movement: `R-29` 242 / 301; section-clean 276 / 301; archive dirty 34;
 file-clean 302 / 302. **Batch 39 stands at one of seven.**
 
+**Batch 40, unit 3: Unrung `C-IIβ-170` closed.** Measured live at `d5fd018`: **2 dirty sections** — Behavior and Final
+Observation — **closed in a single wave** (5 sites, fresh wording throughout); 8,776 → **8,824 words**; `tpl.py` residue
+0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held, residual 0 on entry. Disclosed:
+`own_series` already True; the file's own figure restated in numerals inside a real edit (3 honest strikes). Movement:
+`R-29` 251 / 301; section-clean 285 / 301; archive dirty 16; file-clean 302 / 302. **Batch 40 stands at three of
+ten.**
+
 **Batch 40, unit 2: The Music Box of Agony `N-IIγ-903` closed.** Measured live at `91965ac`: **2 dirty sections** — Combat
 Record and Final Observation — plus `parity ['event behaviour']`, `condition` False and one residual line. **Closed in a
 single wave** (10 sites). Disclosed: the `## Activation / Expansion Behavior` header normalised to `## Activation
@@ -2730,6 +2737,8 @@ edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 3
 dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
 
 **Batch 40 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIβ-170 Unrung 침묵의 종 — `ec593c7` — PUSH VERIFIED — [[SE-C-IIβ-170_Unrung_침묵의_종]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-170_Unrung_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EC%A2%85.md "SE-C-IIβ-170_Unrung_침묵의_종.md")
 
 - SE-N-IIγ-903 The Music Box of Agony 고통의 오르골 — `c5bd3c5` — PUSH VERIFIED — [[SE-N-IIγ-903_The_Music_Box_of_Agony_고통의_오르골]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-II%CE%B3-903_The_Music_Box_of_Agony_%EA%B3%A0%ED%86%B5%EC%9D%98_%EC%98%A4%EB%A5%B4%EA%B3%A8.md "SE-N-IIγ-903_The_Music_Box_of_Agony_고통의_오르골.md")
 

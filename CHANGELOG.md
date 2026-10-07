@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 40 / unit 3 — Unrung `C-IIβ-170` closed (2026-10-07)** — measured live at `d5fd018`: **2 dirty sections**,
+  Behavior (the Work-Type paragraph and the reading paragraph, 0.057) and Final Observation (the choice blockquote and
+  its rows, 0.069). **Closed in a single wave** (5 sites), each replacement written fresh: no reuse of the batch's
+  closing-choices phrasing. 8,776 → **8,824 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over
+  0.05**; `wikistd.py` meets **True**; condition held; residual 0 on entry; `own_series` already True; the file's own
+  figure restated in numerals inside a real edit (3 honest strikes) — disclosed. Movement at the unit commit: `R-29`
+  251 / 301; section-clean 285 / 301; residue-free 302 / 302; residue lines 0; archive dirty 16;
+  file-clean 302 / 302. **Batch 40 stands at three of ten.**
+
 - **Batch 40 / unit 2 — The Music Box of Agony `N-IIγ-903` closed (2026-10-07)** — measured live at `91965ac`: **2 dirty
   sections**, Combat Record (0.054, four action rows) and Final Observation (0.074), plus three standing failures: `parity`
   `['event behaviour']`, `condition` False and one residual line. **Closed in a single wave** (10 sites): the header
