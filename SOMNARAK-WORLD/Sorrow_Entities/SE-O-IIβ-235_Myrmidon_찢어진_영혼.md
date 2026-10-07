@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per successful work cycle, from the exposure log's own tallies |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | β · β |
@@ -41,7 +41,7 @@
 - A successful cycle narrows the split in the chest and the narrowing is visible, measurable, and temporary. It reopens. Nothing in a work cycle can undo the thing that caused it, since the institution that ruined his household still exists, still issues instructions, and is the body that employs everybody who works this holding.
 - Both readings are live here and either one alone fires the escalation. The listed threshold is 3 and it is a count that runs down, one for each failed or refused cycle; the Combat Record separately sets activation at a Sorrow Gauge of 60%, and a gauge at or above that figure activates the entity regardless of how much of the count remains. Track them side by side and do not trade one off against the other.
 - The 12–18 Han-Energy yield is ordinary and the exposure is not physical. What this posting costs is the position it puts a worker in: employed by the body they are required not to defend, for the length of a sixteen-turn cycle, in their own name.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. What is taken here is a piece of a loyalty that tore, and the pieces behave accordingly: they serve well, they serve faithfully, and they do not tell the wielder what they are serving.
+- Taking M.A.W. stock is an authorised event of its own and never a reward for a clean cycle. What comes away here is a piece of a loyalty that tore, and the pieces behave the way it did: they serve well, they serve faithfully, and they never name what they serve.
 
 ## Combat Record
 ### Core Stat Line
@@ -80,14 +80,14 @@
 | { *The Frayed Edge* [**Debuff**] } | "You feel a pulling — like something is trying to peel your soul away from your body." | [The Soul tears at the target's spiritual cohesion; the bond loosens.] | *Target suffers -10 Resilience; body and spirit are separating.* **[10 Grudge DMG [Grudge]]** | When the Soul reaches for them. |
 | { *The Thin Spot* [**Debuff**] } | "The place where your soul is thinnest — it found it, and it is pulling." | [The Soul finds the target's spiritual weak point and widens it.] | *Target loses 10 Resilience; the tear is spreading.* **[10 Grudge DMG [Grudge]]** | When the target resists. |
 | { *The Rip* [**Attack**] } | "It pulls — hard — and you feel the soul stretch and tear." | [A violent spiritual yank; the target's soul is wrenched.] | *Inflicts Grudge pressure and one wound of spiritual separation.* **[14-22 Grudge DMG [Grudge]]** | When the Soul is provoked. |
-| { *The Severing* [**Attack**] } | "One more pull — and the soul comes free." | [The Soul attempts full separation; the target hangs by a thread.] | *A heavy Crimson rend; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Soul is cornered. |
-| { *The Torn Host* [**Ultimate**] } | "Everyone's soul is pulled at once — and the tearing is everywhere." | [The Soul extends its pull across the whole field.] | *All personnel suffer Grudge pressure for three turns of mass severing.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Severing* [**Attack**] } | "One more pull, and the soul comes free of the body." | [The Soul tries for a full separation, and the target is left hanging by a thread.] | *A heavy Crimson rend; the reading jumps 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Soul is backed into a corner. |
+| { *The Torn Host* [**Ultimate**] } | "Every soul is pulled at once, and the tearing is everywhere at once." | [The pull widens until it holds the whole ground.] | *Everyone on the field takes Grudge pressure for three turns of mass severing.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
 1. **Tension:** The team prepares out of uniform. Insignia, rank markings, badges of office and anything bearing the facility's mark are left outside the holding, under the formal dress exemption that names this containment and no other. The team also agrees who will speak, since on this holding the answer must be one named person rather than a role.
 2. **Clash:** Work proceeds across sixteen turns with all four Work Types available, and one rule holds above every other: nothing is explained on the institution's behalf. Not the orders, not the proceedings, not the reasoning, not the context. The team speaks in the first person singular throughout, and a worker who finds themselves saying 'we' is relieved for the remainder of the cycle without prejudice.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Separate the person from the institution they represent; do not defend the institution**.
+3. **Resolution:** The cycle closes in containment, retreat or management, or against the documented suppression condition: **Separate the person from the institution they represent; do not defend the institution**. Nobody on this ground speaks for the facility, and the number of workers who have managed it without help is on the record.
 
 ### Consequences
 
@@ -156,7 +156,7 @@ Myrmidon is a Subject with Subject-Lament manifestation and Grudge expression, h
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
+| **Escalation** | Every turn the holding stays free the pressure climbs; Resilience drain rises by 5 a turn until it is suppressed. |
 
 ### Escalation Notes
 
@@ -195,7 +195,7 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a plated harness of Grudge Han-iron, dark, warm in the hand, carrying a faint smell of the place it was worked.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -266,7 +266,7 @@ The pieces came out of a loyalty that tore, and they carry the property faithful
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Myrmidon (O-IIβ-235 [GS]) is logged as a Subject-Lament manifestation expressing Grudge. The Soul formed from a person divided by betrayal. Held at Zone A, Alpha Tree. The entity is more reactive to uniforms and official seals than to individuals.
+Myrmidon (O-IIβ-235 [GS]) stands in the record as a Subject-Lament manifestation expressing Grudge. The Soul formed from a person divided by betrayal. Held at Zone A, Alpha Tree. The entity is more reactive to uniforms and official seals than to individuals.
 
 **Entry 2 — <Excerpt from Alpha Tree Holding Log, Year 4238>**
 Moves through Alpha Tree corridors seeking institutional symbols. Personnel feel divided loyalty, grief, and rage toward authority. It calms when a worker acknowledges institutional harm.
@@ -282,11 +282,11 @@ There is a story in Somnarak — told in whispers, traded for Echoes, passed fro
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Myrmidon; the other feeds it.
+> The last minute of contact puts one question to the worker: answer the person, or answer the seal. The two endings are kept apart on that line and nothing else.
 
-| Do the thing on file: Separate the person from the institution they represent; do not defend the institution. | Substitute your own judgement, which on Myrmidon has never yet cost less than the condition. |
+| Do what the file sets out — separate the person from the office they hold, and defend nothing on the facility's behalf. | Trust your own judgement instead, which on this file has never once been cheaper than the clause. |
 |---|---|
-| Reaches toward the worker through the tear. The sorrow is named; Myrmidon is fully recorded. | Attacks symbols of authority and perceived representation. The gauge climbs and Myrmidon withdraws without revelation. |
+| It comes toward the worker through the tear; the sorrow is named and Myrmidon is recorded whole. | It turns on the marks of office instead; the reading climbs and Myrmidon leaves without being recorded. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -312,15 +312,15 @@ This holding is read against the other sorrows institutions made, and the questi
 
 ### Entity Interaction Record
 
-Myrmidon must be assessed as one of a group of sorrows produced by institutions rather than as a solitary figure in the Alpha Tree holdings. The relations below are canonical in that they have been observed and filed, not in that they are settled. Any of them may present as assistance, obstruction, indifference, or a condition that appears only under load, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal, or a transformation event.
+The sorrows institutions produce are this holding's neighbours, not the lone figures of the Alpha Tree. The pairings below are canonical in the narrow sense — each has been observed and entered — and none of them is settled: a pairing may read as help, as a refusal, as indifference, or as something that shows only under load. One reading never survives a Sorrow Tide, an Ordeal or a transformation.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The Myrmidon's neighbour | How the meeting ran | What the observer entered | What the page keeps |
 |---|---|---|---|
 | **Silence We Forgot We Made** | Shares the grief of truths left unspoken. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Burning Library** | Seeks records of the betrayal. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Forgotten Soldier** | The Soldier recognizes divided duty. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Baseline both parties alone, bring them into range with no insignia present on either side of the boundary, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the zone, and whatever persists after separation. The field this holding adds is the flicker proportion, taken before, during, and a full watch afterwards.
+**Interaction procedure:** Set each party's solo baseline first, then bring them into range with no insignia on either side of the boundary. The first shared change is entered with its distance, its duration and what began it, the gauge on both sides, what happened in the zone, and what stays changed once they are apart. This file's own extra field is the flicker proportion, read before, during, and across one full watch after.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -354,12 +354,12 @@ Some sorrows are about betrayal. Myrmidon is about the betrayal that divides —
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). It has never harmed anyone who did not speak for the institution, and the file's own phrasing is that it hates the seal and not the face.
 **Containment & Handling Procedures:**
-- All four Work Types valid; Flerehan and Ferrehan lower the gauge and Pugnahan raises it.
+- All 4 Work Types valid; Flerehan and Ferrehan bring the gauge down and Pugnahan lifts it.
 - Work out of uniform under the dress exemption that names this containment; speak in the first person singular; defend nothing and explain nothing on the institution's behalf.
 - On a Corrupt event the zone warps rather than releases; the gauge falls only when somebody says something true in their own name and at their own risk.
 **Observation Notes:**
 - A servant of the institution learned that the same institution had ruined his household; the loyalty tore and did not finish tearing.
-- Sixteen turns, no engagement in the ordinary sense. Every incident on file began with a worker being reasonable about the proceedings.
+- 16 turns, no engagement in the ordinary sense. Every incident on file began with a worker being reasonable about the proceedings.
 - The set serves faithfully and will not say what it serves; it is never issued into a disciplinary matter.
 **Cross-References:** The bound service record and proceedings · the dress-instruction exemption · the sentence log
 **Faction Involvement:** SED (D-territory exploration) · Wound Walkers (Fracture-relevant)
@@ -426,7 +426,7 @@ The legal office's objection is minuted and read at every annual review. An inst
 ### Registry Trivia
 
 - **Classification detail:** Myrmidon is a Subject with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Grudge, and its registered location is Zone A, Alpha Tree.
+- **Field detail:** Its element is Grudge, and the register keeps it at Zone A, Alpha Tree.
 - **Recognition detail:** Identify it by the clean vertical split and the flicker. Several filed entities weep; this is the one that weeps from the chest and whose outline cannot settle on a single self.
 - **Record detail:** Betrayal-formed entities are numerous in the archive and more than one is held in Zone A. Confirm the designation and the manifestation before a cycle is booked; the instructions diverge at the decisive point, which here is whether the facility's own conduct may be discussed in the room.
 - **Containment detail:** The seal holds a stationary figure that was never going to leave. What passes the boundary is the holding's effect on the people around it: personnel on adjacent duty report rehearsing old arguments with former superiors, and that reporting is collected rather than discouraged.
