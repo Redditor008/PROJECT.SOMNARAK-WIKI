@@ -42,7 +42,7 @@
 - A cycle interrupts the work for some hours. The library is not reduced by it, nothing has been returned by any logged session, and no cycle has ever altered the entity in any measurable way.
 - Two ignored conditions escalate her, and escalation presents as personnel recognising a memory on the shelves rather than as anything the entity does.
 - An operative who recognises one is withdrawn at once and debriefed outside the enclosure, before conferring with the rest of the crew. The sequence matters: recognition is contagious across a crew in a way the counsellors have documented and nobody has explained.
-- Extraction is authorised apart from the work cycle and has never been attempted. The two proposals on file were withdrawn when it was pointed out that the library has no other building.
+- Nothing is drawn from the loom outside a work cycle, and nothing of the kind has ever been tried. The two proposals on file were withdrawn when it was pointed out that the library has no other building.
 
 ## Combat Record
 ### Core Stat Line
@@ -87,15 +87,15 @@
 ### Battle Phases
 
 1. **Tension:** Confirm the holding by its markers rather than by how the room feels — the scent, the shape of the loom-light, the way the shelf dust sits — and only then take positions. Personnel on this file are instructed to trust no impression they cannot point to.
-2. **Clash:** The crew works its Work Types and its kit while the holding answers along the line recorded in its combat table: each offer answered or refused moves the gauge, and the gauge decides whether the watch escalates or closes.
-3. **Resolution:** The cycle closes when a memory has been offered that is too personal and too raw for the loom to take, and the hunger is overwhelmed rather than fed. The registration carries the file's condition: **present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger** — an answer that costs the person who gives it, which is why the file expects it to be given knowingly.
+2. **Clash:** The crew works its Types and its kit while the loom answers down the line its combat table records: every offer taken or refused moves the gauge, and the watch escalates or closes on the strength of where the gauge stands.
+3. **Resolution:** The sitting ends on an offer the loom cannot swallow — a memory too personal and too raw to be taken — so that the hunger is overwhelmed instead of fed. The registration carries the file's condition: **present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger** — an answer that costs the person who gives it, which is why the file expects it to be given knowingly.
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Composure** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- A worker who breaks under the loom’s pressure pays twice: the gauge climbs as **Composure** shatters into a psychological Fracture.
+- Staying near the loom brings on the secondary effects this file keeps short-cycle briefings for: cognitive erosion, distortion in the body, and a taint that settles into the room itself.
+- Carrying a M.A.W. means accepting what it costs: the sorrow crystallised in the blade runs backward out of the weapon and into the person holding it, and the armoury ledger has the price written down.
+- Resolution that fails leaves the narrative to continue on its own catastrophic terms — a cell breach, territory taken, and escalation quick on the heels of both.
 
 ## Appearance
 **Primary Form:** A massive spider-like being whose body is made from crystallized memories. Its webs are spun from stolen pasts, and its eyes resemble thousands of memories turning in Han-crystal sockets.
@@ -151,7 +151,7 @@
 
 ### Operational Work Notes
 
-Read the Work Types against the breach threshold and the kit cost before anybody is posted to the library. The holding is a Subject with Subject-Dream manifestation and Void expression, contained at SECTOR-B-02 in Zone B, and no assumption from another holding carries over to it. The caution this file repeats is a quiet reading's caution: a watch may leave the gauge exactly as it found it while the worker still carries out a scent they cannot place, a thread gone from a story they used to tell without effort, and a sense that the room has already met them.
+Read the Work Types against the breach threshold and the kit cost before anybody is posted to the library. Here the file records Subject-Dream, Void expression, contained at SECTOR-B-02 in Zone B, and nothing assumed about another holding carries across. The caution this file repeats is a quiet reading's caution: a watch may leave the gauge exactly as it found it while the worker still carries out a scent they cannot place, a thread gone from a story they used to tell without effort, and a sense that the room has already met them.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
 ## Breach Behavior
@@ -234,7 +234,7 @@ Read the Work Types against the breach threshold and the kit cost before anybody
 
 ### M.A.W. Use Notes
 
-Each piece of this entity's equipment is an extension of a thing somebody else lost rather than ordinary equipment. The listed benefit is strongest against Void. The cost is separate and is always the same: the bearer's own recollection thins at the edges, item by item, and the items that go are not the ones they would have chosen.
+Everything issued here is a piece of something somebody else lost rather than ordinary equipment. Its stated benefit is sharpest against Void. The price sits in its own column and does not change: the bearer's own recall thins from the edges inward, item by item, and the items that go are never the ones anybody would have picked.
 
 ### Field Use Record
 
@@ -288,7 +288,7 @@ The terror of being erased and the loneliness of memories no one claims.
 Management: no trade without written pre-authorisation naming the memory to be offered, countersigned by a counsellor and logged before entry. Do not improvise an offer in the chamber. The practice of presenting an overwhelming memory is not authorised and never was; it appears in two early logs and in no procedure, and the reviews of both are attached. The Directorate's catalogue of the lair now runs past ten thousand entries and is in plain script, compiled from outside. The Weaver's own markings, which are a different thing entirely, remain unread.
 
 **Entry 5 — <Archive Note>**
-The origin is a diagnosis, not a mystery: the sorrow became load-bearing at this location, permanent as the Weeping, and the entity is its exoskeleton.
+The origin is a diagnosis and not a mystery: at this location the sorrow became load-bearing, as permanent as the Weeping, and the creature is the shell that formed around it.
 
 ## 최종 관찰 (Final Observation)
 
@@ -315,14 +315,14 @@ You feel the webs before you see them: a tug at the edge of the mind, a name alm
 
 ### Interaction Pattern
 
-Five holdings are kept within reach of the library — The Orphaned Bell, The Kind Healer, The Broken Clock, The Forgotten Soldier and The Final Door — and not one of the five is an ally or an enemy to the loom. For each pairing the watch enters whether the answer changed in sound, movement, temperature, memory pressure, gauge or containment stability, with the distance, duration and trigger beside whatever is left of the pattern once the two are apart.
+Five files are within reach of the library — The Orphaned Bell, The Kind Healer, The Broken Clock, The Forgotten Soldier and The Final Door — and the loom owns none of them as ally or enemy. A pairing is entered with what changed in the sound and in the instruments, where the gauge and the containment line ended up, and the distance, the duration and the trigger beside whatever is left of the pattern once the two are apart.
 
 **Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
 
-The Memory Weaver must be assessed as part of an entity network, not as an isolated profile. The interactions below are canonical relationship points. They may be helpful, hostile, neutral, or conditional; personnel must not assume that a repeated interaction has the same result under different Sorrow Tide, breach, Ordeal, or transformation conditions.
+This file is a strand of a larger weave and not a portrait hung on its own; the pairings set out below are the only ones the archive will support, and every one of them is conditional. A meeting repeated is not a meeting foreseen: the sorrow tide, a breach, an Ordeal and the state of the loom all belong in the same entry as the result, and the entry is worth nothing without them.
 
 | Holding on record | How the pair have dealt | What the loom-log showed | What belongs in the file |
 |---|---|---|---|
@@ -346,9 +346,9 @@ The Memory Weaver is Subject-Dream, Void-element: a being made entirely of erase
 
 This is the Weaver's sorrow, and its terror: the loneliness of memories no one claims. The Weaver holds the lives of citizens who were erased so thoroughly that no one remembers they were erased. It carries their histories alone — the only repository of people the city decided did not exist. And it is, in its way, a guardian: the keeper of what the Keepers were forced to discard, weaving the erased back into a form that, while no one will ever read it, at least exists.
 
-Those who encounter the Memory Weaver feel the terror of erasure — the chill of being forgotten not by accident but by design, of having your life struck from the record so that, afterward, there is no proof you were ever here. And they feel the Weaver's strange mercy: that someone, at least, is collecting what the city discards.
+Anyone who meets the Memory Weaver meets two things at once: the terror of erasure, the chill of a forgetting done on purpose, of a life struck from the record so that afterwards nothing proves you were here; and, under that, the Weaver's strange mercy, that somebody is gathering what the city throws out.
 
-Some sorrows mourn the dead. The Memory Weaver mourns the unpersoned — the citizens erased from the record, their memories orphaned in the Archive's dark, gathered and woven by a creature that is itself made of nothing but the lives the city decided had never happened.
+Some sorrows mourn the dead. This one mourns the unpersoned — citizens struck from the record, their memories left orphaned in the Archive's dark, gathered and woven by a creature composed of nothing but lives the city ruled had never happened.
 ## 증언 (Testimonium) — The Testimony
 
 > *“It collects what the city erased. It weaves the deleted into a fabric no one will read.”* — Researcher, R.D.
@@ -438,9 +438,9 @@ The paper is unexceptionable. Archivist hours are finite; the catalogue serves t
 
 The restitution day that survives is run exactly as the four were. The rooms are warmed in advance, the counsellors attend, the escort is rostered from volunteers, and the archivists' signature page is read aloud at the start so that the civilians waiting there learn how long the work has been going on.
 
-The objection is minuted at the forty-ninth review and at each of the six since, raised by the holding's senior archivist and supported by the liaison office. It holds, first, that the opinion establishes that the facility owes nothing, and the Directorate has read that as establishing that nothing need be considered — it is the difference between having no duty and having no reason, and the paper gives no reason, because the opinion told it that it did not have to. Second, that the published return rate is computed on a denominator the facility's own cohort study shows to be wrong by a factor of eleven, and that the figure has been quoted twice since the study reported and corrected neither time; the people whose items are not in the catalogue at all are not counted as unreturned, they are not counted as anything. Third, that the ceremony was kept and the service was cut by three quarters, so a civilian attending the one remaining day is told, truthfully, that the work has gone on for forty years, and is not told that it now goes on for a quarter of the time it did when they were first not informed that anything of theirs was missing.
+The senior archivist has entered this objection at the forty-ninth review and at every one of the six since, with the liaison office standing behind it. It holds, first, that the opinion establishes that the facility owes nothing, and the Directorate has read that as establishing that nothing need be considered — it is the difference between having no duty and having no reason, and the paper gives no reason, because the opinion told it that it did not have to. Second, that the published return rate is computed on a denominator the facility's own cohort study shows to be wrong by a factor of eleven, and that the figure has been quoted twice since the study reported and corrected neither time; the people whose items are not in the catalogue at all are not counted as unreturned, they are not counted as anything. Third, that the ceremony was kept and the service was cut by three quarters, so a civilian attending the one remaining day is told, truthfully, that the work has gone on for forty years, and is not told that it now goes on for a quarter of the time it did when they were first not informed that anything of theirs was missing.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the fiftieth year at two archivist posts — four days restored, the corrected denominator published with the study, and a standing tracing office for the share of the catalogue whose owners the city can no longer locate — and that it has not been laid before the board in six years. And it records the sentence the senior archivist asked to have entered verbatim, which is now read out with the signature page at the start of the day:
+The minute enters the objection as **correct in all three parts**. The remedy it goes on to describe was costed in the fiftieth year at two archivist posts — four days restored, the corrected denominator published alongside the study, and a standing tracing office for the share of the catalogue whose owners the city can no longer find — and six years have passed since without the paper going to the board. The final paragraph is the sentence the senior archivist asked to be entered word for word; it is read out with the signature page when the day begins:
 
 *We are not obliged to give any of it back, and we have never once said that out loud in this room, and we have cut it to a quarter and kept the warm chairs.*
 
