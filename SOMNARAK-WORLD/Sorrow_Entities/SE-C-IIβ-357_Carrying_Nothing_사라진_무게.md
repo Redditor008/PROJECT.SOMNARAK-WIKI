@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Resilience**, while the entity feeds on their psychological destabilization to escalate the Sorrow Gauge.
-- Time is Carrying Nothing’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Carrying Nothing executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Failed resistance pays twice. The worker takes the raw pressure on **Resilience**, and whatever the pressure loosens in them is what the entity lives on: the Sorrow Gauge climbs on the worker’s own destabilization, and none of that half of the cost appears in any schedule.
+- Time is the emptied carrier’s ally. The longer the watch runs, the more sorrow accumulates in a worker who has nothing left to weigh against it, until the psychological, somatic and environmental collapses the classification was codified to prevent come due together, with no reason written down for any of them.
+- A M.A.W. activation is the same unyielding exchange — power for price. The parameters are cataloged in the equipment registry, which is the only account of the trade that is ever written down, and the bearer pays the balance directly, out of soul and flesh.
+- An unresolved encounter never simply ends; it converts. Carrying Nothing runs its documented breach pattern, and the sorrow that nothing pacified takes the exit the containment work left open — the one violent departure in this file that carries a stated reason.
 
 ## Appearance
 **Primary Form:** A burning humanoid figure carrying nothing, though the air around its back bends under an invisible weight. It stands motionless until approached.
