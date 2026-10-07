@@ -94,7 +94,7 @@
 
 - The failure here is relief. The worker is lighter afterwards and cannot say what was taken, and the lightness is the injury rather than the sign of recovery.
 - Long exposure produces the holding's signature state: a worker who owes nothing to anybody as far as they can tell, and who has stopped answering letters they do not remember receiving.
-- The Debt equipment lends the wearer the entity's indifference to obligation and takes the sense of being owed anything. Every wielder's debrief has recorded an unpursued claim.
+- The Debt equipment lends the wearer the entity's indifference to obligation and takes the sense of being owed anything. Not one wielder's debrief has yet failed to record an unpursued claim, and the file treats that count as the whole of what the debt costs.
 - Unresolved, it leaves the chamber: an Escape breach, moving to the largest unsettled balance on the floor rather than to the nearest person.
 
 ## Appearance
@@ -151,7 +151,7 @@
 
 ### Operational Work Notes
 
-The Debt Eater is a Fragment (III) Subject with Subject-Body manifestation and Void expression, held at SECTOR-C-01 in Zone C under Collector use. All four Work Types are available because it is a Subject. Flerehan and Pugnahan leave the gauge where it is — a tested null, not a template exclusion — and Viderehan and Ferrehan both lower it.
+The Debt Eater is a Subject of Fragment (III) coherence — its manifestation Subject-Body, its expression Void — held at SECTOR-C-01 in Zone C under Collector use. All four Work Types are available because it is a Subject. Flerehan and Pugnahan leave the gauge where it is — a tested null, not a template exclusion — and Viderehan and Ferrehan both lower it.
 
 **Reading the response:** Read it in the gauge and in the accumulation figure, which do not move together. A falling gauge presents as the entity settling and holding one corner; the accumulation figure does not fall at all, ever, and a watch that reports both falling has mis-transcribed one of them.
 ## Breach Behavior
@@ -230,7 +230,7 @@ The Debt Eater is a Fragment (III) Subject with Subject-Body manifestation and V
 
 **Cost:** The user briefly experiences the debt being measured as a crushing physical and emotional weight.
 
-*The Debt Scale is not issued and cannot be requested. It has been conferred 2 times, both to Wardens who worked a full watch at the line while carrying the largest balance on the roster and did not ask to be reassigned — the file keeps the pair as its only evidence that the conviction the set installs can be survived.*
+*The Debt Scale is never issued and cannot be applied for. Twice it has gone to Wardens who worked a full watch at the line while carrying the largest balance on the roster and did not ask to be reassigned — the file keeps the pair as its only evidence that the conviction the set installs can be survived.*
 
 ### M.A.W. Use Notes
 
@@ -321,7 +321,7 @@ The Eater is read against the other holdings in the Collector district built out
 
 ### Entity Interaction Record
 
-The 3 rows below are canonical points of contact and not alliances, and the wing's caution is uniform across them: this holding consumes obligation, every record in the district is made of obligation, and nothing has ever been consumed off any of the 3. The entries are filed as observances rather than findings, and the file says so in the same sentence it files them.
+The 3 rows below are contacts of record rather than alliances, and the wing's caution is uniform across them: this holding consumes obligation, every record in the district is made of obligation, and nothing has ever been consumed off any of the 3. The entries are filed as observances rather than findings, and the file says so in the same sentence it files them.
 
 | Record read alongside | Where the resemblance comes from | What co-presence has actually shown | Entry the file requires |
 |---|---|---|---|
@@ -442,7 +442,7 @@ What it produced was three years in which the personnel most often posted to thi
 
 The wing's own review found no evidence that anybody intended this, and the minute is careful to say so twice. The rostering rule was drafted by an office that had never read the holding file. The accumulated saving was not identified as a saving by anybody until the counsellor totalled it for the review, at which point it was a figure large enough that the review stopped being about rostering.
 
-The objection is minuted at every annual review and is raised by the wing's counsellor, who holds the eleven-day checks. It holds that the facility placed its own creditors, repeatedly and by rule, in a chamber containing a thing that removes the knowledge of being owed, and that this was foreseeable from the holding file by anybody who had read it; that the rule survived three years and two review cycles because the office that wrote it and the office that held the file do not correspond, and no process required them to; and that the eleven claims cannot now be restored, since limitation has run on all of them and the only facts capable of restarting any of them are facts the claimants no longer have. The minute records the objection as **correct in all three parts**. It records that the rostering rule was revoked in the eighth year, that an ex gratia scheme was proposed for the eleven and has been deferred at four reviews, and that the facility has never stated a position on whether the saving should be repaid. And it records the counsellor's closing line, minuted at her request: *they were not cheated. They were simply put next to it, often enough, until there was nothing left for them to ask for.*
+The wing's counsellor, who holds the eleven-day checks, has raised that objection at every annual review. It holds that the facility placed its own creditors, repeatedly and by rule, in a chamber containing a thing that removes the knowledge of being owed, and that this was foreseeable from the holding file by anybody who had read it; that the rule survived three years and two review cycles because the office that wrote it and the office that held the file do not correspond, and no process required them to; and that the eleven claims cannot now be restored, since limitation has run on all of them and the only facts capable of restarting any of them are facts the claimants no longer have. The minute lets all three parts of that objection stand. It sets down that the rostering rule was revoked in the eighth year, that an ex gratia scheme was proposed for the eleven and has been deferred at four reviews, and that the facility has never stated a position on whether the saving should be repaid. The counsellor's closing line, which the office has left standing ever since, follows in the same hand and was minuted at her request: *they were not cheated. They were simply put next to it, often enough, until there was nothing left for them to ask for.*
 
 ## Trivia
 
