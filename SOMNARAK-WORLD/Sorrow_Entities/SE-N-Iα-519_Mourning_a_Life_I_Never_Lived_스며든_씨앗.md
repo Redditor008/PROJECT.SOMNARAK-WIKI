@@ -39,7 +39,7 @@
 ### Operational Notes
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Mourning a Life I Never Lived.
-- Three things start the behavior filed here under breach, activation and expansion: a gauge on the rise, a session that fails, or one clause of the activation condition ignored.
+- What starts the behavior here: a gauge on the rise, a failed session, or an activation clause nobody read past. The three are entered under breach, activation and expansion.
 - Han-Energy out of this ground is entered against the exposure it cost; a bigger yield would mean picked crews, slower recovery or a tighter line, and the file says so.
 - Nothing drawn off this vault comes free, and nothing of it is ever booked as a reward for a good cycle.
 

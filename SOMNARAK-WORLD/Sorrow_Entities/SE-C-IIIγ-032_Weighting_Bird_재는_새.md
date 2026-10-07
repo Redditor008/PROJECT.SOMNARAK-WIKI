@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-The register files the Bird as Subject-Body, expressing Grudge, at SECTOR-B-01 with the Three Birds. Flerehan and Ferrehan bring the gauge down, Pugnahan raises it, Viderehan keeps it level. Nothing on that table deserves a comment, and neither does the bird. It has never struck anyone, never followed anyone, and in sixty-one years has never weighed a person who did not ask to be weighed.
+The register files the Bird as Subject-Body, expressing Grudge, at SECTOR-B-01 with the Three Birds. Ferrehan and Flerehan settle the gauge between them; Pugnahan drives it up; Viderehan leaves the level where it found it. Nothing on that table deserves a comment, and neither does the bird. It has never struck anyone, never followed anyone, and in sixty-one years has never weighed a person who did not ask to be weighed.
 
 **Reading the response:** Read the plate, not the gauge. A decrease means the watch was completed without a request being made of it. An increase means somebody asked. The file records, without comment, that the gauge has risen on this holding four hundred and ten times and that every one of those was a member of staff choosing to stand in front of it.
 ## Breach Behavior
