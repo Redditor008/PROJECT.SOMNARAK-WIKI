@@ -2923,6 +2923,14 @@ file's own clause as a documented suppression condition (Two respiration series,
 condition **274 → 275 / 301**. Movement: `R-29` 269 / 301; section-clean 301 / 301; archive dirty 0;
 file-clean 302 / 302. **Batch 42 stands at one of seven.**
 
+**Batch 43, unit 5: Amnesia `O-IIβ-914` closed.** Measured at `64302fe`: failures were
+`parity ['interactions']` and `condition` False — **closed in a single wave**; 4,570 → **5,018 words**; `tpl.py` residue
+0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section
+written in the file's own terms (3 rows — Never Discharged `O-IIβ-911`, Lethe `C-IIIγ-928`, Allhallow `O-IIIγ-916` —
+with its own column set), parity **289 → 290 / 301**; the Resolution line extended to carry the file's own clause as a
+documented suppression condition (Names off the board, people matched to them, forearms read where a person cannot answer),
+condition **285 → 286 / 301**. **Batch 43 stands at five of ten.**
+
 **Batch 43, unit 4: Never Discharged `O-IIβ-911` closed.** Measured at `f7b6f72`: failures were `parity
 ['interactions']` and `condition` False — **closed in a single wave**; 4,291 → **4,738 words**; `tpl.py` residue 0;
 `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section
@@ -2958,6 +2966,8 @@ condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
 **Batch 43 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IIβ-914 Amnesia 잊혀진 일분 — `47d1315` — PUSH VERIFIED — [[SE-O-IIβ-914_Amnesia_잊혀진_일분](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-914_Amnesia_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%BC%EB%B6%84.md "SE-O-IIβ-914_Amnesia_잊혀진_일분.md")]
 
 - SE-O-IIβ-911 Never Discharged 영원한 환자 — `5772e59` — PUSH VERIFIED — [[SE-O-IIβ-911_Never_Discharged_영원한_환자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-911_Never_Discharged_%EC%98%81%EC%9B%90%ED%95%9C_%ED%99%98%EC%9E%90.md "SE-O-IIβ-911_Never_Discharged_영원한_환자.md")]
 

@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 43 / unit 5 — Amnesia `O-IIβ-914` closed (2026-10-07)** — measured at `64302fe`:
+  failures were `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing `## 상호작용
+  (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row record pairing the
+  post with Never Discharged `O-IIβ-911`, Lethe `C-IIIγ-928` and Allhallow `O-IIIγ-916` under its own column set, and an
+  interaction procedure — parity **289 → 290 / 301** · and the Resolution line extended to carry the file's own clause as a
+  documented suppression condition (**Names off the board, people matched to them, forearms read where a person cannot
+  answer**) — condition **285 → 286 / 301**. 4,570 → **5,018 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s)
+  over 0.05**; `wikistd.py` meets **True**; residual 0 on entry; `own_series` already True. **Batch 43 stands at five of
+  ten.**
+
 - **Batch 43 / unit 4 — Never Discharged `O-IIβ-911` closed (2026-10-07)** — measured at `f7b6f72`: failures
   were `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing `## 상호작용 (Entity
   Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row record pairing the ward
