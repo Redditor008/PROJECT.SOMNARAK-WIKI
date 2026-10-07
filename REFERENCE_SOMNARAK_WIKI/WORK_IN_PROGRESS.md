@@ -1716,6 +1716,15 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 35, unit 3: The Wedge That Held `O-IIIγ-412` closed.** Measured at `c210048`: **1 dirty section**, Final
+Observation 0.151 — **closed in a single wave** (6 sites); 4,348 → **4,386 words**; `tpl.py` residue 0; `sectfile.py`
+**0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the condition clause registered **False → True** by
+rewriting the generic Management row into the file's own grip discipline; the Entry 1 `is logged as ` line rewritten
+(`comes onto the register as`), residual **1 → 0**; the first wave attempt aborted pre-write because `verify.py`
+truncates its residual lines at 100 characters and that row continues past the cut — the whole line was recovered and
+the wave re-run, nothing written on the failed attempt. Movement: `R-29` 217 / 301; section-clean 242 / 301;
+residue-free 302 / 302; archive dirty 103; file-clean 302 / 302. **Batch 35 stands at three of five.**
+
 **Batch 35, unit 2: The Magistrate's Strike-Through `N-IIβ-319` closed.** Measured at `d1e3b74`: **1 dirty section**,
 Final Observation 0.180 — **closed in a single wave** (10 sites); 4,416 → **4,544 words**; `tpl.py` residue 0;
 `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the condition clause registered
@@ -2395,6 +2404,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 35 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IIIγ-412 The Wedge That Held 끝끝내 버틴 쐐기 — `deaef95` — PUSH VERIFIED — [[SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-412_The_Wedge_That_Held_%EB%81%9D%EB%81%9D%EB%82%B4_%EB%B2%84%ED%8B%B4_%EC%90%90%EA%B8%B0.md "SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md")
 
 - SE-N-IIβ-319 The Magistrates Strike-Through 판관의 취소선 — `8f537ab` — PUSH VERIFIED — [[SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-319_The_Magistrates_Strike-Through_%ED%8C%90%EA%B4%80%EC%9D%98_%EC%B7%A8%EC%86%8C%EC%84%A0.md "SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md")
 

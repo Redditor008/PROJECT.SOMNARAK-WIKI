@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 35 / unit 3 — The Wedge That Held `O-IIIγ-412` closed (2026-10-07)** — measured at `c210048`: **1 dirty
+  section**, Final Observation 0.151 (the choice blockquote, the choose row and the result row). **Closed in a single
+  wave** (6 sites); 4,348 → **4,386 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**. The condition clause registered **False → True** by rewriting the generic Management row
+  into the file's own grip discipline (**Hold the grip to the anvil until the reading settles; Viderehan and Ferrehan
+  only, with the Tool protocol certified before the cycle opens**) — disclosed. The Entry 1 `is logged as ` line was
+  rewritten (`comes onto the register as`), residual **1 → 0**. The first wave attempt aborted pre-write: `verify.py`
+  prints its residual lines truncated at 100 characters and the Initial exposure row continues past the cut, so the
+  whole line was recovered from the file and the wave re-run — nothing was written on the failed attempt. Movement at
+  the unit commit: `R-29` 217 / 301; section-clean 242 / 301; residue-free 302 / 302; residue lines 0;
+  archive dirty 103; file-clean 302 / 302. **Batch 35 stands at three of five.**
+
+
+
 - **Batch 35 / unit 2 — The Magistrate's Strike-Through `N-IIβ-319` closed (2026-10-07)** — measured at
   `d1e3b74`: **1 dirty section**, Final Observation 0.180 (the choice blockquote, the choose row and the result row).
   **Closed in a single wave** (10 sites); 4,416 → **4,544 words**; `tpl.py` residue 0; `sectfile.py` ends at
