@@ -146,9 +146,9 @@
 
 ### Operational Work Notes
 
-Flerehan and Ferrehan lower the gauge, Viderehan holds it level, Pugnahan raises it and is the only recorded antecedent of an activation here. The manifestation is Subject-Lament, matching the [LS] designation and the Lament element; the Subject-Grudge entries that ran through the header, this section, the Observation Progression and the Registrum were drift and have been corrected throughout.
+Flerehan and Ferrehan pull the gauge down, Viderehan keeps it flat, and Pugnahan drives it up — Pugnahan is also the only antecedent on record that has opened this door. The manifest line reads Subject-Lament, which agrees with the [LS] designation and with the Lament element; the Subject-Grudge wording that had worked its way into the header, this section, the Observation Progression and the Registrum was drift, and all 4 places have been brought back into line.
 
-**Reading the response:** The gauge measures one worker for one watch. The glow measures how many of this facility's orders sent somebody out without a way back. They are kept in separate columns, they have never moved together, and a watch that lowers the gauge and reads forty metres is written up as a clean watch without qualification.
+Two numbers come off this holding and they answer different questions. The gauge reports a single worker across a single watch. The glow reports how many orders this facility has issued that sent a person out with no way home attached. Over thirty years the two have never risen or fallen in step, and a watch that drops the gauge while the lamp stands at 40 metres is entered as clean and carried forward with no note beside it.
 ## Breach Behavior
 
 > *"It has not broken free. It walks the corridors, it has always walked the corridors, and in twenty-seven years it has not gone within forty metres of an outside wall. The sentence under this one was copied from a Corrupt-class template in Year 4219."* — Warden, Alpha Tree
@@ -270,7 +270,7 @@ The set is built around thresholds and refuses to cross them: a censer whose smo
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Doorway to Nowhere (N-IIβ-152 [LS]) is logged as a Subject-Lament manifestation expressing Lament, walking the Alpha Tree corridors in Zone A at a constant one point four five metres per second: a door-shaped frame of charred wood and live fire with no wall around it, fever-warm, smelling of cold rain and char, its handle giving onto a different place every time and never the same one twice. It has never breached and has never approached an exterior wall. Its instrument is the reach of the glow against a reference lamp — three point one metres at baseline, zero at the floor, fifty-seven at the ceiling.
+Doorway to Nowhere (N-IIβ-152 [LS]) stands on the register as a Subject-Lament manifestation expressing Lament, walking the Alpha Tree corridors in Zone A at a constant one point four five metres per second: a door-shaped frame of charred wood and live fire with no wall around it, fever-warm, smelling of cold rain and char, its handle giving onto a different place every time and never the same one twice. It has never breached and has never approached an exterior wall. Its instrument is the reach of the glow against a reference lamp — three point one metres at baseline, zero at the floor, fifty-seven at the ceiling.
 
 **Entry 2 — <Order Return: One Thousand Six Hundred and Forty-Two Orders, Two Hundred and Twenty-Four Without a Determinable Condition>**
 The first return under the Rule of the Return Clause, Year 4238. This facility issued one thousand six hundred and forty-two orders requiring a person to leave a dwelling, a district or a post. One thousand four hundred and eighteen carried a stated condition of return, a named certifying officer and a decision date. Two hundred and twenty-four were issued with the condition recorded as to be determined, which the rule permits provided a named officer and a ninety-day date are given. Sixty-one of those dates have now passed and the answer in all sixty-one was that there would be no return; each was signed by the named officer and delivered by them in person, as the rule requires. Thirty-six decisions are overdue. Nine certifying officers have resigned their commissions this year, all nine after a delivery, and all nine resignations cite it. The glow reached fifty-seven metres in Year 4226, the quarter the Alpha Tree perimeter streets were cleared under nine orders of which none named a condition, an officer or a date. It reached zero in Year 4237. The light has tracked the order column for twenty-seven years and has never tracked the vacancies themselves.
@@ -296,11 +296,11 @@ The ground is the lamp. The quarter we cleared nine perimeter streets with no cl
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Doorway to Nowhere; the other feeds it.
+> Everything here turns on the handle: leave it be and stand with the frame, saying out loud that nobody knows whether the people who owned this door ever came back — or take hold of it, to settle the question or simply to be useful.
 
-| Do the thing on file: Close the door consciously; do not force passage. | Do the obvious, decent thing instead, and feed Doorway to Nowhere. |
+| Work the file: let the door close on its own terms, and force no passage through it. | Take the handle anyway, which is where every failure on this record starts. |
 |---|---|
-| The worker stands with it, says aloud that they do not know whether the people who owned it ever got back, and does not touch the handle. The gauge falls, the frame closes on its own, and the watch stands. | The worker turns the handle — to settle it, to be useful, because a door that will not say where it goes is unbearable to stand beside. It seals, the frame blisters their hand, and the gauge climbs for the rest of the watch. |
+| The worker stays with the frame, says out loud that they do not know whether the owners ever got back, and keeps both hands off the handle. The gauge drops, the frame shuts by itself, and the watch stands. | The worker takes the handle — to settle it, to be of use, because a door that will not say where it leads is not a thing most people can stand beside. It seals, the frame raises blisters on the hand, and the gauge climbs for what is left of the watch. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
