@@ -87,7 +87,7 @@
 
 1. **Tension:** The pair arrive together, confirm the rota interval and the time of the next relief before anything else, weigh the flake tray with both sets of initials against the figure, and confirm in writing what the pillar is supporting: nothing.
 2. **Clash:** Ten turns, Viderehan and Ferrehan only, and the rota is part of the method rather than an administrative arrangement around it. Watch changes at the stated interval whether or not the cycle is going well, and the outgoing worker leaves the area rather than staying to see it through.
-3. **Resolution:** The watch closes in containment, management or retreat, or on the file's own suppression condition: **Rotate labor and acknowledge shared responsibility**. The clause is rare in this wing for being entirely reachable: the rota holds, the responsibility is said aloud, and nobody on this ground carries alone.
+3. **Resolution:** The watch closes in containment, management or retreat, or on the pillar's own suppression condition: **Rotate labor and acknowledge shared responsibility**. The clause is rare in this wing for being entirely reachable: the rota holds, the responsibility is said aloud, and nobody on this ground carries alone.
 
 ### Consequences
 
