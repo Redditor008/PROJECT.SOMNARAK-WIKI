@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 34 / unit 3 — Aphasia `O-Iα-720` closed (2026-10-07)** — measured at `f81c7fe`: **3 dirty sections**, worst
+  Final Observation 0.173 (the choice blockquote, the choose row and the result row), then Behavior 0.055 (the 12-gram
+  Work-Type paragraph, rebuilt in the file's own terms) and Flavor Text 0.053 (the 32-gram relations preamble at 12
+  shared grams, the relations header and the at-first-contact line's `becomes a texture you can map` stock sentence).
+  **Closed in a single wave** (23 sites); 6,900 → **7,078 words**; `tpl.py` residue 0; `sectfile.py` ends at
+  **0 section(s) over 0.05**; `wikistd.py` meets **True** with series and condition held; the condition was re-registered
+  inside the rewritten resolution line. Both residuals cleared: the Entry 1 `is logged as ` line (now `is entered on the
+  register as`) and the `becomes a texture you can map` sentence — residual **2 → 0**. Three clipped field-use cells
+  (`arrivin.` twice) were rebuilt whole-line. Movement at the unit commit: `R-29` 211 / 301; section-clean 236 / 301;
+  residue-free 302 / 302; residue lines 0; archive dirty 122; file-clean 302 / 302. **Batch 34 stands at
+  three of five.**
+
+
+
 - **Batch 34 / unit 2 — Atlas `O-Iα-169` closed (2026-10-07)** — measured at `8c8a93b`: **3 dirty sections**, worst
   Final Observation 0.189 (the choice blockquote, the choose row and the result row), then Flavor Text 0.092 (the
   32-gram relations preamble at 15 shared grams, the 8-gram interaction procedure, the relations header and the

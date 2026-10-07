@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 34, unit 3: Aphasia `O-Iα-720` closed.** Measured at `f81c7fe`: **3 dirty sections**, worst Final Observation
+0.173, then Behavior 0.055 and Flavor Text 0.053 — **closed in a single wave** (23 sites); 6,900 → **7,078 words**;
+`tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, series and condition held;
+condition re-registered in the resolution line. Disclosed: both residuals cleared — the Entry 1 `is logged as ` line
+(`is entered on the register as`) and the `becomes a texture you can map` stock sentence, residual **2 → 0**; three
+clipped field-use cells rebuilt. Movement: `R-29` 211 / 301; section-clean 236 / 301; residue-free 302 / 302;
+archive dirty 122; file-clean 302 / 302. **Batch 34 stands at three of five.**
+
 **Batch 34, unit 2: Atlas `O-Iα-169` closed.** Measured at `8c8a93b`: **3 dirty sections**, worst Final Observation
 0.189, then Flavor Text 0.092 and Operational Parameters 0.066 — **closed in two passes** (25 sites); the first left
 Operational Parameters at 0.058 (the extraction note's opening still carried the archive-shared run), and the second
@@ -2334,6 +2342,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 34 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-Iα-720 Aphasia 녹아내린 속삭임 — `__HASH__` — PUSH VERIFIED — [[SE-O-Iα-720_Aphasia_녹아내린_속삭임]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-720_Aphasia_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-O-Iα-720_Aphasia_녹아내린_속삭임.md")
 
 - SE-O-Iα-169 Atlas 녹슨 기둥 — `cb88158` — PUSH VERIFIED — [[SE-O-Iα-169_Atlas_녹슨_기둥]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-169_Atlas_%EB%85%B9%EC%8A%A8_%EA%B8%B0%EB%91%A5.md "SE-O-Iα-169_Atlas_녹슨_기둥.md")
 
