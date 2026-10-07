@@ -8,6 +8,36 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 50 closed at ten (2026-10-07) — personalization phase, third per-10 batch, owner-directed** — the queue was re-measured at the open
+  (**67 / 301** need it: heavy **0** · moderate **18** · light **49** · fine **234**) and the ten worst files each had their shared phrasing re-authored
+  **in place** in their own terms, worst-first, one push per unit (`A0`). Movement: queue **67 → 49 / 301**; moderate **18 → 5**; light **49 → 44**;
+  fine **234 → 252**. Words across the ten **75,085 → 75,421 (+336)**; two files ran net-negative after their long paragraphs were condensed and were
+  topped up in their own voice (`0b32090`, **+31 / +29 words**), nothing deleted (`R-15`). Distinct wing shingles 719,252 → **721,578**.
+
+  **Method change — the batch probe ran before every push.** Each unit's replacement text was checked against the batch's own files with the new
+  `precheck`/`bfam2` step *before* the commit; it caught **28 fresh echoes** that were re-authored on the spot, and after the units **18 repair commits**
+  (`9b505a4` · `44f76f2` · `a694016` · `6cc2d2e` · `6ef75de` · `59d0376` · `b9b9e41` · `cc58fbe` · `bde0a7c` · `baf83d0` · `c4a2485` · `c82aceb` · `bcd735e` ·
+  `a7825ea` · `f68d131` · `330b247` · `4529424` · `0b32090`) dissolved everything this batch had itself introduced: at close, shared grams carried by
+  ≥ 2 batch files: **24 / 301**, **every one pre-existing** wing furniture or original boilerplate — **0** left introduced by Batch 50.
+
+  **Disclosures:** **rollback #54** recovered at the open — the checkout sat on a stale base (`408797c`) and `git add -A` swept the b49 tree into unit 1's
+  commit; `reset --mixed` to the remote tip and a clean re-commit (`3c49884`), no content lost, nothing force-pushed · unit 3's anchors and unit 5's JSON
+  needed apostrophe/marker corrections, handled in place.
+
+- **Batch 50 / unit 10 — Dead Air `N-IIIγ-929` (2026-10-07)** — generic mass 7.5% → **2.2%** (32 of 1,481); 4,777 → 4,785 words.  **Batch 50 stands at 10 of ten.**
+- **Batch 50 / unit 9 — Forgotten Name `N-IIα-215` (2026-10-07)** — generic mass 7.5% → **3.1%** (100 of 3,224); 8,495 → 8,500 words — plus the growth top-up (`0b32090`).  **Batch 50 stands at 9 of ten.**
+- **Batch 50 / unit 8 — Fading Fruit `N-IIβ-456` (2026-10-07)** — generic mass 7.5% → **0.9%** (28 of 3,189); 8,336 → 8,337 words — plus the growth top-up (`0b32090`).  **Batch 50 stands at 8 of ten.**
+- **Batch 50 / unit 7 — Nemo `N-IIIγ-589` (2026-10-07)** — generic mass 7.6% → **1.5%** (36 of 2,414); 6,850 → 6,930 words.  **Batch 50 stands at 7 of ten.**
+- **Batch 50 / unit 6 — The Vanished Rope `C-Iα-723` (2026-10-07)** — generic mass 7.7% → **1.2%** (20 of 1,709); 6,494 → 6,509 words.  **Batch 50 stands at 6 of ten.**
+- **Batch 50 / unit 5 — The Smothering Mother `N-IVδ-005` (2026-10-07)** — generic mass 7.8% → **0.8%** (27 of 3,397); 8,126 → 8,178 words.  **Batch 50 stands at 5 of ten.**
+- **Batch 50 / unit 4 — Aphasia `O-Iα-720` (2026-10-07)** — generic mass 7.8% → **1.1%** (26 of 2,313); 7,206 → 7,232 words.  **Batch 50 stands at 4 of ten.**
+- **Batch 50 / unit 3 — Yggdrasil Wound `O-Iα-973` (2026-10-07)** — generic mass 7.9% → **0.6%** (16 of 2,572); 8,061 → 8,074 words.  **Batch 50 stands at 3 of ten.**
+- **Batch 50 / unit 2 — The Memory Weaver `C-IVγ-009` (2026-10-07)** — generic mass 8.0% → **0.6%** (22 of 3,428); 8,513 → 8,545 words.  **Batch 50 stands at 2 of ten.**
+- **Batch 50 / unit 1 — The Observing Bird `C-IIIγ-031` (2026-10-07)** — generic mass 8.1% → **0.9%** (30 of 3,173); 8,227 → 8,331 words.  **Batch 50 stands at 1 of ten.**
+- **Batch 50 / repair wave (2026-10-07)** — 18 commits, one concern each: the fresh echoes caught pre-push (clash frames, opener scaffolds,
+  relations tails, the armoury note, the credit-board objection, the containment-discipline template), then the FE/FN sibling pair re-scaffolded line by
+  line, and the two growth top-ups. **Batch 50's own introduced duplication at close: 0 grams.**
+
 - **Batch 49 closed at ten (2026-10-07) — personalization phase, second per-10 batch, owner-directed** — the generic-mass queue was re-measured at the
   open (**89 / 301** need it) and the ten worst files each had their shared phrasing re-authored **in place** in their own terms, worst-first, one push per
   unit (`A0`). Movement: queue **89 → 67 / 301**; heavy (≥ 10%) **1 → 0 / 301**; moderate **30 → 18**; light **58 → 49**; fine **212 → 234**. Words across

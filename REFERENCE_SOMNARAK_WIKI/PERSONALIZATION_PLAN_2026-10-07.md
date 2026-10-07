@@ -212,3 +212,33 @@ top-up (`6b38005`) after the repair wave left it 20 words under its opening coun
 Yggdrasil Wound `O-Iα-973` (7.9%) · Aphasia `O-Iα-720` (7.8%) · The Smothering Mother `N-IVδ-005` (7.8%) · The Vanished Rope `C-Iα-723` (7.7%) ·
 Nemo `N-IIIγ-589` (7.6%) · Fading Fruit `N-IIβ-456` (7.5%) · Forgotten Name `N-IIα-215` (7.5%) · Dead Air `N-IIIγ-929` (7.5%) — ten files, seven
 batches of ten remain in the queue.
+
+## Results — Batch 50 (closed 2026-10-07)
+
+The third per-10 batch ran to ten on the re-ranked head, one push per unit (`A0`), with the batch-family probe applied **before each push** — the method
+correction Batch 47 wrote down and Batch 49 applied only after the fact. The probe paid for itself: 28 fresh echoes were caught and re-authored mid-unit.
+
+| # | Dossier | Code | Generic mass (open → final) | Words (before → after) |
+|---|---|---|---|---|
+| 1 | [[SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-031_The_Observing_Bird_%EC%A7%80%EC%BC%9C%EB%B3%B4%EB%8A%94_%EC%83%88.md "SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md")] | `C-IIIγ-031` | 8.1% → **0.9%** | 8,227 → 8,331 |
+| 2 | [[SE-C-IVγ-009_The_Memory_Weaver_기억의_직공](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-009_The_Memory_Weaver_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%A7%81%EA%B3%B5.md "SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md")] | `C-IVγ-009` | 8.0% → **0.6%** | 8,513 → 8,545 |
+| 3 | [[SE-O-Iα-973_Yggdrasil_Wound_찢어진_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-973_Yggdrasil_Wound_%EC%B0%A2%EC%96%B4%EC%A7%84_%EB%82%98%EB%AC%B4.md "SE-O-Iα-973_Yggdrasil_Wound_찢어진_나무.md")] | `O-Iα-973` | 7.9% → **0.6%** | 8,061 → 8,074 |
+| 4 | [[SE-O-Iα-720_Aphasia_녹아내린_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-720_Aphasia_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-O-Iα-720_Aphasia_녹아내린_속삭임.md")] | `O-Iα-720` | 7.8% → **1.1%** | 7,206 → 7,232 |
+| 5 | [[SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-005_The_Smothering_Mother_%EC%A7%88%EC%8B%9D%ED%95%98%EB%8A%94_%EC%96%B4%EB%A8%B8%EB%8B%88.md "SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md")] | `N-IVδ-005` | 7.8% → **0.8%** | 8,126 → 8,178 |
+| 6 | [[SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-723_The_Vanished_Rope_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B0%A7%EC%A4%84.md "SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md")] | `C-Iα-723` | 7.7% → **1.2%** | 6,494 → 6,509 |
+| 7 | [[SE-N-IIIγ-589_Nemo_돌아온_영혼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-589_Nemo_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%98%81%ED%98%BC.md "SE-N-IIIγ-589_Nemo_돌아온_영혼.md")] | `N-IIIγ-589` | 7.6% → **1.5%** | 6,850 → 6,930 |
+| 8 | [[SE-N-IIβ-456_Fading_Fruit_번져가는_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-456_Fading_Fruit_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md")] | `N-IIβ-456` | 7.5% → **0.9%** | 8,336 → 8,337 |
+| 9 | [[SE-N-IIα-215_Forgotten_Name_잊혀진_이름](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B1-215_Forgotten_Name_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%B4%EB%A6%84.md "SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md")] | `N-IIα-215` | 7.5% → **3.1%** | 8,495 → 8,500 |
+| 10 | [[SE-N-IIIγ-929_Dead_Air_유령의_압력](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md "SE-N-IIIγ-929_Dead_Air_유령의_압력.md")] | `N-IIIγ-929` | 7.5% → **2.2%** | 4,777 → 4,785 |
+
+**Movement:** queue **67 → 49 / 301** need it; heavy (≥ 10%) **0 / 301**; moderate (7–10%) **18 → 5**; light (5–7%) **49 → 44**; fine (< 5%) **234 → 252**.
+Distinct wing shingles **719,252 → 721,578**. Words **75,085 → 75,421 (+336)**; nothing deleted (`R-15`), two condensed files topped up in their own voice.
+
+**What the batch learned.** The pre-push probe works, and it changes the unit method: a replacement line is not finished when it reads in the file's own
+voice — it is finished when it does not echo any sibling already pushed this batch. The residual 24 shared grams are all pre-existing furniture
+(the archivist's-note frames, the containment-discipline template, the Warden's-log line, original Work-Type recitations); they belong to other files'
+batches, not to this one. Batch 51 should keep the probe step and, where a replacement opens with the same scaffold as the previous unit's, vary the
+scaffold and not only the nouns.
+
+**Batch 51 — re-ranked head (post-batch census, worst-first):** The Smothering Mother `N-IVδ-005` (7.4%) and The Vanished Rope `C-Iα-723` (7.4%) lead a
+moderate tier of 5 / 301; the light tier (5–7%) holds 44 / 301 — five more batches of ten remain in the queue.
