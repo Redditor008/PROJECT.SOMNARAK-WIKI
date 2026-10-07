@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-A flat gauge is not a safe watch, and this holding reads flat most of the year. The Work Types are cross-checked against the breach threshold and the M.A.W. cost before anybody is assigned: Harvest Beyond the Gate is an Object/Place with a Place-Grudge manifestation and Grudge elemental expression, held in Zone E near the Exile's Gate. Each fruit carries a desire somebody had already put down, and it turns to liquid when touched — which is the whole warning in this file, and the reason the condition is what it is. Nothing here transfers to another holding with a harvest in its name, and observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
+A flat gauge is not a safe watch, and this holding reads flat most of the year. Before anybody is put on the roster the Work Types are weighed against the breach threshold and the M.A.W. cost: an Object/Place holding with a Place-Grudge manifestation, elemental expression Grudge, standing in Zone E by the Exile's Gate. Every fruit on the rows holds a wish somebody had already set down, and one touch turns it to liquid — which is the whole of the warning here, and the reason the condition reads the way it does. No line in this file carries over to another holding with a harvest in its name, and observation can leave the gauge untouched while still costing the worker memory, environment or identity.
 
 **Reading the response:** When the gauge drops, the surface pressure lessens and the deep structure of the grief is untouched — stabilisation and not healing. When the gauge climbs, the approach has struck the nerve of the origin: pull back and reassess before the work feeds the sorrow the orchard was made of. The rows are read in the same light: a fruit that has not been touched is the holding in its ordinary state, and the record on this file is counted by what was left alone.
 ## Expansion Behavior
@@ -160,7 +160,7 @@ A flat gauge is not a safe watch, and this holding reads flat most of the year. 
 
 ### Escalation Notes
 
-No two escalations at the gate look alike. The watch writes four things and only four: what started it, the first shift in the Place-Grudge form, how far the effect carries, and where the carrying stops. Grudge is the register and Zone E is the address, so the instruments will not tell the story alone — changes in a worker's feeling and behaviour go on the same page as the readings.
+No two widenings at the gate take the same shape. The watch sets down four things and stops at four: the trigger, the first movement in the Place-Grudge form, the distance the effect reaches, and the point where reaching ends. Grudge is the expression and Zone E the ground, so dials alone will not account for a widening — what a worker feels and how a worker behaves are written beside the numbers.
 
 **Response sequence:** pace the frontage against the last mark before anything else, keep the path open on the city side, move nobody off the ground who is standing on it voluntarily, and say nothing to any arrival about return.
 
@@ -320,7 +320,7 @@ The Gate is behind you and the fruit hangs on a tree that has no business growin
 
 ### Interaction Pattern
 
-On the shelf beside it stand the 3 records this file has been read with — The Exile's Gate, The Returning Fruit and The Forgotten Shadow. None of the three is friend or enemy; each was filed as a resonance candidate and kept at that. When a group run happens the watch reports a separate line per post — what changed in the rows, the pool, the reading, the gauge or the containment, or that nothing changed — and the note under it says a grouping rests on a resemblance and never on a measurement.
+Three records stand near this one on the shelf — The Exile's Gate, The Returning Fruit and The Forgotten Shadow — and none of them is entered here as friend or foe; they were set beside it because something looked alike, and the file stops there. A run held across two of these holdings is logged one post at a time — the rows, the pool, the reading, the gauge, the containment line, each written down either as changed or as unchanged — and the heading over those entries says plainly that a family resemblance is grounds for trying a set and never a result of having tried one.
 
 **Interaction method:** Frontage paced before and after by the same Warden with the same chain, both fruit counts kept hourly through the pairing, and the departure path left open throughout.
 

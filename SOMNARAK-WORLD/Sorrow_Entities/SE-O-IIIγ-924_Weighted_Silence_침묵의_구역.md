@@ -38,7 +38,7 @@
 
 ### Operational Notes
 
-- A completed cycle takes the immediate pressure down and nothing more: the circle is not transformed, not weakened, and not made smaller by any session on record.
+- A cycle that finishes lowers the reading and nothing besides: on the record so far, no session has changed the circle, weakened it, or drawn it in by any distance.
 - The file holds exactly one escalation: the survey skipped in Y4247, and the markers read the same on the day the series resumed. Nothing here has ever moved the gauge except the length of time the edge went unmeasured.
 - Han-Energy comes out of the sighting hours and is entered against the exposure the boundary watch took to earn them.
 - Extraction happens at the line, with the piece drawn outward across it. Twice a piece went the other way: nothing was destroyed and nothing was recovered — the slate inventory taken ninety seconds later simply had one fewer entry.
@@ -85,9 +85,9 @@
 
 ### Battle Phases
 
-1. **Tension:** The edge is walked first — abrupt, not graded, and the one test every account reports before any other: with a single foot across, a person hears their own voice arrive at one ear and nowhere else. The designation is checked against the table, the sighting positions are set, and the cycle opens.
+1. **Tension:** The edge is walked before anything else — it is abrupt, with no gradation, and every account reports the same first test: one foot across, and a person's own voice arrives at one ear and not the other. The table settles the designation, the sighting positions are taken, and only then does the cycle open.
 2. **Clash:** The watch runs its two valid approaches with the set drawn only at the line, while the circle does nothing it has not done for seventeen years.
-3. **Resolution:** The party steps back across the line, counts heads, and sets the slates side by side. Nothing follows them out and the circle has never been seen to shrink; a sitting ends because the team calls it ended — the sentence that appears most often in the responders’ own returns. It closes against the documented suppression condition: **sight the edge from the markers and never send a body past them for a reading**.
+3. **Resolution:** The party comes back over the line, counts heads, and lays the slates side by side. Nothing comes out behind them, and the circle has never once been seen to shrink; a sitting ends because the team says it has ended — the line that shows up most often in the responders' own returns. The file closes on the documented suppression condition: **sight the edge from the markers and never send a body past them for a reading**.
 
 ### Consequences
 
@@ -268,7 +268,7 @@ Every piece of this set comes off the markers, not the entity: the Edge from a s
 
 ## 감각 묘사 (Flavor Text)
 
-Once a watch, the void and its register meet for a single held breath, and in that breath the circle is understood rather than measured — not what it does, but what it is. Fifty metres of the Desolate with no sound in them: not muted, not dampened, absent. Those who have been inside say the quiet carries weight and direction. Then the breath ends, and what is left is the edge, the slates, and a watch that has been standing outside for its full hour.
+Once in a watch, the void and its record meet for one held breath, and in that moment the circle is known rather than surveyed — its nature, not its behaviour. Fifty metres of the Desolate with no sound in them at all: not hushed, not softened, simply gone. Those who have stood inside say the silence has weight to it and a direction. The breath passes, and what remains is the edge, the slates, and a watch that has spent its hour outside the line.
 
 **At first contact:** Your own footsteps stop before you do. Most personnel turn around to look at the ground.
 
@@ -322,7 +322,7 @@ Nothing here rages and nothing weeps; the file has never needed a verb for what 
 
 **Containment & Handling Procedures:**
 - The containment is one thing, done yearly: sight the edge against the fixed markers and go home.
-- There is nothing in there to weep with and nothing to face. Across seventeen years, no form, no figure, and no voice has been reported — only the absence and the line that ends it.
+- Nothing inside can be wept with and nothing there can be faced. In seventeen years not one form, figure or voice has ever been reported out of it — only the absence, and the line where the absence stops.
 - Entry only under a boundary watch that keeps the clock outside, and every slate comes back out whether it was written on or not.
 
 **Cross-References:** Outside Sorrow (외한) · Void · Hazard-Void · Manifestation Classification
@@ -341,7 +341,7 @@ Inside the circle, sound does not exist — not reduced, not deadened, simply ab
 
 ### The Boundary
 
-The edge does not grade off; it stops. Its position is re-sighted every year against markers planted outside it, and the radius has never changed. The whole method is conducted from beyond the line — nothing in it requires a person to cross — and the file notes that this constraint is the reason the series has no gaps: a measurement that wants somebody inside is a measurement that gets skipped.
+The edge does not fade out; it stops. Every year its position is re-sighted against markers set outside it, and the radius has not moved. The whole procedure is worked from the safe side — no part of it asks anybody to cross — and the file records that this limit is why the series has no holes in it: a reading that needs a person inside is a reading that never gets taken.
 
 ### Try Again
 

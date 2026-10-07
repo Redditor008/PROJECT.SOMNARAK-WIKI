@@ -38,8 +38,8 @@
 
 ### Operational Notes
 
-- A completed cycle takes the immediate pressure down and does nothing more: the span is not dismantled, dried, or made smaller by any session.
-- A rising gauge, a failed cycle, or one ignored clause in the activation order can set off the behavior this file records under breach, activation, and expansion.
+- A finished cycle lowers the reading and does nothing past that: no session dismantles the span, dries it out, or makes it shorter by a metre.
+- A gauge on the climb, a cycle that fails, or a single clause of the activation order passed over is enough to begin what this file enters under breach, activation and expansion.
 - Han-Energy off this holding is booked against the exposure it took to earn; a bigger yield would mean specialised crews, longer recovery, or harder containment, and the file says so.
 - Extraction here is a risk event in its own right and is never booked as a bonus for a normal shift.
 
@@ -370,7 +370,7 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding �
 
 ### Heard Only by Some
 
-It sings in a voice that only reaches people who have crossed a boundary that broke behind them, which means most of the roster hears nothing and the watch leans on the few who do. Those Wardens are not asked to describe the song. They are asked to record that singing happened, and the file notes that this distinction was negotiated rather than imposed.
+Its song reaches only those who have crossed a boundary that closed behind them, so most of the roster stands in silence and the watch depends on the handful who do not. What is asked of those Wardens is a single fact — that singing occurred — and never a description of it, and the file says the bar was argued for rather than handed down.
 
 ### Rust and Dark Water
 

@@ -39,8 +39,8 @@
 
 ### Operational Notes
 
-- A completed cycle takes the immediate pressure down and does not change the wedge: a single-use construct is not made less single-use by being worked.
-- A rising gauge, a failed cycle, or one ignored clause in the deployment order can set off the behavior this file records under breach, activation, and expansion.
+- A finished cycle lowers the reading and changes nothing else about the wedge: a thing built to be spent once is not made reusable by being worked on.
+- Any of three things can start what this file enters under breach, activation and expansion: a gauge on the way up, a cycle that fails, or a single clause of the deployment order left unread.
 - The class exists for one bad hour: a single-use A-Relic goes into a catastrophic squad failure, and nothing about the deployment can be taken back.
 - The M.A.W. here is drawn from what a route leaves behind — the residue of a controlled termination, or the crystallized husk of an old working.
 
@@ -172,7 +172,7 @@ Ferrehan here is worked in heat-resistant leather and nothing else. Show the iro
 
 ### Escalation Notes
 
-No two escalations in this armory look alike. The watch writes four things and only four: what set it off, the first shift in the wedge's four-sided form, how far the heat carries, and where the resonance settles back to black iron. Grudge is the register and SECTOR-O-04 is the address, so the instruments will not tell the story alone — the changes in a handler's nerve are written on the same page as the temperatures.
+No two widenings in this armory have run the same course. Four things are entered, and nothing else: what set it going, the first change in the wedge's four-sided form, how far the heat reaches, and where the resonance settles back to black iron. Grudge is the expression and SECTOR-O-04 the address, so gauges alone will not carry the account — a handler's nerve and what it cost are entered beside the temperatures.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 

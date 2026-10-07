@@ -38,7 +38,7 @@
 
 ### Operational Notes
 
-- A completed hour takes the immediate pressure down and nothing more: the walk is not ended, shortened, or thinned by any count on record.
+- An hour that closes lowers the reading and does no more than that: no tally on record has ended a walk, shortened one, or thinned the walkers out.
 - Both valid approaches are ways of counting, worked from behind the marked line, and nobody has crossed that line in thirty-four occurrences.
 - Han-Energy comes off the two post-hours and is booked against the exposure those posts carry to earn it.
 - Extraction is done in the interval between hours, never during one and never inside the walked line. The line itself is surveyed and posted; the equipment record names the post number on every entry.
@@ -87,7 +87,7 @@
 
 1. **Tension:** The hour identifies itself — sixty minutes exactly, first walker to last, thirty-four times running, none shorter and none longer. The wing holds no more regular figure, and this posting is built on it. The approach is confirmed and the position is taken before anything else is attempted.
 2. **Clash:** The posts work their tallies with the set drawn only at the line, while the column does what it has done in every hour on record.
-3. **Resolution:** The hour ends at its sixtieth minute with the last walker gone and the border reopened; both posts hand in their tallies without conferring, and the difference is written down as a difference and left unresolved. It closes against the documented suppression condition: **Both posts hand in their tallies without conferring, and the difference is written down as a difference**.
+3. **Resolution:** The hour runs out at its sixtieth minute, the last walker is gone, and the border reopens; the two posts turn in their tallies uncompared, and any difference between them is entered as a difference and left standing. The sitting is filed on the documented suppression condition: **Both posts hand in their tallies without conferring, and the difference is written down as a difference**.
 
 ### Consequences
 
@@ -124,7 +124,7 @@
 
 ## Origin
 
-The first occurrence carries a date and the thing is older than the date. The border had been avoided at certain hours long before anybody wrote down why — grief thickening at the edge of the Desolate with no announcement — and the file says so at the front instead of letting a reader work it out from the gaps.
+The first record carries a date; the behaviour is older than the record. Hours along that border were being stepped around long before anybody wrote a reason down — the grief had been growing heavy at the Desolate's edge with nothing to mark it — and the file states this at the top rather than leaving a reader to infer it from the gaps.
 
 What walks is silent and exact: sixty minutes between first figure and last, thirty-four times the same, along a surveyed line the column holds whatever is standing in it. Four obstacles have been put in its path. It went through all four, and none of the four was moved.
 
@@ -300,7 +300,7 @@ Thirty-four hours, counted twice each, no contact, no injury, no interaction, an
 
 **Containment & Handling Procedures:**
 - Both posts stand, count independently, reconcile after the hour is over, and write the difference down.
-- There is nothing in the hour to weep with and nothing to confront. The walkers never stop, and the one thing this wing has never allowed itself is finding out what happens when somebody stands in the way of one.
+- The hour holds nobody who can be wept with and nothing that can be stood against. The walkers do not stop for anything, and no watch in this wing has ever permitted itself to learn what a person standing in a walker's path would meet.
 - The walked line is re-surveyed each cycle; a far-post figure rising against a steady near-post figure is treated as an extension of the line until something proves otherwise.
 
 **Cross-References:** Outside Sorrow (외한) · Lament · Time-Phantasmal · Manifestation Classification
