@@ -3094,6 +3094,10 @@ condition (Both posts hand in their tallies without conferring, and the differen
 condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; archive dirty @dirty@;
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
+**Batch 44, unit 8: Aphonia `N-IIβ-170` cleaned.** Copied `## Operational Parameters` rows replaced in place in its own terms,
+including the response line that had pointed a Subject at the Object/Place pair. 7,457 → **7,369 words**; residual 0; 0 sections
+over 0.05; copy-side whole instances **3 → 0**. **Batch 44 stands at eight of ten.**
+
 **Batch 44, unit 7: Memory Lock `C-IIIγ-300` cleaned.** Copied `## Operational Parameters` rows replaced in place in its own terms.
 7,653 → **7,567 words**; residual 0; 0 sections over 0.05; copy-side whole instances **3 → 0**. **Batch 44 stands at seven of
 ten.**
@@ -3125,6 +3129,8 @@ until the next touched-fruit tally is larger than the last. 7,270 → **7,299 wo
 
 **Batch 44 — OPEN at ten; clean phase (replace copied sections in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
+
+- SE-N-IIβ-170 Aphonia 침묵의 비명 — `c023363` — PUSH VERIFIED — [[SE-N-IIβ-170_Aphonia_침묵의_비명](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-170_Aphonia_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EB%B9%84%EB%AA%85.md "SE-N-IIβ-170_Aphonia_침묵의_비명.md")]
 
 - SE-C-IIIγ-300 Memory Lock 기억의 자물쇠 — `a703008` — PUSH VERIFIED — [[SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-300_Memory_Lock_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%9E%90%EB%AC%BC%EC%87%A0.md "SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md")]
 

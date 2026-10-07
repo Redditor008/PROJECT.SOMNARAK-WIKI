@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 44 / unit 8 — Aphonia `N-IIβ-170` cleaned (2026-10-07)** — the copied `## Operational Parameters` rows (including a
+  Recommended-response line that told a **Subject** to use the Object/Place pair) replaced **in place** in the file's own terms:
+  identity and voice, a working figure for the record, and the Work Types registered for a Subject. 7,457 → **7,369 words**;
+  residual 0; **0 sections over 0.05**; `tpl.py` 0; meets **True**; copy-side whole instances **3 → 0**. **Batch 44 stands at
+  eight of ten.**
+
 - **Batch 44 / unit 7 — Memory Lock `C-IIIγ-300` cleaned (2026-10-07)** — the copied `## Operational Parameters` rows (the
   Han-Energy line and the boilerplate Recommended-response line that carried the whole section against **3** dossiers) replaced
   **in place** in the file's own terms: a working figure for the lock itself and a response line about the key it keeps. 7,653 →
