@@ -88,7 +88,7 @@
 
 1. **Tension:** The marker is checked (the sensation of being leaned on by someone standing behind you, with a direction and an apparent weight, in a room containing nobody. Personnel name a mass without being asked to; the form has a column for it because they did it anyway) and Dead Air is confirmed against the designation; positions are taken and the cycle is opened.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dead Air's recorded combat actions.
-3. **Resolution:** The watch ends at the hour. The Warden hands over the form, the relief reads the barometer, and the pressure — both kinds — is where it was. No watch in the series has ever been ended early by the holding; four have been ended early by the Warden.
+3. **Resolution:** The watch ends at the hour. The Warden hands over the form, the relief reads the barometer, and the pressure — both kinds — is where it was. No watch in the series has ever been ended early by the holding; four have been ended early by the Warden. It closes against the documented suppression condition: **The Warden hands over the form, the relief reads the barometer**.
 
 ### Consequences
 
@@ -255,6 +255,20 @@ Contact is disorienting. The weight pressure is familiar — every agent in Somn
 
 **After departure:** The pressure does not follow. What follows is the number — the mass you wrote down — and the reason you chose it.
 
+## 상호작용 (Entity Interactions)
+
+The watch is six hours long and ends at the hour: the Warden hands over the form, the relief reads the barometer, and both kinds of pressure are where they were. The file has never had a second holding on the same watch. Everything below is paper work from the appendix that groups the 90x holdings by manifestation, read against each record's own series — three ways of keeping a record of a period in which nothing happens.
+
+**Interaction method:** Fix the watch's own numbers first: the 2,206 entries logged since Y4238, the bearings and estimated masses that are subjective and marked so, the 17 years without a single apparition. Then read the other record's series into the two columns, enter the first parting, its depth, its trigger, and whether either series moved. Re-verify at the next watch.
+
+| What the watch holds | How the pairing has run | What the relief entered | What the form keeps |
+|---|---|---|---|
+| **Miasma** `C-IVδ-922` | Filed together on an emptiness that has to be logged. That record holds the doors open and waits on the spotters' call; this one files a form whether or not anything happened, and nothing has happened for the whole of its record. | One review entry; the dwell series and the watch series parted at the first mark and were left apart. | That the parting stands as the entry, carried in the review's numbers un-smoothed. |
+| **Backward Hour** `C-IIIγ-913` | Grouped on a period that must be endured to its close. That record's cycle ends on the twelfth hour and always the twelfth; this one ends at the sixth, and both files end on the clock rather than on anything the holding does. | The clock series and the watch series were laid together once and agreed on nothing but their length. | That the two are filed for the shape of the interval, noted as a shape and not a link. |
+| **Never Discharged** `O-IIβ-911` | Grouped on a book that has to be signed before anybody leaves. That record completes a sheet after the second loop; here the form is completed at the handover, and neither file lets the watch end without the paperwork. | Nothing was run. The appendix flagged the two for the review and the review moved on. | That the pairing rests on a filing line, entered on each repetition as an arrangement and not a finding. |
+
+**Interaction procedure:** No co-presence is authorised on this watch. The comparison is made on paper at the watch's review, with the form and the barometer reading entered first and the other record's series set beside them unchanged; parting, depth, trigger and both readings go into the margin.
+
 ## 이야기 (Narratio) — The Tale
 
 The form came before the theory. Somebody in the first year decided that if Wardens were going to say *it felt like someone leaning on me*, they could at least say from which side and how heavily, and ruled two columns on a sheet of paper. Two thousand two hundred and six entries later those two columns are the holding’s entire dataset.
@@ -287,7 +301,7 @@ So it is kept as it is: a barometer, a chair, a printed sheet with two estimated
 
 **Containment & Handling Procedures:**
 - Keep the six-hour watch and file the form whether or not anything happened.
-- There is no one present to weep with and no one to confront. Seventeen years of watches have produced no figure to address.
+- There is no one present to weep with and no one to confront. 17 years of watches have produced no figure to address.
 - Read the barometer on the municipal station’s hours so the two series stay comparable, and brief every first-watch Warden that nothing will be seen.
 
 **Cross-References:** Inner Sorrow (내한) · Weight · Hazard-Spirit · Manifestation Classification
