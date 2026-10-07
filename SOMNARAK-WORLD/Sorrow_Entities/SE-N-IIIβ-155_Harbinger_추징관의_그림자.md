@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Establish the holding's position from the fixed mirrors and never by turning to face it: every attempt on record to look straight at it has found it behind the person who turned. The approach is confirmed and positions are taken before anything else is attempted.
+1. **Tension:** Fix its position in the fixed mirrors, never by turning to face it: on every attempt on record to look straight at it, the shadow was behind the person who turned. Confirm the approach and take the positions before anything else is tried.
 2. **Clash:** The crew works its Work Types and its kit while the holding answers along the line recorded in its combat table; how the gauge moves decides whether the watch escalates or closes.
-3. **Resolution:** The cycle closes when the debt has been reviewed and acknowledged in full and nothing has been forced anywhere. The file's condition is registered in the line itself — suppression condition: **review and acknowledge the debt; force cannot remove the Shadow** — the instruction that costs crews most, because every kinder improvisation in this file's history began from the wish to settle the matter faster.
+3. **Resolution:** The cycle closes once the debt has been reviewed and acknowledged in full and no force has been used anywhere. The file's condition is registered in the line itself — suppression condition: **review and acknowledge the debt; force cannot remove the Shadow** — the instruction crews pay for most, because every gentler improvisation in this file's history started from wanting the matter settled faster.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Resolve** and feeding the Sorrow Gauge.
-- The longer the exposure, the deeper the wound: Harbinger’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Harbinger’s event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow deepens where it already is and the zone becomes unworkable.
+- When resistance gives, the sorrow goes straight into the worker: **Resolve** is destroyed and the gauge is fed.
+- Stay exposed and the wound deepens: the sorrow gets past the protocol's terms and into the operative's cognition, and what it leaves — emotional, bodily, identitary — does not reverse.
+- The kit is never free: its toll on body, mind and recollection is written into the equipment records and collected on every swing.
+- A watch left unresolved fires the event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow settles deeper into ground it already holds until the Row cannot be worked.
 
 ## Appearance
 **Primary Form:** A human-shaped shadow that follows debtors without speaking. It is visible only from the corner of the eye or in reflected light.
@@ -222,7 +222,7 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 
 **Cost:** The bearer slows, and stops in doorways, and is late to things they were early for.
 
-*The charm is given, not issued, and only to a worker who has shown a subject their own distance series when asked. Four exist.*
+*The charm is given and never issued, and only to a worker who showed a subject their own distance series when asked. Four of them exist.*
 
 ### M.A.W. Use Notes
 
@@ -306,14 +306,14 @@ You feel cold between your shoulders. When you turn, there is nothing. When you 
 
 ### Interaction Pattern
 
-Three holdings are kept within reach of the Row — The Inherited Debt, The Debt Eater and The Debt Clock — and none of the three is an ally or an enemy of the shadow. For each pairing the watch enters whether the answer moved in sound, movement, temperature, memory pressure, gauge or containment stability, with the distance, duration and trigger beside whatever is left standing when the two are apart.
+Three holdings stand within reach of the Row — The Inherited Debt, The Debt Eater and The Debt Clock — and the shadow claims no alliance with any of the three. Every pairing is entered with what the answer moved — sound, movement, temperature, memory pressure, the gauge or the containment line — and distance, duration and trigger go beside whatever is still standing once the two are apart.
 
 **Interaction method:** The question is always the series: whether the distance closed faster, slower, or not at all while the other file was near, measured from the same mirrors by the same tape. Joint events on the Row are briefed on what separates the debt files, because a crew that has read the wrong one arrives looking for a balance.
 
 
 ### Entity Interaction Record
 
-Harbinger must be assessed against the other debt files and kept distinct from them. The Inherited Debt is a balance passed down; the Debt Eater removes balances; the Debt Clock counts a term. This one carries no balance, removes nothing and counts nothing: it is the interval between a decision being taken about a person and that person being told.
+This file is read beside the other debt records and kept apart from them. The Inherited Debt is a balance passed down; the Debt Eater removes balances; the Debt Clock counts a term. This one carries no balance, removes nothing and counts nothing: it is the interval between a decision being taken about a person and that person being told.
 
 | Holding within reach | How the two have crossed | What has changed in the readings | What the sheet requires |
 |---|---|---|---|
@@ -395,7 +395,7 @@ Nothing in the existing Record is disturbed. It still follows the balance and no
 
 What it costs is the decency of the silence. Not telling people is defensible and was defended, by people who had read two decades of exit interviews saying the waiting was the worst part. The Row's position is narrower: that the interval is there whether or not we mention it, that forty-one days is the mean and we have known it to the day since Year 4236, and that the only person in the building who cannot see the shape standing behind a man is the man.
 
-The operational consequence lies off the Row entirely. Nothing done at the mirrors has ever slowed a closure — not Ferrehan, not longer watches, not the two instrumented years. The only thing that has ever moved with it is the Standing Notice: every worker against whom an adverse decision is being considered is told, on the day the file is opened, in writing, what the matter concerns and when it is expected to conclude, and most of them will come to nothing. In Year 4237 that issued 3,114 notices, of which 2,402 ended in no action at all — two thousand four hundred and two people who spent a mean forty-one days in a dread they would otherwise never have known about. Seventy-seven resigned before any decision was taken, and twenty-nine of those would have been cleared; one of the twenty-nine took dockside work instead and was killed there eight weeks later. Eleven subjects destroyed records after being notified, and three were prosecuted for it. The file records those figures beside the distance series, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
+The consequence that matters lies off the Row. Nothing done at the mirrors has ever slowed a closure — not Ferrehan, not longer watches, not the two instrumented years. The one measure that has ever answered to it is the Standing Notice: every worker against whom an adverse decision is being considered is told, on the day the file is opened, in writing, what the matter concerns and when it is expected to conclude, and most of them will come to nothing. In Year 4237 that issued 3,114 notices, of which 2,402 ended in no action at all — two thousand four hundred and two people who spent a mean forty-one days in a dread they would otherwise never have known about. Seventy-seven resigned before any decision was taken, and twenty-nine of those would have been cleared; one of the twenty-nine took dockside work instead and was killed there eight weeks later. Eleven subjects destroyed records after being notified, and three were prosecuted for it. The file records those figures beside the distance series, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
 
 ### The Companion
 
