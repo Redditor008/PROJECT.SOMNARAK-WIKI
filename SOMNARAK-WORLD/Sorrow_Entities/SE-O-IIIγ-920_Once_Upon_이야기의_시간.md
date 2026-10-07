@@ -87,7 +87,7 @@
 
 1. **Tension:** The team takes the perimeter at one kilometre, confirms the register and a pencil, and agrees who will speak the tellers' names. Nobody enters the radius and nobody tells a story at any point before, during, or after.
 2. **Clash:** None available. The hour cannot be shortened, interrupted, or engaged, and the wing has asked twice for the row to be struck from the form.
-3. **Resolution:** The hour ends on its own. The gauge falls in proportion to how many tellers were named aloud — the one clean correlation in the file, holding across 94 hours — and the names come from the register, which is why the register is the holding's real containment.
+3. **Resolution:** The hour ends on its own. The gauge falls in proportion to how many tellers were named aloud — the one clean correlation in the file, holding across 94 hours — and the names come from the register, which is why the register is the holding's real containment. It closes against the documented suppression condition: **The gauge falls in proportion to how many tellers were named aloud**.
 
 ### Consequences
 
@@ -252,6 +252,20 @@ There is a moment — always the same, always brief — when the lament pressure
 **When the entity activates:** A voice says *once upon a time* from a room with nobody in it, and the street outside fills with people who are talking to each other about things that happened a long time ago.
 
 **After departure:** You tell somebody a story you had not thought of in years. Perimeter staff do it on the way home and the wing has recorded it for six years as an effect and not as a symptom.
+
+## 상호작용 (Entity Interactions)
+
+The hour is watched by a desk with a register beside it, and the file has never been run with another holding in the room. What follows is paper work from the appendix that groups the 90x holdings by manifestation, read against each record's own series. All three pairings turn on the same question — what the hour does with the names inside it — and the four files answer it differently.
+
+**Interaction method:** Fix the desk's own numbers first: tellers named aloud, the gauge fall that follows them, the 94 hours the correlation holds across. Only then lay the other record's series beside them and enter the first parting, its range, its trigger, and whether either series moved. Re-verify at the next hour.
+
+| What the hour names | How the pairing has run | What the desk entered | What the register holds |
+|---|---|---|---|
+| **Allhallow** `O-IIIγ-916` | Filed together on an hour with names in it. That record counts walkers by post and never asks who they were; this one will not move the gauge unless the names are spoken. | The two tallies and the naming series were set side by side once; nothing matched but the hour. | That the pairing is filed for the shape of the hour, entered beside the row on each reading. |
+| **Sky of Borrowed Faces** `O-IIIγ-926` | Grouped on surfaces that carry people who are not there. That record counts them by surface and never by face; this one counts them by name and never by anything else. | One review entry; the surface count and the naming series parted at the first mark and were left apart. | That the parting stands as the finding, kept in the review's own figures. |
+| **Once Told** `O-IVδ-930` | Grouped on narrative that outlives its teller. That record keeps an inventory of twenty manifestations, photographed, and adds nothing across a cycle; this one adds to the register every time a name is said. | Nothing was run. The appendix listed the pair and the review moved on. | That the claim is a filing arrangement, entered beside the row each time it is quoted. |
+
+**Interaction procedure:** Compare in the record only, at the hour's review, with the register re-read first and the other record's series laid beside it unchanged; enter parting, range, trigger, both readings and what persists, and leave the columns as they fell.
 
 ## 이야기 (Narratio) — The Tale
 
