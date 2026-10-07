@@ -1,6 +1,6 @@
 # Never Discharged — 영원한 환자
 
-> *"The weight is not punishment. It is recognition."*
+> *"The moment loops, and each time the scream arrives in your own throat."*
 
 ## SECC Classification
 
