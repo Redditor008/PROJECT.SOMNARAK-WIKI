@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 36, unit 2: Unwaking Block `N-IIIγ-908` closed.** Measured at `0287db5`: **1 dirty section**, Combat Record
+0.152 (53 shared grams) — **closed in a single wave**; 4,240 → **4,651 words**; `tpl.py` residue 0; `sectfile.py`
+**0 section(s) over 0.05**; `wikistd.py` meets **True**, residual clean on entry. Disclosed: the missing interactions
+parity section was written in the file's own terms (three read-beside holdings, mapping seasons, the plan office's
+cross-reading; unique column headings); the condition registered **False → True** in the rewritten resolution line;
+the generic escalation paragraph and yield row re-authored. Movement: `R-29` 221 / 301; section-clean 253 / 301;
+residue-free 302 / 302; archive dirty 89; file-clean 302 / 302. **Batch 36 stands at two of seven.**
+
 **Batch 36, unit 1: A Letter Never Sent `C-Iα-114` closed.** Measured at `4d21d73`: **1 dirty section**, Final
 Observation 0.154 — **closed in a single wave** (9 sites); 4,167 → **4,296 words**; `tpl.py` residue 0; `sectfile.py`
 **0 section(s) over 0.05**; `wikistd.py` meets **True**, residual clean on entry. Disclosed: the condition registered
@@ -2442,6 +2450,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 36 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIIγ-908 Unwaking Block 잠드는 구역 — `13c33b1` — PUSH VERIFIED — [[SE-N-IIIγ-908_Unwaking_Block_잠드는_구역]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-908_Unwaking_Block_%EC%9E%A0%EB%93%9C%EB%8A%94_%EA%B5%AC%EC%97%AD.md "SE-N-IIIγ-908_Unwaking_Block_잠드는_구역.md")
 
 - SE-C-Iα-114 A Letter Never Sent 부치지 못한 편지 — `0367186` — PUSH VERIFIED — [[SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-114_A_Letter_Never_Sent_%EB%B6%80%EC%B9%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%ED%8E%B8%EC%A7%80.md "SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md")
 

@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 36 / unit 2 — Unwaking Block `N-IIIγ-908` closed (2026-10-07)** — measured at `0287db5`: **1 dirty section**,
+  Combat Record 0.152 (53 shared grams: the four combat action rows, the tension and clash phases), with the generic
+  escalation paragraph and the yield row re-authored in the same wave. **Closed in a single wave**; 4,240 → **4,651
+  words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with a clean
+  residual (`RESIDUAL 0` on entry). Two clauses closed: the **interactions parity section** was missing and was written
+  in the file's own terms (its three read-beside holdings, the mapping seasons, the plan office's cross-reading; every
+  column heading unique to this file) — disclosed; and the condition registered **False → True** inside the rewritten
+  resolution line (**The caller outside keeps the time and the party leaves the room it is standing in**) — disclosed.
+  Movement at the unit commit: `R-29` 221 / 301; section-clean 253 / 301; residue-free 302 / 302; residue lines
+  0; archive dirty 89; file-clean 302 / 302. **Batch 36 stands at two of seven.**
+
+
+
 - **Batch 36 / unit 1 — A Letter Never Sent `C-Iα-114` closed (2026-10-07)** — measured at `4d21d73`: **1 dirty section**,
   Final Observation 0.154 (the choice blockquote, the choose row and the result row), with the 11-gram escalation paragraph
   in Activation Behavior re-authored in the same wave. **Closed in a single wave** (9 sites); 4,167 → **4,296 words**;
