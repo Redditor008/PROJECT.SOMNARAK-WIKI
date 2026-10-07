@@ -8,14 +8,14 @@
 |---|---|
 | **Designation** | `O-IVδ-190 [GS]` |
 | **Entity Type** | **Subject** — Can breach |
-| **Coherence** | Entity (IV) — Self-aware, cyclical, eternal |
-| **Potency** | Critical (δ) |
+| **Coherence** | Entity (IV) — Self-aware, and aware of the watching: the cycle it runs is the sign of it, and it has never once been recorded as surprised to find itself alive again. |
+| **Potency** | Critical (δ) — graded on the return rather than the kill; every rising it completes is logged as an event with a date. |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A core of dark crimson fire that is not fire: it beats like an exposed heart, organic and slow, ringed in charred metal and fused growth. Its heat feels like held anger. Its weight shifts when unobserved. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
-| **Location** | The Desolate — mobile |
+| **Physical Form** | Mixed — the shape it stands up in: dark crimson fire that is not fire, beating like an exposed heart, cased in charred metal and fused growth. Its heat reads as held anger, and it weighs a different amount each time it is set on a scale. |
+| **Movement** | Mobile — wings while it is whole, a walk once the fire has settled, and a crawl out of its own ash; the crawl is the leg of the cycle the observers clock. |
+| **Location** | The Desolate — it keeps no territory and does not stay where it fell; the next report is wherever it stands up. |
 | **R.D. Comprehension Level** | 2 — Basic |
 
 ## Operational Parameters
@@ -65,7 +65,7 @@
 |---|---|
 | **Battle Length** | Long — 24 turns |
 | **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) — Self-aware, cyclical, eternal |
+| **Coherence** | Entity (IV) — for contact purposes the cycle is the reading: the return is timed from the first ash, and nothing about it can be hurried by the field. |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
