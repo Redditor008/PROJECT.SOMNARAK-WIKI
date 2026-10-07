@@ -88,7 +88,7 @@
 
 1. **Tension:** The Warden on the door counts the chairs against the seating plan before anyone enters, confirms the figure count at forty-one, and fixes the worker's own seat in the outer ring where the closing order reaches it last. Weight pressure is read from the floor gauge at the threshold, not from inside the circle, because the reading inside the circle has never agreed with the one outside it.
 2. **Clash:** There is no clash in the ordinary sense. The worker sits the interval and the conversation proceeds around them; the whole of the engagement consists of not answering, not standing, and not crossing the ring while a seat is open. The only actions available to the team are the two logged by the Watch — attend, or withdraw before the third exchange.
-3. **Resolution:** The last figure rises and the hall returns to being a building. There is nothing to suppress and nothing to escort out; the team records the closing order, confirms the seats against the plan, and locks the door from the outside as the district requires.
+3. **Resolution:** The last figure rises and the hall returns to being a building. There is nothing to suppress and nothing to escort out; the team records the closing order, confirms the seats against the plan, and locks the door from the outside as the district requires. It closes against the documented suppression condition: **The last figure rises and the hall returns to being a building**.
 
 ### Consequences
 
@@ -254,6 +254,21 @@ You feel it before you see it. The spirit register is not visual — it is atmos
 **When the seating widens:** Chairs appear in the corridor between one evening and the next, unremarkable and already worn. The corridor is the only place the hall has ever reached, and it has reached it exactly once.
 
 **After departure:** The weight goes with the door. What stays is procedural: attendees check their own meetings afterwards for a chair nobody is using.
+
+## 상호작용 (Entity Interactions)
+
+The hall has not been worked with any other holding present, and the closing order has never been tested in company. The rows below come from the appendix that groups the 90x holdings by manifestation, read against each file's own series; every one is paper work, and no co-presence trial is proposed.
+
+**Interaction method:** Establish the hall's own figures first — the seat count against the plan, the rising order, the closing hour — alone across a full cycle before any comparison is entered. Then read the other record's series against them, entering the first divergence, its range, its trigger, and whether either series changed in the reading. Re-verify each quarter.
+
+| What the hall keeps | How the pairing has run | What the sector entered | What the record holds |
+|---|---|---|---|
+| **Allhallow** `O-IIIγ-916` | Filed together on the returning dead. That record keeps them for one night and lets them go; this one seats a whole line of ancestors and holds them until the last figure has risen. | The two return windows were compared across 2 quarters and did not overlap once. | That the pair is filed on the shape of the return, with the non-overlap entered beside it as the finding. |
+| **Passing Bell** `N-IIβ-919` | Grouped on the ancestors' own hour. That record ends mid-sentence at the bell; the hall here runs to its closing order, which is a sequence rather than a clock. | No trial. Cross-flagged in the manifestation appendix and left there. | That the pairing rests on a classification line with no measurement under it, entered on each repetition. |
+| **Amnesia** `O-IIβ-914` | Grouped on what the sector's mourning does to a place. That record loses what was known; this one keeps what the living city would rather set down. | One review entry; the seat count and the record's own series diverged from the first mark. | That the divergence stands as the finding, kept unsmoothed in the review's figures. |
+
+**Interaction procedure:** Observe separately, always, and enter distance, duration, the trigger, both readings and whatever outlasts separation. The hall is compared on paper at the annual review only; the seat count and the other record's series never share a column.
+
 
 ## 이야기 (Narratio) — The Tale
 
