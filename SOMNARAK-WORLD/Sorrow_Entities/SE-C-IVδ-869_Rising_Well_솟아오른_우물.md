@@ -364,7 +364,7 @@ Some sorrows are about the original wound. Rising Well is about the inheritance 
 
 ### Registry Addendum
 
-**Operational interpretation:** Something was buried, nineteen people undertook never to discuss it, and the shaft has been coming up for nine years. The documents establish the burial and explain nothing; three inquiries have closed without findings. The gauge falls when the cycle record admits the cause is not established and rises every time somebody supplies one, which nineteen workers have done in good faith. The containment measure here is a blank line in a register and a prohibition on filling it in.
+**Operational interpretation:** Something was buried, nineteen people undertook never to discuss it, and the shaft has been coming up for 9 years. The documents establish the burial and explain nothing; three inquiries have closed without findings. The gauge falls when the cycle record admits the cause is not established and rises every time somebody supplies one, which nineteen workers have done in good faith. The containment measure here is a blank line in a register and a prohibition on filling it in.
 
 **Review requirement:** After every cycle: shaft height at the fixed mark, the song's duration, the restraint authority named and initialled, and the cause-line as written. One standing item — any new inquiry into the burial is reported to this station before it opens, because both recorded ascents followed an inquiry closing.
 ## Apex Record
@@ -444,11 +444,11 @@ The file's last word on the arrangement is not a justification. It is a procedur
 
 ### Registry Trivia
 
-- **Classification detail:** Entity (IV) coherence at Critical (δ) — one burial, nineteen undertakings, and a shaft that has risen eleven metres out of ground it was sunk into.
+- **Classification detail:** Entity (IV) coherence at Critical (δ) — 1 burial, 19 undertakings, and a shaft that has risen 11 metres out of ground it was sunk into.
 - **Field detail:** Grudge, mobile in the Desolate in the sense that the ground around it changes and the shaft does not; located each season by the song.
 - **Recognition detail:** Identify it by the song and by a grievance that arrives with reasons already attached; never by anything an observer can see, because there is nothing.
 - **Record detail:** Read this file beside the Memory Well's, which it is routinely confused with in correspondence, and beside the association's own register, which the wing does not hold and does not want.
-- **Containment detail:** There is no containment. There is a two-worker rule, a four-minute limit, a restraint authority named aloud, and a register line that has said *cause not established* for nine years.
+- **Containment detail:** There is no containment. There is a 2-worker rule, a 4-minute limit, a restraint authority named aloud, and a register line that has said *cause not established* for 9 years.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-869
