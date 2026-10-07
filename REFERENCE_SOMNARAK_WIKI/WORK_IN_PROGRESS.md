@@ -2713,6 +2713,14 @@ line-locally; `own_series` already True; the file's own figures restated in nume
 96 · 5 assessors · 11 watches · 5,212). Movement: `R-29` 242 / 301; section-clean 276 / 301; archive dirty 34;
 file-clean 302 / 302. **Batch 39 stands at one of seven.**
 
+**Batch 40, unit 10: Forgotten Name `N-IIα-215` closed.** Measured live at `40f3bd1`: **1 dirty section**, Final
+Observation — **closed in a single wave** (4 sites); 8,361 → **8,388 words**; `tpl.py` residue 0; `sectfile.py` **0
+section(s) over 0.05**; `wikistd.py` meets **True**, condition held, residual **1 → 0** cleared line-locally. Disclosed:
+this unit's rewrites took the last copies of the wing's closing-choices phrasing below `MIN_SHARE=10`, and the archive
+dirty count fell **10 → 3** in the same measurement (The Grieving Maiden's Registrum 0.051 · Apostle Maker's Final
+Observation 0.057 · Collapsed Seed's Final Observation 0.052). Movement: `R-29` 262 / 301; section-clean 298 / 301;
+archive dirty 3; file-clean 302 / 302. **Batch 40 stands at ten of ten.**
+
 **Batch 40, unit 9: Neglect Learned to Listen `N-IIβ-270` closed.** Measured live at `d30ab54`: **1 dirty section**, Final
 Observation — **closed in a single wave** (4 sites); 7,609 → **7,633 words**; `tpl.py` residue 0; `sectfile.py` **0
 section(s) over 0.05**; `wikistd.py` meets **True**, condition held, residual **1 → 0** cleared line-locally. Movement:
@@ -2777,6 +2785,8 @@ edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 3
 dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
 
 **Batch 40 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIα-215 Forgotten Name 잊혀진 이름 — `efb70d6` — PUSH VERIFIED — [[SE-N-IIα-215_Forgotten_Name_잊혀진_이름]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B1-215_Forgotten_Name_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%B4%EB%A6%84.md "SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md")
 
 - SE-N-IIβ-270 Neglect Learned to Listen 녹슨 속삭임 — `136021d` — PUSH VERIFIED — [[SE-N-IIβ-270_Neglect_Learned_to_Listen_녹슨_속삭임]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-270_Neglect_Learned_to_Listen_%EB%85%B9%EC%8A%A8_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIβ-270_Neglect_Learned_to_Listen_녹슨_속삭임.md")
 

@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 40 / unit 10 — Forgotten Name `N-IIα-215` closed (2026-10-07)** — measured live at `40f3bd1`: **1 dirty
+  section**, Final Observation (0.070 — the choice blockquote, the choose row and the result row), plus one residual
+  line. **Closed in a single wave** (4 sites); 8,361 → **8,388 words**; `tpl.py` residue 0; `sectfile.py` ends at **0
+  section(s) over 0.05**; `wikistd.py` meets **True**; condition held; the entry residual cleared line-locally
+  (`is logged as ` → `stands on the register as `), residual **1 → 0**; `own_series` already True. This unit's rewrites
+  took the last copies of the wing's closing-choices phrasing below the register's ten-file sharing threshold
+  (`MIN_SHARE=10`), and the archive dirty count fell **10 → 3** across the wing in the same measurement — the three
+  remaining sections are The Grieving Maiden's Registrum (0.051), Apostle Maker's Final Observation (0.057) and Collapsed
+  Seed's Final Observation (0.052). Movement at the unit commit: `R-29` 262 / 301; section-clean 298 / 301;
+  residue-free 302 / 302; residue lines 0; archive dirty 3; file-clean 302 / 302. **Batch 40 stands at
+  ten of ten.**
+
 - **Batch 40 / unit 9 — Neglect Learned to Listen `N-IIβ-270` closed (2026-10-07)** — measured live at `d30ab54`: **1 dirty
   section**, Final Observation (0.078 — the choice blockquote, the choose row and the result row), plus one residual
   line. **Closed in a single wave** (4 sites); 7,609 → **7,633 words**; `tpl.py` residue 0; `sectfile.py` ends at **0
