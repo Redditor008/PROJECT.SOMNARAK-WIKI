@@ -371,7 +371,7 @@ Stand-down counts are published as a single district figure each cycle, without 
 - One of the first catalogued **Hazard-Dream** entities in Somnarak.
 - Its dream descriptor makes it structurally unique among hazard entities.
 - The void pressure in the dream register feels different from standard void — more specific, more personal.
-- **17** years of unbroken series, **318** accounts taken, and not two of them agree on how far away the sound was.
+- **17** years of unbroken series, **318** accounts taken at a mean of **4** hours **11** minutes per waking, and not two accounts agree on how far away the sound was.
 
 ## Document Information
 
