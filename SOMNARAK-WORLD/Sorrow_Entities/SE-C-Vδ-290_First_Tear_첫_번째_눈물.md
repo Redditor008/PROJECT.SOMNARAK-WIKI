@@ -288,7 +288,7 @@ No piece of this set was cut from the Tear and no extraction from it has ever be
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-First Tear (C-Vδ-290 [LO]) is logged as a Object-Lament manifestation expressing Lament. The Tear is believed to be the first sorrow ever felt on Mugenhan. Held at SECTOR-A-01, Alpha Tree deep vault — sealed. The Tear is smaller than any other known entity.
+First Tear (C-Vδ-290 [LO]) is an Object-Lament manifestation expressing Lament — contained by nothing more than an unbroken column of nightly figures. The Tear is believed to be the first sorrow ever felt on Mugenhan. Held at SECTOR-A-01, Alpha Tree deep vault — sealed. The Tear is smaller than any other known entity.
 
 **Entry 2 — <Excerpt from Field Log, Year 4202>**
 Nightly glow values, 4202, against the standard lamp: 0.41 on three hundred and sixty-four nights and 0.41 on the three hundred and sixty-fifth. The field log of that year contains no other entry for this record, which is the usual case and is why the series is kept rather than summarised. A year of identical figures is not an absence of data. It is the only reason the eleven days of 4106 are visible at all.
