@@ -1,6 +1,6 @@
 # Dreaming Plague — 꿈의 전염병
 
-> *"Something here remembers what we chose to forget."*
+> *"I was nearer last night than the night before. The city you keep dreaming is mine, and the sky over it is still the wrong sky."*
 
 ## SECC Classification
 
