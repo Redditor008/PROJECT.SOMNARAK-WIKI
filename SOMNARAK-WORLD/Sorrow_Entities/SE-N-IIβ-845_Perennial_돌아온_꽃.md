@@ -295,7 +295,7 @@ The pieces carry the patch's own terms rather than the Armoury's, and the term i
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Perennial (N-IIβ-845 [WP]) is logged as a Place-Void manifestation expressing Weight. The Flower formed from a place that was repeatedly abandoned. Held at The Desolate — mobile. The flowers sing faintly during the Sorrow Tide.
+Perennial (N-IIβ-845 [WP]) is a Place-Void manifestation expressing Weight — a holding identified by its return to the same ground rather than by its form. The Flower formed from a place that was repeatedly abandoned. Held at The Desolate — mobile. The flowers sing faintly during the Sorrow Tide.
 
 **Entry 2 — <Soil Record, Desolate Settlement Site>**
 Core taken at the centre of the patch, to a depth of one and a half metres. Four occupation layers, each separated by a band of undisturbed deposition: hearth ash and post-holes, then nothing; hearth ash, floor stone and a drainage cut, then nothing; a thinner layer with no stone at all; and at the top, recent ash with no structures above it. The intervals between them are not equal and the last is the shortest. The core is held in the site file and is the only document in which all four settlements appear together.
