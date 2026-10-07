@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Clarity**, funneling cognitive instability back into the Sorrow Gauge.
-- Swallow’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Swallow's dossier.
+- A worker who cannot hold against the Shadow’s sorrow becomes a conduit for it: the pressure goes through their **Clarity** without stopping anywhere, and what it loosens comes back up the Sorrow Gauge as cognitive instability.
+- Duration is the whole of Swallow’s threat. What a brief cycle can be walked off becomes, across a long exposure, a dissolution of the emotional, the physical, the identity and the ground itself — and the edge of the shadow ends up further across the floor than it began.
+- Every M.A.W. activation takes its personal cut from the wielder: composure, private memory and bodily reserve, withdrawn in amounts no grade ledger keeps columns for.
+- Unresolved, none of this thins out. The sorrow turns back into its own zone and sets off the escalation entries Swallow’s dossier already carries.
 
 ## Appearance
 **Physical Form:** A spreading dark across floor and wall with nothing casting it, swallowing detail as it goes. **Optics:** it dims light rather than blocking it, and added output changes nothing but the cost.
@@ -160,9 +160,9 @@ Read the table above against what Swallow actually is: an Object/Place with Plac
 
 ### Escalation Notes
 
-The escalation pattern is specific to Swallow: it is not a generic containment event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at Zone A, Alpha Tree, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation reads differently from a stock containment event, and the watch logs it that way. Four readings, in this order: what set it off, the first change visible in the Place-Grudge form, the distance at which the effect takes hold, and the point where the spread ends of its own accord. Lament at Zone A, Alpha Tree does not behave the way a spirit reading would have it behave — the emotional and the behavioural readings are taken alongside the physical ones on the same sheet, and no single one of the three is permitted to stand for the pair.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a manifestation or an expansion, remove nonessential personnel, and apply this condition: Name the source of the grief and return emotional ownership. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** the perimeter goes up first, the event is read as a manifestation or as an expansion second, everyone not on the watch is moved out third, and then the file’s own condition is applied — name the source of the grief and hand the ownership of it back. Improvised countermeasures are refused here the way they are refused everywhere else in the wing: no unlisted Work Type is used as one.
 
 
 ### Detailed Activation Record
