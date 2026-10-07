@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 12–18 per successful work cycle, taken off the ward and never off the shadow |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Cleaver, the Shroud and the Echo are all graded to the holding. |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
+| **Resistance** | 25% against Lament pressure and 15% against everything else — resistance that matters less than the roster, which is where this holding is actually held |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Han Pressure [ATK]** | 10–23 per hit · Lament |
@@ -81,14 +81,14 @@
 | { *The Cost* [**Debuff**] } | "The healer's shadow falls on you — and where it touches, the price of every healing you ever received comes due." | [The Shadow's presence demands payment for past care.] | *Target suffers -10 Composure; they owe for every kindness.* **[10 Lament DMG [Lament]]** | When the Shadow falls on them. |
 | { *The Accumulated Debt* [**Debuff**] } | "Every wound the healer closed, every grief they soothed — the shadow remembers, and the bill is enormous." | [The Shadow's tally of healing-debt grows; the target is buried in gratitude they cannot repay.] | *Target loses 10 Composure; the debt of kindness is crushing.* **[10 Lament DMG [Lament]]** | When the target lingers in shadow. |
 | { *The Dark Hand* [**Attack**] } | "The healer's shadow reaches — and its touch is the opposite of healing: concentrated, surgical harm." | [A shadow-strike that undoes what healing built.] | *Inflicts Lament pressure and one wound of reversed care.* **[14-22 Lament DMG [Lament]]** | When the Shadow is provoked. |
-| { *The Full Reversal* [**Attack**] } | "Every healing the shadow's light ever performed — reversed, at once — every wound reopened." | [The Shadow's total reversal releases all stored healing-debt.] | *A heavy Deep Blue un-healing; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shadow is confronted. |
-| { *The Cost of Care* [**Ultimate**] } | "The healer's shadow extends over everyone — and the accumulated cost of all healing crushes the field." | [The Shadow spreads its debt across the whole area.] | *All in range suffer Lament pressure for three turns of healing's price.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Reversal* [**Attack**] } | "Every healing the shadow's light ever performed — reversed, at once — every wound reopened." | [Every healing the shadow's light has ever stood behind is undone at once, and the wounds come back with it.] | *A heavy Deep Blue un-healing; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shadow is confronted. |
+| { *The Cost of Care* [**Ultimate**] } | "The healer's shadow extends over everyone — and the accumulated cost of all healing crushes the field." | [The debt spreads past the shadow, and the whole field begins paying for care it never received.] | *All in range suffer Lament pressure for three turns of healing's price.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Kind Healer's Shadow by the warmth and the absence of a source; shape alone is not diagnostic, since the Commons is full of shadows and two other holdings in the wing are dark-formed, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** Identification runs on the warmth and the absence of any source for it; shape alone is not diagnostic, since the Commons is full of shadows and 2 other holdings in the wing are dark-formed. The designation is confirmed against the classification table, the approach is set, and the positions are taken before anything else is attempted.
 2. **Clash:** Four turns, worked in the open ward with the attended patient's consent recorded beforehand. The patient is never moved for the convenience of the cycle.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Accept its help and acknowledge the healer it carries**.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Accept its help and acknowledge the healer it carries**. The clause governs the watch: the help is taken as the ward gives it, the healer behind the shadow is named in the record, and nothing on this ground is closed by refusing either.
 
 ### Consequences
 
@@ -248,18 +248,18 @@ Each piece extends Kind Healer's Shadow rather than equipping its wielder agains
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Kind Healer's Shadow as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone D, Mantle Commons — ambient. |
+| **Initial exposure** | The observer places the holding from the warmth and from the fact that nothing casts it — shape is not diagnostic in a Commons full of shadows, with 2 other dark-formed holdings in the wing. Confirmed against the classification table before entry; Zone D, Mantle Commons — ambient. |
 | **Sustained observation** | The attended person by consent-coded reference, the distance held, arrival and departure, the gauge, and the ward's clinical notes recorded separately by staff who are not told what the attendance record says. |
 | **Activation or escalation** | Escalation is division. Any attempt to attend a second person, or any warmth recorded at an unattended bed, closes the session and raises the ward; the trigger is objective and the attendant applies it. |
-| **Post-contact review** | Gauge before and after, the worker's depletion log at one hour, the attended person's own account taken at discharge, and a fourteen-day check on the worker for flatness. |
+| **Post-contact review** | Gauge before and after, the worker's depletion log at 1 hour, the attended person's own account taken at discharge, and a 14-day check on the worker for flatness. |
 
-**Observation method:** Observe in the open ward, one cycle per person per shift, with the attendance and the clinical notes kept by different people. Record who was attended, for how long, and the condition that ended it. The form here is the sorrow and not a strategy: one healer, no apprentice, and the single part of the work that survives her is the part that required nothing but staying.
+**Observation method:** Observe in the open ward, 1 cycle per person per shift, with the attendance and the clinical notes kept by different people. Record who was attended, for how long, and the condition that ended it. The form here is the sorrow and not a strategy: one healer, no apprentice, and the single part of the work that survives her is the part that required nothing but staying.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Kind Healer's Shadow (N-IIβ-280 [LS]) is logged as a Subject-Phantasmal manifestation expressing Lament. The Shadow formed from compassion left behind by healers who died. Held at Zone D, Mantle Commons — ambient. It follows the most emotionally wounded person, not always the most visibly injured.
+Kind Healer's Shadow (N-IIβ-280 [LS]) stands on the register as a Subject-Phantasmal manifestation expressing Lament. The Shadow formed from compassion left behind by healers who died. Held at Zone D, Mantle Commons — ambient. It follows the most emotionally wounded person, not always the most visibly injured.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through the facility by following wounded personnel. Personnel feel ancient mourning while their wounds close. It becomes more active during breaches.
@@ -275,11 +275,11 @@ The shadow finds the wounded and settles beside them. It has no face, it is cast
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Kind Healer's Shadow; the other feeds it.
+> A watch on the shadow ends in one of two ways, and this file tells them apart by what the observer does with the help standing beside the bed: one takes it and puts the healer's name into the record, and the other turns it down to keep clean — decently, and to the holding's advantage.
 
-| Do the thing on file: Accept its help and acknowledge the healer it carries. | Do the obvious, decent thing instead, and feed Kind Healer's Shadow. |
+| Accept the help as the ward gives it, and acknowledge the healer the shadow carries, by name wherever the file has one. | Do the decent thing instead — refuse the help, work on without it, and feed Kind Healer's Shadow. |
 |---|---|
-| Moves closer and shares the burden. The sorrow is witnessed; Kind Healer's Shadow is fully recorded. | Retreats from aggression. The gauge climbs and Kind Healer's Shadow withdraws without revelation. |
+| The help is accepted and the healer named; the ward holds and the record closes complete. | The help is turned down, or the healer left unnamed; the gauge climbs and the record closes with the shadow no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -298,16 +298,16 @@ A shadow settles beside your injury. Warmth enters the wound, and the pain leave
 
 ### Interaction Pattern
 
-This holding is read against the other things in the wing that attend, absorb, or stand in for care. Each relation below has been observed and filed; none is settled; and all three were run in the open ward with a patient's consent on record.
+This holding is read against the other things in the wing that attend, absorb or stand in for care. Each relation below has been observed and filed; none of them is closed; and all three were run in the open ward with a patient's consent on record.
 
-**Interaction method:** Baseline each party alone across several cycles before any paired approach, with gauge, attendance and depletion logs kept throughout. Record the onset of any shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
+**Interaction method:** Take each party alone across several cycles before any paired approach, with gauge, attendance and depletion logs kept throughout. The onset of a shared change is entered with its range, duration and trigger, both gauges, and whatever remains once the parties are apart. Re-verify every cycle; nothing in this wing has yet passed between two holdings of this kind.
 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. All three were proposed on the theory that compassion might pass between holdings, and nothing has passed in either direction in any of them.
+The relations below count as points of contact rather than alliances, and none of them is closed. All three were raised on the theory that compassion might pass between holdings, and nothing has passed in either direction in any of them.
 
-| Related entity | Canonical interaction | Observed operational effect | Required record |
+| The shadow's neighbour | How the pairing has run | What the ward logged | What the entry carries |
 |---|---|---|---|
 | **The Kind Healer** | Reads as a possible future of this holding, and the two files are routinely cited together outside the wing. | Six co-presences, the most of any pairing here. Neither gauge has ever moved. The Healer's Care Record states the same result from its side and both files carry the cross-reference; a resemblance of origin has produced no measurable relation in six years. | All six co-presences, both flat series, and the reciprocal cross-reference. |
 | **The Hollow Saint** | Reaches for its compassion, which is the only pairing here the wing treats as a hazard. | Two co-presences, both terminated by the ward lead. Nothing was taken on either occasion and this holding's gauge did not move; the Saint's rose four and six points. No further tests are authorised and the refusal is recorded in both files. | Both co-presences, the termination times, the Saint's series, and the standing refusal. |
@@ -354,12 +354,12 @@ Some sorrows mourn the healer. Kind Healer's Shadow mourns the continuation — 
 **Observation Notes:**
 - A healer died in the Commons overflow with no apprentice trained; what remained attends the wounded one at a time.
 **Cross-References:** The Kind Healer · The Frozen Veil · the Commons casualty list · the attendance comparison · the registration opinion · the confinement minute
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
+**Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground
 **Originator:** An unnamed healer of the Mantle Commons, listed among the casualties she was treating.
 
 ### Registry Addendum
 
-**Operational interpretation:** This entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This entry does not stand on its own. The full designation, the Work Type responses, the M.A.W. cost and the breach behaviour are one system, read together or not read usefully at all. Where a watch finds something this file does not describe, document the gap: the contradiction is the most valuable entry in the room, kept as evidence rather than smoothed into the existing account.
 
 **Review requirement:** Re-verify after every transformation event, division attempt, or unusual interaction: gauge, who is being attended, the distance held, staff depletion logs, consent status for every attendance record, and the fourteen-day flatness checks outstanding. A withheld consent is honoured permanently and is not revisited at review.
 ## Watch Record
@@ -437,8 +437,8 @@ The objection is minuted at every annual review and is raised by the facility's 
 
 ### Registry Trivia
 
-- **Classification detail:** Kind Healer's Shadow is a Subject with Echo (II) — Repeats healing coherence and Moderate (β) potency.
-- **Field detail:** Its defining element is Lament, and its registered location is Zone D, Mantle Commons — ambient.
+- **Classification detail:** A Subject with Echo (II) — Repeats healing coherence — and Moderate (β) potency, graded for what the care costs rather than for what it can do.
+- **Field detail:** Its element is Lament, and the register keeps it in Zone D at the Mantle Commons, logged ambient.
 - **Recognition detail:** Identify it by the warmth and the absence of a source; shape alone is not diagnostic, since the Commons is full of shadows and two other holdings in the wing are dark-formed.
 - **Record detail:** Read this file beside the attendance comparison, which is the only study in the wing that states its own fatal weakness in its first paragraph.
 - **Containment detail:** This holding is not celled and the Commons is not a containment zone. What bounds it is a person: it stays while somebody is hurt and goes when they are not.

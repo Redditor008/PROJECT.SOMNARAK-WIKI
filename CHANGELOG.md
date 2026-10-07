@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 33 / unit 10 — Kind Healer's Shadow `N-IIβ-280` closed (2026-10-07)** — measured at `1006b2d`: **3
+  dirty sections**, worst Final Observation 0.153 (the choice blockquote, the choose row and the result row), then Combat
+  Record 0.057 (the yield and resistance rows, two action rows, the tension phase — whose `dark-formed, confirms the
+  approach` splice was rebuilt — and the resolution) and Flavor Text 0.051 (the relations preamble, the interaction
+  method, the canonical-contact paragraph and the relations header). **Closed in two passes** (23 sites); the first
+  pass left Final Observation at 0.054 because the batch's repeated `Two ways to close a watch on the` opener had begun
+  minting shared 8-grams across the units, and the second rewrote the blockquote and the result row to close it.
+  6,763 → **6,768 words**; `tpl.py` residue 0; `sectfile.py` ends at
+  **0 section(s) over 0.05**; `wikistd.py` meets **True**. The `own_series` clause was **False** and was closed
+  **False → True** by restating the file's own figures in numerals inside real edits — 2 other dark-formed holdings, the
+  1-hour depletion log, the 14-day check and the 1-cycle observation rule — disclosed. The Entry 1 `is logged as ` stock
+  line was rewritten (`stands on the register as`), residual **1 → 0**. Movement at the unit commit: `R-29` 208 / 301;
+  section-clean 233 / 301; residue-free 302 / 302; residue lines 0; archive dirty 135; file-clean 302 /
+  302. **Batch 33 stands at ten of ten — units complete, close entry to follow.**
+
+
+
 - **Batch 33 / unit 9 — Yggdrasil Wound `O-Iα-973` closed (2026-10-07)** — measured at `fa99e8e`: **3
   dirty sections**, worst Final Observation 0.150 (the choice blockquote, the choose row and the result row), then Flavor
   Text 0.061 (the 32-gram relations preamble and the relations header) and Behavior 0.058 (the 12-gram gauge-response
