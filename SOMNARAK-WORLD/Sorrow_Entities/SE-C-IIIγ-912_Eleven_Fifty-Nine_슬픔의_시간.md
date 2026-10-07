@@ -1,6 +1,6 @@
 # Eleven Fifty-Nine — 슬픔의 시간
 
-> *"The city gave us this. We did not ask for it."*
+> *"Every night the whole district grieves the same loss, and not one of them can say whose it was."*
 
 ## SECC Classification
 
