@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 45 / unit 2 — Amnesia `O-IIβ-914` quote written (2026-10-07)** — the shared opening quote (family of **8** dossiers)
+  replaced **in place** with one of this file's own: no onset, no end, and the arm-check at the painted line afterward. 4915 → **4926 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
+  meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 45 stands at 2
+  of ten.**
+
 - **Batch 45 / unit 1 — Backward Hour `C-IIIγ-913` quote written (2026-10-07)** — the shared opening quote (family of **8** dossiers)
   replaced **in place** with one of this file's own: the hands running backward and the district's separate grievances becoming articulate at once. 5970 → **5975 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
   meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 45 stands at 1
