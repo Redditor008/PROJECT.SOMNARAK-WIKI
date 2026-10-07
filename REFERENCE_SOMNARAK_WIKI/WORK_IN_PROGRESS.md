@@ -3223,6 +3223,9 @@ residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **B
 **Batch 45, unit 1: Backward Hour `C-IIIγ-913` quote written.** The shared family quote replaced in place with the hands running backward and the district's separate grievances becoming articulate at once. 5970 → **5975 words**;
 residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 45 stands at 1 of ten.**
 
+**Batch 46, unit 8: Once Told `O-IVδ-930` quote written.** The shared family quote replaced in place with a silence kept on purpose because whatever is described aloud arrives. 5031 → **5037 words**;
+residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 46 stands at 8 of ten.**
+
 **Batch 46, unit 7: Sky of Borrowed Faces `O-IIIγ-926` quote written.** The shared family quote replaced in place with surfaces keeping faces the register confirms are still alive. 7139 → **7145 words**;
 residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 46 stands at 7 of ten.**
 
@@ -3246,6 +3249,8 @@ residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **B
 
 **Batch 46 — OPEN at ten; quote phase part two (shared opening quotes replaced in place, owner-directed; each row links the fixed
 dossier and its source); finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IVδ-930 Once Told 살아 있는 서사 — `334dd20` — PUSH VERIFIED — [[SE-O-IVδ-930_Once_Told_살아_있는_서사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-930_Once_Told_%EC%82%B4%EC%95%84_%EC%9E%88%EB%8A%94_%EC%84%9C%EC%82%AC.md "SE-O-IVδ-930_Once_Told_살아_있는_서사.md")] · source (keeps its quote): [[SE-N-IIβ-903_Glass_Elsewhere_환영의_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md")] `SE-N-IIβ-903`
 
 - SE-O-IIIγ-926 Sky of Borrowed Faces 환각의 격자 — `54d1d12` — PUSH VERIFIED — [[SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-926_Sky_of_Borrowed_Faces_%ED%99%98%EA%B0%81%EC%9D%98_%EA%B2%A9%EC%9E%90.md "SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md")] · source (keeps its quote): [[SE-N-IIβ-903_Glass_Elsewhere_환영의_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md")] `SE-N-IIβ-903`
 
