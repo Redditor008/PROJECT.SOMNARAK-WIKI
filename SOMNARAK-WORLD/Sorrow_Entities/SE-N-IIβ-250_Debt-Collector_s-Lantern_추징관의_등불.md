@@ -282,7 +282,7 @@ Each Vigil piece is an extension of the holding rather than equipment. It perfor
 
 - It brightens near debtors and near Collectors alike, and the file records that this symmetry was the first finding anybody wrote down about it.
 - Inherited obligations light brighter than contracted ones, consistently, by a margin the intensity card can resolve.
-- It has never gone completely dark in nine years of continuous logging, including during the two Tides when the Row was evacuated and nobody was present at all.
+- It has never gone completely dark in 9 years of continuous logging, not even during the 2 Tides, when the Row stood evacuated and nobody was present at all.
 
 **Personnel Note:** *"It does not accuse anyone. It just shows how much light the arrangement needs to go on looking fair. I have stopped telling new staff that it is beautiful."* — Specialist, Zone C patrol
 
@@ -293,9 +293,9 @@ Each Vigil piece is an extension of the holding rather than equipment. It perfor
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Debt-Collector's-Lantern as an Object/Place with Object-Weight manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Zone C, Collector's Row — ambient. |
-| **Sustained observation** | Intensity on the nine-point card, radius against the floor mark, every dimming with the time and the words spoken, mount seals, and a note of every person who entered the lit area and whether they were told what it shows. |
+| **Sustained observation** | Intensity on the 9-point card, radius against the floor mark, every dimming with the time and the words spoken, mount seals, and a note of every person who entered the lit area and whether they were told what it shows. |
 | **Activation or escalation** | Escalation is recorded the moment the lit edge passes the floor mark. Chalk the new edge, photograph it against the old, record who was standing inside it, and do not wait for the gauge, which on this holding moves afterwards rather than before. |
-| **Post-contact review** | Radius before and after, intensity series, dimmings with circumstances where known, gauge movement, and a seven-day check on each worker for unprompted disclosure of their own obligations to colleagues. |
+| **Post-contact review** | Radius before and after, intensity series, dimmings with circumstances where known, gauge movement, and a 7-day check on each worker for unprompted disclosure of their own obligations to colleagues. |
 
 **Observation method:** Measure, card, chalk, and write down what was said. The form here is the sorrow and not a forecast: a man walked a round until the households stopped being households and became brightness, and the object he carried has been getting wider ever since.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -303,7 +303,7 @@ Each Vigil piece is an extension of the holding rather than equipment. It perfor
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Debt-Collector's-Lantern (N-IIβ-250 [WO]) is logged as a Object-Weight manifestation expressing Weight. The Lantern formed from the sorrow of collecting from others. Held at Zone C, Collector's Row — ambient. It glows near debtors and Collectors alike.
+Debt-Collector's-Lantern (N-IIβ-250 [WO]) stands on the register as a Object-Weight manifestation expressing Weight. The Lantern formed from the sorrow of collecting from others. Held at Zone C, Collector's Row — ambient. It glows near debtors and Collectors alike.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its light is brighter for inherited obligations.
@@ -319,11 +319,11 @@ The lantern is never carried and it is never where it was left. It burns cold, a
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Debt-Collector s-Lantern; the other feeds it.
+> The light settles the ending on one question: measure the burden where it stands, with the 2 Work Types at the mount, the certified protocol and the chalk redrawn after each expansion, nothing lifted — or lift it for somebody, because the night seems to ask.
 
-| Hold to the condition: Viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority. | Improvise something kinder, which is how every failure on Debt-Collector's-Lantern's file began. |
+| Keep to the file: the 2 Work Types at the mount, certified Tool protocol, the chalked radius redrawn after every expansion, and nothing lifted on any authority. | Improvise something gentler, which is where every failure on this record starts. |
 |---|---|
-| Remains beside the worker while the burden is measured. The sorrow is borne; Debt-Collector's-Lantern is fully recorded. | Reveals hidden debts and their origins. The gauge climbs and Debt-Collector's-Lantern withdraws without revelation. |
+| The light stays with the worker through the measuring, the burden gets carried, and the record closes complete. | Hidden debts and their sources come into view instead, the gauge climbs, and the object goes dark on its revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
