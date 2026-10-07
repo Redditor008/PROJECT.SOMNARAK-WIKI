@@ -257,7 +257,7 @@ You feel it before you see it. The spirit register is not visual — it is atmos
 
 ## 상호작용 (Entity Interactions)
 
-The hall has not been worked with any other holding present, and the closing order has never been tested in company. The rows below come from the appendix that groups the 90x holdings by manifestation, read against each file's own series; every one is paper work, and no co-presence trial is proposed.
+The hall has never been worked with another holding standing in it, and the closing order has never been tried with company present. The rows below come off the appendix that sorts the 90x holdings by manifestation, each read against its file's own series; all of it is paper work, and no co-presence trial is proposed.
 
 **Interaction method:** Establish the hall's own figures first — the seat count against the plan, the rising order, the closing hour — alone across a full cycle before any comparison is entered. Then read the other record's series against them, entering the first divergence, its range, its trigger, and whether either series changed in the reading. Re-verify each quarter.
 
@@ -276,17 +276,17 @@ The sector-n-910, contained remembers what the city tries to forget. Moktak bega
 
 The spirit sorrow that birthed Moktak is specific. It is not the general weight grief that saturates Somnarak — that ambient, city-wide ache that every citizen carries. This is a particular grief, a particular wound, crystallized into a place form because the spirit register was the only shape it could take. Space was the vessel; spirit was the content; weight was the pressure.
 
-The entity does not rage. It does not weep. It simply persists — spirit and weight, patient and permanent.
+Nothing inside the hall raises its voice and nothing inside it cries. It simply keeps standing — spirit and weight both — through hours that would have emptied a lesser building.
 
-The entity does not rage. It does not weep. It persists — spirit and weight, patient and permanent. Moktak is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+The hall does not shout and does not weep. It keeps its register — spirit and weight — the way a building keeps its fabric: unrepaired, unhurried, holding. Moktak is not the loudest thing in Somnarak; it is the most particular, and in a city where grief is handed to everyone in the same shape, a hall that knows which hour is yours is the one that reaches bone.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The spirit register is not in the manual. We learned it by failing."* — Specialist, Field Team
-*"I have worked weight entities for six years. This one is different. The spirit makes it personal."* — Handler
-*"Containment holds. But the protocols need a new chapter."* — Containment Lead
-*"After contact, I could not stop thinking in the spirit register for three days."* — Specialist, Recovery
-*"It is one of the first of its kind. We are still learning what Place-Spirit means."* — Researcher, Floor 4
+*"Nobody wrote the spirit register down for us. Everything the hall taught, it taught to a crew that had already got it wrong."* — Specialist, Field Team
+*"Six years of weight entities and every one of them stayed at arm's length. This hall closes the distance — that is what the spirit does."* — Handler
+*"The containment is fine. It is the manual that is behind: this building needs a chapter nobody has written yet."* — Containment Lead
+*"Three days after my watch ended I was still sorting my own rooms by the hall's order. It does not leave when you step outside."* — Specialist, Recovery
+*"We have one of the first Place-Spirits on record and no definition for the term. Every shift in the hall adds a line to it."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record
 
@@ -325,7 +325,7 @@ The conversation is among the figures rather than toward anyone present, and no 
 
 ### An Empty Hall Otherwise
 
-Outside the hour the building is ordinary and is maintained as a building, with the fabric inspected and repaired on a normal schedule. The maintenance records are in the folder. The archivist's note remarks that this is the only containment in the wing that also has a roof contract.
+For the other twenty-odd hours the hall is simply a building and is kept like one — fabric inspected, repairs scheduled, nothing left to the hour. The maintenance records sit in the folder. The archivist's note points out that this is the only containment in the wing that also carries a roof contract.
 
 ### A Particular Weight
 
