@@ -39,10 +39,10 @@
 
 ### Operational Notes
 
-- A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy The Wedge That Held.
-- Gauge increases, failed work, or an ignored activation condition can trigger the recorded breach, activation, or expansion behavior.
-- Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
-- M.A.W. extraction is derived from the residue left behind after controlled route termination or historical husk crystallization.
+- A completed cycle takes the immediate pressure down and does not change the wedge: a single-use construct is not made less single-use by being worked.
+- A rising gauge, a failed cycle, or one ignored clause in the deployment order can set off the behavior this file records under breach, activation, and expansion.
+- The class exists for one bad hour: a single-use A-Relic goes into a catastrophic squad failure, and nothing about the deployment can be taken back.
+- The M.A.W. here is drawn from what a route leaves behind — the residue of a controlled termination, or the crystallized husk of an old working.
 
 ## Combat Record
 ### Core Stat Line
@@ -85,13 +85,13 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the single-use A-Relic construct, verify containment integrity, and evaluate emergency tactical need.
-2. **Clash:** The team conducts Viderehan and Ferrehan to harvest ambient Han-Energy while monitoring sector stability.
-3. **Resolution:** The team completes standard containment quotas, or deliberately triggers the A-Relic discharge to resolve an existential facility breach.
+1. **Tension:** The construct is identified as single-use, the plinth and quench line are checked, and the question put before anybody touches it is whether this is the emergency the wedge was kept for.
+2. **Clash:** The armory team runs Viderehan on its own quota and Ferrehan in the heavy gloves, keeping one eye on the sector's stability the whole time.
+3. **Resolution:** The cycle closes on quota met, or on the discharge itself — a deliberate deployment against an existential breach, after which the wedge is a story and a pile of cold dust.
 
 ### Consequences
 
-Premature detonation vents an uncontained magma shockwave across the armory, destroying structural pillars. Controlled deployment fractures enemy armor permanently while destroying the wedge.
+Set off early, it vents a magma shockwave through the armory and takes the pillars with it. Set off where it is meant to go, it cracks high-grade armor for good and destroys itself doing it.
 
 ## Appearance
 
@@ -131,7 +131,7 @@ Premature detonation vents an uncontained magma shockwave across the armory, des
 
 ### Operational Work Notes
 
-Operatives assigned to Ferrehan must wear heat-resistant leather gloves. If the worker displays fear of burns, the wedge's temperature surges by +20°C in direct response to their hesitation.
+Ferrehan here is worked in heat-resistant leather and nothing else. Show the iron any fear of burns and its temperature answers the hesitation directly, up by +20°C.
 
 ## Activation Behavior
 
@@ -172,7 +172,7 @@ Operatives assigned to Ferrehan must wear heat-resistant leather gloves. If the 
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Wedge That Held: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge and held at SECTOR-O-04, Outer Bastion Arsenal — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+No two escalations in this armory look alike. The watch writes four things and only four: what set it off, the first shift in the wedge's four-sided form, how far the heat carries, and where the resonance settles back to black iron. Grudge is the register and SECTOR-O-04 is the address, so the instruments will not tell the story alone — the changes in a handler's nerve are written on the same page as the temperatures.
 
 **Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
@@ -245,7 +245,7 @@ The strike face is flat and scarred by thousands of impacts. When swung with mom
 
 ### M.A.W. Use Notes
 
-The M.A.W. extracted from this relic carries Kang Il-Joo's absolute refusal to yield ground. It demands that the bearer stand in the front line; retreating while wearing this equipment causes rapid Composure loss.
+What comes out of this relic for the bearer is Kang Il-Joo's refusal to give ground. The set expects the front line: put it on and then step back, and Composure drains fast.
 
 ### Field Use Record
 
@@ -317,7 +317,7 @@ The smell hits you before the sight: scorched engine grease, burning hemp fiber,
 
 ### Interaction Pattern
 
-The Wedge That Held resonates aggressively with mechanical, industrial, or crushing entities. When contained near The Crucible or The Rage Forge, its surface temperature rises to near-melting point.
+The wedge answers mechanical, industrial, and crushing entities with an aggressive resonance. Kept near The Crucible or The Rage Forge, its surface climbs toward melting.
 
 ### Entity Interaction Record
 
@@ -362,7 +362,7 @@ The apprentices escaped through the secondary exhaust duct. When relief teams du
 
 ### Registry Addendum
 
-Tactical Instruction: Reserve this A-Relic exclusively for sovereign-class or heavily armored carapace entities. Deploying it against low-tier targets is a gross misappropriation of irreplaceable historical sacrifice.
+Tactical Instruction: this A-Relic is reserved for sovereign-class targets and heavy carapace work. Spending it on anything small is a misappropriation of an irreplaceable sacrifice.
 
 ## Warden Record
 
