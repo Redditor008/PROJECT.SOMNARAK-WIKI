@@ -93,10 +93,10 @@
 
 ### Consequences
 
-- Where resistance gives way, the entity’s pressure transfers directly into the worker — mind and body at once — depleting **Clarity** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle carries the worker further into identity drift, then cognitive Fracture, then destabilization of the ground around them.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. Nothing the wing handles is ever extracted for free.
-- Where the condition above goes unmet, The Orphaned Bell reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- Where resistance gives way the pressure goes straight into the worker, mind and body together: **Clarity** drops with every name the bell tolls back at them, and it is the loss the gauge takes its height from, not the wounds.
+- Exposure compounds. Each minute past the recommended cycle takes the worker further into identity drift, then cognitive Fracture, and the destabilization of the ground around the tolling point comes last, as if the order were part of the design.
+- What the M.A.W. set extracts is written down in the equipment section, and the field record has never yet contradicted it. No toll in this wing has ever been paid by anybody else.
+- Where the management condition goes unmet the bell reverts to its destructive activation protocol: denied peace, the sorrow takes its own release rather than wait for anybody to say the names.
 
 ## Appearance
 **Physical Form:** A massive bell, three meters tall, made of dark Han-crystal pulsing with faint blue light. It is fixed within a special tower and tolls without external force.
@@ -197,7 +197,7 @@ The Orphaned Bell is an Object/Place — Lament for its manifestation, Lament fo
 | 1 Minute | Blue condensation pools upward along the bronze crystal; the chime vibrates in the operator's ribs. | The effect calms attending personnel, emitting silver resonance that soothes Composure strain. |
 | 2 Minutes | The acoustic resonance deepens; faces of lost expansion children glow faint blue across the tower masonry. | Prolonged channeling risks cognitive bleed; personal childhood memories begin to blend with the tower's ledger. |
 | 3 Minutes | Every grief the bell holds resonates at once; unrecorded voices clamor to be named. | Reaching 3 minutes requires immediate withdrawal before the acoustic pressure triggers amnesia. |
-| 3 Minutes | The toll softens as the final name is recorded; a silver calm settles across the sector. | Operator exits the acoustic circle, leaving the bell pacified until the next midnight vigil. |
+| 3 Minutes | The toll softens as the final name is recorded; a silver calm settles across the sector. | The operator steps back out of the acoustic circle; the bell stays quiet until the next midnight vigil, provided the last name said aloud inside it was a real one. |
 
 ### Escalation Notes
 
@@ -237,23 +237,23 @@ Escalation here is a change in spacing, not in volume. Record the interval since
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Continuous / channeled use** |
-| **Activation** | Midnight, the Consolihan anniversary, or concentrated grief concerning missing children. |
+| **Use Mode** | **Continuous / channeled use** — the toll held open from inside the circle, never worked in relay. |
+| **Activation** | Midnight, the Consolihan anniversary, or any concentration of grief for missing children large enough to carry a name. |
 | **Primary Effect** | The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. |
-| **Duration** | While equipped, until the removal condition is met. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
+| **Duration** | While equipped, until the removal condition is met — three full toll cycles at the very outside, and the recitation is what ends it. |
+| **Termination / Return** | The operator closes the channel deliberately, name by name; a conduit released out of order vents its uncontained Lament resonance across the whole sector, and the paperwork from the last time that happened is still open. |
 | **Risk** | Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** The relic requires continuous concentration and open energy conduits; it is stood under rather than carried. A channel left untended starts the field instability on its own and will not wait for the next watch to notice.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The Orphaned Bell begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates The Orphaned Bell: The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the grief of parents searching for children who would never return. forged during zone b expanded over streets and homes, swallowing children into the han and leaving families without answers. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of The Orphaned Bell's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. all personnel in the sector take heavy damage. |
+| 10 Seconds | The Orphaned Bell begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Kneel inside the circle and the bell answers on the first documented name: the toll passes through the structures and the people inside them, everyone in hearing loses something they cannot point to, and the adjoining holdings ride steadier gauges for the rest of the watch. |
+| 30 Seconds | The conduit widens, revealing the memory of the grief of parents searching for children who would never return. forged during zone b expanded over streets and homes, swallowing children into the han and leaving families without answers. | The sounding carries to Range Band 2; every allied unit inside that ring takes heightened elemental defense for as long as the recitation stays unbroken. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of The Orphaned Bell's unfulfilled purpose pressing on their lungs. | Past 60 seconds the channel draws on the speaker rather than on the room: 4 Composure every 10 seconds, and the withdrawal has to be prepared before the count runs out and not after. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Held past the limit, or abandoned mid-recitation, the channel vents a Lament shockwave nobody steers: unvoiced grief goes into the operator's mind, and the amnesia that follows has taken names out of workers that the register still carries. |
 
 ### Escalation Notes
 
@@ -304,7 +304,7 @@ The alloy is cut with crystal taken from the bell's rim, and the blade keeps the
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that keeps the faint scent of its place of origin in the weave.
+**Appearance:** a wrapping shroud woven in the tower’s own Lament Han-silk — cool, faintly luminous, and holding the scent of the bell’s room in the weave however long it sits in stores.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -314,9 +314,9 @@ The alloy is cut with crystal taken from the bell's rim, and the blade keeps the
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Orphaned Bell's kind of pressure.
+**Ability:** Grants resistance to Lament damage, shielding the Mind — emotional stability, willpower — and it is cut for the toll's particular pressure: the wearer holds composure while the bell is saying names back at them.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer becomes numb to minor joys; the armoury note is that nobody has ever filed it as a loss, which is exactly what this cost looks like from the inside.
 
 ### M.A.W. Stigma — Lament's Edge
 
