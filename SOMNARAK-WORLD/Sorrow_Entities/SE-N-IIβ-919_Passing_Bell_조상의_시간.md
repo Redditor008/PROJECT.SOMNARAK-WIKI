@@ -102,7 +102,7 @@
 
 **Notable Features:**
 - Expresses Weight pressure in a spirit register.
-- The time form is unmistakable — this is a spirit entity, not a general one.
+- No reading of the hour can be mistaken for a general time entity's: the form that answers at this station is spirit, and it answers by name.
 - A sealed sector with two chairs, a ledger, and no equipment of any kind.
 
 **Identification Profile**
@@ -279,7 +279,7 @@ The hour is a conversation you are not in. The voices are ordinary, unhurried, a
 
 ## 상호작용 (Entity Interactions)
 
-The bell is rung for the ancestors and the hour has never been run beside a second holding. Everything below is paper work from the appendix that groups the 90x holdings by manifestation, read against the two files' own series; the two transcripts this file keeps are never reconciled, and neither are these rows.
+The bell at this station is rung for ancestors, and the hour has never been run with a second holding beside it. The rows below come off the appendix that sorts the 90x holdings by manifestation, each read against the two files' own series; the two transcripts this record keeps have never been reconciled, and neither is the page that follows.
 
 **Interaction method:** Fix the hour's own figures first — the two transcripts, the sealed books, the warnings copied into the ledger — established alone across a full cycle before any comparison is entered. Then lay the other record's series beside them and enter the first divergence, its range, what set it off, and whether either series moved. Re-verify each quarter.
 
@@ -300,15 +300,15 @@ Floor 4 has studied Passing Bell for cycles. Their findings are classified, but 
 
 Personnel who work Passing Bell do not simply feel weight pressure. They feel weight pressure filtered through spirit — and that filter changes everything. The protocols, the M.A.W. calibration, the recovery time — all of it must account for the spirit register or the work will fail.
 
-The entity does not rage. It does not weep. It persists — spirit and weight, patient and permanent. Passing Bell is not the loudest sorrow in Somnarak. It is the most specific. And specific sorrow, in a city built on generic grief, is the kind that cuts deepest.
+Nothing at this station shouts and nothing weeps. It keeps its register — spirit and weight — with the patience of an hour that has already been lived through once. Passing Bell is not the loudest thing in Somnarak; it is the most particular, and a city that hands grief out in the same shape to everyone has nothing to answer with when the bell knows whose hour it is marking.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The weight is familiar. The spirit is not. That gap is where the danger lives."* — Handler
-*"I expected standard weight. I got something that knew me."* — Specialist
-*"Every time we refine the protocol, the spirit register finds a new way in."* — Researcher
-*"It does not attack. It inhabits. And what it informs you of is your own sorrow."* — Director
-*"Work it once and you will understand why the classification system had to expand."* — Keeper
+*"I have carried standard weight for years and it never once asked anything of me. What stands in the gap between weight and spirit is where every bad hour at this station begins."* — Handler
+*"I came in ready for the load I was trained on. What I got was an hour that already had my name written into it."* — Specialist
+*"Each revision teaches the register one more way around us. This one is not breaking the protocol — it is reading it."* — Researcher
+*"It has never struck at anyone. It moves in, and then it tells the specialist which hour of their own life the bell was marking."* — Director
+*"Keep one watch on the bell and the classification's newest column will explain itself — nothing older fit what answers here."* — Keeper
 
 ## 기록 (Registrum) — The Record
 
@@ -356,7 +356,7 @@ The grief behind it is particular rather than general, and the commissioning mat
 ## Trivia
 
 - One of the first catalogued **Time-Spirit** entities in Somnarak.
-- Its spirit descriptor makes it structurally unique among time entities.
+- Among the time entities on file, this is the only one whose descriptor reads spirit first and clock second.
 - The weight pressure in the spirit register feels different from standard weight — more specific, more personal.
 
 ## Document Information
