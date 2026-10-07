@@ -38,10 +38,10 @@
 
 ### Operational Notes
 
-- The Whisper is mobile across the Desolate and is never recovered at its last logged bearing.
-- Work settles it for a shift. It relocates between sessions, and no cycle has fixed it in place.
-- A single ignored condition escalates it. Bearing and distance are taken at first contact, because position is the only variable that moves reliably.
-- Structural pressure presents in the ground rather than in the entity; footing is tested ahead of the crew, not under it.
+- The Whisper is mobile across the Desolate and is never found again at its last logged bearing: the layer is entered at the position it was last heard from, never the one it was last seen at.
+- A finished session settles it for exactly one shift. Between two stations it moves, and not one cycle on record has pinned it to a place.
+- One ignored clause escalates it, and the clause in this file is position: bearing and distance go down at first contact, because position is the only variable that moves reliably.
+- The weight of the session comes up through the floor of the layer rather than off the figure standing in it; the ground is proved ahead of the crew, never under them.
 - Extraction is authorized apart from the work cycle.
 
 ## Combat Record
@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** Check the cut first — a sentence stopping at about a second and a half, in static and red light, spoken by a figure that never fully arrives. That is this holding and no other; the designation is confirmed against the classification table; positions are taken and the cycle is opened.
-2. **Clash:** Nothing is contested. The worker is in the dream layer listening to a sentence that will break, the second worker is there to surface them, and the only decision in the session is when to end it.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Capture fragments without inventing the missing message**. The clause governs the whole cycle: the record is built out of what arrived, and the part that never came through is entered as a gap rather than closed by anybody's best guess.
+1. **Tension:** Confirm the cut before anything else — a sentence that stops at about a second and a half, under static and red light, out of a figure that never finishes arriving. Nothing else on the shelf sounds like it; the table settles the designation, both positions are written down, and the cycle opens.
+2. **Clash:** Nothing is fought over. One worker lies in the layer with a sentence that is going to break, the second sits the clock and pulls them up, and the only live decision in the bay is the moment of surfacing.
+3. **Resolution:** The bay closes on the gap and never on an answer — the documented suppression condition: **Capture fragments without inventing the missing message**. Everything entered comes out of what arrived; the rest of the sentence is filed as missing, and no transcriber is permitted to finish it.
 
 ### Consequences
 
-- A resistance that fails is paid for twice over: the worker takes the raw pressure on **Resilience**, and what the destabilization does afterwards is what the entity uses to raise the gauge.
-- Time is Collapsed Whisper’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Collapsed Whisper executes its documented event pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- A resistance that fails is paid for twice over: the raw weight lands on **Resilience** while they are still under, and whatever the breaking does to them afterwards is the holding's own instrument for raising the gauge.
+- Time works for the holding. Past the clock, saturation settles into the sleeper the way static settles into a failing channel, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
+- Every activation of the set is a trade with both hands full: the equipment registry keeps the parameters, and the bearer's own flesh settles the account.
+- A bay that closes without closing does not stop at the rail: the holding walks out its event pattern, and the sentence nobody resolved takes the exit the session failed to give it.
 
 ## Appearance
 **Primary Form:** A dream-figure formed from a whisper crushed beneath layers of static and red light. It watches from the edge of sleep.
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-Collapsed Whisper is a Subject with Subject-Dream manifestation and Grudge expression, mobile in the Desolate. Nobody works this file awake: contact is made from monitored sleep stations, two in the layer at most, on a fixed clock. Flerehan and Ferrehan both lower the gauge and do it differently — the first lets the sentence finish, the second asks the worker to stay while it does not.
+Collapsed Whisper is a Subject with Subject-Dream manifestation and Grudge expression, mobile in the Desolate. No watch has ever worked this file awake: the contact is made from monitored sleep stations, two sleepers in the layer at the most, on a fixed clock. Flerehan and Ferrehan both lower the gauge and do it differently — the first lets the sentence finish, the second asks the worker to stay while it does not.
 
 **Reading the response:** A falling gauge presents as a longer run before the break and a steadier figure at the edge of the layer. Nothing is resolved; the next session starts from the same place. A rising gauge presents as a shorter run and a thickening static, and the usual cause is a worker pressing for the rest of the sentence. The break time is logged before anything else, because it is the one number that answers to how the session was conducted.
 ## Containment Event Behavior
@@ -217,11 +217,11 @@ Collapsed Whisper is a Subject with Subject-Dream manifestation and Grudge expre
 
 **Cost:** The wearer hears every warning that arrives too late.
 
-*The thread is not issued. It turns up after a session in which the worker let the sentence break without reaching for the rest of it, which the armoury records as four percent of them and cannot predict.*
+*The thread is never handed out. It surfaces after a session in which the sleeper let the sentence break untouched — the armoury files that at four percent of them and has never been able to say which four.*
 
 ### M.A.W. Use Notes
 
-The set carries the entity's single property into three forms: each piece gives the bearer part of something and never the rest. The fang lands before it is heard, the plate warns a half-second late, the thread tightens at a hazard it cannot name. The cost is uniform — the bearer begins to act on incomplete information and to be right often enough to keep doing it.
+Three pieces, one property: every part of the set hands over half a thing and keeps the other half. The fang arrives before its sound does, the plate calls its warning half a second after the need, the thread pulls tight at something it refuses to name. The bill is the same across all three — the bearer starts moving on the half they hold, and lands right often enough to keep the habit.
 
 ### Field Use Record
 
@@ -238,9 +238,9 @@ The set carries the entity's single property into three forms: each piece gives 
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- Reached only from the sleep layer; the waking chamber holds apparatus and no subject.
-- What arrives is a fragment of an urgent sentence, never a prediction and never a complete instruction.
-- The hope comes first — the sense that something important is about to be said — and the recognition comes after the break.
+- The file opens only from the sleep layer; the waking side of the station holds the apparatus and never a sleeper.
+- What comes through is always a piece of something urgent — never a forecast and never a whole order.
+- The lift comes first, the sense that the next words matter; the recognition lands after the break, and it is the break the sleeper remembers.
 
 **Personnel Note:** *"It was still trying. That is the part nobody prepares you for. The message was gone a long time ago and it is still running."* — Researcher, R.D., Desolate survey
 
@@ -261,10 +261,10 @@ The set carries the entity's single property into three forms: each piece gives 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Collapsed Whisper (C-IVδ-249 [GS]) stands on the register as a Subject-Dream manifestation expressing Grudge. The Whisper formed from a warning that collapsed before reaching anyone. Held at The Desolate — mobile. It sings through dream distortion.
+Collapsed Whisper (C-IVδ-249 [GS]) stands on the register as a Subject-Dream manifestation expressing Grudge. What formed here was a warning that fell apart before it reached the person it was meant for. Held at The Desolate — mobile. It comes through dream distortion as a voice already failing.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
-Spreads through dreams of personnel near the Desolate. Subjects hear warnings that cannot be completed. Its warnings are fragments, not prophecies.
+It reaches people through their sleep anywhere within range of the Desolate. Sleepers hear an alert that will not finish; what they get is a piece of a warning, never a forecast.
 
 **Entry 3 — <Excerpt from Counseling Log, Year 4233>**
 The grief of understanding danger too late to communicate it.
