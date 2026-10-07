@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 38 / unit 1 — Unwitnessed `C-Iα-236` closed (2026-10-07)** — measured at `af07182`: **3 dirty sections**,
+  Final Observation (the choice blockquote, the choose row and the result row), Combat Record (both action rows, the
+  tension phase and the resolution line) and Operational Parameters (the yield row and the work-object line). Closed in
+  two passes: the main wave rewrote 18 sites across those sections, the appearances, the relic note, the After-departure
+  paragraph, the relations preamble and the operational interpretation, and a bounded second pass rewrote the two
+  Operational Parameters lines still carrying shared 4-grams. 8,170 → **8,278 words**; `tpl.py` residue 0; `sectfile.py`
+  ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**; the substitution-condition clause was kept verbatim
+  wherever its line was rewritten, residual 0 on entry and `own_series` already True. The file's own figures were
+  restated in numerals inside real edits (5 grants · 3 of the 5 on leave · 4 assessors · 400 years · 7 days · 4
+  millimetres against 157) — disclosed. Movement at the unit commit: `R-29` 237 / 301; section-clean 271 / 301;
+  residue-free 302 / 302; residue lines 0; archive dirty 47; file-clean 302 / 302. **Batch 38 stands at
+  one of five.**
+
 - **Batch 37 — CLOSED at ten (2026-10-07)** — ten dossiers · **17 / 17 dirty sections closed** · **+986 words** net
   (74,174 → 75,160 across the ten files) · `verify.py` residuals **6 → 0** (units 1, 3, 5, 7, 9, 10; units 2, 4, 6, 8
   entered clean) · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Roster, newest first: u10 The Cracked

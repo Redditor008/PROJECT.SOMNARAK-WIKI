@@ -2598,7 +2598,18 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
+**Batch 38, unit 1: Unwitnessed `C-Iα-236` closed.** Measured at `af07182`: **3 dirty sections** — Final Observation,
+Combat Record and Operational Parameters — **closed in two passes** (18 sites, plus a bounded second pass over the two
+Operational Parameters lines still carrying shared 4-grams); 8,170 → **8,278 words**; `tpl.py` residue 0;
+`sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the suppression-condition clause kept
+verbatim wherever its line was rewritten; residual 0 on entry; `own_series` already True; the file's own figures
+restated in numerals inside real edits (5 grants · 3 of the 5 on leave · 4 assessors · 400 years · 7 days · 4 mm
+against 157). Movement: `R-29` 237 / 301; section-clean 271 / 301; archive dirty 47; file-clean 302 / 302.
+**Batch 38 stands at one of five.**
+
 **Batch 38 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-Iα-236 Unwitnessed 사라진 씨앗 — `c40739f` — PUSH VERIFIED — [[SE-C-Iα-236_Unwitnessed_사라진_씨앗]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-236_Unwitnessed_%EC%82%AC%EB%9D%BC%EC%A7%84_%EC%94%A8%EC%95%97.md "SE-C-Iα-236_Unwitnessed_사라진_씨앗.md")
 
 **Batch 37 — CLOSED at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
