@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 42 / unit 5 — Vellum Man `C-Iα-900` closed (2026-10-07)** — measured live at `9abc7f0`: **no dirty
+  sections**; failures were `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing
+  `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row
+  record pairing the desk with Once Upon `O-IIIγ-920`, Once Told `O-IVδ-930` and Allhallow `O-IIIγ-916` under its own
+  column set, and an interaction procedure — parity **282 → 283 / 301** · and the Resolution line extended to carry the
+  file's own clause as a documented suppression condition (**The shift ends at thirty minutes with the page marked and the
+  same transcriber booked to return**) — condition **278 → 279 / 301**. 4,089 → **4,535 words**; `tpl.py` residue 0;
+  `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**; residual 0 on entry; `own_series` already True.
+  Movement at the unit commit: `R-29` 274 / 301; section-clean 301 / 301; residue-free 302 / 302; residue lines
+  0; archive dirty 0; file-clean 302 / 302. **Batch 42 stands at five of seven.**
+
 - **Batch 42 / unit 4 — Ninety Seconds `C-IVδ-918` closed (2026-10-07)** — measured live at `70939d7`: **no dirty
   sections**; failures were `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing
   `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row

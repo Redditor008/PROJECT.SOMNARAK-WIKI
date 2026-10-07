@@ -2848,6 +2848,15 @@ conversions), `own_series` False → True, series **283 → 284 / 301**; the `Mo
 `felt... complete` ellipsis normalised, residual **1 → 0** and seam cleared. Movement: `R-29` 263 / 301; section-clean
 299 / 301; archive dirty 2; file-clean 302 / 302. **Batch 41 stands at one of five.**
 
+**Batch 42, unit 5: Vellum Man `C-Iα-900` closed.** Measured live at `9abc7f0`: **no dirty sections**; failures were
+`parity ['interactions']` and `condition` False — **closed in a single wave**; 4,089 → **4,535 words**; `tpl.py` residue
+0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section
+written in the file's own terms (3 rows — Once Upon `O-IIIγ-920`, Once Told `O-IVδ-930`, Allhallow `O-IIIγ-916` — with its
+own column set), parity **282 → 283 / 301**; the Resolution line extended to carry the file's own clause as a documented
+suppression condition (The shift ends at thirty minutes with the page marked and the same transcriber booked to return),
+condition **278 → 279 / 301**. Movement: `R-29` 274 / 301; section-clean 301 / 301; archive dirty 0;
+file-clean 302 / 302. **Batch 42 stands at five of seven.**
+
 **Batch 42, unit 4: Ninety Seconds `C-IVδ-918` closed.** Measured live at `70939d7`: **no dirty sections**; failures were
 `parity ['interactions']` and `condition` False — **closed in a single wave**; 5,933 → **6,369 words**; `tpl.py` residue
 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section
@@ -2885,6 +2894,8 @@ condition **274 → 275 / 301**. Movement: `R-29` 269 / 301; section-clean 301 /
 file-clean 302 / 302. **Batch 42 stands at one of seven.**
 
 **Batch 42 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-Iα-900 Vellum Man 잊혀진 이야기꾼 — `de5c2c1` — PUSH VERIFIED — [[SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-900_Vellum_Man_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%B4%EC%95%BC%EA%B8%B0%EA%BE%BC.md "SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md")
 
 - SE-C-IVδ-918 Ninety Seconds 반복되는 생각 — `1ce6bf7` — PUSH VERIFIED — [[SE-C-IVδ-918_Ninety_Seconds_반복되는_생각]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md "SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md")
 
