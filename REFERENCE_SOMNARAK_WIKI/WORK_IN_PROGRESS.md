@@ -16,6 +16,14 @@ All figures below are measured, not estimated, and each names the tool that prod
 
 **Batch pacing, owner's correction, 2026-10-05 (`R-26` amended), reaffirmed by the owner the same day — "This Rule Need To Be Remember":** the batch ladder starts at **3**, not 5 — **3 > 5 > 7 > 10** SE files per batch, ratcheting up only while the units are genuinely simple by `R-26`'s own test, and stopping at whatever number was finished properly. **The minimum for any batch is three SE files**; the ceiling is ten, and a batch of fewer than three is permitted only by `R-26`'s quality clause and must be named and explained in the record rather than reported as a full batch. The superseded "start at five" wording is preserved in the rule file with the correction dated. The units in this cohort are *not* simple by that test — 11–12 dirty sections, full Interaction Records, 5,000–8,000 words — so the ladder stays at the floor of three per batch for this cohort, and the per-dossier conditions and one-`gate.sh`-per-dossier rule are unchanged. Two rows moved this turn without a unit touching them — residue-free 103 → 108 and file-clean 158 → 162 — because the four Rank V rewrites and Ephemera retired shared lines outright, and a line that drops below ten holders stops counting against every remaining dossier. That is the documented spillover effect; it is not work performed this turn.
 
+**Quote check restarted, owner's finding, 2026-10-07 — *"The Number One CALL That It WAS Clone … Is The SE Quote … So
+Restart The Check"*:** run as `clone_audit.py --quotes`; report Finding 7. **5 exact duplicate quote families covering 31
+dossiers**; within families **18 / 84 pairs carry a section clone (21.4%)** vs the archive's **1.20%** baseline — an **18×
+lift**, the strongest single call found. Families: *It does not end…* (8) · *The city gave us this…* (7) · *The weight is
+not punishment…* (6) · *When it comes…* (5) · *Something here remembers…* (5). Every family contains clones (0.50-0.87);
+the quote is a cluster marker, not proof — Lethe and Dead Air share a quote and now score nothing above 0.50, the target
+state. All 31 dossiers linked in the report. No dossier content changed.
+
 **Audit links, owner's request, 2026-10-07 — *"in audit put the link so i can try to compare them"*:** `CLONE_AUDIT_2026-10-07.md`
 now links **every pair named in it** (both sides, GitHub URLs on the working branch) with a 13-command `--pair` block, plus
 links to the 12 heaviest files of the **43 / 301** carrying a verbatim section. New tool mode `clone_audit.py --pair A B` prints

@@ -12,6 +12,7 @@ Reproduce:
     python3 tools/auditors/clone_audit.py <file>          # one dossier's closest matches
     python3 tools/auditors/clone_audit.py --lineage       # lower-numbered wins; the copy diffed against it
     python3 tools/auditors/clone_audit.py --pair A B      # one pair in full: sections, shared lines, swaps
+    python3 tools/auditors/clone_audit.py --quotes        # restarted from the SE quote: families and the clones inside
 
 ## Method — what makes two dossiers 'the same file with the name changed'
 
@@ -276,6 +277,124 @@ search for the section named in the table above:
 
 Whole-file check for yourself: `python3 tools/auditors/clone_audit.py` (pairs), `--sections` (every section,
 every pair), `--lineage` (which number wins), `--pair A B` (one pair in full).
+
+## Finding 7 — Restarting the check from the SE quote: the first call of a clone
+
+Owner's finding, 2026-10-07 — *"The Number One CALL That It WAS Clone That Was Trying To Get Up Lifted By The
+Other AI Is The SE Quote e.g. the one below SE Name/Title And Above SE [SECC Classification]"*. The blockquote
+between the title and `## SECC Classification` is the part a reskin pass pastes in whole, so it is the first
+place a clone shows. Check restarted there with `clone_audit.py --quotes`. **The finding holds, and strongly:**
+
+| measure | value |
+|---|---|
+| dossiers with an opening quote | **301 / 301** |
+| **exact duplicate quote families** | **5** |
+| dossiers sitting in one | **31 / 301** |
+| within-family pairs carrying a section clone (>= 0.50) | **18 / 84 = 21.4%** |
+| archive baseline, all 45,150 pairs | **540 = 1.20%** |
+| **lift** | **18x** |
+
+A duplicated opening quote is therefore **eighteen times more likely** to sit inside a copy cluster than a
+random pair of dossiers. It is the strongest single call in the archive — stronger than any section measurement,
+because it is the one line every clone kept without editing.
+
+**Family — "It does not end. It merely pauses between heartbeats." (8 dossiers)**
+
+| dossier | |
+|---|---|
+| [[SE-C-IIIγ-913_Backward_Hour_카운트다운_시계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-913_Backward_Hour_%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4_%EC%8B%9C%EA%B3%84.md "SE-C-IIIγ-913_Backward_Hour_카운트다운_시계.md")] | |
+| [[SE-C-IIIγ-921_Cracked_Flesh_균열의_들판](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-921_Cracked_Flesh_%EA%B7%A0%EC%97%B4%EC%9D%98_%EB%93%A4%ED%8C%90.md "SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md")] | |
+| [[SE-C-IIβ-906_Grimoire_스스로_쓰는_책](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-906_Grimoire_%EC%8A%A4%EC%8A%A4%EB%A1%9C_%EC%93%B0%EB%8A%94_%EC%B1%85.md "SE-C-IIβ-906_Grimoire_스스로_쓰는_책.md")] | |
+| [[SE-C-Vω-925_Sorrow_Mass_압살의_한](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CF%89-925_Sorrow_Mass_%EC%95%95%EC%82%B4%EC%9D%98_%ED%95%9C.md "SE-C-Vω-925_Sorrow_Mass_압살의_한.md")] | |
+| [[SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-917_Dawn_That_Forgot_%EC%9E%A0%EB%93%9C%EB%8A%94_%EC%83%88%EB%B2%BD.md "SE-N-IIIγ-917_Dawn_That_Forgot_잠드는_새벽.md")] | |
+| [[SE-N-IIβ-919_Passing_Bell_조상의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-919_Passing_Bell_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-N-IIβ-919_Passing_Bell_조상의_시간.md")] | |
+| [[SE-O-IIIγ-920_Once_Upon_이야기의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-920_Once_Upon_%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-O-IIIγ-920_Once_Upon_이야기의_시간.md")] | |
+| [[SE-O-IIβ-914_Amnesia_잊혀진_일분](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-914_Amnesia_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%BC%EB%B6%84.md "SE-O-IIβ-914_Amnesia_잊혀진_일분.md")] | |
+
+Clones inside the family (lower designation → copy, with the section and its score):
+
+- Passing Bell → Sorrow Mass 0.69 (Testimonium)
+- Amnesia → Dawn That Forgot 0.54 (Trivia)
+- Dawn That Forgot → Passing Bell 0.52 (Testimonium)
+
+**Family — "The city gave us this. We did not ask for it." (7 dossiers)**
+
+| dossier | |
+|---|---|
+| [[SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-912_Eleven_Fifty-Nine_%EC%8A%AC%ED%94%94%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-C-IIIγ-912_Eleven_Fifty-Nine_슬픔의_시간.md")] | |
+| [[SE-C-IVδ-907_Breathing_Stone_살아있는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-907_Breathing_Stone_%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94_%EB%B2%BD.md "SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md")] | |
+| [[SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-909_Labyrinth_of_the_Unfinished_Mind_%EC%83%9D%EA%B0%81%EC%9D%98_%EB%AF%B8%EB%A1%9C.md "SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md")] | |
+| [[SE-C-IVδ-915_Endless_Shift_끝없는_교대](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-915_Endless_Shift_%EB%81%9D%EC%97%86%EB%8A%94_%EA%B5%90%EB%8C%80.md "SE-C-IVδ-915_Endless_Shift_끝없는_교대.md")] | |
+| [[SE-N-IIIγ-908_Unwaking_Block_잠드는_구역](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-908_Unwaking_Block_%EC%9E%A0%EB%93%9C%EB%8A%94_%EA%B5%AC%EC%97%AD.md "SE-N-IIIγ-908_Unwaking_Block_잠드는_구역.md")] | |
+| [[SE-N-IIβ-910_Moktak_조상의_전당](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-910_Moktak_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%A0%84%EB%8B%B9.md "SE-N-IIβ-910_Moktak_조상의_전당.md")] | |
+| [[SE-O-IIIγ-916_Allhallow_유령의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-916_Allhallow_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-O-IIIγ-916_Allhallow_유령의_시간.md")] | |
+
+Clones inside the family (lower designation → copy, with the section and its score):
+
+- Unwaking Block → Allhallow 0.70 (Testimonium)
+- Unwaking Block → Moktak 0.66 (Testimonium)
+- Moktak → Allhallow 0.64 (Testimonium)
+- Breathing Stone → Moktak 0.54 (Trivia)
+
+**Family — "The weight is not punishment. It is recognition." (6 dossiers)**
+
+| dossier | |
+|---|---|
+| [[SE-C-IVδ-918_Ninety_Seconds_반복되는_생각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-918_Ninety_Seconds_%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94_%EC%83%9D%EA%B0%81.md "SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md")] | |
+| [[SE-C-IVδ-922_Miasma_우는_안개](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-922_Miasma_%EC%9A%B0%EB%8A%94_%EC%95%88%EA%B0%9C.md "SE-C-IVδ-922_Miasma_우는_안개.md")] | |
+| [[SE-N-IIβ-903_Glass_Elsewhere_환영의_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-903_Glass_Elsewhere_%ED%99%98%EC%98%81%EC%9D%98_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-903_Glass_Elsewhere_환영의_거울.md")] | |
+| [[SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-926_Sky_of_Borrowed_Faces_%ED%99%98%EA%B0%81%EC%9D%98_%EA%B2%A9%EC%9E%90.md "SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md")] | |
+| [[SE-O-IIβ-911_Never_Discharged_영원한_환자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-911_Never_Discharged_%EC%98%81%EC%9B%90%ED%95%9C_%ED%99%98%EC%9E%90.md "SE-O-IIβ-911_Never_Discharged_영원한_환자.md")] | |
+| [[SE-O-IVδ-930_Once_Told_살아_있는_서사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-930_Once_Told_%EC%82%B4%EC%95%84_%EC%9E%88%EB%8A%94_%EC%84%9C%EC%82%AC.md "SE-O-IVδ-930_Once_Told_살아_있는_서사.md")] | |
+
+Clones inside the family (lower designation → copy, with the section and its score):
+
+- Miasma → Sky of Borrowed Faces 0.65 (Operational Parameters)
+- Never Discharged → Miasma 0.64 (Testimonium)
+- Miasma → Once Told 0.54 (Trivia)
+
+**Family — "When it comes, you will know. Everyone knows." (5 dossiers)**
+
+| dossier | |
+|---|---|
+| [[SE-C-IIIγ-902_Beating_Relic_고동치는_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-902_Beating_Relic_%EA%B3%A0%EB%8F%99%EC%B9%98%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-C-IIIγ-902_Beating_Relic_고동치는_유물.md")] | |
+| [[SE-C-IIIγ-904_Thinking_Engine_생각하는_기계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-904_Thinking_Engine_%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94_%EA%B8%B0%EA%B3%84.md "SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md")] | |
+| [[SE-C-IIIγ-928_Lethe_혼란의_독기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-928_Lethe_%ED%98%BC%EB%9E%80%EC%9D%98_%EB%8F%85%EA%B8%B0.md "SE-C-IIIγ-928_Lethe_혼란의_독기.md")] | |
+| [[SE-N-IIIγ-929_Dead_Air_유령의_압력](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md "SE-N-IIIγ-929_Dead_Air_유령의_압력.md")] | |
+| [[SE-N-Iα-905_Lacrima_영혼의_그릇](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-905_Lacrima_%EC%98%81%ED%98%BC%EC%9D%98_%EA%B7%B8%EB%A6%87.md "SE-N-Iα-905_Lacrima_영혼의_그릇.md")] | |
+
+Clones inside the family (lower designation → copy, with the section and its score):
+
+- Beating Relic → Thinking Engine 0.70 (Core Stat Line)
+- Lacrima → Dead Air 0.65 (Operational Parameters)
+- Beating Relic → Lacrima 0.65 (Operational Parameters)
+- Beating Relic → Dead Air 0.50 (Combat Actions)
+
+**Family — "Something here remembers what we chose to forget." (5 dossiers)**
+
+| dossier | |
+|---|---|
+| [[SE-C-IIβ-901_Duri's_Heart_보존된_심장](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-901_Duri%27s_Heart_%EB%B3%B4%EC%A1%B4%EB%90%9C_%EC%8B%AC%EC%9E%A5.md "SE-C-IIβ-901_Duri's_Heart_보존된_심장.md")] | |
+| [[SE-C-IVδ-923_Hatred_Above_분노의_폭풍](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-923_Hatred_Above_%EB%B6%84%EB%85%B8%EC%9D%98_%ED%8F%AD%ED%92%8D.md "SE-C-IVδ-923_Hatred_Above_분노의_폭풍.md")] | |
+| [[SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-900_Vellum_Man_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%B4%EC%95%BC%EA%B8%B0%EA%BE%BC.md "SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md")] | |
+| [[SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-927_Dreaming_Plague_%EA%BF%88%EC%9D%98_%EC%A0%84%EC%97%BC%EB%B3%91.md "SE-N-IVδ-927_Dreaming_Plague_꿈의_전염병.md")] | |
+| [[SE-O-IIIγ-924_Weighted_Silence_침묵의_구역](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-924_Weighted_Silence_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EA%B5%AC%EC%97%AD.md "SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md")] | |
+
+Clones inside the family (lower designation → copy, with the section and its score):
+
+- Weighted Silence → Dreaming Plague 0.87 (Combat Actions)
+- Vellum Man → Weighted Silence 0.72 (Testimonium)
+- Vellum Man → Dreaming Plague 0.63 (Testimonium)
+- Hatred Above → Weighted Silence 0.50 (Combat Actions)
+
+**What the quote does and does not say.** It is a *cluster marker*, not a proof: a shared quote says the two
+files came through the same pass, and the check then looks inside them — in **all five families** it found
+section clones, but the clones are 0.50-0.87, i.e. edited copies (the byte-identical pair, Dawn That Forgot /
+Dreaming Plague, straddles two families: their quote differs while their Combat Actions does not). One family
+was already repaired in this programme — `Lethe` and `Dead Air` share the quote and now score no section above
+0.50 between them, which is the target state for the rest.
+
+Reproduce: `python3 tools/auditors/clone_audit.py --quotes` (families, members, and the clones inside each).
 
 ## What the check looks like going forward
 

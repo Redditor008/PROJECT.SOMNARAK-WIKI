@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Clone audit restarted from the SE quote — `clone_audit.py --quotes` (2026-10-07)** — the owner's call: the
+  blockquote between the title and `## SECC Classification` is the first place a reskin shows. Measured over **301 / 301**:
+  **5 exact duplicate quote families covering 31 dossiers** — *"It does not end. It merely pauses between heartbeats."*
+  (**8**), *"The city gave us this. We did not ask for it."* (**7**), *"The weight is not punishment. It is recognition."*
+  (**6**), *"When it comes, you will know. Everyone knows."* (**5**), *"Something here remembers what we chose to forget."*
+  (**5**). Within those families **18 / 84 pairs carry a section clone = 21.4%** against an archive baseline of **1.20%**
+  (540 / 45,150) — a **18× lift**, the strongest single indicator in the audit. Clones found inside every family (Passing
+  Bell → Sorrow Mass 0.69 Testimonium · Unwaking Block → Allhallow 0.70 · Miasma → Sky of Borrowed Faces 0.65 · Beating
+  Relic → Thinking Engine 0.70 Core Stat Line · Weighted Silence → Dreaming Plague 0.87 Combat Actions). Report Finding 7
+  links all 31 dossiers. Read-only: no dossier content changed.
+
 - **Clone audit, linked pairs — `clone_audit.py --pair` (2026-10-07)** — on the owner's request the audit report now carries
   GitHub links for **every pair named in it**, both sides, plus 13 ready-to-paste `--pair` commands and links to the 12
   heaviest of the **43 / 301** files carrying a verbatim section. New tool mode: `clone_audit.py --pair A B` prints one pair in

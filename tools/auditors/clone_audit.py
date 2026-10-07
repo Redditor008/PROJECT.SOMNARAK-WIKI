@@ -279,6 +279,97 @@ def print_lineage(data, fam, codes):
         print()
 
 
+def opening_quote(path):
+    """The blockquote between the H1 title and ## SECC Classification — the line the reskin
+    passes paste in whole. Owner's finding, 2026-10-07: this is the first call of a clone."""
+    out, seen = [], False
+    for ln in io.open(path, encoding='utf-8'):
+        t = ln.rstrip('\n')
+        if t.startswith('# ') and not seen:
+            seen = True
+            continue
+        if seen and t.startswith('## '):
+            if 'SECC Classification' in t:
+                break
+            continue
+        if seen and t.strip().startswith('>'):
+            out.append(t.strip())
+        elif seen and out and t.strip():
+            break
+    q = re.sub(r'\s+', ' ', ' '.join(out).lstrip('> ').strip())
+    return re.sub(r'^[*_"]+|[*_"]+$', '', q).strip()
+
+
+def quotes_report(data):
+    """Restart of the check from the opening quote: families first, then the clones inside them."""
+    fam = collections.defaultdict(list)
+    for f in data:
+        q = opening_quote(f)
+        if q:
+            fam[q].append(f)
+    groups = [(q, v) for q, v in fam.items() if len(v) >= 2]
+    groups.sort(key=lambda kv: -len(kv[1]))
+    members = sum(len(v) for _, v in groups)
+    print('dossiers %d | opening quotes present %d | duplicated quote families %d covering %d dossiers'
+          % (len(data), sum(1 for f in data if opening_quote(f)), len(groups), members))
+    # section-clone index once
+    by = collections.defaultdict(dict)
+    for f, d in data.items():
+        for k, v in d['secs'].items():
+            by[k][f] = v
+    clone = set()
+    for name, fl in by.items():
+        if len(fl) < 20:
+            continue
+        owner = collections.defaultdict(list)
+        for f, g in fl.items():
+            for x in g:
+                owner[x].append(f)
+        cand = collections.Counter()
+        for x, lst in owner.items():
+            if len(lst) > DISTINCTIVE_MAX:
+                continue
+            for a, b in itertools.combinations(sorted(lst), 2):
+                cand[(a, b)] += 1
+        for (a, b), c in cand.items():
+            if c < 10:
+                continue
+            if max(cont(fl[a], fl[b]), cont(fl[b], fl[a])) >= 0.5:
+                clone.add((a, b) if a < b else (b, a))
+    tot = withn = 0
+    for v in groups:
+        for a, b in itertools.combinations(sorted(v[1]), 2):
+            k = (a, b) if a < b else (b, a)
+            tot += 1
+            if k in clone:
+                withn += 1
+    print('within-family pairs carrying a section clone: %d / %d = %.1f%%  (archive baseline %.2f%% -> lift %.0fx)'
+          % (withn, tot, 100.0 * withn / tot if tot else 0,
+             100.0 * len(clone) / (len(data) * (len(data) - 1) / 2), (100.0 * withn / tot) / (100.0 * len(clone) / (len(data) * (len(data) - 1) / 2)) if tot else 0))
+    print()
+    for q, v in groups:
+        print('QUOTE "%s"  -- %d dossiers' % (q[:100], len(v)))
+        for f in v:
+            print('    %s' % os.path.basename(f))
+        hits = []
+        for a, b in itertools.combinations(sorted(v), 2):
+            best = None
+            for name in set(data[a]['secs']) & set(data[b]['secs']):
+                ga, gb = data[a]['secs'][name], data[b]['secs'][name]
+                if len(ga) < 12 or len(gb) < 12:
+                    continue
+                m = max(cont(ga, gb), cont(gb, ga))
+                if best is None or m > best[0]:
+                    best = (m, name)
+            if best and best[0] >= 0.5:
+                na, nb = designation(a)[1], designation(b)[1]
+                win, cop = (a, b) if (na or 0) < (nb or 0) else (b, a)
+                hits.append((best[0], best[1], os.path.basename(win)[:34], os.path.basename(cop)[:34]))
+        for m, name, win, cop in sorted(hits, reverse=True)[:8]:
+            print('    clone %.2f  %-26s  %s  ->  %s' % (m, name[:26], win, cop))
+        print()
+
+
 def print_pair(a, b, data):
     """Everything needed to compare one pair by hand, in one command."""
     A, B = data[a], data[b]
@@ -334,6 +425,7 @@ def main(argv):
     do_sections = False
     do_lineage = False
     pair_paths = None
+    do_quotes = False
     i = 0
     while i < len(argv):
         a = argv[i]
@@ -345,12 +437,18 @@ def main(argv):
             do_sections = True
         elif a == '--lineage':
             do_lineage = True
+        elif a == '--quotes':
+            do_quotes = True
         elif a == '--pair':
             pair_paths = [argv[i + 1], argv[i + 2]]
             i += 2
         else:
             single = a
         i += 1
+
+    if do_quotes:
+        quotes_report(load(dossiers()))
+        return 0
 
     if pair_paths:
         a = pair_paths[0] if os.path.isabs(pair_paths[0]) else os.path.join(ROOT, pair_paths[0])
