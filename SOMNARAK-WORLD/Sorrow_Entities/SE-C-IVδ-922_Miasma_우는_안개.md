@@ -1,6 +1,6 @@
 # Miasma — 우는 안개
 
-> *"The weight is not punishment. It is recognition."*
+> *"It weeps through you with grief that is not yours, and leaves the particulars behind."*
 
 ## SECC Classification
 
