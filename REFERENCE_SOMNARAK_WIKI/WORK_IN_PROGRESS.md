@@ -3094,6 +3094,10 @@ condition (Both posts hand in their tallies without conferring, and the differen
 condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; archive dirty @dirty@;
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
+**Batch 44, unit 6: Hollow Architect `C-IVγ-255` cleaned.** Copied `### Consequences` (whole against 4 dossiers) replaced in place
+in its own terms. 7,164 → **7,202 words**; residual 0; 0 sections over 0.05; copy-side whole instances **4 → 0**. **Batch 44
+stands at six of ten.**
+
 **Batch 44, unit 5: Vanity Asleep `N-IIIγ-954` cleaned.** Copied `### Consequences` (whole against 4 dossiers) replaced in place
 in its own terms. 6,939 → **6,959 words**; residual 0; 0 sections over 0.05; copy-side whole instances **4 → 0**. **Batch 44
 stands at five of ten.**
@@ -3117,6 +3121,8 @@ until the next touched-fruit tally is larger than the last. 7,270 → **7,299 wo
 
 **Batch 44 — OPEN at ten; clean phase (replace copied sections in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
+
+- SE-C-IVγ-255 Hollow Architect 빈 건축가 — `1651ab1` — PUSH VERIFIED — [[SE-C-IVγ-255_Hollow_Architect_빈_건축가](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-255_Hollow_Architect_%EB%B9%88_%EA%B1%B4%EC%B6%95%EA%B0%80.md "SE-C-IVγ-255_Hollow_Architect_빈_건축가.md")]
 
 - SE-N-IIIγ-954 Vanity Asleep 잠든 거울 — `bae8fbe` — PUSH VERIFIED — [[SE-N-IIIγ-954_Vanity_Asleep_잠든_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-954_Vanity_Asleep_%EC%9E%A0%EB%93%A0_%EA%B1%B0%EC%9A%B8.md "SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md")]
 

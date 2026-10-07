@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 44 / unit 6 — Hollow Architect `C-IVγ-255` cleaned (2026-10-07)** — copied `### Consequences` (whole against **4**
+  dossiers) replaced **in place** in the file's own terms: the plan that goes on building by itself, the aftershocks short
+  briefings only gesture at, the toll a M.A.W. is owed inside the rooms, and the double entry on one line when **Resolve** splits.
+  7,164 → **7,202 words**; residual 0; **0 sections over 0.05**; `tpl.py` 0; meets **True**; copy-side whole instances **4 → 0**.
+  **Batch 44 stands at six of ten.**
+
 - **Batch 44 / unit 5 — Vanity Asleep `N-IIIγ-954` cleaned (2026-10-07)** — copied `### Consequences` (whole against **4**
   dossiers) replaced **in place** in the file's own terms: the glass that stops waiting, the minute borrowed against identity,
   the extraction that lands in the record, and the release it asks for when the condition goes unmet. 6,939 → **6,959 words**;
