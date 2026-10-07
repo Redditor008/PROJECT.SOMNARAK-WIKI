@@ -2246,7 +2246,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 33 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-C-IIIγ-891 Screaming Masonry 스며든 절규 — `__HASH__` — PUSH VERIFIED — [[SE-C-IIIγ-891_Screaming_Masonry_스며든_절규]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-891_Screaming_Masonry_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%A0%88%EA%B7%9C.md "SE-C-IIIγ-891_Screaming_Masonry_스며든_절규.md")
+- SE-C-IIIγ-891 Screaming Masonry 스며든 절규 — `747513d` — PUSH VERIFIED — [[SE-C-IIIγ-891_Screaming_Masonry_스며든_절규]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-891_Screaming_Masonry_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%A0%88%EA%B7%9C.md "SE-C-IIIγ-891_Screaming_Masonry_스며든_절규.md")
 
 - SE-O-IVδ-897 Welcome Haven 부서진 벽 — `c53e916` — PUSH VERIFIED — [[SE-O-IVδ-897_Welcome_Haven_부서진_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-897_Welcome_Haven_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%B2%BD.md "SE-O-IVδ-897_Welcome_Haven_부서진_벽.md")
 
