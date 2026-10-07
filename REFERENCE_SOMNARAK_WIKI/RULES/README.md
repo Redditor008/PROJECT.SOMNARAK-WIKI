@@ -35,6 +35,7 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-27`](R-27_THE_TALE_STANDARD_IS_PER_SECTION.md) | The Tale Standard Is Per Section, Not Per File — every description-bearing section is measured on its own; Behavior is an example, not the list |
 | [`R-28`](R-28_NOT_EVERYTHING_BREACHES.md) | Not Everything Breaches — non-breaching floors of 75% RE / 25% SE / 50% OP, reclassified only on the dossier's own evidence |
 | [`R-29`](R-29_ABNORMALITY_WIKI_DONE_BETTER.md) | The Standard Is An Abnormality Wiki, Done Better — nine parity sections as the floor, six clauses above it as the work; Part three (the ladder, from Comparative Study 02) is guidance, not a test |
+| [`R-30`](R-30_QUOTE_FIX_WITH_TYPE.md) | A Quote Fix Carries The New Quote And Its Type — the written quote is read back with its register type (`R1`–`R8`) and entered in `QUOTE_REGISTER_LEDGER.md` before the push counts as finished |
 
 ## Precedence
 

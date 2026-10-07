@@ -89,11 +89,19 @@ colleague."* Plain diction + an unstated catastrophe does the work; the genre ne
    is talking, as long as the line could belong to no other dossier.
 10. **Vary the register across the wing.** Before drafting, run `python3 tools/auditors/quote_audit.py --registers`; if the
     neighbouring files in the same phase all use the same register, pick another one that still fits this holding.
+11. **Record the quote with its type (`R-30`).** A quote fix is not finished until the new quote has been read back
+    **with its register type** — `quote_audit.py --file <path>` — and entered in
+    `REFERENCE_SOMNARAK_WIKI/QUOTE_REGISTER_LEDGER.md` (`quote_audit.py --ledger …`), in the same push that writes
+    the quote. The owner's instruction, 2026-10-07: *"If Fixing Quote Add In The NEW QUOTE TO CHECK WITH IT TYPE."*
+    Choose the type when drafting; if the read-back disagrees with the intent, redraft.
 
 ## Procedure for a fix
 
 1. Read the file: SECC line, `감각 묘사 (Flavor Text)`, Story Log Entry 1, its own figures, its M.A.W. weapon name.
 2. Draft the quote in its own register — the voice of the people who keep the record, or of the sorrow itself.
-3. `quote_audit.py --check "<draft>"` — no match, word count inside the band.
+3. `quote_audit.py --check "<draft>"` — no match, word count inside the band; decide the register type now.
 4. Replace the blockquote line in place; run the per-dossier checks (`verify.py`, `sectfile.py`, `tpl.py`, `wikistd.py`).
-5. Commit and push the unit (`A0`); one `gate.sh` for the docs row (`R-12`).
+5. **`R-30` read-back:** `quote_audit.py --file <path>` — the written quote, its type, `no exact duplicate` — then
+   regenerate the ledger (`quote_audit.py --ledger REFERENCE_SOMNARAK_WIKI/QUOTE_REGISTER_LEDGER.md`) so the new
+   quote sits in it against the same type. The fix's record carries the new quote **and** its type.
+6. Commit and push the unit (`A0`); one `gate.sh` for the docs row (`R-12`).

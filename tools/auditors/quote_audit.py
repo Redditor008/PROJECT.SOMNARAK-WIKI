@@ -16,6 +16,11 @@ designation — the pre-cover-up text), and checks a candidate quote before it i
   quote_audit.py --file <path>    one dossier's quote with the same check
 
 The rules a new quote must pass are written down in REFERENCE_SOMNARAK_WIKI/SE_QUOTE_GUIDE.md.
+
+R-30 (owner's instruction, 2026-10-07 — *"If Fixing Quote Add In The NEW QUOTE TO CHECK WITH IT TYPE"*): a quote
+fix is not finished until the new quote has been read back **with its register type** and entered in the ledger.
+`--verify` does the first (every quote, its type, and a census); `--ledger <path>` writes the second
+(REFERENCE_SOMNARAK_WIKI/QUOTE_REGISTER_LEDGER.md).
 """
 import argparse
 import collections
@@ -140,13 +145,14 @@ def report():
     return 0
 
 
-def check(text, q, fam):
+def check(text, q, fam, exclude=None):
+    """exclude: path of the dossier being read back — its own quote is not a duplicate of itself."""
     n = norm(text)
     words = len(text.split())
     print('quote:   "%s"' % text)
     print('words:   %d   (archive band %d-%d; half fall between %d and %d)'
           % (words, BAND[0], BAND[1], 8, 32))
-    hits = fam.get(n, [])
+    hits = [f for f in fam.get(n, []) if f != exclude]
     if hits:
         print('match:   DUPLICATE — already used by %d dossier(s):' % len(hits))
         for f in hits:
@@ -154,7 +160,7 @@ def check(text, q, fam):
         print('verdict: NOT clear to use.')
         return 1
     print('match:   no exact duplicate.')
-    pool = {norm(plain(r)): f for f, r in q.items()}
+    pool = {norm(plain(r)): f for f, r in q.items() if f != exclude}
     near = difflib.get_close_matches(n, list(pool), n=3, cutoff=0.55)
     if near:
         print('nearest:')
@@ -208,13 +214,93 @@ def registers():
     return 0
 
 
+TYPE_ORDER = (
+    ('R6', 'the question', lambda t: t.rstrip().endswith('?')),
+    ('R7', 'found speech / bystander dialogue', lambda t: (t.count('"') >= 2) or ('\u201c' in t) or ('\u2018' in t)),
+    ('R1', 'the entity speaking (first person singular)', lambda t: bool(re.search(r'\b(I|my|me|mine)\b', t))),
+    ('R1b', 'staff speaking (first person plural)', lambda t: bool(re.search(r'\b(we|us|our|ours)\b', t, re.I))),
+    ('R2', 'addressed to you (second person)', lambda t: bool(re.search(r'\b(you|your|yours)\b', t, re.I))),
+    ('R3', 'documentary / bureaucratic record', lambda t: bool(re.search(r'\b(record|records|filed|file|register|ledger|report|logged|log|entry|entered|audit|order|notice|form|clause|memo|quarter|procedure|protocol)s?\b', t, re.I))),
+    ('R4', 'fable narration', lambda t: bool(re.search(r'\b(there was|there were|once)\b', t, re.I))),
+    ('R5', 'elegy / lyric image', lambda t: bool(re.search(r'\b(light|sky|snow|stars?|sea|rain|song|music|bloom|flower|wind|water|cold|silence|shadow)s?\b', t, re.I))),
+)
+TYPE_FALLBACK = ('R8', 'aphorism / third-person statement')
+TYPE_ALL = tuple((e[0], e[1]) for e in TYPE_ORDER) + (TYPE_FALLBACK,)
+
+
+def classify(text):
+    """One register type per quote (R1-R8, ABNORMALITY_QUOTE_RESEARCH_2026-10-07.md). First match wins."""
+    for ty, name, pred in TYPE_ORDER:
+        try:
+            if pred(text):
+                return ty, name
+        except re.error:
+            continue
+    return TYPE_FALLBACK
+
+
+def verify(write=None):
+    """R-30 read-back: every quote with its register type; census; optional ledger write."""
+    q, fam = census()
+    dups = {k: v for k, v in fam.items() if len(v) > 1}
+    counts = collections.Counter()
+    rows = []
+    for f in dossiers():
+        r = q.get(f)
+        if not r:
+            print('MISSING QUOTE  %s' % os.path.basename(f))
+            continue
+        t = plain(r)
+        ty, name = classify(t)
+        counts[ty] += 1
+        rows.append((code(f)[0], ty, name, len(t.split()), t, f))
+    print('QUOTE REGISTER READ-BACK (R-30) — %d / %d quotes typed' % (len(rows), len(dossiers())))
+    print('  %-5s %-9s %s' % ('type', 'count', 'register'))
+    for ty, name in TYPE_ALL:
+        if counts.get(ty):
+            print('  %-5s %-9s %s' % (ty, '%d / %d' % (counts[ty], len(rows)), name))
+    if dups:
+        print('  DUPLICATE FAMILIES: %d — a fix is required before this check can pass.' % len(dups))
+    else:
+        print('  duplicate families: 0 / %d' % len(rows))
+    if write:
+        path = write if os.path.isabs(write) else os.path.join(ROOT, write)
+        L = []
+        L.append('# Quote Register Ledger')
+        L.append('')
+        L.append('> *"A quote that cannot name its own voice is a quote the next reader will recognise from somewhere else."*')
+        L.append('')
+        L.append('Every dossier\'s opening quote with its register type, per **`R-30`** (owner\'s instruction, 2026-10-07):')
+        L.append('a quote fix is not finished until the new quote has been read back **with its type** and entered here.')
+        L.append('Type is one of `R1`-`R8` from `ABNORMALITY_QUOTE_RESEARCH_2026-10-07.md`; the classifier is the')
+        L.append('deterministic first-match order in `tools/auditors/quote_audit.py` (`--verify` reproduces this table).')
+        L.append('')
+        L.append('| # | Dossier | Register | Words | Quote |')
+        L.append('|---|---|---|---|---|')
+        for i, (cd, ty, name, w, t, f) in enumerate(rows, 1):
+            L.append('| %d | `%s` | **%s** — %s | %d | %s |' % (i, cd, ty, name, w, t.replace('|', '\\|')))
+        L.append('')
+        L.append('- Register census at write time: ' + ' · '.join('%s %d / %d' % (ty, counts[ty], len(rows))
+                 for ty, _ in TYPE_ALL if counts.get(ty)) + '.')
+        L.append('- Duplicate families: **%d / %d**.' % (len(dups), len(rows)))
+        L.append('- Re-run: `python3 tools/auditors/quote_audit.py --verify` (table) or `--ledger REFERENCE_SOMNARAK_WIKI/QUOTE_REGISTER_LEDGER.md` (write).')
+        L.append('')
+        io.open(path, 'w', encoding='utf-8').write('\n'.join(L) + '\n')
+        print('  ledger written: %s (%d rows)' % (path, len(rows)))
+    return 1 if dups or len(rows) != len(dossiers()) else 0
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description='the dossier opening quote — identity, families, and a pre-write check')
     ap.add_argument('--check', metavar='TEXT', help='test a candidate quote against all 301 quotes')
     ap.add_argument('--file', metavar='PATH', help='show one dossier\'s quote with the same checks')
     ap.add_argument('--registers', action='store_true', help='register census across the archive (heuristic)')
+    ap.add_argument('--verify', action='store_true', help='R-30 read-back: every quote with its register type (R1-R8)')
+    ap.add_argument('--ledger', metavar='PATH', help='R-30: write the quote register ledger (markdown table)')
     args = ap.parse_args(argv)
     q, fam = census()
+    if args.verify or args.ledger:
+        return verify(write=args.ledger)
     if args.registers:
         return registers()
     if args.check:
@@ -226,7 +312,10 @@ def main(argv=None):
             print('no quote found in', path)
             return 1
         print('file:    %s  [%s]' % (os.path.basename(path), code(path)[0]))
-        return check(plain(r), q, fam)
+        ty, name = classify(plain(r))
+        print('quote:   \"%s\"' % plain(r))
+        print('type:    %s — %s   (R-30: record this with the fix)' % (ty, name))
+        return check(plain(r), q, fam, exclude=path)
     return report()
 
 
