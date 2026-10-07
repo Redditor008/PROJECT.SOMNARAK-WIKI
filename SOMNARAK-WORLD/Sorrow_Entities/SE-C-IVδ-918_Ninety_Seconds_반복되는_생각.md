@@ -1,6 +1,6 @@
 # Ninety Seconds — 반복되는 생각
 
-> *"The weight is not punishment. It is recognition."*
+> *"The interval does not repeat the room. It repeats the worst thing you have ever thought."*
 
 ## SECC Classification
 
