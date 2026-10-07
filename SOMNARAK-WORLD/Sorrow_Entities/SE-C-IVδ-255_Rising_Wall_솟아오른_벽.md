@@ -88,7 +88,7 @@
 
 1. **Tension:** The markers are the pressure and its height: personnel identify the holding by the standing column that bends the air into the outline of a person, never by an emotional impression, because the pressure acts on whoever is grieving and an impression is not a measurement. The clearance above the Wall is taken against the marked face before anybody enters, the station time beneath it is capped, and the spotter — a trained stranger, not the worker's regular partner — is named on the sheet before the cycle opens.
 2. **Clash:** The work is being lower than the Wall and staying that way: Ferrehan outlasts the pressure, Flerehan draws the reach and brings the height down, Viderehan returns structure and leaves the level where it was, and Pugnahan is prohibited on the row. One voice speaks; supervisors, commanders and everybody else stay silent, and the silence is not discretionary.
-3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Patient endurance and honest acknowledgment** — the pressure outlasted rather than answered, the one-sided remembering acknowledged plainly, the height logged against the marked face at entry and exit, and the enclosure, if one has begun, talked down by one voice along a marked line.
+3. **Resolution:** The watch closes in containment, in retreat, under management, or by the suppression condition: **Patient endurance and honest acknowledgment** **Patient endurance and honest acknowledgment** — the pressure outlasted rather than answered, the one-sided remembering acknowledged plainly, the height logged against the marked face at entry and exit, and the enclosure, if one has begun, talked down by one voice along a marked line.
 
 ### Consequences
 
@@ -217,7 +217,7 @@
 
 **Cost:** The wearer cannot lie about attachment.
 
-*The Rising Stigma is not manufactured and cannot be requisitioned. It has been conferred four times, in every case on a spotter who talked a worker out of an enclosure and declined to be named in the incident report — a refusal the file records as the qualification rather than as modesty, since a spotter who wants the credit for the talking is a spotter who will talk too often.
+*The Rising Stigma is never manufactured and no one may requisition it. It has gone out on four occasions, every one of them to a spotter who talked a worker out of an enclosure and declined to be named in the incident report — a refusal the file records as the qualification rather than as modesty, since a spotter who wants the credit for the talking is a spotter who will talk too often.
 
 ### M.A.W. Use Notes
 
@@ -309,7 +309,7 @@ Rising Wall is filed beside the three records the Commons will support, and none
 
 ### Entity Interaction Record
 
-Rising Wall is assessed beside the records below because the Commons is read as one place and not because these four belong together. The relations are points of contact rather than alliances: a boundary that was erased, a well that keeps what was not said, a love that became confinement, and one hold with no observed contact at all. The rules are the same for all four — solo baseline first, both sheets kept, and a null entered in full, since on this holding the commonest finding is that nothing moved.
+The file sets Rising Wall beside the records below because the Commons is read as one place, not because these four belong together. The relations are filed as contacts and not as alliances: a boundary that was erased, a well that keeps what was not said, a love that became confinement, and one hold with no observed contact at all. The rules are the same for all four — solo baseline first, both sheets kept, and a null entered in full, since on this holding the commonest finding is that nothing moved.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -327,9 +327,9 @@ The love was real — mutual, for a time, the kind of love that builds a life ar
 
 The asymmetry grew. She remembered; he did not. She carried the full weight of what they had been; he carried none of it. And the remembering — her one-sided, perfect, faithful remembering of a person who had forgotten she existed — accumulated. It had nowhere to go. He could not receive it (he had forgotten). She could not set it down (she could not forget). So it rose. The un-received remembering, piling higher with every perfectly-recalled detail he could no longer share, built itself into a structure between them: a wall, rising, made entirely of the memory of a love that one person still held and the other had released.
 
-Rising Wall is that wall. Subject-Weight, Lament-element: the figure of a one-sided remembering so heavy and so un-received that it became a barrier between the one who remembered and the one who forgot. It rises still — because she has not stopped remembering and he has not started, and the asymmetry, uncorrected, builds the wall higher with every passing year.
+Rising Wall is that wall. It carries a Subject-Weight manifestation in the Lament element: the figure of a one-sided remembering so heavy and so un-received that it became a barrier between the one who remembered and the one who forgot. It rises still — because she has not stopped remembering and he has not started, and the asymmetry, uncorrected, builds the wall higher with every passing year.
 
-Those who come near the Rising Wall feel the burden of remembering someone who does not remember you — the specific heaviness of carrying a shared past alone, of holding a love the other has released, of building, in the solitude of perfect recall, a wall between yourself and the one who forgot.
+Approach the Rising Wall and the burden of remembering someone who does not remember you comes with it — the specific heaviness of carrying a shared past alone, of holding a love the other has released, of building, in the solitude of perfect recall, a wall between yourself and the one who forgot.
 
 Some sorrows mourn a loss. Rising Wall mourns an asymmetry — the love that one person kept and the other let go, preserved as a wall that rises between the one who remembers everything and the one who remembers nothing, higher every year, built by the faithful, one-sided, un-received recalling of a bond that only one of them is still carrying.
 ## 증언 (Testimonium) — The Testimony
@@ -430,9 +430,9 @@ In the forty-sixth year a descendants' association applied for rectification of 
 
 The facility opposed the application. Its submission states that the material is derived from an uncharacterised Sorrow Entity by a method that has not been validated for evidential purposes, that it has not been subjected to independent audit, and that it would be unsafe for a tribunal to act on it. Every sentence of that is true. **The application failed for want of evidence.** It did not fail on its merits, which were never reached.
 
-The objection is minuted at the forty-sixth review and at each of the five since, raised by the architectural liaison and supported by the holding's senior spotter. It holds, first, that the facility certified one dataset as reliable enough to dig on and unsafe for a tribunal to look at, within four years, and that while each certificate is defensible on its own standard, they cannot both be the institution's view of the material, and the institution has never been asked which one is. Second, that the opposition was decisive rather than incidental — the association had nothing else, the facility knew that when it filed, and the submission's final paragraph says so. Third, that the holding grows around mourners, that the people who would have mourned this district are precisely the people the register records as never having been there, and that the facility's position therefore requires it to say, in the same file, that the Wall remembers them accurately and that there is no one for it to be remembering.
+The architectural liaison has entered that objection at the forty-sixth review and at each of the five since, and the holding's senior spotter has seconded it. It holds, first, that the facility certified one dataset as reliable enough to dig on and unsafe for a tribunal to look at, within four years, and that while each certificate is defensible on its own standard, they cannot both be the institution's view of the material, and the institution has never been asked which one is. Second, that the opposition was decisive rather than incidental — the association had nothing else, the facility knew that when it filed, and the submission's final paragraph says so. Third, that the holding grows around mourners, that the people who would have mourned this district are precisely the people the register records as never having been there, and that the facility's position therefore requires it to say, in the same file, that the Wall remembers them accurately and that there is no one for it to be remembering.
 
-The minute records the objection as **correct in all three parts**. It records that a remedy was costed in the forty-seventh year at a clerk's time and a bound copy — deposit of the reconstruction with the record office as a non-conclusive annotation, contradicting nothing, correcting nothing, seeking no rectification, simply filed alongside so that it is not only the facility that has it — and that it has not been laid before the board in five years. And it records the sentence the liaison asked to have entered verbatim, which now stands on the reconstruction's title sheet:
+The minute upholds the objection on all three of its heads, and no correction is entered against any of them. It sets down that a remedy was costed in the forty-seventh year at a clerk's time and a bound copy — deposit of the reconstruction with the record office as a non-conclusive annotation, contradicting nothing, correcting nothing, seeking no rectification, simply filed alongside so that it is not only the facility that has it — and that it has not been laid before the board in five years. The liaison's sentence, taken down word for word at her request, now stands on the reconstruction's title sheet:
 
 *We dig by it and we will not file it, and the register will go on being what the district was, and the only thing in this city that remembers otherwise is standing in the Commons getting taller.*
 
@@ -445,7 +445,7 @@ The minute records the objection as **correct in all three parts**. It records t
 
 ### Registry Trivia
 
-- **Classification detail:** Rising Wall is a Subject with Entity (IV) coherence and Critical (δ) potency.
+- **Classification detail:** Rising Wall files as a Subject; its coherence is Entity (IV) at Critical (δ) potency.
 - **Field detail:** Element Lament, registered to Zone D at the Mantle Commons, where it stands without foundation and has never been recorded falling. Its height is taken with a plumb line against the chamber's marked face — the only measurement the holding yields — and 19 years of watches have not produced a single fall.
 - **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
 - **Record detail:** Among Subject-Weight holdings it is distinguished by producing a verifiable historical dataset as a by-product of ordinary observation work. Everything difficult in the three sections below follows from that dataset being correct and from the one office that could receive it being forbidden to.
