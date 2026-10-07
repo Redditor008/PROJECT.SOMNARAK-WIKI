@@ -2796,6 +2796,18 @@ entry residual cleared line-locally; `own_series` already True; the file's own f
 edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 301; section-clean 283 / 301; archive
 dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
 
+**Batch 41 closed at five (2026-10-07).** Five dossiers · **3 / 3 dirty sections closed** · **+1,089 words** net ·
+`verify.py` residual **1 → 0** · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Movement, b41 open
+(`144d717`) → b41 close: `R-29` 262 → **267 / 301** · parity 276 → **278 / 301** (units 4, 5) · condition 272 →
+**274 / 301** (units 1, 4, 5) · series 283 → **284 / 301** (unit 1) · section-clean 298 → **301 / 301** · residue-free
+302 → 302 / 302 · archive dirty 3 → **0** · file-clean 302 → 302 / 302 · scene-clean 299 → **302** · worst 0.014 ·
+median 0.006. Disclosures: **rollback #35** at the batch open; every unit one wave each with one bounded fix inside
+unit 1; units 4 and 5 each had their missing interactions section written and their Resolution clause re-registered
+with the file's own text kept verbatim; unit 1 registered the file's own clause inside a newly written 4th Battle
+Phase and restated its figures in numerals; unit 2 re-authored 14 shared template lines; unit 3's fix took the archive
+dirty count to **0** and all 301 dossiers are section-clean. **Batch 41 was opened at five on the owner's pacing ladder
+(3 or 5, then 7 or 10) and closed at its rung.**
+
 **Batch 41, unit 5: Cracked Flesh `C-IIIγ-921` closed.** Measured live at `98ccddc`: **no dirty sections**; failures were
 `parity ['interactions']` and `condition` False — **closed in a single wave**; 5,461 → **5,916 words**; `tpl.py` residue 0;
 `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section written
@@ -2836,7 +2848,7 @@ conversions), `own_series` False → True, series **283 → 284 / 301**; the `Mo
 `felt... complete` ellipsis normalised, residual **1 → 0** and seam cleared. Movement: `R-29` 263 / 301; section-clean
 299 / 301; archive dirty 2; file-clean 302 / 302. **Batch 41 stands at one of five.**
 
-**Batch 41 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+**Batch 41 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IIIγ-921 Cracked Flesh 균열의 들판 — `89d5351` — PUSH VERIFIED — [[SE-C-IIIγ-921_Cracked_Flesh_균열의_들판]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-921_Cracked_Flesh_%EA%B7%A0%EC%97%B4%EC%9D%98_%EB%93%A4%ED%8C%90.md "SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md")
 

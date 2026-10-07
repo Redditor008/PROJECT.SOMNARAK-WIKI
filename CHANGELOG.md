@@ -8,6 +8,28 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 41 — CLOSED at five (2026-10-07)** — five dossiers · **3 / 3 dirty sections closed** · **+1,089 words** net
+  (31,120 → 32,209 across the five files) · `verify.py` residual **1 → 0** (unit 1, which also cleared the file's `..`
+  seam) · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Roster, newest first: u5 Cracked Flesh `C-IIIγ-921`
+  `89d5351` · u4 Eleven Fifty-Nine `C-IIIγ-912` `51364a9` · u3 The Grieving Maiden `C-IVβ-041` `2a4bfd3` · u2 Collapsed
+  Seed `N-IVδ-315` `b06f2f3` · u1 Apostle Maker `C-Iα-071c` `3833445`; every dossier carries its SE git link in
+  `WORK_IN_PROGRESS.md` (`R-12`). Movement, b41 open (`144d717`) → close: `R-29` 262 → **267 / 301** · parity 276 →
+  **278 / 301** (units 4 and 5, each a written interactions section) · condition 272 → **274 / 301** (units 1, 4, 5) ·
+  series 283 → **284 / 301** (unit 1) · section-clean 298 → **301 / 301** · residue-free 302 → 302 / 302 · archive dirty
+  3 → **0** · file-clean 302 → 302 / 302 · scene-clean 299 → **302** · worst 0.014 · median 0.006.
+
+  Disclosures: **rollback #35** at the batch open (HEAD at `408797c` while the remote stood at `66b9c36`, recovered by
+  the standing procedure). Every unit closed in a single wave plus one bounded fix inside unit 1. Unit 1 registered the
+  file's own clause as a documented suppression condition inside a newly written 4th Battle Phase, restated its figures
+  in numerals in the Registrum (`own_series` False → True), replaced a `Monitor the ` stock line and normalised a
+  `felt... complete` ellipsis to the file's own `…`. Units 4 and 5 each had their missing `## 상호작용 (Entity
+  Interactions)` section written in the file's own terms, with a 3-row record, a method and a procedure under column
+  sets not used elsewhere, and each had its Resolution clause re-registered into the suppression-condition form with the
+  file's own text kept verbatim. Unit 2's dirty section was closed by re-authoring 14 shared template lines; unit 3's by
+  re-authoring its two heavy Registrum lines, which took the archive dirty count to **0** — no section in the wing now
+  shares more than 0.05 of the register's cross-file material, and all 301 dossiers are section-clean. Batch 41 was
+  opened at five on the owner's pacing ladder (**3 or 5, then 7 or 10**) and closed at its rung.
+
 - **Batch 41 / unit 5 — Cracked Flesh `C-IIIγ-921` closed (2026-10-07)** — measured live at `98ccddc`: **no dirty sections**;
   failures were `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing `## 상호작용
   (Entity Interactions)` section written in the file's own terms — a preamble on why every relationship here is paper work,
