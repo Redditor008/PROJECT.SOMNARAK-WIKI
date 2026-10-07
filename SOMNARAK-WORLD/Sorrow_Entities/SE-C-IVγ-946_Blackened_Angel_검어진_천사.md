@@ -346,7 +346,7 @@ We recovered the intake file. Before containment, a Collector named Kangmin had 
 
 ### Interaction Pattern
 
-Blackened Angel does not exist in isolation. Its recorded relationships with The Crumbling Saint, The Calling Bloom, and The Kind Echo should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability — its weeping slows near other grief-ruined things, and the surviving gold brightens, briefly, near genuine kindness.
+The Angel's three companions in the ledger — The Crumbling Saint, The Calling Bloom, and The Kind Echo — are held as echoes of one another, not as allies and not as declared enemies; its weeping slows near other grief-ruined things, and the surviving gold brightens, briefly, near genuine kindness. Where two of the four stand in one watch, the record carries what actually changed: the note the wing gives off, the shift of movement at the perimeter, warmth or cold in the masonry, the memory pressure on the pair, the gauge, and whether the binding remained firm — with the span, the duration and the first sign.
 
 **Interaction method:** Observe it alone first, establishing its baseline weeping and gold-to-black ratio. Then introduce or observe the second entity and record the first shared response, the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the tears. Do not assume a calming interaction is safe to repeat; two wishing or giving entities together can compound into a field no one can resist asking of.
 

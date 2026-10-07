@@ -308,7 +308,7 @@ You dream of a wall that has no end. On one side stands the city; on the other, 
 
 ### Interaction Pattern
 
-Barrier of Nothing does not exist in isolation. Its recorded relationships with The Guardian of the Gate, The Forgotten Soldier, The Drift Fog should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The Wall is filed beside three others — The Guardian of the Gate, The Forgotten Soldier and The Drift Fog — and none of the three is a friend to it or a declared opponent; the link between them is a question the post has never finished answering. Any pairing is written up as a difference: which sound changed, how the rustline moved, the temperature of the air, the weight on memory, the gauge, and the steadiness of containment, each with the distance over which it showed, how long it persisted, and what set it going.
 
 **Interaction method:** On this holding the question is never whether the two resonate. It is whether anybody was obstructed while the other file was near, and whether the duration column moved for the workers who slept in the wing that night. The three related files are all boundary files, which is exactly why the Gate keeps them apart on paper: a crew that has read the wrong one arrives expecting something that stops people.
 

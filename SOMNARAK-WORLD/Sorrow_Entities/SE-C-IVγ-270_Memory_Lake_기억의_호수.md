@@ -327,7 +327,7 @@ It is black and cold and it does not move. You do not touch it; nobody touches i
 
 ### Interaction Pattern
 
-Memory Lake does not exist in isolation. Its recorded relationships with The Memory Well, The Memory Weaver, The Echo Gardens should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three holdings are entered beside the shore — The Memory Well, The Memory Weaver and The Echo Gardens — and the file keeps them as comparisons, never as friends or enemies. A joint watch states which reading moved when the second one arrived: the sound over the water, the movement of the surface, the temperature at the bank, the memory the observers were left carrying, the gauge, or the containment line, and beside that the range it kept, the time it lasted and what set it off.
 
 **Interaction method:** No proximity work is possible; this holding is a basin in deep stone and nothing enters the water. Each paper relationship is answered in writing on one question — stores, consumes, or receives — with the name of the officer who answered it.
 

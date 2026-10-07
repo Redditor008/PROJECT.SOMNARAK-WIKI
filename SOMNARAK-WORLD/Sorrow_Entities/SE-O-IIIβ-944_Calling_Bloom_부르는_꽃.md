@@ -308,7 +308,7 @@ We sent a team to the clearing at the wood's centre. There was no flower. There 
 
 ### Interaction Pattern
 
-Calling Bloom does not exist in isolation. Her recorded relationships with The Sorrow Flower, The Kind Echo, and The Vanished Seed should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability — she quiets near other grief-entities and brightens near warmth.
+The Bloom's three entries — The Sorrow Flower, The Kind Echo, and The Vanished Seed — sit in her file as questions of kinship rather than alliances or quarrels; she quiets near other grief-entities and brightens near warmth. When two of them share a ground, the watch writes down the change: the note the petals answer with, how the stems moved, the warmth of the soil, what memory the workers were left carrying, the gauge, or whether the binding stayed true — with the range held, the length of the episode, and what began it.
 
 **Interaction method:** Observe her alone first, establishing her baseline calling-voice. Then introduce or observe the second entity and record the first shared response, the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects her reaching. Do not assume a calming interaction is safe to repeat; a relationship may change during a Sorrow Tide, breach, Ordeal, or transformation event.
 

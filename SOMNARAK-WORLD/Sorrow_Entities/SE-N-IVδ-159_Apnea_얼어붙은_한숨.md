@@ -320,7 +320,7 @@ It stands there and does nothing at all, and after a while you notice you have s
 
 ### Interaction Pattern
 
-Apnea does not exist in isolation. Its recorded relationships with The Sleeping Sigh, The Frozen Veil, The Border Lead should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+Three names are written beside this one — The Sleeping Sigh, The Frozen Veil and The Border Lead — and the register keeps them as comparisons rather than partisans. A watch that runs two together enters what the second presence altered: breath-sound in the room, movement at the edge of sight, the cold gathered around the cot, memory pressure, the gauge reading, or the hold on containment, and beside each one the range, the duration, and the first trigger.
 
 **Interaction method:** No proximity work. The chamber was built around the room and the figure has never been moved; each paper relationship is answered in writing on one question — rest denied, feeling stopped, or a post that could not be left.
 

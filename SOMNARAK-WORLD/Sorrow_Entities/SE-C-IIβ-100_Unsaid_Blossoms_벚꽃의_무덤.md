@@ -327,7 +327,7 @@ The air inside the ring is heavy enough that you find yourself not speaking, and
 
 ### Interaction Pattern
 
-Unsaid Blossoms does not exist in isolation. Its recorded relationships with The Whispering Walls, The Silent Bell, The Weeping Statue should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The grave keeps three names on its books beside the blossoms — The Whispering Walls, The Silent Bell and The Weeping Statue — and what runs between them is neither friendship nor quarrel, only a question the file asks again each time. Any watch that stands two of them together must say plainly what altered: how the place sounded, whether anything moved, the chill or warmth in the soil, the memory pressure on the worker, the figure on the gauge, and whether the border still answered — with a distance, a length of time and the moment it began.
 
 **Interaction method:** No proximity work, on the standing order's first line: it is a grave. Each paper relationship is settled in writing on one question — repeated, never sounded, or said too late — and the answer is entered with the name of the officer who gave it.
 

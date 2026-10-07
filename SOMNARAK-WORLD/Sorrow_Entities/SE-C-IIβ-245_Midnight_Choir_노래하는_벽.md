@@ -327,7 +327,7 @@ At midnight the mouths open, and it is lullabies first, then work songs, then hy
 
 ### Interaction Pattern
 
-Midnight Choir does not exist in isolation. Its recorded relationships with The Hollow Choir, The Singing Stone, The Whispering Walls should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
+The corridor's three filed companions — The Hollow Choir, The Singing Stone and The Whispering Walls — are carried against it as answers to one question, not as partisans. When a second holding shares the watch, the page must carry what changed: the tones running through the stonework, the way the passage carried movement, the temperature of the air, the load left on memory, the reading on the gauge, or the firmness of containment, together with where it held, for how long, and what started it.
 
 **Interaction method:** No proximity work is possible; the holding is ninety-four metres of load-bearing corridor. Each paper relationship is settled in writing on one question — unheard, repeated, or unfinished — and the answer is entered with the name of the officer who gave it.
 
