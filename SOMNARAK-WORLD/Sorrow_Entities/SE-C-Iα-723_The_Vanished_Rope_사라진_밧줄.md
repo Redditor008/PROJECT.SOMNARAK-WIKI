@@ -42,7 +42,7 @@
 - A cycle settles the knot. It has never been untied, and no session has recovered the Rope.
 - Four ignored conditions escalate it. Escalation is a change in the knot rather than any reappearance.
 - Emotional pressure acts on crews who attempt to work the knot by hand; handling is prohibited by standing order.
-- Extraction is a separate risk event with its own authorization.
+- Drawing anything off this figure is a risk event standing on its own, and it is authorised on its own.
 
 ## Combat Record
 ### Core Stat Line
@@ -88,14 +88,14 @@
 
 1. **Tension:** Identification is the two cut ends: several rope and chain forms are catalogued in this archive, and this is the one severed at both ends, burning without ash, holding one end out. Positions and the route out are set before the cycle opens, and the team notes who each member is standing beside — the reach takes the newest person first, and that note is the only prophylactic measure the file can honestly recommend.
 2. **Clash:** The figure reaches, and the entire session turns on what the team does with the offered end. Flerehan is answered with recognition and Ferrehan with a test of whether the worker can hold on without pulling; both lower the gauge. Pugnahan makes it burn harder and recoil. Nobody is to be tied.
-3. **Resolution:** The session closes when the offered end has been held and given back, or refused without being tied, and the counter has been read before and after. The condition on the record is **Name what was lost; do not attempt to recreate the bond**, and a shift that ends with the end secured to anything has not closed.
+3. **Resolution:** The sitting ends once the offered end has been held and handed back — or refused and left untied — with the counter read both before and after. The condition on the record is **Name what was lost; do not attempt to recreate the bond**, and a shift that ends with the end secured to anything has not closed.
 
 ### Consequences
 
 - A worker who takes the offered end and keeps hold of it becomes the conduit: **Clarity** erodes by the measure of the grip they will not release, and the instability goes back into the Sorrow Gauge rather than out of the chamber.
 - The effect is not a matter of exposure time. It intensifies each time somebody accepts the end that is being offered, and a worker who has taken it once will be offered it first on every subsequent session, by preference over anyone else in the chamber.
-- Everything in this set is cut from a tether severed in the middle, so each activation spends a measure of the grip that was never released and leaves the operator holding the rest. The cost is not grief — the operator keeps the bond, and loses the ability to let an arrangement lapse.
-- Left unresolved the sorrow does not rupture outward; it keeps asking. The figure continues to present the free end to one person after another, and the file is explicit that nothing about this escalates — it is the same request, made again, which is why the counter and not the clock governs here.
+- Every item here is cut from a line that parted at its middle, and each use spends some of a grip that nobody ever loosened; the operator keeps hold of what is left. The price is not grief. What is lost is the capacity to let anything lapse — the bond stays, the option to put it down does not.
+- Unresolved, the sorrow does not burst outward; it goes on asking. The figure offers the free end to one person and then the next, and the file is plain that nothing changes as it does so — the same request, repeated; which is why the count governs here and the clock does not.
 
 ## Appearance
 **Primary Form:** A burning humanoid figure with rope-like limbs that fade in and out of visibility. The rope appears severed at both ends.
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-The four responses split into a recognition and a test, and the split is the whole of the mechanism. Flerehan reaches toward the worker and lowers the gauge; Ferrehan lowers it by testing whether they can hold the end without pulling. Viderehan keeps the reading flat and shows the bond together with the moment it was severed. Pugnahan is the one approach that reliably raises it, and the note attached to it is that nobody is to be tied. The Vanished Rope is filed as a Subject with a Subject-Grudge manifestation, mobile, registered at the Desolate, and nothing about another rope-form record transfers to it. A flat gauge is not a safe session either: holding is permitted and securing is not, which is the distinction crews most often get wrong.
+The four Types divide into one that recognises and one that tests, and that division is the entire mechanism. Flerehan comes toward the worker and the gauge falls; Ferrehan lowers it by finding out whether the end can be held without a pull. Viderehan holds the reading level and shows the bond and the moment it parted. Pugnahan is the one route that reliably raises the gauge, and the standing note against it is that nobody gets tied. The file records a Subject-Grudge form, mobile, registered at the Desolate; nothing about any other rope-shaped record carries over. A motionless gauge is no proof of a safe shift either — holding the end is allowed, tying it is not, and that is the line crews cross most.
 
 **Reading the response:** A falling gauge under Flerehan means the reach was met and not refused; under Ferrehan it means the worker held the end steady and did not pull the figure toward them. Rising means the rope was tugged, cut, tied off, or fastened to any fixed point. The distinction personnel most often get wrong is that holding is permitted and securing is not.
 ## Breach Behavior
@@ -224,11 +224,11 @@ The lower chamber houses slow-smoldering cedar coals and powdered mourning herbs
 
 **Cost:** The wearer feels every broken bond as personal loss.
 
-*The knot is not manufactured. The Rope gives one to a worker who held the end and then named who was missing from it, and has given none to a worker who tied it off safely.*
+*No workshop makes the knot. It is given to a worker who held the end and then said who was missing from it, and it has never once been given to anybody who tied off safely.*
 
 ### M.A.W. Use Notes
 
-The three pieces extend this holding only as far as nobody has stood in for the missing traveller. In the hands of an operator who has not taken the end, the censer and the shroud hold to grade; in the hands of one who has, the cost scales and the Lament in them becomes active, which here means the operator is attached to somebody they cannot name. The knot is the exception in every respect, and the exception is the whole of its value.
+All three pieces reach only so far as the missing traveller has not been stood in for. An operator who never took the end can carry the censer and the shroud to grade and no further; one who has taken it finds the price climbing and the lament waking in them — which here means being tied to somebody whose name is gone. The knot is the exception in every respect, and that exception is all of what it is worth.
 
 ### Field Use Record
 
@@ -306,14 +306,14 @@ A length of rope burns across the horizon, attached to nothing. When it reaches 
 
 ### Interaction Pattern
 
-Three records are filed against this one because each concerns a bond that was severed or a tie somebody could not put down, and the archive pairs them by that subject rather than by any observed contact. The question worth measuring is narrow: whether the reach transfers to the other record, whether the circuit lengthens, and whether either severed end shows any sign of joining anything.
+Three records sit next to this one because each is about a bond cut through, or a tie nobody could put down; the shelf groups them by subject and has never claimed a contact. What is worth measuring is a narrow thing: does the reach carry across to the other record, does the circuit get longer, and does either cut end show any sign of taking hold of anything.
 
 **Interaction method:** Baseline it alone and with a full team present, because the reading changes with the number of people available to be offered the end. In shared conditions record whether the reach transferred to the other entity, whether the circuit lengthened, and whether either severed end showed any sign of joining anything.
 
 
 ### Entity Interaction Record
 
-The archive's severed and binding forms are filed together; this one resembles them and does not behave like them. None of the three below is an ally or an enemy, and no co-presence has been logged with both holdings' readings attached except where the row says otherwise — the pairing is a shared subject and the file keeps it as one.
+The severed forms and the binding forms share a drawer here, and this figure looks like them without acting like them. Of the three set out below, not one is friend or foe to the rope, and no shared watch has attached both readings unless the row itself says so; sharing a subject is all the file has ever claimed.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -335,9 +335,9 @@ One traveler felt the rope go slack. He pulled. The rope came — the whole rope
 
 He made it back. He returned to the city carrying the rope — both ends, the full length, the tether that had been meant to keep them together. And the rope, which had failed, which had vanished mid-storm — the rope became his grief. He carried it the way mourners carry relics: faithfully, daily, the object that was meant to connect him to the one who was gone, now connecting him to nothing, both ends in his hands, the middle lost.
 
-The Vanished Rope is that tether. Subject-Grudge, Lament-element: the figure of a connection severed mid-storm, preserved as a rope that connects no one, held by the one who survived, carrying the helplessness of holding an invisible end — the specific grief of being tied to someone who vanished and surviving with both ends and no one on the other.
+The Vanished Rope is that tether. Subject-Grudge, Lament-element: a connection cut in the middle of a storm, kept as a rope that ties nobody to anything, held by the one who lived — the helplessness of gripping an invisible end, the particular grief of outlasting somebody who vanished and being left with both ends and nobody at the other.
 
-Those who come near the Vanished Rope feel the grief of the severed tether — the helplessness of holding a connection that leads to nothing, the ache of a bond that did not hold, the survivor's particular sorrow of carrying both ends of a rope that was supposed to keep them together.
+The approach to the Vanished Rope carries the grief of a tether cut through — the helplessness of holding a line that reaches nothing, the ache of a bond that failed, and, under it, the survivor's own sorrow of standing with both ends of a rope that was meant to hold two people together.
 
 Some sorrows mourn the lost. The Vanished Rope mourns the connection — the tether that dissolved in the storm, preserved by the one who came back holding both ends, still tied to the companion who is gone, still holding, the rope going nowhere, the other end empty.
 ## 증언 (Testimonium) — The Testimony
