@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 43 / unit 8 — Miasma `C-IVδ-922` closed (2026-10-07)** — measured at `0f2f1bd`: failures were
+  `parity ['interactions']`, `condition` False and `series` False. **Closed in a single wave plus a bounded fix**: the
+  missing `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a
+  3-row record pairing the corridor with Dead Air `N-IIIγ-929`, Lethe `C-IIIγ-928` and Sky of Borrowed Faces
+  `O-IIIγ-926` under its own column set, and an interaction procedure — parity **292 → 293 / 301** · the Resolution line
+  extended to carry the file's own clause as a documented suppression condition (**The far spotter calls the run clear,
+  the near spotter repeats it back**) — condition **288 → 289 / 301** · and the Observation Log's own figure restated in
+  numerals (four attempts → 4 attempts) inside the real edit, `own_series` False → True, series **285 → 286 / 301**.
+  4,861 → **5,296 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**;
+  residual 0 on entry. **Batch 43 stands at eight of ten.**
+
 - **Batch 43 / unit 7 — Backward Hour `C-IIIγ-913` closed (2026-10-07)** — measured at `6b0d04d`: failures were
   `parity ['interactions']`, `condition` False and `series` False. **Closed in a single wave plus a bounded fix**: the
   missing `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a

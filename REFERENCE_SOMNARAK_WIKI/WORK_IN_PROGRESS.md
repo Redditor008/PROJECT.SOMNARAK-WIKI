@@ -2923,6 +2923,15 @@ file's own clause as a documented suppression condition (Two respiration series,
 condition **274 → 275 / 301**. Movement: `R-29` 269 / 301; section-clean 301 / 301; archive dirty 0;
 file-clean 302 / 302. **Batch 42 stands at one of seven.**
 
+**Batch 43, unit 8: Miasma `C-IVδ-922` closed.** Measured at `0f2f1bd`: failures were `parity ['interactions']`,
+`condition` False and `series` False — **closed in a single wave plus a bounded fix**; 4,861 → **5,296 words**; `tpl.py`
+residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions
+section written in the file's own terms (3 rows — Dead Air `N-IIIγ-929`, Lethe `C-IIIγ-928`, Sky of Borrowed Faces
+`O-IIIγ-926` — with its own column set), parity **292 → 293 / 301**; the Resolution line extended to carry the file's own
+clause as a documented suppression condition (The far spotter calls the run clear, the near spotter repeats it back),
+condition **288 → 289 / 301**; the Observation Log's own figure restated in numerals (four attempts → 4) inside the real
+edit, `own_series` False → True, series **285 → 286 / 301**. **Batch 43 stands at eight of ten.**
+
 **Batch 43, unit 7: Backward Hour `C-IIIγ-913` closed.** Measured at `6b0d04d`: failures were `parity
 ['interactions']`, `condition` False and `series` False — **closed in a single wave plus a bounded fix**; 5,613 →
 **6,070 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed:
@@ -2983,6 +2992,8 @@ condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
 **Batch 43 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IVδ-922 Miasma 우는 안개 — `bd06a4e` — PUSH VERIFIED — [[SE-C-IVδ-922_Miasma_우는_안개](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-922_Miasma_%EC%9A%B0%EB%8A%94_%EC%95%88%EA%B0%9C.md "SE-C-IVδ-922_Miasma_우는_안개.md")]
 
 - SE-C-IIIγ-913 Backward Hour 카운트다운 시계 — `5cdf681` — PUSH VERIFIED — [[SE-C-IIIγ-913_Backward_Hour_카운트다운_시계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-913_Backward_Hour_%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4_%EC%8B%9C%EA%B3%84.md "SE-C-IIIγ-913_Backward_Hour_카운트다운_시계.md")]
 
