@@ -2335,7 +2335,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 34 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-O-Iα-169 Atlas 녹슨 기둥 — `__HASH__` — PUSH VERIFIED — [[SE-O-Iα-169_Atlas_녹슨_기둥]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-169_Atlas_%EB%85%B9%EC%8A%A8_%EA%B8%B0%EB%91%A5.md "SE-O-Iα-169_Atlas_녹슨_기둥.md")
+- SE-O-Iα-169 Atlas 녹슨 기둥 — `cb88158` — PUSH VERIFIED — [[SE-O-Iα-169_Atlas_녹슨_기둥]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-169_Atlas_%EB%85%B9%EC%8A%A8_%EA%B8%B0%EB%91%A5.md "SE-O-Iα-169_Atlas_녹슨_기둥.md")
 
 - SE-N-IIIγ-954 Vanity Asleep 잠든 거울 — `60b5c96` — PUSH VERIFIED — [[SE-N-IIIγ-954_Vanity_Asleep_잠든_거울]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-954_Vanity_Asleep_%EC%9E%A0%EB%93%A0_%EA%B1%B0%EC%9A%B8.md "SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md")
 
