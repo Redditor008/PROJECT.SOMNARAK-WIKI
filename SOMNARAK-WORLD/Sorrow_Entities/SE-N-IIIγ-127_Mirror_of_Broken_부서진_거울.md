@@ -248,7 +248,7 @@ Every piece is a fragment of somebody's earlier self, and the set lends that to 
 - The reflections are dreamt, not seen. No glass, lens or plate has ever captured one, and the holding is invisible to every instrument the wing has pointed at it.
 - Fear afterwards rather than during, and it attaches to the selves that cannot be made to agree rather than to the figure.
 
-**Personnel Note:** *"Eleven faces. It did not ask me to pick one, which is the part that undid me — the Office has only ever had room for the one I am this year, and that thing in the Gate had all of them standing there at once and treated every one as still in existence."* — Specialist, Exile's Gate watch, Zone E
+**Personnel Note:** *"11 faces. It did not ask me to pick one, which is the part that undid me — the Office has only ever had room for the one I am this year, and that thing in the Gate had all of them standing there at once and treated every one as still in existence."* — Specialist, Exile's Gate watch, Zone E
 
 
 
@@ -257,7 +257,7 @@ Every piece is a fragment of somebody's earlier self, and the set lends that to 
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Face count, distance from the Gate, the dreamer's own words taken on waking, and whether the account was volunteered. |
-| **Sustained observation** | The face count is returned annually and has risen each time: four, seven, eleven. Its conduct, position and effect are otherwise identical across the whole series. |
+| **Sustained observation** | The face count is returned annually and has risen each time: 4, 7, 11. Its conduct, position and effect are otherwise identical across the whole series. |
 | **Activation or escalation** | A face that has moved toward the present, or a count above the series. Both are reported the same shift and neither is left to the next return. |
 | **Post-contact review** | Count, distance, the volunteered account, and the counsellor's note. Nobody is asked a second time; the rule was written by a Warden who was. |
 
@@ -367,7 +367,7 @@ Some sorrows mourn a home. Mirror of Broken mourns a self — the identity shatt
 
 ### Registry Addendum
 
-**Operational interpretation:** The shard count rises with the Gate's exit register and falls when somebody names a self they used to be without defending it. Nine pieces to sixty-one in nine years. The clerks' question — what did you do before — is the only containment measure this holding has, it costs nothing, and four times it has been answered on the form as *not applicable* by a clerk in a hurry, each time followed by a rise.
+**Operational interpretation:** The shard count rises with the Gate's exit register and falls when somebody names a self they used to be without defending it. 9 pieces to 61 in 9 years. The clerks' question — what did you do before — is the only containment measure this holding has, it costs nothing, and four times it has been answered on the form as *not applicable* by a clerk in a hurry, each time followed by a rise.
 
 **Review requirement:** After every cycle: the shard count, the arrangement photographed, the Gate's exit figures for the fortnight, and every prior-occupation field recorded as not applicable. The last is reported to the Gate's own supervisor, who has twice asked for it to stop being reported and twice been refused.
 ## Warden Record
@@ -408,14 +408,14 @@ The Gate clerks asked for one line. Not a grade, not conduct — one line of pla
 
 ## Trivia
 
-- There is no original face. Eleven were counted at the last return and no two of them agree.
+- There is no original face. 11 were counted at the last return and no 2 of them agree.
 - The shards gain weight measurably when a viewer denies a self they used to be, and lose it when one is named without being argued over.
 
 
 
 ### Registry Trivia
 
-- **Classification detail:** Fragment (III) coherence at Major (γ) — sixty-one pieces of one person, none of them whole and none of them discarded.
+- **Classification detail:** Fragment (III) coherence at Major (γ) — 61 pieces of one person, none of them whole and none of them discarded.
 - **Field detail:** Weight, on the ground inside the Exile's Gate wall in Zone E, counted and photographed each cycle.
 - **Recognition detail:** A figure of broken mirror and black crystal that is never the same shape twice, lead-cold, sharp to be near, with wet stone on the air and a different self in every shard.
 - **Record detail:** The Registrum recorded Echo (II) coherence and Moderate (β) potency against a Fragment (III), Major (γ) header and rated the holding Low. All three discrepancies were reported upstream twice and remain; they are listed here so the next reader does not take them for findings.
