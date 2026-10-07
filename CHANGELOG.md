@@ -8,6 +8,37 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 48 closed at seven (2026-10-07) — quote phase part three + the family's R-29 gaps, owner-directed** — the six copies paused
+  since batches 45–46 were re-authored **in place**, each in its own register: Duri's Heart · Hatred Above · Weighted Silence · Dreaming Plague ·
+  Lethe · Dead Air; the two source keepers were left as they were. Registers used: R5 elegy · R2 warning to the reader · R3 documentary ·
+  R1 first person · R6 question (the archive's first) · R7 found speech — six units, six different registers. Movement: distinct quotes
+  **295 → 301 / 301**; duplicate families **2 → 0 / 301**; dossiers sharing a quote **8 → 0 / 301** — nothing queued. `R-29` **287 → 290 / 301**:
+  parity complete **298 → 301 / 301**, specific condition **293 → 295**, own numeric series **290 → 293**; Beating Relic (keeper, its quote untouched)
+  and Hatred Above and Weighted Silence closed the family's gaps (interactions sections with fresh column sets, resolution conditions, series).
+  Nothing deleted (`R-15`); every unit meets **True**, residual 0, 0 sections over 0.05. Disclosures: **rollback #52** recovered at the open;
+  u3's series clause completed in a second commit (`fc944f1`); u7 cleared **8** pre-existing residual stock lines line-locally (`c674741`).
+  Reporting change per the owner's same-day instruction: batch tables now carry the **new quote** and its **register type**, not mass/words/commit columns.
+
+- **Batch 48 / unit 7 — Beating Relic `C-IIIγ-902` (2026-10-07)** — the family's source keeper; its quote is unchanged by design. Unit is the family's R-29 gap: a fresh interactions section (new column set) filed against The Debtor `C-IIIγ-061` · Owed `C-IIIγ-180` · The Inherited Debt `N-IVβ-019`, plus the series bullet. Eight pre-existing residual stock lines were cleared line-locally in a second commit the same turn (`c674741`, `verify.py` RESIDUAL 8 → 0). **Batch 48 stands at 7 of seven.**
+
+- **Batch 48 / unit 6 — Dead Air `N-IIIγ-929` quote written (2026-10-07)** — the shared copy replaced **in place** with one of this file's own, register **found speech**: *"On the form I wrote 'left side' and an estimated weight. What no form of mine has ever recorded is that the leaning was somebody I knew."*
+   **Batch 48 stands at 6 of seven.**
+
+- **Batch 48 / unit 5 — Lethe `C-IIIγ-928` quote written (2026-10-07)** — the shared copy replaced **in place** with one of this file's own, register **the question (the archive's first)**: *"If nothing said in the volume is a statement in law, what is the annual assurance return made of? The minutes where people say exactly what they think."*
+   **Batch 48 stands at 5 of seven.**
+
+- **Batch 48 / unit 4 — Dreaming Plague `N-IVδ-927` quote written (2026-10-07)** — the shared copy replaced **in place** with one of this file's own, register **the entity's own voice (first person)**: *"I was nearer last night than the night before. The city you keep dreaming is mine, and the sky over it is still the wrong sky."*
+   **Batch 48 stands at 4 of seven.**
+
+- **Batch 48 / unit 3 — Weighted Silence `O-IIIγ-924` quote written (2026-10-07)** — the shared copy replaced **in place** with one of this file's own, register **documentary record**: *"The first report could not describe it and came back with an instruction to write it again. Both versions are filed; the second is the one the containment was built from."* Unit also closed the file's R-29 gaps.
+  Unit also closed the file's R-29 gaps: resolution condition, own series, and a fresh interactions section (new column set) filed against Unrung `C-IIβ-170` · Clapperless `C-IIβ-340` · The Silent Maiden `C-IVβ-043`. Series clause completed in a second commit the same turn (`fc944f1`).  **Batch 48 stands at 3 of seven.**
+
+- **Batch 48 / unit 2 — Hatred Above `C-IVδ-923` quote written (2026-10-07)** — the shared copy replaced **in place** with one of this file's own, register **warning to the reader (second person)**: *"You cross alone and you keep walking. The light is brighter under the anomaly so that you see your own hands the moment they stop."* Unit also closed the file's R-29 gaps.
+  Unit also closed the file's R-29 gaps: resolution condition, own series (gauge ladder), and a fresh `## 상호작용 (Entity Interactions)` section (new column set) filed against The Rage Statue `C-IIIγ-190` · Gavel `C-IVδ-140` · Pyre of Truths `C-IVδ-092`.  **Batch 48 stands at 2 of seven.**
+
+- **Batch 48 / unit 1 — Duri's Heart `C-IIβ-901` quote written (2026-10-07)** — the shared copy replaced **in place** with one of this file's own, register **elegy / lyric image**: *"She counted every one she lost. The amber has been counting them back — same dates, to the day, ever since."*
+   **Batch 48 stands at 1 of seven.**
+
 - **Batch 47 closed at ten (2026-10-07) — personalization phase, first per-10 batch, owner's direction** — the ten worst-sounding dossiers had their
   shared phrasing re-authored **in place** in each file's own terms: Mourner's Bloom · Once Upon · Never Discharged · Echo of Kindness · Once Told ·
   Vellum Man · Torn Flower · Passing Bell · The Kind Healer · Moktak. Generic mass, plan census → final: **16.6% → 2.6%** · **16.2% → 1.3%** ·
