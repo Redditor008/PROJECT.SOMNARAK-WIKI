@@ -2713,7 +2713,16 @@ line-locally; `own_series` already True; the file's own figures restated in nume
 96 · 5 assessors · 11 watches · 5,212). Movement: `R-29` 242 / 301; section-clean 276 / 301; archive dirty 34;
 file-clean 302 / 302. **Batch 39 stands at one of seven.**
 
+**Batch 40, unit 1: Doorway to Nowhere `N-IIβ-152` closed.** Measured at `b2db5e6`: **2 dirty sections** — Behavior and
+Final Observation — **closed in a single wave** (6 sites, every replacement in fresh wording); 8,386 → **8,462 words**;
+`tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held. Disclosed:
+entry residual cleared line-locally; `own_series` already True; the file's own figures restated in numerals inside real
+edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 301; section-clean 283 / 301; archive
+dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
+
 **Batch 40 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIβ-152 Doorway to Nowhere 떠도는 문 — `9c1c873` — PUSH VERIFIED — [[SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-152_Doorway_to_Nowhere_%EB%96%A0%EB%8F%84%EB%8A%94_%EB%AC%B8.md "SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md")
 
 **Batch 39 — CLOSED at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 

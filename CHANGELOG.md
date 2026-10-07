@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 40 / unit 1 — Doorway to Nowhere `N-IIβ-152` closed (2026-10-07)** — measured at `b2db5e6`: **2 dirty
+  sections**, Behavior (the Work-Type paragraph and the reading paragraph, 0.067) and Final Observation (the choice
+  blockquote and the choose and result rows, 0.074). **Closed in a single wave** (6 sites), each re-authored in wording
+  used nowhere else: no reuse of the batch's closing-choices phrasing. 8,386 → **8,462 words**; `tpl.py` residue 0;
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**; condition held; entry residual cleared
+  line-locally (`is logged as ` → `stands on the register as `); `own_series` already True. The file's own figures were
+  restated in numerals inside real edits (4 places of drift · 40 metres · thirty years) — disclosed. Movement at the
+  unit commit: `R-29` 249 / 301; section-clean 283 / 301; residue-free 302 / 302; residue lines 0; archive
+  dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
+
 - **Batch 39 — CLOSED at seven (2026-10-07)** — seven dossiers · **12 / 12 dirty sections closed** · **+370 words** net
   (56,544 → 56,914 across the seven files) · `verify.py` residuals **6 → 0** (units 1, 2, 3, 4, 5, 7; unit 6 entered
   clean) · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Roster, newest first: u7 Midnight Choir `C-IIβ-245`
