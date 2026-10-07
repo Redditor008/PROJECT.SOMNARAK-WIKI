@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 51 closed at ten (2026-10-07) — personalization phase, fourth per-10 batch, owner-directed** — the queue was re-measured at the open (49 / 301 needed it) and the ten worst files each had their shared phrasing re-authored **in place** in their own terms, worst-first, one push per unit (`A0`). Movement: queue **49 → 34 / 301**; light **44 → 34**; fine **252 → 267**; heavy and moderate **0 / 301**. Words across the ten **70,567 → 70,969 (+402)**; four files ran net-negative after their long paragraphs were condensed and were topped up in their own voice (`5cb48c9`). The batch probe ran on both sides of every push: five same-batch repairs (`4e0a0e2` · `7cfb286` · `81283a8` · `199f913` · `9493d61`) plus the growth top-up (`5cb48c9`). At close, shared grams carried by ≥ 2 batch files: **20**, every one pre-existing — **0** left introduced by Batch 51. `R-29` repaired at the open (The Observing Bird's split condition phrase) back to **290 / 301**, `cc55249`.
+
+- **Batch 51 / unit 10 — Well of Unfinished Words `N-IIβ-778` (2026-10-07)** — generic mass 6.7% → **0.8%** (14 of 1,743); 6,865 → 6,878 words.  **Batch 51 stands at 10 of ten.**
+- **Batch 51 / unit 9 — Bulwark `N-Iα-459` (2026-10-07)** — generic mass 6.8% → **1.3%** (34 of 2,610); 7,634 → 7,664 words.  **Batch 51 stands at 9 of ten.**
+- **Batch 51 / unit 8 — Mourning a Life I Never Lived `N-Iα-519` (2026-10-07)** — generic mass 6.9% → **2.2%** (36 of 1,670); 6,507 → 6,523 words.  **Batch 51 stands at 8 of ten.**
+- **Batch 51 / unit 7 — Double Mouth `C-IIβ-716` (2026-10-07)** — generic mass 6.9% → **1.3%** (31 of 2,429); 6,758 → 6,781 words.  **Batch 51 stands at 7 of ten.**
+- **Batch 51 / unit 6 — Hollowcast `N-IIβ-426` (2026-10-07)** — generic mass 7.0% → **1.1%** (28 of 2,445); 7,251 → 7,265 words.  **Batch 51 stands at 6 of ten.**
+- **Batch 51 / unit 5 — Ember Phoenix `O-IVδ-190` (2026-10-07)** — generic mass 7.1% → **0.9%** (28 of 3,006); 7,613 → 7,671 words.  **Batch 51 stands at 5 of ten.**
+- **Batch 51 / unit 4 — Weighting Bird `C-IIIγ-032` (2026-10-07)** — generic mass 7.1% → **0.7%** (23 of 3,077); 7,677 → 7,730 words.  **Batch 51 stands at 4 of ten.**
+- **Batch 51 / unit 3 — Scar Walker `O-IIIδ-011` (2026-10-07)** — generic mass 7.3% → **1.5%** (26 of 1,789); 5,915 → 5,990 words.  **Batch 51 stands at 3 of ten.**
+- **Batch 51 / unit 2 — Broken Compass `C-IIβ-290` (2026-10-07)** — generic mass 7.3% → **2.1%** (53 of 2,544); 7,339 → 7,397 words.  **Batch 51 stands at 2 of ten.**
+- **Batch 51 / unit 1 — Atlas `O-Iα-169` (2026-10-07)** — generic mass 7.4% → **1.7%** (38 of 2,270); 7,008 → 7,070 words.  **Batch 51 stands at 1 of ten.**
 - **Batch 50 closed at ten (2026-10-07) — personalization phase, third per-10 batch, owner-directed** — the queue was re-measured at the open
   (**67 / 301** need it: heavy **0** · moderate **18** · light **49** · fine **234**) and the ten worst files each had their shared phrasing re-authored
   **in place** in their own terms, worst-first, one push per unit (`A0`). Movement: queue **67 → 49 / 301**; moderate **18 → 5**; light **49 → 44**;
