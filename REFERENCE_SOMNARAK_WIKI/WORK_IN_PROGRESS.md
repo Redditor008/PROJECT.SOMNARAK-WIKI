@@ -2713,6 +2713,8 @@ line-locally; `own_series` already True; the file's own figures restated in nume
 96 · 5 assessors · 11 watches · 5,212). Movement: `R-29` 242 / 301; section-clean 276 / 301; archive dirty 34;
 file-clean 302 / 302. **Batch 39 stands at one of seven.**
 
+**Batch 40 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
 **Batch 39 — CLOSED at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IIβ-245 Midnight Choir 노래하는 벽 — `06c4a5a` — PUSH VERIFIED — [[SE-C-IIβ-245_Midnight_Choir_노래하는_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-245_Midnight_Choir_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B2%BD.md "SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md")
