@@ -88,7 +88,7 @@
 
 1. **Tension:** Two transcribers take opposite corners with their own books and pencils. No recorder is brought — six years of attempts have produced six hours of silence on tape — and no questions are prepared, because questions cannot be asked.
 2. **Clash:** None, and the station has asked for the row to be struck. There is nothing to engage; there is an hour of other people's conversation and two people writing it down.
-3. **Resolution:** The hour ends mid-sentence, every time. Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled.
+3. **Resolution:** The hour ends mid-sentence, every time. Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled. It closes against the documented suppression condition: **Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled**.
 
 ### Consequences
 
@@ -276,6 +276,21 @@ The hour is a conversation you are not in. The voices are ordinary, unhurried, a
 **When the entity activates:** The air thickens and the room sounds fuller, and then somebody who is not there says something to somebody else who is not there, and the hour has started.
 
 **After departure:** You wait half a second before answering people. It passes in a few days for transcribers and does not entirely pass for the two who carried the set.
+
+## 상호작용 (Entity Interactions)
+
+The bell is rung for the ancestors and the hour has never been run beside a second holding. Everything below is paper work from the appendix that groups the 90x holdings by manifestation, read against the two files' own series; the two transcripts this file keeps are never reconciled, and neither are these rows.
+
+**Interaction method:** Fix the hour's own figures first — the two transcripts, the sealed books, the warnings copied into the ledger — established alone across a full cycle before any comparison is entered. Then lay the other record's series beside them and enter the first divergence, its range, what set it off, and whether either series moved. Re-verify each quarter.
+
+| What the hour meets | How the pairing has run | What the ledger entered | What the file retains |
+|---|---|---|---|
+| **Moktak** `N-IIβ-910` | Filed together on the ancestor line. That record seats the ancestors and raises them in order; this one gives them one hour that ends mid-sentence, every time. | The closing order and the bell's hour were set side by side in one review and shared nothing but their finality. | That the two are compared on their endings alone, noted beside the row each time it is read. |
+| **Vellum Man** `C-Iα-900` | Grouped on narration that stops before it is done. That record abandons the tale at thirty minutes with the page marked; here the hour ends mid-sentence and the two transcripts simply stop. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement and not a finding, entered on each repetition. |
+| **Weighted Silence** `O-IIIγ-924` | Grouped on an hour nobody fills. That record holds quiet with a pressure under it; this one holds two speakers who cannot reach the end of a sentence before the bell. | One joint review entry; the counts diverged at the first mark and neither column was reconciled. | That the divergence is the finding, kept in the review's own figures rather than merged. |
+
+**Interaction procedure:** Compare in the record only, at the quarter's review, with the sealed books and the ledger's warnings re-read first and the other record's series laid beside them unchanged. Enter divergence, range, trigger, both readings and what persists; never reconcile the columns.
+
 
 ## 이야기 (Narratio) — The Tale
 
