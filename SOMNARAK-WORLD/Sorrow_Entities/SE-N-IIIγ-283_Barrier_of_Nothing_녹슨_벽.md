@@ -88,7 +88,7 @@
 
 1. **Tension:** The checked marker is the rusted plate and the transit line, and not posture. The plates carry marks that read like a record, and no one on this ground is permitted to read them. Confirmed against the designation, positions taken, and the cycle opened.
 2. **Clash:** Flerehan and Ferrehan from the transit line. Pugnahan hardens the plates and narrows the dream-space around whoever is sleeping on the holding that night, which is why it is logged as an increase and why the Warden carries the halberd and does not use it. One test of the barrier per session, recorded with the tester's name.
-3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Name both sides of the separation; do not choose a false neutrality**. Nobody takes the middle here, and the plates go on being left unread.
+3. **Resolution:** The watch closes with containment, with retreat, with management, or on the bar's own suppression condition: **Name both sides of the separation; do not choose a false neutrality**. Nobody takes the middle here, and the plates go on being left unread.
 
 ### Consequences
 
@@ -267,7 +267,7 @@ The halberd belongs to the Gate's fabric and the plate to the Ferrehan stand. Th
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Barrier of Nothing (N-IIIγ-283 [WS]) stands on the register as a Subject-Dream manifestation expressing Weight, standing at Zone E in the Exile's Gate vicinity behind a transit line and no door. It obstructs nothing. The holding's instruction is that it is worked from the line, that Pugnahan is not applied, and that the marks on its plates are not interpreted.
+Barrier of Nothing's entry (N-IIIγ-283 [WS]) reads Subject-Dream manifestation, Weight expressed; it stands at Zone E in the Exile's Gate vicinity, behind a transit line and no door. It obstructs nothing. The holding's instruction is that it is worked from the line, that Pugnahan is not applied, and that the marks on its plates are not interpreted.
 
 **Entry 2 — <Excerpt from Infirmary Duration Column, Year 4238>**
 Mean dream-rust duration for the cycle, 31 days, against 24 the previous year and 19 the year before. Column printed as it stands, without comment, under the heading that says only how long afterward.
@@ -315,7 +315,7 @@ The Wall is filed beside three others — The Guardian of the Gate, The Forgotte
 
 ### Entity Interaction Record
 
-Barrier of Nothing must be assessed against the other boundary files and kept distinct from them. The Guardian of the Gate enforces a boundary; this one has none to enforce. The Vanished Wall was removed and is mourned as absent; this one is present and mourns being unnecessary. The Soaking Wall is a structure. This is a figure in the shape of a structure, and the difference decides which side of the line a worker stands on.
+The file sets the Barrier beside the other boundary holdings and keeps each of them separate. The Guardian of the Gate enforces a boundary; this one has none to enforce. The Vanished Wall was removed and is mourned as absent; this one is present and mourns being unnecessary. The Soaking Wall is a structure. This is a figure in the shape of a structure, and the difference decides which side of the line a worker stands on.
 
 | What the wall holds apart | How the pairing has run | What the post entered | What the file carries |
 |---|---|---|---|
@@ -361,9 +361,9 @@ Some sorrows are about exclusion. This one is about the exclusion nobody is enfo
 - Pugnahan is not applied: it hardens the plates and narrows the dream-space across everybody sleeping in the wing.
 - One barrier test per session, by one named worker, recorded.
 - Panel impressions taken each cycle, dated, boxed in order, and not interpreted.
-- The Lapse Review is a containment condition of this holding and binds every standing exclusion this facility holds.
+- The Lapse Review is a condition of this holding's containment, and it binds every standing exclusion the facility holds.
 **Observation Notes:**
-- Dream-rust duration opened on every worker who stands the line and closed when the rust leaves their sleep; cycle mean 31 days against 24 and 19 in the two preceding years.
+- Dream-rust duration opened on every worker who stands the line and closed when the rust leaves their sleep; cycle mean 31 days, against 24 and 19 in the two years immediately before.
 - Durations lengthen with the count of standing bars whose stated grounds have lapsed; tested against transit count, barrier extent, season and worker hours, none of which fit.
 - Fourteen transits in a standard cycle and no obstruction in ninety years of sheets.
 - Construction roster and outward passage records held in one folder by standing order of the second Warden.
@@ -398,11 +398,11 @@ Nothing in the existing Record is overturned. The entity still obstructs nothing
 
 What it costs is the defence of the abolition. Ending the appeals process was right, and the Medical Board's evidence that quarterly reapplication was re-injuring Fractured workers has never been answered by anybody in this wing. The Gate's position is narrower: that the Board abolished the pleading and, with it, the only machinery that ever took a bar down, and that six hundred and four people in this facility are now standing on their side of a wall nobody is manning.
 
-The operational consequence lies outside the Gate entirely. Nothing done on the transit line has ever shortened a duration — not shorter watches, not rotation, not the two years of sleep instrumentation. The only thing that has ever moved with it is the Lapse Review: every standing exclusion read once a year against its own stated grounds, by the facility and not by the worker, with the bar falling automatically where the grounds have gone, and nobody ever required to ask. In Year 4237 that read 1,312 bars and dropped 604. Forty-one people went back to the wing they came from; nine of them presented again inside the year with the condition the bar had been written for, two of those during a breach; eighty-three workers asked not to be read at all and were refused, because an opt-out rebuilds the limbo the abolition was meant to end; and one Warden, restored on a lapse, fit by every measure, stood a watch in which a man died, was found by inquiry to have been properly restored, and has not worked since. The file sets those beside the duration column, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
+The operational consequence lies outside the Gate entirely. Nothing done on the transit line has ever shortened a duration — not shorter watches, not rotation, not the two years of sleep instrumentation. What has moved with it — the single thing that ever has — is the Lapse Review: every standing exclusion read once a year against its own stated grounds, by the facility and not by the worker, with the bar falling automatically where the grounds have gone, and nobody ever required to ask. In Year 4237 that read 1,312 bars and dropped 604. Forty-one people went back to the wing they came from; nine of them presented again inside the year with the condition the bar had been written for, two of those during a breach; eighty-three workers asked not to be read at all and were refused, because an opt-out rebuilds the limbo the abolition was meant to end; and one Warden, restored on a lapse, fit by every measure, stood a watch in which a man died, was found by inquiry to have been properly restored, and has not worked since. The file sets those beside the duration column, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
 
 ### The Wall They Built
 
-Exiles raised a wall near the Gate and then passed through it one at a time until only the wall was left, and the commissioning material holds the work roster for its construction. The roster has names against days. Most of those names appear later in the Gate's outward passage records, which the file sets alongside, matched where a match exists. The archivist's note observes that the two documents together show a group of people building a barrier and then individually going around it.
+Exiles raised a wall near the Gate and then passed through it one at a time until only the wall was left, and the commissioning material holds the work roster for its construction. The roster has names against days. Most of those names appear later in the Gate's outward passage records, which the file sets alongside, matched where a match exists. The archivist's note sets the two documents side by side and lets them speak: a group of people building a barrier, and then each of them going around it.
 
 ## Trivia
 
