@@ -2653,6 +2653,13 @@ restated in numerals inside real edits (5 grants · 3 of the 5 on leave · 4 ass
 against 157). Movement: `R-29` 237 / 301; section-clean 271 / 301; archive dirty 47; file-clean 302 / 302.
 **Batch 38 stands at one of five.**
 
+**Batch 39, unit 3: Unsaid Blossoms `C-IIβ-100` closed.** Measured live at `faaca78`: **2 dirty sections** — Behavior
+(the diagnostic paragraph) and Final Observation (blockquote and choose row) — **closed in a single wave** (4 sites)
+plus a line-local residual fix; 7,945 → **7,975 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**;
+`wikistd.py` meets **True**, condition held. Disclosed: residual cleared line-locally; `own_series` already True. Movement:
+`R-29` 244 / 301; section-clean 278 / 301; archive dirty 29; file-clean 302 / 302. **Batch 39 stands at three of
+seven.**
+
 **Batch 39, unit 2: Memory Lake `C-IVγ-270` closed.** Measured at `746ede4`: **2 dirty sections** — Final Observation and
 the Behavior paragraph — **closed in a single wave** (17 sites); 8,379 → **8,456 words**; `tpl.py` residue 0;
 `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition clause kept verbatim. Disclosed:
@@ -2669,6 +2676,8 @@ line-locally; `own_series` already True; the file's own figures restated in nume
 file-clean 302 / 302. **Batch 39 stands at one of seven.**
 
 **Batch 39 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIβ-100 Unsaid Blossoms 벚꽃의 무덤 — `594a6ab` — PUSH VERIFIED — [[SE-C-IIβ-100_Unsaid_Blossoms_벚꽃의_무덤]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-100_Unsaid_Blossoms_%EB%B2%9A%EA%BD%83%EC%9D%98_%EB%AC%B4%EB%8D%A4.md "SE-C-IIβ-100_Unsaid_Blossoms_벚꽃의_무덤.md")
 
 - SE-C-IVγ-270 Memory Lake 기억의 호수 — `1b1a256` — PUSH VERIFIED — [[SE-C-IVγ-270_Memory_Lake_기억의_호수]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-270_Memory_Lake_%EA%B8%B0%EC%96%B5%EC%9D%98_%ED%98%B8%EC%88%98.md "SE-C-IVγ-270_Memory_Lake_기억의_호수.md")
 

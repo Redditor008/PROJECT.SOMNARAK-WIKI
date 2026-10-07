@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 39 / unit 3 — Unsaid Blossoms `C-IIβ-100` closed (2026-10-07)** — measured live at `faaca78`: **2 dirty
+  sections**, Behavior (the diagnostic paragraph, 0.060) and Final Observation (the choice blockquote and the choose row).
+  **Closed in a single wave** (4 sites, tight against the file's actual carriers): the diagnostic paragraph, the choice
+  blockquote, the choose row, and a line-local residual fix. 7,945 → **7,975 words**; `tpl.py` residue 0; `sectfile.py`
+  ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**; condition held; entry residual cleared line-locally
+  (`is logged as ` → `stands on the register as`); `own_series` already True. Movement at the unit commit: `R-29`
+  244 / 301; section-clean 278 / 301; residue-free 302 / 302; residue lines 0; archive dirty 29;
+  file-clean 302 / 302. **Batch 39 stands at three of seven.**
+
 - **Batch 39 / unit 2 — Memory Lake `C-IVγ-270` closed (2026-10-07)** — measured at `746ede4`: **2 dirty sections**,
   Final Observation and the Behavior paragraph, plus the record sections carrying shared template lines. **Closed in a
   single wave** (17 sites): the gauge-context paragraph, the choice blockquote and choose row, both Lament appearances,
