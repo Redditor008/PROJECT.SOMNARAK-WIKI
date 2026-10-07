@@ -2713,6 +2713,11 @@ line-locally; `own_series` already True; the file's own figures restated in nume
 96 · 5 assessors · 11 watches · 5,212). Movement: `R-29` 242 / 301; section-clean 276 / 301; archive dirty 34;
 file-clean 302 / 302. **Batch 39 stands at one of seven.**
 
+**Batch 40, unit 8: Miscast `C-Iα-779` closed.** Measured live at `3016432`: **1 dirty section**, Final Observation —
+**closed in a single wave** (3 sites); 7,519 → **7,533 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over
+0.05**; `wikistd.py` meets **True**, condition held, residual 0 on entry. Movement: `R-29` 256 / 301; section-clean
+290 / 301; archive dirty 11; file-clean 302 / 302. **Batch 40 stands at eight of ten.**
+
 **Batch 40, unit 7: Dreaming Ruin `N-IIIγ-505` closed.** Measured live at `73a694f`: **1 dirty section**, Final
 Observation — **closed in a single wave** (5 sites); 7,297 → **7,321 words**; `tpl.py` residue 0; `sectfile.py` **0
 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the resolution clause re-registered as a suppression
@@ -2766,6 +2771,8 @@ edits (4 places of drift · 40 metres · thirty years). Movement: `R-29` 249 / 3
 dirty 20; file-clean 302 / 302. **Batch 40 stands at one of ten.**
 
 **Batch 40 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-Iα-779 Miscast 찢어진 유물 — `8e432a8` — PUSH VERIFIED — [[SE-C-Iα-779_Miscast_찢어진_유물]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-779_Miscast_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%9C%A0%EB%AC%BC.md "SE-C-Iα-779_Miscast_찢어진_유물.md")
 
 - SE-N-IIIγ-505 Dreaming Ruin 돌아온 잔해 — `7360f4a` — PUSH VERIFIED — [[SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-505_Dreaming_Ruin_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%9E%94%ED%95%B4.md "SE-N-IIIγ-505_Dreaming_Ruin_돌아온_잔해.md")
 

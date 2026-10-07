@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 40 / unit 8 — Miscast `C-Iα-779` closed (2026-10-07)** — measured live at `3016432`: **1 dirty section**,
+  Final Observation (0.080 — the choice blockquote, the choose row and the result row). **Closed in a single wave**
+  (3 sites); 7,519 → **7,533 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py`
+  meets **True**; condition held; residual 0 on entry; `own_series` already True. Movement at the unit commit: `R-29`
+  256 / 301; section-clean 290 / 301; residue-free 302 / 302; residue lines 0; archive dirty 11;
+  file-clean 302 / 302. **Batch 40 stands at eight of ten.**
+
 - **Batch 40 / unit 7 — Dreaming Ruin `N-IIIγ-505` closed (2026-10-07)** — measured live at `73a694f`: **1 dirty section**,
   Final Observation (0.099 — the choice blockquote, the choose row and the result row), with `condition` False and one
   residual line. **Closed in a single wave** (5 sites): the resolution line's clause re-registered in the form the
