@@ -239,7 +239,7 @@ Each Relic piece is an extension of this entity rather than ordinary equipment. 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, Sorrow Gauge, emotional condition, equipment condition, mission objective, resting pulse taken twice, and declaration of any live grievance of the operator's own. |
+| **Before use** | Handler named on the sheet, resting pulse taken twice before the grip, and a declaration of any live grievance the handler is carrying that week. |
 | **During use** | Contact time, relic tempo counted by the second Warden, handler rate at each turn, vein brightness, warmth, first cost paid. |
 | **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the handler's rate has converged on the relic's. |
 | **After use** | Release to plinth under protocol, injuries, lingering effects, rate at release and at the hour, cooldown, reuse authorisation, seven-day check booked. |
@@ -249,7 +249,7 @@ Each Relic piece is an extension of this entity rather than ordinary equipment. 
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Grudge signature confirmed at SECTOR-C-902; tempo logged continuously since the holding opened, with no interruption longer than a shift.
+- The grudge reading at SECTOR-C-902 has never lapsed; the tempo has been logged continuously since the holding opened, without an interruption longer than a shift.
 - Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being an Object.
 - Contact is through the body register and through nothing else: the rate, the heat, and the hand.
 - Grip is measured on the handling ladder: 30 seconds, 1 minute, and past 60 seconds the relic inflicts 5 Grudge damage every 15 seconds.
@@ -262,15 +262,15 @@ Each Relic piece is an extension of this entity rather than ordinary equipment. 
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** Beating Relic (C-IIIγ-902 [GO]) is logged as a Object-Body manifestation expressing Grudge. Held at SECTOR-C-902.
+**Entry 1 — Containment Description** Beating Relic (C-IIIγ-902 [GO]), an Object-Body holding expressing Grudge, kept at SECTOR-C-902.
 
-**Entry 2 — Field Log** First contact report: the body register was immediately apparent. Personnel described it as a weight on the body that was not physical.
+**Entry 2 — Field Log** The first handlers named the channel without help: a weight on the body that was not physical, recorded from the first grip and every one since.
 
-**Entry 3 — Counseling Log** The grudge pressure accumulates in the body register — this is not standard grudge; this is grudge filtered through body.
+**Entry 3 — Counseling Log** The grudge here does not sit in the room the way grudge usually does; it settles in the handler, carried by the body and nothing else.
 
-**Entry 4 — Containment Notice** Management: Viderehan and Ferrehan are valid Work Types. The body register responds to patience and observation, not confrontation.
+**Entry 4 — Containment Notice** Handling runs on Viderehan and Ferrehan, the two work types that pass; patience and observation lower the gauge here, and confrontation never has.
 
-**Entry 5 — Director's Note** This entity's classification as Object-Body is correct. The body descriptor is not decorative — it is the operational axis. All containment protocols should account for the body register as the primary channel.
+**Entry 5 — Director's Note** The Object-Body filing is the right one: every meaningful reading here is taken off the handler's own body, and the protocols are built on that and nothing else.
 
 ## 최종 관찰 (Final Observation)
 
@@ -338,7 +338,7 @@ The Relic does not speak. It does not move. It beats. And when someone angry hol
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are the valid Work Types and both lower the gauge; Viderehan is preferred because it produces the legible content.
 - Flerehan and Pugnahan are unavailable to an Object and are not to be attempted as improvisation.
-- Monitor the body register specifically: handler rate against relic tempo, counted by two people, at every turn and at release.
+- Keep the reading on the handler's body throughout: rate against tempo, counted by two people, at every turn and again at release.
 
 **Cross-References:** City Sorrow (도한) · Grudge · Object-Body · the Battle Pits riots · the allocation page · the Ward Six successor inquiry
 
