@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 34, unit 1: Vanity Asleep `N-IIIγ-954` closed.** Measured at `de4b542`: **4 dirty sections**, worst Final
+Observation 0.125, then Combat Record 0.070, Flavor Text 0.066 and M.A.W. Equipment 0.054 — **closed in two passes**
+(27 sites); the first left Combat Record at 0.055, and the second re-sat the resolution opening and two damage cells to
+close it at 0.024. 6,690 → **6,939 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py`
+meets **True**, series and condition held. Disclosed: the Entry 1 `is logged as ` line rewritten (`is filed on the
+register as`) — residual **1 → 0**. Movement: `R-29` 209 / 301; section-clean 234 / 301; residue-free 302 / 302;
+archive dirty 131; file-clean 302 / 302. **Batch 34 stands at one of five.**
+
 **Batch 33 closed at ten (2026-10-07).** Ten dossiers · **37 / 37 dirty sections closed** · **+2,224 words** net ·
 `verify.py` residuals **10 → 0** · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Movement, b32 close → b33
 close: `R-29` 198 → **208 / 301** · series 264 → **269 / 301** (units 3, 4, 6, 8, 10) · condition 259 → 259 / 301 ·
@@ -2314,6 +2322,10 @@ above (`R-12`), each with its commit hash and PUSH VERIFIED; the PR #13 section 
 next entry in this file. The full disclosure list lives in the batch-25 CHANGELOG entry: the u3 pipe repair, the
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
+
+**Batch 34 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIIγ-954 Vanity Asleep 잠든 거울 — `__HASH__` — PUSH VERIFIED — [[SE-N-IIIγ-954_Vanity_Asleep_잠든_거울]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-954_Vanity_Asleep_%EC%9E%A0%EB%93%A0_%EA%B1%B0%EC%9A%B8.md "SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md")
 
 **Batch 33 — CLOSED at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 

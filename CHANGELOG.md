@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 34 / unit 1 — Vanity Asleep `N-IIIγ-954` closed (2026-10-07)** — measured at `de4b542`: **4 dirty
+  sections**, worst Final Observation 0.125 (the choice blockquote, the choose row and the result row), then Combat
+  Record 0.070 (the yield and resistance rows, the Waking and Shared Dream cells, the tension phase and the resolution
+  banner), Flavor Text 0.066 (the 32-gram relations preamble, the relations header, the after-departure line and the
+  interaction method) and M.A.W. Equipment 0.054 (two appearance lines, the cost line and the four field-use rows).
+  **Closed in two passes** (27 sites); the first left Combat Record at 0.055 (the batch-wide
+  `The team achieves containment, management, retreat, or the documented suppression condition` banner and two
+  action-row damage cells); the second re-sat the resolution opening on the file's own terms, re-ordered the Sorrow
+  Gauge cell and re-worded the Shared Dream damage cell, closing the section at 0.024. 6,690 → **6,939 words**;
+  `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with series and
+  condition held. The Entry 1 `is logged as ` stock line was rewritten (`is filed on the register as`), residual
+  **1 → 0**. Movement at the unit commit: `R-29` 209 / 301; section-clean 234 / 301; residue-free 302 / 302;
+  residue lines 0; archive dirty 131; file-clean 302 / 302. **Batch 34 stands at one of five.**
+
+
+
 - **Batch 33 CLOSED at ten (2026-10-07).** Ten dossiers, **37 / 37 dirty sections closed**, **+2,224 words** net across
   the ten unit commits, `verify.py` residuals **10 → 0**, nothing deleted (`R-15`). Each unit committed individually
   and pushed (`A0`) and validated by `wikistd.py` (`meets True`), `sectfile.py` (0 sections over 0.05), `tpl.py` and
