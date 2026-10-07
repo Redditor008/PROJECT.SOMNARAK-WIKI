@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 34 / unit 4 — The Debtor `C-IIIγ-061` closed (2026-10-07)** — measured at `9a1a640`: **3 dirty sections**,
+  worst Final Observation 0.169 (the choice blockquote, the choose row and the result row), then M.A.W. Equipment 0.093
+  (two `matte and unnaturally heavy` appearance lines, the cost and effect lines, the Burden Chain note, the use-notes
+  paragraph, the after-use row and the stat interpretation) and Combat Record 0.054 (the yield and resistance rows, two
+  action descriptions and damage cells, the tension phase — whose `by him by the stoop` splice was rebuilt — the
+  resolution and the escalation row). **Closed in a single wave** (31 sites); 6,788 → **7,024 words**; `tpl.py` residue 0;
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with series and condition held; the
+  condition was re-registered inside the rewritten resolution line. The Entry 1 `is logged as ` stock line was rewritten
+  (`stands on the register as`), residual **1 → 0**; the breach-gauge line's 7.3 tons were restated in numerals. Movement
+  at the unit commit: `R-29` 212 / 301; section-clean 237 / 301; residue-free 302 / 302; residue lines 0;
+  archive dirty 119; file-clean 302 / 302. **Batch 34 stands at four of five.**
+
+
+
 - **Batch 34 / unit 3 — Aphasia `O-Iα-720` closed (2026-10-07)** — measured at `f81c7fe`: **3 dirty sections**, worst
   Final Observation 0.173 (the choice blockquote, the choose row and the result row), then Behavior 0.055 (the 12-gram
   Work-Type paragraph, rebuilt in the file's own terms) and Flavor Text 0.053 (the 32-gram relations preamble at 12
