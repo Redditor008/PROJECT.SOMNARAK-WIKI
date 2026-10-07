@@ -1716,6 +1716,14 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 36, unit 1: A Letter Never Sent `C-Iα-114` closed.** Measured at `4d21d73`: **1 dirty section**, Final
+Observation 0.154 — **closed in a single wave** (9 sites); 4,167 → **4,296 words**; `tpl.py` residue 0; `sectfile.py`
+**0 section(s) over 0.05**; `wikistd.py` meets **True**, residual clean on entry. Disclosed: the condition registered
+**False → True** in the rewritten resolution line; the 11-gram escalation paragraph re-authored; rollback **#30** at the
+batch open (session base `408797c` against remote `4d21d73`), recovered by the standing procedure onto a
+verified-levelled tree. Movement: `R-29` 220 / 301; section-clean 245 / 301; residue-free 302 / 302; archive
+dirty 99; file-clean 302 / 302. **Batch 36 stands at one of seven.**
+
 **Batch 35 closed at five (2026-10-07).** Five dossiers · **7 / 7 dirty sections closed** · **+460 words** net ·
 `verify.py` residuals **5 → 0** · `tpl.py` residue 0 throughout · nothing deleted (`R-15`). Movement, b35 open → b35
 close: `R-29` 214 → **219 / 301** · series 271 → **274 / 301** (units 1, 4, 5) · condition 259 → **262 / 301** (units 2,
@@ -2432,6 +2440,10 @@ above (`R-12`), each with its commit hash and PUSH VERIFIED; the PR #13 section 
 next entry in this file. The full disclosure list lives in the batch-25 CHANGELOG entry: the u3 pipe repair, the
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
+
+**Batch 36 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-Iα-114 A Letter Never Sent 부치지 못한 편지 — `0367186` — PUSH VERIFIED — [[SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-114_A_Letter_Never_Sent_%EB%B6%80%EC%B9%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%ED%8E%B8%EC%A7%80.md "SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md")
 
 **Batch 35 — CLOSED at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 

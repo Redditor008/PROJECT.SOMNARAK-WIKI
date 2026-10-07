@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 36 / unit 1 — A Letter Never Sent `C-Iα-114` closed (2026-10-07)** — measured at `4d21d73`: **1 dirty section**,
+  Final Observation 0.154 (the choice blockquote, the choose row and the result row), with the 11-gram escalation paragraph
+  in Activation Behavior re-authored in the same wave. **Closed in a single wave** (9 sites); 4,167 → **4,296 words**;
+  `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with a clean residual
+  (`RESIDUAL 0` on entry). The condition registered **False → True** inside the rewritten resolution line (**Step back
+  and log the envelope in silence; break the seal only in an emergency**) — disclosed. **Disclosed:** rollback **#30**
+  struck at the batch open — the checkout was found at the session's base `408797c` while the remote held `4d21d73`; the
+  standing recovery was run (fetch → `git diff --stat FETCH_HEAD` → `git reset --mixed FETCH_HEAD` → `git checkout --
+  PR_12_NEVER_MERGED.md`) and the batch opened clean on a verified-levelled tree, open measure `R-29` 219 / 301 ·
+  section-clean 244 / 301 · archive dirty 100. Movement at the unit commit: `R-29` 220 / 301; section-clean 245 / 301;
+  residue-free 302 / 302; residue lines 0; archive dirty 99; file-clean 302 / 302. **Batch 36 stands at
+  one of seven.**
+
+
+
 - **Batch 35 CLOSED at five (2026-10-07).** Five dossiers, **7 / 7 dirty sections closed**, **+460 words** net across the
   five unit commits, `verify.py` residuals **5 → 0**, nothing deleted (`R-15`). Each unit committed individually and
   pushed (`A0`) and validated by `wikistd.py` (`meets True`), `sectfile.py` (0 sections over 0.05), `tpl.py` and
