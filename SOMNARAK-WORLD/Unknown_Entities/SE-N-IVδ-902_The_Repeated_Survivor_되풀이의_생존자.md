@@ -90,7 +90,7 @@
 
 1. **Tension:** Personnel identify the loop-aware nature, refuse assigned roles, and establish that they will not perform. The entity begins to "set the stage."
 2. **Clash:** Viderehan reveals the loop-fragments; Ferrehan endures the performance without taking a mark. Pugnahan and role-taking feed the entity and raise the gauge.
-3. **Resolution:** The team outlasts the "final act" without performing it; the entity, denied an audience that plays along, lets the curtain fall and withdraws into the next iteration.
+3. **Resolution:** The watch enters under the suppression condition: **stay out of the script — take no role, play no scene, and outlast the "final act" without performing it**. Denied an audience that plays along, the entity lets the curtain fall and withdraws into the next iteration.
 
 ### Consequences
 
@@ -202,7 +202,7 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 **Ability:** Granted at random by the entity upon a successful work; the bearer gains brief anticipation (they "know" the next moment before it happens), steadying Clarity in scripted situations.
 **Cost:** The bearer occasionally speaks a line they did not choose, in a voice not entirely their own.
 
-*Stigmas are granted at random by The Repeated Survivor upon a successful work, not manufactured.*
+*Nothing here mints a stigma. One is granted after a successful work, at random, and the grant is the loop's business rather than the worker's — there is no counter to ask at.*
 
 ### M.A.W. Use Notes
 
