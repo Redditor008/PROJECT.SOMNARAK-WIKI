@@ -149,3 +149,27 @@ Measured by `tools/auditors/personal_audit.py` (read-only). Method: every prose 
 2. Find those sentences in the file; re-author each **in place** in that file's own terms, using its own furniture (its objects, rooms, shifts, figures, Story Log entries) — growth-only (`R-15`), never deleted.
 3. Re-run the per-dossier checks; the file's generic mass must fall and its word count must rise.
 4. One wave per unit, one commit, one push (`A0`); docs row with the SE link (`R-12`).
+
+## Results — Batch 47 (closed 2026-10-07)
+
+The first per-10 batch ran to ten and closed. Ten units, each checked and pushed on its own (`A0`), then a same-batch **repair wave** (one cleanup commit per file).
+Every file now sits under the 5% line; the batch's own measurement is the acceptance test, not the plan's census.
+
+| # | Dossier | Code | Generic mass (census → final) | Words (start → final) |
+|---|---------|------|-------------------------------|------------------------|
+| 1 | Mourner's Bloom | `C-Iα-330` | 16.6% → **2.6%** | 6,856 → 6,996 |
+| 2 | Once Upon | `O-IIIγ-920` | 16.2% → **1.3%** | 4,650 → 4,824 |
+| 3 | Never Discharged | `O-IIβ-911` | 14.8% → **1.3%** | 4,665 → 4,841 |
+| 4 | Echo of Kindness | `C-Iα-240` | 12.6% → **2.1%** | 6,918 → 7,021 |
+| 5 | Once Told | `O-IVδ-930` | 12.0% → **0.8%** | 5,037 → 5,158 |
+| 6 | Vellum Man | `C-Iα-900` | 11.7% → **0.5%** | 4,535 → 4,669 |
+| 7 | Torn Flower | `C-Iα-247` | 11.3% → **2.7%** | 6,615 → 6,718 |
+| 8 | Passing Bell | `N-IIβ-919` | 10.6% → **1.1%** | 4,563 → 4,707 |
+| 9 | The Kind Healer | `C-Iα-071` | 10.4% → **2.4%** | 7,179 → 7,231 |
+| 10 | Moktak | `N-IIβ-910` | 10.2% → **1.1%** | 5,026 → 5,175 |
+
+**Movement:** queue **101 → 89 / 301** need it (the ten, plus two files cleared by spillover — a shared line removed from our files stops counting against the files that also held it). Heavy (>= 10%) **13 → 1 / 301**. Distinct wing shingles 712,862 → **715,979**. Words **+2,400** (56,044 → 58,444); nothing deleted (`R-15`).
+
+**What the batch learned — the repair wave.** Re-authoring on its own can swap one shared phrase for another. Measured after the ten units, six of the ten files shared one interactions opener ("...come off the appendix that sorts the 90x holdings by manifestation..."), six shared one closing sentence ("...is not the loudest thing in Somnarak; it is the most particular..."), four shared a verb clause ("one line per post"), and three shared the "resemblance is why the reading was proposed" tail — all of it created **by this batch's own rewrites**. Every offending line was re-authored uniquely, one cleanup commit per file, all pushed. **Method correction for Batch 48 and after:** a unit is not finished when the file's mass drops; it is finished when the *new* lines are checked against the rest of the batch too — run the family check over the replacement text before pushing (`newfam.py`-style pass, or the auditor restricted to the batch's files).
+
+**Batch 48 — re-ranked head (post-batch census, worst-first):** Collapsed Whisper `C-IVδ-249` (10.0%) · I Alone Crossed `C-IVδ-106` (10.0%) · The Lonely Giant `C-IIIγ-105` (9.7%) · Weighted Silence `O-IIIγ-924` (9.7%) · Allhallow `O-IIIγ-916` (9.5%) · The Wedge That Held `O-IIIγ-412` (8.8%) · Unwaking Block `N-IIIγ-908` (8.8%) · Memory Rain `C-IIβ-250` (8.7%) · Harvest Beyond the Gate `N-IIβ-627` (8.5%) · Corrosion Dream `O-IIIγ-915` (8.3%). Weighted Silence also carries a known `R-29` gap; Allhallow and Unwaking Block are quote-cleaned files from batches 45–46.

@@ -8,6 +8,47 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 47 closed at ten (2026-10-07) — personalization phase, first per-10 batch, owner's direction** — the ten worst-sounding dossiers had their
+  shared phrasing re-authored **in place** in each file's own terms: Mourner's Bloom · Once Upon · Never Discharged · Echo of Kindness · Once Told ·
+  Vellum Man · Torn Flower · Passing Bell · The Kind Healer · Moktak. Generic mass, plan census → final: **16.6% → 2.6%** · **16.2% → 1.3%** ·
+  **14.8% → 1.3%** · **12.6% → 2.1%** · **12.0% → 0.8%** · **11.7% → 0.5%** · **11.3% → 2.7%** · **10.6% → 1.1%** · **10.4% → 2.4%** ·
+  **10.2% → 1.1%** — all ten now under the 5% line. Wing-wide **101 → 89 / 301** need it (the batch's edits also cleared two files it never touched) and
+  heavy (>= 10%) **13 → 1 / 301**. Words **+2,400** (56,044 → 58,444 across the ten); nothing deleted (`R-15`); every unit meets **True**, residual 0,
+  0 sections over 0.05, `tpl.py` 0. Mid-batch the batch's own re-authoring was caught creating new common phrasing — six files sharing one interactions
+  opener, six sharing one closing sentence, four sharing one verb clause — and a **repair wave** re-authored those lines uniquely: one cleanup commit per
+  file, all pushed. Disclosures: **rollback #51** recovered at the open; Mourner's Bloom's first cleanup rode inside Echo of Kindness's commit `612b93b`
+  (message names Echo only; both edits intended and verified). Report: `PERSONALIZATION_PLAN_2026-10-07.md`, Results section.
+
+- **Batch 47 / unit 10 — Moktak `N-IIβ-910` personalized (2026-10-07)** — nine shared frames — the interactions opener, the stock closing, the descriptor and form one-liners, the closing-order paragraph and six register bullets and quotes replaced **in place** in the file's own terms. 5,026 → **5,175 words**; generic mass **10.2% (start of unit 7.4%) → 1.1%**; residual 0; 0 sections over 0.05; `tpl.py` 0; meets **True**; cleanup commit `0c7120f`.
+  **Batch 47 stands at 10 of ten.**
+
+- **Batch 47 / unit 9 — The Kind Healer `C-Iα-071` personalized (2026-10-07)** — nine shared frames — resolution, resistance, exposure, M.A.W. and breach lines, the sector overview and the kit paragraph replaced **in place** in the file's own terms. 7,179 → **7,231 words**; generic mass **10.4% → 2.4%**; residual 0; 0 sections over 0.05; `tpl.py` 0; meets **True**; cleanup commit `6891ca2`.
+  **Batch 47 stands at 9 of ten.**
+
+- **Batch 47 / unit 8 — Passing Bell `N-IIβ-919` personalized (2026-10-07)** — nine shared frames — the form line, the interactions opener, the stock closing, the descriptor one-liner, the register bullet and the Handler, Specialist, Researcher, Director and Keeper quotes replaced **in place** in the file's own terms. 4,563 → **4,707 words**; generic mass **10.6% (start of unit 10.1%) → 1.1%**; residual 0; 0 sections over 0.05; `tpl.py` 0; meets **True**; cleanup commit `f41e131`.
+  **Batch 47 stands at 8 of ten.**
+
+- **Batch 47 / unit 7 — Torn Flower `C-Iα-247` personalized (2026-10-07)** — ten shared frames — resolution, resistance, exposure, M.A.W. and breach lines, the steady-gauge sentence, the kit paragraph, the interactions opener, the Gardens-distinction paragraph and the proximity paragraph replaced **in place** in the file's own terms. 6,615 → **6,718 words**; generic mass **11.3% (start of unit 11.0%) → 2.7%**; residual 0; 0 sections over 0.05; `tpl.py` 0; meets **True**; cleanup commit `4fc2cfa`.
+  **Batch 47 stands at 7 of ten.**
+
+- **Batch 47 / unit 6 — Vellum Man `C-Iα-900` personalized (2026-10-07)** — eight shared frames — the desk paragraph, the stock closing, the Director, Handler, Researcher and Keeper quotes, the register bullet and the distinctness line replaced **in place** in the file's own terms. 4,535 → **4,669 words**; generic mass **11.7% (start of unit 8.0%) → 0.5%**; residual 0; 0 sections over 0.05; `tpl.py` 0; meets **True**; cleanup commit `a39c314`.
+  **Batch 47 stands at 6 of ten.**
+
+- **Batch 47 / unit 5 — Once Told `O-IVδ-930` personalized (2026-10-07)** — six shared frames — the synchronising-breath paragraph, the inventory paragraph, the stock closing, the Director and Keeper quotes and the register bullet replaced **in place** in the file's own terms. 5,037 → **5,158 words**; generic mass **12.0% (start of unit 8.9%) → 0.8%**; residual 0; 0 sections over 0.05; `tpl.py` 0; meets **True**; cleanup commit `097512a`.
+  **Batch 47 stands at 5 of ten.**
+
+- **Batch 47 / unit 4 — Echo of Kindness `C-Iα-240` personalized (2026-10-07)** — twelve shared frames — the resolution condition, resistance, exposure, equipment, unmet-condition and steady-gauge lines, the escalation paragraph, the three M.A.W. description paragraphs, the interactions opener and the narrowest-exception paragraph replaced **in place** in the file's own terms. 6,918 → **7,021 words**; generic mass **12.6% (start of unit 12.5%) → 2.1%**; residual 0; 0 sections over 0.05; `tpl.py` 0; meets **True**; cleanup commit `612b93b`.
+  **Batch 47 stands at 4 of ten.**
+
+- **Batch 47 / unit 3 — Never Discharged `O-IIβ-911` personalized (2026-10-07)** — nine shared frames — the warden's loop paragraph, the classification paragraph, the stock closing, the Specialist, Containment Lead and Researcher quotes and the district-name paragraph replaced **in place** in the file's own terms. 4,665 → **4,841 words**; generic mass **14.8% → 1.3%**; residual 0; 0 sections over 0.05; `tpl.py` 0; meets **True**; cleanup commit `b19127e`.
+  **Batch 47 stands at 3 of ten.**
+
+- **Batch 47 / unit 2 — Once Upon `O-IIIγ-920` personalized (2026-10-07)** — nine shared frames — the synchronising-hour paragraph, the inventory paragraph, the stock closing, the Specialist, Handler, Containment Lead and Researcher quotes and the register bullet replaced **in place** in the file's own terms. 4,650 → **4,824 words**; generic mass **16.2% → 1.3%**; residual 0; 0 sections over 0.05; `tpl.py` 0; meets **True**; cleanup commit `4799ab6`.
+  **Batch 47 stands at 2 of ten.**
+
+- **Batch 47 / unit 1 — Mourner's Bloom `C-Iα-330` personalized (2026-10-07)** — ten shared frames — the stock closing, the resolution, resistance, exposure, M.A.W. and breach lines, the escalation and kit paragraphs, the interactions opener and the shelf note replaced **in place** in the file's own terms. 6,856 → **6,996 words**; generic mass **16.6% → 2.6%**; residual 0; 0 sections over 0.05; `tpl.py` 0; meets **True**; cleanup commit `f501169`.
+  **Batch 47 stands at 1 of ten.**
+
 - **Personalization phase opened — per-10 batch update (2026-10-07), owner's direction** — *"Now Readying For Per-10 Batch
   Update For All SE That Need It Because A Lot Sound Generic And Not Personalize At ALL."* New read-only auditor
   `tools/auditors/personal_audit.py`: masked 6-gram families as in the frame audit, mechanics lines (work types, gauges,
