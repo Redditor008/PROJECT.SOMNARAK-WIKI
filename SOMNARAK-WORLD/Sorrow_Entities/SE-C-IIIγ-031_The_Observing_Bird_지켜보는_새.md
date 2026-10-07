@@ -310,7 +310,7 @@ The eyes find you before the shape does — one on your face, one on your hands,
 
 ### Interaction Pattern
 
-The perch is watched alongside five other files — The Weighting Bird, The Guarding Bird, The Convergence, The Kind Healer and The Maw — and it counts none of them as friend or enemy. A pairing, when one is run, is entered with what moved in the sound and what moved on the dials, where both the gauge and the containment line were left, plus how far off it began, how long it lasted, and beside all of that what was left once the two were apart.
+The perch is watched alongside five other files — The Weighting Bird, The Guarding Bird, The Convergence, The Kind Healer and The Maw — and it counts none of them as friend or enemy. If a pairing is ever run, it is entered with what moved in the sound and what moved on the dials, where both the gauge and the containment line were left, plus how far off it began, how long it lasted, and beside all of that what was left once the two were apart.
 
 **Interaction method:** Record each holding on its own first; pair data means nothing without the solo baseline to read it against. Where two do meet, take the range, the duration, the trigger, the gauge on both sides, the field effect and the residue after separation, and set down whether the meeting calmed, amplified, echoed or redirected the sorrow that started it. A steady pairing is a hypothesis and never a rule: re-verify each cycle, since either holding can change overnight, and a Sorrow Tide, an Ordeal, a breach or a transformation event can invert a dynamic that stood for years.
 
