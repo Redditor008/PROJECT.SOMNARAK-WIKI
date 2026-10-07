@@ -2598,6 +2598,15 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
+**Batch 38, unit 3: Anger Underfoot `C-Iα-175` closed.** Measured at `74e1749`: **3 dirty sections** — Operational
+Parameters, Final Observation and the record sections carrying shared template lines — **closed in one wave**
+(19 sites) plus a line-local residual fix; 7,529 → **7,596 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s)
+over 0.05**; `wikistd.py` meets **True**, condition unchanged (the resolution line carries no suppression-condition form
+and was left untouched). Disclosed: residual **1 → 0** cleared line-locally; `own_series` already True; the file's own
+figures restated in numerals inside real edits (12 stations · 94 cm · 7 reports · 5 grants · 2 of the 5 · 4 assessors ·
+110 years). Movement: `R-29` 239 / 301; section-clean 273 / 301; archive dirty 42; file-clean 302 / 302.
+**Batch 38 stands at three of five.**
+
 **Batch 38, unit 2: The Debt Scale `C-IIIβ-015` closed.** Measured at `f63c49c`: **3 dirty sections** — Combat Record,
 M.A.W. Equipment and Final Observation — **closed in one wave plus a line-local fix** (16 sites); 7,234 → **7,318 words**;
 `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the resolution
@@ -2617,6 +2626,8 @@ against 157). Movement: `R-29` 237 / 301; section-clean 271 / 301; archive dirty
 **Batch 38 stands at one of five.**
 
 **Batch 38 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-Iα-175 Anger Underfoot 스며든 흔적 — `6ff2895` — PUSH VERIFIED — [[SE-C-Iα-175_Anger_Underfoot_스며든_흔적]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-175_Anger_Underfoot_%EC%8A%A4%EB%A9%B0%EB%93%A0_%ED%9D%94%EC%A0%81.md "SE-C-Iα-175_Anger_Underfoot_스며든_흔적.md")
 
 - SE-C-IIIβ-015 The Debt Scale 빚의 저울 — `2154cdc` — PUSH VERIFIED — [[SE-C-IIIβ-015_The_Debt_Scale_빚의_저울]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-015_The_Debt_Scale_%EB%B9%9A%EC%9D%98_%EC%A0%80%EC%9A%B8.md "SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md")
 

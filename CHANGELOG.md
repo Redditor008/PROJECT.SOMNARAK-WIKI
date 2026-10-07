@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 38 / unit 3 — Anger Underfoot `C-Iα-175` closed (2026-10-07)** — measured at `74e1749`: **3 dirty
+  sections**, Operational Parameters (the yield row, the recommended-response row and the work-object line), Final
+  Observation (the choice blockquote and the choose row) and the record sections whose template lines carried shared
+  grams. Closed in one wave (19 sites) plus a line-local fix; 7,529 → **7,596 words**; `tpl.py` residue 0; `sectfile.py`
+  ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with the condition count unchanged — the resolution
+  line carries no suppression-condition form and was left untouched. Entry 1's residual cleared line-locally
+  (`is logged as ` → `stands on the register as`), residual **1 → 0**; `own_series` already True. The file's own figures
+  were restated in numerals inside real edits (12 stations · 94 centimetres · 7 early reports · 5 grants · 2 of the 5 ·
+  4 assessors · 110 years) — disclosed. Movement at the unit commit: `R-29` 239 / 301; section-clean 273 / 301;
+  residue-free 302 / 302; residue lines 0; archive dirty 42; file-clean 302 / 302. **Batch 38 stands at
+  three of five.**
+
 - **Batch 38 / unit 2 — The Debt Scale `C-IIIβ-015` closed (2026-10-07)** — measured at `f63c49c`: **3 dirty sections**,
   Combat Record (the resistance row, both debuff rows, the three attack-family rows, the tension phase and the resolution
   line), M.A.W. Equipment (both appearance lines, the pendant note, the effect and cost lines and the at-limit record
