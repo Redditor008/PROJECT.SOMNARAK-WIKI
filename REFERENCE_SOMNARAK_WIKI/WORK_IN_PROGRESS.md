@@ -2295,7 +2295,7 @@ and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens 
 
 **Batch 33 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
-- SE-O-Iα-973 Yggdrasil Wound 찢어진 나무 — `__HASH__` — PUSH VERIFIED — [[SE-O-Iα-973_Yggdrasil_Wound_찢어진_나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-973_Yggdrasil_Wound_%EC%B0%A2%EC%96%B4%EC%A7%84_%EB%82%98%EB%AC%B4.md "SE-O-Iα-973_Yggdrasil_Wound_찢어진_나무.md")
+- SE-O-Iα-973 Yggdrasil Wound 찢어진 나무 — `40b1cac` — PUSH VERIFIED — [[SE-O-Iα-973_Yggdrasil_Wound_찢어진_나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-973_Yggdrasil_Wound_%EC%B0%A2%EC%96%B4%EC%A7%84_%EB%82%98%EB%AC%B4.md "SE-O-Iα-973_Yggdrasil_Wound_찢어진_나무.md")
 
 - SE-C-IIIγ-190 The Rage Statue 분노의 조각상 — `1661ea5` — PUSH VERIFIED — [[SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-190_The_Rage_Statue_%EB%B6%84%EB%85%B8%EC%9D%98_%EC%A1%B0%EA%B0%81%EC%83%81.md "SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md")
 
