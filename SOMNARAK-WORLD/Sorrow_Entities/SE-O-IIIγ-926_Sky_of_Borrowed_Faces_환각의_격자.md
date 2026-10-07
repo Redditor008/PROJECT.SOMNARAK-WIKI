@@ -26,15 +26,15 @@
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Hazard |
-| **Primary pressure** | Lament / Phantasmal pressure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Primary pressure** | Lament and Phantasmal pressure, summed nightly as a surface count on the transect rather than felt at the fence |
+| **Starting Sorrow Gauge** | 35–50% on the intake sheet, with the four-hundred-metre sweep walked before the hour’s number is entered |
+| **Han-Energy yield** | 12–18 in a cycle, logged against the individual rather than the posting, the exposure being cumulative across a career |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ); nothing on the transect has ever been broken on purpose, and the band is the standard table’s |
+| **Recommended response** | Viderehan and Ferrehan only, both of which lower the gauge, with the sweep walked first; extraction is separately authorised and is never written up as the reward for a clean sweep |
 
 ### Operational Notes
 
