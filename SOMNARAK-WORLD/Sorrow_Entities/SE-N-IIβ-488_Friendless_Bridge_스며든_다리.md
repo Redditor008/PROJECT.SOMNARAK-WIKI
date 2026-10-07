@@ -303,7 +303,7 @@ The fang and the plate hold to grade for an operator who has not acted on anybod
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Friendless Bridge (N-IIβ-488 [O]) is logged as a Object-Void manifestation expressing Grudge. The Bridge formed from a connection that was promised but never built. Held at Zone C, Collector's Row. It has no stable endpoints.
+Friendless Bridge (N-IIβ-488 [O]) carries an Object-Void manifestation expressing Grudge, and the ledger keeps it under the connection that was promised and never built. Held at Zone C, Collector's Row. It has no stable endpoints.
 
 **Entry 2 — <Two Letters, Neither Sent>**
 From the elder side: "I will come when the quarter's debt is cleared, and I would rather arrive owing nothing than arrive apologising." From the younger: "I will go when I can go without asking leave, and I would rather be late than be sent." Both are dated the same season. Both were folded, addressed and kept. The Keepers hold them in one envelope, which is an arrangement the archive has decided not to undo.
