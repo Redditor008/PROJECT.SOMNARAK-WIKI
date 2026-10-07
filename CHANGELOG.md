@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 45 / unit 8 — Unwaking Block `N-IIIγ-908` quote written (2026-10-07)** — the shared opening quote (family of **7** dossiers)
+  replaced **in place** with one of this file's own: the block's people asleep since one night and the building dreaming with them. 4651 → **4657 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
+  meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 45 stands at 8
+  of ten.**
+
 - **Batch 45 / unit 7 — Sorrow Mass `C-Vω-925` quote written (2026-10-07)** — the shared opening quote (family of **8** dossiers)
   replaced **in place** with one of this file's own: a weight that announces nothing and the stairs avoided a month later (the file's number-words hold is untouched; disclosed). 8549 → **8558 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
   meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 45 stands at 7

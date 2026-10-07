@@ -3166,6 +3166,9 @@ Torn Flower at 1.00) replaced **in place** in the file's own terms — Gate, orc
 until the next touched-fruit tally is larger than the last. 7,270 → **7,299 words**; residual 0; **0 sections over 0.05**;
 `tpl.py` 0; meets **True**; copy-side whole instances **6 → 0**; nothing deleted. **Batch 44 stands at one of ten.**
 
+**Batch 45, unit 8: Unwaking Block `N-IIIγ-908` quote written.** The shared family quote replaced in place with the block's people asleep since one night and the building dreaming with them. 4651 → **4657 words**;
+residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 45 stands at 8 of ten.**
+
 **Batch 45, unit 7: Sorrow Mass `C-Vω-925` quote written.** The shared family quote replaced in place with a weight that announces nothing and the stairs avoided a month later (the file's number-words hold is untouched; disclosed). 8549 → **8558 words**;
 residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 45 stands at 7 of ten.**
 
@@ -3194,6 +3197,8 @@ residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **B
 
 **Batch 45 — OPEN at ten; quote phase (each file's shared opening quote replaced in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).
+
+- SE-N-IIIγ-908 Unwaking Block 잠드는 구역 — `5ef332d` — PUSH VERIFIED — [[SE-N-IIIγ-908_Unwaking_Block_잠드는_구역](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-908_Unwaking_Block_%EC%9E%A0%EB%93%9C%EB%8A%94_%EA%B5%AC%EC%97%AD.md "SE-N-IIIγ-908_Unwaking_Block_잠드는_구역.md")]
 
 - SE-C-Vω-925 Sorrow Mass 압살의 한 — `c7603eb` — PUSH VERIFIED — [[SE-C-Vω-925_Sorrow_Mass_압살의_한](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CF%89-925_Sorrow_Mass_%EC%95%95%EC%82%B4%EC%9D%98_%ED%95%9C.md "SE-C-Vω-925_Sorrow_Mass_압살의_한.md")]
 
