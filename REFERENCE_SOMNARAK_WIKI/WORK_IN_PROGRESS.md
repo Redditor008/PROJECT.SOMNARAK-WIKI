@@ -2848,6 +2848,16 @@ conversions), `own_series` False → True, series **283 → 284 / 301**; the `Mo
 `felt... complete` ellipsis normalised, residual **1 → 0** and seam cleared. Movement: `R-29` 263 / 301; section-clean
 299 / 301; archive dirty 2; file-clean 302 / 302. **Batch 41 stands at one of five.**
 
+**Batch 42, unit 7: Passing Bell `N-IIβ-919` closed.** Measured live at `470a99f`: **no dirty sections**; failures were
+`parity ['interactions']` and `condition` False — **closed in a single wave**; 4,133 → **4,556 words**; `tpl.py` residue
+0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section
+written in the file's own terms (3 rows — Moktak `N-IIβ-910`, Vellum Man `C-Iα-900`, Weighted Silence `O-IIIγ-924` — with
+its own column set), parity **284 → 285 / 301**; the Resolution line extended to carry the file's own clause as a
+documented suppression condition (Both books are sealed, the warnings are copied into the ledger, and the two transcripts
+are filed side by side without being reconciled), condition **280 → 281 / 301**. Movement: `R-29` 274 / 301;
+section-clean 301 / 301; archive dirty 0; file-clean 302 / 302. **Batch 42 stands at seven of seven pending the
+close.**
+
 **Batch 42, unit 6: Moktak `N-IIβ-910` closed.** Measured live at `de5c2c1`: **no dirty sections**; failures were
 `parity ['interactions']` and `condition` False — **closed in a single wave**; 4,624 → **5,020 words**; `tpl.py` residue
 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section
@@ -2903,6 +2913,8 @@ condition **274 → 275 / 301**. Movement: `R-29` 269 / 301; section-clean 301 /
 file-clean 302 / 302. **Batch 42 stands at one of seven.**
 
 **Batch 42 — OPEN at seven; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIβ-919 Passing Bell 조상의 시간 — `9afc79b` — PUSH VERIFIED — [[SE-N-IIβ-919_Passing_Bell_조상의_시간]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-919_Passing_Bell_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-N-IIβ-919_Passing_Bell_조상의_시간.md")
 
 - SE-N-IIβ-910 Moktak 조상의 전당 — `470a99f` — PUSH VERIFIED — [[SE-N-IIβ-910_Moktak_조상의_전당]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-910_Moktak_%EC%A1%B0%EC%83%81%EC%9D%98_%EC%A0%84%EB%8B%B9.md "SE-N-IIβ-910_Moktak_조상의_전당.md")
 

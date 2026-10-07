@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 42 / unit 7 — Passing Bell `N-IIβ-919` closed (2026-10-07)** — measured live at `470a99f`: **no dirty
+  sections**; failures were `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing
+  `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row
+  record pairing the hour with Moktak `N-IIβ-910`, Vellum Man `C-Iα-900` and Weighted Silence `O-IIIγ-924` under its own
+  column set, and an interaction procedure — parity **284 → 285 / 301** · and the Resolution line extended to carry the
+  file's own clause as a documented suppression condition (**Both books are sealed, the warnings are copied into the
+  ledger, and the two transcripts are filed side by side without being reconciled**) — condition **280 → 281 / 301**.
+  4,133 → **4,556 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**;
+  residual 0 on entry; `own_series` already True. Movement at the unit commit: `R-29` 274 / 301; section-clean 301 /
+  301; residue-free 302 / 302; residue lines 0; archive dirty 0; file-clean 302 / 302. **Batch 42 — ALL
+  SEVEN UNITS CLOSED.**
+
 - **Batch 42 / unit 6 — Moktak `N-IIβ-910` closed (2026-10-07)** — measured live at `de5c2c1`: **no dirty
   sections**; failures were `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing
   `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row
