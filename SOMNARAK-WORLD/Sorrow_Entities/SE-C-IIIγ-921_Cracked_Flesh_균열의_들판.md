@@ -1,6 +1,6 @@
 # Cracked Flesh — 균열의 들판
 
-> *"It does not end. It merely pauses between heartbeats."*
+> *"Nothing arrives. The field is ordinary, and it is keeping a register of everyone who crosses it."*
 
 ## SECC Classification
 
