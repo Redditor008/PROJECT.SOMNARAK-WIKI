@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 45 / unit 5 — Once Upon `O-IIIγ-920` quote written (2026-10-07)** — the shared opening quote (family of **8** dossiers)
+  replaced **in place** with one of this file's own: once upon a time said in an empty room and the street filling with everyone the district forgot. 4640 → **4650 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
+  meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 45 stands at 5
+  of ten.**
+
 - **Batch 45 / unit 4 — Passing Bell `N-IIβ-919` quote written (2026-10-07)** — the shared opening quote (family of **8** dossiers)
   replaced **in place** with one of this file's own: the dead talking among themselves and not one of them looking up when the watch enters. 4556 → **4563 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
   meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 45 stands at 4
