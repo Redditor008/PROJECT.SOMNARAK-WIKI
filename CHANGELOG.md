@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 45 / unit 10 — Moktak `N-IIβ-910` quote written (2026-10-07)** — the shared opening quote (family of **7** dossiers)
+  replaced **in place** with one of this file's own: seats that fill at dusk and an argument older than the city resuming where it stopped. 5020 → **5026 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
+  meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 45 stands at 10
+  of ten.**
+
 - **Batch 45 / unit 9 — Labyrinth of the Unfinished Mind `C-IVδ-909` quote written (2026-10-07)** — the shared opening quote (family of **7** dossiers)
   replaced **in place** with one of this file's own: walls that read the walker and return the sentence never said out loud. 6288 → **6294 words**; residual 0; 0 sections over 0.05; `tpl.py` 0;
   meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. **Batch 45 stands at 9
