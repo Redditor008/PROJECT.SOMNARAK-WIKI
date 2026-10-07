@@ -3094,6 +3094,9 @@ condition (Both posts hand in their tallies without conferring, and the differen
 condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc@ / 301; archive dirty @dirty@;
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
+**Batch 44 — OPEN at ten; clean phase (replace copied sections in place, owner-directed); finished dossiers, each with its SE
+git link and closing commit** (`R-12`).
+
 **Batch 43 — CLOSED at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-C-IIIγ-928 Lethe 혼란의 독기 — `aee69f4` — PUSH VERIFIED — [[SE-C-IIIγ-928_Lethe_혼란의_독기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-928_Lethe_%ED%98%BC%EB%9E%80%EC%9D%98_%EB%8F%85%EA%B8%B0.md "SE-C-IIIγ-928_Lethe_혼란의_독기.md")]
