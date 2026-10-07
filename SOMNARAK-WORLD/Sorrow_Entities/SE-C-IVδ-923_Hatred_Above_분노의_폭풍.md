@@ -1,6 +1,6 @@
 # Hatred Above — 분노의 폭풍
 
-> *"Something here remembers what we chose to forget."*
+> *"You cross alone and you keep walking. The light is brighter under the anomaly so that you see your own hands the moment they stop."*
 
 ## SECC Classification
 
@@ -88,7 +88,7 @@
 
 1. **Tension:** The team identifies Hatred Above by a directionless fury that arrives after nine to fourteen seconds beneath the footprint and then settles on whoever is nearest. The interval is the most reliable figure in the file and the movement rule is built on it, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Hatred Above's recorded combat actions.
-3. **Resolution:** Distance, a barrier if one is to hand, and silence from everybody else. The worker comes back on their own. The team does not debrief them at the spot and does not require them to say anything about it afterwards.
+3. **Resolution:** Distance, a barrier if one is to hand, and silence from everybody else. The worker comes back on their own. The team does not debrief them at the spot and does not require them to say anything about it afterwards. It closes against the documented suppression condition: **open the distance, hold the silence, and let the range do the rest**.
 
 ### Consequences
 
@@ -217,6 +217,7 @@ The Hatred Above set is made from the marking itself: the Edge from a line-stanc
 - 63 incidents since the first dated one, every one resolved by opening distance, mean duration under two minutes, longest four and a half and that one answered back.
 - Both valid approaches reduce the gauge and both are performed from outside the line. Nothing performed beneath the anomaly has ever reduced it, and the four attempts are logged with their outcomes.
 - The anger has no content. Interviewed workers consistently report that there was nothing they were angry about, which distinguishes this holding from every grievance-bearing entity in the wing.
+- The gauge series is the holding's own: 40% opening, 10% per stale metre of the marked line, 70% at the Y4244 widening, and back to 40% within a shift of the re-marking.
 
 **Personnel Note:**
 
@@ -254,6 +255,18 @@ Contact is disorienting. The grudge pressure is familiar — every agent in Somn
 **When the line is wrong:** Nothing announces it. It shows up as people stopping to argue a few metres outside the marking, which is how both widenings were found.
 
 **After departure:** The anger is gone before you are off the floor. What you keep is the transcript — your own voice, every word of it.
+
+## 상호작용 (Entity Interactions)
+
+Nothing here is addressed and nothing here has an author. The anomaly manufactures its anger inside whoever stands beneath it and hands it to the nearest body, so the three records kept beside it in the appendix are all holdings that put fury somewhere: a statue holding a strike it never threw, a judge that turns anger into a ruling, and a library whose fire keeps the pages it burns. What follows is read from this holding's own instruments — the internal sensors angled at the footprint, the crossing log, and the line re-surveyed each cycle.
+
+**Interaction method:** Set this holding's own figures first: the 63 incidents, the posted crossing interval of 20 seconds, and the gauge ladder from the Y4244 widening. Then read the other record's figures beside them, enter whether either moved, and re-survey at the next cycle.
+
+| Which record shares the footprint | What both put on the nearest person | What the crossing entered | What the file refuses to write down |
+|---|---|---|---|
+| **The Rage Statue** `C-IIIγ-190` | Both keep fury with nobody to spend it on. That record holds a fist that never unclenched; this anomaly's anger always lands, and always on the closest body rather than the right one. | Nothing was run. The appendix grouped the two on anger without an owner, and the review left the entry as an arrangement. | The grouping is a filing line, entered as such and read as one. |
+| **Gavel** `C-IVδ-140` | Both take anger and give it a direction. That record rules; this one hands over something personal and accurate, and none of it is recorded anywhere. | The pair was read against the footprint sensors only. No reading moved, and the recording prohibition was noted rather than tested. | That a verdict is the one thing this holding is built never to produce. |
+| **Pyre of Truths** `C-IVδ-092` | Both are fed by what people would rather be rid of. That record's fire keeps every page it burns; this one keeps nothing, and interviews agree there was nothing underneath — no grievance, no content, only the response. | Entered as read-only on both sides: the fire has burned for years without consuming a page here or there, and the light under the anomaly has never failed to get somebody moving. | That a resemblance is the reason for the shelf, not a finding that came out of it. |
 
 ## 이야기 (Narratio) — The Tale
 
