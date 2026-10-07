@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 34 / unit 5 — Soaking Rope `N-Iα-316` closed (2026-10-07)** — measured at `965af4a`: **3 dirty sections**,
+  worst Final Observation 0.155 (the choice blockquote, the choose row and the result row), then Flavor Text 0.061 (the
+  relations preamble — whose tail `in sound, movement, temperature, memory pressure, gauge or containment stability` sits
+  in 29 holders — and the neighbour header row) and Behavior 0.054 (the reused Work-Type paragraph). **Closed in two
+  passes** (25 sites, then the two template lines and the Registrum bullet): pass 1 cleared Final Observation and
+  Behavior but left Flavor at 0.065, because its replacement had kept the batch-wide preamble tail; pass 2 gave this
+  file a preamble, a header row and a Registrum bullet of its own. 6,576 → **6,840 words**; `tpl.py` residue 0;
+  `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True**; the condition was re-registered inside
+  the rewritten resolution line. Both residuals cleared (`Each piece is a conditional extension of the Rope` →
+  `Every item in this set is the Rope's condition carried in metal`; the Entry 1 `is logged as ` → `stands on the
+  register as`) — residual **2 → 0**; `own_series` **F → T** with the file's own figure restated (`reaches three` →
+  `reaches 3`) inside a rewritten Registrum bullet. Movement at the unit commit: `R-29` 213 / 301; section-clean
+  238 / 301; residue-free 302 / 302; residue lines 0; archive dirty 115; file-clean 302 / 302.
+  **Batch 34 stands at five of five — units complete, close entry to follow.**
+
+
+
 - **Batch 34 / unit 4 — The Debtor `C-IIIγ-061` closed (2026-10-07)** — measured at `9a1a640`: **3 dirty sections**,
   worst Final Observation 0.169 (the choice blockquote, the choose row and the result row), then M.A.W. Equipment 0.093
   (two `matte and unnaturally heavy` appearance lines, the cost and effect lines, the Burden Chain note, the use-notes

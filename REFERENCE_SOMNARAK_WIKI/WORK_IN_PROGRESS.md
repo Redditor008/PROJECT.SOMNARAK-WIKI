@@ -1716,6 +1716,17 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 34, unit 5: Soaking Rope `N-Iα-316` closed.** Measured at `965af4a`: **3 dirty sections**, worst Final
+Observation 0.155, then Flavor Text 0.061 and Behavior 0.054 — **closed in two passes** (25 sites, then the preamble,
+header and Registrum bullet); 6,576 → **6,840 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**;
+`wikistd.py` meets **True**, condition held; condition re-registered in the resolution line. Disclosed: pass 1 left
+Flavor at 0.065 (its replacement kept the batch-wide `in sound, movement, temperature, memory pressure, gauge or
+containment stability` tail, 29 holders) and pass 2 removed it; both residuals cleared (the `Each piece is a
+conditional extension of` line and Entry 1's `is logged as `), residual **2 → 0**; `own_series` **F → T** via the
+file's own figure restated in the Registrum bullet. Movement: `R-29` 213 / 301; section-clean 238 / 301;
+residue-free 302 / 302; archive dirty 115; file-clean 302 / 302. **Batch 34 stands at five of five; close
+entry follows.**
+
 **Batch 34, unit 4: The Debtor `C-IIIγ-061` closed.** Measured at `9a1a640`: **3 dirty sections**, worst Final
 Observation 0.169, then M.A.W. Equipment 0.093 and Combat Record 0.054 — **closed in a single wave** (31 sites);
 6,788 → **7,024 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**,
@@ -2350,6 +2361,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 34 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-Iα-316 Soaking Rope 솟구친 밧줄 — `c763ec5` — PUSH VERIFIED — [[SE-N-Iα-316_Soaking_Rope_솟구친_밧줄]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-316_Soaking_Rope_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%B0%A7%EC%A4%84.md "SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md")
 
 - SE-C-IIIγ-061 The Debtor 빚진 자 — `6393855` — PUSH VERIFIED — [[SE-C-IIIγ-061_The_Debtor_빚진_자]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-061_The_Debtor_%EB%B9%9A%EC%A7%84_%EC%9E%90.md "SE-C-IIIγ-061_The_Debtor_빚진_자.md")
 
