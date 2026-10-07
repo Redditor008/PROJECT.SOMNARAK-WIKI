@@ -1,6 +1,6 @@
 # Once Upon — 이야기의 시간
 
-> *"It does not end. It merely pauses between heartbeats."*
+> *"Somebody says once upon a time in an empty room, and the street fills with everyone the district forgot."*
 
 ## SECC Classification
 
