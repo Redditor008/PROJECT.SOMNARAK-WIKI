@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 38 / unit 5 — Hollowcast `N-IIβ-426` closed (2026-10-07)** — measured at `f584e61`: **3 dirty sections** at
+  the batch-open scan; closed in a single wave (22 sites) across Operational Parameters, Combat Record, Behavior,
+  M.A.W. Equipment, Story Log, Final Observation, Flavor Text and the Registrum, plus a line-local fix. 7,155 →
+  **7,251 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets **True** with
+  the file's own suppression clause kept verbatim inside the rewritten resolution line and the condition count unchanged.
+  Entry 1's residual cleared line-locally (`is logged as ` → `stands on the register as`), residual **1 → 0**;
+  `own_series` already True. The file's own figures were restated in numerals inside real edits (3 centimetres against
+  61 · 19-centimetre difference · 2 early reports · 3 assessors) — disclosed. Movement at the unit commit: `R-29`
+  241 / 301; section-clean 275 / 301; residue-free 302 / 302; residue lines 0; archive dirty 38;
+  file-clean 302 / 302. **Batch 38 stands at five of five.**
+
 - **Batch 38 / unit 4 — Clapperless `C-IIβ-340` closed (2026-10-07)** — measured at `e15ed75`: **3 dirty sections** at
   the batch-open scan — Operational Parameters, Final Observation and the record sections whose template lines carried
   shared grams. Closed in a single wave (28 sites) across Operational Parameters, Final Observation, Combat Record,

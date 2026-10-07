@@ -2598,6 +2598,14 @@ next entry in this file. The full disclosure list lives in the batch-25 CHANGELO
 u9 pipe repair before commit, the shared-header retirement across 10 files, the six guard aborts (all safe redos),
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
+**Batch 38, unit 5: Hollowcast `N-IIβ-426` closed.** Measured at `f584e61`: **3 dirty sections** at the batch-open scan —
+**closed in a single wave** (22 sites) plus a line-local fix; 7,155 → **7,251 words**; `tpl.py` residue 0; `sectfile.py`
+**0 section(s) over 0.05**; `wikistd.py` meets **True**, the file's own suppression clause kept verbatim inside the
+rewritten resolution line. Disclosed: residual **1 → 0** cleared line-locally; `own_series` already True; the file's own
+figures restated in numerals inside real edits (3 cm against 61 · 19-cm difference · 2 reports · 3 assessors). Movement:
+`R-29` 241 / 301; section-clean 275 / 301; archive dirty 38; file-clean 302 / 302. **Batch 38 stands at five of
+five.**
+
 **Batch 38, unit 4: Clapperless `C-IIβ-340` closed.** Measured at `e15ed75`: **3 dirty sections** at the batch-open scan —
 Operational Parameters, Final Observation and the record sections carrying shared template lines — **closed in a single
 wave** (28 sites, whole-line re-authorings plus span-level fixes on the long paragraphs); 7,993 → **8,067 words**;
@@ -2635,6 +2643,8 @@ against 157). Movement: `R-29` 237 / 301; section-clean 271 / 301; archive dirty
 **Batch 38 stands at one of five.**
 
 **Batch 38 — OPEN at five; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIβ-426 Hollowcast 찢어진 열매 — `7f25903` — PUSH VERIFIED — [[SE-N-IIβ-426_Hollowcast_찢어진_열매]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-426_Hollowcast_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-426_Hollowcast_찢어진_열매.md")
 
 - SE-C-IIβ-340 Clapperless 빈 종 — `b3bdd07` — PUSH VERIFIED — [[SE-C-IIβ-340_Clapperless_빈_종]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-340_Clapperless_%EB%B9%88_%EC%A2%85.md "SE-C-IIβ-340_Clapperless_빈_종.md")
 
