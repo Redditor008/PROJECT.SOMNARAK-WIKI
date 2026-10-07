@@ -40,9 +40,9 @@
 ### Operational Notes
 
 - The Bell sounds without being struck, and the tower was built around it rather than for it.
-- A cycle reduces the frequency of the soundings. The tone is unchanged, and no session has silenced it.
+- A cycle reduces the frequency of the soundings. The tone itself does not move, and no session has ever quieted it.
 - Viderehan and Ferrehan are the only two approaches that reach this object; nothing else in the set applies to a tower that sounds without being struck.
-- There is no breach counter. The audible field widens from the tower, and its edge is confirmed by instrument at every session.
+- No breach counter is kept. The audible field widens from the tower, and its edge is confirmed by instrument at every session.
 - Extraction is authorized outside the work cycle and carries the same auditory exposure as standing in the field — the toll is indifferent to where a crew happens to be standing when it comes.
 
 ## Combat Record
@@ -87,16 +87,16 @@
 
 ### Battle Phases
 
-1. **Tension:** The Orphaned Bell is confirmed by the hands. The corrosion on the bell's surface has warped into small reaching shapes, and no other holding in Zone B carries that. The team establishes its position and its withdrawal before the cycle opens.
-2. **Clash:** There is nothing to trade with. The pair stands braced, the timekeeper outside the acoustic circle holds the clock, and the recorded combat actions describe what the toll does on the way past rather than anything the team can influence.
+1. **Tension:** The Orphaned Bell is confirmed by the hands. The corrosion on the bell's surface has warped into small reaching shapes, and no other holding in Zone B carries that. The pair marks where it will stand and where it will withdraw to before the cycle opens.
+2. **Clash:** Nothing here can be bargained with. The pair stands braced, the timekeeper outside the acoustic circle holds the clock, and the recorded combat actions describe what the toll does on the way past rather than anything the team can influence.
 3. **Resolution:** The toll finishes or the pair is withdrawn. The documented condition is **the bell stays anchored, Pugnahan is never attempted, and the watch is completed standing in pair** — nothing here is suppression, and the record does not call it that.
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
+- Where resistance gives way, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Clarity** and accelerating Sorrow Gauge escalation.
 - Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, The Orphaned Bell reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. Nothing the wing handles is ever extracted for free.
+- Where the condition above goes unmet, The Orphaned Bell reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
 
 ## Appearance
 **Physical Form:** A massive bell, three meters tall, made of dark Han-crystal pulsing with faint blue light. It is fixed within a special tower and tolls without external force.
@@ -417,7 +417,7 @@ Before the sound arrives, the air becomes emotionally heavy. Then the toll fills
 
 ### Interaction Pattern
 
-Five names stand in the Bell's field — The Hollow Choir, The Grieving Colossus, The Kind Healer, The Silent Child and The Forgotten Soldier — and every one of the five is a resonance question rather than an alliance or a feud. A watch that runs a pairing enters whether the response moved in sound, movement, temperature, memory pressure, gauge or containment stability, with range, duration and trigger beside it.
+Five names stand in the Bell's field — The Hollow Choir, The Grieving Colossus, The Kind Healer, The Silent Child and The Forgotten Soldier — and every one of the five is a resonance question rather than an alliance or a feud. A watch that runs a pairing notes whether the answer moved in sound, in movement, in temperature, in memory pressure, in the gauge or in containment stability, and sets range, duration and trigger beside it.
 
 **Interaction method:** Baseline each party alone. The question with this holding is always whether the other entity changes the interval, and the answer so far is that nothing has. Log the range, the duration, the trigger, the gauge on both sides, the interval before and after, and whether the face count moves in the following fortnight.
 
@@ -444,7 +444,7 @@ Zone B was built westward — the cheap district, the laborers' district, the pl
 
 The parents searched. They searched the new streets, the half-built structures, the Han-soft ground. They called their children's names into the dark places where the Weeping ran close. They searched for days, weeks, months — some for years, refusing to believe what the city, gently, insisted: that the children were gone, consumed by the expansion, lost to the Han, never to be found.
 
-They were not found. The expansion continued. The children did not come back. And the grief — the collective grief of hundreds of parents searching for hundreds of children who would never return — sank, the way all collective sorrow sinks in Somnarak, into the ground, into the Weeping, and the Weeping, which gives every grief its form, gave this one a shape that fit: a bell.
+They were not found. The expansion continued. The children did not come back. And the grief — the collective grief of hundreds of parents searching for hundreds of children who would never return — sank, the way all collective sorrow sinks in Somnarak, through the ground and into the Weeping, which gives every grief its form; this one it gave a shape that fit: a bell.
 
 The Orphaned Bell is that bell. Object-Lament, the first sorrow the R.D. ever catalogued: a bell that tolls, at midnight, for the children the expansion swallowed. Its sound is not loud. It is heavy — the weight of every search that ended without finding, every name called into a dark that did not answer, every parent who walked the new streets calling for a child who was already part of the city's foundations.
 
@@ -536,7 +536,7 @@ Every year the commander transmits the full unmatched list to the municipal offi
 
 **Nineteen letters.** The effect is small and real. **Seven times a family has come in, searched the correspondence index, and found a name they recognised; two of those led to an identification the office was afterwards able to make by its own procedure and enter in its own register properly.** The other five did not, and the office's note on them says only that the families were given a chair and as long as they wanted.
 
-The municipal archivist's objection is on the file and has never been answered. Using correspondence as a shadow register degrades the correspondence series and allows a facility to put into public view, permanently, material it has just certified it cannot stand behind; and the five families who found a name and got no further are the cost of the two who did, paid by people the facility has no standing to compensate and no way to find again. The minute records the objection as **correct, and the letters continue**. It is read into the record at each annual review alongside the names, in the archivist's own words, which the wing has declined to shorten.
+The municipal archivist's objection is on the file and has never been answered. Using correspondence as a shadow register degrades the correspondence series and allows a facility to put into public view, permanently, material it has just certified it cannot stand behind; and the five families who found a name and got no further are the cost of the two who did, paid by people the facility has no standing to compensate and no way to find again. The minute sustains the archivist without a word of it withdrawn: **the objection stands, and the letters continue**. It is read into the record at each annual review alongside the names, in the archivist's own words, which the wing has declined to shorten.
 
 ## Trivia
 
