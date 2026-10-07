@@ -306,7 +306,7 @@ The ground is the caliper. The year we publicised the hardship fund by poster al
 
 ## 최종 관찰 (Final Observation)
 
-> A choice presented to the observing worker at the climax of contact. One path reveals Bulwark; the other feeds it.
+> The hour closes on one decision, and the file keeps its two endings on it: sit it out and let the wall be what it is, or speak to it — kindly, by name — because an hour of silence is more than most people can hold.
 
 | Do the file's way: presence offered, entry never forced. | Leave the condition behind for good reasons, the way this record says people do. |
 |---|---|
