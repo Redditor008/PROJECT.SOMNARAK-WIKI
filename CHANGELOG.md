@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 35 / unit 5 — Owed `C-IIIγ-180` closed (2026-10-07)** — measured at `1556d4f`: **2 dirty sections**, worst Final
+  Observation 0.155 (the choice blockquote, the choose row and the result row), then Combat Record 0.054 (the yield and
+  resistance rows, both combat actions' flavour and description cells, and the tension and resolution phases).
+  **Closed in a single wave** (18 sites); 7,081 → **7,171 words**; `tpl.py` residue 0; `sectfile.py` ends at
+  **0 section(s) over 0.05**; `wikistd.py` meets **True** with the condition held; the condition was re-registered inside
+  the rewritten resolution line. The Entry 1 residual cleared (`is logged as ` → `stands on the register as`), residual
+  **1 → 0**; `own_series` **False → True** by restating the file's own figures in numerals inside real edits (212 blocks
+  transparent out of 18,000+ surveyed, 41 fixed marks, 30 households) — disclosed. Movement at the unit commit: `R-29`
+  219 / 301; section-clean 244 / 301; residue-free 302 / 302; residue lines 0; archive dirty 100;
+  file-clean 302 / 302. **Batch 35 stands at five of five — units complete, close entry to follow.**
+
+
+
 - **Batch 35 / unit 4 — Broken Ruin `O-IIIγ-559` closed (2026-10-07)** — measured at `5687a3e`: **1 dirty section**,
   Final Observation 0.157 (the choice blockquote, the choose row and the result row). **Closed in a single wave**
   (8 sites); 6,752 → **6,776 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py`
