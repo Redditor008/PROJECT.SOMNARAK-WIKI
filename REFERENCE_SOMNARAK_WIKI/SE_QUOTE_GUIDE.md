@@ -36,17 +36,59 @@ one identity, one dossier.
 The **lowest designation** in a family keeps its quote — it is the pre-cover-up text, and it becomes unique the moment the
 copies are re-authored (the same `--lineage` rule the clean phase used). Every other member gets a quote of its own.
 
+## Deeper register knowledge (from Abnormality practice, 2026-10-07)
+
+Desk research into the parent genre — Project Moon's Abnormalities across *Lobotomy Corporation*, *Library of Ruina* and
+*Limbus Company* (~90 quotes sampled) — is written up in
+[`ABNORMALITY_QUOTE_RESEARCH_2026-10-07.md`](ABNORMALITY_QUOTE_RESEARCH_2026-10-07.md). Two findings matter here:
+
+**1. The genre's quotes are spoken by *someone*, ours are almost all *about* something.** Across the corpus the line is a
+first-person confession, a warning to the reader, a company memo, a fable's last sentence, an elegy, a question or an
+overheard sentence. Measured against that, our archive speaks in one voice: first person singular **13 / 301 = 4.3%**,
+first person plural **17 / 301 = 5.6%**, second person **30 / 301 = 10.0%**, documentary nouns **10 / 301 = 3.3%**,
+questions **0 / 301 = 0.0%**, nested dialogue **0 / 301 = 0.0%**, imperative openings **4 / 301 = 1.3%**. A wing that
+speaks in a single voice reads as generated even when no two lines are identical — variety of register is the anti-clone
+discipline at the level of voice.
+
+**2. The quote is a trace, not a summary.** Abnormality quotes presume an event that happened off-page and never explain
+the entity's mechanics: *"Unsurprisingly, not a single employee volunteered to retrieve the corpse of their cocooned
+colleague."* Plain diction + an unstated catastrophe does the work; the genre never writes "terrifying".
+
+**The registers available to a Somnarak quote** (choose one deliberately; the file must still pass the identity test):
+
+| Register | What it sounds like | Who speaks |
+|---|---|---|
+| Observer statement *(the archive's default)* | the holding described from just outside it | the record |
+| Entity's own voice | a confession, an invitation, a claim | the sorrow |
+| Warning to the reader | an instruction that assumes you are already in danger | whoever kept the place before you |
+| Documentary record | the wing's own procedure, filed flatly | the institution |
+| Fable narration | a past-tense story closing on its last line | the district, retelling |
+| Elegy / lyric image | one image, no thesis | nobody in particular |
+| Question | asked plainly, answered never | anyone at all |
+| Found speech | overheard, unglossed, mid-conversation | a bystander |
+
 ## Rules for a new quote
 
 1. **The identity test.** The quote must be true of this holding and of no other dossier. Before writing it, run
    `python3 tools/auditors/quote_audit.py --check "<text>"` — the check must report no match.
 2. **No name, no code, no figure.** Not the entity's name, not a registry code, not a number: the quote is not the record.
 3. **One breath.** One to two sentences, 8–32 words. If it needs a third sentence, the file has not decided what it is.
-4. **Present tense; no question, no exclamation.** The archive holds none.
+4. **Voice: choose a register on purpose.** The archive's own habit is a present-tense third-person statement; the
+   parent genre also speaks in the entity's first person, in warnings addressed to the reader, in documentary record,
+   in fable, in elegy, and — rarely and deliberately — in a question. A question is permitted now, as a rare register
+   (the archive holds **0 / 301** so far); exclamation is still not used.
 5. **Use the file's own furniture** — its object, room, sound, shift, or rule, drawn from its own flavor text, Story Log or
    work notes — never from the family it was copied with.
 6. **Leave the blockquote in place.** Replace the line where it stands; nothing is deleted (`R-15`) and the file's word
    count does not fall.
+
+7. **Prefer the trace to the summary.** A concrete thing that happened off-page — a held object, a spoken line, a completed
+   form — beats a description of the holding's nature.
+8. **Plain diction.** The horror is in the register mismatch (procedure, weather, candy, gas masks), never in adjectives.
+9. **Speaker ambiguity is allowed and often good.** The reader need not be told whether the sorrow, a keeper or the record
+   is talking, as long as the line could belong to no other dossier.
+10. **Vary the register across the wing.** Before drafting, run `python3 tools/auditors/quote_audit.py --registers`; if the
+    neighbouring files in the same phase all use the same register, pick another one that still fits this holding.
 
 ## Procedure for a fix
 

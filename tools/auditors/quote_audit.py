@@ -176,12 +176,47 @@ def check(text, q, fam):
     return 0
 
 
+REGISTERS = (
+    ('R1 entity speaks (first person singular)', lambda t: bool(re.search(r'\b(I|my|me|mine)\b', t))),
+    ('R1b staff speaks (first person plural)', lambda t: bool(re.search(r'\b(we|us|our|ours)\b', t.lower()))),
+    ('R2 addressed to you (second person)', lambda t: bool(re.search(r'\byou(r)?\b', t.lower()))),
+    ('R3 documentary record', lambda t: bool(re.search(r'\b(record|file|register|ledger|report|log)\b', t.lower()))),
+    ('R6 question', lambda t: t.rstrip().endswith('?')),
+    ('R7 nested dialogue', lambda t: t.count('"') >= 2 or t.count('\u201c') >= 1),
+    ('R5 lyric / elegy image', lambda t: bool(re.search(r'\b(light|sky|snow|star(s)?|sea|rain|song|music|bloom|flower)\b', t.lower()))),
+)
+IMPERATIVE = ('do', 'look', 'keep', 'listen', 'remember', 'leave', 'stop', 'hold', 'stand', 'walk', 'run', 'come', 'let', 'count')
+
+
+def registers():
+    """Heuristic register census: the parent genre (Project Moon) speaks in many voices; this measures ours."""
+    q, _ = census()
+    texts = [plain(r) for r in q.values()]
+    n = len(texts) or 1
+    print('REGISTER CENSUS (heuristic, read-only) — %d / %d quotes' % (len(texts), len(dossiers())))
+    shown = set()
+    for name, pred in REGISTERS:
+        hits = [t for t in texts if pred(t)]
+        print('  %-42s %3d / %-3d %5.1f%%' % (name, len(hits), n, 100.0 * len(hits) / n))
+        for t in hits[:1]:
+            if name not in shown:
+                print('        e.g. "%s"' % t[:92]); shown.add(name)
+    imp = [t for t in texts if t.split() and t.split()[0].strip('"\u201c').lower() in IMPERATIVE]
+    print('  %-42s %3d / %-3d %5.1f%%' % ('imperative opening', len(imp), n, 100.0 * len(imp) / n))
+    print('  Guidance: the genre varies registers across a roster; uniqueness (one quote per file) is not enough —')
+    print('  a wing that speaks in one voice still reads as generated. See ABNORMALITY_QUOTE_RESEARCH_2026-10-07.md.')
+    return 0
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description='the dossier opening quote — identity, families, and a pre-write check')
     ap.add_argument('--check', metavar='TEXT', help='test a candidate quote against all 301 quotes')
     ap.add_argument('--file', metavar='PATH', help='show one dossier\'s quote with the same checks')
+    ap.add_argument('--registers', action='store_true', help='register census across the archive (heuristic)')
     args = ap.parse_args(argv)
     q, fam = census()
+    if args.registers:
+        return registers()
     if args.check:
         return check(args.check, q, fam)
     if args.file:

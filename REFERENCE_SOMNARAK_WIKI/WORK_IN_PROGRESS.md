@@ -21,6 +21,19 @@ the file for writing before reading it, so the read returned nothing and the wri
 (`docs.py` anchor miss), restored from `ed80d83` the same turn (no history rewritten, no force-push), the lost open entry re-added,
 and the offending pattern replaced with read-then-write everywhere it is used. Nothing else was touched by the bug.
 
+**Abnormality quote research, owner's instruction, 2026-10-07 — *"Research Abnormality Quote For More DEEPER KNOWLEDGE"*:**
+~90 quotes from the parent genre (Project Moon) read and sorted into eight registers; written up in
+`ABNORMALITY_QUOTE_RESEARCH_2026-10-07.md` with sources. Findings for our method: genre quotes are spoken **by someone**
+(ours are nearly all **about** something) and are **traces, not summaries**. Our register baseline, all 301: first person
+singular **13 / 301 = 4.3%** · plural **17 / 301 = 5.6%** · second person **30 / 301 = 10.0%** · documentary nouns
+**10 / 301 = 3.3%** · questions **0 / 301** · nested dialogue **0 / 301** · imperative openings **4 / 301 = 1.3%**.
+`SE_QUOTE_GUIDE.md` now carries the register table and rules **7–10** (rule 4 amended); `quote_audit.py --registers`
+measures the distribution for future batches. No dossier content changed. The next batch's six remaining copies may draw
+on the register table — the identity test and the identity of each file still rule.
+**Rollback #49** hit mid-turn (the gate refused: checkout not level with origin) and was recovered the same
+turn — `reset --mixed` to the remote tip; worktree content preserved, no history rewritten, and a stray scratch file
+(`quote_style.txt`) removed before the commit.
+
 **Quote phase part two, batch 46 result, 2026-10-07 — owner-directed, quotes replaced in place; both links per row:** ten more
 family copies got their own quote, each checked against all 301 before writing. Distinct quotes **285 → 295 / 301**; duplicate
 families **4 → 2**; dossiers inside a duplicated family **20 → 8 / 301**. `R-29` 286 → **287 / 301** (parity **298**) — Lacrima

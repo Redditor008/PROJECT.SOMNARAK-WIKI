@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Abnormality quote research — deeper knowledge for the SE quote method (2026-10-07)** — owner's instruction *"Research
+  Abnormality Quote For More DEEPER KNOWLEDGE."* Roughly **90 / 90** sampled quotes across Project Moon's three games
+  (Lobotomy Corporation · Library of Ruina · Limbus Company) read; **eight registers** catalogued with sources linked —
+  entity's first person · warning to the reader · documentary record · fable narration · elegy · question · found speech ·
+  aphorism. Two findings: the genre's quotes are **spoken by someone** (ours are almost all **about** something), and the
+  quote is **a trace, not a summary** (it presumes an event off-page and never states a mechanic). Our measured baseline,
+  all 301: first person singular **13 / 301 = 4.3%** · first person plural **17 / 301 = 5.6%** · second person **30 / 301 =
+  10.0%** · documentary nouns **10 / 301 = 3.3%** · questions **0 / 301 = 0.0%** · nested dialogue **0 / 301 = 0.0%** ·
+  imperative openings **4 / 301 = 1.3%** — one voice across the wing, which is its own clone risk. Delivered:
+  `REFERENCE_SOMNARAK_WIKI/ABNORMALITY_QUOTE_RESEARCH_2026-10-07.md` (registers, craft principles, sources);
+  `SE_QUOTE_GUIDE.md` gains a *Deeper register knowledge* section and rules **7–10** (rule 4 amended — a question is a rare
+  permitted register, not a ban); `tools/auditors/quote_audit.py --registers` (heuristic census, read-only). No dossier
+  content changed.
+
 - **Batch 46 closed at ten (2026-10-07) — quote phase part two, owner's direction** — ten more shared opening quotes replaced
   **in place** with lines of their own, each checked against all 301 before writing: Eleven Fifty-Nine · Endless Shift ·
   Allhallow (source Breathing Stone `C-IVδ-907`) · Never Discharged · Ninety Seconds · Miasma · Sky of Borrowed Faces · Once Told
