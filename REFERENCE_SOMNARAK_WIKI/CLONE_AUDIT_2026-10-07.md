@@ -527,3 +527,29 @@ Remaining duplicate quotes for the next batch — **16 copies**, keepers unchang
 | "The weight is not punishment. It is recognition." | Glass Elsewhere `N-IIβ-903` | Never Discharged · Ninety Seconds · Miasma · Sky of Borrowed Faces · Once Told |
 | "When it comes, you will know. Everyone knows." | Beating Relic `C-IIIγ-902` | Thinking Engine · Lacrima · Lethe · Dead Air |
 | "Something here remembers what we chose to forget." | Vellum Man `C-Iα-900` | Duri's Heart · Hatred Above · Weighted Silence · Dreaming Plague |
+
+## Finding 11 — quote phase part two, batch 46 (2026-10-07)
+
+Twenty of the thirty-one duplicated quotes are now re-authored, each checked against all 301 before writing. Census re-run:
+
+| Measure | Before b45 | After b45 | After b46 |
+|---|---|---|---|
+| distinct quotes | 275 / 301 | 285 / 301 | **295 / 301** |
+| exact duplicate families | 5 | 4 | **2** |
+| dossiers inside a duplicated family | 31 / 301 | 20 / 301 | **8 / 301** |
+| `R-29` meets | 285 / 301 | 286 / 301 | **287 / 301** |
+| word total (the ten files) | — | — | 59,150 → 59,713 |
+
+Reporting rule added by the owner this round — *"When You Write The Quote And Fix It Link Both The Duplicated That Is Fix And The
+Source"*: every quote-fix row carries **both links**, the fixed dossier and the source keeper. The batch-45 rows were retrofitted
+(`10e029a`).
+
+Remaining duplicate quotes — **6 copies**, keepers unchanged (lowest designation keeps its line):
+
+| Family | Keep-side | Copies left |
+|---|---|---|
+| "When it comes, you will know. Everyone knows." | Beating Relic `C-IIIγ-902` | Lethe `C-IIIγ-928` · Dead Air `N-IIIγ-929` |
+| "Something here remembers what we chose to forget." | Vellum Man `C-Iα-900` | Duri's Heart `C-IIβ-901` · Hatred Above `C-IVδ-923` · Weighted Silence `O-IIIγ-924` · Dreaming Plague `N-IVδ-927` |
+
+Note for the next batch: Weighted Silence carries an `R-29` gap (`parity|cond|ser`) and Dreaming Plague's quote now differs from
+its family, so both may need in-unit counter work the way Dawn That Forgot and Lacrima did.

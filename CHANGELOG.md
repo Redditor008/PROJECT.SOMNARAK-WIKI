@@ -8,11 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 46 closed at ten (2026-10-07) — quote phase part two, owner's direction** — ten more shared opening quotes replaced
+  **in place** with lines of their own, each checked against all 301 before writing: Eleven Fifty-Nine · Endless Shift ·
+  Allhallow (source Breathing Stone `C-IVδ-907`) · Never Discharged · Ninety Seconds · Miasma · Sky of Borrowed Faces · Once Told
+  (source Glass Elsewhere `N-IIβ-903`) · Thinking Engine · Lacrima (source Beating Relic `C-IIIγ-902`). Reporting per the same
+  instruction: every row carries **both links** — the fixed dossier and the source keeper — and the batch-45 rows were
+  retrofitted the same way (`10e029a`). Movement: distinct quotes 285 → **295 / 301**; duplicate families **4 → 2**; dossiers
+  sharing a quote 20 → **8 / 301** — the Breathing Stone, Glass Elsewhere and Beating Relic families are down to their keepers
+  and (for Beating Relic) two copies left for the next batch. `R-29` 286 → **287 / 301** (parity 297 → **298**): Lacrima's unit
+  also filed its interactions section (Memory Lock · Passing Bell · The Last Warmth of Forty-Two). **+563 words** (59,150 →
+  59,713); nothing deleted (`R-15`); every unit residual 0, 0 sections over 0.05, `tpl.py` 0, meets **True**. Disclosures:
+  **rollback #48** recovered at the open; Lacrima's two pre-existing residual stock lines cleared line-locally in a second
+  commit the same unit (`24efe25`). Report: `CLONE_AUDIT_2026-10-07.md`, Finding 11.
+
 - **Batch 46 / unit 10 — Lacrima `N-Iα-905` quote written (2026-10-07)** — the shared opening quote (family of **5** dossiers, source
   **Beating Relic `C-IIIγ-902`**) replaced **in place** with one of this file's own: a lid that never seats and a voice asking for longer than the record covers. 6116 → **6613 words**; residual 0; 0 sections over 0.05;
   `tpl.py` 0; meets **True**; `quote_audit.py --check` reports no match — the quote is unique in the archive. The same unit closed its R-29 gap: a fresh `## 상호작용 (Entity Interactions)` section (new column set) filed against Memory Lock `C-IIIγ-300` · Passing Bell `N-IIβ-919` · The Last Warmth of Forty-Two `O-IVδ-515`. **Batch 46
   stands at 10 of ten.**
-  Two pre-existing residual stock lines were cleared line-locally in a second commit the same unit (`ca3a652`+1).
+  Two pre-existing residual stock lines were cleared line-locally in a second commit the same unit (`24efe25`).
 
 
 - **Batch 46 / unit 9 — Thinking Engine `C-IIIγ-904` quote written (2026-10-07)** — the shared opening quote (family of **5** dossiers, source

@@ -21,6 +21,16 @@ the file for writing before reading it, so the read returned nothing and the wri
 (`docs.py` anchor miss), restored from `ed80d83` the same turn (no history rewritten, no force-push), the lost open entry re-added,
 and the offending pattern replaced with read-then-write everywhere it is used. Nothing else was touched by the bug.
 
+**Quote phase part two, batch 46 result, 2026-10-07 — owner-directed, quotes replaced in place; both links per row:** ten more
+family copies got their own quote, each checked against all 301 before writing. Distinct quotes **285 → 295 / 301**; duplicate
+families **4 → 2**; dossiers inside a duplicated family **20 → 8 / 301**. `R-29` 286 → **287 / 301** (parity **298**) — Lacrima
+also closed its interactions gap. Word growth **+563** (59,150 → 59,713); nothing deleted (`R-15`); every unit meets **True**.
+Every b45 and b46 row carries **both links** — the fixed dossier and its source keeper (owner's instruction; b45 rows retrofitted
+`10e029a`). Remaining duplicate quotes for the next batch — **6 copies**: F4's Lethe `C-IIIγ-928` · Dead Air `N-IIIγ-929` (source
+Beating Relic `C-IIIγ-902`), and F5's Duri's Heart `C-IIβ-901` · Hatred Above `C-IVδ-923` · Weighted Silence `O-IIIγ-924` ·
+Dreaming Plague `N-IVδ-927` (source Vellum Man `C-Iα-900`). Disclosures: **rollback #48** recovered at the open; Lacrima's two
+pre-existing residual stock lines cleared line-locally (`24efe25`).
+
 **Quote phase, batch 46 open — owner's direction, 2026-10-07:** *"P + When You Write The Quote And Fix It Link Both The Duplicated That Is Fix And The Source."*
 Ten more shared quotes come out this round, and every row now carries **both links** — the fixed dossier and the source keeper whose
 quote it was copied from. The batch-45 rows were retrofitted with their source links the same way (`10e029a`). Order, worst-first by
@@ -3253,7 +3263,7 @@ residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **B
 **Batch 46, unit 1: Eleven Fifty-Nine `C-IIIγ-912` quote written.** The shared family quote replaced in place with the district grieving one loss nightly that belongs to no one present. 6047 → **6055 words**;
 residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 46 stands at 1 of ten.**
 
-**Batch 46 — OPEN at ten; quote phase part two (shared opening quotes replaced in place, owner-directed; each row links the fixed
+**Batch 46 — CLOSED at ten; quote phase part two (shared opening quotes replaced in place, owner-directed; each row links the fixed
 dossier and its source); finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 - SE-N-Iα-905 Lacrima 영혼의 그릇 — `24efe25` — PUSH VERIFIED — [[SE-N-Iα-905_Lacrima_영혼의_그릇](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-905_Lacrima_%EC%98%81%ED%98%BC%EC%9D%98_%EA%B7%B8%EB%A6%87.md "SE-N-Iα-905_Lacrima_영혼의_그릇.md")] · source (keeps its quote): [[SE-C-IIIγ-902_Beating_Relic_고동치는_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-902_Beating_Relic_%EA%B3%A0%EB%8F%99%EC%B9%98%EB%8A%94_%EC%9C%A0%EB%AC%BC.md "SE-C-IIIγ-902_Beating_Relic_고동치는_유물.md")] `SE-C-IIIγ-902`
