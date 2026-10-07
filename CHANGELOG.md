@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 37 / unit 3 — Barrier of Nothing `N-IIIγ-283` closed (2026-10-07)** — measured at `e35b56e`: **2 dirty sections**,
+  worst Final Observation 0.138 (the choice blockquote, the choose row and the result row), then Combat Record 0.057 (the
+  yield and resistance rows, both combat action rows, the tension phase and the resolution). **Closed in a single wave**
+  (21 sites); 6,628 → **6,723 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py`
+  meets **True** with the condition held; the registered condition text was kept verbatim inside the rewritten resolution
+  line. Entry 1's residual cleared line-locally (`is logged as ` → `stands on the register as`) — residual **1 → 0**; the
+  file carries two further `is logged as` uses in ordinary sentences and they were left alone, since the check is
+  line-scoped. The position row, two appearance lines, the effect line and the relations header row were re-authored.
+  Movement at the unit commit: `R-29` 229 / 301; section-clean 261 / 301; residue-free 302 / 302; residue lines
+  0; archive dirty 73; file-clean 302 / 302. **Batch 37 stands at three of ten.**
+
+
+
 - **Batch 37 / unit 2 — Sleeping Tree `O-IIIγ-374` closed (2026-10-07)** — measured at `84d12ec`: **1 dirty section**,
   Final Observation 0.143 (the choice blockquote, the choose row and the result row), with Operational Parameters 0.044
   (its 11-gram extraction bullet) re-authored in the same wave. **Closed in a single wave** (8 sites); 7,565 → **7,615

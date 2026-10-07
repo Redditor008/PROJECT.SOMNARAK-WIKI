@@ -1716,6 +1716,13 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 - SE-O-IIβ-833 Neverlast 녹슨 영혼 — `f53c17a` — PUSH VERIFIED — [[SE-O-IIβ-833_Neverlast_녹슨_영혼]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-833_Neverlast_%EB%85%B9%EC%8A%A8_%EC%98%81%ED%98%BC.md "SE-O-IIβ-833_Neverlast_녹슨_영혼.md")
 - SE-N-IIIγ-407 Fading Whisper 번져가는 속삭임 — `a9e211a` — PUSH VERIFIED — [[SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-407_Fading_Whisper_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-N-IIIγ-407_Fading_Whisper_번져가는_속삭임.md")]
 
+**Batch 37, unit 3: Barrier of Nothing `N-IIIγ-283` closed.** Measured at `e35b56e`: **2 dirty sections**, worst Final
+Observation 0.138, then Combat Record 0.057 — **closed in a single wave** (21 sites); 6,628 → **6,723 words**; `tpl.py`
+residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**, condition held. Disclosed: Entry 1's
+residual cleared line-locally, residual **1 → 0**, the file's two ordinary `is logged as` uses left untouched; the
+position row, appearance lines, effect line and relations header re-authored. Movement: `R-29` 229 / 301;
+section-clean 261 / 301; archive dirty 73; file-clean 302 / 302. **Batch 37 stands at three of ten.**
+
 **Batch 37, unit 2: Sleeping Tree `O-IIIγ-374` closed.** Measured at `84d12ec`: **1 dirty section**, Final Observation
 0.143 — **closed in a single wave** (8 sites); 7,565 → **7,615 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s)
 over 0.05**; `wikistd.py` meets **True**, residual clean on entry. Disclosed: `own_series` **False → True** via the
@@ -2521,6 +2528,8 @@ u9 pipe repair before commit, the shared-header retirement across 10 files, the 
 and the own-series digit restatements on u4, u6, u8 and u9. **Next cohort opens at three or five.**
 
 **Batch 37 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-N-IIIγ-283 Barrier of Nothing 녹슨 벽 — `3445c1f` — PUSH VERIFIED — [[SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-283_Barrier_of_Nothing_%EB%85%B9%EC%8A%A8_%EB%B2%BD.md "SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md")
 
 - SE-O-IIIγ-374 Sleeping Tree 잠든 나무 — `6e2cc0f` — PUSH VERIFIED — [[SE-O-IIIγ-374_Sleeping_Tree_잠든_나무]](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-374_Sleeping_Tree_%EC%9E%A0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IIIγ-374_Sleeping_Tree_잠든_나무.md")
 
