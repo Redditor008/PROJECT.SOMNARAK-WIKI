@@ -88,14 +88,14 @@
 
 1. **Tension:** The opening width is checked against the previous sighting, never against the figure. The outline reads the same at 3 centimetres as it does at 61, and 2 early reports describe an unchanged entity on days when the sighting found a 19-centimetre difference. Hollowcast is confirmed against the designation on that basis; positions are taken and the cycle is opened.
 2. **Clash:** Flerehan and Ferrehan from the sighting line. Pugnahan is authorised once and consumes two steps of margin when it is used, because the gauge rises sharply on confrontation and the opening widens with it. The widening does not reverse between cycles.
-3. **Resolution:** The cycle ends the way the file's own rule ends it — containment, retreat or management, or against the documented suppression condition: **Use identity anchors and do not invent memories for it**.
+3. **Resolution:** The cycle ends the way the rule in this file ends it — in containment, retreat or management, or against the documented suppression condition: **Use identity anchors and do not invent memories for it**.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Resilience** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Hollowcast’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Hollowcast defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- A worker who cannot hold is paid out twice over: **Resilience** goes first, the worker's own sense of themselves goes with it, and the gauge climbs on both, in that order.
+- Stay longer and the manifestation on the file comes through in full: emotional erosion first, then trauma in the body, then identity coming apart, then damage to the surroundings that does not heal.
+- The kit out of this source is bought with intimate memory, with the body's feeling, and with years of a life — the specification lists all three, and the field collects all three.
+- Resolution that comes late leaves the holding nothing but its breach, activation and expansion behaviors: containment withheld, the grief takes itself an outlet, and the outlet is carved rather than chosen.
 
 ## Appearance
 **Primary Form:** A person-shaped emptiness split like a torn fruit. Crimson light leaks from the opening.
@@ -265,10 +265,10 @@ The three pieces share one property and the armoury states it at the front of th
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Hollowcast (N-IIβ-426 [D]) stands on the register as a Subject-Void manifestation expressing Grudge, held in the Forge District, Zone D: a walking person-shaped emptiness split open like torn fruit, crimson light coming out of the gap and nothing behind the light. It communicates something that is not language and personnel report understanding it anyway; the folder records what was understood and by whom, and never asserts that anything was said. The holding's instrument is the width of the opening, sighted from a marked line twice a session — fourteen centimetres at baseline, three at the floor, sixty-one at the ceiling.
+Hollowcast (N-IIβ-426 [D]) is entered under Subject-Void, expressing Grudge, at the Forge District, Zone D: a person-shaped emptiness that walks, split open the way torn fruit is split, crimson light coming from the gap and nothing whatever behind the light. It communicates something that is not language, and personnel report understanding it regardless; the folder records what was understood and by whom and never once claims that anything was said. The instrument here is the opening's width, sighted from a marked line twice a session — fourteen centimetres at baseline, three at its floor, sixty-one at the ceiling.
 
 **Entry 2 — <Remedy Return: One Hundred and Forty-One Extractions, One Hundred and Three Matters Closed>**
-Drawn from the first return filed under the Rule of the Separate Remedy, in Year 4238. This facility authorised one hundred and forty-one therapeutic memory extractions in the nine years the register covers, every one of them clinically indicated, consented to, and carried out competently. One hundred and three of them also closed the hazard matter that had injured the person treated; thirty-eight did not. The opening stood at sixty-one centimetres in Year 4231, in the six weeks after the Forge District press collapse, when forty-four workers were treated and forty-four matters were marked resolved on the strength of the treatment. It stood at three centimetres in Year 4237, the quarter the hundred and three were reopened and worked on the physical evidence alone. The width has tracked the remedy return for nine years and has never tracked anything done at the holding.
+Taken from the first return filed under the Rule of the Separate Remedy, Year 4238. In the nine years the register covers the facility authorised 141 therapeutic extractions, each one clinically indicated, consented to, and carried out by competent hands; 103 of them also closed the hazard matter that had injured the patient, and 38 did not. The opening measured sixty-one centimetres in Year 4231, in the six weeks after the Forge District press collapse, when forty-four workers were treated and forty-four matters were marked resolved on the strength of the treatment; it measured three centimetres in Year 4237, the quarter the 103 were reopened and worked on the physical evidence alone. Nine years the width has followed the remedy return, and nothing done at the holding has ever moved it.
 
 **Entry 3 — <Statement of a Welfare Officer>**
 I signed forty-four authorisations in six weeks and I would sign them again. They were in pieces. The procedure works, it is quick, and by the end of the month men who had been unable to stand in a workshop were back on shift and sleeping. I was commended. What I did not notice, because nobody in the room was thinking about it, was that each form I signed had a second effect: the matter against the press closed, because the only witness to it no longer had anything to say. Forty-four times. The press was still in service nineteen months later. I treated every injured man I was given and I never once asked who was supposed to be fixing the thing that injured them, and the honest answer is that I assumed it was somebody else and it turned out to be nobody.
@@ -312,14 +312,14 @@ The figure stands split open, not wounded but incomplete. You feel the empty sid
 
 ### Interaction Pattern
 
-Three records are grouped with this one on the term identity. None has been brought to the Forge District and none will be: the sighting series cannot survive the presence of a second figure on the line, and the one staging proposal was refused on that ground in Year 4228. What follows is paper comparison and is labelled as such throughout.
+Three files share the term identity with this one and are shelved beside it; not one will ever be brought into the Forge District, because the sighting series cannot survive a second figure standing on the line, and a staging proposal to that effect was refused in Year 4228. What follows is comparison on paper, and every entry says so.
 
 **Interaction method:** On paper, and on one question: does the record sit in what the person lost, in what the person shows, or in what the institution closed afterwards. The answer goes down as one sentence, over the writer's signature. Four records in this wing turn on identity and three of them answer to the person. This one answers to the file, and every pairing claim in the folder was written by somebody who had not made the distinction.
 
 
 ### Entity Interaction Record
 
-Three records are grouped with this one on the shared term identity, which is the archive's laziest grouping and has never predicted a thing. The question that separates them is where the loss sits: in what a person can recall, in what a person presents, or in what the facility did with the gap afterwards. This one is the third. It is not a memory entity. It is a record of what an institution does when a witness stops being able to testify.
+The grouping that put three files beside this one on the term identity is the archive at its laziest, and it has never predicted anything. The distinctions that matter are where the loss sits: in memory, in presentation, or in what the facility did with the gap afterwards — this one is the third, and it is not a memory entity.
 
 | What shares the record | How the pairing has run | What the wing entered | What the file retains |
 |---|---|---|---|
@@ -339,7 +339,7 @@ But the removal was not clean. The memories were gone, but the shape they had oc
 
 Hollowcast is Subject-Void, Grudge-element: the figure of a mind erased by its own pain, carrying the shape of a person without the person's content, the anger that the memory-removal could not extract because the anger was not a memory but a response, and responses, unlike memories, do not dissolve when the triggering event is removed.
 
-Those who come near the Hollowcast feel the specific vertigo of identity without content — the hollow outline, the walking shape, the person-form carrying nothing but the rage that survived the erasure of everything the rage was about.
+To come near the Hollowcast is to take on the vertigo of identity with nothing inside it — the hollow outline, the walking shape, a person-form whose entire content is the rage left after everything the rage was about was erased away.
 
 Some sorrows are about losing memory. Hollowcast is about losing the self while keeping the shape — the trauma so severe the city removed the memories, leaving a form that walks and carries, in its emptiness, the one thing the removal could not take: the anger, formless, directionless, preserved in an outline that is all that remains of the person the worker used to be.
 ## 증언 (Testimonium) — The Testimony
@@ -364,9 +364,9 @@ Some sorrows are about losing memory. Hollowcast is about losing the self while 
 - Flerehan and Ferrehan lower the gauge. Pugnahan raises it and permanently widens the opening; one authorisation per session, no exceptions, and a standing recommendation since Year 4233 to remove the authorisation entirely.
 - Never address it as a person, never tell it that it is whole, and never supply it with a memory. The briefing says plainly that this is uncomfortable to follow and offers no alternative.
 - Sighting from the marked line only, twice a session, width in centimetres. Approach measurement is prohibited; the opening responds to proximity.
-- The Rule of the Separate Remedy binds the welfare office and the hazard board, and it stands as a containment condition of the holding rather than a house practice.
+- The Rule of the Separate Remedy binds both the welfare office and the hazard board, and it stands here as a condition of containment rather than a house practice.
 **Observation Notes:**
-- Opening width 14 cm at baseline, range 3 to 61. The width tracks this facility's remedy return and has never tracked work done at the holding.
+- The opening runs 14 cm at baseline, from 3 to 61 across the range. It follows the facility's remedy return and nothing done at the holding.
 - No injury to personnel in sixty years except following a statement that the entity is whole; four casing-mount replacements, all after authorised Pugnahan.
 - One trial with the extraction apparatus powered down produced unchanged activity, establishing that the entity answers to the procedure's paperwork and not to the machinery.
 **Cross-References:** Forge District press bay, Zone D · the welfare office remedy return · the Year 4231 press collapse folder, forty-four treatments and forty-four closures · the twenty-nine matters with no physical record
