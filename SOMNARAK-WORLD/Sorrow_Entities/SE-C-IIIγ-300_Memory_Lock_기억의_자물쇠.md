@@ -21,29 +21,22 @@
 
 ## Operational Parameters
 
-> **Mechanics Reference:** Suggested operational values for field simulation and balancing. These parameters support structured play without replacing the canonical SECC classification.
+> **Mechanics Reference:** Working figures for the lock, kept for simulation. They annotate the holding described above; they do not amend its classification.
 
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure** | Identity and memory — the lock keeps what a worker cannot carry back out of its room. |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
+| **Han-Energy yield** | 16–22 per successful working of the lock |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | 2 |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Open it only through its registered Work Types; the key it keeps turns for Viderehan and Ferrehan alone. |
 
-### Operational Notes
-
-- The Lock has no key and no mechanism behind the plate, yet it is unmistakably fastened.
-- Work loosens nothing. A successful cycle lowers pressure in the bay while leaving the Lock exactly as found.
-- Only Viderehan and Ferrehan apply. Attempts to work the object by other means are not recorded as effective.
-- Personnel who handle it report losing the reason they came to deep storage. Debrief at the bay door rather than at shift end.
-- Extraction draws on residue at the plate and is authorized apart from routine work.
 
 ## Combat Record
 ### Core Stat Line
