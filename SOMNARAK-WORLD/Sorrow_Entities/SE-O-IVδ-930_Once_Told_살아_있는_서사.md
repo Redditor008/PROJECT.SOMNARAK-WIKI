@@ -1,6 +1,6 @@
 # Once Told — 살아 있는 서사
 
-> *"The weight is not punishment. It is recognition."*
+> *"The silence here is kept rather than found, because whatever is described aloud arrives."*
 
 ## SECC Classification
 
