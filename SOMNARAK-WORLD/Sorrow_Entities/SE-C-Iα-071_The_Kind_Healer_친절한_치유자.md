@@ -86,16 +86,16 @@
 
 ### Battle Phases
 
-1. **Tension:** The team identifies The Kind Healer by a soft humanoid of warm Han-crystal, hands faintly lit, moving unhurriedly toward anybody who is hurt — comfort-warm to stand near, with salt-damp and cold rain on old cloth in the air. The approach is confirmed, the tally is called aloud as the standing rule requires, and the injured are kept behind the rail before anything else is attempted.
+1. **Tension:** The crew gets its first confirmation by sight: a soft humanoid of warm Han-crystal, hands faintly lit, walking without hurry toward whoever is bleeding — comfort-warm to stand near, the air around it carrying salt-damp and cold rain on old cloth. The tally goes aloud as the standing rule requires, the injured go behind the rail before anything else, and only then does anyone speak.
 2. **Clash:** No blow is struck here. The engagement is Flerehan at the rail with the blessing tally called aloud after every exchange, and the tally is what ends it, not the gauge.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not attack. Guide it gently back and prevent unauthorized contact**. The condition is met when the tally has been called aloud, every acceptance of healing has been authorised by name and in writing, the injured have stayed behind the rail, and the Healer has been walked back on foot; violence produces confusion rather than suppression, and a cycle that ends with a strike is filed as a failure of the approach.
+3. **Resolution:** The document closes with the Healer walked back to SECTOR-B-02 on its own feet — the documented suppression condition: **Do not attack. Guide it gently back and prevent unauthorized contact**. It is met when the tally has been called aloud, every acceptance of healing authorised by name and in writing, the injured kept behind the rail throughout, and the walk back made on foot; a strike teaches this holding nothing, and a cycle that ends with violence is filed as a failure of the approach rather than a suppression.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker absorbs raw sorrow pressure that breaks their **Clarity**, while the entity feeds on their destabilisation to escalate the gauge. That is why acceptance of healing is authorised by name and in writing, and why the tally is called aloud before anything else begins.
-- Time is The Kind Healer’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. The Kind Healer executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- A worker who cannot hold the pressure pays twice: their **Clarity** breaks under sorrow that has nowhere else to go, and the gauge climbs because that break is what the Healer feeds on. Every precaution in this file starts from that one fact — the tally called aloud first, the acceptance signed by name before any hand is laid on.
+- The longer a crew stays in the warm air, the more sorrow settles into them, and the file's whole containment argument rests on not finding out what that becomes: the collapse that follows is psychological, physical and environmental at once, and no watch has yet managed to stop it once it starts.
+- Every M.A.W. from this armory works the same trade, and it is not negotiable: the registry catalogues what the tool does, and the bearer's own flesh and soul settle the account afterward.
+- A run that ends without ending cleanly does not stop at the rail: the Healer follows the breach pattern it has on file, and the sorrow left unguided takes the exit the crew failed to give it.
 
 ## Appearance
 **Primary Form:** A soft humanoid shape of lit Han-crystal, the surface pliant like skin stretched over a lamp. **Hands:** warm to the touch and brighter than the rest of it, and the brightness increases as it works.
@@ -152,7 +152,7 @@
 
 ### Operational Work Notes
 
-The table is one input among many, and on this holding the code and the coherence level are what decide whether a 'stable' gauge means anything in the field. The Kind Healer is a Subject with a Subject-Body manifestation and Lament elemental expression, held at SECTOR-B-02 in Zone B — contained. It finds injuries nobody showed it, closes them completely, and keeps what it has taken; nothing here transfers to another holding with a healer in its name, and a stable gauge is not a safe encounter — observation can leave the gauge unchanged while still exposing the worker to memory, environmental or identity effects.
+Read the code and the coherence level before trusting a flat read: those two, not the table alone, decide whether 'stable' means anything at SECTOR-B-02. The Kind Healer is a Subject with a Subject-Body manifestation and Lament elemental expression in Zone B, contained. It closes wounds nobody showed it and keeps what it closes; nothing here transfers to another holding with a healer in its name, and a steady gauge is not a safe watch — the instrument has sat flat through nights that sent workers home with a memory that was not theirs.
 
 **Reading the response:** A lower gauge is a window and not a door: the pressure returns unless the cycle is sustained, so this is ongoing stabilisation and not permanent healing. A rising gauge is a warning — the wrong Work Type has been applied, or the Healer's sorrow is escalating — and the file's caution is that unusual responses precede events: log them, flag them, and adjust the protocol before the next assignment.
 ## Transformation Chain
@@ -245,7 +245,7 @@ The table is one input among many, and on this holding the code and the coherenc
 
 ### M.A.W. Use Notes
 
-These pieces are The Kind Healer in miniature. What they give is listed above; what they take is the holding's unwept grief and the weeping that follows, and the Armoury enters both against the wielder rather than the piece — on this set the two are never separated.
+The set is the Healer in small: what it gives is in the column above, and what it takes is the square's unwept grief, followed by weeping with no place to put it. The Armoury writes both against the bearer's name and never against the steel — on this set the two have never been separated.
 
 ### Field Use Record
 
@@ -287,7 +287,7 @@ These pieces are The Kind Healer in miniature. What they give is listed above; w
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Kind Healer (C-Iα-071 [LS]) is a Subject-Body manifestation expressing Lament, held at SECTOR-B-02 in Zone B. It finds injuries it has not been shown, closes them completely, keeps what it has taken, and moves unhurriedly toward anybody who is hurt. The standing rule at the containment is that nobody strikes it, the tally is called aloud, the injured stay behind the rail, and every acceptance of healing is authorised by name and in writing.
+The Kind Healer (C-Iα-071 [LS]) holds SECTOR-B-02 in Zone B as a Subject-Body manifestation expressing Lament. It crosses the floor without hurry toward anyone hurt, closes injuries it was never shown, and keeps what it closes. The containment runs on four standing rules: no strike, the tally called aloud, the injured behind the rail, and every acceptance of healing signed by name and in writing before a hand is laid on.
 
 **Entry 2 — <Zone B Containment Watch, Year 4238>**
 Shudder timed at 6.8 seconds across the nine authorised treatments of the year, after 5.1 and 3.4. Tally at twelve of twelve, reconciled at every shift change. It continues to walk toward unreported injuries, which remains the only reliable detector of them the wing possesses.
