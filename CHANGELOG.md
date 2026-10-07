@@ -24,16 +24,16 @@ This file records notable changes to the public Somnarak Wiki.
 - **Batch 52 / unit 1 — Absent Landmark `O-Iα-863` (2026-10-07)** — generic mass 6.7% → **2.5%** (43 of 1,647); 6,863 → 6,964 words.  **Batch 52 stands at 1 of ten.**
 - **Batch 54 closed at ten (2026-10-07) — personalization phase, seventh and final per-10 batch, owner-directed — the queue empties.** The queue was re-measured at the open (**10 / 301**) and the ten worst taken worst-first; each unit's shared phrasing re-authored **in place**, one push per unit (`A0`), plus one repair and two margin passes. Movement: queue **10 → 1 / 301** (the last file, Owed `C-IIIγ-180`, sits at 5.0% — one tenth of a point over the line); heavy and moderate **0 / 301**; light **10 → 1**; fine **291 → 300**; distinct wing shingles **725,662 → 726,190**; words **71,102 → 71,288 (+186)**. Batch echo probe: grams introduced on both sides **0** (`bnew.py`); introduced-once-echoing-an-existing-line **0**. Disclosures: rollback **#59** recovered at the open (stale `408797c` vs remote `fbfb2c1`, nothing force-pushed); one applied-anyway echo repaired the same turn (`c7be7e9`).
 
-- **Batch 54 / unit 10 — Frozen Tear `C-IIβ-102` (2026-10-07)** — generic mass 5.4% → **4.5%**; 8,116 → 8,146 words.  **Batch 54 stands at 10 of ten.**
-- **Batch 54 / unit 9 — The Wrath Flame `O-IIIβ-120` (2026-10-07)** — generic mass 5.3% → **4.0%**; 6,943 → 6,954 words.  **Batch 54 stands at 9 of ten.**
-- **Batch 54 / unit 8 — Drowned Echo `O-IIβ-378` (2026-10-07)** — generic mass 5.2% → **3.4%**; 5,898 → 5,909 words.  **Batch 54 stands at 8 of ten.**
-- **Batch 54 / unit 7 — Myrmidon `O-IIβ-235` (2026-10-07)** — generic mass 5.2% → **3.9%**; 7,193 → 7,198 words.  **Batch 54 stands at 7 of ten.**
-- **Batch 54 / unit 6 — Dejà Vu `C-IVδ-125` (2026-10-07)** — generic mass 5.1% → **3.4%**; 8,641 → 8,657 words.  **Batch 54 stands at 6 of ten.**
-- **Batch 54 / unit 5 — Barrier of Nothing `N-IIIγ-283` (2026-10-07)** — generic mass 5.1% → **3.7%**; 6,835 → 6,846 words.  **Batch 54 stands at 5 of ten.**
-- **Batch 54 / unit 4 — Soaking Rope `N-Iα-316` (2026-10-07)** — generic mass 5.1% → **3.4%**; 6,952 → 7,017 words.  **Batch 54 stands at 4 of ten.**
-- **Batch 54 / unit 3 — Beating Relic `C-IIIγ-902` (2026-10-07)** — generic mass 5.1% → **2.7%**; 6,243 → 6,248 words.  **Batch 54 stands at 3 of ten.**
-- **Batch 54 / unit 2 — Cracked Mirror `C-IIβ-310` (2026-10-07)** — generic mass 5.0% → **2.6%**; 7,121 → 7,146 words.  **Batch 54 stands at 2 of ten.**
-- **Batch 54 / unit 1 — Cenotaph `N-IVδ-525` (2026-10-07)** — generic mass 5.0% → **3.8%**; 7,160 → 7,167 words.  **Batch 54 stands at 1 of ten.**
+- **Batch 54 / unit 10 — Cenotaph `N-IVδ-525` (2026-10-07)** — generic mass 5.0% → **3.8%**; 7,160 → 7,167 words.  **Batch 54 stands at 10 of ten.**
+- **Batch 54 / unit 9 — Cracked Mirror `C-IIβ-310` (2026-10-07)** — generic mass 5.0% → **2.6%**; 7,121 → 7,146 words.  **Batch 54 stands at 9 of ten.**
+- **Batch 54 / unit 8 — Beating Relic `C-IIIγ-902` (2026-10-07)** — generic mass 5.1% → **2.7%**; 6,243 → 6,248 words.  **Batch 54 stands at 8 of ten.**
+- **Batch 54 / unit 7 — Soaking Rope `N-Iα-316` (2026-10-07)** — generic mass 5.1% → **3.4%**; 6,952 → 7,017 words.  **Batch 54 stands at 7 of ten.**
+- **Batch 54 / unit 6 — Barrier of Nothing `N-IIIγ-283` (2026-10-07)** — generic mass 5.1% → **3.7%**; 6,835 → 6,846 words.  **Batch 54 stands at 6 of ten.**
+- **Batch 54 / unit 5 — Dejà Vu `C-IVδ-125` (2026-10-07)** — generic mass 5.1% → **3.4%**; 8,641 → 8,657 words.  **Batch 54 stands at 5 of ten.**
+- **Batch 54 / unit 4 — Myrmidon `O-IIβ-235` (2026-10-07)** — generic mass 5.2% → **3.9%**; 7,193 → 7,198 words.  **Batch 54 stands at 4 of ten.**
+- **Batch 54 / unit 3 — Drowned Echo `O-IIβ-378` (2026-10-07)** — generic mass 5.2% → **3.4%**; 5,898 → 5,909 words.  **Batch 54 stands at 3 of ten.**
+- **Batch 54 / unit 2 — The Wrath Flame `O-IIIβ-120` (2026-10-07)** — generic mass 5.3% → **4.0%**; 6,943 → 6,954 words.  **Batch 54 stands at 2 of ten.**
+- **Batch 54 / unit 1 — Frozen Tear `C-IIβ-102` (2026-10-07)** — generic mass 5.4% → **4.5%**; 8,116 → 8,146 words.  **Batch 54 stands at 1 of ten.**
 
 - **Batch 53 closed at ten (2026-10-07) — personalization phase, sixth per-10 batch, owner-directed** — the queue was re-measured at the open (**20 / 301**) and the ten worst taken worst-first; each unit's shared phrasing re-authored **in place** in its own terms, one push per unit (`A0`), three of them followed by a margin pass. Movement: queue **20 → 10 / 301**; heavy and moderate **0 / 301**; light **20 → 10**; fine **281 → 291**; distinct wing shingles **724,822 → 725,662**; words **76,561 → 76,764 (+203)**. Batch echo probe: grams introduced on both sides **0** (`bnew.py`); batch-wide shared families 233 (≥ 2 files) / 7 (≥ 3), all pre-existing. Disclosures: rollback **#58** recovered at the open (stale `408797c` vs remote `596b4e7`, eleven remote files restored, nothing force-pushed); one `own_series` numeral restatement (Whispering Walls).
 
