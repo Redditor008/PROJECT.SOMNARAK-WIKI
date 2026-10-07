@@ -1,6 +1,6 @@
 # Sorrow Mass — 압살의 한
 
-> *"It does not end. It merely pauses between heartbeats."*
+> *"The weight does not announce itself. A month later you are avoiding stairs you have used for years."*
 
 ## SECC Classification
 
