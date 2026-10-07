@@ -88,7 +88,7 @@
 
 1. **Tension:** The team identifies Miasma by the weeping is the marker and it is involuntary. It is not sadness and cannot be composed away; personnel are instructed not to apologise for it, not to explain it, and not to try to stop, and that instruction is in the induction material because the attempt to stop is what makes it worse, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Miasma's recorded combat actions.
-3. **Resolution:** The far spotter calls the run clear, the near spotter repeats it back, and the doors stay open for a further ten minutes by the clock. Only then is the corridor walked, and it is walked by the spotters, who have been watching it.
+3. **Resolution:** The far spotter calls the run clear, the near spotter repeats it back, and the doors stay open for a further ten minutes by the clock. Only then is the corridor walked, and it is walked by the spotters, who have been watching it. It closes against the documented suppression condition: **The far spotter calls the run clear, the near spotter repeats it back**.
 
 ### Consequences
 
@@ -240,7 +240,7 @@ The Miasma set is drawn from the corridor furniture: the Edge from a door-stay b
 
 **Key Observations:**
 - 527 arrivals logged since Y4238, mean dwell two minutes fifty seconds, no precursor detected by any of the three monitoring methods tried against the series.
-- Both valid approaches reduce the gauge and both consist of watching. Nothing performed inside the bank has ever altered its behaviour, and the file records four attempts.
+- Both valid approaches reduce the gauge and both consist of watching. Nothing performed inside the bank has ever altered its behaviour, and the file records 4 attempts.
 - The grief carried is consistently somebody else’s. In 94 interviewed exposures, no worker has ever reported a grief that could be matched to their own history, and eleven reported details later found in district records of people they had never met.
 
 **Personnel Note:**
@@ -279,6 +279,20 @@ Contact is disorienting. The lament pressure is familiar — every agent in Somn
 **When the bank moves on:** It thins from the far end of the run first. The spotter at that end always calls it a few seconds before anyone standing in it notices.
 
 **After departure:** The weeping stops and the particulars stay. That is the part the follow-up is for.
+
+## 상호작용 (Entity Interactions)
+
+The bank weeps by itself and the approach is watching it: two spotters, the doors held open on the affected run, and the corridor walked only after the run is called clear. The file has never run a second holding on the same run. The pairings below are paper work from the appendix that groups the 90x holdings by manifestation, read against each record's own series — three ways of handling a grief that is not the witness's own.
+
+**Interaction method:** Take the bank's own numbers first: the 527 arrivals logged since Y4238, the mean dwell of two minutes fifty seconds, the 4 recorded attempts that changed nothing. Then lay the other record's series beside the dwell figures and enter the first parting, its span, what set it off, and whether either series shifted. Re-verify at the next run.
+
+| What the corridor carries | How the pairing has run | What the walk entered | What the spotters keep |
+|---|---|---|---|
+| **Dead Air** `N-IIIγ-929` | Filed together on a watch where nothing is seen. That record's form asks for a bearing and an estimated mass; this one asks for a dwell time, and both fields are subjective and both are marked so. | One review entry; the two dwell series were laid side by side and parted at the first mark. | That the parting is the entry, kept in the review's figures as they came in. |
+| **Lethe** `C-IIIγ-928` | Grouped on an effect that takes rather than shows. That record's ceiling is measured twice a watch; here the measurement is the weep itself, and neither holding can be read by the person inside it. | Nothing was run. The appendix listed the two together and the review let the listing stand. | That the pairing is a filing line with nothing measured beneath it, entered on each repetition. |
+| **Sky of Borrowed Faces** `O-IIIγ-926` | Grouped on somebody else's face. That record walks a transect and counts surfaces; this one shows a worker a grief whose details could never have been their own. | The dwell series and the transect count were compared once and shared only their duration. | That the two are compared on duration alone, noted as a measure and not a link. |
+
+**Interaction procedure:** Nothing walks the affected run in company with this holding. The comparison stays on paper at the annual review, with the dwell figures entered first and the other record's series laid beside them untouched; parting, span, cause and both readings go into the margin.
 
 ## 이야기 (Narratio) — The Tale
 
