@@ -16,6 +16,11 @@ All figures below are measured, not estimated, and each names the tool that prod
 
 **Batch pacing, owner's correction, 2026-10-05 (`R-26` amended), reaffirmed by the owner the same day — "This Rule Need To Be Remember":** the batch ladder starts at **3**, not 5 — **3 > 5 > 7 > 10** SE files per batch, ratcheting up only while the units are genuinely simple by `R-26`'s own test, and stopping at whatever number was finished properly. **The minimum for any batch is three SE files**; the ceiling is ten, and a batch of fewer than three is permitted only by `R-26`'s quality clause and must be named and explained in the record rather than reported as a full batch. The superseded "start at five" wording is preserved in the rule file with the correction dated. The units in this cohort are *not* simple by that test — 11–12 dirty sections, full Interaction Records, 5,000–8,000 words — so the ladder stays at the floor of three per batch for this cohort, and the per-dossier conditions and one-`gate.sh`-per-dossier rule are unchanged. Two rows moved this turn without a unit touching them — residue-free 103 → 108 and file-clean 158 → 162 — because the four Rank V rewrites and Ephemera retired shared lines outright, and a line that drops below ten holders stops counting against every remaining dossier. That is the documented spillover effect; it is not work performed this turn.
 
+**Incident #47, same turn, repaired:** the batch-45 open docs commit (`87b313b`) emptied `CHANGELOG.md` — a snippet opened
+the file for writing before reading it, so the read returned nothing and the write wrote nothing. Caught by the next docs step
+(`docs.py` anchor miss), restored from `ed80d83` the same turn (no history rewritten, no force-push), the lost open entry re-added,
+and the offending pattern replaced with read-then-write everywhere it is used. Nothing else was touched by the bug.
+
 **Quote phase, batch 45 open — owner's direction, 2026-10-07:** *"DO The Quote One First Because That An Identity And Learn How To Write SE Quote."*
 The opening quote is the file's identity, and the clone audit found it the archive's strongest clone call: a duplicated
 quote lifts the chance of a cloned section inside the pair **18 / 84 = 21.4%** against the **1.20%** baseline (Finding 7).
