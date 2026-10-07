@@ -327,7 +327,7 @@ It approaches as if you are the most important person in the world. Its hands fi
 
 ### Interaction Pattern
 
-The Kind Healer stands on the shelf with the 5 records it has been read against — The Smothering Mother, The Orphaned Bell, The Forgotten Soldier, The Frozen Veil and The Hollow Choir. Not one of the five is a friend or an enemy to it; each was filed as a resonance candidate and kept at that. In a shared event the watch reports one line per post — what moved in station-keeping, in the gauges, or in either holding's own manner, or that nothing moved — and the note over the page is plain that the pairing rests on a resemblance and never on a measurement.
+The Kind Healer stands on the shelf with the 5 records it has been read against — The Smothering Mother, The Orphaned Bell, The Forgotten Soldier, The Frozen Veil and The Hollow Choir. Not of the five is kept as an ally or a rival to it; each was filed as a resonance candidate and kept at that. In a shared event the watch reports a separate entry per run — what moved in station-keeping, in the gauges, or in either holding's own manner, or that nothing moved — and the note over the page is plain that the pairing rests on a resemblance and never on a measurement.
 
 **Interaction method:** Tally reconciled before and after by both keepers, shudder timed at every contact, and no pairing run at all with any holding that can produce an injury.
 
