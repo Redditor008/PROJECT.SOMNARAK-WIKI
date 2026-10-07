@@ -21,6 +21,17 @@ the file for writing before reading it, so the read returned nothing and the wri
 (`docs.py` anchor miss), restored from `ed80d83` the same turn (no history rewritten, no force-push), the lost open entry re-added,
 and the offending pattern replaced with read-then-write everywhere it is used. Nothing else was touched by the bug.
 
+**Quote phase, batch 46 open — owner's direction, 2026-10-07:** *"P + When You Write The Quote And Fix It Link Both The Duplicated That Is Fix And The Source."*
+Ten more shared quotes come out this round, and every row now carries **both links** — the fixed dossier and the source keeper whose
+quote it was copied from. The batch-45 rows were retrofitted with their source links the same way (`10e029a`). Order, worst-first by
+family then designation: **F2's last three** — Eleven Fifty-Nine `C-IIIγ-912` · Endless Shift `C-IVδ-915` · Allhallow `O-IIIγ-916`
+(source: Breathing Stone `C-IVδ-907`); **F3's five** — Never Discharged `O-IIβ-911` · Ninety Seconds `C-IVδ-918` · Miasma `C-IVδ-922`
+· Sky of Borrowed Faces `O-IIIγ-926` · Once Told `O-IVδ-930` (source: Glass Elsewhere `N-IIβ-903`); **F4's first two** — Thinking
+Engine `C-IIIγ-904` · Lacrima `N-Iα-905` (source: Beating Relic `C-IIIγ-902`). Keepers unchanged — the lowest designation keeps its
+line. Lacrima's unit also closes its `R-29` `parity` gap (interactions section) the way Dawn That Forgot did in batch 45. **Rollback
+#48** hit at this turn's open and was recovered the same turn (`reset --mixed` to the remote tip; worktree content already matched,
+dirty 0). Nothing else moved.
+
 **Quote phase, batch 45 result, 2026-10-07 — owner-directed, quotes replaced in place:** ten dossiers got their own opening
 quote; every draft checked against all 301 before writing (`quote_audit.py --check`). Distinct quotes **275 → 285 / 301**;
 duplicated families **5 → 4**; dossiers inside a duplicated family **31 → 20 / 301**; the Grimoire family (8) cleared
@@ -3211,6 +3222,9 @@ residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **B
 
 **Batch 45, unit 1: Backward Hour `C-IIIγ-913` quote written.** The shared family quote replaced in place with the hands running backward and the district's separate grievances becoming articulate at once. 5970 → **5975 words**;
 residual 0; 0 sections over 0.05; `quote_audit.py --check` reports no match. **Batch 45 stands at 1 of ten.**
+
+**Batch 46 — OPEN at ten; quote phase part two (shared opening quotes replaced in place, owner-directed; each row links the fixed
+dossier and its source); finished dossiers, each with its SE git link and closing commit** (`R-12`).
 
 **Batch 45 — CLOSED at ten; quote phase (each file's shared opening quote replaced in place, owner-directed); finished dossiers, each with its SE
 git link and closing commit** (`R-12`).

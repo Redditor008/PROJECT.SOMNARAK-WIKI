@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Quote phase part two opened — batch 46 (2026-10-07), owner's direction** — *"P + When You Write The Quote And Fix It Link Both
+  The Duplicated That Is Fix And The Source."* Ten more family copies queued: F2's last three (Eleven Fifty-Nine · Endless Shift ·
+  Allhallow; source Breathing Stone `C-IVδ-907`), F3's five (Never Discharged · Ninety Seconds · Miasma · Sky of Borrowed Faces ·
+  Once Told; source Glass Elsewhere `N-IIβ-903`), F4's first two (Thinking Engine · Lacrima; source Beating Relic `C-IIIγ-902`).
+  Reporting change, per the same instruction: every quote-fix row carries **both links**, the fixed dossier and the source keeper —
+  and the batch-45 rows were retrofitted the same way (`10e029a`). Lacrima's unit also closes its `R-29` `parity` gap. **Rollback
+  #48** recovered at the turn's open. No dossier content changed by this commit.
+
 - **Batch 45 closed at ten (2026-10-07) — quote phase, owner's direction** — the shared opening quote of ten dossiers replaced
   **in place** with lines of their own, each checked against all 301 before writing (`quote_audit.py --check`): Backward Hour ·
   Amnesia · Dawn That Forgot · Passing Bell · Once Upon · Cracked Flesh · Sorrow Mass (its number-words hold untouched,
