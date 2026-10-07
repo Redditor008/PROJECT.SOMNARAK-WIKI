@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- When a worker breaks under the entity’s pressure, the Sorrow Gauge climbs while their **Resilience** shatters into a psychological Fracture—a catastrophic dual failure.
-- Sustained proximity triggers the entity’s latent secondary effects—the subtle hazards that short-cycle briefings warn against, resulting in severe cognitive erosion, somatic distortion, and environmental taint.
-- Wielding a M.A.W. requires accepting its resonance toll: the entity’s crystallized sorrow flows backward through the weapon into the bearer, extracting the price documented in the armory ledger.
-- When resolution fails, the entity’s narrative continues on its own catastrophic terms—manifesting through cell breach, territorial expansion, and rapid escalation.
+- A failed resist at the rows costs twice: the gauge climbs, and the **Resilience** that carried the worker through the gate comes apart with it — the watch enters both, or it has entered nothing.
+- The orchard keeps its own pace. Past the first half-hour among the rows, personnel lose the middle of the morning and smell the fruit before they can say what is missing.
+- Every M.A.W. brought inside the gate pays its toll into the armoury ledger first; the price is drawn from the bearer and the ledger is not permitted to soften it.
+- A run that ends without containment leaves the gate standing open an hour past its hour, and the next tally of touched fruit is larger than the last one was.
 
 ## Appearance
 **Physical Form:** Not a body but a planting — heavy clusters of dark fruit over rows that are still correctly spaced, standing in ground that has not been dry in sixty years. **Extent:** 124 paces of frontage along the departure path and widening.
