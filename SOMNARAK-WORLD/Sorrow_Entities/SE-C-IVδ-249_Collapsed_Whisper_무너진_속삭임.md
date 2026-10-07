@@ -251,7 +251,7 @@ The set carries the entity's single property into three forms: each piece gives 
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer places the holding from the cut — a sentence stopping at about 1.5 seconds in static and red light, spoken by a figure that never fully arrives. Confirmed against the classification table before entry, with the break series opened first. |
-| **Sustained observation** | Break time, syllable count, bearing at contact and at the break, and the static's condition. The entity does not respond to being observed and the record says so rather than implying patience. |
+| **Sustained observation** | The break time — 1.5 seconds, every time it has been taken — with the syllable count, the bearing at contact and at the break, and the condition of the static. The entity does not respond to being watched, and the record states that rather than implying any patience. |
 | **Activation or escalation** | Escalation is read off the session rather than the entity: the point at which a worker starts pressing for the rest of the sentence. Record who pressed, the break time that followed, and the clock at which the pair was surfaced. |
 | **Post-contact review** | Break time, syllables, bearings, gauge, and the residue statement in the worker's own words. The statement is logged verbatim and then left alone. Nobody works on it afterwards, including the worker who gave it. |
 

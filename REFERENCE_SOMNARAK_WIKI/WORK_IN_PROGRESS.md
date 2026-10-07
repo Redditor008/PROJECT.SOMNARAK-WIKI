@@ -1720,7 +1720,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 Final Observation 0.173, then M.A.W. Equipment 0.102, Flavor Text 0.061 and Combat Record 0.060 — **closed in a single
 wave** (26 sites); 6,735 → **6,990 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**;
 `wikistd.py` meets **True**. Disclosed: `own_series` **False → True** by restating the file's own figures in numerals
-inside real edits (1.5-second break, 3 further items); the tension-phase `The marker is checked (the cut.` splice
+inside real edits (1.5-second break twice over, 3 further items); the tension-phase `The marker is checked (the cut.` splice
 rebuilt; the Entry 1 `is logged as ` line rewritten — residual **1 → 0**. Movement: `R-29` 201 / 301; section-clean
 227 / 301; residue-free 302 / 302; archive dirty 165; file-clean 302 / 302. **Batch 33 stands at four of
 ten.**
