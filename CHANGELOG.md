@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 43 / unit 2 — Once Upon `O-IIIγ-920` closed (2026-10-07)** — measured at `513376a`: failures were
+  `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing `## 상호작용 (Entity
+  Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row record pairing the desk
+  with Allhallow `O-IIIγ-916`, Sky of Borrowed Faces `O-IIIγ-926` and Once Told `O-IVδ-930` under its own column set,
+  and an interaction procedure — parity **286 → 287 / 301** · and the Resolution line extended to carry the file's own
+  clause as a documented suppression condition (**The gauge falls in proportion to how many tellers were named aloud**) —
+  condition **282 → 283 / 301**. 4,212 → **4,640 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**;
+  `wikistd.py` meets **True**; residual 0 on entry; `own_series` already True. **Batch 43 stands at two of ten.**
+
 - **Batch 43 / unit 1 — Allhallow `O-IIIγ-916` closed (2026-10-07)** — measured at `59fa5d3`: failures were
   `parity ['interactions']` and `condition` False. **Closed in a single wave**: the missing `## 상호작용 (Entity
   Interactions)` section written in the file's own terms — preamble, interaction method, a 3-row record pairing the

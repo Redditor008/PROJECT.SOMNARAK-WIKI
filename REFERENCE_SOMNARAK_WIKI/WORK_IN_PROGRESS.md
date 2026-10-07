@@ -2923,6 +2923,14 @@ file's own clause as a documented suppression condition (Two respiration series,
 condition **274 → 275 / 301**. Movement: `R-29` 269 / 301; section-clean 301 / 301; archive dirty 0;
 file-clean 302 / 302. **Batch 42 stands at one of seven.**
 
+**Batch 43, unit 2: Once Upon `O-IIIγ-920` closed.** Measured at `513376a`: failures were `parity ['interactions']`
+and `condition` False — **closed in a single wave**; 4,212 → **4,640 words**; `tpl.py` residue 0; `sectfile.py` **0
+section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section written in the file's own
+terms (3 rows — Allhallow `O-IIIγ-916`, Sky of Borrowed Faces `O-IIIγ-926`, Once Told `O-IVδ-930` — with its own column
+set), parity **286 → 287 / 301**; the Resolution line extended to carry the file's own clause as a documented suppression
+condition (The gauge falls in proportion to how many tellers were named aloud), condition **282 → 283 / 301**. **Batch 43
+stands at two of ten.**
+
 **Batch 43, unit 1: Allhallow `O-IIIγ-916` closed.** Measured at `59fa5d3`: failures were `parity ['interactions']`
 and `condition` False — **closed in a single wave**; 4,206 → **4,657 words**; `tpl.py` residue 0; `sectfile.py` **0
 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions section written in the file's own
@@ -2933,6 +2941,8 @@ condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
 **Batch 43 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-O-IIIγ-920 Once Upon 이야기의 시간 — `01ac12b` — PUSH VERIFIED — [[SE-O-IIIγ-920_Once_Upon_이야기의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-920_Once_Upon_%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-O-IIIγ-920_Once_Upon_이야기의_시간.md")]
 
 - SE-O-IIIγ-916 Allhallow 유령의 시간 — `513376a` — PUSH VERIFIED — [[SE-O-IIIγ-916_Allhallow_유령의_시간](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-916_Allhallow_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%8B%9C%EA%B0%84.md "SE-O-IIIγ-916_Allhallow_유령의_시간.md")]
 
