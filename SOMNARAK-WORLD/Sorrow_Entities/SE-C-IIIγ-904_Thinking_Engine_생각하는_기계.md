@@ -1,6 +1,6 @@
 # Thinking Engine — 생각하는 기계
 
-> *"When it comes, you will know. Everyone knows."*
+> *"The lens turns, the dials run, and the tray fills with the hour you will break."*
 
 ## SECC Classification
 
