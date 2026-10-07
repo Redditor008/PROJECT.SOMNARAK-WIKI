@@ -2923,6 +2923,16 @@ file's own clause as a documented suppression condition (Two respiration series,
 condition **274 → 275 / 301**. Movement: `R-29` 269 / 301; section-clean 301 / 301; archive dirty 0;
 file-clean 302 / 302. **Batch 42 stands at one of seven.**
 
+**Batch 43, unit 10: Lethe `C-IIIγ-928` closed.** Measured at `e7dba9f`: failures were `parity ['interactions']`,
+`condition` False and `series` False — **closed in a single wave plus a bounded fix**; 5,750 → **6,211 words**; `tpl.py`
+residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions
+section written in the file's own terms (3 rows — Backward Hour `C-IIIγ-913`, Amnesia `O-IIβ-914`, Miasma `C-IVδ-922` —
+with its own column set), parity **294 → 295 / 301**; the Resolution line extended to carry the file's own clause as a
+documented suppression condition (The party out of the volume with no uncorrected error on the page, confirmed by the
+external reader), condition **290 → 291 / 301**; the Registrum addendum's own figure restated in numerals (three sections →
+3) inside the real edit, `own_series` False → True, series **287 → 288 / 301**. **Batch 43 stands at ten of ten pending
+the close.**
+
 **Batch 43, unit 9: Dead Air `N-IIIγ-929` closed.** Measured at `71d2695`: failures were `parity ['interactions']`,
 `condition` False and `series` False — **closed in a single wave plus a bounded fix**; 4,277 → **4,718 words**; `tpl.py`
 residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**. Disclosed: the missing interactions
@@ -3001,6 +3011,8 @@ condition **281 → 282 / 301**. Movement: `R-29` @r29@ / 301; section-clean @sc
 file-clean @fc@ / 302. **Batch 43 stands at one of ten.**
 
 **Batch 43 — OPEN at ten; finished dossiers, each with its SE git link and closing commit** (`R-12`).
+
+- SE-C-IIIγ-928 Lethe 혼란의 독기 — `aee69f4` — PUSH VERIFIED — [[SE-C-IIIγ-928_Lethe_혼란의_독기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-928_Lethe_%ED%98%BC%EB%9E%80%EC%9D%98_%EB%8F%85%EA%B8%B0.md "SE-C-IIIγ-928_Lethe_혼란의_독기.md")]
 
 - SE-N-IIIγ-929 Dead Air 유령의 압력 — `d88a0ca` — PUSH VERIFIED — [[SE-N-IIIγ-929_Dead_Air_유령의_압력](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md "SE-N-IIIγ-929_Dead_Air_유령의_압력.md")]
 

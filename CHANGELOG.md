@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 43 / unit 10 — Lethe `C-IIIγ-928` closed (2026-10-07)** — measured at `e7dba9f`: failures were
+  `parity ['interactions']`, `condition` False and `series` False. **Closed in a single wave plus a bounded fix**: the
+  missing `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a
+  3-row record pairing the volume with Backward Hour `C-IIIγ-913`, Amnesia `O-IIβ-914` and Miasma `C-IVδ-922` under its
+  own column set, and an interaction procedure — parity **294 → 295 / 301** · the Resolution line extended to carry the
+  file's own clause as a documented suppression condition (**The party out of the volume with no uncorrected error on the
+  page, confirmed by the external reader**) — condition **290 → 291 / 301** · and the Registrum addendum's own figure
+  restated in numerals (three sections → 3) inside the real edit, `own_series` False → True, series **287 → 288 / 301**.
+  5,750 → **6,211 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**;
+  residual 0 on entry. **Batch 43 stands at ten of ten pending the close.**
+
 - **Batch 43 / unit 9 — Dead Air `N-IIIγ-929` closed (2026-10-07)** — measured at `71d2695`: failures were
   `parity ['interactions']`, `condition` False and `series` False. **Closed in a single wave plus a bounded fix**: the
   missing `## 상호작용 (Entity Interactions)` section written in the file's own terms — preamble, interaction method, a
