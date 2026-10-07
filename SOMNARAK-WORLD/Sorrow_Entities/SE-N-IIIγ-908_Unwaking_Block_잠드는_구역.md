@@ -1,6 +1,6 @@
 # Unwaking Block — 잠드는 구역
 
-> *"The city gave us this. We did not ask for it."*
+> *"Its people fell asleep on one night, and the building has been dreaming with them ever since."*
 
 ## SECC Classification
 
