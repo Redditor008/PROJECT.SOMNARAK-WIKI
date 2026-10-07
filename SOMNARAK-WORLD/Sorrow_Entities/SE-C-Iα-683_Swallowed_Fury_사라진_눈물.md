@@ -372,6 +372,8 @@ Some sorrows weep. Swallowed Fury rages — for the tear ordered away and the fu
 
 - The entity produces no liquid.
 - It is most visible when a person is trying not to cry.
+- It has never appeared twice in one shift. The appearances spread across the roster, and the two recorded doubles both fell in the week the district moved its grief hour.
+- The mark it leaves needs a day to fade, and no one has ever found one on cloth — only on skin, stone or bare metal.
 
 
 

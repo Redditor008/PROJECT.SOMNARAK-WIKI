@@ -471,6 +471,7 @@ The objection is minuted as **correct in all three parts**. In the eighth year a
 
 - It brightens for Collectors who believe themselves owed nothing, which is the observation the Row's staff find hardest to be told about.
 - It shows obligations that appear in no official ledger, which is the property that makes it useful and the property that makes it unusable.
+- The flame does not lean toward one debtor over another. Two wardens measured it against a standard wick and got the same ratio both times, and the figures are kept with the mount's maintenance tab rather than in the text.
 
 
 
