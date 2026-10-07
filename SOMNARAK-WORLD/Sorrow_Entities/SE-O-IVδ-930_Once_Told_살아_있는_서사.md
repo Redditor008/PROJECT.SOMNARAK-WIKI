@@ -101,7 +101,7 @@
 
 **Notable Features:**
 - Expresses Lament pressure in a tale register.
-- The hazard form is unmistakable — this is a tale entity, not a general one.
+- The transect was never mistaken for an ordinary hazard: the disturbance opens mid-sentence, and the sentence belongs to somebody standing on the line.
 - Twenty standing manifestations, photographed annually, none of which has ever weathered.
 
 **Identification Profile**
@@ -255,7 +255,7 @@ The lament pressure and the tale register meet once, hold for a single breath, a
 
 ## 상호작용 (Entity Interactions)
 
-The party files out and the inventory is walked against the last one: twenty manifestations, photographed, every one of them unchanged since the previous visit. No second holding has ever been set on the shelf while the check was running. The three rows below come off the appendix that sorts the 90x holdings by manifestation, each read against this record's own series — and what the three share is a narrative that keeps existing whether anyone is telling it or not.
+The party files out and the inventory is walked against the last one: twenty manifestations, photographed, every one of them unchanged since the previous visit. No second holding has ever been set on the shelf while the check was running. Three shelf-neighbours follow, checked against the transect's manifest while the inventory was still open and against nothing else — and what the three share is a narrative that keeps existing whether anyone is telling it or not.
 
 **Interaction method:** Establish the shelf's own numbers first: the twenty manifestations, the photograph set, the check that adds nothing across a cycle. Then lay the other record's series beside the inventory and enter the first parting, its range, what caused it, and whether either series changed in the reading. Re-verify at the next check.
 
@@ -275,13 +275,13 @@ Floor 4 has studied Once Told for cycles. Their findings are classified, but the
 
 Personnel who work Once Told do not simply feel lament pressure. They feel lament pressure filtered through tale — and that filter changes everything. The protocols, the M.A.W. calibration, the recovery time — all of it must account for the tale register or the work will fail.
 
-Nothing in this stretch of the deep Desolate shouts and nothing weeps. The tale keeps going the way a fire keeps going when nobody is watching it, and it has outlasted every attempt to hurry it or quiet it. Once Told is not the loudest thing in Somnarak; it is the most particular. In a city where grief is handed out to everyone in the same shape, a story that finishes your own sentence is the one that reaches bone.
+No wind carries a voice across this stretch and no water runs in it. The tale continues like a debt nobody has called in, indifferent to whether anyone is listening, and it has outlasted every attempt to close it early. Once Told does not compete for loudest in the Desolate; it is the one written for a single reader. In Somnarak grief is measured out to everyone alike, and this story already has somebody's name in its last line.
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The lament is familiar. The tale is not. That gap is where the danger lives."* — Handler
-*"I expected standard lament. I got something that knew me."* — Specialist
-*"Every time we refine the protocol, the tale register finds a new way in."* — Researcher
+*"Every posting I have held reads the same at the gauge. This transect reads different at the ear, and the ear is where the damage starts."* — Handler
+*"I stepped onto the line braced for pressure. What arrived was a story with my own last week inside it."* — Specialist
+*"We tighten the protocol and the tale rewrites its first line to fit. It is not evading the rules; it is quoting them back."* — Researcher
 *"It has never once struck at anybody. It listens, and then it hands your own sorrow back to you with the details filled in."* — Director
 *"Stand one watch on the transect and you will see why the classification needed a column that only this place uses."* — Keeper
 
@@ -347,8 +347,8 @@ The marked tree is inspected once a cycle by two people who travel out for that 
 ## Trivia
 
 - One of the first catalogued **Hazard-Tale** entities in Somnarak.
-- Its tale descriptor makes it structurally unique among hazard entities.
-- Lament in the tale register does not press on a crowd; it arrives with a story already in progress, and the story is always about somebody standing on the transect.
+- The hazard class was extended for this transect: nothing before it was filed as a story that keeps running with the reader inside it.
+- The register does not sweep an area. It picks one person on the line and resumes a story that person was already inside of.
 
 ## Document Information
 
