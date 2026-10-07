@@ -1718,7 +1718,7 @@ Walker two: Home to No One Who Knew Me 8 → 7, Broken Ruin 2 → 1, Scar Walker
 
 **Batch 33, unit 2: Welcome Haven `O-IVδ-897` closed.** Measured at `8de961d`: **4 dirty sections**, worst Final
 Observation 0.189, then Behavior 0.160, Trivia 0.060 and Flavor Text 0.056 — **closed in a single wave** (24 sites);
-7,746 → **7,932 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**,
+7,746 → **8,106 words**; `tpl.py` residue 0; `sectfile.py` **0 section(s) over 0.05**; `wikistd.py` meets **True**,
 series and condition held; condition re-registered in the resolution line. Disclosed: the Entry 1 `is logged as ` line
 was rewritten — residual **1 → 0**. Movement: `R-29` 200 / 301; section-clean 225 / 301; residue-free 302 / 302;
 archive dirty 174; file-clean 302 / 302. **Batch 33 stands at two of ten.**

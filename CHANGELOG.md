@@ -12,7 +12,7 @@ This file records notable changes to the public Somnarak Wiki.
   sections**, worst Final Observation 0.189 (the choice blockquote, the choose row and the result row), then Behavior
   0.160 (the 33-gram Work-Type-context paragraph), Trivia 0.060 (the classification and field detail lines) and Flavor
   Text 0.056 (the 32-gram relations preamble and the relations header). **Closed in a single wave** (24 sites);
-  7,746 → **7,932 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
+  7,746 → **8,106 words**; `tpl.py` residue 0; `sectfile.py` ends at **0 section(s) over 0.05**; `wikistd.py` meets
   **True** with series and condition held; the condition was re-registered inside the rewritten resolution line. The
   Entry 1 `is logged as ` stock line was rewritten (`stands on the register as`), residual **1 → 0**. Movement at the
   unit commit: `R-29` 200 / 301; section-clean 225 / 301; residue-free 302 / 302; residue lines 0; archive
