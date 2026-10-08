@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIα-215 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; modelled. what is observed is narrower and worse: people in the district lose names they are reaching for, one at a time |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; modelled. What is observed is narrower and worse: people in the district lose names they are reaching for, one at a time, and the written record stays correct all the while, which is what makes each loss provable rather than arguable. |
 | **Coherence** | Echo (II) — Repeats fading |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Write and speak the name with another witness present. Viderehan and Ferrehan are the valid Work Types and nothing else has been authorised. |
+| **Recommended response** | Write the name by hand on slate with a second writer in the room, and keep the room silent: the prohibition on speech is the containment rule here, and every approach on this holding is carried out in writing. Nothing is restricted to two Work Types either: all four of the wing's approaches are logged on this holding, Ferrehan first among them, and confrontation is entered as yielding no data rather than as forbidden. The slates are compared before either writer leaves, the disagreements go down as disagreements, and no session reconciles them into a single figure. |
 
 ### Operational Notes
 
