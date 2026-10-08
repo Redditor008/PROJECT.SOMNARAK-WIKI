@@ -186,15 +186,15 @@ The Hollow Saint is a Fragment (III) Subject with Subject-Void manifestation and
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Direct Void trauma to Soul (identity, memory, sense of self); shatters psychic links and suppression fields.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Hollow Saint's void signature in the strike, carving out mental space for targets to reclaim agency.
+**Ability:** The sceptre's damage is Void and it lands on the Soul — memory, identity, what a person takes themselves to be — carried by The Hollow Saint's void signature and not by anything the wielder brings to the corridor. What the beam does there is sever suppression and strip possession: the falloff on the sheet, full effect on the primary and then 70 per cent and then 50, with the soundless benediction reaching the last of them, and no physical harm anywhere along the line. The agency a target reclaims afterwards is the same agency she gave up, and that is why the sceptre is held on the Zone B line and issued nowhere else.
 
-**Cost:** The wielder loses small, nameless memories with each use; excessive channeling makes the wielder feel detached from their own physical form.
+**Cost:** With each use a small nameless memory goes from the wielder, and the taking is not selective: what goes is whatever was least held. Under excessive channeling the detachment reaches the body and the wielder stops feeling located in their own physical form. The loss is entered on the field sheet with the hour against it, and the piece goes back to the rack whether the use was judged right or judged wrong.
 
 ### M.A.W. Suit — The Hollow Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and without colour, that keeps a cold line wherever it rests on the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and without colour, that keeps a cold line wherever it rests — across the shoulders, at the wrists — and the line is still there after the veil has been folded away for the shift. Of the three pieces in this kit, the veil alone leaves a mark anybody can point at.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -204,9 +204,9 @@ The Hollow Saint is a Fragment (III) Subject with Subject-Void manifestation and
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Hollow Saint's kind of pressure.
+**Ability:** The resistance here is to Void damage; the thing it covers is the Soul — memory, identity, what a person takes themselves to be — worn against the pressure The Hollow Saint makes, and not against impact of any sort. On the sheet that reads 0.3 against Void and 0.8 warded against Grudge, with Lament weak at 1.2, Weight weak at 1.1, so the veil is chosen for a corridor where she is and never for one where something strikes.
 
-**Cost:** The wearer comes to feel faintly absent from their own account — present in the room, not quite present in the story of it.
+**Cost:** The wearer comes to feel faintly absent from their own account of themselves — there in the chamber, and missing from the telling of it afterwards. What arrives is a gap where the first person was, not a symptom anybody would report, and that is why the twenty-minute limit is timed from the door by a clock-holder standing outside the chamber and never by the wearer inside it, and why the exclusion for a recent bereavement or an active grief is checked by that clock-holder instead of self-certified. The veil does not guard against that absence. The absence is what the veil costs.
 
 ### M.A.W. Stigma — The Hollow Chalice
 
@@ -226,7 +226,7 @@ The Hollow Saint is a Fragment (III) Subject with Subject-Void manifestation and
 
 ### M.A.W. Use Notes
 
-Nothing from this kit is ordinary equipment; it works by belonging, in part, to what it is carried near. The toll is the one already on the sheet — small, nameless memories gone with use, and a detachment from the physical self under excessive channeling — and it is charged whether the use was right or wrong.
+Nothing in this kit is ordinary issue. Each piece works by belonging partly to the holding it is carried near, so the sceptre, the veil and the chalice are kept on the Zone B line and their grade is read against the Zone B line alone. The toll is the one already on the sheet: the memories going nameless at every use, and the detachment from the physical self that excessive channeling brings. It is charged whether the use was judged right or judged wrong, and charged to the bearer rather than to the shift, and that is why the chalice is conferred on a Warden and never issued to one who asks for it.
 
 ### Field Use Record
 
@@ -367,10 +367,10 @@ Some sorrows are about loss. The Hollow Saint's sorrow is about giving — and t
 
 ### Registry Addendum
 
-**Operational interpretation:** This entry is one layer of a larger document: read it beside the classification, the combat table and the kit profile before acting on any line of it, because the behaviour, the Work Type response, the breach term, the kit risk and the interaction pattern hold only together. A contradiction found in the field is data and not an error — the deviation is logged where it happened and the record it contradicts is left standing as written.
+**Operational interpretation:** This entry is one layer of a larger document and must not be acted on alone: the classification, the combat table and the kit profile are read beside it, because the behaviour, the Work Type response, the breach term, the kit risk and the interaction pattern hold only together and separate badly. Two lines in this file already correct an earlier entry — the threat once read moderate, and Flerehan was once named the only valid Work Type — and both corrections stand with the error left visible above them. A contradiction met in the field is data and not a mistake: the deviation is logged where it happened, and the record it contradicts is left standing as written.
 
-**Review requirement:** After any breach, expansion, transformation or anomaly, re-verify the gauge, the containment field, the exposure log and the holding's location before operations resume, and re-check exposure and position again after any interaction that does not read like the ones on file. What this sheet carries is a living pattern of sorrow, and it will not stay described.
-- The registry compares this file against digits, so they are set down here: gauge 712/712 · pressure 18–41 per hit · resistance 35 / 25 per cent · threshold 75 per cent · weapon 8–14 at 40 Echoes · suit 35 Echoes · Stigma 4 per cent · Max 3 pieces.
+**Review requirement:** After any breach, expansion, transformation or anomaly the gauge, the containment field, the exposure log and where the holding is standing are all verified again before operations resume, with exposure and position gone over a second time after any interaction that does not read like the ones on file — on this holding, a session that ran past twenty minutes, or one worked by somebody the clock-holder should have excluded. What this sheet carries is a living pattern of sorrow and it will not stay described.
+- The registry compares this file against digits and the digits are set down here for that comparison: gauge 712/712 · pressure 18–41 per hit · resistance 35 / 25 per cent · threshold 75 per cent · weapon 8–14 at 40 Echoes · suit 35 Echoes · Stigma 4 per cent · Max 3 pieces.
 ## Warden Record
 
 ### The Absence
