@@ -93,9 +93,9 @@
 ### Consequences
 
 - Failing against her costs twice over: the worker takes raw grief into their own **Clarity**, and she grows on what the worker cannot hold — which is why the room is entered sitting down and left without a command.
-- Time is The Grieving Maiden’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. The Grieving Maiden executes its documented breach pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Time fights on her side. A long sitting saturates the operative with sorrow by degrees, and the collapse that follows — psychological, somatic, environmental, whichever of the three the worker is weakest in — is exactly what the Rank IV classification was codified to prevent. She never hurries; the watch does the accumulating on her behalf.
+- Each M.A.W. activation against her is a straight trade with no room to bargain in it: power on one side of the table, price on the other. The equipment registry catalogues every parameter it can measure, and the part actually paid is taken out of the bearer’s soul and flesh, which no column of that registry has ever managed to hold.
+- An encounter left unresolved does not stop; it changes shape. She runs the breach pattern the dossier documents for her, and sorrow nobody pacified takes the violent way out of the room that the containment work was supposed to have given it.
 
 ## Appearance
 **Primary Form:** A young woman, warm and alive to every field test, hair plastered and dress soaked as though she has stood out in years of rain. **Assay:** the Research wing's term for the body is crystallized tear-matter, which is what it analyses as and not what it feels like; the header records the field presentation and both descriptions stand.
@@ -306,13 +306,13 @@ The air grows heavy with unshed tears. A young woman appears, translucent and pa
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Lament always changes a room. Then the Subject-Body resolves: A translucent young woman made of crystallized tears. She weeps continuously and moves slowly.
+**At first contact:** It begins at the threshold, before the containment door has finished swinging in: the room thickens the way a room thickens around unshed tears, and the weight arrives ahead of anything there is to look at. Then she resolves. A translucent young woman made of crystallized tears, weeping continuously, moving slowly, and her grief reaches the room some seconds ahead of her voice.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Lament is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** She stops being an idea about sorrow and turns into one particular mourner. What the worker is sitting with is this loss, this room she keeps walking back into, this way of making the Han move that belongs to her and to nobody else in the wing. The longer the sitting runs, the more the file's adjectives drop away and the more plainly it is a woman who has been crying for some time.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Lament becomes something you can taste, hear, or feel on your skin. The Subject-Body has crossed the line between containing and becoming.
+**When the entity activates:** The body registers it before the eye does. Temperature goes down through the floor, the Han-lamps gutter, and the sorrow in the room takes on a taste and a pressure against the skin, because she has stopped holding that grief and started being it. That crossing, from containing to becoming, is what activation amounts to in her case.
 
-**After departure:** You leave, but the Lament follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** The worker goes and it goes along, settled into the hands, standing behind the sternum, and loudest in the corridor's own particular silence once the door is shut again. The watch closes with somebody still sharing a sorrow that was never theirs to carry, which is the point her record keeps returning to.
 
 ### Interaction Pattern
 
