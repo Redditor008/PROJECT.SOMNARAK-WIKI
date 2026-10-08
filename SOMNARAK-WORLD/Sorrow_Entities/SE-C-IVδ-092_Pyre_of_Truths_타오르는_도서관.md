@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.
-- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
-- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- If the resolution condition is not fulfilled, Pyre of Truths reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- When resistance fails here, the pressure of Pyre of Truths goes straight through into the worker’s psychological matrix. **Resilience** is what settles the account, and the Sorrow Gauge afterwards climbs faster than it was climbing before.
+- The exposure risk accumulates by the minute rather than by the session: a worker who stays past the recommended cycle carries identity drift, cognitive Fracture and a room that will not hold its shape, each of them further along than the last check found it.
+- The equipment section is where the record says what the M.A.W. takes out of this fire, and contact in the field has borne that out on every occasion the extraction was attempted. Nothing in Somnarak is lifted out of an entity for free.
+- Denied its resolution condition, Pyre of Truths falls back on the destructive activation protocol. The peace it was refused comes back as heat, and the sorrow goes looking for a release of its own choosing instead of the one the work offered.
 
 ## Appearance
 **Physical Form:** A library of true wood and paper standing inside a continuous fire that lights the pages and consumes nothing. **Thermal:** the survey reads a large fire transferring no heat to anything it touches.
@@ -214,7 +214,7 @@ The escalation pattern is specific to Pyre of Truths: it is not a generic contai
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm to the hand, that goes cold where it settles against the wearer's skin.
+**Appearance:** a plated harness worked out of Grudge Han-iron, carrying the warmth of a reading room rather than of a forge — cool where the plate lies against the wearer, and warm a hand’s breadth off, the way a shelf is still warm after the fire has gone past it.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -224,9 +224,9 @@ The escalation pattern is specific to Pyre of Truths: it is not a generic contai
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Pyre of Truths's kind of pressure.
+**Ability:** Grants resistance to Grudge damage, and what it covers is the Body (physical form, structural integrity). Worn against Pyre of Truths’s kind of pressure, the plate behaves as the library does: it lets the heat reach the wearer’s judgement while the pages underneath stay whole.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer’s reflexes go slow, in the manner of a reader who has taken in an argument and has not yet worked out the answer to it.
 
 ### M.A.W. Stigma — The Burning Page
 
