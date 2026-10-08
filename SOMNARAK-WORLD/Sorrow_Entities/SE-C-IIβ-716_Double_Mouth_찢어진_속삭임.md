@@ -173,7 +173,7 @@ The gauge moves here and tells you very little. The figure the watch keeps is th
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that beads a thin film of Han along the curve when it is drawn back.
+**Appearance:** a fang-curved blade of Grudge Han-iron, dark in the rack and faintly warm at the grip, that beads a thin film of Han along the curve when it is drawn back. The curve is doubled rather than single, two edges running alongside one another and never meeting, which is the set's whole argument standing up in metal: the whisper and the burning tone drawn into one piece of iron. Where it has been handled it leaves what the holding leaves — cold smoke, grey ash, char and old apologies, and a film on the skin like a damp handprint that goes inside an hour and is logged whenever it fails to.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
@@ -186,9 +186,9 @@ The gauge moves here and tells you very little. The figure the watch keeps is th
 **Falloff Rule:** Single target, and the fang has been drawn here twice, both times by workers who had been told to put it away and did.
 **Damage Application:** Armoury figures, transcribed. This holding has never produced a physical injury; the Threat Assessment's 'no physical attacks' line is accurate and these numbers are not evidence against it.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Double Mouth's grudge signature in the strike.
+**Ability:** The fang's damage is Grudge, booked against the Body on the armoury's own figures, which the sheet defines as physical form and structural integrity, with Double Mouth's grudge signature carried into the strike rather than any force the wielder brings to it. Those figures are transcribed and not observed. This holding has never produced a physical injury and the Threat Assessment's line that it makes no physical attacks is accurate, so what the fang does in a fight is a number on a sheet and nothing anybody has witnessed. Instead of that it does the second tone's work: a wielder carrying it into a room where two accounts disagree reports the disagreement arriving already answered, from the wrong side, and the answer is not giving dates.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old wounds ache; each of them registers again in a room where nothing has touched them, and long use leaves faint bruising sitting exactly where those old injuries sit. The toll is dated and baselined before the piece goes out on the sheet and entered hour by hour while it is out, and a rhythm across the shift ends the use: one entry is a note, a pattern is a stand-down. The fang has been drawn here twice, both times at the hands of workers under instruction to leave it racked, and both entries stand in the field record with the hour written against them.
 
 ### M.A.W. Suit — The Twofold Plate
 
@@ -204,9 +204,9 @@ The gauge moves here and tells you very little. The figure the watch keeps is th
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Double Mouth's kind of pressure.
+**Ability:** The plate resists Grudge damage, and the thing it protects is the Body in the sheet's sense of that word, form and integrity alike, worn against Double Mouth's kind of pressure rather than against any impact. In practice the plate does what the long listen does: it lets the wearer stay where two accounts do not agree and come out of the shift less damaged by it. Agreement between those two accounts is not something the plate produces, and nobody has ever issued it on that basis. The resistances on the sheet belong to the wing, while the piece's own disposition is the dulling on the next line, and that is the reason the rating covers what the kit does to a holding and nothing else.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer's reflexes dull, plated over the way a held grudge plates them, and that dullness is how every stand-down on this set has been caught. It is not pain, and nobody wearing the plate notices it arriving. At the limit the bearer stops registering the toll altogether and only the slowness shows, so the piece is taken back and a second worker judges it, not the bearer: is the dullness still in their hands, and do they still catch a dropped thing. The bearer cannot answer for themselves on this. The collar going cold where the plate rests is the one sign wearers report without being asked.
 
 ### M.A.W. Stigma — The Twofold Voice
 
