@@ -94,9 +94,9 @@
 ### Consequences
 
 - Personnel who stay in the field past the called watch do not fail dramatically; they keep working, because the thing this holding takes is the ability to tell how long they have been there. The recorded injury on this file is the second instruction, not the weight, and the distinction is the whole of the caution.
-- Extended contact risks Broken Clocktower’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Broken Clocktower defaults to its documented activation or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Stay past the called watch and the tower brings its whole documented manifestation with it: the emotions erode first, somatic trauma follows, then the identity goes, and last the environment is corrupted beyond repair. That order is the file’s own, and the fourth of them is why the watch length is called out loud instead of left to judgement.
+- Every activation of an M.A.W. piece charges the bearer in full: intimate memories, physical sensation, years of life. The equipment specification lists all three, and the field collects them at the moment of use from whoever is holding the piece.
+- Left unresolved, the tower falls back on the activation or expansion behavior its dossier documents. Containment refused, grief with no channel to run in cuts an outlet for itself, and the cutting is catastrophic rather than contained.
 
 ## Appearance
 **Physical Form:** A broken tower with a clock frozen at 3:47. Its gears turn without moving the hands.
@@ -180,10 +180,10 @@ The gauge on a site holding is a shift reading. The figure that is kept is the d
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Broken Clocktower begins thrumming as the channel opens; a palpable wave of weight sorrow sweeps across the containment chamber. | Opening the channel activates Broken Clocktower: Projects a six-meter temporal dilation field, locking hostile action slots and delaying attacks by 2 turns. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the weight of waiting inside an event with no conclusion. forged during an accident at 3:47 left the tower and its witnesses trapped in an unresolved instant. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Broken Clocktower's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Weight shockwave: Allies within the field are also slowed; exiting the perimeter causes severe temporal nausea. all personnel in the sector take heavy damage. |
+| 10 Seconds | The gears wake first. The hands stay where they have always been and the mechanism behind them starts, and Weight sorrow fills the chamber arriving half a second behind whatever should have caused it. | Opening the channel raises the six-meter dilation field around the tower: hostile action slots lock and anything aimed at the team lands 2 turns late. Units held in the same chamber read steady Sorrow Gauges, since the field delays the reading as readily as the blow. |
+| 30 Seconds | Thirty seconds on, the channel is carrying the memory the tower is stuck inside: the weight of waiting through an event that never concluded. The accident at 3:47 forged it, leaving the tower and everyone who saw it held in one unresolved instant, and the worker hears that instant still running rather than recalling it. | Range Band 2 sits inside the field's reach, and elemental pressure lands lighter on every allied unit in the sector while the channeler is still attending to the tower. Nothing here runs itself; the field stops the moment the attending stops. |
+| 1 Minute | One minute on, the tower has stopped spending the facility's supply and has started spending the channeler. An event never allowed to finish is heavy in a way machinery is not, and it stands on the chest of whoever is holding the channel open. | Past 60 seconds the draw runs at 4 Composure in each 10. The disengagement is settled before the field goes up, because inside it nobody can tell how long they have been settling it. |
+| 2 Minutes | At two minutes the current turns round. The grief held in the tower since 3:47 comes back down the channel into the facility looking for somebody to finish inside, and the nearest living person is the one keeping it open. | Overload, or a hand let go mid-second, vents Weight into the sector, and heavy damage lands on everyone standing inside it. The field keeps both of its own warnings on the way out: allies inside are slowed along with everything else, and crossing the perimeter brings severe temporal nausea. |
 
 ### Escalation Notes
 
@@ -211,9 +211,9 @@ The escalation pattern on this file is procedural rather than physical. Personne
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-Appearance : A wide, double-edged arming sword forged from silvered steel, measuring ninety-five centimeters overall with a cruciform crossguard, rounded disc pommel, and a supple black leather wire-bound grip.
+Appearance : The piece issues as a broad arming sword in silvered steel, double-edged, ninety-five centimeters from its rounded disc pommel to the point, with a cruciform crossguard and a grip bound in soft black leather wire. It sits heavier in the hand than ninety-five centimeters of steel should, and swung inside the tower's field it lands a beat behind the arm that moved it.
 
-The central fuller runs two-thirds of the blade, engraved with four ceremonial mercy seals in Old Script. Under impact, the blade dampens acoustic resonance, striking with dull, cushioned concussions rather than sharp ringing.
+A central fuller runs two-thirds of the blade and carries four ceremonial mercy seals cut in Old Script. Nothing this edge strikes rings: the steel damps acoustic resonance on impact, so every blow lands as a dull cushioned concussion. That is the holding's own register, and the piece keeps it whether or not it is swung inside the field.
 
 **Damage:** Weight 7-12
 **Speed:** 3 (Fast)
