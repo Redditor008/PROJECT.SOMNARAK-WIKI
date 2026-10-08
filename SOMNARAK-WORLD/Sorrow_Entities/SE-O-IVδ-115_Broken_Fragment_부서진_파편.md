@@ -52,10 +52,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Weight pressure; 35% against other pressure types |
+| **Resistance** | 45% against Weight pressure, the element this fragment was broken in, and 35% against the rest of what the Border region can lay on it |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Weight |
+| **Sorrow Gauge [HP]** | 910/910 · measured from the margin, no watch having ever been kept at the fragment itself |
+| **Han Pressure [ATK]** | 29–64 · element Weight, landing without the fragment moving once — the ground bows and the bearer takes the weight of it |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -64,15 +64,15 @@
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
+| **Battle Length** | Long — 24 turns, which is what a monument takes: the work is done from the margin and it cannot be hurried |
 | **Threat Role** | Boss encounter |
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Resolve |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | 60–80%, opening higher after any shift in which a lifting attempt had to be refused |
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone E, Border region |
-| **Resolution Condition** | Viderehan and Ferrehan from the margin. The 25% figure is the consequence, not the objective, on every Broken Fragment cycle logged. |
+| **Resolution Condition** | Viderehan and Ferrehan from the margin, with the gauge ending below 25% because of that work and not because anybody aimed at the number. No cycle logged against Broken Fragment has ever closed by going after the figure directly. |
 
 ### Combat Actions
 
@@ -179,10 +179,10 @@ Broken Fragment is an Object/Place with Object-Weight manifestation and Weight e
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Broken Fragment rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Broken Fragment activates its primary resonance: Displays the burden carried by the monument's former community. Grants +10% resistance to Weight damage while equipped. |
-| 30 Seconds | The artifact was born from the burden of history condensed into one piece too heavy to move; the bearer begins perceiving echoes of a border monument commemorating generations of debt was shattered during an uprising; one fragment remained. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Broken Fragment begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Broken Fragment too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may become unable to move under inherited weight. |
+| 10 Seconds | The Fragment lies where the uprising left it until somebody takes hold of it, and the instant hands meet crystal its weight field starts beating in time with that person’s pulse. | Taking it up begins the primary resonance. What is displayed is the burden the monument’s former community carried, and while the piece is held the bearer gains +10% resistance to Weight damage. |
+| 30 Seconds | It was born out of a history condensed into a single piece too heavy to move. Near half a minute the bearer starts perceiving its echoes: a border monument raised to commemorate generations of debt, shattered during the uprising, with this one fragment left of it. | The combat benefits arrive together with a mental burden that goes on accruing. Speed of action and sharpness of focus both improve, and composure is the account they are charged to. |
+| 1 Minute | By the first minute the sorrow inside the Fragment has begun taking its toll, and the bearer’s breathing has come to match the resonance of the grief that made it. | Once it has been held beyond 60 seconds it deals 5 Weight damage at 15-second intervals, and the operative has to be watched for a detachment that arrives without warning. |
+| 2 Minutes | Carrying it too long turns the bearer into whoever first wept over this piece. Past that point an observer cannot separate the operative’s own identity from the sorrow held in the crystal. | Going beyond 2 minutes of continuous wear, or wrenching the piece away before the interaction has run its course, brings on acute panic. The worker may then be unable to move under a weight they inherited instead of one they lifted. |
 
 ### Escalation Notes
 
