@@ -297,13 +297,13 @@ A wall breaks across the horizon and a figure steps from the gap. Fire runs thro
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Grudge always changes a room. Then the Subject-Grudge resolves: A burning humanoid figure covered in fragments of a shattered wall. It moves along border lines.
+**At first contact:** Contact begins at the threshold, and the first thing that fails there is reassurance. What stands in the gap is a burning humanoid figure carrying fragments of the shattered wall, and it moves along border lines rather than toward anybody. It flares at a person arriving in an official capacity and has never once pursued somebody who agreed with it. None of that is an attack. What it wants is the failure said out loud, and the gauge is indexed to precisely that: down ten per cent each time a specific failure is named aloud by somebody answerable for it, and up ten per cent for every barrier, shield wall or cordon put up against it.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Grudge is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** The fire stops being the subject. Under Flerehan the flames drop away and the stonework shows, which is the holding permitting itself to be seen as rubble rather than as a burning thing, and that visibility is all the work here achieves. The wall is not repaired by it and cannot be repaired at all, and its own fragments will not go back into the original barrier. What builds up across a long session is the list: the households, and the line this file draws between the killed and the displaced.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Grudge becomes something you can taste, hear, or feel on your skin. The Subject-Grudge has crossed the line between containing and becoming.
+**When the entity activates:** The threshold is 1, so activation and breach are the same event — one failed cycle, no margin, no second attempt, no partial credit. The change is physical: the air goes wrong, the Han-lamps flicker, and the Grudge acquires a taste. What has been crossed is the line between the entity containing its grievance and becoming it. The gauge rises ten per cent for each barrier, shield wall or cordon erected against it, and ten per cent more each time a member of personnel assures anybody present that they are safe. Do not barricade and do not reassure.
 
-**After departure:** You leave, but the Grudge follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** Leaving does not end it. What follows a worker out is not residue carried in the hands or the chest but the question the figure asked, which was whether anybody would admit that the promise was false. The corridor afterwards is quiet in a particular way. The admission protocol governs the next visit and governs extraction, which is scheduled as a separate operation and never run in the same cycle as a work assignment: the stone is taken from a wall still angry about having fallen.
 
 ### Interaction Pattern
 
