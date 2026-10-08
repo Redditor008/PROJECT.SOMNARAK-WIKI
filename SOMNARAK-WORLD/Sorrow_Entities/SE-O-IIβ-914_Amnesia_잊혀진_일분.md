@@ -281,11 +281,11 @@ The entity does not rage. It does not weep. It persists — void and void, patie
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The first Time-Void entity. The file is short because we are still writing it."* — Archive
-*"Standard void protocols assume the pressure is uniform. It is not. The void register is specific."* — Researcher
-*"I have never felt void like this. It was as if the element had learned my name."* — Specialist
-*"The entity does not breach. It deepens. There is a difference."* — Containment Lead
-*"We contained it. We did not understand it. Those are not the same thing."* — Director
+*"The Year 4,226 report is filed as a correction rather than a discovery. It was already in the sector before anyone had a name for the sector."* — Archive
+*"Three movements that agree on nothing else agree on this minute. That agreement is the evidence, and after 11 years I have no explanation for it."* — Researcher
+*"Nobody has been hurt here, not once in 61 runs. What happened instead is 61 minutes in which 200 metres of us could not have said who we were."* — Specialist
+*"We do not contain it. We wait it out, and while it runs nobody speaks to anyone standing inside the radius."* — Containment Lead
+*"I have signed two extractions. Both were taken by a timer, from the edge of the radius, with nobody close enough to be told their own name."* — Director
 
 ## 기록 (Registrum) — The Record
 
@@ -332,9 +332,9 @@ Memory returns when the minute ends and the recovery has been described as compl
 
 ## Trivia
 
-- One of the first catalogued **Time-Void** entities in Somnarak.
-- Its void descriptor makes it structurally unique among time entities.
-- The void pressure in the void register feels different from standard void — more specific, more personal.
+- The recognition in Year 4,226 was a filing correction and not a discovery: the sector had been logged as an ambient anomaly for years before anybody read the log.
+- Three clock movements in the sector agree on this minute and on nothing else. That agreement is all the evidence there is, and it is unexplained after 11 years.
+- It may be the only entry in the registry with no human being behind it: four searches of the sector occupancy record before Year 4,226 found no incident, no death and no absence.
 
 ## Document Information
 
