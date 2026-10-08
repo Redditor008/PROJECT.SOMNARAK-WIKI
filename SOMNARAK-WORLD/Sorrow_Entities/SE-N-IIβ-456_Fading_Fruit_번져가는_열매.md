@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Acknowledge desire without promising fulfillment. Viderehan and Ferrehan are the valid Work Types and nothing else has been authorised. |
+| **Recommended response** | Only two Work Types answer here: Viderehan from the rows and Ferrehan posted in them. Ferrehan comes first, the gauge falling under it while Viderehan only holds the reading level. Acknowledge what the households want and promise them no meal, since no fruit off these branches has ever been eaten and a promise made at the branch is one the garden cannot keep. Pick nothing. Log the empty stems and take no sample through the gate, because fruit thins away in transit and 31 years of trying have produced no exception to it. Yield is booked against arrivals, and arrivals are never named. The 60 per cent trigger is watched from the marked corner rather than from inside the rows. |
 
 ### Operational Notes
 
