@@ -3398,6 +3398,62 @@ Disclosures: every unit opened on a rolled-back sandbox and was levelled with `t
 
 Next rung: **Batch 66 opens at ten**, per the ladder and the owner's absolute floor. Worst-first candidates — Mourner's Bloom `C-Iα-330` (4, O-Relic) · Hatred Above `C-IVδ-923` (4, Non-Subject) · Weighted Silence `O-IIIγ-924` (4, Non-Subject) · Double Mouth `C-IIβ-716` (4, Subject) · Screaming Masonry `C-IIIγ-891` (4, I-Relic) · Hollow Saint `C-IIIγ-081` (4, Subject) · Collapsed Whisper `C-IVδ-249` (4, Subject); plus two zero-couple defect repairs, Survivors' Breath `O-IVδ-895` and Last Warmth of Forty-Two `O-IVδ-515`. Worst single tie in the wing is unchanged: Sleeping Tree `O-IIIγ-374` × Driftglass `O-IIIγ-914` at **0.77** in `### Tool Use Profile`, both I-Relic.
 
+**Batch 67 — CLOSED at seven; the fix phase continues: couples in the plan fall 69 → 50 / 301, with 19 cleared and none newly measurable, and no file in the wing now carries three couples.**
+
+Taken on the owner's "p", after Batch 66 closed at ten. The ladder was opened at ten and the batch is recorded as closing at seven, which is a valid rung: one file per unit, the lighter side's small overlaps edited line by line in the file's own terms, never block-replaced. All seven units were chosen the same way — the files carrying the most couples first, then the worst tie among them — and all seven finished at 0 couples.
+
+**Every unit this batch found generator stock rather than shared prose.** In each case the overlap was a template block that had been pasted into two or three dossiers and never finished: the I-Relic Tool Use Profile frame, the five-line Testimonium, the equipment ability-and-cost frame, the Combat Actions table, the Breach Behavior rows, and the four-row Log and Method table. None of the seven required a judgement about authorship; each simply needed the block replaced with what the file already said about itself elsewhere.
+
+**Three defects were found on the way and are recorded rather than silently fixed.** Driftglass `O-IIIγ-914` carries its whole relic triad twice — `### Tool Use Profile` at line 160 and again at line 217, with `### Log and Method` and `### Detailed Activation Record` likewise doubled. Amnesia `O-IIβ-914` has no readable `Tool Type` or `Entity Type` row at all, so its structure cannot be determined by script. Myrmidon `O-IIβ-235` carried the `Appearance :` label artifact. One generator splice was repaired in passing: Sorrow Fountain `C-IIIγ-088` read *"a single visible stream. forged during tears"*, with the sentence broken and lower-cased mid-cell.
+
+**The kit is now persistent.** The working kit had to be rebuilt from scratch at the open of every turn from `/tmp`, four times running. It now lives at `.kit/` inside the repository root, which is the only location that survives the turn boundary, and it is excluded from Git through `.git/info/exclude` so it never enters a commit. Three bugs were fixed on the last rebuild and are worth naming because they are silent: `files_under()` resolved one directory too high when called without a base; `unit_np.sh` read `sectfile.py`'s verdict from the first line of its output when the verdict is on the last; and `attr.py` matched filenames without Unicode normalisation, so a code containing γ never matched.
+
+| # | Dossier | Structure | Fixed in place | Words (before → after) |
+|---|---|---|---|---|
+| 1 | [[SE-O-IIIγ-374_Sleeping_Tree_잠든_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-374_Sleeping_Tree_%EC%9E%A0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IIIγ-374_Sleeping_Tree_잠든_나무.md")] | I-Relic | Tool Use Profile rows, operational rule | 7,737 → 7,875 |
+| 2 | [[SE-O-IIβ-914_Amnesia_잊혀진_일분](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-914_Amnesia_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%BC%EB%B6%84.md "SE-O-IIβ-914_Amnesia_잊혀진_일분.md")] | Unreadable | Testimonium, Trivia | 5,019 → 5,132 |
+| 3 | [[SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-249_Collapsed_Whisper_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md")] | Subject | Weapon and suit ability and cost | 7,449 → 7,568 |
+| 4 | [[SE-O-IIIγ-924_Weighted_Silence_침묵의_구역](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-924_Weighted_Silence_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EA%B5%AC%EC%97%AD.md "SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md")] | O-Relic | Four Combat Actions rows, two appearances | 4,886 → 4,965 |
+| 5 | [[SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-III%CE%B2-247_The_Undelivered_Thanks_%EC%A0%84%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EA%B0%90%EC%82%AC.md "SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사.md")] | Non-Subject | Three Breach Behavior rows | 6,240 → 6,320 |
+| 6 | [[SE-O-IIβ-235_Myrmidon_찢어진_영혼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-235_Myrmidon_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%98%81%ED%98%BC.md "SE-O-IIβ-235_Myrmidon_찢어진_영혼.md")] | O-Relic | Breach row, response row, urn appearance | 7,198 → 7,309 |
+| 7 | [[SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-088_The_Sorrow_Fountain_%EC%8A%AC%ED%94%94%EC%9D%98_%EB%B6%84%EC%88%98.md "SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md")] | Subject | All four Log and Method rows | 8,019 → 8,123 |
+
+- `O-IIIγ-374` Sleeping Tree — `3c1e184` — PUSH VERIFIED — [[SE-O-IIIγ-374_Sleeping_Tree_잠든_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-374_Sleeping_Tree_%EC%9E%A0%EB%93%A0_%EB%82%98%EB%AC%B4.md "SE-O-IIIγ-374_Sleeping_Tree_잠든_나무.md")]
+- `O-IIβ-914` Amnesia — `4ba7f3c` — PUSH VERIFIED — [[SE-O-IIβ-914_Amnesia_잊혀진_일분](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-914_Amnesia_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9D%BC%EB%B6%84.md "SE-O-IIβ-914_Amnesia_잊혀진_일분.md")]
+- `C-IVδ-249` Collapsed Whisper — `99b0c9b` — PUSH VERIFIED — [[SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-249_Collapsed_Whisper_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md "SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md")]
+- `O-IIIγ-924` Weighted Silence — `3d4f19e` — PUSH VERIFIED — [[SE-O-IIIγ-924_Weighted_Silence_침묵의_구역](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-924_Weighted_Silence_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EA%B5%AC%EC%97%AD.md "SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md")]
+- `N-IIIβ-247` Undelivered Thanks — `584171e` — PUSH VERIFIED — [[SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-III%CE%B2-247_The_Undelivered_Thanks_%EC%A0%84%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EA%B0%90%EC%82%AC.md "SE-N-IIIβ-247_The_Undelivered_Thanks_전하지_못한_감사.md")]
+- `O-IIβ-235` Myrmidon — `48c1089` — PUSH VERIFIED — [[SE-O-IIβ-235_Myrmidon_찢어진_영혼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-235_Myrmidon_%EC%B0%A2%EC%96%B4%EC%A7%84_%EC%98%81%ED%98%BC.md "SE-O-IIβ-235_Myrmidon_찢어진_영혼.md")]
+- `C-IIIγ-088` Sorrow Fountain — `3f314ce` — PUSH VERIFIED — [[SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-088_The_Sorrow_Fountain_%EC%8A%AC%ED%94%94%EC%9D%98_%EB%B6%84%EC%88%98.md "SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md")]
+
+| Counter | Open | Close |
+|---|---|---|
+| Couples in the plan (≥ 0.50 on either side) | 69 / 301 | **50 / 301** |
+| Couples cleared this batch | — | **19** |
+| Couples newly measurable | — | **0** |
+| Files carrying a couple | 93 / 301 | 78 / 301 |
+| Section-pairs over 0.50 | 57 | 51 |
+| Ties ≥ 0.70 | 7 / 69 | 5 / 50 |
+| Ties 0.60–0.69 | 14 / 69 | 11 / 50 |
+| Ties 0.50–0.59 | 48 / 69 | 34 / 50 |
+| Files carrying three or more couples | 8 / 301 | **0 / 301** |
+| Carrying — Subject SE | — | 47 / 157 |
+| Carrying — Non-Subject SE | — | 7 / 35 |
+| Carrying — I-Relic SE | — | 11 / 50 |
+| Carrying — O-Relic SE | — | 4 / 25 |
+| Carrying — A-Relic SE | — | 0 / 7 |
+| Carrying — structure unreadable | — | 9 / 27 |
+| Files carrying a whole copied section | 0 / 301 | 0 / 301 |
+| Stock-line residue (`verify.py`) | 0 / 301 | 0 / 301 |
+| `R-29`, all five clauses | 301 / 301 | 301 / 301 |
+| Personalization queue | 0 / 301 | 0 / 301 |
+| Duplicate quote families | 0 / 301 | 0 / 301 |
+| Words (the seven files) | 46,548 | 47,292 (+744) |
+
+**Where the remainder sits.** No file carries three couples. The worst tie in the wing is Broken Clock `C-IIIγ-044` × Frozen Echo `C-IIIγ-609` at 0.73 in Core Stat Line. Behind it: Angry Maiden `C-IVβ-042` × Somnium `C-IVγ-175` 0.71 in Operational Parameters, Endless Shift `C-IVδ-915` × Sorrow Mass `C-Vω-925` 0.71 in Trivia, and Debtor `C-IIIγ-061` × Sorrow Seed `C-Iα-300` 0.70 in M.A.W. Suit. Melting Rope `N-IIIγ-447` × Forgotten Shadow `N-IIβ-453` at 0.72 is left alone because both files are on the frozen list. By section the remainder is Operational Parameters 9 · M.A.W. Suit 8 · Flavor Text 5 · Interaction Pattern 5 · Log and Method 4.
+
+**Open findings, recorded for a ruling and not fixed silently.** 27 / 301 files have no parseable `Tool Type` or `Entity Type` row, so their structure cannot be read by script; 9 / 301 of them carry a couple. Driftglass `O-IIIγ-914` has its relic triad duplicated. The `Appearance :` label artifact is present in 142 / 504 files across the tree, not only in dossiers.
+
 **Batch 66 — CLOSED at ten; the fix phase continues: couples in the plan fall 106 → 69 / 301, with 37 cleared and none newly measurable, and all ten files worked now carry 0 couples each.**
 
 Taken on the owner's "p", after Batch 65 closed at seven. The ladder put this batch at ten from the open and it held: one file per unit, the lighter side's small overlaps edited line by line in the file's own terms, never block-replaced. Two units turned out to be carrying generator defects rather than shared prose. Screaming Masonry `C-IIIγ-891` had the word "grudge" doubled inside its own weapon ability. Kind Healer's Shadow `N-IIβ-280` had the two M.A.W. descriptions transposed — the section headed "The Healer's Shroud" described a surgical cleaver, and the weapon named "The Surgeon's Cleaver" described a needle-pointed stiletto. Both were repaired in place, along with the `Appearance :` label in that file, which is a generator artifact still present in 142 / 504 files.
