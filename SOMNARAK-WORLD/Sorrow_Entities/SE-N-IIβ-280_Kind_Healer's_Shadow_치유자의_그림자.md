@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Cleaver, the Shroud and the Echo are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Flerehan or Ferrehan. This is a Subject and all four Work Types are open to it; Pugnahan makes it withdraw and achieves nothing, and the Object/Place restriction does not apply here. |
+Flerehan and Ferrehan, and the transfer runs one way. Flerehan moves a measurable share of the worker's distress across, and nothing that crosses over has been seen to return; Ferrehan answers to duration, so the gauge drops in step with how long the sit runs and not with anything said during it. Viderehan is worth a cycle on its own account, because it shows the healer at work in a detail that matches the ward's surviving records. Pugnahan is entered as withdrawal with no reading taken. One cycle per person per shift, enforced by name.
 
 ### Operational Notes
 
@@ -173,9 +173,9 @@ Kind Healer's Shadow is an Echo (II) Subject with Subject-Phantasmal manifestati
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-Appearance : A needle-pointed triangular stiletto forged from cold, unpolished surgical steel, measuring twenty-two centimeters with a dark bronze teardrop pommel and braided mourning-thread grip.
+**Appearance:** A cleaver and not a knife — a flat of rustless hospice steel twenty-two centimeters long, ground on one face only, so that the edge takes a razor hone while the spine stays thick enough to bear a palm. The tang is wrapped in braided mourning-thread over ebony scales held by three brass rivets, and the butt carries the Commons ward stamp struck off-centre, as though the die had been set down in a hurry.
 
-The three-edged blade is etched with micro-capillary fullers that siphon condensing Lament beads toward the guard. When readied, the weapon emits a faint, sorrowful hum while tiny frost-rings form along the edges.
+Capillary fullers are etched into the flat in the layout of a ward dosing chart, and they draw condensing Lament beads along those lines instead of letting the beads set where they fall. Readied, the cleaver hums at roughly the pitch of the Commons call bell, and frost forms on the honed face only; the spine stays warm enough to keep hold of.
 
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)
@@ -191,9 +191,9 @@ The three-edged blade is etched with micro-capillary fullers that siphon condens
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-Appearance : A broad rectangular surgical cleaver made from rustless hospice-grade steel, boasting a razor-honed flat cutting edge, rounded spine, and an ebony scales handle secured by brass rivets.
+**Appearance:** Cut as a short ward coat rather than as armour — heavy hospice linen in the Commons grey, hemmed to mid-thigh, with a collar that stands on its own and sleeves long enough to cover the backs of the hands. The closure runs to nine mother-of-pearl buttons set off-centre the way the ward staff wore them, and the left breast carries the same stamp that is struck on the butt of the cleaver, this time centred.
 
-The mirror-polished blade reflects no ambient distortion, remaining clinically sterile even after multiple strikes. It severs dense fibrous tissue and cartilage with effortless precision.
+The linen holds no crease and takes no stain; Lament beads run off it and leave the weave dry. It is cold on the inside and stays cold across a full cycle, which is the single reason the issue form calls for a lining beneath it.
 
 **Cost:** 20 Sorrow Echoes
 
