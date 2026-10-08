@@ -196,7 +196,7 @@ The register carries the Bird as Subject-Body, expressing Lament, held at SECTOR
 **Category:** Protective Attire (Weeping Feather Mantle & Eye-Tile Shroud)
 **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that hangs heavier than the fabric explains while the wearer is being watched.
+**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that hangs heavier than the fabric accounts for and heavier still while the wearer is being watched. The weight is not in the silk. It is the same weight the perch carries, and it lifts when the watch lifts.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -206,9 +206,9 @@ The register carries the Bird as Subject-Body, expressing Lament, held at SECTOR
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Observing Bird's kind of pressure.
+**Ability:** Resistance to Lament damage; the Mind is what stands behind it — emotional stability, willpower, the capacity to stay in the room. On the sheet it reads Lament resistant at 0.4 and Weight warded at 0.8, with Grudge normal and Void weak at 1.6; the shroud is taken onto the perch and nowhere that cuts or strikes. It does not make the wearer less visible. Being seen in full is what the garment is for.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The minor joys are the first thing the wearer loses, which is the cost the file states and the reason the shroud is issued for one watch at a time and never for a whole shift. It is written down at the door and struck out at the desk; a wearer reporting that flatness still standing the next morning is not issued again that week. Three sit on the sheet and the rotation between them is deliberate.
 
 ### M.A.W. Stigma — The Third Sclera
 
@@ -300,13 +300,13 @@ The eyes find you before the shape does — one on your face, one on your hands,
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. An eagle-sized bird covered in exactly 144 eyes. It does not speak or attack; it watches and records.
+**At first contact:** What arrives first is not dread but the cold-rain smell, which no condition of the chamber has ever produced. Then the eyes: a hundred and forty-four of them on an eagle-sized bird, none of them closing, each taking a different aspect of whatever is in the room — the face, the hands, the angle of the shoulders, and one thing no observer has yet been able to name. It does not speak, there being no voice in it at all, which is what tells it apart from the other two Birds. There is no weight and no pressure. You are simply, while the watch runs, a thing that has been accurately recorded, and it is remarkable how few people have ever been that.
 
-**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Lament has a history here, and prolonged exposure makes that history legible.
+**With continued exposure:** Being looked at for long enough stops feeling like surveillance and starts feeling like being deposited. The Bird keeps its attention on the door rather than on the worker, and the count of how many eyes are on the entrance is taken every five minutes by a second observer, so the record of a long session is a column of figures rather than an impression. What accumulates is the knowledge that the four hundred and eleven people who stood at the Forgotten Market cordon in Year 2847 were never asked, and that the perch is what the far side of that silence looks like.
 
-**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Lament pressure spikes — not gradually but like a door slamming open. The Subject-Body shifts from presence to action.
+**When the entity activates:** no cry comes out of it and no posture changes. The Weighting Bird calls and the Guarding Bird postures; this one changes where it is looking, and because it gives no vocal warning the eye count is the only signal that the margin has moved. Two ignored conditions are the margin here. What activation looks like from the floor is the redistribution — the eyes turning to the entrance together, or to you, and on Pugnahan the count on the worker rising by one and no other change at all.
 
-**After departure:** The door seals and the pressure comes down, but the watch leaves a residue behind it: Lament held in the suit fibres, in the recollection, and in that thin space between thoughts where a Fracture starts.
+**After departure:** The door seals and the pressure comes down. Nothing stays in the suit fibres. What stays is the fact of having been looked at in full by something that will never be asked about it; that is the grief the Bird was crystallised out of, and the reason the watch is finished by looking back rather than by looking away. A completed session ends with the eye count holding, and the head of the file names the condition in four words: look at the Bird and accept its gaze.
 
 ### Interaction Pattern
 
