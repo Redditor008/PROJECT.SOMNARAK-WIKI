@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
+| **Recommended response** | Count the petals and attempt attribution on each of them in the vault inside the year. A petal matched and claimed dissolves, and the vault has no other way of getting rid of one, so the work here is naming and not handling. Viderehan and Ferrehan are the two approaches that reach it at all: observation brings out the emotion sitting in each petal, and endurance lets the bloom open slowly beside a patient worker. Nothing is hurried and nothing is cut. One petal will never dissolve — the first, which is the gardener's own moment and stays on the stalk because there is nobody left to acknowledge it — and the count is written with that petal noted and excluded. |
 
 ### Operational Notes
 
@@ -72,7 +72,7 @@
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone D, Echo Gardens |
-| **Resolution Condition** | Count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists, and the gauge below 25% — on Mourner's Bloom the second follows the first and has never arrived without it. |
+| **Resolution Condition** | The count is the condition: every petal in the vault is attributed inside the year, and a petal matched and claimed dissolves, and nothing here is disposed of by any other route. The gauge must fall past 25% as well, and on Mourner's Bloom the second has always followed the first and has never arrived on its own. A name attached to a petal is what resolves this holding rather than any pressure applied to it, since a cycle slows the opening and leaves the correspondence between bloom and recorded loss exactly as it stood. Forty-one of the moments in the vault belong to people other than the gardener whose weeping started the count, and the year is the limit, with the vault worked through inside it. |
 
 ### Combat Actions
 
