@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the grudge." | [The entity's grudge pressure settles over the target.] | *Target feels the weight of grudge sorrow.* **[10 Grudge DMG [Grudge]]** | When the entity first fixes on a target. |
-| { *The Grudge Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of grudge grudge sorrow.] | *Grudge damage strikes the target; the gauge spikes.* **[18 Grudge DMG [Grudge]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full grudge weight on one point.] | *A devastating Grudge strike; the target's Sorrow Gauge surges.* **[26 Grudge DMG [Grudge]]** | When the entity is cornered or starved. |
-| { *The Grudge Collapse* [**Ultimate**] } | "The grudge breaks — and everything it held comes loose." | [The entity's full grudge sorrow unleashed in every direction.] | *All personnel suffer Grudge erosion for three turns.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "It arrives empty, and then it arrives at somebody." | [The anomaly's grudge pressure settles over the target from above, without ever descending.] | *Target feels the weight of grudge sorrow, and the weight has no subject in it yet.* **[10 Grudge DMG [Grudge]]** | When the entity first fixes on a target. |
+| { *The Grudge Surge* [**Attack**] } | "The sorrow sharpens and takes the nearest body." | [A concentrated burst of grudge pressure out of the anomaly, aimed at whoever is standing closest to it.] | *Grudge damage strikes the target and the gauge spikes. The target is chosen by distance and by nothing at all besides distance.* **[18 Grudge DMG [Grudge]]** | When the entity is provoked or denied. |
+| { *The Settling* [**Attack**] } | "All at once the pressure has a direction in it." | [The anomaly focuses its full grudge weight on one point of the floor and picks the person who answered, not the one who shouted.] | *A devastating Grudge strike; the target's Sorrow Gauge surges, and the composure loss is booked to whoever replied.* **[26 Grudge DMG [Grudge]]** | When the entity is cornered or starved. |
+| { *The Grudge Collapse* [**Ultimate**] } | "The grudge breaks, and what it had been holding comes loose all at once." | [The anomaly's full grudge sorrow let go in every direction across the marked rectangle, eighteen metres by eleven.] | *All personnel suffer Grudge erosion for three turns, whether they stood under it or only near somebody who did.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -280,11 +280,11 @@ Sixty-three incidents, no injuries, no lasting estrangements on record, and an a
 
 ## 증언 (Testimonium) — The Testimony
 
-*"The grudge register is not in the manual. We learned it by failing."* — Specialist, Field Team
-*"I have worked grudge entities for six years. This one is different. The grudge makes it personal."* — Handler
-*"Containment holds. But the protocols need a new chapter."* — Containment Lead
-*"After contact, I could not stop thinking in the grudge register for three days."* — Specialist, Recovery
-*"It is one of the first of its kind. We are still learning what Hazard-Grudge means."* — Researcher, Floor 4
+*"There is no chapter for it in the manual, so the register we work from was written after the fact by people who had stood under it, and the whole of it reads like an apology."* — Specialist, Field Team
+*"Six years on grudge holdings, and never once before this one has the anger turned up with nobody in it to be angry at. It fastens on the nearest body and then behaves as though it had a reason for choosing."* — Handler
+*"Containment holds, and containment is nothing but spacing: the rectangle marked on the floor, lit cold, crossed singly and at intervals. What needs rewriting is every protocol that assumed a hazard would aim at you."* — Containment Lead
+*"After contact I could not stop thinking in the register for three days. What stays is not the anger. It is the sentence I said while I was under it, which I remember word for word and cannot hand to anybody else to settle."* — Specialist, Recovery
+*"Hazard-Grudge is a classification we are still filling in from this end. Sixty-three fastenings on record, none of them on a person with any history behind it; that finding is what made us stop looking for a subject."* — Researcher, Floor 4
 
 ## 기록 (Registrum) — The Record
 
