@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | β · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Pugnahan raises it, and no insignia, seal or badge of office crosses the boundary. |
+| **Recommended response** | Flerehan reaches through the tear and Ferrehan sits with him, under either the gauge falls. Pugnahan pushes it the other way. Viderehan opens the betrayal and settles nothing. No insignia, seal or badge of office crosses the boundary: the institution is the thing he was loyal to, and the file is plain that nothing is worn into the bay on its behalf. |
 
 ### Operational Notes
 
@@ -154,7 +154,7 @@ Myrmidon holds a Subject-Lament manifestation and a Grudge expression, and is st
 | **Breach Type** | Corrupt |
 | **Movement** | Myrmidon pulses with concentrated force, cracking the walls around it. It hunts personnel indiscriminately. |
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
-| **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
+| **Secondary Effect** | It looks for the grievance a worker has not raised. Crews describe being watched while it decides, and the standing note in the file is that the one it picks is never the angriest person present — it is the one with something still unsaid about the institution they work for. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Every turn the holding stays free the pressure climbs; Resilience drain rises by 5 a turn until it is suppressed. |
 
@@ -172,9 +172,9 @@ Myrmidon holds a Subject-Lament manifestation and a Grudge expression, and is st
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-Appearance : A delicate white porcelain funerary vessel thirty centimeters tall, decorated with cracked blue willow patterns and covered by a loose pewter lid that rattles with internal steam.
+**Appearance:** A funerary vessel in white porcelain, thirty centimeters tall, its blue willow pattern cracked through at the shoulder where it was dropped once and kept anyway. The pewter lid does not fit; it sits loose and knocks continuously, because whatever is inside is still steaming.
 
-The urn continuously condenses cold sorrow-dew on its exterior surface, which trickles down into a collection tray. Splashing this condensation onto berserk entities pacifies their aggressive hostility.
+The outside of it weeps. Condensation runs down the body into a shallow tray fixed under the base, and the tray is drawn off and put to use: thrown over a raging entity, it takes the rage out of it while the dew lasts.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)
