@@ -181,9 +181,9 @@ The register files this one as Subject-Dream, with the Grudge reading riding on 
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Collapsed Whisper's grudge signature in the strike.
+**Ability:** The fang carries the Whisper's own grudge into the cut, and the wound it opens is the one the warning was meant to prevent. The damage is taken on the Body, and it is taken before anything is said.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** Every old injury the wielder arrived with starts to throb in the order it was sustained, oldest first, and the bruising that follows a strike comes up in the shape of the grip rather than of the blow.
 
 ### M.A.W. Suit — The Warning Plate
 
@@ -199,9 +199,9 @@ The register files this one as Subject-Dream, with the Grudge reading riding on 
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Collapsed Whisper's kind of pressure.
+**Ability:** The plate turns a Grudge strike the way a closed shutter turns weather — the blow lands, and what reaches the wearer is the noise of it rather than the weight. It is proved against Grudge and against little else; the filing states that the harness was tested on the Body and makes no claim for the mind underneath it.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer answers late. Not slowly — the motion runs at its usual speed and simply begins a beat after it should, which on the floor is recorded as the difference between stepping back and being stepped into.
 
 ### M.A.W. Stigma — The Warning Thread
 
