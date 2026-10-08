@@ -295,7 +295,7 @@ The requiem and the shroud only work for an operator who has not claimed the gro
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Homecoming Tree (C-Iα-869 [LP]) is logged as a Place-Lament manifestation expressing Lament. The Tree formed from the grief of returning to a place that no longer recognized you. Held at Zone E, Border region. The Tree appears only after significant return or rediscovery.
+The Border file opens on the class before it opens on the history: Homecoming Tree (C-Iα-869 [LP]) stands under Place-Lament, and the pressure it puts out is Lament. The Tree formed from the grief of returning to a place that no longer recognized you. Held at Zone E, Border region. The Tree appears only after significant return or rediscovery — and the smell of cold rain arrives ahead of it, before there is anything at all in sight.
 
 **Entry 2 — <Excerpt from Border Settlement Survey>**
 Its roots follow memories rather than water.
