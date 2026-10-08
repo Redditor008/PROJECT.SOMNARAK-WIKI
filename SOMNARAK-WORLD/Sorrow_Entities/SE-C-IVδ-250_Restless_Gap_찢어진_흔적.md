@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- A worker who cannot hold becomes a conduit for the zone's own pressure: **Resolve** is spent rather than wounded, and what returns to the gauge is the crew's uncertainty about what order any of it happened in.
-- Restless Gap’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Restless Gap's dossier.
+- The responder who loses their hold inside the zone stops being a responder and becomes a route for its pressure instead. **Resolve** leaves them as a spent resource rather than as a wound, and what climbs back onto the gauge is the crew’s own doubt about which part of it happened first.
+- Length of exposure is what makes this zone dangerous rather than depth of it. A cycle kept short stays workable; the same cycle kept long stops being workable at all, and the dissolution arrives on four fronts in sequence — emotional, then physical, then the worker’s own identity, then the room’s arrangement.
+- Every activation of the M.A.W. charges the wielder personally, not the team: composure goes first, then the memories the wielder keeps privately, then the body’s vigour. The ledger for this grade has no column deep enough to hold that entry.
+- Unresolved, the sorrow here does not thin out and leave. It folds back into the zone that made it and begins the escalation recorded further down this dossier, starting with the corners of the Commons declining to meet.
 
 ## Appearance
 **Primary Form:** A person-shaped emptiness with a jagged vertical tear down it, carrying no material and registering only as a bend in whatever lies behind it. **Track:** it walks, on no path the survey has been able to predict.
@@ -173,9 +173,9 @@ The gauge reads only against the classification, and on this file a stable gauge
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-Appearance : A flared-muzzle bronze hand-cannon incorporating a glass lantern chamber beneath the barrel, ignited by an enclosed wheel-lock mechanism and operated via a curved finger lever.
+Appearance : bronze and flared at the muzzle, with a glass lantern chamber slung underneath the barrel; the wheel-lock is enclosed inside the housing, and the piece is fired from a curved finger lever instead of a trigger guard.
 
-The cannon fires incandescent phosphor pellets that illuminate dark chambers with blinding golden flare. The flame inside the underbarrel lantern flickers in rhythm with nearby sorrow activity.
+What it throws is incandescent phosphor, and a dark chamber caught by that flare goes gold and holds the gold a moment past the shot. The flame in the underbarrel lantern keeps time with sorrow activity near it, which in this zone means it flickers every time somebody takes a step they have no reason to take.
 
 **Damage:** Weight 10–15
 **Speed:** 3 (Fast)
@@ -196,7 +196,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that hangs cold on the shoulders and does not stir in a draught.
+**Appearance:** a mantle cut from Weight Han-weave and draped rather than fitted, matte at every angle it is looked at from, heavy out of all proportion to its grams, cold along the shoulders, and no draught in the Commons has ever stirred it.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -206,9 +206,9 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Restless Gap's kind of pressure.
+**Ability:** Grants resistance to Weight damage, covering the Han — the sorrow a responder holds in reserve, and the karmic debt standing against it. It is worn into Restless Gap’s kind of pressure and does the one thing the Trace cannot — it holds the wearer’s own sequence together, so what the wearer owes stays in the order the wearer put it in.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** The wearer picks up a low fatigue that never clears properly, and after a full shift in the Commons it is the fatigue that walks out with them rather than the zone.
 
 ### M.A.W. Stigma — The Trace Anchor
 
