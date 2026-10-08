@@ -6,7 +6,7 @@
 **Companion to:** `RULE-TO-FOLLOW.md` (v2), `UNIVERSAL_FOLLOW_RULE.md`, `DEVELOPMENT.md`
 **Purpose:** When an Arena AI session breaks (timeout, crash, context loss, condensed memory), this file plus the Arena patch file is how the next session recovers WITHOUT losing or repeating work.
 
-Read this file at the START of every session, together with `RULE-TO-FOLLOW.md`.
+Read this file at the START of every session, together with `RULE-TO-FOLLOW.md` and `REFERENCE_SOMNARAK_WIKI/RULES/R-31_CHATROOM_READABILITY.md` (the chatroom readability rule, `R-31`), which the owner made a must-follow rule to be read before doing anything.
 
 > **Archival Path Note:** References to file paths, audit utilities, and scripts within historical change logs and session recovery examples reflect repository file names and directory trees at the time of entry. Relocated codices now reside under categorized subdirectories in `SOMNARAK-WORLD/Master_Codices/`, and migrated tools reside under `tools/{builders,repairs_and_patches,auditors,formatters,tests}/`.
 
