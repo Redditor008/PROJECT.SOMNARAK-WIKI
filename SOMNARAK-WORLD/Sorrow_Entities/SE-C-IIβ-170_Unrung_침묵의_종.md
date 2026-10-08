@@ -28,14 +28,14 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Starting Sorrow Gauge** | 35–50%; it sits at the top of that band whenever the district has lately refused a warning it was properly given |
+| **Han-Energy yield** | 12–18 Han-Energy out of one completed cycle, and the highest reading comes when the session’s hand signals were answered in their order |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Ferrehan primary, Viderehan secondary, hand signals, station clock every session, and the Rule of the Answered Warning enforced across the directorate and every — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β), and the sweep is timed against the station clock like every other part of the session, dust from this bell being collected rather than shovelled |
+| **Recommended response** | Ferrehan first and Viderehan second, hand signals throughout, the station clock read when the session opens and read again when it ends, and the Rule of the Answered Warning enforced across the directorate and every ward answerable to it. The Work Types frame a session; the condition is what the session is for. |
 
 ### Operational Notes
 
@@ -53,10 +53,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Void pressure; 15% against other pressure types |
+| **Resistance** | 25% where the pressure is Void; each of the other registers meets 15%, and the first of those two figures is what the district pays for, since what Unrung hands back is absence and not force |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 7–16 per hit · Void |
+| **Sorrow Gauge [HP]** | 415/415 · marked line, the reading belonging to the line and not to the bell, which is the only distance this file permits |
+| **Han Pressure [ATK]** | 7–16 · Void, counted by arrival instead of by strike, the warning reaching the worker some time after the moment it was given |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
 
@@ -69,11 +69,11 @@
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) — Repeats not ringing |
 | **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 35–50%, with the watch writing down which end of the band the session opened at, a high opening usually meaning the warning has already been answered once |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, near the Orphaned Bell |
-| **Resolution Condition** | Ferrehan primary, and the gauge below 25% — on Unrung the second follows the first and has never arrived without it. |
+| **Resolution Condition** | Ferrehan carries the work, and the gauge has to come down past 25% before the session counts at all. At this bell the second requirement waits on the first: no cycle here has ever closed on a low gauge that Ferrehan did not bring down. |
 
 ### Combat Actions
 
