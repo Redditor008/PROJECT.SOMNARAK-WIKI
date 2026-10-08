@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- A worker who cannot hold against the sorrow becomes a conduit: raw pressure erodes their **Resolve**, and the cognitive destabilization that follows is funnelled straight back into the Sorrow Gauge.
-- Deteriorata’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
-- Without containment resolution the sorrow never dissipates; it ruptures outward, initiating the escalation and breach behaviors recorded in Deteriorata's dossier.
+- A worker who cannot hold against the sorrow turns into a channel for it: raw pressure erodes their **Resolve**, the cognitive destabilisation that follows is funnelled straight back into the Sorrow Gauge, and the holding is measurably worse for the attempt rather than merely unhelped.
+- The documented effects grow with time, and here the time in question is counted in years rather than in cycles. What is manageable in a brief cycle is what a healer of Zone C carried for thirty-one years: a body and an identity replaced by the function, in a way that appears in every surviving record to be nothing at all.
+- Each M.A.W. activation exacts a personal debit from the wielder — composure, personal memories, somatic vitality — and the debit is exacted in the same currency the appointment book was written in. No office assigned that work and no register recorded it, and no standard grade ledger records what this costs either.
+- Left unresolved, the sorrow is neither discharged nor held: it breaks outward and sets in motion the escalation and breach behaviour set down in this dossier. Nothing crumbles off this holding and reaches the floor. The pieces come away from the body and stay in the air, which is the same fact stated physically: the chamber is entered as a standing accumulation and never as a site.
 
 ## Appearance
 **Primary Form:** A saint-like humanoid made of cracking stone and dark Han-crystal. Pieces crumble from its body but never reach the floor.
@@ -186,9 +186,9 @@ The Behavior table contains the holding's own trap and the wing states it here r
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Armoury figures, transcribed. The Maul is the shoring commander's tool on this holding and has never been swung at the entity; doctrine is explicit that there is no assault here.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Deteriorata's weight signature in the strike.
+**Ability:** Weight damage, delivered to the Han — the sorrow it is holding back, and the debt standing against that — with Deteriorata's own weight signature behind the blow and nothing the wielder brings to it. One thrust can take three targets, the first at full effect, the two behind it at 70 and 50 per cent. Every figure on this row is armoury transcription rather than observation: the Maul is the shoring commander's tool on this holding and has never been brought down on the entity, doctrine being explicit that there is no assault here.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** Each use leaves the wielder heavier than the last one did, and use past that leaves them older rather than injured — a wearing that the ledger enters as nothing and the person carries as years. The shoring commander's rotation is fixed before the cycle begins and not during it, and that is the point of fixing it: anyone still carrying that heaviness into the next watch is stood down, whether or not they say so.
 
 ### M.A.W. Suit — The Saint's Fragment
 
