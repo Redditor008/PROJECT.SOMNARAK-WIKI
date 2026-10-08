@@ -154,16 +154,16 @@ Read the table against the roster rather than as a menu, because on this holding
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | Broken Tear shatters containment and hunts through the facility. It floods corridors with sorrow. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
-| **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
+| **Effect** | Grief goes down the corridor in cold waves and takes composure out of whoever it passes, whether or not that worker was the one it came looking for. |
+| **Secondary Effect** | A keening wail runs underneath the flooding. It does not break emotional stability outright; it opens one crack in it and leaves that crack open. |
+| **First Target** | Whoever stands nearest — unless somebody in that corridor is carrying a sorrow of the same shape as the one she wept, and then that worker is found first. |
 | **Escalation** | Each turn free, Composure drain +5 until suppressed. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
+- **Breach type:** Escape — Broken Tear leaves the vault under its own motion and works through the facility searching for the sorrow that matches where it came from.
 - **Containment priority:** The standing instruction for an Escape-type breach reads physical suppression required, and it is carried here with the holding's own qualification printed beneath it, because there is nothing solid in a corridor of sorrow to suppress. What the flood plan actually requires is height and order: routes are not defended, floors are given up in a set sequence, and muster points are chosen for elevation rather than for proximity. The plan is rehearsed annually from the top of the floor downward, and the rehearsal is run on the assumption that the ground level is already lost.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Sorrow Gauge on breach:** 40% at the moment the vault is found standing open, and 10% further on every turn it is left uncontained.
 
 ## M.A.W. Equipment
 
@@ -294,13 +294,13 @@ A tear becomes a body in the dream. Its surface is cracked, and every crack cont
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Lament always changes a room. Then the Subject-Dream resolves: A figure made from one enormous cracked tear, appearing in dreams as a person whose face cannot stay whole.
+**At first contact:** Contact is taken at the threshold, and the vault door has barely finished swinging before the air inside is a different substance — not colder so much as wetter, in a room that holds no water at all, which is how Lament announces itself here. What resolves next is the Subject-Dream: a figure made out of one enormous cracked tear, coming into dreams as a person whose face cannot stay in one piece long enough to be recognised.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Lament is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** The longer a worker stands in it, the less general the grief gets. It stops being Lament as a category and turns out to be one woman’s grief, carrying one woman’s wound, weeping by one particular method — and the Han in the vault begins to move the way she moved it while she was alive.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Lament becomes something you can taste, hear, or feel on your skin. The Subject-Dream has crossed the line between containing and becoming.
+**When the entity activates:** The activation reaches the body ahead of the instruments. Temperature goes one way or the other with nothing to account for it, the Han-lamps stutter, and the sound that has been filling the vault arrives in the mouth and across the skin as well. Past that point the Subject-Dream is not holding the tear any longer; it is the tear.
 
-**After departure:** You leave, but the Lament follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** Leaving does not finish it. The sound goes out with the worker in the hands, settles down in the chest, and is still faintly audible in the corridor’s particular quiet an hour after the door has been shut again.
 
 ### Interaction Pattern
 
