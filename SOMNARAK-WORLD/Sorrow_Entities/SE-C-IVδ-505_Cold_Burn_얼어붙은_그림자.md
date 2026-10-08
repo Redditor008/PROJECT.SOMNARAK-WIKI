@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Composure** and identity cohesion, accelerating Sorrow Gauge escalation.
-- Extended contact risks Cold Burn’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Cold Burn defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- A worker who fails to hold against her pressure loses **Composure** in quantity, and loses the edges of their own identity along with it, and the two losses drive the Sorrow Gauge up faster than the watch can write it down. At the vault approach that is the particular danger: erosion and escalation arrive in the same minute, and the gauge keeps climbing after the worker has stopped reporting.
+- Long contact brings the whole of her documented manifestation into the corridor: the emotions erode, the body is traumatised, the identity dissolves, and last the environment itself is corrupted in a way that does not undo itself. That fourth stage is why the lattice along the seam is written down every week rather than estimated, and why the order says until relieved.
+- Activation of any M.A.W. piece at this door is paid for by the bearer in three currencies: intimate memories, physical sensation, and years of life. The specification names all three. The corridor is where they get paid.
+- Left unresolved, she falls back on the breach, activation or expansion behaviour recorded in her own dossier. Containment refused, grief with nowhere left to run makes its own way out, and what it makes is catastrophic. The lattice at knee height is that same cutting done slowly.
 
 ## Appearance
 **Primary Form:** A figure made from frozen shadow, with edges that burn crimson when someone looks away.
@@ -173,9 +173,9 @@ The gauge here is unhelpful and the wing says so. The figure that is read is the
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-Appearance : A compact siege arbalest mounting high-tensile steel prod arms, a geared bronze cranequin spanning mechanism, and a grooved bone track carved with flight calculations.
+Appearance : The piece issues short, built for a corridor rather than for a wall: prod arms of high-tensile steel, a bronze cranequin geared so that one hand can span it at the vault door, and a track of grooved bone with the flight calculations cut into it. It is heavy for its length and it is kept spanned, since at the approach there is no second interval in which to wind it.
 
-The weapon launches heavy square-headed bolts attached to microscopic retrieval cables. An internal spring-spool winds the bolt back into the loading groove instantly upon a missed discharge.
+It shoots heavy square-headed bolts, each tied to a retrieval cable too fine to see, and a spring spool inside the stock winds a missed bolt straight back into its groove. Nothing is left lying on the floor. That is the entire reason this piece is issued at this door, and the reason the Armoury will hand out nothing else here.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)
@@ -190,7 +190,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Cold Burn's void signature in the strike.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** Each discharge takes one small memory that had no name to begin with. The bearer cannot report the loss, so the Armoury counts it against the piece instead of against the person carrying it.
 
 ### M.A.W. Suit — Cold Burn Veil
 
@@ -206,9 +206,9 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Cold Burn's kind of pressure.
+**Ability:** Grants resistance to Void damage, and stands between the wearer and the Soul register she works in — identity, memory, the sense of being somebody — which is what she attacks at the door. The veil is woven against her kind of pressure and against no other holding's.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer comes off the shift faintly absent to themselves, as though the round had been worked by somebody else with their name on it.
 
 ### M.A.W. Stigma — Cold Burn Ring
 
