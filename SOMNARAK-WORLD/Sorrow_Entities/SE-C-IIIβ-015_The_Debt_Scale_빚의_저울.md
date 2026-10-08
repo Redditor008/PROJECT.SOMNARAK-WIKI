@@ -28,14 +28,14 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Identity / memory pressure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Starting Sorrow Gauge** | 35–50%, and a watch opened with nothing yet laid on either dish reads at the bottom of that band |
+| **Han-Energy yield** | 12–18 Han-Energy for each work cycle carried through, the upper figure when the party at the plinth had more to be weighed |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Viderehan and Ferrehan only, this being an Object/Place. Ferrehan is the sole approach that lowers the gauge; no measurement of a named person is taken as part of a work cycle under any circumstances. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β), swept up and then weighed on the Scale’s own dishes — the only dust in this sector that gets measured twice |
+| **Recommended response** | Only Viderehan and Ferrehan apply, the holding being an Object/Place that cannot be brought to the party. Ferrehan is what brings the gauge down and nothing else does. No named person is measured inside a work cycle, at the plinth or anywhere else in the sector, and that prohibition carries no exceptions. |
 
 ### Operational Notes
 
@@ -55,8 +55,8 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 30% against Void pressure, and 20% against every other kind |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 506/506 |
-| **Han Pressure [ATK]** | 8–19 per hit · Void |
+| **Sorrow Gauge [HP]** | 506/506, taken off both dishes at once, a single-pan reading being the one thing the Scale refuses to give |
+| **Han Pressure [ATK]** | 8–19 with every stroke of the beam · Void, the lower figure for a party with nothing outstanding and the higher for one carrying a great deal |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
 
@@ -65,15 +65,15 @@
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
+| **Battle Length** | Medium and unhurried — 16 turns, counted from the first weight laid on either dish |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Fragment (III) — Precise and impartial |
 | **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 35–50%, beam near level when the watch opens, which then records the direction it leans |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-01, used by Collectors |
-| **Resolution Condition** | Viderehan and Ferrehan only at the plinth. The 25% figure is the consequence, not the objective, on every The Debt Scale cycle logged. |
+| **Resolution Condition** | Two work types are permitted here, Viderehan and Ferrehan, and both of them only at the plinth, the Scale being far too heavy in consequence to be carried to the work. That 25% figure is what the beam settles at once a cycle has been done properly; no watch aims at it, on any cycle logged against The Debt Scale. |
 
 ### Combat Actions
 
@@ -220,19 +220,19 @@ Escalation here is the circle and nothing else. Record the trigger, the measurem
 **Cost:** 25 Sorrow Echoes
 
 **Attack Pattern:** Precision Shot / Equalizing Bolt
-**Target Coverage:** 1 designated target at long range
+**Target Coverage:** 1 designated target, picked out at long range, with the scale-pans already tilting against what that party owes
 **Falloff Rule:** 100% damage to the selected target; penetrates defenses if target carries active debt.
 **Damage Application:** Direct Void trauma to Soul (identity, memory, sense of self); strips target defenses proportionate to karmic disparity.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Debt Scale's void signature in the strike.
+**Ability:** Deals Void damage straight into the Soul register — what a party remembers, who they take themselves to be, and the open account they feel standing behind both — and the strike carries the Scale's own void signature, which is why the wound reads like a settlement rather than a blow.
 
-**Cost:** The wielder loses small, nameless memories with each use; repeated use makes the bearer mistake exactness for justice.
+**Cost:** The piece spends the wielder’s unlabelled memories, a few at a time, and a bearer who keeps firing it begins to mistake exactness for justice.
 
 ### M.A.W. Suit — The Balance Veil
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, barely translucent and near colourless, that draws tighter the closer it is carried to what it came from.
+**Appearance:** a long veil of Void Han-gossamer, all but colourless and barely letting light through, which pulls tighter across the shoulders as it is brought back toward the plinth it was taken from.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -242,9 +242,9 @@ Escalation here is the circle and nothing else. Record the trigger, the measurem
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Debt Scale's kind of pressure.
+**Ability:** Grants resistance to Void damage; while the veil is worn the Soul register holds together — who the wearer takes themselves to be, what they remember, and the feeling of standing answerable for something — which is precisely what the Scale otherwise weighs out of a person. The veil is meant for this holding's pressure and for nobody else's.
 
-**Cost:** The wearer grows faintly absent to themselves, and the feeling does not lift while the piece is worn.
+**Cost:** The wearer thins out in their own estimation, as though the account of them were being read over by somebody else, and it stays that way while the veil is on.
 
 ### M.A.W. Stigma — The Balance Pendant
 
@@ -342,9 +342,9 @@ The Scale appears simple: two dishes, a thin beam, no decoration. You touch one 
 
 ### Interaction Pattern
 
-The Scale is set beside the district's other instruments of obligation. Each relation below has been observed and filed; none is settled; and all three were tested at the plinth, since the Scale cannot be taken to anything.
+The Scale stands beside the district's other instruments of obligation, and it alone among them cannot be moved, so every relation below was brought to the plinth and tested there instead. Each has been observed and written up, and each has been left open: the Scale shows a weight and then waits, and filing a relation has never once been the same thing as settling it.
 
-**Interaction method:** Baseline each party alone over several cycles — dish positions, circle, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle.
+**Interaction method:** Bring each party to the plinth alone first, across several cycles, and write down where the dishes come to rest, the circle they describe and the gauge, so the joint observation has something honest to be measured against. When two parties stand together, record the instant anything passes between them, how far it reaches, how long it holds, and what the trigger was, both gauges at that instant, and then what is still standing after they are separated. Every cycle is verified a second time before it goes into the file.
 
 
 ### Entity Interaction Record
