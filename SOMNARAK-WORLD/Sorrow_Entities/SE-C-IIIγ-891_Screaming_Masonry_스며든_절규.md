@@ -211,7 +211,7 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of Weight Han-steel, finished dark and heavier than its bulk accounts for, that shivers in the hand before it is swung.
+**Appearance:** a heavy two-handed maul of Weight Han-steel, finished dark and heavier than its bulk accounts for, that shivers in the hand before it is swung. The shiver is not a defect and the armoury stopped logging it as one years ago: the head is carrying what the walls of Old Lament carried, four generations of obligation nobody spoke about, and it reaches the grip first. Two are held on the sheet and both are racked head-down, so the shiver is felt at the draw and never on the way to it.
 
 **Damage:** Weight 10–15
 **Speed:** 3 (Fast)
@@ -224,15 +224,15 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Screaming Masonry's weight signature in the strike.
+**Ability:** The maul's damage is Weight, landed on the Han, which the sheet glosses as the sorrow held in reserve and the debt carried against it, with Screaming Masonry's weight signature in the strike and none of the wielder's in it. The pattern is a skewer down a line: the primary takes the whole of it, then a falloff to 70 and then 50 across the two targets it pierces, three at the most. The listed multiplier is applied to direct damage and to Tick damage separately, never once between them. The maul's work on a holding is to make its obligations audible, the same thing the entity does, and it is why the piece is graded δ and no higher.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** Heaviness accumulates on the wielder with use and does not leave when the maul goes back in the rack. Prolonged use ages them slightly, which the survey enters as a line and the medical side has never been asked about. The rest of the charge is common to the whole set: the bearer loses the ability to let a grievance pass unspoken, and in a Forge or a bay that is paid by the people standing nearby as much as by the bearer.
 
 ### M.A.W. Suit — Screaming Masonry Mantle
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, dark as river stone and heavier than any weave, that draws in when its source element is close.
+**Appearance:** a mantle draped in Weight Han-weave, dark as river stone and heavier than any weave of that thickness should be, that draws in when its source element is close. The drawing in is the only warning a wearer gets that Screaming Masonry is working, and it starts at the shoulders, where the weave lies flat against the collar. Both mantles are weighed at issue and weighed again at return, and what comes out between those two weighings is entered rather than explained.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -242,9 +242,9 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Screaming Masonry's kind of pressure.
+**Ability:** Resistance to Weight damage; the Han is what stands behind it — the sorrow held in reserve, and the debt standing against it — worn against Screaming Masonry's kind of pressure. On the sheet the mantle reads warded against Weight at 0.5, normal against Lament and Grudge, and weak against Void at 1.5; it is therefore chosen for a holding where duty accumulates and not for one where something is cut.
 
-**Cost:** The wearer carries a constant low fatigue that the survey logs and nobody treats.
+**Cost:** The wearer carries a constant low fatigue, the kind the survey logs and nobody treats, because it never rises to the level of a symptom and never clears either. It is entered at the door and entered again at the desk, and a mantle returned with the fatigue already standing in its bearer is not reissued that week. The weave neither causes that tiredness nor relieves it. It carries the wearer through the same pressure the walls are carrying, and the price of the crossing is the figure on the sheet.
 
 ### M.A.W. Stigma — Screaming Masonry Ring
 
