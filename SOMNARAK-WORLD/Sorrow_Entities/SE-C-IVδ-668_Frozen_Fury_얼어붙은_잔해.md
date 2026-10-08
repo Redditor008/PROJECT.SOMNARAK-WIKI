@@ -94,9 +94,9 @@
 ### Consequences
 
 - Resistance failure does not injure the worker; it recruits them. What arrives is the fury of the wrongly blamed, and the fury is reasonable, which is the difficulty: it comes with an account of the ninth day that the evidence supports and a list of the people who should have been named, and a worker under it writes with the energy of somebody who has finally been told the truth.
-- The longer the exposure, the deeper the wound: Frozen Fury’s sorrow seeps past containment protocol and permeates the operative’s cognition, inducing irreversible emotional, somatic, and identity breakdown.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Frozen Fury’s event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow deepens where it already is and the zone becomes unworkable.
+- Duration is the dosage. The sorrow works past the containment protocol and settles into how the operative thinks, and what it does there is recorded as permanent: the emotional, somatic and identity damage carries no return figure on any sheet that gives one. The earliest sign is the bearer's breath beginning to match the resonance of the grief behind it, and catching that is what the monitoring is for.
+- The M.A.W. is never costless. Its somatic, psychological and mnemonic toll is written into the equipment records and charged on every use, and the charge is the one the district carried: a home emptied, and the people blamed for having lost it. The lens cannot stand in for scheduled Work Types and cannot stand in for the register; three workers have tried it, and the standing instruction names both refusals.
+- A cycle that does not resolve sets the event protocol running: the Sorrow Gauge reaches its ceiling, the containment fail-safes go, and the sorrow deepens where it already is instead of spreading. The zone is not overrun so much as closed — unworkable at the margin of original ground, which is where the bay stands and the reason the lens shows an empty street once it is carried past that margin.
 
 ## Appearance
 **Physical Form:** A frozen ruin fragment of black crystal, shaped like a broken building and burning with silent rage.
@@ -180,10 +180,10 @@ The table is the whole method, and it is short because the holding is narrow. Fr
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Frozen Fury rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Frozen Fury activates its primary resonance: Displays the lives and injustice attached to the structure. Grants +10% resistance to Void damage while equipped. |
-| 30 Seconds | The artifact was born from the rage of a home destroyed while its residents were still being blamed for its loss; the bearer begins perceiving the ninth day of the clearance from inside a doorway that no longer exists. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
-| 1 Minute | The sorrow within Frozen Fury begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Frozen Fury too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer continues to describe the clearance as happening now. |
+| 10 Seconds | Frozen Fury rests in stasis until an operative lifts it; on contact the void field settles into step with the bearer's pulse. | Mounting it starts the primary resonance: the lives and the injustice attached to the structure are shown, and +10% resistance to Void damage applies while it is worn. |
+| 30 Seconds | The rage it formed from was a home destroyed while its residents were still being blamed for losing it, and well inside the first minute the bearer begins perceiving the ninth day of the clearance from inside a doorway that is no longer there. | The operative gains the combat benefit and starts accumulating the mental burden: movement and concentration sharpen, composure falls. |
+| 1 Minute | The sorrow starts collecting what it is owed, and the bearer's breath has begun to match the resonance of the grief behind it. | Past 60 seconds of continuous use it deals 5 Void damage on a 15-second cycle, and the watch keeps an eye out for sudden cognitive detachment. |
+| 2 Minutes | Worn too long, the bearer becomes the person who wept over it first: the boundary between the operative's identity and the historical sorrow gives way. | Continuous wear past two minutes, or a forcible removal before the interaction is completed, triggers acute panic, and the bearer goes on describing the clearance in the present tense. The lens comes off with the mount and the bearer steps back behind the margin, because contact broken by being pushed away rather than ended by the bearer leaves the ninth day running. |
 
 ### Escalation Notes
 
