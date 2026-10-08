@@ -94,9 +94,9 @@
 ### Consequences
 
 - Failing here costs twice over: the worker takes the pressure into their own **Clarity**, and the shard grows on what the worker cannot hold — the file's oldest observation is that this holding gets larger when it is mourned at.
-- Time is Soaking Shard’s ally: prolonged exposure allows sorrow saturation to accumulate within the operative, triggering the catastrophic psychological, somatic, or environmental collapse the classification was codified to prevent.
-- M.A.W. activation is an unyielding exchange: power for price. While parameters are formally cataloged in the equipment registry, the payment is extracted directly from the bearer’s soul and flesh.
-- An unresolved encounter never simply ends; it transforms. Soaking Shard executes its documented event pattern, and the unpacified sorrow forces the violent exit that containment work failed to provide.
+- Duration works for the shard and not against it. A long rotation lets sorrow saturation build inside the operative until the collapse the classification was written to prevent arrives on its own terms, and the record carries it in three forms: in the head, in the body, and in the vault floor. The chamber keeps its own clock, which is the sump. It fills at a rate, and a session running past that rate has already begun to pay.
+- Working the M.A.W. set is an exchange with nothing negotiable inside it. The equipment registry gives the parameters and a price in Sorrow Echoes. The second price comes out of the bearer rather than out of the vault, and it is what the wearer is afterwards. Nobody has ever written that second figure down, which is the gap the field use record exists to close.
+- An encounter that nobody settles does not stay where it was left. The shard runs its documented event pattern instead, and sorrow that was never settled takes the exit the containment work failed to give it: the wetted margin jumps without a matching sump volume, the sump reads short, and the fluid ends up somewhere no drain was laid to catch it. Two sessions of that kind are on record and both are the reason the floor is inspected from below.
 
 ## Appearance
 **Physical Form:** A large shard of blue crystal that rises from the floor and remains wet with liquid memory.
@@ -171,19 +171,19 @@ Soaking Shard is an Object/Place with Object-Void manifestation and Lament expre
 | **Activation** | Touch or tears falling onto the surface. |
 | **Primary Effect** | Releases one preserved memory as liquid vision. |
 | **Duration** | Until the vision is absorbed or evaporates. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
+| **Termination / Return** | The channel is closed on purpose by the operator and never by letting go of it. The worker outside calls it, the two inside step back behind the chalk line, and the conduit is sealed in that order. A conduit dropped instead of closed vents Lament resonance with nothing containing it, and the sector keeps that reading for a shift afterwards. |
 | **Risk** | The worker may lose a memory to replace the released one. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** The relic asks for unbroken attention and open conduits, and it does not tolerate a channel left to itself: field instability climbs while nobody is holding the flow, which in this vault means the seep accelerates before any instrument does. In practice the rule is the standing order of two inside and one outside. Nobody works the shard alone, and the worker who stays out holds the clock and the sump sheet.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Soaking Shard begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Soaking Shard: Releases one preserved memory as liquid vision. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the grief of believing a loss had been sealed when it remained alive inside. forged during a memorial shard in the alpha tree vault cracked during a sorrow tide surge. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Soaking Shard's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: The worker may lose a memory to replace the released one. all personnel in the sector take heavy damage. |
+| 10 Seconds | The shard starts to thrum as the channel opens and a wave of Lament sorrow crosses the chamber, which the corridor feels before the instruments register it. | Opening the channel is the activation itself. One preserved memory comes out as liquid vision and stands above the wetted margin, and Sorrow Gauges in the adjacent containment units steady while it runs. |
+| 30 Seconds | At this point the conduit has widened, and the memory resolves into the grief this shard holds, which is the belief that a loss had been sealed when it stayed alive inside. Under that, older and harder to read, is the cracking of the memorial shard in the Alpha Tree vault during the Sorrow Tide surge. | Elemental defence rises through the sector's allied units as the aura widens out to Range Band 2, held only while attention stays on the flow. |
+| 1 Minute | The pressure asks for more than mechanical energy. The channeler carries the mass of a purpose never finished, a sealed grief with no name attached to it anywhere in the surviving catalogue, and feels that on the lungs instead of in the hands. | Holding the channel beyond the first 60 seconds drains 4 Composure on each ten-second count, so the operator settles the disengagement before that clock starts rather than while it is running. |
+| 2 Minutes | The flow threatens to run backwards into the facility. Grief held this long overflows the channel and searches out a living vessel to settle in, and the record warns plainly that the nearest vessel is the channeler. | An overloaded or abandoned channel vents a Lament shockwave with nothing shaping it. The worker may give up a memory from their own past to replace what was released, and every person in the sector takes heavy damage. |
 
 ### Escalation Notes
 
