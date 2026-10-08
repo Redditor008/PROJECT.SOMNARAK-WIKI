@@ -36,7 +36,7 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-28`](R-28_NOT_EVERYTHING_BREACHES.md) | Not Everything Breaches — non-breaching floors of 75% RE / 25% SE / 50% OP, reclassified only on the dossier's own evidence |
 | [`R-29`](R-29_ABNORMALITY_WIKI_DONE_BETTER.md) | The Standard Is An Abnormality Wiki, Done Better — nine parity sections as the floor, six clauses above it as the work; Part three (the ladder, from Comparative Study 02) is guidance, not a test |
 | [`R-30`](R-30_QUOTE_FIX_WITH_TYPE.md) | A Quote Fix Carries The New Quote And Its Type — the written quote is read back with its register type (`R1`–`R8`) and entered in `QUOTE_REGISTER_LEDGER.md` before the push counts as finished |
-| [`R-31`](R-31_CHATROOM_READABILITY.md) | Chatroom Reports Are Written To Be Read — a must-follow rule, read before doing anything: the answer first, short sentences, five-column tables with one row per dossier, every counter as `x / y`, names in cells and `R-12` links under the table |
+| [`R-31`](R-31_CHATROOM_READABILITY.md) | Chatroom Reports Are Written To Be Read — a must-follow rule, read before doing anything: the answer first, short sentences, five-column tables with one row per dossier, every counter as `x / y`, the SE name in each cell linked to its own dossier (amended 2026-10-08), and `R-12` links under the table |
 
 ## Precedence
 

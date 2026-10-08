@@ -8,6 +8,8 @@ report as a double-bracket link with the file name as its tooltip:
 
   ghlink.py <path> [<path> ...]      one link per file, on the checked-out branch
   ghlink.py --short <path> ...       link text is the English name only (The_Debt_Scale)
+  ghlink.py --plain <path> ...       no outer brackets — the form R-31 point 13 wants inside a
+                                     chatroom table cell, where [[...]] renders as stray brackets
   ghlink.py --branch NON-WIKI <path> point at another branch
   ghlink.py --changed [REF]          every dossier that differs from REF (default origin/NON-WIKI)
 
@@ -50,14 +52,15 @@ def short_name(stem):
     return '_'.join(keep) or stem
 
 
-def link(path, branch, short=False):
+def link(path, branch, short=False, plain=False):
     rel = os.path.relpath(os.path.abspath(path), ROOT) if os.path.isabs(path) or os.path.exists(path) else path
     rel = rel.replace(os.sep, '/')
     name = os.path.basename(rel)
     stem = name[:-3] if name.endswith('.md') else name
     url = 'https://github.com/%s/blob/%s/%s' % (REPO, branch, quote(rel, safe='/'))
     text = short_name(stem) if short else stem
-    return '[[%s](%s "%s")]' % (text, url, name)
+    inner = '[%s](%s "%s")' % (text, url, name)
+    return inner if plain else '[' + inner + ']'
 
 
 def changed(ref):
@@ -78,7 +81,7 @@ def changed(ref):
 
 
 def main(argv):
-    branch, short, ref, paths, i = None, False, None, [], 0
+    branch, short, plain, ref, paths, i = None, False, False, None, [], 0
     while i < len(argv):
         a = argv[i]
         if a == '--branch':
@@ -86,6 +89,8 @@ def main(argv):
             i += 1
         elif a == '--short':
             short = True
+        elif a == '--plain':
+            plain = True
         elif a == '--changed':
             ref = argv[i + 1] if i + 1 < len(argv) and not argv[i + 1].startswith('--') \
                 and not argv[i + 1].endswith('.md') else 'origin/NON-WIKI'
@@ -107,7 +112,7 @@ def main(argv):
         sys.stderr.write(__doc__)
         return 1
     for p in paths:
-        print(link(p, branch, short))
+        print(link(p, branch, short, plain))
     return 0
 
 

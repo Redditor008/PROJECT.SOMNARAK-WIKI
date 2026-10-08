@@ -43,9 +43,13 @@ Chatroom"*). It binds every report: units, batches, audits, closes, answers to q
     headers, no header that needs its own explanation.
 12. **Cells stay short.** Before and after share one cell with an arrow: `0.72/0.66 → < 0.50`. No paragraph
     lives inside a cell.
-13. **Names in cells, links under the table.** A cell carries the dossier's name and designation code
-    (`Happy Mask C-IIβ-051`), never a file path. The `R-12` GitHub link goes below the table, one per
-    finished dossier.
+13. **The SE name in a cell is a link.** In any table that lists an entity together with what was fixed on
+    it, the name in the cell carries that dossier's GitHub link, in either accepted form: a plain markdown
+    link, `[The_Debt_Scale](url "SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md")`, or the `R-12` double-bracket
+    form. `tools/ghlink.py --short --plain <path>` prints the first one, so it is generated and never
+    hand-typed. The designation code follows the linked name. A file path is still never written as plain
+    text in a cell, and the `R-12` link below the table is still required for every finished dossier: the
+    cell link is additional, not a replacement.
 14. **Numbers agree with each other.** Ratios to two decimals. One unit per column. No column mixing
     `0.7` and `0.66` and `72%`.
 15. **Caption every table.** One line above it saying what it shows. Three tables per unit is the ceiling;
@@ -67,6 +71,22 @@ Chatroom"*). It binds every report: units, batches, audits, closes, answers to q
 A report that breaks any of 1–15 is rewritten in the same turn, before any further work is started.
 Readability refusals are recorded like gate refusals: what failed, what was rewritten, and that the corrected
 version is the one that stands.
+
+## Amendment, 2026-10-08 — the SE name in a table carries its link
+
+**Stated by the archive owner, 2026-10-08:** *"In The Table That Show The SE And Its Fixed Section On The SE
+Name Puts Its Git Link"* — with both forms accepted: the `R-12` double-bracket link, or a plain markdown link
+carrying the file name as its tooltip.
+
+Point 13 was rewritten in the same turn to require it, and `tools/ghlink.py` gained `--plain` so the cell form
+is printed rather than typed. It binds every table that pairs an entity with what was fixed on it: unit rows,
+partner rows, batch recaps and close reports.
+
+Worked example, one row per dossier, four columns:
+
+| Entity | Section fixed | Before → after | Result |
+|---|---|---|---|
+| [The_Debt_Scale](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-015_The_Debt_Scale_%EB%B9%9A%EC%9D%98_%EC%A0%80%EC%9A%B8.md "SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md") `C-IIIβ-015` | Core Stat Line | 0.75/0.62 → < 0.50 | couple broken |
 
 ## How it is checked
 
