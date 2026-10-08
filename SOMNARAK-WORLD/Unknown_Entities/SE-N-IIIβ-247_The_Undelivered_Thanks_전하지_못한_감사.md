@@ -155,10 +155,10 @@ The table records which Work Types calm it and omits the only variable that has 
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | Mobile — walks upright; can breach and pursue. |
-| **Effect** | Crushing pressure descends, bearing down on resolve. |
-| **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
+| **Effect** | It bows, and the bow is the attack. A weight settles on the chest of whoever it is facing and does not lift while it is still bowing; every worker who has stood in front of one describes the same thing, which is being thanked by something that will not stop. |
+| **Secondary Effect** | What is owed goes stale where it stands. Any debt or obligation carried by a person inside the radius starts to read as overdue, whatever term was actually agreed, and the reading does not correct itself once the radius closes. |
 | **First Target** | The nearest personnel. |
-| **Escalation** | Each turn free, Resolve drain +5. |
+| **Escalation** | Uncontained, it drains Resolve +5 with every turn that passes. |
 
 ### Escalation Notes
 
