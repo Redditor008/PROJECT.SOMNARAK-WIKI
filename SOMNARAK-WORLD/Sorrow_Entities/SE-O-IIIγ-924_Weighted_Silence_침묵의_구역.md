@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the void." | [The entity's void pressure settles over the target.] | *Target feels the weight of void sorrow.* **[10 Void DMG [Void]]** | When the entity first fixes on a target. |
-| { *The Void Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of void void sorrow.] | *Void damage strikes the target; the gauge spikes.* **[21 Void DMG [Void]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full void weight on one point.] | *A devastating Void strike; the target's Sorrow Gauge surges.* **[24 Void DMG [Void]]** | When the entity is cornered or starved. |
-| { *The Void Collapse* [**Ultimate**] } | "The void breaks — and everything it held comes loose." | [The entity's full void sorrow unleashed in every direction.] | *All personnel suffer Void erosion for three turns.* **[23 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Weight* [**Debuff**] } | "One foot past the boundary, and your own voice reaches one ear and not the other." | [The absence closes on the side the target is listening with.] | *The target's own voice stops arriving; what is left is the weight of it.* **[10 Void DMG [Void]]** | When a person crosses the line and speaks. |
+| { *The Void Surge* [**Attack**] } | "The quiet turns into a pressure you can feel on the skin." | [Fifty metres of silence folded inward toward one person.] | *The pressure lands and the gauge spikes.* **[21 Void DMG [Void]]** | When the entity is provoked while the chain is being drawn. |
+| { *The Settling* [**Attack**] } | "Without warning the pressure settles on a single point and stays there." | [The entity leans its entire weight on that point.] | *A heavy Void strike; the target's Sorrow Gauge surges.* **[24 Void DMG [Void]]** | When the entity is cornered or the circle is left unattended. |
+| { *The Void Collapse* [**Ultimate**] } | "The silence lets go of everything it had been holding." | [The entire absence released outward at once.] | *Every person inside the line takes Void erosion over the following three turns.* **[23 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -168,7 +168,7 @@ Nothing at this holding presses on a worker; what it removes is an instrument. B
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a blade of Void Han-glass with one edge only, ground so thin the edge vanishes against the light. It trembles continuously once it is lifted and stops the moment it is set down, which the armoury lists as the proof that a piece is genuine.
 
 **Damage:** Void 14–20
 **Speed:** 2 (Normal)
@@ -189,7 +189,7 @@ Nothing at this holding presses on a worker; what it removes is an instrument. B
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a hooded weave of Void Han-gossamer, near-translucent and almost colourless, that makes no sound against itself — the wearer’s own footsteps, breathing and cloth-rustle are audible to everyone except the wearer.
+**Appearance:** a hooded cowl worked from Void Han-gossamer, which makes no sound against itself. What it takes is not noise but direction: a wearer's footsteps, breathing and cloth-rustle reach everyone standing near them, and none of it arrives at the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
