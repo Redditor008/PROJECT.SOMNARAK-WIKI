@@ -28,14 +28,14 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Han / burden pressure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Starting Sorrow Gauge** | 35–50%, higher on the nights when the Row has more outstanding than it has managed to settle |
+| **Han-Energy yield** | 12–18 Han-Energy per cycle finished at the mount, the larger figure coming when the chains the light exposed were named aloud instead of left to inference |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Viderehan and Ferrehan only, this being an Object/Place. Ferrehan is the sole approach that lowers the gauge; cycles are worked at the fixed mount and the lantern is never lifted from it. |
+| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β), gathered underneath the mount, with nothing taken from the lantern’s own glass, which has not broken |
+| **Recommended response** | The Row authorises two Work Types and no more — Viderehan and Ferrehan — its holding classed Object/Place, empty of anything worth arguing with. Ferrehan is the one approach that gets the gauge lower; cycles are worked where the lantern hangs, and no authority the Row recognises has ever lifted it off. |
 
 ### Operational Notes
 
@@ -53,10 +53,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Weight pressure; 15% against other pressure types |
+| **Resistance** | 25% against Weight pressure, which is the Lantern’s own element, and 15% against whatever else the vault brings to bear on it |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 386/386 |
-| **Han Pressure [ATK]** | 10–23 per hit · Weight |
+| **Sorrow Gauge [HP]** | 386/386, and the mount is where that number lives — the lantern has never been lifted off it for a reading, nor will be |
+| **Han Pressure [ATK]** | 10–23 · Weight, arriving as a showing rather than as a blow: the Lantern makes the debt visible and the weight of it does what follows |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
 
@@ -69,11 +69,11 @@
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) — Repeats glowing |
 | **Primary Pressure** | Resolve |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Starting Sorrow Gauge** | 35–50%; a session that opens at the upper end has generally been watched glowing for some while before anybody went in |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, Collector's Row — ambient |
-| **Resolution Condition** | Viderehan and Ferrehan only at the fixed mount, and the gauge below 25% — on Debt-Collector's-Lantern the second follows the first and has never arrived without it. |
+| **Resolution Condition** | Viderehan and Ferrehan only, at the fixed mount, with the gauge pulled below 25% before the cycle may be entered as a close. On Collector’s Row the order has never varied: the two Work Types do the lowering, and a gauge that came down on its own has never been accepted as a close. |
 
 ### Combat Actions
 
