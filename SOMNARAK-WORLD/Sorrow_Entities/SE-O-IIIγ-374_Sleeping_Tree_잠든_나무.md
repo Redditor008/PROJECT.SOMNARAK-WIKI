@@ -174,13 +174,13 @@ The table is correct and the measurement is the girth. It grows while dormant at
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
-| **Primary Effect** | Shows the dream of the life the travelers intended to build. |
-| **Duration** | Until the dream ends. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
+| **Activation** | The operator takes the wood onto the body — worn against the skin, slung at the shoulder, or shut inside a hand. Contact is the only requirement; the Tree answers to being held and to nothing said over it. |
+| **Primary Effect** | Shows the dream of the life the two travelers intended to build — the house, the years, the two of them old at the same time. The dream is complete, and what it shows was never promised to the operator. |
+| **Duration** | Until the dream ends, which is to say until the operator stops watching it. The Log and Method entries run from ten seconds upward, and no session on file has outlasted a single shift. |
+| **Termination / Return** | The operator lays the wood down and walks off without looking back. It does not let go by itself, and the residue stays unsettled if it is handed back early — the condition on file being that the dream was watched to its end and not out of it. |
 | **Risk** | The worker may attempt to complete someone else's promise. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The wood works only while it is on the operator and falls quiet the moment it is set down. Carrying it does not stand in for a Work Type and is not counted against the shift's allocation. Against an Object/Place record the Tree gives a reading and nothing more — it will not shift one.
 
 ### Log and Method
 
