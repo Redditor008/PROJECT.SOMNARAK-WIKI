@@ -160,23 +160,23 @@ Memory Lock is an Object/Place with Object-Void manifestation and Void expressio
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Continuous / channeled use** |
+| **Use Mode** | **Continuous / channeled use** — the whisper is one unbroken sentence, and breaking it is what lets the vault out |
 | **Activation** | Touch and a truthful admission from the worker. |
 | **Primary Effect** | Allows one sealed memory to whisper through the lock. |
 | **Duration** | Until the whisper ends. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
-| **Risk** | The listener may become obsessed with opening the vault. |
+| **Termination / Return** | The operator closes it on purpose, palm still flat on the plate and the whisper finished; a hand pulled off mid-sentence leaves Void resonance loose in the sector with nothing left to contain it. |
+| **Risk** | The listener may become obsessed with opening the vault — the wanting arrives wearing their own voice, and the file warns about exactly that. |
 
-**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+**Operational Rule:** The Lock works only while someone attends to it and the conduits stand open. A channel left untended destabilises by degrees, and the sector reads the instability before the watch on the bench does.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Memory Lock begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Memory Lock: Allows one sealed memory to whisper through the lock. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the burden of protecting truth by denying access to it. forged during keepers locked away memories capable of destabilizing the city; the lock became conscious of what it concealed. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Memory Lock's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
-| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Void shockwave: The listener may become obsessed with opening the vault. all personnel in the sector take heavy damage. |
+| 10 Seconds | The plate warms under the palm and the vault answers from the inside: whatever stands behind the seal leans against it from the inside, and the chamber air goes thin with Void sorrow that has waited a long time to be this near a listener. | A truthful admission is what opens it, and the Lock lets one sealed memory out in a whisper — nothing more than that, and nothing louder. The units ranged along the same vault wall hold their Sorrow Gauges steady while the whisper runs. |
+| 30 Seconds | The whisper thickens into the memory behind the decision: keepers shut away recollections that could have taken the city down, and the Lock has known what it hides ever since. Half a minute in, the listener stops hearing a voice and starts hearing an admission that is their own. | The whisper reaches across Range Band 2, and every unit in the sector carries better against elemental pressure while the channeler keeps attending to it. Attention is the mechanism entire; it cannot be left running. |
+| 1 Minute | At the minute the Lock stops spending the facility's power and starts spending the channeler's. It was made to keep one thing shut and has now been asked to open, and that contradiction sits on the listener's chest like a hand. | Held past 60 seconds it takes 4 Composure every 10 seconds, and the watch should have the disengagement rehearsed before the whisper starts — the Lock gives no warning of when it is about to be too much. |
+| 2 Minutes | Two minutes in, the direction of the whisper changes. The grief the keepers sealed is no longer being read out of the vault; it is looking for someone in the facility to live in, and the nearest listener is the one with a palm on the plate. | Overload, or letting go mid-whisper, vents Void into the sector and every person in it takes heavy damage. What outlasts the vent is worse: the listener may become obsessed with opening the vault, and the record puts that down to the Lock rather than to them. |
 
 ### Escalation Notes
 
@@ -449,10 +449,10 @@ Rescue's objection is minuted at every review and has never been withdrawn. A fa
 
 ## Trivia
 
-- The register keeps its own figures in numerals for look-up: gauge 574/574, pressure 14–31 per hit, resistance 35 / 25 per cent, threshold 75 per cent, 12 turns, and the weapon's 7–12 at 40 Echoes.
+- Look-up figures for this file, kept in numerals so the row matches the case sheet: gauge 574/574, pressure 14–31 per hit, resistance 35 / 25 per cent, threshold 75 per cent, 12 turns, and the weapon's 7–12 at 40 Echoes.
 
-- It has no visible keyhole.
-- It protects the decision to conceal as much as the memories themselves.
+- It has no visible keyhole anywhere on the plate, and the hand goes to the place one would be before the mind objects.
+- What it protects is the decision to conceal as much as the memories themselves: the seal was cut for the choice, and the choice is older than anything standing behind it.
 
 
 
