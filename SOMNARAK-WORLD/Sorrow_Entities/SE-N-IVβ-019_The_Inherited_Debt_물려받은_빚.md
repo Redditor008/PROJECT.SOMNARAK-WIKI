@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Acknowledge the inheritance and choose whether it will be carried. Physical restraint is useless. Viderehan and Ferrehan are the valid Work Types and nothing else has been authorised. |
+| **Recommended response** | Acknowledge the inheritance, then let the sitter decide whether to carry it. That decision settles this entity and nothing else has. Restraint is useless, no body being here to hold: what manifests is a shadow at the back, a whisper at the ear, or pressure against the chest. All four Work Types are entered for this holding — Flerehan drops the gauge quicker than the other three managed on any logged cycle, Viderehan returns the ledger, 81 per cent verified against paper, Ferrehan is the full hour at the table under the supervisor's clock, and Pugnahan stays on the roster as valid while returning no entries at all. Assignment runs on a declared inheritance drawn from personnel records, so crews cannot be substituted at short notice, and a worker carrying no inherited debt of their own records no interaction whatever. |
 
 ### Operational Notes
 
