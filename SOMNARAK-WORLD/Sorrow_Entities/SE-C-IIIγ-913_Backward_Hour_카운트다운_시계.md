@@ -222,7 +222,7 @@ Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manife
 
 ### M.A.W. Use Notes
 
-Each Backward Hour piece is an extension of this entity rather than ordinary equipment. The grade describes the effect on entities; the cost is separate and identical across the three — the bearer acquires an unappeasable objection to anything being revoked, which outlasts the occurrence by several days.
+The three pieces are not issued equipment, and the file is not being pedantic about it: each one is a part of the occurrence that has been separated off and will go back to it, and the wing treats them as lent rather than as owned. What the grade records is the effect on an entity. What it takes from the wielder is a separate entry, and it is the same entry for all three — the bearer comes away unable to let anything be revoked, will argue a warrant out loud and name the clause, and keeps at it for several days after the twelve hours have closed.
 
 ### Field Use Record
 
