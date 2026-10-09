@@ -27,13 +27,13 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Subject |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Gauge when the watch opens** | 35–50%. Nothing here is at rest: the frame is standing in the corridor whether or not anybody has touched the handle. |
+| **Han-Energy booked per cycle** | 12–18, and the holding pays for stillness rather than for opening: what earns is how long the frame is left standing in one place, not how many times it is worked. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Han Dust on destruction** | ~10 kg–100 kg (β). There is a vessel here and it can be broken, which is the one respect in which this holding is ordinary. |
 | **Recommended response** | Close the door consciously; do not force passage — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
 
 ### Operational Notes
@@ -68,7 +68,7 @@
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Gauge at first contact** | 35–50%. The door is already standing in the corridor before the watch begins. |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone A, Alpha Tree |
