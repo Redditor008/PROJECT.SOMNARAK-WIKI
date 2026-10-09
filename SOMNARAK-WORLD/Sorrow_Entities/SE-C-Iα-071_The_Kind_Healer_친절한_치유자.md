@@ -317,13 +317,13 @@ It approaches as if you are the most important person in the world. Its hands fi
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Lament always changes a room. Then the Subject-Body resolves: A gentle humanoid figure made of soft, glowing Han-crystal. Its hands are warm and faintly luminous.
+**At first contact:** the threshold is crossed first, and then the air — denser one moment and thin the next, cold, or merely not right — the way Lament alters any room it is let into. After that what stands there is a gentle humanoid figure of soft, glowing Han-crystal, whose hands are warm and lit faintly from within.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Lament is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** what began abstract resolves into something particular. This is not Lament in general; it is this one's grief, this one's wound, this one's way of moving the Han — and it is the way of somebody who spent forty-one years attending to other people's injuries.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Lament becomes something you can taste, hear, or feel on your skin. The Subject-Body has crossed the line between containing and becoming.
+**When the entity activates:** first the body registers it; the room follows a beat later. The temperature drops or climbs, the Han-lamps dip, and the Lament turns into something that can be tasted, heard or felt against the skin. What had been containing has begun becoming.
 
-**After departure:** You leave, but the Lament follows — in the hands, in the chest, in the particular silence of the corridor afterward.
+**After departure:** the Lament goes with you when you leave — settled into the hands, into the chest, and into the quiet of the corridor behind you.
 
 ### Interaction Pattern
 
