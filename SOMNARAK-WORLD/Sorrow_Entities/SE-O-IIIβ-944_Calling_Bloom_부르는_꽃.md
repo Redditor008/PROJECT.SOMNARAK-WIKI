@@ -209,7 +209,7 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 **Max Amount:** 3
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** A thin membrane of petals that absorbs Lament pressure and shields the wearer's composure. It is strongest against the very sorrow it is made of.
+**Ability:** a thin membrane of petals that takes the Lament in and holds the wearer steady. It does its best work against sorrow of the kind it was grown from — a child calling out for somebody who never answers — and is noticeably poorer against anything else.
 
 **Cost:** The wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up.
 
