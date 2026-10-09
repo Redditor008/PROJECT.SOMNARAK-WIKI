@@ -359,9 +359,9 @@ Time stretches inside your bones. Your heartbeat races while your body seems sti
 
 ### Interaction Pattern
 
-The Clock is read beside the other things in the city that keep time or lose it. Every pairing below has been watched and entered, none of them is closed, and all 5 were watched from outside the line, because nothing inside it can be measured at all.
+The Clock is read next to the other holdings that hold an hour or shed one, and the pairings listed below are what the archive has actually sat still for. None of them is settled. All 5 were watched from outside the line, and that is not a preference: the interval is the thing the Clock alters, so a reading taken inside the line cannot be entered at all.
 
-**Interaction method:** Set each party's baseline on its own across several cycles — the face series, how long the stops ran, the boundary, the gauge — before any joint watch. The first shared change is entered with its range, its duration and what began it, the gauge on both sides, and what remains changed once they are apart. Re-check every cycle.
+**Interaction method:** Each party is measured on its own first, across several cycles, on its own figures — the face series, the length of the stops, the boundary, the gauge. Only then are the two watched together. When something shifts in both, the entry carries the range, how long it held, what started it, the gauge on each side, and what is still different once they are apart. Every cycle starts from a fresh baseline; nothing is carried over from the sitting before it.
 
 
 ### Entity Interaction Record
