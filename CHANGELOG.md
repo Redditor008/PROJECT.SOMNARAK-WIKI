@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 77 opened at five (2026-10-10), unit 1 / 5 — Emberling `C-IIβ-101`.** The Side Stigma slot was corrected from Tail to Neck / Collar; the primary and linked item's own identity and Appearance describe a collar brooch. The suit Codex heading was aligned to its full official name. The carbine/blade Weapon profile remains held because the records do not document a form transition; no Weapon statistics changed.
+
 - **Batch 76 closed at 3 / 3 (2026-10-10).** It records one form clarification and two evidence-backed holds. Unit commits `fae0d74`, `06c5754`, and `58c4dca` were pushed and verified on the session branch. This M.A.W. review is separate from the completed cross-dossier fix phase.
 
 - **Batch 76, unit 3 / 3 — Pall `C-IIβ-280` held; the batch closes at three.** The primary describes a triangular stiletto with shield-bash and javelin attacks. The Side names a pavise and javelin, its linked item's Appearance calls the weapon a singing chalice, and the master entry uses both a stiletto type and the pavise/javelin name. These records do not establish one intended form, so no profile or item value changed.

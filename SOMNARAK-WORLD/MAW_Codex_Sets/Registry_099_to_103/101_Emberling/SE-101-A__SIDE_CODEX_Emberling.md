@@ -128,7 +128,7 @@ This set protects against cold and isolation without pretending that equipment c
 
 | Field | Record |
 |---|---|
-| Slot / chance | Tail / 5% after successful source work |
+| Slot / chance | Neck / Collar / 5% after successful source work |
 | Grade / element | β / Lament |
 | Source bonus | +1 to the named check while working Emberling |
 | Primary Cost | Warmth is drawn from the bearer’s happy memories; repeated use makes them fade slightly. |

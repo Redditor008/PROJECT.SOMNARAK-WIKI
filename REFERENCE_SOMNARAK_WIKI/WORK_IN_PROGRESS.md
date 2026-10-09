@@ -69,6 +69,10 @@ This comparison began as a standalone audit. On 2026-10-10, the owner explicitly
 
 **Batch 76 status:** 3 / 3 dossier dispositions recorded — one form mapping clarified and two cases held. The held profiles remain open; next candidate is Emberling `C-IIβ-101`.
 
+**Batch 77 — OPEN at five (2026-10-10).** The owner directed five M.A.W. checks and fixes per prompt. Review the next five held candidates from the source-led queue; no profile is copied unless descriptions, appearance, and form identity support it.
+
+**Unit 1 / 5 — Emberling `C-IIβ-101`:** the Side Codex Stigma card said `Tail`, but the primary and linked item D identify a neck/collar brooch; item D's Appearance says it is pinned over the collar. I corrected the Side slot to `Neck / Collar`. The suit Codex heading also now uses the full official name already stated in its identity table, primary, and Side set record. The Weapon remains held: primary and item Appearance describe the Cinder-Breech Carbine, while the item identity and Core Statistics describe a blue blade and a short Single profile; no blade-to-carbine transition is documented, so no weapon value changed.
+
 
 **Unit 2 / 3 — Broken Clock `C-IIIγ-044` (held).** The primary and linked item describe the same 135 cm two-handed brass polearm. The primary gives Weight 11–18, Slow 2, and Overhand Arc / Temporal Impact; the Side and item give Weight 7–12, Fast 3, and Skewer. The item documents no alternate form or base-versus-special stat split, and the master listing has no numeric profile. No value changed.
 
