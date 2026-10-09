@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 30% against Void. There is nothing to resist — the holding is ninety seconds of thought that will not move on — and the figure is carried from the schedule. |
+| **Resistance** | 30% against Void, carried from the schedule rather than measured here: the holding never presses on anything, so there is nothing to press back against. What it does is repeat, and the interval is set at ninety seconds. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 513/513 |
 | **Han Pressure [ATK]** | 14–20 per hit · Void |
@@ -397,9 +397,9 @@ The minute records the objection as **correct in all three parts**. It records t
 
 ## Trivia
 
-- One of the first catalogued **Time-Mind** entities in Somnarak.
-- Its mind descriptor makes it structurally unique among time entities.
-- The void pressure in the mind register feels different from standard void — more specific, more personal.
+- The sorrow at SECTOR-C-918 built up over a long stretch with no event behind it — no death, no collapse, nothing anybody thought to record — until the Han would not carry any more of it and what settled out was an interval.
+- The mind descriptor on this file is not a label. It is the channel the holding works through, and every part of the protocol follows from reading it that way.
+- What the loop repeats is specific to the person standing in it and is always the same thing: the worst thought they hold. No worker has ever reported a second-worst.
 
 ## Document Information
 
