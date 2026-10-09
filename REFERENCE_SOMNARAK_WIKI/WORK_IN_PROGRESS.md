@@ -3346,6 +3346,60 @@ re-ranked head — Collapsed Whisper `C-IVδ-249` (10.0%) · I Alone Crossed `C-
 **Batch 47, unit 1: Mourner's Bloom `C-Iα-330` personalized.** Ten shared frames — the stock closing, the resolution, resistance, exposure, M.A.W. and breach lines, the escalation and kit paragraphs, the interactions opener and the shelf note, rewritten from the file's own furniture. 6,856 → **6,996 words** (unit `72815df`); generic mass **16.6% → 2.6%**; residual 0; 0 sections over 0.05; `tpl.py` 0; meets **True**; cleanup commit `f501169` for the resemblance clause (rode in Echo of Kindness's commit `612b93b`, message names Echo only) and the `one line per post` clause (`f501169`). **Batch 47 stands at 1 of ten.**
 
 **`R-30` written down — a quote fix carries the new quote and its type (2026-10-07).** The owner's instruction — *"Also If Fixing Quote Add In The NEW QUOTE TO CHECK WITH IT TYPE YOU SHOULD WROTE IT AS A RULE"* — is now a rule file: `REFERENCE_SOMNARAK_WIKI/RULES/R-30_QUOTE_FIX_WITH_TYPE.md`, indexed in `RULES/README.md` and worked into `SE_QUOTE_GUIDE.md` (new item 11 and procedure step 5). The tool grew the check the rule requires: `quote_audit.py --verify` reads every quote back **with its register type** (R1–R8) — **301 / 301 typed, duplicate families 0 / 301** — `--ledger` writes `REFERENCE_SOMNARAK_WIKI/QUOTE_REGISTER_LEDGER.md` (301 rows: code · register · words · quote), and `--file` now prints the written quote with its type and no longer counts a file's own quote as a duplicate of itself (a read-back wart the rule exposed). Ledger baseline: R8 **197 / 301** · R2 **27 / 301** · R5 **25 / 301** · R3 **16 / 301** · R1 **15 / 301** · R1b **13 / 301** · R4 **7 / 301** · R7 **1 / 301** · R6 **0 / 301** — one voice still dominates; that is the next quote work's problem, now measurable in the same command that records each fix.
+**Batch 69 — CLOSED at three; the fix phase continues: couples in the plan fall 37 → 32 / 301, with 5 cleared and none newly measurable, and no file in the wing now carries three couples.**
+
+Taken on the owner's "p", after Batch 68 closed at ten. The ladder opened at three and the batch closes at three — the owner's absolute floor, and a valid rung. Same shape as the batches before it: one file per unit, the lighter side's small overlaps edited line by line in the file's own terms, never block-replaced, growth only (`R-15`). Three files worked, **five couples cleared** — because two of the three units cleared two each.
+
+**A unit is worth two couples when the file is the heavy side of two ties in the same section.** The Repeated Survivor `N-IVδ-902` read 0.56 against The Debtor and 0.56 against Briar, both in `### Escalation Notes`, with the partners at 0.15 and 0.06 — so the stock was the Survivor's, and one three-bullet rewrite cleared both. The Well of Unfinished Words `N-IIβ-778` read 0.53 against Blackened Angel and 0.51 against Relic Waiting for Its Maker, both in `### Log and Method`, with the partners at 0.38 and 0.49. Rewriting the shared section on the heavy file breaks **both** directions at once, because the direction is measured as *A's distinctive grams found in B*: once B no longer holds the shared text, neither A→B nor B→A survives. **Read both directions before choosing a file — the higher number is the side to edit.**
+
+**The `### Log and Method` table is one row per line, not two cells.** Unit 3's first spec used eight anchors, one per cell; the Log and Method cells share a table line, so two anchors resolved to the same line and `apply.py` reported `sub NOT FOUND` on the second. Rebuilt as one replacement per row, four in total. **When a section is a table, count the lines before writing the spec.**
+
+**Stock phrasing survives into the replacement.** Unit 1's first draft opened a Trivia line with *"It is the only holding in the wing whose…"* — four other dossiers already carry that phrase, and it scored 4 against three of them on the all-301 check while scoring **0** against the actual partner. Reworded to *"Nothing a worker said ever proved it to the file. The tooling did…"* and the worst run dropped to 1. **The partner check is not sufficient; `precheck_all.py` across all 301 is.**
+
+| # | Dossier | Structure | Fixed in place | Couples | Words (before → after) |
+|---|---|---|---|---|---|
+| 1 | [[SE-C-IVδ-915_Endless_Shift_끝없는_교대.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-915_Endless_Shift_%EB%81%9D%EC%97%86%EB%8A%94_%EA%B5%90%EB%8C%80.md)](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-915_Endless_Shift_%EB%81%9D%EC%97%86%EB%8A%94_%EA%B5%90%EB%8C%80.md) | Non-Subject SE | all three `## Trivia` lines | **1** | 6,587 → 6,665 (+78) |
+| 2 | [[SE-N-IVδ-902_The_Repeated_Survivor_되풀이의_생존자.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-IV%CE%B4-902_The_Repeated_Survivor_%EB%90%98%ED%92%80%EC%9D%B4%EC%9D%98_%EC%83%9D%EC%A1%B4%EC%9E%90.md)](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-IV%CE%B4-902_The_Repeated_Survivor_%EB%90%98%ED%92%80%EC%9D%B4%EC%9D%98_%EC%83%9D%EC%A1%B4%EC%9E%90.md) | Subject SE | all three `### Escalation Notes` bullets | **2** | 5,719 → 5,780 (+61) |
+| 3 | [[SE-N-IIβ-778_Well_of_Unfinished_Words_솟구친_우물.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-778_Well_of_Unfinished_Words_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%9A%B0%EB%AC%BC.md)](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-778_Well_of_Unfinished_Words_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%9A%B0%EB%AC%BC.md) | O-Relic SE | the whole `### Log and Method` table, four rows | **2** | 6,996 → 7,020 (+24) |
+
+- `C-IVδ-915` Endless Shift — `f003e42` — PUSH VERIFIED — [[SE-C-IVδ-915_Endless_Shift_끝없는_교대.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-915_Endless_Shift_%EB%81%9D%EC%97%86%EB%8A%94_%EA%B5%90%EB%8C%80.md)](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-915_Endless_Shift_%EB%81%9D%EC%97%86%EB%8A%94_%EA%B5%90%EB%8C%80.md)
+- `N-IVδ-902` The Repeated Survivor — `fd84f2f` — PUSH VERIFIED — [[SE-N-IVδ-902_The_Repeated_Survivor_되풀이의_생존자.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-IV%CE%B4-902_The_Repeated_Survivor_%EB%90%98%ED%92%80%EC%9D%B4%EC%9D%98_%EC%83%9D%EC%A1%B4%EC%9E%90.md)](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Unknown_Entities/SE-N-IV%CE%B4-902_The_Repeated_Survivor_%EB%90%98%ED%92%80%EC%9D%B4%EC%9D%98_%EC%83%9D%EC%A1%B4%EC%9E%90.md)
+- `N-IIβ-778` Well of Unfinished Words — `e329731` — PUSH VERIFIED — [[SE-N-IIβ-778_Well_of_Unfinished_Words_솟구친_우물.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-778_Well_of_Unfinished_Words_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%9A%B0%EB%AC%BC.md)](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-778_Well_of_Unfinished_Words_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%9A%B0%EB%AC%BC.md)
+
+| Counter | Open | Close |
+|---|---|---|
+| Couples in the plan (≥ 0.50 on either side) | 37 / 301 | **32 / 301** |
+| Couples cleared this batch | — | **5** |
+| Couples newly measurable | — | **0** |
+| Files carrying a couple | 63 / 301 | **57 / 301** |
+| Section-pairs over 0.50 | 37 | 32 |
+| Couples ≥ 0.70 | 2 / 37 | 1 / 32 |
+| Couples 0.60–0.69 | 4 / 37 | 4 / 32 |
+| Couples 0.50–0.59 | 31 / 37 | 27 / 32 |
+| Files carrying three or more couples | 0 / 301 | **0 / 301** |
+| Files carrying two couples | 11 / 301 | **7 / 301** |
+| Carrying — Subject SE | — | 34 / 142 |
+| Carrying — Non-Subject SE | — | 12 / 71 |
+| Carrying — I-Relic SE | — | 8 / 53 |
+| Carrying — O-Relic SE | — | 3 / 28 |
+| Carrying — A-Relic SE | — | 0 / 7 |
+| Carrying — structure unreadable | — | 0 / 301 |
+| Files carrying a whole copied section | 0 / 301 | 0 / 301 |
+| Stock-line residue (`verify.py`) | 0 / 301 | 0 / 301 |
+| `R-29`, all five clauses | 301 / 301 | 301 / 301 |
+| Personalization queue | 0 / 301 | 0 / 301 |
+| Duplicate quote families | 0 / 301 | 0 / 301 |
+| Words (the three files) | 19,302 | 19,465 (+163) |
+
+**Where the remainder sits.** No file carries three couples and seven carry two: Hollow Choir `C-IIIγ-021` · Weeping Willow `C-IIIγ-140` · Dejà Vu `C-IVδ-125` · Broken Promise `N-IIIγ-160` · Floating Pillar `N-IIIγ-409` · Forgotten Shadow `N-IIβ-453` · Harvest Beyond the Gate `N-IIβ-627`. The worst tie in the wing is still **Melting Rope `N-IIIγ-447` × Forgotten Shadow `N-IIβ-453`, 0.72 in M.A.W. Use Notes — frozen, skipped by standing decision.** Behind it: Conservatory `N-IVδ-852` × Quagmire `O-IVδ-168` 0.64 (Log and Method) · Doorway to Nowhere `N-IIβ-152` × Scar Walker `O-IIIδ-011` 0.64 (Operational Parameters) · Eleven Fifty-Nine `C-IIIγ-912` × Backward Hour `C-IIIγ-913` 0.63 (M.A.W. Use Notes) · Hollow Knight `C-IVγ-073` × Smothering Mother `N-IVδ-005` 0.63 (M.A.W. Suit).
+
+**The section mix holds.** `### M.A.W. Suit` is still the worst section at **6**, ahead of `## Operational Parameters` 4 · 감각 묘사 (Flavor Text) 4 · Interaction Pattern 4 · `### M.A.W. Use Notes` 3.
+
+**Next rung: Batch 70 opens at three**, per the ladder and the owner's absolute floor. Worst-first candidates — Conservatory `N-IVδ-852` (0.64, I-Relic, and the heavy side) · Dejà Vu `C-IVδ-125` (two couples) · Harvest Beyond the Gate `N-IIβ-627` (two couples) · Hollow Choir `C-IIIγ-021` (two couples).
+
+Disclosures: the turn opened on a stale sandbox at `bcf103f` and was levelled with `tools/syncbranch.py` to `933936e` before measurement (rollback **#103**); nothing was measured on a stale tree. The kit survived the turn boundary intact at `tools/kit/` and no rebuild was needed — the sixth turn running. Every unit was pushed and verified in the turn it was applied (`A0`). All figures above are measured at `e329731`.
+
+
 **Batch 68 — CLOSED at ten; the fix phase continues: couples in the plan fall 50 → 37 / 301, with 13 cleared and none newly measurable, and no file in the wing now carries three couples.**
 
 Taken on the owner's "p", after Batch 67 closed at seven. The ladder was opened at three, raised to five on the second "p" and to seven on the third, and the batch closes at ten. Same shape as the batches before it: one file per unit, the lighter side's small overlaps edited line by line in the file's own terms, never block-replaced, growth only (`R-15`). Two files needed two units each — Broken Clock `C-IIIγ-044` and The Memory Weaver `C-IVγ-009` — so ten units covered eight files, and all eight now carry **0 couples**.
