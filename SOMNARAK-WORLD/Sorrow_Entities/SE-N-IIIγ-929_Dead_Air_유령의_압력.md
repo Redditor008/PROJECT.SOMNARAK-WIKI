@@ -81,8 +81,8 @@
 |---|---|---|---|---|
 | { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's spirit pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight]]** | When the entity first fixes on a target. |
 | { *The Spirit Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight spirit sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[21 Weight DMG [Weight]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target's Sorrow Gauge surges.* **[29 Weight DMG [Weight]]** | When the entity is cornered or starved. |
-| { *The Spirit Collapse* [**Ultimate**] } | "The spirit breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[23 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full weight weight on one point.] | *A devastating Weight strike; the target comes out of it carrying noticeably more than they went in with.* **[29 Weight DMG [Weight]]** | When the entity is cornered or starved. |
+| { *The Spirit Collapse* [**Ultimate**] } | "The spirit breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[23 Weight DMG [Weight] (AoE, x3 turns)]** | Once the gauge it has been filling passes 65 per cent. |
 
 ### Battle Phases
 
