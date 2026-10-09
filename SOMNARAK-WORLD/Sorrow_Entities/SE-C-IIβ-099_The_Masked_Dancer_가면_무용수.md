@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) — the Tri-Daggers, the Robe and Stole, and the Porcelain Shard are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Flerehan or Ferrehan. This is a Subject and all four Work Types are open to it; Pugnahan raises the gauge and the tempo together and is prohibited. The Object/Place restriction does not apply here and earlier copies of this line were wrong to imply it. |
+| **Recommended response** | Two Work Types bring it down and they get there differently. Flerehan breaks the sequence outright: the Dancer steps out of the pattern and performs for the worker alone, shorter and slower than the set. Ferrehan is the long sitting in which the worker may not look away — the most reliable reduction in the file and the most expensive to staff. Viderehan holds the gauge where it is. Pugnahan is prohibited, being the one approach here that lifts the tempo and the gauge together. |
 
 ### Operational Notes
 
