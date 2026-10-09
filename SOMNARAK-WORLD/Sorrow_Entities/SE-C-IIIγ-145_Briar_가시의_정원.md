@@ -232,10 +232,10 @@ Appearance : A thigh-length hauberk woven from interlocking black iron wire inte
 Petrified rose briars spiral across the iron chain links, reinforcing key impact zones along the shoulders and ribcage. Striking the armor causes briar thorns to snap outward violently, deflecting blades and lacerating melee attackers with reciprocal Grudge trauma.
 
 **Resistances:**
-- Grudge: 0.5 (Warded)
 - Lament: 1.0 (Normal)
-- Void: 1.3 (Weak)
-- Weight: 1.0 (Normal)
+- Grudge: 0.4 (Resistant)
+- Void: 1.8 (Weak)
+- Weight: 1.2 (Weak)
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 

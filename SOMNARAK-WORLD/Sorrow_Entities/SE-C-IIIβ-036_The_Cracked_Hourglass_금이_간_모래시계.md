@@ -248,10 +248,10 @@ Appearance : A tailored desert-cloth mantle reinforced with curved bronze should
 Fine golden sand continuously trickles from hidden shoulder reservoirs down the pleated cloak hem without depleting, forming a protective particulate curtain. The drifting sand grains deflect glancing kinetic blows and disperse localized temporal shockwaves.
 
 **Resistances:**
-- Weight: 0.5 (Warded)
-- Grudge: 1.1 (Weak)
 - Lament: 1.0 (Normal)
-- Void: 1.2 (Weak)
+- Grudge: 1.0 (Normal)
+- Void: 1.5 (Weak)
+- Weight: 0.5 (Warded)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 

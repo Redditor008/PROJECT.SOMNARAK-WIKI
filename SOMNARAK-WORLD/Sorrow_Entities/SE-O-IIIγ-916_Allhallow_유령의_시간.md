@@ -180,8 +180,9 @@ The pressure is not worked; the hour is counted. Observation is the tally itself
 
 **Appearance:** a counting-cloak of Lament Han-silk, cool and faintly luminous, with the tally pockets sewn on the outside so that the Warden never has to look away from the line to use them.
 
-**Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 0.3 (Resistant) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** The dead do not fall silent with the room: their grief follows the wearer into quiet moments, and small joys stay remote until the veil comes off.
 **Ability:** Grants resistance to Lament damage, protecting against the phantasmal register of sorrow.
 
 ### M.A.W. Stigma — Allhallow's Token

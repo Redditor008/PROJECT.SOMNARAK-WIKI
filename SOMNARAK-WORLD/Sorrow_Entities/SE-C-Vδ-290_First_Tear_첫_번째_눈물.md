@@ -229,6 +229,11 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Appearance:** a wrapping shroud of Lament Han-silk, faintly luminous and cool at the shoulders, worn over the night sheet by the observer who reads the lamp; it is the piece the rota actually uses and it has never been needed for anything else.
 
+**Resistances:**
+- Lament: 0.4 (Resistant)
+- Grudge: 1.0 (Normal)
+- Void: 1.6 (Weak)
+- Weight: 0.8 (Warded)
 **Ability:** Turns Lament aside from the mind at a magnitude no other suit in the archive reaches. It is issued for the observation rota and has never been needed; the Tear has not attacked anyone.
 
 **Cost:** The wearer goes numb to small pleasures, and the numbness is slower to lift than with any other shroud on issue — the medical office budgets a fortnight.
@@ -239,6 +244,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch; it is worn on a cord and it was in the vault at inventory, which is the whole of what the registrar has ever written about it.
 
+**Effect:** +3 stat bonus when working the source entity
 **Ability:** The charm steadies its bearer's hand and voice while they are recording a figure. It is the smallest effect attributed to any item in the archive and it is attached to the oldest record in it, which the vault registrar notes without comment in the inventory margin.
 
 **Cost:** The bearer weeps in their sleep.

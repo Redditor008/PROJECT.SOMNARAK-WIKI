@@ -181,8 +181,9 @@ The weight is reported, not measured, and the archive is careful to keep those t
 
 **Appearance:** a flowing veil of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
 
-**Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.3 (Resistant)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** A muted exhaustion builds under the mantle, as if the pressure left by every cut-off voice is resting across the wearer's shoulders.
 **Ability:** Grants resistance to Weight damage, protecting against the spirit register of sorrow.
 
 ### M.A.W. Stigma — Dead Air's Token

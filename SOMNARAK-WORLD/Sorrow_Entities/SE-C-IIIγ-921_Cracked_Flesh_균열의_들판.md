@@ -189,8 +189,9 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 
 **Appearance:** a dark cloth veil with a fracture pattern through the weave that the Armoury has matched to a square metre of the field and recorded by its grid reference.
 
-**Resistances:** Grudge: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 0.3 (Resistant) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** The armor stores resentment as bodily tension: every slight stiffens the wearer, and anger reaches their muscles before thought can slow it.
 **Ability:** Grants resistance to Grudge damage, protecting against the body register of sorrow.
 
 ### M.A.W. Stigma — The Fissured Skin Stigma

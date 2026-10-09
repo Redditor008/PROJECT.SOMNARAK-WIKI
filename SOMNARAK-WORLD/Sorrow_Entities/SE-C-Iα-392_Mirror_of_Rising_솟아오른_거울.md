@@ -213,7 +213,7 @@ Viderehan is primary and Pugnahan is prohibited. The table formerly had Flerehan
 
 ### M.A.W. Stigma — Mirror of Rising Charm
 
-**Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
+**Type:** Accessory (Stigma) | **Grade:** α | **Element:** Weight
 
 **Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, that catches the light oddly.
 

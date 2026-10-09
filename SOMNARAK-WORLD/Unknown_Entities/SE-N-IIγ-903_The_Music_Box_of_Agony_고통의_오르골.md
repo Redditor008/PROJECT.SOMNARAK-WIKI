@@ -144,6 +144,12 @@ The escalation pattern is specific to The Music Box of Agony: the first sign is 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Void
 **Appearance:** A fitted coat split in color — black above the waist, white below, pink at the lining — that mutes all sound around the wearer by a half-tone.
 
+**Resistances:**
+- Lament: 0.8 (Warded)
+- Grudge: 1.0 (Normal)
+- Void: 0.3 (Resistant)
+- Weight: 1.1 (Weak)
+**Max Amount:** 3 | **Echo Cost:** 35 Sorrow Echoes
 **Ability:** Grants resistance to Void and Clarity-drain; muffles the lullaby so the wearer can remain in range without fading.
 **Cost:** The wearer feels an persistent, causeless sorrow, as if being sung to by someone who is already gone.
 
@@ -152,6 +158,9 @@ The escalation pattern is specific to The Music Box of Agony: the first sign is 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 **Appearance:** A small figurine — a weeping figure, knees drawn up — that fits in the palm and grows warm when sorrow is near.
 
+**Slot:** Head
+**Acquisition Probability:** 4%
+**Effect:** +2 Clarity when working The Music Box of Agony
 **Ability:** Granted at random by the entity upon a successful work; the bearer feels a pang of empathy for anyone in agony, steadying their own Clarity against despair.
 **Cost:** The bearer occasionally wakes having wept in their sleep, with no memory of the dream — only the tune.
 

@@ -219,6 +219,12 @@ The Mewgical Girl cannot be safely managed by treating Mimi and Shu Shu as one o
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Mixed
 **Appearance:** A pink magical-girl uniform with white and golden trim that glows in the active persona's color state.
 
+**Resistances:**
+- Lament: 0.6 (Warded)
+- Grudge: 0.6 (Warded)
+- Void: 0.8 (Warded)
+- Weight: 0.8 (Warded)
+**Max Amount:** 2 | **Echo Cost:** 45 Sorrow Echoes
 **Ability:** Grants resistance to Mixed and sorrow pressure; the costume's glow can stabilize one persona's control for a short window.
 **Cost:** The wearer is pulled into performing a happiness they do not feel; prolonged wear blurs the line between the wearer's own voice and the costume's.
 
@@ -227,6 +233,9 @@ The Mewgical Girl cannot be safely managed by treating Mimi and Shu Shu as one o
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Mixed
 **Appearance:** A small brass bell shaped like a cat paw, warm to the touch and faintly ringing on its own.
 
+**Slot:** Tail
+**Acquisition Probability:** 4%
+**Effect:** +3 Clarity and Composure when working The Mewgical Girl
 **Ability:** Granted at random by the entity upon a successful work; the bearer hears a faint cheerful song in sorrow-dense areas, steadying Clarity and Composure.
 **Cost:** The bearer occasionally speaks in two tones without meaning to, and cannot always tell which voice is theirs.
 

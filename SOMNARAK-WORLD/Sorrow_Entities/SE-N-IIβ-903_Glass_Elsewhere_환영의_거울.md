@@ -237,8 +237,9 @@ Escalation here is recorded in categories and durations. Log what class of thing
 
 **Appearance:** a near-colourless veil that shows the wearer's own quarters in its folds — as they were, not as they are, which two wearers established by measuring the furniture.
 
-**Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 0.3 (Resistant) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** The veil blunts recognition so thoroughly that the wearer is hard to recall even to themself; while it is on, memory cannot find a stable image to hold.
 **Ability:** Grants resistance to Void damage, protecting against the phantasmal register of sorrow.
 
 ### M.A.W. Stigma — Glass Elsewhere's Token

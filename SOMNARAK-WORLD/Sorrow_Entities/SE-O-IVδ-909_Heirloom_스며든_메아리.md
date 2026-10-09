@@ -211,6 +211,11 @@ It asks a great deal of the arm that carries it. Driven butt-first into the grou
 
 The rings sound continuously as the wearer moves, and the harness works by answering an incoming echo with a competing one: a returned voice arrives at the plate already out of phase with itself and reaches the wearer detuned. The cost is that the wearer is never in silence.
 
+**Resistances:**
+- Lament: 1.0 (Normal)
+- Grudge: 0.4 (Resistant)
+- Void: 1.8 (Weak)
+- Weight: 1.2 (Weak)
 **Cost:** 45 Sorrow Echoes
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against concussive and acoustic force. The resonance rings detune an incoming echo before it reaches the wearer, which is the only recorded defence against this source's primary effect.

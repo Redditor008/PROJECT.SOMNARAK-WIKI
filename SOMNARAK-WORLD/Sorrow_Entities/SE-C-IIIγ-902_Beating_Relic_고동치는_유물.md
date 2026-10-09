@@ -216,8 +216,9 @@ Escalation here is transfer. The relic does not leave the plinth, has never left
 
 **Appearance:** a veil cut from Grudge Han-cloth, dark and faintly warm to the room, that turns cold the moment it is worn against the skin — the reversal is the wearer’s first sign that the veil is doing anything at all.
 
-**Resistances:** Grudge: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 0.3 (Resistant) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** The mantle makes every affront physical: the bearer holds each slight in their body, moves more stiffly, and feels anger arrive before thought.
 **Ability:** Grants resistance to Grudge damage, shielding the body register of sorrow — what the relic spends is spent against the body first, and the veil is cut for that order of attack.
 
 ### M.A.W. Stigma — Beating Relic's Token

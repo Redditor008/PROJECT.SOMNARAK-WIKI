@@ -183,8 +183,9 @@ Management: walk the gauge round on the watch, keep the deflection survey unbrok
 
 **Appearance:** the compression matting laid under the Deep Vault aisles, cut and re-woven into a veil — matte, unnaturally heavy, and warm exactly where the wearer's shoulders take the load.
 
-**Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.3 (Resistant)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** No blow is needed for the mantle to weigh on its bearer; a persistent tiredness gathers under the suit as the mass presses without aiming.
 **Ability:** Grants resistance to Weight damage, protecting against the weight register of sorrow.
 
 ### M.A.W. Stigma — Sorrow Mass's Token

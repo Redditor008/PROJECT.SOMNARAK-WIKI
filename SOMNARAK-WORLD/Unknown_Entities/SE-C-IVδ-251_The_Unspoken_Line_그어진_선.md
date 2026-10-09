@@ -185,6 +185,13 @@ Escalation here is propagation along existing seams rather than expansion in met
 ### M.A.W. Weapon — The Seam Edge
 **Type:** Weapon | **Grade:** β | **Element:** Void
 **Appearance:** A short blade whose edge is a thin line of pale white Void-light.
+**Damage:** Void 5–9
+**Speed:** 3 (Fast)
+**Range:** 3 (Medium)
+**Attack Pattern:** Skewer
+**Target Coverage:** A seam-line through up to 3 estranged targets
+**Falloff Rule:** Primary 100% → first crossed bond 70% → second crossed bond 50%
+**Max Amount:** 4 | **Echo Cost:** 25 Sorrow Echoes
 
 **Ability:** Cuts silence and estrangement; deals Void damage, sharpest against bonds that have been severed.
 **Cost:** The wielder feels the distance of every person they have stopped speaking to.
@@ -193,21 +200,30 @@ Escalation here is propagation along existing seams rather than expansion in met
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 **Appearance:** A cloak split down the center — one side faintly gold, the other faintly grey.
 
+**Resistances:**
+- Lament: 1.0 (Normal)
+- Grudge: 0.8 (Warded)
+- Void: 0.3 (Resistant)
+- Weight: 1.1 (Weak)
+**Max Amount:** 4 | **Echo Cost:** 20 Sorrow Echoes
 **Ability:** Balances hope-touched and untouched pressure; grants resistance to Void and Clarity-drain at the seam.
 **Cost:** The wearer feels guilty on whichever side they stand; the mantle cannot be worn for long without rest.
 
 ### M.A.W. Stigma — The Threshold Stone
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 **Appearance:** A smooth token, half gold, half grey, warm in one hand and cool in the other.
+**Slot:** Hand
+**Acquisition Probability:** 5%
+**Effect:** +1 Clarity when working The Unspoken Line
 
 **Ability:** Lets two people who have stopped speaking share one honest sentence without flinching.
 **Cost:** Both speakers feel the full weight of everything they left unsaid.
 
-*Neither piece was granted. Both were cut from a shopfront with the owner's signature on the form, and the Commons register notes that this entity has never offered anything to anyone — which is, after all, the whole of its nature.*
+*The Seam Edge and Mantle are the two owner-consented shopfront extractions. The Threshold Stone is a third set item: a Hand Stigma recorded at 5%, not another cut from the junction. The Commons register still records no direct offer from the entity.*
 
 ### M.A.W. Use Notes
 
-The two pieces taken from this junction are both made of shopfront — a shutter slat and a length of the dried-flower counter — and both behave the same way: they put a boundary where the bearer wants one and will not take it away again. The Commons office regards the set as the clearest statement the entity has made about itself, and the Armoury's note agrees: these are not weapons, they are the ability to stop speaking to someone, issued as equipment.
+The Seam Edge and Two-Weather Mantle are the two pieces taken from this junction: a shutter slat and a length of the dried-flower counter. Both set a boundary where the bearer wants one and do not take it away. The Threshold Stone is the third M.A.W. item, a Hand Stigma conferred at 5%; it lets two estranged people share one honest sentence without flinching, while both feel the weight of what was left unsaid. The Commons office regards the three-item set as the clearest statement the entity has made about itself: not force, but the ability to stop speaking to someone, issued as equipment.
 
 **Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
 

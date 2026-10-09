@@ -179,8 +179,9 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 **Appearance:** a veil whose hem carries a line of stitching that reads as writing and is not in any script the Armoury has matched.
 
-**Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 0.3 (Resistant) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** During quiet intervals the wearer keeps the tale's grief close; even small pleasures seem remote until the veil is taken off.
 **Ability:** Grants resistance to Lament damage, protecting against the tale register of sorrow.
 
 ### M.A.W. Stigma — Once Told's Token

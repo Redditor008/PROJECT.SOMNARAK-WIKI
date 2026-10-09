@@ -181,8 +181,9 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Appearance:** a veil so near-colourless that the Armoury stores it on a black cloth to keep from losing it, with a grease-pencil name written on the inner hem by its first wielder and never removed.
 
-**Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 0.3 (Resistant) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** While the veil is on, even its bearer struggles to keep their own name and recent words in mind; the protection hides a person from memory as well as from the source.
 **Ability:** Grants resistance to Void damage, protecting against the void register of sorrow.
 
 ### M.A.W. Stigma — Amnesia's Token
@@ -194,11 +195,13 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's cycles, which means on a watch at the line, which is the only kind of cycle this holding has
 **Ability:** A fragment of the entity's void sorrow, crystallized into wearable form.
-*No Stigma has ever come from this holding. The wing's note is that there is nobody in it to give one, and the Armoury has accepted that as the entry.*
+**Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the Token.
+
+*No direct Stigma offer is recorded from the holding. The Token is the set's 5% Head Stigma, not a third extraction from the radius.*
 
 ### M.A.W. Use Notes
 
-Two pieces, both taken by a timed mechanism during the minute itself with the facility evacuated to 200 metres, both under the Director's signature. The cost is consistent and is the reason there will not be a third: wielders lose the ability to say what they intended to do next, in small amounts, permanently. The first wielder's veil carries her own name on the hem because she wrote it there in the second month and the Armoury has never been willing to take it off.
+The Harpoon-Pike and Veil are the two direct extractions, each taken by a timed mechanism during the minute itself with the facility evacuated to 200 metres and under the Director's signature. The M.A.W. set also carries a third item, Amnesia's Token: a Head Stigma acquired at 5%, with a +1 bonus on this holding's cycles. The Token is not another extraction from the radius. Each item has its own bearer cost: the Pike fragments the wielder's memory, the Veil makes the wearer difficult to remember while worn, and the Token can take a familiar word or face for a few seconds after invocation. The first wielder's veil carries her own name on the hem because she wrote it there in the second month and the Armoury has never been willing to take it off.
 
 ### Field Use Record
 

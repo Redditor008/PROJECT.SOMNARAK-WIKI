@@ -179,8 +179,9 @@ The table lists two Work Types and the useful figure is not in it: the gauge fal
 
 **Appearance:** a veil of pale silk with narrow bands at the hem, nine of them unmarked, which the Armoury added to match the nine unrecognised entries and now cannot remove.
 
-**Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 0.3 (Resistant) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** When the tale goes quiet, the wearer finds ordinary small joys receding; they return only after the veil is removed and the story stops pressing in.
 **Ability:** Grants resistance to Lament damage, protecting against the tale register of sorrow.
 
 ### M.A.W. Stigma — Once Upon's Token

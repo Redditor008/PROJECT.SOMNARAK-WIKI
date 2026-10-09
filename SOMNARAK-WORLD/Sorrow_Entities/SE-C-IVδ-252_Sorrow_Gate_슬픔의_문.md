@@ -223,6 +223,11 @@ Escalation on this record is counted in documents rather than in the room: the i
 
 **Appearance:** a veil of Void Han-gossamer, colourless as the slab's outer face and carrying the vault's ash-smell faintly wherever it is taken.
 
+**Resistances:**
+- Lament: 1.2 (Weak)
+- Grudge: 0.8 (Warded)
+- Void: 0.3 (Resistant)
+- Weight: 1.1 (Weak)
 **Ability:** Turns Void aside from the soul, which is the only pressure here. The veil is what allows a worker to stand at the frame long enough to take the inner temperature.
 
 **Cost:** The wearer feels faintly absent to themselves and afterwards describes their own reports as the work of somebody competent and unfamiliar — a cost that has never once been raised as a complaint, which the medical office finds more notable than the absence.
@@ -233,6 +238,7 @@ Escalation on this record is counted in documents rather than in the room: the i
 
 **Appearance:** a small charm of Void Han-glass, colourless and warm at the grip, carrying a weight that does not match its size and does not change when it is set down.
 
+**Effect:** +3 Composure during source work
 **Ability:** The charm keeps its bearer from being able to repeat the whispering. Bearers can hear it and cannot reproduce it, in speech or in writing, and this is the boon rather than a limitation of the item.
 
 **Cost:** The bearer occasionally forgets a word.

@@ -183,8 +183,9 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 
 **Appearance:** a heavy matte veil with a timepiece's worth of fine gearing worked into the shoulder, none of it connected to anything and all of it turning.
 
-**Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.3 (Resistant)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** The shift's burden rests on the wearer's shoulders as a constant low fatigue, which follows the schedule rather than a single moment of exertion.
 **Ability:** Grants resistance to Weight damage, protecting against the weight register of sorrow.
 
 ### M.A.W. Stigma — Endless Shift's Token

@@ -233,8 +233,9 @@ Escalation here is extension into live work. Record the first altered return, th
 
 **Appearance:** a pale silk veil with a column of figures worked into the hem, which the Armoury has checked and found to be an accurate and incomplete calculation of something nobody has identified.
 
-**Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 0.3 (Resistant) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** Quiet moments leave the wearer carrying the Engine's grief; little comforts feel distant until the veil is removed and the room has its ordinary shape again.
 **Ability:** Grants resistance to Lament damage, protecting against the mind register of sorrow.
 
 ### M.A.W. Stigma — Thinking Engine's Token

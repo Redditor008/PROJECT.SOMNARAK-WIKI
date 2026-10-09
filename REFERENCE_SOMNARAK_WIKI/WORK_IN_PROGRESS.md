@@ -7,6 +7,31 @@ This file is the running state of the project. It is updated at the end of every
 
 **Volume split, 2026-10-09 — the record no longer fits in one file.** `WORK_IN_PROGRESS.md` had reached 718,945 B and `CHANGELOG.md` 755,141 B. GitHub truncates blobs at roughly 500 KB in the browser and stops displaying them past about 1 MB, so both were already being read in cut-off form. The closed work was moved **byte-for-byte** into numbered volumes — `WORK_IN_PROGRESS_VOL_01.md` onward, `CHANGELOG_VOL_01.md` onward — with a volume index in each live file. Nothing was rewritten, reordered within a volume, or deleted, and both splits were verified lossless line-by-line against `7b804e7`. New entries continue to go into the live files.
 
+## M.A.W. Codex comparison — in progress (2026-10-09)
+
+**Owner directive:** compare the M.A.W. blocks inside each primary SE dossier with that entity's own Side Codex and individual Weapon, Suit and Stigma records. M.A.W. is the equipment form made from an entity's sorrow. The primary dossier is not assumed right, and a separate Codex is not copied blindly where its own slot or stat row conflicts with its description.
+
+The re-runnable, read-only comparator is `tools/maw_compare.py`. It joins records on the SECC **Designation** inside the classification table and the Side Codex's **Source SECC Designation** — never on the filename prefix.
+
+| Coverage | Result |
+|---|---:|
+| Primary SE designations parsed | **301 / 301** |
+| Side Codices joined to a primary dossier | **292 / 292** |
+| Complete `4/4` M.A.W. sets compared | **287 / 287** |
+| Individual item records compared | **861 / 861** |
+| Exception sets excluded from full item comparison | **5 / 292** — four restricted / non-extractable records and Sornos' Side Codex only |
+| Primary SE dossiers without an external Side Codex | **9 / 301** — five integrated A-Relics and four later dossiers with no separate Codex set |
+
+**Resolved in this comparison pass.** The Suit review found **39 / 287** resistance profiles that were missing or contradicted the corresponding Suit Codex. All 39 now carry the item-specific four-value profile; six also received missing maximum-amount and Echo-cost fields. `python3 tools/maw_compare.py --check suit` now returns **0** candidate findings. Stigma statistics were restored where the primary block lacked its own Codex's slot, acquisition chance, or source-work effect; the Observing Bird's bonus now includes the Codex's additional **+4 Clarity**, and Mirror of Rising's Stigma grade is **α**. Seven individual Stigma Codex slot rows were corrected where their own physical description and the matching SE item both identified a different placement; three primary Stigma slot fields were aligned to their item Codex; the Masked Dancer and Rem entries now distinguish the registered slot from active or visible position. One Stigma-slot difference remains, in Sorrow Fountain: its item Codex is internally divided between a Tail-slot vial record and a chest brooch description.
+
+Three set-level contradictions were also reconciled from their own records. Amnesia now says that its two Director-signed extractions are separate from the third, 5% Stigma. The Unspoken Line now records two owner-consented shopfront extractions and a separate 5% Hand Stigma, instead of calling the set only two pieces. The Extinguished now distinguishes its one completed extraction and three registered equipment forms from the failed second attempt still held in the shelter. The Seam Edge's missing weapon statistics were filled from its own item Codex.
+
+**Growth and regression check.** **43 / 301** primary dossiers changed: **37 / 43** grew, **6 / 43** stayed the same length, and **0 / 43** became shorter (`R-02`). Seven individual M.A.W. item Codex records also grew when their slot metadata was corrected against their own item form. Exact Codex bearer-cost sentences initially introduced **13 / 301** cross-dossier wording matches; those 17 cost lines were re-authored in each item's own terms, and the final couples gate is back to **0 / 301** with **0 / 301** files carrying a couple.
+
+**Still open; do not auto-rewrite.** The comparator still reports **146 / 861** item-name differences and candidate Weapon disagreements in damage (**47 / 287**), speed (**13 / 287**), range (**18 / 287**), maximum amount (**8 / 287**), Echo cost (**8 / 287**), element (**3 / 287**) and grade (**3 / 287**). These are candidates, not confirmed errors: names may be aliases, and weapon blocks can contain mode-specific figures. The remaining **1 / 287** Stigma-slot difference is the Sorrow Fountain vial/brooch split described above. Next: resolve that split from the set's own record, then triage the Weapon and name differences as *alias, primary-SE defect, or Codex defect*.
+
+This is a standalone comparison audit, **not a new batch and not part of the completed cross-dossier fix phase**. The earlier *couples* counter counts pairs of dossier sections linked by matching distinctive wording; that fix phase remains **0 / 301** and is separate from M.A.W. consistency.
+
 ## Measured state
 
 All figures below are measured, not estimated, and each names the tool that produced it: `boilerplate_report.py` for the body-line measures, `tpl.py` for template residue, `sect.py`/`sectfile.py` for file- and section-cleanliness, `wikistd.py` for `R-29` and its clauses.

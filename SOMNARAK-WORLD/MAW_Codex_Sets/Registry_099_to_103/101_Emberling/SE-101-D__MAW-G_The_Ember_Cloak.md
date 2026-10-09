@@ -19,7 +19,7 @@
 | Official name | The Smoldering Charcoal Brooch |
 | Set | Unspent Ember |
 | Type / grade / element | Stigma (Neck / Collar Smoldering Coal Setting) / β / Lament |
-| Slot | Tail |
+| Slot | Neck / Collar |
 | Status | Bearer-bound; limited cold-response issue |
 | Known bearer | Specialist Minho Ashford |
 | Resting form | A blue cloak-clasp with a small red-orange point caught behind clear Han-glass. |

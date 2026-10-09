@@ -194,6 +194,11 @@ Appearance : A cavalry sabre thirty-two inches along the curve, the spine pipe-b
 
 It is drawn in long, fluid arcs, whether the wielder is mounted or standing. The mist follows the line the blade has just travelled and takes the sight of anyone standing beside it for a moment.
 
+**Resistances:**
+- Lament: 0.4 (Resistant)
+- Grudge: 1.0 (Normal)
+- Void: 1.6 (Weak)
+- Weight: 0.8 (Warded)
 **Cost:** 10 Sorrow Echoes
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure this holding exerts. What it buys is an hour of standing inside the crying without reaching for it; it does nothing at all about wanting to.

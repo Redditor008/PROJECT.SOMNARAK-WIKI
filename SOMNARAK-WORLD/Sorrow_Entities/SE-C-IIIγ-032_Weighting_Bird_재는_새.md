@@ -202,10 +202,10 @@ Appearance : A tailored charcoal-grey watchman’s greatcoat lined with dense ra
 Dense layers of compacted corvid down beneath the woolen shell cushion incoming blunt trauma and absorb Grudge impacts. Miniature bronze balance feathers dangle from the shoulder epaulets, shifting weight to offset concussive kinetic shockwaves.
 
 **Resistances:**
-- Grudge: 0.6 (Warded)
 - Lament: 1.0 (Normal)
-- Void: 1.2 (Weak)
-- Weight: 0.8 (Warded)
+- Grudge: 0.4 (Resistant)
+- Void: 1.8 (Weak)
+- Weight: 1.2 (Weak)
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 

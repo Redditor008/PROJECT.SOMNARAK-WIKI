@@ -240,10 +240,10 @@ Appearance : A flowing ankle-length robe of layered translucent violet gossamer 
 The sheer fabric drifts as if floating submerged in liquid, blurring the wearer’s silhouette into soft optical distortions. Incoming ranged attacks and psionic mental waves lose kinetic focus when passing through the dampening folds, reducing incoming Lament erosion.
 
 **Resistances:**
-- Lament: 0.5 (Warded)
-- Grudge: 1.2 (Weak)
-- Void: 0.8 (Warded)
-- Weight: 1.1 (Weak)
+- Lament: 0.4 (Resistant)
+- Grudge: 1.0 (Normal)
+- Void: 1.6 (Weak)
+- Weight: 0.8 (Warded)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
@@ -260,7 +260,8 @@ Appearance : A thumb-sized sphere of milky amethyst glass that floats untethered
 
 Tiny luminescent silver dream flecks drift inside the floating orb like falling stars, spinning faster when mental attacks enter the chamber. The orb absorbs up to five points of incoming psychological erosion each engagement round.
 
-**Slot:** Shoulder / Floating
+**Slot:** Tail
+**Physical position:** It floats untethered three inches above the wearer’s left shoulder.
 **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat, and the wearer sleeps without dreaming for about a day, which a third of recipients report as a loss.
 

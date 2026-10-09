@@ -217,9 +217,9 @@ The register carries the Bird as Subject-Body, expressing Lament, held at SECTOR
 
 **Appearance:** an eye-tile of Lament Han-crystal, cool and faintly luminous, that reads warm in a closed hand and cold the moment it is held up.
 
-**Slot:** Tail
+**Slot:** Head / Eye
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus while working the source holding, entered at issue and struck from the sheet the day the bearer leaves the perch posting
+**Effect:** +2 when working the Observing Bird source record, +4 Clarity; entered at issue and struck from the sheet the day the bearer leaves the perch posting
 
 **Ability:** Shows the history and sorrow embedded in anything observed.
 

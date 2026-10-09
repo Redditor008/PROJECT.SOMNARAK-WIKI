@@ -191,6 +191,12 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 **Appearance:** An R.D.-style coat that, in peripheral vision, reads as a stage costume; it is always slightly too clean.
 
+**Resistances:**
+- Lament: 1.0 (Normal)
+- Grudge: 0.8 (Warded)
+- Void: 0.3 (Resistant)
+- Weight: 1.1 (Weak)
+**Max Amount:** 2 | **Echo Cost:** 45 Sorrow Echoes
 **Ability:** Grants resistance to Void and Clarity-drain by detaching the wearer from their own identity — they become "an actor," momentarily immune to attacks on the self.
 **Cost:** The wearer cannot feel their own emotions while wearing it; each use leaves them emptier, and the coat does not always come off cleanly.
 
@@ -199,6 +205,9 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 **Appearance:** A small earpiece that murmurs a single line on loop — never the same line twice for the same bearer.
 
+**Slot:** Head
+**Acquisition Probability:** 4%
+**Effect:** +3 Clarity when working The Repeated Survivor
 **Ability:** Granted at random by the entity upon a successful work; the bearer gains brief anticipation (they "know" the next moment before it happens), steadying Clarity in scripted situations.
 **Cost:** The bearer occasionally speaks a line they did not choose, in a voice not entirely their own.
 

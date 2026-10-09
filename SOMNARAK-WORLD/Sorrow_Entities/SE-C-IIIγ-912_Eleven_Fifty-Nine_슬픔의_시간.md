@@ -181,8 +181,9 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 
 **Appearance:** a pale silk veil that tightens perceptibly at three in the morning whether or not it is being worn, which the Armoury has verified on a hook in an empty room.
 
-**Resistances:** Lament: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 0.3 (Resistant) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** The minute's grief outlasts its measured sixty seconds; in the quiet that follows, small joys fade from the wearer until the veil is removed.
 **Ability:** Grants resistance to Lament damage, protecting against the lament register of sorrow.
 
 ### M.A.W. Stigma — Eleven Fifty-Nine's Token

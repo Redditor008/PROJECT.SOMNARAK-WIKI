@@ -195,6 +195,11 @@ Capillary fullers are etched into the flat in the layout of a ward dosing chart,
 
 The linen holds no crease and takes no stain; Lament beads run off it and leave the weave dry. It is cold on the inside and stays cold across a full cycle, which is the single reason the issue form calls for a lining beneath it.
 
+**Resistances:**
+- Lament: 0.4 (Resistant)
+- Grudge: 1.0 (Normal)
+- Void: 1.6 (Weak)
+- Weight: 0.8 (Warded)
 **Cost:** 20 Sorrow Echoes
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Kind Healer's Shadow's kind of pressure.

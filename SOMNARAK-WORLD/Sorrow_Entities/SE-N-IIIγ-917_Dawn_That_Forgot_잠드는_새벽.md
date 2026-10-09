@@ -181,8 +181,9 @@ Nothing here is measurable and the file says so in its first line. Both valid ap
 
 **Appearance:** a watch-cloak of Void Han-gossamer, near-translucent and almost colourless, cut long because the post is held standing, outdoors, from before sunrise until the district is up.
 
-**Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 0.3 (Resistant) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** The wearer becomes difficult to summon in memory, even from inside their own thoughts; the veil offers shelter by making its bearer fade from recollection.
 **Ability:** Grants resistance to Void damage, protecting against the dream register of sorrow.
 
 ### M.A.W. Stigma — Dawn That Forgot's Token

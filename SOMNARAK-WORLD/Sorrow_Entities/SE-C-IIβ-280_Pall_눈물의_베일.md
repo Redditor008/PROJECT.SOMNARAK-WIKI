@@ -239,6 +239,11 @@ Appearance : A long layered shroud of pale mourning cloth, cut wide at the shoul
 
 The shroud neither turns a blow aside nor hardens against one. It surrenders a layer for every thing that lands, and whoever is inside it feels each layer go as it is spent.
 
+**Resistances:**
+- Lament: 0.4 (Resistant)
+- Grudge: 1.0 (Normal)
+- Void: 1.6 (Weak)
+- Weight: 0.8 (Warded)
 **Cost:** 20 Sorrow Echoes
 
 **Ability:** High absorption against Lament and psychological stress, dissipating impact through layered cloth.

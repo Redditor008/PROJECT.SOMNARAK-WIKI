@@ -19,10 +19,10 @@
 | Official name | The Piercing Briar Coronet |
 | Set | Protected Bloom |
 | Type / grade / element | Stigma (Head / Brow Inward-Facing Thorn Circlet) / γ / Grudge |
-| Slot | Tail |
+| Slot | Head / Brow |
 | Status | Bearer-bound; proximity consent notice required |
 | Known bearer | Specialist Sooah Park |
-| Resting form | A small thorned circlet that sits at the tail slot and feels warm only after emotional pain rises. |
+| Resting form | A small thorned circlet that sits at the brow, just above the eyes, and feels warm only after emotional pain rises. |
 | Active form | Fine crimson thorns form a defensive ring around the bearer’s immediate space. |
 | Recognition rule | One thorn bends outward when the bearer names a person who may approach safely. |
 

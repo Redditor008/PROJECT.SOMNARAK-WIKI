@@ -180,6 +180,7 @@ The table should be read with the floor in mind. This entity's gauge has a botto
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 **Appearance:** A mantle of rough Han-woven cloth, the cut of the earliest settlers, faintly damp at the shoulders.
 
+**Max Amount:** 3 | **Echo Cost:** 35 Sorrow Echoes
 **Ability:** Grants resistance to Lament and Composure-drain; lets the wearer stand in foundational grief without bending.
 **Cost:** The wearer carries a thread of foundation-grief permanently; they age slightly faster and weep in their sleep.
 
@@ -187,6 +188,9 @@ The table should be read with the floor in mind. This entity's gauge has a botto
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 **Appearance:** A pendant holding a single tear of pale blue crystal that never evaporates.
 
+**Slot:** Neck
+**Acquisition Probability:** 4%
+**Effect:** +2 Composure when working The Unconsoled
 **Ability:** Lets the wearer bear one other person's oldest grief alongside them, halving its weight for both.
 **Cost:** The wearer feels the weight of every grief they witness for a day after removal.
 

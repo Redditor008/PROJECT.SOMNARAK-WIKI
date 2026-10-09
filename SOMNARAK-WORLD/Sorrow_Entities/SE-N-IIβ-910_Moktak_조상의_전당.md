@@ -181,7 +181,7 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 
 **Appearance:** a coarse undyed mourning overrobe cut for sitting rather than walking, long in the back and short at the shin, with the household crest left deliberately unembroidered. Wardens report it is warm at the shoulders and cold across the knees, consistently, in any ambient temperature.
 
-**Resistances:** Weight: 0.3 (Resistant) | Lament: 0.9 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.3 (Resistant)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** The wearer is read by the hall as attending rather than intruding. Seats are not added for a robed worker and the closing order skips them, which is the only known method of sitting a full interval without accruing a place in it. The robe does not reduce Weight damage taken outside the hall.
 

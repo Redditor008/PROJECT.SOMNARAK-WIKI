@@ -195,6 +195,11 @@ Appearance : A shield the height of a person's shoulder, cut from the same black
 
 The ward-block at the boss stops whatever arrives at it and stops it in place, which is what the piece is for: with the shield set, the bearer can stand at a post for a full shift and the duties in the air do not transfer to them.
 
+**Resistances:**
+- Lament: 1.2 (Weak)
+- Grudge: 0.8 (Warded)
+- Void: 0.3 (Resistant)
+- Weight: 1.1 (Weak)
 **Cost:** 45 Sorrow Echoes
 
 **Ability:** Holds the bearer's footing in one place — perception slows by enough to hear the post's own duties being listed — and keeps the weight of them off the wearer while the shield is set.

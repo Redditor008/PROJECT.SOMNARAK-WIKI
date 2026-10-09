@@ -185,6 +185,11 @@ Appearance : A massive six-foot two-handed greatsword with a four-foot blade, br
 
 The blade's immense reach and momentum dominate wide hallways, holding multiple foes at bay. The chime quillons resonate in harmony with the swing, releasing acoustic ripples that disorient opponents.
 
+**Resistances:**
+- Lament: 1.0 (Normal)
+- Grudge: 1.0 (Normal)
+- Void: 0.3 (Resistant)
+- Weight: 0.8 (Warded)
 **Ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
 
 ### M.A.W. Stigma — Labyrinth of the Unfinished Mind's Token

@@ -157,6 +157,11 @@ Apostle Maker cannot be contained by normal means once activated. The entity mov
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Mixed
 **Appearance:** A white-and-gold vestment that produces faint light-construct wings at the shoulders.
 
+**Resistances:**
+- Lament: 0.6 (Warded)
+- Grudge: 0.6 (Warded)
+- Void: 0.6 (Warded)
+- Weight: 0.6 (Warded)
 **Ability:** Grants 40% resistance to Mixed pressure. The wings can be deployed as a barrier that absorbs one attack per encounter.
 **Cost:** Wearing the wings for extended periods causes the wearer to feel "called" — a pull toward purpose they cannot identify.
 
@@ -165,6 +170,7 @@ Apostle Maker cannot be contained by normal means once activated. The entity mov
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Mixed
 **Appearance:** A mark on the wrist that glows steadily — deeper and brighter than the Blessing Giver's mark.
 
+**Effect:** +2 stat bonus when working the source entity
 **Ability:** Doubles one attribute of the wearer's choice. The doubling is permanent but the chosen attribute cannot be changed.
 **Cost:** The brand is a chain-fragment. Wearing it connects the wearer to the Kind Healer transformation chain. If the chain activates nearby, the brand resonates.
 

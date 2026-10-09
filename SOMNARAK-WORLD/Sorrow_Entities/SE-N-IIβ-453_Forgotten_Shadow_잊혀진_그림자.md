@@ -195,6 +195,11 @@ Appearance : A curved thirty-two inch cavalry sabre with a pipe-back spine, an e
 
 The sabre delivers fluid, sweeping draw-cuts from horseback or on foot. The blue sorrow mist trails along the cutting path, momentarily blinding the vision of adjacent combatants.
 
+**Resistances:**
+- Lament: 0.4 (Resistant)
+- Grudge: 1.0 (Normal)
+- Void: 1.6 (Weak)
+- Weight: 0.8 (Warded)
 **Cost:** 20 Sorrow Echoes
 
 **Ability:** Wards the Mind against Lament pressure and nothing else: the shroud is cut for the shadow's kind of pressure, and the file records no other use for it.

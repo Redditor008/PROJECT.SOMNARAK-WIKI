@@ -210,10 +210,10 @@ Appearance : A heavy hooded cape tailored from fire-retardant spun asbestos and 
 The lower hem is singed into permanent glowing charcoal edges that never burn through the dense fabric. Microscopic heat pockets woven throughout the lining shield the wearer from freezing cold and disperse explosive thermal shockwaves outward.
 
 **Resistances:**
-- Lament: 0.6 (Warded)
-- Grudge: 0.8 (Warded)
-- Void: 1.5 (Weak)
-- Weight: 1.0 (Normal)
+- Lament: 0.4 (Resistant)
+- Grudge: 1.0 (Normal)
+- Void: 1.6 (Weak)
+- Weight: 0.8 (Warded)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 

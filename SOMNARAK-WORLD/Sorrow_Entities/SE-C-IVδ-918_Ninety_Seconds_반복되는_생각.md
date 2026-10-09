@@ -181,8 +181,9 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 
 **Appearance:** a near-colourless veil whose hem has ninety-one small stitches in it; the Armoury counted them after issue and has not been able to establish who put the extra one in.
 
-**Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 0.3 (Resistant) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** Even the wearer has trouble keeping themself present in mind while the veil is worn; the protection makes a person harder to hold in memory.
 **Ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
 
 ### M.A.W. Stigma — Ninety Seconds's Token

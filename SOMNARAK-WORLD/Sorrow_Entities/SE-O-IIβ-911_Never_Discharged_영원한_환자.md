@@ -179,8 +179,9 @@ The table says the two available Work Types both reduce the gauge and does not s
 
 **Appearance:** a veil of heavy matte weave that hangs as though wet and is not, and which pulls perceptibly toward the bay door when it is carried along that corridor.
 
-**Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.3 (Resistant)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** The burden of the endless posting settles into the wearer's shoulders as a low, steady fatigue, lingering through every hour the mantle is worn.
 **Ability:** Grants resistance to Weight damage, protecting against the body register of sorrow.
 
 ### M.A.W. Stigma — Never Discharged's Token

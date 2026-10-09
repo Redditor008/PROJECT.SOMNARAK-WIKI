@@ -231,7 +231,8 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 
 **Appearance:** a shard of pale porcelain from the mask's jaw, mounted as a charm and warm to the touch; it carries a hairline crack the bearer is asked to measure monthly and never explains.
 
-**Slot:** Tail
+**Slot:** Head / Face
+**Active form:** The mask swings at the tail slot and silently marks a steady rhythm in the bearer’s balance.
 **Acquisition Probability:** 5%
 **Effect:** +1 on this holding's work and nothing anywhere else on the register: the shard answers the performance's own register, and it goes out with the watch that intends to stay at the rail rather than the one sent to the floor.
 

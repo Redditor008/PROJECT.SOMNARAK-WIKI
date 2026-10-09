@@ -181,8 +181,9 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 
 **Appearance:** a flowing veil of Grudge Han-cloth, dark and faintly warm, that tightens near its source element.
 
-**Resistances:** Grudge: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 0.3 (Resistant) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** The suit stores each small insult in the body; the wearer's reflexes grow rigid, and anger reaches the voice before judgment can intervene.
 **Ability:** Grants resistance to Grudge damage, protecting against the grudge register of sorrow.
 
 ### M.A.W. Stigma — Hatred Above's Token

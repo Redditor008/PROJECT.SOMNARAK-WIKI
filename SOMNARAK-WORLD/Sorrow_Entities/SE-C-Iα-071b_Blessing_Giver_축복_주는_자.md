@@ -178,6 +178,11 @@ The step from Stage 1 to Stage 2 was taken without a decision, and the step from
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 **Appearance:** A cloak that is grey at the center and white at the edges — mid-transformation fabric.
 
+**Resistances:**
+- Lament: 0.4 (Resistant)
+- Grudge: 1.0 (Normal)
+- Void: 1.6 (Weak)
+- Weight: 0.8 (Warded)
 **Ability:** Grants resistance to Lament pressure. The cloak's glow can stabilize a worker's composure during difficult work cycles.
 **Cost:** The wearer feels increasingly warm, increasingly comfortable, increasingly reluctant to take the cloak off. The comfort is not free.
 
@@ -186,6 +191,7 @@ The step from Stage 1 to Stage 2 was taken without a decision, and the step from
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 **Appearance:** A small, warm mark on the wrist — visible only under Han-light. It glows faintly gold.
 
+**Effect:** +1 stat bonus when working the source entity
 **Ability:** Once per day, the bearer can heal a colleague for 15 HP. The healing is genuine and carries no mark.
 **Cost:** Each healing brings the bearer one step closer to the chain. After 12 healings, the Stigma transforms.
 

@@ -181,8 +181,9 @@ Breathing Stone is a Place with Place-Body manifestation and Weight expression, 
 
 **Appearance:** a heavy veil, cold against the skin, which rises and falls very slightly on its hook when nobody is wearing it.
 
-**Resistances:** Weight: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
+**Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.3 (Resistant)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+**Bearer cost:** A quiet tiredness settles across the shoulders, as though the mantle were breathing the stone's weight into the wearer one slow breath at a time.
 **Ability:** Grants resistance to Weight damage, protecting against the body register of sorrow.
 
 ### M.A.W. Stigma — Breathing Stone's Token
