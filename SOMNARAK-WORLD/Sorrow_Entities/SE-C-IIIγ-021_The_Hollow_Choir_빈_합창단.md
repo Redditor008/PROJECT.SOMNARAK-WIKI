@@ -316,9 +316,9 @@ The Choir is audible before the amphitheater is visible, and it is not music: it
 
 ### Interaction Pattern
 
-The holding is read against the other sounding and silenced things of the district. Each row below was observed and filed and none is settled; all five were run with the acoustic boundary sealed, which is the only configuration in which anything here can be measured at all.
+What follows sets this holding beside the other sounding and silenced things of the district. Every row here was observed and filed without being resolved, and all five runs were made with the acoustic boundary sealed — outside a sealed boundary nothing in this district register can be measured at all.
 
-**Interaction method:** Baseline each party alone across several cycles — group pattern, overlap and gauge — before any joint observation, and record the onset of a shared change with its range, duration, trigger, both gauges and whatever holds after separation; re-verify every cycle.
+**Interaction method:** record each voice alone for a stretch of cycles first — its group pattern, how far it overlaps, where its gauge rests — and only afterwards let two of them sound inside one sealed boundary. Where something shifts in both, log the breadth of it, the time it holds and the thing that set it off; put both gauges next to it and note what is still sounding once the two are parted. Repeat every cycle, because an unsealed boundary voids the run.
 
 
 ### Entity Interaction Record
