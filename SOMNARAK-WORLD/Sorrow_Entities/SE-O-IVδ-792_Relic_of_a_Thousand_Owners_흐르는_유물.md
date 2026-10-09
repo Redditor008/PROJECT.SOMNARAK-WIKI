@@ -27,13 +27,13 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Subject |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 per successful work cycle, counted from the form records rather than from the figure |
+| **Starting Sorrow Gauge** | High on first contact — 60–80% — because the object has already passed through more hands than the wing can count. |
+| **Han-Energy yield** | Twenty to twenty-eight, earned solely when a cycle runs to its end, and counted from the form records rather than from what the figure reports. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | δ · δ |
 | **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
+| **Han Dust Drop (Vessel Destruction)** | Somewhere between one and ten tons, at the Critical grade. The relic can be destroyed; that was never the same question as whether it can be kept. |
 | **Recommended response** | All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Pugnahan returns force and raises it, and nothing it carries or sets down may be touched at any point. |
 
 ### Operational Notes
@@ -67,7 +67,7 @@
 | **Threat Role** | Boss encounter |
 | **Coherence** | Entity (IV) |
 | **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | 60–80% |
+| **Starting Sorrow Gauge** | Between 60 and 80 per cent at first contact; the figure belongs to the chain of owners, not to the object. |
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone E, Exile's Gate vicinity |
