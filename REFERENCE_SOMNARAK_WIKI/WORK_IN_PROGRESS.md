@@ -446,6 +446,42 @@ or containment stability,"* which **127** dossiers still carry.
 - `tools/editmeta.py` (new): finds candidate `R-01` sentences (reconciliation notes about earlier
   wording). It reports and never edits.
 
+**Batch 75 — CLOSED at five. This is the closing batch of the fix phase: couples in the plan fall 5 → 0 / 301, and the wing is at ZERO. Every stage of the program is now complete.**
+
+Taken on the owner's “p”, with the owner electing **“clear all five in one batch (75)”** when asked what the second batch should be. That answer **released the frozen pair** — Melting Rope `N-IIIγ-447` × Forgotten Shadow `N-IIβ-453`, 0.72 in `### M.A.W. Use Notes`, held by standing decision since batch 61 and never worked in thirty-five batches. It was the last couple in the wing. It is gone.
+
+**The fix phase is over.** From 261 couples at the opening of batch 61 to **0 couples across 301 dossiers**, worked one file at a time, the lighter side of each pair rewritten in its own terms, growth only (`R-15`), every unit pushed and verified in the turn it was applied. No dossier in the wing now shares a distinctive passage with another.
+
+**The freeze had held for thirty-five batches and was released by the owner, not by the worker.** It is recorded here because the standing decision was real and was kept: batches 61 through 74 left that pair alone, even when it was the worst tie in the wing and even when the ladder's worst-first rule pointed straight at it. It was cleared in a single unit once the owner released it — one paragraph, twenty-five words, and the heaviest tie in the archive came apart.
+
+**Unit 4 emptied the 0.50–0.59 tier.** Corrosion Dream's two blocks took the last couple in that band, leaving the released 0.72 as the only thing in the wing. Unit 5 then took that too. The tier table — 0.70+ / 0.60–0.69 / 0.50–0.59 — is now empty in all three bands.
+
+**The last three units each echoed this archive's own work from earlier in the same turn.** Corrosion Dream collided with **Every Last Goodbye (unit 3 of this batch, twenty minutes earlier)** on “with continued exposure the first impression”. Memorial Flame collided with **Face Beneath Masks (unit 2, ten minutes earlier)** on “and this is what turns”. By the end of the batch the corpus being differed from was, in real time, the batch itself.
+
+**Rollbacks #109 and #110 both struck this turn** — one at the turn boundary, one mid-unit after the Remembrance commit had been made locally. Both were recovered with `git fetch` + `git reset --mixed FETCH_HEAD`; nothing force-pushed, nothing lost. Ten rollbacks in a row now recovered this way.
+
+| # | Dossier | Structure | Fixed in place | Couples | Words (before → after) |
+|---|---|---|---|---|---|
+| 1 | [Remembrance](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-115_Remembrance_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%9A%B0%EB%AC%BC.md "SE-C-IIIγ-115_Remembrance_기억의_우물.md") | O-Relic SE — Offertorium | the `**Expanded origin context**` paragraph | **1** | 6,970 → 6,991 (+21) |
+| 2 | [Face_Beneath_Masks](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-689_Face_Beneath_Masks_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%B2%BD.md "SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md") | Subject SE | the Wall Veil's appearance, ability and cost | **1** | 7,923 → 7,962 (+39) |
+| 3 | [Memorial_Flame_Mid-Ceremony](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-763_Memorial_Flame_Mid-Ceremony_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B6%88%EA%BD%83.md "SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md") | Non-Subject SE | the shroud's appearance and ability | **1** | 7,602 → 7,642 (+40) |
+| 4 | [Corrosion_Dream](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-915_Corrosion_Dream_%EB%85%B9%EC%8A%A8_%EB%8B%A4%EB%A6%AC.md "SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md") | Subject SE | two flavour-text blocks | **1** | 7,336 → 7,343 (+7) |
+| 5 | [Melting_Rope](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-447_Melting_Rope_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EB%B0%A7%EC%A4%84.md "SE-N-IIIγ-447_Melting_Rope_녹아내린_밧줄.md") | Subject SE | the `### M.A.W. Use Notes` paragraph — **the pair released from the freeze this turn** | **1** | 7,280 → 7,305 (+25) |
+
+- `C-IIIγ-115` Remembrance — `647e7fe` — PUSH VERIFIED — 1 couple cleared — [[SE-C-IIIγ-115_Remembrance_기억의_우물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-115_Remembrance_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%9A%B0%EB%AC%BC.md "SE-C-IIIγ-115_Remembrance_기억의_우물.md")]
+- `N-IIβ-689` Face Beneath Masks — `4c89354` — PUSH VERIFIED — 1 couple cleared — [[SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-689_Face_Beneath_Masks_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%B2%BD.md "SE-N-IIβ-689_Face_Beneath_Masks_스며든_벽.md")]
+- `C-IVδ-763` Memorial Flame Mid-Ceremony — `c578599` — PUSH VERIFIED — 1 couple cleared — [[SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-763_Memorial_Flame_Mid-Ceremony_%EC%82%AC%EB%9D%BC%EC%A7%84_%EB%B6%88%EA%BD%83.md "SE-C-IVδ-763_Memorial_Flame_Mid-Ceremony_사라진_불꽃.md")]
+- `O-IIIγ-915` Corrosion Dream — `8470a6a` — PUSH VERIFIED — 1 couple cleared — [[SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-915_Corrosion_Dream_%EB%85%B9%EC%8A%A8_%EB%8B%A4%EB%A6%AC.md "SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md")]
+- `N-IIIγ-447` Melting Rope — `3c934d6` — PUSH VERIFIED — 1 couple cleared — [[SE-N-IIIγ-447_Melting_Rope_녹아내린_밧줄](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-447_Melting_Rope_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EB%B0%A7%EC%A4%84.md "SE-N-IIIγ-447_Melting_Rope_녹아내린_밧줄.md")]
+
+
+**The section mix is empty, because there are no couples left to distribute.**
+
+**There is no Batch 76 to open.** With the fix phase closed and every other stage already at its target, no work remains in this program. `R-26` forbids padding a batch to reach a number, so nothing is opened for the sake of it. What remains is the standing housekeeping: PR #13, which the owner merges (`U4`), and the two volume splits, which are current.
+
+Disclosures: the turn opened on a rolled-back sandbox and was levelled with `git fetch` + `git reset --mixed FETCH_HEAD` (rollbacks **#109** at the boundary and **#110** mid-unit). Word counts are measured against `b3a77f2`, the base Batch 75 landed on. The zero was measured twice, in two separate scans, before it was recorded here. PR #13 was **not** updated — its body stands at 262,124 / 262,144 B with 20 B of headroom; the full record with links is here and in `CHANGELOG.md`.
+
+
 **Batch 74 — CLOSED at five; the fix phase continues: couples in the plan fall 10 → 5 / 301, with 5 cleared and none newly measurable, and no file in the wing newly measurable against another.**
 
 Taken on the owner's “p” after Batch 73 closed at five. The rung stayed at five for the second batch running, on the same reasoning as before: `R-26` climbs on evidence, and this work is not “simple” by that rule's own test — every dossier here runs between 4,800 and 9,900 words with a full section set. Five were opened and five were finished.
