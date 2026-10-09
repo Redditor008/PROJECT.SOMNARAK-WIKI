@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A core of dark crimson fire that is not fire: it beats like an exposed heart, organic and slow, ringed in charred metal and fused growth. Its heat feels like held anger. It never fully stops moving. |
+| **Physical Form** | Mixed — a flame with the rough shape of a person, walking on two legs, dark crimson at the core. The core beats instead of burning, slower than a pulse and as regular as one, and slag and fused debris have welded themselves into a ring around the base of it. What comes off it is not temperature: the instrument records held anger and nothing else. It does not stand still. |
 | **Movement** | Walking patrol — a fixed route through the Scar across all six former faction boundaries, held to within a few metres between passes. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
