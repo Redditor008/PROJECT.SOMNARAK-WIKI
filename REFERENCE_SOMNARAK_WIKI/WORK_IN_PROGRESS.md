@@ -56,13 +56,18 @@ No additional Weapon or name candidate was confirmed in this continuation. A spo
 
 This comparison began as a standalone audit. On 2026-10-10, the owner explicitly reopened M.A.W. case review as Batch 76, separate from the completed cross-dossier text-overlap fix phase. A *couple* is a pair of dossier sections linked by matching distinctive wording; this M.A.W. batch does not reopen or change that fix phase.
 
-**Batch 76 — OPEN at three dossiers (2026-10-10).** The owner explicitly reopened M.A.W. reconciliation as a batch. This work remains separate from the completed cross-dossier text-overlap repair phase. The cases require form research, so the batch stays at the R-26 floor of three rather than expanding to five.
+**Batch 76 — CLOSED at three dossiers (2026-10-10).** The owner explicitly reopened M.A.W. reconciliation as a batch. This work remains separate from the completed cross-dossier text-overlap repair phase. The cases require form research, so the batch stays at the R-26 floor of three rather than expanding to five.
 
 | Unit | Dossier | Status |
 |---|---|---|
 | 1 / 3 | Cracked Flesh `C-IIIγ-921` | Resolved: spike and tendril profiles labeled; values preserved |
 | 2 / 3 | Broken Clock `C-IIIγ-044` | Held: same polearm; primary/item profiles still conflict |
-| 3 / 3 | Pall `C-IIβ-280` | Awaiting batch disposition; primary and item forms conflict |
+| 3 / 3 | Pall `C-IIβ-280` | Held: stiletto, pavise/javelin, and chalice descriptions conflict |
+
+
+**Unit 3 / 3 — Pall `C-IIβ-280` (held).** The primary calls the Weapon *The Surgeon's Cleaver* and describes a 22 cm triangular stiletto, but its pattern and Ability add a shield-bash and launched javelin. The Side Codex names a pavise and javelin, while its linked item's own Appearance describes a singing chalice; the item statistics say Lament 5–9, Speed 2, Range 2, Single. The master listing calls it a stiletto but repeats the pavise/javelin name in its detail entry. These descriptions do not establish one intended form, so no profile was copied and no primary or item value changed.
+
+**Batch 76 status:** 3 / 3 dossier dispositions recorded — one form mapping clarified and two cases held. The held profiles remain open; next candidate is Emberling `C-IIβ-101`.
 
 
 **Unit 2 / 3 — Broken Clock `C-IIIγ-044` (held).** The primary and linked item describe the same 135 cm two-handed brass polearm. The primary gives Weight 11–18, Slow 2, and Overhand Arc / Temporal Impact; the Side and item give Weight 7–12, Fast 3, and Skewer. The item documents no alternate form or base-versus-special stat split, and the master listing has no numeric profile. No value changed.
