@@ -73,7 +73,7 @@
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep storage — contained |
-| **Resolution Condition** | Viderehan and Ferrehan only, and the gauge below 25% — on Broken Clock the second follows the first and has never arrived without it. |
+| **Resolution Condition** | Two things must hold at once, and they must hold in order: the gauge has to come in under 25%, and it has to get there on the outside clock rather than on anyone's sense of how long the sitting has run. Nothing else has ever moved it; the two Work Types that answer are Viderehan and Ferrehan, and no sitting on file has been closed against a reading taken from inside the line. |
 
 ### Combat Actions
 
