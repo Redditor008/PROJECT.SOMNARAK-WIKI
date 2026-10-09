@@ -305,13 +305,13 @@ You feel the webs before you see them: a tug at the edge of the mind, a name alm
 
 
 
-**At first contact:** You know it is there before you see it. The Han shifts, the Veil trembles, and then: A massive spider-like being whose body is made from crystallized memories. Its webs are spun from stolen pasts, and its eyes resemble thousands of memories turning in Han-crystal sockets. The first sensation is always Void — unmistakable, specific, impossible to mistake for anything else in the city.
+**At first contact:** It is noticed well before it is visible. The Han moves against the bay, and what arrives is a body of crystallized memories on eight legs, trailing webs strung from pasts that belonged to people the record no longer carries. The eyes are the part nobody forgets: sockets packed with memories that are still turning. The first thing it does is offer you one, and it is beautiful, and it is not yours.
 
-**With continued exposure:** The Subject-Dream settles into a presence you learn to hold — not comfortably, but recognisably. The Void pressure stops being an assault and becomes a climate: something you move within rather than against.
+**With continued exposure:** The webs stop reading as webs and start reading as a room you are standing inside. Workers describe learning to tell a thread that was laid for them from one that was laid decades ago for somebody the archive has finished erasing, and the file names that distinction as the only thing worth teaching a new watch.
 
-**When the entity activates:** Activation feels like the room remembering something it had been forced to forget. The Void surges, the Subject-Dream sharpens, and for a moment the containment zone is not a cell but the original wound, reopened.
+**When the entity activates:** Activation is the Archive remembering something it was made to forget. The threads draw tight at once, the sockets turn faster, and for the length of it the bay is not a cell at all — it is the corner the memories were swept into, with the door on the far side.
 
-**After departure:** What remains after the door closes is not fear but weight — a Void aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** What is left behind is not fear. It is the particular weight of having been handed a memory you very nearly recognised. The standing order is that the worker is watched for Fracture over the following hours, and is not asked how they feel.
 
 ### Interaction Pattern
 
