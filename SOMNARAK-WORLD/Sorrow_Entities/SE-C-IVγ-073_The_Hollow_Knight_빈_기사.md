@@ -202,7 +202,7 @@ The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and 
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and warm, that smells faintly of the road the corridor crew walks — a smell every bearer reports and no bearer has ever been able to describe further.
+**Appearance:** a cuirass and shoulder-plates worked from Grudge Han-iron. It holds a low heat and takes no polish, the road the corridor crew walks leaves its smell on it — a smell every bearer reports and no bearer has managed to describe any further than that.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -212,7 +212,7 @@ The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and 
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against The Hollow Knight's kind of pressure.
+**Ability:** Turns Grudge aside and keeps the Body whole — the flesh, and the frame that holds it. The wing issues it against this knight, whose pressure is Grudge from end to end.
 
 **Cost:** The wearer's reflexes dull, as if armored by resentment.
 
