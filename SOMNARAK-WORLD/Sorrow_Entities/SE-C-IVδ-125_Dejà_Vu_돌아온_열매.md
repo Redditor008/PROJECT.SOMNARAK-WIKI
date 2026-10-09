@@ -92,9 +92,9 @@
 
 ### Consequences
 
-- A worker who cannot hold the return becomes a conduit: **Composure** erodes quietly rather than loudly, because the effect is pleasant, and what they carry back is the present rendered slightly less convincing than the recollection. The second Warden's read ends the watch, and on this holding the read belongs to the spotter, since the person the spell is working on is the last person able to report it.
-- Dejà Vu’s documented effects intensify with duration: what is manageable in a brief cycle becomes lethal over prolonged exposure, manifesting severe emotional, physical, identity, or environmental dissolution.
-- Each M.A.W. activation exacts a personal debit from the wielder—eroding composure, personal memories, and somatic vitality beyond what standard grade ledgers can record.
+- A worker who stops being able to hold the return becomes a conduit: **Composure** erodes quietly rather than loudly, because the effect is pleasant, and what they bring back out is a present that reads as slightly less convincing than the recollection. The watch is ended by the spotter's second reading and not the worker's own, for the simple reason that the person the return is happening to cannot be relied on to notice it.
+- Everything documented here gets worse the longer the watch runs. A single cycle is survivable and a long one is not, and the failure is not one failure but any of several — the emotional, the physical, the loss of who the worker is, or the dissolution of the ground they are standing on.
+- Reaching for the suit is not free. Each time it is used the wielder pays in composure and in personal memories, and in a share of physical condition the grade tables were never built to record.
 - Without containment resolution the sorrow never dissipates; it turns inward on its own zone, initiating the escalation behaviours recorded in Déjà Vu's dossier.
 
 ## Appearance
@@ -310,7 +310,7 @@ A sweetness appears on your tongue before the fruit appears. You remember a kitc
 
 The dossier cross-reads Déjà Vu against three Alpha Tree holdings rather than taking it alone, and the reading has a control built into it that most of the archive lacks: the song is heard only by the person carrying the memory, so a paired observation has to be taken from two independent accounts and never from agreement between observers. The Returning Tree, The Memory Well and The Lost Prince are the three the file has tested, and the interaction series is small because a pairing here requires two operatives with different memories and the same watch.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, events, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, event, Ordeal, or transformation event.
+**Interaction method:** One operative at a time, and each alone first. On this holding a solo watch is the only honest baseline, because what returns is keyed to a memory the observer carries, and two people do not carry the same one. When a pairing is run, take two independent accounts and never an agreement between observers. Log the distance at which the other holding registers, how long it registers, what the gauge does while it does, and whether any of it stops when the two are separated — then whether the second presence calms the return, sharpens it, copies it, or turns it somewhere else. Nothing here reproduces: the same two holdings under the same conditions have read differently in different cycles, and a Sorrow Tide or an Ordeal has thrown out a reading this file had already settled.
 
 
 ### Entity Interaction Record
