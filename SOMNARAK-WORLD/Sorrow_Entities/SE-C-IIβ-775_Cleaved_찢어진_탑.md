@@ -93,9 +93,9 @@
 ### Consequences
 
 - Personnel who cannot carry the drain lose **Composure** by the hour, and the loss is ordered rather than random: the names of what they are looking at go first, then the names of what they came for. The clarity test is administered before the worker notices either, because by the time it is noticed it can no longer be taken correctly.
-- Extended contact risks Cleaved’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.
-- Every M.A.W. activation extracts a profound price from the wielder—intimate memories, physical sensation, and years of life—documented in equipment specifications and paid in the field.
-- Without timely resolution, Cleaved defaults to its documented breach, activation, or expansion behavior—denied containment, the unchanneled grief carves its own catastrophic outlet.
+- Extended contact brings the whole site down on a worker at once: acute emotional erosion, bodily trauma, the loss of who they are, or a corruption of the ground beneath them that nothing has cleared since. None of these carries an end date, because the scheme has none either — nobody has ended it.
+- Taking up any item in the set is never free. The wielder pays in intimate memories, in physical sensation and in years of life; and the equipment schedule puts that in writing; the field is where the bill is actually settled.
+- Left unresolved, Cleaved does what the suspension never did — it finishes itself. Denied a containment, the unchanneled grief opens a channel of its own; and four hundred men still carried as assigned to a site with no building on it is more grief than ought to be left with nowhere to go.
 
 ## Appearance
 **Primary Form:** A tall figure built like a tower cloven down its vertical axis, stone-flesh on one side of the seam and live fire on the other. **Movement:** it walks, upright and unhurried, and it has never once pursued anybody.
