@@ -58,11 +58,11 @@ This comparison began as a standalone audit. On 2026-10-10, the owner explicitly
 
 **Batch 76 — CLOSED at three dossiers (2026-10-10).** The owner explicitly reopened M.A.W. reconciliation as a batch. This work remains separate from the completed cross-dossier text-overlap repair phase. The cases require form research, so the batch stays at the R-26 floor of three rather than expanding to five.
 
-| Unit | Dossier | Status |
-|---|---|---|
-| 1 / 3 | Cracked Flesh `C-IIIγ-921` | Resolved: spike and tendril profiles labeled; values preserved |
-| 2 / 3 | Broken Clock `C-IIIγ-044` | Held: same polearm; primary/item profiles still conflict |
-| 3 / 3 | Pall `C-IIβ-280` | Held: stiletto, pavise/javelin, and chalice descriptions conflict |
+| Unit | Dossier | Outcome | Commit | Push |
+|---|---|---|---|---|
+| 1 / 3 | [Cracked_Flesh](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-921_Cracked_Flesh_%EA%B7%A0%EC%97%B4%EC%9D%98_%EB%93%A4%ED%8C%90.md "SE-C-IIIγ-921_Cracked_Flesh_균열의_들판.md") `C-IIIγ-921` | Spike/tendril profiles labeled; stats retained | `fae0d74` | PUSH VERIFIED |
+| 2 / 3 | [Broken_Clock](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-044_Broken_Clock_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%8B%9C%EA%B3%84.md "SE-C-IIIγ-044_Broken_Clock_부서진_시계.md") `C-IIIγ-044` | Held; one polearm, unexplained profile conflict | `06c5754` | PUSH VERIFIED |
+| 3 / 3 | [Pall](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-280_Pall_%EB%88%88%EB%AC%BC%EC%9D%98_%EB%B2%A0%EC%9D%BC.md "SE-C-IIβ-280_Pall_눈물의_베일.md") `C-IIβ-280` | Held; primary, Side, and item describe different forms | `58c4dca` | PUSH VERIFIED |
 
 
 **Unit 3 / 3 — Pall `C-IIβ-280` (held).** The primary calls the Weapon *The Surgeon's Cleaver* and describes a 22 cm triangular stiletto, but its pattern and Ability add a shield-bash and launched javelin. The Side Codex names a pavise and javelin, while its linked item's own Appearance describes a singing chalice; the item statistics say Lament 5–9, Speed 2, Range 2, Single. The master listing calls it a stiletto but repeats the pavise/javelin name in its detail entry. These descriptions do not establish one intended form, so no profile was copied and no primary or item value changed.

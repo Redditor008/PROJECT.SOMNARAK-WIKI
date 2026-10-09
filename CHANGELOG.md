@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 76 closed at 3 / 3 (2026-10-10).** It records one form clarification and two evidence-backed holds. Unit commits `fae0d74`, `06c5754`, and `58c4dca` were pushed and verified on the session branch. This M.A.W. review is separate from the completed cross-dossier fix phase.
+
 - **Batch 76, unit 3 / 3 — Pall `C-IIβ-280` held; the batch closes at three.** The primary describes a triangular stiletto with shield-bash and javelin attacks. The Side names a pavise and javelin, its linked item's Appearance calls the weapon a singing chalice, and the master entry uses both a stiletto type and the pavise/javelin name. These records do not establish one intended form, so no profile or item value changed.
 
 - **Batch 76, unit 2 / 3 — Broken Clock `C-IIIγ-044` held.** Its primary and linked item describe the same 135 cm two-handed brass polearm, but the primary's Weight 11–18 / Slow 2 / Overhand Arc–Temporal Impact profile conflicts with the Side/item Weight 7–12 / Fast 3 / Skewer profile. No record documents another form or a base-versus-special split, and the master listing supplies no numeric values. Nothing was changed; Pall is the final review unit.
