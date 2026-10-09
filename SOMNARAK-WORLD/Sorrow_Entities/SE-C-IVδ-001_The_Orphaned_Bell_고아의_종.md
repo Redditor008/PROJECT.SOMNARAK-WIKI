@@ -158,66 +158,6 @@
 The Orphaned Bell is an Object/Place — Lament for its manifestation, Lament for its expression — kept in its tower at SECTOR-B-01. Viderehan is conducted between tolls by crews who withdraw before the predicted window. Ferrehan is the toll itself, met standing in pair, and is the only work here that moves the gauge. Neither alters the schedule, which the bell keeps without reference to anybody.
 
 **Reading the response:** A falling gauge presents as fewer soundings over the cycle. The tone never changes and no session has ever produced silence, so a quiet week is a spacing and not a result. A rising gauge presents in the opposite direction — soundings closer together, and the toll beginning to arrive outside the predicted window — and the correct response is to vacate the tower rather than to extend the watch. Log the interval before anything else; it is the only figure here that moves for a reason.
-## Activation / Expansion Behavior
-
-**Activation Trigger:** Midnight, the Consolihan anniversary, or concentrated grief concerning missing children.
-
-**Effect:** The toll passes through walls, floors and bodies, and every person inside hearing range takes a profound loss from it. Long exposure wears memory and temper down together.
-
-**Containment:** The bell remains anchored in its tower and is never struck. Pugnahan intensifies the tolling; Flerehan is not available against a structure, and the earlier singing protocol was withdrawn after it was established that the practice calmed the workers and did nothing measurable to the bell.
-
-### O-Relic (Officium) — Channeled Invocation
-
-| Field | Detail |
-|---|---|
-| **How to Channel** | Stand or kneel within the acoustic circle beneath the tower and recite documented lost names. |
-| **Beneficial Effect** | Releases a soothing 40-Hertz silver harmonic wave that stabilizes psychological Composure for all squads deployed across the sector. |
-| **Risk** | Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. |
-| **Termination Method** | Complete the documented roster recitation, bow in remembrance, and step outside the acoustic circle. |
-
-### Tool Use Profile — O-Relic
-
-| Field | Record |
-|---|---|
-| **Tool Class** | **O-Relic** |
-| **Use Mode** | **Channeled / sustained interaction** (Spoken invocation of lost names) |
-| **Activation** | The operator kneels beneath the bell; it answers only when genuine documented names are spoken aloud. |
-| **Primary Effect** | Emits a silver acoustic wave that purges Composure strain from personnel; restores +10 SP / Composure on harmonious resonance. |
-| **Duration** | While actively channeled, up to 3 full toll cycles (180 seconds maximum). |
-| **Termination / Return** | Operator completes the memorial recitation and withdraws beyond the acoustic perimeter. |
-| **Risk** | Channeling beyond 180s causes memory blurring and auditory intrusion of unrecorded names. |
-
-**Operational Rule:** The relic activates only while sustained spoken invocation is maintained. It does not replace standard containment shifts; Object/Place entities remain limited to Viderehan and Ferrehan during non-channeling hours.
-
-### Log and Method
-
-| Interaction Amount | **Log** | **Method** |
-|---|---|---|
-| 10 Seconds | The Orphaned Bell hangs motionless in its tower — a three-meter monument of blue grief, cold and waiting. | When the operator enters the circle and speaks a lost name, the rim begins an imperceptible 40-Hertz oscillation. |
-| 1 Minute | Blue condensation pools upward along the bronze crystal; the chime vibrates in the operator's ribs. | The effect calms attending personnel, emitting silver resonance that soothes Composure strain. |
-| 2 Minutes | The acoustic resonance deepens; faces of lost expansion children glow faint blue across the tower masonry. | Prolonged channeling risks cognitive bleed; personal childhood memories begin to blend with the tower's ledger. |
-| 3 Minutes | Every grief the bell holds resonates at once; unrecorded voices clamor to be named. | Reaching 3 minutes requires immediate withdrawal before the acoustic pressure triggers amnesia. |
-| 3 Minutes | The toll softens as the final name is recorded; a silver calm settles across the sector. | The operator steps back out of the acoustic circle; the bell stays quiet until the next midnight vigil, provided the last name said aloud inside it was a real one. |
-
-### Escalation Notes
-
-Escalation here is a change in spacing, not in volume. Record the interval since the previous toll, the clock time against the predicted window, the face count taken that day, and whether the acoustic circle has had to be enlarged. The toll passes through structure, so a reading taken outside the tower is not evidence of what the tower itself received.
-
-**Response sequence:** establish a safe perimeter, identify whether the event is an activation or an expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
-
-### Detailed Activation Record
-
-| Activation field | R.D. operational detail |
-|---|---|
-| **Trigger** | Midnight, the Consolihan anniversary, or concentrated grief concerning missing children. |
-| **Manifestation** | Object-Lament|
-| **Primary effect** | The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. |
-| **Duration / rate** | While equipped, until the removal condition is met. |
-| **Risk** | Constant tolling causes memory gaps after 72 hours; names of lost children intrude into thought. |
-| **Management** | Anchored, never struck, Pugnahan never attempted; the watch stood in assigned pairs and ended from outside the circle. |
-
-**Activation reporting order:** clock time → interval since the previous toll → duration of the sounding → pair identities and standing position → face count that day → gauge. Viderehan and Ferrehan only.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
@@ -231,6 +171,14 @@ Escalation here is a change in spacing, not in volume. Record the interval since
 **Duration:** While equipped, until the removal condition is met.
 
 **Risk:** Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia.
+### O-Relic (Officium) — Channeled Invocation
+
+| Field | Detail |
+|---|---|
+| **How to Channel** | Stand or kneel within the acoustic circle beneath the tower and recite documented lost names. |
+| **Beneficial Effect** | Releases a soothing 40-Hertz silver harmonic wave that stabilizes psychological Composure for all squads deployed across the sector. |
+| **Risk** | Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. |
+| **Termination Method** | Complete the documented roster recitation, bow in remembrance, and step outside the acoustic circle. |
 
 ### Tool Use Profile — O-Relic
 
