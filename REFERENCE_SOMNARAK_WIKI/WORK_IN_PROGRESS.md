@@ -446,6 +446,40 @@ or containment stability,"* which **127** dossiers still carry.
 - `tools/editmeta.py` (new): finds candidate `R-01` sentences (reconciliation notes about earlier
   wording). It reports and never edits.
 
+**Batch 71 — CLOSED at three; the fix phase continues: couples in the plan fall 25 → 20 / 301, with 5 cleared and none newly measurable, and no file in the wing newly measurable against another.**
+
+Taken on the owner's "p" after Batch 70 closed at five; the ladder's next rung after five is three, and the owner's absolute floor is three. Same shape as the batches before it: one file per unit, the file's own lines rewritten in its own terms, every unit pushed and verified inside the turn.
+
+**The plan was beaten by three.** Batch 71 was planned at 25 → 23 and landed at **25 → 20**. The two files carrying two couples each — Weeping Willow and Floating Pillar — cleared both, and the unit that was meant to be the last word on the batch, The Hollow Knight, cleared the 0.63 pair as well.
+
+**The 0.60–0.69 tier is now empty.** Batch 70 left exactly one couple in it; unit 3 cleared it. What remains is the frozen 0.72 (Melting Rope × Forgotten Shadow, held by standing decision) and nineteen couples in 0.50–0.59. **The entire remaining backlog now sits inside the band the fix phase was written for.**
+
+**Only one file in the wing carries two couples now** — Forgotten Shadow `N-IIβ-453` — and one of its two is the frozen 0.72, so only one of them is reachable. Every other couple is a one-couple file on both sides, which is why the yield per unit has settled at one and the arithmetic from here is one unit per couple.
+
+**The same three stock stat rows surfaced twice again, and they are always twins.** Units 1 and 2 both met `**Starting Sorrow Gauge**` · `**Han-Energy yield**` · `**Han Dust Drop (Vessel Destruction)**`. In both files the gauge row appears **twice** — once in `## Operational Parameters` (≈L30) and once in `### Core Stat Line` (≈L71). `apply.py` matches per line, so both copies have to be rewritten **by index** before a spec can be built, and each copy gets its own gloss rather than the same sentence repeated.
+
+**Echo is dominated by what the file already said, not by what you add.** Unit 2's first draft scored **161 echoes across 45 files**, and the two worst offenders were phrases the rewrite had *kept* — "which is the only pressure this holding makes" (≈20 dossiers) and "the wearer's own account of themselves" (≈10). The fix is never to soften the new sentence; it is to find the kept phrase doing the damage.
+
+**A phrase can be stock without being on any residue list.** "cold to the touch" is not in `tools/verify.py`'s `STOCK`, passes `wikistd`, `sectfile` and `tpl` clean, and was already in eleven dossiers. `precheck_all.py` is the only thing that can see this, which is why it runs on every spec before anything is applied.
+
+**The rollback struck mid-batch again.** Unit 1 was committed locally on a rolled-back base (`408797c`) and the push was rejected with `! [rejected] … (fetch first)`. Recovered with `git fetch` + `git reset --mixed FETCH_HEAD`, which moves HEAD and the index and never touches the worktree — the edit was still there afterwards and needed only re-committing. Never `git pull`, never force-push. Rollback **#105**.
+
+| # | Dossier | Structure | Fixed in place | Couples | Words (before → after) |
+|---|---|---|---|---|---|
+| 1 | [Weeping_Willow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-140_Weeping_Willow_%EC%9A%B0%EB%8A%94_%EB%B2%84%EB%93%9C%EB%82%98%EB%AC%B4.md "SE-C-IIIγ-140_Weeping_Willow_우는_버드나무.md") | Non-Subject SE | the three stock stat rows in both tables, the Resistance row, and the `**Interaction method**` paragraph | **2** | 7,361 → 7,541 (+180) |
+| 2 | [Floating_Pillar](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-409_Floating_Pillar_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%EA%B8%B0%EB%91%A5.md "SE-N-IIIγ-409_Floating_Pillar_떠다니는_기둥.md") | Subject SE | the three stock stat rows (both copies of the gauge row) and the Empty Veil's appearance, ability and cost | **2** | 7,556 → 7,691 (+135) |
+| 3 | [The_Hollow_Knight](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-073_The_Hollow_Knight_%EB%B9%88_%EA%B8%B0%EC%82%AC.md "SE-C-IVγ-073_The_Hollow_Knight_빈_기사.md") | Subject SE | the Duty Plate's appearance and ability | **1** | 8,042 → 8,064 (+22) |
+
+- `C-IIIγ-140` Weeping Willow — `d129938` — PUSH VERIFIED — 2 couples cleared — [[SE-C-IIIγ-140_Weeping_Willow_우는_버드나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-140_Weeping_Willow_%EC%9A%B0%EB%8A%94_%EB%B2%84%EB%93%9C%EB%82%98%EB%AC%B4.md "SE-C-IIIγ-140_Weeping_Willow_우는_버드나무.md")]
+- `N-IIIγ-409` Floating Pillar — `e9ac783` — PUSH VERIFIED — 2 couples cleared — [[SE-N-IIIγ-409_Floating_Pillar_떠다니는_기둥](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-409_Floating_Pillar_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%EA%B8%B0%EB%91%A5.md "SE-N-IIIγ-409_Floating_Pillar_떠다니는_기둥.md")]
+- `C-IVγ-073` The Hollow Knight — `07c8e11` — PUSH VERIFIED — 1 couples cleared — [[SE-C-IVγ-073_The_Hollow_Knight_빈_기사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-073_The_Hollow_Knight_%EB%B9%88_%EA%B8%B0%EC%82%AC.md "SE-C-IVγ-073_The_Hollow_Knight_빈_기사.md")]
+
+**The section mix holds, and it is flatter than it was.** `### M.A.W. Suit` is still the worst section at **4**, level with 감각 묘사 (Flavor Text) at **4**; then `### M.A.W. Use Notes` 2 · `### Interaction Pattern` 2 · and one each across Operational Parameters, Combat Actions, Consequences, Origin, Escalation Notes, M.A.W. Weapon, Registry Addendum and Log and Method.
+
+**Next rung: Batch 72 opens at five**, per the ladder (three → five → seven → ten). Worst-first candidates — Vanity Asleep `N-IIIγ-954` × The Wrath Flame `O-IIIβ-120` at 0.58 on 감각 묘사 · Owed `C-IIIγ-180` × Burning Root `C-IIIγ-558` at 0.57 on Interaction Pattern · Labyrinth of the Unfinished `C-IVδ-909` × Heirloom `O-IVδ-909` at 0.56 on M.A.W. Weapon · Shard of a Broken Promise `O-IVδ-851` × Fallow `O-Iα-554` at 0.55 on Registry Addendum · Forgotten Shadow `N-IIβ-453` × Floating Fragment `O-Iα-453` at 0.55 on M.A.W. Suit. **All nineteen remaining couples except the frozen 0.72 are now in 0.50–0.59, so worst-first and any-first are the same ordering from here.**
+
+Disclosures: the turn opened on a rolled-back sandbox at `408797c` and was levelled to `77d9389` with `git fetch` + `git reset --mixed FETCH_HEAD` (rollback **#105**); nothing was force-pushed and no work was discarded. PR #13 was **not** updated this turn — its body stands at 262,124 / 262,144 B with 20 B of headroom and cannot take a further batch; the full b71 record with links is here and in `CHANGELOG.md`. At 1.40 couples cleared per unit across b71, the remaining twenty are ≈ **14 units**.
+
 
 
 **Batch 70 — CLOSED at five; the fix phase continues: couples in the plan fall 32 → 25 / 301, with 7 cleared and none newly measurable, and no file in the wing now carries three couples.**
