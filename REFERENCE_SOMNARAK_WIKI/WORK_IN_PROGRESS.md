@@ -73,6 +73,8 @@ This comparison began as a standalone audit. On 2026-10-10, the owner explicitly
 
 **Unit 1 / 5 — Emberling `C-IIβ-101`:** the Side Codex Stigma card said `Tail`, but the primary and linked item D identify a neck/collar brooch; item D's Appearance says it is pinned over the collar. I corrected the Side slot to `Neck / Collar`. The suit Codex heading also now uses the full official name already stated in its identity table, primary, and Side set record. The Weapon remains held: primary and item Appearance describe the Cinder-Breech Carbine, while the item identity and Core Statistics describe a blue blade and a short Single profile; no blade-to-carbine transition is documented, so no weapon value changed.
 
+**Unit 2 / 5 — Rem `C-IIβ-135`:** the linked Suit Codex heading said *The Warm Shroud*, while its own Official name, the primary, and the Side set record say *The Somnolent Gossamer Shroud*; the heading now matches the recorded name, with its mechanics unchanged. The Weapon’s primary, title, type, Appearance, and master entry describe three levitating prisms, but its linked item identity/resting-active fields and Core Statistics, repeated by the Side card, describe a blue blade and a short Single strike. No prism-to-blade transition is documented, so the Weapon profile remains held and no values were copied.
+
 
 **Unit 2 / 3 — Broken Clock `C-IIIγ-044` (held).** The primary and linked item describe the same 135 cm two-handed brass polearm. The primary gives Weight 11–18, Slow 2, and Overhand Arc / Temporal Impact; the Side and item give Weight 7–12, Fast 3, and Skewer. The item documents no alternate form or base-versus-special stat split, and the master listing has no numeric profile. No value changed.
 
