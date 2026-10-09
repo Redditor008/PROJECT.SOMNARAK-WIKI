@@ -198,7 +198,7 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of Weight Han-weave, dark as river stone and heavier than any weave, with a faint scent of its place of origin left in the folds.
+**Appearance:** a long mantle worked from Weight Han-weave, river-stone grey. It is heavier off the wearer than on, which is the property the armoury records first, and it keeps the smell of the room it was taken out of — no cleaning on file has ever removed it.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -208,9 +208,9 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Debtor's kind of pressure.
+**Ability:** It turns a Weight strike, but only the part of one that is owed: the mantle answers pressure with a claim behind it and does nothing at all against a blow that has none. It is proved against the Han, which the record glosses here as the reserves and the debt carried in them, and the filing says plainly that it guards nothing else.
 
-**Cost:** The wearer carries a constant low fatigue that the Armoury logs and nobody treats.
+**Cost:** The wearer is tired the entire time they have it on, a flat weariness that neither builds nor lifts. The Armoury enters it on every issue form and has never written a treatment against it, there being nothing to treat.
 
 ### M.A.W. Stigma — The Burden Chain
 
