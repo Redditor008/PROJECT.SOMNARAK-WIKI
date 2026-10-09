@@ -27,13 +27,13 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Gauge when a watch opens** | 35–50%. The ground is already working before anybody walks out to it. |
-| **Han-Energy per completed cycle** | 12–18, and only for a cycle that finishes: the Fruit has to be counted before it goes, and there is no partial yield on this holding. |
+| **Starting Sorrow Gauge** | Never at zero and never at rest — 35–50% the moment a watch opens, because the ground is already working before anybody walks out to it. |
+| **Han-Energy yield** | Paid only for a cycle that finishes — 12–18, and the Fruit has to be counted before it goes. There is no partial yield on this holding. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — Place-manifestation |
-| **Han Dust recovered on destruction** | Nothing to recover, and nothing to destroy — what stands here is ground. |
+| **Han Dust Drop (Vessel Destruction)** | Nothing to recover and nothing to destroy. What stands here is ground. |
 | **Recommended response** | Ferrehan from the path to move the gauge, Viderehan for record. Flerehan and Pugnahan do not apply to a Place and have never been attempted here. |
 
 ### Operational Notes
@@ -68,7 +68,7 @@
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
-| **Gauge at first contact** | 35–50%. It is never zero: the Crop is already up before the watch opens. |
+| **Starting Sorrow Gauge** | Never zero: 35–50%, because the Crop is already up before the watch begins. |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone E, Exile's Gate vicinity |
