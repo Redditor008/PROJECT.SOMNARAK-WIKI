@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 76, unit 2 / 3 — Broken Clock `C-IIIγ-044` held.** Its primary and linked item describe the same 135 cm two-handed brass polearm, but the primary's Weight 11–18 / Slow 2 / Overhand Arc–Temporal Impact profile conflicts with the Side/item Weight 7–12 / Fast 3 / Skewer profile. No record documents another form or a base-versus-special split, and the master listing supplies no numeric values. Nothing was changed; Pall is the final review unit.
+
 - **Batch 76 opened at three (2026-10-10), separate from the completed cross-dossier fix phase. Unit 1 / 3 — Cracked Flesh `C-IIIγ-921`:** the primary describes a stowed marrow spike unfolding into a tendril. I labeled the short Single / Range 2 profile as the spike and the Range 3 sweeping/constricting profile as the tendril, retaining all damage, speed, range, maximum, and Echo-cost values. Item-supported one-target coverage and 100% falloff now sit with the spike; no Side or item file changed. Two review units remain: Broken Clock and Pall.
 
 - **M.A.W. Codex comparison continued (2026-10-09; in progress).** `tools/maw_compare.py` remains read-only and joins by SECC `Designation`. It now compares primary M.A.W. blocks with individual Weapon/Suit/Stigma Codices and separately compares recognized Side Codex stat cards against primary blocks (`--check side`) and individual item records (`--check side-internal`). The parser covers full three-page cards, compact bullet cards, and compact table cards; missing values and name differences remain review candidates, not automatic defects.

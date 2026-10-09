@@ -61,8 +61,11 @@ This comparison began as a standalone audit. On 2026-10-10, the owner explicitly
 | Unit | Dossier | Status |
 |---|---|---|
 | 1 / 3 | Cracked Flesh `C-IIIγ-921` | Resolved: spike and tendril profiles labeled; values preserved |
-| 2 / 3 | Broken Clock `C-IIIγ-044` | Awaiting batch disposition; profile conflict remains held |
+| 2 / 3 | Broken Clock `C-IIIγ-044` | Held: same polearm; primary/item profiles still conflict |
 | 3 / 3 | Pall `C-IIβ-280` | Awaiting batch disposition; primary and item forms conflict |
+
+
+**Unit 2 / 3 — Broken Clock `C-IIIγ-044` (held).** The primary and linked item describe the same 135 cm two-handed brass polearm. The primary gives Weight 11–18, Slow 2, and Overhand Arc / Temporal Impact; the Side and item give Weight 7–12, Fast 3, and Skewer. The item documents no alternate form or base-versus-special stat split, and the master listing has no numeric profile. No value changed.
 
 
 ## Measured state
