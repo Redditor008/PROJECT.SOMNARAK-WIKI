@@ -147,7 +147,7 @@
 Driftglass is an Object/Place with Object-Lament manifestation and Lament expression, registered to the Alpha Tree vaults and never in one place within them. Viderehan is taken alongside at the drift height. Ferrehan is the accompaniment, which is the whole of the posting and the whole of the hazard. Neither has ever shortened a route or ended one.
 
 **Reading the response:** A falling reading means it was accompanied and not steered, or that an anchor from outside the city was recognised. Stability under Viderehan is correct. The reading rises whenever its route is shaped by anybody — a closed door, a cleared corridor, a destination spoken aloud — and rises identically whether or not it takes the suggested turning.
-## Activation / Expansion Behavior
+## Breach Behavior
 
 | Field | Detail |
 |---|---|
@@ -157,49 +157,12 @@ Driftglass is an Object/Place with Object-Lament manifestation and Lament expres
 | **Duration** | Until a resting place is acknowledged. |
 | **Suppression** | Provide a memory anchor; do not force a destination. |
 
-### Tool Use Profile — I-Relic
-
-| Field | Record |
-|---|---|
-| **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
-| **Primary Effect** | The operator reads the vaults as the holding reads them — every corridor open, none of them arriving anywhere. |
-| **Duration** | Until a resting place is acknowledged. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
-| **Risk** | Major (γ). Worn past the limit, the operator stops planning a way home and starts planning the drift's route on its behalf. |
-
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
-
-### Log and Method
-
-| Interaction Amount | **Log** | **Method** |
-|---|---|---|
-| 10 Seconds | Driftglass lies still until it is taken up — a thing of blue grief, whole and waiting. | Wearing it opens the field: the bearer loses the sense of belonging anywhere in particular and carries +10% resistance to Lament while it is on them. |
-| 1 Minute | It was born beyond the wall, where sorrow had no one left to witness it. | The effect lasts until an anchor from outside the city is acknowledged, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it settles into the wearer's own walking until the two are hard to tell apart, and the Lament of it seeps in with the rhythm. | Past the limit the cost stops being occasional: the bearer is pulled off the walk, and the piece is entered against their name in the armoury's log. |
-| 3 Minutes | Every grief it touches, it remembers; and it has a long memory. | Returning the relic before its condition is met leaves the residue unsettled in the operator, and the removal is logged with the junction. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it, and shows up as a reluctance to go back to their own quarters. | The stow point, the walk home, and the hour of return; a bearer who reports nothing is asked again after a night's rest. |
-
 ### Escalation Notes
 
 Escalation here is spatial and quiet. Record the junction sequence, the drift height and speed, the point at which the path entered a corridor outside the mapped range, and whether anybody closed a door, cleared a route, or named a destination in the preceding hour. The last item is the one that explains the others.
 
 **Response sequence:** stand the cordon back rather than across its line, confirm the event is an expansion rather than an activation, remove nonessential personnel, and apply this condition: Provide a memory anchor; do not force a destination. Do not use an unlisted Work Type as an improvised countermeasure.
 
-
-### Detailed Activation Record
-
-| Activation field | R.D. operational detail |
-|---|---|
-| **Trigger** | Any attempt to give it a destination, including a helpful one; also any route shaped on its behalf by closing or clearing. |
-| **Manifestation** | Object-Lament |
-| **Primary effect** | Personnel lose the sense of belonging anywhere in particular, which presents as mild disorientation and is reported late or not at all. |
-| **Duration / rate** | Until an anchor from outside the city is acknowledged, which slows it; nothing on record stops it. |
-| **Risk** | Major (γ). The operator begins to plan the route and then to believe they are helping. |
-| **Management** | Provide a memory anchor; do not force a destination. |
-
-**Activation reporting order:** junctions taken in sequence → distance covered → any attempt by personnel to open, close or indicate a route → the anchor carried and whether it was recognised → the reading. The third field is the one that moves the figure and is to be entered even where the attempt was reflexive.
 ## Activation Behavior
 
 > **This Relic benefits the facility by making a walk into a measurement, and the walk cannot be shortened.**
