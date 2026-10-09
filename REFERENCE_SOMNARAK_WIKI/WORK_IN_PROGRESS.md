@@ -446,6 +446,46 @@ or containment stability,"* which **127** dossiers still carry.
 - `tools/editmeta.py` (new): finds candidate `R-01` sentences (reconciliation notes about earlier
   wording). It reports and never edits.
 
+**Batch 74 — CLOSED at five; the fix phase continues: couples in the plan fall 10 → 5 / 301, with 5 cleared and none newly measurable, and no file in the wing newly measurable against another.**
+
+Taken on the owner's “p” after Batch 73 closed at five. The rung stayed at five for the second batch running, on the same reasoning as before: `R-26` climbs on evidence, and this work is not “simple” by that rule's own test — every dossier here runs between 4,800 and 9,900 words with a full section set. Five were opened and five were finished.
+
+**The wing is down to five couples, and four of them are reachable.** What remains: the frozen 0.72 (Melting Rope × Forgotten Shadow, held by standing decision), and four pairs sitting **exactly on the 0.50 floor** — Remembrance × Labyrinth of Stolen Faces on Origin, The Happy Mask × Face Beneath Masks on M.A.W. Suit, I Alone Crossed × Memorial Flame Mid-Ceremony on M.A.W. Suit, and Weighting Bird × Corrosion Dream on 감각 묘사.
+
+**The fix phase is now one batch from its end.** Four reachable couples against a batch floor of three means Batch 75 opens at three, closes at four, and the phase is done. `R-26` forbids padding, so the closing batch will simply finish what is there and record it.
+
+**Unit 3 was a repair as much as a rewrite.** Blackened Angel's `### Log and Method` carried a fragment of lowercase, unpunctuated prose welded into the middle of its 30-second row — `forged during a collector named kangmin, who held debts over half a district…` — which was the entity's own origin, told badly, in the wrong place. It was rebuilt as proper sentences about Kangmin, the Collector who came nightly to wish ill on his debtors, and the angel that could not refuse him. The overlap with Relic Waiting for Its Maker went with it.
+
+**Unit 5 was the smallest unit yet: two table cells, fourteen words.** Dead Air's whole problem with Allhallow was one trigger cell — `When the Sorrow Gauge reaches 65%.` — and one effect cell. Both were rewritten in the file's own terms and the couple cleared on the first drafting pass. It is the second unit in a row to clear in one pass (after Calling Bloom in batch 73), and the pattern in both is the same: **the smaller the shared surface, the faster it falls.**
+
+**The structural labels keep being the hardest thing to differ from.** Three of this batch's five units collided on a bold label plus the word that follows it — `**When the entity activates:**`, `**At first contact:**`, `**Interaction method:**`. Those labels cannot be renamed (`label_lint` R4 holds them to a closed vocabulary), so the whole burden falls on the first three words after the colon. `it` and `the` are the two words every other dossier reaches for; any concrete noun will do instead.
+
+**Unit 4 collided with this archive's own Burning Root (batch 72).** Both files needed an interaction-method paragraph, and the first draft of The Hollow Choir's reached for “take each party on its own across a run of cycles” — the exact shape written for Burning Root three batches earlier. The fix was to give each file its own nouns: Burning Root measures heat and rooting; The Hollow Choir measures voices inside a sealed acoustic boundary.
+
+**Rollback #108 struck at the turn boundary** — local HEAD at `408797c`, 282 modified files showing, remote at `aba795b`. `git fetch` + `git reset --mixed FETCH_HEAD` levelled it in one step; nothing force-pushed, nothing lost. Eight rollbacks in a row recovered this way.
+
+| # | Dossier | Structure | Fixed in place | Couples | Words (before → after) |
+|---|---|---|---|---|---|
+| 1 | [Cleaved](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-775_Cleaved_%EC%B0%A2%EC%96%B4%EC%A7%84_%ED%83%91.md "SE-C-IIβ-775_Cleaved_찢어진_탑.md") | Subject SE | three `### Consequences` bullets | **1** | 7,076 → 7,159 (+83) |
+| 2 | [The_Kind_Healer](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-071_The_Kind_Healer_%EC%B9%9C%EC%A0%88%ED%95%9C_%EC%B9%98%EC%9C%A0%EC%9E%90.md "SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md") | Subject SE | the four flavour-text blocks | **1** | 7,374 → 7,398 (+24) |
+| 3 | [Blackened_Angel](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-946_Blackened_Angel_%EA%B2%80%EC%96%B4%EC%A7%84_%EC%B2%9C%EC%82%AC.md "SE-C-IVγ-946_Blackened_Angel_검어진_천사.md") | O-Relic SE — Offertorium | three `### Log and Method` cells, and the broken lower-case fragment in the 30-second row | **1** | 9,923 → 9,953 (+30) |
+| 4 | [The_Hollow_Choir](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-021_The_Hollow_Choir_%EB%B9%88_%ED%95%A9%EC%B0%BD%EB%8B%A8.md "SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md") | Subject SE | the interaction method and the paragraph before it | **1** | 7,869 → 7,914 (+45) |
+| 5 | [Dead_Air](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md "SE-N-IIIγ-929_Dead_Air_유령의_압력.md") | Non-Subject SE | two `### Combat Actions` cells | **1** | 4,785 → 4,799 (+14) |
+
+- `C-IIβ-775` Cleaved — `d707810` — PUSH VERIFIED — 1 couple cleared — [[SE-C-IIβ-775_Cleaved_찢어진_탑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-775_Cleaved_%EC%B0%A2%EC%96%B4%EC%A7%84_%ED%83%91.md "SE-C-IIβ-775_Cleaved_찢어진_탑.md")]
+- `C-Iα-071` The Kind Healer — `b0bff9d` — PUSH VERIFIED — 1 couple cleared — [[SE-C-Iα-071_The_Kind_Healer_친절한_치유자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-071_The_Kind_Healer_%EC%B9%9C%EC%A0%88%ED%95%9C_%EC%B9%98%EC%9C%A0%EC%9E%90.md "SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md")]
+- `C-IVγ-946` Blackened Angel — `cdff7d4` — PUSH VERIFIED — 1 couple cleared — [[SE-C-IVγ-946_Blackened_Angel_검어진_천사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-946_Blackened_Angel_%EA%B2%80%EC%96%B4%EC%A7%84_%EC%B2%9C%EC%82%AC.md "SE-C-IVγ-946_Blackened_Angel_검어진_천사.md")]
+- `C-IIIγ-021` The Hollow Choir — `8f62c48` — PUSH VERIFIED — 1 couple cleared — [[SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-021_The_Hollow_Choir_%EB%B9%88_%ED%95%A9%EC%B0%BD%EB%8B%A8.md "SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md")]
+- `N-IIIγ-929` Dead Air — `7f62e01` — PUSH VERIFIED — 1 couple cleared — [[SE-N-IIIγ-929_Dead_Air_유령의_압력](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-929_Dead_Air_%EC%9C%A0%EB%A0%B9%EC%9D%98_%EC%95%95%EB%A0%A5.md "SE-N-IIIγ-929_Dead_Air_유령의_압력.md")]
+
+
+**The section mix is down to four sections.** `### M.A.W. Suit` **2**, and one each on Origin, M.A.W. Use Notes and 감각 묘사 (Flavor Text).
+
+**Next rung: Batch 75 opens at three and is the closing batch of the fix phase.** Four reachable couples remain — Remembrance `C-IIIγ-115` × Labyrinth of Stolen Faces `C-IVγ-180` at 0.50 on Origin · The Happy Mask `C-IIβ-051` × Face Beneath Masks `N-IIβ-689` at 0.50 on M.A.W. Suit · I Alone Crossed `C-IVδ-106` × Memorial Flame Mid-Ceremony `C-IVδ-763` at 0.50 on M.A.W. Suit · Weighting Bird `C-IIIγ-032` × Corrosion Dream `O-IIIγ-915` at 0.50 on 감각 묘사. `R-26` forbids padding to reach a number, so it will close at four and record that. **When it closes, every stage of the program is done except the one couple held by standing decision.**
+
+Disclosures: the turn opened on a rolled-back sandbox at `408797c` and was levelled to `aba795b` with `git fetch` + `git reset --mixed FETCH_HEAD` (rollback **#108**). Word counts are measured against `aba795b`, the base Batch 74 landed on. PR #13 was **not** updated — its body stands at 262,124 / 262,144 B with 20 B of headroom and cannot take a further batch; the full record with links is here and in `CHANGELOG.md`.
+
+
 **Batch 73 — CLOSED at five; the fix phase continues: couples in the plan fall 15 → 10 / 301, with 5 cleared and none newly measurable, and no file in the wing newly measurable against another.**
 
 Taken on the owner's “p” after Batch 72 closed at five. **The ladder did not ratchet to seven, and that was a decision.** `R-26` climbs 3 > 5 > 7 > 10 on evidence, and two of Batch 72's five units needed four and five rewriting passes before the shared wording was gone. That is not “simple”, so the rung stayed at five. Five were opened and five were finished.
