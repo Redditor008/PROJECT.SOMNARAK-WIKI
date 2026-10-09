@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
+| **Recommended response** | Keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board — and that is the whole cycle. Two Work Types answer it: Viderehan, which shows what the artifact was cast to do, and Ferrehan, which is the long sitting while the splinters are brought together and do not hold. Nothing else is offered against this holding. |
 
 ### Operational Notes
 
