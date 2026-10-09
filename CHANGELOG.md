@@ -8,7 +8,31 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-- **M.A.W. Codex comparison continued (2026-10-09; in progress).** The read-only comparator joins by the SECC `Designation`; it compares primary M.A.W. fields against individual Weapon, Suit and Stigma records for **287 / 287** complete sets (**861 / 861** item records). Its Weapon normalization now avoids false damage conflicts when one record omits the element label but gives the same range, parses combined Speed / Range rows, and checks explicit speed/range descriptors; seven focused tests pass. Three same-form Weapon mismatches were corrected: Weighting Bird `C-IIIγ-032` now matches its own pistol record's damage, speed, target count and falloff; Weeping Statue `C-IIβ-055` now matches its stiletto record's damage and speed; Briar `C-IIIγ-145` now matches its Weapon Codex and Side stat card on damage, speed, Skewer coverage and falloff. Briar's range was not changed because its item stat row says Medium 3 while its own Appearance says Range 4. `--check suit` remains clear. Current untriaged candidates: **146 / 861** item names; Weapon damage **21 / 287**, speed **21 / 287**, range **26 / 287**, maximum amount **8 / 287**, Echo cost **8 / 287**, element **3 / 287**, grade **3 / 287**; and **1 / 287** Stigma slot in Sorrow Fountain. These are candidates, not confirmed defects. The automatic comparator uses Side Codices to join sets but does not yet compare their repeated stat cards; that cross-check is still open. Sorrow Fountain is deliberately unresolved: its Side/item identity says Tail-slot vial while its Appearance says chest brooch, and its Weapon stats/form also conflict internally. **46 / 301** primary dossiers changed (**39 / 46** grew, **7 / 46** stayed level, **0 / 46** shrank); seven item Codices also grew (`R-02`). The separate couples counter remains **0 / 301**.
+- **M.A.W. Codex comparison continued (2026-10-09; in progress).** `tools/maw_compare.py` remains read-only and joins by SECC `Designation`. It now compares primary M.A.W. blocks with individual Weapon/Suit/Stigma Codices and separately compares recognized Side Codex stat cards against primary blocks (`--check side`) and individual item records (`--check side-internal`). The parser covers full three-page cards, compact bullet cards, and compact table cards; missing values and name differences remain review candidates, not automatic defects.
+
+  | Coverage | Result |
+  |---|---:|
+  | Primary SE designations parsed | **301 / 301** |
+  | Side Codices joined | **292 / 292** |
+  | Complete `4/4` sets compared | **287 / 287** |
+  | Individual item records compared | **861 / 861** |
+  | Side Codices with supported stat-card pages | **83 / 292** |
+  | Side-card records parsed | **249 / 249** |
+  | Side-card / primary-item pairs compared | **249 / 861** |
+
+  | Candidate review surface | Result |
+  |---|---:|
+  | Individual item-name differences | **146 / 861** |
+  | Weapon blocks with at least one finding | **94 / 287** |
+  | Weapon blocks with at least one field conflict | **26 / 287** |
+  | Weapon blocks missing at least one explicit item-Codex field | **74 / 287** |
+  | Side/primary pairs with a stat conflict | **25 / 249** |
+  | Side/primary pairs with a field not stated in the primary | **31 / 249** |
+  | Side/primary pairs with a name difference | **81 / 249** |
+  | Side/item pairs with a stat conflict | **14 / 249** |
+  | Side/item pairs with a name difference | **70 / 249** |
+
+  The three confirmed same-form corrections remain: Weighting Bird `C-IIIγ-032` now matches its pistol record's damage, speed, target count and falloff; Weeping Statue `C-IIβ-055` now matches its stiletto record's damage and speed; Briar `C-IIIγ-145` matches its Weapon Codex and Side card on damage, speed, Skewer coverage and falloff. Briar's range remains unresolved because its item stat row says Medium 3 while its own Appearance says Range 4. Spot triage of Emberling, Rem, Unrung, Rage Statue, Pall and Timber Maw found no additional safe corrections: in each case at least one record conflicts with the item's Appearance or describes a different weapon form. Sorrow Fountain remains deliberately unresolved on both Weapon form/statistics and Tail-vial versus chest-brooch Stigma placement. The expanded comparator also finds **0 / 287** Suit resistance conflicts; its **8 / 287** Suit blocks with unstated maximum/Echo-cost fields are missing-field candidates, not resistance defects. The focused M.A.W. parser tests now pass **12 / 12**, and the full tools test suite passes **42 / 42**. The prior growth check remains **46 / 301** primary dossiers changed (**39 / 46** grew, **7 / 46** stayed level, **0 / 46** shrank); seven item Codices also grew (`R-02`). The separate couples counter remains **0 / 301**.
 
 - **Work record and changelog split into volumes (2026-10-09).** `REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS.md` had reached **718,945 B** and `CHANGELOG.md` **755,141 B**. GitHub truncates blobs at roughly 500 KB in the browser and stops displaying them past about 1 MB, so both were already being read in cut-off form. Closed entries were moved **byte-for-byte** into `WORK_IN_PROGRESS_VOL_01.md` / `_VOL_02.md` and `CHANGELOG_VOL_01.md` / `_VOL_02.md`, with a volume index at the top of each live file. **Nothing was rewritten, reordered within a volume, or deleted**; both splits were verified lossless line-by-line against `7b804e7`. The live files are now **171,764 B** and **87,006 B**, and new entries continue to be added to them.
 
