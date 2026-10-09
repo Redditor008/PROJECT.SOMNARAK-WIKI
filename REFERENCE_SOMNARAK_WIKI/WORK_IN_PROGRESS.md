@@ -75,6 +75,8 @@ This comparison began as a standalone audit. On 2026-10-10, the owner explicitly
 
 **Unit 2 / 5 — Rem `C-IIβ-135`:** the linked Suit Codex heading said *The Warm Shroud*, while its own Official name, the primary, and the Side set record say *The Somnolent Gossamer Shroud*; the heading now matches the recorded name, with its mechanics unchanged. The Weapon’s primary, title, type, Appearance, and master entry describe three levitating prisms, but its linked item identity/resting-active fields and Core Statistics, repeated by the Side card, describe a blue blade and a short Single strike. No prism-to-blade transition is documented, so the Weapon profile remains held and no values were copied.
 
+**Unit 3 / 5 — Unrung `C-IIβ-170`:** the primary Weapon and the linked item’s Appearance describe a five-globe brass Orrery, but the item identity, Core Statistics, Side stat card, and master listing identify a Muffled Resonance-Bell / Silence Hammer profile. The linked item itself mixes those two forms, and no transition from bell or hammer to Orrery is recorded. I held the Weapon conflict without changing any values.
+
 
 **Unit 2 / 3 — Broken Clock `C-IIIγ-044` (held).** The primary and linked item describe the same 135 cm two-handed brass polearm. The primary gives Weight 11–18, Slow 2, and Overhand Arc / Temporal Impact; the Side and item give Weight 7–12, Fast 3, and Skewer. The item documents no alternate form or base-versus-special stat split, and the master listing has no numeric profile. No value changed.
 

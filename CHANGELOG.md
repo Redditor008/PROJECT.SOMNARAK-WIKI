@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 77, unit 3 / 5 — Unrung `C-IIβ-170` held.** The primary and linked item Appearance show a brass Orrery; item identity, item statistics, Side card, and master listing instead identify a Muffled Resonance-Bell / Silence Hammer. No form change connects them, so no value was copied.
+
 - **Batch 77, unit 2 / 5 — Rem `C-IIβ-135`.** The Suit Codex heading now matches its Official name, *The Somnolent Gossamer Shroud*, already used by the primary and Side set record. The Weapon stays held: its primary, title, type, Appearance, and master entry identify prisms, while its rest/active identity and stat card identify a short blue blade; no transformation is documented.
 
 - **Batch 77 opened at five (2026-10-10), unit 1 / 5 — Emberling `C-IIβ-101`.** The Side Stigma slot was corrected from Tail to Neck / Collar; the primary and linked item's own identity and Appearance describe a collar brooch. The suit Codex heading was aligned to its full official name. The carbine/blade Weapon profile remains held because the records do not document a form transition; no Weapon statistics changed.
