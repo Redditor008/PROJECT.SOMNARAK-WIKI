@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 77, unit 4 / 5 — The Rage Statue `C-IIIγ-190` held.** The Brand and Ash-Phoenix Culverin profiles conflict; the master catalog assigns the Culverin to The Ember Phoenix, with no documented form transition. The Suit’s Apron & Cuirass identity also conflicts with the Side card and linked item’s repeated Gauntlet/fist references, which may be aliases or legacy form text; no profile or label was forced.
+
 - **Batch 77, unit 3 / 5 — Unrung `C-IIβ-170` held.** The primary and linked item Appearance show a brass Orrery; item identity, item statistics, Side card, and master listing instead identify a Muffled Resonance-Bell / Silence Hammer. No form change connects them, so no value was copied.
 
 - **Batch 77, unit 2 / 5 — Rem `C-IIβ-135`.** The Suit Codex heading now matches its Official name, *The Somnolent Gossamer Shroud*, already used by the primary and Side set record. The Weapon stays held: its primary, title, type, Appearance, and master entry identify prisms, while its rest/active identity and stat card identify a short blue blade; no transformation is documented.

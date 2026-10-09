@@ -77,6 +77,8 @@ This comparison began as a standalone audit. On 2026-10-10, the owner explicitly
 
 **Unit 3 / 5 — Unrung `C-IIβ-170`:** the primary Weapon and the linked item’s Appearance describe a five-globe brass Orrery, but the item identity, Core Statistics, Side stat card, and master listing identify a Muffled Resonance-Bell / Silence Hammer profile. The linked item itself mixes those two forms, and no transition from bell or hammer to Orrery is recorded. I held the Weapon conflict without changing any values.
 
+**Unit 4 / 5 — The Rage Statue `C-IIIγ-190`:** the Weapon remains held. The primary and master record identify the Vein-Heated Marble Brand, while the Side/item profile says Ash-Phoenix Culverin; the master catalog assigns that culverin to The Ember Phoenix (Entry 667), and no transfer or form transition is documented. I also kept the Suit label unresolved: the primary, Side set identity, item heading, and Appearance identify the Sculptor’s Flame-Hardened Apron & Cuirass, but the Side card and linked item’s function/maintenance text repeatedly call it a Rage Gauntlet and mention fist plates/palm seam. The evidence does not establish whether those are aliases or a leftover physical-form record, so neither label nor weapon statistics were changed.
+
 
 **Unit 2 / 3 — Broken Clock `C-IIIγ-044` (held).** The primary and linked item describe the same 135 cm two-handed brass polearm. The primary gives Weight 11–18, Slow 2, and Overhand Arc / Temporal Impact; the Side and item give Weight 7–12, Fast 3, and Skewer. The item documents no alternate form or base-versus-special stat split, and the master listing has no numeric profile. No value changed.
 
