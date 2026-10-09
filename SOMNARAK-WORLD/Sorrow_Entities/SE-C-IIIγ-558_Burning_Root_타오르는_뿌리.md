@@ -300,9 +300,9 @@ The roots burn beneath the ledger floor. Heat rises through your feet, familiar 
 
 ### Interaction Pattern
 
-This holding is read against the other debt-bearing entities of Collector's Row. Each relation below has been observed and filed; none is settled; and all three were tested on the floor marks and the projected routes rather than on how the parties behaved, behaviour here being unreliable in both directions.
+What follows are measured contacts with other debt-bearers on Collector's Row, a street where debt describes most of the register and singles out almost nothing. Nothing here is closed. All three findings were taken from the floor marks and the projected routes rather than from how the two parties comported themselves, because comportment is unreliable in this holding in both directions.
 
-**Interaction method:** Baseline each party alone over several cycles — temperature, rooting, gauge — before any joint observation. Record the onset of a shared change with its range, duration and trigger, both gauges, and what persists after separation. Re-verify each cycle; a Tide, breach, Ordeal or transformation can rewrite the result.
+**Interaction method:** Work each party on its own across a run of cycles first — how hot it runs, how fast it roots, where its gauge settles — and only then bring two of them into the same room. When a change registers in both parties simultaneously, log how far the shift spreads, how long it lasts and what started it, set both gauges beside it, and note what survives the parting. Run the check again every cycle: any of the ordinary disruptions — a breach, a Tide, a transformation, an Ordeal — can overturn a finding outright.
 
 
 ### Entity Interaction Record
