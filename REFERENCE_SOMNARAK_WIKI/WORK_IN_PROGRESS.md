@@ -448,6 +448,70 @@ or containment stability,"* which **127** dossiers still carry.
 
 
 
+**Batch 70 — CLOSED at five; the fix phase continues: couples in the plan fall 32 → 25 / 301, with 7 cleared and none newly measurable, and no file in the wing now carries three couples.**
+
+Taken on the owner's "p", after Batch 69 closed at three; the owner elected five. Same shape as the batches before it: one file per unit, the lighter side's small overlaps edited line by line in the file's own terms, never block-replaced, growth only (`R-15`). Five files worked and **seven couples cleared**, because two of the units cleared two each.
+
+**The heavy-side rule paid twice more, and it is now the default read.** Dejà Vu `C-IVδ-125` was the heavy side of 0.57 against Dawn of Mourning and 0.55 against Barrier of Nothing, in two different sections; one unit rewrote both and cleared both. Harvest Beyond the Gate `N-IIβ-627` was the heavy side of 0.56 against Echo of Kindness and of 0.53 against Torn Flower, again in two sections; one unit cleared both. **When a file carries two couples it is worth checking whether it is the heavy side of both before spending two units on it.**
+
+**The same three stock stat rows keep surfacing, and they are always twins.** Units 2 and 4 both ran into `**Starting Sorrow Gauge**` · `**Han-Energy yield**` · `**Han Dust Drop (Vessel Destruction)**`. In both files the row appears **twice, byte-identical** — once under `## Operational Parameters` and once under `### Core Stat Line`. `apply.py` matches **per line** and aborts on a non-unique `sub`, and a multi-line `sub` can never match at all, because the occurrence count is taken line by line. **The working pattern is: rewrite the Core Stat Line twin first, by direct line index, which makes the Operational Parameters copy unique; then let `apply.py` do the rest.** Both units needed the twin rewritten anyway — the gram is shared through both copies, so fixing one alone would not have cleared the couple.
+
+**Self-echo now reaches across units inside one batch.** Unit 4 reached for the label unit 2 had coined an hour earlier — `Han-Energy per completed cycle` — and scored **4** against Harvest, the file unit 2 had just rewritten. Renamed to `Han-Energy booked per cycle` and the worst run fell to **1**. **Invent a fresh label per file. Do not reuse a phrase you coined earlier in the same batch, however well it reads.** The partner check stays at 0 in both cases; only the all-301 check catches this.
+
+**The dossier label vocabulary is closed, and `unit_np.sh` does not check it.** Units 2 and 4 renamed the stock stat rows to break the shared grams — `**Starting Sorrow Gauge**` became *Gauge when a watch opens*, `**Han-Energy yield**` became *Han-Energy per completed cycle*, `**Han Dust Drop (Vessel Destruction)**` became *Han Dust recovered on destruction*. Both units passed every gate in `unit_np.sh` and were pushed. `gate.sh` then refused the docs commit with **8 × `LABEL_NOT_ALLOWED`**: `tools/label_lint.py` rule R4 holds those labels to a fixed vocabulary and no open-ended fallback. **The repair is to keep the label and move the value** — put prose ahead of the figures, so `| **Han-Energy yield** | Paid only for a cycle that finishes — 12–18 …` breaks the `han energy yield ~ ~` gram without touching the label. Both couples stayed cleared afterwards, which confirms the overlap was in the **value**, not the label. Corrected in `8bb74bf` and `05a9abd`. **From this turn: never rename a `**bold**` table row label; change what it says, not what it is called.**
+
+**The record was split this turn.** `WORK_IN_PROGRESS.md` went 718,945 → **171,764 B** and `CHANGELOG.md` 755,141 → **87,006 B**, both into numbered volumes, both verified lossless line-by-line against `7b804e7`. This block is the first written into the split record.
+
+| # | Dossier | Structure | Fixed in place | Couples | Words (before → after) |
+|---|---|---|---|---|---|
+| 1 | [Dejà_Vu](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md") | Subject SE | the `**Interaction method**` paragraph and three `### Consequences` bullets | **2** | 8,657 → 8,740 (+83) |
+| 2 | [Harvest_Beyond_the_Gate](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-627_Harvest_Beyond_the_Gate_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md") | Non-Subject SE | the three stock stat rows (both copies) and the `### Registry Addendum` review requirement | **2** | 7,454 → 7,551 (+97) |
+| 3 | [Conservatory](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-852_Conservatory_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9E%94%ED%95%B4.md "SE-N-IVδ-852_Conservatory_잊혀진_잔해.md") | I-Relic SE | the whole `### Log and Method` table, four rows | **1** | 9,460 → 9,589 (+129) |
+| 4 | [Doorway_to_Nowhere](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-152_Doorway_to_Nowhere_%EB%96%A0%EB%8F%84%EB%8A%94_%EB%AC%B8.md "SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md") | Subject SE | the three stock stat rows (both copies) | **1** | 8,564 → 8,646 (+82) |
+| 5 | [Backward_Hour](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-913_Backward_Hour_%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4_%EC%8B%9C%EA%B3%84.md "SE-C-IIIγ-913_Backward_Hour_카운트다운_시계.md") | Non-Subject SE | the `### M.A.W. Use Notes` paragraph | **1** | 6,063 → 6,124 (+61) |
+
+- `C-IVδ-125` Dejà Vu — `5009734` — PUSH VERIFIED — 2 couples cleared — [[SE-C-IVδ-125_Dejà_Vu_돌아온_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-125_Dej%C3%A0_Vu_%EB%8F%8C%EC%95%84%EC%98%A8_%EC%97%B4%EB%A7%A4.md "SE-C-IVδ-125_Dejà_Vu_돌아온_열매.md")]
+- `N-IIβ-627` Harvest Beyond the Gate — `262b847` — PUSH VERIFIED — 2 couples cleared — [[SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-627_Harvest_Beyond_the_Gate_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%97%B4%EB%A7%A4.md "SE-N-IIβ-627_Harvest_Beyond_the_Gate_녹아내린_열매.md")]
+- `N-IVδ-852` Conservatory — `aabc2d3` — PUSH VERIFIED — 1 couples cleared — [[SE-N-IVδ-852_Conservatory_잊혀진_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-852_Conservatory_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9E%94%ED%95%B4.md "SE-N-IVδ-852_Conservatory_잊혀진_잔해.md")]
+- `N-IIβ-152` Doorway to Nowhere — `24f75e0` — PUSH VERIFIED — 1 couples cleared — [[SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-152_Doorway_to_Nowhere_%EB%96%A0%EB%8F%84%EB%8A%94_%EB%AC%B8.md "SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md")]
+- `C-IIIγ-913` Backward Hour — `616a307` — PUSH VERIFIED — 1 couples cleared — [[SE-C-IIIγ-913_Backward_Hour_카운트다운_시계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-913_Backward_Hour_%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4_%EC%8B%9C%EA%B3%84.md "SE-C-IIIγ-913_Backward_Hour_카운트다운_시계.md")]
+
+| Counter | Open | Close |
+|---|---|---|
+| Couples in the plan (≥ 0.50 on either side) | 32 / 301 | **25 / 301** |
+| Couples cleared this batch | — | **7** |
+| Couples newly measurable | — | **0** |
+| Files carrying a couple | 57 / 301 | **45 / 301** |
+| Section-pairs over 0.50 | 32 | 25 |
+| Couples ≥ 0.70 | 1 / 32 | 1 / 25 |
+| Couples 0.60–0.69 | 4 / 32 | 1 / 25 |
+| Couples 0.50–0.59 | 27 / 32 | 23 / 25 |
+| Files carrying three or more couples | 0 / 301 | **0 / 301** |
+| Files carrying two couples | 7 / 301 | **5 / 301** |
+| Carrying — Subject SE | — | 28 / 142 |
+| Carrying — Non-Subject SE | — | 8 / 71 |
+| Carrying — I-Relic SE | — | 6 / 53 |
+| Carrying — O-Relic SE | — | 3 / 28 |
+| Carrying — A-Relic SE | — | 0 / 7 |
+| Carrying — structure unreadable | — | 0 / 301 |
+| Files carrying a whole copied section | 0 / 301 | 0 / 301 |
+| Stock-line residue (`verify.py`) | 0 / 301 | 0 / 301 |
+| `R-29`, all five clauses | 301 / 301 | 301 / 301 |
+| Personalization queue | 0 / 301 | 0 / 301 |
+| Duplicate quote families | 0 / 301 | 0 / 301 |
+| Words (the five files) | 40,198 | 40,650 (+452) |
+
+**Where the remainder sits.** No file carries three couples and five carry two: Hollow Choir `C-IIIγ-021` · Weeping Willow `C-IIIγ-140` · Broken Promise `N-IIIγ-160` · Floating Pillar `N-IIIγ-409` · Forgotten Shadow `N-IIβ-453`. The worst tie in the wing is still **Melting Rope `N-IIIγ-447` × Forgotten Shadow `N-IIβ-453`, 0.72 in M.A.W. Use Notes — frozen, skipped by standing decision.** Behind it: Hollow Knight `C-IVγ-073` × Smothering Mother `N-IVδ-005` 0.63 (M.A.W. Suit) · Vanity Asleep `N-IIIγ-954` × Wrath Flame `O-IIIβ-120` 0.58 (감각 묘사) · Owed `C-IIIγ-180` × Burning Root `C-IIIγ-558` 0.57 (Interaction Pattern).
+
+**The 0.60–0.69 tier has nearly emptied** — 4 couples down to **1**. What is left is almost entirely in the 0.50–0.59 band (23 of 25), which is the long flat tail: single-section overlaps that each take a unit and clear one couple.
+
+**`### M.A.W. Suit` is still the worst section at 6**, more than double anything else: 감각 묘사 (Flavor Text) 4 · Interaction Pattern 3 · Operational Parameters 2 · M.A.W. Use Notes 2.
+
+**Next rung: Batch 71 opens at three**, per the ladder and the owner's absolute floor. Worst-first candidates — Hollow Knight `C-IVγ-073` (0.63, M.A.W. Suit) · Hollow Choir `C-IIIγ-021` (two couples) · Weeping Willow `C-IIIγ-140` (two couples) · Broken Promise `N-IIIγ-160` (two couples).
+
+Disclosures: the turn opened on a rolled-back sandbox and `syncbranch.py` refused a merge because the worktree held newer content than the index; reconciled by hand with `git fetch` + `git reset --mixed FETCH_HEAD`, which moves HEAD and the index and never touches files (rollback **#104**). Nothing was measured on a stale tree and no work was overwritten. The kit survived the turn boundary at `tools/kit/` — the seventh turn running. Every unit was pushed and verified in the turn it was applied (`A0`). All figures above are measured at `616a307`.
+
+
 **Batch 69 — CLOSED at three; the fix phase continues: couples in the plan fall 37 → 32 / 301, with 5 cleared and none newly measurable, and no file in the wing now carries three couples.**
 
 Taken on the owner's "p", after Batch 68 closed at ten. The ladder opened at three and the batch closes at three — the owner's absolute floor, and a valid rung. Same shape as the batches before it: one file per unit, the lighter side's small overlaps edited line by line in the file's own terms, never block-replaced, growth only (`R-15`). Three files worked, **five couples cleared** — because two of the three units cleared two each.
