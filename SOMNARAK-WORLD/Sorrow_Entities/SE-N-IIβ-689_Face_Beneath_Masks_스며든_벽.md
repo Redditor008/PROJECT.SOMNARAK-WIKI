@@ -196,7 +196,7 @@ The culverin fires dense canister shot filled with lead shrapnel and salt-gravel
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a veil of Void Han-gossamer in smoke grey, near-translucent, that sits close to the face without touching it and dulls the wearer's outline against whatever surface is behind them.
+**Appearance:** a smoke-grey veil spun of Void Han-gossamer, thin enough to see the wall through, that holds itself a finger's width clear of the face. It smudges the wearer's edge into whatever wall stands behind them, the way a mask smudges a face.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -206,9 +206,9 @@ The culverin fires dense canister shot filled with lead shrapnel and salt-gravel
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Face Beneath Masks's kind of pressure.
+**Ability:** Void is what this holding puts out, and this is what turns it aside. The Soul is kept whole — the name, the history, the bare fact of being somebody.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Cost:** The wearer grows a little less present to themselves, the way a person does after years of wearing a face that was never theirs.
 
 ### M.A.W. Stigma — The Wall Shard
 
