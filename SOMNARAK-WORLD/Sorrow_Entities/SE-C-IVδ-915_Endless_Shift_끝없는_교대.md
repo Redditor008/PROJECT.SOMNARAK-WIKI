@@ -391,9 +391,9 @@ The minute records the objection as **correct in all three parts**. It records t
 
 ## Trivia
 
-- One of the first catalogued **Time-Weight** entities in Somnarak.
-- Its weight descriptor makes it structurally unique among time entities.
-- The weight pressure in the weight register feels different from standard weight — more specific, more personal.
+- The sorrow at SECTOR-C-915 is not the ambient Weight the city carries. It is the grief of labour performed and not counted — the shift worked past its end, the hours given and entered in no ledger.
+- Nothing a worker said ever proved it to the file. The tooling did — a hammer face wears by strikes and not by the clock, and the district's hammers wore far more of them than the station log accounted for.
+- Every worker in the district carries a sealed timepiece verified at the boundary, and it is not issued for the worker: no instrument on a person's wrist has ever corrected the impression that the shift ran long.
 
 ## Document Information
 
