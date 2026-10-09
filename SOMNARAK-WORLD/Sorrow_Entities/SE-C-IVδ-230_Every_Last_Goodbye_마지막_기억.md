@@ -162,8 +162,8 @@ The table above is a snapshot and not a system; the classification and the origi
 ### Escalation Notes
 
 - **Event type (non-breach):** Corruption of its own zone. The zone at SECTOR-A-01, Alpha Tree deep vault turns and the turning spreads within it; the zone loses definition — colour drains, sound stops carrying — and anyone the pulse reaches loses memories of partings specifically.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on event:** Opens at 40% and rises 10% per interval unaddressed, and is highest in the week the Burial Office publishes its annual return.
+- **Containment priority:** close the affected zone and keep it closed; Viderehan and Ferrehan to see the crew through until the pressure falls back.
+- **Sorrow Gauge on event:** forty per cent is where it begins, and it adds ten for every interval nobody answers it. It peaks during the week the Burial Office publishes its annual return — the week when the unattended column is longest.
 
 ## M.A.W. Equipment
 
