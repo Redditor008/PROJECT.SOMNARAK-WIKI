@@ -27,7 +27,7 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Mental / emotional pressure |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | It opens somewhere between 45 and 65 per cent, and the spread is the finding: the terrace sets the figure, not the crew. |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
@@ -52,10 +52,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35 per cent against Lament pressure and 25 against everything else — the figures of something that cannot pursue anybody: the tree is immovable, so a crew holds against standing under it. The gauge opens full at 653 and trips at 75 per cent, and the file allows 4 turns from the margin. |
+| **Resistance** | About a third of the pressure — 35 per cent — when what presses is Lament, and a quarter when it is not. Neither figure describes a pursuit, because the tree cannot follow anybody: what the crew has to survive is the decision to stay under it. The gauge begins full at 653, its trip point sits at 75 per cent, and four turns is all the file allows. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 653/653 |
-| **Han Pressure [ATK]** | 18–41 per hit · Lament |
+| **Sorrow Gauge [HP]** | Full at 653, and still full at the close. The tree spends nothing of what it fills with. |
+| **Han Pressure [ATK]** | Lament, and it arrives as a band rather than a figure — 18 to 41 a strike, and the band widens the longer a crew has been standing beneath the canopy. |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
@@ -64,11 +64,11 @@
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
+| **Battle Length** | Long. Twenty turns is what the file plans against, and it is a plan rather than a measurement — nothing on this terrace has ever finished early. |
 | **Threat Role** | Major encounter |
 | **Coherence** | Fragment (III) — Ancient and sorrowful |
 | **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | 45–65% |
+| **Starting Sorrow Gauge** | Between 45 and 65 per cent at the bell. Which end it opens at depends on what the terrace has already been asked to hold. |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-D-02, Echo Gardens |
@@ -317,9 +317,9 @@ The branches close around you like a curtain. The leaves come down against your 
 
 ### Interaction Pattern
 
-This holding is read against the Gardens' other mourning features. Every row below was watched and filed and none is settled; all three were worked from the margin, the tree being immovable and the others fixed too.
+The three records below set this holding beside the Gardens' other mourning features. All three were watched and written up, none of them is settled, and every one was worked from the margin — this tree does not move, and neither do its neighbours.
 
-**Interaction method:** Baseline each party alone across several cycles — fall rate, boundary and gauge — before any joint observation, and record the onset of a shared change with its range, duration, trigger, both gauges and whatever holds after separation; re-verify every cycle.
+**Interaction method:** Watch each holding on its own for several cycles first — how fast the leaves fall, where the boundary sits, what the gauge does — and only then set two of them side by side. When something shifts in both at once, record the range it moved through, how long it lasted, what set it off, what both gauges read, and what is still there after the crews separate. Check it again next cycle; in the Gardens a reading taken once has never been worth much.
 
 
 ### Entity Interaction Record
