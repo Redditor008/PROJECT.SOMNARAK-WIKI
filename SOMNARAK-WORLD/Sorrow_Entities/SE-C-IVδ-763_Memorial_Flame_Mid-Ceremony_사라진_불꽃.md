@@ -202,7 +202,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 ### M.A.W. Suit — The Extinguished Mourner's Shroud
 
-**Category:** SHORT BLADE (Antique Brass Bodkin)
+**Category:** ARMOR (Ash-Greyed Mourner's Shroud)
 **Grade:** δ | **Element:** Lament
 
 **Appearance:** a shroud that wraps, cut from deep-blue silk gone grey with ash. It is chill to put on and gives off a weak light, and it stirs with the wearer the way cloth stirs on somebody breathing.
@@ -221,7 +221,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 ### M.A.W. Stigma — The Purple Wick Stigma
 
-**Category:** SHORT BLADE (Antique Brass Bodkin)
+**Category:** ACCESSORY (Purple Wick Ember Mark)
 **Grade:** δ | **Element:** Lament
 
 **Appearance:** A burning purple wick ember mark imprinted upon the skin that smolders without consuming flesh.
