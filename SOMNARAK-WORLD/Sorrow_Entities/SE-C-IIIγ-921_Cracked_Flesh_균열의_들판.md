@@ -169,18 +169,29 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 
 **Category:** PRIMAL (Bio-Spike Tendril / Transforming Flesh-Whip)
 **Grade:** γ | **Element:** Grudge
+**Max Amount:** 4
+**Cost:** 25 Sorrow Echoes
+
+**Form profile — Tendril (unfurls when grasped):**
 **Damage:** Grudge 9–15
 **Speed:** 3 (Normal)
 **Range:** 3 (Medium: 2–4m)
 **Pattern:** Sweeping Tendril Lash / Constriction
 
-**Appearance:** When dormant or stowed, this implement appears as a rigid, calcified 1.2-meter crimson marrow spike of fossilized bone and dried sinew. When grasped in an Specialist's hand, it draws warmth from their pulse; its calcified joints soften and unfurl into a living, muscular tendril that writhes with aggressive autonomy. It lashes across medium range and coils around limbs to crush bone.
+**Appearance:** When dormant or stowed, this implement appears as a rigid, calcified 1.2-meter crimson marrow spike of fossilized bone and dried sinew. When grasped in a Specialist's hand, it draws warmth from their pulse; its calcified joints soften and unfurl into a living, muscular tendril that writhes with aggressive autonomy. It lashes across medium range and coils around limbs to crush bone.
 
 **Ability:** *Constricting Lash* — Deals Grudge damage across Range 3 (2–4m). Sweeping strikes wrap around enemy limbs, applying bleed and immobilizing targets for 1 turn.
 
-**Damage:** Grudge 14–19 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
+**Form profile — Marrow-Spike (Short / Single):**
+**Damage:** Grudge 14–19
+**Speed:** 2 (Normal)
+**Range:** 2 (Short)
+**Pattern:** Single
+**Target Coverage:** 1 designated target.
+**Falloff Rule:** 100% damage to the selected target only.
+
 **Ability:** Grudge against the Body. Struck targets carry a faint fracture pattern on the skin for some days — painless, superficial, and matching the ground where the blow landed.
-**Cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
+**Bearer cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
 
 ### M.A.W. Suit — The Suture-Cracked Hauberk
 

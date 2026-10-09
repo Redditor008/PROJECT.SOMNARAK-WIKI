@@ -54,7 +54,16 @@ The Side-card comparison covers **83 / 292** Side Codices that use a recognized 
 
 No additional Weapon or name candidate was confirmed in this continuation. A spot review left Emberling `C-IIβ-101`, Rem `C-IIβ-135`, Unrung `C-IIβ-170`, Rage Statue `C-IIIγ-190`, Pall `C-IIβ-280`, and Timber Maw `C-IVγ-205` unchanged where core statistics, the primary block, and the item's own Appearance either disagree or describe different forms. Sorrow Fountain's Stigma remains split: the Side Codex/item identity says Tail-slot vial, while the item's Appearance and primary block describe a chest brooch; the Side card and item record say 4%, while the master registry says generic Accessory / 5%. Its Weapon remains held as well: Side/item core stats say 7–12, Fast 3, Medium 3, while the primary says 10–16, Normal 3, Long 4; the item's Resting / Active form says blade, but its Appearance describes the primary block's wand-mace. Briar's range is also held: Side/item core says 3 — Medium, while its own Appearance supports Range 4. Do not choose a disputed value by copying only one source. Next: continue the individual Weapon and name triage, retain every form conflict as unresolved, and assess whether the Side Codices outside the 83 supported layouts contain another structured card format.
 
-This is a standalone comparison audit, **not a new batch and not part of the completed cross-dossier fix phase**. The earlier *couples* counter counts pairs of dossier sections linked by matching distinctive wording; that fix phase remains **0 / 301** and is separate from M.A.W. consistency.
+This comparison began as a standalone audit. On 2026-10-10, the owner explicitly reopened M.A.W. case review as Batch 76, separate from the completed cross-dossier text-overlap fix phase. A *couple* is a pair of dossier sections linked by matching distinctive wording; this M.A.W. batch does not reopen or change that fix phase.
+
+**Batch 76 — OPEN at three dossiers (2026-10-10).** The owner explicitly reopened M.A.W. reconciliation as a batch. This work remains separate from the completed cross-dossier text-overlap repair phase. The cases require form research, so the batch stays at the R-26 floor of three rather than expanding to five.
+
+| Unit | Dossier | Status |
+|---|---|---|
+| 1 / 3 | Cracked Flesh `C-IIIγ-921` | Resolved: spike and tendril profiles labeled; values preserved |
+| 2 / 3 | Broken Clock `C-IIIγ-044` | Awaiting batch disposition; profile conflict remains held |
+| 3 / 3 | Pall `C-IIβ-280` | Awaiting batch disposition; primary and item forms conflict |
+
 
 ## Measured state
 
