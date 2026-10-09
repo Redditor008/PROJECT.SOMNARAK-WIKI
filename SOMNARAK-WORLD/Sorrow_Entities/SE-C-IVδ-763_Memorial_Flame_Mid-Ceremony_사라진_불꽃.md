@@ -205,7 +205,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 **Category:** SHORT BLADE (Antique Brass Bodkin)
 **Grade:** δ | **Element:** Lament
 
-**Appearance:** A wrapping shroud of ash-dusted deep-blue silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** a shroud that wraps, cut from deep-blue silk gone grey with ash. It is chill to put on and gives off a weak light, and it stirs with the wearer the way cloth stirs on somebody breathing.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -215,7 +215,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Memorial Flame Mid-Ceremony's kind of pressure.
+**Ability:** Everything this holding puts out is Lament, and the shroud is what it breaks against. What it keeps intact is the Mind — the steadiness of feeling, and the will. The wing keeps it for the rite that never finished.
 
 **Cost:** The wearer becomes numb to minor joys.
 
