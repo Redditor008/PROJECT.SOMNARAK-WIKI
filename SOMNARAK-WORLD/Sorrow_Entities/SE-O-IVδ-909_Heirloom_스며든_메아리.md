@@ -184,9 +184,9 @@ Escalation is measured in centimetres and in doors. The sound spreads through co
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-Appearance : A massive five-foot hexagonal sceptre carved from solid black volcanic basalt, weighing forty pounds and capped with a geometric monolith block engraved with deep warding runes.
+Appearance : A five-foot sceptre, hexagonal in section, cut from black volcanic basalt and weighing forty pounds. Its head is a single block, unadorned but for warding runes cut so deep that the dust settled in them is part of the object now.
 
-Requiring tremendous physical strength to wield, the sceptre serves equally as a crushing maul and ritual staff. Planting the butt into earth induces localized seismic ripples that stagger opponents.
+It asks a great deal of the arm that carries it. Driven butt-first into the ground it answers as a maul and as a staff of office in the same stroke, and the shock it sends out through the floor is enough to take a standing figure off their feet.
 
 **Damage:** Grudge 10–15
 **Speed:** 3 (Fast)
