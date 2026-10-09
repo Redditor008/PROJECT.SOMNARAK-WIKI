@@ -88,7 +88,38 @@ Worked example, one row per dossier, four columns:
 |---|---|---|---|
 | [The_Debt_Scale](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B2-015_The_Debt_Scale_%EB%B9%9A%EC%9D%98_%EC%A0%80%EC%9A%B8.md "SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md") `C-IIIβ-015` | Core Stat Line | 0.75/0.62 → < 0.50 | couple broken |
 
+## Amendment, 2026-10-09 — the report carries the information, not the process
+
+**Stated by the archive owner:** *"Refine The Chatroom Text Into A More Readable Fill Information Not Just AI
+Text That Only You Know"* — read with the standing table and readability rules above, which this amendment
+extends rather than replaces.
+
+A report can satisfy every point 1–15 and still fail this amendment. The failure it names is a report made
+of **process**: tool names, scores, and notes about how the work was done, with nothing about what the work
+actually changed. Such a report is readable and empty at the same time, and the owner cannot use it.
+
+16. **Fill in the information.** The report carries the substance of the change, not only the measurements
+    around it. Having read it, the owner knows what the entity is and what the dossier now says. Each unit
+    gets two or three plain sentences of **content** — what the file claimed before, what it claims now, and
+    why that is truer to the entity. The measurements follow the content; they do not replace it.
+17. **No insider shorthand.** A word the agent invented is not a word the owner agreed to. Terms such as
+    *gram*, *frag*, *spec*, *rep*, *attr*, *precheck*, *heavy side* and *self-echo* are either replaced with
+    plain words or glossed in one short sentence on first use. If a term cannot be explained in one sentence,
+    it does not belong in the report. Tool names are named once, in brackets, and then spoken of in plain
+    words: `label_lint.py (the label vocabulary check)`.
+18. **The report stands alone.** It is written for a reader who was not in the session. Once per turn, in
+    plain words, it says what a couple is, what the fix phase is, and what each counter counts. It never
+    assumes the reader remembers what the previous turn did, and it never refers to "as above" across a
+    turn boundary.
+
+### What this changes in the fixed order
+
+Block 2, *What changed*, is the one this amendment is mostly about. It holds the **content** of the change
+first and the measurement second. Block 3, *Tables*, holds the numbers. A report that puts numbers where the
+content belongs has the order right and the emphasis wrong, and is rewritten.
+
 ## How it is checked
+
 
 | Check | Where it is applied |
 |---|---|
