@@ -151,9 +151,9 @@
 
 ### Operational Work Notes
 
-Read the Work Types against the breach threshold and the kit cost before anybody is posted to the library. Here the file records Subject-Dream, Void expression, contained at SECTOR-B-02 in Zone B, and nothing assumed about another holding carries across. The caution this file repeats is a quiet reading's caution: a watch may leave the gauge exactly as it found it while the worker still carries out a scent they cannot place, a thread gone from a story they used to tell without effort, and a sense that the room has already met them.
+Before anybody is posted to the library, the Work Types are read against the breach threshold and against what the kit costs to run. What this file records is Subject-Dream, Void expression, contained at SECTOR-B-02 in Zone B, and nothing assumed about another holding carries across. The caution it repeats is a reader's caution: a watch can leave the gauge exactly as it found it while the worker goes out with less than they came in with, and the gauge is not the instrument that shows that.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched; this reflects containment stabilization, not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess before the procedure inadvertently feeds the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete, and must be logged before the next assignment.
+**Reading the response:** Three things go in the entry after a cycle — what the entity did, the state the worker left in, and what was actually recovered. A gauge on the way down means the surface pressure has eased. The structure underneath it is untouched, and the entry has to say so, because a reading showing only the drop will be filed as progress. A gauge on the way up means the Work Type has touched the origin. Withdraw, and do not run the same one again in that sitting.
 ## Breach Behavior
 
 > *"The Memory Weaver has broken free. Steals memories from everyone it passes."*
@@ -212,9 +212,9 @@ Read the Work Types against the breach threshold and the kit cost before anybody
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Memory Weaver's kind of pressure.
+**Ability:** It turns a Void strike, and what it is really turning is the theft. While the veil is on, a memory taken from the wearer comes back inside the shift and usually inside the hour; the armoury logs the return rather than the resistance. The filing is explicit that the veil does nothing at all for the body.
 
-**Cost:** The wearer comes to feel faintly absent from their own account — in the room, not quite in the story of it.
+**Cost:** What the wearer can report about the shift thins out. They are present, and other people remember them being there, but the version they give afterwards reads as second-hand — as if they had been told about the sitting rather than having worked it.
 
 ### M.A.W. Stigma — The Forgotten Mask
 
