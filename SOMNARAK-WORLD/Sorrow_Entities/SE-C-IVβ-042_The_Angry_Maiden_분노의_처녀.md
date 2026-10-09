@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
+| **Recommended response** | Flerehan and Ferrehan. Flerehan is the only route by which this holding has ever advanced: the flames drop and the accusatory edge leaves the voice. Ferrehan takes the full watch in the heat, answering when addressed and never agreeing with her about who. Viderehan holds the gauge where it is. Pugnahan is prohibited outright — she was formed out of that exchange and burns hotter the longer it runs. |
 
 ### Operational Notes
 
