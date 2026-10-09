@@ -296,13 +296,13 @@ The tunnel opens into a span over darkness. The Bridge weeps from its arches, an
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Lament pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A weeping bridge-shaped figure descending through the tunnels. Its arches resemble ribs and its surface is wet with crystallized tears.
+**At first contact:** hearing comes first, then sight. What is felt first is a Lament already familiar — heard before in sleep, or in something remembered — during the hour when Somnarak is quietest. Then the bridge resolves: a weeping, bridge-shaped figure coming down through the tunnels, its arches like ribs and its surface wet with tears that have set.
 
-**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Lament has a history here, and prolonged exposure makes that history legible.
+**With continued exposure:** the holding stops reading as a span and begins to read as the two banks it failed to join. Crews begin reporting the near shore and the far shore as separate places with separate weather. This Lament carries a history down here, and it is staying — not arriving — that brings it into focus.
 
-**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Lament pressure spikes — not gradually but like a door slamming open. The Subject-Lament shifts from presence to action.
+**When the entity activates:** nothing climbs. The gauge arrives whole, the Lament comes up all at once, before the shift from a thing merely present to a thing acting can be reported, it has already happened.
 
-**After departure:** The door seals, the pressure drops, and the residue does not. Lament sits in the suit fibres, in the boot treads and in the small hours; workers off a full shift report the need to get to the other end of wherever they are, which the medical office treats as this entity's signature rather than as an injury and logs accordingly. Heavier exposure leaves the symptom the file is named for: an interrupted journey replayed as a sensation rather than a memory, most often at the midpoint of a routine walk home.
+**After departure:** the pressure falls away, and what it leaves does not. Lament stays in the cloth of the suit, in the tread of the boots and in the hours before dawn; a worker coming off a full shift will report needing to be on the far bank of wherever they happen to be, and the medical office files that as this entity's signature, not as an injury. Deeper exposure leaves the symptom the file takes its name from.r: an interrupted journey replayed as a sensation rather than a memory, most often at the midpoint of a routine walk home.
 
 ### Interaction Pattern
 
