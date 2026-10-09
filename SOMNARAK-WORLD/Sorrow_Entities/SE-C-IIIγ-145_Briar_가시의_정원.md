@@ -203,15 +203,15 @@ Escalation here is growth and not transformation. Record the trigger, the bearin
 
 **Category:** RANGE / GUN SHAPE (Pneumatic Harpoon Needle Gun & Rotary Briar Spool)
 **Grade:** γ | **Element:** Grudge
-**Damage:** Grudge 11–17
-**Speed:** 3 (Normal)
+**Damage:** Grudge 7–12
+**Speed:** 3 (Fast)
 **Range:** 4 (Long: 5–20m pneumatic harpoon)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Attack Pattern:** Harpoon Puncture / Tensile Wire Tether
-**Target Coverage:** Single designated target line
-**Falloff Rule:** 100% damage to harpooned target.
+**Attack Pattern:** Skewer / Harpoon Puncture with Tensile Wire Tether
+**Target Coverage:** Up to three targets along one designated line
+**Falloff Rule:** Primary target 100% → second target 70% → third target 50%.
 
 Appearance : A 105cm heavy pneumatic rifle forged from tarnished brass tubing and dark rosewood, mounting an exposed rotary spool of barbed iron briar-cables beneath the receiver. It shoots barbed iron harpoon needles across Range 4.
 

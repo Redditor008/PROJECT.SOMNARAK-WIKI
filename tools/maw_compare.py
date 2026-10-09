@@ -176,6 +176,14 @@ def doc_facts(text: str, item_type: str):
                 facts["grade"].append(value)
             elif key == "element" and re.match(r"(?:Lament|Grudge|Void|Weight|Mixed)\b", value, re.I):
                 facts["element"].append(value)
+            elif key in ("speed / range", "speed and range"):
+                # Compact Codices record both fields in one key/value cell.
+                # Keep the paired values separate so a changed descriptor is
+                # visible as well as a changed numeric band.
+                pair = re.split(r"\s*/\s*", value, maxsplit=1)
+                if len(pair) == 2:
+                    facts["speed"].append(pair[0])
+                    facts["range"].append(pair[1])
             elif key in ("damage", "speed", "range"):
                 # A header row is not a fact row (e.g. Damage | Speed | Range).
                 if value.lower() not in ("speed", "range", "pattern", "record", "value"):
@@ -344,12 +352,22 @@ def normalize_scalar(key: str, value):
             return "mixed"
         return None
     if key == "damage":
-        m = re.search(r"\b(Lament|Grudge|Void|Weight)\b[^\d]*(\d+(?:\.\d+)?)\s*[–—-]\s*(\d+(?:\.\d+)?)", value, re.I)
+        m = re.search(r"\b(Lament|Grudge|Void|Weight|Mixed)\b[^\d]*(\d+(?:\.\d+)?)\s*[–—-]\s*(\d+(?:\.\d+)?)", value, re.I)
         if m:
             return (m.group(1).lower(), float(m.group(2)), float(m.group(3)))
         nums = re.findall(r"\d+(?:\.\d+)?", value)
-        return tuple(float(n) for n in nums[:2]) if nums else None
-    if key in ("speed", "range", "max_amount"):
+        return (None, float(nums[0]), float(nums[1])) if len(nums) >= 2 else None
+    if key in ("speed", "range"):
+        number = re.search(r"\d+(?:\.\d+)?", value)
+        if not number:
+            return None
+        labels = {
+            "speed": ("very fast", "instant", "fast", "normal", "slow", "measured", "steady", "rapid"),
+            "range": ("close", "short", "medium", "long", "room", "global", "melee", "touch", "extended"),
+        }[key]
+        label = next((item for item in labels if re.search(r"\b" + re.escape(item) + r"\b", value, re.I)), None)
+        return float(number.group(0)), label
+    if key == "max_amount":
         m = re.search(r"\d+(?:\.\d+)?", value)
         return float(m.group(0)) if m else None
     if key == "echo_cost":
@@ -391,6 +409,35 @@ def normalize_scalar(key: str, value):
     return value.lower() or None
 
 
+def equivalent_values(field: str, left, right) -> bool:
+    """Compare parsed values while accounting for redundant omitted labels.
+
+    Weapon element is also checked as its own explicit M.A.W. field. Older
+    item Codices often record a bare damage range while the primary dossier
+    prefixes that same range with the element, so the damage comparison must
+    not treat the redundant label as a different range. Likewise, a missing
+    speed/range descriptor does not contradict an otherwise matching numeric
+    band; when both records give a descriptor, it must agree.
+    """
+    if field == "damage":
+        if not (isinstance(left, tuple) and isinstance(right, tuple) and len(left) == len(right) == 3):
+            return left == right
+        left_element, left_min, left_max = left
+        right_element, right_min, right_max = right
+        return (left_min, left_max) == (right_min, right_max) and (
+            left_element is None or right_element is None or left_element == right_element
+        )
+    if field in ("speed", "range"):
+        if not (isinstance(left, tuple) and isinstance(right, tuple) and len(left) == len(right) == 2):
+            return left == right
+        left_number, left_label = left
+        right_number, right_label = right
+        return left_number == right_number and (
+            left_label is None or right_label is None or left_label == right_label
+        )
+    return left == right
+
+
 def compare_values(category: str, field: str, source_values, embedded_values, path: str, line: int):
     """Return a mismatch only when the Codex has an explicit value to compare."""
     source_norm = {normalize_scalar(field, v) for v in source_values}
@@ -409,7 +456,11 @@ def compare_values(category: str, field: str, source_values, embedded_values, pa
             "line": line,
             "status": "missing",
         }
-    bad = [raw for raw, norm in embedded_norm if norm not in source_norm]
+    bad = [
+        raw
+        for raw, norm in embedded_norm
+        if not any(equivalent_values(field, norm, source) for source in source_norm)
+    ]
     if bad:
         return {
             "category": category,

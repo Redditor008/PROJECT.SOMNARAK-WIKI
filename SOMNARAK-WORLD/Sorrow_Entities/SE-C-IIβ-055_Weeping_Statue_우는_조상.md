@@ -181,8 +181,8 @@ Weeping Statue is a Subject with Subject-Lament manifestation and Lament express
 
 **Category:** BLADES / UNIQUE (Chiseled Travertine Stiletto & Silk Ribbon Guard)
 **Grade:** β | **Element:** Lament
-**Damage:** Lament 6–10
-**Speed:** 4 (Fast)
+**Damage:** Lament 5–9
+**Speed:** 2 (Normal)
 **Range:** 2 (Short: 1.2m reach)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes

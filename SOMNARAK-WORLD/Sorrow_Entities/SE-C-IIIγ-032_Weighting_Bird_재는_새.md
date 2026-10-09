@@ -173,15 +173,15 @@ The register files the Bird as Subject-Body, expressing Grudge, at SECTOR-B-01 w
 
 **Category:** RANGE / GUN SHAPE (Break-Action Double-Barrel Scale-Pistol)
 **Grade:** γ | **Element:** Grudge
-**Damage:** Grudge 12–18
-**Speed:** 3 (Normal)
+**Damage:** Grudge 7–12
+**Speed:** 3 (Fast)
 **Range:** 3 (Medium: 15m line shot / Instant)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Attack Pattern:** Dual Slug / Calibrated Guilt Impact
-**Target Coverage:** Line; up to 2 targets in direct trajectory
-**Falloff Rule:** Primary target 100% → second target 60%.
+**Attack Pattern:** Skewer / Dual Slug / Calibrated Guilt Impact
+**Target Coverage:** Line; up to 3 targets in direct trajectory
+**Falloff Rule:** Primary target 100% → second target 70% → third target 50%.
 
 Appearance : A 42cm break-action double-barrel handgun forged from tarnished brass and dark walnut, featuring twin suspended balance pans beside the breech. It chambers calibrated lead guilt weights, firing heavy kinetic slugs with a metallic chime.
 
