@@ -221,7 +221,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 ### M.A.W. Use Notes
 
-Each piece extends Dreaming Ruin rather than equipping its wielder against it. The benefit holds inside the pattern the file records; outside it the cost — the wielder loses small, unnamed things from their own home. They are reported afterwards as a wrongness in a room rather than as a missing object, and no wielder has ever named what went — arrives early and does not reverse on return.
+Nothing in the set protects the person holding it; each item lengthens this Ruin's reach instead. While the work stays within the shape the file describes, the benefit stands. Step outside that shape and the toll starts early and never unwinds: the wielder loses small things from their own home that they have no word for. What gets reported afterwards is not an object gone missing but a room that reads wrong, and no wielder has managed, ever, to say what went.
 
 ### Field Use Record
 
