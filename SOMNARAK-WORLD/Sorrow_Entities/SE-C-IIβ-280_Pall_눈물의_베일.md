@@ -232,12 +232,12 @@ The three-edged blade is etched with micro-capillary fullers that siphon condens
 
 ### M.A.W. Suit — The Pallbearer's Layered Shroud
 
-**Category:** BLADES (Mirror-Polished Square Cleaver)
+**Category:** ARMOR (Layered Pallbearer's Shroud)
 **Grade:** β | **Element:** Lament
 
-Appearance : A broad rectangular surgical cleaver made from rustless hospice-grade steel, boasting a razor-honed flat cutting edge, rounded spine, and an ebony scales handle secured by brass rivets.
+Appearance : A long layered shroud of pale mourning cloth, cut wide at the shoulder, its lower edge weighted with lead shot so the whole thing hangs still on a body that is walking. The layers are stitched from fabric steeped in tears that were never shed in front of anybody, and the cloth stays dry to the touch.
 
-The mirror-polished blade reflects no ambient distortion, remaining clinically sterile even after multiple strikes. It severs dense fibrous tissue and cartilage with effortless precision.
+The shroud neither turns a blow aside nor hardens against one. It surrenders a layer for every thing that lands, and whoever is inside it feels each layer go as it is spent.
 
 **Cost:** 20 Sorrow Echoes
 
@@ -247,7 +247,7 @@ The mirror-polished blade reflects no ambient distortion, remaining clinically s
 
 ### M.A.W. Stigma — The Weeping Veil Clip
 
-**Category:** BLADES (Mirror-Polished Square Cleaver)
+**Category:** ACCESSORY (Mourning Ribbon Hair Clip)
 **Grade:** β | **Element:** Lament
 
 **Appearance:** An ornate hair clip shaped like a mourning ribbon set with a single faceted weeping sapphire.
