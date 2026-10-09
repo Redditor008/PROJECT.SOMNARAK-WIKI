@@ -170,9 +170,9 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 
 ### Escalation Notes
 
-- **Breach type:** Escape — the entity physically escapes and roams the facility.
-- **Containment priority:** Physical suppression required — block corridors, deploy Wardens.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Breach type:** Escape — it breaks free and stalks the corridors on foot, arriving wherever personnel have just been rather than travelling there.
+- **Containment priority:** Physical suppression. Corridors are closed and Wardens are stood across them, and what those Wardens are containing is a body walking a route it has walked a thousand times before.
+- **Sorrow Gauge on breach:** 40% the moment it walks out, then ten points a turn for as long as it stays loose — and faster if anyone in the corridor begins remembering the loop along with it.
 
 ## M.A.W. Equipment
 
