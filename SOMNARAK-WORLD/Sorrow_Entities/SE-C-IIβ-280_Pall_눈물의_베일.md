@@ -209,7 +209,7 @@ Escalation is measured in millimetres of damp edge and in cards. Record the edge
 
 ### M.A.W. Weapon — The Surgeon's Cleaver
 
-**Category:** BLADES (Mirror-Polished Square Cleaver)
+**Category:** BLADES (Triangular Surgical Stiletto)
 **Grade:** β | **Element:** Lament
 **Damage:** Lament 6–10
 **Speed:** 2 (Slow)
