@@ -27,13 +27,13 @@
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
-| **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
+| **Gauge when a watch opens** | 35–50%. The ground is already working before anybody walks out to it. |
+| **Han-Energy per completed cycle** | 12–18, and only for a cycle that finishes: the Fruit has to be counted before it goes, and there is no partial yield on this holding. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — Place-manifestation |
-| **Han Dust Drop (Vessel Destruction)** | — |
+| **Han Dust recovered on destruction** | Nothing to recover, and nothing to destroy — what stands here is ground. |
 | **Recommended response** | Ferrehan from the path to move the gauge, Viderehan for record. Flerehan and Pugnahan do not apply to a Place and have never been attempted here. |
 
 ### Operational Notes
@@ -68,7 +68,7 @@
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) |
 | **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | 35–50% |
+| **Gauge at first contact** | 35–50%. It is never zero: the Crop is already up before the watch opens. |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone E, Exile's Gate vicinity |
@@ -381,7 +381,7 @@ Some sorrows mourn a home. This one mourns the replanting — the exiles' orchar
 
 **Operational interpretation:** This entry does not stand alone: the designation, the Work Type responses, the M.A.W. cost and the breach behaviour are one picture, and on this holding the picture is a stretch of ground. The facts that govern are these — the fruit holds a desire somebody abandoned, it melts when it is touched, it draws exiles the way the gate does, and the condition is to let it decay naturally and never promise return. When the entity does something this file does not describe, document the gap: the record is a living document and the gap is the next entry.
 
-**Review requirement:** After any breach, Sorrow Tide, expansion, transformation attempt or unusual interaction, re-verify the gauge, the containment seal, the personnel medical status, the entity position and the M.A.W. resonance changes — and on this holding, re-read the rows: whether any fruit was handled, by whom, and what was promised to anybody in the vicinity of the gate. If a parameter has shifted, update the file rather than the memory of it; the file's own position is that the R.D. record describes a living sorrow pattern and not a permanently complete explanation.
+**Review requirement:** Anything out of the ordinary and the file has to be walked again — a breach, a Sorrow Tide, an expansion, an attempt to change what this is, or an interaction nobody has a precedent for. Re-take the gauge, the seal on the ground, the medical state of whoever was on the path, where the frontage now sits, and what the M.A.W. is reading. Then, because this is a Place and not a person: check whether any Fruit was handled, who handled it, and what was promised to anybody within sight of the Gate. Where a figure has moved, correct the file and not anybody's recollection of it. The record here describes ground that is still moving, and it is not a finished account of it.
 ## Watch Record
 
 ### Fruit That Melts
