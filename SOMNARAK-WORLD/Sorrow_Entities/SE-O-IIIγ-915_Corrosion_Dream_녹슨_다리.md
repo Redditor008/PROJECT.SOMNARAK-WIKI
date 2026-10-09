@@ -293,9 +293,9 @@ Rusted plates rise out of the dream and build a span over black water. You cross
 
 **At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Dream resolve into something you can name. A dreamlike figure made from rusted bridge plates and dark water. It sings in a voice heard only by people who have crossed a broken boundary.
 
-**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Void that the entity embodies. Understanding it does not make it easier.
+**With continued exposure:** what you took in first peels back into something more exact. There is a rhythm to it, and a pattern, and a logic to the emptiness this thing is made of. Knowing the pattern does not shorten the crossing.
 
-**When the entity activates:** When it activates, you understand why the containment protocols exist. The Void that was merely present becomes active, directed, purposeful — the Subject-Dream was holding back, and now it isn't.
+**When the entity activates:** the reason the containment protocols exist becomes plain. What had only been present turns directed and purposeful — the Subject-Dream had been keeping something in reserve, and now it is spent.
 
 **After departure:** The containment boundary holds the Subject-Dream, but not the memory. Void residue settles into the bones like Han into the city's foundations.
 
