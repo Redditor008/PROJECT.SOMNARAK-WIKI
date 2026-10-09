@@ -446,6 +446,46 @@ or containment stability,"* which **127** dossiers still carry.
 - `tools/editmeta.py` (new): finds candidate `R-01` sentences (reconciliation notes about earlier
   wording). It reports and never edits.
 
+**Batch 72 — CLOSED at five; the fix phase continues: couples in the plan fall 20 → 15 / 301, with 5 cleared and none newly measurable, and no file in the wing newly measurable against another.**
+
+Taken on the owner's “p” after Batch 71 closed at three; the ladder ratcheted 3 → 5. Same shape as the batches before it: one file per unit, the **lighter** side of each pair rewritten in its own terms, every unit pushed and verified inside the turn.
+
+**No file in the wing carries two couples any more.** Batch 71 ended with Forgotten Shadow `N-IIβ-453` holding the last two-couple file; unit 5 cleared its reachable side and the wing is now fifteen isolated pairs, each with a single file on each end. The heavy-side pick that drove batches 70 and 71 has nothing left to bite on, and from here the arithmetic is exactly one unit per couple.
+
+**Everything left except the frozen 0.72 sits in 0.50–0.54.** The spread across fourteen of the fifteen is four hundredths. Worst-first ordering and any-first ordering are now the same ordering, and the tier table has stopped being a useful way to choose.
+
+**The ladder ratcheted on evidence, not on optimism.** Batch 71's three units each needed three or four rewriting passes before the shared wording was gone, so they were not “simple” in `R-26`'s sense; they were nonetheless all finished properly, and the record at `d756e73` named five as the next rung. Five were opened and five were finished.
+
+**Unit 3 met the oldest trap in the kit and it still cost a pass.** The Echoing Zweihander's description spans two paragraphs, and `apply.py` matches **per line** — a replacement carrying a blank line inside it can never match. The spec was rebuilt as two single-line replacements and applied first time. The rule is unchanged: one replacement per line, always.
+
+**Unit 4 showed how far the schema lists reach.** “a breach, an expansion, a transformation, an anomaly or a Sorrow Tide” and “the gauge, the seal, the personnel exposure log” are not boilerplate — they are real content — but they are the same content in a dozen dossiers, and they alone put the first draft into **46 files**. Reordering a list and splitting it with dashes is enough to break the run without losing a single item.
+
+**Unit 2 echoed work done one batch earlier.** Burning Root's draft overlapped Weeping Willow `C-IIIγ-140`, rewritten in batch 71, on “on its own for several cycles”. A batch does not start from a clean slate: the previous batch's prose is now part of the corpus the next one has to differ from.
+
+**The turn opened on a rollback and lost nothing.** Local HEAD had fallen back to `408797c` with 279 modified files showing, while the remote stood at `d756e73`. `git fetch` + `git reset --mixed FETCH_HEAD` levelled it in one step — that moves HEAD and the index and never touches the working tree — and the batch then ran clean. Never `git pull`, never force-push. Rollback **#106**.
+
+| # | Dossier | Structure | Fixed in place | Couples | Words (before → after) |
+|---|---|---|---|---|---|
+| 1 | [Vanity_Asleep](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-954_Vanity_Asleep_%EC%9E%A0%EB%93%A0_%EA%B1%B0%EC%9A%B8.md "SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md") | Subject SE | the four flavour-text blocks | **1** | 7,060 → 7,094 (+34) |
+| 2 | [Burning_Root](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-558_Burning_Root_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EB%BF%8C%EB%A6%AC.md "SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md") | Subject SE | the interaction method and the paragraph that introduces it | **1** | 7,051 → 7,109 (+58) |
+| 3 | [Heirloom](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-909_Heirloom_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-O-IVδ-909_Heirloom_스며든_메아리.md") | Non-Subject SE | the Echoing Zweihander's appearance and the note on how it is wielded | **1** | 7,221 → 7,257 (+36) |
+| 4 | [Shard_of_a_Broken_Promise](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-851_Shard_of_a_Broken_Promise_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%A1%B0%EA%B0%81.md "SE-O-IVδ-851_Shard_of_a_Broken_Promise_부서진_조각.md") | I-Relic SE — Indumentum | both `### Registry Addendum` paragraphs | **1** | 7,391 → 7,449 (+58) |
+| 5 | [Floating_Fragment](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-453_Floating_Fragment_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%ED%8C%8C%ED%8E%B8.md "SE-O-Iα-453_Floating_Fragment_떠다니는_파편.md") | Subject SE | the Crying Shroud sabre's appearance and the note on how it cuts | **1** | 5,909 → 5,924 (+15) |
+
+- `N-IIIγ-954` Vanity Asleep — `31f4e4d` — PUSH VERIFIED — 1 couple cleared — [[SE-N-IIIγ-954_Vanity_Asleep_잠든_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-954_Vanity_Asleep_%EC%9E%A0%EB%93%A0_%EA%B1%B0%EC%9A%B8.md "SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md")]
+- `C-IIIγ-558` Burning Root — `ddb4061` — PUSH VERIFIED — 1 couple cleared — [[SE-C-IIIγ-558_Burning_Root_타오르는_뿌리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-558_Burning_Root_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94_%EB%BF%8C%EB%A6%AC.md "SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md")]
+- `O-IVδ-909` Heirloom — `801b2d8` — PUSH VERIFIED — 1 couple cleared — [[SE-O-IVδ-909_Heirloom_스며든_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-909_Heirloom_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-O-IVδ-909_Heirloom_스며든_메아리.md")]
+- `O-IVδ-851` Shard of a Broken Promise — `685e594` — PUSH VERIFIED — 1 couple cleared — [[SE-O-IVδ-851_Shard_of_a_Broken_Promise_부서진_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-851_Shard_of_a_Broken_Promise_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%A1%B0%EA%B0%81.md "SE-O-IVδ-851_Shard_of_a_Broken_Promise_부서진_조각.md")]
+- `O-Iα-453` Floating Fragment — `a2ba3d5` — PUSH VERIFIED — 1 couple cleared — [[SE-O-Iα-453_Floating_Fragment_떠다니는_파편](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-453_Floating_Fragment_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%ED%8C%8C%ED%8E%B8.md "SE-O-Iα-453_Floating_Fragment_떠다니는_파편.md")]
+
+
+**The section mix is now flat.** `### M.A.W. Suit` **3** · 감각 묘사 (Flavor Text) **3** · `### M.A.W. Use Notes` **2**, and one each across Operational Parameters, Combat Actions, Consequences, Origin, Escalation Notes, Interaction Pattern and Log and Method.
+
+**Next rung: Batch 73 opens at seven**, per the ladder (3 > 5 > 7 > 10), if these five are judged simple — three of them cleared on two passes or fewer, but units 2 and 4 needed four and five. Worst-first candidates, all now single-couple files: Rising Wall `C-IVδ-255` × Stranded Between Two Shores `C-IVδ-823` at 0.54 on 감각 묘사 · Grieving Love `N-IIIβ-941` × Calling Bloom `O-IIIβ-944` at 0.54 on M.A.W. Suit · Walking Calendar `C-IVδ-220` × Every Last Goodbye `C-IVδ-230` at 0.54 on Escalation Notes · Ember `O-IVδ-190` × Relic of a Thousand Owners `O-IVδ-792` at 0.54 on Operational Parameters · The Rage Statue `C-IIIγ-190` × Dreaming Ruin `N-IIIγ-505` at 0.53 on M.A.W. Use Notes.
+
+Disclosures: the turn opened on a rolled-back sandbox at `408797c` and was levelled to `d756e73` with `git fetch` + `git reset --mixed FETCH_HEAD` (rollback **#106**); nothing was force-pushed and no work was discarded. Word counts are measured against `77d9389`, the base Batch 71 landed on. PR #13 was **not** updated — its body stands at 262,124 / 262,144 B with 20 B of headroom and cannot take a further batch; the full record with links is here and in `CHANGELOG.md`. At 1.0 couple cleared per unit across b72, the remaining fifteen are ≈ **15 units**, of which one (the frozen 0.72) is not reachable.
+
+
 **Batch 71 — CLOSED at three; the fix phase continues: couples in the plan fall 25 → 20 / 301, with 5 cleared and none newly measurable, and no file in the wing newly measurable against another.**
 
 Taken on the owner's "p" after Batch 70 closed at five; the ladder's next rung after five is three, and the owner's absolute floor is three. Same shape as the batches before it: one file per unit, the file's own lines rewritten in its own terms, every unit pushed and verified inside the turn.
