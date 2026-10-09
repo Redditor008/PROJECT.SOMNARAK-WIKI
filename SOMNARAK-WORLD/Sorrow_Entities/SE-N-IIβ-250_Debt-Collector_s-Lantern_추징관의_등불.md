@@ -228,7 +228,7 @@ The cannon throws incandescent phosphor pellets; a dark room goes gold. Under th
 
 ### M.A.W. Suit — The Collector's Oilskin Trench-Coat
 
-**Category:** GUN (Flared Bronze Lantern Hand-Cannon)
+**Category:** ARMOR (Lead-Weighted Oilskin Trench-Coat)
 **Grade:** β | **Element:** Weight
 
 **Appearance:** A stiff, ankle-length oilskin trench-coat in faded midnight black, lined with lead-weighted hem plates and stamped with faint, bureaucratic tax seals. The collar is high and reinforced with brass wire, shielding the wearer from ambient sorrow fallout.
@@ -247,7 +247,7 @@ The cannon throws incandescent phosphor pellets; a dark room goes gold. Under th
 
 ### M.A.W. Stigma — Pale Wick Stigma
 
-**Category:** GUN (Flared Bronze Lantern Hand-Cannon)
+**Category:** ACCESSORY (Pale Lantern-Wick Mark)
 **Grade:** β | **Element:** Weight
 
 **Appearance:** The bearer's right pupil takes on the appearance of a smoldering, heatless lantern wick that glows with a faint white ember in darkness, faintly outlining the karmic debts of nearby entities.
