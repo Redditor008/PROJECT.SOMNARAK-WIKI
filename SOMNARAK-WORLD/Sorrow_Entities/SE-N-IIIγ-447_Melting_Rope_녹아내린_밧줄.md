@@ -223,7 +223,7 @@ The steel appears solid at rest but ripples visibly when swung, shedding droplet
 
 ### M.A.W. Use Notes
 
-The set is the holding in three pieces. What it gives is listed above; what it takes is the toll this file records for the source — weeping without a nameable cause, and a numbness to small pleasures the wearer does not report — and the Armoury enters it against the wielder rather than the piece. That is why the issue is one rotation at a time.
+The three pieces together are the holding. Everything the set confers is written up above. What it exacts is the toll logged against the source — weeping with no cause the wearer is able to give, and a flatness towards small pleasures that the wearer never reports. The Armoury books the toll to the person rather than to the object; no wielder therefore ever receives a second piece while still holding a first. The rope was held correctly for nineteen years by somebody who was never told it had been let go.
 
 ### Field Use Record
 
