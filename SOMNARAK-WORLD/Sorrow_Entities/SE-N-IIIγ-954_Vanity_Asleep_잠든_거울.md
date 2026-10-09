@@ -295,13 +295,13 @@ The figure sleeps beneath a surface that should reflect the room. You look and s
 
 
 
-**At first contact:** What strikes first is not fear but recognition — the sense that you have felt this Void pressure before, in a dream, in a memory, in the particular silence of Somnarak at 3 a.m. A sleeping, mirror-like figure whose surface reflects the viewer's face only after the viewer has looked away.
+**At first contact:** recognition arrives ahead of fear. This Void has been felt before — in something dreamt, in something half-remembered, in the hush that settles over Somnarak in the small hours. A sleeping, mirror-like figure that gives back the face of whoever is looking at it — but only once they have turned away.
 
-**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Void has a history here, and prolonged exposure makes that history legible.
+**With continued exposure:** the standing watch finds the containment reading less and less like a holding cell and more like the office where your file was quietly marked — a room somebody worked in for years, and where nobody ever told you what had been decided. The Void has a history in this room, and staying long enough is what makes it legible.
 
-**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Void pressure spikes — not gradually but like a door slamming open. The Subject-Phantasmal shifts from presence to action.
+**When the entity activates:** the Sorrow Gauge does not climb across its threshold so much as step over it. The pressure arrives whole and unmistakable, and the shift from presence to action is finished before anyone in the room can narrate it.
 
-**After departure:** The door seals and the pressure comes down, but the watch leaves something behind: Void in the suit fibres, in the recollection, and in that thin space between thoughts where a Fracture starts.
+**After departure:** the pressure comes down as the door closes behind the watch, but something is left behind: Void caught in the weave of the suit, in what the crew remembers, and in the thin gap that opens between thoughts, which is where a Fracture begins.
 
 ### Interaction Pattern
 
