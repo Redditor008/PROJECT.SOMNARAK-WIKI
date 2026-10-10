@@ -75,7 +75,7 @@ A memory too personal and raw for the Weaver to turn into collectible material o
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Forgotten Lens | γ | Void | Cuts false memory links and exposes erased records | `SE-009-B__MAW-W_The_Forgotten_Lens.md` |
+| **Weapon** | The Weaver's Shuttle-Awl | γ | Void | Unweaves one selected memory thread or false recollection; a wrong cut can sever a true memory | `SE-009-B__MAW-W_The_Forgotten_Lens.md` |
 | **Suit** | The Forgotten Veil | γ | Void | Protects identity while making the bearer difficult to remember | `SE-009-C__MAW-S_The_Forgotten_Veil.md` |
 | **Stigma** | The Forgotten Mask | γ | Void | Shields against memory-targeting effects at a personal cost | `SE-009-D__MAW-G_The_Forgotten_Mask.md` |
 
@@ -86,6 +86,8 @@ A memory too personal and raw for the Weaver to turn into collectible material o
 **Effect:** The set can preserve one memory taken during the encounter as a recoverable record rather than allowing it to dissolve into the Weaver’s tapestry.
 
 **Cost:** The sealed memory cannot be emotionally felt by the bearer until it is recovered from the Archive.
+
+**Weapon-title review (2026-10-10):** The set row now uses *The Weaver's Shuttle-Awl* and summarizes its current `Unweave` effect. Primary `C-IVγ-009`, the current `SE-009-B` heading, Item Identity and Appearance, registry row, and `MAW-W-009` archetype identify the cold-iron shuttle, diamond awl and memory spindle. Revision `ebcbd249` replaced the earlier lens-edged disc and profile under the same item code. The linked filename `SE-009-B__MAW-W_The_Forgotten_Lens.md` remains a path. **Linked-item terminology hold:** `SE-009-B` still calls the weapon “Lens” in its ability and limit. No separate Lens form or transition is documented; retain that wording as unresolved and do not infer another form. This identity-only Side table states no combat numbers, so none were added.
 
 ---
 
