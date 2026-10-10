@@ -85,7 +85,7 @@ The set can protect a boundary against immediate hostile crossing. Its central c
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Border Root | δ | Grudge | Creates a restricted barrier against hostile crossing | `SE-151-B__MAW-W_The_Border_Root.md` |
+| Weapon | The Bramble Tanto | δ | Grudge | Raises a negotiated barrier against hostile crossing while preserving the agreed passage | `SE-151-B__MAW-W_The_Border_Root.md` |
 | Suit | The Border Plate | δ | Grudge | Defends a negotiated boundary without erasing both sides | `SE-151-C__MAW-S_The_Border_Plate.md` |
 | Stigma | The Border Charm | δ | Grudge | Reveals one fair passage or boundary harm | `SE-151-D__MAW-G_The_Border_Charm.md` |
 
@@ -93,7 +93,7 @@ The set can protect a boundary against immediate hostile crossing. Its central c
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Border Root
+### M.A.W. Weapon — The Bramble Tanto
 
 | Field | Record |
 |---|---|
@@ -104,7 +104,9 @@ The set can protect a boundary against immediate hostile crossing. Its central c
 | Maximum Amount / Echo Cost | 2 — Limited / 50 Sorrow Echoes |
 | Primary Cost | The bearer cannot cross a boundary they create. |
 
-**Quick effect:** The Root creates a physical and Han-resonant barrier against a defined hostile crossing, binding the bearer to the same restriction.
+**Quick effect:** The weapon creates a physical, Han-resonant barrier against a defined hostile crossing, leaves the negotiated passage open, and binds the bearer to the same restriction.
+
+**Weapon-title review (2026-10-11):** `O-IVδ-151`’s primary M.A.W. block and nine-inch wild-rose-vine-bound tanto Appearance, current `SE-151-B` heading/Appearance, Master Registry row, Master Codex table row 661, `MAW-W-151` archetype, and same-code title/Appearance revision `3abe5470` support *The Bramble Tanto*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 661, still identify *The Border Root* and describe a root-gripped club and root line. No Root-to-tanto transition or second form is documented. The old item filename remains only as the link. Side-card numbers are unchanged.
 
 ---
 
@@ -146,7 +148,7 @@ The set can protect a boundary against immediate hostile crossing. Its central c
 
 **Effect:** The set raises a strong barrier against an immediate hostile crossing while preserving the negotiated passage for those not threatening it.
 
-**Cost:** The bearer cannot cross or order another person across the created boundary until both sides confirm the lowering condition. Any attempt to use the wall as unilateral control turns the Root against its own line.
+**Cost:** The bearer cannot cross or order another person across the created boundary until both sides confirm the lowering condition. Any attempt to use the wall as unilateral control binds the bearer to that same line.
 
 **Source reaction:** A root rises as a gate rather than a wall and stays open at the agreed path.
 
