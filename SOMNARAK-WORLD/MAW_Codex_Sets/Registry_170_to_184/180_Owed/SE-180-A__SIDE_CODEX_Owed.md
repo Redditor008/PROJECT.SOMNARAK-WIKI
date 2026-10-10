@@ -106,6 +106,8 @@ The set can hold, absorb, and reveal Weight from debt fields. It must never make
 
 **Quick effect:** The Maul makes a debt-pressure barrier carry its own accumulated force long enough for an accountable route or review to open.
 
+**Weapon-profile hold:** The primary names the weapon *The Sarcophagus Wall-Ram* and gives a masonry barricade / room-seismic form with Weight 12–20, Very Slow 1, Range 5 (Room), and Bastion Charge / Seismic Impact. The same primary block then introduces an unlabeled Weight 7–12, Fast 3, Medium 3, Skewer (up to three targets; 100% → 70% → 50%) profile. This Side card calls it *The Debt Maul*, and `SE-180-B` repeats that latter profile and describes a broad black, ledger-lined Han-steel maul that drives a Weight Skewer into a debt barrier. The master registry preserves the official Wall-Ram name but leaves its numeric profile variable / unset; archetype `MAW-W-180` describes a long wall-battering ram / mobile bastion. No record explains a second form or mode, or says which profile is authoritative. Hold the disputed name, form, and profile relationship; no value is selected.
+
 ---
 
 ## PAGE 05 — SUIT STAT CARD
