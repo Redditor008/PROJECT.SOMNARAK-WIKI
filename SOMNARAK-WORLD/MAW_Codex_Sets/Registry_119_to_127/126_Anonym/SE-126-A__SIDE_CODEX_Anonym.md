@@ -85,7 +85,7 @@ The set gives early warning of identity erosion and helps a bearer hold form. It
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Melting Lens | α | Void | Marks early identity erosion without fixing a person in place | `SE-126-B__MAW-W_The_Melting_Lens.md` |
+| Weapon | The Liquefying Hand-Cannon | α | Void | Marks early identity erosion without fixing a person in place | `SE-126-B__MAW-W_The_Melting_Lens.md` |
 | Suit | The Melting Veil | α | Void | Low-grade protection with chosen-name anchoring | `SE-126-C__MAW-S_The_Melting_Veil.md` |
 | Stigma | The Melting Reflection | α | Void | Reveals emotional erosion before full identity loss | `SE-126-D__MAW-G_The_Melting_Reflection.md` |
 
@@ -93,7 +93,7 @@ The set gives early warning of identity erosion and helps a bearer hold form. It
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Melting Lens
+### M.A.W. Weapon — The Liquefying Hand-Cannon
 
 | Field | Record |
 |---|---|
@@ -103,7 +103,9 @@ The set gives early warning of identity erosion and helps a bearer hold form. It
 | Maximum Amount / Echo Cost | 5 — Standard / 15 Sorrow Echoes |
 | Primary Cost | The bearer loses small, nameless memories with each use. |
 
-**Quick effect:** The Lens identifies early erosion pressure and creates a brief space for a target to name a present self-choice.
+**Quick effect:** A single-target Void strike identifies early erosion pressure and creates a brief space for a target to name a present self-choice.
+
+**Weapon-title review (2026-10-11):** `O-Iα-126`’s primary M.A.W. block and cast-iron molten-tallow hand-cannon Appearance, current `SE-126-B` heading/Appearance, Master Registry row, Master Codex table row 697, `MAW-W-126` archetype, and same-code title/Appearance revision `3abe5470` support *The Liquefying Hand-Cannon*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 697, still identify *The Melting Lens*; its Resting form is a thin pale lens and its Active form surrounds a fragmenting self-image. No Lens-to-hand-cannon transition or second form is documented. The Master Registry and `MAW-W-329` archetype also assign *The Melting Lens* to Folly `SE-329` as a separate item; no cross-link establishes shared identity, so keep this duplicate-title conflict held. The old item filename remains only as the link. Side-card numbers are unchanged.
 
 ---
 
