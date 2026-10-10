@@ -85,7 +85,7 @@ This set deals in returned memories. Every benefit is paired with a present cost
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Returning Lens | δ | Void | Piercing interruption of an intrusive return loop | `SE-125-B__MAW-W_The_Returning_Lens.md` |
+| Weapon | The Reverberant Spear | δ | Void | Separates an intrusive return loop from present space without denying the memory’s meaning | `SE-125-B__MAW-W_The_Returning_Lens.md` |
 | Suit | The Returning Veil | δ | Void | Protects a bearer’s present identity during return pressure | `SE-125-C__MAW-S_The_Returning_Veil.md` |
 | Stigma | The Returning Seed | δ | Void | Recalls one lost memory at equal present-memory cost | `SE-125-D__MAW-G_The_Returning_Seed.md` |
 
@@ -93,7 +93,7 @@ This set deals in returned memories. Every benefit is paired with a present cost
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Returning Lens
+### M.A.W. Weapon — The Reverberant Spear
 
 | Field | Record |
 |---|---|
@@ -104,7 +104,9 @@ This set deals in returned memories. Every benefit is paired with a present cost
 | Maximum Amount / Echo Cost | 2 — Limited / 50 Sorrow Echoes |
 | Primary Cost | The bearer loses small, nameless memories with each use. |
 
-**Quick effect:** The Lens separates a dangerous return image from the present without calling the image false or destroying what it means.
+**Quick effect:** The Void Skewer separates an intrusive return image from the space it overlays; it does not deny the memory’s meaning or restore what was lost.
+
+**Weapon-title review (2026-10-11):** `C-IVδ-125`’s primary M.A.W. block and six-foot fluted bronze spear Appearance, the current `SE-125-B` heading/Appearance, Master Registry, `MAW-W-125` archetype, and same-code revision `3abe5470` support *The Reverberant Spear*. The master Codex table/detailed Entry 241 and linked item’s Official name, Resting/Active forms, and legacy attack/signature wording still identify *The Returning Lens*; keep that identity/form conflict held, with no Lens-to-spear transition inferred. A separate cross-dossier duplication also remains unresolved: Hollow Echo `N-IIα-125` has the same spear title and Appearance in its primary, but a different α/Single profile; master table row 457 assigns *The Reverberant Spear* to Hollow Echo while detailed Entry 457 still says *The Echo Lens*. Do not infer a shared item or copy Hollow Echo’s profile. The old item filename remains only as the linked path. Side-card numbers are unchanged.
 
 ---
 
