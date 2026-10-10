@@ -85,7 +85,7 @@ The set anchors conflicting identities without asking a bearer to discard one fo
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Broken Maul | γ | Weight | Piercing response to identity conflict becoming physical pressure | `SE-127-B__MAW-W_The_Broken_Maul.md` |
+| Weapon | The Fractured Celestial Prism | γ | Weight | Disrupts forced identity selection without deciding which self-history is real | `SE-127-B__MAW-W_The_Broken_Maul.md` |
 | Suit | The Broken Mantle | γ | Weight | Weight protection while carrying multiple self-histories | `SE-127-C__MAW-S_The_Broken_Mantle.md` |
 | Stigma | The Broken Reflection | γ | Weight | Anchors a bearer between conflicting identities | `SE-127-D__MAW-G_The_Broken_Reflection.md` |
 
@@ -93,7 +93,7 @@ The set anchors conflicting identities without asking a bearer to discard one fo
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Broken Maul
+### M.A.W. Weapon — The Fractured Celestial Prism
 
 | Field | Record |
 |---|---|
@@ -104,7 +104,9 @@ The set anchors conflicting identities without asking a bearer to discard one fo
 | Maximum Amount / Echo Cost | 3 — Standard / 40 Sorrow Echoes |
 | Primary Cost | The bearer grows heavier and prolonged use ages them slightly. |
 
-**Quick effect:** The Maul disrupts Weight pressure formed when a person is being forced to reject part of their survival history.
+**Quick effect:** A Weight Skewer disrupts pressure formed by forced identity selection without deciding which self-history was real.
+
+**Weapon-title review (2026-10-11):** `N-IIIγ-127`’s primary M.A.W. block and floating twelve-faced silvered-mirror prism Appearance, current `SE-127-B` heading/Appearance, Master Registry row, Master Codex table row 415, `MAW-W-127` archetype, and same-code title/Appearance revision `3abe5470` support *The Fractured Celestial Prism*. The linked item’s Official name and Resting/Active forms, plus detailed Master Codex Entry 415, still identify *The Broken Maul* and describe a mirrored maul head whose fractures open into black impact paths. No Maul-to-prism transition or second form is documented. The old item filename remains only as the link. Side-card numbers are unchanged.
 
 ---
 
