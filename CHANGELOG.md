@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 78 closed at 5 / 5 (2026-10-10).** Units 1–3 aligned supported weapon records. Unit 4’s copied Culverin form was corrected to the Marble Brand, but weapon numbers and the Suit physical-form conflict remain held; Unit 5’s cleaver/staff conflict remains held. All five per-dossier gate commits were pushed.
+
+- **Batch 78, unit 5 / 5 — Hollow Tree / Timber Maw `C-IVγ-205`.** Kept the primary/Side naming distinction. The primary and Entry 217 support the cleaver; Side/item describe a staff, and the primary block itself contains both profiles without a documented transition. Weapon remains held; the Suit’s shorter “Hollow Mantle” label remains a supported shorthand by Appearance.
+
 - **Batch 78, unit 4 / 5 — The Rage Statue `C-IIIγ-190`.** The linked Weapon Codex's Culverin name/Appearance duplicated Ember Phoenix's primary and its master-index assignment; corrected the item identity and Appearance to the Marble Brand supported by the Rage Statue primary, Side set, and Entry 67. The primary vs Side/item numeric profiles remain held (maximum/cost agree); the Suit's Apron/Cuirass vs Gauntlet physical-language conflict also remains held.
 
 - **Batch 78, unit 3 / 5 — Unrung `C-IIβ-170`.** The primary’s Orrery title/Appearance duplicated Aphonia’s existing Orrery block; Unrung’s item identity and Side card supply the Muffled Resonance-Bell / Silence Hammer stats; master Entry 130 confirms the canonical name and Reliquary/Bell classification. Corrected the primary and linked item to the single-target Void 5–9, Normal 2, Short 2 hammer; clarified the Side-card alias and hearing checks. Master Entry 130 was already consistent.
