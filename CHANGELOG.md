@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 78, unit 4 / 5 — The Rage Statue `C-IIIγ-190`.** The linked Weapon Codex's Culverin name/Appearance duplicated Ember Phoenix's primary and its master-index assignment; corrected the item identity and Appearance to the Marble Brand supported by the Rage Statue primary, Side set, and Entry 67. The primary vs Side/item numeric profiles remain held (maximum/cost agree); the Suit's Apron/Cuirass vs Gauntlet physical-language conflict also remains held.
+
 - **Batch 78, unit 3 / 5 — Unrung `C-IIβ-170`.** The primary’s Orrery title/Appearance duplicated Aphonia’s existing Orrery block; Unrung’s item identity and Side card supply the Muffled Resonance-Bell / Silence Hammer stats; master Entry 130 confirms the canonical name and Reliquary/Bell classification. Corrected the primary and linked item to the single-target Void 5–9, Normal 2, Short 2 hammer; clarified the Side-card alias and hearing checks. Master Entry 130 was already consistent.
 
 - **Batch 78, unit 2 / 5 — Rem `C-IIβ-135`.** The primary, master Entry 127, and linked-item Appearance support the three levitating prisms and their Range 4 trajectories. I aligned the conflicting blade identity, statistics, and Side card to the prism profile, including its three-vector attack and recorded falloff; the primary block was already consistent.
