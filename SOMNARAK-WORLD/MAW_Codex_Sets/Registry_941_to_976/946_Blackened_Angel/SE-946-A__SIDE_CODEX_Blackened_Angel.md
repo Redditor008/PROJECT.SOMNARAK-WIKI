@@ -50,6 +50,8 @@ During the The Blackened Angel Source-Trace, the field team preserved this sourc
 | The Gilded Shroud | γ; L/G/V/W 1.1 (Weak)/1 (Normal)/1.2 (Weak)/0.3 (Resistant); max 3; 28 Sorrow Echoes | `SE-946-C__MAW-S_The_Gilded_Shroud.md` |
 | The Blue-Black Tear | γ; Hand; 4%; +2 stat bonus when working the source entity | `SE-946-D__MAW-G_The_Blue_Black_Tear.md` |
 
+**Weapon-range hold:** The primary gives Range 2 (Medium) for *The Tarnish Plume*; `SE-946-B` and this Side set row give Range 3 (Medium). Weight 7–12, Speed 2 (Normal), maximum 3, and 30 Sorrow Echoes agree. The Side row summarizes the linked item's profile rather than providing a separate reach measurement. The primary's plume-tipped haft and the item's “medium range” prose give no measured reach that selects 2 or 3. The master registry marks damage variable and speed/range unset, with maximum/cost `N/A`; archetype `MAW-W-946` indexes a MELEE / CLOSE Heavy Lead Cestus (Close), without an explicit crosswalk to `MAW-W-946-01` or the Plume form. The primary's omission of pattern/falloff fields is not treated as a defect. No source resolves the numeric difference or establishes separate forms; hold range without changing any value.
+
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Blackened Angel's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand The set cannot heal the originating event. Misuse routes Blackened Angel's wound through the operator and triggers the recorded escalation.
