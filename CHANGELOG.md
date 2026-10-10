@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 78, unit 2 / 5 — Rem `C-IIβ-135`.** The primary, master Entry 127, and linked-item Appearance support the three levitating prisms and their Range 4 trajectories. I aligned the conflicting blade identity, statistics, and Side card to the prism profile, including its three-vector attack and recorded falloff; the primary block was already consistent.
+
 - **Batch 78 opened at five (2026-10-10), unit 1 / 5 — Emberling `C-IIβ-101`.** The primary, master Entry 121, and linked item's Appearance support the Cinder-Breech Carbine and its three-ember Range 4 attack. I aligned the conflicting blade identity, item statistics, and Side card to that documented carbine profile; the already-supported primary block is unchanged.
 
 - **Batch 77 closed at five (2026-10-10), unit 5 / 5 — Hollow Tree / Timber Maw `C-IVγ-205`.** The primary and master Entry 217 identify the Ravenous Timber-Jaw cleaver; the Side and linked item describe a different staff form with no documented transition, so the Weapon remains held. The Side Suit’s *The Hollow Mantle* is supported as a possible shorthand by the item’s mantle Appearance, and Unrung’s *The Silence Veil* is used descriptively in its own item record; neither was renamed. R-19 applies, but all five entities were already classified Neutral with dossier evidence, so the index did not change. Across the five dossiers, three non-weapon corrections were confirmed and all five Weapon profiles remain held.

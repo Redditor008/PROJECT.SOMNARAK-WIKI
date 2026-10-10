@@ -87,6 +87,8 @@ This comparison began as a standalone audit. On 2026-10-10, the owner explicitly
 
 **Unit 1 / 5 — Emberling `C-IIβ-101`:** the primary, master Entry 121, and linked item’s own Appearance identify the 85cm Cinder-Breech Carbine, its lever-fed ember burst, and three high-velocity projectiles reaching Range 4. The linked item's Resting/Active identity and statistics, plus the Side card, instead described a short blue blade and a Single strike. I aligned those M.A.W. records to the carbine profile: Lament 6–11, Normal 3, Long 4, forward cone up to three targets, and 100% / 60% impact falloff; the already-supported primary weapon block was not changed.
 
+**Unit 2 / 5 — Rem `C-IIβ-135`:** the primary, master Entry 127, and the linked item’s Appearance show three telekinetically suspended prisms launching across Range 4 and returning to orbit. The linked identity and Core Statistics, repeated by the Side card, described a short blue blade; I aligned those two M.A.W. records to the documented prism profile: Lament 6–10, Fast 4, Long 4, Tri-Prism Dart / Somnolent Orbit, and the recorded single-target or three-vector coverage and falloff. The primary block was already consistent and remains unchanged.
+
 
 **Unit 2 / 3 — Broken Clock `C-IIIγ-044` (held).** The primary and linked item describe the same 135 cm two-handed brass polearm. The primary gives Weight 11–18, Slow 2, and Overhand Arc / Temporal Impact; the Side and item give Weight 7–12, Fast 3, and Skewer. The item documents no alternate form or base-versus-special stat split, and the master listing has no numeric profile. No value changed.
 

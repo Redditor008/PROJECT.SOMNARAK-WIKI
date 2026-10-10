@@ -97,13 +97,15 @@ The set allows controlled Dream contact. Its cost is the slow fading of waking d
 
 | Field | Record |
 |---|---|
-| Damage | Lament 5–9 |
-| Speed / Range | 2 — Normal / 2 — Short |
-| Attack Pattern | Single — one designated target |
+| Damage | Lament 6–10 |
+| Speed / Range | 4 — Fast / 4 — Long (4–12m) |
+| Attack Pattern | Tri-Prism Dart / Somnolent Orbit |
+| Target Coverage | Designated single target or 3 converging vectors |
+| Falloff Rule | Single target 100% → split vector 65% per prism |
 | Maximum Amount / Echo Cost | 4 — Limited / 25 Sorrow Echoes |
 | Primary Cost | The bearer carries the fragment’s unwept grief and may weep after use. |
 
-**Quick effect:** The Requiem calms one Dream-bound Lament surge long enough for a person to recognize a waking exit.
+**Quick effect:** Three levitating prisms interrupt one Dream-bound Lament surge long enough for a person to recognize a waking exit.
 
 ---
 
