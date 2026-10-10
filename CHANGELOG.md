@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 78, unit 3 / 5 — Unrung `C-IIβ-170`.** The primary’s Orrery title/Appearance duplicated Aphonia’s existing Orrery block; Unrung’s item identity and Side card supply the Muffled Resonance-Bell / Silence Hammer stats; master Entry 130 confirms the canonical name and Reliquary/Bell classification. Corrected the primary and linked item to the single-target Void 5–9, Normal 2, Short 2 hammer; clarified the Side-card alias and hearing checks. Master Entry 130 was already consistent.
+
 - **Batch 78, unit 2 / 5 — Rem `C-IIβ-135`.** The primary, master Entry 127, and linked-item Appearance support the three levitating prisms and their Range 4 trajectories. I aligned the conflicting blade identity, statistics, and Side card to the prism profile, including its three-vector attack and recorded falloff; the primary block was already consistent.
 
 - **Batch 78 opened at five (2026-10-10), unit 1 / 5 — Emberling `C-IIβ-101`.** The primary, master Entry 121, and linked item's Appearance support the Cinder-Breech Carbine and its three-ember Range 4 attack. I aligned the conflicting blade identity, item statistics, and Side card to that documented carbine profile; the already-supported primary block is unchanged.

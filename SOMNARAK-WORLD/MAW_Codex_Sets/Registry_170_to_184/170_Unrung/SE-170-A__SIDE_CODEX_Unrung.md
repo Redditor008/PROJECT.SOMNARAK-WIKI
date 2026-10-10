@@ -93,7 +93,7 @@ The original Bell is an I-Relic. Its M.A.W. set records released silence echoes,
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Silence Hammer
+### M.A.W. Weapon — The Muffled Resonance-Bell (Silence Hammer)
 
 | Field | Record |
 |---|---|
@@ -101,7 +101,7 @@ The original Bell is an I-Relic. Its M.A.W. set records released silence echoes,
 | Speed / Range | 2 — Normal / 2 — Short |
 | Attack Pattern | Single — one designated target |
 | Maximum Amount / Echo Cost | 4 — Limited / 25 Sorrow Echoes |
-| Primary Cost | The bearer cannot hear while the silence field persists. |
+| Primary Cost | The bearer cannot hear while the field persists; hearing checks follow at one hour and one day. |
 
 **Quick effect:** The Hammer creates a bounded silence field that isolates a warning pressure long enough for a response partner to hear what matters outside it.
 

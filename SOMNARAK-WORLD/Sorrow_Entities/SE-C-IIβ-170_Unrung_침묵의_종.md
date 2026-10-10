@@ -207,26 +207,26 @@ There has been no event. What is recorded as escalation here is the delay length
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
-### M.A.W. Weapon — The Resonant Echo-Orrery
+### M.A.W. Weapon — The Muffled Resonance-Bell
 
-**Category:** FANTASY (Harmonic Brass Planetary Orrery)
+**Category:** RELIQUARY (Censer/Bell — Void Han-glass bell-headed hammer)
 **Grade:** β | **Element:** Void
-**Damage:** Void 6–10
-**Speed:** 3 (Normal)
-**Range:** 4 (Long: 4–8m)
+**Damage:** Void 5–9
+**Speed:** 2 (Normal)
+**Range:** 2 (Short)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Attack Pattern:** Directional Chime / Deafening Han Wave
-**Target Coverage:** Linear line up to 8m
-**Falloff Rule:** 100% direct damage to primary, 70% acoustic reverberation to adjacent targets.
-**Damage Application:** Multiplier to direct and Tick damage separately. The Tick is measured in the seconds a target's own speech takes to reach the person beside them, and it outlasts the direct damage in every recorded use.
+**Attack Pattern:** Single
+**Target Coverage:** One designated target
+**Falloff Rule:** None; 100% direct damage to the selected target only.
+**Damage Application:** Direct Void damage to the selected target; the bounded silence is a control effect, not an additional damage Tick.
 
-Appearance : A hovering mechanical assembly of five polished brass planetary globes mounted on curved wire arms, revolving in silence around a central quartz crystal sphere.
+Appearance : A Void Han-glass hammer with a bell-shaped hollow inside its head; no clapper moves or sounds while it rests.
 
-Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat. Aligning all five planets unleashes a focused harmonic cone that shatters crystalline structures.
+A direct strike releases a single pale impact circle that swallows nearby sound within a defined space around the selected warning-pressure target.
 
-**Ability:** *Acoustic Nullification* — Deals Void damage across Range 4 (Long). Emits a directional sound-canceling wave that disrupts enemy chanting, casting, and verbal coordination for 2 turns.
+**Ability:** *Hear Outside* — *Mute Ring* strikes one active warning-pressure target and creates a bounded silence field around it. The field separates its warning from surrounding sound while the external partner receives and records the signal.
 
 **Cost:** The wielder hears nothing while the field holds, and for roughly an hour afterwards hears everything a half-second late. The armoury's note records that bearers describe the second part as worse.
 
@@ -268,7 +268,7 @@ Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat
 
 ### M.A.W. Use Notes
 
-Everything in the set exists so that a warning arrives in time: an orrery that strips a target of verbal coordination, a cassock that holds a worker's account intact until they can give it, a pin that chills when its bearer is about to leave something unsaid and whose written warnings the duty desk accepts without countersignature. The armoury's note records that nothing in the set was designed, that the pieces were gathered across forty years, and that the fourth attempt — a relay meant to carry a warning past a silent desk automatically, without any person deciding — performed to its specification exactly and was destroyed at the directorate's insistence.
+Everything in the set exists so that a warning arrives in time: a bell-headed hammer that creates bounded silence around one active warning-pressure target while an external partner listens, a cassock that holds a worker's account intact until they can give it, and a pin that chills when its bearer is about to leave something unsaid and whose written warnings the duty desk accepts without countersignature. The armoury's note records that nothing in the set was designed, that the pieces were gathered across forty years, and that the fourth attempt — a relay meant to carry a warning past a silent desk automatically, without any person deciding — performed to its specification exactly and was destroyed at the directorate's insistence.
 
 ### Field Use Record
 
