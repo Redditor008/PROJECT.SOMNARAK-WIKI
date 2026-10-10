@@ -85,7 +85,7 @@ The original Redcage is an I-Relic. Its M.A.W. set forms from released Grudge ec
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Cage Fang | γ | Grudge | Piercing response to active coercive confinement | `SE-120-B__MAW-W_The_Cage_Fang.md` |
+| Weapon | The Wrath-Ember Censer | γ | Grudge | Breaks a coercive barrier only when a safe, accountable release route is named | `SE-120-B__MAW-W_The_Cage_Fang.md` |
 | Suit | The Cage Shield | γ | Grudge | Rage defense that requires acknowledgment rather than retaliation | `SE-120-C__MAW-S_The_Cage_Shield.md` |
 | Stigma | The Cage Charm | γ | Grudge | Detects an operational barrier that is trapping someone unjustly | `SE-120-D__MAW-G_The_Cage_Charm.md` |
 
@@ -93,7 +93,7 @@ The original Redcage is an I-Relic. Its M.A.W. set forms from released Grudge ec
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Cage Fang
+### M.A.W. Weapon — The Wrath-Ember Censer
 
 | Field | Record |
 |---|---|
@@ -104,7 +104,9 @@ The original Redcage is an I-Relic. Its M.A.W. set forms from released Grudge ec
 | Maximum Amount / Echo Cost | 3 — Standard / 40 Sorrow Echoes |
 | Primary Cost | Old wounds ache and prolonged use leaves crimson bruising. |
 
-**Quick effect:** The Fang strikes through an active coercive barrier only when a real route of release has been identified.
+**Quick effect:** The Skewer strike opens an unjust barrier only when a safe receiving route and accountable release authority are named; it does not decide legal innocence or license retaliation.
+
+**Weapon-title review (2026-10-11):** `C-IIIγ-120`’s primary M.A.W. block and spiked, chain-suspended iron Censer Appearance, the current `SE-120-B` heading/Appearance, Master Registry, `MAW-W-120` archetype, and same-code revision `3abe5470` support *The Wrath-Ember Censer*. Master table/detailed Entry 55 and the linked item’s Official name, Resting/Active forms, and Fang-specific attack prose still identify *The Cage Fang*; keep that identity/form conflict held, with no Fang-to-Censer transition inferred. A separate cross-dossier duplication also remains unresolved: The Wrath Flame `O-IIIβ-120` primary repeats the same Censer title/Appearance with a different β/Single profile, while its Master Codex detail and registry say *The Rage Fang* and its `MAW-W-1012` archetype says notched seax. No shared-item relationship is documented; do not import its profile or treat it as corroboration. The old item filename remains only as the linked path. Side-card numbers are unchanged.
 
 ---
 
