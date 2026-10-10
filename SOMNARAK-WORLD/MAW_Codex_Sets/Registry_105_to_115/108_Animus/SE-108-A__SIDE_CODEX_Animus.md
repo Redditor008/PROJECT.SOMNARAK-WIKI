@@ -85,7 +85,7 @@ The set reads emotional residue and protects against its Grudge. It cannot resto
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Trace Fang | α | Grudge | Small direct response to active residue pressure | `SE-108-B__MAW-W_The_Trace_Fang.md` |
+| Weapon | The Phantom Blade-Array | α | Grudge | Tracks active Grudge residue to one target without assigning blame or identifying a culprit | `SE-108-B__MAW-W_The_Trace_Fang.md` |
 | Suit | The Trace Plate | α | Grudge | Low-grade protection against inherited Grudge | `SE-108-C__MAW-S_The_Trace_Plate.md` |
 | Stigma | The Trace Ember | α | Grudge | Reveals emotional residue without a false causal story | `SE-108-D__MAW-G_The_Trace_Ember.md` |
 
@@ -93,7 +93,7 @@ The set reads emotional residue and protects against its Grudge. It cannot resto
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Trace Fang
+### M.A.W. Weapon — The Phantom Blade-Array
 
 | Field | Record |
 |---|---|
@@ -103,7 +103,9 @@ The set reads emotional residue and protects against its Grudge. It cannot resto
 | Maximum Amount / Echo Cost | 5 — Standard / 15 Sorrow Echoes |
 | Primary Cost | Old wounds ache and repeated use leaves faint bruising. |
 
-**Quick effect:** The Fang marks active residue pressure without converting the residue into a claim about who deserves blame.
+**Quick effect:** One of the three knives marks active residue pressure and distinguishes a present response from clinging past Grudge; it does not establish responsibility.
+
+**Weapon-title review (2026-10-11):** `O-Iα-108`’s primary M.A.W. block, the current `SE-108-B` heading and three-knife Appearance, the Master Registry and table row, the `MAW-W-108` archetype, and same-code revision `3abe5470` support *The Phantom Blade-Array*. Master M.A.W. Codex Entry 694 and the linked item’s Official name, Resting / Active forms, and Fang-specific Basic Attack / History still call it *The Trace Fang* and describe a red-thread/fang form. Keep that legacy identity/form conflict held; no Trace-Fang-to-three-knives transition or separate fang mode is inferred. The old item filename remains only as the linked path. Side-card numbers are unchanged.
 
 ---
 
