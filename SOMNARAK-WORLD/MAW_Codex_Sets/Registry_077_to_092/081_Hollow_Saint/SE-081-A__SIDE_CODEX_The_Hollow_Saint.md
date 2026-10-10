@@ -85,7 +85,7 @@ These pieces are not instruments for removing difficult people from difficult fe
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Hollow Lens | γ | Void | Piercing interruption of identity pressure | `SE-081-B__MAW-W_The_Hollow_Lens.md` |
+| Weapon | The Hollow Sceptre | γ | Void | Piercing interruption of identity pressure | `SE-081-B__MAW-W_The_Hollow_Lens.md` |
 | Suit | The Hollow Veil | γ | Void | Protection that depends on retaining self-definition | `SE-081-C__MAW-S_The_Hollow_Veil.md` |
 | Stigma | The Hollow Chalice | γ | Void | Conditional removal of a named sorrow | `SE-081-D__MAW-G_The_Hollow_Chalice.md` |
 
@@ -93,18 +93,21 @@ These pieces are not instruments for removing difficult people from difficult fe
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Hollow Lens
+### M.A.W. Weapon — The Hollow Sceptre
 
 | Field | Record |
 |---|---|
-| Damage | Void 7–12 |
-| Speed / Range | 3 — Fast / 3 — Medium |
-| Attack Pattern | Skewer — three targets maximum |
+| Damage | Void 8–14 |
+| Speed / Range | 3 — Normal / 4 — Long |
+| Attack Pattern | Line Skewer / Ultrasonic Beam |
+| Target Coverage | Up to three aligned targets |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount / Echo Cost | 3 — Standard / 40 Sorrow Echoes |
 | Primary Cost | Each use loosens a small, nameless memory from the bearer. |
 
 **Quick effect:** A pale line opens through active identity pressure; it is most stable when used to make room for a person to speak for themself, not to empty them.
+
+**Linked-item terminology hold (2026-10-10):** The current `SE-081-B` heading, identity table, resting/active forms, Appearance and Core Statistics, the primary weapon block, the master-registry name and archetype identify a Sceptre. Its extraction result, rejection rule, Basic Attack, Signature Ability, and maintenance/set prose still use “Lens”. Revision `b2c35a2f` replaced the earlier Lens identity, appearance and combat profile with the Sceptre, but left those references. No separate Lens form or transition is documented. Preserve the residual wording as an unresolved terminology hold; it does not restore the old 7–12 / Fast 3 / Medium 3 profile. The linked item’s old `Hollow_Lens` filename remains a path, not the current name.
 
 ---
 
