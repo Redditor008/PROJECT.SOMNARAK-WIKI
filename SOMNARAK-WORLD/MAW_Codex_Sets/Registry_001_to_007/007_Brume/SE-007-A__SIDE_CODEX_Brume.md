@@ -75,7 +75,7 @@ Every Brume team must carry a physical route anchor, a Memory Anchor, and a manu
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Hope Lens | γ | Void | Piercing identity pressure that reveals false routes | `SE-007-B__MAW-W_The_Hope_Lens.md` |
+| **Weapon** | The Horizon Blade | γ | Void | Cuts a false directional layer; cannot create a destination | `SE-007-B__MAW-W_The_Hope_Lens.md` |
 | **Suit** | The Hope Veil | γ | Void | Protects a bearer from fog-induced self-loss | `SE-007-C__MAW-S_The_Hope_Veil.md` |
 | **Stigma** | The Hope Lantern | γ | Void | Gives a directional anchor against despair fields | `SE-007-D__MAW-G_The_Hope_Lantern.md` |
 
@@ -91,11 +91,13 @@ The Hope Set is not hope as comfort. It is hope as an operational decision: a re
 
 **Cost:** If the named destination is false, abandoned, or deliberately fabricated, the route line leads back to the bearer’s starting point and the Lantern goes dark for seven days.
 
+**Weapon-title review (2026-10-11):** The set row and compact-card heading now use *The Horizon Blade*. Primary `SE-O-IIγ-007`, the current `SE-007-B` heading and 34-inch arming-sword Appearance, the Master Registry, the master Codex table row, and `MAW-W-007` archetype support the title and form. Revision `3abe5470` retitled the same item code `MAW-W-007-01` and replaced its earlier pale Han-glass lens-disc Appearance with the sword. The master M.A.W. Codex detailed Entry 655 and the linked item’s Type, Bearer Requirement, Ability, Limit, and History still use “Hope Lens” / “Lens”; retain these as unresolved terminology, with no second Lens form inferred. The linked filename `SE-007-B__MAW-W_The_Hope_Lens.md` remains a path. The revised purpose describes the documented cut through a false directional layer without implying that the weapon creates a destination. Existing compact-card numbers are unchanged.
+
 ---
 
 ## PAGE 04 — COMPACT EQUIPMENT CARDS
 
-### The Hope Lens
+### The Horizon Blade
 
 | Field | Record |
 |---|---|
