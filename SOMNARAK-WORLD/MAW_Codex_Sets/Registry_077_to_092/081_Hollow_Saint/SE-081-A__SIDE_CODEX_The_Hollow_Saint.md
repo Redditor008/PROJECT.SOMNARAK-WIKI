@@ -100,7 +100,7 @@ These pieces are not instruments for removing difficult people from difficult fe
 | Damage | Void 8–14 |
 | Speed / Range | 3 — Normal / 4 — Long |
 | Attack Pattern | Line Skewer / Ultrasonic Beam |
-| Target Coverage | Up to three aligned targets |
+| Target Coverage | Up to 3 aligned targets |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount / Echo Cost | 3 — Standard / 40 Sorrow Echoes |
 | Primary Cost | Each use loosens a small, nameless memory from the bearer. |
