@@ -59,6 +59,8 @@ An echo forms after a full circuit ends and the witness names the farewell witho
 
 **Cards:** Maul Weight 5–9, Speed 2, Range 2, Single, maximum 4, 25 Echoes. Pane resistances 1.0 / 1.0 / 1.5 / 0.5, maximum 4, 20 Echoes. Charm Head, 5%, +1 Resolve.
 
+**Weapon-profile hold:** The primary *Glazed Mullion-Pike* and `SE-330-B` give the same 210 cm cruciform oak-mullion polearm with four glacial panes and a glass spear point; their Appearance paragraphs are verbatim, so they do not independently establish which stat line governs. The primary assigns Weight 7–12 / Normal 3 / Range 3 (Medium; 2.2 m reach plus 4 m frost-shatter) and describes a four-metre *Glazing Shatter-Lance*. The linked item's combat row and master row give Weight 5–9 / Measured 2 / Range 2 (Medium Reach) / Single; this Side card repeats Weight 5–9 / Speed 2 / Range 2 / Single. The item calls its barrier-breaking ability *Circuit Breaker*. The primary classifies the weapon as POLEARM / RANGE, while the item calls it MELEE. No source maps these to a base/special split or a separate form. The Side card calls its pike profile “Maul”; the item/master row name the Pike, while the `MAW-W-330` archetype row says “Lamentation Dirk” (short blade, Long band), with no crosswalk to this appearance. Hold the profile and form/label relationships; no disputed value or title is selected.
+
 ---
 
 ## RESONANCE — *The Last View Ends*
