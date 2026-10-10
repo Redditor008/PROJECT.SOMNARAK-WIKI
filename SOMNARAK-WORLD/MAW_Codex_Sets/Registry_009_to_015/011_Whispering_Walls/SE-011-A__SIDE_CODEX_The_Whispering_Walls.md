@@ -75,7 +75,7 @@ No mural may be restored, sealed, or demolished until an Archive listener has co
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Listening Requiem | α | Lament | Minor single-target Lament weapon that reveals hidden speech | `SE-011-B__MAW-W_The_Listening_Requiem.md` |
+| **Weapon** | The Occlusion Star-Chalice | α | Lament | Interrupts active concealment for one sentence; does not extract secrets, force confession, or establish truth | `SE-011-B__MAW-W_The_Listening_Requiem.md` |
 | **Suit** | The Listening Shroud | α | Lament | Lightweight protection against ambient whispers | `SE-011-C__MAW-S_The_Listening_Shroud.md` |
 | **Stigma** | The Listening Stone | α | Lament | Allows careful hearing of sorrow embedded in architecture | `SE-011-D__MAW-G_The_Listening_Stone.md` |
 
@@ -86,6 +86,8 @@ No mural may be restored, sealed, or demolished until an Archive listener has co
 **Effect:** One connected wall reveals its oldest preserved sentence.
 
 **Cost:** The bearer hears the sentence again whenever entering a silent room for the next seven nights.
+
+**Weapon-title review (2026-10-11):** The Side set row now uses *The Occlusion Star-Chalice*, supported by primary `C-Iα-011`, the current `SE-011-B` heading and obsidian-chalice Appearance, the Master Registry, `MAW-W-011` archetype, and revision `3abe5470`, which replaced the same `MAW-W-011-01` item's earlier short-blade Appearance with the chalice. The master M.A.W. Codex Entry 316 and linked-item Type/quote/Ability/History still use “Listening Requiem” or “blade”; preserve that remaining terminology as a hold. No source documents a separate blade form or transition. The linked filename `SE-011-B__MAW-W_The_Listening_Requiem.md` remains a path. The corrected purpose follows Truth Note's stated limits; this identity-only Side table carries no numeric profile, so none was added.
 
 ---
 
