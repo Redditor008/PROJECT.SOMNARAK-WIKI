@@ -81,7 +81,7 @@ The Eater’s use by Collectors does not make its result neutral. A debt can be 
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Debt Lens | β | Void | Identifies and cuts a single debt-linked identity thread | `SE-014-B__MAW-W_The_Debt_Lens.md` |
+| **Weapon** | The Debt Prism | β | Void | Reads a named obligation along line of sight; exposes its source without judging its justice | `SE-014-B__MAW-W_The_Debt_Lens.md` |
 | **Suit** | The Debt Veil | β | Void | Protects against debt-related Void extraction | `SE-014-C__MAW-S_The_Debt_Veil.md` |
 | **Stigma** | The Debt Scale | β | Void | Measures obligation and cost before action | `SE-014-D__MAW-G_The_Debt_Scale.md` |
 
@@ -92,6 +92,8 @@ The Eater’s use by Collectors does not make its result neutral. A debt can be 
 **Effect:** The target’s selected debt mark can be removed without the usual immediate memory numbness.
 
 **Cost:** The bearer receives a temporary trace of the debt until the record is filed and another person acknowledges the settlement.
+
+**Weapon-title review (2026-10-10):** The set row now follows *The Debt Prism* and its line-of-sight reading effect. The current primary, `SE-014-B` title, Item Identity, dodecahedral Void-glass Appearance and combat record, master-registry row, master Codex entry, and `MAW-W-014` archetype agree; revision `b2c35a2f` changed the same item from a handheld lens to the floating Prism and revised its combat profile. The row's linked filename `SE-014-B__MAW-W_The_Debt_Lens.md` remains a path. **Linked-item terminology hold:** `SE-014-B` still uses “Lens” in History of Use and Set Resonance. Preserve those references as unresolved vocabulary; no separate Lens form or transition is documented. This Side set table states no damage, speed, or range, so none was added.
 
 ---
 
