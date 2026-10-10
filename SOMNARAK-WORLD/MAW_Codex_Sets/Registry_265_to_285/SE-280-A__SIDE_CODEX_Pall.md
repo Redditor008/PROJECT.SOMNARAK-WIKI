@@ -77,6 +77,10 @@ An echo forms after an authorized wearer completes Ferrehan, remains identifiabl
 - **Tear Veil:** Lament 0.4 / Grudge 1.0 / Void 1.6 / Weight 0.8; maximum 4; 20 Echoes. It absorbs emotional attacks and expresses them as tears.
 - **Tear Charm:** Tail Stigma; 5%; +1 Clarity during source work. It preserves a personal grief marker; the bearer weeps in sleep.
 
+**Weapon identity/form hold:** The primary calls the weapon *The Surgeon's Cleaver* and describes a triangular surgical stiletto, but its pattern/Ability also specify a shield-bash and launched javelin; its Damage Application says the armoury lists the cleaver and keeps it in the outer room. The linked item's heading and this set row/master CSV use *The Weeping Veil-Pavise & Tear Javelin*, while the item introduction calls it a short singing blade and its Appearance describes a deep-blue singing chalice. This compact card instead calls it *Tear Requiem*; that name also occurs for separate weapon `MAW-W-041`. The master archetype index calls `MAW-W-280` *The Surgeon's Cleaver*, a mirror-polished square cleaver at Close. These records do not establish one physical form or canonical name.
+
+**Weapon profile hold:** The primary gives Lament 6–10, Slow 2, Medium 3, shield-bash/javelin, one target, 100% close impact / 80% javelin; the item gives Lament 5–9, Normal 2, Short 2, Single / 100%, and the Side card follows its 5–9 / 2 / 2 / Single values. Maximum 4 and 25 Echoes agree. The master CSV leaves damage variable and speed/range unset. No documented form transition or base-versus-special profile resolves the differences; no name, form, or disputed statistic is selected.
+
 ---
 
 ## PAGE 07 — RESONANCE PAGE
