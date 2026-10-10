@@ -77,7 +77,7 @@ No child-sized mannequins, abandoned toys, or unannounced injured personnel may 
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Embrace Fang | δ | Grudge | Turns protective force into a line-breaking strike | `SE-005-B__MAW-W_The_Embrace_Fang.md` |
+| **Weapon** | The Devotion Executioner-Cleaver | δ | Grudge | Close-range clamp and drag; brings a fleeing target back within reach | `SE-005-B__MAW-W_The_Embrace_Fang.md` |
 | **Suit** | The Embrace Plate | δ | Grudge | Carries physical protection at the cost of rigidity | `SE-005-C__MAW-S_The_Embrace_Plate.md` |
 | **Stigma** | The Embrace | δ | Grudge | Gives protective interception at dangerous emotional cost | `SE-005-D__MAW-G_The_Embrace.md` |
 
@@ -93,14 +93,15 @@ No child-sized mannequins, abandoned toys, or unannounced injured personnel may 
 
 ## PAGE 04 — COMPACT EQUIPMENT CARDS
 
-### The Embrace Fang
+### The Devotion Executioner-Cleaver
 
 | Field | Record |
 |---|---|
-| **Damage** | Grudge 10–15 |
-| **Speed / Range** | 3 — Fast / 3 — Medium |
-| **Pattern** | Skewer — up to 3 targets |
-| **Falloff** | 100% → 70% → 50% |
+| **Damage** | Grudge 12–18 |
+| **Speed / Range** | 4 — Fast / 1 — Close |
+| **Pattern** | Snapping Clamp / Visceral Drag |
+| **Coverage** | 1 designated target at point-blank range |
+| **Falloff** | 100% damage to the selected target; hooks and pulls it into Close range |
 | **Cost** | 50 Sorrow Echoes |
 
 ### The Embrace Plate
@@ -154,3 +155,7 @@ Safety without consent can become another form of harm. That is the entity’s e
 **Classification:** Restricted
 
 ---
+
+## LINKED-ITEM FORM HOLD — 2026-10-10
+
+The Side weapon card now follows the revised `SE-005-B` Devotion Executioner-Cleaver title and combat profile, which are also recorded in the primary block, Master Registry, and `MAW-W-005` archetype entry. The linked item’s **Item Identity** table still gives **Type:** Weapon — bone claw gauntlet and **Category:** PRIMAL (Rending Bone-Claw / Tendon Gauntlet), and its ability text still calls it “the Talon” and describes claws, while its heading and dual-paragraph Appearance describe a three-foot butcher cleaver. No separate talon form or transition is documented. The Side card is aligned to the post-overhaul profile; the residual linked-item form vocabulary remains held rather than treated as evidence for a second stat profile.
