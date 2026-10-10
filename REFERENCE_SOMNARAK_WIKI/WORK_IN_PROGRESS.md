@@ -99,6 +99,10 @@ This comparison began as a standalone audit. On 2026-10-10, the owner explicitly
 
 **Batch 78 close:** Units 1–3 aligned the linked weapon records to the supported primary profiles. Unit 4’s copied Culverin identity/Appearance was corrected to the Marble Brand, while numeric and Suit-form conflicts remain held. Unit 5’s cleaver/staff conflict remains held. All five dossier units have passed their per-unit gate and were pushed to the assigned branch.
 
+**Batch 79 — OPEN at 3 (2026-10-10).** Interpreting the owner’s “P” as continuing the individual Weapon review, I selected three already-recorded open cases without padding: Sorrow Fountain `C-IIIγ-088`, Briar `C-IIIγ-145`, and Pall `C-IIβ-280`.
+
+**Unit 1 / 3 — The Sorrow Fountain `C-IIIγ-088`:** the primary, item heading/Official name, Side set row, and master Entry 43 name the *Weeping Basin-Aspergillum*. Its detailed Appearance in the primary and item is identical and describes a fluid-delivery wand-mace, while the item’s Resting/Active fields, Side card, and combat prose describe a blade; the Side card also used *The Sorrow Requiem*, a title present in Mourner’s Bloom’s weapon records. The primary’s numeric profile is Lament 10–16, Normal 3, Long 4, 60-degree cone up to four targets, 100% / 75%; item and Side give 7–12, Fast 3, Medium 3, Skewer, 100% → 70% → 50%. Master Entry 43 confirms the canonical Basin name but its index category is Reliquary — Censer/Bell, unlike the primary’s Magic/Blunt label, and supplies no numbers. With no documented form transition or base/special split, I changed only the Side-card title to the canonical name and marked the profile held; no statistics or physical form were selected. The separate Stigma slot conflict was not changed in this Weapon unit.
+
 
 **Unit 2 / 3 — Broken Clock `C-IIIγ-044` (held).** The primary and linked item describe the same 135 cm two-handed brass polearm. The primary gives Weight 11–18, Slow 2, and Overhand Arc / Temporal Impact; the Side and item give Weight 7–12, Fast 3, and Skewer. The item documents no alternate form or base-versus-special stat split, and the master listing has no numeric profile. No value changed.
 

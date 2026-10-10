@@ -93,7 +93,7 @@ The Fountain gives no M.A.W. to a person who tries to take its water. The set fo
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Sorrow Requiem
+### M.A.W. Weapon — The Weeping Basin-Aspergillum
 
 | Field | Record |
 |---|---|
@@ -105,6 +105,8 @@ The Fountain gives no M.A.W. to a person who tries to take its water. The set fo
 | Primary Cost | Unwept grief gathers in the bearer and eventually forces tears. |
 
 **Quick effect:** The singing blade sends a blue line through a group and makes the pain being carried visible enough to be acknowledged.
+
+**Weapon profile hold:** The canonical Basin-Aspergillum name appears in the primary, item identity, Side set table, and master Entry 43; its detailed Appearance is a fluid-delivery wand-mace (the primary and item Appearance repeat the same description). The item’s Resting/Active fields, this card’s 7–12 / Fast 3 / Medium 3 / Skewer line, and blade wording instead describe a blade. The primary gives 10–16 / Normal 3 / Long 4, a 60-degree cone up to four targets, and 100% / 75% cone falloff; the master index classifies the item as Reliquary — Censer/Bell and supplies no numbers. No form transition or base-versus-special split resolves these records. Only the card title was aligned; the profile remains held.
 
 ---
 

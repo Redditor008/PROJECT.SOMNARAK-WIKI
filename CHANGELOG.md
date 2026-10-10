@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+- **Batch 79 opened at three (2026-10-10), unit 1 / 3 — The Sorrow Fountain `C-IIIγ-088`.** Aligned the Side Weapon card’s title to the Basin-Aspergillum identity already used by the primary, linked-item identity, Side set table, and master Entry 43. The blade/wand-mace and numeric profiles remain held; no value was selected.
+
 - **Batch 78 closed at 5 / 5 (2026-10-10).** Units 1–3 aligned supported weapon records. Unit 4’s copied Culverin form was corrected to the Marble Brand, but weapon numbers and the Suit physical-form conflict remain held; Unit 5’s cleaver/staff conflict remains held. All five per-dossier gate commits were pushed.
 
 - **Batch 78, unit 5 / 5 — Hollow Tree / Timber Maw `C-IVγ-205`.** Kept the primary/Side naming distinction. The primary and Entry 217 support the cleaver; Side/item describe a staff, and the primary block itself contains both profiles without a documented transition. Weapon remains held; the Suit’s shorter “Hollow Mantle” label remains a supported shorthand by Appearance.
