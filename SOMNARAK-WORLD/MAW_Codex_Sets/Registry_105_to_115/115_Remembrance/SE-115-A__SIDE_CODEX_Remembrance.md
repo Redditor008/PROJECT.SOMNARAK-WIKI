@@ -85,7 +85,7 @@ This set records, protects, and replays memory. It may not be used to turn a lif
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Memory Lens | γ | Void | Piercing defense against invasive memory pressure | `SE-115-B__MAW-W_The_Memory_Lens.md` |
+| Weapon | The Shard-Storm Reel | γ | Void | Severs invasive memory pressure and returns its echo to approved custody without giving the bearer its contents | `SE-115-B__MAW-W_The_Memory_Lens.md` |
 | Suit | The Memory Veil | γ | Void | Identity protection during supervised memory exposure | `SE-115-C__MAW-S_The_Memory_Veil.md` |
 | Stigma | The Memory Flask | γ | Void | One consent-bound memory replay | `SE-115-D__MAW-G_The_Memory_Flask.md` |
 
@@ -93,7 +93,7 @@ This set records, protects, and replays memory. It may not be used to turn a lif
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Memory Lens
+### M.A.W. Weapon — The Shard-Storm Reel
 
 | Field | Record |
 |---|---|
@@ -104,7 +104,9 @@ This set records, protects, and replays memory. It may not be used to turn a lif
 | Maximum Amount / Echo Cost | 3 — Standard / 40 Sorrow Echoes |
 | Primary Cost | The bearer loses small, nameless memories with each use. |
 
-**Quick effect:** The Lens cuts an invasive memory pressure without turning the target’s past into a resource for the bearer.
+**Quick effect:** The Reel severs invasive memory pressure and routes the echo to approved Archive custody; the bearer does not retain its contents.
+
+**Weapon-title review (2026-10-11):** `C-IIIγ-115`’s primary M.A.W. block, the current `SE-115-B` heading and reel-with-glass-shards Appearance, the Master Registry, the `MAW-W-115` archetype, and same-code revision `3abe5470` support *The Shard-Storm Reel*. Master M.A.W. Codex Entry 52 and its table row, plus the linked item’s Official name, Resting / Active forms, and Lens-specific attack/history wording, still say *The Memory Lens*; keep the legacy identity/form conflict held, with no Lens-to-Reel transition or second form inferred. The master table also places *The Shard-Storm Reel* under Broken Fragment `SE-O-IVδ-115`, while detailed Entry 658 says *The Fragment Maul*; preserve that cross-entry index discrepancy without editing the master. The old item filename remains only as the linked path. Side-card numbers are unchanged.
 
 ---
 
