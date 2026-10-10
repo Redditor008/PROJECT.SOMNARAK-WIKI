@@ -106,6 +106,8 @@ The set protects a bearer through grief that has no villain. Its cost is the emo
 
 **Quick effect:** The Requiem gives grief a recognized path through a target without turning a natural ending into an injury to be fixed.
 
+**Weapon profile hold:** The primary and linked `SE-140-B` name *The Weeping Willow War-Scythe* and describe the same long-hafted petrified-willow scythe, crescent Lament-crystal head, flexible crystal tendrils, and broad reaping motion. Both record Lament 9–15, Normal 3, Medium 3, Reaping Arc / Cascading Sigh, up to three targets, and 100% → 70% → 50% falloff. This Side card instead calls it *The Willow Requiem* and records Lament 7–12, Fast 3, Medium 3, Skewer up to three targets, with the same falloff; it gives no separate physical Appearance. The item's basic attack and signature ability also describe a blue Skewer line, but no source maps the Side values to a separate form or ability profile. The archetype index assigns `MAW-W-140` a Short band while the primary, item, and Side stat card say Medium; the master registry supplies no fixed damage/speed/range. No profile, name, or reach value is selected; the conflicting records remain as written.
+
 ---
 
 ## PAGE 05 — SUIT STAT CARD
